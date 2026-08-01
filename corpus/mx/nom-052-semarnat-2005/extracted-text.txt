@@ -1,0 +1,1663 @@
+NORMA Oficial Mexicana NOM-052-SEMARNAT-2005, Que establece las características, el procedimiento de
+identificación, clasificación y los listados de los residuos peligrosos.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Medio
+Ambiente y Recursos Naturales.
+      JOSE RAMON ARDAVIN ITUARTE, Subsecretario de Fomento y Normatividad Ambiental de la
+Secretaría de Medio Ambiente y Recursos Naturales, y Presidente del Comité Consultivo Nacional de
+Normalización de Medio Ambiente y Recursos Naturales, con fundamento en lo dispuesto en los artículos 32
+Bis fracciones I, II, IV y V de la Ley Orgánica de la Administración Pública Federal; 6o. fracción XIX y 8o.
+fracción V del Reglamento Interior de la Secretaría de Medio Ambiente y Recursos Naturales; 1o., fracciones
+I, II, III y VI, 5o., fracciones V y VI, 36, 37 Bis, 150, 151, 160 y 171 de la Ley General del Equilibrio Ecológico
+y la Protección al Ambiente; 7o. fracción II, 15, fracciones I, III, 16, 22, 31, 42, 43, 45 y 67 fracción VIII de la
+Ley General para la Prevención y Gestión Integral de los Residuos; 4o. fracción I del Reglamento de la Ley
+General del Equilibrio Ecológico y la Protección al Ambiente en materia de Residuos Peligrosos; 38 fracción
+II, 40, fracciones X, XIII y XVII, 47 fracción I, 51 y 73 de la Ley Federal sobre Metrología y Normalización; 33
+y 40, fracciones III y IV del Reglamento de la Ley Federal sobre Metrología y Normalización, y
+                                                CONSIDERANDO
+    Que las disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de la Ley
+General para la Prevención y Gestión Integral de los Residuos son de orden público e interés social y tienen
+por objeto propiciar el desarrollo sustentable y establecer, entre otras, las bases para garantizar el derecho
+de toda persona a vivir en un medio ambiente adecuado para su desarrollo, salud y bienestar; definir los
+principios de la política ambiental y los instrumentos para su aplicación; la preservación, la restauración y el
+mejoramiento del ambiente, así como la prevención y el control de la contaminación del aire, agua y suelo.
+    Que los citados ordenamientos legales establecen que las normas oficiales mexicanas contendrán, entre
+otros temas, los listados que clasifiquen los materiales y residuos peligrosos considerando sus
+características.
+     Que con fecha 22 de octubre de 1993 se publicó en el Diario Oficial de la Federación la Norma Oficial
+Mexicana NOM-CRP-001-ECOL/1993, Que establece las características de los residuos peligrosos, el
+listado de los mismos y los límites que hacen a un residuo peligroso por su toxicidad al ambiente; dicha
+Norma mediante acuerdo secretarial publicado en el Diario Oficial de la Federación el 29 de noviembre de
+1994, actualizó su nomenclatura quedando como NOM-052-ECOL-1993.
+    Que los residuos peligrosos se han diversificado en la medida que se modifican o presentan nuevos
+procesos de extracción, transformación, producción, uso y tratamiento, por lo que se hizo necesario revisar
+la NOM-052-ECOL-1993, acorde a las modificaciones de la legislación aplicable.
+    Que con fecha 22 de octubre de 1999, se publicó en el Diario Oficial de la Federación el Proyecto de
+Norma Oficial Mexicana PROY-NOM-052-ECOL-1999, Que establece las características, el procedimiento de
+identificación, clasificación y el listado de los residuos peligrosos con el fin de que los interesados dentro del
+plazo legal que establece la ley en la materia presentaran sus comentarios ante el Comité Consultivo
+Nacional de Normalización para la Protección Ambiental; que durante el citado plazo, los interesados
+presentaron sus comentarios y modificaciones al proyecto en cuestión, que al ser analizados algunos se
+consideraron procedentes y como consecuencia se hicieron modificaciones sustanciales al mismo.
+    Que derivado de lo anterior, el mencionado Comité, en cumplimiento con lo establecido por el artículo 33
+del Reglamento de la Ley Federal sobre Metrología y Normalización, determinó someter el proyecto
+modificado al periodo de consulta pública, bajo la denominación de PROY-NOM-052-ECOL-2001, Que
+establece las características, el procedimiento de identificación, clasificación y el listado de los residuos
+peligrosos.
+    Que el PROY-NOM-052-ECOL-2001, Que establece las características, el procedimiento de
+identificación, clasificación y el listado de los residuos peligrosos, de conformidad con los preceptos antes
+invocados, se publicó a consulta pública el 26 de julio de 2002, a efecto de que los interesados, dentro de los
+60 días naturales siguientes a la publicación en el Diario Oficial de la Federación, emitieran sus comentarios
+ante el Comité Consultivo Nacional de Normalización de Medio Ambiente y Recursos Naturales, sito en
+Bulevar Adolfo Ruiz Cortines número 4209, piso 5o., colonia Jardines en la Montaña, código postal 14210,
+Delegación Tlalpan, México, D.F., vía fax 5628-0632 o al correo electrónico: industria@semarnat.gob.mx.
+    Que el día 23 de abril de 2003 apareció en el Diario Oficial de la Federación un acuerdo a través
+del cual se reforma la nomenclatura de las normas oficiales mexicanas expedidas por la Secretaría de
+Medio Ambiente y Recursos Naturales, cambiando el nombre tanto de la NOM-052-ECOL-1993 como
+del PROY-NOM-052-ECOL-2001 a NOM-052-SEMARNAT-1993 y PROY-NOM-052-SEMARNAT-2001,
+respectivamente.
+   Que el 8 de octubre de 2003 fue publicada, en el Diario Oficial de la Federación, la Ley General para la
+Prevención y Gestión Integral de los Residuos.
+    Que de acuerdo a lo establecido en el artículo 47 fracciones II y III de la Ley Federal sobre Metrología y
+Normalización, los interesados presentaron sus comentarios al proyecto de norma en cuestión, los cuales
+fueron analizados por el Comité Consultivo Nacional de Normalización de Medio Ambiente y Recursos
+Naturales en su sesión del 15 de diciembre de 2005, realizándose las modificaciones procedentes al
+proyecto, las cuales contemplaron las disposiciones establecidas en la Ley General para la Prevención y
+Gestión Integral de los Residuos.
+   Que habiéndose cumplido el procedimiento establecido en la Ley Federal sobre Metrología y
+Normalización para la elaboración de normas oficiales mexicanas y con base en lo dispuesto en el artículo
+28 fracción I inciso d) del Reglamento de la Ley Federal sobre Metrología y Normalización, el Comité
+Consultivo Nacional de Normalización de Medio Ambiente y Recursos Naturales, aprobó las respuestas a los
+comentarios derivados de la consulta pública, así como la versión definitiva de esta Norma Oficial Mexicana.
+   Por lo expuesto y fundado, he tenido a bien expedir la siguiente:
+              NORMA OFICIAL MEXICANA NOM-052-SEMARNAT-2005, QUE ESTABLECE
+                LAS CARACTERISTICAS, EL PROCEDIMIENTO DE IDENTIFICACION,
+                 CLASIFICACION Y LOS LISTADOS DE LOS RESIDUOS PELIGROSOS
+                                                  PREFACIO
+   En la elaboración de esta Norma Oficial Mexicana participaron:
+   -     ASOCIACION MEXICANA DE CONTROL DE LOS RESIDUOS SOLIDOS Y PELIGROSOS, A.C.
+   -    ASOCIACION MEXICANA DE LABORATORIOS ANALITICOS DEL MEDIO AMBIENTE, A.C. (AMEXLAB).
+   -    ASOCIACION MEXICANA DE LA INDUSTRIA FITOSANITARIA, A.C.
+   -    ASOCIACION NACIONAL DE FABRICANTES DE PINTURAS Y TINTAS, A.C.
+   -    ASOCIACION NACIONAL DE LA INDUSTRIA QUIMICA, A.C.
+   -    ASOCIACION NACIONAL DE LABORATORIOS AMBIENTALES, A.C.
+
+   -    ASOCIACION NACIONAL DE PRODUCTORES DE REFRESCOS Y AGUAS CARBONATADAS, A.C.
+   -    CAMARA DE LA INDUSTRIA DE CURTIDURIA DEL ESTADO DE GUANAJUATO
+   -    CAMARA MINERA DE MEXICO
+   -    CAMARA NACIONAL DE ACEITES, GRASAS, JABONES Y DETERGENTES
+   -    CAMARA NACIONAL DE LA INDUSTRIA DEL HIERRO Y DEL ACERO
+   -    CAMARA NACIONAL DE LA INDUSTRIA DE LA CERVEZA Y DE LA MALTA
+   -    CAMARA NACIONAL DE LA INDUSTRIA DE CURTIDURIA
+   -    CAMARA NACIONAL DE LA INDUSTRIA DE LA TRANSFORMACION
+
+   -    CAMARA NACIONAL DE LA INDUSTRIA FARMACEUTICA
+   -    CAMARA NACIONAL DE LA INDUSTRIA ELECTRONICA, DE TELECOMUNICACIONES E INFORMATICA
+   -    CAMARA REGIONAL DE LA INDUSTRIA DE CURTIDURIA DE JALISCO
+   -    CENTRO DE ESTUDIOS DEL SECTOR PRIVADO PARA EL DESARROLLO SUSTENTABLE
+   -    CENTRO INDUSTRIAL DE GESTION AMBIENTAL
+   -    COLEGIO DE INGENIEROS AMBIENTALES DE MEXICO, A.C.
+   -    COMISION FEDERAL DE ELECTRICIDAD
+   -    CONFEDERACION DE CAMARAS INDUSTRIALES
+
+   -    CONFEDERACION PATRONAL DE LA REPUBLICA MEXICANA
+   -    FEDERACION MEXICANA DE INGENIERIA SANITARIA Y CIENCIAS AMBIENTALES, A.C.
+   -    INSTITUTO MEXICANO DEL PETROLEO
+   -    INSTITUTO NACIONAL DE ECOLOGIA
+   -    INSTITUTO PARA LA PROTECCION AMBIENTAL DE NUEVO LEON, A.C.
+   -    LABORATORIOS ABC QUIMICA INVESTIGACION Y ANALISIS S.A. DE C.V.
+   -     LUZ Y FUERZA DEL CENTRO
+   -     PETROLEOS MEXICANOS
+   -     PROCURADURIA FEDERAL DE PROTECCION AL AMBIENTE
+   -     SECRETARIA DE COMUNICACIONES Y TRANSPORTES
+
+   -     SECRETARIA DE ECONOMIA
+   -     SECRETARIA DE ENERGIA
+   -     SECRETARIA DE GOBERNACION
+   -     SECRETARIA DE MARINA-ARMADA DE MEXICO
+   -     SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES
+   -     SECRETARIA DE SALUD
+   -     SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
+   -     SOCIEDAD MEXICANA DE TOXICOLOGIA
+
+   -     UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO
+                                                   INDICE
+   1.    Introducción
+   2.    Objetivo
+   3.    Campo de aplicación
+   4.    Referencias
+   5.    Definiciones
+   6.    Procedimiento para determinar si un residuo es peligroso
+   7.    Características que definen a un residuo como peligroso
+   8.    Procedimiento para la Evaluación de la Conformidad
+   9.      Grado de concordancia con normas y lineamientos internacionales y con las normas mexicanas
+         tomadas como base para su elaboración
+   10.   Bibliografía
+   11.   Vigilancia de esta Norma
+   TABLAS:
+   Tabla 1: Códigos de Peligrosidad de los Residuos (CPR)
+   Tabla 2: Límites Máximos Permisibles para los Constituyentes Tóxicos en el Extracto PECT.
+   LISTADOS:
+   Listado 1: Clasificación de residuos peligrosos por fuente específica.
+   Listado 2: Clasificación de residuos peligrosos por fuente no específica.
+   Listado 3: Clasificación de residuos peligrosos resultado del desecho de productos químicos fuera de
+especificaciones o caducos (Tóxicos Agudos).
+   Listado 4: Clasificación de residuos peligrosos resultado del desecho de productos químicos fuera de
+especificaciones o caducos (Tóxicos Crónicos).
+   Listado 5: Clasificación por tipo de residuos, sujetos a Condiciones Particulares de Manejo.
+   FIGURA:
+   Figura 1: Diagrama de flujo del procedimiento para identificar la peligrosidad de un residuo (listados y
+caracterización).
+   ANEXO:
+   Anexo 1: Bases para listar residuos peligrosos por     Fuente Específica y   Fuente No Específica, en
+función de sus Toxicidades ambiental, aguda o crónica.
+   1. Introducción
+    Los residuos peligrosos, en cualquier estado físico, por sus características corrosivas, reactivas,
+explosivas, inflamables, tóxicas, y biológico-infecciosas, y por su forma de manejo pueden representar un
+riesgo para el equilibrio ecológico, el ambiente y la salud de la población en general, por lo que es necesario
+determinar los criterios, procedimientos, características y listados que los identifiquen.
+    Los avances científicos y tecnológicos y la experiencia internacional sobre la caracterización de los
+residuos peligrosos han permitido definir como constituyentes tóxicos ambientales, agudos y crónicos a
+aquellas sustancias químicas que son capaces de producir efectos adversos a la salud o al ambiente.
+   2. Objetivo
+    Esta Norma Oficial Mexicana establece el procedimiento para identificar si un residuo es peligroso, el
+cual incluye los listados de los residuos peligrosos y las características que hacen que se consideren como
+tales.
+   3. Campo de aplicación
+   Esta Norma Oficial Mexicana es de observancia obligatoria en lo conducente para los responsables de
+identificar la peligrosidad de un residuo.
+   4. Referencias
+    4.1 Norma Oficial Mexicana NOM-004-SEMARNAT-2002, Protección Ambiental.-Lodos y biosólidos.-
+Especificaciones y límites máximos permisibles de contaminantes para su aprovechamiento y disposición
+final, publicada en el Diario Oficial de la Federación el 15 de agosto de 2003.
+    4.2 Norma Oficial Mexicana NOM-053-SEMARNAT-1993, Que establece el procedimiento para llevar a
+cabo la prueba de extracción para determinar los constituyentes que hacen a un residuo peligroso por su
+toxicidad al ambiente, publicada en el Diario Oficial de la Federación (D.O.F.) el 22 de octubre de 1993, la
+cual ha cambiado de nomenclatura en dos ocasiones, la primera, por el Acuerdo Secretarial publicado en el
+D.O.F. el 29 de noviembre de 1994, siendo modificada a NOM-053-ECOL-1993 y, la segunda, por el Acuerdo
+emitido en el mismo órgano de difusión el 23 de abril de 2003, quedando con el nombre que aparece al inicio
+de esta cita.
+    4.3 Norma Oficial Mexicana NOM-087-SEMARNAT-SSA1-2002, Protección ambiental-Salud ambiental-
+Residuos peligrosos biológico-infecciosos-Clasificación y especificaciones de manejo, publicada en el Diario
+Oficial de la Federación (D.O.F.) el 17 de febrero de 2003, la cual cambió de nomenclatura por el Acuerdo
+Secretarial publicado en el D.O.F. el 23 de abril de 2003, quedando con el nombre que aparece al inicio de
+esta cita.
+    4.4 Norma Oficial Mexicana NOM-133-SEMARNAT-2000, Protección Ambiental-Bifenilos Policlorados
+(BPCs)-Especificaciones de manejo, publicada en el Diario Oficial de la Federación (D.O.F.) el 10 de
+diciembre de 2001, la cual cambió de nomenclatura por el Acuerdo Secretarial publicado en el D.O.F. el 23
+de abril de 2003, quedando con el nombre que aparece al inicio de esta cita.
+    4.5 Norma Oficial Mexicana NOM-138-SEMARNAT/SS-2003, Límites máximos permisibles de
+hidrocarburos en suelos y las especificaciones para su caracterización y remediación, publicada en el Diario
+Oficial de la Federación el 29 de marzo de 2005.
+   4.6 Norma Oficial Mexicana NOM-141-SEMARNAT-2003, Que establece el procedimiento para
+caracterizar los jales, así como las especificaciones y criterios para la caracterización y preparación del sitio,
+proyecto, construcción, operación y postoperación de presas de jales, publicada en el Diario Oficial de la
+Federación el 13 de septiembre de 2004.
+  4.7 Norma Oficial Mexicana NOM-002-SCT/2003, Listado de las Substancias y Materiales Peligrosos
+más usualmente transportados, publicada en el Diario Oficial de la Federación el 3 de diciembre de 2003.
+   5. Definiciones
+    Para los efectos de esta Norma Oficial Mexicana se consideran las definiciones contenidas en la Ley
+General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión
+Integral de los Residuos y en los Reglamentos correspondientes y las siguientes:
+   5.1 Constituyente Tóxico.- Cualquier sustancia química contenida en un residuo y que hace que éste
+sea peligroso por su toxicidad, ya sea ambiental, aguda o crónica.
+   5.2 CRETIB.- El acrónimo de clasificación de las características a identificar en los residuos peligrosos y
+que significa: corrosivo, reactivo, explosivo, tóxico ambiental, inflamable y biológico-infeccioso.
+    5.3 CRIT.- El acrónimo de clasificación de las características a identificar en los residuos peligrosos y que
+significa: corrosivo, reactivo, inflamable y tóxico ambiental.
+   5.4 Extracto PECT.- El lixiviado a partir del cual se determinan los constituyentes tóxicos del residuo y su
+concentración con la finalidad de identificar si éste es peligroso por su toxicidad al ambiente.
+   5.5 Fuente específica.- Las actividades que generan residuos peligrosos y que están definidas por giro o
+proceso industrial.
+   5.6 Fuente no específica.- Las actividades que generan residuos peligrosos y que por llevarse a cabo
+en diferentes giros o procesos se clasifican de manera general.
+   5.7 Ley.- La Ley General para la Prevención y Gestión Integral de los Residuos.
+   5.8 PECT.- Procedimiento de Extracción de Constituyentes Tóxicos.
+   5.9 Residuos peligrosos resultado del desecho de productos fuera de especificaciones o
+caducos.- Sustancias químicas que han perdido, carecen o presentan variación en las características
+necesarias para ser utilizados, transformados o comercializados respecto a los estándares de diseño o
+producción originales.
+   5.10 Reglamento.- El Reglamento de la Ley General para la Prevención y Gestión Integral de los
+Residuos.
+   5.11 Secretaría.- La Secretaría de Medio Ambiente y Recursos Naturales.
+    5.12 Toxicidad.- La propiedad de una sustancia o mezcla de sustancias de provocar efectos adversos en
+la salud o en los ecosistemas.
+   5.13 Toxicidad Ambiental.- La característica de una sustancia o mezcla de sustancias que ocasiona un
+desequilibrio ecológico.
+    5.14 Toxicidad Aguda.- El grado en el cual una sustancia o mezcla de sustancias puede provocar, en un
+corto periodo de tiempo o en una sola exposición, daños o la muerte de un organismo.
+   5.15 Toxicidad Crónica.- Es la propiedad de una sustancia o mezcla de sustancias de causar efectos
+dañinos a largo plazo en los organismos, generalmente a partir de exposiciones continuas o repetidas y que
+son capaces de producir efectos cancerígenos, teratogénicos o mutagénicos.
+   6. Procedimiento para determinar si un residuo es peligroso
+   6.1 El procedimiento para determinar si un residuo es peligroso se presenta en la Figura 1.
+   6.2 Un residuo es peligroso si se encuentra en alguno de los siguientes listados:
+   Listado 1: Clasificación de residuos peligrosos por fuente específica.
+   Listado 2: Clasificación de residuos peligrosos por fuente no específica.
+   Listado 3: Clasificación de residuos peligrosos resultado del desecho de productos químicos fuera de
+especificaciones o caducos (Tóxicos Agudos).
+   Listado 4: Clasificación de residuos peligrosos resultado del desecho de productos químicos fuera de
+especificaciones o caducos (Tóxicos Crónicos).
+   Listado 5: Clasificación por tipo de residuos, sujetos a Condiciones Particulares de Manejo.
+   6.2.1 Las Toxicidades aguda y crónica referidas en los Listados 1, 2, 3 y 4 de esta Norma Oficial
+Mexicana no están contempladas en los análisis a realizar para la determinación de las características CRIT
+de peligrosidad en los residuos.
+  6.2.2 El Anexo 1 de esta Norma Oficial Mexicana contiene las bases para listar residuos peligrosos por
+ Fuente Específica y Fuente No Específica, en función de sus Toxicidades ambiental, aguda o crónica.
+    6.3 Si el residuo no se encuentra en ninguno de los Listados 1 a 5 y es regulado por alguno de los
+criterios contemplados en los numerales 6.3.1 a 6.3.4 de esta norma, éste se sujetará a lo dispuesto en el
+Instrumento Regulatorio correspondiente.
+   6.3.1 Los lodos y biosólidos están regulados por la NOM-004-SEMARNAT-2002.
+  6.3.2 Los bifenilos policlorados (BPCs) están sujetos a las disposiciones establecidas en la
+NOM-133-SEMARNAT-2000.
+  6.3.3 Los límites máximos permisibles de hidrocarburos en suelos están sujetos a lo definido en la
+NOM-138-SEMARNAT/SS-2003.
+   6.3.4 Los jales mineros se rigen bajo las especificaciones incluidas en la NOM-141-SEMARNAT-2003.
+   6.4 Si el residuo no está listado o no cumple con las particularidades establecidas en el inciso 6.3 se
+deberá definir si es que éste presenta alguna de las características de peligrosidad que se mencionan en el
+numeral 7 de esta Norma Oficial Mexicana. Esta determinación se llevará a cabo mediante alguna de las
+opciones que se mencionan a continuación:
+   6.4.1 Caracterización o análisis CRIT de los residuos junto con la determinación de las características de
+Explosividad y Biológico-Infeccioso.
+   6.4.2 Manifestación basada en el conocimiento científico o la evidencia empírica sobre los materiales y
+procesos empleados en la generación del residuo en los siguientes casos:
+   6.4.2.1 Si el generador sabe que su residuo tiene alguna de las características de peligrosidad
+establecidas en esta norma.
+   6.4.2.2 Si el generador conoce que el residuo contiene un constituyente tóxico que lo hace peligroso.
+   6.4.2.3 Si el generador declara, bajo protesta de decir verdad, que su residuo no es peligroso.
+   7. Características que definen a un residuo como peligroso
+   7.1 El residuo es peligroso si presenta al menos una de las siguientes características, bajo las
+condiciones señaladas en los numerales 7.2 a 7.7 de esta Norma Oficial Mexicana:
+   -     Corrosividad
+   -     Reactividad
+   -     Explosividad
+   -     Toxicidad Ambiental
+   -     Inflamabilidad
+   -     Biológico-Infecciosa
+   7.1.1 Las Toxicidades aguda y crónica quedan exceptuadas de los análisis a realizar para la
+determinación de la característica de Toxicidad Ambiental en los residuos establecida en el numeral 7.5 de
+esta Norma Oficial Mexicana.
+   7.2 Es Corrosivo cuando una muestra representativa presenta cualquiera de las siguientes propiedades:
+   7.2.1 Es un líquido acuoso y presenta un pH menor o igual a 2,0 o mayor o igual a 12,5 de conformidad
+con el procedimiento que se establece en la Norma Mexicana correspondiente.
+    7.2.2 Es un sólido que cuando se mezcla con agua destilada presenta un pH menor o igual a 2,0 o mayor
+o igual a 12,5 según el procedimiento que se establece en la Norma Mexicana correspondiente.
+    7.2.3 Es un líquido no acuoso capaz de corroer el acero al carbón, tipo SAE 1020, a una velocidad de
+6,35 milímetros o más por año a una temperatura de 328 K (55°C), según el procedimiento que se establece
+en la Norma Mexicana correspondiente.
+   7.3 Es Reactivo cuando una muestra representativa presenta cualquiera de las siguientes propiedades:
+   7.3.1 Es un líquido o sólido que después de ponerse en contacto con el aire se inflama en un tiempo
+menor a cinco minutos sin que exista una fuente externa de ignición, según el procedimiento que se
+establece en la Norma Mexicana correspondiente.
+    7.3.2 Cuando se pone en contacto con agua reacciona espontáneamente y genera gases inflamables en
+una cantidad mayor de 1 litro por kilogramo del residuo por hora, según el procedimiento que se establece
+en la Norma Mexicana correspondiente.
+   7.3.3 Es un residuo que en contacto con el aire y sin una fuente de energía suplementaria genera calor,
+según el procedimiento que se establece en la Norma Mexicana correspondiente.
+    7.3.4 Posee en su constitución cianuros o sulfuros liberables, que cuando se expone a condiciones
+ácidas genera gases en cantidades mayores a 250 mg de ácido cianhídrico por kg de residuo o 500 mg de
+ácido sulfhídrico por kg de residuo, según el procedimiento que se establece en la Norma Mexicana
+correspondiente.
+    7.4 Es Explosivo cuando es capaz de producir una reacción o descomposición detonante o explosiva
+solo o en presencia de una fuente de energía o si es calentado bajo confinamiento. Esta característica no
+debe determinarse mediante análisis de laboratorio, por lo que la identificación de esta característica debe
+estar basada en el conocimiento del origen o composición del residuo.
+   7.5 Es Tóxico Ambiental cuando:
+    7.5.1 El extracto PECT, obtenido mediante el procedimiento establecido en la NOM-053-SEMARNAT-1993,
+contiene cualquiera de los constituyentes tóxicos listados en la Tabla 2 de esta Norma en una concentración
+mayor a los límites ahí señalados, la cual deberá obtenerse según los procedimientos que se establecen en
+las Normas Mexicanas correspondientes.
+   7.6 Es Inflamable cuando una muestra representativa presenta cualquiera de las siguientes
+propiedades:
+   7.6.1 Es un líquido o una mezcla de líquidos que contienen sólidos en solución o suspensión que tiene un
+punto de inflamación inferior a 60,5°C, medido en copa cerrada, de conformidad con el procedimiento que se
+establece en la Norma Mexicana correspondiente, quedando excluidas las soluciones acuosas que
+contengan un porcentaje de alcohol, en volumen, menor a 24%.
+   7.6.2 No es líquido y es capaz de provocar fuego por fricción, absorción de humedad o cambios químicos
+espontáneos a 25°C, según el procedimiento que se establece en la Norma Mexicana correspondiente.
+   7.6.3 Es un gas que, a 20°C y una presión de 101,3 kPa, arde cuando se encuentra en una mezcla del
+13% o menos por volumen de aire, o tiene un rango de inflamabilidad con aire de cuando menos 12% sin
+importar el límite inferior de inflamabilidad.
+   7.6.4 Es un gas oxidante que puede causar o contribuir más que el aire, a la combustión de otro material.
+   7.7 Es Biológico-Infeccioso de conformidad con lo que se establece en la NOM-087-SEMARNAT-SSA1-
+2002, referida en el punto 4 de esta Norma.
+   8. Procedimiento para la evaluación de la conformidad
+    8.1 Las muestras para determinaciones analíticas deben ser tomadas directamente a la salida del
+proceso o del área de almacenamiento en su caso, de conformidad con los procedimientos establecidos en
+la Norma Mexicana correspondiente y deberán ser representativas del volumen generado, considerando las
+variaciones en el proceso y, además, se debe establecer la cadena de custodia para las mismas.
+   8.2 La Secretaría reconocerá las determinaciones analíticas de la prueba CRIT que hayan sido
+muestreadas y analizadas por un laboratorio acreditado y aprobado conforme a las disposiciones
+legales aplicables.
+  9. Grado de concordancia con normas y lineamientos internacionales y con las normas
+mexicanas tomadas como base para su elaboración
+   Esta Norma Oficial Mexicana no concuerda con ninguna norma internacional ni norma mexicana.
+   10. Bibliografía
+    10.1 Ley Federal sobre Metrología y Normalización, publicada en el Diario Oficial de la Federación el 1
+de julio de 1992 y reformada por Decretos publicados en el mismo órgano el 24 de diciembre de 1996 y el 20
+de mayo de 1997.
+   10.2 Reglamento de la Ley Federal sobre Metrología y Normalización, publicado en el Diario Oficial de la
+Federación el 14 de enero de 1999.
+    10.3 Code of Federal Regulations, Vol. 40 Part. 261. 1999. U.S.A. (Código de Regulaciones Federales,
+Vol. 40, Parte 261, 1999, Estados Unidos de América).
+   10.4 Registro Internacional de Sustancias Químicas Potencialmente Tóxicas, Ginebra, Suiza, 1982.
+   10.5 Reglamento para el Transporte Terrestre de Materiales y Residuos Peligrosos de la SCT, publicado
+en el Diario Oficial de la Federación el 7 de abril de 1993.
+   10.6 Hazardous Waste Characteristics Scoping Study. Office of Solid Waste, USEPA, November 1996
+(Estudio de los Alcances de las Características de los Residuos Peligrosos, Oficina de Residuos Sólidos,
+USEPA, Noviembre de 1996).
+   11. Vigilancia de esta Norma
+   La vigilancia del cumplimiento de la presente Norma Oficial Mexicana corresponde a la Secretaría de
+Medio Ambiente y Recursos Naturales, por conducto de la Procuraduría Federal de Protección al Ambiente,
+cuyo personal realizará los trabajos de inspección y vigilancia que sean necesarios. Las violaciones a la
+misma se sancionarán en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente,
+la Ley General para la Prevención y Gestión Integral de los Residuos, sus Reglamentos y demás
+ordenamientos jurídicos aplicables.
+                                             TRANSITORIOS
+   PRIMERO.- La presente Norma Oficial Mexicana entrará en vigor a los noventa días naturales siguientes
+de su publicación en el Diario Oficial de la Federación.
+    SEGUNDO.- A la entrada en vigor de esta Norma Oficial Mexicana se abroga la Norma Oficial Mexicana
+NOM-052-SEMARNAT-1993, Que establece las características de los residuos peligrosos, el listado de los
+mismos y los límites que hacen a un residuo peligroso por su toxicidad al ambiente, publicada en el Diario
+Oficial de la Federación (D.O.F.) el 22 de octubre de 1993.
+    TERCERO.- Las Constancias de No Peligrosidad que estén vigentes a la entrada en vigor de esta Norma
+Oficial Mexicana tendrán validez hasta el plazo por el cual fueron emitidas.
+   Provéase la publicación de esta Norma Oficial Mexicana en el Diario Oficial de la Federación.
+   México, Distrito Federal, al segundo día del mes de junio de dos mil seis.- El Subsecretario de Fomento y
+Normatividad Ambiental de la Secretaría de Medio Ambiente y Recursos Naturales y Presidente del
+Comité Consultivo Nacional de Normalización de Medio Ambiente y Recursos Naturales, José Ramón
+Ardavín Ituarte.- Rúbrica.
+                                                   TABLA 1
+                         CODIGOS DE PELIGROSIDAD DE LOS RESIDUOS (CPR)
+        Características                        Código de Peligrosidad de los Residuos (CPR)
+        Corrosividad                                                C
+        Reactividad                                                 R
+        Explosividad                                                   E
+        Toxicidad                                                      T
+                          Ambiental                                         Te
+                            Aguda                                           Th
+                           Crónica                                          Tt
+        Inflamabilidad                                                  I
+        Biológico-Infeccioso                                           B
+       Cuando se trate de una mezcla de residuos peligrosos de los Listados 3 y 4 se identificarán con la
+       característica del residuo de mayor volumen, agregándole al CPR la letra M.
+                                                   TABLA 2
+ LIMITES MAXIMOS PERMISIBLES PARA LOS CONSTITUYENTES TOXICOS EN EL EXTRACTO PECT
+
+        No. CAS1                                 Contaminante                                  LMP2 (mg/L)
+  CONSTITUYENTES INORGANICOS (METALES)
+        7440-38-2         Arsénico                                                                  5.0
+        7440-39-3         Bario                                                                    100.0
+        7440-43-9         Cadmio                                                                    1.0
+        7440-47-3         Cromo                                                                     5.0
+        7439-97-6         Mercurio                                                                  0.2
+        7440-22-4         Plata                                                                     5.0
+        7439-92-1         Plomo                                                                     5.0
+        7782-49-2         Selenio                                                                   1.0
+  CONSTITUYENTES ORGANICOS SEMIVOLATILES
+      94-75-7     Acido 2,4-Diclorofenoxiacético (2,4-D)                                            10.0
+         93-72-1          Acido 2,4,5-Triclorofenoxipropiónico (Silvex)                             1.0
+         57-74-9          Clordano                                                                  0.03
+        95-48-7           o-Cresol                                                                 200.0
+        108-39-4          m-Cresol                                                                 200.0
+         106-44-5         p-Cresol                                                                 200.0
+        1319-77-3         Cresol                                                                   200.0
+         121-14-2         2,4-Dinitrotolueno                                                        0.13
+         72-20-8          Endrin                                                                    0.02
+         76-44-8          Heptacloro (y su Epóxido)                                                0.008
+        67-72-1        Hexacloroetano                                                      3.0
+        58-89-9        Lindano                                                             0.4
+        74-43-5        Metoxicloro                                                         10.0
+        98-95-3        Nitrobenceno                                                         2.0
+        87-86-5        Pentaclorofenol                                                     100.0
+       8001-35-2       Toxafeno                                                             0.5
+    95-95-4     2,4,5-Triclorofenol                                                        400.0
+    88-06-2     2,4,6-Triclorofenol                                                         2.0
+CONSTITUYENTES ORGANICOS VOLATILES
+       71-43-2         Benceno                                                              0.5
+       108-90-7        Clorobenceno                                                        100.0
+        67-66-3        Cloroformo                                                           6.0
+       75-01-4         Cloruro de Vinilo                                                    0.2
+       106-46-7        1,4-Diclorobenceno                                                   7.5
+       107-06-2        1,2-Dicloroetano                                                     0.5
+       75-35-4         1,1-Dicloroetileno                                                  0.7
+       118-74-1        Hexaclorobenceno                                                    0.13
+       87-68-3         Hexaclorobutadieno                                                  0.5
+       78-93-3         Metil etil cetona                                                   200.0
+       110-86-1        Piridina                                                             5.0
+       127-18-4        Tetracloroetileno                                                    0.7
+        56-23-5        Tetracloruro de Carbono                                              0.5
+        79-01-6        Tricloroetileno                                                      0.5
+1
+    No. CAS: Número del Chemical Abstracts Service (Servicio de Resúmenes Químicos)
+2 LMP: Límite Máximo Permisible
+
+                                              LISTADO 1
+             CLASIFICACION DE RESIDUOS PELIGROSOS POR FUENTE ESPECIFICA
+                                    Residuo                                       CPR             Clave
+GIRO 1: BENEFICIO DE METALES
+CUBAS ELECTROLITICAS GASTADAS DE LA REDUCCION PRIMARIA DE ALUMINIO                (Tt)             E1/01
+LICOR GASTADO GENERADO POR LAS OPERACIONES DE ACABADO DEL ACERO EN               (C,Tt)            E1/02
+INSTALACIONES PERTENECIENTES A LA INDUSTRIA DEL HIERRO Y DEL ACERO
+LODOS Y POLVOS DEL EQUIPO DE CONTROL DE EMISIONES DE FUNDICION Y                  (Tt)             E1/03
+AFINADO EN LA PRODUCCION SECUNDARIA DE PLOMO
+SOLUCION GASTADA PROVENIENTE DE LA LIXIVIACION ACIDA DE LOS                       (Tt)             E1/04
+LODOS/POLVOS DEL EQUIPO DE CONTROL DE EMISIONES EN LA FUNDICION
+SECUNDARIA DE PLOMO
+GIRO 2: PRODUCCION DE COQUE
+RESIDUOS QUE NO SE REINTEGREN AL PROCESO DE LA PRODUCCION DE COQUE                (Tt)             E2/01
+Y QUE NO PUEDAN SER REUTILIZADOS
+GIRO 3: EXPLOSIVOS
+CARBON AGOTADO DEL TRATAMIENTO DE AGUAS RESIDUALES QUE CONTIENEN                  (R,E)            E3/01
+EXPLOSIVOS
+LODOS DEL TRATAMIENTO DE AGUAS RESIDUALES EN LA FABRICACION,                      (Tt)             E3/02
+FORMULACION Y CARGA DE LOS COMPUESTOS INICIADORES BASE PLOMO
+RESIDUOS DE AGUA ROSA-ROJA Y DE ACIDOS GASTADOS DE LA MANUFACTURA                 (R,E)            E3/03
+DE TNT
+GIRO 4: PETROLEO, GAS Y PETROQUIMICA
+CATALIZADORES GASTADOS DEL PROCESO DE HIDROCRACKING CATALITICO DE                (I,Tt)           E4/01
+RESIDUALES EN LA REFINACION DE PETROLEO
+LODOS DE LA SEPARACION PRIMARIA DE ACEITE/AGUA/SOLIDOS DE LA                (Tt)     E4/02
+REFINACION DEL PETROLEO-CUALQUIER LODO GENERADO POR SEPARACION
+GRAVITACIONAL DE ACEITE/AGUA/SOLIDOS DURANTE EL ALMACENAMIENTO O
+TRATAMIENTO DE AGUAS RESIDUALES DE PROCESO Y AGUAS RESIDUALES
+ACEITOSAS DE ENFRIAMIENTO, DE REFINERIAS DE PETROLEO. TALES LODOS
+INCLUYEN, PERO NO SE LIMITAN, A AQUELLOS GENERADOS EN SEPARADORES DE
+ACEITE/AGUA/SOLIDOS; TANQUES Y LAGUNAS DE CAPTACION; ZANJAS Y OTROS
+DISPOSITIVOS DE TRANSPORTE DE AGUA PLUVIAL, LODOS GENERADOS DE AGUAS
+DE ENFRIAMIENTO SIN CONTACTO, DE UN SOLO PASO, SEGREGADAS PARA
+TRATAMIENTO DE OTROS PROCESOS O AGUAS DE ENFRIAMIENTO ACEITOSAS Y
+LODOS GENERADOS EN UNIDADES DE TRATAMIENTOS BIOLOGICOS
+LODOS      DE     SEPARACION     SECUNDARIA      (EMULSIFICADOS)    DE      (Tt)     E4/03
+ACEITE/AGUA/SOLIDOS. CUALQUIER LODO Y/O NATA GENERADO EN LA
+SEPARACION FISICA Y/O QUIMICA DE ACEITE/AGUA/SOLIDOS DE AGUAS
+RESIDUALES DE PROCESO Y AGUAS RESIDUALES ACEITOSAS DE ENFRIAMIENTO
+DE LAS REFINERIAS DE PETROLEO. TALES RESIDUOS INCLUYEN, PERO NO SE
+LIMITAN A, TODOS LOS LODOS Y LAS NATAS GENERADAS EN: UNIDADES DE
+FLOTACION DE AIRE INDUCIDA, TANQUES Y LAGUNAS DE CAPTACION Y TODOS LOS
+LODOS GENERADOS EN UNIDADES DAF (FLOTACION CON AIRE DISUELTO). LODOS
+GENERADOS DE AGUAS DE ENFRIAMIENTO SIN CONTACTO, DE UN SOLO PASO,
+SEGREGADAS PARA TRATAMIENTO DE OTROS PROCESOS O AGUAS DE
+ENFRIAMIENTO ACEITOSAS, LODOS Y NATAS GENERADOS EN UNIDADES DE
+TRATAMIENTOS BIOLOGICOS
+LODOS DEL SEPARADOR API Y CARCAMOS EN LA REFINACION DE PETROLEO Y           (Tt)     E4/04
+ALMACENAMIENTO DE PRODUCTOS DERIVADOS
+LODOS DE TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS                         (Tt)     E4/05
+LODOS DE LA LIMPIEZA DE LOS HACES DE TUBOS DE LOS INTERCAMBIADORES DE       (Tt)     E4/06
+CALOR, LADO HIDROCARBURO
+NATAS DEL SISTEMA DE FLOTACION CON AIRE DISUELTO (FAD) EN LA REFINACION     (Tt)     E4/07
+DE PETROLEO Y ALMACENAMIENTO DE PRODUCTOS DERIVADOS
+SOLIDOS DE EMULSION DE ACEITES DE BAJA CALIDAD EN LA INDUSTRIA DE           (Tt)     E4/08
+REFINACION DE PETROLEO
+FONDOS DE LA ETAPA DE DESTILACION EN LA PRODUCCION DE ACETALDEHIDO VIA    (C,Tt,I)   E4/09
+OXIDACION DE ETILENO
+CORTES LATERALES DE LA ETAPA DE DESTILACION EN LA PRODUCCION DE           (C,Tt,I)   E4/10
+ACETALDEHIDO VIA OXIDACION DE ETILENO
+RESIDUOS DE PROCESOS, INCLUYENDO PERO NO LIMITADO A RESIDUOS DE             (Tt)     E4/11
+DESTILACION, FONDOS PESADOS, BREAS Y RESIDUOS DE LA LIMPIEZA DE
+REACTORES DE LA PRODUCCION DE HIDROCARBUROS ALIFATICOS CLORADOS
+POR PROCESOS DE CATALIZACION DE RADICALES LIBRES QUE TIENEN CADENAS
+DE HASTA 5 (CINCO) CARBONES CON DIVERSAS CANTIDADES Y POSICIONES DE
+SUSTITUCION DE CLORO
+GIRO 5: PINTURAS Y PRODUCTOS RELACIONADOS
+RESIDUOS DE PIGMENTOS BASE CROMO Y BASE PLOMO                               (Tt)     E5/01
+GIRO 6: PLAGUICIDAS Y HERBICIDAS
+LODOS DE LAS PLANTAS DE TRATAMIENTO DE AGUAS RESIDUALES EN LA               (Tt)     E6/01
+PRODUCCION DE CARBAMATOS, HERBICIDAS CLORADOS; PLAGUICIDAS ORGANO-
+HALOGENADOS; ORGANO-ARSENICALES; ORGANO-METALICOS Y ORGANO-
+FOSFORADOS
+RESIDUOS DE LA PRODUCCION DE CARBAMATOS, HERBICIDAS CLORADOS;               (Tt)     E6/02
+PLAGUICIDAS   ORGANO-HALOGENADOS; ORGANO-ARSENICALES; ORGANO-
+METALICOS Y ORGANO-FOSFORADOS
+GIRO 7: PRESERVACION DE LA MADERA
+LODOS SEDIMENTADOS Y SOLUCIONES GASTADAS          GENERADOS    EN   LOS     (Tt)     E7/01
+PROCESOS DE PRESERVACION DE LA MADERA
+GIRO 8: QUIMICA FARMACEUTICA
+CARBON ACTIVADO GASTADO EN LA PRODUCCION DE FARMACEUTICOS                   (Tt)     E8/01
+VETERINARIOS DE COMPUESTOS CON ARSENICO Y ORGANO-ARSENICALES
+RESIDUOS DE BREAS DE LA DESTILACION DE COMPUESTOS A BASE DE ANILINA EN          (Tt)     E8/02
+LA PRODUCCION DE PRODUCTOS VETERINARIOS DE COMPUESTOS DE ARSENICO
+Y ORGANO-ARSENICALES
+GIRO 9: QUIMICA INORGANICA
+FILTROS DE LAS CASAS DE BOLSAS EN LA PRODUCCION DE OXIDO DE ANTIMONIO,          (Te)     E9/01
+INCLUYENDO LOS FILTROS EN LA PRODUCCION DE PRODUCTOS INTERMEDIOS
+(ANTIMONIO METALICO Y OXIDO DE ANTIMONIO CRUDO)
+ESCORIAS DE LA PRODUCCION DE OXIDO DE ANTIMONIO, INCLUYENDO AQUELLAS            (Tt)     E9/02
+DE LOS PRODUCTOS INTERMEDIOS (ANTIMONIO METALICO Y OXIDO DE ANTIMONIO
+CRUDO)
+LODOS DE LA PURIFICACION DE SALMUERA, DONDE LA SALMUERA PURIFICADA              (Tt)     E9/03
+SEPARADA NO SE UTILIZA, EN LA PRODUCCION DE CLORO (PROCESO DE CELDAS
+DE MERCURIO)
+LODOS DEL TRATAMIENTO DE AGUAS RESIDUALES EN LA PRODUCCION DE CLORO             (Tt)     E9/04
+(PROCESO DE CELDAS DE MERCURIO)
+RESIDUOS DE HIDROCARBUROS CLORADOS DE LA ETAPA DE PURIFICACION EN LA            (Tt)     E9/05
+PRODUCCION DE CLORO (PROCESO DE CELDAS DE DIAFRAGMA USANDO ANODOS
+DE GRAFITO)
+LODOS DEL TRATAMIENTO DE AGUAS RESIDUALES DE LA PRODUCCION DE                   (Tt)     E9/06
+PIGMENTOS NARANJA Y AMARILLO DE CROMO
+LODOS DEL TRATAMIENTO DE AGUAS RESIDUALES DE LA PRODUCCION DE                   (Tt)     E9/07
+PIGMENTOS VERDES DE CROMO
+LODOS DEL TRATAMIENTO DE AGUAS RESIDUALES DE LA PRODUCCION DE                   (Tt)     E9/08
+PIGMENTOS VERDES DE OXIDO DE CROMO (ANHIDROS E HIDRATADOS)
+RESIDUOS DEL HORNO DE LA PRODUCCION DE PIGMENTOS VERDES DE OXIDO DE             (Tt)     E9/09
+CROMO
+LODOS DE TRATAMIENTO DE AGUAS RESIDUALES DE LA PRODUCCION DE                    (Tt)     E9/10
+PIGMENTOS AZULES DE HIERRO
+LODOS DEL TRATAMIENTO DE AGUAS RESIDUALES DE LA PRODUCCION DE                   (Tt)     E9/11
+PIGMENTOS NARANJA DE MOLIBDATO
+LODOS DEL TRATAMIENTO DE AGUAS RESIDUALES DE LA PRODUCCION DE                   (Tt)     E9/12
+PIGMENTOS AMARILLOS DE ZINC
+RESIDUOS DE LA MANUFACTURA Y DEL ALMACENAMIENTO EN PLANTA DE                    (Tt)     E9/13
+CLORURO FERRICO DERIVADO DE ACIDOS FORMADOS DURANTE LA PRODUCCION
+DE BIOXIDO DE TITANIO MEDIANTE EL PROCESO CLORURO-ILMENITA
+GIRO 10: QUIMICA ORGANICA
+LODOS DE LAS DESCARGAS DE AGUAS RESIDUALES EN LA PRODUCCION DE                 (R, Tt)   E10/01
+ACRILONITRILO
+FONDOS DE LA     COLUMNA     DE   ACETONITRILO   EN   LA   PRODUCCION     DE   (R, Tt)   E10/02
+ACRILONITRILO
+FONDOS DE LA COLUMNA DE           PURIFICACION   DE   ACETONITRILO   EN   LA    (Tt)     E10/03
+PRODUCCION DE ACRILONITRILO
+DOMOS LIGEROS DE LA DESTILACION INICIAL EN LA PRODUCCION DE ANHIDRIDO           (Tt)     E10/04
+FTALICO A PARTIR DE NAFTALENO
+FONDOS DE LA DESTILACION FINAL EN LA PRODUCCION DE ANHIDRIDO FTALICO A          (Tt)     E10/05
+PARTIR DE NAFTALENO
+DOMOS LIGEROS DE LA DESTILACION INICIAL EN LA PRODUCCION DE ANHIDRIDO           (Tt)     E10/06
+FTALICO A PARTIR DE ORTO-XILENO
+FONDOS DE LA DESTILACION FINAL EN LA PRODUCCION DE ANHIDRIDO FTALICO A          (Tt)     E10/07
+PARTIR DE ORTO-XILENO
+FONDOS DE LA DESTILACION EN LA PRODUCCION DE ANILINA                            (Tt)     E10/08
+RESIDUOS DEL PROCESO DE EXTRACCION DE ANILINA                                   (Tt)     E10/09
+RESIDUOS PROVENIENTES DEL LAVADO DE GASES, DE CONDENSACION, DE                  (Tt)     E10/10
+DEPURACION Y SEPARACION EN LA PRODUCCION DE CARBAMATOS Y CARBOMIL
+OXIMAS
+MATERIALES ORGANICOS DEL TRATAMIENTO DE RESIDUOS DE TIOCARBAMATO EN          (Tt)    E10/11
+LA PRODUCCION DE CARBAMATOS Y CARBOMIL OXIMAS
+POLVOS DE CASAS DE BOLSAS Y SOLIDOS DE FILTRADO/SEPARACION DE LA             (Tt)    E10/12
+PRODUCCION DE CARBAMATOS Y CARBOMIL OXIMAS
+RESIDUOS ORGANICOS (INCLUYENDO FONDOS PESADOS, ESTANCADOS, FONDOS            (Tt)    E10/13
+LIGEROS, SOLVENTES GASTADOS, RESIDUOS DE LA FILTRACION Y LA
+DECANTACION) DE LA PRODUCCION DE CARBAMATOS Y CARBOMIL OXIMAS
+SOLIDOS DE PURIFICACION (INCLUYENDO SOLIDOS DE FILTRACION, EVAPORACION      (R,Tt)   E10/14
+Y CENTRIFUGACION), POLVOS DE CASAS DE BOLSAS Y DE BARRIDO DE PISOS EN
+LA PRODUCCION DE ACIDOS DE TIOCARBAMATOS Y SUS SALES EN LA
+PRODUCCION DE CARBAMATOS Y CARBOMIL OXIMAS
+FONDOS DE LA COLUMNA DE DESTILACION O FRACCIONAMIENTO EN LA                  (Tt)    E10/15
+PRODUCCION DE CLOROBENCENOS
+CORRIENTES SEPARADAS       DEL   AGUA   DEL   REACTOR   DE   LAVADO    DE    (Tt)    E10/16
+CLOROBENCENOS
+FONDOS DE LA ETAPA DE DESTILACION EN LA PRODUCCION DE CLORURO DE             (Tt)    E10/17
+BENCILO
+FONDOS PESADOS DE LA COLUMNA DE FRACCIONAMIENTO EN LA PRODUCCION             (Tt)    E10/18
+DE CLORURO DE ETILO
+FONDOS PESADOS DE LA DESTILACION DE CLORURO DE VINILO EN LA                  (Tt)    E10/19
+PRODUCCION DE MONOMERO DE CLORURO DE VINILO
+LODOS DEL TRATAMIENTO DE AGUAS RESIDUALES DE LA PRODUCCION DE                (Tt)    E10/20
+DICLORURO DE ETILENO O DE MONOMERO DE CLORURO DE VINILO
+LODOS DEL TRATAMIENTO DE AGUAS RESIDUALES DE LA PRODUCCION DE                (Tt)    E10/21
+MONOMERO DE CLORURO DE VINILO EN LA QUE SE UTILICE CLORURO DE
+MERCURIO COMO CATALIZADOR EN UN PROCESO BASE ACETILENO
+RESIDUOS DEL LAVADOR DE GASES DE VENTEO DEL REACTOR EN LA                    (Tt)    E10/22
+PRODUCCION DE DIBROMURO DE ETILENO VIA BROMACION DEL ETILENO
+SOLIDOS ADSORBENTES GASTADOS DE LA ETAPA DE PURIFICACION DEL                 (Tt)    E10/23
+DIBROMURO DE ETILENO OBTENIDO A PARTIR DE LA BROMACION DEL ETILENO
+FONDOS DE LA ETAPA DE PURIFICACION DEL DIBROMURO DE ETILENO OBTENIDO A       (Tt)    E10/24
+PARTIR DE LA BROMACION DEL ETILENO
+CONDENSADOS ORGANICOS DE LA COLUMNA DE RECUPERACION DE SOLVENTES             (Tt)    E10/25
+EN LA PRODUCCION DE DIISOCIANATO DE TOLUENO VIA FOSGENACION DE LA
+TOLUENDIAMINA
+RESIDUOS DE CENTRIFUGACION Y DESTILACION EN LA PRODUCCION DE                (R,Tt)   E10/26
+DIISOCIANATO DE TOLUENO VIA FOSGENACION DE LA TOLUENDIAMINA
+FONDOS DE LA TORRE DE SEPARACION DE PRODUCTOS EN LA PRODUCCION              (C,Tt)   E10/27
+DE 1,1-DIMETIL HIDRACINA A PARTIR DE HIDRACINAS DE ACIDO CARBOXILICO
+CABEZAS CONDENSADAS DE LA COLUMNA DE SEPARACION DE PRODUCTOS Y              (Tt,I)   E10/28
+GASES CONDENSADOS DEL VENTEO DEL REACTOR EN LA PRODUCCION DE 1,1-
+DIMETIL HIDRACINA A PARTIR DE HIDRACINAS DE ACIDO CARBOXILICO
+CARTUCHOS DE LOS FILTROS AGOTADOS DE LA PURIFICACION DE LA 1,1-DIMETIL       (Tt)    E10/29
+HIDRACINA OBTENIDA A PARTIR DE HIDRACINAS DE ACIDO CARBOXILICO
+CABEZAS CONDENSADAS DE LA COLUMNA DE SEPARACION DE INTERMEDIOS EN            (Tt)    E10/30
+LA PRODUCCION DE 1,1-DIMETIL HIDRACINA A PARTIR DE HIDRACINAS DE ACIDO
+CARBOXILICO
+RESIDUOS PROVENIENTES DEL LAVADO DE DINITROTOLUENO OBTENIDO A PARTIR        (C,Tt)   E10/31
+DE LA NITRACION DE TOLUENO
+FONDOS PESADOS DE LA COLUMNA DE PURIFICACION DE LA EPICLORHIDRINA            (Tt)    E10/32
+FONDOS PESADOS (BREA) DE LA ETAPA DE DESTILACION EN LA PRODUCCION DE         (Tt)    E10/33
+FENOL/ACETONA A PARTIR DEL CUMENO
+RESIDUO DE CATALIZADOR AGOTADO DE ANTIMONIO EN SOLUCION ACUOSA EN LA         (Tt)    E10/34
+PRODUCCION DE FLUOROMETANOS
+COLAS DE LAS DESCARGAS EN LA PRODUCCION DE METIL ETIL PIRIDINAS              (Tt)    E10/35
+CORRIENTES COMBINADAS DE AGUAS RESIDUALES EN LA PRODUCCION DE                (Tt)    E10/36
+NITROBENCENO/ANILINA
+FONDOS DE LA DESTILACION EN LA PRODUCCION DE NITROBENCENO MEDIANTE          (Tt)   E10/37
+LA NITRACION DEL BENCENO
+FONDOS PESADOS O PRODUCTOS RESIDUALES DE LA ETAPA DE DESTILACION EN         (Tt)   E10/38
+LA PRODUCCION DE TETRACLORURO DE CARBONO
+AGUA DE REACCION (SUBPRODUCTO) DE LA COLUMNA DE SECADO EN LA                (Tt)   E10/39
+PRODUCCION DE TOLUENDIAMINA VIA HIDROGENACION DE DINITROTOLUENO
+FONDOS LIGEROS LIQUIDOS CONDENSADOS DE LA ETAPA DE PURIFICACION DE LA       (Tt)   E10/40
+TOLUENDIAMINA   OBTENIDA A TRAVES     DE    LA   HIDROGENACION    DE
+DINITROTOLUENO
+VECINALES DE LA ETAPA DE PURIFICACION DE LA TOLUENDIAMINA OBTENIDA A        (Tt)   E10/41
+TRAVES DE LA HIDROGENACION DE DINITROTOLUENO
+FONDOS PESADOS DE LA ETAPA DE PURIFICACION DE LA TOLUENDIAMINA              (Tt)   E10/42
+OBTENIDA A TRAVES DE LA HIDROGENACION DE DINITROTOLUENO
+FONDOS DE LA DESTILACION EN LA PRODUCCION DE ALFA- (O METIL-) CLORO         (Tt)   E10/43
+TOLUENOS, CLORO TOLUENOS CON RADICALES CICLICOS, CLORUROS DE
+BENZOILO Y MEZCLAS DE ESTOS GRUPOS FUNCIONALES. (ESTE RESIDUO NO
+INCLUYE FONDOS DE LA DESTILACION DE CLORURO DE BENCILO)
+LODOS DEL TRATAMIENTO DE AGUAS RESIDUALES, EXCLUYENDO LODOS DE              (Tt)   E10/44
+NEUTRALIZACION Y BIOLOGICOS, GENERADOS EN EL TRATAMIENTO DE AGUAS
+RESIDUALES EN LA PRODUCCION DE TOLUENOS CLORADOS
+RESIDUOS ORGANICOS, EXCLUYENDO CARBON ADSORBENTE GASTADO, DEL               (Tt)   E10/45
+CLORO GASEOSO GASTADO Y DEL PROCESO DE RECUPERACION DE ACIDO
+HIDROCLORICO ASOCIADO CON LA PRODUCCION DE ALFA- (O METIL-) CLORO
+TOLUENOS, CLORO TOLUENOS CON RADICALES CICLICOS, CLORUROS DE
+BENZOILO Y MEZCLAS DE ESTOS GRUPOS FUNCIONALES
+CATALIZADORES GASTADOS DEL REACTOR         DE   HIDROCLORACION   EN   LA    (Tt)   E10/46
+PRODUCCION DE 1,1,1-TRICLOROETANO
+FONDOS DE LA ETAPA DE DESTILACION EN LA PRODUCCION DE 1,1,1-                (Tt)   E10/47
+TRICLOROETANO
+FONDOS PESADOS DE LA COLUMNA DE DESTILACION DE PRODUCTOS PESADOS            (Tt)   E10/48
+EN LA PRODUCCION DE 1,1,1-TRICLOROETANO
+RESIDUOS DEL LAVADOR CON VAPOR DEL PRODUCTO EN LA PRODUCCION DE             (Tt)   E10/49
+1,1,1-TRICLOROETANO
+FONDOS O RESIDUOS PESADOS DE LAS TORRES EN EL PROCESO DE                    (Tt)   E10/50
+PRODUCCION DE TRICLOROETILENO
+                                        LISTADO 2
+         CLASIFICACION DE RESIDUOS PELIGROSOS POR FUENTE NO ESPECIFICA
+                                Residuo                                     CPR    Clave
+RESIDUOS DEL MANEJO DE LA FIBRA DE ASBESTO PURO, INCLUYENDO POLVO,          (Tt)   NE 01
+FIBRAS Y PRODUCTOS FACILMENTE DESMENUZABLES CON LA PRESION DE LA
+MANO (TODOS LOS RESIDUOS QUE CONTENGAN ASBESTO EL CUAL NO ESTE
+SUMERGIDO O FIJO EN UN AGLUTINANTE NATURAL O ARTIFICIAL)
+TODAS LAS BOLSAS QUE HAYAN TENIDO CONTACTO CON LA FIBRA DE ASBESTO,         (Tt)   NE 02
+ASI COMO LOS MATERIALES FILTRANTES PROVENIENTES DE LOS EQUIPOS DE
+CONTROL COMO SON: LOS FILTROS, MANGAS, RESPIRADORES PERSONALES Y
+OTROS, QUE NO HAYAN RECIBIDO UN TRATAMIENTO PARA ATRAPAR LA FIBRA EN UN
+AGLUTINANTE NATURAL O ARTIFICIAL
+TODOS LOS RESIDUOS PROVENIENTES DE LOS PROCESOS DE MANUFACTURA              (Tt)   NE 03
+CUYA MATERIA PRIMA SEA EL ASBESTO Y LA FIBRA SE ENCUENTRE EN FORMA
+LIBRE, POLVO O FACILMENTE DESMENUZABLE CON LA PRESION DE LA MANO
+LODOS DE TRATAMIENTO DE AGUAS RESIDUALES DE APAGADO DE LAS                  (Tt)   NE 04
+OPERACIONES DE TRATAMIENTO TERMICO DE METALES DONDE LOS CIANUROS
+SON USADOS EN LOS PROCESOS
+LODOS DE TRATAMIENTO DE AGUAS RESIDUALES DE OPERACIONES DE                  (Tt)   NE 05
+GALVANOPLASTIA EXCEPTO DE LOS SIGUIENTES PROCESOS: (1) ANODIZACION DE
+ALUMINIO EN ACIDO SULFURICO; (2) ESTAÑADO EN ACERO AL CARBON; (3) ZINCADO
+EN ACERO AL CARBON; (4) DEPOSITACION DE ALUMINIO O ZINC-ALUMINIO EN
+ACERO AL CARBON; (5) LIMPIEZA ASOCIADA CON ESTAÑADO, ZINCADO O
+ALUMINADO EN ACERO AL CARBON; Y (6) GRABADO QUIMICO Y ACABADO DE
+ALUMINIO DEPOSITADO EN ACERO AL CARBON
+LODOS DE LOS BAÑOS DE ANODIZACION DEL ALUMINIO Y LODOS DE TRATAMIENTO       (Tt)   NE 06
+DE AGUAS RESIDUALES DEL REVESTIMIENTO DE ALUMINIO POR CONVERSION
+QUIMICA
+RESIDUOS DE LOS BAÑOS EN OPERACIONES DE GALVANOPLASTIA DONDE LOS         (R,Tt)   NE 07
+CIANUROS SON USADOS EN LOS PROCESOS
+SOLUCIONES GASTADAS DE BAÑOS DE CIANURO DE LAS OPERACIONES DE            (R,Tt)   NE 08
+GALVANOPLASTIA
+SOLUCIONES GASTADAS DE LOS BAÑOS DE LIMPIEZA Y EN OPERACIONES DE         (R,Tt)   NE 09
+GALVANOPLASTIA DONDE LOS CIANUROS SON USADOS EN LOS PROCESOS
+RESIDUOS DE LOS BAÑOS DE ACEITE EN LAS OPERACIONES DE TRATAMIENTO        (R,Tt)   NE 10
+TERMICO DE METALES
+SOLUCIONES GASTADAS DE CIANUROS DE LA LIMPIEZA DE TANQUES DE BAÑOS DE    (R,Tt)   NE 11
+SAL EN LAS OPERACIONES DE TRATAMIENTO TERMICO DE METALES
+RESIDUOS      GENERADOS   EN   LA   PRODUCCION   DE    TRI-, TETRA-  O   (Th)     NE 12
+PENTACLOROFENOL
+RESIDUOS DE TETRA-, PENTA O HEXACLOROBENCENO PROVENIENTES DE SU USO      (Th)     NE 13
+COMO REACTANTE, PRODUCTO INTERMEDIO O COMPONENTE DE UNA
+FORMULACION, BAJO CONDICIONES ALCALINAS
+RESIDUOS, EXCEPTO AGUAS RESIDUALES Y CARBON GASTADO DE LA                (Th)     NE 14
+PURIFICACION DE CLORURO DE HIDROGENO, DE LA PRODUCCION DE MATERIALES
+EN EQUIPOS PREVIAMENTE USADOS EN LA MANUFACTURA (COMO REACTIVO,
+PRODUCTO QUIMICO INTERMEDIO O COMPONENTE EN UN PROCESO DE
+FORMULACION) DE TRI- Y TETRACLOROFENOLES. ESTE RESIDUO NO INCLUYE
+DESECHOS DE EQUIPOS UTILIZADOS EN LA PRODUCCION O USO DE
+HEXACLOROFENO A PARTIR DEL 2,4,5-TRICLOROFENOL ALTAMENTE PURIFICADO
+FONDOS LIGEROS CONDENSADOS, FILTROS GASTADOS Y FILTROS AYUDA Y            (Tt)    NE 15
+RESIDUOS DE DESECANTE GASTADO DE LA PRODUCCION DE CIERTOS
+HIDROCARBUROS ALIFATICOS CLORADOS A TRAVES DE LOS PROCESOS
+CATALITICOS DE RADICALES LIBRES. ESTOS HIDROCARBUROS ALIFATICOS
+CLORADOS SON AQUELLOS CON CADENAS DE UNO HASTA CINCO CARBONOS Y
+QUE CONTIENEN CLORO EN CANTIDADES Y SUSTITUCIONES VARIADAS
+RESIDUOS DE LA PRODUCCION DE MATERIALES EN EQUIPOS PREVIAMENTE           (Th)     NE 16
+USADOS EN LA PRODUCCION O MANUFACTURA DE TETRA-, PENTA- O
+HEXACLOROBENCENOS (COMO REACTIVO, PRODUCTO QUIMICO INTERMEDIO O
+COMPONENTE EN UN PROCESO DE FORMULACION) BAJO CONDICIONES
+ALCALINAS, EXCEPTO AGUAS RESIDUALES Y CARBON GASTADO DE LA
+PURIFICACION DE CLORURO DE HIDROGENO
+RESIDUALES DE PROCESO, FORMULACIONES GASTADAS DE PROCESOS DE              (Tt)    NE 17
+PRESERVACION DE LA MADERA EN PLANTAS QUE UTILIZAN ACTUALMENTE O HAYAN
+UTILIZADO FORMULACIONES DE CLOROFENOL, EXCEPTO AQUELLOS QUE NO
+HAYAN ESTADO EN CONTACTO CON CONTAMINANTES DE PROCESO
+RESIDUALES DE PROCESO Y FORMULACIONES GASTADAS DE PROCESOS DE             (Tt)    NE 18
+PRESERVACION DE LA MADERA EN PLANTAS QUE UTILICEN FORMULACIONES DE
+CREOSOTA, EXCEPTO AQUELLOS QUE NO HAYAN ESTADO EN CONTACTO CON
+CONTAMINANTES DE PROCESO
+RESIDUALES DE PROCESO Y FORMULACIONES GASTADAS DE PROCESOS DE             (Tt)    NE 19
+PRESERVACION DE LA MADERA EN PLANTAS QUE UTILICEN FORMULACIONES
+INORGANICAS QUE CONTENGAN ARSENICO O CROMO PARA PRESERVAR LA
+MADERA, EXCEPTO AQUELLOS QUE NO HAYAN ESTADO EN CONTACTO CON
+CONTAMINANTES DE PROCESO
+LIXIVIADOS (LIQUIDOS QUE HAN PERCOLADO A TRAVES DE RESIDUOS DISPUESTOS    (Tt)    NE 20
+EN TIERRA) RESULTANTES DE LA DISPOSICION DE UNO O MAS DE LOS RESIDUOS
+PELIGROSOS SEÑALADOS EN ESTA NORMA
+RESIDUOS RESULTANTES DE LA INCINERACION O DE TRATAMIENTO TERMICO DE       (Tt)    NE 21
+SUELOS CONTAMINADOS CON LOS RESIDUOS PELIGROSOS CON CLAVES NE 12, NE
+13, NE 14 Y NE 16
+
+
+                                           LISTADO 3
+        CLASIFICACION DE RESIDUOS PELIGROSOS RESULTADO DEL DESECHO DE
+           PRODUCTOS QUIMICOS FUERA DE ESPECIFICACIONES O CADUCOS
+                               (TOXICOS AGUDOS)
+    No. CAS                                   Nombre                     CPR      Clave
+  5344821     1-(o-Clorofenil)tiourea/2-Clorofeniltiourea              (Th)     H026
+    58-90-2     2,3,4,6-Tetraclorofenol                                  (Th)     H1000
+    95-95-4     2,4,5-Triclorofenol                                      (Th)     H1001
+    93-76-5     2,4,5-Triclorofenoxiacético, ácido/2,4,5-T               (Th)     H1002
+    88-06-2     2,4,6-Triclorofenol                                      (Th)     H1003
+   51285      2,4-Dinitrofenol                                         (Th)     H048
+   131895     2-Ciclohexil-4,6-dinitrofenol                            (Th)     H034
+  542767     3-Cloropropionitrilo                                                      (Th)    H027
+(1) 534521   4,6-Dinitro-o-cresol, y sales                                             (Th)    H047
+  504245     4-Aminopiridina                                                           (Th)    H008
+ 2763964     5-(Aminometil)-3-isoxazolol                                               (Th)    H007
+  591082     Acetamida, G1159N-(aminotioxometil)-/1-Acetil-2-tiourea                   (Th)    H002
+  107028     Acroleína/2-Propenal                                                      (Th)    H003
+  116063     Aldicarb                                                                  (Th)    H070
+ 1646884     Aldicarb sulfona                                                          (Th)    H203
+  309002     Aldrín                                                                    (Th)    H004
+  122098     alfa,alfa-Dimetilfenetilamina/Bencenoetanamina,       alfa,alfa-          (Th)    H046
+               dimetil
+ 86884       alfa-Naftiltiourea/Tiourea, 1-naftalenil                                  (Th)    H072
+ 107186      Alílico, alcohol/2-Propen-1-ol                                            (Th)    H005
+20859738     Aluminio, fosfuro de                                                     (R,Th)   H006
+ 131748      Amonio, picrato de/Fenol, 2,4,6-trinitro-, amonio sal                    (R,Th)   H009
+7803556      Amonio, vanadato de                                                       (Th)    H119
+7778394      Arsénico, ácido H3AsO4                                                    (Th)    H010
+1327533      Arsénico, óxido As2O3                                                     (Th)    H012
+1303282      Arsénico, óxido As2O5                                                     (Th)    H011
+ 75558       Aziridina, 2-Metil-/1,2-Propilenimina                                     (Th)    H067
+ 151564      Aziridina/Etilenoimina                                                    (Th)    H054
+ 542621      Bario, cianuro de                                                         (Th)    H013
+ 108985      Bencenotiol/Tiofenol                                                      (Th)    H014
+ 100447      Benzilo, cloruro de/Clorometilbenceno                                     (Th)    H028
+7440417      Berilio, polvo de (todas las formas)                                      (Th)    H015
+ 598312      Bromoacetona/2-Propanona, 1-bromo-                                        (Th)    H017
+ 357573      Brucina                                                                   (Th)    H018
+ 592018      Calcio, cianuro de Ca(CN)2                                                (Th)    H021
+1563662      Carbofurano                                                               (Th)    H127
+ 75150       Carbono, disulfuro de                                                     (Th)    H022
+55285148     Carbosulfan                                                               (Th)    H189
+ 74908       Cianhídrico, ácido                                                        (Th)    H063
+ 506774      Cianógeno, cloruro de (CN)Cl                                              (Th)    H033
+ 460195      Cianógeno/Etanodinitrilo                                                  (Th)    H031
+    ----       Cianuro, sales solubles de (no especificadas de otra manera)              (Th)    H030
+ 107200      Cloracetaldehído                                                          (Th)    H023
+ 544923      Cobre, cianuro de Cu(CN)                                                  (Th)    H029
+ 696286      Diclorofenilarsina                                                        (Th)    H036
+ 542881      Diclorometil éter/Metano, oxibis[cloro                                    (Th)    H016
+ 60571       Dieldrín                                                                  (Th)    H037
+ 692422      Dietilarsina                                                              (Th)    H038
+ 311455      Dietil-p-nitrofenil fosfato/Fosfórico ácido, dietil 4-nitrofenil éster    (Th)    H041
+ 55914       Diisopropilfluorofosfato (DFP)/Fosforofluorhídrico ácido, bis(1-          (Th)    H043
+               metiletil) éster
+ 644644      Dimetilán                                                                 (Th)    H191
+ 60515       Dimetoato                                                                 (Th)    H044
+  88-85-7      Dinoseb/Fenol, 2-(1-metilpropil)-4,6-dinitro                              (Th)    H020
+ 298044      Disulfotón                                                                (Th)    H039
+ 541537      Ditiobiuret                                                               (Th)    H049
+ 115297      Endosulfan                                                                (Th)    H050
+ 145733      Endotal                                                                   (Th)    H088
+(1) 72208   Endrín, y sus metabolitos                                                 (Th)    H051
+  51434     Epinefrina                                                                (Th)    H042
+(1) 57249   Estricnidín-10-ona, y sales/Estricnina, y sales                           (Th)    H108
+  52857     Famfur                                                                    (Th)    H097
+  62384     Fenilmercurio, acetato de/Mercurio, (acetato-o)fenil-                     (Th)    H092
+  103855    Feniltiourea                                                              (Th)    H093
+  57476     Fisostigmina                                                              (Th)    H204
+  57647     Fisostigmina, salicilato de                                               (Th)    H188
+ 7782414    Fluorina                                                                  (Th)    H056
+  640197    Fluoroacetamida/2-Fluoroacetamida                                         (Th)    H057
+  62748     Fluoroacético, ácido, sal de sodio                                        (Th)    H058
+ 298022     Forato                                                                    (Th)    H094
+23422539    Formetanato, hidrocloruro de                                              (Th)    H198
+17702577    Formparanato                                                              (Th)    H197
+7803512     Fosfina/Fosfhídrico, ácido                                                (Th)    H096
+ 75445      Fosgeno                                                                   (Th)    H095
+ 76448      Heptacloro                                                                (Th)    H059
+ 757584     Hexaetil tetrafosfato/Tetrafósforico, ácido, hexaetil éster               (Th)    H062
+ 465736     Isodrín                                                                   (Th)    H060
+ 119380     Isolan                                                                    (Th)    H192
+15339363    Manganeso dimetilditiocarbamato                                           (Th)    H196
+ 64006      M-cumenil metilcarbamato/3-Isopropilfenil n-metilcarbamato                (Th)    H202
+  628-86-4    Mercurio fulminato                                                       (R,Th)   H065
+ 60344      Metil hidrazina                                                           (Th)    H068
+ 624839     Metil isocianato/Metano, isocianato-                                      (Th)    H064
+ 298000     Metil paration/Fosforotioico ácido, o,o-dimetil o-(4-nitrofenil)          (Th)    H071
+              éster
+ 75865      Metilactonitrilo/Propanonitrilo, 2-hidroxi-2-metil-                       (Th)    H069
+2032657     Metiocarb.                                                                (Th)    H199
+1129415     Metolcarb/Carbámico ácido, metil-, 3-metilfenil éster                     (Th)    H190
+16752775    Metomil                                                                   (Th)    H066
+  31584     Mexacarbato                                                               (Th)    H128
+(1) 54115   Nicotina, y sales/Piridina, 3-(1-metil-2-pirrolidinil)-, (s)-, y sales    (Th)    H075
+13463393    Níquel carbonil Ni(CO)4, (t-4)-                                           (Th)    H073
+ 557197     Níquel, cianuro de Ni(CN)2                                                (Th)    H074
+10102439    Nitrógeno, óxido de/Nítrico, óxido (NO)                                   (Th)    H076
+10102440    Nitrógeno, dióxido de                                                     (Th)    H078
+ 55630      Nitroglicerina/1,2,3-Propanotriol, trinitrato de                         (E,Th)   H081
+ 62759      n-Nitrosodimetilamina                                                     (Th)    H082
+4549400     n-Nitrosometilvinilamina                                                  (Th)    H084
+ 297972     o,o-dietil o-pirazinil fosforotioato                                      (Th)    H040
+ 152169     Octametilpirofosforamida/Difosforamida, octametil                         (Th)    H085
+20816120    Osmio óxido OsO4, (T-4)-                                                  (Th)    H087
+23135220    Oxamil                                                                    (Th)    H194
+ 56382      Paration                                                                  (Th)    H089
+ 106478     p-Cloroanilina/Bencenamina, 4-cloro-                                      (Th)    H024
+  87-86-5     Pentaclorofenol                                                           (Th)    H1004
+ 506649     Plata, cianuro de Ag(CN)                                                  (Th)    H104
+ 78002      Plumbano, tetraetil-/Tetraetilo de plomo                                  (Th)    H110
+ 100016     p-Nitroanilina/Bencenamina, 4-nitro-                                      (Th)    H077
+   151508        Potasio, cianuro de K(CN)                                                (Th)    H098
+   506616        Potasio plata, cianuro de/Argentato(1-), bis(ciano-c)-, potasio          (Th)    H099
+  2631370        Promecarb/Fenol, 3-metil-5-(1-metiletil)-, metil carbamato               (Th)    H201
+   107120        Propanonitrilo                                                           (Th)    H101
+   107197        Propargil alcohol/2-Propin-1-ol                                          (Th)    H102
+   630104        Selenourea                                                               (Th)    H103
+    93-72-1        Silvex (2,4,5-TP)/Propanoico ácido, 2-(2,4,5-triclorofenoxi)-            (Th)    H1005
+  26628228       Sodio, azida de                                                          (Th)    H105
+   143339        Sodio, cianuro de Na(CN)                                                 (Th)    H106
+  1314325        Talio, óxido de/Tálico, óxido Tl2O3                                      (Th)    H113
+  12039520       Talio, selenita de                                                      (I,Th)   H114
+  7446186        Talio, sulfato de                                                       (I,Th)   H115
+   107493        Tetraetilpirofosfato/Difosfórico ácido, tetraetil éster                  (Th)    H111
+  3689245        Tetraetilditiopirofosfato/Tiodifosfórico ácido, tetraetil éster          (Th)    H109
+   509148        Tetranitrometano                                                       (R,Th)    H112
+  39196184       Tiofanax                                                                 (Th)    H045
+   79196         Tiosemicarbazida/Hidrazinacarbotioamida                                  (Th)    H116
+  26419738       Tirpato                                                                  (Th)    H185
+  8001352        Toxafeno                                                                 (Th)    H123
+   75707         Triclorometanotiol                                                       (Th)    H118
+  1314621        Vanadio, óxido de V2O5                                                   (Th)    H120
+  (1) 81812      Warfarina, y sales, cuando están presentes en concentraciones            (Th)    H001
+                   mayores que 0.3%
+   557211        Zinc, cianuro de Zn(CN)2                                                 (Th)    H121
+  1314847        Zinc,   fosfuro    de    Zn3P2,    cuando      está   presente    en   (R,Th)    H122
+                     concentraciones mayores que 10%
+     137-30-4        Ziram                                                            (Th)       H205
+1.- En el caso de familias de isómeros de compuestos orgánicos, sólo se menciona el nombre del grupo,
+todos los isómeros se deben considerar constituyentes tóxicos (p.e. diclorobencenos, incluye al 1,2 1,3 y
+1,4 diclorobencenos).
+2.- La llamada (1) indica el número CAS de un compuesto equivalente
+                                               LISTADO 4
+   CLASIFICACION DE RESIDUOS PELIGROSOS RESULTADO DEL DESECHO DE PRODUCTOS
+      QUIMICOS FUERA DE ESPECIFICACIONES O CADUCOS (TOXICOS CRONICOS)
+    No. CAS                                     Nombre                                    CPR       Clave
+   630206        1,1,1,2-Tetracloroetano                                                 (Tt)     T208
+   79345         1,1,2,2-Tetracloroetano                                                 (Tt)     T209
+    79005        1,1,2-Tricloroetano                                                     (Tt)     T227
+    75354        1,1-Dicloroetileno                                                      (Tt)     T078
+    57147        1,1-Dimetilhidracina                                                    (Tt)     T098
+    95943        1,2,4,5-Tetraclorobenceno                                               (Tt)     T207
+  1464535        1,2:3,4-Diepoxibutano                                                  (I,Tt)    T085
+    96128        1,2-Dibromo-3-cloropropano                                              (Tt)     T066
+    106-93-4       1,2-Dibromoetano                                                        (Tt)     T067
+   122667        1,2-Difenilhidracina                                                    (Tt)     T109
+   540738        1,2-Dimetilhidracina                                                    (Tt)     T099
+    99354        1,3,5-Trinitrobenceno                                                  (R,Tt)    T234
+   542756        1,3-Dicloropropileno/1-Propileno, 1,3-dicloro-                          (Tt)     T084
+   1120714       1,3-Propano sultona/1,2-Oxatiolano, 2,2-dióxido                         (Tt)     T193
+764410      1,4-Dicloro-2-butileno                                        (I,Tt)    T074
+ 123-91-1     1,4-Dioxano/1,4-Dietilenóxido                                  (Tt)     T108
+130154      1,4-Naftoquinona/1,4-Naftalendiona                             (Tt)     T166
+504609      1-Metilbutadieno/1,3-Pentadieno                               (I,Tt)    T186
+118796      2,4,6-Tribromofenol                                            (Tt)     T408
+120832      2,4-Diclorofenol                                               (Tt)     T081
+(1) 94-75-7   2,4-Diclorofenoxiacético ácido/2,4-D, sales y ésteres          (Tt)     T240
+121142      2,4-Dinitrotolueno                                             (Tt)     T105
+106514      2,5-Ciclohexadien-1,4-diona                                    (Tt)     T197
+87650       2,6-Diclorofenol                                               (Tt)     T082
+606202      2,6-Dinitrotolueno/2-metil-1,3-dinitrobenceno                  (Tt)     T106
+ 105-67-9     2-4-Dimetil fenol                                              (Tt)     T101
+ 53-96-3      2-Acetilaminofluoreno/acetamida, n-9h-fluoren-2-il-            (Tt)     T005
+110758      2-Cloroetil vinil éter/eteno, (2-cloroetoxi)-                  (Tt)     T042
+ 91-58-7      2-Cloronaftaleno/beta-Cloronaftaleno                           (Tt)     T047
+79469       2-Nitropropano                                                (I,Tt)    T171
+109068      2-Picolina/Piridina, 2-metil-                                  (Tt)     T191
+91941       3,3'-Diclorobenzidina                                          (Tt)     T073
+119937      3,3'-Dimetilbenzidina                                          (Tt)     T095
+119904      3,3'-Dimetoxibenzidina                                         (Tt)     T091
+56495       3-Metilclorantreno                                             (Tt)     T157
+ 101-14-4     4,4'-Metilenbis(2-cloroanilina)                                (Tt)     T158
+3165-93-3     4-Cloro-o-toluidina, hidrocloruro de                           (Tt)     T049
+99558       5-Nitro-o-toluidina                                            (Tt)     T181
+57976       7,12-Dimetilbenzo[a]antraceno                                  (Tt)     T094
+30558-43-1    A2213/Etanimidotioico ácido, 2-(Dimetilamino)-n-hidroxi-2-     (Tt)     T394
+              oxo-, metil éster
+ 75-36-5      Acetilo, cloruro de                                          (C,R,Tt)   T006
+ 98-86-2      Acetofenona/1-Fenil-etanona                                    (Tt)     T004
+ 67-64-1      Acetona                                                       (I,Tt)    T002
+ 75-05-8      Acetonitrilo/2-Propanona                                      (I,Tt)    T003
+ 79-06-1      Acrilamida/2-Propenamida                                       (Tt)     T007
+79107       Acrílico ácido/2-Propenoico ácido                             (I,Tt)    T008
+107-13-1      Acrilonitrilo/2-Propennitrilo                                  (Tt)     T009
+80159       alfa,alfa-Dimetil bencilhidroperóxido                         (R,Tt)    T096
+134327      alfa-Naftilamina/1-Naftalenamina                               (Tt)     T167
+61825       Amitrol/1H-1,2,4-Triazol-3-amina                               (Tt)     T011
+ 62-53-3      Anilina/Bencenamina                                           (I,Tt)    T012
+ 492-80-8     Auramina                                                       (Tt)     T014
+115026      Azaserina/L-serina, diazoacetato(éster)                        (Tt)     T015
+ 101-27-9     Barban                                                         (Tt)     T280
+ 71-43-2      Benceno                                                       (I,Tt)    T019
+ 72-43-5      Benceno, 1,1-(2,2,2-tricloroetiliden)bis[4-metoxi-            (Tt)     T247
+ 98-09-9      Bencensulfonilo, cloruro de                                  (C,R,Tt)   T020
+22781-23-3    Bendiocarb                                                     (Tt)     T278
+22961-82-6    Bendiocarb fenol                                               (Tt)     T364
+17804-35-2    Benomil                                                        (Tt)     T271
+ 98-87-3      Benzal, cloruro de/Diclorometilbenceno                         (Tt)     T017
+  92-87-5    Benzidina/[1,1'-Bifenil]-4,4'-diamina                              (Tt)     T021
+  56-55-3    Benzo(a)antraceno                                                  (Tt)     T018
+  50-32-8    Benzo(a)pireno                                                     (Tt)     T022
+ 225-51-4    Benzo(c)acridina                                                   (Tt)     T016
+  98-07-7    Benzotricloro/Triclorometilbenceno                               (C,R,Tt)   T023
+ 91598     Beta-Naftilamina/2-Naftalenamina/2-Naftilamina                     (Tt)     T168
+ 101-55-3    Bromofenil fenil éter                                              (Tt)     T030
+  74-83-9    Bromometano/Bromuro de metilo                                      (Tt)     T029
+ 75605     Cacodílico, ácido                                                  (Tt)     T136
+13765190   Calcio, cromato de                                                 (Tt)     T032
+ 111546    Carbamoditioico,      ácido,   1,2-etanodiilbis,    sales    y     (Tt)     T114
+             ésteres/Etilenbisditiocarbámico, ácido, sales y ésteres
+ 63252     Carbaril                                                           (Tt)     T279
+10605217   Carbendazim                                                        (Tt)     T372
+1563388    Carbofurano fenol                                                  (Tt)     T367
+ 56235     Carbono, tetracloruro de/Tetraclorometano                          (Tt)     T211
+353504     Carbono, oxifluoruro de                                           (R,Tt)    T033
+506683     Cianógeno, bromuro de (CN)Br                                       (Tt)     T246
+ 50180     Ciclofosfamida                                                     (Tt)     T058
+110827     Ciclohexano                                                       (I,Tt)    T056
+108941     Ciclohexanona                                                     (I,Tt)    T057
+ 75876     Cloral/Acetaldehído, tricloro                                      (Tt)     T034
+305033     Clorambucil                                                        (Tt)     T035
+ 57749     Clordano, alfa y gamma isómeros                                    (Tt)     T036
+494031     Clornafacina/Naftalenamina, n,n'-bis(2-Cloroetil)-                 (Tt)     T026
+108907     Clorobenceno                                                       (Tt)     T037
+510156     Clorobenzilato                                                     (Tt)     T038
+67663      Cloroformo/Triclorometano                                          (Tt)     T044
+107302     Clorometil metil éter/Clorometoximetano                            (Tt)     T046
+ 8001-58-9   Creosota                                                           (Tt)     T051
+1319773    Cresol (cresílico ácido)/Metilfenol                                (Tt)     T052
+218019     Criseno                                                            (Tt)     T050
+4170303    Crotonaldehído/2-Butenal                                           (Tt)     T053
+ 98828     Cumeno/Benceno, (1-metiletil)-                                     (Tt)     T055
+20830813   Daunomicina                                                        (Tt)     T059
+  72-54-8    DDD                                                                (Tt)     T060
+  50-29-3    DDT                                                                (Tt)     T061
+2303164    Dialato                                                            (Tt)     T062
+ 53703     Dibenz[a,h]antraceno                                               (Tt)     T063
+189559     Dibenzo[a,i]pireno                                                 (Tt)     T064
+  84-74-2    Dibutil ftalato                                                    (Tt)     T069
+ 75718     Diclorodifluorometano                                              (Tt)     T075
+ 111-44-4    Dicloroetil éter/Etano, 1,1-oxibis[2-cloro-                       (Tt)     T025
+108601     Dicloroisopropil éter/Propano, 2,2'-oxibis[2-cloro-                (Tt)     T027
+ 111911    Diclorometoxi etano                                                (Tt)     T024
+ 84662     Dietil ftalato                                                     (Tt)     T088
+5952261    Dietilen glicol, dicarbamato/Etanol, 2,2-oxibis-, dicarbamato     (Tt)     T395
+ 117-81-7    Dietilhexil ftalato                                                (Tt)     T028
+ 56531     Dietilstilbesterol/Fenol, 4,4-(1,2-dietil- 1,2-etenediil)bis-    (Tt)    T089
+ 94586     Dihidrosafrole                                                    (Tt)    T090
+131113     Dimetil ftalato                                                   (Tt)    T102
+77781      Dimetil sulfato/Sulfúrico ácido, Dimetil éster                    (Tt)    T103
+124403     Dimetilamina/Metanamina, n-metil                                 (I,Tt)   T092
+ 79447     Dimetilcarbamil, cloruro de/Carbámico cloruro de, dimetil         (Tt)    T097
+117840     Di-n-octil ftalato                                                (Tt)    T107
+621647     Di-n-propilnitrosamina/1-Propanamina, n-nitroso-n-propil-         (Tt)    T111
+142847     Dipropilamina/1-Propanamina, n-propil-                           (I,Tt)   T110
+ 106898    Epiclorohidrín/Oxirano, (clorometil)-2-                           (Tt)    T041
+18883664   Estreptozotocina/D-glucosa, 2-deoxi-2-[[(metilnitrosoamino)-      (Tt)    T206
+             carbonoil]amino]
+ 75070     Etanal/Acetaldehído                                              (I,Tt)   T001
+127184     Eteno, tetracloro-                                                (Tt)    T210
+  51-79-6    Etil carbamato (uretano)/Carbámico ácido, etil éster              (Tt)    T238
+  60-29-7    Etil éter                                                        (I,Tt)   T117
+  97-63-2    Etil metacrilato/2-Propenoico ácido, 2-metil-, etil éster         (Tt)    T118
+  62-50-0    Etil metanosulfonato/Metanosulfónico ácido, etil éster            (Tt)    T119
+110805     Etilen glicol monoetil éter/Etanol, 2-etoxi-                      (Tt)    T359
+ 107-06-2    Etileno dicloruro de/1,2-Dicloroetano                             (Tt)    T077
+ 96457     Etilentiourea/2-imidazolidintiona                                 (Tt)    T116
+ 75343     Etilideno, dicloruro de/Etano 1,1-dicloro-                        (Tt)    T076
+141786     Etilo, acetato de/Acético ácido, etil éster                      (I,Tt)   T112
+140885     Etilo, acrilato de/2-Propenoico ácido, etil éster                (I,Tt)   T113
+ 62442     Fenacetina                                                        (Tt)    T187
+108952     Fenol                                                             (Tt)    T188
+ 206440    Fluoranteno                                                       (Tt)    T120
+7664393    Fluorhídrico, ácido                                              (C,Tt)   T134
+ 50000     Formaldehído                                                      (Tt)    T122
+ 64186     Fórmico, ácido                                                   (C,Tt)   T123
+1314803    Fósforo, sulfuro de                                              (R,Tt)   T189
+ 85449     Ftálico anhídrido/1,3-Isobenzofurandiona                          (Tt)    T190
+ 98011     Furfural                                                         (I,Tt)   T125
+110009     Furfurano/Furan                                                  (I,Tt)   T124
+ 58-89-9     Gamma-BHC/Lindano                                                 (Tt)    T129
+118741     Hexaclorobenceno                                                  (Tt)    T127
+ 87683     Hexaclorobutadieno/1,3-Butadieno, 1,1,2,3,4,4-hexacloro           (Tt)    T128
+ 77474     Hexaclorociclopentadieno/1,3-Ciclopentadieno, 1,2,3,4,5,5-        (Tt)    T130
+             hexacloro-
+ 67721     Hexacloroetano                                                    (Tt)    T131
+ 70304     Hexaclorofeno/2,2-Metilenobis[3,4,6-triclorofenol                (Tt)    T132
+1888717    Hexacloropropeno/1-Propeno, 1,1,2,3,3,3-hexacloro-                (Tt)    T243
+ 302012    Hidrazina                                                        (R,Tt)   T133
+1615801    Hidrazina, 1,2-dietil-                                            (Tt)    T086
+193395     Indeno[1,2,3-cd]pireno                                            (Tt)    T137
+ 78831     Isobutil alcohol/1-Propanol, 2-metil-                            (I,Tt)   T140
+120581     Isosafrola                                                        (Tt)    T141
+143500     Kepona                                                            (Tt)    T142
+303341    Lasiocarpina                                                     (Tt)    T143
+123331    Maleica, hidracida/3,6-Piridazinediona, 1,2-dihidro-,            (Tt)    T148
+108316    Maleico, anhídrido/2,5-Furandiona                                (Tt)    T147
+109773    Malononitrilo/Propanodinitrilo                                   (Tt)    T149
+541731    M-diclorobenceno/Benceno, 1,3-dicloro-                           (Tt)    T071
+148823    Melfalan/L-fenilalanina, 4-[bis(2-Cloroetil)amino]               (Tt)    T150
+7439-97-6   Mercurio (todas las formas)                                      (Tt)    T151
+126987    Metacrilonitrilo/2-Propenenitrilo, 2-metil                      (I,Tt)   T152
+67561     Metanol                                                         (I,Tt)   T154
+91805     Metapirileno                                                     (Tt)    T155
+79221     Metil clorocarbonato/carbonoclorídico ácido, metil éster        (I,Tt)   T156
+ 71-55-6    Metil cloroformo/1,1,1-tricloroetano                             (Tt)    T226
+78933     Metil etil cetona (MEK)/2-butanona                              (I,Tt)   T159
+1338234   Metil etil cetona peróxido/2-butanona, peróxido                 (R,Tt)   T160
+108101    Metil isobutil cetona/4-Metil-2-pentanona/4-Metilpentanol       (I,Tt)   T161
+80626     Metil metacrilato/2-Propenoico ácido, 2-metil-, metil éster     (I,Tt)   T162
+ 74-95-3    Metileno bromuro de                                              (Tt)    T068
+75092     Metileno cloruro de/Metano, dicloro-                             (Tt)    T080
+ 74-87-3    Metilo cloruro de                                               (I,Tt)   T045
+ 74-88-4    Metilo, ioduro de                                                (Tt)    T138
+56042     Metiltiouracilo                                                  (Tt)    T164
+2385-85-5   Mirex                                                            (Tt)    T1000
+50077     Mitomicín C                                                      (Tt)    T010
+70257     MNNG/Guanidina, n-metil-n'-nitro-n-nitroso-                      (Tt)    T163
+91203     Naftaleno                                                        (Tt)    T165
+71363     n-Butil alcohol/1-Butanol                                       (I,Tt)   T031
+98953     Nitrobenceno                                                    (I,Tt)   T169
+1116547   n-Nitrosodietanolamina                                           (Tt)    T173
+55185     n-Nitrosodietilamina                                             (Tt)    T174
+924163    n-Nitrosodi-n-butilamina                                         (Tt)    T172
+759739    n-Nitroso-n-etilurea                                             (Tt)    T176
+684935    n-Nitroso-n-metilurea                                            (Tt)    T177
+615532    n-Nitroso-n-metiluretano/Carbámico ácido, metilnitroso-, etil    (Tt)    T178
+            éster
+100754    n-Nitrosopiperidina/Piperidina, 1-nitroso                        (Tt)    T179
+930552    n-Nitrosopirrolidina/Pirrolidina, 1-nitroso                      (Tt)    T180
+107108    n-Propilamina/1-Propanamina                                     (I,Tt)   T194
+3288582   o,o-dietil s-metil ditiofosfato                                  (Tt)    T087
+ 95-57-8    o-Clorofenol/2-Clorofenol                                        (Tt)    T048
+95501     o-Diclorobenceno                                                 (Tt)    T070
+95534     o-Toluidina                                                      (Tt)    T328
+636-21-5    o-Toluidina, hidrocloruro de                                     (Tt)    T222
+75218     Oxirano/Etileno, óxido de                                       (I,Tt)   T115
+765344    Oxiranocarboxialdehído/Glicidilaldehído                          (Tt)    T126
+123637    Paraldehído/1,3,5-Trioxano, 2,4,6-trimetil-                      (Tt)    T182
+59507     p-Cloro-m-cresol/4-Cloro-3-metilfenol                            (Tt)    T039
+106467    p-Diclorobenceno                                                 (Tt)    T072
+60117     p-Dimetilaminoazobenceno                                         (Tt)    T093
+608935      Pentaclorobenceno                                                        (Tt)    T183
+ 76017      Pentacloroetano                                                          (Tt)    T184
+82688       Pentacloronitrobenceno (PCNB)                                            (Tt)    T185
+110861      Piridina                                                                 (Tt)    T196
+1335326     Plomo, subacetato/Plomo, bis(acetato-o)tetrahidroxitri-                  (Tt)    T146
+301042      Plomo, acetato de                                                        (Tt)    T144
+7446277     Plomo, fosfato de                                                        (Tt)    T145
+100027      p-Nitrofenol/4-Nitrofenol                                                (Tt)    T170
+122429      Profam/Carbámico ácido, fenil-,1-metiletil éster                         (Tt)    T373
+23950585    Pronamida                                                                (Tt)    T192
+  78-87-5     Propileno, dicloruro de/1,2-Dicloropropano                               (Tt)    T083
+114261      Propoxur/Fenol, 2-(1-metiletoxi)-, metilcarbamato                        (Tt)    T411
+52888809    Prosulfocarb/Carbamotioico       ácido,   dipropil-,   s-(fenilmetil)    (Tt)    T387
+              éster
+106490      p-Toluidina                                                              (Tt)    T353
+ 50555      Reserpina                                                                (Tt)    T200
+108463      Resorcinol                                                               (Tt)    T201
+(1) 81072   Sacarina, y sales/1,2-Benzisotiazol-3(2h)-ona, 1,1-dióxido, y            (Tt)    T202
+              sales
+ 94597      Safrole                                                                  (Tt)    T203
+7783008     Selenio, dióxido de                                                      (Tt)    T204
+7488564     Selenio, sulfuro de SeS2                                                (R,Tt)   T205
+7783064     Sulfhídrico, ácido                                                       (Tt)    T135
+563688      Talio, acetato de                                                       (I,Tt)   T214
+6533739     Talio, carbonato de/Carbonoico ácido, ditalio(1+) sal                   (I,Tt)   T215
+7791120     Talio, cloruro de                                                        (Tt)    T216
+10102451    Talio, nitrato de/Nítrico ácido, sal de talio (1+)                      (I,Tt)   T217
+127184      Tetracloroetileno                                                        (Tt)    T210
+109999      Tetrahidrofurano                                                        (I,Tt)   T213
+ 62555      Tioacetamida/Etanotioamida                                               (Tt)    T218
+59669260    Tiodicarb                                                                (Tt)    T410
+23564058    Tiofanato-metil                                                          (Tt)    T409
+ 74931      Tiometanol/Metanotiol                                                   (I,Tt)   T153
+ 62566      Tiourea                                                                  (Tt)    T219
+137268      Tiram                                                                    (Tt)    T244
+25376458    Toluendiamina                                                            (Tt)    T221
+26471625    Tolueno, diisocianato de                                                (R,Tt)   T223
+108883      Tolueno/Metilbenceno                                                     (Tt)    T220
+ 156-60-5     Trans-1,2-dicloroetileno/1,2-dicloroetileno                              (Tt)    T079
+2303175     Trialato                                                                 (Tt)    T389
+  75-25-2     Tribromometano/Bromoformo                                                (Tt)    T225
+ 79016      Tricloroetileno                                                          (Tt)    T228
+ 75694      Tricloromonofluorometano                                                 (Tt)    T121
+121448      Trietilamina/Etanamina, n,n-dietil-                                     (I,Tt)   T404
+ 72571      Tripan, azul de                                                          (Tt)    T236
+126727      Tris (2,3-dibromopropil) fosfato/1-propanol, 2,3-dibromo-,               (Tt)    T235
+              fosfato (3:1)
+ 66751      Uracilo, mostaza de                                                      (Tt)    T237
+    75014        Vinilo, cloruro de/Cloroeteno                                        (Tt)     T043
+  (1) 81812      Warfarina, y sales, cuando están                   presentes   en    (Tt)     T248
+                   concentraciones menores que 0.3%
+  1330207        Xileno, isómeros                                                     (Tt)     T239
+  1314847        Zinc,   fosfuro    de    Zn3P2,    cuando   está    presente   en    (Tt)     T249
+                   concentraciones menores o iguales a 10%
+NOTAS:
+1.- En el caso de familias de isómeros de compuestos orgánicos, sólo se menciona el nombre del grupo,
+todos los isómeros se deben considerar constituyentes tóxicos (p.e. diclorobencenos, incluye al 1,2 1,3 y
+1,4 diclorobencenos).
+2.- La llamada (1) indica el número CAS de un compuesto equivalente.
+
+
+                                                 LISTADO 5
+              CLASIFICACION POR TIPO DE RESIDUOS, SUJETOS A CONDICIONES
+                              PARTICULARES DE MANEJO
+                                       Residuo                                           CPR     Clave
+                                BATERIAS, CELDAS Y PILAS
+CELDAS DE DESECHO EN LA PRODUCCION DE BATERIAS NIQUEL-CADMIO                              (T)    RP 1/01
+PILAS O BATERIAS ZINC-OXIDO DE PLATA USADAS O DESECHADAS                                  (T)    RP 1/02
+                                CATALIZADORES GASTADOS
+CATALIZADOR GASTADO CON OXIDOS DE FIERRO, CROMO Y POTASIO
+PROVENIENTES DEL REACTOR DE DESHIDROGENACION EN LA PRODUCCION DE                          (T)    RP 2/01
+ESTIRENO
+CATALIZADOR GASTADO DE CLORURO DE MERCURIO EN LA PRODUCCION DE
+                                                                                          (T)    RP 2/02
+CLORO
+CATALIZADOR GASTADO DE LA PURGA DE LA TORRE DE APAGADO EN LA
+                                                                                          (T)    RP 2/03
+PRODUCCION DE ACRILONITRILO
+CATALIZADORES GASTADOS EN LA PRODUCCION DE MATERIALES PLASTICOS Y
+                                                                                          (T)    RP 2/04
+RESINAS SINTETICAS
+CATALIZADORES GASTADOS DE VEHICULOS AUTOMOTORES                                          (T,C)   RP 2/05
+                                           ESCORIAS
+ESCORIAS PROVENIENTES DEL HORNO DE FUNDICION DE CHATARRA EN LA
+                                                                                          (T)    RP 3/01
+PRODUCCION DE ALUMINIO
+ESCORIAS PROVENIENTES DEL HORNO ELECTRICO EN LA PRODUCCION DE
+                                                                                          (T)    RP 3/02
+FOSFORO
+ESCORIAS PROVENIENTES DEL HORNO EN LA PRODUCCION SECUNDARIA DE
+                                                                                          (T)    RP 3/03
+COBRE
+ESCORIAS PROVENIENTES DEL HORNO EN LA PRODUCCION SECUNDARIA DE
+                                                                                          (T)    RP 3/04
+PLOMO
+                                            LODOS
+ACABADO DE METALES Y GALVANOPLASTIA
+LODOS DE LOS TANQUES DE ENFRIAMIENTO CON ACEITES UTILIZADOS EN LAS
+                                                                                          (T)    RP 4/01
+OPERACIONES DE TRATAMIENTO EN CALIENTE DE METALES
+LODOS PROVENIENTES         DE    LAS       OPERACIONES    DE   DECAPADO       O   DEL
+                                                                                          (T)    RP 4/02
+DESENGRASADO
+LODOS PROVENIENTES DE LOS BAÑOS DE CADMIZADO, COBRIZADO, CROMADO,
+ESTAÑADO, FOSFATIZADO, LATONADO, NIQUELADO, PLATEADO, TROPICALIZADO O                    (T,C)   RP 4/03
+ZINCADO DE PIEZAS METALICAS
+BENEFICIO DE METALES
+LODOS DEL ANODO ELECTROLITICO EN LA PRODUCCION PRIMARIA DE ZINC                           (T)    RP 4/04
+LODOS DEL EQUIPO DE CONTROL DE EMISIONES DE HORNOS ELECTRICOS EN LA
+                                                                                          (T)    RP 4/05
+PRODUCCION DE HIERRO Y ACERO
+LODOS DEL LAVADOR DE GASES EN LA FUNDICION Y REFINADO DE ALUMINIO                         (T)    RP 4/06
+LODOS DE LA MANUFACTURA DE ALEACIONES DE NIQUEL                                           (T)    RP 4/07
+LODOS DE LAS PURGAS DE LAS PLANTAS DE ACIDO EN LA PRODUCCION PRIMARIA
+                                                                                          (T)    RP 4/08
+DE COBRE
+LODOS DEL EQUIPO DE CONTROL DE EMISIONES DE LA PRODUCCION DE
+                                                                          (T)     RP 4/09
+FERROALEACIONES DE HIERRO-CROMO-SILICIO
+LODOS PROVENIENTES DE LA LAGUNA DE EVAPORACION EN LA PRODUCCION
+                                                                          (T)     RP 4/10
+PRIMARIA DE PLOMO
+LODOS DEL EQUIPO DE CONTROL DE EMISIONES DEL AFINADO EN LA PRODUCCION
+                                                                          (T)     RP 4/11
+PRIMARIA DE PLOMO
+CURTIDURIA
+LODOS GENERADOS EN EL PROCESO DE DESENCALADO Y DEPILADO                  (C,R)    RP 4/12
+LODOS GENERADOS EN EL PROCESO DE PELAMBRE O DEPILADO (ENCALADO)          (C,R)    RP 4/13
+LODOS GENERADOS EN LA ETAPA DE CURTIDO AL CROMO                           (C)     RP 4/14
+MATERIALES PLASTICOS Y RESINAS SINTETICAS
+LODOS DE LAS AGUAS RESIDUALES DE LOS SISTEMAS DE LAVADO DE EMISIONES
+                                                                          (T)     RP 4/15
+ATMOSFERICAS
+LODOS DE TANQUES DE ALMACENAMIENTO DE MONOMEROS                          (T,I)    RP 4/16
+METALMECANICA
+LODOS GENERADOS EN LAS CASETAS DE APLICACION DE PINTURA                   (T)     RP 4/17
+LODOS PRODUCTO DE LA REGENERACION DE ACEITES DE ENFRIAMIENTO
+                                                                          (T)     RP 4/18
+GASTADOS
+PETROLEO, GAS Y PETROQUIMICA
+LODOS DE LOS SEPARADORES API Y CARCAMOS EN LA PRODUCCION DE
+                                                                         (T,I)    RP 4/19
+PETROQUIMICOS
+PINTURAS Y PRODUCTOS RELACIONADOS
+LODOS DE DESTILACION DE SOLVENTES                                         (T)     RP 4/20
+
+                        LODOS DE TRATAMIENTO DE AGUAS RESIDUALES
+ACABADO DE METALES Y GALVANOPLASTIA
+LODOS DE TRATAMIENTO DE LAS AGUAS RESIDUALES PROVENIENTES DE LAS
+OPERACIONES DE ENJUAGUE DE PIEZAS METALICAS PARA REMOVER SOLUCIONES        (T)    RP 5/01
+CONCENTRADAS
+PILAS Y BATERIAS
+LODOS DE TRATAMIENTO DE AGUAS RESIDUALES EN LA PRODUCCION DE BATERIAS
+                                                                           (T)    RP 5/02
+PLOMO-ACIDO
+LODOS DEL TRATAMIENTO DE AGUAS RESIDUALES EN LA PRODUCCION DE BATERIAS
+                                                                           (T)    RP 5/03
+NIQUEL-CADMIO
+QUIMICA INORGANICA
+LODOS DEL TRATAMIENTO DE LAS AGUAS RESIDUALES EN LA PRODUCCION DE
+                                                                           (T)    RP 5/04
+ACIDO FLUORHIDRICO
+                                            POLVOS
+BENEFICIO DE METALES
+POLVOS DEL EQUIPO DE CONTROL DE EMISIONES DE HORNOS ELECTRICOS EN LA
+                                                                           (T)    RP 6/01
+PRODUCCION DE HIERRO Y ACERO
+POLVOS DEL EQUIPO DE CONTROL DE EMISIONES DEL AFINADO EN LA PRODUCCION
+                                                                           (T)    RP 6/02
+PRIMARIA DE PLOMO
+POLVOS DEL EQUIPO DE CONTROL DE EMISIONES DE LA PRODUCCION DE
+                                                                           (T)    RP 6/03
+FERROALEACIONES DE HIERRO-CROMO
+POLVOS DEL EQUIPO DE CONTROL DE EMISIONES DE LA PRODUCCION DE
+                                                                           (T)    RP 6/04
+FERROALEACIONES DE HIERRO-CROMO-SILICIO
+QUIMICA INORGANICA
+POLVOS RECUPERADOS EN EL PRECIPITADOR ELECTROSTATICO O CASA DE BOLSA
+                                                                           (T)    RP 6/05
+EN LA PRODUCCION DE FOSFORO
+                                      OTROS RESIDUOS
+ACABADO DE METALES Y GALVANOPLASTIA
+ACEITES GASTADOS EN LAS OPERACIONES DE TRATAMIENTO EN CALIENTE DE
+                                                                           (T)    RP 7/01
+METALES
+SALES PRECIPITADAS DE LOS BAÑOS DE REGENERACION DE NIQUEL                  (T)    RP 7/02
+RESIDUOS CONTENIENDO MERCURIO DE LOS PROCESOS ELECTROLITICOS               (T)    RP 7/03
+RESIDUOS DE CATALIZADORES AGOTADOS                                        (T,C)   RP 7/04
+BENEFICIO DE METALES
+COLAS EN LAS PLANTAS DE MANUFACTURA DE FERROALEACIONES DE HIERRO-
+                                                                            (T)      RP 7/05
+NIQUEL
+PURGAS DE LA PLANTA DE ACIDO EN LA PRODUCCION PRIMARIA DE ZINC              (T)      RP 7/06
+RESIDUO DE LIXIVIADO DE LA PLANTA DE CADMIO EN LA PRODUCCION PRIMARIA DE
+                                                                            (T)      RP 7/07
+ZINC
+COMPONENTES ELECTRONICOS
+RESIDUOS DE SOLDADURA EN LA PRODUCCION DE CIRCUITOS ELECTRONICOS QUE
+                                                                            (T)      RP 7/08
+CONTENGAN PLOMO U OTROS METALES DE LA TABLA 2 DE ESTA NOM
+RESIDUOS DE SOLVENTES EMPLEADOS EN LA LIMPIEZA DE LAS PLACAS EN LA
+                                                                            (T)      RP 7/09
+PRODUCCION DE CIRCUITOS ELECTRONICOS
+RESIDUOS GENERADOS EN LA PREPARACION DE PIGMENTOS MAGNETICOS Y EN LA
+PREPARACION DE LA MEZCLA DE COBERTURA EN LA PRODUCCION DE CINTAS            (T)      RP 7/10
+MAGNETICAS
+RESIDUOS PROVENIENTES DEL RECUBRIMIENTO        DE   TUBOS   ELECTRONICOS
+                                                                            (T)      RP 7/11
+DURANTE LA PRODUCCION DE LOS MISMOS
+CURTIDURIA
+RESIDUOS QUE CONTIENEN CROMO POR ENCIMA DE LOS LMP DE LA TABLA 2
+EXCEPTO SI: TODAS LAS SALES O SOLUCIONES UTILIZADAS EN EL PROCESO
+                                                                            (T)      RP 7/12
+PRODUCTOR SEAN DE CROMO TRIVALENTE Y LOS RESIDUOS SE MANEJEN DURANTE
+TODO SU CICLO DE VIDA EN CONDICIONES NO OXIDANTES
+EXPLOSIVOS
+RESIDUOS DE ACIDOS GASTADOS DE LA MANUFACTURA DE DINAMITA Y POLVORA        (R,E)     RP 7/13
+RESIDUOS DE LA MANUFACTURA DE CERILLOS Y PRODUCTOS PIROTECNICOS            (R,E)     RP 7/14
+RESIDUOS DE LA MANUFACTURA DEL PROPELENTE SOLIDO                           (R,E)     RP 7/15
+MATERIALES PLASTICOS Y RESINAS SINTETICAS
+FONDOS DE TANQUES DE ALMACENAMIENTO DE MONOMEROS EN LA PRODUCCION
+                                                                            (T,I)    RP 7/16
+DE MATERIALES PLASTICOS Y RESINAS SINTETICAS
+METALMECANICA
+ACEITES GASTADOS DE CORTE Y ENFRIAMIENTO EN LAS OPERACIONES DE
+                                                                            (T)      RP 7/17
+TROQUELADO, FRESADO, TALADRADO Y ESMERILADO
+CARBON ACTIVADO AGOTADO PROVENIENTE DEL SISTEMA DE EMISIONES DE LA
+                                                                            (T)      RP 7/18
+CASETA DE PINTADO
+RESIDUOS DEL PROCESO DE EXTRUSION DE TUBERIA DE COBRE                       (T)      RP 7/19
+RESIDUOS DE LAS OPERACIONES DE LIMPIEZA ALCALINA O ACIDA                   (C,T)     RP 7/20
+PETROLEO, GAS Y PETROQUIMICA
+ACEITES SOLUBLES EN ACIDO (ASAS) PROVENIENTES DE LOS PROCESOS DE
+                                                                             (I)     RP 7/21
+ALQUILACION DE HIDROCARBUROS
+AMINAS GASTADAS, FILTROS DE AMINA CONTAMINADA, LODOS DE AMINA, SOLUCION
+ACUOSA DE AMINA CONTAMINADA, PRODUCTOS DE LA DEGRADACION DE LA AMINA,
+ASI COMO SOLIDOS RECUPERADOS (FONDOS) PROVENIENTES DEL PROCESO DE
+                                                                            (T)      RP 7/22
+ENDULZAMIENTO DEL GAS Y CONDENSADOS AMARGOS. OTROS PRODUCTOS DE LA
+DEGRADACION DE AMINAS DEL PROCESO DE ENDULZAMIENTO, CRACKING Y
+FRACCIONAMIENTO DE AZUFRE
+CLORADOS INTERMEDIOS PROVENIENTES        DEL   FONDO   DE   LA   COLUMNA
+                                                                           (C,T,I)   RP 7/23
+REDESTILADORA DE MONOMERO DE VINILO
+CLORADOS PESADOS PROVENIENTES DE LOS FONDOS DE LA COLUMNA DE
+                                                                           (C,T,I)   RP 7/24
+PURIFICACION DE DICLOROETANO
+DERIVADOS HEXACLORADOS PROVENIENTES DE LOS FONDOS DE LA COLUMNA DE
+                                                                            (T)      RP 7/25
+RECUPERACION DE PERCLOROETILENO
+POLIMERO DE LA PURGA DE LA TORRE DE APAGADO EN LA PRODUCCION DE
+                                                                            (T)      RP 7/26
+ACRILONITRILO
+RESIDUOS DE LA DESHIDROGENACION DEL N-BUTANO EN LA PRODUCCION DE
+                                                                            (T)      RP 7/27
+BUTADIENO
+SEDIMENTO IMPREGNADO DE HIDROCARBUROS PROVENIENTES DE LAS CORRIDAS
+                                                                            (T)      RP 7/28
+DE DIABLO
+SOSAS GASTADAS Y SOSAS FENOLICAS PROVENIENTES DE LOS PROCESOS DE
+                                                                           (C,T)     RP 7/29
+ENDULZAMIENTO DE HIDROCARBUROS
+PILAS Y BATERIAS
+PASTA DE DESECHO EN LA PRODUCCION DE PILAS SECAS (CELDAS PRIMARIAS-
+                                                                              (T)     RP 7/30
+ALCALINAS Y ACIDAS)
+RESIDUOS DE LOS HORNOS DE LA PRODUCCION DE BATERIAS DE MERCURIO               (T)     RP 7/31
+PINTURAS Y PRODUCTOS RELACIONADOS
+FELPAS IMPREGNADAS DE PIGMENTOS DE CROMO Y PLOMO                              (T)     RP 7/32
+RESIDUOS DE AGENTES SECANTES PARA PINTURAS, LACAS, BARNICES, MASILLAS
+                                                                              (T)     RP 7/33
+PARA RESANAR Y PRODUCTOS DERIVADOS
+RESIDUOS DE DISOLVENTES EMPLEADOS EN EL LAVADO DE LOS EQUIPOS DE
+                                                                             (T,C)    RP 7/34
+PROCESO
+RESIDUOS DE MONOMEROS AUTOPOLIMERIZABLES                                     (T,R)    RP 7/35
+RESIDUOS DE RETARDADORES DE FLAMA                                             (T)     RP 7/36
+RESIDUOS DEL EQUIPO DE CONTROL DE LA CONTAMINACION DEL AIRE                   (T)     RP 7/37
+QUIMICA FARMACEUTICA
+CARBON ACTIVADO GASTADO DE LA PRODUCCION DE FARMOQUIMICOS Y
+MEDICAMENTOS QUE HAYA TENIDO CONTACTO CON PRODUCTOS QUE CONTENGAN             (T)     RP 7/38
+CONSTITUYENTES TOXICOS DE LOS LISTADOS 3 Y 4 DE ESTA NORMA
+LOS MEDICAMENTOS FUERA DE ESPECIFICACIONES O CADUCOS             QUE   NO
+                                                                              (T)     RP 7/39
+APAREZCAN EN LOS LISTADOS 3 Y 4 DE ESTA NORMA OFICIAL MEXICANA
+RESIDUOS BIOLOGICOS NO INACTIVADOS DE LA PRODUCCION DE BIOLOGICOS Y
+                                                                              (B)     RP 7/40
+HEMODERIVADOS
+RESIDUOS DE LA PRODUCCION DE BIOLOGICOS Y HEMODERIVADOS QUE
+                                                                              (B)     RP 7/41
+CONTENGAN CONSTITUYENTES TOXICOS DE LOS LISTADOS 3 Y 4 DE ESTA NORMA
+RESIDUOS DE LA PRODUCCION DE FARMOQUIMICOS Y MEDICAMENTOS QUE
+                                                                              (T)     RP 7/42
+CONTENGAN CONSTITUYENTES TOXICOS DE LOS LISTADOS 3 Y 4 DE ESTA NORMA
+QUIMICA INORGANICA
+FILTRO AYUDA GASTADO (TORTAS DE FILTROS) EN LA PRODUCCION DE FOSFORO Y
+                                                                              (T)     RP 7/43
+PIGMENTOS DE CROMO Y DERIVADOS
+RESIDUOS DE LA PRODUCCION DE CARBONILO DE NIQUEL                              (T)     RP 7/44
+QUIMICA ORGANICA
+MEDIOS FILTRANTES GASTADOS DE LA PRODUCCION DE 2,4,6-TRIBROMOFENOL            (T)     RP 7/45
+RESIDUOS Y SUBPRODUCTOS DEL REACTOR EN LA PRODUCCION                   DEL
+                                                                              (T)     RP 7/46
+NITROBENCENO
+RESIDUOS DE LA DESTILACION EN LA PRODUCCION DE ANHIDRIDO MALEICO             (T, C)   RP 7/47
+RESIDUOS DE LA PRODUCCION DE 2,4,6-TRIBROMOFENOL                              (T)     RP 7/48
+RESIDUOS DE LAS TORRES DE LAVADO DE GASES EN LA PRODUCCION DE METIL ETIL
+                                                                              (T)     RP 7/49
+PIRIDINA
+TEXTILES
+AGENTES MORDIENTES GASTADOS RESIDUALES                                        (T)     RP 7/50
+RESIDUOS ACIDOS O ALCALINOS                                                  (C)      RP 7/51
+RESIDUOS DE ADHESIVOS Y POLIMEROS                                             (T)     RP 7/52
+RESIDUOS DE AGENTES ENLAZANTES Y DE CARBONIZACION                             (T)     RP 7/53
+RESIDUOS PROVENIENTES DEL BLANQUEADO                                         (C,T)    RP 7/54
+VARIOS
+CENIZAS DE INCINERACION DE RESIDUOS                                           (T)     RP 7/55
+GASOLINA, DIESEL Y NAFTAS GASTADOS O SUCIOS PROVENIENTES DE ESTACIONES
+                                                                              (T)     RP 7/56
+DE SERVICIO Y TALLERES AUTOMOTRICES
+RESIDUOS DE LIQUIDO BLANQUEADOR, FIJADOR, ESTABILIZADOR Y AGUAS DE
+ENJUAGUE PROVENIENTES DEL REVELADO DE PAPEL FOTOGRAFICO, PLACAS               (T)     RP 7/57
+RADIOGRAFICAS O DE RAYOS X Y FOTOLITOS
+                                    SOLUCIONES GASTADAS
+ACABADO DE METALES Y GALVANOPLASTIA
+SOLUCIONES GASTADAS DE LOS BAÑOS DE ANODIZACION DEL ALUMINIO                  (T)     RP 8/01
+SOLUCIONES GASTADAS DE CIANURO DE LOS CRISOLES DE LIMPIEZA CON BAÑOS
+                                                                             (R,T)    RP 8/02
+DE SALES EN LAS OPERACIONES DE TRATAMIENTO EN CALIENTE DE METALES
+SOLUCIONES GASTADAS PROVENIENTES DE LAS OPERACIONES DE DECAPADO               (T)     RP 8/03
+SOLUCIONES GASTADAS PROVENIENTES DE LOS BAÑOS DE CADMIZADO,
+COBRIZADO, CROMADO, ESTAÑADO, FOSFATIZADO, LATONADO, NIQUELADO,              (T,C)    RP 8/04
+PLATEADO, TROPICALIZADO O ZINCADO DE PIEZAS METALICAS
+BENEFICIO DE METALES
+SOLUCION GASTADA DEL LAVADOR DE GASES QUE PROVIENE DEL PROCESO DEL
+                                                                              (T)     RP 8/05
+AFINADO EN LA PRODUCCION PRIMARIA DE PLOMO
+COMPONENTES ELECTRONICOS
+SOLUCIONES ACIDAS GASTADAS PROVENIENTES      DE    LA   LIMPIEZA   EN   LA
+                                                                              (T)    RP 8/06
+PRODUCCION DE SEMICONDUCTORES
+SOLUCIONES GASTADAS PROVENIENTES DEL BAÑO DE PLAQUEADO EN LA
+                                                                              (T)    RP 8/07
+PRODUCCION DE CIRCUITOS ELECTRONICOS
+METALMECANICA
+SOLUCIONES GASTADAS DE LOS BAÑOS DE TEMPLADO PROVENIENTES DE LAS
+                                                                              (T)    RP 8/08
+OPERACIONES DE ENFRIAMIENTO
+SOLUCIONES GASTADAS PROVENIENTES DE LA EXTRUSION                             (C,T)   RP 8/09
+PRESERVACION DE LA MADERA
+SOLUCIONES GASTADAS GENERADAS EN LOS PROCESOS DE PRESERVACION DE LA
+                                                                              (T)    RP 8/10
+MADERA
+
+
+
+
+                                     FIGURA 1.
+             DIAGRAMA DE FLUJO DEL PROCEDIMIENTO PARA IDENTIFICAR
+          LA PELIGROSIDAD DE UN RESIDUO (LISTADOS Y CARACTERIZACION)
+Para los residuos peligrosos de los Listados 1 y 2 se podrán solicitar Condiciones Particulares
+de Manejo, según lo establecido en el Reglamento.
+
+                                           ANEXO 1
+BASES PARA LISTAR RESIDUOS PELIGROSOS POR FUENTE ESPECIFICA Y FUENTE NO
+   ESPECIFICA, EN FUNCION DE SUS TOXICIDADES AMBIENTAL, AGUDA O CRONICA
+
+ Clave                        Constituyentes por los que se listaron los residuos
+ E1/01     Cianuro (complejos)
+ E1/02     Cromo hexavalente, plomo
+ E1/03     Cromo hexavalente, plomo, cadmio
+           Plomo,      benceno,     benzo(a)pireno,      dibenz(a,h)antraceno,       benzo(a)antraceno,
+ E1/04
+           benzo(b)flouranteno, benzo(k)fluoranteno, 3-metilclorantreno, 7,12-dimetilbenz(a)antraceno
+        Arsénico,    benceno,    benzo(a)antraceno,  benzo(b)fluoranteno,    benzo(k)fluoranteno,
+E2/01   benzo(a)pireno, cianuro, compuestos fenólicos, dibenz(a,h)antraceno, fenol, indeno(1,2,3-
+        cd)pireno, naftaleno
+
+E3/01   N.A.
+E3/02   Plomo
+E3/03   N.A.
+E4/01   Benceno y arsénico
+E4/02   Benceno, benzo(a)pireno, criseno, plomo, cromo
+E4/03   Benceno, benzo(a)pireno, criseno, plomo, cromo
+E4/04   Cromo hexavalente, plomo
+        Plomo,      benceno,     benzo(a)pireno,      dibenz(a,h)antraceno,       benzo(a)antraceno,
+E4/05
+        benzo(b)flouranteno, benzo(k)fluoranteno, 3-metilclorantreno, 7,12-dimetilbenz(a)antraceno.
+E4/06   Cromo hexavalente
+E4/07   Cromo hexavalente, plomo
+E4/08   Cromo hexavalente, plomo
+E4/09   Cloroformo, formaldehído, cloruro de metileno, cloruro de metilo, paraldehído, ácido fórmico
+        Cloroformo, formaldehído, cloruro de metileno, cloruro de metilo, paraldehído, ácido fórmico,
+E4/10
+        cloracetaldehído
+        Clorometano, diclorometano, triclorometano, tetracloruro de carbono, cloroetileno, 1,1-
+        dicloroetano, 1,2-dicloroetano, trans-1-1-dicloroetileno, 1,1-dicloroetileno, 1,1,1-tricloroetano,
+        1,1,2-tricloroetano,    tricloroetileno,   1,1,1,2-tetracloroetano,       1,1,2,2-tetracloroetano,
+        tetracloroetileno, pentacloroetano, hexacloroetano, cloruro de alilo (3-cloropropano),
+E4/11
+        dicloropropano,      dicloropropeno,      2-cloro-1,3-butadieno,       hexacloro-1,3-butadieno,
+        hexaclorociclopentadieno, hexaclorociclohexano, benceno, clorobenceno, diclorobencenos,
+        1,2,4-triclorobenceno, tetraclorobenceno, pentaclorobenceno, hexaclorobenceno, tolueno,
+        naftaleno
+E5/01   Plomo, cromo hexavalente
+        Arsénico,     hexaclorociclopentadieno,   creosota,    criseno,   naftaleno,   fluoranteno,
+        benzo(b)fluoranteno,      benzo(a)pireno,    indeno(1,2,3-cd)pireno,    benzo(a)antraceno,
+E6/01
+        dibenz(a)antraceno, acenaftaleno tolueno, ésteres de ácidos fósforoditioico y fósforotioico,
+        forato, formaldehído, toxafeno
+        Arsénico, hexaclorociclopentadieno, clordano, heptacloro, tolueno, ésteres de ácidos
+E6/02   fósforoditioico y fósforotioico, forato, formaldehído, 2,4-diclorofenol, 2,6-diclorofenol, 2,4,6-
+        triclorofenol, toxafeno, etilentiourea, dimetil sulfato y bromuro de metilo
+        Pentaclorofenol, fenol, 2-clorofenol, p-cloro-m-cresol, 2,4-dimetilfenil, 2,4-dinitrofenol,
+        triclorofenoles, tetraclorofenoles, 2,4-dinitrofenol, creosota, criseno, naftaleno, fluoranteno,
+E7/01
+        benzo(b)fluoranteno,       benzo(a)pireno,       indeno(1,2,3-cd)pireno,     benzo(a)antraceno,
+        dibenz(a)antraceno, acenaftaleno
+E8/01   Arsénico
+E8/02   Arsénico
+E9/01   Arsénico, plomo
+E9/02   Antimonio
+E9/03   Mercurio
+E9/04   Mercurio
+         Cloroformo, tetracloruro de carbono,             hexacloroetano,   tricloroetano,   tetracloroetileno,
+E9/05
+         dicloroetileno, 1,1,2,2-tetracloroetano
+E9/06    Cromo hexavalente, plomo
+E9/07    Cromo hexavalente, plomo
+E9/08    Cromo hexavalente
+E9/09    Cromo hexavalente
+E9/10    Cianuro (complejos), cromo hexavalente
+E9/11    Cromo hexavalente, plomo
+E9/12    Cromo hexavalente
+E9/13    Talio
+E10/01   Acrilonitrilo, acetonitrilo, ácido cianhídrico
+E10/02   Acrilonitrilo, acetonitrilo, ácido cianhídrico
+E10/03   Acetonitrilo, acrilamida
+E10/04   Anhídrido ftálico, anhídrido maléico
+E10/05   Anhídrido ftálico, 1,4-naftoquinona
+E10/06   Anhídrido ftálico, anhídrido maléico
+E10/07   Anhídrido ftálico
+E10/08   Anilina, difenilamina, nitrobenceno, fenilenediamina
+E10/09   Anilina, nitrobenceno, fenilenediamina
+         Tetracloruro de carbono, formaldehído, cloruro de metilo, cloruro de metileno, piridina,
+E10/10
+         trietilamina
+E10/11   Benceno, butilato, eptc, molinato, pebulato, vernolato
+E10/12   Benomil, carbendazim, carbofurán, carbosulfán, cloroformo, cloruro de metileno
+         Benomil, carbaril, carbendazim, carbofurán, carbosulfán, formaldehído, cloruro de metileno,
+E10/13
+         trietilamina
+E10/14   Antimonio, arsénico, metam-sodio, ziram
+         Benceno, diclorobencenos, triclorobencenos,             tetraclorobencenos,     pentaclorobenceno,
+E10/15
+         hexaclorobenceno, cloruro de bencilo
+E10/16   Benceno, monoclorobenceno, diclorobencenos, 2,4,6-triclorofenol
+E10/17   Cloruro de bencilo, clorobenceno, tolueno, triclorobenceno
+E10/18   1,2-dicloroetano, tricloroetileno, hexaclorobutadieno, hexaclorobenceno
+         Dicloroetileno,   1,1,1-tricloroetano,      1,1,2-tricloroetano,  tetracloroetanos      (1,1,2,2-
+E10/19   tetracloroetano y 1,1,1,2-tetracloroetano), tricloroetileno, tetracloroetileno, tetracloruro de
+         carbono, cloroformo, cloruro de vinilo, cloruro de vinilideno
+         1,2,3,4,6,7,8-Heptaclorodibenzo-p-dioxina        (1,2,3,4,6,7,8-HpCDD),        1,2,3,4,6,7,8-
+         Heptaclorodibenzofurano (1,2,3,4,6,7,8-HpCDF), 1,2,3,4,6,7,8,9-Heptaclorodibenzofurano
+         (1,2,3,4,6,7,8,9-HpCDF, HxCDDs (todas las Hexaclorodibenzo-p-dioxinas, HxCDFs (todos los
+E10/20   Hexaclorodibenzofuranos, PeCDDs (todas las pentaclorodibenzo-p-dioxinas), OCDD
+         (1,2,3,4,6,7,8,9-Octaclorodibenzo-p-dioxina), OCDF (1,2,3,4,6,7,8,9-Octaclorodibenzofurano),
+         PeCDFs (todos los pentaclorodibenzofuranos), TCDDs (todas las Tetraclorodibenzo-p-
+         dioxinas), TCDFs (todos los tetraclorodibenzofuranos)
+E10/21   Mercurio
+E10/22   Dibromuro de etileno
+E10/23   Dibromuro de etileno
+E10/24   Dibromuro de etileno
+E10/25   Tetracloruro de carbono, tetracloroetileno, cloroformo, fosgeno
+E10/26   Diisocianato de tolueno, toluen-2,4-diamina
+E10/27   1,1-Dimetilhidracina
+E10/28   1,1-Dimetilhidracina
+E10/29   1,1-Dimetilhidracina
+E10/30   1,1-Dimetilhidracina
+E10/31   2,4 Dinitrotolueno
+         Epiclorohidrina, cloroéteres [bis(clorometil)éter y bis(2-cloroetil)éteres], tricloropropano,
+E10/32
+         dicloropropanoles
+E10/33   Breas de fenol (hidrocarburos poliaromáticos)
+E10/34   Antimonio, tetracloruro de carbono, cloroformo
+E10/35   Paraldehído, piridinas, 2-picolina
+E10/36   Anilina, benceno, difenilamina, nitrobenceno, fenilendiamina
+E10/37   meta-Dinitrobenceno, 2,4-dinitrotolueno
+         Hexaclorobenceno,       hexaclorobutadieno,     tetracloruro   de    carbono,     hexacloroetano,
+E10/38
+         percloroetileno
+E10/39   2,4-Toluendiamina, o-toluidina, p-toluidina, anilina
+E10/40   2,4-Toluendiamina, o-toluidina, p-toluidina, anilina
+E10/41   2,4-Toluendiamina, o-toluidina, p-toluidina
+E10/42   2,4-Toluendiamina
+         Triclorobenceno, cloruro de bencilo, cloroformo, clorometano, clorobenceno, 1,4-
+E10/43
+         diclorobenceno, hexaclorobenceno, pentaclorobenceno, 1,2,4,5-tetraclorobenceno, tolueno
+         Benceno, tetracloruro de carbono, cloroformo, hexaclorobenceno, pentaclorobenceno,
+E10/44
+         tolueno, 1,2,4,5-tetraclorobenceno, tetracloroetileno
+         Tetracloruro de carbono, cloroformo, clorometano, 1,4-diclorobenceno, hexaclorobenceno,
+E10/45   pentaclorobenceno, 1,2,4,5-tetraclorobenceno, 1,1,2,2-tetracloroetano, tetracloroetileno,
+         1,2,4-triclorobenceno
+E10/46   1,1,1-tricloroetano, cloruro de vinilo
+E10/47   1,1,2-tricloroetano, 1,1,1,2-tetracloroetano, 1,1,2,2-tetracloroetano
+E10/48   1,2-dicloroetano, 1,1,1-tricloroetano, 1,1,2-tricloroetano
+E10/49   1,2-dicloroetano, 1,1,1-tricloroetano, cloruro de vinilo, cloruro de vinilideno, cloroformo
+         Hexaclorobenceno, hexaclorobutadieno, hexacloroetano, 1,1,1,2-tetracloroetano, 1,1,2,2-
+E10/50
+         tetracloroetano, dicloruro de etileno
+NE 01    Asbestos
+NE 02    Asbestos
+NE 03    Asbestos
+NE 04    Cianuro (complejos)
+NE 05    Cadmio, cromo hexavalente, níquel, cianuro (complejos)
+NE 06    Cromo hexavalente, cianuro (complejos)
+NE 07    Cianuro (sales)
+   NE 08     Cianuro (sales)
+   NE 09     Cianuro (sales)
+   NE 10     Cianuro (sales)
+   NE 11     Cianuro (sales)
+             Pentaclorodibenzo-p-dioxinas,   hexaclorodibenzo-p-dioxinas,          pentaclorodibenzofuranos,
+   NE 12
+             hexaclorodibenzofuranos, pentaclorofenol y sus derivados
+             Tetraclorodibenzo-p-dioxinas, pentaclorodibenzo-p-dioxinas, hexaclorodibenzo-p-dioxinas,
+   NE 13
+             tetraclorodibenzofuranos, pentaclorodibenzofuranos, hexaclorodibenzofuranos
+             Tetraclorodibenzo-p-dioxinas,     pentaclorodibenzo-p-dioxinas,     tetraclorodibenzofuranos,
+   NE 14     pentaclorodibenzofuranos, triclorofenoles, tetraclorofenoles y sus derivados ácidos, ésteres,
+             éteres, aminas y otras sales clorofenóxicas
+             Clorometano, diclorometano, triclorometano, tetracloruro de carbono, cloroetileno, 1,1
+             dicloroetano, 1,2-dicloroetano, trans-1,2-dicloroetileno, 1,1-dicloroetileno, 1,1,1-tricloroetano,
+             1,1,2-tricloroetano,    tricloroetileno,   1,1,1,2-tetracloroetano,       1,1,2,2-tetracloroetano,
+   NE 15     tetracloroetileno, pentacloroetano, hexacloroetano, cloruro de alilo (3-cloropropeno),
+             dicloropropano,      dicloropropeno,      2-cloro-1,3-butadieno,       hexacloro-1,3-butadieno,
+             hexaclorociclopentadieno, benceno, clorobenceno, diclorobenceno, 1,2,4-triclorobenceno,
+             tetraclorobenceno, pentaclorobenceno, hexaclorobenceno, tolueno, naftaleno
+             Tetraclorodibenzo-p-dioxinas, pentaclorodibenzo-p-dioxinas, hexaclorodibenzo-p-dioxinas,
+   NE 16
+             tetraclorodibenzofuranos, pentaclorodibenzofuranos, hexaclorodibenzofuranos
+             Benzo(a)antraceno,      benzo(a)pireno,      dibenz(a,h)antraceno,    indeno(1,2,3-cd)pireno,
+             pentaclorofenol, arsénico, cromo, tetraclorodibenzo-p-dioxinas, pentaclorodibenzo-p-dioxinas,
+   NE 17
+             hexaclorodibenzo-p-dioxinas,      heptaclorodibenzo-p-dioxinas,     tetraclorodibenzofuranos,
+             pentaclorodibenzofuranos, hexaclorodibenzofuranos, heptaclorodibenzofuranos
+             Benzo(a)antraceno,       benzo(k)fluoranteno,      benzo(a)pireno,         dibenz(a,h)antraceno,
+   NE 18
+             indeno(1,2,3-cd)pireno, naftaleno, arsénico, cromo
+   NE 19     Arsénico, cromo, plomo
+   NE 20     Todos los constituyentes que aparezcan en esta Norma Oficial Mexicana
+             Tetraclorodibenzo-p-dioxinas, pentaclorodibenzo-p-dioxinas, hexaclorodibenzo-p-dioxinas,
+             tetraclorodibenzofuranos,           pentaclorodibenzofuranos,       hexaclorodibenzofuranos,
+   NE 21
+             triclorofenoles, tetraclorofenoles, pentaclorofenoles y sus derivados ácidos, ésteres, éteres,
+             aminas y otras sales clorofenóxicas
+
+N.A.: No Aplica. Los residuos son peligrosos porque presentan características de Corrosividad,
+Reactividad, Explosividad y/o Inflamabilidad.
+                                      __________________________
+

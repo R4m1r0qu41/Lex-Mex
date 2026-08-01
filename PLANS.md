@@ -51,9 +51,6 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Active
 
-- [`docs/plans/standard-post-transitory-supplements.md`](docs/plans/standard-post-transitory-supplements.md)
-  — Model exact-span standard supplements, migrate committed tails, and ingest
-  the three standards previously held on transitory/supplement partitioning.
 - [`docs/plans/maximasa-legal-integration.md`](docs/plans/maximasa-legal-integration.md)
   — Use the selected federal corpus in Maximasa's compliance module, close
   missing-instrument coverage, and design a standards-capable NOM/NMX boundary.
@@ -66,4 +63,6 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Completed
 
-None yet.
+- [`docs/plans/standard-post-transitory-supplements.md`](docs/plans/standard-post-transitory-supplements.md)
+  — Modeled exact-span standard supplements, migrated committed tails, and
+  ingested the three standards held on transitory/supplement partitioning.

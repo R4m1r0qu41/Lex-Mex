@@ -33,8 +33,14 @@ branch `codex/post-transitory-supplements`, isolated worktree
 - 2026-07-31: fresh Platiica downloads for NOM-019, NOM-024 and NOM-052 matched
   all six recorded source/text hashes; temporary compiles produced the expected
   94/3/1, 87/2/2 and 76/3/8 counts.
-- Current next action: run the full trusted-boundary acceptance suite and land
-  the atomic migration commit, then add the three verified corpus directories.
+- 2026-07-31: atomic trusted-boundary migration landed as `bf6e0af0e` after
+  the full required suite passed; three verified corpus directories added for
+  the separate ingestion commit.
+- 2026-07-31: all 32 standards and the full repository gate pass; the three
+  canonical directories compare byte-for-byte with their fresh temporary
+  compiles and their supplement spans were inspected.
+- Current next action: mechanically refresh Maximasa's five-NOM bundle after
+  this branch is integrated; no Lex-Mex work remains in this plan.
 
 ## Decisions
 
@@ -77,4 +83,13 @@ validation, and expected held-out clause/transitory/supplement counts.
 
 ## Outcomes and retrospective
 
-Pending.
+The trusted-boundary migration is complete. Twenty-three of the original 29
+standards needed configured supplements (67 total); six carry required empty
+files. Eleven final transitories were strict-prefix truncated, with every
+earlier transitory exact and every clause file byte-identical. The all-record
+inventory was necessary: relying on the 13 warnings plus three known oversized
+tails would have missed seven guides swallowed behind unrecognized signatures.
+
+The three held-out standards add 257 clauses, 8 transitories and 11
+supplements, bringing the committed standards boundary to 32 records, 3,885
+clauses, 100 transitories and 78 supplements.

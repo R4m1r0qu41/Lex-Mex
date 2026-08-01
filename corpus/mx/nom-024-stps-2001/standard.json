@@ -1,0 +1,52 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+  "kind": "nom",
+  "designation": "NOM-024-STPS-2001",
+  "official_title": "Vibraciones-Condiciones de seguridad e higiene en los centros de trabajo",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "vibraciones",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2002-01-11",
+  "effective_date": "2002-07-10",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-024-STPS-1993"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "GUIA DE REFERENCIA I\n        EJEMPLO DE CALCULO DEL NIVEL DE EXPOSICION A VIBRACIONES EN EXTREMIDADES SUPERIORES",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "GUIA DE REFERENCIA II",
+      "kind": "reference_guide"
+    }
+  ],
+  "systematic_review": {
+    "review_date": "2022-09-08",
+    "result": "Confirmación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-024-STPS-2001_2022_ultima_revision.PDF"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/024stps.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=737289&fecha=11/01/2002",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-024-STPS-2001/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "006167ea67249c0582a9044394c0a02f549eebe6d6c1be907475c9b99450a931",
+  "extracted_text_sha256": "e005d3e86698c1d80d3e79b14c06e7dfee00e10dde396d2846572ce2912f7557",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

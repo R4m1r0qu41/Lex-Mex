@@ -1,0 +1,48 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+  "kind": "nom",
+  "designation": "NOM-019-STPS-2011",
+  "official_title": "Constitución, integración, organización y funcionamiento de las comisiones de seguridad e higiene",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "comisiones de seguridad e higiene",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2011-04-13",
+  "effective_date": "2011-07-13",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-019-STPS-2004"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "Guía de Referencia I",
+      "kind": "reference_guide"
+    }
+  ],
+  "systematic_review": {
+    "review_date": "2026-05-13",
+    "result": "Confirmación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-019-STPS-2011_2026_ultima_revision.pdf"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/019stps11.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5185903&fecha=13/04/2011",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-019-STPS-2011/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T16:30:34Z",
+  "source_sha256": "1d764d43715e0bfb4bf0be864073134d1147f424a44be9646a547b6af4e90c9c",
+  "extracted_text_sha256": "99bd29966cd4a33ae3965ef3e57ecdacc5380127345ffc810683875530f0e42b",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

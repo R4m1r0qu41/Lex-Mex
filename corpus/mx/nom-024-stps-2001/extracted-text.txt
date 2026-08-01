@@ -1,0 +1,707 @@
+           SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
+NORMA Oficial Mexicana NOM-024-STPS -2001, Vibraciones-Condiciones de seguridad e higiene en los centros
+de trabajo.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría del Trabajo y
+Previsión Social.
+    CARLOS MARIA ABASCAL CARRANZA, Secretario del Trabajo y Previsión Social, con fundamento en los
+artículos 16 y 40 fracciones I y XI de la Ley Orgánica de la Administración Pública Federal; 512, 523 fracción I,
+524 y 527; último párrafo de la Ley Federal del Trabajo; 3o. fracción XI, 38 fracción II, 40 fracción VII, 41, 43 a
+47 y 52 de la Ley Federal sobre Metrología y Normalización; 28 y 33 del Reglamento de la Ley Federal sobre
+Metrología y Normalización; 3o., 4o. 76 a 78 del Reglamento Federal de Seguridad, Higiene y Medio Ambiente
+de Trabajo; 3o., 5o. y 22 fracciones I, XIII y XV del Reglamento Interior de la Secretaría del Trabajo y
+Previsión Social, y
+                                               CONSIDERANDO
+   Que con fecha 15 de marzo de 1994 fue publicada en el Diario Oficial de la Federación la Norma Oficial
+Mexicana NOM-024-STPS-1993, Relativa a las condiciones de seguridad e higiene en los centros de trabajo
+donde se generen vibraciones;
+   Que esta Dependencia a mi cargo, con fundamento en el artículo cuarto transitorio, primer párrafo del
+Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, publicado en el Diario Oficial de la
+Federación el 21 de enero de 1997, ha considerado necesario realizar diversas modificaciones a la referida
+Norma Oficial Mexicana, las cuales tienen como finalidad adecuarla a las disposiciones establecidas en el
+ordenamiento reglamentario mencionado;
+   Que con fecha 26 de septiembre de 2000, en cumplimiento de lo previsto en el artículo 46 fracción I de la
+Ley Federal sobre Metrología y Normalización, la Secretaría del Trabajo y Previsión Social presentó ante el
+Comité Consultivo Nacional de Normalización de Seguridad, Higiene y Medio Ambiente Laboral, el
+Anteproyecto de Modificación de la presente Norma Oficial Mexicana, y que el citado Comité lo consideró
+correcto y acordó que se publicara como proyecto en el Diario Oficial de la Federación;
+   Que con objeto de cumplir con lo dispuesto en los artículos 69-E y 69-H de la Ley Federal de
+Procedimiento Administrativo, el anteproyecto correspondiente fue sometido a la consideración de la Comisión
+Federal de Mejora Regulatoria, la que dictaminó favorablemente en relación al mismo;
+    Que con fecha 23 de febrero de 2001, en cumplimiento del Acuerdo del Comité y de lo previsto en el
+artículo 47 fracción I de la Ley Federal sobre Metrología y Normalización, se publicó en el Diario Oficial de la
+Federación el Proyecto de Modificación de la presente Norma Oficial Mexicana, a efecto de que, dentro de
+los 60 días naturales siguientes a dicha publicación, los interesados presentaran sus comentarios al Comité
+Consultivo Nacional de Normalización de Seguridad, Higiene y Medio Ambiente Laboral;
+    Que habiendo recibido comentarios de cuatro promoventes, el Comité referido procedió a su estudio y
+resolvió oportunamente sobre los mismos, publicando esta Dependencia las respuestas respectivas en el
+Diario Oficial de la Federación el 15 de octubre de 2001, en cumplimiento a lo previsto por el artículo 47
+fracción III de la Ley Federal sobre Metrología y Normalización;
+   Que en atención a las anteriores consideraciones y toda vez que el Comité Consultivo Nacional de
+Normalización de Seguridad, Higiene y Medio Ambiente Laboral, otorgó la aprobación respectiva, se expide la
+siguiente:
+        NOM-024-STPS -2001, VIBRACIONES -CONDICIONES DE SEGURIDAD E HIGIENE EN LOS
+                                    CENTROS DE TRABAJO
+                                                     INDICE
+   1.    Objetivo
+   2.    Campo de aplicación
+   3.    Referencias
+   4.    Definiciones
+   5.    Obligaciones del patrón
+   6.    Obligaciones del POE
+   7.    Límites máximos permisibles de exposición a vibraciones
+   8.   Programa para l a prevención de alteraciones a la salud del POE
+   9.   Unidades de verificación y laboratorios de pruebas
+   10. Vigilancia
+   11. Bibliografía
+   12. Concordancia con normas internacionales
+        Guía de Referencia I     Ejemplo de cálculo del nivel de exposición a vibraciones en extremidades
+                                 superiores
+        Guía de Referencia II    Ejemplos de ubicación del transductor en algunas herramientas manuales
+                                 para medición de vibraciones en extremidades superiores
+   1. Objetivo
+    Establecer los límites máximos permisibles de exposición y las condiciones mínimas de seguridad e
+higiene en los centros de trabajo donde se generen vibraciones que, por sus características y tiempo de
+exposición, sean capaces de alterar la salud de los trabajadores.
+   2. Campo de aplicación
+    La presente Norma rige en todo el territorio nacional y aplica en todos aquellos centros de trabajo en
+donde por las características de operación de la maquinaria y equipo, se generen vibraciones que afecten a
+los trabajadores en cuerpo entero o en extremidades superiores.
+   3. Referencias
+   Para la correcta interpretación de esta Norma debe consultarse la siguiente Norma Oficial Mexicana
+vigente o la que la sustituya:
+   NOM-026-STPS-1998, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos
+conducidos en tuberías .
+   4. Definiciones
+   Para efectos de la presente Norma se establecen las siguientes definiciones:
+    4.1 Autoridad del trabajo; autoridad laboral: unidades administrativas competentes de la Secretaría del
+Trabajo y Previsión Social, que realicen funciones de inspección en materia de seguridad e higiene en el
+trabajo, y las correspondientes a las entidades federativas y del Distrito Federal, que actúen en auxilio de
+aquéllas.
+   4.2 Banda de tercio de octava: intervalo entre dos tonos cuya relación es de un tercio de la octava.
+   4.3 Ciclo de exposición: intervalo de tiempo de alguna actividad específica del proceso de trabajo donde
+está presente el personal ocupacionalmente expuesto.
+   4.4 Cadena de medición: interconexión entre el transductor y, en su caso, accesorios de fijación, cable,
+preamplificador y analizador que se usan para la medición de vibraciones.
+   4.5 Cuerpo entero: todo el cuerpo del trabajador.
+   4.6 Extremidades superiores: dedos, manos, muñecas y antebrazos del trabajador.
+    4.7 Nivel de Exposición a Vibraciones (NEV): aceleración promedio de las vibraciones, referida al
+tiempo de exposición del trabajador.
+   4.8 Personal Ocupacionalmente Expuesto (POE): trabajadores que en el desempeño de sus actividades
+laborales están expuestos a vibraciones.
+    4.9 Sistema basicéntrico de coordenadas: tres direcciones mutuamente ortogonales que tienen su
+origen en el área de contacto entre la mano y la superficie que vibra.
+   4.10 Sistema biodinámico de coordenadas: tres direcciones mutuamente ortogonales en un punto
+próximo al lugar en que la vibración penetra en la mano, este lugar generalmente es el nudillo del
+dedo medio.
+   4.11 Vibraciones: movimientos periódicos u oscilatorios de un cuerpo rígido o elástico desde una posición
+de equilibrio.
+  4.12 Vibraciones en cuerpo entero: fenómeno físico que se manifiesta por la transmisión de energía
+mecánica por vía sólida, en el intervalo de frecuencias desde 1 hasta 80 Hz, al cuerpo entero del POE.
+   4.13 Vibraciones en extremidades superiores: fenómeno físico que se manifiesta por la transmisión de
+energía mecánica por vía sólida, en el intervalo de frecuencias desde 8 hasta 1600 Hz, a las extremidades
+superiores del POE.
+   5. Obligaciones del patrón
+    5.1 Mostrar a la autoridad del trabajo, cuando así lo solicite, los documentos que la presente Norma le
+obligue a elaborar o poseer.
+    5.2 Informar a todos los trabajadores sobre las posibles alteraciones a la salud por la exposición
+a vibraciones.
+   5.3 Vigilar que no se rebasen los límites máximos permisibles de exposición establecidos en el Capítulo 7.
+   5.4 Elaborar y mantener vigente el Programa para la Prevención de Alteraciones a la Salud del POE
+establecido en el Capítulo 8.
+    5.5 Capacitar y adiestrar al POE anualmente en el Programa para la Prevención de Alteraciones a la Salud
+del POE, establecido en el Capítulo 8.
+   5.6 Realizar la vigilancia a la salud del POE según lo establecido en el Apartado 8.5.
+   5.7 No exponer a vibraciones a mujeres en estado de gestación.
+   6. Obligaciones del POE
+   Colaborar y cumplir con el Programa para la Prevención de Alteraciones a la Salud del POE, establecido
+en el Capítulo 8.
+   7. Límites máximos permisibles de exposición a vibraciones
+   7.1 En cuerpo entero.
+    Cuando se conoce la frecuencia de un mecanismo que genera vibración y se relaciona con la aceleración
+en m/s 2 ya sea en el eje de aceleración longitudinal a z, o en los ejes de aceleración transversal a x y ay , se
+obtiene el tiempo de exposición que puede variar de un minuto a veinticuatro horas. Los límites de exposición
+a vibraciones en el eje longitudinal a z y en los ejes transversales a x y ay , se establecen en las Tablas 1 y 2,
+respectivamente.
+    En la Gráfica 1 se muestran las curvas del tiempo de exposición a vibraciones por día en un intervalo de 1
+a 80 Hz de frecuencia en el eje longitudinal a z; en la Gráfica 2 se muestra el tiempo de exposición por día para
+los ejes de aceleración transversal a x y ay , en un intervalo de frecuencia de 1 a 80 Hz. El tiempo de exposición
+se obtiene relacionando la frecuencia con la aceleración.
+                                                      TABLA 1
+                LIMITES DE ACELERACION LONGITUDINAL (az ) COMO FUNCION DE LA FRECUENCIA Y DEL
+                                              TIEMPO DE EXPOSICION
+
+    FRECUENCIA                                          TIEMPO DE EXPOSICION
+    CENTRAL DE
+     TERCIO DE           24 h      16 h       8h        4h       2.5 h      1h      25 min     16 min    1 min
+    OCTAVA (Hz)                           LIMITE DE ACELERACION LONGITUDINAL EN (az ), m/s 2
+        1.00             0.280    0.383       0.63      1.06     1.40       2.36      3.55      4.25      5.60
+        1.25             0.250    0.338       0.56      0.95     1.26       2.12      3.15      3.75      5.00
+        1.60             0.224    0.302       0.50      0.85     1.12       1.90      2.80      3.35      4.50
+        2.00             0.200    0.270       0.45      0.75     1.00       1.70      2.50      3.00      4.00
+        2.50             0.180    0.239       0.40      0.67     0.90       1.50      2.24      2.65      3.55
+        3.15             0.160    0.212       0.355     0.60     0.80       1.32      2.00      2.35      3.15
+        4.00             0.140    0.192       0.315     0.53     0.71       1.18      1.80      2.12      2.80
+        5.00             0.140    0.192       0.315     0.53     0.71       1.18      1.80      2.12      2.80
+        6.30             0.140    0.192       0.315     0.53     0.71       1.18      1.80      2.12      2.80
+        8.00             0.140    0.192       0.315     0.53     0.71       1.18      1.80      2.12      2.80
+        10.00            0.180    0.239       0.40      0.67     0.90       1.50      2.24      2.65      3.55
+        12.50            0.224    0.302       0.50      0.85     1.12       1.90      2.80      3.35      4.50
+        16.00            0.280    0.383       0.63      1.06     1.40       2.36      3.55      4.25      5.60
+        20.00            0.355    0.477       0.80      1.32     1.80       3.00      4.50      5.30      7.10
+     25.00            0.450    0.605     1.00      1.70     2.24    3.75     5.60      6.70   9.00
+     31.50            0.560    0.765     1.25      2.12     2.80    4.75     7.10      8.50   11.2
+     40.00            0.710    0.955     1.60      2.65     3.55    6.00     9.00      10.6   14.00
+     50.00            0.900    1.19      2.0       3.35     4.50    7.50     11.2      13.2   18.0
+     63.00            1.120    1.53      2.5       4.25     5.60    9.50     14.0      17.0   22.4
+     80.00            1.400    1.91      3.15      5.30     7.10    11.8     18.0      21.2   28.0
+                                                TABLA 2
+        LIMITES DE ACELERACION TRANSVERSAL (ax , ay ) COMO FUNCION DE LA FRECUENCIA Y DEL
+                                         TIEMPO DE EXPOSICION
+
+  FRECUENCIA                                       TIEMPO DE EXPOSICION
+  CENTRAL DE
+BANDA DE TERCIO       24 h     16 h      8h        4h       2.5 h    1h     25 min   16 min   1 min
+  DE OCTAVA
+     (Hz)                         LIMITE DE ACELERACION TRANSVERSAL EN (ax, ay), (m/s 2)
+     1.00             0.100    0.135    0.224     0.355     0.50    0.85     1.25      1.50    2.0
+     1.25             0.100    0.135    0.224     0.355     0.50    0.85     1.25      1.50    2.0
+     1.60             0.100    0.135    0.224     0.355     0.50    0.85     1.25      1.50    2.0
+     2.00             0.100    0.135    0.224     0.355     0.50    0.85     1.25      1.50    2.0
+     2.50             0.125    0.171    0.280     0.450     0.63    1.06      1.6      1.9     2.5
+     3.15             0.160    0.212    0.355     0.560     0.8     1.32      2.0      2.36   3.15
+     4.00             0.20     0.270    0.450     0.710     1.0     1.70      2.5      3.0     4.0
+     5.00             0.250    0.338    0.560     0.900     1.25    2.12     3.15      3.75    5.0
+     6.30             0.315    0.428    0.710      1.12     1.6     2.65      4.0      4.75    6.3
+     8.00             0.40     0.54     0.900      1.40     2.0     3.35      5.0      6.0     8.0
+     10.00            0.50     0.675     1.12      1.80     2.5     4.25      6.3      7.5    10.0
+     12.50            0.63     0.855     1.40      2.24     3.15    5.30      8.0      9.5    12.5
+     16.00            0.80     1.06      1.80      2.80     4.0     6.70     10.0      11.8   16.0
+     20.00            1.00     1.35      2.24      3.55     5.0      8.5     12.5      15.0   20.0
+     25.00            1.25     1.71      2.80      4.50     6.3     10.6     15.0      19.0   25.0
+     31.50            1.60     2.12      3.55      5.60     8.0     13.2     20.0      23.6   31.5
+     40.00            2.00     2.70      4.50      7.10     10.0    17.0     25.0      30.0   40.0
+     50.00            2.50     3.38      5.60      9.00     12.5    21.2      3.5      37.5   50.0
+     63.00            3.15     4.28      7.10      11.2     16.0    26.5     40.0      45.7   63.0
+     80.00            4.00      5.4      9.00      14.0     20.0    33.5     50.0      60.0   80.0
+
+
+                                                GRAFICA 1
+             LIMITES DE ACELERACION LONGITUDINAL (az ) COMO FUNCION DE LA FRECUENCIA Y DEL
+                                         TIEMPO DE EXPOSICIÓN
+Ver imagen 11ene -34.bmp
+                                                 GRAFICA 2
+           LIMITES DE ACELERACION TRANSVERSAL (ax , ay ) COMO FUNCION DE LA FRECUENCIA Y DEL
+                                          TIEMPO DE EXPOSICIÓN
+
+
+
+
+                                        Ver imagen 11ene -35.bmp
+
+
+   7.2 En extremidades superiores.
+   Dependiendo del tiempo de exposición, se establecen los valores máximos permitidos de aceleración
+ponderada (que se deben calcular según se establece en los Apartados 8.3.2.2.1 al 8.3.2.2.6, y en la
+Tabla 3).
+                                                 TABLA 3
+           LIMITES MAXIMOS DE EXPOSICION EN MANOS A VIBRACIONES EN DIRECCIONES Xh , Y h , Zh.
+
+                                                  Valores cuadráticos medios dominantes
+                 Tiempo total de exposición       de la componente de las aceleraciones
+                diaria a vibraciones, en horas     de frecuencia ponderada que no deben
+                                                               excederse (*)
+                                                                 ak, en m/s 2
+               De 4 a 8                                            hasta 4
+               De 2 a 4                                            hasta 6
+               De 1 a 2                                            hasta 8
+                Menor de 1                                       hasta 12
+    (*) Nota: Comúnmente, uno de los ejes de vibración domina sobre los dos restantes. Si uno o más ejes de
+vibración sobrepasan la exposición total diaria, se han sobrepasado los valores de los límites máximos de
+exposición.
+   8. Programa para la prevención de alteraciones a la salud del POE
+   8.1 Este programa debe incluir los elementos siguientes y su correspondiente documentación:
+   a)   reconocimiento;
+   b)   evaluación;
+   c)   capacitación y adiestramiento del POE;
+   d)   vigilancia a la salud del POE;
+   e)   control.
+   8.2 Reconocimiento. Consiste en recabar toda aquella información técnica y administrativa que permita
+seleccionar las áreas y puestos por evaluar, los procesos de trabajo en los cuales se encuentra el POE y el
+método apropiado para medir las vibraciones.
+   8.2.1 La información que debe recabarse es la siguiente:
+   a)   plano de distribución del centro de trabajo, incluyendo la localización e identificación de la maquinaria
+        y equipo que generen vibraciones;
+   b)   descripción de los procedimientos de operación de la maquinaria, herramientas, materiales usados y
+        equipo del proceso, así como aquellas condiciones que pudieran alterar las características de las
+        vibraciones;
+   c)   descripción de los puestos de trabajo del POE para determinar los ciclos de exposición;
+   d)   programas de mantenimiento de la maquinaria y equipo que generen vibraciones;
+   e)   número de POE por área y por proceso de trabajo, incluyendo el tiempo de exposición;
+   f)   identificación del tipo de exposición para determinar el método de evaluación.
+    8.2.2 Del análisis de la información recabada en el reconocimiento, se establece el método de evaluación,
+el cual puede ser:
+   a)   en cuerpo entero;
+
+   b)   en extremidades superiores.
+   8.3 Evaluación.
+   8.3.1 Condiciones para la evaluación.
+   8.3.1.1 La evaluación de los NEV en una jornada laboral debe realizarse bajo condiciones normales
+de operación.
+   8.3.1.2 La evaluación debe realizarse en cada uno de los diferentes ciclos de exposición del POE, de
+acuerdo al reconocimiento.
+    8.3.1.3 La evaluación debe realizarse y registrarse al menos cada dos años cuando se esté por debajo de
+los límites máximos permisibles o antes si se modifican las tareas, el área de trabajo, las herramientas o
+equipos del proceso de manera que se hayan podido incrementar las características de las vibraciones o los
+ciclos de exposición.
+   8.3.2 Procedimientos de evaluación de las vibraciones.
+   8.3.2.1 Para cuerpo entero.
+
+   8.3.2.1.1 Instrumentación mínima requerida:
+   a)   transductor de aceleración con respuesta lineal desde 1 Hz, con un peso no mayor de 50 gramos y
+        sensibilidad no menor a 1 mV/(m/seg2);
+   b)   analizador con filtros en bandas de tercios de octava con capacidad para medir desde 1 Hz;
+   c)   calibrador de aceleración.
+   8.3.2.1.2 Se debe contar con los documentos de calibración de toda la instrumentación expedidos por un
+laboratorio acreditado, y verificar periódicamente que dicha calibración se realice de conformidad con los
+procedimientos establecidos en la Ley Federal sobre Metrología y Normalización.
+   8.3.2.1.3 Calibración de campo: se debe calibrar la cadena de medición por medio del calibrador de
+aceleración, de acuerdo a lo indicado en el manual del fabricante, al iniciar y al finalizar la jornada de
+medición. Los valores de la calibración deben anotarse en el formato de registro correspondiente.
+   8.3.2.1.4 Los puntos de medición deben localizarse en los planos de sustentación de los trabajadores.
+    8.3.2.1.5 En cada punto de medición, se deben localizar tres ejes ortogonales de acuerdo con la Figura 1,
+en los que se realizan las mediciones continuas de la aceleración y se registran al menos durante un minuto
+en cada una de las bandas de tercios de octava definidas en las Tablas 1 y 2.
+                                                  FIGURA 1
+                   DIRECCIONES DE INCIDENCIA DE LAS VIBRACIONES SOBRE EL CUERPO HUMANO
+                                           Ver imagen 11ene-36.bmp
+
+
+   ax , a y , a z son las direcciones de la aceleración en los ejes x, y, z.
+
+   eje x        es la dirección de espalda a pecho.
+   eje y        es la dirección de lado derecho a izquierdo.
+   eje z        es la dirección de los pies o parte inferior, a la cabeza.
+   8.3.2.1.6 Se debe realizar un análisis espectral en bandas de tercios de octava (1 a 80 Hz) por cada eje,
+se comparan los resulta dos y se interpretan contra los límites establecidos en las Tablas 1 y 2.
+   8.3.2.2 Para extremidades superiores.
+   8.3.2.2.1 Instrumentación mínima requerida:
+   a)      transductor de aceleración con respuesta lineal desde 6.3 Hz, con un peso menor a 15 gramos y
+           sensibilidad no menor a 1 mV/(m/seg2);
+   b)      analizador que cuente con filtros en bandas de tercios de octava, con características de ganancia
+           específicas a instrumentos de medición de respuesta humana a vibraciones en extremidades
+           superiores. En caso de que el equipo no cuente con las características de ganancia específica
+           realizar los cálculos según lo establecido en la Guía de Referencia I;
+   c)      calibrador de aceleración.
+   8.3.2.2.2 Se debe contar con los documentos de calibración de toda la instrumentación expedidos por un
+laboratorio acreditado, y verificar periódicamente que dicha calibración se realice de conformidad con los
+procedimientos establecidos en la Ley Federal sobre Metrología y Normalización.
+   8.3.2.2.3 Calibración de campo. Se debe calibrar la cadena de medición por medio del calibrador de
+aceleración, de acuerdo a lo indicado en el manual del fabricante, al inicio y al final de la jornada de medición.
+Los valores de la calibración deben anotarse en el formato de registro correspondiente.
+   8.3.2.2.4 Los puntos de medición se deben localizar en las asas o manerales de las herramientas y equipo
+bajo estudio.
+    8.3.2.2.5 En cada punto de medición, se localizan tres ejes ortogonales, cercanos al punto de contacto de
+las vibraciones con la mano, de acuerdo a lo mostrado por los sistemas de coordenadas biodinámicas y
+basicéntricas de la Figura 2, en los que se realizan las mediciones continuas de la aceleración y se registran
+al menos durante un minuto, en cada una de las bandas de tercios de octava indicadas en el Apartado
+8.3.2.2.6.
+                                                FIGURA 2
+                          SISTEMAS BIODINAMICO Y BASICENTRICO DE COORDENADAS
+                      (DIRECCIONES DE LOS COMPONENTES DE ACELERACION EN MANOS)
+                                        Ver imagen 11ene-37.bmp
+
+
+    8.3.2.2.6 Se debe realizar un análisis espectral en bandas de tercios de octava (de 8 a 1600 Hz) por cada
+eje y calcular el componente direccional de la aceleración ponderada conforme a la siguiente ecuación:
+                                                                  1
+                                               1 n          2
+                                          ak =  ∑ (kj )2 Ti 
+                                                T i=1       
+   donde:
+   ak   es el componente direccional de la aceleración ponderada;
+   T    es la duración de la exposición diaria;
+   kj   es la iésima frecuencia ponderada, valor cuadrático medio de la componente de la aceleración con
+        duración Ti.
+
+   8.3.2.2.7 Comparar el resultado de ak, e interpretar con los límites establecidos en la Tabla 3.
+   8.3.2.2.8 Registrar la temperatura del aire en el área donde el POE realiza el trabajo.
+   8.3.3 Registro de la evaluación. Debe contener como mínimo la siguiente información:
+   a)   plano de distribución de la zona o área evaluada, en el que se indiquen los puntos evaluados;
+   b)   descripción de la metodología utilizada para la medición de las vibraciones en cuerpo entero y/o en
+        extremidades superiores;
+   c)   registros de las mediciones;
+   d)   memoria de cálculo de los NEV cuando se evalúe exposición sin usar instrumentos de lectura directa;
+   e)   informe de resultados y conclusiones;
+   f)   copia del certificado de calibración del instrumento de medición y del calibrador empleado en la
+        medición;
+   g)   nombre, firma y copia de la cédula profesional del responsable de elaborar la evaluación.
+   8.3.4 Los patrones interesados o el laboratorio de pruebas acreditado y aprobado, deben solicitar por
+escrito a la Secretaría del Trabajo y Previsión Social, conforme a lo dispuesto en los artículos 49 de la Ley
+Federal sobre Metrología y Normalización y 8o. del Reglamento Federal de Seguridad, Higiene y Medio
+Ambiente de Trabajo, la autorización para utilizar procedimientos de evaluación alternativos, a efecto de que,
+previa opinión del Comité Consultivo Nacional de Normalización de Seguridad, Higiene y Medio Ambiente
+Laboral, la Secretaría resuelva en relación a la solicitud dentro de los cuarenta y cinco días hábiles siguientes
+a su presentación.
+   El procedimiento de evaluación alternativo debe incluir, como mínimo:
+   a)    la descripción detallada de los procedimientos técnicos y específicos d e la metodología de medición;
+   b)    catálogos de la instrumentación y del funcionamiento de la cadena de medición utilizada;
+   c)    los certificados de calibración correspondientes;
+   d)    para el caso de medición en extremidades superiores en que el equipo no registre resultados
+         directos, presentar los elementos que describan la fiabilidad y exactitud de las mediciones.
+   8.3.5 El profesionista responsable del reconocimiento y evaluación de las vibraciones debe contar con
+documentos que avalen su conocimiento en seguridad e higiene en el trabajo.
+   8.4 Capacitación y adiestramiento del POE.
+   8.4.1 El POE debe ser capacitado acerca de:
+   a)    características y ubicación de las fuentes emisoras de vibraciones;
+   b)    la vigilancia y efectos a la salud;
+   c)    los NEV;
+   d)    prácticas de trabajo seguras;
+   e)    medidas de control, que deben incluir su uso, cuidado, mantenimiento y limitaciones.
+   8.5 Vigilancia a la salud del POE.
+   8.5.1 Se debe realizar la vigilancia a la salud del POE, según lo establezcan las normas oficiales
+mexicanas que al respecto emita la Secretaría de Salud. En caso de no existir normatividad de la Secretaría
+de Salud, el médico de la empresa determinará la vigilancia a la salud que se deba realizar, o si se retira al
+POE temporal o definitivamente de la exposición.
+   8.5.2 Se debe establecer por escrito, un programa de vigilancia a la salud que incluya como mínimo lo
+siguiente:
+   a)    periodicidad de los exámenes médicos: al menos uno cada 2 años;
+   b)    historia clínica completa con énfasis en el aparato músculo-esquelético y siste ma cardiovascular;
+   c)    cuando se requiera la realización de otro tipo de estudios, el médico de empresa debe determinar el
+         tipo de estudio en función del diagnóstico presuncional;
+   d)    medidas de prevención y control médico;
+   e)    seguimiento al programa de vigilancia a la salud del POE.
+   8.6 Control
+    8.6.1 Cuando el NEV supere los límites establecidos en el Capítulo 7, se deben aplicar de inmediato una o
+más de las medidas siguientes, de tal manera que el POE no se exponga a niveles de vibración superiores a
+los l ímites:
+   a)    mantenimiento a equipo y herramientas;
+   b)    medidas técnicas de control como:
+         1)   sustitución de equipos o proceso;
+         2)   reducción de las vibraciones en las fuentes generadoras;
+         3)   modificación de aquellos componentes de la frecuencia que tengan mayo r probabilidad de
+              generar daño a la salud del POE;
+         4)   tratamiento de las trayectorias de propagación de las vibraciones por aislamiento de las
+              máquinas y elementos constructivos;
+         5)   medidas administrativas de control como el manejo de los tiempos de exposición, ya sea
+              alternando a los trabajadores en diversos puestos de trabajo por medio de la programación de
+              la producción u otros métodos administrativos.
+   8.6.2 Las medidas de control que se adopten deben de estar sustentadas en un análisis técnico para su
+implantación y en una evaluación posterior para comprobar su efectividad.
+   8.6.3 Se debe tener especial atención para que las medidas de control que se adopten no produzcan
+nuevos riesgos a los trabajadores.
+   8.6.4 Para las medidas de control que no sean de aplicación inmediata, se debe elaborar un cronograma
+de actividades para su implantación.
+   8.6.5 En la entrada de las áreas donde los niveles de exposición superen los NEV, deben colocarse los
+señalamientos de advertencia de peligro o de obligaciones, según lo establecido en la NOM-026-STPS-1998.
+   8.7 Documentación.
+    8.7.1 El patrón debe mantener la documentación del programa con la información registrada durante los
+últimos cinco años.
+   8.7.2 La documentación del programa debe contener los siguientes registros :
+   a)    evaluación del nivel de exposición a vibraciones según lo establecido en el Apartado 8.3.3;
+   b)    programa de capacitación y adiestramiento para el POE; según lo establecido en el Apartado 8.4;
+   c)    vigilancia a la salud, conforme a lo establecido en el Ap artado 8.5;
+   d)    medidas técnicas y administrativas de control adoptadas, según lo establecido en los Apartados 8.6.1
+         al 8.6.4;
+   e)    conclusiones.
+   9. Unidades de verificación y laboratorios de pruebas
+    9.1 El patrón puede contratar, para tener resultados con reconocimiento oficial, una unidad de verificación,
+acreditada y aprobada, según lo establecido en la Ley Federal sobre Metrología y Normalización, para
+verificar o evaluar los Apartados 5.2 al 5.7.
+   9.2 El patrón puede contratar, para tener resultados con reconocimiento oficial, un laboratorio de pruebas,
+acreditado y aprobado, según lo establecido en la Ley Federal sobre Metrología y Normalización, para el
+reconocimiento y evaluación establecidos en los Apartados 8.2, 8.3 y 8.7.
+    9.3 Las unidades de verificación y laboratorios de pruebas deben entregar al patrón sus dictámenes o
+informes de resultados, de acuerdo con lo establecido en los Apartados 9.3.1 y 9.3.2, respectivamente,
+consignando la siguiente información:
+   9.3.1 Para el dictamen de unidades de verificación.
+   9.3.1.1 Datos del centro de trabajo:
+   a)    nombre, denominación o razón social;
+   b)    domicilio completo.
+   9.3.1.2 Datos de la unidad de verificación:
+   a)    nombre, denominación o razón social;
+   b)    domicilio completo;
+   c)    copia de la aprobación vigente otorgada por la Secretaría del Trabajo y Previsión Social;
+   d)    número consecutivo de identificación del dictamen;
+   e)    fecha de la verificación;
+   f)    clave y nombre de la norma verificada;
+   g)    resultados de la verificación;
+   h)    lugar y fecha de la firma del dictamen;
+   i)    nombre y firma del representante legal;
+   j)    vigencia del dictamen.
+   9.3.2 Para el informe del laboratorio de pruebas.
+   9.3.2.1 Datos del centro de trabajo:
+   a)    nombre, denominación o razón social;
+   b)    domicilio completo.
+   9.3.2.2 Datos del laboratorio de pruebas:
+   a)    nombre, denominación o razón social;
+   b)    domicilio completo;
+   c)    copia de la aprobación vigente otorgada por la Secretaría del Trabajo y Previsión Social;
+   d)    contenido del estudio de acuerdo a lo establecido en los Apartados 8.1 y 8.2;
+   e)    resultados d e la evaluación;
+   f)    nombre y firma del representante legal;
+   g)    lugar y fecha de la firma del informe;
+   h)    vigencia del informe.
+    9.3.3 La vigencia del dictamen y del informe de resultados es de dos años, sujeto a que no se modifiquen
+las tareas, el área de trabajo, las herramientas o equipos del proceso de tal manera que se puedan
+incrementar las características de las vibraciones o los ciclos de exposición.
+   10. Vigilancia
+   La vigilancia en el cumplimiento de la presente Norma, corresponde a la Secretaría del Trabajo y Previsión
+Social.
+   11. Bibliografía
+   a)    Pelmear, Peter L., Wasserman, Donald E., Hand-Arm Vibration, 2 nd Edition; OEM Press 1998.
+   b)    Wasserman, Donald E., Human aspects of occupational vibration; Elsevier 1987.
+   c)    ISO 2631/1-1985 (E) Evaluation of human exposure to whole-body vibration- Part 1- General
+         requirements.
+   d)    ISO 2631/2-1989 (E) – Part 2 – Continuous and shock induced vibration in building (1 to 80 Hz).
+   e)    ISO 5349-1986 (E) Mechanical vibration of human exposure to hand-transmitted vibration.
+   f)    ACGIH – TLVs and BELS – 1999.
+   g)    NIOSH. Criteria for a Recommended Standard Occupational Exposure to Hand-Arm Vibration. U.S.
+         Department of Health and Human Services. September 1989.
+   h)    NOM-008-SCFI-1993, Sistema general de unidades de medida.
+   12. Concordancia con normas internacionales
+   Esta Norma Oficial Mexicana no concuerda con ninguna norma internacional, por no existir referencia
+alguna al momento de su elaboración.
+
+                                                  TRANSITORIOS
+   PRIMERO.- La presente Norma Oficial Mexicana entrará en vigor a los ciento ochenta días naturales
+después de su publicación en el Diario Oficial de la Federación.
+    SEGUNDO.- Durante el lapso señalado en el Transitorio Primero, los patrones cumplirán con la Norma
+Oficial Mexicana NOM-024-STPS-1993, Relativa a las condiciones de seguridad e higiene en los centros de
+trabajo donde se generen vibraciones, o bien realizarán las adaptaciones para observar las disposiciones de
+la presente Norma Oficial Mexicana y, en este último caso, las autoridades del trabajo proporcionarán a
+petición de los patrones interesados asesoría y orientación para instrumentar su cumplimiento, sin que los
+patrones se hagan acreedores a sanciones por el incumplimiento de la Norma en vigor.
+    Se expide en la Ciudad de México, Distrito Federal, a los once días del mes de diciembre de dos mil uno.-
+El Secretario del Trabajo y Previsión Social, Carlos María Abascal Carranza.- Rúbrica.
+                                         GUIA DE REFERENCIA I
+        EJEMPLO DE CALCULO DEL NIVEL DE EXPOSICION A VIBRACIONES EN EXTREMIDADES SUPERIORES
+    El contenido de esta guía es para la conversión de mediciones de aceleraciones en bandas de octava y de
+tercios de octava a frecuencias de aceleración ponderada y no es de cumplimiento obligatorio.
+   I.1 La frecuencia de aceleración ponderada k jw para cada eje de referencia, puede ser calculada con la
+siguiente ecuación:
+   Ecuación 1.
+
+
+                                        k j (x, y ,z ) = ∑ (k f k mi )
+                                                        32           2
+
+
+                                                       i =9
+
+   donde:
+   kf    es el factor de ponderación para la iésima banda de tercios de octava como se muestra en la
+         Tabla I.1.
+   kmi   es el valor rms de la aceleración medida en la iésima banda de tercios de octava en m/s 2
+
+                                            TABLA I.1
+  APROXIMACIONES ASINTOTICAS PARA LOS FILTROS Wh (FACTOR DE PONDERACION k f) PARA LA CONVERSION
+              DE MAGNITUDES DE BANDAS DE TERCIOS DE OCTAVA A FRECUENCIAS PONDERADAS
+
+                       Numero de Banda          Frecuencia                  Factor de
+                        de Frecuencia           Central (Hz)             Ponderación (kf)
+                                9                      8                       1.0
+                               10                     10                       1.0
+                               11                    12.5                      1.0
+                               12                     16                       1.0
+                               13                     20                       0.8
+                               14                     25                      0.63
+                               15                    31.5                      0.5
+                               16                     40                       0.4
+                               17                     50                       0.3
+                               18                     63                      0.25
+                               19                     80                       0.2
+                               20                    100                      0.16
+                               21                    125                      0.125
+                               22                    160                       0.1
+                               23                    200                      0.08
+                               24                    250                      0.063
+                               25                    315                      0.05
+                               26                    400                      0.04
+                               27                    500                      0.03
+                               28                    630                      0.025
+                               29                    800                      0.02
+                               30                   1000                      0.016
+                               31                   1250                     0.0125
+                               32                   1600                      0.01
+   I.2 Valor total de la vibración.
+
+    En la mayoría de las herramientas, la vibración total en la mano tiene contribuciones de las tres
+direcciones medidas. La valoración de la exposición de la vibración está por lo tanto basada en una cantidad
+que combina los tres ejes. El valor total de la vibración k j es definido como la raíz cuadrada de la suma de los
+cuadrados de los tres ejes de referencia.
+
+   Ecuación 2
+
+
+                                                     (                     )
+                                                                               1
+                                               k j = k 2j x + k 2j y + k 2jz 2
+
+   Nota 1: Se recomienda que kjx , kjy y kjz sean reportados separadamente.
+
+    Nota 2: En algunos casos no es posible hacer la medición de vibraciones en los tres ejes. Si alguno de los
+tres ejes no está disponible, el valor total de la vibración se puede estimar multiplicando el eje dominante por
+el factor de 1.7.
+   Nota 3: La aceleración rms de la frecuencia ponderada en un eje es considerada dominante si la
+aceleración de la frecuencia ponderada en cada eje no excede el 50% del primero. En casos especiales
+donde existe un eje dominante de vibración, en condiciones normales de operación, la valoración puede ser
+basada sobre este valor del eje (éste valor puede subestimar el valor total de la vibración en un 20%).
+   I.3 Exposición diaria a la vibración.
+   La exposición diaria a la vibración es derivada de la magnitud de la vibración (suma de la aceleración
+ponderada) y la duración de la exposición.
+   Para facilitar las comparaciones entre los diferentes ciclos de exposición diarios, la exposición diaria será
+expresada en términos de la energía equivalente de la suma de la aceleración ponderada en 8 horas.
+   Si el trabajo es tal que la exposición diaria consiste de diversos ciclos de exposición a diferentes
+magnitudes de vibración, entonces la energía equivalente total de la aceleración ponderada ak, será obtenida
+con la siguiente ecuación:
+   Ecuación 3
+                                                                               1
+                                                 1 n           2
+                                            ak =  ∑ (k j )2 Ti 
+                                                  T i= l       
+   donde:
+   ak    es el componente direccional de la aceleración ponderada.
+
+   T     es la duración de la exposición diaria.
+   kj    es la “iésima” frecuencia ponderada, valor cuadrático medio de la componente de la aceleración con
+         duración Ti.
+
+   Si la duración de la exposición diaria es diferente a 8 horas, entonces la energía equivalente para 8 horas
+será determinada como se muestra en la siguiente ecuación:
+   Ecuación 4
+
+                                                                  T
+                                                   ak = k j
+                                                                  T0
+   donde:
+   T     es la duración de la exposición de la vibración k j .
+   T0    es la duración de referencia de 8 h (28800 s).
+    I.4 Ejemplo de cálculo del tiempo de exposición diaria a vibraciones en las extremidades superiores,
+midiendo las magnitudes de aceleración de las bandas de tercios de octava (8 a 1600 Hz) en cada eje de
+referencia en un solo ciclo de exposición. Al realizar una medición en los tres ejes de referencia se obtienen
+las siguientes magnitudes de vibración en (m/s 2).
+
+                                                                 Aceleración medida
+                           Frecuencia Central                       (kmi en m/s 2)
+                                    (Hz)                      Eje x           Eje y       Eje z
+                                      8                   0.024               0.035       0.11
+                                     10                   0.023               0.024       0.09
+                                   12.5                   0.024               0.025       0.098
+                                     16                   0.028                0.2        0.035
+                                     20                       0.15            0.13        0.024
+                                     25                   0.035               0.11        0.025
+                                   31.5                   0.024               0.09        0.025
+                                     40                   0.025               0.098       0.023
+                                     50                   0.023               0.024       0.024
+                                     63                   0.024               0.023       0.18
+                                     80                       0.18            0.024       0.13
+                                    100                       0.13            0.028       0.14
+                                    125                       0.14            0.15        0.15
+                                    160                       0.15            0.035         0.2
+                                    200                       0.2             0.024       0.13
+                                    250                       0.13            0.025       0.11
+                                    315                       0.11            0.023       0.09
+                                    400                       0.09            0.024       0.098
+                                    500                   0.098               0.18        0.099
+                                    630                   0.099               0.13          0.1
+                                    800                   0.085               0.14        0.12
+                                   1000                   0.049               0.15        0.15
+                                   1250                   0.063                0.2        0.24
+                                   1600                   0.097               0.13        0.23
+
+
+   1o. Se calcula k j(x,y,z) sustituyendo en la ecuación 1.
+
+                                                                 32
+                                           k j (x, y ,z ) =     ∑ (k k )           2
+                                                                          f   mi
+                                                                i=9
+
+
+
+ Número de Frecuencia    Factor de                 Aceleración medida                           Aceleración Ponderada
+  Banda de Central (Hz) Ponderación                             (m/s 2)                                    (m/s 2)
+ Frecuencia                      (k f )         Eje x           Eje y          Eje z       Eje x            Eje y            Eje z
+                                               (k mxi)          (k myi)       (k mzi)   (k f *k mxi) 2   (k f *k myi) 2   (k f *k mzi) 2
+      9             8            1.0           0.024            0.035          0.11     5.760E-04        1.225E-03        1.210E-02
+      10           10            1.0           0.023            0.024          0.09     5.290E-04        5.760E-04        8.100E-03
+      11           12.5          1.0           0.024            0.025         0.098     5.760E-04        6.250E-04        9.604E-03
+      12           16            1.0           0.028             0.2          0.035     7.840E-04        4.000E-02        1.225E-03
+      13            20               0.8           0.15      0.13      0.024         1.440E-02   1.082E-02   3.686E-04
+      14            25               0.63         0.035      0.11      0.025         4.862E-04   4.802E-03   2.481E-04
+      15           31.5              0.5          0.024      0.09      0.025         1.440E-04   2.025E-03   1.563E-04
+      16            40               0.4          0.025      0.098     0.023         1.000E-04   1.537E-03   8.464E-05
+      17            50               0.3          0.023      0.024     0.024         4.760E-05   5.184E-05   5.184E-05
+      18            63               0.25         0.024      0.023      0.18         3.600E-05   3.306E-05   2.025E-03
+      19            80               0.2           0.18      0.024      0.13         1.296E-03   2.304E-05   6.760E-04
+      20           100               0.16          0.13      0.028      0.14         4.326E-04   2.007E-05   5.018E-04
+      21           125              0.125          0.14      0.15       0.15         3.063E-04   3.516E-04   3.516E-04
+      22           160               0.1           0.15      0.035          0.2      2.250E-04   1.225E-05   4.000E-04
+      23           200               0.08          0.2       0.024      0.13         2.560E-04   3.686E-06   1.082E-04
+      24           250              0.063          0.13      0.025      0.11         6.708E-05   2.481E-06   4.802E-05
+      25           315               0.05          0.11      0.023      0.09         3.025E-05   1.323E-06   2.025E-05
+      26           400               0.04          0.09      0.024     0.098         1.296E-05   9.216E-07   1.537E-05
+      27           500               0.03         0.098      0.18      0.099         8.644E-06   2.916E-05   8.821E-06
+      28           630              0.025         0.099      0.13           0.1      6.126E-06   1.056E-05   6.250E-06
+      29           800               0.02         0.085      0.14       0.12         2.890E-06   7.840E-06   5.760E-06
+      30           1000             0.016         0.049      0.15       0.15         6.147E-07   5.760E-06   5.760E-06
+      31           1250            0.0125         0.063       0.2       0.24         6.202E-07   6.250E-06   9.000E-06
+      32           1600              0.01         0.097      0.13       0.23         9.409E-07   1.609E-06   5.290E-06
+                             Sumatoria al cuadrado                                   2.0235E-2   6.2164E-2   3.6125E-2
+   Por lo tanto:
+   kj x = (2.0235E-2)1/2 = 0.1426 (m/s 2)
+   kj y = (6.2164E-2) 1/2 =0.2493 (m/s 2)
+   kj z = (3.6125E-2) 1/2 =0.1901 (m/s 2)
+   2o. Se calcula el valor total de la vibración kj con la ecuación 2
+
+
+                                                     (                       )
+                                                                                 1
+                                              k j = k 2jx + k 2jy + k 2jz        2
+
+                                                                         1/2
+                          Kj =  (0.1425 )2 + (0.2493)2 + (0.1900 )2      = 0.3444 m / s 2
+                                                                      
+   Nota: Este es el valor total de vibración para un ciclo de exposición.
+   Por lo tanto, este procedimiento se tiene que repetir para cada ciclo de exposición.
+   3o. Se calcula la exposición diaria a vibración en extremidades superiores con la ecuación 3.
+                                                                         1
+                                                1 n             2   
+                                                       ∑  k j  T i 
+                                                                         2
+                                            a = 
+                                             k   T i = 1          
+    Suponiendo que los ciclos de exposición son de 1 h, 3 h y 0.5 h (dentro del mismo día de trabajo), y que
+los valores totales de vibración para los ciclos de exposición son:
+   kj1 = 0.3444 (m/s 2)
+   kj2 = 0.1528 (m/s 2)
+   kj3 = 0.2435 (m/s 2)
+   Entonces:
+                        a       =
+                                    (0.3444)2 x 1 h + (0.1528)2 x 3 h + (0.2435)2 x 0.5 h
+                            k                                      8h
+
+                                                                                 2
+                                                          0.2183    m/s 2 
+                                             a        =                     
+                                                 k                 8
+
+                                           = 0.1652 m/s 2
+                                                      a
+                                         k
+   Comparando el resultado de ak con los valores dominantes de aceleración ponderada en la Tabla 3
+(límites máxim os de exposición a vibraciones en dirección xh , yh y zh ) se interpreta que:
+   ak 4 por lo tanto, el tiempo total de exposición diaria a vibraciones es de 4 a 8 h.
+
+                                                     GUIA DE REFERENCIA II
+  EJEMPLOS DE UBICACION DEL TRANSDUCTOR EN ALGUNAS HERRAMIENTAS MANUALES PARA LA MEDICION
+                                    DE VIBRACIONES EN EXTREMIDADES SUPERIORES
+
+   El contenido de esta guía es un complemento para la mejor comprensión de la norma y no es de
+cumplimiento obligatorio.
+Ver imagen 11ene-38.bmp
+Ver imagen 11ene-39.bmp
+
+
+_______________________
+

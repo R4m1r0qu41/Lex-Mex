@@ -1,0 +1,762 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "1",
+    "label": "1. Introducción",
+    "text": "1. Introducción\n    Los residuos peligrosos, en cualquier estado físico, por sus características corrosivas, reactivas,\nexplosivas, inflamables, tóxicas, y biológico-infecciosas, y por su forma de manejo pueden representar un\nriesgo para el equilibrio ecológico, el ambiente y la salud de la población en general, por lo que es necesario\ndeterminar los criterios, procedimientos, características y listados que los identifiquen.\n    Los avances científicos y tecnológicos y la experiencia internacional sobre la caracterización de los\nresiduos peligrosos han permitido definir como constituyentes tóxicos ambientales, agudos y crónicos a\naquellas sustancias químicas que son capaces de producir efectos adversos a la salud o al ambiente.",
+    "start_char": 10984,
+    "end_char": 11721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "2",
+    "label": "2. Objetivo",
+    "text": "2. Objetivo\n    Esta Norma Oficial Mexicana establece el procedimiento para identificar si un residuo es peligroso, el\ncual incluye los listados de los residuos peligrosos y las características que hacen que se consideren como\ntales.",
+    "start_char": 11725,
+    "end_char": 11958
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "3",
+    "label": "3. Campo de aplicación",
+    "text": "3. Campo de aplicación\n   Esta Norma Oficial Mexicana es de observancia obligatoria en lo conducente para los responsables de\nidentificar la peligrosidad de un residuo.",
+    "start_char": 11962,
+    "end_char": 12130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "4",
+    "label": "4. Referencias",
+    "text": "4. Referencias",
+    "start_char": 12134,
+    "end_char": 12148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "4.1",
+    "label": "4.1 Norma Oficial Mexicana NOM-004-SEMARNAT-2002, Protección Ambiental.-Lodos y biosólidos.-",
+    "text": "4.1 Norma Oficial Mexicana NOM-004-SEMARNAT-2002, Protección Ambiental.-Lodos y biosólidos.-\nEspecificaciones y límites máximos permisibles de contaminantes para su aprovechamiento y disposición\nfinal, publicada en el Diario Oficial de la Federación el 15 de agosto de 2003.",
+    "start_char": 12153,
+    "end_char": 12427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "4.2",
+    "label": "4.2 Norma Oficial Mexicana NOM-053-SEMARNAT-1993, Que establece el procedimiento para llevar a",
+    "text": "4.2 Norma Oficial Mexicana NOM-053-SEMARNAT-1993, Que establece el procedimiento para llevar a\ncabo la prueba de extracción para determinar los constituyentes que hacen a un residuo peligroso por su\ntoxicidad al ambiente, publicada en el Diario Oficial de la Federación (D.O.F.) el 22 de octubre de 1993, la\ncual ha cambiado de nomenclatura en dos ocasiones, la primera, por el Acuerdo Secretarial publicado en el\nD.O.F. el 29 de noviembre de 1994, siendo modificada a NOM-053-ECOL-1993 y, la segunda, por el Acuerdo\nemitido en el mismo órgano de difusión el 23 de abril de 2003, quedando con el nombre que aparece al inicio\nde esta cita.",
+    "start_char": 12432,
+    "end_char": 13070
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "4.3",
+    "label": "4.3 Norma Oficial Mexicana NOM-087-SEMARNAT-SSA1-2002, Protección ambiental-Salud ambiental-",
+    "text": "4.3 Norma Oficial Mexicana NOM-087-SEMARNAT-SSA1-2002, Protección ambiental-Salud ambiental-\nResiduos peligrosos biológico-infecciosos-Clasificación y especificaciones de manejo, publicada en el Diario\nOficial de la Federación (D.O.F.) el 17 de febrero de 2003, la cual cambió de nomenclatura por el Acuerdo\nSecretarial publicado en el D.O.F. el 23 de abril de 2003, quedando con el nombre que aparece al inicio de\nesta cita.",
+    "start_char": 13075,
+    "end_char": 13500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "4.4",
+    "label": "4.4 Norma Oficial Mexicana NOM-133-SEMARNAT-2000, Protección Ambiental-Bifenilos Policlorados",
+    "text": "4.4 Norma Oficial Mexicana NOM-133-SEMARNAT-2000, Protección Ambiental-Bifenilos Policlorados\n(BPCs)-Especificaciones de manejo, publicada en el Diario Oficial de la Federación (D.O.F.) el 10 de\ndiciembre de 2001, la cual cambió de nomenclatura por el Acuerdo Secretarial publicado en el D.O.F. el 23\nde abril de 2003, quedando con el nombre que aparece al inicio de esta cita.",
+    "start_char": 13505,
+    "end_char": 13883
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "4.5",
+    "label": "4.5 Norma Oficial Mexicana NOM-138-SEMARNAT/SS-2003, Límites máximos permisibles de",
+    "text": "4.5 Norma Oficial Mexicana NOM-138-SEMARNAT/SS-2003, Límites máximos permisibles de\nhidrocarburos en suelos y las especificaciones para su caracterización y remediación, publicada en el Diario\nOficial de la Federación el 29 de marzo de 2005.",
+    "start_char": 13888,
+    "end_char": 14129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "4.6",
+    "label": "4.6 Norma Oficial Mexicana NOM-141-SEMARNAT-2003, Que establece el procedimiento para",
+    "text": "4.6 Norma Oficial Mexicana NOM-141-SEMARNAT-2003, Que establece el procedimiento para\ncaracterizar los jales, así como las especificaciones y criterios para la caracterización y preparación del sitio,\nproyecto, construcción, operación y postoperación de presas de jales, publicada en el Diario Oficial de la\nFederación el 13 de septiembre de 2004.",
+    "start_char": 14133,
+    "end_char": 14480
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "4.7",
+    "label": "4.7 Norma Oficial Mexicana NOM-002-SCT/2003, Listado de las Substancias y Materiales Peligrosos",
+    "text": "4.7 Norma Oficial Mexicana NOM-002-SCT/2003, Listado de las Substancias y Materiales Peligrosos\nmás usualmente transportados, publicada en el Diario Oficial de la Federación el 3 de diciembre de 2003.",
+    "start_char": 14483,
+    "end_char": 14683
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "5",
+    "label": "5. Definiciones",
+    "text": "5. Definiciones\n    Para los efectos de esta Norma Oficial Mexicana se consideran las definiciones contenidas en la Ley\nGeneral del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión\nIntegral de los Residuos y en los Reglamentos correspondientes y las siguientes:",
+    "start_char": 14687,
+    "end_char": 14993
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "5.1",
+    "label": "5.1 Constituyente Tóxico.- Cualquier sustancia química contenida en un residuo y que hace que éste",
+    "text": "5.1 Constituyente Tóxico.- Cualquier sustancia química contenida en un residuo y que hace que éste\nsea peligroso por su toxicidad, ya sea ambiental, aguda o crónica.",
+    "start_char": 14997,
+    "end_char": 15162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "5.2",
+    "label": "5.2 CRETIB.- El acrónimo de clasificación de las características a identificar en los residuos peligrosos y",
+    "text": "5.2 CRETIB.- El acrónimo de clasificación de las características a identificar en los residuos peligrosos y\nque significa: corrosivo, reactivo, explosivo, tóxico ambiental, inflamable y biológico-infeccioso.",
+    "start_char": 15166,
+    "end_char": 15373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "5.3",
+    "label": "5.3 CRIT.- El acrónimo de clasificación de las características a identificar en los residuos peligrosos y que",
+    "text": "5.3 CRIT.- El acrónimo de clasificación de las características a identificar en los residuos peligrosos y que\nsignifica: corrosivo, reactivo, inflamable y tóxico ambiental.",
+    "start_char": 15379,
+    "end_char": 15551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "5.4",
+    "label": "5.4 Extracto PECT.- El lixiviado a partir del cual se determinan los constituyentes tóxicos del residuo y su",
+    "text": "5.4 Extracto PECT.- El lixiviado a partir del cual se determinan los constituyentes tóxicos del residuo y su\nconcentración con la finalidad de identificar si éste es peligroso por su toxicidad al ambiente.",
+    "start_char": 15555,
+    "end_char": 15760
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "5.5",
+    "label": "5.5 Fuente específica.- Las actividades que generan residuos peligrosos y que están definidas por giro o",
+    "text": "5.5 Fuente específica.- Las actividades que generan residuos peligrosos y que están definidas por giro o\nproceso industrial.",
+    "start_char": 15764,
+    "end_char": 15888
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "5.6",
+    "label": "5.6 Fuente no específica.- Las actividades que generan residuos peligrosos y que por llevarse a cabo",
+    "text": "5.6 Fuente no específica.- Las actividades que generan residuos peligrosos y que por llevarse a cabo\nen diferentes giros o procesos se clasifican de manera general.",
+    "start_char": 15892,
+    "end_char": 16056
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "5.7",
+    "label": "5.7 Ley.- La Ley General para la Prevención y Gestión Integral de los Residuos.",
+    "text": "5.7 Ley.- La Ley General para la Prevención y Gestión Integral de los Residuos.",
+    "start_char": 16060,
+    "end_char": 16139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "5.8",
+    "label": "5.8 PECT.- Procedimiento de Extracción de Constituyentes Tóxicos.",
+    "text": "5.8 PECT.- Procedimiento de Extracción de Constituyentes Tóxicos.",
+    "start_char": 16143,
+    "end_char": 16208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:5-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "5.9",
+    "label": "5.9 Residuos peligrosos resultado del desecho de productos fuera de especificaciones o",
+    "text": "5.9 Residuos peligrosos resultado del desecho de productos fuera de especificaciones o\ncaducos.- Sustancias químicas que han perdido, carecen o presentan variación en las características\nnecesarias para ser utilizados, transformados o comercializados respecto a los estándares de diseño o\nproducción originales.",
+    "start_char": 16212,
+    "end_char": 16523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:5-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "5.10",
+    "label": "5.10 Reglamento.- El Reglamento de la Ley General para la Prevención y Gestión Integral de los",
+    "text": "5.10 Reglamento.- El Reglamento de la Ley General para la Prevención y Gestión Integral de los\nResiduos.",
+    "start_char": 16527,
+    "end_char": 16631
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:5-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "5.11",
+    "label": "5.11 Secretaría.- La Secretaría de Medio Ambiente y Recursos Naturales.",
+    "text": "5.11 Secretaría.- La Secretaría de Medio Ambiente y Recursos Naturales.",
+    "start_char": 16635,
+    "end_char": 16706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:5-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "5.12",
+    "label": "5.12 Toxicidad.- La propiedad de una sustancia o mezcla de sustancias de provocar efectos adversos en",
+    "text": "5.12 Toxicidad.- La propiedad de una sustancia o mezcla de sustancias de provocar efectos adversos en\nla salud o en los ecosistemas.",
+    "start_char": 16711,
+    "end_char": 16843
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:5-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "5.13",
+    "label": "5.13 Toxicidad Ambiental.- La característica de una sustancia o mezcla de sustancias que ocasiona un",
+    "text": "5.13 Toxicidad Ambiental.- La característica de una sustancia o mezcla de sustancias que ocasiona un\ndesequilibrio ecológico.",
+    "start_char": 16847,
+    "end_char": 16972
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:5-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "5.14",
+    "label": "5.14 Toxicidad Aguda.- El grado en el cual una sustancia o mezcla de sustancias puede provocar, en un",
+    "text": "5.14 Toxicidad Aguda.- El grado en el cual una sustancia o mezcla de sustancias puede provocar, en un\ncorto periodo de tiempo o en una sola exposición, daños o la muerte de un organismo.",
+    "start_char": 16977,
+    "end_char": 17163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:5-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "5.15",
+    "label": "5.15 Toxicidad Crónica.- Es la propiedad de una sustancia o mezcla de sustancias de causar efectos",
+    "text": "5.15 Toxicidad Crónica.- Es la propiedad de una sustancia o mezcla de sustancias de causar efectos\ndañinos a largo plazo en los organismos, generalmente a partir de exposiciones continuas o repetidas y que\nson capaces de producir efectos cancerígenos, teratogénicos o mutagénicos.",
+    "start_char": 17167,
+    "end_char": 17447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "6",
+    "label": "6. Procedimiento para determinar si un residuo es peligroso",
+    "text": "6. Procedimiento para determinar si un residuo es peligroso",
+    "start_char": 17451,
+    "end_char": 17510
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "6.1",
+    "label": "6.1 El procedimiento para determinar si un residuo es peligroso se presenta en la Figura 1.",
+    "text": "6.1 El procedimiento para determinar si un residuo es peligroso se presenta en la Figura 1.",
+    "start_char": 17514,
+    "end_char": 17605
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "6.2",
+    "label": "6.2 Un residuo es peligroso si se encuentra en alguno de los siguientes listados:",
+    "text": "6.2 Un residuo es peligroso si se encuentra en alguno de los siguientes listados:\n   Listado 1: Clasificación de residuos peligrosos por fuente específica.\n   Listado 2: Clasificación de residuos peligrosos por fuente no específica.\n   Listado 3: Clasificación de residuos peligrosos resultado del desecho de productos químicos fuera de\nespecificaciones o caducos (Tóxicos Agudos).\n   Listado 4: Clasificación de residuos peligrosos resultado del desecho de productos químicos fuera de\nespecificaciones o caducos (Tóxicos Crónicos).\n   Listado 5: Clasificación por tipo de residuos, sujetos a Condiciones Particulares de Manejo.",
+    "start_char": 17609,
+    "end_char": 18237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:6-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "6.2.1",
+    "label": "6.2.1 Las Toxicidades aguda y crónica referidas en los Listados 1, 2, 3 y 4 de esta Norma Oficial",
+    "text": "6.2.1 Las Toxicidades aguda y crónica referidas en los Listados 1, 2, 3 y 4 de esta Norma Oficial\nMexicana no están contempladas en los análisis a realizar para la determinación de las características CRIT\nde peligrosidad en los residuos.",
+    "start_char": 18241,
+    "end_char": 18479
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:6-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "6.2.2",
+    "label": "6.2.2 El Anexo 1 de esta Norma Oficial Mexicana contiene las bases para listar residuos peligrosos por",
+    "text": "6.2.2 El Anexo 1 de esta Norma Oficial Mexicana contiene las bases para listar residuos peligrosos por\n Fuente Específica y Fuente No Específica, en función de sus Toxicidades ambiental, aguda o crónica.",
+    "start_char": 18482,
+    "end_char": 18687
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "6.3",
+    "label": "6.3 Si el residuo no se encuentra en ninguno de los Listados 1 a 5 y es regulado por alguno de los",
+    "text": "6.3 Si el residuo no se encuentra en ninguno de los Listados 1 a 5 y es regulado por alguno de los\ncriterios contemplados en los numerales 6.3.1 a 6.3.4 de esta norma, éste se sujetará a lo dispuesto en el\nInstrumento Regulatorio correspondiente.",
+    "start_char": 18692,
+    "end_char": 18938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:6-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "6.3.1",
+    "label": "6.3.1 Los lodos y biosólidos están regulados por la NOM-004-SEMARNAT-2002.",
+    "text": "6.3.1 Los lodos y biosólidos están regulados por la NOM-004-SEMARNAT-2002.",
+    "start_char": 18942,
+    "end_char": 19016
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:6-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "6.3.2",
+    "label": "6.3.2 Los bifenilos policlorados (BPCs) están sujetos a las disposiciones establecidas en la",
+    "text": "6.3.2 Los bifenilos policlorados (BPCs) están sujetos a las disposiciones establecidas en la\nNOM-133-SEMARNAT-2000.",
+    "start_char": 19019,
+    "end_char": 19135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:6-3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "6.3.3",
+    "label": "6.3.3 Los límites máximos permisibles de hidrocarburos en suelos están sujetos a lo definido en la",
+    "text": "6.3.3 Los límites máximos permisibles de hidrocarburos en suelos están sujetos a lo definido en la\nNOM-138-SEMARNAT/SS-2003.",
+    "start_char": 19138,
+    "end_char": 19262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:6-3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "6.3.4",
+    "label": "6.3.4 Los jales mineros se rigen bajo las especificaciones incluidas en la NOM-141-SEMARNAT-2003.",
+    "text": "6.3.4 Los jales mineros se rigen bajo las especificaciones incluidas en la NOM-141-SEMARNAT-2003.",
+    "start_char": 19267,
+    "end_char": 19364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "6.4",
+    "label": "6.4 Si el residuo no está listado o no cumple con las particularidades establecidas en el inciso 6.3 se",
+    "text": "6.4 Si el residuo no está listado o no cumple con las particularidades establecidas en el inciso 6.3 se\ndeberá definir si es que éste presenta alguna de las características de peligrosidad que se mencionan en el\nnumeral 7 de esta Norma Oficial Mexicana. Esta determinación se llevará a cabo mediante alguna de las\nopciones que se mencionan a continuación:",
+    "start_char": 19368,
+    "end_char": 19723
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:6-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "6.4.1",
+    "label": "6.4.1 Caracterización o análisis CRIT de los residuos junto con la determinación de las características de",
+    "text": "6.4.1 Caracterización o análisis CRIT de los residuos junto con la determinación de las características de\nExplosividad y Biológico-Infeccioso.",
+    "start_char": 19727,
+    "end_char": 19870
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:6-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "6.4.2",
+    "label": "6.4.2 Manifestación basada en el conocimiento científico o la evidencia empírica sobre los materiales y",
+    "text": "6.4.2 Manifestación basada en el conocimiento científico o la evidencia empírica sobre los materiales y\nprocesos empleados en la generación del residuo en los siguientes casos:",
+    "start_char": 19874,
+    "end_char": 20050
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:6-4-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "6.4.2.1",
+    "label": "6.4.2.1 Si el generador sabe que su residuo tiene alguna de las características de peligrosidad",
+    "text": "6.4.2.1 Si el generador sabe que su residuo tiene alguna de las características de peligrosidad\nestablecidas en esta norma.",
+    "start_char": 20054,
+    "end_char": 20177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:6-4-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "6.4.2.2",
+    "label": "6.4.2.2 Si el generador conoce que el residuo contiene un constituyente tóxico que lo hace peligroso.",
+    "text": "6.4.2.2 Si el generador conoce que el residuo contiene un constituyente tóxico que lo hace peligroso.",
+    "start_char": 20181,
+    "end_char": 20282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:6-4-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "6.4.2.3",
+    "label": "6.4.2.3 Si el generador declara, bajo protesta de decir verdad, que su residuo no es peligroso.",
+    "text": "6.4.2.3 Si el generador declara, bajo protesta de decir verdad, que su residuo no es peligroso.",
+    "start_char": 20286,
+    "end_char": 20381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7",
+    "label": "7. Características que definen a un residuo como peligroso",
+    "text": "7. Características que definen a un residuo como peligroso",
+    "start_char": 20385,
+    "end_char": 20443
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.1",
+    "label": "7.1 El residuo es peligroso si presenta al menos una de las siguientes características, bajo las",
+    "text": "7.1 El residuo es peligroso si presenta al menos una de las siguientes características, bajo las\ncondiciones señaladas en los numerales 7.2 a 7.7 de esta Norma Oficial Mexicana:\n   -     Corrosividad\n   -     Reactividad\n   -     Explosividad\n   -     Toxicidad Ambiental\n   -     Inflamabilidad\n   -     Biológico-Infecciosa",
+    "start_char": 20447,
+    "end_char": 20772
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.1.1",
+    "label": "7.1.1 Las Toxicidades aguda y crónica quedan exceptuadas de los análisis a realizar para la",
+    "text": "7.1.1 Las Toxicidades aguda y crónica quedan exceptuadas de los análisis a realizar para la\ndeterminación de la característica de Toxicidad Ambiental en los residuos establecida en el numeral 7.5 de\nesta Norma Oficial Mexicana.",
+    "start_char": 20776,
+    "end_char": 21003
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.2",
+    "label": "7.2 Es Corrosivo cuando una muestra representativa presenta cualquiera de las siguientes propiedades:",
+    "text": "7.2 Es Corrosivo cuando una muestra representativa presenta cualquiera de las siguientes propiedades:",
+    "start_char": 21007,
+    "end_char": 21108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.2.1",
+    "label": "7.2.1 Es un líquido acuoso y presenta un pH menor o igual a 2,0 o mayor o igual a 12,5 de conformidad",
+    "text": "7.2.1 Es un líquido acuoso y presenta un pH menor o igual a 2,0 o mayor o igual a 12,5 de conformidad\ncon el procedimiento que se establece en la Norma Mexicana correspondiente.",
+    "start_char": 21112,
+    "end_char": 21289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.2.2",
+    "label": "7.2.2 Es un sólido que cuando se mezcla con agua destilada presenta un pH menor o igual a 2,0 o mayor",
+    "text": "7.2.2 Es un sólido que cuando se mezcla con agua destilada presenta un pH menor o igual a 2,0 o mayor\no igual a 12,5 según el procedimiento que se establece en la Norma Mexicana correspondiente.",
+    "start_char": 21294,
+    "end_char": 21488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.2.3",
+    "label": "7.2.3 Es un líquido no acuoso capaz de corroer el acero al carbón, tipo SAE 1020, a una velocidad de",
+    "text": "7.2.3 Es un líquido no acuoso capaz de corroer el acero al carbón, tipo SAE 1020, a una velocidad de\n6,35 milímetros o más por año a una temperatura de 328 K (55°C), según el procedimiento que se establece\nen la Norma Mexicana correspondiente.",
+    "start_char": 21493,
+    "end_char": 21736
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.3",
+    "label": "7.3 Es Reactivo cuando una muestra representativa presenta cualquiera de las siguientes propiedades:",
+    "text": "7.3 Es Reactivo cuando una muestra representativa presenta cualquiera de las siguientes propiedades:",
+    "start_char": 21740,
+    "end_char": 21840
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.3.1",
+    "label": "7.3.1 Es un líquido o sólido que después de ponerse en contacto con el aire se inflama en un tiempo",
+    "text": "7.3.1 Es un líquido o sólido que después de ponerse en contacto con el aire se inflama en un tiempo\nmenor a cinco minutos sin que exista una fuente externa de ignición, según el procedimiento que se\nestablece en la Norma Mexicana correspondiente.",
+    "start_char": 21844,
+    "end_char": 22090
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.3.2",
+    "label": "7.3.2 Cuando se pone en contacto con agua reacciona espontáneamente y genera gases inflamables en",
+    "text": "7.3.2 Cuando se pone en contacto con agua reacciona espontáneamente y genera gases inflamables en\nuna cantidad mayor de 1 litro por kilogramo del residuo por hora, según el procedimiento que se establece\nen la Norma Mexicana correspondiente.",
+    "start_char": 22095,
+    "end_char": 22336
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.3.3",
+    "label": "7.3.3 Es un residuo que en contacto con el aire y sin una fuente de energía suplementaria genera calor,",
+    "text": "7.3.3 Es un residuo que en contacto con el aire y sin una fuente de energía suplementaria genera calor,\nsegún el procedimiento que se establece en la Norma Mexicana correspondiente.",
+    "start_char": 22340,
+    "end_char": 22521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.3.4",
+    "label": "7.3.4 Posee en su constitución cianuros o sulfuros liberables, que cuando se expone a condiciones",
+    "text": "7.3.4 Posee en su constitución cianuros o sulfuros liberables, que cuando se expone a condiciones\nácidas genera gases en cantidades mayores a 250 mg de ácido cianhídrico por kg de residuo o 500 mg de\nácido sulfhídrico por kg de residuo, según el procedimiento que se establece en la Norma Mexicana\ncorrespondiente.",
+    "start_char": 22526,
+    "end_char": 22840
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.4",
+    "label": "7.4 Es Explosivo cuando es capaz de producir una reacción o descomposición detonante o explosiva",
+    "text": "7.4 Es Explosivo cuando es capaz de producir una reacción o descomposición detonante o explosiva\nsolo o en presencia de una fuente de energía o si es calentado bajo confinamiento. Esta característica no\ndebe determinarse mediante análisis de laboratorio, por lo que la identificación de esta característica debe\nestar basada en el conocimiento del origen o composición del residuo.",
+    "start_char": 22845,
+    "end_char": 23226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.5",
+    "label": "7.5 Es Tóxico Ambiental cuando:",
+    "text": "7.5 Es Tóxico Ambiental cuando:",
+    "start_char": 23231,
+    "end_char": 23262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.5.1",
+    "label": "7.5.1 El extracto PECT, obtenido mediante el procedimiento establecido en la NOM-053-SEMARNAT-1993,",
+    "text": "7.5.1 El extracto PECT, obtenido mediante el procedimiento establecido en la NOM-053-SEMARNAT-1993,\ncontiene cualquiera de los constituyentes tóxicos listados en la Tabla 2 de esta Norma en una concentración\nmayor a los límites ahí señalados, la cual deberá obtenerse según los procedimientos que se establecen en\nlas Normas Mexicanas correspondientes.",
+    "start_char": 23267,
+    "end_char": 23619
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.6",
+    "label": "7.6 Es Inflamable cuando una muestra representativa presenta cualquiera de las siguientes",
+    "text": "7.6 Es Inflamable cuando una muestra representativa presenta cualquiera de las siguientes\npropiedades:",
+    "start_char": 23623,
+    "end_char": 23725
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.6.1",
+    "label": "7.6.1 Es un líquido o una mezcla de líquidos que contienen sólidos en solución o suspensión que tiene un",
+    "text": "7.6.1 Es un líquido o una mezcla de líquidos que contienen sólidos en solución o suspensión que tiene un\npunto de inflamación inferior a 60,5°C, medido en copa cerrada, de conformidad con el procedimiento que se\nestablece en la Norma Mexicana correspondiente, quedando excluidas las soluciones acuosas que\ncontengan un porcentaje de alcohol, en volumen, menor a 24%.",
+    "start_char": 23729,
+    "end_char": 24095
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.6.2",
+    "label": "7.6.2 No es líquido y es capaz de provocar fuego por fricción, absorción de humedad o cambios químicos",
+    "text": "7.6.2 No es líquido y es capaz de provocar fuego por fricción, absorción de humedad o cambios químicos\nespontáneos a 25°C, según el procedimiento que se establece en la Norma Mexicana correspondiente.",
+    "start_char": 24099,
+    "end_char": 24299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.6.3",
+    "label": "7.6.3 Es un gas que, a 20°C y una presión de 101,3 kPa, arde cuando se encuentra en una mezcla del",
+    "text": "7.6.3 Es un gas que, a 20°C y una presión de 101,3 kPa, arde cuando se encuentra en una mezcla del\n13% o menos por volumen de aire, o tiene un rango de inflamabilidad con aire de cuando menos 12% sin\nimportar el límite inferior de inflamabilidad.",
+    "start_char": 24303,
+    "end_char": 24549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.6.4",
+    "label": "7.6.4 Es un gas oxidante que puede causar o contribuir más que el aire, a la combustión de otro material.",
+    "text": "7.6.4 Es un gas oxidante que puede causar o contribuir más que el aire, a la combustión de otro material.",
+    "start_char": 24553,
+    "end_char": 24658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:7-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "7.7",
+    "label": "7.7 Es Biológico-Infeccioso de conformidad con lo que se establece en la NOM-087-SEMARNAT-SSA1-",
+    "text": "7.7 Es Biológico-Infeccioso de conformidad con lo que se establece en la NOM-087-SEMARNAT-SSA1-\n2002, referida en el punto 4 de esta Norma.",
+    "start_char": 24662,
+    "end_char": 24801
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "8",
+    "label": "8. Procedimiento para la evaluación de la conformidad",
+    "text": "8. Procedimiento para la evaluación de la conformidad",
+    "start_char": 24805,
+    "end_char": 24858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "8.1",
+    "label": "8.1 Las muestras para determinaciones analíticas deben ser tomadas directamente a la salida del",
+    "text": "8.1 Las muestras para determinaciones analíticas deben ser tomadas directamente a la salida del\nproceso o del área de almacenamiento en su caso, de conformidad con los procedimientos establecidos en\nla Norma Mexicana correspondiente y deberán ser representativas del volumen generado, considerando las\nvariaciones en el proceso y, además, se debe establecer la cadena de custodia para las mismas.",
+    "start_char": 24863,
+    "end_char": 25259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "8.2",
+    "label": "8.2 La Secretaría reconocerá las determinaciones analíticas de la prueba CRIT que hayan sido",
+    "text": "8.2 La Secretaría reconocerá las determinaciones analíticas de la prueba CRIT que hayan sido\nmuestreadas y analizadas por un laboratorio acreditado y aprobado conforme a las disposiciones\nlegales aplicables.",
+    "start_char": 25263,
+    "end_char": 25470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "9",
+    "label": "9. Grado de concordancia con normas y lineamientos internacionales y con las normas",
+    "text": "9. Grado de concordancia con normas y lineamientos internacionales y con las normas\nmexicanas tomadas como base para su elaboración\n   Esta Norma Oficial Mexicana no concuerda con ninguna norma internacional ni norma mexicana.",
+    "start_char": 25473,
+    "end_char": 25699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "10",
+    "label": "10. Bibliografía",
+    "text": "10. Bibliografía",
+    "start_char": 25703,
+    "end_char": 25719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "10.1",
+    "label": "10.1 Ley Federal sobre Metrología y Normalización, publicada en el Diario Oficial de la Federación el 1",
+    "text": "10.1 Ley Federal sobre Metrología y Normalización, publicada en el Diario Oficial de la Federación el 1\nde julio de 1992 y reformada por Decretos publicados en el mismo órgano el 24 de diciembre de 1996 y el 20\nde mayo de 1997.",
+    "start_char": 25724,
+    "end_char": 25951
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "10.2",
+    "label": "10.2 Reglamento de la Ley Federal sobre Metrología y Normalización, publicado en el Diario Oficial de la",
+    "text": "10.2 Reglamento de la Ley Federal sobre Metrología y Normalización, publicado en el Diario Oficial de la\nFederación el 14 de enero de 1999.",
+    "start_char": 25955,
+    "end_char": 26094
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "10.3",
+    "label": "10.3 Code of Federal Regulations, Vol. 40 Part. 261. 1999. U.S.A. (Código de Regulaciones Federales,",
+    "text": "10.3 Code of Federal Regulations, Vol. 40 Part. 261. 1999. U.S.A. (Código de Regulaciones Federales,\nVol. 40, Parte 261, 1999, Estados Unidos de América).",
+    "start_char": 26099,
+    "end_char": 26253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:10-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "10.4",
+    "label": "10.4 Registro Internacional de Sustancias Químicas Potencialmente Tóxicas, Ginebra, Suiza, 1982.",
+    "text": "10.4 Registro Internacional de Sustancias Químicas Potencialmente Tóxicas, Ginebra, Suiza, 1982.",
+    "start_char": 26257,
+    "end_char": 26353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:10-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "10.5",
+    "label": "10.5 Reglamento para el Transporte Terrestre de Materiales y Residuos Peligrosos de la SCT, publicado",
+    "text": "10.5 Reglamento para el Transporte Terrestre de Materiales y Residuos Peligrosos de la SCT, publicado\nen el Diario Oficial de la Federación el 7 de abril de 1993.",
+    "start_char": 26357,
+    "end_char": 26519
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:10-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "10.6",
+    "label": "10.6 Hazardous Waste Characteristics Scoping Study. Office of Solid Waste, USEPA, November 1996",
+    "text": "10.6 Hazardous Waste Characteristics Scoping Study. Office of Solid Waste, USEPA, November 1996\n(Estudio de los Alcances de las Características de los Residuos Peligrosos, Oficina de Residuos Sólidos,\nUSEPA, Noviembre de 1996).",
+    "start_char": 26523,
+    "end_char": 26750
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "number": "11",
+    "label": "11. Vigilancia de esta Norma",
+    "text": "11. Vigilancia de esta Norma\n   La vigilancia del cumplimiento de la presente Norma Oficial Mexicana corresponde a la Secretaría de\nMedio Ambiente y Recursos Naturales, por conducto de la Procuraduría Federal de Protección al Ambiente,\ncuyo personal realizará los trabajos de inspección y vigilancia que sean necesarios. Las violaciones a la\nmisma se sancionarán en los términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente,\nla Ley General para la Prevención y Gestión Integral de los Residuos, sus Reglamentos y demás\nordenamientos jurídicos aplicables.",
+    "start_char": 26754,
+    "end_char": 27334
+  }
+]

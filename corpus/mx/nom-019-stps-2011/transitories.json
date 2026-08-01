@@ -1,0 +1,32 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "ordinal": "PRIMERO",
+    "text": "PRIMERO. La presente Norma Oficial Mexicana entrará en vigor a los tres meses siguientes a su\npublicación en el Diario Oficial de la Federación.",
+    "start_char": 64509,
+    "end_char": 64653
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "ordinal": "SEGUNDO",
+    "text": "SEGUNDO. Durante el lapso señalado en el artículo primero transitorio, los patrones cumplirán con la\nNorma Oficial Mexicana NOM-019-STPS-2004, Constitución, organización y funcionamiento de las comisiones\nde seguridad e higiene en los centros de trabajo, o bien realizarán las adaptaciones para observar las\ndisposiciones de la presente Norma Oficial Mexicana NOM-019-STPS-2011, Constitución, integración,\norganización y funcionamiento de las comisiones de seguridad e higiene.\n   En este último caso, las autoridades laborales proporcionarán a petición de los patrones interesados,\nasesoría y orientación para instrumentar su cumplimiento, sin que los patrones se hagan acreedores a\nsanciones por el incumplimiento de la norma en vigor.",
+    "start_char": 64658,
+    "end_char": 65395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:transitory:tercero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "ordinal": "TERCERO",
+    "text": "TERCERO. A partir de la fecha en que entre en vigor la presente Norma, quedará sin efectos la Norma\nOficial Mexicana NOM-019-STPS-2004, Constitución, organización y funcionamiento de las comisiones de\nseguridad e higiene en los centros de trabajo, publicada en el Diario Oficial de la Federación de 4 de enero de\n2005.",
+    "start_char": 65400,
+    "end_char": 65718,
+    "asserted_dates": [
+      "2005-01-04"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "schema_version": "0.1.0",
+  "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+  "valid": true,
+  "clause_count": 76,
+  "supplement_count": 8,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 1 states no explicit normative or non-normative character",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 2 states no explicit normative or non-normative character",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 3 states no explicit normative or non-normative character",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 4 states no explicit normative or non-normative character",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 5 states no explicit normative or non-normative character",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 6 states no explicit normative or non-normative character",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 7 states no explicit normative or non-normative character",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 8 states no explicit normative or non-normative character",
+      "provision_id": null
+    }
+  ]
+}

@@ -1,0 +1,942 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n   Establecer los requerimientos para la constitución, integración, organización y funcionamiento de las\ncomisiones de seguridad e higiene en los centros de trabajo.",
+    "start_char": 4994,
+    "end_char": 5171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación\n   La presente Norma rige en el territorio nacional y aplica en todos los centros de trabajo.",
+    "start_char": 5175,
+    "end_char": 5291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "3",
+    "label": "3. Referencias",
+    "text": "3. Referencias\n    Para la correcta interpretación de esta Norma, deberá consultarse la siguiente Norma Oficial Mexicana\nvigente o las que la sustituyan:",
+    "start_char": 5295,
+    "end_char": 5448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "3.1",
+    "label": "3.1 NOM-030-STPS-2009, Servicios preventivos de seguridad y salud en el trabajo - Funciones y",
+    "text": "3.1 NOM-030-STPS-2009, Servicios preventivos de seguridad y salud en el trabajo - Funciones y\nactividades.",
+    "start_char": 5453,
+    "end_char": 5559
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4",
+    "label": "4. Definiciones",
+    "text": "4. Definiciones\n   Para efectos de esta Norma se establecen las definiciones siguientes:",
+    "start_char": 5563,
+    "end_char": 5651
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.1",
+    "label": "4.1 Accidente de trabajo: Toda lesión orgánica o perturbación funcional, inmediata o posterior, o la",
+    "text": "4.1 Accidente de trabajo: Toda lesión orgánica o perturbación funcional, inmediata o posterior, o la\nmuerte, producida repentinamente en ejercicio o con motivo del trabajo, cualesquiera que sean el lugar y el\ntiempo en que se preste.",
+    "start_char": 5656,
+    "end_char": 5889
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.2",
+    "label": "4.2 Actos inseguros: Las acciones realizadas por el trabajador que implican una omisión o violación a un",
+    "text": "4.2 Actos inseguros: Las acciones realizadas por el trabajador que implican una omisión o violación a un\nmétodo de trabajo o medida determinados como seguros.",
+    "start_char": 5893,
+    "end_char": 6051
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.3",
+    "label": "4.3 Agente: El elemento físico, químico o biológico que por ausencia o presencia en el ambiente laboral,",
+    "text": "4.3 Agente: El elemento físico, químico o biológico que por ausencia o presencia en el ambiente laboral,\npuede afectar la vida, salud e integridad física de los trabajadores.",
+    "start_char": 6055,
+    "end_char": 6229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.4",
+    "label": "4.4 Autoridad del trabajo; Autoridad laboral: Las unidades administrativas competentes de la Secretaría",
+    "text": "4.4 Autoridad del trabajo; Autoridad laboral: Las unidades administrativas competentes de la Secretaría\ndel Trabajo y Previsión Social que realizan funciones de promoción, normalización, vigilancia e inspección en\nmateria de seguridad y salud en el trabajo, y las correspondientes a las entidades federativas y del Distrito\nFederal, que actúen en auxilio de aquéllas.\n\f   Miércoles 13 de abril de 2011                DIARIO OFICIAL                               (Primera Sección)",
+    "start_char": 6234,
+    "end_char": 6713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.5",
+    "label": "4.5 Centros de trabajo: Todos aquellos lugares, tales como edificios, locales, instalaciones y áreas, en los",
+    "text": "4.5 Centros de trabajo: Todos aquellos lugares, tales como edificios, locales, instalaciones y áreas, en los\nque se realicen actividades de producción, comercialización, transporte y almacenamiento o prestación de\nservicios, o en los que laboren personas que estén sujetas a una relación de trabajo.",
+    "start_char": 6718,
+    "end_char": 7017
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.6",
+    "label": "4.6 Comisión: La comisión o comisiones de seguridad e higiene en los centros de trabajo.",
+    "text": "4.6 Comisión: La comisión o comisiones de seguridad e higiene en los centros de trabajo.",
+    "start_char": 7021,
+    "end_char": 7109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.7",
+    "label": "4.7 Condiciones inseguras: Aquéllas que derivan de la inobservancia o desatención de las medidas",
+    "text": "4.7 Condiciones inseguras: Aquéllas que derivan de la inobservancia o desatención de las medidas\nestablecidas como seguras, y que pueden conllevar la ocurrencia de un incidente, accidente, enfermedad de\ntrabajo o daño material al centro de trabajo.",
+    "start_char": 7114,
+    "end_char": 7362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.8",
+    "label": "4.8 Condiciones peligrosas: Aquellas características inherentes a las instalaciones, procesos,",
+    "text": "4.8 Condiciones peligrosas: Aquellas características inherentes a las instalaciones, procesos,\nmaquinaria, equipo, herramientas y materiales, que pueden provocar un incidente, accidente, enfermedad de\ntrabajo o daño material al centro de trabajo.",
+    "start_char": 7367,
+    "end_char": 7613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.9",
+    "label": "4.9 Enfermedad de trabajo: Todo estado patológico derivado de la acción continuada de una causa que",
+    "text": "4.9 Enfermedad de trabajo: Todo estado patológico derivado de la acción continuada de una causa que\ntenga su origen o motivo en el trabajo o en el medio en que el trabajador se vea obligado a prestar sus\nservicios.",
+    "start_char": 7617,
+    "end_char": 7831
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.10",
+    "label": "4.10 Incidentes: Los acontecimientos que pueden o no ocasionar daños a las instalaciones, maquinaria,",
+    "text": "4.10 Incidentes: Los acontecimientos que pueden o no ocasionar daños a las instalaciones, maquinaria,\nequipo, herramientas y/o materiales utilizados, e interferir en los procesos o actividades, y que en\ncircunstancias diferentes podrían haber derivado en lesiones a los trabajadores, por lo que requieren ser\ninvestigados para considerar la adopción de las medidas preventivas pertinentes.",
+    "start_char": 7836,
+    "end_char": 8225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.11",
+    "label": "4.11 Ley: La Ley Federal del Trabajo.",
+    "text": "4.11 Ley: La Ley Federal del Trabajo.",
+    "start_char": 8229,
+    "end_char": 8266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.12",
+    "label": "4.12 Normas: Las Normas Oficiales Mexicanas en materia de seguridad y salud en el trabajo.",
+    "text": "4.12 Normas: Las Normas Oficiales Mexicanas en materia de seguridad y salud en el trabajo.",
+    "start_char": 8270,
+    "end_char": 8360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.13",
+    "label": "4.13 Recorridos de verificación: Las revisiones que realiza la comisión en el centro trabajo para",
+    "text": "4.13 Recorridos de verificación: Las revisiones que realiza la comisión en el centro trabajo para\nidentificar agentes, condiciones peligrosas o inseguras y actos inseguros; investigar las causas de los\naccidentes y enfermedades de trabajo; proponer medidas para prevenirlos, así como vigilar su cumplimiento.",
+    "start_char": 8364,
+    "end_char": 8672
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.14",
+    "label": "4.14 Reglamento: El Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, o el que lo",
+    "text": "4.14 Reglamento: El Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, o el que lo\nsustituya.",
+    "start_char": 8676,
+    "end_char": 8788
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.15",
+    "label": "4.15 Riesgos de trabajo: Los accidentes y enfermedades a que están expuestos los trabajadores en",
+    "text": "4.15 Riesgos de trabajo: Los accidentes y enfermedades a que están expuestos los trabajadores en\nejercicio o con motivo de su trabajo.",
+    "start_char": 8793,
+    "end_char": 8927
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.16",
+    "label": "4.16 Secretaría: La Secretaría del Trabajo y Previsión Social.",
+    "text": "4.16 Secretaría: La Secretaría del Trabajo y Previsión Social.",
+    "start_char": 8931,
+    "end_char": 8993
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.17",
+    "label": "4.17 Sindicato: La representación de los trabajadores que tienen la titularidad del contrato colectivo de",
+    "text": "4.17 Sindicato: La representación de los trabajadores que tienen la titularidad del contrato colectivo de\ntrabajo o del contrato Ley.",
+    "start_char": 8998,
+    "end_char": 9131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:4-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "4.18",
+    "label": "4.18 Verificación: La constatación ocular, revisión documental o entrevista del cumplimiento del",
+    "text": "4.18 Verificación: La constatación ocular, revisión documental o entrevista del cumplimiento del\nReglamento y de las normas que resulten aplicables al centro de trabajo.",
+    "start_char": 9135,
+    "end_char": 9304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "5",
+    "label": "5. Obligaciones del patrón",
+    "text": "5. Obligaciones del patrón",
+    "start_char": 9308,
+    "end_char": 9334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "5.1",
+    "label": "5.1 Constituir e integrar al menos una comisión en el centro de trabajo, de conformidad con lo dispuesto en",
+    "text": "5.1 Constituir e integrar al menos una comisión en el centro de trabajo, de conformidad con lo dispuesto en\nel Capítulo 7 de la presente Norma.",
+    "start_char": 9339,
+    "end_char": 9482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "5.2",
+    "label": "5.2 Designar a sus representantes para participar en la comisión que se integre en el centro de trabajo.",
+    "text": "5.2 Designar a sus representantes para participar en la comisión que se integre en el centro de trabajo.\nDicha designación deberá realizarse con base en las funciones por desempeñar.",
+    "start_char": 9486,
+    "end_char": 9668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "5.3",
+    "label": "5.3 Solicitar al sindicato o a los trabajadores, si no hubiera sindicato, la designación de sus representantes",
+    "text": "5.3 Solicitar al sindicato o a los trabajadores, si no hubiera sindicato, la designación de sus representantes\npara participar en la comisión. Dicha designación deberá realizarse con base en las funciones por\ndesempeñar.",
+    "start_char": 9672,
+    "end_char": 9892
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "5.4",
+    "label": "5.4 Contar con el acta de constitución de la comisión del centro de trabajo, y de sus actualizaciones,",
+    "text": "5.4 Contar con el acta de constitución de la comisión del centro de trabajo, y de sus actualizaciones,\ncuando se modifique su integración, de conformidad con lo previsto en el numeral 7.4 de esta Norma.",
+    "start_char": 9896,
+    "end_char": 10098
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "5.5",
+    "label": "5.5 Contar con el programa anual de los recorridos de verificación de la comisión, de conformidad con lo",
+    "text": "5.5 Contar con el programa anual de los recorridos de verificación de la comisión, de conformidad con lo\nprevisto en los numerales 9.3 a 9.5 de la presente Norma.",
+    "start_char": 10102,
+    "end_char": 10264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "5.6",
+    "label": "5.6 Contar con las actas de los recorridos de verificación realizados por la comisión, de conformidad con lo",
+    "text": "5.6 Contar con las actas de los recorridos de verificación realizados por la comisión, de conformidad con lo\nestablecido en el numeral 9.12 de esta Norma.",
+    "start_char": 10268,
+    "end_char": 10422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "5.7",
+    "label": "5.7 Facilitar a los trabajadores el desempeño de sus funciones como integrantes de la comisión.",
+    "text": "5.7 Facilitar a los trabajadores el desempeño de sus funciones como integrantes de la comisión.",
+    "start_char": 10426,
+    "end_char": 10521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "5.8",
+    "label": "5.8 Proporcionar a la comisión el diagnóstico sobre seguridad y salud en el trabajo, a que se refiere la",
+    "text": "5.8 Proporcionar a la comisión el diagnóstico sobre seguridad y salud en el trabajo, a que se refiere la\nNOM-030-STPS-2009, o las que la sustituyan.\n\f        (Primera Sección)                        DIARIO OFICIAL                   Miércoles 13 de abril de 2011",
+    "start_char": 10524,
+    "end_char": 10785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:5-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "5.9",
+    "label": "5.9 Apoyar la investigación de los accidentes y enfermedades de trabajo que lleve a cabo la comisión,",
+    "text": "5.9 Apoyar la investigación de los accidentes y enfermedades de trabajo que lleve a cabo la comisión,\nproporcionando para tal efecto información sobre:\n\n   a)     Los incidentes, accidentes y enfermedades de trabajo que ocurran en el centro de trabajo;\n\n   b)     Los procesos de trabajo y las hojas de datos de seguridad de las sustancias químicas utilizadas, y\n\n   c)     El seguimiento a las causas de los riesgos de trabajo que tengan lugar en el centro laboral.",
+    "start_char": 10790,
+    "end_char": 11256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:5-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "5.10",
+    "label": "5.10 Brindar facilidades a los integrantes de la comisión para que utilicen los apoyos informáticos",
+    "text": "5.10 Brindar facilidades a los integrantes de la comisión para que utilicen los apoyos informáticos\ndesarrollados por la Secretaría, a que se refieren los numerales 9.7 y 9.8 de la presente Norma.",
+    "start_char": 11261,
+    "end_char": 11457
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:5-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "5.11",
+    "label": "5.11 Atender y dar seguimiento a las medidas propuestas por la comisión para prevenir los riesgos de",
+    "text": "5.11 Atender y dar seguimiento a las medidas propuestas por la comisión para prevenir los riesgos de\ntrabajo, de acuerdo con los resultados de las actas de los recorridos de verificación y con base en lo dispuesto\npor el Reglamento y las normas que resulten aplicables, de conformidad con lo dispuesto en el numeral 9.11\nde esta Norma.",
+    "start_char": 11463,
+    "end_char": 11798
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:5-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "5.12",
+    "label": "5.12 Difundir entre los trabajadores del centro de trabajo, por cualquier medio:",
+    "text": "5.12 Difundir entre los trabajadores del centro de trabajo, por cualquier medio:\n\n   a)     La relación actualizada de los integrantes de la comisión, precisando el puesto, turno y área de\n          trabajo de cada uno de ellos;\n\n   b)     Los resultados de las investigaciones, con las causas y consecuencias, sobre los accidentes y\n          enfermedades de trabajo, y\n\n   c)     Las medidas propuestas por la comisión, relacionadas con la prevención de riesgos de trabajo, a fin\n          de evitar su recurrencia.",
+    "start_char": 11803,
+    "end_char": 12320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:5-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "5.13",
+    "label": "5.13 Proporcionar a los integrantes de la comisión, al menos una vez por año, capacitación para la",
+    "text": "5.13 Proporcionar a los integrantes de la comisión, al menos una vez por año, capacitación para la\nadecuada realización de sus funciones, con base en el programa que para tal efecto se elabore, de acuerdo\ncon lo señalado en el Capítulo 10 de la presente Norma.",
+    "start_char": 12325,
+    "end_char": 12585
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:5-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "5.14",
+    "label": "5.14 Exhibir a la autoridad del trabajo los documentos que la presente Norma le obligue a elaborar y",
+    "text": "5.14 Exhibir a la autoridad del trabajo los documentos que la presente Norma le obligue a elaborar y\nposeer, cuando aquélla así lo requiera.",
+    "start_char": 12590,
+    "end_char": 12730
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "6",
+    "label": "6. Obligaciones de los trabajadores",
+    "text": "6. Obligaciones de los trabajadores",
+    "start_char": 12735,
+    "end_char": 12770
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "6.1",
+    "label": "6.1 Designar a sus representantes para participar en la comisión, con base en las funciones por",
+    "text": "6.1 Designar a sus representantes para participar en la comisión, con base en las funciones por\ndesempeñar.",
+    "start_char": 12775,
+    "end_char": 12882
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "6.2",
+    "label": "6.2 Participar como miembros de la comisión, cuando sean designados:",
+    "text": "6.2 Participar como miembros de la comisión, cuando sean designados:\n\n   a)     A través del sindicato, mediante consulta entre los trabajadores, o\n\n   b)     Por la mayoría de los trabajadores, a falta de sindicato.",
+    "start_char": 12887,
+    "end_char": 13103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "6.3",
+    "label": "6.3 Participar como coordinador, secretario o vocal de la comisión, cuando sean designados para tales",
+    "text": "6.3 Participar como coordinador, secretario o vocal de la comisión, cuando sean designados para tales\nefectos.",
+    "start_char": 13108,
+    "end_char": 13218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "6.4",
+    "label": "6.4 Proponer a la comisión medidas para prevenir accidentes y enfermedades de trabajo en el área o",
+    "text": "6.4 Proponer a la comisión medidas para prevenir accidentes y enfermedades de trabajo en el área o\npuesto donde desempeñan sus actividades cotidianas.",
+    "start_char": 13223,
+    "end_char": 13373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:6-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "6.5",
+    "label": "6.5 Proporcionar a la comisión la información que se encuentre a su alcance para la investigación de las",
+    "text": "6.5 Proporcionar a la comisión la información que se encuentre a su alcance para la investigación de las\ncausas de accidentes y enfermedades de trabajo.",
+    "start_char": 13378,
+    "end_char": 13530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:6-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "6.6",
+    "label": "6.6 Atender las medidas preventivas de seguridad y salud en el trabajo que señale el patrón y/o la",
+    "text": "6.6 Atender las medidas preventivas de seguridad y salud en el trabajo que señale el patrón y/o la\ncomisión, de acuerdo con los resultados de las actas de los recorridos de verificación y con base en lo\ndispuesto por el Reglamento y las normas que resulten aplicables.",
+    "start_char": 13536,
+    "end_char": 13804
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:6-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "6.7",
+    "label": "6.7 Recibir la capacitación o adiestramiento que en materia de seguridad y salud en el trabajo les",
+    "text": "6.7 Recibir la capacitación o adiestramiento que en materia de seguridad y salud en el trabajo les\nproporcione el patrón, cuando formen parte de la comisión, de conformidad con el programa que para tal\nefecto se establezca.",
+    "start_char": 13809,
+    "end_char": 14032
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "7",
+    "label": "7. Constitución e integración de las comisiones",
+    "text": "7. Constitución e integración de las comisiones\n\f   Miércoles 13 de abril de 2011               DIARIO OFICIAL                               (Primera Sección)",
+    "start_char": 14036,
+    "end_char": 14194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "7.1",
+    "label": "7.1 Cada comisión deberá estar integrada por:",
+    "text": "7.1 Cada comisión deberá estar integrada por:\n   a)   Un trabajador y el patrón o su representante, cuando el centro de trabajo cuente con menos de 15\n        trabajadores, o\n   b)   Un coordinador, un secretario y los vocales que acuerden el patrón o sus representantes, y el\n        sindicato o el representante de los trabajadores, en el caso de que no exista la figura sindical, cuando\n        el centro de trabajo cuente con 15 trabajadores o más.",
+    "start_char": 14199,
+    "end_char": 14651
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "7.2",
+    "label": "7.2 La representación de los trabajadores deberá estar conformada por aquéllos que desempeñen sus",
+    "text": "7.2 La representación de los trabajadores deberá estar conformada por aquéllos que desempeñen sus\nlabores directamente en el centro de trabajo y que, preferentemente, tengan conocimientos o experiencia en\nmateria de seguridad y salud en el trabajo.",
+    "start_char": 14655,
+    "end_char": 14903
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "7.3",
+    "label": "7.3 El patrón deberá formalizar la constitución de cada comisión, a través de un acta, en sesión con los",
+    "text": "7.3 El patrón deberá formalizar la constitución de cada comisión, a través de un acta, en sesión con los\nmiembros que se hayan seleccionado y con la representación del sindicato, si lo hubiera.",
+    "start_char": 14907,
+    "end_char": 15100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:7-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "7.4",
+    "label": "7.4 El acta de constitución de la comisión deberá contener como mínimo los datos siguientes:",
+    "text": "7.4 El acta de constitución de la comisión deberá contener como mínimo los datos siguientes:\n   a)   Datos del centro de trabajo:\n        1)    El nombre, denominación o razón social;\n        2)    El domicilio completo (calle, número, colonia, municipio o delegación, ciudad, entidad\n              federativa, código postal);\n        3)    El Registro Federal de Contribuyentes;\n        4)    El Registro Patronal otorgado por el Instituto Mexicano del Seguro Social;\n        5)    La rama industrial o actividad económica;\n        6)    La fecha de inicio de actividades;\n        7)    El número de trabajadores del centro de trabajo, y\n        8)    El número de turnos, y\n   b)   Datos de la comisión:\n        1)    La fecha de integración de la comisión (día, mes y año), y\n        2)    El nombre y firma del patrón o de su representante, y del representante de los trabajadores,\n              tratándose de centros de trabajo con menos de 15 trabajadores, o\n        3)    El nombre y firma del coordinador, secretario y vocales, en el caso de centros de trabajo con 15\n              trabajadores o más.",
+    "start_char": 15104,
+    "end_char": 16213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:7-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "7.5",
+    "label": "7.5 Los centros de trabajo podrán constituir otras comisiones de seguridad e higiene, tomando en",
+    "text": "7.5 Los centros de trabajo podrán constituir otras comisiones de seguridad e higiene, tomando en\nconsideración lo siguiente:\n   a)   El número de turnos del centro de trabajo;\n   b)   El número de trabajadores que integran cada turno de trabajo;\n   c)   Los agentes y condiciones peligrosas de las áreas que integran al centro de trabajo, y\n   d)   Las empresas contratistas que desarrollen labores relacionadas con la actividad principal del centro\n        de trabajo dentro de las instalaciones de este último.",
+    "start_char": 16217,
+    "end_char": 16729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:7-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "7.6",
+    "label": "7.6 Las empresas podrán organizar otras comisiones para consolidar las acciones desarrolladas por las",
+    "text": "7.6 Las empresas podrán organizar otras comisiones para consolidar las acciones desarrolladas por las\ncomisiones de seguridad e higiene pertenecientes al mismo o a distintos centros de trabajo, con base en la\ncircunscripción territorial, la actividad económica, el grado de riesgo y el número de trabajadores.",
+    "start_char": 16734,
+    "end_char": 17043
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "8",
+    "label": "8. Organización de las comisiones",
+    "text": "8. Organización de las comisiones",
+    "start_char": 17047,
+    "end_char": 17080
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "8.1",
+    "label": "8.1 Los integrantes de la comisión tendrán a su cargo las funciones contenidas en el presente Capítulo.",
+    "text": "8.1 Los integrantes de la comisión tendrán a su cargo las funciones contenidas en el presente Capítulo.",
+    "start_char": 17084,
+    "end_char": 17187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "8.2",
+    "label": "8.2 El coordinador tendrá las funciones siguientes:",
+    "text": "8.2 El coordinador tendrá las funciones siguientes:\n   a)   Presidir las reuniones de trabajo de la comisión;\n   b)   Dirigir y coordinar el funcionamiento de la comisión;\n   c)   Promover la participación de los integrantes de la comisión y constatar que cada uno de ellos cumpla\n        con las tareas asignadas;\n   d)   Integrar el programa anual de los recorridos de verificación de la comisión y presentarlo al patrón;\n\f        (Primera Sección)                        DIARIO OFICIAL                      Miércoles 13 de abril de 2011\n\n   e)     Consignar en las actas de los recorridos de verificación de la comisión:\n          1)   Los agentes, condiciones peligrosas o inseguras y actos inseguros identificados;\n          2)   Los resultados de las investigaciones sobre las causas de los accidentes y enfermedades de\n               trabajo, y\n          3)   Las medidas para prevenirlos, con base en lo dispuesto por el Reglamento y las normas que\n               resulten aplicables;\n   f)     Coordinar las investigaciones sobre las causas de los accidentes y enfermedades de trabajo;\n   g)     Elaborar al término de cada recorrido de verificación, conjuntamente con el secretario de la comisión,\n          el acta correspondiente;\n   h)     Entregar al patrón las actas de los recorridos de verificación y analizar conjuntamente con él las\n          medidas propuestas para prevenir los accidentes y enfermedades de trabajo;\n   i)     Dar seguimiento a la instauración de las medidas propuestas por la comisión relacionadas con la\n          prevención de riesgos de trabajo;\n   j)     Asesorar a los vocales de la comisión y al personal del centro de trabajo, en la identificación de\n          agentes, condiciones peligrosas o inseguras y actos inseguros en el medio ambiente laboral;\n   k)     Participar en las inspecciones sobre las condiciones generales de seguridad e higiene que practique\n          la autoridad laboral en el centro de trabajo, en su caso;\n   l)     Solicitar, previo acuerdo de la comisión, la sustitución de sus integrantes, y\n   m)     Proponer al patrón el programa anual de capacitación de los integrantes de la comisión.",
+    "start_char": 17191,
+    "end_char": 19353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:8-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "8.3",
+    "label": "8.3 El secretario tendrá las funciones siguientes:",
+    "text": "8.3 El secretario tendrá las funciones siguientes:\n   a)    Convocar a los integrantes de la comisión a las reuniones de trabajo de ésta;\n   b)     Organizar y apoyar, de común acuerdo con el coordinador, el desarrollo de las reuniones de trabajo\n          de la comisión;\n   c)     Convocar a los integrantes de la comisión para realizar los recorridos de verificación programados;\n   d)     Integrar a las actas de recorridos de verificación de la comisión:\n          1)   Los agentes, condiciones peligrosas o inseguras y actos inseguros identificados;\n          2)   Los resultados de las investigaciones sobre las causas de los accidentes y enfermedades de\n               trabajo, y\n          3)   Las medidas para prevenirlos, con base en lo dispuesto por el Reglamento y las normas que\n               resulten aplicables;\n    e) Apoyar la realización de investigaciones sobre las causas de los accidentes y enfermedades de\ntrabajo;\n   f)     Elaborar al término de cada recorrido de verificación, conjuntamente con el coordinador de la\n          comisión, el acta correspondiente;\n   g)     Recabar las firmas de los integrantes de la comisión en las actas de los recorridos de verificación;\n   h)     Presentar y entregar las actas de recorridos de verificación al patrón, conjuntamente con el\n          coordinador de la comisión;\n   i)     Mantener bajo custodia copia de:\n          1)   Las actas de constitución y su actualización;\n          2)   Las actas de los recorridos de verificación que correspondan al programa anual de recorridos\n               de verificación del ejercicio en curso y del año inmediato anterior;\n          3)   La evidencia documental sobre la capacitación impartida el ejercicio en curso y el año inmediato\n               anterior a los integrantes de la propia comisión, y\n          4)   La documentación que se relacione con la comisión;\n   j)     Participar en las inspecciones sobre las condiciones generales de seguridad e higiene que practique\n          la autoridad laboral en el centro de trabajo, en su caso, y\n   k)     Integrar el programa anual de capacitación de los integrantes de la comisión.",
+    "start_char": 19357,
+    "end_char": 21505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:8-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "8.4",
+    "label": "8.4 Los vocales tendrán las funciones siguientes:",
+    "text": "8.4 Los vocales tendrán las funciones siguientes:\n\f   Miércoles 13 de abril de 2011                 DIARIO OFICIAL                             (Primera Sección)\n\n   a)    Participar en las reuniones de trabajo de la comisión;\n   b)    Participar en los recorridos de verificación;\n   c)    Detectar y recabar información sobre los agentes, condiciones peligrosas o inseguras y actos\n         inseguros identificados en sus áreas de trabajo;\n   d)    Colaborar en la realización de investigaciones sobre las causas de los accidentes y enfermedades de\n         trabajo;\n   e)    Revisar las actas de los recorridos de verificación;\n   f)    Participar en el seguimiento a la instauración de las medidas propuestas por la comisión relacionadas\n         con la prevención de riesgos de trabajo;\n   g)    Apoyar las actividades de asesoramiento a los trabajadores para la identificación de agentes,\n         condiciones peligrosas o inseguras y actos inseguros en su área de trabajo;\n   h)    Identificar temas de seguridad y salud en el trabajo para su incorporación en el programa anual de\n         capacitación de los integrantes de la comisión, e\n   i)    Participar en las inspecciones sobre las condiciones generales de seguridad e higiene que practique\n         la autoridad laboral en el centro de trabajo, en su caso.",
+    "start_char": 21509,
+    "end_char": 22830
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "9",
+    "label": "9. Funcionamiento de las comisiones",
+    "text": "9. Funcionamiento de las comisiones",
+    "start_char": 22834,
+    "end_char": 22869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "9.1",
+    "label": "9.1 Cuando se constituya la comisión, el cargo de coordinador recaerá en el representante que designe el",
+    "text": "9.1 Cuando se constituya la comisión, el cargo de coordinador recaerá en el representante que designe el\npatrón, y el de secretario en el de los trabajadores que sea designado por el sindicato. De no existir la figura\nsindical, la selección del representante de los trabajadores se hará entre y por los integrantes de esta\nrepresentación. Los demás miembros de la comisión serán nombrados vocales.\n   Los nombramientos de coordinador, secretario y vocales tendrán una vigencia de dos años, y los de\ncoordinador y secretario se alternarán entre los representantes del patrón y de los trabajadores.",
+    "start_char": 22874,
+    "end_char": 23470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "9.2",
+    "label": "9.2 En caso de ausencia temporal del coordinador o del secretario de la comisión, su cargo será ocupado",
+    "text": "9.2 En caso de ausencia temporal del coordinador o del secretario de la comisión, su cargo será ocupado\npor uno de los vocales, de la representación que corresponda.",
+    "start_char": 23475,
+    "end_char": 23640
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "9.3",
+    "label": "9.3 El programa anual de recorridos de verificación deberá integrase dentro de los treinta días naturales",
+    "text": "9.3 El programa anual de recorridos de verificación deberá integrase dentro de los treinta días naturales\nsiguientes a la constitución de la comisión. Posteriormente, se deberá conformar el programa dentro de los\nprimeros treinta días naturales de cada año.",
+    "start_char": 23645,
+    "end_char": 23902
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:9-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "9.4",
+    "label": "9.4 En el programa anual se determinarán las prioridades de los recorridos de verificación, con base en las",
+    "text": "9.4 En el programa anual se determinarán las prioridades de los recorridos de verificación, con base en las\náreas con mayor presencia de agentes y condiciones peligrosas o inseguras, y a partir de los incidentes,\naccidentes y enfermedades de trabajo.",
+    "start_char": 23906,
+    "end_char": 24156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:9-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "9.5",
+    "label": "9.5 Los recorridos de verificación previstos en el programa anual de la comisión, se deberán realizar al",
+    "text": "9.5 Los recorridos de verificación previstos en el programa anual de la comisión, se deberán realizar al\nmenos con una periodicidad trimestral, a efecto de:\n   a)    Identificar los agentes, condiciones peligrosas o inseguras y actos inseguros en el centro de trabajo;\n   b)    Investigar las causas de los accidentes y enfermedades de trabajo que en su caso ocurran, de\n         acuerdo con los elementos que les proporcione el patrón y otros que estimen necesarios (Véase\n         Guía de Referencia I Investigación de las causas de los accidentes y enfermedades de trabajo);\n   c)    Determinar las medidas para prevenir riesgos de trabajo, con base en lo dispuesto por el Reglamento\n         y las normas que resulten aplicables, y\n   d)    Dar seguimiento a la instauración de las medidas propuestas por la comisión para prevenir los\n         riesgos de trabajo.",
+    "start_char": 24159,
+    "end_char": 25026
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:9-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "9.6",
+    "label": "9.6 Para la identificación de agentes, condiciones peligrosas o inseguras y actos inseguros en el centro de",
+    "text": "9.6 Para la identificación de agentes, condiciones peligrosas o inseguras y actos inseguros en el centro de\ntrabajo, la comisión podrá hacer uso del diagnóstico sobre seguridad y salud en el trabajo realizado por los\nservicios preventivos de seguridad y salud en el trabajo, a que se refiere la NOM-030-STPS-2009, o las que la\nsustituyan.",
+    "start_char": 25031,
+    "end_char": 25369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:9-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "9.7",
+    "label": "9.7 Para la identificación y determinación de las disposiciones normativas en materia de seguridad y salud",
+    "text": "9.7 Para la identificación y determinación de las disposiciones normativas en materia de seguridad y salud\naplicables al centro de trabajo, la comisión podrá utilizar el Asistente para la Identificación de las Normas\nOficiales Mexicanas de Seguridad y Salud en el Trabajo y el módulo para la Evaluación del Cumplimiento de\nla Normatividad en Seguridad y Salud en el Trabajo, contenidos en la página electrónica de la Secretaría\nhttp://autogestion.stps.gob.mx:8162/, con la finalidad de detectar agentes, condiciones peligrosas o inseguras\ny actos inseguros en el centro de trabajo.\n\f        (Primera Sección)                        DIARIO OFICIAL                     Miércoles 13 de abril de 2011",
+    "start_char": 25374,
+    "end_char": 26070
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:9-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "9.8",
+    "label": "9.8 Para la determinación de las medidas por adoptar para prevenir riesgos de trabajo en el centro de",
+    "text": "9.8 Para la determinación de las medidas por adoptar para prevenir riesgos de trabajo en el centro de\ntrabajo y el seguimiento a su instauración, la comisión podrá utilizar el módulo para la Elaboración de\nProgramas de Seguridad y Salud en el Trabajo, contenido en la página electrónica de la Secretaría\nhttp://autogestion.stps.gob.mx:8162/.",
+    "start_char": 26076,
+    "end_char": 26417
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:9-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "9.9",
+    "label": "9.9 La comisión deberá efectuar verificaciones extraordinarias en caso de que:",
+    "text": "9.9 La comisión deberá efectuar verificaciones extraordinarias en caso de que:\n   a)     Ocurran accidentes o enfermedades de trabajo que generen defunciones o incapacidades\n          permanentes;\n   b)     Existan modificaciones significativas en las instalaciones y/o cambios en los procesos de trabajo, con\n          base en la información proporcionada por el patrón o a solicitud de los trabajadores, o\n   c)     Reporten los trabajadores la presencia de agentes y condiciones peligrosas o inseguras que, a juicio\n          de la propia comisión, así lo ameriten.\n   Las verificaciones extraordinarias deberán realizarse dentro de los treinta días naturales siguientes a que\nse presente cualquiera de los supuestos previstos en este numeral.",
+    "start_char": 26421,
+    "end_char": 27167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:9-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "9.10",
+    "label": "9.10 La comisión deberá orientar a los trabajadores durante los recorridos de verificación sobre las",
+    "text": "9.10 La comisión deberá orientar a los trabajadores durante los recorridos de verificación sobre las\nmedidas de seguridad por observar en las áreas del centro de trabajo.",
+    "start_char": 27170,
+    "end_char": 27340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:9-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "9.11",
+    "label": "9.11 El seguimiento de las medidas propuestas por la comisión relacionadas con la prevención de riesgos",
+    "text": "9.11 El seguimiento de las medidas propuestas por la comisión relacionadas con la prevención de riesgos\nde trabajo, deberá efectuarse al menos en forma trimestral.",
+    "start_char": 27345,
+    "end_char": 27508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:9-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "9.12",
+    "label": "9.12 Las actas de los recorridos de verificación deberán contener la información siguiente:",
+    "text": "9.12 Las actas de los recorridos de verificación deberán contener la información siguiente:\n   a)     El nombre, denominación o razón social del centro de trabajo;\n   b)     El domicilio completo (calle, número, colonia, municipio o delegación, ciudad, entidad federativa,\n          código postal);\n   c)     El número de trabajadores del centro de trabajo;\n   d)     El tipo de recorrido de verificación: ordinario (conforme al programa anual) o extraordinario;\n   e)     Las fechas y horas de inicio y término del recorrido de verificación;\n   f)     El área o áreas del centro de trabajo en las que se realizó el recorrido de verificación;\n   g)     Los agentes, condiciones peligrosas o inseguras y actos inseguros identificados durante el recorrido\n          de verificación;\n   h)     Las causas que, en su caso, se hayan identificado sobre los accidentes y enfermedades de trabajo\n          que ocurran;\n   i)     Las medidas para prevenir los riesgos de trabajo detectados, con base en lo dispuesto por el\n          Reglamento y las normas que resulten aplicables;\n   j)     Las recomendaciones que por consenso se determinen en el seno de la comisión para prevenir,\n          reducir o eliminar condiciones peligrosas o inseguras, así como la prioridad con la que deberán\n          atenderse;\n   k)     El seguimiento a las recomendaciones formuladas en los recorridos de verificación anteriores;\n   l)     El lugar y fecha de conclusión del acta, y\n   m)     El nombre y firma de los integrantes de la comisión que participaron en el recorrido de verificación.",
+    "start_char": 27512,
+    "end_char": 29082
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:9-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "9.13",
+    "label": "9.13 Los integrantes de la comisión podrán ser sustituidos a petición de quien los propuso, o bien por los",
+    "text": "9.13 Los integrantes de la comisión podrán ser sustituidos a petición de quien los propuso, o bien por los\nmotivos siguientes:\n   a)     En caso de que no cumplan con las actividades establecidas por la propia comisión;\n   b)     Si no asisten a más de dos de las verificaciones consecutivas programadas en forma injustificada, o\n   c)     Por ausencia definitiva en el centro de trabajo.\n\f   Miércoles 13 de abril de 2011                DIARIO OFICIAL                             (Primera Sección)",
+    "start_char": 29086,
+    "end_char": 29584
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "10",
+    "label": "10. Capacitación de las comisiones",
+    "text": "10. Capacitación de las comisiones",
+    "start_char": 29589,
+    "end_char": 29623
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "10.1",
+    "label": "10.1 Los centros de trabajo deberán disponer de un programa anual de capacitación para los integrantes",
+    "text": "10.1 Los centros de trabajo deberán disponer de un programa anual de capacitación para los integrantes\nde la comisión, que considere al menos lo siguiente:\n   a)   Los integrantes de la comisión involucrados en la capacitación;\n   b)   Los temas de la capacitación de acuerdo con el numeral 10.2 de la presente Norma;\n   c)   Los tiempos de duración de los cursos y su período de ejecución, y\n   d)   El nombre del responsable del programa.",
+    "start_char": 29628,
+    "end_char": 30068
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "10.2",
+    "label": "10.2 El programa anual de capacitación de los integrantes de la comisión, deberá comprender al menos",
+    "text": "10.2 El programa anual de capacitación de los integrantes de la comisión, deberá comprender al menos\nlos temas siguientes:\n   a)   Las obligaciones del patrón y de los trabajadores respecto del funcionamiento de la comisión;\n   b)   La forma cómo debe constituirse e integrarse la comisión;\n   c)   Las responsabilidades del coordinador, del secretario y de los vocales de la comisión;\n   d)   Las funciones que tiene encomendadas la comisión;\n   e)   Los temas en materia de seguridad y salud en el trabajo aplicables al centro de trabajo;\n   f)   Las medidas de seguridad y salud que se deben observar en el centro de trabajo, con base en lo\n        dispuesto por el Reglamento y las normas que resulten aplicables;\n   g)   La metodología para la identificación de condiciones peligrosas o inseguras y actos inseguros en el\n        centro de trabajo, y\n   h)   El procedimiento para la investigación sobre las causas de los accidentes y enfermedades de trabajo\n        que ocurran.",
+    "start_char": 30073,
+    "end_char": 31056
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "10.3",
+    "label": "10.3 Cuando se incorpore a un nuevo integrante o integrantes a la comisión, se deberá proporcionar de",
+    "text": "10.3 Cuando se incorpore a un nuevo integrante o integrantes a la comisión, se deberá proporcionar de\ninmediato un curso de inducción, al menos sobre los aspectos considerados en el numeral 10.2, incisos del a)\nal d), de esta Norma.",
+    "start_char": 31061,
+    "end_char": 31293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "11",
+    "label": "11. Unidades de verificación",
+    "text": "11. Unidades de verificación",
+    "start_char": 31297,
+    "end_char": 31325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:11-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "11.1",
+    "label": "11.1 El patrón tendrá la opción de contratar una unidad de verificación acreditada y aprobada, en los",
+    "text": "11.1 El patrón tendrá la opción de contratar una unidad de verificación acreditada y aprobada, en los\ntérminos de la Ley Federal sobre Metrología y Normalización y su Reglamento, para verificar el grado de\ncumplimiento con la presente Norma.",
+    "start_char": 31330,
+    "end_char": 31571
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:11-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "11.2",
+    "label": "11.2 Las unidades de verificación que evalúen la conformidad con la presente Norma, deberán aplicar los",
+    "text": "11.2 Las unidades de verificación que evalúen la conformidad con la presente Norma, deberán aplicar los\ncriterios de cumplimiento establecidos en el procedimiento para la evaluación de la conformidad del Capítulo\n12 de esta Norma.",
+    "start_char": 31576,
+    "end_char": 31806
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:11-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "11.3",
+    "label": "11.3 Las unidades de verificación acreditadas y aprobadas que evalúen el cumplimiento de la presente",
+    "text": "11.3 Las unidades de verificación acreditadas y aprobadas que evalúen el cumplimiento de la presente\nNorma deberán emitir un dictamen, el cual habrá de contener:\n   a)   Datos del centro de trabajo:\n        1)   El nombre, denominación o razón social;\n        2)   El domicilio completo (calle, número, colonia, municipio o delegación, ciudad, entidad federativa,\n             código postal), y\n        3)   El nombre y firma del patrón o su representante, y\n   b)   Datos de la unidad de verificación:\n        1)   El nombre, denominación o razón social;\n        2)   El número de registro otorgado por la entidad de acreditación;\n        3)   El número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social;\n        4)   La fecha en que se otorgó la acreditación y aprobación;\n        5)   El resultado de la verificación;\n        6)   El nombre y firma del responsable de emitir el dictamen;\n        7)   El lugar y fecha de la firma del dictamen, y\n        8)   La vigencia del dictamen.",
+    "start_char": 31810,
+    "end_char": 32819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:11-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "11.4",
+    "label": "11.4 La vigencia del dictamen de verificación, cuando éste sea favorable, será de dos años.",
+    "text": "11.4 La vigencia del dictamen de verificación, cuando éste sea favorable, será de dos años.\n\f       (Primera Sección)                         DIARIO OFICIAL                     Miércoles 13 de abril de 2011",
+    "start_char": 32823,
+    "end_char": 33029
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "12",
+    "label": "12. Procedimiento para la evaluación de la conformidad",
+    "text": "12. Procedimiento para la evaluación de la conformidad",
+    "start_char": 33034,
+    "end_char": 33088
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:12-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "12.1",
+    "label": "12.1 Este procedimiento para la evaluación de la conformidad aplica tanto a las visitas de inspección",
+    "text": "12.1 Este procedimiento para la evaluación de la conformidad aplica tanto a las visitas de inspección\ndesarrolladas por la autoridad del trabajo, como a las visitas de verificación que realicen las unidades de\nverificación.",
+    "start_char": 33093,
+    "end_char": 33316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:12-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "12.2",
+    "label": "12.2 El dictamen de verificación vigente deberá estar a disposición de la autoridad del trabajo cuando ésta",
+    "text": "12.2 El dictamen de verificación vigente deberá estar a disposición de la autoridad del trabajo cuando ésta\nlo solicite.",
+    "start_char": 33321,
+    "end_char": 33441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:12-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "12.3",
+    "label": "12.3 Los aspectos a verificar durante la evaluación de la conformidad de esta Norma se realizará, según",
+    "text": "12.3 Los aspectos a verificar durante la evaluación de la conformidad de esta Norma se realizará, según\naplique, mediante la constatación física, revisión documental o entrevistas, de conformidad con lo siguiente:\n  Disposición     Comprobación               Criterio de aceptación                       Observaciones\n\n 5.1, 5.4 y 7                      El patrón cumple cuando:\n\n                 Documental            Presenta evidencia documental de que\n                                        tiene constituida e integrada al menos\n                  Entrevista\n                                        una comisión, o\n                  Documental\n                                       Al entrevistar al menos a dos\n                                        integrantes de la comisión, se constata\n                                        que éstos forman parte de la misma;\n\n                                       Presenta evidencia documental de que\n                                        cada comisión está integrada por:\n\n                                            Un trabajador y el patrón o su\n                                             representante, cuando el centro\n                                             de trabajo cuente con menos de\n                                             15 trabajadores, o\n\n                                            Un coordinador, un secretario y\n                                             los vocales que acuerden el\n                                             patrón o sus representantes, y el\n                                             sindicato o el representante de los\n                                             trabajadores, en el caso de que\n                                             no exista la figura sindical, cuando\n                                             el centro de trabajo cuente con 15\n                                             trabajadores o más;\n\n                                       Presenta evidencia documental de que\n                                        formalizó la constitución de la comisión,\n                                        a través de un acta, en sesión con los\n                                        miembros que se hayan seleccionado y\n                                        con la representación del sindicato, si\n                                        lo hubiera;\n\n                                       Presenta evidencia documental de que\n                                        el acta de constitución de cada\n                                        comisión contiene como mínimo los\n                                        datos siguientes:\n\n                                            Datos del centro de trabajo:\n\n                                             o    El nombre, denominación o\n                                                  razón social;\n\n                                             o    El domicilio completo (calle,\n                                                  número, colonia, municipio o\n                                                  delegación, ciudad, entidad\n                                                  federativa, código postal);\n\n                                             o    El Registro Federal         de\n                                                  Contribuyentes;\n\n                                             o    El     Registro    Patronal\n                                                  otorgado por el Instituto\n                                                  Mexicano del Seguro Social;\n\f Miércoles 13 de abril de 2011                  DIARIO OFICIAL                                  (Primera Sección)\n\n                                            o     La rama industrial o actividad\n                                                  económica;\n\n                                            o     La    fecha         de        inicio    de\n                                                  actividades;\n\n                                            o     El número de trabajadores\n                                                  del centro de trabajo, y\n\n                                            o     El número de turnos, y\n\n                                          Datos de la comisión:\n\n                                            o     La fecha de integración de la\n                                                  comisión (día, mes y año), y\n\n                                            o     El nombre y firma del patrón\n                                                  o de su representante, y del\n                                                  representante                 de        los\n                                                  trabajadores, tratándose de\n                                                  centros        de       trabajo         con\n                                                  menos de 15 trabajadores, o\n\n                                            o     El   nombre             y     firma     del\n                                                  coordinador,            secretario        y\n                                                  vocales,       en       el     caso     de\n                                                  centros de trabajo con 15\n                                                  trabajadores o más;\n\n                                     Presenta evidencia documental de que\n                                      el   acta   de    constitución            de       cada\n                                      comisión    se    actualiza,             cuando      se\n                                      modifica su integración, y\n\n                                     Presenta evidencia documental de que\n                                      en la constitución de dos o más\n                                      comisiones de seguridad e higiene se\n                                      tomó en consideración lo siguiente:\n\n                                          El número de turnos del centro de\n                                           trabajo;\n\n                                          El número de trabajadores que\n                                           integran cada turno de trabajo;\n\n                                          Los     agentes            y        condiciones\n                                           peligrosas       de    las          áreas     que\n                                           integran al centro de trabajo, y\n\n                                          Las empresas contratistas que\n                                           desarrollen labores relacionadas\n                                           con la      actividad          principal del\n                                           centro de trabajo dentro de las\n                                           instalaciones de este último.\n\n5.3            Documental        El patrón cumple cuando presenta evidencia\n                                 documental de que solicitó al sindicato o a\n                                 los trabajadores, si no hubiera sindicato, la\n                                 designación de sus representantes para\n                                 participar en la comisión, con base en las\n                                 funciones por desempeñar.\n\f      (Primera Sección)                   DIARIO OFICIAL                         Miércoles 13 de abril de 2011\n\n5.5, 9.3 a 9.5   Documental   El patrón cumple cuando:                        Para la identificación de agentes,\n                                  Presenta evidencia documental de que       condiciones peligrosas o inseguras\n                                   cuenta con el programa anual de los        y actos inseguros en el centro de\n                                   recorridos de verificación de la           trabajo, la comisión podrá hacer\n                                   comisión;                                  uso     del   diagnóstico    sobre\n                                  El programa anual de recorridos de         seguridad y salud en el trabajo\n                                   verificación se integra dentro de los      realizado    por     los  servicios\n                                   treinta días naturales siguientes a la     preventivos de seguridad y salud\n                                   constitución      de     la     comisión.  en el trabajo, a que se refiere la\n                                   Posteriormente,      se    conforma    el  NOM-030-STPS-2009, o las que la\n                                   programa dentro de los primeros treinta    sustituyan.\n                                   días naturales de cada año;               Para       la    identificación     y\n                                                                             determinación de las disposiciones\n                                  En el programa anual se determinan\n                                                                             normativas      en     materia    de\n                                   las prioridades de los recorridos de\n                                                                             seguridad y salud aplicables al\n                                   verificación, con base en las áreas con\n                                                                             centro de trabajo, la comisión\n                                   mayor presencia de agentes y\n                                                                             podrá utilizar el Asistente para la\n                                   condiciones peligrosas o inseguras, y a\n                                                                             Identificación de las Normas\n                                   partir de los incidentes, accidentes y\n                                                                             Oficiales Mexicanas de Seguridad\n                                   enfermedades de trabajo, y\n                                                                             y Salud en el Trabajo y el módulo\n                                  Los recorridos de verificación previstos\n                                                                             para       la    Evaluación       del\n                                   en el programa anual de la comisión,\n                                                                             Cumplimiento de la Normatividad\n                                   se realizan al menos con una\n                                                                             en Seguridad y Salud en el\n                                   periodicidad trimestral, a efecto de que:\n                                                                             Trabajo, contenidos en la página\n                                    Se identifiquen los agentes, electrónica               de    la    Secretaría\n                                         condiciones       peligrosas      o http://autogestion.stps.gob.mx:\n                                         inseguras y actos inseguros en el 8162/, con la finalidad de detectar\n                                         centro de trabajo;                  agentes, condiciones peligrosas o\n                                    Se investiguen las causas de los inseguras y actos inseguros en el\n                                         accidentes y enfermedades de centro de trabajo.\n                                         trabajo que en su caso ocurran, Para la determinación de las\n                                         de acuerdo con los elementos que medidas por adoptar para prevenir\n                                         les proporcione el patrón y otros riesgos de trabajo en el centro\n                                         que estimen necesarios;             laboral y el seguimiento a su\n                                       Se determinen las medidas para      instauración, la comisión podrá\n                                        prevenir riesgos de trabajo, con    utilizar  el    módulo  para     la\n                                        base en lo dispuesto por el         Elaboración de Programas de\n                                        Reglamento y las normas que         Seguridad y Salud en el Trabajo,\n                                        resulten aplicables, y              contenido en la página electrónica\n                                       Se    dé     seguimiento     a   la de           la        Secretaría:\n                                        instauración de las medidas http://autogestion.stps.gob.mx:\n                                        propuestas por la comisión para 8162/.\n                                        prevenir los riesgos de trabajo.\n9.9              Documental   El patrón cumple cuando presenta evidencia\n                              documental de que efectúa verificaciones\n                              extraordinarias, dentro de los treinta días\n                              naturales siguientes a que se presente\n                              cualquiera de los supuestos siguientes:\n                                  Ocurran accidentes o enfermedades de\n                                   trabajo que generen defunciones o\n                                   incapacidades permanentes;\n                                  Existan modificaciones significativas en\n                                   las instalaciones y/o cambios en los\n                                   procesos de trabajo, con base en la\n                                   información proporcionada por el patrón\n                                   o a solicitud de los trabajadores, o\n                                  Reporten los trabajadores la presencia\n                                   de agentes y condiciones peligrosas o\n                                   inseguras que, a juicio de la propia\n                                   comisión, así lo ameriten.\n\f  Miércoles 13 de abril de 2011               DIARIO OFICIAL                        (Primera Sección)\n\n5.6 y 9.12      Documental        El patrón cumple cuando:\n                                      Presenta evidencia documental de que\n                                       cuenta con las actas de recorridos de\n                                       verificación realizados por la comisión,\n                                       y\n                                      Las actas de los recorridos de\n                                       verificación contienen la información\n                                       siguiente:\n                                           El nombre, denominación o razón\n                                            social del centro de trabajo;\n                                           El domicilio completo (calle,\n                                            número, colonia, municipio o\n                                            delegación,     ciudad,     entidad\n                                            federativa, código postal);\n                                           El número de trabajadores del\n                                            centro de trabajo;\n                                           El tipo de recorrido de verificación:\n                                            ordinario (conforme al programa\n                                            anual) o extraordinario;\n                                           Las fechas y horas de inicio y\n                                            término      del recorrido  de\n                                            verificación;\n                                           El área o áreas del centro de\n                                            trabajo en las que se realizó el\n                                            recorrido de verificación;\n                                           Los      agentes,       condiciones\n                                            peligrosas o inseguras y actos\n                                            inseguros identificados durante el\n                                            recorrido de verificación;\n                                           Las causas que, en su caso, se\n                                            hayan identificado sobre los\n                                            accidentes y enfermedades de\n                                            trabajo que ocurran;\n                                           Las medidas para prevenir los\n                                            riesgos de trabajo detectados, con\n                                            base en lo dispuesto por el\n                                            Reglamento y las normas que\n                                            resulten aplicables;\n                                           Las recomendaciones que por\n                                            consenso se determinen en el\n                                            seno de la comisión para prevenir,\n                                            reducir o eliminar condiciones\n                                            peligrosas o inseguras, así como\n                                            la prioridad con la que se\n                                            atienden;\n                                           El      seguimiento  a     las\n                                            recomendaciones formuladas en\n                                            los recorridos de verificación\n                                            anteriores;\n                                           El lugar y fecha de conclusión del\n                                            acta, y\n                                           El nombre y firma de los\n                                            integrantes de la comisión que\n                                            participaron en el recorrido de\n                                            verificación.\n\f       (Primera Sección)                        DIARIO OFICIAL                      Miércoles 13 de abril de 2011\n\n5.7               Entrevista      El patrón cumple cuando, al entrevistar al\n                                  menos a un integrante de la comisión, éste\n                                  refiere que se les brindan facilidades para el\n                                  desempeño de sus funciones como\n                                  integrante de la misma.\n5.8               Documental      El patrón cumple cuando presenta evidencia\n                                  documental de que proporciona a la comisión\n                                  el diagnóstico sobre seguridad y salud en el\n                                  trabajo, a que se refiere la NOM-030-STPS-\n                                  2009, o las que la sustituyan.\n5.9               Documental      El patrón cumple cuando presenta evidencia\n                                  documental de que apoya la investigación de\n                                  los accidentes y enfermedades de trabajo\n                                  que lleve a cabo la comisión, proporcionando\n                                  para tal efecto información sobre:\n                                         Los incidentes, accidentes y\n                                              enfermedades de trabajo que\n                                              ocurran en el centro de trabajo;\n                                         Los procesos de trabajo y las\n                                              hojas de datos de seguridad de\n                                              las sustancias químicas utilizadas,\n                                              y\n                                         El seguimiento a las causas de los\n                                              riesgos de trabajo que tengan\n                                              lugar en el centro laboral.\n5.10, 9.7 y 9.8   Documental   o El patrón cumple cuando presenta evidencia\n                  física         documental de que a los integrantes de la\n                                 comisión se les brindan facilidades para\n                                 utilizar los apoyos informáticos desarrollados\n                                 por la Secretaría, para la identificación y\n                                 determinación      de     las     disposiciones\n                                 normativas en materia de seguridad y salud\n                                 aplicables al centro de trabajo, así como para\n                                 la determinación de las medidas por adoptar\n                                 para prevenir riesgos de trabajo en el centro\n                                 laboral y el seguimiento a su instauración en\n                                 el centro de trabajo.\n5.11 y 9.11       Documental      El patrón cumple cuando presenta evidencia\n                                  documental de que:\n                                       Atiende las medidas propuestas por la\n                                        comisión para prevenir los riesgos de\n                                        trabajo, de acuerdo con los resultados\n                                        de las actas de los recorridos de\n                                        verificación y con base en lo dispuesto\n                                        por el Reglamento y las normas que\n                                        resulten aplicables, y\n                                       Da seguimiento a las medidas\n                                        propuestas       por    la     comisión\n                                        relacionadas con la prevención de\n                                        riesgos de trabajo, al menos en forma\n                                        trimestral.\n5.12              Documental      El patrón cumple cuando presenta evidencia\n                                  documental de que difunde por cualquier\n                                  medio:\n                                       La relación actualizada de los\n                                        integrantes de la comisión, precisando\n                                        el puesto, turno y área de trabajo de\n                                        cada uno de ellos;\n                                       Los resultados de las investigaciones,\n                                        con las causas y consecuencias, sobre\n                                        los accidentes y enfermedades de\n                                        trabajo, y\n                                       Las medidas propuestas por la\n                                        comisión,     relacionadas    con    la\n                                        prevención de riesgos de trabajo, a fin\n                                        de evitar su recurrencia.\n\f Miércoles 13 de abril de 2011                 DIARIO OFICIAL                                    (Primera Sección)\n\n5.13 y 10.1 a Documental         El patrón cumple cuando presenta evidencia El patrón podrá presentar como\n10.3                             documental de que:                             evidencia del cumplimiento de la\n                                                                                capacitación,      sus   respectivos\n                                      Proporciona     capacitación    a    los\n                                                                                programas, así como los diplomas,\n                                       integrantes de la comisión, al menos\n                                                                                certificados,     constancias       de\n                                       una vez al año;\n                                                                                habilidades y las constancias\n                                      Dispone de un programa anual de obtenidas por la acreditación de los\n                                       capacitación para los integrantes de la cursos en la modalidad e-learning\n                                       comisión, que al menos considere lo sobre           las    normas     oficiales\n                                       siguiente:                               mexicanas de seguridad y salud en\n                                        Los integrantes de la comisión el trabajo, del Aula Virtual del\n                                            involucrados en la capacitación;    Programa de Capacitación a\n                                                                                Distancia      para    Trabajadores,\n                                        Los temas de la capacitación de PROCADIST, en la dirección\n                                            acuerdo con el numeral 10.2 de la electrónica www.stps.gob.mx.\n                                            presente Norma;\n                                                                                Como       metodología     para      la\n                                        Los tiempos de duración de los identificación             de    condiciones\n                                            cursos y su período de ejecución, peligrosas o inseguras y actos\n                                            y                                   inseguros, la comisión podrá\n                                        El nombre del responsable del utilizar el Asistente para la\n                                            programa;                           Identificación de las Normas\n                                                                                Oficiales Mexicanas de Seguridad\n                                      El programa anual de capacitación de\n                                                                                y Salud en el Trabajo y el módulo\n                                       los integrantes de la comisión,\n                                                                                para       la     Evaluación       del\n                                       comprende al menos los temas\n                                                                                Cumplimiento de la Normatividad en\n                                       siguientes:\n                                                                                Seguridad y Salud en el Trabajo,\n                                        Las obligaciones del patrón y de contenidos en la página electrónica\n                                            los trabajadores respecto del de                   la         Secretaría\n                                            funcionamiento de la comisión;      http://autogestion.stps.gob.mx:\n                                                                                8162/.\n                                        La forma cómo debe constituirse e\n                                            integrarse la comisión;\n\n                                           Las      responsabilidades    del\n                                            coordinador, del secretario y de\n                                            los vocales de la comisión;\n\n                                           Las   funciones    que    tiene\n                                            encomendadas la comisión;\n\n                                           Los temas en materia de\n                                            seguridad y salud en el trabajo\n                                            aplicables al centro de trabajo;\n\n                                           Las medidas de seguridad y salud\n                                            que se deben observar en el\n                                            centro de trabajo, con base en lo\n                                            dispuesto por el Reglamento y las\n                                            normas que resulten aplicables;\n\n                                           La      metodología    para     la\n                                            identificación  de    condiciones\n                                            peligrosas o inseguras y actos\n                                            inseguros en el centro de trabajo,\n                                            y\n\n                                           El    procedimiento     para    la\n                                            investigación sobre las causas de\n                                            los accidentes y enfermedades de\n                                            trabajo que ocurran, y\n\f       (Primera Sección)                       DIARIO OFICIAL                     Miércoles 13 de abril de 2011\n\n                                       Al incorporar a nuevos integrantes a la\n                                        comisión, se les proporcionan de\n                                        inmediato cursos de inducción, al\n                                        menos sobre los temas siguientes:\n\n                                            Las obligaciones del patrón y de\n                                             los trabajadores respecto del\n                                             funcionamiento de la comisión;\n\n                                            La forma cómo debe constituirse e\n                                             integrarse la comisión;\n\n                                            Las      responsabilidades    del\n                                             coordinador, del secretario y de\n                                             los vocales de la comisión, y\n\n                                            Las   funciones    que    tiene\n                                             encomendadas la comisión.",
+    "start_char": 33446,
+    "end_char": 63431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:12-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "12.4",
+    "label": "12.4 Las evidencias de tipo documental que obren en el centro de trabajo podrán exhibirse de manera",
+    "text": "12.4 Las evidencias de tipo documental que obren en el centro de trabajo podrán exhibirse de manera\nimpresa o en medios magnéticos, y deberán conservarse durante dos años.",
+    "start_char": 63438,
+    "end_char": 63609
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "13",
+    "label": "13. Vigilancia",
+    "text": "13. Vigilancia",
+    "start_char": 63613,
+    "end_char": 63627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:13-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "13.1",
+    "label": "13.1 La vigilancia del cumplimiento de esta Norma Oficial Mexicana corresponde a la Secretaría del",
+    "text": "13.1 La vigilancia del cumplimiento de esta Norma Oficial Mexicana corresponde a la Secretaría del\nTrabajo y Previsión Social.",
+    "start_char": 63631,
+    "end_char": 63757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "14",
+    "label": "14. Bibliografía",
+    "text": "14. Bibliografía",
+    "start_char": 63761,
+    "end_char": 63777
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:14-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "14.1",
+    "label": "14.1 Ley Federal del Trabajo, publicada en el Diario Oficial de la Federación de 1 de abril de 1970.",
+    "text": "14.1 Ley Federal del Trabajo, publicada en el Diario Oficial de la Federación de 1 de abril de 1970.",
+    "start_char": 63781,
+    "end_char": 63881
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:14-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "14.2",
+    "label": "14.2 Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, publicado en el Diario",
+    "text": "14.2 Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, publicado en el Diario\nOficial de la Federación de 21 de enero de 1997.",
+    "start_char": 63886,
+    "end_char": 64032
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:14-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "14.3",
+    "label": "14.3 Ley de Prevención de Riesgos Laborales. España. Ley 31/1995, 8 de noviembre de 1995.",
+    "text": "14.3 Ley de Prevención de Riesgos Laborales. España. Ley 31/1995, 8 de noviembre de 1995.",
+    "start_char": 64036,
+    "end_char": 64125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:14-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "14.4",
+    "label": "14.4 Legislación sobre Seguridad en el Trabajo. Canadá. Memorándum de Entendimiento México -",
+    "text": "14.4 Legislación sobre Seguridad en el Trabajo. Canadá. Memorándum de Entendimiento México -\nCanadá. Intercambio Documental. 1993.",
+    "start_char": 64129,
+    "end_char": 64259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-019-stps-2011:clause:15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-019-stps-2011",
+    "number": "15",
+    "label": "15. Concordancia con normas internacionales",
+    "text": "15. Concordancia con normas internacionales\n   Esta Norma Oficial Mexicana no concuerda con ninguna Norma Internacional, por no existir referencia\nalguna al momento de su elaboración.",
+    "start_char": 64263,
+    "end_char": 64446
+  }
+]

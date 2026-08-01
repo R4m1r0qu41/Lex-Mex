@@ -36,6 +36,15 @@ Compile/validate/path/bundle surfaces all include the required canonical file.
 The out-of-repository Maximasa five-NOM bundle is consequently stale and is a
 mechanical follow-up, not part of this repository change.
 
+Fresh reacquisition then closed the three held-out records. The Platiica PDFs
+and new `pdftotext -layout` outputs matched all six recorded SHA-256 values
+before compilation. NOM-019 compiled at 94 clauses / 3 transitories / 1
+explicitly non-binding guide; NOM-024 at 87 / 2 / 2 explicitly non-binding
+guides; NOM-052 at 76 / 3 / 8 (Tables 1-2, Listados 1-5 and Anexo 1), each
+legal character `unspecified` because its retained source states none. The
+earlier reviewer characterization is not substituted for an explicit source
+declaration.
+
 ## 2026-07-31 — Review fixes on Stage A, same day: ten findings, all closed
 
 A ten-finding code review ran against the Stage A landing commit

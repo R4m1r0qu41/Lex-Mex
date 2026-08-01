@@ -1,0 +1,76 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+  "kind": "nom",
+  "designation": "NOM-052-SEMARNAT-2005",
+  "official_title": "Que establece las características, el procedimiento de identificación, clasificación y los listados de los residuos peligrosos",
+  "issuing_authorities": [
+    "Secretaría de Medio Ambiente y Recursos Naturales"
+  ],
+  "regulatory_domains": [
+    "residuos peligrosos",
+    "clasificación de residuos",
+    "medio ambiente"
+  ],
+  "publication_date": "2006-06-23",
+  "effective_date": "2006-09-21",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-052-SEMARNAT-1993"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "TABLA 1",
+      "kind": "table"
+    },
+    {
+      "anchor": "TABLA 2\n LIMITES MAXIMOS PERMISIBLES PARA LOS CONSTITUYENTES TOXICOS EN EL EXTRACTO PECT",
+      "kind": "table"
+    },
+    {
+      "anchor": "LISTADO 1",
+      "kind": "list"
+    },
+    {
+      "anchor": "LISTADO 2",
+      "kind": "list"
+    },
+    {
+      "anchor": "LISTADO 3",
+      "kind": "list"
+    },
+    {
+      "anchor": "LISTADO 4",
+      "kind": "list"
+    },
+    {
+      "anchor": "LISTADO 5",
+      "kind": "list"
+    },
+    {
+      "anchor": "ANEXO 1",
+      "kind": "annex"
+    }
+  ],
+  "systematic_review": {
+    "review_date": "2021-07-27",
+    "result": "Modificación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-052-SEMARNAT-2005_2021_ultima_revision.pdf"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/052-2005.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=4912592&fecha=23/06/2006",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-052-SEMARNAT-2005/",
+  "publisher": "Secretaría de Medio Ambiente y Recursos Naturales",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "18562c0b49207d746d57057046f8429131b9ad644ba0e9228742f6749aec9383",
+  "extracted_text_sha256": "3661a7d1725833e58ed0688cc616f4358bb3d45247bcde8d1077d9a41ecd7c5b",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

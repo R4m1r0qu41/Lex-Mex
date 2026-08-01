@@ -1,0 +1,20 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "ordinal": "PRIMERO",
+    "text": "PRIMERO.- La presente Norma Oficial Mexicana entrará en vigor a los ciento ochenta días naturales\ndespués de su publicación en el Diario Oficial de la Federación.",
+    "start_char": 33542,
+    "end_char": 33704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "ordinal": "SEGUNDO",
+    "text": "SEGUNDO.- Durante el lapso señalado en el Transitorio Primero, los patrones cumplirán con la Norma\nOficial Mexicana NOM-024-STPS-1993, Relativa a las condiciones de seguridad e higiene en los centros de\ntrabajo donde se generen vibraciones, o bien realizarán las adaptaciones para observar las disposiciones de\nla presente Norma Oficial Mexicana y, en este último caso, las autoridades del trabajo proporcionarán a\npetición de los patrones interesados asesoría y orientación para instrumentar su cumplimiento, sin que los\npatrones se hagan acreedores a sanciones por el incumplimiento de la Norma en vigor.",
+    "start_char": 33709,
+    "end_char": 34315
+  }
+]
