@@ -176,7 +176,7 @@ fn parse_main_text(
         Regex::new(r"de la Federación el\s+0?(\d{1,2})\s+de\s+([a-záéíóú]+)\s+de\s+(\d{4}),")?;
     // A REFERENCIAS legend entry is `N)  text`; some vintages parenthesize
     // the number as `(N)  text`, so the leading paren is optional.
-    let legend_entry_re = Regex::new(r"^\(?(\d{1,2})\)\s+(.*)$")?;
+    let legend_entry_re = Regex::new(r"^\(?(\d{1,3})\)\s+(.*)$")?;
 
     let mut provisions = Vec::new();
     let mut current: Option<DcgProvisionBuilder> = None;
@@ -232,7 +232,7 @@ fn parse_main_text(
         // flow; the next content line decides which provision they mark.
         if let Some(captures) = marker_re.captures(trimmed) {
             if body_started {
-                pending_marks.push(captures[1].parse().expect("two-digit marker"));
+                pending_marks.push(captures[1].parse().expect("up to three-digit marker"));
             }
             continue;
         }
@@ -438,7 +438,7 @@ fn parse_main_text(
                 pending_marks.discard_from_heading();
                 if let Some(captures) = legend_entry_re.captures(trimmed) {
                     flush_legend(&mut legend_current, &mut amendment_references);
-                    let marker: u32 = captures[1].parse().expect("two-digit marker");
+                    let marker: u32 = captures[1].parse().expect("up to three-digit marker");
                     legend_current = Some((marker, vec![captures[2].trim().to_owned()]));
                 } else if let Some((_, lines)) = &mut legend_current {
                     lines.push(trimmed.to_owned());
@@ -698,11 +698,44 @@ mod tests {
             .iter()
             .map(|item| item.marker)
             .collect();
-        assert_eq!(legend, [1, 4, 5, 7, 9]);
+        assert_eq!(legend, [1, 4, 5, 7, 9, 150]);
         assert_eq!(
             document.amendment_references[2].description,
             "Derogado por el Artículo Segundo de la Resolución publicada en el Diario \
              Oficial de la Federación el 25 de marzo de 2019."
+        );
+    }
+
+    #[test]
+    fn a_three_digit_legend_entry_splits_from_the_prior_entry_instead_of_being_swallowed() {
+        // Before the \d{1,2} -> \d{1,3} widening, `150)  ...` did not match
+        // legend_entry_re at all and was appended as trailing text onto
+        // whichever entry preceded it (here, marker 9) instead of starting
+        // its own entry -- confirmed against real committed legends
+        // (cub-dcg-2005 alone has ~299 such swallowed fragments in one
+        // entry). The fixture's REFERENCIAS section carries a genuine
+        // three-digit entry (150) after entry 9 to guard against a
+        // regression.
+        let document = parse_fixture();
+        let marker_9 = document
+            .amendment_references
+            .iter()
+            .find(|item| item.marker == 9)
+            .expect("marker 9 entry exists");
+        assert!(
+            !marker_9.description.contains("150)"),
+            "entry 9 must not have absorbed the following three-digit entry: {:?}",
+            marker_9.description
+        );
+        let marker_150 = document
+            .amendment_references
+            .iter()
+            .find(|item| item.marker == 150)
+            .expect("marker 150 is its own legend entry");
+        assert_eq!(
+            marker_150.description,
+            "Reformado por el Artículo Único de la Resolución publicada en el Diario Oficial \
+             de la Federación el 1 de enero de 2026."
         );
     }
 

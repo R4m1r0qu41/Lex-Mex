@@ -173,7 +173,7 @@ fn parse_main_text(
 }
 
 pub(crate) fn amendment_marker_regex() -> Result<Regex> {
-    Ok(Regex::new(r"^\((\d{1,2})\)$")?)
+    Ok(Regex::new(r"^\((\d{1,3})\)$")?)
 }
 
 /// Amendment-marker bookkeeping shared by every compiled-CNBV-document
@@ -291,7 +291,7 @@ pub(crate) fn parse_annex_document(
 ) -> Result<Provision> {
     // A landscape-format annex can print its margin marker on the heading
     // line itself (`ANEXO 14        (2)`).
-    let heading_re = Regex::new(r"(?i)^anexo\s+(\d+)(?:\s+\((\d{1,2})\))?$")?;
+    let heading_re = Regex::new(r"(?i)^anexo\s+(\d+)(?:\s+\((\d{1,3})\))?$")?;
     let page_number_re = Regex::new(r"^\d{1,3}$")?;
     let marker_re = amendment_marker_regex()?;
     let mut builder: Option<DcgProvisionBuilder> = None;
@@ -322,7 +322,7 @@ pub(crate) fn parse_annex_document(
             continue;
         }
         if let Some(captures) = marker_re.captures(trimmed) {
-            pending_marks.push(captures[1].parse().expect("two-digit marker"));
+            pending_marks.push(captures[1].parse().expect("up to three-digit marker"));
             continue;
         }
         pending_marks.observe_content_line();
@@ -349,7 +349,7 @@ pub(crate) fn parse_annex_document(
                     .join(" "),
             );
             if let Some(inline) = captures.get(2) {
-                annex.mark(inline.as_str().parse().expect("two-digit marker"));
+                annex.mark(inline.as_str().parse().expect("up to three-digit marker"));
             }
             pending_marks.drain_onto(&mut annex);
             builder = Some(annex);
@@ -929,6 +929,46 @@ mod tests {
             "Primer parrafo texto.\n\nSegundo parrafo texto."
         );
         assert_eq!(provision.amendment_marks, vec![3]);
+    }
+
+    #[test]
+    fn a_three_digit_standalone_marker_is_recognized_not_read_as_content() {
+        // Before the \d{1,3} widening, `(123)` fell through the \d{1,2}
+        // marker regex entirely and was kept as ordinary body text instead
+        // of being recognized as a margin marker -- confirmed against real
+        // committed provisions (cucb-dcg-2004, cub-dcg-2005, oaac-dcg-2009,
+        // cue-dcg-2003 all carry markers above 99).
+        let raw = "ANEXO 99\nPrimer parrafo texto.\n(123)\n\nSegundo parrafo texto.\n";
+        let provision = super::parse_annex_document(
+            raw,
+            99,
+            INSTRUMENT_ID,
+            NaiveDate::from_ymd_opt(2021, 1, 28).unwrap(),
+        )
+        .unwrap();
+        assert_eq!(provision.amendment_marks, vec![123]);
+        assert!(
+            !provision.text.contains("(123)"),
+            "a recognized marker must not leak into body text: {:?}",
+            provision.text
+        );
+    }
+
+    #[test]
+    fn a_three_digit_inline_heading_marker_is_recognized() {
+        // The landscape-annex heading form (`ANEXO 14        (2)`) has its
+        // own capped optional group; a three-digit inline marker must not
+        // make the whole heading line fail to match.
+        let raw = "ANEXO 5        (123)\nSubtitulo.\n\nTexto del anexo.\n";
+        let provision = super::parse_annex_document(
+            raw,
+            5,
+            INSTRUMENT_ID,
+            NaiveDate::from_ymd_opt(2021, 1, 28).unwrap(),
+        )
+        .unwrap();
+        assert_eq!(provision.amendment_marks, vec![123]);
+        assert_eq!(provision.label, "ANEXO 5");
     }
 
     #[test]

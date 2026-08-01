@@ -1,5 +1,51 @@
 # Architecture decisions
 
+## 2026-07-31 — Marker-cap regex widened to three digits; the four affected CNBV instruments are NOT re-derived this pass
+
+Operator go-ahead on the marker-cap defect found 2026-07-30 (`amendment_marker_regex`
+`dcg.rs:176`, `legend_entry_re` `itf.rs:179`, both `\d{1,2}`, silently dropping
+or misparsing any three-digit-or-higher margin marker). Both regexes, plus the
+inline annex-heading marker sub-capture (`dcg.rs:294`, the landscape `ANEXO 14
+(2)` form), are now `\d{1,3}`. Two new `dcg.rs` unit tests exercise a
+standalone three-digit marker and a three-digit inline heading marker
+directly against `parse_annex_document`; one new `itf.rs` test extends the
+shared `parser-sample.txt` fixture with a genuine `150)` legend entry and
+asserts it becomes its own `AmendmentReference` rather than being appended as
+trailing text onto entry `9` — the exact swallow bug confirmed in
+`cub-dcg-2005`'s committed legend. fmt clean, clippy clean, 135 workspace
+tests pass.
+
+**The four committed instruments the 2026-07-30 entry found affected
+(`cucb-dcg-2004`, `cub-dcg-2005`, `oaac-dcg-2009`, `cue-dcg-2003`) are
+deliberately NOT re-derived in this pass — their `provisions.json` still
+carries the pre-fix data.** Re-deriving them the way `standards refresh`
+re-derives a NOM requires the original retained extracted text; the DCG/ITF
+instrument family has no such committed artifact (unlike a standard's
+`standard.json` + retained text), and none survived locally from the original
+ingestion (`.work/<slug>` is cleaned up after a successful `pipeline` run
+unless `--keep-work` was passed, and it wasn't). The only way to re-derive
+today is a live re-fetch through `pipeline`, and a direct check
+(`curl -I` against `cub-dcg-2005`'s `official_url`) found CNBV has already
+republished a newer compiled PDF since the 2026-07-13 ingestion:
+content-length 4,866,388 → 6,144,432 bytes, ETag revision `,153` → `,156`,
+`last-modified` 2026-07-03 → 2026-07-15. Re-fetching now would silently fold
+a genuine legal update into a diff meant to be a scoped parser bug fix — the
+exact conflation the still-unbuilt "Corpus currency" mechanism (`docs/decisions.md`
+2026-07-12, "Amendment markers on CNBV reform transitorios") exists to
+prevent by surfacing source drift as its own reviewed report rather than an
+implicit side effect. Re-deriving these four stays pending that mechanism (or
+an explicit, separately-authorized re-ingestion of each) — not done here.
+
+**New known gap, worth stating plainly: the DCG/ITF instrument family has no
+retention parity with standards.** A NOM's `standards refresh` can prove a
+parser fix is safe against the exact bytes that produced the committed data,
+hash-checked, with zero re-acquisition risk. No equivalent exists for CNBV
+DCG/ITF instruments — a parser-only fix to this family can currently only be
+verified by unit fixture, never mechanically replayed against its own
+committed corpus entry. Not scoped to build here; flagged for whoever picks
+up the corpus-currency mechanism, since the same retained-text pattern likely
+solves both.
+
 ## 2026-07-31 — Review fixes on Stage A, same day: ten findings, all closed
 
 A ten-finding code review ran against the Stage A landing commit
