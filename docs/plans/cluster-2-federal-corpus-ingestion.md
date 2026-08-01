@@ -194,7 +194,7 @@ expected-edge review remain separate work.
   blocked. Full workspace gate (149 tests) and batch closure passed.
   `docs/decisions.md` 2026-08-01.
 - [x] (2026-08-01) Normalized and completed AD4 by ingesting and committing
-  `lgpc`, `reg-lgpc`, `lhheum`, `ldvuma`, `ldcpdch`: 233 articles, 29
+  `lgpc`, `reg-lgpc`, `lhheum`, `ldvuma`, `ldcpdch` at `957178c9c`: 233 articles, 29
   original transitories, 50 references, all resolved, zero validation
   errors across all five. All five ran clean on the first pass at the
   default `allow_article_gaps: false` — the first AD batch with neither an
