@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "civil_C2_civil_ip",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "cnpcf",
+    "lfda",
+    "reg-lfda",
+    "lfppi"
+  ],
+  "status": "unassigned"
+}

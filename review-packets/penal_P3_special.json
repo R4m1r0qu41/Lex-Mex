@@ -1,0 +1,13 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "penal_P3_special",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "lgtrata",
+    "reg-lgtrata",
+    "lfed",
+    "lfcpq",
+    "reg-lfcpq"
+  ],
+  "status": "unassigned"
+}

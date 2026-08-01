@@ -1,0 +1,12 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "tax_T3_customs",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "ladua",
+    "lce",
+    "reg-lce",
+    "ligie"
+  ],
+  "status": "unassigned"
+}

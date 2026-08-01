@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "env_E1_framework",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "lgeepa",
+    "reg-lgeepa-meia",
+    "reg-lgeepa-anp",
+    "reg-lgeepa-mpcca",
+    "reg-lgeepa-maaa",
+    "reg-lgeepa-mretc",
+    "lgcc",
+    "reg-lgcc-rne",
+    "lfra"
+  ],
+  "status": "unassigned"
+}

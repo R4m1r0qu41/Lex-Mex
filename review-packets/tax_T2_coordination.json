@@ -1,0 +1,14 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "tax_T2_coordination",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "lcf",
+    "lfprh",
+    "lgcg",
+    "ldfefm",
+    "ltf",
+    "reg-ltf"
+  ],
+  "status": "unassigned"
+}

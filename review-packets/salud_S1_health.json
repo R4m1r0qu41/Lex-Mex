@@ -1,0 +1,15 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "salud_S1_health",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "lgs",
+    "reg-lgs-investigacion",
+    "reg-lgs-mp",
+    "reg-lgs-msi",
+    "reg-lgs-mt",
+    "reg-lgs-mcsaeps",
+    "lins"
+  ],
+  "status": "unassigned"
+}

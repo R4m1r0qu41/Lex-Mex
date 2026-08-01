@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lex-mex.example/schemas/review-packet.schema.json",
+  "title": "Lex-Mex review packet",
+  "description": "A named batch of already-committed instruments assigned to one reviewer, tracking assignment workflow only -- never a legal-review verdict. Distinct from a standard's legal_review_status/technical_review_status and from a provision's review_status.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "packet_id",
+    "grouping_key",
+    "instruments",
+    "status"
+  ],
+  "properties": {
+    "schema_version": { "const": "0.1.0" },
+    "packet_id": { "type": "string", "minLength": 1 },
+    "grouping_key": { "type": "string", "minLength": 1 },
+    "instruments": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "status": {
+      "enum": ["unassigned", "assigned", "in_review", "reviewed"]
+    },
+    "reviewer": { "type": "string", "minLength": 1 },
+    "assigned_at": { "type": "string", "format": "date-time" },
+    "notes": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    }
+  }
+}

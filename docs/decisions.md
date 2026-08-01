@@ -1,5 +1,44 @@
 # Architecture decisions
 
+## 2026-07-31 — Packet-based review assignment landed: `batch_id` is the grouping key
+
+Operator go-ahead. Staged 2026-07-28 (`docs/plans/maximasa-legal-integration.md`
+M4 future scope, item 4) with two open questions: a grouping key, and a
+reviewer-assignment record kept distinct from `legal_review_status`/
+`technical_review_status`. Both decided here, as my own call, stated
+explicitly rather than left implicit in the code:
+
+**Grouping key: `batch_id`.** `batches/*.json` already groups the federal
+corpus into legally coherent topical clusters for ingestion (`labor_L1_labor`,
+`financial_F2_banking`, ...) — reusing it means a reviewer sees the same
+grouping the ingestion plan already reasoned about, and no new categorization
+had to be invented. A packet's `instruments` list is restricted to what
+`corpus/mx` actually holds at generation time, since a batch manifest can
+name instruments not yet ingested. Running `review-packets generate` against
+the live corpus today produced 30 packets covering 147 of 181 committed
+instruments (0 schema violations). **The gap is real, not a bug**: standards
+(29) and the CNBV DCG family (`socap-sofipo-dcg-2006` and its siblings) have
+no `batches/*.json` manifest at all — a separate ingestion track each — so
+this landing does not cover them. Extending the grouping key to a second
+source is future work, not silently done here.
+
+**Record: `ReviewPacket` (`lex-core`), one file per packet under
+`review-packets/`, new `schemas/review-packet.schema.json`.** `status`
+(`unassigned`/`assigned`/`in_review`/`reviewed`), `reviewer`, `assigned_at`,
+`notes` — workflow only. It carries no verdict and does not write to any
+instrument's own review-status field; assigning a packet does not review
+anything, it only names who is responsible. `lex-mex review-packets
+generate` never overwrites an existing packet file (an already-assigned
+packet's state survives a re-run); `assign <packet-id> --reviewer <name>`
+refuses on any packet not currently `unassigned`, so reassignment stays a
+deliberate, separate act rather than a silent overwrite.
+
+**Deferred, per the plan's own text**: a way for a reviewer to flag a missing
+backlink on the fly, and any link from a completed packet review back into an
+instrument's `legal_review_status`. Neither is scoped here.
+
+140 workspace tests pass (4 new), fmt clean, clippy clean.
+
 ## 2026-07-31 — Scope 2 Stage B landed: per-decree source hash on the existing `modifications[]` list
 
 Operator sign-off. The 2026-07-29 decomposition note described Stage B as

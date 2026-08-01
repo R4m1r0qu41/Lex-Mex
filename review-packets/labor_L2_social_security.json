@@ -1,0 +1,15 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "labor_L2_social_security",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "lss",
+    "reg-lss-macerf",
+    "reg-lss-rfar",
+    "reg-lss-maeba",
+    "lissste",
+    "linfonacot",
+    "reg-linfonacot"
+  ],
+  "status": "unassigned"
+}

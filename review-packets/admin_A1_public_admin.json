@@ -1,0 +1,15 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "admin_A1_public_admin",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "loapf",
+    "lfpa",
+    "laassp",
+    "reg-laassp",
+    "lopsrm",
+    "lapp",
+    "reg-lapp"
+  ],
+  "status": "unassigned"
+}

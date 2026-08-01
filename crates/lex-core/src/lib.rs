@@ -307,6 +307,55 @@ pub enum ReviewStatus {
     LawyerVerified,
 }
 
+/// A named batch of already-committed instruments assigned to one reviewer,
+/// so ingestion is not gated on a legal review happening one instrument at a
+/// time.
+///
+/// Deliberately distinct from [`ReviewStatus`] and [`StandardMetadata`]'s
+/// `legal_review_status`/`technical_review_status`: those describe whether
+/// an individual provision's or standard's *content* has been reviewed. A
+/// `ReviewPacket` tracks workflow only -- who is responsible for looking at
+/// this group of instruments, and how far they've gotten -- and carries no
+/// verdict of its own. Reviewing a packet does not set any instrument's
+/// review status; that link is deliberately not built yet (see
+/// `docs/decisions.md`, packet-based review assignment).
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct ReviewPacket {
+    pub schema_version: String,
+    /// Stable identifier for this packet. Currently always the `batch_id`
+    /// of the `batches/*.json` manifest it was generated from -- see
+    /// `grouping_key`.
+    pub packet_id: String,
+    /// What `instruments` were grouped by. Always `"batch_id"` today: the
+    /// per-topic groupings `batches/*.json` already uses for ingestion
+    /// (`labor_L1_labor`, `financial_F2_banking`, ...) are legally coherent
+    /// clusters a reviewer can look at together, and the field exists so a
+    /// future non-batch grouping (standards, CNBV DCG instruments -- neither
+    /// has a batch manifest today) does not have to overload this shape.
+    pub grouping_key: String,
+    /// Committed instrument slugs in this packet, restricted to what
+    /// `corpus/mx` actually holds at generation time -- a batch manifest can
+    /// list instruments not yet ingested, and those are not this reviewer's
+    /// concern until they exist.
+    pub instruments: Vec<String>,
+    pub status: PacketReviewStatus,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub reviewer: Option<String>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub assigned_at: Option<DateTime<Utc>>,
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub notes: Vec<String>,
+}
+
+#[derive(Debug, Clone, Copy, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum PacketReviewStatus {
+    Unassigned,
+    Assigned,
+    InReview,
+    Reviewed,
+}
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct SourceManifest {
     pub schema_version: String,

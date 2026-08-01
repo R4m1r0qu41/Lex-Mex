@@ -1,0 +1,9 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "maximasa_federal_gap_1",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "reg-csps"
+  ],
+  "status": "unassigned"
+}

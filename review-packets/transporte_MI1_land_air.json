@@ -1,0 +1,14 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "transporte_MI1_land_air",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "lcpaf",
+    "lac",
+    "reg-lac",
+    "laero",
+    "reg-laero",
+    "lgmsv"
+  ],
+  "status": "unassigned"
+}

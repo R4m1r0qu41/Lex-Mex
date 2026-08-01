@@ -1,0 +1,13 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "constitutional_CN1_congress",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "locg",
+    "reg-diputados",
+    "reg-senado",
+    "rgic",
+    "ldofgg"
+  ],
+  "status": "unassigned"
+}

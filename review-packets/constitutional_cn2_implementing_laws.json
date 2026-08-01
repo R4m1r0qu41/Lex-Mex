@@ -1,0 +1,18 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "constitutional_cn2_implementing_laws",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "lrfiyii-art105",
+    "lrart6-mdr",
+    "lrfv-art76",
+    "lrart76-fracvi",
+    "lrfxiiib-art123",
+    "lrfxviii-art73",
+    "lfcpo",
+    "lfrm",
+    "lsct",
+    "latime"
+  ],
+  "status": "unassigned"
+}

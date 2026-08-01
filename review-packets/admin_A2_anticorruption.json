@@ -1,0 +1,13 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "admin_A2_anticorruption",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "lgsna",
+    "lgra",
+    "lfrcf",
+    "lotfja",
+    "reg-lspcapf"
+  ],
+  "status": "unassigned"
+}

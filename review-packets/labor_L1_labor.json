@@ -1,0 +1,13 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "labor_L1_labor",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "lft",
+    "lftse",
+    "linfonavit",
+    "reg-linfonavit-mtai",
+    "laat"
+  ],
+  "status": "unassigned"
+}

@@ -185,7 +185,11 @@ record; ITF DCG transitory SÉPTIMO remains pending formal-boundary review.
   provision-level update diff exists;
 - `source-manifest.resulting_git_commit` still records the pre-ingestion HEAD;
 - live network/model flows remain integration-tested manually rather than in
-  hermetic CI.
+  hermetic CI;
+- `lex-mex review-packets generate` (landed 2026-07-31) groups the 147
+  committed instruments that have a `batches/*.json` manifest into 30
+  packets for reviewer assignment; the 29 standards and the CNBV DCG family
+  have no batch manifest and so are not yet covered by this mechanism.
 
 Next general cluster action: normalize AD2 and provisionally ingest `lspm`.
 The separately authorized five-NOM Maximasa sequence does not reorder that

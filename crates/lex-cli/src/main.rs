@@ -36,6 +36,7 @@ use lex_source::{
 use regex::Regex;
 
 mod bundle;
+mod review_packets;
 mod standards;
 
 #[derive(Debug, Parser)]
@@ -153,6 +154,12 @@ enum Command {
     Adapter {
         #[command(subcommand)]
         command: AdapterCommand,
+    },
+    /// Group committed instruments into review packets and assign a
+    /// reviewer, rather than gating ingestion on one-at-a-time review.
+    ReviewPackets {
+        #[command(subcommand)]
+        command: review_packets::ReviewPacketsCommand,
     },
 }
 
@@ -297,40 +304,46 @@ fn main() -> Result<()> {
         .as_deref()
         .map(absolute_root)
         .transpose()?;
+    dispatch(&root, obsidian_vault.as_deref(), cli.command)
+}
 
-    match cli.command {
+/// Split from `main` so the per-subcommand match arms -- one per CLI
+/// surface, growing whenever a subcommand is added -- don't make `main`
+/// itself trip a function-length lint on an unrelated addition.
+fn dispatch(root: &Path, obsidian_vault: Option<&Path>, command: Command) -> Result<()> {
+    match command {
         command @ (Command::Instruments { .. } | Command::Path { .. } | Command::Search { .. }) => {
-            run_consumer_command(&root, command)?;
+            run_consumer_command(root, command)?;
         }
-        Command::Bundle { command } => bundle::run_bundle_command(&root, command)?,
-        Command::Standards { command } => standards::run_standards_command(&root, command)?,
-        Command::Discover { source } => run_discover(&root, &source)?,
+        Command::Bundle { command } => bundle::run_bundle_command(root, command)?,
+        Command::Standards { command } => standards::run_standards_command(root, command)?,
+        Command::Discover { source } => run_discover(root, &source)?,
         Command::Fetch { instrument } => {
-            let context = instrument_context(&root, &instrument)?;
+            let context = instrument_context(root, &instrument)?;
             run_fetch(&context)?;
         }
         Command::Extract { instrument } => {
-            let context = instrument_context(&root, &instrument)?;
+            let context = instrument_context(root, &instrument)?;
             run_extract(&context)?;
         }
         Command::Parse { instrument } => {
-            let context = instrument_context(&root, &instrument)?;
-            run_parse(&root, &context)?;
+            let context = instrument_context(root, &instrument)?;
+            run_parse(root, &context)?;
         }
         Command::Link { instrument } => {
-            let context = instrument_context(&root, &instrument)?;
-            run_link(&root, &context)?;
+            let context = instrument_context(root, &instrument)?;
+            run_link(root, &context)?;
         }
         Command::AnalyzeTemporal {
             instrument,
             provider,
             model,
         } => {
-            let context = instrument_context(&root, &instrument)?;
+            let context = instrument_context(root, &instrument)?;
             run_temporal_request(&context)?;
             if provider == TemporalProvider::Codex {
-                run_codex_temporal(&root, &context, &model)?;
-                republish_exports(&root, &context, obsidian_vault.as_deref())?;
+                run_codex_temporal(root, &context, &model)?;
+                republish_exports(root, &context, obsidian_vault)?;
             }
         }
         Command::ImportTemporal {
@@ -339,13 +352,13 @@ fn main() -> Result<()> {
             model,
             response_id,
         } => {
-            let context = instrument_context(&root, &instrument)?;
+            let context = instrument_context(root, &instrument)?;
             run_temporal_import(&context, &response, &model, response_id)?;
-            republish_exports(&root, &context, obsidian_vault.as_deref())?;
+            republish_exports(root, &context, obsidian_vault)?;
         }
         Command::Validate { instrument } => {
-            let context = instrument_context(&root, &instrument)?;
-            let report = run_validate(&root, &context)?;
+            let context = instrument_context(root, &instrument)?;
+            let report = run_validate(root, &context)?;
             if !report.valid {
                 bail!(
                     "corpus validation failed; inspect {}",
@@ -354,8 +367,8 @@ fn main() -> Result<()> {
             }
         }
         Command::Export { instrument, format } => {
-            let context = instrument_context(&root, &instrument)?;
-            run_export(&root, &context, format, obsidian_vault.as_deref())?;
+            let context = instrument_context(root, &instrument)?;
+            run_export(root, &context, format, obsidian_vault)?;
         }
         Command::Pipeline {
             instrument,
@@ -363,11 +376,11 @@ fn main() -> Result<()> {
             temporal_provider,
             temporal_model,
         } => {
-            let context = instrument_context(&root, &instrument)?;
+            let context = instrument_context(root, &instrument)?;
             run_pipeline(
-                &root,
+                root,
                 &context,
-                obsidian_vault.as_deref(),
+                obsidian_vault,
                 keep_work,
                 temporal_provider,
                 &temporal_model,
@@ -377,18 +390,19 @@ fn main() -> Result<()> {
             instrument,
             command,
         } => {
-            let context = instrument_context(&root, &instrument)?;
-            run_review_command(&root, &context, obsidian_vault.as_deref(), command)?;
+            let context = instrument_context(root, &instrument)?;
+            run_review_command(root, &context, obsidian_vault, command)?;
         }
         Command::Batch { command } => {
-            run_batch_command(&root, obsidian_vault.as_deref(), command)?;
+            run_batch_command(root, obsidian_vault, command)?;
         }
         Command::Adapter { command } => match command {
             AdapterCommand::Scaffold { batch, slug } => {
-                scaffold_adapter(&root, &batch, &slug)?;
-                preflight_adapter_uniqueness(&root)?;
+                scaffold_adapter(root, &batch, &slug)?;
+                preflight_adapter_uniqueness(root)?;
             }
         },
+        Command::ReviewPackets { command } => review_packets::run_review_packets(root, command)?,
     }
     Ok(())
 }

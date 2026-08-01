@@ -1,0 +1,14 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "financial_F3_securities",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "lmv",
+    "lfi",
+    "cue-dcg-2003",
+    "cucb-dcg-2004",
+    "fi-dcg-2014",
+    "servinv-dcg-2013"
+  ],
+  "status": "unassigned"
+}

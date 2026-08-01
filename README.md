@@ -263,6 +263,18 @@ publishes alongside the main document (recorded in
 `annex-source-manifests.json`), plus the formal DOF publication for
 promulgation-date provenance (`formal-source-manifest.json`).
 
+### Review packets
+
+`lex-mex review-packets generate` groups already-committed instruments into
+one packet per `batches/*.json` manifest (`review-packets/<batch_id>.json`),
+so a reviewer can be handed a legally coherent cluster instead of the corpus
+gating on one instrument at a time. `assign <packet-id> --reviewer <name>`
+records who is responsible for a packet and refuses to reassign one silently;
+`list` prints every packet's status. A packet tracks assignment workflow
+only — it is not a legal-review verdict and does not set any instrument's
+own review status. Standards and CNBV DCG instruments have no batch manifest
+today, so they are not yet covered by this mechanism.
+
 ## Repository layout
 
 ```text

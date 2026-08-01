@@ -1,0 +1,10 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "digital_D1_trust",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "reg-lfea",
+    "lic-calidad"
+  ],
+  "status": "unassigned"
+}
