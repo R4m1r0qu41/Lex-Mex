@@ -1,5 +1,46 @@
 # Architecture decisions
 
+## 2026-08-01 — AD2 admitted; the provisional-review gate caught the same `1o`-style ordinal case it was built for
+
+Testing the merged post-transitory-supplements fix against a genuinely new
+batch (per the operator's "let's test with a new batch processing"). AD2
+(`batches/administration_ad2_bienes_obras_servicios.json`, normalized from
+`prompts/cluster-2-batches/lex-mex-cl2-batch-AD2.json`) added `lspm`,
+`lfaebsp`, `reg-lfaebsp`, `reg-lopsrm`, `lfar` — all five, closing AD2.
+
+**What happened, and why it is not a new finding.** Provisional processing of
+`lspm` (the plan's designated first instrument) failed validation: 9
+`non_numeric_article` warnings for articles 1–9 (`ARTICULO 1o.-` … `9o.-`,
+the standard Spanish ordinal-abbreviation convention for single-digit
+articles, switching to plain cardinal numbering — `ARTICULO 10.-` — from
+article 10 onward), then 63 `article_order` errors for every article from 10
+onward, because the strict-order validator's `expected_number` never advances
+past a `non_numeric_article` warning. `lfaebsp` hit the identical shape
+independently (84 errors), and separately carries genuine
+`6-bis`/`6-ter`/`6-quater` suffixed articles. **This is exactly the
+`allow_article_gaps` review gate doing its job, not a newly discovered
+defect**: `docs/plans/cluster-2-federal-corpus-ingestion.md`'s 2026-07-18
+entry already records the scaffold defaulting `allow_article_gaps` to
+`false` specifically so every new instrument gets a reviewed opt-in decision
+rather than a silent guess, and `lfrsp` hit this identical `1o`-style pattern
+that same day. `crates/lex-parse/src/labels.rs` already canonicalizes
+`1o`/`2º`/`3°` ordinal marks for sort-key purposes; setting
+`allow_article_gaps: true` on `lspm` and `lfaebsp` — reviewed adapter
+configuration, the intended fix path — routed both through the already-built
+label-aware ordering path, resolving both the ordinal convention and the
+`bis`/`ter` suffixes with zero code change. No default should change: the
+strict path staying the default is what forces this review to happen for
+every new instrument, and it worked as designed twice now (`lfrsp`, and
+today's `lspm`/`lfaebsp`).
+
+**Verification.** All five AD2 instruments validate clean, reverse-link with
+0 unresolved references (184 new edges), and `all_committed_batch_manifests_deserialize`'s
+frozen counts were updated for the reviewed addition (30→31 manifests,
+157→162 unique instrument slugs) — that test's own guard is what caught the
+new manifest needing acknowledgment, not silent drift. 148 workspace tests
+pass, fmt clean, clippy clean; no Rust code changed, only the two adapter
+configs and the frozen-count test.
+
 ## 2026-07-31 — Sequential-fold planning pass landed; the engine itself stays unbuilt
 
 Operator sign-off on the fold doctrine (below, same date) arrived via the

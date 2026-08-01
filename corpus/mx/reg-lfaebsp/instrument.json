@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lfaebsp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público",
+  "short_name": "REG-LFAEBSP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2003-06-17",
+  "latest_reform_date": "2006-11-29",
+  "retrieved_at": "2026-08-01T06:28:33.135481Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFAEBSP.pdf",
+  "source_sha256": "9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3",
+  "extracted_text_sha256": "d454a4daed4c13a2f8dd3198de7195a693f57a105b47f0a52be436c84157d8c1",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

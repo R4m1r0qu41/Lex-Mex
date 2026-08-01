@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAEBSP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfaebsp.htm",
+  "retrieved_at": "2026-08-01T06:28:29.913284Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 666996,
+  "etag": "\"a2d74-61783331da780\"",
+  "last_modified": "Fri, 03 May 2024 02:08:46 GMT",
+  "source_sha256": "269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059",
+  "extracted_text_sha256": "ffc1d51a0ed84a290de4eca867c6ce1ad5b794e898b9e2f51e1c082902e621fe",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "067d225f7a1b248a058979252c7468c1e448d6d1"
+}

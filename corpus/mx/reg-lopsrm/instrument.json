@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lopsrm",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas",
+  "short_name": "REG-LOPSRM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2010-07-28",
+  "latest_reform_date": "2023-02-24",
+  "retrieved_at": "2026-08-01T06:28:37.963166Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPSRM.pdf",
+  "source_sha256": "2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9",
+  "extracted_text_sha256": "bd869d6ddfa6b5b37f4355eb93042d43dbd189d51dad107e65d8302a82906c28",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

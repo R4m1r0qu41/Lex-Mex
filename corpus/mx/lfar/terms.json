@@ -1,0 +1,68 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfar:term:austeridad-republicana",
+    "term": "Austeridad Republicana",
+    "instrument_id": "urn:lex-mx:federal:statute:lfar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfar:article:4",
+    "fraction": "I",
+    "start_char": 55,
+    "end_char": 626,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfar:term:comite-de-evaluacion",
+    "term": "Comité de Evaluación",
+    "instrument_id": "urn:lex-mx:federal:statute:lfar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfar:article:4",
+    "fraction": "II",
+    "start_char": 626,
+    "end_char": 813,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfar:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lfar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfar:article:4",
+    "fraction": "III",
+    "start_char": 813,
+    "end_char": 863,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfar:term:nepotismo",
+    "term": "Nepotismo",
+    "instrument_id": "urn:lex-mx:federal:statute:lfar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfar:article:4",
+    "fraction": "IV",
+    "start_char": 863,
+    "end_char": 1239,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfar:term:remuneracion",
+    "term": "Remuneración",
+    "instrument_id": "urn:lex-mx:federal:statute:lfar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfar:article:4",
+    "fraction": "V",
+    "start_char": 1239,
+    "end_char": 1601,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfar:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lfar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfar:article:4",
+    "fraction": "VI",
+    "start_char": 1601,
+    "end_char": 1678,
+    "basis": "express_definition"
+  }
+]

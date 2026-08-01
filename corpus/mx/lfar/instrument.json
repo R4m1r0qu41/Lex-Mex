@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfar",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Austeridad Republicana",
+  "short_name": "LFAR",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2019-11-19",
+  "latest_reform_date": "2025-04-16",
+  "retrieved_at": "2026-08-01T06:28:42.400082Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAR.pdf",
+  "source_sha256": "b01d875d525d1efbe4edf9f022f58c9afb56fb777581fc9eae1038c212e6b43c",
+  "extracted_text_sha256": "575dd916dc69b9c4ae9dc66d02d19713326a0c5d8c8aad841048c6659beb14b7",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

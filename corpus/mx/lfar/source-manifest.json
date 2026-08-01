@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfar",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAR.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfar.htm",
+  "retrieved_at": "2026-08-01T06:28:42.400082Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 572761,
+  "etag": "\"8bd59-634b829d95640\"",
+  "last_modified": "Fri, 09 May 2025 18:30:41 GMT",
+  "source_sha256": "b01d875d525d1efbe4edf9f022f58c9afb56fb777581fc9eae1038c212e6b43c",
+  "extracted_text_sha256": "575dd916dc69b9c4ae9dc66d02d19713326a0c5d8c8aad841048c6659beb14b7",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "067d225f7a1b248a058979252c7468c1e448d6d1"
+}

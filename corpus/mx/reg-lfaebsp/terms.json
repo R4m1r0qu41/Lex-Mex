@@ -1,0 +1,101 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:comite",
+    "term": "Comité",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:1",
+    "fraction": "I",
+    "start_char": 345,
+    "end_char": 424,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:costos-de-administracion",
+    "term": "Costos de administración",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:1",
+    "fraction": "II",
+    "start_char": 424,
+    "end_char": 1221,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:enajenacion",
+    "term": "Enajenación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:1",
+    "fraction": "III",
+    "start_char": 1221,
+    "end_char": 1430,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:encargos",
+    "term": "Encargos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:1",
+    "fraction": "IV",
+    "start_char": 1430,
+    "end_char": 1598,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:1",
+    "fraction": "V",
+    "start_char": 1598,
+    "end_char": 1723,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:procedimientos-penales-federales",
+    "term": "Procedimientos penales federales",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:1",
+    "fraction": "VI",
+    "start_char": 1723,
+    "end_char": 1963,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:tercero-especializado",
+    "term": "Tercero especializado",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:1",
+    "fraction": "VII",
+    "start_char": 1963,
+    "end_char": 2316,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:udis",
+    "term": "Udis",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:1",
+    "fraction": "VIII",
+    "start_char": 2316,
+    "end_char": 2502,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfaebsp:term:valuador",
+    "term": "Valuador",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfaebsp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfaebsp:article:1",
+    "fraction": "IX",
+    "start_char": 2502,
+    "end_char": 2907,
+    "basis": "express_definition"
+  }
+]

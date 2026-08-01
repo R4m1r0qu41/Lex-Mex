@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lspm",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Servicio Postal Mexicano",
+  "short_name": "LSPM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1986-12-24",
+  "latest_reform_date": "2023-01-19",
+  "retrieved_at": "2026-08-01T06:28:26.825964Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPM.pdf",
+  "source_sha256": "f8a66009368493d0c964c21f4cb165c39d5bb3b1236058511547f9c3cca6e5cc",
+  "extracted_text_sha256": "38abaefc164f56815125f9708c671a591dc8a74359dd2afed130ac13427e5e2c",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

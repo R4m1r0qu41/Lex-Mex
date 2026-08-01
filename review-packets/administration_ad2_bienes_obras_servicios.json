@@ -1,0 +1,13 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "administration_ad2_bienes_obras_servicios",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "lspm",
+    "lfaebsp",
+    "reg-lfaebsp",
+    "reg-lopsrm",
+    "lfar"
+  ],
+  "status": "unassigned"
+}

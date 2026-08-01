@@ -64,7 +64,14 @@ Verified against local `main` at `736146bd8`:
   validation, and Markdown pass closed at `34449eb6`.
 - AD1 has committed all six instruments: `lplan`, `lfep`, `reg-lfep`,
   `lfrpe`, `lfrsp`, and `lgbn`. Its individual-ingestion checkpoint is
-  complete; the next prepared general batch is AD2, beginning with `lspm`.
+  complete.
+- AD2 has committed all five instruments (2026-08-01, `docs/decisions.md`
+  same date): `lspm`, `lfaebsp`, `reg-lfaebsp`, `reg-lopsrm`, `lfar`, via
+  `batches/administration_ad2_bienes_obras_servicios.json`. `lspm` and
+  `lfaebsp` needed a reviewed `allow_article_gaps: true` adapter setting to
+  correctly handle both statutes' `1o.`–`9o.` ordinal-abbreviation article
+  numbering; no parser code changed. AD2's individual-ingestion checkpoint is
+  complete.
 - Per-instrument counts, source and extracted-text hashes, and validation
   state are owned by each instrument's `corpus/mx/<slug>/validation.json` and
   `source-manifest.json` and are not restated here. The dated `Progress` log
@@ -83,10 +90,12 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-When general cluster-2 ingestion resumes, normalize prepared AD2 into an
-operational manifest and provisionally process its first instrument, `lspm`.
-The separately authorized five-NOM Maximasa sequence does not reorder AD2.
-Corpus-wide relinking and human expected-edge review remain separate work.
+AD2 is closed. When general cluster-2 ingestion resumes, normalize the next
+prepared batch (per `prompts/lex-mex-federal-cluster-2-plan.md`'s admission
+order) into an operational manifest and provisionally process its first
+instrument. The separately authorized five-NOM Maximasa sequence does not
+reorder the prepared federal batches. Corpus-wide relinking and human
+expected-edge review remain separate work.
 
 ## Progress
 

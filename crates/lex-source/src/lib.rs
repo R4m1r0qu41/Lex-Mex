@@ -529,8 +529,8 @@ mod tests {
             }
             manifest_count += 1;
         }
-        assert_eq!(manifest_count, 30, "expected 30 committed batch manifests");
-        assert_eq!(slugs.len(), 157, "expected 157 unique instruments");
+        assert_eq!(manifest_count, 31, "expected 31 committed batch manifests");
+        assert_eq!(slugs.len(), 162, "expected 162 unique instruments");
     }
 
     #[test]

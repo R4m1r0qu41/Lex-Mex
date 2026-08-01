@@ -1,0 +1,22 @@
+{
+  "slug": "lfar",
+  "instrument_id": "urn:lex-mx:federal:statute:lfar",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Federal de Austeridad Republicana",
+  "short_name": "LFAR",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAR.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfar.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2019-11-19",
+  "expected_articles": 30,
+  "expected_transitories": 10,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-08-01T06:26:04Z"
+  },
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

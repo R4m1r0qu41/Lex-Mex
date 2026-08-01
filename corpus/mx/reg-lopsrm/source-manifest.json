@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPSRM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPSRM.pdf",
+  "retrieved_at": "2026-08-01T06:28:37.963166Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1264294,
+  "etag": "\"134aa6-5f78436854280\"",
+  "last_modified": "Wed, 22 Mar 2023 21:55:06 GMT",
+  "source_sha256": "2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9",
+  "extracted_text_sha256": "bd869d6ddfa6b5b37f4355eb93042d43dbd189d51dad107e65d8302a82906c28",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "067d225f7a1b248a058979252c7468c1e448d6d1"
+}

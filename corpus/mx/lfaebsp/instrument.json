@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfaebsp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal para la Administración y Enajenación de Bienes del Sector Público",
+  "short_name": "LFAEBSP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2002-12-19",
+  "latest_reform_date": "2024-04-30",
+  "retrieved_at": "2026-08-01T06:28:29.913284Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAEBSP.pdf",
+  "source_sha256": "269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059",
+  "extracted_text_sha256": "ffc1d51a0ed84a290de4eca867c6ce1ad5b794e898b9e2f51e1c082902e621fe",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}
