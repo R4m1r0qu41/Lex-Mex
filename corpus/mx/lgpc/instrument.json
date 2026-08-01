@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgpc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Protección Civil",
+  "short_name": "LGPC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2012-06-06",
+  "latest_reform_date": "2023-12-21",
+  "retrieved_at": "2026-08-01T17:15:03.761042Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf",
+  "source_sha256": "d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a",
+  "extracted_text_sha256": "f4e221f2d8f7b05b1ec11467063e399e57f469e3ffd6fc3744b48f59a14b92ff",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

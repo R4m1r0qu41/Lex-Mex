@@ -1,0 +1,54 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldvuma:transitory:segundo:reference:322-323:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:ldvuma:transitory:segundo",
+    "source_span": "5",
+    "start_char": 322,
+    "end_char": 323,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ldvuma",
+    "target_provision_id": "urn:lex-mx:federal:statute:ldvuma:article:5",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldvuma:transitory:tercero:reference:118-119:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:ldvuma:transitory:tercero",
+    "source_span": "4",
+    "start_char": 118,
+    "end_char": 119,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ldvuma",
+    "target_provision_id": "urn:lex-mx:federal:statute:ldvuma:article:4",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldvuma:transitory:tercero:reference:440-442:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:ldvuma:transitory:tercero",
+    "source_span": "89",
+    "start_char": 440,
+    "end_char": 442,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 416,
+        "end_char": 426
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

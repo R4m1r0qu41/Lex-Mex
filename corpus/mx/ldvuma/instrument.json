@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:ldvuma",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley para Determinar el Valor de la Unidad de Medida y Actualización",
+  "short_name": "LDVUMA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2016-12-30",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-08-01T17:15:15.692953Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDVUMA_301216.pdf",
+  "source_sha256": "44f65ae5f6367e9a510790e5b10730bd179df1f48b9703485548c0add7dbacc4",
+  "extracted_text_sha256": "c01e33832d8183b126918c40a7209c1cf651707330c492f7c615dc8a53e1c3e1",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

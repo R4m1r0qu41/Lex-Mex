@@ -1,5 +1,33 @@
 # Architecture decisions
 
+## 2026-08-01 — AD4 admitted, closing Domain AD; the first AD batch with no review case and no parser fix
+
+Continuing the cluster-2 admission sequence after AD3. AD4
+(`batches/administration_ad4_proteccion_civil_misc.json`, normalized from
+`prompts/cluster-2-batches/lex-mex-cl2-batch-AD4.json`) added `lgpc`,
+`reg-lgpc`, `lhheum`, `ldvuma`, `ldcpdch` — all five, closing AD4 and, with
+it, Domain AD (AD1–AD4).
+
+**Nothing to review this time.** All five instruments ran through the
+batch loop clean on the first pass at the scaffold default
+`allow_article_gaps: false` — none of the five use the `1o.`–`9o.`
+ordinal-abbreviation article numbering that forced a reviewed adapter
+setting on four of the ten AD2/AD3 instruments (`lfrsp`, `lspm`, `lfaebsp`,
+`lspcapf`, `reg-art121-122-lft`), and none hit the reform-decree
+publication-date parser gap that AD3's `lspcapf` surfaced. This is worth
+recording precisely because it is a negative result: the pattern is
+statute-specific (older, hand-drafted numbering conventions), not universal
+to the AD domain, so provisional review still has to check each new
+instrument rather than assume either outcome.
+
+**Verification.** All five AD4 instruments validate clean, reverse-link
+with 0 unresolved references (50 new edges; 233 new articles, 29 new
+original transitories). `all_committed_batch_manifests_deserialize`'s
+frozen counts updated again for the reviewed addition (32→33 manifests,
+167→172 unique instrument slugs). 149 workspace tests pass, fmt clean,
+clippy clean. `review-packets generate` picked up the new batch as its own
+packet (33rd) without touching the existing 32.
+
 ## 2026-08-01 — AD3 admitted; a fourth `1o.` hit plus a genuine parser fix for `1º`-style day-of-month dates
 
 Continuing the same-day "test with a new batch processing" pass, after

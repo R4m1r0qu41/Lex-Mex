@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:ldcpdch",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/177.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldcpdch.htm",
+  "retrieved_at": "2026-08-01T17:15:19.862181Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 263054,
+  "etag": "\"4038e-576428ce091c0\"",
+  "last_modified": "Thu, 20 Sep 2018 00:24:47 GMT",
+  "source_sha256": "d36aec42a42e48e3d457225ab337f67df31be47f04fd896068aba67cf669883a",
+  "extracted_text_sha256": "1348798d9f20a5deb49371c74ebdff8d859c272ed6d1ec455ce75ea951762dd0",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "40c4c168ef42c4e58f1d28d2d1c8d7535fab845b"
+}

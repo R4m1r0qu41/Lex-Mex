@@ -2,8 +2,8 @@
 
 - **Status date:** 2026-08-01
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed instruments:** 193 (161 federal corpus instruments plus 32 NOMs)
-- **Active ingestion batch:** `administration_ad3_servicio_publico_laboral` — complete (5/5)
+- **Committed instruments:** 198 (166 federal corpus instruments plus 32 NOMs)
+- **Active ingestion batch:** `administration_ad4_proteccion_civil_misc` — complete (5/5)
 - **Next checkpoint:** normalize and admit the next prepared cluster-2 batch
 - **Current legal reviewer:** JRH
 
@@ -23,18 +23,18 @@ Current committed-corpus totals:
 
 | Artifact | Count |
 |---|---:|
-| Instruments | 193 |
-| Articles | 33,984 |
-| Original transitory provisions | 1,294 |
+| Instruments | 198 |
+| Articles | 34,217 |
+| Original transitory provisions | 1,323 |
 | Annexes | 29 |
 | Standard clauses | 3,885 |
 | Standard transitory provisions | 100 |
 | Standard post-transitory supplements | 78 |
-| Reference edges | 17,406 |
+| Reference edges | 17,456 |
 | Unresolved reference edges | 0 |
-| Generated Markdown files | 35,468 |
+| Generated Markdown files | 35,735 |
 
-All 193 `validation.json` reports are valid. They contain 243 non-blocking
+All 198 `validation.json` reports are valid. They contain 243 non-blocking
 warnings: 175 non-numeric/suffixed-article notices, 16 unfrozen count
 baselines, 35 represented supplements whose source states no explicit legal
 character, 7 article-gap notices, 3
@@ -52,24 +52,27 @@ regulations, excluding DCGs). The pre-cluster corpus held 128 instruments;
 CN1 and CN2 added 16 and are structurally closed. AD1 has added all six
 instruments through `lgbn`, AD2 has added all five instruments through
 `lfar` (`lspm`, `lfaebsp`, `reg-lfaebsp`, `reg-lopsrm`, `lfar`;
-`batches/administration_ad2_bienes_obras_servicios.json`), and AD3 has now
-added all five instruments through `reg-laat` (`lspcapf`, `lfremsp`,
+`batches/administration_ad2_bienes_obras_servicios.json`), AD3 has added
+all five instruments through `reg-laat` (`lspcapf`, `lfremsp`,
 `locfcrl`, `reg-art121-122-lft`, `reg-laat`;
 `batches/administration_ad3_servicio_publico_laboral.json` — `reg-laat`
-also resolves the entry `batches/labor_L1_labor.json` had left blocked).
+also resolves the entry `batches/labor_L1_labor.json` had left blocked),
+and AD4 has now added all five instruments through `ldcpdch` (`lgpc`,
+`reg-lgpc`, `lhheum`, `ldvuma`, `ldcpdch`;
+`batches/administration_ad4_proteccion_civil_misc.json`), closing Domain AD.
 Together with the separate Maximasa federal-gap ingestion of `reg-csps`, the
-live corpus now contains 161 instruments.
+live corpus now contains 166 instruments.
 
 The cluster-2 first pass contains 326 instruments in 53 batches. Its state is:
 
 | State | Batches | Instruments |
 |---|---:|---:|
 | Structurally closed (CN1, CN2) | 2 | 16 |
-| Structurally complete (AD1, AD2, AD3) | 3 | 16 |
-| Prepared, not yet admitted | 48 | 291 |
+| Structurally complete (AD1, AD2, AD3, AD4) | 4 | 21 |
+| Prepared, not yet admitted | 47 | 286 |
 | Explicitly blocked | 2 | 3 |
 
-The remaining prepared cluster-2 workload is 291 instruments. `egdf`,
+The remaining prepared cluster-2 workload is 286 instruments. `egdf`,
 `lif-2026`, and `pef-2026` remain explicit
 deferrals pending reviewer direction; they are not silently treated as
 complete.
@@ -186,6 +189,16 @@ new fixture. All five AD3 instruments validate clean and reverse-link with
 0 unresolved references (49 new edges). Full finding: `docs/decisions.md`
 2026-08-01.
 
+**AD4 admitted, 2026-08-01, closing Domain AD.**
+`batches/administration_ad4_proteccion_civil_misc.json` (normalized from
+`prompts/cluster-2-batches/lex-mex-cl2-batch-AD4.json`) added all five
+prepared instruments: `lgpc`, `reg-lgpc`, `lhheum`, `ldvuma`, `ldcpdch`. All
+five ran clean on the first pass at the default `allow_article_gaps: false`
+— the first AD batch with neither an ordinal-numbering review case nor a
+parser defect. All five validate clean and reverse-link with 0 unresolved
+references (50 new edges; 233 new articles, 29 new original transitories).
+Full finding: `docs/decisions.md` 2026-08-01.
+
 The active plan is
 [`cluster-2-federal-corpus-ingestion.md`](plans/cluster-2-federal-corpus-ingestion.md).
 It is the authoritative source for batch order, source inventories, recovery,
@@ -239,16 +252,17 @@ record; ITF DCG transitory SÉPTIMO remains pending formal-boundary review.
 - `source-manifest.resulting_git_commit` still records the pre-ingestion HEAD;
 - live network/model flows remain integration-tested manually rather than in
   hermetic CI;
-- `lex-mex review-packets generate` (landed 2026-07-31) groups the 157
-  committed instruments that have a `batches/*.json` manifest into 32
+- `lex-mex review-packets generate` (landed 2026-07-31) groups the 172
+  committed instruments that have a `batches/*.json` manifest into 33
   packets for reviewer assignment; the 32 standards and the CNBV DCG family
   have no batch manifest and so are not yet covered by this mechanism.
 
 Next general cluster action: normalize the next prepared cluster-2 batch
-(AD4, `cl2_AD4_proteccion_civil_misc`) into an operational manifest per the
-cluster plan's admission order (`docs/plans/cluster-2-federal-corpus-ingestion.md`).
-AD1–AD3 are now structurally complete. The separately authorized five-NOM
-Maximasa sequence does not reorder the prepared federal batches.
+(TX1, `cl2_TX1_sat_procedimiento`, opening Domain TX) into an operational
+manifest per the cluster plan's admission order
+(`docs/plans/cluster-2-federal-corpus-ingestion.md`). AD1–AD4 are now
+structurally complete, closing Domain AD. The separately authorized
+five-NOM Maximasa sequence does not reorder the prepared federal batches.
 
 ## Archived divergent branches
 

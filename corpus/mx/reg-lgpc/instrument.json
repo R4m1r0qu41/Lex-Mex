@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgpc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de Protección Civil",
+  "short_name": "REG-LGPC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-05-13",
+  "latest_reform_date": "2015-12-09",
+  "retrieved_at": "2026-08-01T17:15:07.750840Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPC_091215.pdf",
+  "source_sha256": "5018478a6ca9ea39f9ca88ffcb68dde9a33bd4adec59dc75d2431f894b621fc2",
+  "extracted_text_sha256": "20dd98242ba43813fd9f2673f18e09c0fbafd7d653693f26396370577eb8fa82",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

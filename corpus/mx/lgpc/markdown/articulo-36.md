@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lgpc:article:36
+instrument_id: urn:lex-mx:federal:statute:lgpc
+instrument: LGPC
+name: "Ley General de Protección Civil"
+provision_type: article
+number: "36"
+aliases: ["LGPC — Artículo 36"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf
+source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
+---
+
+> Capítulo VI
+
+# Artículo 36
+
+El Programa Nacional, estará basado en los principios que establece esta Ley, la Ley de Planeación, la Ley Federal de Transparencia y Acceso a la Información Pública y demás normatividad en materia de planeación, transparencia y rendición de cuentas.

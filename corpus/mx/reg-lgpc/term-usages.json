@@ -1,0 +1,902 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:1:term-usage:380-383",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 380,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2:term-usage:102-105",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 102,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2:term-usage:2764-2770",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:alerta",
+    "span": "Alerta",
+    "start_char": 2764,
+    "end_char": 2770
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2:term-usage:3021-3027",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:alerta",
+    "span": "Alerta",
+    "start_char": 3021,
+    "end_char": 3027
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2:term-usage:3148-3155",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:alerta",
+    "span": "Alertas",
+    "start_char": 3148,
+    "end_char": 3155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2:term-usage:3274-3281",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:alerta",
+    "span": "Alertas",
+    "start_char": 3274,
+    "end_char": 3281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:3:term-usage:62-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 62,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:4:term-usage:281-300",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoridades-locales",
+    "span": "Autoridades Locales",
+    "start_char": 281,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:5:term-usage:61-64",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 61,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:5:term-usage:381-384",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 381,
+    "end_char": 384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:5:term-usage:817-836",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoridades-locales",
+    "span": "Autoridades Locales",
+    "start_char": 817,
+    "end_char": 836
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:7:term-usage:1752-1755",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 1752,
+    "end_char": 1755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:8:term-usage:72-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 72,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:8:term-usage:230-233",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 230,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:9:term-usage:151-154",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 151,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:19:term-usage:43-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoridades-locales",
+    "span": "Autoridades Locales",
+    "start_char": 43,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:22:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:enaproc",
+    "span": "ENAPROC",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:22:term-usage:288-295",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:enaproc",
+    "span": "ENAPROC",
+    "start_char": 288,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:23:term-usage:46-53",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:enaproc",
+    "span": "ENAPROC",
+    "start_char": 46,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:23:term-usage:194-197",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 194,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:24:term-usage:58-61",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 58,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:26:term-usage:56-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 56,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:26:term-usage:1051-1068",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:centro-de-comando",
+    "span": "Centro de Comando",
+    "start_char": 1051,
+    "end_char": 1068
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:26:term-usage:1319-1322",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 1319,
+    "end_char": 1322
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:27:term-usage:85-104",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoridades-locales",
+    "span": "Autoridades Locales",
+    "start_char": 85,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:27:term-usage:886-889",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 886,
+    "end_char": 889
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:27:term-usage:930-949",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoridades-locales",
+    "span": "Autoridades Locales",
+    "start_char": 930,
+    "end_char": 949
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:29:term-usage:104-123",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoridades-locales",
+    "span": "Autoridades Locales",
+    "start_char": 104,
+    "end_char": 123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:30:term-usage:45-64",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoridades-locales",
+    "span": "Autoridades Locales",
+    "start_char": 45,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:31:term-usage:133-136",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 133,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:31:term-usage:354-357",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 354,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:31:term-usage:751-754",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 751,
+    "end_char": 754
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:36:term-usage:129-145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:centro-de-acopio",
+    "span": "Centro de Acopio",
+    "start_char": 129,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:37:term-usage:138-141",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 138,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:43:term-usage:492-495",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 492,
+    "end_char": 495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:46:term-usage:952-955",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 952,
+    "end_char": 955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:47:term-usage:487-490",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 487,
+    "end_char": 490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:48:term-usage:117-120",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 117,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49:term-usage:372-375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 372,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49:term-usage:669-672",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 669,
+    "end_char": 672
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49:term-usage:852-855",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 852,
+    "end_char": 855
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49:term-usage:1121-1124",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 1121,
+    "end_char": 1124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49:term-usage:1398-1416",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:cuerpos-de-auxilio",
+    "span": "Cuerpos de Auxilio",
+    "start_char": 1398,
+    "end_char": 1416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49:term-usage:1419-1446",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:grupos-de-primera-respuesta",
+    "span": "Grupos de Primera Respuesta",
+    "start_char": 1419,
+    "end_char": 1446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49:term-usage:1555-1574",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoridades-locales",
+    "span": "Autoridades Locales",
+    "start_char": 1555,
+    "end_char": 1574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:53:term-usage:243-246",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 243,
+    "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:55:term-usage:83-86",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 83,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:56:term-usage:323-326",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 323,
+    "end_char": 326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:61:term-usage:221-224",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 221,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:62:term-usage:71-78",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:alerta",
+    "span": "Alertas",
+    "start_char": 71,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:63:term-usage:4-25",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-monitoreo",
+    "span": "Sistemas de Monitoreo",
+    "start_char": 4,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:63:term-usage:367-394",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-alerta-temprana",
+    "span": "Sistemas de Alerta Temprana",
+    "start_char": 367,
+    "end_char": 394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:64:term-usage:51-78",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-alerta-temprana",
+    "span": "Sistemas de Alerta Temprana",
+    "start_char": 51,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:64:term-usage:761-768",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:alerta",
+    "span": "Alertas",
+    "start_char": 761,
+    "end_char": 768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:64:term-usage:842-871",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-alerta-temprana",
+    "span": "Sistemas de Alertas Tempranas",
+    "start_char": 842,
+    "end_char": 871
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:64:term-usage:1125-1132",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:alerta",
+    "span": "Alertas",
+    "start_char": 1125,
+    "end_char": 1132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:64:term-usage:1336-1342",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:alerta",
+    "span": "Alerta",
+    "start_char": 1336,
+    "end_char": 1342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:65:term-usage:22-49",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-alerta-temprana",
+    "span": "Sistemas de Alerta Temprana",
+    "start_char": 22,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:66:term-usage:210-231",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-monitoreo",
+    "span": "Sistemas de Monitoreo",
+    "start_char": 210,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:66:term-usage:234-263",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-alerta-temprana",
+    "span": "Sistemas de Alertas Tempranas",
+    "start_char": 234,
+    "end_char": 263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:66:term-usage:653-680",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-alerta-temprana",
+    "span": "Sistemas de Alerta Temprana",
+    "start_char": 653,
+    "end_char": 680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:66:term-usage:815-842",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-alerta-temprana",
+    "span": "Sistemas de Alerta Temprana",
+    "start_char": 815,
+    "end_char": 842
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:67:term-usage:78-105",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-alerta-temprana",
+    "span": "Sistemas de Alerta Temprana",
+    "start_char": 78,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:67:term-usage:108-129",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-monitoreo",
+    "span": "Sistemas de Monitoreo",
+    "start_char": 108,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:67:term-usage:241-262",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-monitoreo",
+    "span": "Sistemas de Monitoreo",
+    "start_char": 241,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:67:term-usage:268-295",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-alerta-temprana",
+    "span": "Sistemas de Alerta Temprana",
+    "start_char": 268,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:67:term-usage:586-593",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:alerta",
+    "span": "Alertas",
+    "start_char": 586,
+    "end_char": 593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:67:term-usage:626-632",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:alerta",
+    "span": "Alerta",
+    "start_char": 626,
+    "end_char": 632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:67:term-usage:854-881",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-alerta-temprana",
+    "span": "Sistemas de Alerta Temprana",
+    "start_char": 854,
+    "end_char": 881
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:67:term-usage:972-999",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-alerta-temprana",
+    "span": "Sistemas de Alerta Temprana",
+    "start_char": 972,
+    "end_char": 999
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:68:term-usage:198-204",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:alerta",
+    "span": "Alerta",
+    "start_char": 198,
+    "end_char": 204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:68:term-usage:224-251",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-alerta-temprana",
+    "span": "Sistemas de Alerta Temprana",
+    "start_char": 224,
+    "end_char": 251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:69:term-usage:201-228",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:69",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:sistemas-de-alerta-temprana",
+    "span": "Sistemas de Alerta Temprana",
+    "start_char": 201,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:71:term-usage:595-598",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 595,
+    "end_char": 598
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:71:term-usage:697-700",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 697,
+    "end_char": 700
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:71:term-usage:825-839",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoproteccion",
+    "span": "Autoprotección",
+    "start_char": 825,
+    "end_char": 839
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:71:term-usage:1111-1129",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:cuerpos-de-auxilio",
+    "span": "Cuerpos de Auxilio",
+    "start_char": 1111,
+    "end_char": 1129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:75:term-usage:210-224",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoproteccion",
+    "span": "Autoprotección",
+    "start_char": 210,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:76:term-usage:866-880",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoproteccion",
+    "span": "Autoprotección",
+    "start_char": 866,
+    "end_char": 880
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:76:term-usage:1515-1529",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoproteccion",
+    "span": "Autoprotección",
+    "start_char": 1515,
+    "end_char": 1529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:78:term-usage:183-193",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:incidente",
+    "span": "Incidentes",
+    "start_char": 183,
+    "end_char": 193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:80:term-usage:55-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 55,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:80:term-usage:532-551",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoridades-locales",
+    "span": "Autoridades Locales",
+    "start_char": 532,
+    "end_char": 551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:81:term-usage:206-209",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 206,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:86:term-usage:599-602",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 599,
+    "end_char": 602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:88:term-usage:115-118",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:88",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 115,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:91:term-usage:153-156",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:91",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 153,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:93:term-usage:306-333",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:cultura-de-proteccion-civil",
+    "span": "Cultura de Protección Civil",
+    "start_char": 306,
+    "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:93:term-usage:430-444",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoproteccion",
+    "span": "Autoprotección",
+    "start_char": 430,
+    "end_char": 444
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:94:term-usage:26-53",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:cultura-de-proteccion-civil",
+    "span": "Cultura de Protección Civil",
+    "start_char": 26,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:97:term-usage:24-51",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:97",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:grupos-de-primera-respuesta",
+    "span": "Grupos de Primera Respuesta",
+    "start_char": 24,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:97:term-usage:247-261",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:97",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoproteccion",
+    "span": "Autoprotección",
+    "start_char": 247,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:97:term-usage:264-275",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:97",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autocuidado",
+    "span": "Autocuidado",
+    "start_char": 264,
+    "end_char": 275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:98:term-usage:150-164",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:98",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoproteccion",
+    "span": "Autoprotección",
+    "start_char": 150,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:98:term-usage:167-178",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:98",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autocuidado",
+    "span": "Autocuidado",
+    "start_char": 167,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:99:term-usage:212-215",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 212,
+    "end_char": 215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:102:term-usage:134-137",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 134,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:107:term-usage:577-591",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:107",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoproteccion",
+    "span": "Autoprotección",
+    "start_char": 577,
+    "end_char": 591
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:109:term-usage:52-55",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 52,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:114:term-usage:190-193",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:114",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
+    "span": "Ley",
+    "start_char": 190,
+    "end_char": 193
+  }
+]

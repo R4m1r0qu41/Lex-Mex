@@ -1,0 +1,60 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "administration_ad4_proteccion_civil_misc",
+  "description": "AD4 civil-protection statute plus a small miscellany of unrelated federal statutes admitted from the prepared source inventory.",
+  "notes": [
+    "Normalized from prompts/cluster-2-batches/lex-mex-cl2-batch-AD4.json for the repository Rust ingestion gate.",
+    "All five prepared entries were absent from adapters, corpus/mx, and existing operational batch manifests when this manifest was created.",
+    "The prepared manifest's dof_publication/dof_last_reform fields are provenance context, not part of the operational batch-manifest schema, and are dropped here rather than smuggled in as unknown properties.",
+    "A live recheck of all five source_pdf URLs on 2026-08-01 returned HTTP 200 for each.",
+    "Instrument order is preserved from the prepared cluster-2 plan."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgpc",
+      "title": "LEY General de Protección Civil",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf"
+    },
+    {
+      "slug": "reg-lgpc",
+      "title": "REGLAMENTO de la Ley General de Protección Civil",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPC_091215.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPC_091215.pdf"
+    },
+    {
+      "slug": "lhheum",
+      "title": "LEY de los Husos Horarios en los Estados Unidos Mexicanos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lhheum.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf"
+    },
+    {
+      "slug": "ldvuma",
+      "title": "LEY para Determinar el Valor de la Unidad de Medida y Actualización",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldvuma.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDVUMA_301216.pdf"
+    },
+    {
+      "slug": "ldcpdch",
+      "title": "LEY para el Diálogo, la Conciliación y la Paz Digna en Chiapas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldcpdch.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/177.pdf"
+    }
+  ]
+}

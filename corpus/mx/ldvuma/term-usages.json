@@ -1,0 +1,74 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldvuma:article:3:term-usage:44-47",
+    "provision_id": "urn:lex-mx:federal:statute:ldvuma:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ldvuma:term:uma",
+    "span": "UMA",
+    "start_char": 44,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldvuma:article:4:term-usage:27-30",
+    "provision_id": "urn:lex-mx:federal:statute:ldvuma:article:4",
+    "term_id": "urn:lex-mx:federal:statute:ldvuma:term:uma",
+    "span": "UMA",
+    "start_char": 27,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldvuma:article:4:term-usage:76-81",
+    "provision_id": "urn:lex-mx:federal:statute:ldvuma:article:4",
+    "term_id": "urn:lex-mx:federal:statute:ldvuma:term:inegi",
+    "span": "INEGI",
+    "start_char": 76,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldvuma:article:4:term-usage:194-197",
+    "provision_id": "urn:lex-mx:federal:statute:ldvuma:article:4",
+    "term_id": "urn:lex-mx:federal:statute:ldvuma:term:uma",
+    "span": "UMA",
+    "start_char": 194,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldvuma:article:4:term-usage:457-460",
+    "provision_id": "urn:lex-mx:federal:statute:ldvuma:article:4",
+    "term_id": "urn:lex-mx:federal:statute:ldvuma:term:uma",
+    "span": "UMA",
+    "start_char": 457,
+    "end_char": 460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldvuma:article:4:term-usage:547-550",
+    "provision_id": "urn:lex-mx:federal:statute:ldvuma:article:4",
+    "term_id": "urn:lex-mx:federal:statute:ldvuma:term:uma",
+    "span": "UMA",
+    "start_char": 547,
+    "end_char": 550
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldvuma:article:5:term-usage:3-8",
+    "provision_id": "urn:lex-mx:federal:statute:ldvuma:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ldvuma:term:inegi",
+    "span": "INEGI",
+    "start_char": 3,
+    "end_char": 8
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldvuma:article:5:term-usage:177-180",
+    "provision_id": "urn:lex-mx:federal:statute:ldvuma:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ldvuma:term:uma",
+    "span": "UMA",
+    "start_char": 177,
+    "end_char": 180
+  }
+]

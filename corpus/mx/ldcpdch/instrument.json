@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:ldcpdch",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley para el Diálogo, la Conciliación y la Paz Digna en Chiapas",
+  "short_name": "LDCPDCH",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1995-03-11",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-08-01T17:15:19.862181Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/177.pdf",
+  "source_sha256": "d36aec42a42e48e3d457225ab337f67df31be47f04fd896068aba67cf669883a",
+  "extracted_text_sha256": "1348798d9f20a5deb49371c74ebdff8d859c272ed6d1ec455ce75ea951762dd0",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

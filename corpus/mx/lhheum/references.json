@@ -1,0 +1,105 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lhheum:article:3:reference:322-324:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lhheum:article:3",
+    "source_span": "II",
+    "start_char": 322,
+    "end_char": 324,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lhheum",
+    "target_provision_id": "urn:lex-mx:federal:statute:lhheum:article:3",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 322,
+        "end_char": 324
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lhheum:article:3:reference:331-333:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lhheum:article:3",
+    "source_span": "IV",
+    "start_char": 331,
+    "end_char": 333,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lhheum",
+    "target_provision_id": "urn:lex-mx:federal:statute:lhheum:article:3",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "IV",
+        "start_char": 331,
+        "end_char": 333
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lhheum:article:3:reference:336-337:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lhheum:article:3",
+    "source_span": "V",
+    "start_char": 336,
+    "end_char": 337,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lhheum",
+    "target_provision_id": "urn:lex-mx:federal:statute:lhheum:article:3",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "V",
+        "start_char": 336,
+        "end_char": 337
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lhheum:article:4:reference:144-161:3:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lhheum:article:4",
+    "source_span": "artículo anterior",
+    "start_char": 144,
+    "end_char": 161,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lhheum",
+    "target_provision_id": "urn:lex-mx:federal:statute:lhheum:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lhheum:transitory:cuarto:reference:369-371:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lhheum:transitory:cuarto",
+    "source_span": "89",
+    "start_char": 369,
+    "end_char": 371,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 345,
+        "end_char": 355
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

@@ -82,6 +82,12 @@ Verified against local `main` at `736146bd8`:
   mark that `extract_dof_publication`'s regex already handled; now both do.
   `reg-laat` resolves the entry `batches/labor_L1_labor.json` had left
   `blocked`. AD3's individual-ingestion checkpoint is complete.
+- AD4 has committed all five instruments (2026-08-01, `docs/decisions.md`
+  same date): `lgpc`, `reg-lgpc`, `lhheum`, `ldvuma`, `ldcpdch`, via
+  `batches/administration_ad4_proteccion_civil_misc.json`. All five ran
+  clean on the first pass at the default `allow_article_gaps: false` —
+  neither an ordinal-numbering review case nor a parser defect. AD4's
+  individual-ingestion checkpoint is complete, closing Domain AD.
 - Per-instrument counts, source and extracted-text hashes, and validation
   state are owned by each instrument's `corpus/mx/<slug>/validation.json` and
   `source-manifest.json` and are not restated here. The dated `Progress` log
@@ -100,11 +106,11 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-AD1–AD3 are closed. When general cluster-2 ingestion resumes, normalize AD4
-(`cl2_AD4_proteccion_civil_misc`, the next batch per
-`prompts/lex-mex-federal-cluster-2-plan.md`'s admission order) into an
-operational manifest and provisionally process its first instrument. The
-separately authorized five-NOM Maximasa sequence does not
+AD1–AD4 are closed, closing Domain AD. When general cluster-2 ingestion
+resumes, normalize TX1 (`cl2_TX1_sat_procedimiento`, opening Domain TX, the
+next batch per `prompts/lex-mex-federal-cluster-2-plan.md`'s admission
+order) into an operational manifest and provisionally process its first
+instrument. The separately authorized five-NOM Maximasa sequence does not
 reorder the prepared federal batches. Corpus-wide relinking and human
 expected-edge review remain separate work.
 
@@ -186,6 +192,14 @@ expected-edge review remain separate work.
   with new fixture `reform-ordinal-first-day-publication-sample.txt`.
   `reg-laat` resolves the entry `batches/labor_L1_labor.json` had left
   blocked. Full workspace gate (149 tests) and batch closure passed.
+  `docs/decisions.md` 2026-08-01.
+- [x] (2026-08-01) Normalized and completed AD4 by ingesting and committing
+  `lgpc`, `reg-lgpc`, `lhheum`, `ldvuma`, `ldcpdch`: 233 articles, 29
+  original transitories, 50 references, all resolved, zero validation
+  errors across all five. All five ran clean on the first pass at the
+  default `allow_article_gaps: false` — the first AD batch with neither an
+  ordinal-numbering review case nor a parser defect. Full workspace gate
+  (149 tests) and batch closure passed. Closes Domain AD.
   `docs/decisions.md` 2026-08-01.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
@@ -620,9 +634,10 @@ instrument-scoped source boundaries and aliases while preserving stable
 evidence IDs and canonical source text.
 Historical enactment-signature cleanup and corpus-wide relinking remain
 explicitly separate work; `archive/fable-cross-linking` preserves the divergent
-history for bounded reapplication rather than a future merge. AD1, AD2, and
-AD3 are complete through `reg-laat`; AD4 is next, and corpus-wide closure
-remains deferred until the broader cluster target set is admitted.
+history for bounded reapplication rather than a future merge. AD1 through
+AD4 are complete through `ldcpdch`, closing Domain AD; TX1 is next, and
+corpus-wide closure remains deferred until the broader cluster target set
+is admitted.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 

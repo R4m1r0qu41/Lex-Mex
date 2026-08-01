@@ -1,0 +1,35 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldvuma:term:indice-nacional-de-precios-al-consumidor",
+    "term": "Índice Nacional de Precios al Consumidor",
+    "instrument_id": "urn:lex-mx:federal:statute:ldvuma",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldvuma:article:2",
+    "fraction": "I",
+    "start_char": 68,
+    "end_char": 315,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldvuma:term:inegi",
+    "term": "INEGI",
+    "instrument_id": "urn:lex-mx:federal:statute:ldvuma",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldvuma:article:2",
+    "fraction": "II",
+    "start_char": 315,
+    "end_char": 379,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldvuma:term:uma",
+    "term": "UMA",
+    "instrument_id": "urn:lex-mx:federal:statute:ldvuma",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldvuma:article:2",
+    "fraction": "III",
+    "start_char": 379,
+    "end_char": 723,
+    "basis": "express_definition"
+  }
+]
