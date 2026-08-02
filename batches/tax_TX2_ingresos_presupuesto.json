@@ -8,7 +8,7 @@
     "The prepared manifest's dof_publication/dof_last_reform fields are provenance context, not part of the operational batch-manifest schema, and are dropped here rather than smuggled in as unknown properties.",
     "A live recheck of all four source_pdf URLs on 2026-08-01 returned HTTP 200 for each.",
     "lif-2026 and pef-2026 stay explicitly blocked per the prepared source: both are annual fiscal-year instruments that expire with FY2026, and their temporal-model treatment needs reviewer confirmation before fetch. Already carried as explicit deferrals in docs/project-status.md.",
-    "lcmopfih is held out per the ingestion-difficulty-log.md hold-out-and-flag policy (nested-law-in-enacting-article): its source PDF enacts an entire distinct law verbatim inside one article of an unrelated 1990 omnibus decree, and the parser currently captures only that wrapper article rather than the nested law's real 15 articles. See docs/ingestion-difficulty-log.md for the full report.",
+    "lcmopfih is held out per the ingestion-difficulty-log.md hold-out-and-flag policy (nested-law-in-enacting-article): its source PDF enacts an entire distinct law verbatim inside one article of an unrelated 1990 instrument that is itself formally titled and enacted as a Ley despite being materially a reform decree, and the parser currently captures only that wrapper article rather than the nested law's real 15 articles plus its own closing transitorios (distinct from the enclosing instrument's own, separate closing transitorios). See docs/ingestion-difficulty-log.md for the full report.",
     "Instrument order is preserved from the prepared cluster-2 plan."
   ],
   "blocked": [
@@ -25,7 +25,7 @@
     {
       "slug": "lcmopfih",
       "title": "LEY de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica",
-      "reason": "Held out per docs/ingestion-difficulty-log.md: nested-law-in-enacting-article. The real law's 15 articles are enacted verbatim inside a single article of an unrelated 1990 omnibus decree; the parser only captures the wrapper article."
+      "reason": "Held out per docs/ingestion-difficulty-log.md: nested-law-in-enacting-article. The real law's 15 articles and its own closing transitorios are enacted verbatim inside a single article of an unrelated 1990 instrument formally enacted as a Ley despite being materially a reform decree; that instrument closes with its own, separate transitorios too. The parser only captures the wrapper article."
     }
   ],
   "instruments": [

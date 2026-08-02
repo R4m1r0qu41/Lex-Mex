@@ -7,14 +7,14 @@
     "All three prepared entries were absent from adapters, corpus/mx, and existing operational batch manifests when this manifest was created.",
     "The prepared manifest's dof_publication/dof_last_reform fields are provenance context, not part of the operational batch-manifest schema, and are dropped here rather than smuggled in as unknown properties.",
     "A live recheck of all three source_pdf URLs on 2026-08-01 returned HTTP 200 for each.",
-    "lisipl is held out per the ingestion-difficulty-log.md hold-out-and-flag policy (nested-law-in-enacting-article, second instance after TX2's lcmopfih): its source PDF's real body is enacted inside ARTICULO NOVENO of an unrelated 1968 omnibus decree, with the decree's other articles elided; the decree's own numbering also resumes afterward, interleaved with the nested law's TRANSITORIOS. See docs/ingestion-difficulty-log.md for the full report.",
+    "lisipl is held out per the ingestion-difficulty-log.md hold-out-and-flag policy (nested-law-in-enacting-article, second instance after TX2's lcmopfih): its source PDF's real content is enacted verbatim inside ARTICULO NOVENO of an unrelated 1968 instrument that is itself formally titled and enacted as a Ley despite being materially a reform decree, with that instrument's other articles elided. Simpler than lcmopfih: no dual-transitorios ambiguity, since the nested tax has no closing transitorios of its own and the document's single TRANSITORIOS section belongs unambiguously to the outer instrument. See docs/ingestion-difficulty-log.md for the full report.",
     "Instrument order is preserved from the prepared cluster-2 plan."
   ],
   "blocked": [
     {
       "slug": "lisipl",
       "title": "IMPUESTO sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos)",
-      "reason": "Held out per docs/ingestion-difficulty-log.md: nested-law-in-enacting-article. The real law's articles are enacted verbatim inside ARTICULO NOVENO of an unrelated 1968 omnibus decree, and the decree's own numbering resumes afterward around the nested law's own transitorios."
+      "reason": "Held out per docs/ingestion-difficulty-log.md: nested-law-in-enacting-article. The tax is enacted verbatim inside ARTICULO NOVENO of an unrelated 1968 instrument formally enacted as a Ley despite being materially a reform decree; the document's single TRANSITORIOS section belongs to that outer instrument, not to the nested tax."
     }
   ],
   "instruments": [

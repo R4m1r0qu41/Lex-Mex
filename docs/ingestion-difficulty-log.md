@@ -85,19 +85,42 @@ packet-based review policy.
   selected run covers a tiny fraction of the document
   (`nom-052-semarnat-2005`, 1.1%). This is the clause-side analogue of the
   índice/real-section ambiguity Scope 1 already solved for transitories.
-- `nested-law-in-enacting-article` — a Cámara consolidated PDF is not the
-  named law's own primary text at all: it is one article of an unrelated
-  omnibus decree that *enacts the named law verbatim as that article's
-  body*, with the omnibus decree's own other articles elided
-  (`ARTICULOS PRIMERO A VIGESIMO QUINTO.- ..........`). The parser
-  correctly extracts the wrapper article but has no notion of a
-  law-within-an-article boundary, so the nested law's own `ARTICULO
-  1o.-`, `2o.-`, ... numbering is absorbed as body text of the wrapper
-  article rather than split into its own addressable provisions. Same
-  underlying finding as `indice-selected-as-body`: `validation.json`
-  reports `valid: true` because it only checks the internal consistency
-  of whichever text got selected, never whether the selection matches
-  the instrument's real structure. See `lcmopfih` below.
+- `nested-law-in-enacting-article` (a "law nested within a law") — a
+  Cámara consolidated PDF is not the named law's own primary text: it is
+  one article of an unrelated *reform decree that is itself formally
+  titled and enacted as a "Ley"* rather than a "Decreto" — a legislative-
+  technique flaw specific to certain older (pre-1991 seen so far)
+  omnibus fiscal reforms, where the enacting instrument's own DOF title
+  begins "LEY QUE ESTABLECE, REFORMA, ADICIONA Y DEROGA ..." even though
+  materially it is a reform decree amending several unrelated laws
+  article by article. Buried inside it, one article *enacts an entirely
+  new, freestanding law verbatim as that article's body*
+  (`ARTICULO VIGESIMO SEXTO.- ... "LEY DE CONTRIBUCION DE MEJORAS ..."`),
+  distinguishable from the surrounding decree only by its own numbered
+  `ARTICULO 1o.-`, `2o.-`, ... form (the surrounding decree uses lettered
+  ordinals: PRIMERO, SEGUNDO, ... VIGESIMO SEXTO). Diputados' compilation
+  convention: file the consolidated text under the *new* law's enduring
+  name, elide the decree's other reform articles with
+  `ARTICULOS PRIMERO A VIGESIMO QUINTO.- ..........` (they're consolidated
+  under their own target laws elsewhere), keep only the creating article's
+  text plus whatever follows it. The parser correctly extracts the
+  wrapper article but has no notion of a law-within-an-article boundary,
+  so the nested law's own numbering is absorbed as body text rather than
+  split into its own addressable provisions. Same underlying finding as
+  `indice-selected-as-body`: `validation.json` reports `valid: true`
+  because it only checks the internal consistency of whichever text got
+  selected, never whether the selection matches the instrument's real
+  structure. **A second, harder wrinkle when the nested law has its own
+  closing `TRANSITORIOS`** (as `lcmopfih`'s does): the surrounding decree,
+  having continued past the nested law back to its own remaining reform
+  articles, *also* closes with its own `TRANSITORIOS` at the very end of
+  the document — two structurally identical-looking transitorios sections
+  belong to two different instruments (the nested law's own, and the
+  enclosing decree's), with nothing in the text itself flagging which is
+  which beyond position and the ellipsis convention around them. See
+  `lcmopfih` (has this wrinkle) and `lisipl` (does not — the nested
+  content has no transitorios of its own, only the enclosing decree's)
+  below.
 
 Add a new class here the first time it's seen; do not invent a class for a
 single one-off unless it plausibly recurs.
@@ -298,44 +321,77 @@ unlike the other three it was not blocked by `transitory-absorbs-annex`. See
 
 ### lcmopfih — nested-law-in-enacting-article — 2026-08-01
 
-What's difficult: the source PDF (`30.pdf`, Cámara de Diputados) is titled
-"LEY DE CONTRIBUCIÓN DE MEJORAS POR OBRAS PÚBLICAS FEDERALES DE
-INFRAESTRUCTURA HIDRÁULICA," but its actual text is not that law's own
-primary publication. It is `ARTICULO VIGESIMO SEXTO` (article 26, spelled
-out as an ordinal) of an unrelated 1990 omnibus decree — "LEY QUE
-ESTABLECE, REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES Y QUE
-REFORMA OTRAS LEYES FEDERALES." That decree's articles 1–25
-("ARTICULOS PRIMERO A VIGESIMO QUINTO.- ..........") are elided outright
-in the source text as not relevant to this consolidation; article 26 then
-enacts the real "Ley de Contribución de Mejoras..." verbatim as a
-block-quoted nested law, complete with its own internal numbering
-(`ARTICULO 1o.-` through `15.-`, then its own five transitorios
-`ARTICULO PRIMERO` through `QUINTO`).
+What's difficult, per the reviewer's own read of the source (recorded
+here nearly verbatim — this is legal analysis, not something to
+re-derive from the text alone): the source PDF (`30.pdf`, Cámara de
+Diputados) is filed under "LEY DE CONTRIBUCIÓN DE MEJORAS POR OBRAS
+PÚBLICAS FEDERALES DE INFRAESTRUCTURA HIDRÁULICA," but that law's actual
+primary text is nested inside an unrelated 1990 instrument formally
+titled and enacted as a **Ley**, not a Decreto — "LEY QUE ESTABLECE,
+REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES Y QUE REFORMA
+OTRAS LEYES FEDERALES." Materially this outer instrument is a reform
+decree (its `ARTICULO PRIMERO` alone reforms dozens of provisions of the
+Código Fiscal de la Federación, and it proceeds the same way through
+several more federal laws), but it was drafted and published *as a law*
+— a legislative-technique flaw, not a parsing ambiguity in the source
+itself. The outer instrument's articles 1–25
+("ARTICULOS PRIMERO A VIGESIMO QUINTO.- ..........") are elided in
+Diputados' consolidation since each is already consolidated under its
+own target law; `ARTICULO VIGESIMO SEXTO` is kept because it is where the
+outer instrument creates something genuinely new — the real "Ley de
+Contribución de Mejoras..." — enacted verbatim, block-quoted, with its
+own internal numbering (`ARTICULO 1o.-` through `15.-`, numeric ordinals,
+distinguishing it from the outer instrument's own lettered-ordinal
+numbering PRIMERO...VIGESIMO SEXTO). The nested law then closes with its
+own five transitorios (`ARTICULO PRIMERO` through `QUINTO`, block-quoted
+along with it). Diputados' elision then *resumes* — the outer instrument
+continues past Vigésimo Sexto to `ARTICULO TRIGESIMO TERCERO` reforming
+more unrelated laws (also elided) — and the *whole document* closes with
+the outer instrument's **own** separate `TRANSITORIOS` (eight articles,
+PRIMERO through OCTAVO — commencement dates, abrogations of unrelated
+decrees, temporary 1991 tax relief). So the document contains two
+transitorios sections belonging to two different instruments (the nested
+law's own, and the enclosing "Ley que establece..."'s own), with nothing
+in the text flagging which is which beyond position relative to the
+ellipses — not something the current parser, or a human skimming quickly,
+would separate correctly without exactly this reading.
 
 The parser correctly identifies `ARTICULO VIGESIMO SEXTO` as one article
-(number normalized to `26o`) and correctly finds the five transitorios via
-the `TRANSITORIOS` section header (independent of article-number tracking).
-But it has no concept of a law nested inside a single enacting article, so
-the nested law's own `ARTICULO 1o.-` ... `15.-` headings are absorbed as
-plain body text of article 26 rather than split into their own addressable
-provisions. Result: `provisions.json` has 1 article + 5 transitorios;
+(number normalized to `26o`) and correctly finds *a* five-article
+transitorios section via the `TRANSITORIOS` section header — it happens
+to land on the nested law's own five (`PRIMERO`–`QUINTO`), not the outer
+instrument's eight, purely because it's the first `TRANSITORIOS` heading
+encountered, not because it understood the distinction. It has no concept
+of a law nested inside a single enacting article at all, so the nested
+law's `ARTICULO 1o.-` ... `15.-` headings are absorbed as plain body text
+of article 26. Result: `provisions.json` has 1 article + 5 transitorios;
 `validation.json` reports `valid: true` with a single non-blocking
-`non_numeric_article` warning on article 26's `26o` suffix. This is the
-same underlying finding as `indice-selected-as-body` and
-`annex-form-numbering` above: the validator checks internal consistency of
-whichever text got selected, never whether the selection is structurally
-right. Confirmed directly, not assumed: the raw extracted text has 15
-occurrences of `ARTICULO N.-`/`ARTICULO N.o.-` between the nested law's
-opening quote and its own transitorios section (`grep -c` against the
-`pdftotext -layout` output of `30.pdf`).
+`non_numeric_article` warning on article 26's `26o` suffix. Same
+underlying finding as `indice-selected-as-body` and `annex-form-numbering`
+above: the validator checks internal consistency of whichever text got
+selected, never whether the selection is structurally right. Confirmed
+directly, not assumed: the raw extracted text has 15 occurrences of
+`ARTICULO N.-`/`ARTICULO N.o.-` between the nested law's opening quote and
+its own transitorios section, and a second, separate `TRANSITORIOS`
+heading with eight further articles at the very end of the document
+(`grep` against the `pdftotext -layout` output of `30.pdf`).
 
-What was tried: nothing beyond diagnosis — parsing a nested, independently-
-numbered law embedded inside a single article's body is an architecture
-question (where does the wrapper article's own text end and the nested
-law's provisions begin, and does the nested law get its own
-`instrument_id` or stay subordinate to `lcmopfih`'s), not a quick,
-obviously-correct fix, so it was held out per the 2026-07-28 policy rather
-than attempted on the spot mid-batch.
+What was tried: nothing beyond diagnosis — parsing a nested,
+independently-numbered law embedded inside a single article's body, with
+two distinct transitorios sections belonging to two different instruments,
+is an architecture question (where does the wrapper article's own text
+end and the nested law's provisions begin; does the nested law get its
+own `instrument_id` or stay subordinate to `lcmopfih`'s; how are the two
+transitorios sections attributed to their correct instrument), not a
+quick, obviously-correct fix, so it was held out per the 2026-07-28
+policy rather than attempted on the spot mid-batch.
+
+A genuine outlier, worth remembering rather than generalizing from: the
+reviewer has seen transitorios sections so large and complex they read
+like mini-laws in their own right, but never a law formally nested inside
+another law's enacting article before this instrument. Worth checking for
+again if it recurs, but not worth designing a general solution around
+until it does.
 
 Status: **held out, not ingested.** `batches/tax_TX2_ingresos_presupuesto.json`
 carries it under `blocked` rather than `instruments`. `docs/decisions.md`
@@ -343,31 +399,37 @@ carries it under `blocked` rather than `instruments`. `docs/decisions.md`
 
 ### lisipl — nested-law-in-enacting-article — 2026-08-01
 
-What's difficult: the same class as `lcmopfih` above, found the same day
-in the very next batch — confirming this is a recurring form, not a
-one-off. The source PDF (`79.pdf`, Cámara de Diputados, titled "IMPUESTO
-SOBRE SERVICIOS EXPRESAMENTE DECLARADOS DE INTERÉS PÚBLICO POR LEY...") is
-`ARTICULO NOVENO` of an unrelated 1968 omnibus decree — "LEY QUE
+What's difficult, per the reviewer's own read of the source (a simpler
+variant of `lcmopfih`'s, found the same day in the very next batch,
+confirming this is a recurring form and not a one-off): the source PDF
+(`79.pdf`, Cámara de Diputados, filed under "IMPUESTO SOBRE SERVICIOS
+EXPRESAMENTE DECLARADOS DE INTERÉS PÚBLICO POR LEY...") is `ARTICULO
+NOVENO` of an unrelated 1968 instrument, again formally titled and
+enacted as a Ley despite being materially a reform decree — "LEY QUE
 ESTABLECE, REFORMA Y ADICIONA LAS DISPOSICIONES RELATIVAS A DIVERSOS
-IMPUESTOS." The decree's articles Primero–Octavo are elided
-(`ARTICULOS PRIMERO A OCTAVO.- ..........`); article Noveno then enacts
-the real law verbatim, block-quoted, with its own `ARTICULO 1o.-` through
-`7o.-` numbering. This instance is structurally messier than `lcmopfih`:
-after the nested law's `ARTICULO 7o.-`, the text hits
-`ARTICULO DECIMO.- ..........` (another elision of the outer decree), then
-the outer decree's own numbering *resumes* (`ARTICULO TERCERO`, `CUARTO`,
-`SEXTO`, `SEPTIMO`) — these are the outer decree's transitorios/closing
-provisions, interleaved with, not merely adjacent to, the nested law's own
-content. The parser extracted 1 article (the `ARTICULO NOVENO` wrapper)
-and 0 transitorios, confirmed by direct inspection of the `pdftotext
--layout` output (`grep -n` for `ARTICULO` forms shows exactly this
-7-article nested law plus the outer decree's resumed numbering).
+IMPUESTOS." Unlike `lcmopfih`, the nested content here is not itself a
+new *law* with its own numbering restart and its own closing
+transitorios — it is a standalone *tax* the outer instrument creates and
+that survives as the only part of the 1968 instrument still needing its
+own document (everything else it touched has been superseded or
+consolidated elsewhere). The outer instrument's articles Primero–Octavo
+are elided (`ARTICULOS PRIMERO A OCTAVO.- ..........`); article Noveno
+then enacts the tax verbatim, block-quoted, with its own `ARTICULO 1o.-`
+through `7o.-` numbering; the elision resumes afterward
+(`ARTICULO DECIMO.- ..........`), and the document closes with a single
+`TRANSITORIOS` section belonging unambiguously to the outer instrument as
+a whole (`ARTICULO TERCERO`, `CUARTO`, `SEXTO`, `SEPTIMO` are that
+section's ordinal-lettered provisions, not a second nested law's own —
+there is no dual-transitorios ambiguity here, which makes this instance
+structurally *simpler* than `lcmopfih`, not messier). The parser extracted
+1 article (the `ARTICULO NOVENO` wrapper) and 0 transitorios, confirmed by
+direct inspection of the `pdftotext -layout` output.
 
 What was tried: nothing beyond diagnosis, same reasoning as `lcmopfih` —
-this is an architecture question, not a quick fix, and the interleaving
-here is more complex (the outer decree doesn't just wrap the nested law,
-it continues *after* it), so it needs the same design work `lcmopfih`
-is waiting on, not a bespoke one-off patch.
+this is an architecture question (where the wrapper article's text ends
+and the nested tax's own provisions begin), not a quick fix, so it needs
+the same design work `lcmopfih` is waiting on rather than a bespoke
+one-off patch.
 
 Status: **held out, not ingested.** `batches/tax_TX3_impuestos_aduanas.json`
 carries it under `blocked` rather than `instruments`. `docs/decisions.md`
