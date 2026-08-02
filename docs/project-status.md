@@ -1,9 +1,9 @@
 # Lex-Mex Project Status
 
-- **Status date:** 2026-08-01
+- **Status date:** 2026-08-02
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed instruments:** 208 (176 federal corpus instruments plus 32 NOMs)
-- **Active ingestion batch:** `tax_TX3_impuestos_aduanas` — complete (2/3; `lisipl` held out)
+- **Committed instruments:** 212 (180 federal corpus instruments plus 32 NOMs)
+- **Active ingestion batch:** `financial_FI1_autoridades_pagos` — complete (4/5; `lcnbv` held out)
 - **Next checkpoint:** normalize and admit the next prepared cluster-2 batch
 - **Current legal reviewer:** JRH
 
@@ -23,18 +23,18 @@ Current committed-corpus totals:
 
 | Artifact | Count |
 |---|---:|
-| Instruments | 208 |
-| Articles | 36,024 |
-| Original transitory provisions | 1,388 |
+| Instruments | 212 |
+| Articles | 36,132 |
+| Original transitory provisions | 1,414 |
 | Annexes | 29 |
 | Standard clauses | 3,885 |
 | Standard transitory provisions | 100 |
 | Standard post-transitory supplements | 78 |
-| Reference edges | 18,278 |
+| Reference edges | 18,361 |
 | Unresolved reference edges | 0 |
-| Generated Markdown files | 37,617 |
+| Generated Markdown files | 37,755 |
 
-All 208 `validation.json` reports are valid. They contain 289 non-blocking
+All 212 `validation.json` reports are valid. They contain 289 non-blocking
 warnings: 218 non-numeric/suffixed-article notices, 16 unfrozen count
 baselines, 35 represented supplements whose source states no explicit legal
 character, 8 article-gap notices, 3
@@ -69,23 +69,30 @@ distinct from `lif-2026`/`pef-2026`'s pre-existing reviewer-confirmation
 block. TX3 has added two of its three prepared instruments (`lfisan`,
 `reg-ladua`; `batches/tax_TX3_impuestos_aduanas.json`) — `lisipl` is held
 out for the same structural difficulty as `lcmopfih`, a second confirmed
-instance the same day. Together with the separate Maximasa federal-gap
-ingestion of `reg-csps`, the live corpus now contains 176 instruments.
+instance the same day, closing Domain TX. FI1 has added four of its five
+prepared instruments (`lsp`, `lmeum`, `lcmm`, `ltfccg`;
+`batches/financial_FI1_autoridades_pagos.json`), opening Domain FI —
+`lcnbv` is held out for a new failure class, a stale cross-reference to a
+provision of an already-committed instrument that has since been
+repealed (see below). Together with the separate Maximasa federal-gap
+ingestion of `reg-csps`, the live corpus now contains 180 instruments.
 
 The cluster-2 first pass contains 326 instruments in 53 batches. Its state is:
 
 | State | Batches | Instruments |
 |---|---:|---:|
 | Structurally closed (CN1, CN2) | 2 | 16 |
-| Structurally complete (AD1–AD4, TX1–TX3) | 7 | 31 |
-| Prepared, not yet admitted | 44 | 274 |
-| Explicitly blocked or held out | 2 | 5 |
+| Structurally complete (AD1–AD4, TX1–TX3, FI1) | 8 | 35 |
+| Prepared, not yet admitted | 43 | 269 |
+| Explicitly blocked or held out | 3 | 6 |
 
-The remaining prepared cluster-2 workload is 274 instruments. `egdf`,
+The remaining prepared cluster-2 workload is 269 instruments. `egdf`,
 `lif-2026`, and `pef-2026` remain explicit deferrals pending reviewer
 direction; `lcmopfih` and `lisipl` are held out per
 `docs/ingestion-difficulty-log.md`'s `nested-law-in-enacting-article`
-class. None of the five are silently treated as complete.
+class, and `lcnbv` is held out per that same log's newly added
+`stale-cross-reference-to-repealed-provision` class. None of the six are
+silently treated as complete.
 
 The separate Maximasa standards sequence added NOM-251-SSA1-2009,
 NOM-247-SSA1-2008, NOM-051-SCFI-SSA1-2010, NOM-002-STPS-2010, and
@@ -284,7 +291,24 @@ enclosing instrument, unlike `lcmopfih`'s dual-transitorios ambiguity.
 Both admitted instruments
 validate clean and reverse-link with 0 unresolved references (54 new
 edges; 295 new articles, 13 new original transitories). Full finding:
-`docs/decisions.md` 2026-08-01.
+`docs/decisions.md` 2026-08-01. This closed Domain TX (TX1–TX3).
+
+**FI1 admitted, 2026-08-02, opening Domain FI.**
+`batches/financial_FI1_autoridades_pagos.json` added four of its five
+prepared instruments: `lsp`, `lmeum`, `lcmm`, `ltfccg` — all four hit the
+familiar `1o.`/`1º` ordinal case (twelfth through fifteenth confirmed
+instances); same reviewed `allow_article_gaps: true` fix, no parser
+change. `lcnbv` is held out: a new failure class,
+`stale-cross-reference-to-repealed-provision`. Its article 15 cites LMV's
+"artículo 16 Bis 7," verified absent from both LMV's committed corpus
+text and a fresh, independent refetch of LMV's current source PDF (which
+runs Artículo 16 straight to Artículo 17) — a real citation to a
+provision of an already-ingested instrument that has since been repealed
+or renumbered, not a wiring gap this batch can fix. `docs/decisions.md`
+2026-08-02 has the full finding; `docs/ingestion-difficulty-log.md` has
+the new class definition and `lcnbv`'s report. All four admitted
+instruments validate clean and reverse-link with 0 unresolved references
+(83 new edges; 108 new articles, 26 new original transitories).
 
 The active plan is
 [`cluster-2-federal-corpus-ingestion.md`](plans/cluster-2-federal-corpus-ingestion.md).
@@ -339,18 +363,18 @@ record; ITF DCG transitory SÉPTIMO remains pending formal-boundary review.
 - `source-manifest.resulting_git_commit` still records the pre-ingestion HEAD;
 - live network/model flows remain integration-tested manually rather than in
   hermetic CI;
-- `lex-mex review-packets generate` (landed 2026-07-31) groups the 180
-  committed instruments that have a `batches/*.json` manifest into 35
+- `lex-mex review-packets generate` (landed 2026-07-31) groups the 186
+  committed instruments that have a `batches/*.json` manifest into 37
   packets for reviewer assignment; the 32 standards and the CNBV DCG family
   have no batch manifest and so are not yet covered by this mechanism.
 
 Next general cluster action: normalize the next prepared cluster-2 batch
-(TX3, `cl2_TX3_impuestos_aduanas`) into an operational manifest per the
+(FI2, `cl2_FI2_banca_desarrollo`) into an operational manifest per the
 cluster plan's admission order
 (`docs/plans/cluster-2-federal-corpus-ingestion.md`). AD1–AD4 are
-structurally complete, closing Domain AD; TX1–TX2 have opened Domain TX.
-The separately authorized five-NOM Maximasa sequence does not reorder the
-prepared federal batches.
+structurally complete, closing Domain AD; TX1–TX3 closed Domain TX; FI1
+has opened Domain FI. The separately authorized five-NOM Maximasa
+sequence does not reorder the prepared federal batches.
 
 ## Archived divergent branches
 

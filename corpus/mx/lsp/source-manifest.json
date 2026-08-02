@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lsp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsp.htm",
+  "retrieved_at": "2026-08-02T07:39:11.418192Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 451761,
+  "etag": "\"6e4b1-644af808db4c0\"",
+  "last_modified": "Fri, 28 Nov 2025 22:53:47 GMT",
+  "source_sha256": "43eeef86db897e9d52872f6d4cf2d1b8168936e0b0ce8486e24aa9f9b8b87508",
+  "extracted_text_sha256": "627d9dc5cca528ec3c55b61a087970d92048d6d4b2f72ffe762618b7a93b7061",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "e7c816bc2e965ee6c7870dcb2e9f143dc910d721"
+}

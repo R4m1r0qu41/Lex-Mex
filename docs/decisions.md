@@ -1,5 +1,49 @@
 # Architecture decisions
 
+## 2026-08-02 — FI1 admitted, opening Domain FI; a new hold-out class (stale cross-reference to a repealed provision)
+
+TX1–TX3 closed Domain TX; FI1 (`batches/financial_FI1_autoridades_pagos.json`,
+normalized from `prompts/cluster-2-batches/lex-mex-cl2-batch-FI1.json`)
+opens Domain FI (financiero, segunda ola), adding `lsp`, `lmeum`, `lcmm`,
+`ltfccg` — four of the five prepared entries.
+
+**Twelfth through fifteenth confirmed hits of the `1o.`/`1º` ordinal
+case**, all four admitted instruments. Same reviewed
+`allow_article_gaps: true` fix, no parser change — this is now the single
+most common review gate hit across the whole AD/TX/FI program (15 of the
+program's total instrument-level review cases).
+
+**`lcnbv` held out — a new failure class, not seen before this batch.**
+`lcnbv`'s article 15 cites "artículo 16 Bis 7 de la Ley del Mercado de
+Valores" (LMV) — a real citation in the source text, not a parser
+artifact. LMV is already committed to the corpus, but has no `16 Bis`
+series in either its committed `provisions.json` or a freshly, independently
+refetched `LMV.pdf` (current source runs `Artículo 16.-` straight to
+`Artículo 17.-`). So this is neither a wiring gap (the target instrument
+exists) nor a parsing gap in either instrument (both extract their real,
+current source text correctly) — `lcnbv` cites a provision of LMV that
+has since been repealed or renumbered, and the citing text was never
+updated. `validate_reference_target` fires `unresolved_internal_reference`
+exactly as the 2026-07-12 reference-graph rule intends (cross-instrument
+unresolved edges are emitted, not silently dropped, so a genuinely
+missing wiring target still fails validation) — but that rule was written
+for the wiring-gap case, not a verified dead citation to an already-
+ingested instrument's repealed provision. Resolving it by dropping the
+edge would extend the same-instrument "dangling link is dropped" rule to
+cross-instrument edges on a case-by-case, unreviewed basis; held out
+instead pending a reviewed disposition. New failure class
+`stale-cross-reference-to-repealed-provision` logged; full report
+`docs/ingestion-difficulty-log.md`.
+
+**Verification.** All four admitted FI1 instruments validate clean and
+reverse-link with 0 unresolved references (83 new edges; 108 new
+articles, 26 new original transitories). `all_committed_batch_manifests_deserialize`'s
+frozen counts updated again (36→37 manifests, 182→186 unique instrument
+slugs — `lsp`/`lmeum`/`lcmm`/`ltfccg` admitted, `lcnbv` in `blocked` not
+`instruments`). Full workspace gate: fmt clean, clippy clean, 152 tests
+(no new tests this batch — no parser change, an adapter-setting fix plus
+a hold-out).
+
 ## 2026-08-01 — TX3 admitted; eleventh `1o.` hit, one genuine article-gap, a second nested-law hold-out
 
 Continuing Domain TX after TX2. TX3

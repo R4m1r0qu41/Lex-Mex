@@ -104,6 +104,24 @@ Verified against local `main` at `736146bd8`:
   glossary fraction's placeholder text poisoning the whole glossary's
   delimiter, not just colliding two ids). TX1+TX2's individual-ingestion
   checkpoints are complete.
+- TX3 has committed two of three prepared instruments (2026-08-01,
+  `docs/decisions.md` same date): `lfisan`, `reg-ladua`, via
+  `batches/tax_TX3_impuestos_aduanas.json`, closing Domain TX. `lfisan`
+  hit the familiar `1o.`–`9o.` ordinal case (eleventh confirmed instance);
+  `reg-ladua` hit a distinct, genuine article-number gap (article 88's
+  numeral is absent from the source entirely). `lisipl` is held out
+  (`nested-law-in-enacting-article`, second instance after `lcmopfih`).
+  TX3's individual-ingestion checkpoint is complete.
+- FI1 has committed four of five prepared instruments (2026-08-02,
+  `docs/decisions.md` same date): `lsp`, `lmeum`, `lcmm`, `ltfccg`, via
+  `batches/financial_FI1_autoridades_pagos.json`, opening Domain FI. All
+  four hit the familiar `1o.`/`1º` ordinal case (twelfth through
+  fifteenth confirmed instances). `lcnbv` is held out for a new failure
+  class, `stale-cross-reference-to-repealed-provision`
+  (`docs/ingestion-difficulty-log.md`): a real citation to LMV's
+  "artículo 16 Bis 7," a provision confirmed absent from LMV's current
+  committed text and from a freshly refetched LMV.pdf. FI1's
+  individual-ingestion checkpoint is complete.
 - Per-instrument counts, source and extracted-text hashes, and validation
   state are owned by each instrument's `corpus/mx/<slug>/validation.json` and
   `source-manifest.json` and are not restated here. The dated `Progress` log
@@ -122,14 +140,16 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-AD1–AD4 and TX1–TX3 are closed, closing Domain TX. When general cluster-2
-ingestion resumes, normalize FI1 (`cl2_FI1_autoridades_pagos`, 5
-instruments — `lcnbv`, `lsp`, `lmeum`, `lcmm`, `ltfccg` — the next batch
-per `prompts/lex-mex-federal-cluster-2-plan.md`'s admission order, opening
-Domain FI) into an operational manifest and provisionally process its
-first instrument. The separately authorized five-NOM Maximasa sequence
-does not reorder the prepared federal batches. Corpus-wide relinking and
-human expected-edge review remain separate work.
+AD1–AD4, TX1–TX3, and FI1 are closed/admitted; FI1 opened Domain FI
+(`lcnbv` held out for `stale-cross-reference-to-repealed-provision`, a new
+class — `docs/ingestion-difficulty-log.md`). When general cluster-2
+ingestion resumes, normalize FI2 (`cl2_FI2_banca_desarrollo`, 6
+instruments, the next batch per
+`prompts/lex-mex-federal-cluster-2-plan.md`'s admission order) into an
+operational manifest and provisionally process its first instrument. The
+separately authorized five-NOM Maximasa sequence does not reorder the
+prepared federal batches. Corpus-wide relinking and human expected-edge
+review remain separate work.
 
 ## Progress
 
@@ -673,9 +693,10 @@ history for bounded reapplication rather than a future merge. AD1 through
 AD4 are complete through `ldcpdch`, closing Domain AD; TX1 through TX3 are
 complete through `reg-ladua`, closing Domain TX (`lcmopfih`/`lisipl` held
 out for `nested-law-in-enacting-article`, `lif-2026`/`pef-2026` blocked);
-FI1 (`cl2_FI1_autoridades_pagos`), opening Domain FI, is next, and
-corpus-wide closure remains deferred until the broader cluster target set
-is admitted.
+FI1 is complete through `ltfccg`, opening Domain FI (`lcnbv` held out for
+the newly logged `stale-cross-reference-to-repealed-provision` class).
+FI2 (`cl2_FI2_banca_desarrollo`) is next, and corpus-wide closure remains
+deferred until the broader cluster target set is admitted.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:ltfccg",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado",
+  "short_name": "LTFCCG",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2002-12-30",
+  "latest_reform_date": "2014-01-10",
+  "retrieved_at": "2026-08-02T07:39:23.684837Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf",
+  "source_sha256": "1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3",
+  "extracted_text_sha256": "3a0c7e582c3badb84abbc38258bc64befe564e056829bb82b10f3818995e89f9",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

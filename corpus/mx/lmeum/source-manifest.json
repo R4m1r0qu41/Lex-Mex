@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lmeum",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMEUM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmeum.htm",
+  "retrieved_at": "2026-08-02T07:39:16.000863Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 648894,
+  "etag": "\"9e6be-64b46eb9d1c40\"",
+  "last_modified": "Fri, 20 Feb 2026 20:03:53 GMT",
+  "source_sha256": "0ba3f805964135cf2eac4cd05888a7c63c4c116657f25039d3d93af9102264be",
+  "extracted_text_sha256": "e6f19acdd9b96c2d71854a17c7dcf1b27e59224e110f0f40d677ae94cd551631",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "e7c816bc2e965ee6c7870dcb2e9f143dc910d721"
+}

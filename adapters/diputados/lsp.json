@@ -1,0 +1,22 @@
+{
+  "slug": "lsp",
+  "instrument_id": "urn:lex-mx:federal:statute:lsp",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Sistemas de Pagos",
+  "short_name": "LSP",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsp.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2002-12-12",
+  "expected_articles": 44,
+  "expected_transitories": 4,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-08-02T07:39:13Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

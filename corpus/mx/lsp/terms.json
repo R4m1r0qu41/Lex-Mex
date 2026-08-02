@@ -1,0 +1,90 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsp:term:administrador-del-sistema",
+    "term": "Administrador del Sistema",
+    "instrument_id": "urn:lex-mx:federal:statute:lsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
+    "fraction": "I",
+    "start_char": 45,
+    "end_char": 354,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsp:term:compensacion",
+    "term": "Compensación",
+    "instrument_id": "urn:lex-mx:federal:statute:lsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
+    "fraction": "II",
+    "start_char": 354,
+    "end_char": 731,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsp:term:liquidacion",
+    "term": "Liquidación",
+    "instrument_id": "urn:lex-mx:federal:statute:lsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
+    "fraction": "III",
+    "start_char": 731,
+    "end_char": 1054,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsp:term:normas-internas",
+    "term": "Normas Internas",
+    "instrument_id": "urn:lex-mx:federal:statute:lsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
+    "fraction": "IV",
+    "start_char": 1054,
+    "end_char": 1347,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsp:term:orden-de-transferencia",
+    "term": "Orden de Transferencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
+    "fraction": "V",
+    "start_char": 1347,
+    "end_char": 1911,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsp:term:orden-de-transferencia-aceptada",
+    "term": "Orden de Transferencia Aceptada",
+    "instrument_id": "urn:lex-mx:federal:statute:lsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
+    "fraction": "VI",
+    "start_char": 1911,
+    "end_char": 2258,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsp:term:participante",
+    "term": "Participante",
+    "instrument_id": "urn:lex-mx:federal:statute:lsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
+    "fraction": "VII",
+    "start_char": 2258,
+    "end_char": 2529,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsp:term:sistema-de-pagos",
+    "term": "Sistema de Pagos",
+    "instrument_id": "urn:lex-mx:federal:statute:lsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
+    "fraction": "VIII",
+    "start_char": 2529,
+    "end_char": 3118,
+    "basis": "express_definition"
+  }
+]

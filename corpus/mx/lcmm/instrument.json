@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lcmm",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de la Casa de Moneda de México",
+  "short_name": "LCMM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1986-01-20",
+  "latest_reform_date": "2022-05-11",
+  "retrieved_at": "2026-08-02T07:39:19.892274Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCMM.pdf",
+  "source_sha256": "873553817446789f00863e9cbc4a25bfbbf762cafa2dafd504577eb897796954",
+  "extracted_text_sha256": "e583a6588efd3672b45425ea86ffce8b8be1f39a348e9e0f05202429522f8df4",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

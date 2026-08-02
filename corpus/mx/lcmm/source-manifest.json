@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lcmm",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCMM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcmm.htm",
+  "retrieved_at": "2026-08-02T07:39:19.892274Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 348880,
+  "etag": "\"552d0-5e08126fbea40\"",
+  "last_modified": "Fri, 03 Jun 2022 01:36:33 GMT",
+  "source_sha256": "873553817446789f00863e9cbc4a25bfbbf762cafa2dafd504577eb897796954",
+  "extracted_text_sha256": "e583a6588efd3672b45425ea86ffce8b8be1f39a348e9e0f05202429522f8df4",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "e7c816bc2e965ee6c7870dcb2e9f143dc910d721"
+}

@@ -121,6 +121,27 @@ packet-based review policy.
   `lcmopfih` (has this wrinkle) and `lisipl` (does not — the nested
   content has no transitorios of its own, only the enclosing decree's)
   below.
+- `stale-cross-reference-to-repealed-provision` — an instrument's source
+  text cites a specific article of another, already-ingested and
+  currently-committed instrument, but the cited provision no longer
+  exists in that target instrument's current (vigente) text — the citing
+  law was never updated after the target law repealed or renumbered the
+  provision it once pointed to. `crates/lex-parse/src/lib.rs`'s
+  `validate_reference_target` deliberately does not distinguish this from
+  an ordinary wiring gap (a cross-instrument target not yet ingested):
+  both surface as the same `unresolved_internal_reference` error, by the
+  explicit 2026-07-12 reference-graph rule that cross-instrument
+  unresolved edges are emitted rather than silently dropped, specifically
+  so a genuinely missing wiring target still fails validation
+  (`docs/decisions.md` "Reference-graph rules for bulk código ingestion").
+  That rule was written with the wiring-gap case in mind; a verified dead
+  citation to a since-repealed provision of an already-committed
+  instrument is a different, later-discovered case the rule doesn't yet
+  have a distinct disposition for — dropping the edge here would be the
+  same "internal dangling link" treatment already given same-instrument
+  citations, but making that call unilaterally, instrument by instrument,
+  would be a corpus-wide policy change smuggled in through one ingestion.
+  Held out rather than resolved on the spot. See `lcnbv` below.
 
 Add a new class here the first time it's seen; do not invent a class for a
 single one-off unless it plausibly recurs.
@@ -434,3 +455,45 @@ one-off patch.
 Status: **held out, not ingested.** `batches/tax_TX3_impuestos_aduanas.json`
 carries it under `blocked` rather than `instruments`. `docs/decisions.md`
 2026-08-01 has the batch-level note.
+
+### lcnbv — stale-cross-reference-to-repealed-provision — 2026-08-02
+
+What's difficult: `lcnbv`'s article 15 cites "por el artículo 16 Bis 7 de
+la Ley del Mercado de Valores" (LMV) — a real, deliberate citation in the
+source PDF, not a parser artifact. LMV has been committed to the corpus
+since an earlier batch. Checked directly: LMV's committed
+`provisions.json` has no `article:16-bis*` entries at all, and a fresh,
+independent refetch of `https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf`
+confirms the current source text itself has no `16 Bis` series — LMV's
+`pdftotext -layout` output runs `Artículo 16.-` straight to `Artículo
+17.-`. So this is not a wiring gap (LMV is ingested) and not a parsing gap
+in either instrument (both extract their real, current source text
+correctly) — `lcnbv` is citing a provision of LMV that has since been
+repealed or renumbered, and the citing text was never updated to match.
+`validate_reference_target` (`crates/lex-parse/src/lib.rs`) fires
+`unresolved_internal_reference` on the cross-instrument edge exactly as
+designed: the 2026-07-12 reference-graph rule deliberately keeps
+cross-instrument unresolved edges (rather than silently dropping them,
+the treatment already given same-instrument dangling links) so that a
+genuinely missing wiring target still fails validation. This citation
+just isn't the case that rule was written for.
+
+What was tried: nothing beyond diagnosis and verification. Dropping the
+single reference edge (the same treatment same-instrument dangling links
+already get) would resolve `lcnbv` cleanly, but doing so here would mean
+deciding, instrument by instrument and without review, that "target
+instrument exists but cited provision doesn't" should be silently
+resolved the same way as "target instrument not yet ingested" — a
+corpus-wide reference-graph policy question, not a one-off fix. Left for
+a reviewed decision instead: keep failing validation and hold out (status
+quo), extend `validate_reference_target` with a distinct, non-blocking
+code for this case (e.g. `stale_cross_reference`) once the pattern is
+seen again, or something else.
+
+Status: **held out, not ingested.**
+`batches/financial_FI1_autoridades_pagos.json` carries it under `blocked`
+rather than `instruments`. The other four FI1 instruments (`lsp`,
+`lmeum`, `lcmm`, `ltfccg`) all hit the familiar `1o.`/`1º`-style ordinal
+case (12th–15th confirmed instances across the AD/TX/FI program) and
+admitted clean via the reviewed `allow_article_gaps: true` adapter
+setting, no parser change.

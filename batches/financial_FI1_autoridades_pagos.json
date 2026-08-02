@@ -1,0 +1,58 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "financial_FI1_autoridades_pagos",
+  "description": "FI1 federal financial-authority and payment-systems statutes, opening Domain FI (financiero, segunda ola), admitted from the prepared source inventory.",
+  "notes": [
+    "Normalized from prompts/cluster-2-batches/lex-mex-cl2-batch-FI1.json for the repository Rust ingestion gate.",
+    "All five prepared entries were absent from adapters, corpus/mx, and existing operational batch manifests when this manifest was created.",
+    "The prepared manifest's dof_publication/dof_last_reform fields are provenance context, not part of the operational batch-manifest schema, and are dropped here rather than smuggled in as unknown properties.",
+    "A live recheck of all five source_pdf URLs on 2026-08-02 returned HTTP 200 for each.",
+    "Instrument order is preserved from the prepared cluster-2 plan.",
+    "lcnbv is held out: its article 15 cites 'artículo 16 Bis 7 de la Ley del Mercado de Valores' (LMV), a provision that no longer exists in LMV's current committed corpus text or in a freshly refetched LMV.pdf (LMV runs Artículo 16 straight to Artículo 17 with no Bis series) -- a stale cross-reference to a provision of another already-ingested law that has since been repealed or renumbered, not a wiring/ordering gap this batch can fix. See docs/ingestion-difficulty-log.md for the full report."
+  ],
+  "blocked": [
+    {
+      "slug": "lcnbv",
+      "title": "LEY de la Comisión Nacional Bancaria y de Valores",
+      "reason": "Held out per docs/ingestion-difficulty-log.md: stale-cross-reference-to-repealed-provision. Article 15 cites LMV's 'artículo 16 Bis 7', which does not exist in LMV's current corpus text; the reference-graph rule intentionally fails validation on an unresolved cross-instrument reference rather than silently dropping it, and dropping it here would be a corpus-wide policy change made unilaterally for one instrument."
+    }
+  ],
+  "instruments": [
+    {
+      "slug": "lsp",
+      "title": "LEY de Sistemas de Pagos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSP.pdf"
+    },
+    {
+      "slug": "lmeum",
+      "title": "LEY Monetaria de los Estados Unidos Mexicanos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmeum.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMEUM.pdf"
+    },
+    {
+      "slug": "lcmm",
+      "title": "LEY de la Casa de Moneda de México",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcmm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCMM.pdf"
+    },
+    {
+      "slug": "ltfccg",
+      "title": "LEY de Transparencia y de Fomento a la Competencia en el Crédito Garantizado",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf"
+    }
+  ]
+}

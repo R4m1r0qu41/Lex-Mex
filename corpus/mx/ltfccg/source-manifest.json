@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:ltfccg",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg.htm",
+  "retrieved_at": "2026-08-02T07:39:23.684837Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 353625,
+  "etag": "\"56559-576a2e2f46400\"",
+  "last_modified": "Mon, 24 Sep 2018 19:20:48 GMT",
+  "source_sha256": "1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3",
+  "extracted_text_sha256": "3a0c7e582c3badb84abbc38258bc64befe564e056829bb82b10f3818995e89f9",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "e7c816bc2e965ee6c7870dcb2e9f143dc910d721"
+}

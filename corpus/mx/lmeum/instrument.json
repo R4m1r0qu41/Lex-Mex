@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lmeum",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Monetaria de los Estados Unidos Mexicanos",
+  "short_name": "LMEUM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1931-07-27",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-08-02T07:39:16.000863Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMEUM.pdf",
+  "source_sha256": "0ba3f805964135cf2eac4cd05888a7c63c4c116657f25039d3d93af9102264be",
+  "extracted_text_sha256": "e6f19acdd9b96c2d71854a17c7dcf1b27e59224e110f0f40d677ae94cd551631",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

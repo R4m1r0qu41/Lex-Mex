@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lsp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Sistemas de Pagos",
+  "short_name": "LSP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2002-12-12",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-08-02T07:39:11.418192Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSP.pdf",
+  "source_sha256": "43eeef86db897e9d52872f6d4cf2d1b8168936e0b0ce8486e24aa9f9b8b87508",
+  "extracted_text_sha256": "627d9dc5cca528ec3c55b61a087970d92048d6d4b2f72ffe762618b7a93b7061",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}
