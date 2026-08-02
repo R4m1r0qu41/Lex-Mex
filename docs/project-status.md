@@ -256,7 +256,14 @@ broader Ley-heading variant (a bare law title, no "que reforma..."
 phrasing) deliberately left unfixed as too risky to pattern-match safely
 in the same pass. `lcmopfih` is held out
 (`nested-law-in-enacting-article`,
-`docs/ingestion-difficulty-log.md`); `lif-2026`/`pef-2026` stay blocked.
+`docs/ingestion-difficulty-log.md`): its real 15 articles and their own
+five closing transitorios are enacted verbatim inside a single article of
+an unrelated 1990 instrument that is itself formally titled and enacted
+as a *Ley* despite being materially a reform decree, and that enclosing
+instrument closes the whole document with its own, separate eight
+transitorios — two transitorios sections belonging to two different
+instruments, distinguishable only by position. `lif-2026`/`pef-2026` stay
+blocked.
 All three admitted instruments validate clean and reverse-link with 0
 unresolved references (587 new edges; 1,171 new articles, 24 new original
 transitories). Full finding: `docs/decisions.md` 2026-08-01.
@@ -270,9 +277,11 @@ repealed-fraction placeholder — resolved by the same reviewed
 `allow_article_gaps: true` adapter setting, no parser change; recorded
 separately from the ordinal class since the mechanism differs even though
 the fix is identical. `lisipl` is held out: a second confirmed instance
-of `nested-law-in-enacting-article` the same day, structurally messier
-than `lcmopfih` since the outer decree's own numbering resumes after the
-nested law rather than merely wrapping it. Both admitted instruments
+of `nested-law-in-enacting-article` the same day, in fact the simpler of
+the two cases — the nested tax has no closing transitorios of its own, so
+the document's single `TRANSITORIOS` section belongs unambiguously to the
+enclosing instrument, unlike `lcmopfih`'s dual-transitorios ambiguity.
+Both admitted instruments
 validate clean and reverse-link with 0 unresolved references (54 new
 edges; 295 new articles, 13 new original transitories). Full finding:
 `docs/decisions.md` 2026-08-01.

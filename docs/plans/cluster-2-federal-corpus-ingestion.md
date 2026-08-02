@@ -122,13 +122,14 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-AD1–AD4 and TX1–TX2 are closed. When general cluster-2 ingestion resumes,
-normalize TX3 (`cl2_TX3_impuestos_aduanas`, the next batch per
-`prompts/lex-mex-federal-cluster-2-plan.md`'s admission order) into an
-operational manifest and provisionally process its first instrument. The
-separately authorized five-NOM Maximasa sequence does not reorder the
-prepared federal batches. Corpus-wide relinking and human expected-edge
-review remain separate work.
+AD1–AD4 and TX1–TX3 are closed, closing Domain TX. When general cluster-2
+ingestion resumes, normalize FI1 (`cl2_FI1_autoridades_pagos`, 5
+instruments — `lcnbv`, `lsp`, `lmeum`, `lcmm`, `ltfccg` — the next batch
+per `prompts/lex-mex-federal-cluster-2-plan.md`'s admission order, opening
+Domain FI) into an operational manifest and provisionally process its
+first instrument. The separately authorized five-NOM Maximasa sequence
+does not reorder the prepared federal batches. Corpus-wide relinking and
+human expected-edge review remain separate work.
 
 ## Progress
 
@@ -669,10 +670,12 @@ evidence IDs and canonical source text.
 Historical enactment-signature cleanup and corpus-wide relinking remain
 explicitly separate work; `archive/fable-cross-linking` preserves the divergent
 history for bounded reapplication rather than a future merge. AD1 through
-AD4 are complete through `ldcpdch`, closing Domain AD; TX1 and TX2 are
-complete through `reg-lfprh`, opening Domain TX (`lcmopfih` held out,
-`lif-2026`/`pef-2026` blocked); TX3 is next, and corpus-wide closure
-remains deferred until the broader cluster target set is admitted.
+AD4 are complete through `ldcpdch`, closing Domain AD; TX1 through TX3 are
+complete through `reg-ladua`, closing Domain TX (`lcmopfih`/`lisipl` held
+out for `nested-law-in-enacting-article`, `lif-2026`/`pef-2026` blocked);
+FI1 (`cl2_FI1_autoridades_pagos`), opening Domain FI, is next, and
+corpus-wide closure remains deferred until the broader cluster target set
+is admitted.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 
