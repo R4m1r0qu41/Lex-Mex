@@ -1,10 +1,10 @@
 # Lex-Mex Project Status
 
-- **Status date:** 2026-08-05
+- **Status date:** 2026-08-06
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed instruments:** 218 (186 federal corpus instruments plus 32 NOMs)
-- **Active ingestion batch:** `financial_FI2_banca_desarrollo` — complete (6/6)
-- **Next checkpoint:** normalize and admit FI3 (`cl2_FI3_seguro_rural_convenios`)
+- **Committed instruments:** 226 (194 federal corpus instruments plus 32 NOMs)
+- **Active ingestion batch:** `financial_FI3_seguro_rural_convenios` — complete (8/8)
+- **Next checkpoint:** normalize and admit EC1 (`cl2_EC1_competencia_inversion`)
 - **Current legal reviewer:** JRH
 
 ## Current state
@@ -23,19 +23,19 @@ Current committed-corpus totals:
 
 | Artifact | Count |
 |---|---:|
-| Instruments | 218 |
-| Articles | 36,381 |
-| Original transitory provisions | 1,452 |
+| Instruments | 226 |
+| Articles | 36,718 |
+| Original transitory provisions | 1,475 |
 | Annexes | 29 |
 | Standard clauses | 3,885 |
 | Standard transitory provisions | 100 |
 | Standard post-transitory supplements | 78 |
-| Reference edges | 18,505 |
+| Reference edges | 18,615 |
 | Unresolved reference edges | 0 |
-| Generated Markdown files | 38,048 |
+| Generated Markdown files | 38,416 |
 
-All 218 `validation.json` reports are valid. They contain 292 non-blocking
-warnings: 221 non-numeric/suffixed-article notices, 16 unfrozen count
+All 226 `validation.json` reports are valid. They contain 309 non-blocking
+warnings: 238 non-numeric/suffixed-article notices, 16 unfrozen count
 baselines, 35 represented supplements whose source states no explicit legal
 character, 8 article-gap notices, 3
 warnings for official standard modifications not incorporated in the
@@ -76,20 +76,24 @@ prepared instruments (`lsp`, `lmeum`, `lcmm`, `ltfccg`;
 provision of an already-committed instrument that has since been
 repealed (see below). FI2 has added all six prepared development-bank laws
 (`lonf`, `loshf`, `lobb`, `lobnce`, `lobnosp`, `lobnefaa`;
-`batches/financial_FI2_banca_desarrollo.json`). Together with the separate
-Maximasa federal-gap ingestion of `reg-csps`, the live corpus now contains
-186 instruments.
+`batches/financial_FI2_banca_desarrollo.json`). FI3 has added all eight
+prepared rural-insurance, agricultural-guarantee, retirement-system, and
+development-convention instruments (`lfaar`, `lfgfaga`, `reg-lfgfaga`,
+`reg-lfif-art95`, `reg-lsar`, `lmccbdc`, `lccaif`, `lccbid`;
+`batches/financial_FI3_seguro_rural_convenios.json`). Together with the
+separate Maximasa federal-gap ingestion of `reg-csps`, the live corpus now
+contains 194 federal instruments.
 
 The cluster-2 first pass contains 326 instruments in 53 batches. Its state is:
 
 | State | Batches | Instruments |
 |---|---:|---:|
 | Structurally closed (CN1, CN2) | 2 | 16 |
-| Structurally complete (AD1–AD4, TX1–TX3, FI1–FI2) | 9 | 41 |
-| Prepared, not yet admitted | 42 | 263 |
+| Structurally complete (AD1–AD4, TX1–TX3, FI1–FI3) | 10 | 49 |
+| Prepared, not yet admitted | 41 | 255 |
 | Explicitly blocked or held out | 3 | 6 |
 
-The remaining prepared cluster-2 workload is 263 instruments. `egdf`,
+The remaining prepared cluster-2 workload is 255 instruments. `egdf`,
 `lif-2026`, and `pef-2026` remain explicit deferrals pending reviewer
 direction; `lcmopfih` and `lisipl` are held out per
 `docs/ingestion-difficulty-log.md`'s `nested-law-in-enacting-article`
@@ -326,6 +330,25 @@ code. The batch adds 249 articles, 38 original transitories, and 144 resolved
 references; all six validate with zero errors and bounded closure is clean.
 Full finding: `docs/decisions.md` 2026-08-05.
 
+**FI3 admitted, 2026-08-06.**
+`batches/financial_FI3_seguro_rural_convenios.json` added all eight prepared
+entries: `lfaar`, `lfgfaga`, `reg-lfgfaga`, `reg-lfif-art95`, `reg-lsar`,
+`lmccbdc`, `lccaif`, and `lccbid`. The batch adds 337 articles, 23 original
+transitories, 110 resolved references, 49 defined terms with 1,280 usages,
+and 52 reform-transitory evidence records. Exact adapter-scoped running-header
+and enactment-signature boundaries keep page furniture out of canonical text.
+The legacy `reg-lfif-art95` identity remains tied to the abrogated LFIF named
+by the official source; the corpus does not substitute LISF or infer the
+regulation's present legal effect. LFGFAGA also required one focused parser
+correction: the reform appendix's complete `LEY del Banco de México.` heading
+now resets the containing act before its 1993 transitories. A disposable
+before/after reparse found no existing provision or reference movement; LIC's
+matching evidence would be correctly reattributed on a separately reviewed
+future reparse, while CCF's pre-existing duplicate-evidence failure is
+unchanged. All eight validate, bounded closure is clean, and the full required
+gate passes with 154 workspace tests. Full finding: `docs/decisions.md`
+2026-08-06.
+
 The active plan is
 [`cluster-2-federal-corpus-ingestion.md`](plans/cluster-2-federal-corpus-ingestion.md).
 It is the authoritative source for batch order, source inventories, recovery,
@@ -379,18 +402,19 @@ record; ITF DCG transitory SÉPTIMO remains pending formal-boundary review.
 - `source-manifest.resulting_git_commit` still records the pre-ingestion HEAD;
 - live network/model flows remain integration-tested manually rather than in
   hermetic CI;
-- `lex-mex review-packets generate` (landed 2026-07-31) groups the 192
-  committed instruments that have a `batches/*.json` manifest into 38
+- `lex-mex review-packets generate` (landed 2026-07-31) groups the 200
+  committed instruments that have a `batches/*.json` manifest into 39
   packets for reviewer assignment; the 32 standards and the CNBV DCG family
   have no batch manifest and so are not yet covered by this mechanism.
 
 Next general cluster action: normalize the next prepared cluster-2 batch
-(FI3, `cl2_FI3_seguro_rural_convenios`) into an operational manifest per the
+(EC1, `cl2_EC1_competencia_inversion`) into an operational manifest per the
 cluster plan's admission order
 (`docs/plans/cluster-2-federal-corpus-ingestion.md`). AD1–AD4 are
-structurally complete, closing Domain AD; TX1–TX3 closed Domain TX; FI1 and
-FI2 have opened and continued Domain FI. The separately authorized five-NOM
-Maximasa sequence does not reorder the prepared federal batches.
+structurally complete, closing Domain AD; TX1–TX3 closed Domain TX; FI1–FI3
+opened, continued, and completed the prepared FI sequence. The separately
+authorized five-NOM Maximasa sequence does not reorder the prepared federal
+batches.
 
 ## Archived divergent branches
 

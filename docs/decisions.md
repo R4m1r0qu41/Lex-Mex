@@ -1,5 +1,59 @@
 # Architecture decisions
 
+## 2026-08-06 — FI3 admitted; preserve a legacy regulation identity and recognize the narrow `LEY del ...` reform heading
+
+FI3 (`batches/financial_FI3_seguro_rural_convenios.json`, normalized from
+`prompts/cluster-2-batches/lex-mex-cl2-batch-FI3.json`) completes the prepared
+Domain FI sequence and adds all eight entries: `lfaar`, `lfgfaga`,
+`reg-lfgfaga`, `reg-lfif-art95`, `reg-lsar`, `lmccbdc`, `lccaif`, and
+`lccbid`.
+
+**Preserve `reg-lfif-art95` as the official source identifies it.** The
+Cámara regulations index still lists the regulation as vigente, but its title
+and text expressly regulate Article 95 of the abrogated Ley Federal de
+Instituciones de Fianzas, which is absent from the committed corpus. The
+adapter and canonical identity therefore remain tied to LFIF. This ingestion
+does not substitute the current LISF, manufacture a parent-law reference, or
+infer whether the regulation continues to produce legal effects; those are
+legal-temporal conclusions outside structural admission.
+
+**Recognize only the confirmed bare-law-title form.** LFGFAGA's reform
+appendix places `LEY del Banco de México.` after a FE DE ERRATAS entry and
+before the Banco de México transitories. The former parser recognized only
+`LEY que ...`/`Ley que ...` reform-act headings, so it retained the preceding
+act identity and failed before canonical output. `is_reform_ley_heading` now
+also recognizes the exact publisher form `LEY del `, backed by a focused
+fixture that requires the 1993-12-23 Ley identity for PRIMERO and DECIMO
+OCTAVO. Broader bare titles such as `LEY de ...` and `LEY General ...` remain
+outside the rule; the earlier `ccom`/`lac` hold-out analysis is not silently
+broadened.
+
+The shared-parser blast radius was checked in a disposable detached worktree
+against every already-available extracted source containing the new prefix.
+LIC's provisions, references, terms, and counts remain byte-identical; only
+its reform evidence changes, correctly assigning the Banco de México
+transitories to the 1993-12-23 Ley and disambiguating the following same-day
+decree. LIC was not re-derived or recommitted in FI3; that evidence-only
+migration requires its own reviewed reparse. CCF continues to fail with its
+pre-existing duplicate 1975-12-30 evidence id before and after the change.
+
+**Adapter boundaries remain source-specific.** Exact wrapped-header lines
+remove Cámara page furniture from `reg-lfif-art95`, `lmccbdc`, `lccaif`, and
+`lccbid`; exact enactment-signature markers remove only post-provision
+apparatus and the associated spurious CPEUM Article 89 edges. The familiar
+`allow_article_gaps: true` setting is used only where the official labels
+switch from `1o.`/`1º` ordinals to cardinal numbering or include reviewed
+suffixes. Seventeen retained warnings are all expected ordinal-label notices
+(`reg-lfif-art95`: 7; `lmccbdc`: 10).
+
+**Verification.** The eight-instrument closure passed and adds 337 articles,
+23 original transitories, 110 resolved references, 49 defined terms with
+1,280 usages, and 52 reform-transitory evidence records. The frozen
+operational inventory advances from 38 to 39 manifests and from 192 to 200
+unique instrument slugs. Formatting, clippy with warnings denied, all 154
+workspace tests, and both audited baseline validators (`lritf`,
+`ifpe-dcg-2021`) passed.
+
 ## 2026-08-05 — FI2 admitted; five more ordinal-numbering hits and six reviewed enactment-signature boundaries
 
 FI2 (`batches/financial_FI2_banca_desarrollo.json`, normalized from

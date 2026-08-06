@@ -57,7 +57,7 @@ in `Current checkpoint` and `Progress`, not in this list.
 
 ## Current checkpoint
 
-Verified against local `main` at `35618fc90`:
+Verified against local `main` at `3f2c9690c`:
 
 - CN1 (`locg`, `reg-diputados`, `reg-senado`, `rgic`, `ldofgg`) and CN2 (10
   instruments) are committed and structurally closed; the CN2 reverse-link,
@@ -133,6 +133,16 @@ Verified against local `main` at `35618fc90`:
   enactment signature boundaries, removing one spurious CPEUM Article 89
   edge apiece without a parser change. FI2's individual-ingestion and
   bounded-closure checkpoints are complete.
+- FI3 has committed all eight prepared instruments at `3f2c9690c`
+  (2026-08-06, `docs/decisions.md` same date): `lfaar`, `lfgfaga`,
+  `reg-lfgfaga`, `reg-lfif-art95`, `reg-lsar`, `lmccbdc`, `lccaif`, and
+  `lccbid`, via `batches/financial_FI3_seguro_rural_convenios.json`. Exact
+  adapter-scoped running headers and enactment boundaries keep page furniture
+  outside canonical text; the legacy LFIF regulation remains identified by
+  its official source without substituting LISF or inferring legal effect.
+  LFGFAGA adds one focused shared-parser regression for the exact
+  `LEY del ...` reform-act heading form. FI3's individual-ingestion and
+  bounded-closure checkpoints are complete.
 - Per-instrument counts, source and extracted-text hashes, and validation
   state are owned by each instrument's `corpus/mx/<slug>/validation.json` and
   `source-manifest.json` and are not restated here. The dated `Progress` log
@@ -151,11 +161,12 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-AD1–AD4, TX1–TX3, and FI1–FI2 are closed/admitted; FI1 opened Domain FI
+AD1–AD4, TX1–TX3, and FI1–FI3 are closed/admitted; FI1 opened Domain FI
 (`lcnbv` held out for `stale-cross-reference-to-repealed-provision`, a new
-class — `docs/ingestion-difficulty-log.md`) and FI2 continued it with all six
-prepared entries admitted. When general cluster-2 ingestion resumes,
-normalize FI3 (`cl2_FI3_seguro_rural_convenios`, 8
+class — `docs/ingestion-difficulty-log.md`), FI2 continued it, and FI3
+completed the prepared FI sequence with all eight entries admitted. When
+general cluster-2 ingestion resumes, normalize EC1
+(`cl2_EC1_competencia_inversion`, 6
 instruments, the next batch per
 `prompts/lex-mex-federal-cluster-2-plan.md`'s admission order) into an
 operational manifest and provisionally process its first instrument. The
@@ -279,11 +290,37 @@ review remain separate work.
   The full required gate passed (152 workspace tests, formatting, clippy, and
   both audited baseline validators).
   `docs/decisions.md` 2026-08-05.
+- [x] (2026-08-06) Normalized and completed FI3 at `3f2c9690c` by ingesting
+  `lfaar`, `lfgfaga`, `reg-lfgfaga`, `reg-lfif-art95`, `reg-lsar`,
+  `lmccbdc`, `lccaif`, and `lccbid`: 337 articles, 23 original transitories,
+  110 references (all resolved), 49 defined terms with 1,280 usages, and 52
+  reform-transitory evidence records. Exact adapter-scoped header and
+  signature boundaries protect canonical text; `reg-lfif-art95` preserves
+  its legacy LFIF identity without a LISF substitution. LFGFAGA required one
+  focused parser fix for the exact `LEY del ...` reform-act heading. Bounded
+  eight-instrument closure passed; 17 retained warnings are reviewed ordinal
+  article labels. The full required gate passed (154 workspace tests,
+  formatting, clippy, and both audited baseline validators).
+  `docs/decisions.md` 2026-08-06.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
 ## Surprises and discoveries
 
+- Observation: a reform appendix can name its containing act with the complete
+  uppercase-name/lowercase-connector title `LEY del ...`, without any
+  `que reforma` phrase.
+  Evidence: LFGFAGA places `LEY del Banco de México.` between a FE DE ERRATAS
+  entry and the Banco de México transitories. The focused rule assigns those
+  records to the 1993-12-23 Ley. A disposable before/after reparse leaves
+  LIC's provisions and references byte-identical while correcting only the
+  matching evidence attribution; CCF's pre-existing duplicate-id failure is
+  unchanged. Broader `LEY de ...`/`LEY General ...` forms remain out of scope.
+- Observation: official index status and a regulation's named parent-law
+  identity must remain separate from structural admission.
+  Evidence: Cámara lists `reg-lfif-art95` vigente even though its title names
+  the abrogated LFIF. FI3 preserves that exact identity, does not substitute
+  LISF, and records no inferred legal-temporal conclusion.
 - Observation: all six FI2 development-bank consolidations place enactment
   signatures immediately after the final original transitory, while five of
   six also begin with `1o.`–`9o.` article labels.
@@ -446,6 +483,13 @@ review remain separate work.
 
 ## Decision log
 
+- Decision: preserve FI3's legacy LFIF regulation identity and recognize only
+  the exact `LEY del ` reform-act heading form in the shared parser.
+  Rationale: structural ingestion must reflect the official title and source,
+  not infer equivalence to LISF or current legal effect; the LFGFAGA heading
+  is a complete publisher-form law title whose narrow prefix is fixture-backed
+  and regression-checked, while broader bare-law patterns remain risky.
+  Date/author: 2026-08-06 / FI3 execution.
 - Decision: keep FI2's numbering and original-enactment boundaries in the six
   instrument adapters; do not broaden the shared parser or change the strict
   scaffold default.
@@ -736,9 +780,10 @@ out for `nested-law-in-enacting-article`, `lif-2026`/`pef-2026` blocked);
 FI1 is complete through `ltfccg`, opening Domain FI (`lcnbv` held out for
 the newly logged `stale-cross-reference-to-repealed-provision` class).
 FI2 is complete through `lobnefaa`, continuing Domain FI with all six
-prepared entries admitted. FI3 (`cl2_FI3_seguro_rural_convenios`) is next,
-and corpus-wide closure remains deferred until the broader cluster target set
-is admitted.
+prepared entries admitted. FI3 is complete through `lccbid`, completing the
+prepared Domain FI sequence with all eight entries admitted. EC1
+(`cl2_EC1_competencia_inversion`) is next, and corpus-wide closure remains
+deferred until the broader cluster target set is admitted.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 
