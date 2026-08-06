@@ -1,0 +1,84 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfgfaga:article:13:reference:134-135:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfgfaga:article:13",
+    "source_span": "3",
+    "start_char": 134,
+    "end_char": 135,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfgfaga",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfgfaga:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfgfaga:article:13:reference:448-450:10:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfgfaga:article:13",
+    "source_span": "10",
+    "start_char": 448,
+    "end_char": 450,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfgfaga",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfgfaga:article:10",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfgfaga:article:5:reference:45-46:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfgfaga:article:5",
+    "source_span": "3",
+    "start_char": 45,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfgfaga",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfgfaga:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfgfaga:article:8:reference:953-954:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfgfaga:article:8",
+    "source_span": "3",
+    "start_char": 953,
+    "end_char": 954,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfgfaga",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfgfaga:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfgfaga:transitory:primero:reference:196-197:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfgfaga:transitory:primero",
+    "source_span": "2",
+    "start_char": 196,
+    "end_char": 197,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfgfaga",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfgfaga:article:2",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 170,
+        "end_char": 182
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

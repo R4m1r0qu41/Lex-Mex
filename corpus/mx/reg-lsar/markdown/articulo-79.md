@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lsar:article:79
+instrument_id: urn:lex-mx:federal:regulation:reg-lsar
+instrument: REG-LSAR
+name: "Reglamento de la Ley de los Sistemas de Ahorro para el Retiro"
+provision_type: article
+number: "79"
+aliases: ["REG-LSAR — Artículo 79"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSAR.pdf
+source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
+---
+
+> Capítulo VIII
+
+# Artículo 79
+
+La entrega y retiro de los recursos de Fondos de Previsión Social se realizará de conformidad con lo que pacten las [Administradoras](articulo-2o.md) con las empresas privadas, o en su caso, las dependencias y entidades públicas, a la naturaleza del Fondo de Previsión Social, o en su caso, a lo dispuesto por el derecho común de cada entidad federativa considerando el domicilio del titular de la Cuenta de Fondos de Previsión Social.

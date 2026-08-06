@@ -1,0 +1,26 @@
+{
+  "slug": "reg-lfif-art95",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfif-art95",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "header_lines": [
+    "REGLAMENTO DEL ARTÍCULO 95 DE LA LEY FEDERAL DE INSTITUCIONES DE FIANZAS, PARA EL COBRO DE FIANZAS OTORGADAS A FAVOR DE LA FEDERACIÓN, DEL",
+    "DISTRITO FEDERAL, DE LOS ESTADOS Y DE LOS MUNICIPIOS, DISTINTAS DE LAS QUE GARANTIZAN OBLIGACIONES FISCALES FEDERALES A CARGO DE TERCEROS"
+  ],
+  "official_title": "Reglamento del Artículo 95 de la Ley Federal de Instituciones de Fianzas, para el Cobro de Fianzas Otorgadas a Favor de la Federación, del Distrito Federal, de los Estados y de los Municipios, Distintas de las que Garantizan Obligaciones Fiscales Federales a cargo de Terceros",
+  "short_name": "REG-LFIF-ART95",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFIF_Art95.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFIF_Art95.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1991-01-15",
+  "expected_articles": 7,
+  "expected_transitories": 3,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-08-06T16:55:52Z"
+  },
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

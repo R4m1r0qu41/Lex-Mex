@@ -1,0 +1,88 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "financial_FI3_seguro_rural_convenios",
+  "description": "FI3 federal rural-insurance, agricultural-guarantee, retirement-system, and development-convention instruments, continuing Domain FI (financiero, segunda ola), admitted from the prepared source inventory.",
+  "notes": [
+    "Normalized from prompts/cluster-2-batches/lex-mex-cl2-batch-FI3.json for the repository Rust ingestion gate.",
+    "All eight prepared entries were absent from adapters, corpus/mx, and existing operational batch manifests when this manifest was created.",
+    "The prepared manifest's dof_publication/dof_last_reform/note fields are provenance context, not part of the operational batch-manifest schema, and are dropped here rather than smuggled in as unknown properties.",
+    "A live recheck of all eight source_pdf URLs on 2026-08-06 returned HTTP 206 for each.",
+    "Instrument order is preserved from the prepared cluster-2 plan, including lfgfaga before its regulation.",
+    "reg-lfif-art95 remains listed vigente by the official Camara regulations index even though its named parent, the Ley Federal de Instituciones de Fianzas, is abrogated and absent from the committed corpus; this manifest does not substitute the current LISF or infer the regulation's legal effects."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lfaar",
+      "title": "LEY de Fondos de Aseguramiento Agropecuario y Rural",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfaar.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAAR.pdf"
+    },
+    {
+      "slug": "lfgfaga",
+      "title": "LEY que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfgfaga.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/192.pdf"
+    },
+    {
+      "slug": "reg-lfgfaga",
+      "title": "REGLAMENTO de la Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFGFAGA.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFGFAGA.pdf"
+    },
+    {
+      "slug": "reg-lfif-art95",
+      "title": "REGLAMENTO del Artículo 95 de la Ley Federal de Instituciones de Fianzas, para el Cobro de Fianzas Otorgadas a Favor de la Federación, del Distrito Federal, de los Estados y de los Municipios, Distintas de las que Garantizan Obligaciones Fiscales Federales a cargo de Terceros",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFIF_Art95.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFIF_Art95.pdf"
+    },
+    {
+      "slug": "reg-lsar",
+      "title": "REGLAMENTO de la Ley de los Sistemas de Ahorro para el Retiro",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSAR.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSAR.pdf"
+    },
+    {
+      "slug": "lmccbdc",
+      "title": "LEY que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmccbdc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/187_291214.pdf"
+    },
+    {
+      "slug": "lccaif",
+      "title": "LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lccaif.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCCAIF.pdf"
+    },
+    {
+      "slug": "lccbid",
+      "title": "LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lccbid.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/200_291214.pdf"
+    }
+  ]
+}

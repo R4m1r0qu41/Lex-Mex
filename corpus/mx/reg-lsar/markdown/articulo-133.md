@@ -1,0 +1,22 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lsar:article:133
+instrument_id: urn:lex-mx:federal:regulation:reg-lsar
+instrument: REG-LSAR
+name: "Reglamento de la Ley de los Sistemas de Ahorro para el Retiro"
+provision_type: article
+number: "133"
+aliases: ["REG-LSAR — Artículo 133"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSAR.pdf
+source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
+---
+
+> Capítulo XIII
+
+# Artículo 133
+
+Al inicio y durante el desarrollo de la visita de inspección, los inspectores o visitadores que en ella intervengan podrán requerir la información o documentación que estimen necesaria para la realización del objeto de la visita, dicho requerimiento deberá constar por escrito y será entregado al representante legal de la visitada o a la persona con quien se entienda la visita, para que en el plazo que se señale en dicho requerimiento sea entregada a los inspectores la información o documentación solicitadas.
+
+A petición de la parte interesada, la persona inspectora o visitadora puede ampliar el plazo para que la persona visitada entregue la información o documentación requerida, lo cual debe notificarse en términos de la fracción II del artículo 111 de la [Ley](articulo-2o.md). Párrafo reformado DOF 27-09-2024

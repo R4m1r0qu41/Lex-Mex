@@ -1,0 +1,22 @@
+[
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:amendment:2020-02-25:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2020-02-25",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:amendment:2020-02-25:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2020-02-25",
+    "text": "A partir de la entrada en vigor del presente Decreto se derogan todas las disposiciones que se opongan al mismo."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:amendment:2024-09-27:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2024-09-27",
+    "text": "El presente decreto entra en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de la adición de la fracción IV Bis al artículo 68 a que se refiere el presente decreto, que entrará en vigor una vez que la Comisión, mediante disposiciones de carácter general, establezca la regulación relativa al proceso de identificación de las Cuentas Individuales de los Trabajadores y de los Trabajadores no Afiliados que hayan fallecido."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:amendment:2024-09-27:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2024-09-27",
+    "text": "Se derogan todas las disposiciones administrativas que se opongan al presente decreto."
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lccaif",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCCAIF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lccaif.htm",
+  "retrieved_at": "2026-08-06T17:00:41.627643Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 345490,
+  "etag": "\"54592-6387436156ec0\"",
+  "last_modified": "Thu, 26 Jun 2025 07:07:15 GMT",
+  "source_sha256": "0cfd6d7820098b2fa0a6388cbf69fb010bc2816951a1c80c52245dadbecd4eda",
+  "extracted_text_sha256": "58cafc7fd9dd3e1faedae609c6f8f4093f56fc8b19d71de3400352547447d744",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "aef1490515aba1208d291b5b4dee74a900d2fcd7"
+}

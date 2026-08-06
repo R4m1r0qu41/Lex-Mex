@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfif-art95",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFIF_Art95.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFIF_Art95.pdf",
+  "retrieved_at": "2026-08-06T17:00:31.565771Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 105428,
+  "etag": "\"19bd4-563b487abce40\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:05 GMT",
+  "source_sha256": "7441e7d717cad5c0ddfa869b3e844715578e004fc81d47388345a0de3bd8dbd8",
+  "extracted_text_sha256": "bfcbdf1e448d45815abb90168ffb51580ff15eab1a8462f246d39077a611337c",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "aef1490515aba1208d291b5b4dee74a900d2fcd7"
+}

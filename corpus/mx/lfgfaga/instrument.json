@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfgfaga",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura",
+  "short_name": "LFGFAGA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1954-12-31",
+  "latest_reform_date": "2012-04-09",
+  "retrieved_at": "2026-08-06T17:00:25.763385Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/192.pdf",
+  "source_sha256": "5ecf3ff973aa8817fdb63785bcf56d34826dabc130480ba3f1b344ce55ede363",
+  "extracted_text_sha256": "7944c33f1dbc5232aecf9e617779a392c664044084155465d98fe0b9e303e44d",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

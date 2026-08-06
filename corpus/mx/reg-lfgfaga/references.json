@@ -1,0 +1,90 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfgfaga:article:21:reference:538-540:14:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfgfaga:article:21",
+    "source_span": "14",
+    "start_char": 538,
+    "end_char": 540,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfgfaga",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfgfaga:article:14",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción lII",
+        "start_char": 542,
+        "end_char": 554
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfgfaga:article:21:reference:1633-1636:327:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfgfaga:article:21",
+    "source_span": "327",
+    "start_char": 1633,
+    "end_char": 1636,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:327",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 1638,
+        "end_char": 1653
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfgfaga:article:21:reference:2472-2475:327:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfgfaga:article:21",
+    "source_span": "327",
+    "start_char": 2472,
+    "end_char": 2475,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:327",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo primero",
+        "start_char": 2443,
+        "end_char": 2458
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfgfaga:article:23:reference:594-597:327:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfgfaga:article:23",
+    "source_span": "327",
+    "start_char": 594,
+    "end_char": 597,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:327",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo tercero",
+        "start_char": 599,
+        "end_char": 614
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

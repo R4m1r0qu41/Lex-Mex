@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfgfaga",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFGFAGA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFGFAGA.pdf",
+  "retrieved_at": "2026-08-06T17:00:28.686932Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 221186,
+  "etag": "\"36002-563b487d99500\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:08 GMT",
+  "source_sha256": "60e8482fc72c2fa506c23a78da1bbb2e8f2877b30ea083dd6760b93ce343282e",
+  "extracted_text_sha256": "28faa3144b4a85fa945f24e9667c4e38f9a16c8f1c83a15dc17755518e300c28",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "aef1490515aba1208d291b5b4dee74a900d2fcd7"
+}

@@ -781,6 +781,12 @@ fn markdown_index(
             let _ = writeln!(output, "{}. {}", reference.marker, reference.description);
         }
     }
+    // An instrument may have no original transitories. Keep the empty
+    // section visible, but do not emit a trailing blank line that fails the
+    // repository whitespace gate.
+    if output.ends_with("\n\n") {
+        output.pop();
+    }
     output
 }
 
@@ -985,6 +991,28 @@ mod tests {
             fs::read_to_string(output.join("inspection.txt")).unwrap(),
             "keep"
         );
+    }
+
+    #[test]
+    fn index_without_transitories_has_no_trailing_blank_line() {
+        let temp = tempdir().unwrap();
+        let output = temp.path().join("markdown");
+        let corpus = Corpus {
+            instrument: sample_instrument(),
+            provisions: vec![sample_article("1")],
+            references: Vec::new(),
+            terms: Vec::new(),
+            term_usages: Vec::new(),
+            amendment_references: Vec::new(),
+        };
+        let targets = link_targets(&[(&corpus, "lritf")]);
+        let terms = term_targets(&[(&corpus, "lritf")], &targets);
+
+        write_markdown(&corpus, &targets, &terms, &output).unwrap();
+
+        let index = fs::read_to_string(output.join("README.md")).unwrap();
+        assert!(index.ends_with("## Disposiciones transitorias\n"));
+        assert!(!index.ends_with("\n\n"));
     }
 
     fn sample_provision() -> Provision {

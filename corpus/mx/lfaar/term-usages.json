@@ -1,0 +1,4349 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:1:term-usage:282-305",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 282,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:1:term-usage:332-342",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 332,
+    "end_char": 342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:1:term-usage:915-938",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 915,
+    "end_char": 938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:1:term-usage:1306-1316",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1306,
+    "end_char": 1316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:1:term-usage:1545-1555",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1545,
+    "end_char": 1555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:191-201",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 191,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:813-833",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 813,
+    "end_char": 833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:847-867",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 847,
+    "end_char": 867
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:937-970",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismos Integradores Estatales",
+    "start_char": 937,
+    "end_char": 970
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:1023-1043",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 1023,
+    "end_char": 1043
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:1134-1165",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-local",
+    "span": "Organismos Integradores Locales",
+    "start_char": 1134,
+    "end_char": 1165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:1274-1294",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 1274,
+    "end_char": 1294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:1783-1793",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1783,
+    "end_char": 1793
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:1932-1942",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1932,
+    "end_char": 1942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:2001-2020",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 2001,
+    "end_char": 2020
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:2536-2559",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 2536,
+    "end_char": 2559
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:2601-2620",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 2601,
+    "end_char": 2620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:2748-2771",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 2748,
+    "end_char": 2771
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:2:term-usage:2945-2967",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 2945,
+    "end_char": 2967
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:3:term-usage:407-417",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 407,
+    "end_char": 417
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:3:term-usage:993-1012",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:lineas-de-operacion",
+    "span": "Líneas de Operación",
+    "start_char": 993,
+    "end_char": 1012
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:4:term-usage:177-196",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 177,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:4:term-usage:490-513",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 490,
+    "end_char": 513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:5:term-usage:13-35",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 13,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:5:term-usage:37-59",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 37,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:5:term-usage:260-283",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 260,
+    "end_char": 283
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:7:term-usage:22-44",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 22,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:7:term-usage:419-441",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 419,
+    "end_char": 441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:7:term-usage:690-712",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 690,
+    "end_char": 712
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:29-51",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 29,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:73-83",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 73,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:262-290",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismo Integrador Estatal",
+    "start_char": 262,
+    "end_char": 290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:333-362",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 333,
+    "end_char": 362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:447-457",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 447,
+    "end_char": 457
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:561-581",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 561,
+    "end_char": 581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:897-907",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 897,
+    "end_char": 907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:1235-1257",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1235,
+    "end_char": 1257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:1462-1485",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 1462,
+    "end_char": 1485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:1501-1511",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1501,
+    "end_char": 1511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:1649-1659",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1649,
+    "end_char": 1659
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:1703-1726",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 1703,
+    "end_char": 1726
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:1991-2001",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1991,
+    "end_char": 2001
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:2035-2055",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 2035,
+    "end_char": 2055
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:2200-2222",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 2200,
+    "end_char": 2222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:2259-2287",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismo Integrador Estatal",
+    "start_char": 2259,
+    "end_char": 2287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:2369-2389",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 2369,
+    "end_char": 2389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:2435-2457",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 2435,
+    "end_char": 2457
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:2510-2520",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2510,
+    "end_char": 2520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:2743-2753",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2743,
+    "end_char": 2753
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:2791-2814",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 2791,
+    "end_char": 2814
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:2945-2955",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2945,
+    "end_char": 2955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:3214-3237",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 3214,
+    "end_char": 3237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:3245-3255",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3245,
+    "end_char": 3255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:3373-3383",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3373,
+    "end_char": 3383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:3473-3493",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 3473,
+    "end_char": 3493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:3499-3521",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 3499,
+    "end_char": 3521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:3619-3629",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3619,
+    "end_char": 3629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:3932-3942",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3932,
+    "end_char": 3942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:3946-3966",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 3946,
+    "end_char": 3966
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:4038-4048",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4038,
+    "end_char": 4048
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:4199-4219",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 4199,
+    "end_char": 4219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:4250-4260",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4250,
+    "end_char": 4260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:4396-4418",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 4396,
+    "end_char": 4418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:4497-4507",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4497,
+    "end_char": 4507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:4594-4604",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4594,
+    "end_char": 4604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:8:term-usage:4745-4755",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4745,
+    "end_char": 4755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:9:term-usage:628-650",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 628,
+    "end_char": 650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:9:term-usage:1050-1072",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1050,
+    "end_char": 1072
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:9:term-usage:1219-1239",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 1219,
+    "end_char": 1239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:9:term-usage:1357-1379",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1357,
+    "end_char": 1379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:9:term-usage:1442-1462",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 1442,
+    "end_char": 1462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:9:term-usage:1633-1653",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 1633,
+    "end_char": 1653
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:9:term-usage:1672-1682",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1672,
+    "end_char": 1682
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:9:term-usage:1803-1813",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1803,
+    "end_char": 1813
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:9:term-usage:2021-2031",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2021,
+    "end_char": 2031
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:9:term-usage:2217-2239",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 2217,
+    "end_char": 2239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:10:term-usage:104-110",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 104,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:11:term-usage:23-29",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 23,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:11:term-usage:59-81",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 59,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:11:term-usage:143-165",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 143,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:12:term-usage:43-49",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 43,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:12:term-usage:334-353",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 334,
+    "end_char": 353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:12:term-usage:359-394",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-retencion-comun-de-riesgos",
+    "span": "Fondo de Retención Común de Riesgos",
+    "start_char": 359,
+    "end_char": 394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:12:term-usage:461-484",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 461,
+    "end_char": 484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:12:term-usage:937-943",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 937,
+    "end_char": 943
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:12:term-usage:1077-1099",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1077,
+    "end_char": 1099
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:12:term-usage:1208-1230",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1208,
+    "end_char": 1230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:12:term-usage:1282-1292",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1282,
+    "end_char": 1292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:12:term-usage:1455-1461",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 1455,
+    "end_char": 1461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:12:term-usage:1580-1602",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1580,
+    "end_char": 1602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:12:term-usage:1658-1680",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1658,
+    "end_char": 1680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:13:term-usage:23-29",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 23,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:13:term-usage:227-233",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 227,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:13:term-usage:564-570",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 564,
+    "end_char": 570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:13:term-usage:707-713",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 707,
+    "end_char": 713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:14:term-usage:32-38",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 32,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:15:term-usage:300-322",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 300,
+    "end_char": 322
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:15:term-usage:463-469",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 463,
+    "end_char": 469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:16:term-usage:68-90",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 68,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:16:term-usage:195-201",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 195,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:16:term-usage:452-474",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 452,
+    "end_char": 474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:16:term-usage:775-781",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 775,
+    "end_char": 781
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:16:term-usage:786-808",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 786,
+    "end_char": 808
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:16:term-usage:1015-1037",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1015,
+    "end_char": 1037
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:18:term-usage:182-204",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 182,
+    "end_char": 204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:18:term-usage:304-326",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 304,
+    "end_char": 326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:18:term-usage:457-479",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 457,
+    "end_char": 479
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:19:term-usage:41-63",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 41,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:19:term-usage:115-137",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 115,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:19:term-usage:351-373",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 351,
+    "end_char": 373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:19:term-usage:565-588",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 565,
+    "end_char": 588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:20:term-usage:80-102",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 80,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:20:term-usage:350-372",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 350,
+    "end_char": 372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:20:term-usage:430-436",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 430,
+    "end_char": 436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:20:term-usage:506-512",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 506,
+    "end_char": 512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:20:term-usage:533-555",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 533,
+    "end_char": 555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:20:term-usage:597-603",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 597,
+    "end_char": 603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:20:term-usage:707-713",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 707,
+    "end_char": 713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:20:term-usage:984-1006",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 984,
+    "end_char": 1006
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:20:term-usage:1458-1464",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 1458,
+    "end_char": 1464
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:20:term-usage:2160-2182",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 2160,
+    "end_char": 2182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:21:term-usage:26-48",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 26,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:21:term-usage:240-260",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 240,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:21:term-usage:533-555",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 533,
+    "end_char": 555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:22:term-usage:4-28",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondos de Aseguramientos",
+    "start_char": 4,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:22:term-usage:113-135",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 113,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:24:term-usage:92-114",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 92,
+    "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:24:term-usage:397-403",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 397,
+    "end_char": 403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:24:term-usage:561-567",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 561,
+    "end_char": 567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:24:term-usage:754-760",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 754,
+    "end_char": 760
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:24:term-usage:766-786",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 766,
+    "end_char": 786
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:24:term-usage:860-882",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 860,
+    "end_char": 882
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:24:term-usage:1107-1113",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 1107,
+    "end_char": 1113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:24:term-usage:1397-1403",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 1397,
+    "end_char": 1403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:24:term-usage:1629-1635",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 1629,
+    "end_char": 1635
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:25:term-usage:101-107",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 101,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:26:term-usage:21-43",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 21,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:26:term-usage:496-518",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 496,
+    "end_char": 518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:26:term-usage:639-661",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 639,
+    "end_char": 661
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:26:term-usage:794-816",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 794,
+    "end_char": 816
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:26:term-usage:1040-1062",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1040,
+    "end_char": 1062
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:26:term-usage:1069-1091",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1069,
+    "end_char": 1091
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:26:term-usage:1179-1185",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 1179,
+    "end_char": 1185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:26:term-usage:1456-1462",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 1456,
+    "end_char": 1462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:26:term-usage:1484-1506",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1484,
+    "end_char": 1506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:26:term-usage:1552-1574",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1552,
+    "end_char": 1574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:26:term-usage:1715-1737",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1715,
+    "end_char": 1737
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:26:term-usage:1820-1842",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1820,
+    "end_char": 1842
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:27:term-usage:195-201",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 195,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:27:term-usage:484-506",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 484,
+    "end_char": 506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:27:term-usage:702-724",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 702,
+    "end_char": 724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:27:term-usage:1008-1014",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 1008,
+    "end_char": 1014
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:28:term-usage:23-29",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 23,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:28:term-usage:375-381",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 375,
+    "end_char": 381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:28:term-usage:451-473",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 451,
+    "end_char": 473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:28:term-usage:539-561",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 539,
+    "end_char": 561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:28:term-usage:637-659",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 637,
+    "end_char": 659
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:28:term-usage:792-798",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 792,
+    "end_char": 798
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:28:term-usage:917-939",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 917,
+    "end_char": 939
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:28:term-usage:1015-1021",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 1015,
+    "end_char": 1021
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:29:term-usage:295-318",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 295,
+    "end_char": 318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:29:term-usage:539-558",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 539,
+    "end_char": 558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:29:term-usage:564-599",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-retencion-comun-de-riesgos",
+    "span": "Fondo de Retención Común de Riesgos",
+    "start_char": 564,
+    "end_char": 599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:31:term-usage:201-211",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 201,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:32:term-usage:182-204",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 182,
+    "end_char": 204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:32:term-usage:364-386",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 364,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:32:term-usage:461-483",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 461,
+    "end_char": 483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:32:term-usage:712-734",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 712,
+    "end_char": 734
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:32:term-usage:1134-1156",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1134,
+    "end_char": 1156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:33:term-usage:404-427",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 404,
+    "end_char": 427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:33:term-usage:873-883",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 873,
+    "end_char": 883
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:33:term-usage:1127-1149",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1127,
+    "end_char": 1149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:33:term-usage:1291-1314",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 1291,
+    "end_char": 1314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:33:term-usage:1436-1458",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1436,
+    "end_char": 1458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:33:term-usage:1529-1535",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 1529,
+    "end_char": 1535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:34:term-usage:249-259",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 249,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:34:term-usage:273-281",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 273,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:34:term-usage:889-911",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 889,
+    "end_char": 911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:34:term-usage:1159-1194",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-retencion-comun-de-riesgos",
+    "span": "Fondo de Retención Común de Riesgos",
+    "start_char": 1159,
+    "end_char": 1194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:35:term-usage:653-659",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 653,
+    "end_char": 659
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:35:term-usage:1381-1403",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1381,
+    "end_char": 1403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:35:term-usage:1497-1519",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1497,
+    "end_char": 1519
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:36:term-usage:506-514",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 506,
+    "end_char": 514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:37:term-usage:371-406",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-retencion-comun-de-riesgos",
+    "span": "Fondo de Retención Común de Riesgos",
+    "start_char": 371,
+    "end_char": 406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:37:term-usage:1137-1147",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1137,
+    "end_char": 1147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:38:term-usage:376-398",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 376,
+    "end_char": 398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:38:term-usage:573-581",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 573,
+    "end_char": 581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:38:term-usage:655-663",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 655,
+    "end_char": 663
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:38:term-usage:1036-1042",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "span": "Socios",
+    "start_char": 1036,
+    "end_char": 1042
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:38:term-usage:1468-1488",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 1468,
+    "end_char": 1488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:39:term-usage:232-240",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 232,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:39:term-usage:790-798",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 790,
+    "end_char": 798
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:39:term-usage:1571-1593",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1571,
+    "end_char": 1593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:39:term-usage:1634-1656",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1634,
+    "end_char": 1656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:40:term-usage:443-463",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 443,
+    "end_char": 463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:40:term-usage:544-564",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 544,
+    "end_char": 564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:40:term-usage:657-677",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 657,
+    "end_char": 677
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:40:term-usage:703-713",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 703,
+    "end_char": 713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:42:term-usage:259-279",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 259,
+    "end_char": 279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:42:term-usage:660-683",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 660,
+    "end_char": 683
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:43:term-usage:3-32",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 3,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:43:term-usage:138-148",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 138,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:44:term-usage:4-37",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismos Integradores Estatales",
+    "start_char": 4,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:44:term-usage:86-117",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-local",
+    "span": "Organismos Integradores Locales",
+    "start_char": 86,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:44:term-usage:224-234",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 224,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:45:term-usage:4-35",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-local",
+    "span": "Organismos Integradores Locales",
+    "start_char": 4,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:45:term-usage:215-225",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 215,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:46:term-usage:55-84",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 55,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:46:term-usage:131-141",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 131,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:46:term-usage:254-287",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismos Integradores Estatales",
+    "start_char": 254,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:46:term-usage:357-386",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 357,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:46:term-usage:552-562",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 552,
+    "end_char": 562
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:46:term-usage:615-625",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 615,
+    "end_char": 625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:46:term-usage:787-797",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 787,
+    "end_char": 797
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:4-27",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 4,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:263-273",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 263,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:287-295",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 287,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:1306-1316",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1306,
+    "end_char": 1316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:1359-1382",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 1359,
+    "end_char": 1382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:1619-1629",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1619,
+    "end_char": 1629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:2506-2525",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 2506,
+    "end_char": 2525
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:2586-2607",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:sistema-de-proteccion",
+    "span": "Sistema de Protección",
+    "start_char": 2586,
+    "end_char": 2607
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:2725-2758",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismos Integradores Estatales",
+    "start_char": 2725,
+    "end_char": 2758
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:3284-3304",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 3284,
+    "end_char": 3304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:4050-4073",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 4050,
+    "end_char": 4073
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:4101-4130",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 4101,
+    "end_char": 4130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:4193-4203",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4193,
+    "end_char": 4203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:4209-4238",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 4209,
+    "end_char": 4238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:4313-4346",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismos Integradores Estatales",
+    "start_char": 4313,
+    "end_char": 4346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:4429-4462",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismos Integradores Estatales",
+    "start_char": 4429,
+    "end_char": 4462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:4494-4523",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 4494,
+    "end_char": 4523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:4648-4677",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 4648,
+    "end_char": 4677
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:4787-4807",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 4787,
+    "end_char": 4807
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:47:term-usage:4858-4868",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4858,
+    "end_char": 4868
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:48:term-usage:4-27",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 4,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:48:term-usage:61-71",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 61,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:48:term-usage:166-195",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 166,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:48:term-usage:777-787",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 777,
+    "end_char": 787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:48:term-usage:802-822",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 802,
+    "end_char": 822
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:48:term-usage:1371-1404",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismos Integradores Estatales",
+    "start_char": 1371,
+    "end_char": 1404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:48:term-usage:1432-1461",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 1432,
+    "end_char": 1461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:48:term-usage:1538-1548",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1538,
+    "end_char": 1548
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:49:term-usage:4-27",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 4,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:50:term-usage:5-25",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 5,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:50:term-usage:653-672",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 653,
+    "end_char": 672
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:50:term-usage:678-713",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-retencion-comun-de-riesgos",
+    "span": "Fondo de Retención Común de Riesgos",
+    "start_char": 678,
+    "end_char": 713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:51:term-usage:52-75",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 52,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:51:term-usage:194-214",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 194,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:51:term-usage:357-376",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 357,
+    "end_char": 376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:51:term-usage:382-417",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-retencion-comun-de-riesgos",
+    "span": "Fondo de Retención Común de Riesgos",
+    "start_char": 382,
+    "end_char": 417
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:51:term-usage:510-530",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 510,
+    "end_char": 530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:51:term-usage:923-943",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 923,
+    "end_char": 943
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:51:term-usage:1089-1109",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 1089,
+    "end_char": 1109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:52:term-usage:4-27",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 4,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:52:term-usage:51-61",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 51,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:52:term-usage:220-230",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 220,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:52:term-usage:252-260",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 252,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:52:term-usage:424-447",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 424,
+    "end_char": 447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:52:term-usage:526-534",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 526,
+    "end_char": 534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:53:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:53:term-usage:41-61",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 41,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:53:term-usage:97-105",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 97,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:53:term-usage:693-703",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 693,
+    "end_char": 703
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:53:term-usage:804-814",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 804,
+    "end_char": 814
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:53:term-usage:1053-1072",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 1053,
+    "end_char": 1072
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:53:term-usage:1078-1113",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-retencion-comun-de-riesgos",
+    "span": "Fondo de Retención Común de Riesgos",
+    "start_char": 1078,
+    "end_char": 1113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:53:term-usage:1152-1162",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1152,
+    "end_char": 1162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:54:term-usage:43-63",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 43,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:54:term-usage:108-118",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 108,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:54:term-usage:157-177",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 157,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:54:term-usage:213-235",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 213,
+    "end_char": 235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:55:term-usage:4-27",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 4,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:55:term-usage:112-132",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 112,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:55:term-usage:457-480",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 457,
+    "end_char": 480
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:55:term-usage:695-724",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 695,
+    "end_char": 724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:55:term-usage:827-849",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 827,
+    "end_char": 849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:56:term-usage:37-57",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 37,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:57:term-usage:33-53",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 33,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:57:term-usage:133-153",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 133,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:57:term-usage:283-305",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 283,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:58:term-usage:64-84",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 64,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:58:term-usage:399-421",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 399,
+    "end_char": 421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:59:term-usage:26-46",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 26,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:59:term-usage:227-247",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 227,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:59:term-usage:436-446",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 436,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:59:term-usage:842-862",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 842,
+    "end_char": 862
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:59:term-usage:1049-1069",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 1049,
+    "end_char": 1069
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:59:term-usage:1148-1170",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1148,
+    "end_char": 1170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:60:term-usage:4-27",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 4,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:60:term-usage:341-361",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 341,
+    "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:60:term-usage:493-516",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 493,
+    "end_char": 516
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:60:term-usage:539-549",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 539,
+    "end_char": 549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:61:term-usage:50-78",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismo Integrador Estatal",
+    "start_char": 50,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:61:term-usage:98-108",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 98,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:61:term-usage:113-141",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismo Integrador Estatal",
+    "start_char": 113,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:61:term-usage:172-201",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 172,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:61:term-usage:221-231",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 221,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:61:term-usage:237-265",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismo Integrador Estatal",
+    "start_char": 237,
+    "end_char": 265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:62:term-usage:59-81",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 59,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:62:term-usage:125-153",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismo Integrador Estatal",
+    "start_char": 125,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:62:term-usage:237-259",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 237,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:62:term-usage:539-559",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 539,
+    "end_char": 559
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:63:term-usage:123-133",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 123,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:63:term-usage:152-174",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 152,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:63:term-usage:211-233",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 211,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:63:term-usage:475-497",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 475,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:64:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:64:term-usage:66-86",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 66,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:65:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:65:term-usage:80-102",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 80,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:66:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:66:term-usage:154-173",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 154,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:66:term-usage:179-214",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-retencion-comun-de-riesgos",
+    "span": "Fondo de Retención Común de Riesgos",
+    "start_char": 179,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:66:term-usage:370-390",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 370,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:66:term-usage:438-460",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 438,
+    "end_char": 460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:66:term-usage:505-534",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 505,
+    "end_char": 534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:66:term-usage:548-570",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 548,
+    "end_char": 570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:66:term-usage:646-668",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 646,
+    "end_char": 668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:67:term-usage:74-94",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 74,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:68:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:68:term-usage:130-150",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 130,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:68:term-usage:170-190",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 170,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:68:term-usage:219-229",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 219,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:68:term-usage:272-292",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 272,
+    "end_char": 292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:68:term-usage:357-379",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 357,
+    "end_char": 379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:68:term-usage:637-659",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 637,
+    "end_char": 659
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:68:term-usage:698-708",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 698,
+    "end_char": 708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:68:term-usage:714-736",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 714,
+    "end_char": 736
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:69:term-usage:117-136",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 117,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:69:term-usage:160-195",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-retencion-comun-de-riesgos",
+    "span": "Fondo de Retención Común de Riesgos",
+    "start_char": 160,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:69:term-usage:284-304",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 284,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:69:term-usage:472-494",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 472,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:70:term-usage:120-142",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 120,
+    "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:70:term-usage:181-203",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 181,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:70:term-usage:246-256",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 246,
+    "end_char": 256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:70:term-usage:375-394",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 375,
+    "end_char": 394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:71:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:71:term-usage:88-98",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 88,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:72:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:72:term-usage:312-322",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 312,
+    "end_char": 322
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:72:term-usage:739-761",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 739,
+    "end_char": 761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:72:term-usage:847-855",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 847,
+    "end_char": 855
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:72:term-usage:943-953",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 943,
+    "end_char": 953
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:72:term-usage:958-986",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismo Integrador Estatal",
+    "start_char": 958,
+    "end_char": 986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:72:term-usage:1009-1038",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 1009,
+    "end_char": 1038
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:73:term-usage:41-63",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 41,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:73:term-usage:119-129",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 119,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:73:term-usage:162-170",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 162,
+    "end_char": 170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:73:term-usage:275-297",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 275,
+    "end_char": 297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:73:term-usage:371-379",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 371,
+    "end_char": 379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:73:term-usage:530-538",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 530,
+    "end_char": 538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:29-51",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 29,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:101-123",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 101,
+    "end_char": 123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:878-900",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 878,
+    "end_char": 900
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:1083-1103",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 1083,
+    "end_char": 1103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:1130-1150",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 1130,
+    "end_char": 1150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:1195-1205",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1195,
+    "end_char": 1205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:1529-1551",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1529,
+    "end_char": 1551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:1652-1674",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1652,
+    "end_char": 1674
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:1783-1793",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1783,
+    "end_char": 1793
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:1801-1808",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:sagarpa",
+    "span": "SAGARPA",
+    "start_char": 1801,
+    "end_char": 1808
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:1817-1846",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 1817,
+    "end_char": 1846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:1979-2001",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1979,
+    "end_char": 2001
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:2231-2241",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2231,
+    "end_char": 2241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:2299-2309",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2299,
+    "end_char": 2309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:2514-2536",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 2514,
+    "end_char": 2536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:74:term-usage:2833-2843",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2833,
+    "end_char": 2843
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:75:term-usage:106-127",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:sistema-de-proteccion",
+    "span": "Sistema de Protección",
+    "start_char": 106,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:75:term-usage:145-164",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 145,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:75:term-usage:170-205",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-retencion-comun-de-riesgos",
+    "span": "Fondo de Retención Común de Riesgos",
+    "start_char": 170,
+    "end_char": 205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:75:term-usage:241-260",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 241,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:75:term-usage:1021-1035",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 1021,
+    "end_char": 1035
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:75:term-usage:1184-1203",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 1184,
+    "end_char": 1203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:75:term-usage:1227-1241",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 1227,
+    "end_char": 1241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:75:term-usage:1388-1407",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 1388,
+    "end_char": 1407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:75:term-usage:1836-1858",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 1836,
+    "end_char": 1858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:75:term-usage:1868-1903",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-retencion-comun-de-riesgos",
+    "span": "Fondo de Retención Común de Riesgos",
+    "start_char": 1868,
+    "end_char": 1903
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:42-62",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 42,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:118-137",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 118,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:168-197",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 168,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:202-221",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 202,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:438-458",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 438,
+    "end_char": 458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:545-564",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 545,
+    "end_char": 564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:596-615",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 596,
+    "end_char": 615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:767-800",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismos Integradores Estatales",
+    "start_char": 767,
+    "end_char": 800
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:833-847",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 833,
+    "end_char": 847
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:953-967",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 953,
+    "end_char": 967
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:1037-1056",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 1037,
+    "end_char": 1056
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:1178-1202",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondos de Aseguramientos",
+    "start_char": 1178,
+    "end_char": 1202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:1234-1253",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 1234,
+    "end_char": 1253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:1334-1354",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismo Integrador",
+    "start_char": 1334,
+    "end_char": 1354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:1489-1508",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 1489,
+    "end_char": 1508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:1591-1610",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 1591,
+    "end_char": 1610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:1806-1825",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 1806,
+    "end_char": 1825
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:76:term-usage:2003-2032",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 2003,
+    "end_char": 2032
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:77:term-usage:22-41",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 22,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:77:term-usage:46-75",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 46,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:77:term-usage:196-225",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 196,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:77:term-usage:404-418",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 404,
+    "end_char": 418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:78:term-usage:38-57",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 38,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:78:term-usage:283-302",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 283,
+    "end_char": 302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:78:term-usage:387-409",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 387,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:78:term-usage:818-847",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 818,
+    "end_char": 847
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:79:term-usage:3-17",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 3,
+    "end_char": 17
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:79:term-usage:22-41",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 22,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:79:term-usage:177-206",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 177,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:79:term-usage:281-304",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 281,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:80:term-usage:3-17",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 3,
+    "end_char": 17
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:80:term-usage:22-41",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 22,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:80:term-usage:180-202",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 180,
+    "end_char": 202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:80:term-usage:276-295",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 276,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:80:term-usage:976-995",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 976,
+    "end_char": 995
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:81:term-usage:13-35",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 13,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:81:term-usage:100-114",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comite-tecnico",
+    "span": "Comité Técnico",
+    "start_char": 100,
+    "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:81:term-usage:119-138",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 119,
+    "end_char": 138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:81:term-usage:411-430",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 411,
+    "end_char": 430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:82:term-usage:3-32",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 3,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:82:term-usage:68-101",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismos Integradores Estatales",
+    "start_char": 68,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:82:term-usage:180-199",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "span": "Fondo de Protección",
+    "start_char": 180,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:83:term-usage:160-182",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 160,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:83:term-usage:381-403",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "span": "Fondo de Aseguramiento",
+    "start_char": 381,
+    "end_char": 403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:84:term-usage:66-94",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismo Integrador Estatal",
+    "start_char": 66,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:84:term-usage:99-134",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-retencion-comun-de-riesgos",
+    "span": "Fondo de Retención Común de Riesgos",
+    "start_char": 99,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:84:term-usage:534-544",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 534,
+    "end_char": 544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:84:term-usage:558-566",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 558,
+    "end_char": 566
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:84:term-usage:709-742",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismos Integradores Estatales",
+    "start_char": 709,
+    "end_char": 742
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:84:term-usage:761-790",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 761,
+    "end_char": 790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:85:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:85:term-usage:137-147",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 137,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:85:term-usage:172-180",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 172,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:85:term-usage:240-263",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 240,
+    "end_char": 263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:85:term-usage:437-460",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 437,
+    "end_char": 460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:85:term-usage:844-873",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 844,
+    "end_char": 873
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:85:term-usage:974-1007",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismos Integradores Estatales",
+    "start_char": 974,
+    "end_char": 1007
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:85:term-usage:1127-1150",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 1127,
+    "end_char": 1150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:85:term-usage:1215-1244",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "span": "Organismo Integrador Nacional",
+    "start_char": 1215,
+    "end_char": 1244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:85:term-usage:1250-1283",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "span": "Organismos Integradores Estatales",
+    "start_char": 1250,
+    "end_char": 1283
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:85:term-usage:1289-1320",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-local",
+    "span": "Organismos Integradores Locales",
+    "start_char": 1289,
+    "end_char": 1320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:85:term-usage:1378-1388",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1378,
+    "end_char": 1388
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:86:term-usage:93-116",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 93,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:86:term-usage:232-248",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comite-tecnico",
+    "span": "Comités Técnicos",
+    "start_char": 232,
+    "end_char": 248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:86:term-usage:742-765",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 742,
+    "end_char": 765
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:87:term-usage:313-336",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 313,
+    "end_char": 336
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:88:term-usage:102-125",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 102,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:89:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:sagarpa",
+    "span": "SAGARPA",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:89:term-usage:354-377",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 354,
+    "end_char": 377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:90:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:sagarpa",
+    "span": "SAGARPA",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:90:term-usage:182-205",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 182,
+    "end_char": 205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:90:term-usage:470-477",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:sagarpa",
+    "span": "SAGARPA",
+    "start_char": 470,
+    "end_char": 477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:90:term-usage:657-680",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 657,
+    "end_char": 680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:90:term-usage:757-764",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:sagarpa",
+    "span": "SAGARPA",
+    "start_char": 757,
+    "end_char": 764
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:91:term-usage:153-160",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:sagarpa",
+    "span": "SAGARPA",
+    "start_char": 153,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:92:term-usage:363-370",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:sagarpa",
+    "span": "SAGARPA",
+    "start_char": 363,
+    "end_char": 370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:92:term-usage:376-386",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 376,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:93:term-usage:81-104",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 81,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:34-57",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 34,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:125-135",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 125,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:172-180",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 172,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:642-652",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 642,
+    "end_char": 652
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:673-681",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 673,
+    "end_char": 681
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:1913-1923",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1913,
+    "end_char": 1923
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:2054-2077",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 2054,
+    "end_char": 2077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:2387-2410",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 2387,
+    "end_char": 2410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:2655-2678",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 2655,
+    "end_char": 2678
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:3036-3059",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 3036,
+    "end_char": 3059
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:3266-3289",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 3266,
+    "end_char": 3289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:3491-3501",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3491,
+    "end_char": 3501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:3563-3571",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 3563,
+    "end_char": 3571
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:3736-3759",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 3736,
+    "end_char": 3759
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:3832-3842",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3832,
+    "end_char": 3842
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:4562-4585",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 4562,
+    "end_char": 4585
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:5016-5024",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 5016,
+    "end_char": 5024
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:5330-5353",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 5330,
+    "end_char": 5353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:5697-5707",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 5697,
+    "end_char": 5707
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:5716-5724",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "span": "Comisión",
+    "start_char": 5716,
+    "end_char": 5724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:95:term-usage:5760-5783",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 5760,
+    "end_char": 5783
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:article:96:term-usage:129-152",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 129,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:transitory:segundo:term-usage:48-58",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 48,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:transitory:cuarto:term-usage:257-280",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "span": "Organismos Integradores",
+    "start_char": 257,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:transitory:cuarto:term-usage:345-355",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 345,
+    "end_char": 355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:transitory:quinto:term-usage:45-55",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 45,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:transitory:sexto:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfaar:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  }
+]

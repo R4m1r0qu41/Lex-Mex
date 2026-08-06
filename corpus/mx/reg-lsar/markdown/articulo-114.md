@@ -1,0 +1,22 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lsar:article:114
+instrument_id: urn:lex-mx:federal:regulation:reg-lsar
+instrument: REG-LSAR
+name: "Reglamento de la Ley de los Sistemas de Ahorro para el Retiro"
+provision_type: article
+number: "114"
+aliases: ["REG-LSAR — Artículo 114"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSAR.pdf
+source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
+---
+
+> Capítulo XII
+
+# Artículo 114
+
+La Comisión podrá notificar, en términos del artículo 111 de la [Ley](articulo-2o.md), sus actos administrativos a través de correo electrónico.
+
+Asimismo, los Participantes en los Sistemas de Ahorro para el Retiro podrán atender los actos administrativos que les sean notificados y realizar cualquier tipo de promociones ante la Comisión, mediante documentos digitales enviados por correo electrónico. Los documentos digitales a que se refiere el presente artículo deberán tener asociada la firma electrónica avanzada de la persona facultada para emitir el documento digital.

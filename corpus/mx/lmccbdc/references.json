@@ -1,0 +1,17 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmccbdc:article:4:reference:300-301:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lmccbdc:article:4",
+    "source_span": "8",
+    "start_char": 300,
+    "end_char": 301,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lmccbdc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lmccbdc:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

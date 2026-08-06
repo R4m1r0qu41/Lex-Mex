@@ -1,0 +1,189 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 112,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "II",
+    "start_char": 112,
+    "end_char": 172,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:sagarpa",
+    "term": "SAGARPA",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "III",
+    "start_char": 172,
+    "end_char": 270,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-aseguramiento",
+    "term": "Fondo de Aseguramiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "IV",
+    "start_char": 270,
+    "end_char": 539,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:agroasemex",
+    "term": "Agroasemex",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "V",
+    "start_char": 539,
+    "end_char": 608,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador",
+    "term": "Organismo Integrador",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "VI",
+    "start_char": 608,
+    "end_char": 808,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-nacional",
+    "term": "Organismo Integrador Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "VII",
+    "start_char": 808,
+    "end_char": 1017,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-estatal",
+    "term": "Organismo Integrador Estatal",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "VIII",
+    "start_char": 1017,
+    "end_char": 1270,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:organismo-integrador-local",
+    "term": "Organismo Integrador Local",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "IX",
+    "start_char": 1270,
+    "end_char": 1509,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:socios",
+    "term": "Socios",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "X",
+    "start_char": 1509,
+    "end_char": 1641,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:lineas-de-operacion",
+    "term": "Líneas de Operación",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "XI",
+    "start_char": 1641,
+    "end_char": 1945,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:sistema-de-proteccion",
+    "term": "Sistema de Protección",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "XII",
+    "start_char": 1945,
+    "end_char": 2098,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-proteccion",
+    "term": "Fondo de Protección",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "XIII",
+    "start_char": 2098,
+    "end_char": 2278,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:fondo-de-retencion-comun-de-riesgos",
+    "term": "Fondo de Retención Común de Riesgos",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "XIV",
+    "start_char": 2278,
+    "end_char": 2495,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:comite-tecnico",
+    "term": "Comité Técnico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "XV",
+    "start_char": 2495,
+    "end_char": 2669,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:comite-de-asesoria-tecnica-y-seguimiento-de-operaciones",
+    "term": "Comité de Asesoría Técnica y Seguimiento de Operaciones",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "XVI",
+    "start_char": 2669,
+    "end_char": 2888,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaar:term:coaseguro",
+    "term": "Coaseguro",
+    "instrument_id": "urn:lex-mx:federal:statute:lfaar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfaar:article:2",
+    "fraction": "XVII",
+    "start_char": 2888,
+    "end_char": 3016,
+    "basis": "express_definition"
+  }
+]

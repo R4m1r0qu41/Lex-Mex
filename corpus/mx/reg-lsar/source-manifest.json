@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lsar",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSAR.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSAR.pdf",
+  "retrieved_at": "2026-08-06T17:00:34.577107Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 632010,
+  "etag": "\"9a4ca-6251a74e7f540\"",
+  "last_modified": "Wed, 23 Oct 2024 01:03:41 GMT",
+  "source_sha256": "685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a",
+  "extracted_text_sha256": "71f85a22b95c117437a78867d060a9bae3b10150ec56454139ac7a5ed438ad88",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "aef1490515aba1208d291b5b4dee74a900d2fcd7"
+}

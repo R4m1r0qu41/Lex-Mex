@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lsar",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de los Sistemas de Ahorro para el Retiro",
+  "short_name": "REG-LSAR",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2009-08-24",
+  "latest_reform_date": "2024-09-27",
+  "retrieved_at": "2026-08-06T17:00:34.577107Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSAR.pdf",
+  "source_sha256": "685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a",
+  "extracted_text_sha256": "71f85a22b95c117437a78867d060a9bae3b10150ec56454139ac7a5ed438ad88",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

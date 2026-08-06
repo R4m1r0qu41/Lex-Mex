@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfaar",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Fondos de Aseguramiento Agropecuario y Rural",
+  "short_name": "LFAAR",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2005-05-13",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-08-06T17:00:22.017808Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAAR.pdf",
+  "source_sha256": "c15f1084289b8990a4e345e6854c3e14333de0c452edc2df7b73b52050f9ae4e",
+  "extracted_text_sha256": "23d672dd62a2922ff5056dd5480018cbc3d9900c9434205753e96b43a64975ca",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

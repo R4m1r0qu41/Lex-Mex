@@ -1,0 +1,39 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfif-art95:article:3:reference:98-99:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfif-art95:article:3",
+    "source_span": "1",
+    "start_char": 98,
+    "end_char": 99,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfif-art95",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfif-art95:article:1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfif-art95:article:4:reference:450-451:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfif-art95:article:4",
+    "source_span": "3",
+    "start_char": 450,
+    "end_char": 451,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfif-art95",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfif-art95:article:3",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 425,
+        "end_char": 436
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

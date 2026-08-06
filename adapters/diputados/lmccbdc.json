@@ -1,0 +1,29 @@
+{
+  "slug": "lmccbdc",
+  "instrument_id": "urn:lex-mx:federal:statute:lmccbdc",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "main_document_stop_markers": [
+    "México, D. F., a 29 de diciembre de 1981"
+  ],
+  "header_lines": [
+    "LEY QUE APRUEBA LA ADHESIÓN DE MÉXICO AL CONVENIO CONSTITUTIVO DEL BANCO DE DESARROLLO DEL",
+    "CARIBE Y SU EJECUCIÓN"
+  ],
+  "official_title": "Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución",
+  "short_name": "LMCCBDC",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/187_291214.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmccbdc.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1982-01-05",
+  "expected_articles": 10,
+  "expected_transitories": 1,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-08-06T16:58:00Z"
+  },
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

@@ -1,0 +1,254 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lccaif:article:1",
+    "instrument_id": "urn:lex-mx:federal:statute:lccaif",
+    "provision_type": "article",
+    "label": "Artículo 1o",
+    "number": "1o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Se aprueba el Convenio Constitutivo de la Asociación Internacional de Fomento, para los efectos de la fracción VIII del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 26 de enero de 1960.",
+    "publication_date": "1960-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lccaif:article:2",
+    "instrument_id": "urn:lex-mx:federal:statute:lccaif",
+    "provision_type": "article",
+    "label": "Artículo 2o",
+    "number": "2o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Se Autoriza al Gobierno Federal efectuar una aportación a la Asociación Internacional de Fomento hasta por el equivalente a 17,000,000 (diecisiete millones) de dólares de los Estados Unidos de América, correspondiente a la vigésima reposición de recursos. Esta cantidad se debe adicionar a las aportaciones anteriores efectuadas por nuestro país.\n\nArtículo reformado DOF 08-01-1981, 28-12-1981, 04-11-1983. Fe de erratas al artículo DOF 21-05-1984. Reformado DOF 24-12-1984, 13-01-1986, 19-01-1988, 26-07-1990, 16-07-1993, 07-05-1997, 30-12-2008, 22-01-2009, 29-12-2014, 06-06-2025",
+    "publication_date": "1960-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lccaif:article:3",
+    "instrument_id": "urn:lex-mx:federal:statute:lccaif",
+    "provision_type": "article",
+    "label": "Artículo 3o",
+    "number": "3o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La Secretaría de Hacienda y Crédito Público será la única dependencia autorizada para tratar todo lo relativo a la Asociación Internacional de Fomento y ejercer al respecto toda clase de facultades.\n\nArtículo reformado DOF 13-01-1986",
+    "publication_date": "1960-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lccaif:article:4",
+    "instrument_id": "urn:lex-mx:federal:statute:lccaif",
+    "provision_type": "article",
+    "label": "Artículo 4o",
+    "number": "4o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El Banco de México, S. A. será el depositario en México de las disponibilidades de la Asociación Internacional de Fomento, de conformidad con el Artículo VI Sección 9 del Convenio Constitutivo del citado Organismo.",
+    "publication_date": "1960-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lccaif:article:5",
+    "instrument_id": "urn:lex-mx:federal:statute:lccaif",
+    "provision_type": "article",
+    "label": "Artículo 5o",
+    "number": "5o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "(Se deroga).\n\nArtículo derogado DOF 07-05-1997",
+    "publication_date": "1960-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "repealed",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lccaif:article:6",
+    "instrument_id": "urn:lex-mx:federal:statute:lccaif",
+    "provision_type": "article",
+    "label": "Artículo 6o",
+    "number": "6o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Los Gobernadores Propietario y Suplente que representen a México ante la Asociación Internacional de Fomento, serán los mismos que funjan con tal carácter en el Banco Internacional de Reconstrucción y Fomento.\n\nArtículo reformado DOF 13-01-1986",
+    "publication_date": "1960-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lccaif:article:7",
+    "instrument_id": "urn:lex-mx:federal:statute:lccaif",
+    "provision_type": "article",
+    "label": "Artículo 7o",
+    "number": "7o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El Gobernador Suplente tendrá las facultades del Propietario, en caso de ausencia de éste, salvo las restricciones que establezca la Secretaría de Hacienda y Crédito Público.\n\nArtículo reformado DOF 13-01-1986",
+    "publication_date": "1960-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lccaif:article:8",
+    "instrument_id": "urn:lex-mx:federal:statute:lccaif",
+    "provision_type": "article",
+    "label": "Artículo 8o",
+    "number": "8o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "(Se deroga).\n\nArtículo derogado DOF 13-01-1986",
+    "publication_date": "1960-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "repealed",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lccaif:article:9",
+    "instrument_id": "urn:lex-mx:federal:statute:lccaif",
+    "provision_type": "article",
+    "label": "Artículo 9o",
+    "number": "9o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El Estado Mexicano reconoce la personalidad jurídica de la Asociación Internacional de Fomento. Los tribunales federales serán los únicos competentes para conocer de los negocios en que sea parte la Asociación Internacional de Fomento, sus funcionarios o empleados residentes en México o que en alguna forma puedan afectar bienes propiedad de dicha Institución.\n\nEn ningún caso los Tribunales dictarán providencias precautorias sobre los bienes de la Asociación Internacional de Fomento y sólo podrán dictar mandamiento de embargo o ejecución, cuando exista sentencia ejecutoriada en su contra. Párrafo reformado DOF 13-01-1986",
+    "publication_date": "1960-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lccaif:article:10",
+    "instrument_id": "urn:lex-mx:federal:statute:lccaif",
+    "provision_type": "article",
+    "label": "Artículo 10",
+    "number": "10",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Los funcionarios y empleados de la Asociación Internacional de Fomento, así como las propiedades y bienes de este Organismo, sus archivos y sus comunicaciones oficiales, disfrutarán de las inmunidades, privilegios y exenciones tributarias a que se refiere el Texto del Convenio aprobado por los Directores Ejecutivos del Banco Internacional de Reconstrucción y Fomento el 26 de enero de 1960.",
+    "publication_date": "1960-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lccaif:article:11",
+    "instrument_id": "urn:lex-mx:federal:statute:lccaif",
+    "provision_type": "article",
+    "label": "Artículo 11",
+    "number": "11",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El Gobierno Federal requiere exclusivamente de la aprobación de la Cámara de Senadores del Congreso de la Unión, para la terminación, denuncia, suspensión, modificación, enmienda, retiro de reservas y formulación de declaraciones interpretativas del Convenio Constitutivo de la Asociación Internacional de Fomento. Esto de conformidad con lo dispuesto en el artículo 76, fracción I, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.\n\nArtículo reformado DOF 06-06-2025",
+    "publication_date": "1960-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lccaif:transitory:unico",
+    "instrument_id": "urn:lex-mx:federal:statute:lccaif",
+    "provision_type": "transitory",
+    "label": "UNICO",
+    "number": "UNICO",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El presente decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.",
+    "publication_date": "1960-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  }
+]

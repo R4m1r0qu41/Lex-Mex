@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lmccbdc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución",
+  "short_name": "LMCCBDC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1982-01-05",
+  "latest_reform_date": "2014-12-29",
+  "retrieved_at": "2026-08-06T17:00:38.587214Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/187_291214.pdf",
+  "source_sha256": "2f11746efbe37cbc7bf8f9448f5d9050c4deee13184bbe78c4e958d017bebece",
+  "extracted_text_sha256": "62bdce820b3c183b964fc5e3934513738d50f26cb38922e8360465f911ba51d6",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

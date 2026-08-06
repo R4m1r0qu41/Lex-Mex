@@ -490,9 +490,13 @@ fn is_reform_regulation_heading(block: &str) -> bool {
 
 /// A reform-decree appendix entry whose amending act is itself a *ley*
 /// (`LEY que reforma ...`, `Ley que establece ...`) rather than a decreto or
-/// reglamento — older consolidations record some reforms this way.
+/// reglamento — older consolidations record some reforms this way. The
+/// uppercase-name/lowercase-connector `LEY del ...` form is a complete law
+/// title in the same publisher style as `REGLAMENTO de ...`; keeping the
+/// match to that exact form avoids treating ordinary title-case prose as a
+/// structural boundary.
 fn is_reform_ley_heading(block: &str) -> bool {
-    block.starts_with("LEY que ") || block.starts_with("Ley que ")
+    block.starts_with("LEY que ") || block.starts_with("Ley que ") || block.starts_with("LEY del ")
 }
 
 /// Line-level flush trigger, deliberately looser than the block-level
@@ -1181,6 +1185,8 @@ mod tests {
     );
     const REFORM_DECRETO_DE_REFORMAS_HEADING_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-decreto-de-reformas-heading-sample.txt");
+    const REFORM_BARE_LEY_TITLE_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/reform-bare-ley-title-sample.txt");
 
     fn options(instrument_id: &str, title: &str) -> DiputadosOptions {
         DiputadosOptions {
@@ -1696,6 +1702,32 @@ mod tests {
             "urn:lex-mx:federal:statute:sample:amendment:1983-12-28:transitory:unico"
         );
         assert!(evidence[0].label.contains("Decreto DOF 1983-12-28"));
+    }
+
+    #[test]
+    fn a_bare_ley_del_title_is_recognized_as_a_reform_act_heading() {
+        // Regression for LFGFAGA: its reform appendix includes the complete
+        // "LEY del Banco de México." as the amending act, rather than a
+        // Decreto or a "Ley que ..." reform heading. The preceding FE DE
+        // ERRATAS entry has its own publication date but no transitories, so
+        // the bare Ley title must reset the containing-act identity before
+        // the Banco de México transitory section begins.
+        let evidence = super::extract_reform_evidence(
+            REFORM_BARE_LEY_TITLE_FIXTURE,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+        )
+        .expect("a bare LEY del title must identify the containing reform act");
+
+        assert_eq!(evidence.len(), 2);
+        assert_eq!(
+            evidence[0].provision_id,
+            "urn:lex-mx:federal:statute:sample:amendment:1993-12-23:transitory:primero"
+        );
+        assert_eq!(
+            evidence[1].provision_id,
+            "urn:lex-mx:federal:statute:sample:amendment:1993-12-23:transitory:decimo-octavo"
+        );
+        assert!(evidence.iter().all(|item| item.label.contains("Ley DOF")));
     }
 
     #[test]

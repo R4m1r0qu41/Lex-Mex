@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lccbid",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/200_291214.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lccbid.htm",
+  "retrieved_at": "2026-08-06T17:00:44.592205Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 290970,
+  "etag": "\"4709a-5766b15361f40\"",
+  "last_modified": "Sat, 22 Sep 2018 00:46:13 GMT",
+  "source_sha256": "acd6dc67820b7cb3bfa7f1f5f35f25b94d0531fdd24aa1165344cab0a5dabec7",
+  "extracted_text_sha256": "6b662a4d0a9357d325274154f5438822aeb45b5313128d5c22dde6d411d94989",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "aef1490515aba1208d291b5b4dee74a900d2fcd7"
+}

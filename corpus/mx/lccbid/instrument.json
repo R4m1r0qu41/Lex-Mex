@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lccbid",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo del Banco Interamericano de Desarrollo",
+  "short_name": "LCCBID",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1959-12-19",
+  "latest_reform_date": "2014-12-29",
+  "retrieved_at": "2026-08-06T17:00:44.592205Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/200_291214.pdf",
+  "source_sha256": "acd6dc67820b7cb3bfa7f1f5f35f25b94d0531fdd24aa1165344cab0a5dabec7",
+  "extracted_text_sha256": "6b662a4d0a9357d325274154f5438822aeb45b5313128d5c22dde6d411d94989",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}
