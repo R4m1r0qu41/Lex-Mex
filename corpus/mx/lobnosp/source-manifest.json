@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lobnosp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNOSP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnosp.htm",
+  "retrieved_at": "2026-08-06T03:27:22.120471Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 467930,
+  "etag": "\"723da-617d237807380\"",
+  "last_modified": "Tue, 07 May 2024 00:25:02 GMT",
+  "source_sha256": "7ab6cfd5861e9fc87502494fbcea4174806d253a715a80003b120f208c10214f",
+  "extracted_text_sha256": "3b41ab698770260902db83ff4bf8e18f11dbce40a954b159e518f4047d9403a2",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "5f6d665a403c880bc2117ac9a8df2e911d9bca62"
+}

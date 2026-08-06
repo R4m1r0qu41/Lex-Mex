@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lobb",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Orgánica del Banco del Bienestar",
+  "short_name": "LOBB",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2001-06-01",
+  "latest_reform_date": "2019-07-19",
+  "retrieved_at": "2026-08-06T03:27:15.909995Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/164_190719.pdf",
+  "source_sha256": "915a4f4f7947f248971aebed71f67ddf5fd26bd41faeacb7084ded7a6c57b6dc",
+  "extracted_text_sha256": "0d69ea008262234ca96e1796d986685efebf4bd1862618c9b41525066c7a3511",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

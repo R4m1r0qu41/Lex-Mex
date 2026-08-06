@@ -1,5 +1,45 @@
 # Architecture decisions
 
+## 2026-08-05 — FI2 admitted; five more ordinal-numbering hits and six reviewed enactment-signature boundaries
+
+FI2 (`batches/financial_FI2_banca_desarrollo.json`, normalized from
+`prompts/cluster-2-batches/lex-mex-cl2-batch-FI2.json`) continues Domain FI
+and adds all six prepared development-bank statutes: `lonf`, `loshf`, `lobb`,
+`lobnce`, `lobnosp`, and `lobnefaa`.
+
+**Sixteenth through twentieth confirmed hits of the `1o.`–`9o.` ordinal
+case.** `lonf`, `loshf`, `lobnce`, `lobnosp`, and `lobnefaa` use the familiar
+single-digit ordinal abbreviations before switching to cardinal numbering at
+Article 10. Each received the same reviewed `allow_article_gaps: true`
+adapter setting; no parser code or default changed. `lobb` stayed on the
+strict default (`false`): its only non-numeric labels are Articles 8 Bis, 25
+Bis, and 37 Bis, each correctly positioned between consecutive cardinal
+articles, so its three `non_numeric_article` warnings are non-blocking and do
+not interrupt the strict numeric run.
+
+**All six sources needed an exact original-enactment boundary.** Each older
+Cámara consolidation appends the congressional signatures and presidential
+promulgation formula directly after its final original transitory. Without an
+adapter-scoped `main_document_stop_markers` entry, the parser correctly
+preserved that source text but attached the furniture to the final transitory
+and emitted a spurious CPEUM Article 89 reference. The six exact legislative
+date markers remove only that non-canonical apparatus. This is the same
+reviewed source-specific correction used on earlier Cámara instruments, not a
+new shared parser rule; each rerun reduced its reference count by exactly one
+and left the substantive final transitory intact.
+
+**Verification.** FI2's bounded closure relinked, validated, and republished
+all six instruments. Together they add 249 articles, 38 original
+transitories, 144 resolved references, four defined terms with 241 usages,
+and 124 reform-transitory evidence records. Validation has zero errors and
+three explained warnings, all `lobb` suffix notices. The frozen operational
+inventory advances from 37 to 38 manifests and from 186 to 192 unique
+instrument slugs.
+
+The full required gate passed: formatting clean, clippy clean with warnings
+denied, 152 workspace tests passed, and both audited baseline validators
+(`lritf`, `ifpe-dcg-2021`) reported zero issues.
+
 ## 2026-08-02 — FI1 admitted, opening Domain FI; a new hold-out class (stale cross-reference to a repealed provision)
 
 TX1–TX3 closed Domain TX; FI1 (`batches/financial_FI1_autoridades_pagos.json`,

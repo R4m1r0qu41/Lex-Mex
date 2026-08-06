@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lobnce",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNCE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnce.htm",
+  "retrieved_at": "2026-08-06T03:27:19.358491Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 446349,
+  "etag": "\"6cf8d-617d1c0a66d00\"",
+  "last_modified": "Mon, 06 May 2024 23:51:48 GMT",
+  "source_sha256": "8ab677987a58aad0d0ed9b1e299b375fd382aeec47b9536547ec7debb2d24a2c",
+  "extracted_text_sha256": "cb54ae9ffb078371ad9a637077dc7a57cf3b95e429074aa12c8bd959dce2c97d",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "5f6d665a403c880bc2117ac9a8df2e911d9bca62"
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lobb:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lobb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lobb:article:2",
+    "fraction": "I",
+    "start_char": 84,
+    "end_char": 170,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lobb:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lobb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lobb:article:2",
+    "fraction": "II",
+    "start_char": 170,
+    "end_char": 234,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lobb:term:institucion",
+    "term": "Institución",
+    "instrument_id": "urn:lex-mx:federal:statute:lobb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lobb:article:2",
+    "fraction": "III",
+    "start_char": 234,
+    "end_char": 379,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lobb:term:sector",
+    "term": "Sector",
+    "instrument_id": "urn:lex-mx:federal:statute:lobb",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lobb:article:2",
+    "fraction": "IV",
+    "start_char": 379,
+    "end_char": 831,
+    "basis": "express_definition"
+  }
+]

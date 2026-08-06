@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lonf",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Orgánica de Nacional Financiera",
+  "short_name": "LONF",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1986-12-26",
+  "latest_reform_date": "2014-01-10",
+  "retrieved_at": "2026-08-06T03:27:10.350727Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/162.pdf",
+  "source_sha256": "99d3d61b8abaa6f0c20427466c41a7f236feda5772e49a6aec7f677b29e14880",
+  "extracted_text_sha256": "91f75a28da43e08ac5f8e5aeeb425d2a06d36d08ade0a86b011a430a216e5799",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:loshf",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Orgánica de Sociedad Hipotecaria Federal",
+  "short_name": "LOSHF",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2001-10-11",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-08-06T03:27:13.092714Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSHF.pdf",
+  "source_sha256": "00a876c2b691175df0253958b3f337e05d3610e11b79336ad1570539013d2865",
+  "extracted_text_sha256": "d84485cc8cb93a181caeb13726aea73a217fe8df63a8d74edc0888f425525600",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

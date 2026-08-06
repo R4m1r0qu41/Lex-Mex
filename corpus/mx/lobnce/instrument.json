@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lobnce",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Orgánica del Banco Nacional de Comercio Exterior",
+  "short_name": "LOBNCE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1986-01-20",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-08-06T03:27:19.358491Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNCE.pdf",
+  "source_sha256": "8ab677987a58aad0d0ed9b1e299b375fd382aeec47b9536547ec7debb2d24a2c",
+  "extracted_text_sha256": "cb54ae9ffb078371ad9a637077dc7a57cf3b95e429074aa12c8bd959dce2c97d",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "lobnosp",
+  "instrument_id": "urn:lex-mx:federal:statute:lobnosp",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "main_document_stop_markers": [
+    "México, D. F., a 21 de diciembre de 1985"
+  ],
+  "official_title": "Ley Orgánica del Banco Nacional de Obras y Servicios Públicos",
+  "short_name": "LOBNOSP",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNOSP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnosp.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1986-01-20",
+  "expected_articles": 36,
+  "expected_transitories": 6,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-08-06T03:25:22Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

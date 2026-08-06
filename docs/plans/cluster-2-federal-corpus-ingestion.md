@@ -122,6 +122,16 @@ Verified against local `main` at `736146bd8`:
   "artículo 16 Bis 7," a provision confirmed absent from LMV's current
   committed text and from a freshly refetched LMV.pdf. FI1's
   individual-ingestion checkpoint is complete.
+- FI2 has admitted all six prepared instruments (2026-08-05,
+  `docs/decisions.md` same date): `lonf`, `loshf`, `lobb`, `lobnce`,
+  `lobnosp`, and `lobnefaa`, via
+  `batches/financial_FI2_banca_desarrollo.json`. Five hit the established
+  `1o.`–`9o.` ordinal case (sixteenth through twentieth confirmed
+  instances); `lobb` remained on strict article ordering with only three
+  reviewed Bis-suffix warnings. All six use exact adapter-scoped original-
+  enactment signature boundaries, removing one spurious CPEUM Article 89
+  edge apiece without a parser change. FI2's individual-ingestion and
+  bounded-closure checkpoints are complete.
 - Per-instrument counts, source and extracted-text hashes, and validation
   state are owned by each instrument's `corpus/mx/<slug>/validation.json` and
   `source-manifest.json` and are not restated here. The dated `Progress` log
@@ -140,10 +150,11 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-AD1–AD4, TX1–TX3, and FI1 are closed/admitted; FI1 opened Domain FI
+AD1–AD4, TX1–TX3, and FI1–FI2 are closed/admitted; FI1 opened Domain FI
 (`lcnbv` held out for `stale-cross-reference-to-repealed-provision`, a new
-class — `docs/ingestion-difficulty-log.md`). When general cluster-2
-ingestion resumes, normalize FI2 (`cl2_FI2_banca_desarrollo`, 6
+class — `docs/ingestion-difficulty-log.md`) and FI2 continued it with all six
+prepared entries admitted. When general cluster-2 ingestion resumes,
+normalize FI3 (`cl2_FI3_seguro_rural_convenios`, 8
 instruments, the next batch per
 `prompts/lex-mex-federal-cluster-2-plan.md`'s admission order) into an
 operational manifest and provisionally process its first instrument. The
@@ -256,11 +267,31 @@ review remain separate work.
   `docs/ingestion-difficulty-log.md`); `lif-2026`/`pef-2026` stay blocked.
   Full workspace gate (152 tests, 3 new) and batch closure passed.
   `docs/decisions.md` 2026-08-01.
+- [x] (2026-08-05) Normalized and completed FI2 by ingesting `lonf`,
+  `loshf`, `lobb`, `lobnce`, `lobnosp`, and `lobnefaa`: 249 articles, 38
+  original transitories, 144 references (all resolved), four defined terms
+  with 241 usages, and 124 reform-transitory evidence records. Five
+  instruments hit the familiar `1o.`–`9o.` ordinal case; all six needed
+  exact original-enactment signature stop markers. No parser code changed.
+  Bounded six-instrument closure passed; only `lobb` retains three reviewed
+  `non_numeric_article` warnings for correctly ordered Bis suffixes.
+  The full required gate passed (152 workspace tests, formatting, clippy, and
+  both audited baseline validators).
+  `docs/decisions.md` 2026-08-05.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
 ## Surprises and discoveries
 
+- Observation: all six FI2 development-bank consolidations place enactment
+  signatures immediately after the final original transitory, while five of
+  six also begin with `1o.`–`9o.` article labels.
+  Evidence: each provisional parse emitted exactly one spurious CPEUM Article
+  89 edge from its final transitory until an exact legislative-date stop
+  marker was added; `lonf`, `loshf`, `lobnce`, `lobnosp`, and `lobnefaa`
+  separately reproduced the established ordinal-counter validation shape.
+  `lobb` proved the strict path remains useful: Articles 8 Bis, 25 Bis, and
+  37 Bis are correctly interleaved and do not disrupt the numeric run.
 - Observation: Cámara's current federal-regulations index sometimes exposes
   an official consolidation only as a legacy binary Word document.
   Evidence: `reg-csps` source `n273.doc` is an OLE Word file with
@@ -414,6 +445,14 @@ review remain separate work.
 
 ## Decision log
 
+- Decision: keep FI2's numbering and original-enactment boundaries in the six
+  instrument adapters; do not broaden the shared parser or change the strict
+  scaffold default.
+  Rationale: five sources reproduce the already reviewed ordinal-label case,
+  while `lobb` validates correctly under strict ordering; each signature
+  block has a unique exact date marker and lies outside canonical provision
+  text. Adapter configuration is the narrow deterministic boundary.
+  Date/author: 2026-08-05 / FI2 execution.
 - Decision: admit `reg-csps` in a dedicated downstream-coverage batch while
   preserving `lgbn` as the next general AD1 item.
   Rationale: the operator explicitly authorized the full Maximasa sequence,
@@ -695,8 +734,10 @@ complete through `reg-ladua`, closing Domain TX (`lcmopfih`/`lisipl` held
 out for `nested-law-in-enacting-article`, `lif-2026`/`pef-2026` blocked);
 FI1 is complete through `ltfccg`, opening Domain FI (`lcnbv` held out for
 the newly logged `stale-cross-reference-to-repealed-provision` class).
-FI2 (`cl2_FI2_banca_desarrollo`) is next, and corpus-wide closure remains
-deferred until the broader cluster target set is admitted.
+FI2 is complete through `lobnefaa`, continuing Domain FI with all six
+prepared entries admitted. FI3 (`cl2_FI3_seguro_rural_convenios`) is next,
+and corpus-wide closure remains deferred until the broader cluster target set
+is admitted.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 

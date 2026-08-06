@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:loshf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSHF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loshf.htm",
+  "retrieved_at": "2026-08-06T03:27:13.092714Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 449114,
+  "etag": "\"6da5a-617e68bf0e080\"",
+  "last_modified": "Wed, 08 May 2024 00:40:18 GMT",
+  "source_sha256": "00a876c2b691175df0253958b3f337e05d3610e11b79336ad1570539013d2865",
+  "extracted_text_sha256": "d84485cc8cb93a181caeb13726aea73a217fe8df63a8d74edc0888f425525600",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "5f6d665a403c880bc2117ac9a8df2e911d9bca62"
+}

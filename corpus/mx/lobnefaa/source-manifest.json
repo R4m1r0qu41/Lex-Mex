@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lobnefaa",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/167.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnefaa.htm",
+  "retrieved_at": "2026-08-06T03:27:24.851898Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 408440,
+  "etag": "\"63b78-576a287b32f40\"",
+  "last_modified": "Mon, 24 Sep 2018 18:55:17 GMT",
+  "source_sha256": "163f7d66aa47a07798c155bd7f39f065c7fd0103c098a31b6db3401ac5f01caf",
+  "extracted_text_sha256": "fc5e62e5d5f40ae570e02ecdbc1b4219abf5a3deb0345a80892362fdd2a52373",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "5f6d665a403c880bc2117ac9a8df2e911d9bca62"
+}

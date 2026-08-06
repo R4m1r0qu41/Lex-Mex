@@ -1,0 +1,25 @@
+{
+  "slug": "loshf",
+  "instrument_id": "urn:lex-mx:federal:statute:loshf",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "main_document_stop_markers": [
+    "México, D.F., a 25 de septiembre de 2001"
+  ],
+  "official_title": "Ley Orgánica de Sociedad Hipotecaria Federal",
+  "short_name": "LOSHF",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSHF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loshf.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2001-10-11",
+  "expected_articles": 38,
+  "expected_transitories": 11,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-08-06T03:22:29Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}
