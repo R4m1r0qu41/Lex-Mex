@@ -57,7 +57,7 @@ in `Current checkpoint` and `Progress`, not in this list.
 
 ## Current checkpoint
 
-Verified against local `main` at `736146bd8`:
+Verified against local `main` at `35618fc90`:
 
 - CN1 (`locg`, `reg-diputados`, `reg-senado`, `rgic`, `ldofgg`) and CN2 (10
   instruments) are committed and structurally closed; the CN2 reverse-link,
@@ -122,7 +122,8 @@ Verified against local `main` at `736146bd8`:
   "artículo 16 Bis 7," a provision confirmed absent from LMV's current
   committed text and from a freshly refetched LMV.pdf. FI1's
   individual-ingestion checkpoint is complete.
-- FI2 has admitted all six prepared instruments (2026-08-05,
+- FI2 has committed all six prepared instruments at `35618fc90`
+  (2026-08-05,
   `docs/decisions.md` same date): `lonf`, `loshf`, `lobb`, `lobnce`,
   `lobnosp`, and `lobnefaa`, via
   `batches/financial_FI2_banca_desarrollo.json`. Five hit the established
@@ -267,8 +268,8 @@ review remain separate work.
   `docs/ingestion-difficulty-log.md`); `lif-2026`/`pef-2026` stay blocked.
   Full workspace gate (152 tests, 3 new) and batch closure passed.
   `docs/decisions.md` 2026-08-01.
-- [x] (2026-08-05) Normalized and completed FI2 by ingesting `lonf`,
-  `loshf`, `lobb`, `lobnce`, `lobnosp`, and `lobnefaa`: 249 articles, 38
+- [x] (2026-08-05) Normalized and completed FI2 at `35618fc90` by ingesting
+  `lonf`, `loshf`, `lobb`, `lobnce`, `lobnosp`, and `lobnefaa`: 249 articles, 38
   original transitories, 144 references (all resolved), four defined terms
   with 241 usages, and 124 reform-transitory evidence records. Five
   instruments hit the familiar `1o.`–`9o.` ordinal case; all six needed
