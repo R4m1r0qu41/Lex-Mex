@@ -34,6 +34,12 @@
       "code": "standard_modification_target_unresolved",
       "message": "modification published 2012-12-27 names Apéndice normativo A (eliminated), which matches no committed clause",
       "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_trailing_material",
+      "message": "material after the transitorios section begins at \"Anexo I\"; it is not represented in clauses.json and may be normative",
+      "provision_id": null
     }
   ]
 }

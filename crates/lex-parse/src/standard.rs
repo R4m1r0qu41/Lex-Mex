@@ -702,6 +702,7 @@ pub fn validate_standard(
     validate_metadata(metadata, &mut issues);
     validate_standard_sources(metadata, &targets, &mut issues);
     validate_clauses(metadata, clauses, source_text, &mut issues);
+    validate_clause_coverage(clauses, source_text, &mut issues);
     validate_transitories(metadata, transitories, source_text, &mut issues);
     validate_supplements(
         metadata,
@@ -710,7 +711,7 @@ pub fn validate_standard(
         source_text,
         &mut issues,
     );
-    validate_trailing_material(metadata, source_text, &mut issues);
+    validate_trailing_material(metadata, clauses, source_text, &mut issues);
     StandardValidationReport {
         schema_version: SCHEMA_VERSION.to_owned(),
         standard_id: metadata.id.clone(),
@@ -1019,6 +1020,53 @@ fn validate_clauses(
     }
 }
 
+/// How much of the normative body (up to a genuine TRANSITORIOS heading) the
+/// selected clause run actually spans.
+///
+/// Guards against NOM-052-SEMARNAT-2005's historical defect --
+/// `numbered_body_run` selecting the índice (11 rows, 474 bytes) instead of
+/// the real ~76-clause body -- recalibrated to a body-only denominator now
+/// that `StandardSupplement` exists: measuring against the whole document
+/// would conflate a correctly-parsed clause run with legitimate supplement
+/// text after it, which the original floor predates.
+///
+/// Only evaluated when a genuine TRANSITORIOS heading exists. Without one,
+/// trailing apéndices/anexos can legitimately dwarf the clause run (see
+/// NOM-247-SSA1-2008), and that shape is `validate_trailing_material`'s to
+/// report, not this check's -- a whole-document fallback here would flag the
+/// right instrument for the wrong reason and duplicate that warning.
+fn validate_clause_coverage(
+    clauses: &[StandardClause],
+    source_text: &str,
+    issues: &mut Vec<ValidationIssue>,
+) {
+    const CLAUSE_COVERAGE_FLOOR: f64 = 0.31;
+    let (Some(first), Some(last), Some((heading_start, _))) = (
+        clauses.first(),
+        clauses.last(),
+        real_transitorios_heading(source_text),
+    ) else {
+        return;
+    };
+    let body_limit = source_text[..heading_start].chars().count();
+    if body_limit <= first.start_char || last.end_char <= first.start_char {
+        return;
+    }
+    let span = (last.end_char - first.start_char) as f64;
+    let coverage = span / (body_limit - first.start_char) as f64;
+    if coverage < CLAUSE_COVERAGE_FLOOR {
+        issues.push(warning(
+            "standard_clause_coverage",
+            format!(
+                "selected clauses span {:.1}% of the normative body up to TRANSITORIOS; a run \
+                 this sparse resembles the índice-selected-as-body defect \
+                 (NOM-052-SEMARNAT-2005, 2026-07-28)",
+                coverage * 100.0
+            ),
+        ));
+    }
+}
+
 /// Identity, uniqueness, and exact-span checks for transitorios. No absence
 /// or ordering check: an empty list is not itself an error (some retained
 /// texts genuinely lack a recognizable TRANSITORIOS section), and ordinal
@@ -1277,6 +1325,7 @@ fn error(code: &str, message: String, provision_id: Option<String>) -> Validatio
 /// to dismiss the code.
 fn validate_trailing_material(
     metadata: &StandardMetadata,
+    clauses: &[StandardClause],
     source_text: &str,
     issues: &mut Vec<ValidationIssue>,
 ) {
@@ -1293,8 +1342,23 @@ fn validate_trailing_material(
     if !metadata.supplement_starts.is_empty() {
         return;
     }
-    let Some((_, heading_end)) = real_transitorios_heading(source_text) else {
-        return;
+    // A genuine TRANSITORIOS section anchors the search, same as before. Some
+    // standards have none at all -- their last clause runs straight into
+    // apéndices/anexos (which, per direct review of NOM-247-SSA1-2008, may be
+    // normative without being signed, so nothing downstream of this anchor
+    // should assume a Rúbrica exists). Fall back to the last committed
+    // clause's end, converting its char offset back to the byte offset this
+    // function slices `source_text` with everywhere else.
+    let heading_end = if let Some((_, heading_end)) = real_transitorios_heading(source_text) {
+        heading_end
+    } else {
+        let Some(last_clause) = clauses.last() else {
+            return;
+        };
+        source_text
+            .char_indices()
+            .nth(last_clause.end_char)
+            .map_or(source_text.len(), |(byte_offset, _)| byte_offset)
     };
     let section_end = closing_signature_start(source_text, heading_end, source_text.len())
         .unwrap_or(source_text.len());
@@ -1377,6 +1441,10 @@ mod tests {
         include_str!("../../../fixtures/standards/form-feed-section-heading-sample.txt");
     const INDEX_OUTNUMBERS_BODY_SAMPLE: &str =
         include_str!("../../../fixtures/standards/index-outnumbers-body-sample.txt");
+    const NO_TRANSITORIOS_ANNEX_SAMPLE: &str =
+        include_str!("../../../fixtures/standards/no-transitorios-annex-sample.txt");
+    const NO_TRANSITORIOS_SIGNATURE_ONLY_SAMPLE: &str =
+        include_str!("../../../fixtures/standards/no-transitorios-signature-only-sample.txt");
 
     #[test]
     fn a_redesignated_standard_records_its_published_designation() {
@@ -1519,6 +1587,129 @@ mod tests {
             trailing.message.contains("APÉNDICE I"),
             "the warning must name the heading it found: {}",
             trailing.message
+        );
+    }
+
+    #[test]
+    fn trailing_material_without_any_transitorios_section_is_still_reported() {
+        // NOM-247-SSA1-2008 and NOM-251-SSA1-2009 run straight from their
+        // last clause into an APÉNDICE/ANEXO with no TRANSITORIOS section at
+        // all -- `real_transitorios_heading` returns `None`, and the trailing
+        // check used to bail out unconditionally in that case, leaving the
+        // two committed instruments with the most unmodeled content (290,998
+        // and 25,209 bytes respectively) with no warning whatsoever. The
+        // anchor now falls back to the last committed clause's end.
+        let metadata = metadata();
+        let clauses = parse_standard_clauses(NO_TRANSITORIOS_ANNEX_SAMPLE, &metadata).unwrap();
+        let transitories =
+            parse_standard_transitories(NO_TRANSITORIOS_ANNEX_SAMPLE, &metadata).unwrap();
+        assert!(transitories.is_empty());
+        let report = validate_standard(
+            &metadata,
+            &clauses,
+            &transitories,
+            &[],
+            NO_TRANSITORIOS_ANNEX_SAMPLE,
+        );
+        let trailing = report
+            .issues
+            .iter()
+            .find(|issue| issue.code == "standard_trailing_material")
+            .unwrap_or_else(|| panic!("expected a named warning, got {:?}", report.issues));
+        assert!(
+            trailing.message.contains("APENDICE A"),
+            "the warning must name the heading it found, not match inside the last clause's own \
+             heading mention: {}",
+            trailing.message
+        );
+    }
+
+    #[test]
+    fn no_transitorios_and_only_a_signature_block_does_not_warn() {
+        // NOM-187-SSA1-SCFI-2002 also has no TRANSITORIOS section, but
+        // nothing genuinely follows its last clause besides the closing
+        // signature -- the fallback anchor must not manufacture a false
+        // positive out of ordinary closing formality.
+        let metadata = metadata();
+        let clauses =
+            parse_standard_clauses(NO_TRANSITORIOS_SIGNATURE_ONLY_SAMPLE, &metadata).unwrap();
+        let transitories =
+            parse_standard_transitories(NO_TRANSITORIOS_SIGNATURE_ONLY_SAMPLE, &metadata).unwrap();
+        assert!(transitories.is_empty());
+        let report = validate_standard(
+            &metadata,
+            &clauses,
+            &transitories,
+            &[],
+            NO_TRANSITORIOS_SIGNATURE_ONLY_SAMPLE,
+        );
+        assert!(
+            !report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "standard_trailing_material"),
+            "a signature-only remainder must not warn: {:?}",
+            report.issues
+        );
+    }
+
+    #[test]
+    fn clause_coverage_below_the_floor_is_reported() {
+        // The recalibrated floor: span ÷ (TRANSITORIOS start - first clause
+        // start), not span ÷ whole document. Reproduces the shape of
+        // NOM-052-SEMARNAT-2005's historical índice-selected-as-body defect
+        // (11 índice rows, 474 bytes, scored 1.1% against the whole
+        // document) by truncating a real body down to its first clause only,
+        // which must still score far below the floor against the
+        // TRANSITORIOS-bounded denominator.
+        let metadata = metadata();
+        let clauses = parse_standard_clauses(POST_TRANSITORIOS_ANNEX_SAMPLE, &metadata).unwrap();
+        let sparse = &clauses[..1];
+        let transitories =
+            parse_standard_transitories(POST_TRANSITORIOS_ANNEX_SAMPLE, &metadata).unwrap();
+        let report = validate_standard(
+            &metadata,
+            sparse,
+            &transitories,
+            &[],
+            POST_TRANSITORIOS_ANNEX_SAMPLE,
+        );
+        assert!(
+            report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "standard_clause_coverage"),
+            "expected a coverage warning, got {:?}",
+            report.issues
+        );
+    }
+
+    #[test]
+    fn clause_coverage_is_not_evaluated_without_a_transitorios_section() {
+        // A standard with no TRANSITORIOS at all can legitimately have a
+        // clause run that is small relative to a large trailing annex (see
+        // the no-TRANSITORIOS trailing-material tests above); that shape is
+        // `standard_trailing_material`'s to report. The coverage check must
+        // stay silent rather than flag the same instrument for the wrong
+        // reason.
+        let metadata = metadata();
+        let clauses = parse_standard_clauses(NO_TRANSITORIOS_ANNEX_SAMPLE, &metadata).unwrap();
+        let transitories =
+            parse_standard_transitories(NO_TRANSITORIOS_ANNEX_SAMPLE, &metadata).unwrap();
+        let report = validate_standard(
+            &metadata,
+            &clauses,
+            &transitories,
+            &[],
+            NO_TRANSITORIOS_ANNEX_SAMPLE,
+        );
+        assert!(
+            !report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "standard_clause_coverage"),
+            "coverage must not fire without a TRANSITORIOS section: {:?}",
+            report.issues
         );
     }
 

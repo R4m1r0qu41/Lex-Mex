@@ -1,0 +1,14 @@
+1. Objetivo
+    Establecer las especificaciones sanitarias aplicables.
+2. Campo de aplicación
+    Rige en todos los establecimientos que fabriquen el producto.
+3. Definiciones
+    Para efectos de esta Norma se entiende por producto lo establecido en el numeral anterior.
+4. Observancia de esta Norma
+    La vigilancia del cumplimiento de esta Norma corresponde a la Secretaría.
+
+APENDICE A
+SISTEMA DE ANALISIS DE PELIGROS Y DE PUNTOS CRITICOS DE CONTROL (HACCP)
+Principio         Descripción
+Análisis de peligros      Identificación de peligros biológicos, químicos o físicos.
+Puntos críticos de control      Etapas en las que puede aplicarse un control.

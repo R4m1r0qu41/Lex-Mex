@@ -27,6 +27,48 @@ Review of ingested-but-not-yet-legally-reviewed material is a separate
 question from this log — see `docs/decisions.md` 2026-07-28 for the
 packet-based review policy.
 
+### Bundling addendum (set 2026-08-09)
+
+Two entries below (`annex-form-numbering`, `indice-selected-as-body`) were
+originally logged as separate failure classes and closed by two changes on
+2026-07-29 that turned out to share one cause: `standard.rs`'s heading
+regexes did not admit a form feed as leading whitespace, so a heading
+landing on a page break was invisible. That pairing was found by a
+reviewer re-reading the whole log, not by anything the log's own structure
+surfaced.
+
+Failure-class labels are assigned when an instrument is first flagged, by
+symptom, and symptom does not reliably predict cause — two differently
+named classes closed together once already. So each new entry now also
+carries a **`root_mechanism`** tag, distinct from its failure-class label:
+a short phrase naming the actual code-level cause once triaged (a specific
+regex, a missing filter, a heuristic choosing the wrong candidate), not the
+symptom. Before starting a new batch, or whenever a new entry is filed,
+scan open entries' `root_mechanism` tags for a repeat — a shared tag across
+different-looking failures is the signal to fix once and clear several at
+once, the way the form-feed change already did. The **Cause clusters**
+table below is that scan, kept current rather than re-derived each time.
+
+This log's scope so far has been instruments *held out before* ingestion.
+The first cluster below is a different shape: a defect discovered by a new
+validation method (a positional PDF cross-check, not the existing
+`contains_page_header_contamination` string list) *after* the affected
+instruments were already committed as `valid: true`. Recording it here
+anyway, tagged `[cluster, post-hoc]`, because the bundling discipline
+applies the same way regardless of when the defect was found — and because
+a log that only records pre-commit hold-outs would miss exactly this kind
+of retroactive finding next time.
+
+## Cause clusters (open)
+
+Reviewed before each new batch. A cluster closes here and moves to
+`## Resolved` once its root mechanism is actually fixed and reparsed
+instruments are verified.
+
+| Cluster | Root mechanism | Instruments | Provisions | Status |
+|---|---|---|---|---|
+| `page-furniture-boundary-gap` | `standard.rs` clause/transitory/supplement text is a raw substring slice (`standard.rs:150,216,256`) with no line-level furniture filter — unlike `diputados.rs`'s existing `is_page_furniture` (`diputados.rs:367-378`), which already protects the diputados path | 17 (all NOM/DOF) | 236 | **open** — fix plan at `/Users/jr/Vaults/Spearhead/20_Repos/Lex-Mex/` |
+
 ## Failure classes seen so far
 
 - `acquisition` — no adapter exists for the source; the official text has
@@ -142,6 +184,20 @@ packet-based review policy.
   citations, but making that call unilaterally, instrument by instrument,
   would be a corpus-wide policy change smuggled in through one ingestion.
   Held out rather than resolved on the spot. See `lcnbv` below.
+- `page-furniture-boundary-gap` — a PDF's running header/footer (a section
+  banner, a print-view timestamp, a publisher letterhead) ends up physically
+  inside a committed provision's `text`, because the extraction path that
+  produced it has no per-line furniture filter at the point where a
+  clause/article/transitory's text is sliced from the source. Distinct from
+  `signature-block-bleed` (a single wrong *heading* match squeezing into an
+  otherwise-correct span) and from the form-feed fix under
+  `## Resolved 2026-07-29` (whether a heading is *recognized* at all on a
+  page boundary): this is about content that was never a heading anywhere,
+  silently riding along inside a correctly-bounded span. `root_mechanism`:
+  see the `page-furniture-boundary-gap` row in `## Cause clusters` above.
+  First found retroactively, on already-committed data, by a positional
+  cross-check independent of `contains_page_header_contamination`'s string
+  list — see `[cluster] page-furniture-boundary-gap` below.
 
 Add a new class here the first time it's seen; do not invent a class for a
 single one-off unless it plausibly recurs.
@@ -497,3 +553,190 @@ rather than `instruments`. The other four FI1 instruments (`lsp`,
 case (12th–15th confirmed instances across the AD/TX/FI program) and
 admitted clean via the reviewed `allow_article_gaps: true` adapter
 setting, no parser change.
+
+### [cluster] page-furniture-boundary-gap — root_mechanism: standard.rs has no line-level furniture filter — 2026-08-09
+
+**This entry covers 17 instruments at once, deliberately, per the bundling
+addendum above** — not one entry per instrument. All 17 are already
+committed (`corpus/`), not held out; see the framing note under `## Policy`
+for why a post-hoc finding is recorded here anyway.
+
+What's difficult: a read-only positional validator (Agent Vault
+`EXP-REPO-019-004`/`-005`, prototype at
+`/Users/jr/Dev/experiments/github-distillation/lex-mex-furniture-validator/`,
+built on `pdf-inspector` — the extraction engine under `firecrawl/anydoc`,
+independently reviewed and rejected for actual PDF extraction in
+`EXP-REPO-019-003`) found real DOF page furniture — `(Primera/Segunda/
+Tercera Sección)`, `DIARIO OFICIAL`, and on three instruments a literal
+`nota_detalle.php?...&print=true` URL fragment — physically inside 236
+already-committed provisions across 17 NOM/DOF instruments. Every one
+reported `valid: true`; `contains_page_header_contamination`
+(`lib.rs:1370-1375`) never fired, because its two-string list is
+diputados-specific by construction and was never extended to DOF's
+running-header shape.
+
+Root mechanism, confirmed by reading the code rather than inferred from
+symptoms: `diputados.rs` already has a real per-line furniture filter
+(`is_page_furniture`, `diputados.rs:367-378`, checked against every raw
+line in `normalized_blocks` before a line is ever appended to a block).
+`standard.rs` has no equivalent. Every clause, transitory, and supplement's
+`text` is a raw substring of `source_text` —
+`source_text[trimmed_start..trimmed_end].to_owned()` at `standard.rs:150`
+(clauses), `:216` (transitories), `:256` (supplements) — with only
+edge-whitespace trimming (`trim_span`) applied. No line inside that span is
+ever checked against anything. This is not a regex gap in an existing
+mechanism; the mechanism itself was never built for this path.
+
+A second, initially-suspected cluster (10 diputados instruments matching
+`Secretaría General`) was retracted after direct inspection: every hit was
+a genuine reference to a real institutional office (a court's own
+`Secretaría General de Acuerdos`, or a law — `locg`, `reg-senado`,
+`reg-diputados` — that legitimately regulates Congress's own `Secretaría
+General`/`Secretaría de Servicios Parlamentarios` as its actual subject
+matter), not furniture. `diputados.rs`'s existing filter is why: it already
+excludes that exact line during extraction, so genuine furniture matching
+it essentially never reaches committed text in the first place. Recorded
+as a retraction, not silently dropped — see Agent Vault
+`AI/60_Evaluations/workflow-runs/2026-08-09 positional validator full
+corpus run and contamination audit.md`.
+
+Separately worth flagging, not part of the furniture defect itself: three
+of the 17 (`nom-006-stps-2023`, `nom-036-1-stps-2018`, `nom-017-stps-2024`)
+contain a literal DOF `nota_detalle.php` print-view URL mid-sentence,
+meaning their source was captured via browser print-to-PDF rather than a
+compiled PDF from `platiica`. A provenance question for whoever re-sources
+them, not something the furniture fix addresses.
+
+What was tried: nothing beyond diagnosis in `lex-mex` itself — the
+validator is a separate prototype, deliberately not yet promoted into
+`crates/lex-parse` (its own operator-decision gate, tracked in Agent
+Vault's `REPO-019` registry entry). Full step-by-step fix plan drafted at
+`/Users/jr/Vaults/Spearhead/20_Repos/Lex-Mex/`.
+
+Status: **root mechanism identified, fix not yet written.** Affects 17
+already-committed instruments (236 provisions); does not block any
+in-progress ingestion, but the same gap will keep reproducing in every new
+NOM admitted until fixed — relevant given NOM ingestion (Stage A/B/C
+multi-source consolidation) is the next planned body of work.
+
+### validate-trailing-material-no-transitorios-gap — resolved 2026-08-14
+
+What's difficult: `validate_trailing_material` (`standard.rs`) already
+reports substantive material following TRANSITORIOS — the fix for
+`transitory-absorbs-annex`/general trailing-material omission, shipped
+2026-07-31. But it anchored exclusively on `real_transitorios_heading`,
+returning early when that function returns `None`. Two committed
+instruments have no TRANSITORIOS section at all and run straight from
+their last clause into an unmodeled annex — `nom-247-ssa1-2008` (290,998
+trailing bytes: Anexos I/II plus Apéndices Normativos A/B/C, confirmed by
+the reviewer's direct visual review to be normative content that is
+*not* signed, since NOM apéndices/anexos are sometimes not officially
+part of the Norm proper) and `nom-251-ssa1-2009` (25,209 trailing bytes:
+Apéndice A, an unsigned HACCP worksheet). Neither produced any warning;
+these were the two committed instruments with the most unmodeled content
+and the *only* ones the check was silent on.
+
+Root mechanism: the check's anchor logic assumed a TRANSITORIOS section
+always exists. It does not — this is the same "no TRANSITORIOS at all"
+shape that also underlies the watch entry below.
+
+Fix: when `real_transitorios_heading` returns `None`, anchor on the last
+committed clause's end (`clauses.last().end_char`, converted from its
+char offset back to the byte offset this function's regex-based search
+needs) instead of returning. Verified no false positive on the third
+no-TRANSITORIOS committed instrument (`nom-187-ssa1-scfi-2002`, 337
+trailing bytes, signature block only — correctly stays silent).
+
+Also promoted in the same pass, per the reviewer's request to reconsider
+NOM Batch 2's original clause-span-coverage and terminal-heading checks
+now that `StandardSupplement` exists:
+
+- **`standard_clause_coverage` (new warning, `validate_clause_coverage`).**
+  Recalibrated from "selected-run span ÷ whole document" (the original
+  2026-07-28 formula, predates `StandardSupplement`) to "selected-run span
+  ÷ (TRANSITORIOS start − first clause start)" — the normative-body region
+  the clause parser is actually responsible for. The original formula would
+  have wrongly flagged `nom-052-semarnat-2005` (76 correctly-parsed clauses,
+  0.131 against the whole document because 8 legitimate supplements are now
+  split out) alongside the real defect it was designed for. Recalibrated,
+  it flags **zero of the 32 committed instruments** — it is a forward
+  regression guard for the fixed `indice-selected-as-body` defect, not an
+  active finding; verified it still catches that defect's historical shape
+  (474 bytes ÷ 27,739-byte body ≈ 1.7%, well under the 0.31 floor).
+  Deliberately not evaluated when there is no TRANSITORIOS section: without
+  one, a large trailing annex can legitimately dwarf the clause run (see
+  `nom-247` above), and that shape belongs to `standard_trailing_material`,
+  not this check — a whole-document fallback here would flag the right
+  instrument for the wrong reason and duplicate that warning.
+- **Terminal-heading check — not shipped.** The original "last clause must
+  be Bibliografía/Concordancia" check needed widening to admit legitimate
+  variants (`Vigencia`, `Vigilancia`, `Observancia` all appear on
+  already-correct committed instruments), and needed to check the last
+  *top-level* clause rather than literally the trailing sub-clause. After
+  both corrections the allow-list — five common Spanish administrative
+  words, expanded one at a time each time a real instrument tripped it —
+  flags exactly one instrument, and it is the same one coverage already
+  flags for the same underlying reason (`nom-247`, ending at "Anexos"
+  because it has no TRANSITORIOS section). A five-word allow-list fitted
+  against the 32 documents it is meant to guard has little discriminating
+  power left, and the failure it was built for
+  (`indice-selected-as-body`) is already caught by coverage via the same
+  TRANSITORIOS-anchored denominator. Recommendation: drop it rather than
+  ship a fitted threshold; if a terminal check is wanted later, derive the
+  allow-list from a corpus it wasn't fitted on.
+
+What was tried: reparsed all 32 committed NOMs against the new checks and
+confirmed only `nom-247-ssa1-2008` and `nom-251-ssa1-2009` gained a new
+warning (`lex-mex standards validate <slug>` across the full corpus,
+`git diff --stat corpus/` confirms only their two `validation.json`
+files changed — clauses, transitories, supplements, and extracted text
+are byte-identical to before).
+
+Status: **resolved and reparsed 2026-08-14.** `standard_trailing_material`
+now fires for `nom-247-ssa1-2008` ("Anexo I") and `nom-251-ssa1-2009`
+("APENDICE A"). Both remain unstructured (no `supplement_starts`
+configured) — the warning surfaces the gap for a reviewer, it does not
+model the content.
+
+### [watch] annex-numbering-out-competes-body-without-transitorios — root_mechanism: numbered_body_run ties resolve to the later run — 2026-08-14
+
+**Latent — no committed instrument currently exhibits this. Found while
+building a regression fixture for the entry above, not from real corpus
+data. Recorded as a guard note, not a fix.**
+
+What's difficult: `annex-form-numbering`/`annex-continues-numbering`
+(both above) were fixed by bounding candidate clause runs at
+`real_transitorios_heading`'s start (`body_limit`) — a run cannot *start*
+past that boundary, so a TRANSITORIOS-anchored search always prefers the
+real body over an annex that restarts numbering after it. That fix
+provides no protection when there is no TRANSITORIOS section at all:
+`body_limit` then falls back to the whole document, so a real body
+ending at a non-bibliography heading (e.g. `Observancia`) and a
+same-length annex restarting at `1.`/`2.`/`3.` later in the same
+document become two equally-valid candidate runs. `numbered_body_run`'s
+selection is `max_by_key(|(selected, _)| selected.len())`, which Rust
+resolves to the *last* equal-maximum on a tie — the later run (the annex)
+would win, silently discarding the real body.
+
+Why it hasn't happened yet: `nom-247-ssa1-2008`, the only committed
+instrument with both no TRANSITORIOS and a real trailing annex, parsed
+252 real clauses correctly — its real body is simply much longer than
+any competing numbered sequence in its Anexos/Apéndices, so no tie
+occurs. This is a property of that one document, not a guard in the
+code.
+
+Detectability if it ever does happen: `standard_clause_coverage` (above)
+would **not** catch it — the wrongly-selected annex run would still score
+healthy coverage against its own span, since coverage isn't evaluated
+without a TRANSITORIOS section in the first place, and even if it were,
+the annex run's own span-vs-itself ratio gives no signal. This would
+most likely surface as an implausible clause count or content on manual
+review, the same way `annex-form-numbering` originally surfaced.
+
+What was tried: nothing beyond confirming the shape with a synthetic
+fixture; not chased further, per the log's own "don't invent a class for
+a one-off" discipline — this is a hold-out/watch note for if it recurs
+for real, not a fix to write against zero instruments.
+
+Status: **open, unaffecting.** No committed or held-out instrument is
+known to exhibit this.

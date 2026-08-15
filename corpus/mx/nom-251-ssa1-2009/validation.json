@@ -4,5 +4,12 @@
   "valid": true,
   "clause_count": 266,
   "supplement_count": 0,
-  "issues": []
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "standard_trailing_material",
+      "message": "material after the transitorios section begins at \"APENDICE A\"; it is not represented in clauses.json and may be normative",
+      "provision_id": null
+    }
+  ]
 }
