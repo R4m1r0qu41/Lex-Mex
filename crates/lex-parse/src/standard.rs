@@ -66,6 +66,72 @@ static DATE_PHRASE: LazyLock<Regex> = LazyLock::new(|| {
         .expect("date-phrase regex must compile")
 });
 
+// DOF's own browser print-view timestamp footer ("28/10/25, 12:52"), always
+// glued to the "DOF - Diario Oficial de la Federación" label on the same
+// line -- verified against every occurrence in the committed corpus
+// (2026-08-15), never seen standalone or inside legal prose.
+static PRINT_TIMESTAMP: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(r"\d{2}/\d{2}/\d{2}, \d{2}:\d{2}").expect("print-timestamp regex must compile")
+});
+
+/// DOF running header/footer text that can end up physically inside a
+/// clause/transitory/supplement's sliced text when a page break falls
+/// mid-span. Mirrors `diputados.rs`'s `is_page_furniture`, which already
+/// protects that path -- `standard.rs` never had an equivalent (see
+/// `docs/ingestion-difficulty-log.md`, `page-furniture-boundary-gap`).
+///
+/// Four patterns, each verified against every occurrence in the committed
+/// corpus (2026-08-15), no defensive patterns for unseen shapes, per the
+/// log's own "don't invent a class for a one-off" discipline:
+/// - `DIARIO OFICIAL` co-occurring with a `Sección)`/`Seccion)` marker on the
+///   same line, mirroring `is_page_furniture`'s own
+///   `DIARIO OFICIAL && PAGE` co-occurrence requirement. A bare "contains
+///   DIARIO OFICIAL" would be wrong: standards legitimately cite "publicado
+///   en el Diario Oficial de la Federación" in ordinary prose.
+/// - The `DOF - Diario Oficial de la Federación` browser tab/print label.
+/// - The browser print-view timestamp (`PRINT_TIMESTAMP`).
+/// - A `nota_detalle.php` URL that also carries `print=true`: that query
+///   parameter is present only on the source's own print-view running
+///   footer. A bare `contains("nota_detalle.php")` would be wrong too --
+///   NOM-001-SEMARNAT-2021 cites *other* instruments' DOF publication URLs
+///   in its own Bibliografía, without `print=true`, as genuine content.
+fn is_dof_page_furniture(line: &str) -> bool {
+    (line.contains("DIARIO OFICIAL") && (line.contains("Sección)") || line.contains("Seccion)")))
+        || line.contains("DOF - Diario Oficial de la Federación")
+        || PRINT_TIMESTAMP.is_match(line)
+        || (line.contains("nota_detalle.php") && line.contains("print=true"))
+}
+
+/// Drop DOF page-furniture lines from an already-sliced clause/transitory/
+/// supplement span. Only the string *content* changes -- callers must keep
+/// computing `start_char`/`end_char` from the untouched span, never from
+/// this function's output, so those offsets keep addressing the unchanged
+/// `source_text`.
+///
+/// A furniture line that opens with a form feed (`pdftotext`'s page-break
+/// marker, admitted as leading whitespace everywhere else in this module --
+/// see `LINE_LEAD`) is replaced with a bare `\x0c`, not deleted outright: a
+/// manually configured `StandardSupplement` anchor can depend on the page
+/// break itself surviving as a literal prefix character to disambiguate a
+/// heading's real occurrence from an earlier in-body citation of the same
+/// text (NOM-002-STPS-2010's "Guía de Referencia V" anchor, configured as
+/// `"Guía de Referencia V\n\x0c"`, is exactly this shape). Deleting the whole
+/// line would silently break that anchor even though nothing about the
+/// anchor itself changed.
+#[must_use]
+pub fn strip_page_furniture(text: &str) -> String {
+    text.lines()
+        .filter_map(|line| {
+            if is_dof_page_furniture(line.trim()) {
+                line.starts_with('\x0c').then_some("\x0c")
+            } else {
+                Some(line)
+            }
+        })
+        .collect::<Vec<_>>()
+        .join("\n")
+}
+
 /// Parse the numbered body of a NOM/NMX without treating its clauses as
 /// statute articles. Character offsets address the unchanged extracted text.
 pub fn parse_standard_clauses(
@@ -147,7 +213,7 @@ pub fn parse_standard_clauses(
         let natural_end = matches.get(index + 1).map_or(structural_end, |next| next.0);
         let end = standard_clause_end(source_text, *start, natural_end);
         let (trimmed_start, trimmed_end) = trim_span(source_text, *start, end);
-        let text = source_text[trimmed_start..trimmed_end].to_owned();
+        let text = strip_page_furniture(&source_text[trimmed_start..trimmed_end]);
         clauses.push(StandardClause {
             schema_version: SCHEMA_VERSION.to_owned(),
             id: format!("{}:clause:{}", metadata.id, clause_slug(number)),
@@ -213,7 +279,7 @@ pub fn parse_standard_transitories(
     for (index, (start, ordinal)) in starts.iter().enumerate() {
         let natural_end = starts.get(index + 1).map_or(section.len(), |next| next.0);
         let (trimmed_start, trimmed_end) = trim_span(section, *start, natural_end);
-        let text = section[trimmed_start..trimmed_end].to_owned();
+        let text = strip_page_furniture(&section[trimmed_start..trimmed_end]);
         let asserted_dates = DATE_PHRASE
             .captures_iter(&text)
             .filter_map(|captures| {
@@ -253,7 +319,7 @@ pub fn parse_standard_supplements(
     for (index, span) in layout.supplements.iter().enumerate() {
         let configured = &metadata.supplement_starts[index];
         let (start, end) = trim_span(source_text, span.start, span.end);
-        let text = source_text[start..end].to_owned();
+        let text = strip_page_furniture(&source_text[start..end]);
         supplements.push(StandardSupplement {
             schema_version: SCHEMA_VERSION.to_owned(),
             id: format!("{}:supplement:{}", metadata.id, index + 1),
@@ -703,6 +769,7 @@ pub fn validate_standard(
     validate_standard_sources(metadata, &targets, &mut issues);
     validate_clauses(metadata, clauses, source_text, &mut issues);
     validate_clause_coverage(clauses, source_text, &mut issues);
+    validate_no_page_furniture(clauses, transitories, supplements, &mut issues);
     validate_transitories(metadata, transitories, source_text, &mut issues);
     validate_supplements(
         metadata,
@@ -1010,7 +1077,7 @@ fn validate_clauses(
         let anchored = source_chars[clause.start_char..clause.end_char]
             .iter()
             .collect::<String>();
-        if anchored != clause.text {
+        if strip_page_furniture(&anchored) != clause.text {
             issues.push(error(
                 "standard_clause_span",
                 "clause text does not match its exact extracted-text span".to_owned(),
@@ -1067,6 +1134,49 @@ fn validate_clause_coverage(
     }
 }
 
+/// Filter-regression tripwire, not a general detector: `strip_page_furniture`
+/// already removes `is_dof_page_furniture`'s four patterns before `.text` is
+/// ever assigned, so this can only fire if that filter has a bug -- the same
+/// relationship `contains_page_header_contamination` has to `is_page_furniture`
+/// on the diputados path, which is exactly why it fires zero times there. A
+/// future NOM whose page furniture takes a shape *not* in the four confirmed
+/// patterns will NOT be caught here; that is a source-provenance question
+/// (does this instrument's *source* bear print-view furniture at all),
+/// deliberately not folded into this fix -- see the design notes.
+fn validate_no_page_furniture(
+    clauses: &[StandardClause],
+    transitories: &[StandardTransitory],
+    supplements: &[StandardSupplement],
+    issues: &mut Vec<ValidationIssue>,
+) {
+    let spans = clauses
+        .iter()
+        .map(|clause| (&clause.id, clause.number.as_str(), &clause.text))
+        .chain(transitories.iter().map(|transitory| {
+            (
+                &transitory.id,
+                transitory.ordinal.as_str(),
+                &transitory.text,
+            )
+        }))
+        .chain(supplements.iter().map(|supplement| {
+            (
+                &supplement.id,
+                supplement.heading.as_str(),
+                &supplement.text,
+            )
+        }));
+    for (id, label, text) in spans {
+        if let Some(line) = text.lines().find(|line| is_dof_page_furniture(line.trim())) {
+            issues.push(error(
+                "standard_page_furniture",
+                format!("{label} still carries DOF page furniture: {line:?}"),
+                Some(id.clone()),
+            ));
+        }
+    }
+}
+
 /// Identity, uniqueness, and exact-span checks for transitorios. No absence
 /// or ordering check: an empty list is not itself an error (some retained
 /// texts genuinely lack a recognizable TRANSITORIOS section), and ordinal
@@ -1108,7 +1218,7 @@ fn validate_transitories(
         let anchored = source_chars[transitory.start_char..transitory.end_char]
             .iter()
             .collect::<String>();
-        if anchored != transitory.text {
+        if strip_page_furniture(&anchored) != transitory.text {
             issues.push(error(
                 "standard_transitory_span",
                 "transitory text does not match its exact extracted-text span".to_owned(),
@@ -1182,7 +1292,7 @@ fn validate_supplements(
         let anchored = source_chars[supplement.start_char..supplement.end_char]
             .iter()
             .collect::<String>();
-        if anchored != supplement.text {
+        if strip_page_furniture(&anchored) != supplement.text {
             issues.push(error(
                 "standard_supplement_span",
                 "supplement text does not match its exact extracted-text span".to_owned(),
@@ -1445,6 +1555,8 @@ mod tests {
         include_str!("../../../fixtures/standards/no-transitorios-annex-sample.txt");
     const NO_TRANSITORIOS_SIGNATURE_ONLY_SAMPLE: &str =
         include_str!("../../../fixtures/standards/no-transitorios-signature-only-sample.txt");
+    const DOF_PAGE_FURNITURE_SAMPLE: &str =
+        include_str!("../../../fixtures/standards/dof-page-furniture-sample.txt");
 
     #[test]
     fn a_redesignated_standard_records_its_published_designation() {
@@ -1506,6 +1618,109 @@ mod tests {
             clauses[2].text.contains("observancia obligatoria"),
             "expected the real body, got {:?}",
             clauses[2].text
+        );
+    }
+
+    #[test]
+    fn dof_page_furniture_is_stripped_from_clause_text_but_offsets_still_address_source() {
+        // Reproduces the 17-instrument, 236-provision corpus finding
+        // (2026-08-09 positional-validator audit): standard.rs had no
+        // equivalent of diputados.rs's is_page_furniture, so a page break
+        // landing mid-clause left the running DOF header/footer physically
+        // inside committed provision text.
+        let metadata = metadata();
+        let clauses = parse_standard_clauses(DOF_PAGE_FURNITURE_SAMPLE, &metadata).unwrap();
+        assert_eq!(clauses.len(), 3);
+
+        let objetivo = &clauses[0];
+        assert!(
+            !objetivo.text.contains("DIARIO OFICIAL"),
+            "Sección/DIARIO OFICIAL banner leaked into clause text: {:?}",
+            objetivo.text
+        );
+        assert!(objetivo.text.contains("corte de pagina"));
+        assert!(
+            objetivo
+                .text
+                .contains("continua aqui despues del encabezado")
+        );
+
+        let campo = &clauses[1];
+        assert!(
+            !campo.text.contains("print=true"),
+            "print-view running footer leaked into clause text: {:?}",
+            campo.text
+        );
+        assert!(
+            !campo.text.contains("DOF - Diario Oficial de la Federacion"),
+            "print-view tab label leaked into clause text: {:?}",
+            campo.text
+        );
+        assert!(
+            !campo.text.contains("28/10/25, 12:52"),
+            "print-view timestamp leaked into clause text: {:?}",
+            campo.text
+        );
+        // The bibliography-style citation of a DIFFERENT instrument's DOF
+        // publication URL is genuine content (no `print=true`) and must
+        // survive the filter -- NOM-001-SEMARNAT-2021's actual shape.
+        assert!(
+            campo.text.contains("nota_detalle.php?codigo=4837548"),
+            "a genuine bibliographic citation was wrongly stripped: {:?}",
+            campo.text
+        );
+        assert!(
+            campo
+                .text
+                .contains("continua aqui despues del pie de pagina")
+        );
+
+        // Stripping furniture changes only .text's content, never the span
+        // used to compute start_char/end_char: those still address the
+        // unfiltered source_text, so re-slicing must reproduce the
+        // untouched original (furniture included).
+        for clause in &clauses {
+            let raw: String = DOF_PAGE_FURNITURE_SAMPLE
+                .chars()
+                .skip(clause.start_char)
+                .take(clause.end_char - clause.start_char)
+                .collect();
+            assert!(
+                raw.contains("Objetivo")
+                    || raw.contains("Campo de aplicacion")
+                    || raw.contains("Observancia"),
+                "start_char/end_char must still address the unfiltered source: {raw:?}"
+            );
+        }
+    }
+
+    #[test]
+    fn validate_standard_stays_quiet_once_furniture_is_stripped() {
+        // `standard_page_furniture` is a filter-regression tripwire: it can
+        // only fire if strip_page_furniture's own patterns leak through, the
+        // same relationship contains_page_header_contamination has to
+        // is_page_furniture on the diputados path (fires zero times there).
+        // This is the tripwire's own happy path, proven against a fixture
+        // that carries all three symptom shapes.
+        let metadata = metadata();
+        let clauses = parse_standard_clauses(DOF_PAGE_FURNITURE_SAMPLE, &metadata).unwrap();
+        let transitories =
+            parse_standard_transitories(DOF_PAGE_FURNITURE_SAMPLE, &metadata).unwrap();
+        let supplements = parse_standard_supplements(DOF_PAGE_FURNITURE_SAMPLE, &metadata).unwrap();
+        let report = validate_standard(
+            &metadata,
+            &clauses,
+            &transitories,
+            &supplements,
+            DOF_PAGE_FURNITURE_SAMPLE,
+        );
+        assert!(
+            !report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "standard_page_furniture"),
+            "filter left furniture behind for the tripwire to catch: {:?}",
+            report.issues
         );
     }
 
@@ -1831,6 +2046,52 @@ mod tests {
         assert_eq!(
             supplements[1].legal_character,
             StandardSupplementLegalCharacter::ExplicitlyNonNormative
+        );
+    }
+
+    #[test]
+    fn a_furniture_line_opening_with_a_page_break_keeps_the_page_break_for_anchor_matching() {
+        // Reproduces NOM-002-STPS-2010's real "Guía de Referencia V" anchor:
+        // configured as "Guía de Referencia V\n\x0c" specifically because the
+        // real occurrence lands right at a page break, and an earlier in-body
+        // citation of the same heading needs the page break to disambiguate.
+        // strip_page_furniture must not delete the whole furniture line when
+        // it opens with that page break -- doing so would silently break the
+        // anchor even though nothing about the anchor's own configuration
+        // changed.
+        let text = "1. Objetivo\nTexto.\nTRANSITORIOS\nÚNICO. Vigencia.\n\n\
+                    Guía de Referencia V\n\x0c   (Primera Sección)                       DIARIO OFICIAL                  Lunes 24 de noviembre de 2008\nContenido real de la guía.\n";
+        let mut metadata = metadata();
+        metadata.supplement_starts = vec![StandardSupplementStart {
+            anchor: "Guía de Referencia V\n\x0c".to_owned(),
+            kind: StandardSupplementKind::ReferenceGuide,
+        }];
+        let transitories = parse_standard_transitories(text, &metadata).unwrap();
+        let supplements = parse_standard_supplements(text, &metadata).unwrap();
+        assert_eq!(supplements.len(), 1);
+        assert!(
+            supplements[0]
+                .text
+                .starts_with("Guía de Referencia V\n\u{c}"),
+            "page break must survive so the configured anchor still matches: {:?}",
+            supplements[0].text
+        );
+        assert!(
+            !supplements[0].text.contains("DIARIO OFICIAL"),
+            "the banner text itself must still be stripped: {:?}",
+            supplements[0].text
+        );
+        assert!(supplements[0].text.contains("Contenido real de la guía."));
+
+        let clauses = parse_standard_clauses(text, &metadata).unwrap();
+        let report = validate_standard(&metadata, &clauses, &transitories, &supplements, text);
+        assert!(
+            !report.issues.iter().any(|issue| {
+                issue.code == "standard_supplement_anchor"
+                    || issue.code == "standard_supplement_span"
+            }),
+            "page-break preservation must keep the anchor and span checks satisfied: {:?}",
+            report.issues
         );
     }
 

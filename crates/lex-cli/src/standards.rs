@@ -8,7 +8,7 @@ use clap::Subcommand;
 use lex_core::{StandardClause, StandardMetadata, StandardSupplement, StandardTransitory};
 use lex_parse::{
     parse_standard_clauses, parse_standard_supplements, parse_standard_transitories,
-    validate_standard,
+    strip_page_furniture, validate_standard,
 };
 use lex_source::sha256_hex;
 
@@ -75,6 +75,48 @@ pub(crate) fn run_standards_command(root: &Path, command: StandardsCommand) -> R
     }
 }
 
+/// True when every transitory pair differs only in `.text`, and only by the
+/// lines `strip_page_furniture` removes -- never in id, ordinal, or span.
+/// Length mismatches are already fatal earlier in `refresh_committed_standard`
+/// (a real transitory-count change), so this only needs to compare content.
+///
+/// `asserted_dates` is deliberately not compared: it is re-derived from
+/// `.text` by the same `DATE_PHRASE` regex on both sides, so once `.text`'s
+/// relationship is verified, any date difference is already fully explained
+/// -- a DOF running-header banner sometimes contains a real "N de MES de
+/// AAAA" phrase (the publication date), which the old, unfiltered text
+/// spuriously credited to whichever transitory the banner happened to fall
+/// inside. This corrects that pre-existing data-quality defect as a byproduct,
+/// not a new one to guard against.
+fn is_furniture_only_diff(previous: &[StandardTransitory], current: &[StandardTransitory]) -> bool {
+    previous.len() == current.len()
+        && previous.iter().zip(current).all(|(prev, cur)| {
+            prev.id == cur.id
+                && prev.ordinal == cur.ordinal
+                && prev.start_char == cur.start_char
+                && prev.end_char == cur.end_char
+                && strip_page_furniture(&prev.text) == cur.text
+        })
+}
+
+/// Supplement counterpart to `is_furniture_only_diff`.
+fn is_furniture_only_supplement_diff(
+    previous: &[StandardSupplement],
+    current: &[StandardSupplement],
+) -> bool {
+    previous.len() == current.len()
+        && previous.iter().zip(current).all(|(prev, cur)| {
+            prev.id == cur.id
+                && prev.sequence == cur.sequence
+                && prev.kind == cur.kind
+                && prev.heading == cur.heading
+                && prev.legal_character == cur.legal_character
+                && prev.start_char == cur.start_char
+                && prev.end_char == cur.end_char
+                && strip_page_furniture(&prev.text) == cur.text
+        })
+}
+
 fn refresh_committed_standard(
     root: &Path,
     slug: &str,
@@ -127,14 +169,27 @@ fn refresh_committed_standard(
     };
     let transitories_changed = previous_transitories != transitories;
     let supplements_changed = previous_supplements != supplements;
-    if (transitories_changed || supplements_changed) && !allow_tail_repartition {
+    // A refresh where every difference is explained by `strip_page_furniture`
+    // -- same ids, ordinals/sequences, and spans, `.text` differing only by
+    // the lines that filter removes -- never moves the transitory/supplement
+    // boundary at all. Gating it behind `--allow-tail-repartition` would
+    // conflate it with that flag's real, narrower purpose (moving material
+    // between the final transitory and a supplement), whose own check below
+    // (only truncation of the final transitory) would wrongly reject a
+    // furniture-only change that touches a non-final transitory's text.
+    let furniture_only_diff = is_furniture_only_diff(&previous_transitories, &transitories)
+        && is_furniture_only_supplement_diff(&previous_supplements, &supplements);
+    if (transitories_changed || supplements_changed)
+        && !allow_tail_repartition
+        && !furniture_only_diff
+    {
         bail!(
             "refusing to refresh {slug}: transitory content or supplements would change; re-run \
              with --allow-tail-repartition only after reviewing the exact final-transitory and \
              supplement spans"
         );
     }
-    if allow_tail_repartition && transitories_changed {
+    if allow_tail_repartition && transitories_changed && !furniture_only_diff {
         let Some((previous_final, current_final)) =
             previous_transitories.last().zip(transitories.last())
         else {

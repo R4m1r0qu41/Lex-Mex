@@ -67,7 +67,12 @@ instruments are verified.
 
 | Cluster | Root mechanism | Instruments | Provisions | Status |
 |---|---|---|---|---|
-| `page-furniture-boundary-gap` | `standard.rs` clause/transitory/supplement text is a raw substring slice (`standard.rs:150,216,256`) with no line-level furniture filter — unlike `diputados.rs`'s existing `is_page_furniture` (`diputados.rs:367-378`), which already protects the diputados path | 17 (all NOM/DOF) | 236 | **open** — fix plan at `/Users/jr/Vaults/Spearhead/20_Repos/Lex-Mex/` |
+| _(none currently open)_ | | | | |
+
+`page-furniture-boundary-gap` resolved 2026-08-15 — see `## Resolved`
+below and the dated correction inside its own `### [cluster]` entry
+further down this file (its instrument count was revised 17 → 27 during
+the fix).
 
 ## Failure classes seen so far
 
@@ -613,11 +618,82 @@ validator is a separate prototype, deliberately not yet promoted into
 Vault's `REPO-019` registry entry). Full step-by-step fix plan drafted at
 `/Users/jr/Vaults/Spearhead/20_Repos/Lex-Mex/`.
 
-Status: **root mechanism identified, fix not yet written.** Affects 17
-already-committed instruments (236 provisions); does not block any
-in-progress ingestion, but the same gap will keep reproducing in every new
-NOM admitted until fixed — relevant given NOM ingestion (Stage A/B/C
-multi-source consolidation) is the next planned body of work.
+Status (superseded by the correction below): ~~root mechanism identified,
+fix not yet written. Affects 17 already-committed instruments (236
+provisions)~~.
+
+**Correction and resolution, 2026-08-15.** The 2026-08-09 count above was
+an undercount, and one of its four confirmed patterns was wrong as
+written. Re-derived directly from committed `clauses.json`/
+`transitories.json`/`supplements.json` (not the positional validator,
+which had already deleted its scratch PDFs) using the exact patterns
+`is_dof_page_furniture` now implements: **27 instruments, not 17** — the
+extra 10 (`nom-004-stps-1999`, `nom-005-stps-1998`, `nom-011-stps-2001`,
+`nom-015-stps-2001`, `nom-020-stps-2011`, `nom-029-stps-2011`,
+`nom-030-stps-2009`, `nom-035-stps-2018`, `nom-085-semarnat-2011`,
+`nom-161-semarnat-2011`, `nom-187-ssa1-scfi-2002`) were real furniture the
+original crossref pass missed, not new contamination introduced since.
+
+The `nota_detalle.php` pattern as drafted in the fix plan
+(`line.contains("nota_detalle.php")`) would have been a bug: 3 lines in
+`nom-001-semarnat-2021`'s own Bibliografía cite *other* instruments'
+DOF publication URLs as genuine content and do not carry `print=true`;
+every one of 180 genuine furniture occurrences does. The shipped filter
+requires both substrings on the same line.
+
+Fixed in `is_dof_page_furniture`/`strip_page_furniture`
+(`crates/lex-parse/src/standard.rs`), applied at clause, transitory, and
+supplement extraction. Two things not anticipated by the original fix
+plan, found by actually running `refresh` against the corpus rather than
+by inspection:
+
+1. `validate_clauses`/`validate_transitories`/`validate_supplements`
+   already enforced `.text == source_text[start_char..end_char]` exactly
+   (`standard_clause_span` etc.) — a real invariant, not a bug, but one the
+   fix plan's "only `.text`'s content changes" framing didn't reconcile
+   with. Fixed by comparing against `strip_page_furniture(&anchored)`
+   instead of the raw span on all three checks, so the anchoring
+   invariant now holds for the *filtered* text it was always meant to
+   describe.
+2. A furniture line that opens with `pdftotext`'s page-break marker
+   (`\x0c`) is not deleted outright — `strip_page_furniture` replaces it
+   with a bare `\x0c` — because `nom-002-stps-2010`'s "Guía de Referencia
+   V" supplement anchor is configured as `"Guía de Referencia V\n\x0c"`
+   specifically to disambiguate its real, page-break-adjacent occurrence
+   from an earlier in-body citation; deleting the whole line would have
+   silently broken that anchor.
+
+`lex-cli`'s `refresh` guard also had no path for "same spans and counts,
+different `.text` content" — only a clause-count gate and a narrow
+`--allow-tail-repartition` truncation case, neither of which fit this
+shape. Extended with a `furniture_only_diff` check (pinned on id,
+ordinal/sequence, and span; `.text` verified equal to
+`strip_page_furniture` of the previous value) so this refresh path does
+not require `--allow-tail-repartition`, which would have wrongly
+rejected furniture confined to a non-final transitory.
+
+Bonus, found while reconciling the invariant above: 5 transitories
+(`nom-015-stps-2001` SEGUNDO, `nom-020-stps-2011` CUARTO,
+`nom-033-stps-2015` TERCERO, `nom-085-semarnat-2011` QUINTO,
+`nom-161-semarnat-2011` QUINTO) had a spurious `asserted_dates` entry —
+the DOF publication date printed inside the running-header banner,
+previously scanned as if it were a substantive date phrase in the
+transitory's own legal text. Verified each removed date against the
+committed pre-refresh text: all five sit inside a line
+`is_dof_page_furniture` matches, none inside surviving prose. Corrected
+as a byproduct of the same fix, not a separate change.
+
+Full corpus reparsed: 27 instruments refreshed (only
+`clauses.json`/`transitories.json`/`supplements.json` changed; no
+`standard.json`, `extracted-text.txt`, or `validation.json` moved,
+confirming no new or removed validation issue — the tripwire added below
+stayed silent throughout). The 5 remaining furniture-touching instruments
+originally suspected (`nom-001-semarnat-2021`, `nom-002-semarnat-1996`,
+`nom-024-stps-2001`, `nom-051-scfi-ssa1-2010`, `nom-052-semarnat-2005`)
+reparsed byte-identical, as expected. `standard_page_furniture` — a
+filter-regression tripwire, not a general detector, mirroring
+`contains_page_header_contamination`'s relationship to `is_page_furniture`
+on the diputados path — now runs inside `validate_standard`.
 
 ### validate-trailing-material-no-transitorios-gap — resolved 2026-08-14
 
