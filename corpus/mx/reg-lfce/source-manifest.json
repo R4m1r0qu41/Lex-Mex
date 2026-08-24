@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfce",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCE.pdf",
+  "retrieved_at": "2026-08-24T20:24:25.787018Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 239033,
+  "etag": "\"3a5b9-563b487e8d740\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:09 GMT",
+  "source_sha256": "d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af",
+  "extracted_text_sha256": "c5b479a2926450352fb977551a7528e0387a52f22213ca924b19f26cbacb9f5d",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "bcf69f29641e7702af97dba3065046d1e78e5ae0"
+}

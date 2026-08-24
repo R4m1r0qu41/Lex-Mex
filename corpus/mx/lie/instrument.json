@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lie",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Inversión Extranjera",
+  "short_name": "LIE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1993-12-27",
+  "latest_reform_date": "2024-05-27",
+  "retrieved_at": "2026-08-24T20:24:29.976620Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf",
+  "source_sha256": "14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953",
+  "extracted_text_sha256": "4093279a70e0549e5f229c16a641e5492c67ecd557cbeee958c2db8fc2597be7",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

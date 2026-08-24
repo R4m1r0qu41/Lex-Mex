@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfce",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Competencia Económica",
+  "short_name": "LFCE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-05-23",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-08-24T20:24:19.707261Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf",
+  "source_sha256": "d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba",
+  "extracted_text_sha256": "286e615356f63e3a3632d142faca1c53fc781fcab8c3cd5c344048ae82a5f022",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

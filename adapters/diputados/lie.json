@@ -1,0 +1,25 @@
+{
+  "slug": "lie",
+  "instrument_id": "urn:lex-mx:federal:statute:lie",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "main_document_stop_markers": [
+    "México, D. F., a 15 de diciembre de 1993"
+  ],
+  "official_title": "Ley de Inversión Extranjera",
+  "short_name": "LIE",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lie.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1993-12-27",
+  "expected_articles": 42,
+  "expected_transitories": 11,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-08-24T20:14:53Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

@@ -1,0 +1,470 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:1:term-usage:83-86",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 83,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:1:term-usage:208-211",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 208,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:1:term-usage:351-354",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 351,
+    "end_char": 354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:2:term-usage:69-72",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 69,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:2:term-usage:285-288",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 285,
+    "end_char": 288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:3:term-usage:67-70",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 67,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:3:term-usage:348-351",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 348,
+    "end_char": 351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:3:term-usage:668-671",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 668,
+    "end_char": 671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:3:term-usage:686-704",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:resoluciones-generales",
+    "span": "Resolución General",
+    "start_char": 686,
+    "end_char": 704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:4:term-usage:167-170",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 167,
+    "end_char": 170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:4:term-usage:378-381",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 378,
+    "end_char": 381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:4:term-usage:599-602",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 599,
+    "end_char": 602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:4:term-usage:1056-1059",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 1056,
+    "end_char": 1059
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:5:term-usage:58-61",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 58,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:7:term-usage:87-90",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 87,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:8:term-usage:58-61",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 58,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:8:term-usage:1082-1085",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 1082,
+    "end_char": 1085
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:8:term-usage:1671-1674",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 1671,
+    "end_char": 1674
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:9:term-usage:163-166",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 163,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:10:term-usage:158-161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 158,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:11:term-usage:108-111",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 108,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:11:term-usage:3016-3019",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 3016,
+    "end_char": 3019
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:12:term-usage:53-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 53,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:20:term-usage:142-145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 142,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:21:term-usage:156-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 156,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:21:term-usage:763-766",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 763,
+    "end_char": 766
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:22:term-usage:53-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 53,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:22:term-usage:983-986",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 983,
+    "end_char": 986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:23:term-usage:53-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 53,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:23:term-usage:605-608",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 605,
+    "end_char": 608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:25:term-usage:184-187",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 184,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:26:term-usage:270-273",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 270,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:29:term-usage:1183-1186",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 1183,
+    "end_char": 1186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:29-bis:term-usage:92-95",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:29-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 92,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:29-bis:term-usage:2714-2717",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:29-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 2714,
+    "end_char": 2717
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:31:term-usage:336-339",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 336,
+    "end_char": 339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:35:term-usage:651-654",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 651,
+    "end_char": 654
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:38:term-usage:169-172",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 169,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:40:term-usage:294-297",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 294,
+    "end_char": 297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:42:term-usage:220-223",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 220,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:43:term-usage:74-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 74,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:44:term-usage:53-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 53,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:44:term-usage:1019-1022",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 1019,
+    "end_char": 1022
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:44:term-usage:1191-1194",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 1191,
+    "end_char": 1194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:49:term-usage:81-84",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 81,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:49:term-usage:316-319",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 316,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:49:term-usage:349-371",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:resoluciones-generales",
+    "span": "Resoluciones Generales",
+    "start_char": 349,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:49:term-usage:558-561",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 558,
+    "end_char": 561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:transitory:segundo:term-usage:30-33",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 30,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:transitory:tercero:term-usage:175-178",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 175,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:transitory:sexto:term-usage:174-177",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 174,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:transitory:sexto:term-usage:405-408",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-liernie:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "span": "Ley",
+    "start_char": 405,
+    "end_char": 408
+  }
+]

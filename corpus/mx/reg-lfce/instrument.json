@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lfce",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Federal de Competencia Económica",
+  "short_name": "REG-LFCE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2007-10-12",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-08-24T20:24:25.787018Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCE.pdf",
+  "source_sha256": "d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af",
+  "extracted_text_sha256": "c5b479a2926450352fb977551a7528e0387a52f22213ca924b19f26cbacb9f5d",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

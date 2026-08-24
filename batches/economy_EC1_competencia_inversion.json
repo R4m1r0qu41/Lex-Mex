@@ -1,0 +1,66 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "economy_EC1_competencia_inversion",
+  "description": "EC1 federal competition and foreign-investment instruments, normalized from the prepared cluster-2 inventory.",
+  "notes": [
+    "Normalized from prompts/cluster-2-batches/lex-mex-cl2-batch-EC1.json for the repository Rust ingestion gate.",
+    "All six prepared entries were absent from adapters, corpus/mx, and existing operational batch manifests when this manifest was created.",
+    "Prepared dof_publication/dof_last_reform fields are provenance context, not operational batch-manifest properties, and are therefore intentionally omitted.",
+    "The planned first pass is lfce only: inspect its source manifest, positional furniture report, canonical diff, and validation before freezing counts or processing the remaining EC1 entries.",
+    "lrsic is held out: its original transitory QUINTO cites LRAF Articles 33-A and 33-B, which do not exist in the already-committed current LRAF corpus. The reference-graph rule deliberately fails this stale-cross-reference-to-repealed-provision case rather than silently dropping edges; resolving it requires the same corpus-wide policy decision as lcnbv."
+  ],
+  "blocked": [
+    {
+      "slug": "lrsic",
+      "title": "LEY para Regular las Sociedades de Información Crediticia",
+      "reason": "Held out per docs/ingestion-difficulty-log.md: original Transitory QUINTO cites the now-absent LRAF Articles 33-A and 33-B. The source citation is real and the target instrument is already ingested, so silently dropping the unresolved cross-instrument edges would be an unreviewed corpus-wide reference-graph policy change."
+    }
+  ],
+  "instruments": [
+    {
+      "slug": "lfce",
+      "title": "LEY Federal de Competencia Económica",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf"
+    },
+    {
+      "slug": "reg-lfce",
+      "title": "REGLAMENTO de la Ley Federal de Competencia Económica",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCE.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCE.pdf"
+    },
+    {
+      "slug": "lie",
+      "title": "LEY de Inversión Extranjera",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lie.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf"
+    },
+    {
+      "slug": "reg-liernie",
+      "title": "REGLAMENTO de la Ley de Inversión Extranjera y del Registro Nacional de Inversiones Extranjeras",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIERNIE_170816.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIERNIE_170816.pdf"
+    },
+    {
+      "slug": "lpcinecdi",
+      "title": "LEY de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpcinecdi.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf"
+    }
+  ]
+}

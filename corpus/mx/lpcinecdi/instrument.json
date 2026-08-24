@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lpcinecdi",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional",
+  "short_name": "LPCINECDI",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1996-10-23",
+  "latest_reform_date": "2012-04-09",
+  "retrieved_at": "2026-08-24T20:24:39.924148Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf",
+  "source_sha256": "e969fde67d7c5adc1c78322e3309fe5a5ecc245489ce3ec259f16063eea0c1db",
+  "extracted_text_sha256": "c04d8cc6ad4672b5a3887ed006aea82a72d0d74177910532d32c80b5917f1162",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

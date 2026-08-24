@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lpcinecdi",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpcinecdi.htm",
+  "retrieved_at": "2026-08-24T20:24:39.924148Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 329033,
+  "etag": "\"50549-5764146e64080\"",
+  "last_modified": "Wed, 19 Sep 2018 22:53:38 GMT",
+  "source_sha256": "e969fde67d7c5adc1c78322e3309fe5a5ecc245489ce3ec259f16063eea0c1db",
+  "extracted_text_sha256": "c04d8cc6ad4672b5a3887ed006aea82a72d0d74177910532d32c80b5917f1162",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "bcf69f29641e7702af97dba3065046d1e78e5ae0"
+}

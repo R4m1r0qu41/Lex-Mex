@@ -1,0 +1,79 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:term:actividades-reservadas",
+    "term": "Actividades reservadas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-liernie",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:1",
+    "fraction": "I",
+    "start_char": 131,
+    "end_char": 214,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:term:actividades-con-regulacion-especifica",
+    "term": "Actividades con regulación específica",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-liernie",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:1",
+    "fraction": "II",
+    "start_char": 214,
+    "end_char": 384,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-liernie",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:1",
+    "fraction": "III",
+    "start_char": 384,
+    "end_char": 427,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:term:mayoria-de-capital-extranjero",
+    "term": "Mayoría de capital extranjero",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-liernie",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:1",
+    "fraction": "IV",
+    "start_char": 427,
+    "end_char": 558,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:term:participacion-de-inversion-extranjera-en-el-capital-social",
+    "term": "Participación de inversión extranjera en el capital social",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-liernie",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:1",
+    "fraction": "V",
+    "start_char": 558,
+    "end_char": 876,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:term:resoluciones-generales",
+    "term": "Resoluciones Generales",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-liernie",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:1",
+    "fraction": "VI",
+    "start_char": 876,
+    "end_char": 1037,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:term:sociedades",
+    "term": "Sociedades",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-liernie",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:1",
+    "fraction": "VII",
+    "start_char": 1037,
+    "end_char": 1173,
+    "basis": "express_definition"
+  }
+]

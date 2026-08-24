@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lie",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lie.htm",
+  "retrieved_at": "2026-08-24T20:24:29.976620Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 728116,
+  "etag": "\"b1c34-6198c840fae80\"",
+  "last_modified": "Wed, 29 May 2024 00:06:02 GMT",
+  "source_sha256": "14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953",
+  "extracted_text_sha256": "4093279a70e0549e5f229c16a641e5492c67ecd557cbeee958c2db8fc2597be7",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "bcf69f29641e7702af97dba3065046d1e78e5ae0"
+}

@@ -2,9 +2,9 @@
 
 - **Status date:** 2026-08-24
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed instruments:** 236 (204 federal corpus instruments plus 32 NOMs)
-- **Active ingestion batch:** vault-reconciliation recovery across `tax_T1_core`, `financial_F4_popular_savings`, `financial_F5_credit_auxiliaries` — complete (10/10)
-- **Next checkpoint:** normalize and admit EC1 (`cl2_EC1_competencia_inversion`)
+- **Committed instruments:** 241 (209 federal corpus instruments plus 32 NOMs)
+- **Active ingestion batch:** EC1 competencia/inversión — complete for five admitted instruments; LRSIC held for reviewed stale-reference disposition
+- **Next checkpoint:** normalize and admit EC2 (`cl2_EC2_empresas_mipyme`)
 - **Current legal reviewer:** JRH
 
 ## Current state
@@ -23,16 +23,16 @@ Current committed-corpus totals:
 
 | Artifact | Count |
 |---|---:|
-| Instruments | 236 |
-| Articles | 38,312 |
-| Original transitory provisions | 1,543 |
+| Instruments | 241 |
+| Articles | 38,640 |
+| Original transitory provisions | 1,572 |
 | Annexes | 29 |
 | Standard clauses | 3,885 |
 | Standard transitory provisions | 100 |
 | Standard post-transitory supplements | 78 |
-| Reference edges | 20,792 |
+| Reference edges | 20,972 |
 | Unresolved reference edges | 0 |
-| Generated Markdown files | 40,088 |
+| Generated Markdown files | 40,450 |
 
 Temporal-status provenance, three tiers, never blurred
 (`docs/decisions.md`, 2026-08-24): a provision's `review_status` records
@@ -40,7 +40,7 @@ whether its status is machine-deterministic (`machine_accepted` +
 `basis: deterministic_rule`), human-reviewed (`lawyer_verified`), or unknown
 pending review (`not_analyzed`/`review_required`). Deterministic derivation
 (`lex-mex derive-temporal`, `crates/lex-parse/src/temporal_derive.rs`) has
-run against all 204 committed federal instruments (NOMs excluded — separate
+run against all 204 pre-EC1 committed federal instruments (NOMs excluded — separate
 standards boundary): 132 instruments' commencement resolved, 67 skipped into
 six named outlier categories, 5 have no ordinary transitories. 4,230
 articles promoted `repealed` provenance; 15,974 promoted
@@ -48,16 +48,16 @@ articles promoted `repealed` provenance; 15,974 promoted
 in `docs/ingestion-difficulty-log.md`'s `temporal-derive` entry — the
 intended queue for addressing one outlier category at a time.
 
-All 236 `validation.json` reports are valid. They contain 376 non-blocking
-warnings: 238 non-numeric/suffixed-article notices, 16 unfrozen count
+All 241 `validation.json` reports are valid. They contain 385 non-blocking
+warnings: 291 non-numeric/suffixed-article notices, 36 unfrozen count
 baselines, 35 represented supplements whose source states no explicit legal
-character, 8 article-gap notices, 3
-warnings for official standard modifications not incorporated in the
-retained source text, 3 decree targets that match no committed clause, 4
-suffix-order notices, 1 redesignated standard (NOM-002-SEMARNAT-1996,
-published as NOM-002-ECOL-1996), and 1 modification whose recorded DOF title
-names no numeral at all. Validity does not imply that temporal analysis or
-legal review has been performed.
+character, 8 article-gap notices, 3 warnings for official standard
+modifications not incorporated in the retained source text, 3 decree targets
+that match no committed clause, 5 suffix-order notices, 1 redesignated
+standard (NOM-002-SEMARNAT-1996, published as NOM-002-ECOL-1996), 2 trailing
+standard-material notices, and 1 modification whose recorded DOF title names
+no numeral at all. Validity does not imply that temporal analysis or legal
+review has been performed.
 
 ## Federal structural first pass
 
@@ -96,7 +96,10 @@ development-convention instruments (`lfaar`, `lfgfaga`, `reg-lfgfaga`,
 `reg-lfif-art95`, `reg-lsar`, `lmccbdc`, `lccaif`, `lccbid`;
 `batches/financial_FI3_seguro_rural_convenios.json`). Together with the
 separate Maximasa federal-gap ingestion of `reg-csps`, and the RC1 recovery
-batch below, the live corpus now contains 204 federal instruments.
+batch below, the pre-EC1 corpus contained 204 federal instruments. EC1 then
+admitted `lfce`, `reg-lfce`, `lie`, `reg-liernie`, and `lpcinecdi`; LRSIC is
+held out because its real LRAF Articles 33-A/33-B citation has no current
+committed target. The live corpus now contains 209 federal instruments.
 
 The 2026-08-23 vault-reconciliation recovery is not a new batch. A 2026-08-23
 reconciliation between this repository and the Obsidian vault found ten
@@ -445,17 +448,18 @@ record; ITF DCG transitory SÉPTIMO remains pending formal-boundary review.
 - `source-manifest.resulting_git_commit` still records the pre-ingestion HEAD;
 - live network/model flows remain integration-tested manually rather than in
   hermetic CI;
-- `lex-mex review-packets generate` (landed 2026-07-31) groups the 200
-  committed instruments that have a `batches/*.json` manifest into 39
+- `lex-mex review-packets generate` (landed 2026-07-31) groups the 205
+  committed instruments that have a `batches/*.json` manifest into 40
   packets for reviewer assignment; the 32 standards and the CNBV DCG family
   have no batch manifest and so are not yet covered by this mechanism.
 
 Next general cluster action: normalize the next prepared cluster-2 batch
-(EC1, `cl2_EC1_competencia_inversion`) into an operational manifest per the
+(EC2, `cl2_EC2_empresas_mipyme`) into an operational manifest per the
 cluster plan's admission order
 (`docs/plans/cluster-2-federal-corpus-ingestion.md`). AD1–AD4 are
 structurally complete, closing Domain AD; TX1–TX3 closed Domain TX; FI1–FI3
-opened, continued, and completed the prepared FI sequence. The separately
+opened, continued, and completed the prepared FI sequence; EC1 admitted five
+of six instruments. The separately
 authorized five-NOM Maximasa sequence does not reorder the prepared federal
 batches.
 

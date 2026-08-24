@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-liernie",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIERNIE_170816.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIERNIE_170816.pdf",
+  "retrieved_at": "2026-08-24T20:24:35.177024Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 339736,
+  "etag": "\"52f18-563b487e8d740\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:09 GMT",
+  "source_sha256": "8e60a8ba9f27b47d26806dbae115c0803dd9ea6a3a02a1b359dc86516d40759e",
+  "extracted_text_sha256": "9d3424d56350135a8b44886dcc3263f71c90cb0a905d2e5481f1b63be275d1ce",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "bcf69f29641e7702af97dba3065046d1e78e5ae0"
+}
