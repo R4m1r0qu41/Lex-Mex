@@ -60,9 +60,9 @@ pub struct FurnitureReport {
     pub body_zone_repeats: Vec<FurnitureBand>,
 }
 
-/// A recurring header/footer band whose text also survived into a parsed
-/// provision. This is a potential extraction or parser-boundary failure, not
-/// an automatic text-rewrite instruction.
+/// A recurring header/footer band that survived as its own parsed block. This
+/// is a potential extraction or parser-boundary failure, not an automatic
+/// text-rewrite instruction.
 #[derive(Debug, Clone, Serialize)]
 pub struct AdmittedFurniture {
     pub band: FurnitureBand,
@@ -196,7 +196,14 @@ pub fn find_admitted_furniture<'a>(
 ) -> Vec<AdmittedFurniture> {
     let texts: Vec<_> = texts
         .into_iter()
-        .map(|(id, text)| (id, normalize(text).to_lowercase()))
+        .map(|(id, text)| {
+            (
+                id,
+                text.split("\n\n")
+                    .map(|block| normalize(block).to_lowercase())
+                    .collect::<Vec<_>>(),
+            )
+        })
         .collect();
     let mut findings = Vec::new();
 
@@ -210,7 +217,13 @@ pub fn find_admitted_furniture<'a>(
             }
             let provision_ids = texts
                 .iter()
-                .filter(|(_, text)| text.contains(&normalized))
+                // A title can be a substantive citation inside several
+                // transitories. The Diputados parser emits source paragraphs
+                // as double-newline-delimited blocks, whereas leaked running
+                // furniture has its own block. Require that stronger shape so
+                // the gate catches parser leakage without treating a legal
+                // reference to the instrument title as contamination.
+                .filter(|(_, blocks)| blocks.iter().any(|block| block == &normalized))
                 .map(|(id, _)| (*id).to_owned())
                 .collect::<Vec<_>>();
             if !provision_ids.is_empty() {
@@ -330,7 +343,7 @@ mod tests {
     }
 
     #[test]
-    fn only_header_footer_evidence_admitted_to_a_provision_is_reported() {
+    fn standalone_header_footer_block_is_reported_but_embedded_legal_citation_is_not() {
         let mut items = Vec::new();
         for page in 0..10_u32 {
             items.push(item(page, 980.0, "DIARIO OFICIAL DE LA FEDERACIÓN"));
@@ -341,8 +354,14 @@ mod tests {
         let findings = find_admitted_furniture(
             &report,
             [
-                ("urn:test:1", "Texto legal. DIARIO OFICIAL DE LA FEDERACIÓN"),
-                ("urn:test:2", "repetición legítima del cuerpo"),
+                (
+                    "urn:test:1",
+                    "Texto legal.\n\nDIARIO OFICIAL DE LA FEDERACIÓN\n\nContinúa el texto.",
+                ),
+                (
+                    "urn:test:2",
+                    "La Ley se publicó en el DIARIO OFICIAL DE LA FEDERACIÓN para surtir efectos.",
+                ),
             ],
         );
 

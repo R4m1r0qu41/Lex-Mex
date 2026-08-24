@@ -1016,7 +1016,13 @@ fn reform_act_heading_kind(block: &str) -> Option<&'static str> {
         Some("Decreto")
     } else if is_reform_regulation_heading(block) {
         Some("Reglamento")
-    } else if is_reform_ley_heading(block) {
+    // This runs only after the explicit reform-appendix boundary. In that
+    // narrowed context, an all-caps `LEY <title>` is an amending act title,
+    // including the LIE appendix's `LEY Reglamentaria del Servicio
+    // Ferroviario.` form. Keep the broader recognition here rather than in
+    // the main-document structural parser, where `LEY ` can begin ordinary
+    // source text.
+    } else if is_reform_ley_heading(block) || block.starts_with("LEY ") {
         Some("Ley")
     } else {
         None
@@ -1208,6 +1214,8 @@ mod tests {
         include_str!("../../../fixtures/diputados/reform-decreto-de-reformas-heading-sample.txt");
     const REFORM_BARE_LEY_TITLE_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-bare-ley-title-sample.txt");
+    const REFORM_UPPERCASE_LEY_TITLE_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/reform-uppercase-ley-title-sample.txt");
     const ARTICLE_LETTER_SUFFIX_QUALIFIER_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/article-letter-suffix-qualifier-sample.txt");
 
@@ -1751,6 +1759,22 @@ mod tests {
             "urn:lex-mx:federal:statute:sample:amendment:1993-12-23:transitory:decimo-octavo"
         );
         assert!(evidence.iter().all(|item| item.label.contains("Ley DOF")));
+    }
+
+    #[test]
+    fn an_uppercase_ley_title_in_the_reform_appendix_is_a_containing_act() {
+        let evidence = super::extract_reform_evidence(
+            REFORM_UPPERCASE_LEY_TITLE_FIXTURE,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+        )
+        .expect("an uppercase LEY title in the reform appendix identifies the act");
+
+        assert_eq!(evidence.len(), 1);
+        assert_eq!(
+            evidence[0].provision_id,
+            "urn:lex-mx:federal:statute:sample:amendment:1995-05-12:transitory:primero"
+        );
+        assert!(evidence[0].label.contains("Ley DOF 1995-05-12"));
     }
 
     #[test]

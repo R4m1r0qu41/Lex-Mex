@@ -36,6 +36,15 @@ parse is blocked only by the documented three-distinct-provision rule; do not
 add broad string filters from this inventory. The reviewer-facing finding and
 targeted refinement queue live in the dedicated Spearhead audit workspace.
 
+**EC1 refinement, 2026-08-24.** LFCE demonstrated that a recurring running
+title can also be cited substantively in several original transitories. The
+admission comparison therefore requires the normalized positional band to
+survive as its own double-newline-delimited parser block, rather than merely
+as a substring of provision prose. The focused fixture covers both a leaked
+standalone block and an embedded legal citation. This narrows the gate's
+evidence without changing extraction, source text, or the three-provision
+blocking threshold.
+
 ## 2026-08-24 — Deterministic temporal-status triage, three-tier provenance, and a recorded public-review-submission design
 
 **A vault re-export on 2026-08-23 revealed that 30,153 provision notes
