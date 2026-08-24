@@ -24,10 +24,10 @@ use lex_export::{
 };
 use lex_parse::{
     Commencement, CorpusExpectations, CorpusView, DiputadosOptions, GlossaryStyle,
-    InstrumentContextPolicy, ReferenceOptions, derive_article_temporal_determinations,
+    InstrumentContextPolicy, ReferenceOptions, audit_pdf, derive_article_temporal_determinations,
     detect_glossary_terms, extract_doc, extract_html_text, extract_internal_references,
-    extract_pdf, extract_references, extract_term_usages, extract_terms, find_glossary_provision,
-    parse_dcg, parse_diputados, parse_itf_dcg, validate_corpus,
+    extract_pdf, extract_references, extract_term_usages, extract_terms, find_admitted_furniture,
+    find_glossary_provision, parse_dcg, parse_diputados, parse_itf_dcg, validate_corpus,
 };
 use lex_source::{
     SourceConfig, SourceFormat, discover, fetch, fetch_annex, fetch_formal, load_batch_manifest,
@@ -91,6 +91,15 @@ enum Command {
     Standards {
         #[command(subcommand)]
         command: standards::StandardsCommand,
+    },
+    /// Read one PDF positionally and report recurring header/footer bands.
+    /// This is audit evidence only: it never changes extracted or canonical text.
+    AuditFurniture {
+        /// PDF to inspect. Relative paths are resolved from --root.
+        pdf: PathBuf,
+        /// Emit the report as pretty JSON.
+        #[arg(long)]
+        json: bool,
     },
     Discover {
         source: String,
@@ -327,6 +336,7 @@ fn dispatch(root: &Path, obsidian_vault: Option<&Path>, command: Command) -> Res
         }
         Command::Bundle { command } => bundle::run_bundle_command(root, command)?,
         Command::Standards { command } => standards::run_standards_command(root, command)?,
+        Command::AuditFurniture { pdf, json } => run_audit_furniture(root, &pdf, json)?,
         Command::Discover { source } => run_discover(root, &source)?,
         Command::Fetch { instrument } => {
             let context = instrument_context(root, &instrument)?;
@@ -418,6 +428,47 @@ fn dispatch(root: &Path, obsidian_vault: Option<&Path>, command: Command) -> Res
             }
         },
         Command::ReviewPackets { command } => review_packets::run_review_packets(root, command)?,
+    }
+    Ok(())
+}
+
+fn run_audit_furniture(root: &Path, pdf: &Path, json: bool) -> Result<()> {
+    let pdf = if pdf.is_absolute() {
+        pdf.to_path_buf()
+    } else {
+        root.join(pdf)
+    };
+    let report =
+        audit_pdf(&pdf).with_context(|| format!("failed to audit PDF {}", pdf.display()))?;
+    if json {
+        println!("{}", serde_json::to_string_pretty(&report)?);
+    } else {
+        println!(
+            "audited {} page(s): {} header/footer band(s), {} body-zone repeat(s)",
+            report.page_count,
+            report.furniture_bands.len(),
+            report.body_zone_repeats.len()
+        );
+        for band in &report.furniture_bands {
+            println!(
+                "furniture y={} pages={} coverage={:.2} zone={:?} kind={:?}: {}",
+                band.y,
+                band.pages,
+                band.coverage,
+                band.zone,
+                band.kind,
+                band.sample_texts.join(" | ")
+            );
+        }
+        for band in &report.body_zone_repeats {
+            println!(
+                "body-zone repeat y={} pages={} coverage={:.2}: {}",
+                band.y,
+                band.pages,
+                band.coverage,
+                band.sample_texts.join(" | ")
+            );
+        }
     }
     Ok(())
 }
@@ -1006,6 +1057,79 @@ struct ParsedInstrument {
     /// Latest amending-resolution date the parser derived from the
     /// document, when the `Última reforma` scan does not apply.
     latest_reform_date: Option<NaiveDate>,
+}
+
+#[derive(Debug, serde::Serialize)]
+struct FurnitureAuditDocument {
+    input: String,
+    report: lex_parse::furniture_audit::FurnitureReport,
+    admitted_furniture: Vec<lex_parse::furniture_audit::AdmittedFurniture>,
+}
+
+#[derive(Debug, serde::Serialize)]
+struct IngestionFurnitureAudit {
+    schema_version: String,
+    instrument_id: String,
+    documents: Vec<FurnitureAuditDocument>,
+}
+
+/// Run the positional audit for every PDF consumed by this parse. A repeated
+/// band is only a gate when the parser has also admitted that band's text into
+/// a provision; the complete read-only evidence remains in the work directory.
+fn run_furniture_audit(
+    context: &InstrumentContext,
+    provisions: &[lex_core::Provision],
+) -> Result<()> {
+    let paths = &context.paths;
+    let mut inputs = Vec::new();
+    if matches!(context.config.source_format, SourceFormat::Pdf) {
+        inputs.push(paths.source.clone());
+    }
+    inputs.extend((1..=context.config.annex_pdf_urls.len()).map(|number| paths.annex_pdf(number)));
+    if inputs.is_empty() {
+        return Ok(());
+    }
+
+    let provision_texts = provisions
+        .iter()
+        .map(|provision| (provision.id.as_str(), provision.text.as_str()))
+        .collect::<Vec<_>>();
+    let mut documents = Vec::with_capacity(inputs.len());
+    let mut potential_count = 0;
+    let mut blocking_count = 0;
+    for input in inputs {
+        let report = audit_pdf(&input)
+            .with_context(|| format!("failed to audit PDF {}", input.display()))?;
+        let admitted_furniture = find_admitted_furniture(&report, provision_texts.iter().copied());
+        potential_count += admitted_furniture.len();
+        blocking_count += admitted_furniture
+            .iter()
+            .filter(|finding| finding.blocks_ingestion())
+            .count();
+        documents.push(FurnitureAuditDocument {
+            input: input.display().to_string(),
+            report,
+            admitted_furniture,
+        });
+    }
+    let audit = IngestionFurnitureAudit {
+        schema_version: SCHEMA_VERSION.to_owned(),
+        instrument_id: context.config.instrument_id.clone(),
+        documents,
+    };
+    let report_path = paths.work.join("furniture-audit.json");
+    write_pretty_json(&audit, &report_path)?;
+    println!(
+        "furniture audit: {potential_count} potential finding(s), {blocking_count} blocking; report {}",
+        report_path.display()
+    );
+    if blocking_count > 0 {
+        bail!(
+            "furniture audit found {blocking_count} recurring header/footer band(s) in at least three parsed provisions; inspect {}",
+            report_path.display()
+        );
+    }
+    Ok(())
 }
 
 fn read_annex_documents(paths: &Paths, config: &SourceConfig) -> Result<Vec<(u32, String)>> {
@@ -1822,6 +1946,7 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
         amendment_references: parsed.amendment_references,
     };
     reapply_persisted_temporal_state(paths, config, &mut corpus, &reform_evidence)?;
+    run_furniture_audit(context, &corpus.provisions)?;
     write_canonical(&corpus, &paths.corpus)?;
     println!("parsed {} canonical provisions", corpus.provisions.len());
     println!("extracted {} canonical references", corpus.references.len());
@@ -2795,6 +2920,7 @@ mod tests {
     use std::{
         collections::{BTreeMap, HashMap, HashSet},
         fs,
+        path::Path,
     };
 
     use chrono::{NaiveDate, Utc};
@@ -2935,6 +3061,17 @@ mod tests {
                 scope: SearchScope::Canonical,
                 ..
             }
+        ));
+    }
+
+    #[test]
+    fn audit_furniture_cli_accepts_a_pdf_and_json_output() {
+        let cli =
+            Cli::try_parse_from(["lex-mex", "audit-furniture", "fixture.pdf", "--json"]).unwrap();
+        assert!(matches!(
+            cli.command,
+            Command::AuditFurniture { pdf, json }
+                if pdf == Path::new("fixture.pdf") && json
         ));
     }
 

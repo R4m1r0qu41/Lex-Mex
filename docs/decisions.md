@@ -1,5 +1,30 @@
 # Architecture decisions
 
+## 2026-08-24 — Positional PDF furniture audit is an automatic structural-ingestion gate
+
+**Decision: run the positional PDF audit after every PDF-backed parse, not
+as a manual operator command.** The audit comes from the previously evaluated
+REPO-019 / AnyDoc ecosystem, but uses only its underlying
+pdf-inspector = "=0.1.7" positional reader as a second opinion. It does
+not replace Poppler extraction, alter official source bytes, or rewrite
+canonical text.
+
+The parsing stage now audits every main and annex PDF consumed by a parser. It
+compares header/footer bands that recur on at least 95% of pages against the
+candidate provisions the parser just emitted. A positional band alone is
+evidence, not a defect; a band whose text has survived into a provision is a
+potential contamination or parser-boundary failure. An isolated match is
+reported but does not stop the run because a law's running title can also be
+a legitimate citation. The run stops before writing the candidate corpus only
+when the same header/footer text reaches three distinct provisions. Repeating
+body-zone text is reported separately and never treated as furniture
+automatically.
+
+This makes the audit run for ordinary pipeline, parse, and every batch-run
+instrument. The standalone audit-furniture command remains a read-only
+diagnostic for investigating a retained PDF, while the batch report will
+carry the failed instrument and its audit error.
+
 ## 2026-08-24 — Deterministic temporal-status triage, three-tier provenance, and a recorded public-review-submission design
 
 **A vault re-export on 2026-08-23 revealed that 30,153 provision notes

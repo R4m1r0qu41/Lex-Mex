@@ -1119,7 +1119,11 @@ fn validate_clause_coverage(
     if body_limit <= first.start_char || last.end_char <= first.start_char {
         return;
     }
+    // Source-text character offsets are bounded by a single document, far
+    // below f64's exact-integer limit; the ratio needs floating arithmetic.
+    #[allow(clippy::cast_precision_loss)]
     let span = (last.end_char - first.start_char) as f64;
+    #[allow(clippy::cast_precision_loss)]
     let coverage = span / (body_limit - first.start_char) as f64;
     if coverage < CLAUSE_COVERAGE_FLOOR {
         issues.push(warning(

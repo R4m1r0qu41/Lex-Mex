@@ -563,6 +563,7 @@ mod tests {
     }
 
     #[test]
+    #[allow(clippy::float_cmp)] // 1.0 is the deterministic rule's exact contract.
     fn day_after_publication_classifies_all_non_repealed_articles() {
         let inst = instrument(date(1990, 1, 1));
         let provisions = vec![

@@ -17,6 +17,7 @@ use regex::Regex;
 
 pub mod dcg;
 pub mod diputados;
+pub mod furniture_audit;
 pub mod html;
 pub mod itf;
 pub mod labels;
@@ -29,6 +30,7 @@ pub use diputados::{
     DiputadosDocument, DiputadosOptions, extract_dof_publication, extract_reform_evidence,
     parse_diputados,
 };
+pub use furniture_audit::{audit_pdf, find_admitted_furniture};
 pub use html::extract_html_text;
 pub use itf::{ItfDocument, parse_itf_dcg};
 pub use standard::{
