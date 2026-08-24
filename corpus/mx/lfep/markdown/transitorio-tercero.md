@@ -7,7 +7,7 @@ provision_type: transitory
 number: "TERCERO"
 aliases: ["LFEP — TERCERO"]
 generated: true
-temporal_status: repealed
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEP.pdf
 source_sha256: c0f203a9c6ebb990db8a2a43559ecf19e904f7c0757d0f334f7f4fb044aa6a12

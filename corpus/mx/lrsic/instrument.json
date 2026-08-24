@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lrsic",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley para Regular las Sociedades de Información Crediticia",
+  "short_name": "LRSIC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2002-01-15",
+  "latest_reform_date": "2024-01-24",
+  "retrieved_at": "2026-08-24T23:09:32.715478Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSIC.pdf",
+  "source_sha256": "25be325eba8804157a7b094dd11c861740241434d433a9cd69c53d4fe9e30b91",
+  "extracted_text_sha256": "12f188861642c7deccd367c266866b6cba3302e0c4e9a20116347a2748904bdd",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

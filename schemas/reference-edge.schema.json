@@ -93,7 +93,7 @@
     },
     "resolution_status": {
       "type": "string",
-      "enum": ["resolved", "unresolved"]
+      "enum": ["resolved", "unresolved", "historical_target_unavailable"]
     },
     "reference_form": {
       "type": "string",

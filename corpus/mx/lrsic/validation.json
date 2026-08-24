@@ -1,0 +1,40 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lrsic",
+  "valid": true,
+  "article_count": 85,
+  "transitory_count": 5,
+  "reference_count": 180,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "historical_reference_target_unavailable",
+      "message": "historical cross-instrument reference is preserved without a live target: urn:lex-mx:federal:statute:lraf-1990:article:12",
+      "provision_id": "urn:lex-mx:federal:statute:lrsic:article:2"
+    },
+    {
+      "severity": "warning",
+      "code": "historical_reference_target_unavailable",
+      "message": "historical cross-instrument reference is preserved without a live target: urn:lex-mx:federal:statute:lraf-1990:article:33",
+      "provision_id": "urn:lex-mx:federal:statute:lrsic:transitory:quinto"
+    },
+    {
+      "severity": "warning",
+      "code": "historical_reference_target_unavailable",
+      "message": "historical cross-instrument reference is preserved without a live target: urn:lex-mx:federal:statute:lraf-1990:article:33-a",
+      "provision_id": "urn:lex-mx:federal:statute:lrsic:transitory:quinto"
+    },
+    {
+      "severity": "warning",
+      "code": "historical_reference_target_unavailable",
+      "message": "historical cross-instrument reference is preserved without a live target: urn:lex-mx:federal:statute:lraf-1990:article:33-b",
+      "provision_id": "urn:lex-mx:federal:statute:lrsic:transitory:quinto"
+    },
+    {
+      "severity": "warning",
+      "code": "historical_reference_target_unavailable",
+      "message": "historical cross-instrument reference is preserved without a live target: urn:lex-mx:federal:statute:lraf-1990:article:33",
+      "provision_id": "urn:lex-mx:federal:statute:lrsic:transitory:quinto"
+    }
+  ]
+}

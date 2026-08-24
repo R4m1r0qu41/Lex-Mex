@@ -7,7 +7,7 @@ provision_type: transitory
 number: "CUARTO"
 aliases: ["REG-LOPSRM — CUARTO"]
 generated: true
-temporal_status: repealed
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPSRM.pdf
 source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9

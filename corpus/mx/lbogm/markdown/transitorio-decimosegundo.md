@@ -7,7 +7,7 @@ provision_type: transitory
 number: "DECIMOSEGUNDO"
 aliases: ["LBOGM — DECIMOSEGUNDO"]
 generated: true
-temporal_status: repealed
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LBOGM.pdf
 source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc

@@ -7,7 +7,7 @@ provision_type: transitory
 number: "SEGUNDO"
 aliases: ["LGPGIR — SEGUNDO"]
 generated: true
-temporal_status: repealed
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPGIR.pdf
 source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565

@@ -17,4 +17,4 @@ source_sha256: e86e9b734f81f2cdc9e2cf39b79ab4aaeea8295ae966ce73a487319c49de521a
 
 # Artículo 30
 
-Las [Sociedades Controladoras](articulo-5o.md) podrán emitir obligaciones subordinadas sujetándose a lo dispuesto en esta Ley y en el artículo 64 de la Ley de Instituciones de Crédito.
+Las [Sociedades Controladoras](articulo-5o.md) podrán emitir obligaciones subordinadas sujetándose a lo dispuesto en esta Ley y en el artículo [64](../../lic/markdown/articulo-64.md) de la Ley de Instituciones de Crédito.

@@ -27,6 +27,11 @@ pub struct ExternalInstrument {
     /// "ley para regular las instituciones de tecnología financiera".
     pub name_marker: String,
     pub instrument_id: String,
+    /// The marker identifies an earlier, no-longer-current instrument whose
+    /// canonical text is not in the live corpus. References remain explicit
+    /// historical edges and must never resolve against a later same-title law.
+    #[serde(default)]
+    pub historical_target_unavailable: bool,
 }
 
 /// The instrument's glossary provision, when it has one. Glossaries
@@ -530,7 +535,7 @@ mod tests {
             manifest_count += 1;
         }
         assert_eq!(manifest_count, 40, "expected 40 committed batch manifests");
-        assert_eq!(slugs.len(), 205, "expected 205 unique instruments");
+        assert_eq!(slugs.len(), 206, "expected 206 unique instruments");
     }
 
     #[test]

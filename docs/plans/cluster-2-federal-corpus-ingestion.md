@@ -143,16 +143,16 @@ Verified against local `main` at `3f2c9690c`:
   LFGFAGA adds one focused shared-parser regression for the exact
   `LEY del ...` reform-act heading form. FI3's individual-ingestion and
   bounded-closure checkpoints are complete.
-- EC1 (`batches/economy_EC1_competencia_inversion.json`) has admitted five
-  of six prepared instruments: `lfce`, `reg-lfce`, `lie`, `reg-liernie`, and
-  `lpcinecdi`. Its bounded closure, validation, and Markdown publication pass
+- EC1 (`batches/economy_EC1_competencia_inversion.json`) has admitted all six
+  prepared instruments: `lfce`, `reg-lfce`, `lie`, `reg-liernie`, `lpcinecdi`,
+  and `lrsic`. Its bounded closure, validation, and Markdown publication pass
   succeeded. LFCE refined the positional-furniture gate so it compares only
   standalone parser blocks; LIE added the narrow reform-appendix `LEY <title>`
   heading case. Exact source-specific signature markers keep congressional
-  apparatus out of LFCE and LIE. LRSIC is held out for the established
-  `stale-cross-reference-to-repealed-provision` class: its real Transitory
-  QUINTO citation names current-LRAF Articles 33-A and 33-B, which no longer
-  exist in the committed target text.
+  apparatus out of LFCE, LIE, and LRSIC. LRSIC's original references resolve
+  to the distinct unavailable historical identity `lraf-1990`, not the new
+  same-title LRAF issued by the 2014 omnibus decree. The current LRAF was also
+  refreshed with its nested Article Fifty-Second and overall Sole Transitory.
 - Per-instrument counts, source and extracted-text hashes, and validation
   state are owned by each instrument's `corpus/mx/<slug>/validation.json` and
   `source-manifest.json` and are not restated here. The dated `Progress` log
@@ -171,7 +171,7 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-AD1–AD4, TX1–TX3, FI1–FI3, and EC1's admitted set are closed; FI1 opened Domain FI
+AD1–AD4, TX1–TX3, FI1–FI3, and EC1 are closed; FI1 opened Domain FI
 (`lcnbv` held out for `stale-cross-reference-to-repealed-provision`, a new
 class — `docs/ingestion-difficulty-log.md`), FI2 continued it, and FI3
 completed the prepared FI sequence with all eight entries admitted. When
@@ -312,13 +312,17 @@ review remain separate work.
   formatting, clippy, and both audited baseline validators).
   `docs/decisions.md` 2026-08-06.
 - [x] (2026-08-24) Normalized EC1 and admitted `lfce`, `reg-lfce`, `lie`,
-  `reg-liernie`, and `lpcinecdi`: 328 articles, 29 original transitories,
-  and 180 resolved references. The bounded closure completed successfully.
+  `reg-liernie`, `lpcinecdi`, and `lrsic`: 413 articles, 34 original
+  transitories, and 360 references. The bounded closure completed
+  successfully.
   LFCE's embedded running-title citations narrowed the automatic furniture
   gate to standalone parser blocks; LIE's appendix added a focused uppercase
-  `LEY <title>` reform-act fixture. LRSIC remains blocked on the already-known
-  stale cross-reference class because its genuine LRAF Articles 33-A/33-B
-  citations have no current target. See `docs/ingestion-difficulty-log.md`.
+  `LEY <title>` reform-act fixture. LRSIC preserves five source-verifiable
+  references to the 1990 LRAF as historical-target-unavailable warnings; it
+  does not link them to the 2014 successor. The LRAF stress case also added a
+  nested-omnibus transitory fixture and corrected operative repeal clauses
+  that had been mislabeled as repealed provisions. See
+  `docs/ingestion-difficulty-log.md` and `docs/decisions.md`.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 

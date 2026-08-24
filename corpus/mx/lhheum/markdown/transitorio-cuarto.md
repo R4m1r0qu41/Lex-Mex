@@ -7,7 +7,7 @@ provision_type: transitory
 number: "Cuarto"
 aliases: ["LHHEUM — Cuarto"]
 generated: true
-temporal_status: repealed
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf
 source_sha256: ee7dcf952a44974e79227e9b8b8752899672827c1adfcabedc0739ceca51e49e

@@ -10240,5 +10240,41 @@
     "span": "Secretaría",
     "start_char": 247,
     "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo:term-usage:809-833",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
+    "span": "Sociedades Controladoras",
+    "start_char": 809,
+    "end_char": 833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo:term-usage:1161-1171",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1161,
+    "end_char": 1171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo:term-usage:1182-1206",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
+    "span": "Sociedades Controladoras",
+    "start_char": 1182,
+    "end_char": 1206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo:term-usage:1209-1227",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
+    "span": "Grupos Financieros",
+    "start_char": 1209,
+    "end_char": 1227
   }
 ]

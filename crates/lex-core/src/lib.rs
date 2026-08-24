@@ -603,6 +603,10 @@ pub struct ReferenceQualifier {
 pub enum ReferenceResolutionStatus {
     Resolved,
     Unresolved,
+    /// The source expressly cites a prior legal instrument that is no longer
+    /// represented by the current consolidated target corpus. The edge is
+    /// retained as a historical citation, not treated as a live graph link.
+    HistoricalTargetUnavailable,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]

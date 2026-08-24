@@ -6,17 +6,19 @@
     "Normalized from prompts/cluster-2-batches/lex-mex-cl2-batch-EC1.json for the repository Rust ingestion gate.",
     "All six prepared entries were absent from adapters, corpus/mx, and existing operational batch manifests when this manifest was created.",
     "Prepared dof_publication/dof_last_reform fields are provenance context, not operational batch-manifest properties, and are therefore intentionally omitted.",
-    "The planned first pass is lfce only: inspect its source manifest, positional furniture report, canonical diff, and validation before freezing counts or processing the remaining EC1 entries.",
-    "lrsic is held out: its original transitory QUINTO cites LRAF Articles 33-A and 33-B, which do not exist in the already-committed current LRAF corpus. The reference-graph rule deliberately fails this stale-cross-reference-to-repealed-provision case rather than silently dropping edges; resolving it requires the same corpus-wide policy decision as lcnbv."
+    "The planned first pass was lfce only: its source manifest, positional furniture report, canonical diff, and validation were inspected before counts were frozen for the remaining EC1 entries.",
+    "LRSIC's original transitory QUINTO is mapped to the distinct historical identity urn:lex-mx:federal:statute:lraf-1990. It must not resolve against the same-title LRAF enacted by the 2014 omnibus decree."
   ],
-  "blocked": [
+  "instruments": [
     {
       "slug": "lrsic",
       "title": "LEY para Regular las Sociedades de Información Crediticia",
-      "reason": "Held out per docs/ingestion-difficulty-log.md: original Transitory QUINTO cites the now-absent LRAF Articles 33-A and 33-B. The source citation is real and the target instrument is already ingested, so silently dropping the unresolved cross-instrument edges would be an unreviewed corpus-wide reference-graph policy change."
-    }
-  ],
-  "instruments": [
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrsic.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSIC.pdf"
+    },
     {
       "slug": "lfce",
       "title": "LEY Federal de Competencia Económica",

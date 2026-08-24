@@ -559,31 +559,29 @@ case (12th–15th confirmed instances across the AD/TX/FI program) and
 admitted clean via the reviewed `allow_article_gaps: true` adapter
 setting, no parser change.
 
-### lrsic — stale-cross-reference-to-repealed-provision — 2026-08-24
+### lrsic — historical-same-title-target — resolved 2026-08-24
 
 What's difficult: original Transitory QUINTO of the Ley para Regular las
 Sociedades de Información Crediticia (LRSIC) expressly repeals Articles 33,
 33-A, and 33-B of the Ley para Regular las Agrupaciones Financieras (LRAF).
-The current committed LRAF corpus contains Article 33 but no 33-A or 33-B
-provision. The LRSIC source citation is real, the target instrument is
-already ingested, and the LRSIC adapter otherwise parses cleanly after the
-established `1o.` ordinal-numbering setting and an exact signature boundary.
-Validation therefore retains two unresolved cross-instrument targets rather
-than silently deleting the historical citation.
+That citation predates the current same-title LRAF by twelve years: it targets
+the LRAF published 18 July 1990, which the 2014 omnibus decree later abrogated
+when Article Fifty-First issued a new LRAF. Comparing the citation only with
+the current LRAF incorrectly made Article 33 appear resolvable and 33-A/33-B
+appear stale.
 
-What was tried: a retained-source provisional parse and direct comparison to
-the current LRAF canonical provision identifiers. No parser defect or missing
-target-instrument wiring was found. Admitting the source by dropping only the
-two edges would make the same unreviewed corpus-wide policy choice identified
-for `lcnbv`: how to represent a verified citation to a provision that is no
-longer present in the current target text.
+Resolution: preserve all five LRSIC edges to the distinct historical identity
+`urn:lex-mx:federal:statute:lraf-1990` with
+`historical_target_unavailable`. This produces explicit non-blocking warnings,
+no false links to the 2014 law, and a validation error if the historical target
+is later ingested without relinking. The actual source also cites old-LRAF
+Article 12 in LRSIC Article 2; the adapter-scoped identity correctly covers it.
+LRSIC admitted at 85 articles, 5 original transitories, and 180 references.
 
-Status: **held out, not ingested.**
-`batches/economy_EC1_competencia_inversion.json` carries LRSIC under
-`blocked`; the other five EC1 instruments were admitted. Suggested reviewed
-fix: introduce a distinct, source-preserving stale-reference representation
-or non-blocking validation code, with a target-unavailable rationale and
-review trail. Do not silently erase the citation or infer its successor.
+The same run exposed and fixed a separate temporal-status defect: operative
+`Se deroga …` / `Se derogan …` clauses were being mistaken for standalone
+repeal placeholders. LRSIC Transitory QUINTO now remains status `unknown`
+while preserving the repeal effect it creates. See `docs/decisions.md`.
 
 ### [cluster] page-furniture-boundary-gap — root_mechanism: standard.rs has no line-level furniture filter — 2026-08-09
 

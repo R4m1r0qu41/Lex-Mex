@@ -7,7 +7,7 @@ provision_type: transitory
 number: "SEGUNDO"
 aliases: ["REG-LFEP — SEGUNDO"]
 generated: true
-temporal_status: repealed
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEP.pdf
 source_sha256: fa76340e597a2214f73b039f2a89465f9c1037f7d1630a852689124478621873

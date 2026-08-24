@@ -7,7 +7,7 @@ provision_type: transitory
 number: "Séptimo"
 aliases: ["LSPCAPF — Séptimo"]
 generated: true
-temporal_status: repealed
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/260.pdf
 source_sha256: d0e88848d94fbf70ee742e9e57a5ee9c34e060b21215f2c7f98a02e1f307e424

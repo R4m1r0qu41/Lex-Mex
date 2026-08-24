@@ -7,7 +7,7 @@ provision_type: transitory
 number: "14"
 aliases: ["LMEUM — 14"]
 generated: true
-temporal_status: repealed
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMEUM.pdf
 source_sha256: 0ba3f805964135cf2eac4cd05888a7c63c4c116657f25039d3d93af9102264be

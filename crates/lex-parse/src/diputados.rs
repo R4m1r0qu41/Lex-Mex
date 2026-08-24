@@ -66,6 +66,10 @@ pub(crate) fn transitory_ordinals() -> Vec<String> {
         "VIGESIMO",
         "TRIGÉSIMO",
         "TRIGESIMO",
+        "CUADRAGÉSIMO",
+        "CUADRAGESIMO",
+        "QUINCUAGÉSIMO",
+        "QUINCUAGESIMO",
     ];
     let tens_f = [
         "DÉCIMA",
@@ -74,6 +78,10 @@ pub(crate) fn transitory_ordinals() -> Vec<String> {
         "VIGESIMA",
         "TRIGÉSIMA",
         "TRIGESIMA",
+        "CUADRAGÉSIMA",
+        "CUADRAGESIMA",
+        "QUINCUAGÉSIMA",
+        "QUINCUAGESIMA",
     ];
     let mut ordinals = Vec::new();
     for (tens, units) in [(tens_m, units_m), (tens_f, units_f)] {
@@ -470,6 +478,13 @@ fn is_decree_article_wrapper(block: &str, ordinals: &[String]) -> bool {
     .any(|action| body.starts_with(action))
 }
 
+fn is_plural_decree_article_wrapper(block: &str, ordinals: &[String]) -> bool {
+    ["Artículos ", "ARTÍCULOS ", "ARTICULOS "]
+        .iter()
+        .any(|prefix| block.starts_with(prefix))
+        && is_decree_article_wrapper(block, ordinals)
+}
+
 fn is_immediate_structural(
     line: &str,
     options: &DiputadosOptions,
@@ -773,6 +788,7 @@ pub fn parse_diputados(
     };
     let mut in_statute_transitories = false;
     let mut in_substantive_annex = false;
+    let mut pending_overall_decree_transitory = false;
     let mut last_article_base: Option<u64> = None;
     let mut seen_ordinals: std::collections::HashSet<String> = std::collections::HashSet::new();
 
@@ -815,8 +831,17 @@ pub fn parse_diputados(
         if is_transitory_section_header(&block) {
             // A statute has a single transitory section; a second header
             // is a reform decree's, so its transitorios (repeating
-            // PRIMERO, SEGUNDO, …) do not belong to the instrument.
+            // PRIMERO, SEGUNDO, …) do not belong to the instrument. The
+            // narrow exception is a law issued inside an omnibus decree:
+            // after the law's own transitory decree article and ellipsized
+            // sibling decree articles, the overall decree has its own
+            // transitory section and both layers belong to the enactment.
             if in_statute_transitories {
+                if pending_overall_decree_transitory {
+                    pending_overall_decree_transitory = false;
+                    seen_ordinals.clear();
+                    continue;
+                }
                 break;
             }
             if let Some(builder) = current.take() {
@@ -832,12 +857,22 @@ pub fn parse_diputados(
             };
             continue;
         }
+        if pending_overall_decree_transitory {
+            break;
+        }
 
         if in_statute_transitories {
             // A reform decree following the statute transitories ends the
             // main document; its transitories belong to reform evidence.
             if block.starts_with("DECRETO por") || block.starts_with("REFORMAS Y ADICIONES") {
                 break;
+            }
+            if is_plural_decree_article_wrapper(&block, &ordinals) {
+                if let Some(builder) = current.take() {
+                    provisions.push(builder.finish(&options.instrument_id, publication_date));
+                }
+                pending_overall_decree_transitory = true;
+                continue;
             }
             if let Some((ordinal, body)) = parse_transitory_start(&block, &ordinals) {
                 // A repeated ordinal starts a reform decree's transitorios
@@ -1218,6 +1253,8 @@ mod tests {
         include_str!("../../../fixtures/diputados/reform-uppercase-ley-title-sample.txt");
     const ARTICLE_LETTER_SUFFIX_QUALIFIER_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/article-letter-suffix-qualifier-sample.txt");
+    const NESTED_OMNIBUS_TRANSITORY_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/nested-omnibus-transitory-sample.txt");
 
     fn options(instrument_id: &str, title: &str) -> DiputadosOptions {
         DiputadosOptions {
@@ -1386,6 +1423,43 @@ mod tests {
         assert_eq!(transitories.len(), 1);
         assert_eq!(transitories[0].number, "UNICO");
         assert_eq!(transitories[0].text, "Entrada en vigor.");
+    }
+
+    #[test]
+    fn nested_omnibus_enactment_keeps_law_and_overall_decree_transitories() {
+        let document = parse_diputados(
+            NESTED_OMNIBUS_TRANSITORY_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:statute:lraf",
+                "Ley para Regular las Agrupaciones Financieras",
+            ),
+            NaiveDate::from_ymd_opt(2014, 1, 10).expect("valid date"),
+        )
+        .expect("nested omnibus fixture parses");
+
+        let transitories: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|provision| provision.provision_type == ProvisionType::Transitory)
+            .collect();
+        assert_eq!(transitories.len(), 2);
+        assert_eq!(transitories[0].number, "QUINCUAGÉSIMO SEGUNDO");
+        assert!(
+            transitories[0]
+                .text
+                .contains("publicada el 18 de julio de 1990")
+        );
+        assert!(!transitories[0].text.contains("QUINCUAGÉSIMO TERCERO"));
+        assert_eq!(transitories[1].number, "ÚNICO");
+        assert_eq!(
+            transitories[1].text,
+            "El presente Decreto entrará en vigor al día siguiente de su publicación."
+        );
+        assert!(document.provisions.iter().all(|provision| {
+            !provision
+                .text
+                .contains("El presente Decreto entrará en vigor al día siguiente.")
+        }));
     }
 
     #[test]

@@ -7,7 +7,7 @@ provision_type: transitory
 number: "Segundo"
 aliases: ["LFGFAGA — Segundo"]
 generated: true
-temporal_status: repealed
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/192.pdf
 source_sha256: 5ecf3ff973aa8817fdb63785bcf56d34826dabc130480ba3f1b344ce55ede363

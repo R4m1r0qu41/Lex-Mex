@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lrsic",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSIC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrsic.htm",
+  "retrieved_at": "2026-08-24T23:09:32.715478Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 623049,
+  "etag": "\"981c9-60fce055e2700\"",
+  "last_modified": "Fri, 26 Jan 2024 00:03:08 GMT",
+  "source_sha256": "25be325eba8804157a7b094dd11c861740241434d433a9cd69c53d4fe9e30b91",
+  "extracted_text_sha256": "12f188861642c7deccd367c266866b6cba3302e0c4e9a20116347a2748904bdd",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "eaff75cc1866a525749d717e4c67dfc36bc5b08c"
+}

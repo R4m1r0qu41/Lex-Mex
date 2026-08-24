@@ -7,7 +7,7 @@ provision_type: transitory
 number: "CUARTO"
 aliases: ["REG-SENADO — CUARTO"]
 generated: true
-temporal_status: repealed
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf
 source_sha256: 97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2

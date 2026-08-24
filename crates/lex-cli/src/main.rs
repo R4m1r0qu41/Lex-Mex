@@ -2083,14 +2083,23 @@ fn extract_instrument_references(
     for (_, corpus) in &siblings {
         known_targets.extend(corpus.provisions.iter().map(|item| item.id.clone()));
     }
-    let mut external_instruments = global_external_instruments(root, instrument, &siblings)?;
-    external_instruments.extend(context.config.external_instruments.iter().map(|external| {
+    let configured_external = context.config.external_instruments.iter().map(|external| {
         (
             external.name_marker.to_lowercase(),
             external.instrument_id.clone(),
         )
-    }));
-    let external_instruments = normalize_external_instruments(external_instruments)?;
+    });
+    let external_instruments = merge_external_instruments(
+        global_external_instruments(root, instrument, &siblings)?,
+        configured_external,
+    )?;
+    let historical_target_ids = context
+        .config
+        .external_instruments
+        .iter()
+        .filter(|external| external.historical_target_unavailable)
+        .map(|external| external.instrument_id.clone())
+        .collect();
     let options = ReferenceOptions {
         policy: InstrumentContextPolicy::SentenceEarliestMarker {
             internal_markers: context
@@ -2103,6 +2112,7 @@ fn extract_instrument_references(
         transitory_citations: true,
         same_article_fractions: true,
         relative_references: true,
+        historical_target_ids,
     };
     extract_references(
         provisions,
@@ -2209,6 +2219,24 @@ fn normalize_external_instruments(
             .then_with(|| left_id.cmp(right_id))
     });
     Ok(external)
+}
+
+/// Adapter-scoped mappings override the global same-title alias. This is
+/// required when a source predates a later law with the same official title:
+/// the source can point to the historical identity without colliding with the
+/// live corpus alias.
+fn merge_external_instruments(
+    mut global: Vec<(String, String)>,
+    configured: impl IntoIterator<Item = (String, String)>,
+) -> Result<Vec<(String, String)>> {
+    let configured: Vec<_> = configured.into_iter().collect();
+    let configured_markers: HashSet<_> = configured
+        .iter()
+        .map(|(marker, _)| marker.to_lowercase())
+        .collect();
+    global.retain(|(marker, _)| !configured_markers.contains(&marker.to_lowercase()));
+    global.extend(configured);
+    normalize_external_instruments(global)
 }
 
 fn run_link(root: &Path, context: &InstrumentContext) -> Result<()> {
@@ -2935,8 +2963,8 @@ mod tests {
     use super::{
         Cli, Command, ExpectedEdgeCorpus, InstrumentAliasTable, Paths, SearchScope,
         committed_instrument_index, evaluate_expected_edges, freeze_adapter_baseline,
-        latest_reform_date, read_corpus, resolve_global_aliases, run_batch_closure,
-        scaffold_adapter, selected_corpus_paths,
+        latest_reform_date, merge_external_instruments, read_corpus, resolve_global_aliases,
+        run_batch_closure, scaffold_adapter, selected_corpus_paths,
     };
 
     const STALE_RUNNING_HEADER_REFORM_DATE_FIXTURE: &str = include_str!(
@@ -3115,6 +3143,21 @@ mod tests {
                 "ley orgánica del congreso general de los estados unidos mexicanos".to_owned(),
                 "urn:test:locg".to_owned(),
             )]
+        );
+    }
+
+    #[test]
+    fn configured_historical_alias_overrides_same_title_live_alias() {
+        let marker = "ley para regular las agrupaciones financieras";
+        let merged = merge_external_instruments(
+            vec![(marker.to_owned(), "urn:test:lraf-current".to_owned())],
+            [(marker.to_owned(), "urn:test:lraf-1990".to_owned())],
+        )
+        .unwrap();
+
+        assert_eq!(
+            merged,
+            vec![(marker.to_owned(), "urn:test:lraf-1990".to_owned())]
         );
     }
 

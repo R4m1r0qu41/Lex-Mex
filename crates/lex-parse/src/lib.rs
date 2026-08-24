@@ -256,6 +256,10 @@ pub struct ReferenceOptions {
     /// edges targeting the source provision's neighbor of the same
     /// provision type in document order.
     pub relative_references: bool,
+    /// Instrument IDs that identify superseded historical laws not present
+    /// in the current corpus. Their express citations remain canonical but
+    /// deliberately do not become live links to a later same-title law.
+    pub historical_target_ids: Vec<String>,
 }
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
@@ -271,6 +275,7 @@ pub fn extract_internal_references(provisions: &[Provision]) -> Result<Vec<Refer
         transitory_citations: false,
         same_article_fractions: true,
         relative_references: true,
+        historical_target_ids: Vec::new(),
     };
     let target_ids: HashSet<String> = provisions.iter().map(|item| item.id.clone()).collect();
     extract_references(provisions, None, &options, &target_ids)
@@ -469,7 +474,7 @@ fn extract_relative_references(
             target.to_owned(),
             qualifiers,
             ReferenceForm::Relative,
-            known_targets,
+            reference_resolution_status(target, known_targets, false),
         ));
     }
     references
@@ -512,6 +517,10 @@ fn extract_reference_group(
         &pre_qualifiers,
         patterns,
         known_targets,
+        options
+            .historical_target_ids
+            .iter()
+            .any(|id| id == target_instrument_id),
     );
     references.extend(range_expansion_edges(
         source,
@@ -520,6 +529,10 @@ fn extract_reference_group(
         group,
         &accepted,
         known_targets,
+        options
+            .historical_target_ids
+            .iter()
+            .any(|id| id == target_instrument_id),
     ));
     references
 }
@@ -629,6 +642,15 @@ fn extract_transitory_citations(
             "{target_instrument_id}:transitory:{}",
             slug(ordinal.as_str())
         );
+        let historical_target_unavailable = options
+            .historical_target_ids
+            .iter()
+            .any(|id| id == target_instrument_id);
+        let resolution_status = reference_resolution_status(
+            &target_provision_id,
+            known_targets,
+            historical_target_unavailable,
+        );
         references.push(reference_edge(
             source,
             &source.text[ordinal.start()..citation_end],
@@ -636,7 +658,7 @@ fn extract_transitory_citations(
             target_provision_id,
             Vec::new(),
             ReferenceForm::Direct,
-            known_targets,
+            resolution_status,
         ));
     }
     references
@@ -680,6 +702,7 @@ fn direct_reference_edges(
     pre_qualifiers: &[ReferenceQualifier],
     patterns: &ReferencePatterns,
     known_targets: &HashSet<String>,
+    historical_target_unavailable: bool,
 ) -> Vec<ReferenceEdge> {
     accepted
         .iter()
@@ -703,14 +726,21 @@ fn direct_reference_edges(
                 qualifier_text,
                 patterns,
             ));
+            let target_provision_id =
+                canonical_article_id(target_instrument_id, number_match.as_str());
+            let resolution_status = reference_resolution_status(
+                &target_provision_id,
+                known_targets,
+                historical_target_unavailable,
+            );
             reference_edge(
                 source,
                 number_match.as_str(),
                 (group_start + number_match.start())..(group_start + number_match.end()),
-                canonical_article_id(target_instrument_id, number_match.as_str()),
+                target_provision_id,
                 qualifiers,
                 ReferenceForm::Direct,
-                known_targets,
+                resolution_status,
             )
         })
         .collect()
@@ -723,6 +753,7 @@ fn range_expansion_edges(
     group: &str,
     accepted: &[regex::Match<'_>],
     known_targets: &HashSet<String>,
+    historical_target_unavailable: bool,
 ) -> Vec<ReferenceEdge> {
     let mut references = Vec::new();
     for pair in accepted.windows(2) {
@@ -740,14 +771,21 @@ fn range_expansion_edges(
         let range = (group_start + pair[0].start())..(group_start + pair[1].end());
         let source_span = &source.text[range.clone()];
         for expanded in (start + 1)..end {
+            let target_provision_id =
+                canonical_article_id(target_instrument_id, &expanded.to_string());
+            let resolution_status = reference_resolution_status(
+                &target_provision_id,
+                known_targets,
+                historical_target_unavailable,
+            );
             references.push(reference_edge(
                 source,
                 source_span,
                 range.clone(),
-                canonical_article_id(target_instrument_id, &expanded.to_string()),
+                target_provision_id,
                 Vec::new(),
                 ReferenceForm::RangeExpansion,
-                known_targets,
+                resolution_status,
             ));
         }
     }
@@ -761,7 +799,7 @@ fn reference_edge(
     target_provision_id: String,
     qualifiers: Vec<ReferenceQualifier>,
     reference_form: ReferenceForm,
-    known_targets: &HashSet<String>,
+    resolution_status: ReferenceResolutionStatus,
 ) -> ReferenceEdge {
     let start_char = source.text[..source_range.start].chars().count();
     let end_char = start_char + source.text[source_range].chars().count();
@@ -770,11 +808,6 @@ fn reference_edge(
         ReferenceForm::Direct => "direct",
         ReferenceForm::RangeExpansion => "range",
         ReferenceForm::Relative => "relative",
-    };
-    let resolution_status = if known_targets.contains(target_provision_id.as_str()) {
-        ReferenceResolutionStatus::Resolved
-    } else {
-        ReferenceResolutionStatus::Unresolved
     };
     let target_instrument_id = target_provision_id
         .rsplit_once(":article:")
@@ -801,6 +834,20 @@ fn reference_edge(
     }
 }
 
+fn reference_resolution_status(
+    target_provision_id: &str,
+    known_targets: &HashSet<String>,
+    historical_target_unavailable: bool,
+) -> ReferenceResolutionStatus {
+    if historical_target_unavailable {
+        ReferenceResolutionStatus::HistoricalTargetUnavailable
+    } else if known_targets.contains(target_provision_id) {
+        ReferenceResolutionStatus::Resolved
+    } else {
+        ReferenceResolutionStatus::Unresolved
+    }
+}
+
 /// The temporal status a freshly parsed provision starts with, before any
 /// temporal determination is applied. A consolidated current text proves the
 /// source wording, not the legal effectiveness of every provision it prints,
@@ -810,11 +857,23 @@ fn reference_edge(
 /// results for analyzed instruments) overrides this initial state.
 pub(crate) fn initial_temporal_status(text: &str) -> lex_core::TemporalStatus {
     let head = text.trim_start().to_lowercase();
-    if head.starts_with("(se deroga")
-        || head.starts_with("se deroga")
-        || head.starts_with("(derogad")
-        || head.starts_with("derogad")
-    {
+    let standalone_marker = [
+        "(se deroga",
+        "se deroga",
+        "(derogado",
+        "derogado",
+        "(derogada",
+        "derogada",
+    ]
+    .iter()
+    .any(|marker| {
+        head.strip_prefix(marker).is_some_and(|tail| {
+            tail.chars()
+                .next()
+                .is_none_or(|character| !character.is_alphabetic() && !character.is_whitespace())
+        })
+    });
+    if standalone_marker {
         lex_core::TemporalStatus::Repealed
     } else {
         lex_core::TemporalStatus::Unknown
@@ -996,7 +1055,7 @@ fn extract_same_article_fractions(
                     ReferenceQualifierType::Fraction,
                 )],
                 ReferenceForm::Direct,
-                known_targets,
+                reference_resolution_status(source.source_id, known_targets, false),
             ));
         }
     }
@@ -1720,6 +1779,24 @@ fn validate_reference_target(
                 reference.target_provision_id
             ),
         ),
+        (ReferenceResolutionStatus::HistoricalTargetUnavailable, false) => {
+            issues.push(warning(
+                "historical_reference_target_unavailable",
+                format!(
+                    "historical {scope} reference is preserved without a live target: {}",
+                    reference.target_provision_id
+                ),
+                Some(reference.source_provision_id.clone()),
+            ));
+            return;
+        }
+        (ReferenceResolutionStatus::HistoricalTargetUnavailable, true) => (
+            "historical_reference_target_now_available",
+            format!(
+                "historical reference target now exists and must be relinked: {}",
+                reference.target_provision_id
+            ),
+        ),
         (ReferenceResolutionStatus::Resolved, true) => return,
     };
     issues.push(error(
@@ -1809,6 +1886,15 @@ fn error(code: &str, message: String, provision_id: Option<String>) -> Validatio
     }
 }
 
+fn warning(code: &str, message: String, provision_id: Option<String>) -> ValidationIssue {
+    ValidationIssue {
+        severity: Severity::Warning,
+        code: code.to_owned(),
+        message,
+        provision_id,
+    }
+}
+
 /// Build one reform-transitory `TemporalEvidence` item: the shared
 /// provision-ID and label convention every compiled/consolidated
 /// document's amending-act transitories use
@@ -1848,10 +1934,10 @@ mod tests {
     use pretty_assertions::assert_eq;
 
     use super::{
-        DiputadosOptions, InstrumentContextPolicy, ReferenceOptions,
-        contains_page_header_contamination, extract_internal_references, extract_references,
-        extract_reform_evidence, initial_temporal_status, parse_dcg, parse_diputados,
-        validate_lritf,
+        CorpusExpectations, CorpusView, DiputadosOptions, InstrumentContextPolicy,
+        ReferenceOptions, contains_page_header_contamination, extract_internal_references,
+        extract_references, extract_reform_evidence, initial_temporal_status, parse_dcg,
+        parse_diputados, validate_corpus, validate_lritf,
     };
 
     const FIXTURE: &str = include_str!("../../../fixtures/lritf/parser-sample.txt");
@@ -1880,6 +1966,7 @@ mod tests {
     const RGIC_ID: &str = "urn:lex-mx:federal:regulation:rgic";
     const ORDINAL_TITLE_ID: &str = "urn:lex-mx:federal:statute:ordinal-title-fixture";
     const CPEUM_ID: &str = "urn:lex-mx:federal:constitution:cpeum";
+    const HISTORICAL_LRAF_ID: &str = "urn:lex-mx:federal:statute:lraf-1990";
 
     /// The exact options the CLI derives for the committed LRITF adapter;
     /// the committed corpus is the byte-identity fixture for them.
@@ -1921,6 +2008,7 @@ mod tests {
             transitory_citations: true,
             same_article_fractions: true,
             relative_references: true,
+            historical_target_ids: Vec::new(),
         }
     }
 
@@ -1952,6 +2040,7 @@ mod tests {
             transitory_citations: true,
             same_article_fractions: true,
             relative_references: true,
+            historical_target_ids: Vec::new(),
         }
     }
 
@@ -2075,6 +2164,91 @@ mod tests {
     }
 
     #[test]
+    fn preserves_same_title_historical_citations_without_linking_the_successor_law() {
+        let source_id = "urn:lex-mx:federal:statute:lrsic";
+        let date = NaiveDate::from_ymd_opt(2002, 1, 15).unwrap();
+        let document = parse_diputados(
+            "Artículo 1.- Se derogan los artículos 33, 33-A y 33-B de la Ley para Regular las Agrupaciones Financieras.",
+            &DiputadosOptions {
+                instrument_id: source_id.to_owned(),
+                header_lines: Vec::new(),
+                stop_markers: Vec::new(),
+                annex_markers: Vec::new(),
+            },
+            date,
+        )
+        .unwrap();
+        let successor_target = "urn:lex-mx:federal:statute:lraf:article:33".to_owned();
+        let known_targets = HashSet::from([successor_target]);
+        let references = extract_references(
+            &document.provisions,
+            None,
+            &ReferenceOptions {
+                policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                    internal_markers: vec!["de esta ley".to_owned()],
+                    external_instruments: vec![(
+                        "ley para regular las agrupaciones financieras".to_owned(),
+                        HISTORICAL_LRAF_ID.to_owned(),
+                    )],
+                },
+                transitory_citations: true,
+                same_article_fractions: true,
+                relative_references: true,
+                historical_target_ids: vec![HISTORICAL_LRAF_ID.to_owned()],
+            },
+            &known_targets,
+        )
+        .unwrap();
+
+        assert_eq!(references.len(), 3);
+        assert!(references.iter().all(|reference| {
+            reference.target_instrument_id == HISTORICAL_LRAF_ID
+                && reference
+                    .target_provision_id
+                    .starts_with(HISTORICAL_LRAF_ID)
+                && reference.resolution_status
+                    == ReferenceResolutionStatus::HistoricalTargetUnavailable
+        }));
+        assert!(
+            references
+                .iter()
+                .all(|reference| reference.target_provision_id
+                    != "urn:lex-mx:federal:statute:lraf:article:33")
+        );
+
+        let report = validate_corpus(
+            &CorpusView {
+                instrument_id: source_id,
+                official_title: None,
+                provisions: &document.provisions,
+                references: &references,
+                terms: &[],
+                term_usages: &[],
+                amendment_references: &[],
+            },
+            &CorpusExpectations {
+                min_articles: Some(1),
+                articles: Some(1),
+                transitories: Some(0),
+                annexes: 0,
+                require_chapter_context: false,
+                allow_article_gaps: false,
+            },
+            &HashSet::new(),
+            &HashSet::new(),
+        );
+        assert!(report.valid);
+        assert_eq!(
+            report
+                .issues
+                .iter()
+                .filter(|issue| issue.code == "historical_reference_target_unavailable")
+                .count(),
+            3
+        );
+    }
+
+    #[test]
     fn ordinal_title_citation_keeps_following_external_instrument_context() {
         let target = format!("{CPEUM_ID}:article:6");
         let known_targets = HashSet::from([target.clone()]);
@@ -2095,6 +2269,7 @@ mod tests {
                 transitory_citations: false,
                 same_article_fractions: false,
                 relative_references: false,
+                historical_target_ids: Vec::new(),
             },
             &known_targets,
         )
@@ -2132,6 +2307,7 @@ mod tests {
                 transitory_citations: false,
                 same_article_fractions: false,
                 relative_references: false,
+                historical_target_ids: Vec::new(),
             },
             &known_targets,
         )
@@ -2165,6 +2341,7 @@ mod tests {
                 transitory_citations: false,
                 same_article_fractions: false,
                 relative_references: false,
+                historical_target_ids: Vec::new(),
             },
             &known_targets,
         )
@@ -2382,6 +2559,14 @@ mod tests {
         assert_eq!(
             initial_temporal_status("(Se deroga)."),
             TemporalStatus::Repealed
+        );
+        assert_eq!(
+            initial_temporal_status("Se derogan los artículos 33, 33-A y 33-B de otra ley."),
+            TemporalStatus::Unknown
+        );
+        assert_eq!(
+            initial_temporal_status("Se deroga el artículo 27 de otra ley."),
+            TemporalStatus::Unknown
         );
     }
 

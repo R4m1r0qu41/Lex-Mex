@@ -7,7 +7,7 @@ provision_type: transitory
 number: "SEGUNDO"
 aliases: ["REG-LSS-MAEBA — SEGUNDO"]
 generated: true
-temporal_status: repealed
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_MAEBA.pdf
 source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd

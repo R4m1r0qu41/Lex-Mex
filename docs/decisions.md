@@ -1,5 +1,47 @@
 # Architecture decisions
 
+## 2026-08-24 — Historical same-title targets and nested omnibus transitories remain distinct
+
+**Decision: a citation to a superseded law is not a citation to a later law
+that reused its title.** LRSIC was published on 15 January 2002. Its original
+Transitory QUINTO repeals Articles 33, 33-A, and 33-B, plus the general rules
+for credit-information societies, of the LRAF then in force. The official
+[abrogated-law record](https://www.diputados.gob.mx/LeyesBiblio/abro/lraf.htm)
+identifies that LRAF as the law published 18 July 1990 and abrogated 10 January
+2014. The [current LRAF](https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAF.pdf)
+is a new law issued by Article Fifty-First of the 2014 omnibus decree; Article
+Fifty-Second abrogates the 1990 law. Publication order therefore controls the
+target identity.
+
+The canonical reference status `historical_target_unavailable` preserves the
+source span and the stable historical instrument identity
+`urn:lex-mx:federal:statute:lraf-1990` without fabricating a live link to the
+2014 LRAF. An adapter-scoped mapping overrides the global same-title alias for
+LRSIC. Validation records a non-blocking warning while the historical target
+is absent and becomes an error if that target is later added but the edge is
+not relinked. Markdown and bundles continue to link only `resolved` edges.
+This additive enum value is backward-compatible within schema 0.1.0; no
+existing record changes meaning.
+
+**Parser consequence: preserve both enactment layers of an omnibus decree.**
+The current LRAF's own transitional regime is Article Fifty-Second. Ellipsized
+Articles Fifty-Third and Fifty-Fourth are sibling decree articles, after which
+the overall omnibus decree has its Sole Transitory. The Diputados parser now
+recognizes ordinal decree articles through the fifties and permits that second
+transitory heading only after an ellipsized plural decree-article wrapper. A
+focused fixture prevents the exception from swallowing later reform-decree
+transitories. The refreshed LRAF corpus contains 193 articles and these two
+original transitories; its reform appendix separately retains the 2018 LRITF,
+2024 administrative-procedure, and 2025 CNPCF decree transitories as temporal
+evidence.
+
+Finally, a clause that *creates* a repeal is not thereby repealed itself.
+Initial status detection now accepts only standalone source markers such as
+`(Se deroga).` or `Derogado.`; operative `Se deroga …` and `Se derogan …`
+clauses start `unknown`. The same deterministic correction was applied to 61
+previously parsed original transitories and their generated Markdown. No
+lawyer-verified decision was overwritten.
+
 ## 2026-08-24 — Positional PDF furniture audit is an automatic structural-ingestion gate
 
 **Decision: run the positional PDF audit after every PDF-backed parse, not
