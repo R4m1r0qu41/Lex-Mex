@@ -7,8 +7,8 @@ provision_type: article
 number: "74"
 aliases: ["LFPA — Artículo 74"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf
 source_sha256: a8b8019ba04a815ff0b146856625b2342e4366067e763ae5140dee7245212861
 ---

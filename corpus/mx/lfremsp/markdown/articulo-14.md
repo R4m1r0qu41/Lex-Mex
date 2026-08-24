@@ -7,8 +7,8 @@ provision_type: article
 number: "14"
 aliases: ["LFREMSP — Artículo 14"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRemSP_190521.pdf
 source_sha256: 1ae9c606fad4de72ca0d2379696b39adb17826fbb112f1ae46c9acb952fa7a5d
 ---

@@ -7,8 +7,8 @@ provision_type: article
 number: "9o"
 aliases: ["LFISAN — Artículo 9o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFISAN.pdf
 source_sha256: ef658aa6a3b15e99a4d19edaa6713598a37523f4179ae69a4462bcb8ca870eb1
 ---

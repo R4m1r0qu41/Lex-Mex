@@ -8,7 +8,7 @@ number: "68"
 aliases: ["LFTSE — Artículo 68"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTSE.pdf
 source_sha256: 2055ea67ac6fb6642ef90d1970e8ebf9870a0cb40c71930aa99d12dd446870fe
 ---

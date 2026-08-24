@@ -8,7 +8,7 @@ number: "187"
 aliases: ["LGEEPA — Artículo 187"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEEPA.pdf
 source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 ---

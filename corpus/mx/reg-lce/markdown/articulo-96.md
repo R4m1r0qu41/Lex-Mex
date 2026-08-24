@@ -8,7 +8,7 @@ number: "96"
 aliases: ["REG-LCE — Artículo 96"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LCE.pdf
 source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 ---

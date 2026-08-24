@@ -8,7 +8,7 @@ number: "207"
 aliases: ["LSCS — Artículo 207"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/211.pdf
 source_sha256: 8b5abc3a8b409df55685b2337fc723b196bcaece68eb37a25e65c0a4f64a7e06
 ---

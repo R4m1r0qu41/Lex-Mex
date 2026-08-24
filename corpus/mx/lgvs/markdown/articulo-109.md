@@ -8,7 +8,7 @@ number: "109"
 aliases: ["LGVS — Artículo 109"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGVS.pdf
 source_sha256: b82b6148e235121951a94cb388fe59dbebe4212c8a6c85f26704873150827911
 ---

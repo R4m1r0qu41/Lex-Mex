@@ -558,4 +558,3 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Artículo 429](articulo-429.md)
 
 ## Disposiciones transitorias
-

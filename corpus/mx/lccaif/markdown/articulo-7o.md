@@ -7,8 +7,8 @@ provision_type: article
 number: "7o"
 aliases: ["LCCAIF — Artículo 7o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCCAIF.pdf
 source_sha256: 0cfd6d7820098b2fa0a6388cbf69fb010bc2816951a1c80c52245dadbecd4eda
 ---

@@ -349,9 +349,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       12
@@ -497,9 +497,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       31,
@@ -522,9 +522,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       3
@@ -877,9 +877,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       10,
@@ -1653,9 +1653,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       91
@@ -1939,9 +1939,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       28,
@@ -2175,9 +2175,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       3
@@ -2690,9 +2690,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       77
@@ -2716,9 +2716,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       77
@@ -2767,9 +2767,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       91
@@ -3054,9 +3054,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       28,
@@ -3316,9 +3316,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       3
@@ -4116,9 +4116,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       77
@@ -4142,9 +4142,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       77
@@ -4221,9 +4221,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       91
@@ -4691,9 +4691,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       28
@@ -4769,9 +4769,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       3
@@ -5672,9 +5672,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       3
@@ -5698,9 +5698,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       3
@@ -5724,9 +5724,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       3
@@ -5750,9 +5750,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       3
@@ -5828,9 +5828,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       3
@@ -5882,9 +5882,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       77
@@ -5908,9 +5908,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       77
@@ -5985,9 +5985,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       91
@@ -6481,9 +6481,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       28
@@ -6559,9 +6559,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       3
@@ -7792,9 +7792,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       71
@@ -7948,9 +7948,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       77
@@ -7974,9 +7974,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       77
@@ -8990,9 +8990,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       83
@@ -9322,9 +9322,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       12
@@ -9347,9 +9347,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       12
@@ -9372,9 +9372,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       12
@@ -9397,9 +9397,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       12
@@ -9422,9 +9422,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       12,
@@ -9448,9 +9448,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9473,9 +9473,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9498,9 +9498,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9523,9 +9523,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9548,9 +9548,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9573,9 +9573,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9598,9 +9598,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9623,9 +9623,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9648,9 +9648,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9673,9 +9673,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9698,9 +9698,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9723,9 +9723,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9748,9 +9748,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9773,9 +9773,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9798,9 +9798,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9823,9 +9823,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9848,9 +9848,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9873,9 +9873,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9898,9 +9898,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       49
@@ -9923,9 +9923,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       11
@@ -11324,9 +11324,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       24
@@ -13510,9 +13510,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       47
@@ -13734,9 +13734,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       20
@@ -13931,9 +13931,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": [],
     "amendment_marks": [
       38

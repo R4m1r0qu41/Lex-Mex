@@ -7,8 +7,8 @@ provision_type: article
 number: "233"
 aliases: ["REG-LOPSRM — Artículo 233"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPSRM.pdf
 source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 ---

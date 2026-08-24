@@ -109,6 +109,17 @@ another directory outside that generated boundary.
 
 ## Temporal analysis and review
 
+An article's own in-force status is classified two ways, kept distinct and
+never blurred: deterministic code for the narrow, unambiguous case, and the
+model/reviewer pipeline below for everything else. `lex-mex derive-temporal
+<instrument>` resolves a provision from plain code -- no model call -- when
+its instrument's own commencement clause and repeal markers are unambiguous;
+it runs automatically as a `pipeline` stage and never touches a provision
+already reviewed by a model or a human. See `docs/decisions.md`
+(2026-08-24) and `docs/ingestion-difficulty-log.md`'s `temporal-derive` entry
+for the exact rules and the outlier categories it deliberately leaves
+untouched.
+
 Without a provider, temporal analysis creates a schema-bound request artifact:
 
 ```bash

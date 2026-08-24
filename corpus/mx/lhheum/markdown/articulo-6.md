@@ -7,8 +7,8 @@ provision_type: article
 number: "6"
 aliases: ["LHHEUM — Artículo 6"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf
 source_sha256: ee7dcf952a44974e79227e9b8b8752899672827c1adfcabedc0739ceca51e49e
 ---

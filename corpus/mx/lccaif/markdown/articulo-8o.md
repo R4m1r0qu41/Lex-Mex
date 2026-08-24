@@ -8,7 +8,7 @@ number: "8o"
 aliases: ["LCCAIF — Artículo 8o"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCCAIF.pdf
 source_sha256: 0cfd6d7820098b2fa0a6388cbf69fb010bc2816951a1c80c52245dadbecd4eda
 ---

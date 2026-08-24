@@ -199,4 +199,3 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Artículo 193](articulo-193.md)
 
 ## Disposiciones transitorias
-

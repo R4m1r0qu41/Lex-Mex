@@ -7,8 +7,8 @@ provision_type: article
 number: "59"
 aliases: ["REG-LGS-MT — Artículo 59"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MT.pdf
 source_sha256: 9ff708994e8bad54142e90da50dd0ffe7c58b739b77d89c5c31a5162abfb1429
 ---

@@ -7,8 +7,8 @@ provision_type: article
 number: "28"
 aliases: ["LSPM — Artículo 28"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPM.pdf
 source_sha256: f8a66009368493d0c964c21f4cb165c39d5bb3b1236058511547f9c3cca6e5cc
 ---

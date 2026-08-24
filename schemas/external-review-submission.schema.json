@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lex-mex.local/schemas/external-review-submission.schema.json",
+  "title": "Lex-Mex external review submission",
+  "description": "NOT YET WIRED TO ANY COMMAND. Recorded 2026-08-24 (docs/decisions.md) as the intended shape of a public review submission -- a proposed correction or confirmation of one provision's temporal or legal determination, submitted by someone other than the recorded reviewer of record. A submission is data, never a decision: it can only ever become one through the existing `review resolve` audited workflow, explicitly accepted by JRH or the recorded reviewer. No submission is applied automatically.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "provision_id",
+    "instrument_id",
+    "submitted_at",
+    "submitter",
+    "proposed_resolution",
+    "rationale",
+    "supporting_text"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "0.1.0"
+    },
+    "provision_id": {
+      "type": "string",
+      "description": "The canonical Lex-Mex URN of the provision this submission concerns."
+    },
+    "instrument_id": {
+      "type": "string",
+      "description": "The canonical Lex-Mex URN of the provision's instrument."
+    },
+    "submitted_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "submitter": {
+      "type": "object",
+      "description": "Identity as stated by the submission channel (e.g. a GitHub handle). Not verified by this schema -- verification is a channel-level concern, out of scope here.",
+      "required": [
+        "handle"
+      ],
+      "properties": {
+        "handle": {
+          "type": "string",
+          "minLength": 1
+        },
+        "profile_url": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        }
+      },
+      "additionalProperties": false
+    },
+    "proposed_resolution": {
+      "type": "string",
+      "enum": [
+        "accept_machine_conclusion",
+        "reject_machine_conclusion",
+        "correct_machine_conclusion"
+      ],
+      "description": "Mirrors lex_core::ReviewResolution -- a submission proposes the same kind of decision a reviewer's own resolution records, never a free-form edit."
+    },
+    "proposed_temporal_status": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Required when proposed_resolution is correct_machine_conclusion; the submitter's proposed replacement status."
+    },
+    "rationale": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Plain-language explanation of why the current determination is wrong or right."
+    },
+    "supporting_text": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Exact verbatim substrings from the provision's own text, or from a cited source, supporting the rationale -- the same evidentiary discipline the LLM temporal-analysis path already requires (TemporalModelDetermination.supporting_text)."
+    },
+    "cited_sources": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      },
+      "default": []
+    }
+  },
+  "additionalProperties": false
+}

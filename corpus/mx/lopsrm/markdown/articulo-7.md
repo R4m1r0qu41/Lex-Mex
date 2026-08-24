@@ -8,7 +8,7 @@ number: "7"
 aliases: ["LOPSRM — Artículo 7"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPSRM.pdf
 source_sha256: b760b87cb82b23955e149500a1a832a608029ca814f0653b1430f6948d33e9f5
 ---

@@ -8,7 +8,7 @@ number: "16"
 aliases: ["LACP — Artículo 16"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LACP.pdf
 source_sha256: d7c97f38c1dfe7dbf0ac5eba162d5fedb51dd132975912cf6e84aee9a614f348
 ---

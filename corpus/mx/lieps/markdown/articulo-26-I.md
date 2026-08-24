@@ -8,7 +8,7 @@ number: "26-I"
 aliases: ["LIEPS — Artículo 26-I"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf
 source_sha256: 32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4
 ---

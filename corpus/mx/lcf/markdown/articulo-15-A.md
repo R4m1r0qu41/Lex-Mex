@@ -8,7 +8,7 @@ number: "15-A"
 aliases: ["LCF — Artículo 15-A"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCF.pdf
 source_sha256: 5c89d48167a4e1170c69e0b1e0294260b806a30d861275d8dca09b0334cd09d4
 ---

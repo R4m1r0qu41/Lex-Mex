@@ -903,3 +903,99 @@ Status: **admitted.** `lieps` validates clean — 70 articles including the
 full `26`…`26-P` run, 14 transitories, 124 references, 0 unresolved — with
 the reviewed `allow_article_gaps: true` setting for its ordinal-mark case.
 
+
+### temporal-derive — deterministic article in-force triage — landed 2026-08-24
+
+**Not a parser defect entry — recorded here as the operational punch list for
+the deterministic temporal derivation pass**, per the same "log the category,
+fix the root mechanism, extend the fixture" discipline as every entry above.
+
+`lex-parse::temporal_derive` (`crates/lex-parse/src/temporal_derive.rs`)
+answers one question with plain code, no model call: given an instrument's
+own commencement clause, is this already-parsed article currently in force?
+It runs automatically as a `pipeline` stage (after `validate`, before export)
+and is available standalone as `lex-mex derive-temporal <instrument>`.
+
+**Two rules, both required to be unambiguous before they act, and both
+restricted to provisions still at `review_status: not_analyzed`** — this
+module can only ever advance a provision out of the untouched state; it can
+never overwrite a prior machine or human determination.
+
+- **Repeal.** Promotes the provenance of a provision `initial_temporal_status`
+  already classified `Repealed` at parse time (`(Se deroga)` / `Derogado`
+  opening) — the classification is unchanged, only its `basis` and
+  `review_status` advance.
+- **Commencement.** An instrument's *ordinary* (original-enactment)
+  transitorios are scanned for exactly one clause matching the verb form
+  "entrará/entrarán en vigor" (deliberately distinct from the noun form
+  "entrada en vigor" or infinitive "entrar en vigor", which reference an
+  already-established commencement rather than declaring one — several
+  instruments below have half a dozen "vigor" mentions and still resolve
+  cleanly because only the single declaring clause counts). The clause must
+  resolve via one of four known-safe shapes: day-after-publication, same-day,
+  a literal date, or a calendar-day count from publication. Business-day
+  periods, month/year-unit periods, multiple clauses, any exception or
+  conditional qualifier anywhere in the matched text, and unrecognized shapes
+  are left untouched rather than guessed at.
+
+**Backfill run, 2026-08-24, all 204 committed federal instruments** (NOMs
+excluded — they use the separate standards boundary and carry no
+`Provision`/commencement model):
+
+| Outcome | Count |
+|---|---:|
+| Commencement resolved | 132 |
+| Commencement skipped | 67 |
+| No ordinary transitories | 5 |
+
+4,230 articles promoted `repealed` (provenance only, classification
+unchanged); 15,974 articles promoted `effective`/`future_effective` from a
+resolved commencement clause. All 204 instruments re-validated clean
+afterward.
+
+**Skip categories (2026-08-24 baseline; each is an addressable outlier
+class, not a closed list — extend this module, not this table, when one
+narrows)**:
+
+- `multiple-commencement-clauses` (29): `cnpcf`, `cnpp`, `fi-dcg-2014`,
+  `itf-dcg-2018`, `laassp`, `lapp`, `lcpaf`, `ldfefm`, `lfpiorpi`, `lfppi`,
+  `lfrcf`, `lgra`, `lgsna`, `lmv`, `lnep`, `locfcrl`, `locg`, `lotfja`,
+  `lpab`, `lsar`, `lss`, `reg-cff`, `reg-laassp`, `reg-laat`,
+  `reg-lfpiorpi`, `reg-lfprh`, `reg-lgn`, `servinv-dcg-2013`,
+  `socap-sofipo-dcg-2006` — genuinely staged/multi-part commencement in most
+  of these; worth a second look for any that are actually a single clause
+  the regex over-split.
+- `exception-or-conditional-language` (15): `cff`, `lacp`, `ladua`, `lbm`,
+  `lcf`, `lfi`, `lft`, `lgdfs`, `lieps`, `lisf`, `lissste`, `lnmasc-penal`,
+  `reg-csps`, `reg-lgs-mp`, `scap-dcg-2012` — a plain reading would need to
+  identify exactly which articles the exception carves out; genuinely a
+  human-judgment question, not a parsing gap.
+- `no-commencement-clause` (8): `ccf`, `ccom`, `cfpc`, `cpeum`, `lan`,
+  `lfgfaga`, `lmeum`, `rgic` — mostly pre-1980s codes whose transitorios
+  predate the "entrará en vigor" convention.
+- `unrecognized-commencement-pattern` (6): `lfaebsp`, `lfrpe`, `lgeepa`,
+  `lgs`, `lspcapf`, `ltf` — `lfaebsp` is a `contados a partir del día
+  siguiente al de su publicación` wrapper (day count offset by one extra
+  day this module deliberately does not attempt, rather than risk a
+  one-day-early date); the rest need individual inspection.
+- `business-days-period` (6): `lbogm`, `lfea`, `lgcc`, `ligie`, `lobb`,
+  `reg-lgeepa-maaa` — needs a Mexican business-day/holiday calendar this
+  module does not have.
+- `unsupported-relative-period-unit` (3): `ldofgg`, `lfdc`, `reg-ladua` —
+  month/year-unit periods; day arithmetic only is implemented today.
+- No ordinary transitories at all (5, reported separately from the six
+  categories above): `cpf`, `lccbid`, `lraf`, `lrascap`, `lscs`.
+
+**Two regex gaps found and fixed during this same session, both real and
+both narrow** (fixtures: `del_year_contraction_resolves`,
+`singular_month_unit_is_still_reported_as_unsupported_unit`,
+`contados_a_partir_del_dia_siguiente_wrapper_is_left_unrecognized`):
+
+- `de(?:l)?` — the literal-date pattern required `de <year>` and missed the
+  common `del <year>` contraction (`lfpca`: "el día 1o. de enero **del**
+  2006"). Fixed; `lfpca` now resolves.
+- `mes(?:es)?`/`a[ñn]os?`/`d[ií]as?` — the relative-period unit alternation
+  required plural forms and missed singular "un mes después" (`lfdc`). Fixed
+  the categorization (still correctly skipped — month units remain
+  unsupported — but now lands in the specific `unsupported-relative-period-unit`
+  bucket instead of the generic catch-all).

@@ -8,7 +8,7 @@ number: "27"
 aliases: ["LOBNCE — Artículo 27"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNCE.pdf
 source_sha256: 8ab677987a58aad0d0ed9b1e299b375fd382aeec47b9536547ec7debb2d24a2c
 ---

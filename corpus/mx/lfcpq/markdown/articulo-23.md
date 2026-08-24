@@ -7,8 +7,8 @@ provision_type: article
 number: "23"
 aliases: ["LFCPQ — Artículo 23"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPQ.pdf
 source_sha256: 39d132d9b54587ce0636972dfe474936d152717e7d656864e160a637347628c6
 ---

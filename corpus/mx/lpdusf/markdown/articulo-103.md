@@ -8,7 +8,7 @@ number: "103"
 aliases: ["LPDUSF — Artículo 103"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LPDUSF.pdf
 source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 ---

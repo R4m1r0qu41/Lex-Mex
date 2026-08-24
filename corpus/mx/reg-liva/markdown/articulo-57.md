@@ -7,8 +7,8 @@ provision_type: article
 number: "57"
 aliases: ["REG-LIVA — Artículo 57"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIVA_250914.pdf
 source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 ---

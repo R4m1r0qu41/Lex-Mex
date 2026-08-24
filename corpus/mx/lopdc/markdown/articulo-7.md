@@ -7,8 +7,8 @@ provision_type: article
 number: "7"
 aliases: ["LOPDC — Artículo 7"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPDC.pdf
 source_sha256: 7dc8f2201fdeb8039371254e3b2606c158f4cd480e29ce074a65eb375a19475c
 ---

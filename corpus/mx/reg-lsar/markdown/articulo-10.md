@@ -7,8 +7,8 @@ provision_type: article
 number: "10"
 aliases: ["REG-LSAR — Artículo 10"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSAR.pdf
 source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 ---

@@ -1,5 +1,101 @@
 # Architecture decisions
 
+## 2026-08-24 — Deterministic temporal-status triage, three-tier provenance, and a recorded public-review-submission design
+
+**A vault re-export on 2026-08-23 revealed that 30,153 provision notes
+carried `temporal_status: effective` with `review_status: not_analyzed`** —
+the July Python-era render had asserted provisions were in force wholesale,
+never having run any temporal analysis. Corrected to `unknown`
+(`0854cd2fe`), which raised the operator's real question: how does a
+38,312-article corpus get an honest in-force status without either manual
+review of every provision (not tractable) or trusting an unverified blanket
+assertion again (the mistake being corrected)?
+
+**Decision: distinguish three tiers of provenance on every provision's
+temporal status, and never blur them.** This was not a new mechanism to
+build — `lex_core::Basis` (`SourceText`, `DeterministicRule`, `LlmInference`,
+`LawyerVerified`, …) and `ReviewStatus` (`NotAnalyzed`, `MachineAccepted`,
+`ReviewRequired`, `LawyerVerified`) already modeled exactly this, already
+schema-validated, already exercised by the LLM temporal-analysis pipeline.
+What was missing was a second *producer* alongside the LLM path — one that
+classifies from plain deterministic code, for the specific, narrow question
+of whether an article is currently in force, and records that provenance
+honestly rather than defaulting everything to `Unknown`. The three tiers, as
+the operator specified them:
+
+1. **Machine deterministic analysed** — `basis: deterministic_rule`,
+   `review_status: machine_accepted`. New in this entry.
+2. **Human reviewed** — `review_status: lawyer_verified`. Pre-existing;
+   unaffected. JRH remains the reviewer of record.
+3. **Unknown pending human review** — `review_status: not_analyzed`
+   (untouched) or `review_required` (an LLM-flagged transitory item already
+   in a reviewer's queue). Everything this pass could not classify
+   confidently stays here, honestly, rather than being guessed at.
+
+**Implementation: `lex_parse::temporal_derive`
+(`crates/lex-parse/src/temporal_derive.rs`).** Two rules, both requiring
+unambiguous evidence, both restricted to provisions still at
+`not_analyzed` — this is a hard invariant, checked in code and by a
+dedicated test (`already_analyzed_articles_are_never_touched`): the pass can
+only ever advance a provision out of the untouched state, never revise a
+prior human or model determination.
+
+- *Repeal* promotes the provenance of a provision `initial_temporal_status`
+  already classified `Repealed` at parse time — the classification is
+  unchanged, only its `basis`/`review_status` advance.
+- *Commencement* resolves an instrument's own entry-into-force clause from
+  its ordinary transitorios, requiring exactly one unqualified match against
+  four known-safe shapes (day-after-publication, same-day, literal date,
+  calendar-day count), and applies it to every remaining non-repealed
+  article as of-today status. Deliberately does not track per-article
+  amendment provenance — for a corpus holding only already-enacted,
+  currently consolidated text, any article present today has necessarily
+  taken effect by now regardless of which reform added it, so asserting
+  `Effective` without a precise `effective_from` is honest, where asserting
+  a specific `effective_from` without amendment tracking would not be.
+
+Wired into `pipeline` (after `validate`, before export) so every future
+ingestion gets this automatically, and available standalone as
+`lex-mex derive-temporal <instrument>` for backfill. Full skip taxonomy,
+category-by-category slug lists, and the two regex gaps found and fixed
+while reviewing this session's own backfill output are recorded in
+`docs/ingestion-difficulty-log.md`'s `temporal-derive` entry — that log is
+the intended home for addressing outlier categories one at a time, per the
+operator's own stated workflow ("check outliers as they come up, add a
+fixture").
+
+**2026-08-24 backfill, all 204 committed federal instruments** (NOMs
+excluded; separate standards boundary, no `Provision` model): 132 resolved
+commencement, 67 skipped (six named categories), 5 with no ordinary
+transitories. 4,230 articles promoted `repealed` provenance; 15,974 promoted
+`effective`/`future_effective`. All 204 re-validated clean.
+
+**Recorded, not built: public review submissions.** The operator noted this
+repository is public and raised, for the record rather than for this pass,
+that external readers should eventually be able to submit a review — a
+proposed correction or confirmation of a temporal or legal determination —
+without being able to write it into the corpus themselves. The intended
+shape, sketched here so a future session does not start from nothing:
+
+- A submission is a structured file (schema stub added:
+  `schemas/external-review-submission.schema.json`), not free-form
+  commentary — it names the provision, the proposed `ReviewResolution`, and
+  supporting citation text, the same shape a reviewer's own resolution
+  already takes.
+- It arrives as a pull request against a `review-submissions/` directory,
+  never as a direct write to `corpus/` or `review-queue.json` — a submission
+  is data, not yet a decision, exactly the distinction `Basis`/`ReviewStatus`
+  already draw between a machine proposal and a verified determination.
+- **JRH (or the recorded reviewer of record) must explicitly accept a
+  submission before it can affect any provision's status** — the existing
+  `review resolve` audited workflow, with the submission as its input
+  instead of an LLM determination. No submission is ever auto-applied; this
+  is a vandalism/misreading safeguard, not an optimization to remove later.
+- Out of scope for this entry: hosting, notification, and identity/authorship
+  verification for submitters — those need their own decision once there is
+  a concrete channel (GitHub Issues/PRs are the natural first channel, since
+  the repository is already there).
+
 ## 2026-08-23 — Vault-reconciliation recovery: ten orphaned instruments, a letter-suffix-plus-qualifier parser fix, and a new hold-out class
 
 A reconciliation between this repository and the Obsidian vault found ten

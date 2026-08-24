@@ -7,8 +7,8 @@ provision_type: article
 number: "81"
 aliases: ["LGOAAC — Artículo 81"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGOAAC.pdf
 source_sha256: 54747e6ec98327430ccf77b2acc5ba3033ef64f42d8d7f1fdee957755070f683
 ---

@@ -7,8 +7,8 @@ provision_type: article
 number: "21"
 aliases: ["LOBNOSP — Artículo 21"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNOSP.pdf
 source_sha256: 7ab6cfd5861e9fc87502494fbcea4174806d253a715a80003b120f208c10214f
 ---

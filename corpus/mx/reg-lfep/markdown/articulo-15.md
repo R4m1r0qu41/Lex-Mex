@@ -7,8 +7,8 @@ provision_type: article
 number: "15"
 aliases: ["REG-LFEP — Artículo 15"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEP.pdf
 source_sha256: fa76340e597a2214f73b039f2a89465f9c1037f7d1630a852689124478621873
 ---

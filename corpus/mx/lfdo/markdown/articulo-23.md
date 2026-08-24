@@ -8,7 +8,7 @@ number: "23"
 aliases: ["LFDO — Artículo 23"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCDO.pdf
 source_sha256: 6f9b44bd6bc8c19aad3747e9198f2c5543b0415afa4a3cd63b4bd995091932ad
 ---

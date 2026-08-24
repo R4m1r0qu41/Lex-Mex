@@ -7,8 +7,8 @@ provision_type: article
 number: "5o"
 aliases: ["LIVA — Artículo 5o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf
 source_sha256: f2b5b1770441a6a4e48f3ade408f9ff7a3e9c81bd5d529e52484f49e4a8e91a6
 ---

@@ -8,7 +8,7 @@ number: "175"
 aliases: ["LGSM — Artículo 175"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSM.pdf
 source_sha256: 72b051296792cad896ac90e814ff8949e4ac140bf5ca5cc08f2f03e5e95aeac3
 ---

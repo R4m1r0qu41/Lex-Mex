@@ -7,8 +7,8 @@ provision_type: article
 number: "17"
 aliases: ["REG-LIEPS — Artículo 17"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIEPS.pdf
 source_sha256: cb15a70b51a87cff0f6d329d5e8a97617d71c955e46da65921037a77a83ca5f4
 ---

@@ -8,7 +8,7 @@ number: "38"
 aliases: ["LGOAAC — Artículo 38"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGOAAC.pdf
 source_sha256: 54747e6ec98327430ccf77b2acc5ba3033ef64f42d8d7f1fdee957755070f683
 ---

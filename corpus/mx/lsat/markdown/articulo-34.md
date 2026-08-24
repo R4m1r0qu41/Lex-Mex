@@ -7,8 +7,8 @@ provision_type: article
 number: "34"
 aliases: ["LSAT — Artículo 34"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/93_041218.pdf
 source_sha256: ba54c4384528c6b47fbb3f641cb57dd089a9f1770306b45776ad1711eaca21d5
 ---

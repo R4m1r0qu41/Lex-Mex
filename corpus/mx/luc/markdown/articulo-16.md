@@ -7,8 +7,8 @@ provision_type: article
 number: "16"
 aliases: ["LUC — Artículo 16"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LUC.pdf
 source_sha256: 3db723c0e32c0f31b97d4ff15387fc7e76e29fe6b48ce84da2624a536144f938
 ---

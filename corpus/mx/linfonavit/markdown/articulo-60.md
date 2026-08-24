@@ -8,7 +8,7 @@ number: "60"
 aliases: ["LINFONAVIT — Artículo 60"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf
 source_sha256: 9ee6e5ef336dee5700726bd3c570d24f91fc458136e298ae2e3806bd12217912
 ---

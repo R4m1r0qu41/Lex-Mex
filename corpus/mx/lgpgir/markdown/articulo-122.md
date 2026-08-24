@@ -7,8 +7,8 @@ provision_type: article
 number: "122"
 aliases: ["LGPGIR — Artículo 122"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPGIR.pdf
 source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
 ---

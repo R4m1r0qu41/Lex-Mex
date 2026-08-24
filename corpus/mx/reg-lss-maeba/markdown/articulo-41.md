@@ -7,8 +7,8 @@ provision_type: article
 number: "41"
 aliases: ["REG-LSS-MAEBA — Artículo 41"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_MAEBA.pdf
 source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 ---

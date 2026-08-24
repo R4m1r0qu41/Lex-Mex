@@ -8,7 +8,7 @@ number: "25"
 aliases: ["LOBNOSP — Artículo 25"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNOSP.pdf
 source_sha256: 7ab6cfd5861e9fc87502494fbcea4174806d253a715a80003b120f208c10214f
 ---

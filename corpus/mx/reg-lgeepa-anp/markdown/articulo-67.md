@@ -7,8 +7,8 @@ provision_type: article
 number: "67"
 aliases: ["REG-LGEEPA-ANP — Artículo 67"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_ANP.pdf
 source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 ---

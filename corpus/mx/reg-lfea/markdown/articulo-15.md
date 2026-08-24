@@ -7,8 +7,8 @@ provision_type: article
 number: "15"
 aliases: ["REG-LFEA — Artículo 15"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf
 source_sha256: 910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f
 ---

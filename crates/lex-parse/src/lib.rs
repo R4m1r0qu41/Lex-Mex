@@ -21,6 +21,7 @@ pub mod html;
 pub mod itf;
 pub mod labels;
 pub mod standard;
+pub mod temporal_derive;
 pub mod terms;
 
 pub use dcg::parse_dcg;
@@ -34,6 +35,9 @@ pub use standard::{
     StandardModificationTarget, parse_standard_clauses, parse_standard_modification_targets,
     parse_standard_supplements, parse_standard_transitories, strip_page_furniture,
     validate_standard,
+};
+pub use temporal_derive::{
+    Commencement, DerivationOutcome, SkipReason, derive_article_temporal_determinations,
 };
 pub use terms::{
     GlossaryStyle, detect_glossary_terms, extract_term_usages, extract_terms,

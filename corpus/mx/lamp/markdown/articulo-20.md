@@ -7,8 +7,8 @@ provision_type: article
 number: "20"
 aliases: ["LAmp — Artículo 20"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp.pdf
 source_sha256: 05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d
 ---

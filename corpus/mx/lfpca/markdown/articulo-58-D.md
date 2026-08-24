@@ -7,8 +7,8 @@ provision_type: article
 number: "58-D"
 aliases: ["LFPCA — Artículo 58-D"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf
 source_sha256: d2a25adcb45f622bbbf2a4e58f1139fb5236961fe86de3dd9ad9de2dfa21d54e
 ---

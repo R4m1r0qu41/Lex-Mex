@@ -23,11 +23,11 @@ use lex_export::{
     write_obsidian, write_validation,
 };
 use lex_parse::{
-    CorpusExpectations, CorpusView, DiputadosOptions, GlossaryStyle, InstrumentContextPolicy,
-    ReferenceOptions, detect_glossary_terms, extract_doc, extract_html_text,
-    extract_internal_references, extract_pdf, extract_references, extract_term_usages,
-    extract_terms, find_glossary_provision, parse_dcg, parse_diputados, parse_itf_dcg,
-    validate_corpus,
+    Commencement, CorpusExpectations, CorpusView, DiputadosOptions, GlossaryStyle,
+    InstrumentContextPolicy, ReferenceOptions, derive_article_temporal_determinations,
+    detect_glossary_terms, extract_doc, extract_html_text, extract_internal_references,
+    extract_pdf, extract_references, extract_term_usages, extract_terms, find_glossary_provision,
+    parse_dcg, parse_diputados, parse_itf_dcg, validate_corpus,
 };
 use lex_source::{
     SourceConfig, SourceFormat, discover, fetch, fetch_annex, fetch_formal, load_batch_manifest,
@@ -121,6 +121,15 @@ enum Command {
         model: String,
         #[arg(long)]
         response_id: Option<String>,
+    },
+    /// Deterministically classify an instrument's articles as effective,
+    /// future-effective, or repealed from plain code -- no model call --
+    /// using only its own commencement clause and repeal-marker text.
+    /// Never touches a provision already at a review status past
+    /// `not_analyzed`; skips (and reports why) any instrument whose
+    /// commencement it cannot resolve unambiguously.
+    DeriveTemporal {
+        instrument: String,
     },
     Validate {
         instrument: String,
@@ -355,6 +364,11 @@ fn dispatch(root: &Path, obsidian_vault: Option<&Path>, command: Command) -> Res
         } => {
             let context = instrument_context(root, &instrument)?;
             run_temporal_import(&context, &response, &model, response_id)?;
+            republish_exports(root, &context, obsidian_vault)?;
+        }
+        Command::DeriveTemporal { instrument } => {
+            let context = instrument_context(root, &instrument)?;
+            run_temporal_derive(&context)?;
             republish_exports(root, &context, obsidian_vault)?;
         }
         Command::Validate { instrument } => {
@@ -829,6 +843,7 @@ fn run_pipeline(
     if !report.valid {
         bail!("pipeline stopped: validation failed");
     }
+    run_temporal_derive(context)?;
     if temporal_provider == TemporalProvider::Codex {
         run_codex_temporal(root, context, temporal_model)?;
     }
@@ -2275,6 +2290,53 @@ fn run_temporal_import(
         "temporal analysis: {machine_accepted} machine-accepted, {lawyer_verified} \
          lawyer-verified, {pending} pending review"
     );
+    Ok(())
+}
+
+/// Deterministic, no-model temporal classification (`lex_parse::temporal_derive`).
+/// Reports what it resolved or skipped and why; never fails the pipeline --
+/// a skipped instrument is an expected, common outcome, not an error.
+fn run_temporal_derive(context: &InstrumentContext) -> Result<()> {
+    let paths = &context.paths;
+    let mut corpus = read_corpus(paths)?;
+    let today = Utc::now().date_naive();
+    let outcome =
+        derive_article_temporal_determinations(&corpus.instrument, &corpus.provisions, today);
+    let repealed = outcome
+        .determinations
+        .iter()
+        .filter(|item| item.temporal_status == TemporalStatus::Repealed)
+        .count();
+    let commenced = outcome.determinations.len() - repealed;
+    match &outcome.commencement {
+        Some(Commencement::Resolved {
+            effective_from,
+            pattern,
+            ..
+        }) => {
+            println!(
+                "temporal derive: commencement resolved via {pattern} ({effective_from}); {repealed} repealed, {commenced} classified from commencement"
+            );
+        }
+        Some(Commencement::Skipped { reason, .. }) => {
+            println!(
+                "temporal derive: commencement skipped ({}: {}); {repealed} repealed, 0 classified from commencement",
+                reason.code(),
+                reason.describe()
+            );
+        }
+        None => {
+            println!(
+                "temporal derive: {} (no ordinary transitories); {repealed} repealed",
+                corpus.instrument.id
+            );
+        }
+    }
+    if outcome.determinations.is_empty() {
+        return Ok(());
+    }
+    apply_temporal_determinations(&mut corpus.provisions, &outcome.determinations);
+    write_canonical(&corpus, &paths.corpus)?;
     Ok(())
 }
 

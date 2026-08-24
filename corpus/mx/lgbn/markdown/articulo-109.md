@@ -7,8 +7,8 @@ provision_type: article
 number: "109"
 aliases: ["LGBN — Artículo 109"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGBN.pdf
 source_sha256: ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5
 ---

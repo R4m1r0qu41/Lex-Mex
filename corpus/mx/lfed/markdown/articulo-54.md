@@ -7,8 +7,8 @@ provision_type: article
 number: "54"
 aliases: ["LFED — Artículo 54"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNED.pdf
 source_sha256: e6a8ce3c4efe726e0336a029d6906fcefe2f517c2cf1e44edea9c4862ddd8c68
 ---

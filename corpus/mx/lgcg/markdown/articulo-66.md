@@ -7,8 +7,8 @@ provision_type: article
 number: "66"
 aliases: ["LGCG — Artículo 66"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf
 source_sha256: cf7f5220f083bdcd8eed4104bbdf40299221f32cd5c51e17b1f03b033e677815
 ---

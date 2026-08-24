@@ -7,8 +7,8 @@ provision_type: article
 number: "180"
 aliases: ["REG-LGS-MCSAEPS — Artículo 180"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSAEPS_281204.pdf
 source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 ---

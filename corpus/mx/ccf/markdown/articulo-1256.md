@@ -8,7 +8,7 @@ number: "1256"
 aliases: ["CCF — Artículo 1256"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf
 source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 ---

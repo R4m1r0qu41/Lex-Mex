@@ -7,8 +7,8 @@ provision_type: article
 number: "118"
 aliases: ["LGSNSP — Artículo 118"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNSP.pdf
 source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 ---

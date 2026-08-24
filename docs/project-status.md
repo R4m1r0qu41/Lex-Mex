@@ -1,6 +1,6 @@
 # Lex-Mex Project Status
 
-- **Status date:** 2026-08-23
+- **Status date:** 2026-08-24
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
 - **Committed instruments:** 236 (204 federal corpus instruments plus 32 NOMs)
 - **Active ingestion batch:** vault-reconciliation recovery across `tax_T1_core`, `financial_F4_popular_savings`, `financial_F5_credit_auxiliaries` — complete (10/10)
@@ -33,6 +33,20 @@ Current committed-corpus totals:
 | Reference edges | 20,792 |
 | Unresolved reference edges | 0 |
 | Generated Markdown files | 40,088 |
+
+Temporal-status provenance, three tiers, never blurred
+(`docs/decisions.md`, 2026-08-24): a provision's `review_status` records
+whether its status is machine-deterministic (`machine_accepted` +
+`basis: deterministic_rule`), human-reviewed (`lawyer_verified`), or unknown
+pending review (`not_analyzed`/`review_required`). Deterministic derivation
+(`lex-mex derive-temporal`, `crates/lex-parse/src/temporal_derive.rs`) has
+run against all 204 committed federal instruments (NOMs excluded — separate
+standards boundary): 132 instruments' commencement resolved, 67 skipped into
+six named outlier categories, 5 have no ordinary transitories. 4,230
+articles promoted `repealed` provenance; 15,974 promoted
+`effective`/`future_effective`. Full category breakdown and per-slug lists
+in `docs/ingestion-difficulty-log.md`'s `temporal-derive` entry — the
+intended queue for addressing one outlier category at a time.
 
 All 236 `validation.json` reports are valid. They contain 376 non-blocking
 warnings: 238 non-numeric/suffixed-article notices, 16 unfrozen count

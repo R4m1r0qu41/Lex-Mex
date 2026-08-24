@@ -8,7 +8,7 @@ number: "82-Ter"
 aliases: ["LISR — Artículo 82-Ter"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf
 source_sha256: 803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786
 ---

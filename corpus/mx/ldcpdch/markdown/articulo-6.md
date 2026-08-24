@@ -7,8 +7,8 @@ provision_type: article
 number: "6"
 aliases: ["LDCPDCH — Artículo 6"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/177.pdf
 source_sha256: d36aec42a42e48e3d457225ab337f67df31be47f04fd896068aba67cf669883a
 ---

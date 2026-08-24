@@ -216,4 +216,3 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Artículo 207](articulo-207.md)
 
 ## Disposiciones transitorias
-

@@ -7,8 +7,8 @@ provision_type: article
 number: "76"
 aliases: ["LNCM — Artículo 76"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf
 source_sha256: f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926
 ---

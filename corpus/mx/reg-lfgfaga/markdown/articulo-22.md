@@ -8,7 +8,7 @@ number: "22"
 aliases: ["REG-LFGFAGA — Artículo 22"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFGFAGA.pdf
 source_sha256: 60e8482fc72c2fa506c23a78da1bbb2e8f2877b30ea083dd6760b93ce343282e
 ---

@@ -8,7 +8,7 @@ number: "19"
 aliases: ["REG-LGS-INVESTIGACION — Artículo 19"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MIS.pdf
 source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
 ---

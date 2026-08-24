@@ -7,8 +7,8 @@ provision_type: article
 number: "172-B"
 aliases: ["LFD — Artículo 172-B"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf
 source_sha256: 64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df
 ---

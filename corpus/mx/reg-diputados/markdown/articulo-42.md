@@ -8,7 +8,7 @@ number: "42"
 aliases: ["REG-DIPUTADOS — Artículo 42"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf
 source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 ---

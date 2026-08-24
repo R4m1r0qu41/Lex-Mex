@@ -7,8 +7,8 @@ provision_type: article
 number: "6o"
 aliases: ["LMCCBDC — Artículo 6o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/187_291214.pdf
 source_sha256: 2f11746efbe37cbc7bf8f9448f5d9050c4deee13184bbe78c4e958d017bebece
 ---

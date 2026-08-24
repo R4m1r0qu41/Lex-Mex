@@ -7,8 +7,8 @@ provision_type: article
 number: "39"
 aliases: ["REG-LPUE — Artículo 39"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPue.pdf
 source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 ---

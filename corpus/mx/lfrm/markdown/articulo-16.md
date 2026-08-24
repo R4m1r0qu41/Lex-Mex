@@ -7,8 +7,8 @@ provision_type: article
 number: "16"
 aliases: ["LFRM — Artículo 16"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRM.pdf
 source_sha256: eddfcf458c46cacee55392a138412b0d014bcc306c455d92ed94250efce4904c
 ---

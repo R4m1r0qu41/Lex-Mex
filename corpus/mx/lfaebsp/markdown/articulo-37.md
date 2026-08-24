@@ -8,7 +8,7 @@ number: "37"
 aliases: ["LFAEBSP — Artículo 37"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAEBSP.pdf
 source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 ---

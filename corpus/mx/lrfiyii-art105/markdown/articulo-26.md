@@ -7,8 +7,8 @@ provision_type: article
 number: "26"
 aliases: ["LRFIYII-ART105 — Artículo 26"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFIyII_Art105.pdf
 source_sha256: b99f96ee0d44bd781d14cfdc7f94358bd6d3f6ed17c3bd3aadcf5d149873edeb
 ---
