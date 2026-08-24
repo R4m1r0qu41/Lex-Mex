@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:luc",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/luc.htm",
+  "retrieved_at": "2026-08-24T03:21:53.667896Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 787320,
+  "etag": "\"c0378-644b0066cf240\"",
+  "last_modified": "Fri, 28 Nov 2025 23:31:13 GMT",
+  "source_sha256": "3db723c0e32c0f31b97d4ff15387fc7e76e29fe6b48ce84da2624a536144f938",
+  "extracted_text_sha256": "f122825552b597ad58eec3f133ccf4abe4ac21fd530133c01efb2f8dac18fe58",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "6e897be94c701a52d929d13ba59761a605d16661"
+}

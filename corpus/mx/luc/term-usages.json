@@ -1,0 +1,2612 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:5:term-usage:37-47",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 37,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:6:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:6",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:6:term-usage:78-88",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:6",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisiones",
+    "start_char": 78,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:6:term-usage:357-367",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:6",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 357,
+    "end_char": 367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:6:term-usage:389-397",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:6",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 389,
+    "end_char": 397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:9:term-usage:1102-1110",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:9",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1102,
+    "end_char": 1110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:14:term-usage:128-136",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:14",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 128,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:14:term-usage:330-338",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:14",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 330,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:14:term-usage:421-429",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:14",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 421,
+    "end_char": 429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:14:term-usage:807-815",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:14",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 807,
+    "end_char": 815
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:16:term-usage:842-850",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:16",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 842,
+    "end_char": 850
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:16:term-usage:1112-1120",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:16",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1112,
+    "end_char": 1120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:17:term-usage:470-478",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:17",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 470,
+    "end_char": 478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:17:term-usage:1950-1958",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:17",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1950,
+    "end_char": 1958
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:17:term-usage:1989-1997",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:17",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1989,
+    "end_char": 1997
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:17:term-usage:2140-2148",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:17",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2140,
+    "end_char": 2148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:17:term-usage:2996-3004",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:17",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2996,
+    "end_char": 3004
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:18:term-usage:1164-1172",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:18",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1164,
+    "end_char": 1172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:19:term-usage:241-249",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:19",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 241,
+    "end_char": 249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:20:term-usage:421-429",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:20",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 421,
+    "end_char": 429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:21:term-usage:1650-1658",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:21",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1650,
+    "end_char": 1658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:21:term-usage:1821-1829",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:21",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1821,
+    "end_char": 1829
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:21:term-usage:2427-2435",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:21",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2427,
+    "end_char": 2435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:22:term-usage:311-319",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:22",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 311,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:23:term-usage:356-364",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:23",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 356,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:23:term-usage:639-647",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:23",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 639,
+    "end_char": 647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:23:term-usage:1041-1049",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:23",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1041,
+    "end_char": 1049
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:23:term-usage:1237-1245",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:23",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1237,
+    "end_char": 1245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:23:term-usage:1457-1465",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:23",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1457,
+    "end_char": 1465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:23:term-usage:1922-1930",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:23",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1922,
+    "end_char": 1930
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:23:term-usage:2146-2154",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:23",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2146,
+    "end_char": 2154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:23:term-usage:2677-2685",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:23",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2677,
+    "end_char": 2685
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:27:term-usage:155-163",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:27",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 155,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:30:term-usage:320-328",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:30",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 320,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:32:term-usage:281-289",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:32",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 281,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:33:term-usage:283-291",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:33",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 283,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:33:term-usage:528-536",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:33",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 528,
+    "end_char": 536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:37:term-usage:135-143",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:37",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 135,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:37:term-usage:283-291",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:37",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 283,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:37:term-usage:1062-1070",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:37",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1062,
+    "end_char": 1070
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:37:term-usage:1594-1602",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:37",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1594,
+    "end_char": 1602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:37:term-usage:2052-2060",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:37",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2052,
+    "end_char": 2060
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:38:term-usage:70-78",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:38",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 70,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:38:term-usage:159-167",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:38",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 159,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:38:term-usage:674-682",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:38",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 674,
+    "end_char": 682
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:38:term-usage:1920-1928",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:38",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1920,
+    "end_char": 1928
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:40:term-usage:4519-4527",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:40",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 4519,
+    "end_char": 4527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:40:term-usage:4613-4621",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:40",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 4613,
+    "end_char": 4621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:40:term-usage:4769-4777",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:40",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 4769,
+    "end_char": 4777
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:40:term-usage:6667-6675",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:40",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 6667,
+    "end_char": 6675
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:41:term-usage:46-54",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:41",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 46,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:41:term-usage:249-257",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:41",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 249,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:42:term-usage:180-188",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:42",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 180,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:43:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:43",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:43:term-usage:705-713",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:43",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 705,
+    "end_char": 713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:43:term-usage:1274-1282",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:43",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1274,
+    "end_char": 1282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:43:term-usage:1288-1296",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:43",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1288,
+    "end_char": 1296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:44-bis:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:44-bis",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:44-bis:term-usage:18-26",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:44-bis",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 18,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:44-bis:term-usage:32-40",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:44-bis",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 32,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:44-bis:term-usage:757-765",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:44-bis",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 757,
+    "end_char": 765
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:44-bis:term-usage:1109-1117",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:44-bis",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1109,
+    "end_char": 1117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:44-bis:term-usage:1452-1462",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:44-bis",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1452,
+    "end_char": 1462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:44-bis:term-usage:1467-1475",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:44-bis",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1467,
+    "end_char": 1475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:44-bis:term-usage:1481-1489",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:44-bis",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1481,
+    "end_char": 1489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:46:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:46",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:46:term-usage:388-396",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:46",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 388,
+    "end_char": 396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:46:term-usage:1136-1144",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:46",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1136,
+    "end_char": 1144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:47:term-usage:75-83",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:47",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 75,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:47:term-usage:838-846",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:47",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 838,
+    "end_char": 846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:47:term-usage:1612-1629",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:47",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:grupo-empresarial",
+    "span": "Grupo empresarial",
+    "start_char": 1612,
+    "end_char": 1629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:47:term-usage:1773-1790",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:47",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:grupo-empresarial",
+    "span": "Grupo empresarial",
+    "start_char": 1773,
+    "end_char": 1790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:47:term-usage:2230-2238",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:47",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2230,
+    "end_char": 2238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:48:term-usage:324-332",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:48",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 324,
+    "end_char": 332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:48:term-usage:482-490",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:48",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 482,
+    "end_char": 490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:48:term-usage:792-800",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:48",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 792,
+    "end_char": 800
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:48:term-usage:1006-1014",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:48",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1006,
+    "end_char": 1014
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:48:term-usage:1250-1258",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:48",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1250,
+    "end_char": 1258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:48:term-usage:1600-1608",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:48",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1600,
+    "end_char": 1608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:49:term-usage:737-745",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:49",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 737,
+    "end_char": 745
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:50:term-usage:240-248",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:50",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 240,
+    "end_char": 248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:51:term-usage:2034-2042",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:51",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2034,
+    "end_char": 2042
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:51:term-usage:2090-2098",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:51",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2090,
+    "end_char": 2098
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:52:term-usage:1579-1587",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:52",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1579,
+    "end_char": 1587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:62:term-usage:261-269",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:62",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 261,
+    "end_char": 269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:62:term-usage:544-552",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:62",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 544,
+    "end_char": 552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:63:term-usage:804-812",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:63",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 804,
+    "end_char": 812
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:63:term-usage:1705-1713",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:63",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1705,
+    "end_char": 1713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:65:term-usage:367-375",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:65",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 367,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:66:term-usage:144-152",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:66",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 144,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:66:term-usage:337-345",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:66",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 337,
+    "end_char": 345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:66:term-usage:1234-1242",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:66",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1234,
+    "end_char": 1242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:67:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:67",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:67:term-usage:506-514",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:67",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 506,
+    "end_char": 514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:67:term-usage:520-528",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:67",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 520,
+    "end_char": 528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:67:term-usage:1396-1404",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:67",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1396,
+    "end_char": 1404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:68:term-usage:173-181",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:68",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 173,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:68:term-usage:293-301",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:68",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 293,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:69:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:69",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:69:term-usage:405-413",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:69",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 405,
+    "end_char": 413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:71:term-usage:324-332",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:71",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 324,
+    "end_char": 332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:71:term-usage:571-579",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:71",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 571,
+    "end_char": 579
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:71:term-usage:858-866",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:71",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 858,
+    "end_char": 866
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:72:term-usage:376-384",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:72",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 376,
+    "end_char": 384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:72:term-usage:743-751",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:72",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 743,
+    "end_char": 751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:72:term-usage:1865-1873",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:72",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1865,
+    "end_char": 1873
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:74:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:74",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:75:term-usage:51-59",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:75",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 51,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:76:term-usage:64-72",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:76",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 64,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:77:term-usage:30-38",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:77",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 30,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:78:term-usage:129-139",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:78",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 129,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:78:term-usage:144-152",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:78",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 144,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:78:term-usage:165-173",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:78",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 165,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:78:term-usage:535-545",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:78",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 535,
+    "end_char": 545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:78:term-usage:550-558",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:78",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 550,
+    "end_char": 558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:78:term-usage:564-572",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:78",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 564,
+    "end_char": 572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:79:term-usage:229-237",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:79",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 229,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:79:term-usage:491-499",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:79",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 491,
+    "end_char": 499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:79:term-usage:848-856",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:79",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 848,
+    "end_char": 856
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:80:term-usage:192-200",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:80",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 192,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:80:term-usage:700-708",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:80",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 700,
+    "end_char": 708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:80:term-usage:815-823",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:80",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 815,
+    "end_char": 823
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:80:term-usage:1441-1449",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:80",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1441,
+    "end_char": 1449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:80:term-usage:1742-1750",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:80",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1742,
+    "end_char": 1750
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:80:term-usage:2136-2144",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:80",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2136,
+    "end_char": 2144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:80:term-usage:2386-2394",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:80",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2386,
+    "end_char": 2394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:80:term-usage:2534-2542",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:80",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2534,
+    "end_char": 2542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:80:term-usage:2674-2682",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:80",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2674,
+    "end_char": 2682
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:80:term-usage:3296-3304",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:80",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 3296,
+    "end_char": 3304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:80:term-usage:4130-4138",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:80",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 4130,
+    "end_char": 4138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:80:term-usage:5164-5172",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:80",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 5164,
+    "end_char": 5172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:80:term-usage:5503-5511",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:80",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 5503,
+    "end_char": 5511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:80:term-usage:5747-5755",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:80",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 5747,
+    "end_char": 5755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:80:term-usage:6019-6027",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:80",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 6019,
+    "end_char": 6027
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:80:term-usage:6251-6259",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:80",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 6251,
+    "end_char": 6259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:81:term-usage:22-30",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:81",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 22,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:83:term-usage:431-439",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:83",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 431,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:84:term-usage:481-489",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:84",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 481,
+    "end_char": 489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:85:term-usage:220-228",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:85",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 220,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:87:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:87",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:87:term-usage:190-198",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:87",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 190,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:88:term-usage:35-43",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:88",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 35,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:88:term-usage:283-291",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:88",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 283,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:89:term-usage:52-60",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:89",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 52,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:90:term-usage:89-97",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:90",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 89,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:91:term-usage:78-86",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:91",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 78,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:91:term-usage:346-354",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:91",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 346,
+    "end_char": 354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:91:term-usage:439-447",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:91",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 439,
+    "end_char": 447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:91:term-usage:479-487",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:91",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 479,
+    "end_char": 487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:92:term-usage:218-226",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:92",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 218,
+    "end_char": 226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:93:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:93",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:93:term-usage:771-779",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:93",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 771,
+    "end_char": 779
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:93:term-usage:1123-1131",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:93",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1123,
+    "end_char": 1131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:93:term-usage:1187-1195",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:93",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1187,
+    "end_char": 1195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:93:term-usage:2561-2569",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:93",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2561,
+    "end_char": 2569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:93:term-usage:2660-2668",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:93",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2660,
+    "end_char": 2668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:94:term-usage:288-296",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:94",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 288,
+    "end_char": 296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:94:term-usage:602-610",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:94",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 602,
+    "end_char": 610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:94:term-usage:922-930",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:94",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 922,
+    "end_char": 930
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:94:term-usage:1038-1046",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:94",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1038,
+    "end_char": 1046
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:94:term-usage:1133-1141",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:94",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1133,
+    "end_char": 1141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:94:term-usage:1252-1260",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:94",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1252,
+    "end_char": 1260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:94:term-usage:1603-1611",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:94",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1603,
+    "end_char": 1611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:94:term-usage:1893-1901",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:94",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1893,
+    "end_char": 1901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:94:term-usage:1918-1926",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:94",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1918,
+    "end_char": 1926
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:95:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:95",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:96:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:96",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:96:term-usage:185-193",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:96",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 185,
+    "end_char": 193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:96:term-usage:939-947",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:96",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 939,
+    "end_char": 947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:97:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:97",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:97:term-usage:1175-1183",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:97",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1175,
+    "end_char": 1183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:97:term-usage:1385-1393",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:97",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1385,
+    "end_char": 1393
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:97:term-usage:1880-1888",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:97",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1880,
+    "end_char": 1888
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:98:term-usage:34-42",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:98",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 34,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:98:term-usage:501-509",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:98",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 501,
+    "end_char": 509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:98:term-usage:810-818",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:98",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 810,
+    "end_char": 818
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:98-bis:term-usage:48-56",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:98-bis",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 48,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:98-bis:term-usage:912-920",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:98-bis",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 912,
+    "end_char": 920
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:98-bis:term-usage:1196-1204",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:98-bis",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1196,
+    "end_char": 1204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:98-bis:term-usage:1338-1346",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:98-bis",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1338,
+    "end_char": 1346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:99:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:99",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:99:term-usage:333-341",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:99",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 333,
+    "end_char": 341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:99:term-usage:705-713",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:99",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 705,
+    "end_char": 713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:99:term-usage:857-865",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:99",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 857,
+    "end_char": 865
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:99:term-usage:977-985",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:99",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 977,
+    "end_char": 985
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:99:term-usage:1202-1210",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:99",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1202,
+    "end_char": 1210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:99:term-usage:1647-1655",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:99",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1647,
+    "end_char": 1655
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:100:term-usage:1806-1814",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:100",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1806,
+    "end_char": 1814
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:100:term-usage:2006-2014",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:100",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2006,
+    "end_char": 2014
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:102:term-usage:10-18",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:102",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 10,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:103:term-usage:1868-1876",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:103",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1868,
+    "end_char": 1876
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:103:term-usage:1987-1995",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:103",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1987,
+    "end_char": 1995
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:103:term-usage:4249-4257",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:103",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 4249,
+    "end_char": 4257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:104:term-usage:92-100",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:104",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 92,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:104:term-usage:168-176",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:104",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 168,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:104:term-usage:559-567",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:104",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 559,
+    "end_char": 567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:104:term-usage:1064-1072",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:104",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1064,
+    "end_char": 1072
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:104:term-usage:2971-2979",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:104",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2971,
+    "end_char": 2979
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:104:term-usage:3447-3455",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:104",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 3447,
+    "end_char": 3455
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:104:term-usage:4211-4219",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:104",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 4211,
+    "end_char": 4219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:104:term-usage:4503-4511",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:104",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 4503,
+    "end_char": 4511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:104:term-usage:4710-4718",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:104",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 4710,
+    "end_char": 4718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:105:term-usage:188-196",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:105",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 188,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:107:term-usage:10-18",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:107",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 10,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:107:term-usage:490-498",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:107",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 490,
+    "end_char": 498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:108:term-usage:813-821",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:108",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 813,
+    "end_char": 821
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:108:term-usage:964-972",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:108",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 964,
+    "end_char": 972
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:108:term-usage:1082-1090",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:108",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1082,
+    "end_char": 1090
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:108:term-usage:1341-1349",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:108",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1341,
+    "end_char": 1349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:108:term-usage:1582-1590",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:108",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1582,
+    "end_char": 1590
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:109:term-usage:18-26",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:109",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 18,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:109:term-usage:1016-1024",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:109",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1016,
+    "end_char": 1024
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:109:term-usage:1468-1476",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:109",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1468,
+    "end_char": 1476
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:110:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:110",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:110:term-usage:398-406",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:110",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 398,
+    "end_char": 406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:110:term-usage:2759-2767",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:110",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 2759,
+    "end_char": 2767
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:111:term-usage:61-69",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:111",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 61,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:111:term-usage:229-237",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:111",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 229,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:112:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:112",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:112:term-usage:1041-1049",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:112",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1041,
+    "end_char": 1049
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:113:term-usage:506-514",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:113",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 506,
+    "end_char": 514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:113:term-usage:651-661",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:113",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 651,
+    "end_char": 661
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:113:term-usage:706-714",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:113",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 706,
+    "end_char": 714
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:114:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:114",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:114:term-usage:133-141",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:114",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 133,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:114:term-usage:274-282",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:114",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 274,
+    "end_char": 282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:115:term-usage:178-186",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:115",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 178,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:116:term-usage:91-99",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:116",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 91,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:117:term-usage:44-52",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:117",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 44,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:117:term-usage:489-497",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:117",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 489,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:117:term-usage:581-589",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:117",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 581,
+    "end_char": 589
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:117:term-usage:1355-1363",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:117",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1355,
+    "end_char": 1363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:117:term-usage:1644-1652",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:117",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1644,
+    "end_char": 1652
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119:term-usage:741-749",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 741,
+    "end_char": 749
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119:term-usage:1082-1090",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1082,
+    "end_char": 1090
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119:term-usage:1206-1214",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1206,
+    "end_char": 1214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119-bis:term-usage:130-138",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119-bis",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 130,
+    "end_char": 138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119-bis:term-usage:586-594",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119-bis",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 586,
+    "end_char": 594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119-bis:term-usage:812-820",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119-bis",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 812,
+    "end_char": 820
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119-bis-1:term-usage:148-156",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 148,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119-bis-1:term-usage:376-384",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 376,
+    "end_char": 384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119-bis-1:term-usage:993-1001",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 993,
+    "end_char": 1001
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119-bis-1:term-usage:1233-1241",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1233,
+    "end_char": 1241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119-bis-1:term-usage:1677-1685",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1677,
+    "end_char": 1685
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119-bis-2:term-usage:81-89",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119-bis-2",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 81,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119-bis-2:term-usage:760-768",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119-bis-2",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 760,
+    "end_char": 768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119-bis-2:term-usage:957-965",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119-bis-2",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 957,
+    "end_char": 965
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119-bis-2:term-usage:1180-1188",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119-bis-2",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1180,
+    "end_char": 1188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119-bis-3:term-usage:77-85",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119-bis-3",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 77,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:119-bis-3:term-usage:132-140",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:119-bis-3",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 132,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:120:term-usage:109-119",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:120",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 109,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:120:term-usage:142-150",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:120",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 142,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:121:term-usage:631-639",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:121",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 631,
+    "end_char": 639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:121:term-usage:1234-1242",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:121",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1234,
+    "end_char": 1242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:121:term-usage:1420-1428",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:121",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1420,
+    "end_char": 1428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:126:term-usage:346-354",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:126",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 346,
+    "end_char": 354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:127:term-usage:48-56",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:127",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 48,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:128:term-usage:267-275",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:128",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 267,
+    "end_char": 275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:128:term-usage:402-410",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:128",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 402,
+    "end_char": 410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:129:term-usage:78-88",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:129",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 78,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:129:term-usage:125-133",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:129",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 125,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:129:term-usage:561-571",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:129",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 561,
+    "end_char": 571
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:129:term-usage:588-596",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:129",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 588,
+    "end_char": 596
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:129:term-usage:2087-2097",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:129",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2087,
+    "end_char": 2097
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:129:term-usage:4072-4082",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:129",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4072,
+    "end_char": 4082
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:129:term-usage:4140-4148",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:129",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 4140,
+    "end_char": 4148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:129:term-usage:4367-4377",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:129",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4367,
+    "end_char": 4377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:129:term-usage:5354-5364",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:129",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 5354,
+    "end_char": 5364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:129:term-usage:6001-6011",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:129",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 6001,
+    "end_char": 6011
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:129:term-usage:6375-6383",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:129",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 6375,
+    "end_char": 6383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:129:term-usage:7509-7519",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:129",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 7509,
+    "end_char": 7519
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:129:term-usage:7528-7536",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:129",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 7528,
+    "end_char": 7536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:130:term-usage:152-162",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:130",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 152,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:130:term-usage:287-297",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:130",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 287,
+    "end_char": 297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:131:term-usage:143-151",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:131",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 143,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:133:term-usage:1425-1433",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:133",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1425,
+    "end_char": 1433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:133:term-usage:1659-1667",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:133",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1659,
+    "end_char": 1667
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:133:term-usage:1778-1788",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:133",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1778,
+    "end_char": 1788
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:133:term-usage:1796-1804",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:133",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1796,
+    "end_char": 1804
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:144:term-usage:589-597",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:144",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 589,
+    "end_char": 597
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:144:term-usage:958-966",
+    "provision_id": "urn:lex-mx:federal:statute:luc:article:144",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 958,
+    "end_char": 966
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:transitory:tercero:term-usage:12-20",
+    "provision_id": "urn:lex-mx:federal:statute:luc:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 12,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:transitory:quinto:term-usage:270-278",
+    "provision_id": "urn:lex-mx:federal:statute:luc:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 270,
+    "end_char": 278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:transitory:quinto:term-usage:421-429",
+    "provision_id": "urn:lex-mx:federal:statute:luc:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 421,
+    "end_char": 429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:transitory:septimo:term-usage:141-149",
+    "provision_id": "urn:lex-mx:federal:statute:luc:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 141,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:transitory:octavo:term-usage:304-312",
+    "provision_id": "urn:lex-mx:federal:statute:luc:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 304,
+    "end_char": 312
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:transitory:noveno:term-usage:353-361",
+    "provision_id": "urn:lex-mx:federal:statute:luc:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 353,
+    "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:transitory:noveno:term-usage:1134-1142",
+    "provision_id": "urn:lex-mx:federal:statute:luc:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1134,
+    "end_char": 1142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:transitory:noveno:term-usage:1242-1250",
+    "provision_id": "urn:lex-mx:federal:statute:luc:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1242,
+    "end_char": 1250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:transitory:noveno:term-usage:1715-1723",
+    "provision_id": "urn:lex-mx:federal:statute:luc:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "span": "Comisión",
+    "start_char": 1715,
+    "end_char": 1723
+  }
+]

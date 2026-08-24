@@ -3,7 +3,8 @@
   "batch_id": "financial_F4_popular_savings",
   "description": "Popular savings/SOFIPO/SOCAP batch. Statutes use official CNBV copies where present; DCGs use exact CNBV Normatividad titles.",
   "notes": [
-    "Domain: Financial system, popular savings"
+    "Domain: Financial system, popular savings",
+    "2026-08-23 recovery: lacp, lrascap were recorded here with adapter \"cnbv\" and CNBV Normatividad mirror URLs despite being federal laws, and were never ingested through the Rust gate. Operator decision 2026-08-23 re-pointed them at the Camara de Diputados consolidated texts and the diputados adapter, consistent with every other committed federal law; the cnbv labelling was a cluster-1 grouping artifact from listing them beside their DCGs. Both admitted clean the same day."
   ],
   "blocked": [],
   "instruments": [
@@ -11,10 +12,10 @@
       "slug": "lacp",
       "title": "Ley de Ahorro y Crédito Popular",
       "type": "ley",
-      "adapter": "cnbv",
+      "adapter": "diputados",
       "status": "NEW",
-      "ref_page": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-      "source_pdf": "https://www.cnbv.gob.mx/Normatividad/Ley%20de%20Ahorro%20y%20Cr%C3%A9dito%20Popular.pdf",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lacp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LACP.pdf",
       "publisher": "Comisión Nacional Bancaria y de Valores",
       "role": "hub"
     },
@@ -22,10 +23,10 @@
       "slug": "lrascap",
       "title": "Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo",
       "type": "ley",
-      "adapter": "cnbv",
+      "adapter": "diputados",
       "status": "NEW",
-      "ref_page": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-      "source_pdf": "https://www.cnbv.gob.mx/Normatividad/Ley%20para%20Regular%20las%20Actividades%20de%20las%20Sociedades%20Cooperativas%20de%20Ahorro%20y%20Pr%C3%A9stamo.pdf",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrascap.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRASCAP.pdf",
       "publisher": "Comisión Nacional Bancaria y de Valores",
       "role": "peer"
     },

@@ -1,0 +1,22 @@
+---
+id: urn:lex-mx:federal:statute:luc:article:54
+instrument_id: urn:lex-mx:federal:statute:luc
+instrument: LUC
+name: "Ley de Uniones de Crédito"
+provision_type: article
+number: "54"
+aliases: ["LUC — Artículo 54"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LUC.pdf
+source_sha256: 3db723c0e32c0f31b97d4ff15387fc7e76e29fe6b48ce84da2624a536144f938
+---
+
+> Título TERCERO · Capítulo III
+
+# Artículo 54
+
+La prenda sobre bienes y valores se constituirá en la forma prevista en la Ley General de Títulos y Operaciones de Crédito, bastando al efecto que se consigne en el documento de crédito respectivo con expresión de los datos necesarios para identificar los bienes dados en garantía.
+
+En todo caso de anticipo sobre títulos o valores, de prenda sobre ellos, sobre sus frutos y mercancías, las uniones podrán efectuar la venta de los títulos, bienes o mercancías, en los casos que proceda de conformidad con la mencionada Ley General de Títulos y Operaciones de Crédito, por medio de corredor público titulado o de dos comerciantes de la localidad, conservando en su poder la parte del precio que cubra las responsabilidades del deudor, que podrán aplicar en compensación de su crédito y guardando a disposición de aquél el sobrante que pueda existir.

@@ -1,0 +1,407 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:8:term-usage:703-711",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 703,
+    "end_char": 711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-t:term-usage:125-133",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-t",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 125,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1:term-usage:225-260",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:institucion-financiera-del-exterior",
+    "span": "Institución Financiera del Exterior",
+    "start_char": 225,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1:term-usage:267-295",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:sociedad-controladora-filial",
+    "span": "Sociedad Controladora Filial",
+    "start_char": 267,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1:term-usage:565-573",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 565,
+    "end_char": 573
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1:term-usage:605-611",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filial",
+    "start_char": 605,
+    "end_char": 611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1:term-usage:800-835",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:institucion-financiera-del-exterior",
+    "span": "Institución Financiera del Exterior",
+    "start_char": 800,
+    "end_char": 835
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-2:term-usage:4-12",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-2",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 4,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-2:term-usage:303-311",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-2",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 303,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-3:term-usage:32-38",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-3",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filial",
+    "start_char": 32,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-4:term-usage:265-273",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-4",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 265,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-5:term-usage:42-48",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-5",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filial",
+    "start_char": 42,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-5:term-usage:53-88",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-5",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:institucion-financiera-del-exterior",
+    "span": "Institución Financiera del Exterior",
+    "start_char": 53,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-5:term-usage:248-254",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-5",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filial",
+    "start_char": 248,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-5:term-usage:493-501",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-5",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 493,
+    "end_char": 501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-5:term-usage:532-560",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-5",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:sociedad-controladora-filial",
+    "span": "Sociedad Controladora Filial",
+    "start_char": 532,
+    "end_char": 560
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-6:term-usage:61-67",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-6",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filial",
+    "start_char": 61,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-7:term-usage:25-33",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-7",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 25,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-7:term-usage:151-159",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-7",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 151,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-7:term-usage:421-456",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-7",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:institucion-financiera-del-exterior",
+    "span": "Institución Financiera del Exterior",
+    "start_char": 421,
+    "end_char": 456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-7:term-usage:493-521",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-7",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:sociedad-controladora-filial",
+    "span": "Sociedad Controladora Filial",
+    "start_char": 493,
+    "end_char": 521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-7:term-usage:577-612",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-7",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:institucion-financiera-del-exterior",
+    "span": "Institución Financiera del Exterior",
+    "start_char": 577,
+    "end_char": 612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-7:term-usage:615-643",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-7",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:sociedad-controladora-filial",
+    "span": "Sociedad Controladora Filial",
+    "start_char": 615,
+    "end_char": 643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-7:term-usage:954-962",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-7",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 954,
+    "end_char": 962
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-8:term-usage:30-36",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-8",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filial",
+    "start_char": 30,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-8:term-usage:212-247",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-8",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:institucion-financiera-del-exterior",
+    "span": "Institución Financiera del Exterior",
+    "start_char": 212,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-8:term-usage:253-281",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-8",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:sociedad-controladora-filial",
+    "span": "Sociedad Controladora Filial",
+    "start_char": 253,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-8:term-usage:288-294",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-8",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filial",
+    "start_char": 288,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-8:term-usage:379-385",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-8",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filial",
+    "start_char": 379,
+    "end_char": 385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-8:term-usage:557-592",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-8",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:institucion-financiera-del-exterior",
+    "span": "Institución Financiera del Exterior",
+    "start_char": 557,
+    "end_char": 592
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-8:term-usage:598-626",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-8",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:sociedad-controladora-filial",
+    "span": "Sociedad Controladora Filial",
+    "start_char": 598,
+    "end_char": 626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-8:term-usage:633-639",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-8",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filial",
+    "start_char": 633,
+    "end_char": 639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-9:term-usage:112-145",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-9",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:sociedad-controladora-filial",
+    "span": "Sociedades Controladoras Filiales",
+    "start_char": 112,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-9:term-usage:154-162",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-9",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 154,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-9:term-usage:347-382",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-9",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:institucion-financiera-del-exterior",
+    "span": "Institución Financiera del Exterior",
+    "start_char": 347,
+    "end_char": 382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-9:term-usage:387-415",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-9",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:sociedad-controladora-filial",
+    "span": "Sociedad Controladora Filial",
+    "start_char": 387,
+    "end_char": 415
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-9:term-usage:421-427",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-9",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filial",
+    "start_char": 421,
+    "end_char": 427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-10:term-usage:4-12",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-10",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 4,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-10:term-usage:90-125",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-10",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:institucion-financiera-del-exterior",
+    "span": "Institución Financiera del Exterior",
+    "start_char": 90,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-10:term-usage:221-227",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-10",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filial",
+    "start_char": 221,
+    "end_char": 227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-10:term-usage:272-280",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-10",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 272,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-11:term-usage:36-44",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-11",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 36,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-13:term-usage:31-39",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-13",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 31,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-14:term-usage:16-24",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-14",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 16,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-17:term-usage:208-216",
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-17",
+    "term_id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "span": "Filiales",
+    "start_char": 208,
+    "end_char": 216
+  }
+]

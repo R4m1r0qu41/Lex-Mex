@@ -286,6 +286,35 @@ fn is_letter(character: char) -> bool {
     character.is_ascii_alphabetic() || "ÁÉÍÓÚÑáéíóúñ".contains(character)
 }
 
+/// Match a bare qualifier word (`Bis` … `Nonies`) at the start of `text`,
+/// case-insensitively, returning it exactly as written so the heading keeps
+/// its source casing (`BIS` in LIVA, `Bis` in CFF). Heading parsers that
+/// consume a letter suffix before the qualifier (`Artículo 1o.-A BIS.-`)
+/// need this; the grammar's own hyphen form (`32-B Bis`) never reaches here.
+#[must_use]
+pub fn match_qualifier_word_at(text: &str) -> Option<&str> {
+    for qualifier in QUALIFIERS {
+        let count = qualifier.chars().count();
+        let matched = text
+            .chars()
+            .zip(qualifier.chars())
+            .filter(|(actual, expected)| actual.to_lowercase().eq(expected.to_lowercase()))
+            .count();
+        if matched != count {
+            continue;
+        }
+        let end: usize = text.chars().take(count).map(char::len_utf8).sum();
+        if text[end..]
+            .chars()
+            .next()
+            .is_none_or(|next| !is_letter(next))
+        {
+            return Some(&text[..end]);
+        }
+    }
+    None
+}
+
 fn parse_qualifier(cursor: &mut Cursor) -> Option<(u8, String)> {
     let start = cursor.position;
     // An ordinal-abbreviation dot may sit between the base and the

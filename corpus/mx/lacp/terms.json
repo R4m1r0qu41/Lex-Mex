@@ -1,0 +1,156 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:term:cliente",
+    "term": "Cliente",
+    "instrument_id": "urn:lex-mx:federal:statute:lacp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 268,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:term:comite-de-proteccion-al-ahorro",
+    "term": "Comité de Protección al Ahorro",
+    "instrument_id": "urn:lex-mx:federal:statute:lacp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
+    "fraction": "II",
+    "start_char": 268,
+    "end_char": 486,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:term:comite-de-supervision",
+    "term": "Comité de Supervisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lacp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
+    "fraction": "III",
+    "start_char": 486,
+    "end_char": 655,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:term:comite-tecnico",
+    "term": "Comité Técnico",
+    "instrument_id": "urn:lex-mx:federal:statute:lacp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
+    "fraction": "IV",
+    "start_char": 655,
+    "end_char": 760,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lacp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
+    "fraction": "V",
+    "start_char": 760,
+    "end_char": 820,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:term:federacion",
+    "term": "Federación",
+    "instrument_id": "urn:lex-mx:federal:statute:lacp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
+    "fraction": "VI",
+    "start_char": 820,
+    "end_char": 1019,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:term:fondo-de-proteccion",
+    "term": "Fondo de Protección",
+    "instrument_id": "urn:lex-mx:federal:statute:lacp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
+    "fraction": "VII",
+    "start_char": 1019,
+    "end_char": 1313,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:term:nivel-de-capitalizacion",
+    "term": "Nivel de Capitalización",
+    "instrument_id": "urn:lex-mx:federal:statute:lacp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
+    "fraction": "VIII",
+    "start_char": 1313,
+    "end_char": 1652,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:term:nivel-de-operaciones",
+    "term": "Nivel de Operaciones",
+    "instrument_id": "urn:lex-mx:federal:statute:lacp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
+    "fraction": "IX",
+    "start_char": 1652,
+    "end_char": 1889,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lacp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
+    "fraction": "X",
+    "start_char": 1889,
+    "end_char": 1952,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:term:sociedad-financiera-popular",
+    "term": "Sociedad Financiera Popular",
+    "instrument_id": "urn:lex-mx:federal:statute:lacp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
+    "fraction": "XI",
+    "start_char": 1952,
+    "end_char": 2126,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:term:sociedad-financiera-comunitaria",
+    "term": "Sociedad Financiera Comunitaria",
+    "instrument_id": "urn:lex-mx:federal:statute:lacp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
+    "fraction": "XII",
+    "start_char": 2126,
+    "end_char": 2462,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:term:organismo-u-organismo-de-integracion-financiera-rural",
+    "term": "Organismo u Organismo de Integración Financiera Rural",
+    "instrument_id": "urn:lex-mx:federal:statute:lacp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
+    "fraction": "XIII",
+    "start_char": 2462,
+    "end_char": 2700,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:term:socio",
+    "term": "Socio",
+    "instrument_id": "urn:lex-mx:federal:statute:lacp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lacp:article:3",
+    "fraction": "XIV",
+    "start_char": 2700,
+    "end_char": 3164,
+    "basis": "express_definition"
+  }
+]

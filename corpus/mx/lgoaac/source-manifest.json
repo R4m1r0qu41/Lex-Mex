@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgoaac",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGOAAC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgoaac.htm",
+  "retrieved_at": "2026-08-24T03:22:20.759638Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1467304,
+  "etag": "\"1663a8-64502ebd32b40\"",
+  "last_modified": "Wed, 03 Dec 2025 02:25:09 GMT",
+  "source_sha256": "54747e6ec98327430ccf77b2acc5ba3033ef64f42d8d7f1fdee957755070f683",
+  "extracted_text_sha256": "807e15f1bdea26f895c15abdf8bcee25395293703adfd0fd27cbaba1cb1f7a68",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "6e897be94c701a52d929d13ba59761a605d16661"
+}

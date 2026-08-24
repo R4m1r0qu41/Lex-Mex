@@ -1,0 +1,617 @@
+[
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1993-12-23:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 1993-12-23",
+    "text": "El presente Decreto entrará en vigor el primero de enero de 1994."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1993-12-23:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 1993-12-23",
+    "text": "La Secretaría de Hacienda y Crédito Público autorizará el límite de capital individual que podrá alcanzar cada Filial, así como el límite agregado que en su conjunto podrán alcanzar las Filiales del mismo tipo, de conformidad con los tratados o acuerdos internacionales aplicables."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1993-12-23:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 1993-12-23",
+    "text": "Las adquisiciones por parte de Filiales, Instituciones Financieras del Exterior o Sociedades Controladoras Filiales de acciones de intermediarios financieros, en cuyo capital participen mayoritariamente inversionistas mexicanos, o de acciones de Filiales o Sociedades Controladoras Filiales, estarán sujetas a los límites de capital individuales y agregados que en su caso establezcan los tratados o acuerdos internacionales aplicables."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1993-12-23:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 1993-12-23",
+    "text": "Cuando una Filial alcance el noventa por ciento del límite de capital individual autorizado, deberá notificar este hecho a la Secretaría de Hacienda y Crédito Público dentro de los cinco días hábiles siguientes.\n\nEl incumplimiento de la obligación a que se refiere el párrafo anterior será sancionado por la Comisión Nacional competente, previa audiencia, con multa de hasta 2,500 días de salario mínimo por cada día de retraso en la notificación correspondiente."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1993-12-23:transitory:quinto",
+    "label": "Transitorio QUINTO — Decreto DOF 1993-12-23",
+    "text": "Cuando una Filial exceda el límite de capital individual autorizado, la Secretaría de Hacienda y Crédito Público estará facultada para establecer un programa de reducción de capital a fin de que en un periodo determinado se ajuste a dicho límite. En todo caso, para cumplir con los requerimientos de capitalización aplicables se tomará en cuenta el menor entre el límite de capital individual autorizado y el capital real con que cuente la Filial de que se trate.\n\nCuando se exceda el límite de capital individual autorizado, la Comisión Nacional competente estará facultada para remover, suspender o imponer veto a los miembros del consejo de administración, directores generales, comisarios, directores, gerentes y funcionarios que puedan obligar con su firma a la sociedad, previa audiencia, de conformidad con el procedimiento establecido en la ley aplicable. Si la infracción a lo dispuesto en el párrafo anterior es reiterada, o si la Filial no cumple con el programa de reducción de capital a que se refiere el primer párrafo del presente artículo, se podrá declarar la revocación de la autorización para constituir y operar una Filial o una Sociedad Controladora Filial, previa audiencia, en los términos establecidos en la ley aplicable."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1993-12-23:transitory:sexto",
+    "label": "Transitorio SEXTO — Decreto DOF 1993-12-23",
+    "text": "El otorgamiento de autorizaciones para organizarse y operar como Filiales, así como para inscribirse en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, se podrá suspender cuando se hayan alcanzado los límites agregados a la participación de Instituciones Financieras del Exterior, o procedan las cláusulas de salvaguarda que en su caso establezca el tratado o acuerdo internacional aplicable."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1993-12-23:transitory:septimo",
+    "label": "Transitorio SEPTIMO — Decreto DOF 1993-12-23",
+    "text": "Los límites individuales y agregados aplicables a las Filiales que en su caso establezcan los tratados o acuerdos internacionales correspondientes, serán calculados con base en la información proporcionada por la Comisión Nacional competente y por el Banco de México, en los términos de las reglas para el establecimiento de Filiales."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1993-12-23:transitory:octavo",
+    "label": "Transitorio OCTAVO — Decreto DOF 1993-12-23",
+    "text": "Tratándose de instituciones de banca múltiple Filiales, los límites de capital individuales y agregados se fijarán con base en el capital neto de la totalidad de las instituciones de banca múltiple establecidas en México en la fecha de cálculo."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1993-12-23:transitory:noveno",
+    "label": "Transitorio NOVENO — Decreto DOF 1993-12-23",
+    "text": "Tratándose de sociedades financieras de objeto limitado Filiales, los límites individuales y agregados se fijarán con base en la suma de los activos de la totalidad de las instituciones de banca múltiple y las sociedades financieras de objeto limitado establecidas en México en la fecha de cálculo."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1993-12-23:transitory:decimo",
+    "label": "Transitorio DECIMO — Decreto DOF 1993-12-23",
+    "text": "Tratándose de las sociedades Filiales inscritas en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, los límites de capital individuales y agregados se fijarán con base en el capital global de la totalidad de las instituciones del mismo tipo establecidas en México en la fecha de cálculo."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1993-12-23:transitory:decimo-primero",
+    "label": "Transitorio DECIMO PRIMERO — Decreto DOF 1993-12-23",
+    "text": "Tratándose de organizaciones auxiliares de crédito Filiales, casas de cambio Filiales e instituciones de fianzas Filiales, los límites de capital individuales y agregados se fijarán con base en la suma del capital contable de la totalidad de las instituciones del mismo tipo establecidas en México en la fecha de cálculo."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1993-12-23:transitory:decimo-segundo",
+    "label": "Transitorio DECIMO SEGUNDO — Decreto DOF 1993-12-23",
+    "text": "Los límites de capital individuales y agregados aplicables a las instituciones de seguros se fijarán con base en la cantidad que como requerimiento bruto de solvencia, necesiten las instituciones de seguros. Dicho requerimiento bruto de solvencia corresponderá al capital mínimo de garantía que se establezca, de acuerdo a las reglas que conforme al artículo 60 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros compete emitir a la Secretaría de Hacienda y Crédito Público, y se considerará por separado para la realización de las operaciones de vida, accidentes y enfermedades por una parte y de daños, considerando cada uno de sus ramos, por la otra."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1993-12-23:transitory:decimo-tercero",
+    "label": "Transitorio DECIMO TERCERO — Decreto DOF 1993-12-23",
+    "text": "No obstante lo dispuesto en el artículo 29 fracción II de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, las Instituciones Financieras del Exterior podrán adquirir, previa autorización de un programa de inversiones por la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, una participación accionaria en una institución de seguros de las previstas en el inciso a) de la fracción I Bis, del artículo 29 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, por constituirse o ya establecida, de conformidad con lo dispuesto en los tratados o acuerdos internacionales aplicables.\n\nLas Instituciones Financieras del Exterior que antes de la entrada en vigor del tratado o acuerdo aplicable tengan inversiones en instituciones de seguros, podrán incrementar éstas de conformidad con dicho tratado. A las inversiones señaladas en los dos párrafos anteriores no les serán aplicables los límites de capital individuales y agregados de conformidad con el tratado o acuerdo internacional aplicable."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1995-11-17:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 1995-11-17",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1995-11-17:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 1995-11-17",
+    "text": "Lo dispuesto en el artículo 118-A de la Ley de Instituciones de Crédito se aplicará a los modelos de contratos de adhesión que sirvan de base para la celebración de contratos a partir del inicio de la vigencia del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1995-11-17:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 1995-11-17",
+    "text": "Las instituciones de crédito deberán establecer las unidades especializadas a que se refiere el artículo 118-B de la Ley de Instituciones de Crédito, en un plazo máximo de noventa días contado a partir del inicio de la vigencia del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1995-11-17:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 1995-11-17",
+    "text": "Las reclamaciones presentadas por los usuarios del servicio de banca y crédito ante la Comisión Nacional Bancaria y de Valores, con anterioridad al inicio de la vigencia del presente Decreto, continuarán su trámite hasta su conclusión en los términos establecidos por los artículos 119 y 120 de la Ley de Instituciones de Crédito, que se encontraban vigentes al momento de su presentación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1995-11-17:transitory:quinto",
+    "label": "Transitorio QUINTO — Decreto DOF 1995-11-17",
+    "text": "Lo establecido en los artículos segundo y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras, Ley de Instituciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley del Mercado de Valores, Ley de Sociedades de Inversión, Ley General de Instituciones y Sociedades Mutualistas de Seguros y Ley Federal de Instituciones de Fianzas, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1993, no es aplicable a las sociedades financieras de objeto limitado, arrendadoras financieras, empresas de factoraje financiero e instituciones de seguros, filiales, que resulten de las adquisiciones que sean autorizadas por la Secretaría de Hacienda y Crédito Público."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1995-11-17:transitory:sexto",
+    "label": "Transitorio SEXTO — Decreto DOF 1995-11-17",
+    "text": "Las sociedades financieras de objeto limitado, organizaciones auxiliares del crédito, casas de cambio, instituciones de seguros e instituciones de fianzas, deberán efectuar, en su caso, los actos corporativos necesarios para ajustar sus estatutos a lo dispuesto por el presente Decreto, dentro de un plazo máximo de ciento veinte días contado a partir del inicio de la vigencia del mismo."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1995-11-17:transitory:septimo",
+    "label": "Transitorio SEPTIMO — Decreto DOF 1995-11-17",
+    "text": "Se abroga la Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación, publicada en el Diario Oficial de la Federación de fecha 31 de diciembre de 1959; sin embargo, seguirá siendo aplicable en lo referente a las infracciones y faltas que se hubiesen cometido durante la vigencia del referido ordenamiento."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1995-11-17:transitory:octavo",
+    "label": "Transitorio OCTAVO — Decreto DOF 1995-11-17",
+    "text": "Las disposiciones del Reglamento de la Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación, continuarán vigentes en tanto no se reforme, en lo conducente, el Reglamento de la Ley del Servicio de Tesorería de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1995-11-17:transitory:noveno",
+    "label": "Transitorio NOVENO — Decreto DOF 1995-11-17",
+    "text": "Lo dispuesto por los artículos 25, 26, 27 y 28 de la Ley del Servicio de Tesorería de la Federación, se aplicará a las solicitudes de dación de bienes o servicios en pago que se presenten a partir de la fecha de inicio de la vigencia de este Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1996-04-30:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 1996-04-30",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1996-04-30:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 1996-04-30",
+    "text": "En tanto la Secretaría de Hacienda y Crédito Público emite las disposiciones de carácter general a que se refiere el párrafo segundo de la fracción I del artículo 15 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, seguirá observándose el texto anteriormente aplicable."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1997-05-07:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 1997-05-07",
+    "text": "El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1997-05-07:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 1997-05-07",
+    "text": "Las disposiciones de carácter general que la Secretaría de Hacienda y Crédito Público haya emitido bajo la vigencia de los artículos que se reforman en este decreto, continuarán vigentes hasta en tanto no sean modificadas, abrogadas o derogadas por la misma dependencia."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1997-05-07:section-2:transitory:primero",
+    "label": "Transitorio PRIMERO — Sección transitoria 2, Decreto DOF 1997-05-07",
+    "text": "La presente Ley entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1997-05-07:section-2:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Sección transitoria 2, Decreto DOF 1997-05-07",
+    "text": "Se derogan los artículos 119 y 120 de la Ley de Instituciones de Crédito; 102 y 103 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 87 y 88 de la Ley del Mercado de Valores; 45 de la Ley de Sociedades de Inversión; la fracción XI del artículo 108 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; la fracción XII del artículo 5o., 109 y 110 de la Ley de los Sistemas de Ahorro para el Retiro, y la fracción X del artículo 4o. de la Ley de la Comisión Nacional Bancaria y de Valores, así como las demás disposiciones que se opongan a la presente Ley."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1997-05-07:section-2:transitory:tercero",
+    "label": "Transitorio TERCERO — Sección transitoria 2, Decreto DOF 1997-05-07",
+    "text": "Para los efectos de los artículos 72 y 83 de esta Ley, las menciones a la Comisión Nacional de Seguros y Fianzas en los artículos 135 y 136 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, y 93 y 94 de la Ley Federal de Instituciones de Fianzas, se deberán entender referidas a la Comisión Nacional para la Defensa de los Usuarios de Servicios Financieros."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1997-05-07:section-2:transitory:cuarto",
+    "label": "Transitorio CUARTO — Sección transitoria 2, Decreto DOF 1997-05-07",
+    "text": "Los procedimientos que las Comisiones Nacionales lleven a cabo para la protección de los intereses del público en lo individual, y que hasta la fecha de entrada en vigor de esta Ley estén en curso, serán concluidos de manera definitiva por la Comisión Nacional, de conformidad con las disposiciones que se encontraran vigentes al momento de iniciarse el procedimiento."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1997-05-07:section-2:transitory:quinto",
+    "label": "Transitorio QUINTO — Sección transitoria 2, Decreto DOF 1997-05-07",
+    "text": "La Secretaría llevará a cabo los trámites y acciones necesarias para que los recursos humanos, materiales y financieros de las Comisiones Nacionales, relacionados con las facultades que esta Ley atribuye a la Comisión Nacional, sean traspasados al mismo. Dicho traspaso incluirá mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que las Comisiones Nacionales hayan utilizado para la atención de los asuntos a su cargo."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1997-05-07:section-2:transitory:sexto",
+    "label": "Transitorio SEXTO — Sección transitoria 2, Decreto DOF 1997-05-07",
+    "text": "El personal de las Comisiones Nacionales que en aplicación de la presente Ley pase a formar parte de la Comisión Nacional, en ninguna forma resultará afectado en sus derechos laborales adquiridos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1997-05-07:section-2:transitory:septimo",
+    "label": "Transitorio SÉPTIMO — Sección transitoria 2, Decreto DOF 1997-05-07",
+    "text": "El Registro de Prestadores de Servicios Financieros a que se refiere el Título Cuarto, Capítulo I, de esta Ley, deberá quedar constituido dentro de los seis meses siguientes a la fecha en que esta Ley entre en vigor."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1997-05-07:section-2:transitory:octavo",
+    "label": "Transitorio OCTAVO — Sección transitoria 2, Decreto DOF 1997-05-07",
+    "text": "La Secretaría, realizará los trámites que sean necesarios para que la Comisión Nacional quede comprendido en el Presupuesto de Egresos de la Federación para el ejercicio fiscal de 1999."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1997-05-07:section-2:transitory:noveno",
+    "label": "Transitorio NOVENO — Sección transitoria 2, Decreto DOF 1997-05-07",
+    "text": "La instalación de la primera Junta de Gobierno a la que se refiere el artículo 16 deberá concretarse en los siguientes términos:\n\nI. La Secretaría, el Banco de México y las Comisiones Nacionales, deberán designar a sus representantes, y el Secretario de Hacienda y Crédito Público al Presidente de la Comisión;\n\nII. Los representantes a que se refiere la fracción anterior deberán emitir las bases sobre las cuales se procederá a la integración e instalación del Consejo Consultivo Nacional, dentro de un plazo no mayor de 30 días; y, III. Los integrantes de la Junta de Gobierno a que se refiere la fracción I de este artículo deberán proceder a la integración del Consejo Consultivo Nacional, en los términos de las bases señaladas en la fracción anterior, en un plazo no mayor de quince días a partir de la emisión de las bases a que se refiere la fracción II de este artículo y dicho Consejo Consultivo designará a los integrantes del mismo, que formarán parte de la Junta de Gobierno."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1997-05-07:section-2:transitory:decimo",
+    "label": "Transitorio DECIMO — Sección transitoria 2, Decreto DOF 1997-05-07",
+    "text": "Se derogan todas las disposiciones que se opongan a la presente Ley."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1999-05-17:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 1999-05-17",
+    "text": "El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:1999-05-17:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 1999-05-17",
+    "text": "Las modificaciones al artículo 194 del Código Federal de Procedimientos Penales, entrarán en vigor un día después de que se apruebe y publique, en su caso, la reforma al mismo artículo que se propone en la iniciativa que reforma diversas disposiciones en materia penal presentada por el Ejecutivo Federal el 18 de noviembre de 1998 en el Senado de la República como Cámara de Origen."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2000-01-05:section-2:transitory:unico",
+    "label": "Transitorio ÚNICO — Sección transitoria 2, Decreto DOF 2000-01-05",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2000-12-29:transitory:unico",
+    "label": "Transitorio UNICO — Ley DOF 2000-12-29",
+    "text": "La adición al artículo 51-B de la Ley mencionada en el artículo anterior entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-01:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2001-06-01",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-01:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2001-06-01",
+    "text": "Lo dispuesto por los Artículos 5 Bis 1, 5 Bis 2 y 5 Bis 3 entrará en vigor el día 1 de enero del año 2002."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-04:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2001-06-04",
+    "text": "El artículo Primero del presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo señalado en los artículos Transitorios siguientes.\n\nEl artículo Segundo del presente Decreto entrará en vigor a los dos años de su publicación en el Diario Oficial de la Federación.\n\nEl artículo Tercero del presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción del artículo 26 contenido en el mismo, el cual entrará en vigor a los dos años de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-04:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2001-06-04",
+    "text": "Las Sociedades de Ahorro y Préstamo, las Uniones de Crédito y las Sociedades Cooperativas que tengan intención de sujetarse a los términos establecidos en la Ley de Ahorro y Crédito Popular, deberán registrarse ante la Comisión Nacional Bancaria y de Valores en un término no mayor a seis meses contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación, manifestando al efecto su nombre, denominación, domicilio, número de socios y demás datos que sobre su actividad solicite dicho organismo."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-04:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2001-06-04",
+    "text": "Las Sociedades de Ahorro y Préstamo, las Uniones de Crédito que capten depósitos de ahorro, así como las Sociedades Cooperativas de Ahorro y Préstamo y aquéllas que cuenten con secciones de ahorro y préstamo, constituidas con anterioridad al inicio de la vigencia de la Ley de Ahorro y Crédito Popular, contarán con un plazo de dos años a partir de la fecha que establece el primer párrafo del artículo PRIMERO Transitorio anterior para solicitar de la Comisión Nacional Bancaria y de Valores la autorización para operar como Entidad, sujetándose a lo dispuesto por el artículo OCTAVO Transitorio y debiendo obtener el dictamen favorable de alguna Federación, con arreglo a lo dispuesto por la Ley de Ahorro y Crédito Popular.\n\nConcluido el plazo anterior, las sociedades y las Uniones de Crédito que no hubieren obtenido la autorización referida deberán abstenerse de captar recursos, en caso contrario se ubicarán en los supuestos de infracción previstos por la Ley de Ahorro y Crédito Popular y por las disposiciones que resulten aplicables."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-04:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 2001-06-04",
+    "text": "Las Sociedades de Ahorro y Préstamo y las Uniones de Crédito que capten depósitos de ahorro continuarán sujetas a la supervisión y vigilancia de la Comisión Nacional Bancaria y de Valores, en términos de lo establecido en la Ley General de Organizaciones y Actividades Auxiliares del Crédito, hasta en tanto no se sujeten a lo señalado en el artículo TERCERO Transitorio."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-04:transitory:quinto",
+    "label": "Transitorio QUINTO — Decreto DOF 2001-06-04",
+    "text": "Los Organismos de Integración que sean autorizados conforme a la Ley de Ahorro y Crédito Popular dentro del plazo de un año a partir de la entrada en vigor de la misma, contarán con un plazo de dos años a partir de su autorización, para cumplir con el número mínimo de diez Entidades y cinco Federaciones afiliadas, en términos del artículo 53 de la misma ley, según se trate."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-04:transitory:sexto",
+    "label": "Transitorio SEXTO — Decreto DOF 2001-06-04",
+    "text": "Sin menoscabo de lo establecido en el artículo 5o. de la Ley de Ahorro y Crédito Popular, el Gobierno Federal podrá entregar recursos a los Fondos de Protección conforme se integren las Entidades a los mismos y en función del monto de los ahorradores de las Entidades. Dicha aportación será por única vez y a través de los mecanismos que para tal efecto establezca la Secretaría de Hacienda y Crédito Público.\n\nLos recursos a que hace referencia el párrafo anterior, no serán aplicables a las Entidades señaladas en el quinto párrafo del artículo 105 de la Ley de Ahorro y Crédito Popular."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-04:transitory:septimo",
+    "label": "Transitorio SÉPTIMO — Decreto DOF 2001-06-04",
+    "text": "Las Entidades autorizadas en los primeros dos años a partir de la entrada en vigor de la Ley de Ahorro y Crédito Popular, podrán utilizar los recursos del Fondo de Protección, siempre y cuando hayan realizado aportaciones durante un plazo de 2 años.\n\nRespecto de aquéllas que se constituyan con posterioridad a los dos primeros años de entrada en vigor de la Ley de Ahorro y Crédito Popular, podrán utilizar los recursos del Fondo de Protección a partir del cuarto año siguiente a la entrada en vigor de la Ley de Ahorro y Crédito Popular.\n\nLo dispuesto en este artículo deberá incluirse en el contrato de fideicomiso de los Fondos de Protección. Las Entidades deberán informar a sus Socios, Clientes y al público en general la fecha a partir de la cual iniciará la vigencia del sistema del Fondo de Protección respectivo, conforme a lo señalado en el párrafo anterior."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-04:transitory:octavo",
+    "label": "Transitorio OCTAVO — Decreto DOF 2001-06-04",
+    "text": "Para efectos de la fracción I del artículo 53 de la misma Ley, las Federaciones que soliciten su autorización dentro de un plazo de dos años contados a partir de la entrada en vigor de la Ley, deberán presentar los documentos en que, a juicio de la Comisión Nacional Bancaria y de Valores, se manifieste la intención de cuando menos diez sociedades que cumplan con los requisitos del artículo 10o., con excepción de las fracciones II y IX, para afiliarse a dicha Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-04:transitory:noveno",
+    "label": "Transitorio NOVENO — Decreto DOF 2001-06-04",
+    "text": "A partir de la fecha de inicio de vigencia establecida en el primer párrafo del artículo PRIMERO Transitorio, las Federaciones autorizadas administrarán de forma provisional los Fondos de Protección, hasta que dichas Federaciones formen parte de alguna Confederación autorizada o convengan con alguna de ellas el traspaso de los recursos que integran dichos fondos en los términos del Capítulo IV del Título Tercero de la Ley de Ahorro y Crédito Popular.\n\nConcluido un plazo de dos años a partir del inicio de vigencia de la Ley de Ahorro y Crédito Popular, las Federaciones que no se encuentren en los supuestos contemplados en el párrafo anterior, podrán solicitar a la Comisión Nacional Bancaria y de Valores una prórroga que no podrá exceder de dos años para continuar administrando el Fondo de Protección de sus Entidades, de lo contrario se ubicarán en la causal de revocación prevista por la fracción IX del artículo 60 de la Ley de Ahorro y Crédito Popular. En este último caso, la Comisión Nacional Bancaria y de Valores, con arreglo a las disposiciones de carácter general que emita al efecto, determinará el destino de los recursos que integran los Fondos de Protección respectivos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-04:transitory:decimo",
+    "label": "Transitorio DÉCIMO — Decreto DOF 2001-06-04",
+    "text": "Al momento de instalarse el primer consejo de administración de una Sociedad Cooperativa de Ahorro y Préstamo conforme a los términos previstos en la Ley de Ahorro y Crédito Popular, se determinarán por insaculación a los consejeros electos por la asamblea que fungirán en su encargo únicamente durante la primera mitad del periodo de duración determinado por la Entidad, a fin de proceder en periodos subsecuentes a la renovación por mitad del consejo de administración.\n\nCuando el número de integrantes sea impar, se elegirá por insaculación durante la instalación del consejo de administración, al miembro excedente que formará parte de la primera mitad, a fin de proceder en periodos subsecuentes a la renovación parcial del mismo. En el caso del consejo de vigilancia, se procederá de la misma forma."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-04:transitory:decimo-primero",
+    "label": "Transitorio DÉCIMO PRIMERO — Decreto DOF 2001-06-04",
+    "text": "Para efectos de lo dispuesto en los artículos 65 y 101 de la Ley de Ahorro y Crédito Popular, se establecerá un periodo de transición a efecto de que los Organismos de Integración se ajusten al mismo, conforme a lo siguiente:\n\nI. Durante los dos primeros años a partir de que obtengan el dictamen favorable, su consejo de administración podrá estar conformado hasta en un setenta y cinco por ciento del total de sus miembros, por consejeros o funcionarios de la Entidad, Federación o Confederación, según sea el caso, y\n\nII. A partir del segundo año y hasta el final del tercer año, dicho porcentaje se reducirá hasta un cincuenta por ciento y a partir del cuarto año este porcentaje podrá ser hasta de un treinta por ciento."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-04:transitory:decimo-segundo",
+    "label": "Transitorio DÉCIMO SEGUNDO — Decreto DOF 2001-06-04",
+    "text": "El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, tomará las medidas pertinentes y proveerá lo necesario en términos de las disposiciones aplicables, para que la Comisión Nacional Bancaria y de Valores y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros estén en posibilidad de cumplir con las funciones conferidas en la Ley de Ahorro y Crédito Popular."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-04:transitory:decimo-tercero",
+    "label": "Transitorio DÉCIMO TERCERO — Decreto DOF 2001-06-04",
+    "text": "Las solicitudes de autorización presentadas a la Secretaría de Hacienda y Crédito Público para constituir y operar Sociedades de Ahorro y Préstamo, y que no hayan sido resueltas con anterioridad a la entrada en vigor de la Ley de Ahorro y Crédito Popular, se entenderán resueltas en sentido negativo, por lo que los interesados correspondientes podrán iniciar el procedimiento para obtener la autorización a que se refiere el artículo 9o. de la misma Ley.\n\nLas solicitudes a que hace referencia el párrafo anterior serán devueltas a los interesados por la Secretaría de Hacienda y Crédito Público, dentro de un plazo que no excederá de cuarenta y cinco días naturales contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-04:transitory:decimo-cuarto",
+    "label": "Transitorio DÉCIMO CUARTO — Decreto DOF 2001-06-04",
+    "text": "Durante los dos años siguientes a la entrada en vigor de la Ley de Ahorro y Crédito Popular, la Comisión Nacional Bancaria y de Valores contará con un plazo de ciento ochenta días naturales para emitir la resolución a que se refiere el artículo 9 de la Ley citada, respecto de las solicitudes de autorización para operar como Entidad que le sean remitidas por las Federaciones."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-04:transitory:decimo-quinto",
+    "label": "Transitorio DÉCIMO QUINTO — Decreto DOF 2001-06-04",
+    "text": "La Comisión Nacional Bancaria y de Valores contará con un plazo de 180 días naturales contados a partir de la publicación de este Decreto para emitir todas las reglas y disposiciones de carácter general que deban ser formuladas según se señala en la Ley de Ahorro y Crédito Popular."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2001-06-04:transitory:decimo-sexto",
+    "label": "Transitorio DÉCIMO SEXTO — Decreto DOF 2001-06-04",
+    "text": "Se derogan todas las disposiciones que se opongan a esta Ley."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2003-06-13:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2003-06-13",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.\n\nLas disposiciones de este Decreto no serán aplicables a los créditos contratados con anterioridad a la fecha de entrada en vigor del mismo, ni aun tratándose de novación o reestructuración de créditos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2004-01-28:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2004-01-28",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2006-07-18:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2006-07-18",
+    "text": "Entrarán en vigor el día siguiente de la publicación de este Decreto en el Diario Oficial de la Federación:\n\nI. El artículo Primero del presente Decreto;\n\nII. Las reformas a los artículos 4; 7 y 95 Bis, así como a la identificación del Capítulo Único del Título Quinto y las adiciones al Título Quinto con el Capítulo II, que incluye los artículos 87-B a 87-Ñ, y al artículo 89 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, contenidas en el artículo Segundo de este Decreto;\n\nIII. Las reformas a los artículos 46 y 89, así como la adición al artículo 73 Bis de la Ley de Instituciones de Crédito, contenidas en el artículo Tercero de este Decreto, y\n\nIV. Los artículos Noveno, Décimo y Décimo Primero del Presente Decreto.\n\nA partir de la entrada en vigor a que se refiere este artículo, las operaciones de arrendamiento financiero y factoraje financiero no se considerarán reservadas para las arrendadoras financieras y empresas de factoraje financiero, por lo que cualquier persona podrá celebrarlas en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.\n\nLas sociedades financieras de objeto limitado podrán seguir actuando con el carácter de fiduciarias en los fideicomisos a los que se refiere el artículo 395 de la Ley General de Títulos y Operaciones de Crédito hasta que queden sin efectos las autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, en términos de la fracción IV del artículo 103 de la Ley de Instituciones de Crédito, salvo que adopten la modalidad de sociedad financiera de objeto múltiple, en cuyo caso podrán continuar en el desempeño de su encomienda fiduciaria."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2006-07-18:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2006-07-18",
+    "text": "Las personas que, a partir de la fecha de entrada en vigor de las disposiciones a que se refiere el artículo primero transitorio de este Decreto, realicen operaciones de arrendamiento financiero y factoraje financiero, en su carácter de arrendador o factorante, respectivamente, sin contar con la autorización de la Secretaría de Hacienda y Crédito Público referida en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, se sujetarán a las disposiciones aplicables a dichas operaciones de la Ley General de Títulos y Operaciones de Crédito. A dichas personas no les será aplicable el régimen que la Ley General de Organizaciones y Actividades Auxiliares del Crédito prevé para las arrendadoras financieras y empresas de factoraje.\n\nEn los contratos de arrendamiento financiero y factoraje financiero que celebren las personas a que se refiere este artículo, ellas deberán señalar expresamente que no cuentan con la autorización de la Secretaría de Hacienda y Crédito Público prevista en el artículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y que, excepto tratándose de sociedades financieras de objeto múltiple reguladas, no están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las personas señaladas."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2006-07-18:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2006-07-18",
+    "text": "Entrarán en vigor a los siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, las reformas a los artículos 5, 8, 40, 45 Bis 3, 47, 48, 48-A, 48-B, 78, 96, 97, 98 y 99, así como la derogación a los artículos 3 y 48 y del Capítulo II del Título Segundo, que incluye los artículos 24 a 38, del Capítulo II Bis del Título Segundo, que incluye los artículos 45-A a 45-T, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito contenidas en el artículo Segundo de este Decreto.\n\nA partir de la fecha en que entren en vigor las reformas y derogaciones señaladas en el párrafo anterior, las autorizaciones que haya otorgado la Secretaría de Hacienda y Crédito Público para la constitución y operación de arrendadoras financieras y empresas de factoraje financiero quedarán sin efecto por ministerio de ley, por lo que las sociedades que tengan dicho carácter dejarán de ser organizaciones auxiliares del crédito.\n\nLas sociedades señaladas en el párrafo anterior no estarán obligadas a disolverse y liquidarse por el hecho de que, conforme a lo dispuesto por el párrafo anterior, queden sin efecto las autorizaciones respectivas, aunque, para que puedan continuar operando, deberán:\n\nI. Reformar sus estatutos sociales a efecto de eliminar cualquier referencia expresa o de la cual se pueda inferir que son organizaciones auxiliares del crédito y que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público para constituirse y funcionar con tal carácter.\n\nII. Presentar a la Secretaría de Hacienda y Crédito Público, a más tardar en la fecha en que entren en vigor las reformas y derogaciones señalada en el primer párrafo de este artículo, el instrumento público en el que conste la reforma estatutaria referida en la fracción anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.\n\nLas sociedades que no cumplan con lo dispuesto por la fracción II anterior entrarán, por ministerio de ley, en estado de disolución y liquidación, sin necesidad de acuerdo de asamblea general de accionistas. La Secretaría de Hacienda y Crédito Público, con independencia de que se cumpla o no con los requisitos señalados en las fracciones anteriores, publicará en el Diario Oficial de la Federación que las autorizaciones a que se refiere este artículo han quedado sin efecto.\n\nLa entrada en vigor de las reformas y derogación a que este artículo transitorio se refiere no afectará la existencia y validez de los contratos que, con anterioridad a la misma, hayan suscrito aquellas sociedades que tenían el carácter de arrendadoras financieras y empresas de factoraje financiero, ni será causa de ratificación o convalidación de esos contratos. Sin perjuicio de lo anterior, a partir de la entrada en vigor señalada en este artículo, los contratos de arrendamiento y factoraje financiero a que se refiere este párrafo se regirán por las disposiciones correlativas de la Ley General de Títulos y Operaciones de Crédito.\n\nEn los contratos de arrendamiento financiero y factoraje financiero que las sociedades celebren con posterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efecto las respectivas autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, aquellas deberán señalar expresamente que no cuentan con autorización de la Secretaría de Hacienda y Crédito Público y que, excepto tratándose de sociedades financieras de objeto múltiple reguladas, no están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2006-07-18:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 2006-07-18",
+    "text": "La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes de autorización que, para la constitución y operación de arrendadoras financieras y empresas de factoraje financiero, en términos de lo dispuesto por la Ley General de Organizaciones y Actividades Auxiliares del Crédito, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2006-07-18:transitory:quinto",
+    "label": "Transitorio QUINTO — Decreto DOF 2006-07-18",
+    "text": "Entrarán en vigor a los siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, las reformas, adiciones y derogaciones a los artículos 45-A, 45-B, 45-D, 45-I, 45-K, 45- N, 49, 85 BIS, 103, 108, 115 y 116 de la Ley de Instituciones de Crédito contenidas en el artículo Tercero de este Decreto.\n\nA partir de la fecha en que entren en vigor las reformas y derogaciones señaladas en el párrafo anterior, las autorizaciones que hayan sido otorgadas por la Secretaría de Hacienda y Crédito Público, en términos del artículo 103, fracción IV, de la Ley de Instituciones de Crédito, a las sociedades financieras de objeto limitado, quedarán sin efecto por ministerio de ley, sin que por ello estén obligadas a disolverse y liquidarse, aunque, para que puedan continuar operando, deberán:\n\nI. Reformar sus estatutos sociales, a afecto de eliminar cualquier referencia expresa o de la cual se pueda inferir que son sociedades financieras de objeto limitado y que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público para ello.\n\nII. Presentar a la Secretaría de Hacienda y Crédito Público, a más tardar en la fecha en que entren en vigor las reformas y derogaciones señaladas en el primer párrafo de este artículo, el instrumento público en el que conste la reforma estatutaria referida en la fracción anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.\n\nLas sociedades que no cumplan con lo dispuesto por la fracción II anterior entrarán, por ministerio de ley, en estado de disolución y liquidación, sin necesidad de acuerdo de asamblea general de accionistas. La Secretaría de Hacienda y Crédito Público, con independencia de que se cumpla o no con los requisitos señalados en las fracciones anteriores, publicará en el Diario Oficial de la Federación que las autorizaciones a que se refiere este artículo han quedado sin efecto.\n\nLa entrada en vigor de las reformas, adiciones y derogaciones a los artículos de la Ley de Instituciones de Crédito señalados en este artículo transitorio no afectará la existencia y validez de los contratos que, con anterioridad a la misma, hayan suscrito las sociedades que tenían el carácter de sociedades financieras de objeto limitado, ni será causa de ratificación o convalidación de esos contratos.\n\nEn los contratos de crédito que las sociedades celebren con posterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efecto las respectivas autorizaciones que les haya otorgado la Secretaría de Hacienda y Crédito Público, aquellas deberán señalar expresamente que no cuentan con autorización de la Secretaría de Hacienda y Crédito Público. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2006-07-18:transitory:sexto",
+    "label": "Transitorio SEXTO — Decreto DOF 2006-07-18",
+    "text": "La Secretaría de Hacienda y Crédito Público solo dará trámite a las solicitudes que, para obtener la autorización señalada en el artículo 103, fracción IV, de la Ley de Instituciones Crédito y en términos de lo dispuesto por la misma ley, hayan sido presentadas antes de la fecha en que se publique en el Diario Oficial de la Federación el presente Decreto. Las autorizaciones que, en su caso se otorguen solo estarán vigentes hasta la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación y quedarán sujetas a lo dispuesto por el artículo que antecede."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2006-07-18:transitory:septimo",
+    "label": "Transitorio SÉPTIMO — Decreto DOF 2006-07-18",
+    "text": "Las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado que, antes de la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, pretendan celebrar operaciones de arrendamiento financiero, factoraje financiero y otorgamiento de crédito sin sujetarse al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y de la Ley de Instituciones de Crédito que, según sea el caso, les sean aplicables, deberán:\n\nI. Acordar en asamblea de accionistas que las operaciones de arrendamiento financiero, factoraje financiero y crédito que realicen dichas sociedades con el carácter de arrendador, factorante o acreditante se sujetarán al régimen de la Ley General de Títulos y Operaciones de Crédito y, en su caso, al de sociedades financieras de objeto múltiple previsto en la General de Organizaciones y Actividades Auxiliares del Crédito;\n\nII. Reformar sus estatutos sociales, a efecto de eliminar, según corresponda, cualquier referencia expresa o de la cual se pueda inferir que son organizaciones auxiliares del crédito o sociedades financieras de objeto limitado; que se encuentran autorizadas por la Secretaría de Hacienda y Crédito Público; que, excepto que se ubiquen en el supuesto del penúltimo párrafo del artículo 87-B de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores y que su organización, funcionamiento y operación se rigen por dicha Ley o por la Ley de Instituciones de Crédito, y\n\nIII. Presentar a la Secretaría de Hacienda y Crédito Público el instrumento público en el que conste la celebración de la asamblea de accionistas señalada en la fracción I y la reforma estatutaria referida en la fracción II anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.\n\nLa autorización que haya otorgado la Secretaría de Hacienda y Crédito Público, según corresponda, para la constitución, operación, organización y funcionamiento de la arrendadora financiera, empresa de factoraje financiero o sociedad financiera de objeto limitado de que se trate, quedará sin efecto a partir del día siguiente a la fecha en que se inscriba en el Registro Público de Comercio la reforma estatutaria señalada en la fracción II de este artículo, sin que, por ello, la sociedad deba entrar en estado de disolución y liquidación. La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación que la autorización ha quedado sin efecto.\n\nLos contratos que hayan suscrito las arrendadoras financieras, empresas de factoraje financiero o sociedades financieras de objeto limitado con anterioridad a la fecha en que, conforme a lo dispuesto por este artículo, queden sin efectos las autorizaciones referidas, no quedarán afectados en su existencia o validez ni deberán ser ratificados o convalidados por esa causa.\n\nEn los contratos de arrendamiento financiero, factoraje financiero y crédito que las sociedades a que se refiere este artículo celebren con posterioridad a la fecha en que la autorización de la Secretaría de Hacienda y Crédito Público haya quedado sin efecto, aquellas deberán señalar expresamente que no cuentan autorización de la Secretaría de Hacienda y Crédito Público y que, excepto tratándose de sociedades financieras de objeto múltiple reguladas, no están sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores. Igual mención deberá señalarse en cualquier tipo de información que, con fines de promoción de sus servicios, utilicen las sociedades señaladas en el primer párrafo de este artículo."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2006-07-18:transitory:octavo",
+    "label": "Transitorio OCTAVO — Decreto DOF 2006-07-18",
+    "text": "En tanto las autorizaciones otorgadas por la Secretaría de Hacienda y Crédito Público no queden sin efecto o sean revocadas, las arrendadoras financieras, empresas de factoraje y sociedades financieras de objeto limitado seguirán, según corresponda, sujetas al régimen de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de la Ley de Instituciones de Crédito y demás disposiciones que conforme a las mismas les resulten aplicables, así como a las demás que emitan la citada Secretaría para preservar la liquidez, solvencia y estabilidad de las entidades señaladas."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2006-07-18:transitory:noveno",
+    "label": "Transitorio NOVENO — Decreto DOF 2006-07-18",
+    "text": "Los artículos Cuarto y Quinto de este Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2006-07-18:transitory:decimo",
+    "label": "Transitorio DÉCIMO — Decreto DOF 2006-07-18",
+    "text": "El artículo Sexto de este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.\n\nLas arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado cuyas acciones con derecho a voto que representen, cuando menos, el cincuenta y uno por ciento de su capital social sean propiedad de sociedades controladoras de grupos financieros con anterioridad a la fecha en que se cumplan siete años de la publicación del presente Decreto en el Diario Oficial de la Federación, serán consideradas como integrantes de dichos grupos financieros en tanto continúe vigente la autorización que la Secretaría de Hacienda y Crédito Público les haya otorgado a dichas entidades para constituirse, operar, organizarse y funcionar, según sea el caso, con tal carácter. En este supuesto, seguirá siendo aplicable en lo conducente la Ley para Regular las Agrupaciones Financieras.\n\nEn caso que, conforme a lo dispuesto por el presente Decreto, las arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado referidas en el párrafo anterior adopten la modalidad de sociedades financieras de objeto múltiple y las acciones con derecho a voto representativas de, cuando menos, el cincuenta y uno por ciento de su capital social permanezca bajo la propiedad de la sociedad controladora de que se trate, dichas sociedades serán consideradas como integrantes del grupo financiero respectivo en términos del artículo 7 de la Ley para Regular las Agrupaciones Financieras, reformado por este Decreto, siempre y cuando se inscriban en el Registro Público de Comercio las reformas correspondientes a los estatutos sociales de la sociedad controladora, se modifique el convenio de responsabilidades a que se refiere el artículo 28 de la misma Ley y la Secretaría de Hacienda y Crédito Público apruebe la modificación a la autorización otorgada al grupo financiero de que se trate para constituirse y funcionar con tal carácter. Las responsabilidades de la controladora subsistirán en tanto no queden totalmente cumplidas todas las obligaciones contraídas por las sociedades que dejan de tener el carácter de arrendadoras financieras, empresas de factoraje financiero y sociedades financieras de objeto limitado, antes de la inscripción señalada."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2006-07-18:transitory:decimo-primero",
+    "label": "Transitorio DÉCIMO PRIMERO — Decreto DOF 2006-07-18",
+    "text": "Los artículos Séptimo y Octavo del presente Decreto entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2006-07-18:transitory:decimo-segundo",
+    "label": "Transitorio DÉCIMO SEGUNDO — Decreto DOF 2006-07-18",
+    "text": "Las instituciones de crédito y casas de bolsa que sean propietarias de acciones representativas del capital social de arrendadoras financieras y empresas de factoraje financiero, cuya autorización haya quedado sin efecto por virtud de este Decreto, podrán conservar dichas acciones siempre que esas sociedades adopten el carácter de sociedades financieras de objeto múltiple.\n\nLas instituciones de crédito que sean propietarias de acciones representativas del capital social de sociedades financieras de objeto limitado, cuya autorización haya quedado sin efecto por virtud de este Decreto, podrán conservar dichas acciones siempre que esas sociedades adopten el carácter de sociedades financieras de objeto múltiple."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2006-07-18:transitory:decimo-tercero",
+    "label": "Transitorio DÉCIMO TERCERO — Decreto DOF 2006-07-18",
+    "text": "Los procesos de conciliación y arbitraje seguidos conforme Ley de Protección y Defensa al Usuario de Servicios Financieros, que a la fecha de publicación del Presente Decreto se encuentren pendientes de resolver, seguirán rigiéndose por dicha Ley, hasta su conclusión."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2006-07-18:transitory:decimo-cuarto",
+    "label": "Transitorio DÉCIMO CUARTO — Decreto DOF 2006-07-18",
+    "text": "Por lo que se refiere a las sociedades de ahorro y préstamo, se estará al régimen transitorio que para las mismas se prevé en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de enero de 2003, así como en el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicadas en el mismo Diario el 27 de mayo de 2005."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2006-07-18:transitory:decimo-quinto",
+    "label": "Transitorio DÉCIMO QUINTO — Decreto DOF 2006-07-18",
+    "text": "Las sociedades financieras de objeto múltiple se reputan intermediarios financieros rurales para los efectos de la Ley Orgánica de la Financiera Rural."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2006-07-18:transitory:decimo-sexto",
+    "label": "Transitorio DECIMO SEXTO — Decreto DOF 2006-07-18",
+    "text": "Posterior a la fecha en que entre en vigor el presente Decreto, la Secretaría de Hacienda y Crédito Público podrá autorizar objetos sociales amplios que incluyan todas la operaciones de crédito del artículo 46 de la Ley de Instituciones de Crédito, de arrendamiento y de factoraje financiero a las Sociedades Financieras de Objeto Limitado que así lo soliciten y mantener la regulación de la propia Secretaría y de la Comisión Nacional Bancaria y de Valores, así como la denominación correspondiente.\n\nPara estos efectos, la Secretaría de Hacienda y Crédito Público podrá otorgar la autorización para la transformación a Sociedad Financiera de Objeto Limitado a las empresas de arrendamiento y factoraje financiero que los soliciten, las cuales continuarán reguladas.\n\nLa regulación y la autorización otorgada de acuerdo a los párrafos anteriores quedará sin efecto por ministerio de Ley a los tres años siguientes a la fecha de entrada en vigor del presente Decreto y las sociedades que hayan obtenido dicha autorización a partir de esta fecha, quedarán sujetas a lo dispuesto a los artículos tercero y quinto transitorio de este Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2007-06-15:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2007-06-15",
+    "text": "El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2007-06-15:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2007-06-15",
+    "text": "Las infracciones a las disposiciones de carácter general expedidas por el Banco de México, en materia del costo anual total (CAT), tarjetas de crédito, publicidad, estados de cuenta y contratos, cometidas por las instituciones de crédito y las sociedades financieras de objeto limitado, antes de la entrada en vigor de esta Ley, se sancionarán por el propio Banco conforme a las leyes vigentes al momento de realizarse las citadas infracciones."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2007-06-15:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2007-06-15",
+    "text": "Las Entidades dispondrán de un plazo de hasta ciento ochenta días naturales a partir de la entrada en vigor del presente decreto, a efecto de adecuarse a las disposiciones del mismo."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2007-06-15:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 2007-06-15",
+    "text": "Para los efectos de lo dispuesto en el artículo 48 Bis 2 de la Ley de Instituciones de Crédito, el Banco de México dispondrá de treinta días a partir de la entrada en vigor del presente decreto, para emitir las disposiciones de carácter general."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2007-06-15:transitory:quinto",
+    "label": "Transitorio QUINTO — Decreto DOF 2007-06-15",
+    "text": "Al entrar en vigor el presente Decreto se abrogará la Ley para la Transparencia y Ordenamiento de los Servicios Financieros publicada en el Diario Oficial de la Federación el 26 de enero de 2004."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2007-06-15:transitory:sexto",
+    "label": "Transitorio SEXTO — Decreto DOF 2007-06-15",
+    "text": "Al entrar en vigor el presente Decreto se derogan de la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado los preceptos legales siguientes:\n\nI. Los artículos 3, fracción I, 10 y 16 primer párrafo.\n\nII. El artículo 4. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 12 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de publicidad prevé esta última Ley.\n\nIII. El artículo 8. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entidad de que se trate, las Reglas de carácter general emitidas por la Secretaría de Hacienda y Crédito Público al amparo de dicho artículo, hasta en tanto las autoridades que resulten competentes, conforme a lo señalado en el artículo 11 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de contratos de adhesión prevé esta última Ley, en el entendido de que dichas disposiciones contemplarán el contenido mínimo señalado en las fracciones I a VI del referido artículo 8 para los Créditos Garantizados a la Vivienda. IV. El artículo 12. Sin perjuicio de lo anterior cuando las autoridades que resulten competentes, conforme a lo señalado en el artículo 13 de la presente Ley para la Transparencia y Ordenamiento de los Servicios Financieros, expidan en el ámbito de su respectiva competencia, las disposiciones de carácter general que en materia de estados de cuenta prevé esta última Ley, deberán incluir el cálculo del Costo Anual Total que corresponda al resto de la vigencia del Crédito Garantizado a la Vivienda."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2007-06-15:transitory:septimo",
+    "label": "Transitorio SÉPTIMO — Decreto DOF 2007-06-15",
+    "text": "Al entrar en vigor el presente Decreto se derogan de la Ley General de Organizaciones y Actividades Auxiliares del Crédito los artículos 87- I, fracción II; 87- L, segundo párrafo, y 87- M, fracción IV."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2007-06-15:transitory:octavo",
+    "label": "Transitorio OCTAVO — Decreto DOF 2007-06-15",
+    "text": "Las disposiciones de carácter general que el Banco de México haya emitido en materia de publicidad, estados de cuenta o contratos de adhesión dirigidas a las instituciones de crédito o sociedades financieras de objeto limitado continuarán vigentes hasta en tanto entren en vigor las disposiciones de carácter general que, conforme a lo previsto en este ordenamiento, expida la Comisión Nacional Bancaria y de Valores respecto de los temas mencionados."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2007-06-28:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2007-06-28",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2007-06-28:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2007-06-28",
+    "text": "A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones del Código Penal Federal vigentes en el momento de su comisión."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2008-08-20:transitory:primero",
+    "label": "Transitorio Primero — Decreto DOF 2008-08-20",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2008-08-20:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto DOF 2008-08-20",
+    "text": "Se deroga el Capítulo III del Título Segundo de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, publicada en el Diario Oficial de la Federación el 14 de enero de 1985, así como toda referencia en dicha Ley a uniones de crédito.\n\nLas uniones de crédito autorizadas para operar como tales con arreglo a las disposiciones que se derogan, se reputarán autorizadas para operar en los términos del presente Decreto.\n\nLas uniones de crédito autorizadas para operar como tales antes de la entrada en vigor del presente Decreto, únicamente podrán admitir nuevos socios que cumplan con la característica establecida en el primer párrafo del artículo 21 del artículo Primero del presente Decreto. Asimismo, no podrán renovar las operaciones que hayan pactado con los socios que no acrediten la referida característica."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2008-08-20:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto DOF 2008-08-20",
+    "text": "En tanto la Comisión Nacional Bancaria y de Valores, emite las disposiciones de carácter general a que se refiere esta Ley, seguirán aplicándose las expedidas con anterioridad a la vigencia de la misma, en las materias correspondientes, en lo que no se opongan al presente Decreto. Al expedirse las disposiciones a que se refiere este artículo, se señalarán expresamente aquéllas a las que sustituyan o queden derogadas.\n\nSin perjuicio de lo anterior, a la fecha de entrada en vigor del presente Decreto se deroga el Acuerdo por el que se determinan los capitales mínimos con que deberán contar los almacenes generales de depósito, arrendadoras financieras, uniones de crédito, empresas de factoraje financiero y casas de cambio para el año 2008, publicado en el Diario Oficial de la Federación el 31 de marzo de 2008, en todo lo relativo a uniones de crédito."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2008-08-20:transitory:cuarto",
+    "label": "Transitorio Cuarto — Decreto DOF 2008-08-20",
+    "text": "Las uniones de crédito contarán con un plazo de dos años contados a partir de la entrada en vigor del presente Decreto para ajustarse a las disposiciones a que se refieren los artículos 61 y 62 de la Ley de Uniones de Crédito."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2008-08-20:transitory:quinto",
+    "label": "Transitorio Quinto — Decreto DOF 2008-08-20",
+    "text": "Las autorizaciones otorgadas a las uniones de crédito y los demás actos administrativos realizados con fundamento en la Ley General de Organizaciones y Actividades Auxiliares del Crédito, que conforme a lo dispuesto en el presente Decreto corresponda llevar a cabo a la Comisión Nacional Bancaria y de Valores, continuarán en vigor, hasta que, en su caso, sean revocadas o sus términos modificados expresamente por dicha Comisión o bien, dejen de producir sus efectos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2008-08-20:transitory:sexto",
+    "label": "Transitorio Sexto — Decreto DOF 2008-08-20",
+    "text": "Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.\n\nEn los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las disposiciones aplicables a los procedimientos administrativos previstos en el presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2008-08-20:transitory:septimo",
+    "label": "Transitorio Séptimo — Decreto DOF 2008-08-20",
+    "text": "Las uniones de crédito contarán con un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto para presentar a la Comisión Nacional Bancaria y de Valores, para su aprobación, sus estatutos sociales a fin de que ajusten su operación a lo previsto en el referido Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2008-08-20:transitory:octavo",
+    "label": "Transitorio Octavo — Decreto DOF 2008-08-20",
+    "text": "A la entrada en vigor del presente Decreto todas las uniones de crédito que hayan sido autorizadas para operar como tales en términos de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, serán clasificadas con un nivel de operaciones I.\n\nLas uniones de crédito podrán solicitar a la Comisión Nacional Bancaria y de Valores, que les autorice el cambio de nivel de operaciones previo cumplimiento de los requisitos a que se refieren los artículos 39 y 43 del artículo Primero de este Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2008-08-20:transitory:noveno",
+    "label": "Transitorio Noveno — Decreto DOF 2008-08-20",
+    "text": "Las uniones de crédito que a la entrada en vigor del presente Decreto no cumplan con el capital mínimo previsto en el artículo 18 del artículo Primero del presente Decreto para el nivel de operaciones I, contarán con un plazo de cinco años para integrar el capital mínimo referido.\n\nTranscurrido el plazo citado, las autorizaciones que haya otorgado la Comisión Nacional Bancaria y de Valores para la constitución y operación de uniones de crédito que no cuenten con un capital mínimo equivalente en moneda nacional al valor de 2,000,000 de unidades de inversión, quedarán sin efecto por ministerio de ley, por lo que las sociedades que tengan dicho carácter dejarán de ser uniones de crédito.\n\nLas sociedades señaladas en el párrafo anterior no estarán obligadas a disolverse y liquidarse por el hecho de que, conforme a lo dispuesto por el párrafo anterior, queden sin efecto las autorizaciones respectivas, aunque, para continuar operando, deberán:\n\nI. Reformar sus estatutos sociales a efecto de eliminar cualquier referencia expresa o de la cual se pueda inferir que son uniones de crédito y que se encuentran autorizadas por la Comisión Nacional Bancaria y de Valores para constituirse y funcionar con tal carácter.\n\nII. Presentar a la Comisión Nacional Bancaria y de Valores, a más tardar ciento ochenta días naturales el instrumento público en el que conste la reforma estatutaria referida en la fracción anterior, con los datos de la respectiva inscripción en el Registro Público de Comercio.\n\nLas sociedades que no cumplan con lo dispuesto por la fracción II anterior entrarán, por ministerio de ley, en estado de disolución y liquidación, sin necesidad de acuerdo de asamblea general de accionistas.\n\nLa Comisión Nacional Bancaria y de Valores, publicará en el Diario Oficial de la Federación aquéllas autorizaciones que conforme a este artículo queden sin efecto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2008-08-20:transitory:decimo",
+    "label": "Transitorio Décimo — Decreto DOF 2008-08-20",
+    "text": "Se deroga la fracción IV del artículo 6 de la Ley de Inversión Extranjera."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2011-08-03:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2011-08-03",
+    "text": "El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2011-08-03:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2011-08-03",
+    "text": "Las facultades que a través del presente decreto se otorgan a la Comisión Nacional Bancaria y de Valores, en materia de centros cambiarios y transmisores de dinero, quedarán conferidas a la propia Comisión, una vez transcurridos doscientos cuarenta días naturales contados a partir de la fecha de entrada en vigor este Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2011-08-03:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2011-08-03",
+    "text": "Durante el plazo mencionado en el Artículo Segundo Transitorio anterior, el Servicio de Administración Tributaria continuará ejerciendo las funciones de supervisión, inspección, vigilancia y en su caso sanción, con respecto a las obligaciones a cargo de los centros cambiarios y transmisores de dinero establecidas en las disposiciones de carácter general a que hace referencia el artículo 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito. Con objeto de ejercer las citadas facultades y realizar los procedimientos correspondientes, el Servicio de Administración Tributaria podrá llevar a cabo visitas de inspección a los domicilios, locales o establecimientos de los citados centros cambiarios y transmisores de dinero.\n\nPara los mencionados procedimientos de supervisión, visitas de inspección, vigilancia y sanción, el Servicio de Administración Tributaria continuará aplicando las disposiciones y facultades legales en materia de comprobación y revisión, así como los reglamentos y demás normatividad de carácter administrativo que le sea aplicable. Dicho órgano desconcentrado podrá designar a los inspectores, auxiliares y personal de apoyo que se considere adecuado en cada caso y solicitar la información y documentación de carácter financiero, económico, contable, legal, operativo y administrativo que proceda, independientemente del medio en el que la misma se resguarde o conserve."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2011-08-03:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 2011-08-03",
+    "text": "Con respecto a la facultad prevista en el artículo 64, párrafo cuarto reformado por este decreto, si durante el término mencionado en el Artículo Segundo Transitorio del presente Decreto, el Servicio de Administración Tributaria tuviere indicios de la realización de operaciones de las reservadas a los centros cambiarios o a los transmisores de dinero por personas morales que no se encuentren registradas ante ese Órgano desconcentrado, o por personas físicas, incluyendo aquellas personas físicas cuyo régimen fiscal sea de ingresos por actividades empresariales, el Servicio de Administración Tributaria podrá solicitar a la Comisión Nacional Bancaria y de Valores que ordene a las instituciones de crédito, casas de bolsa y casas de cambio con las que operen las mencionadas personas, la suspensión o cancelación, en su caso, de los contratos que tengan celebrados con éstas, y se abstengan de realizar nuevas operaciones."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2011-08-03:transitory:quinto",
+    "label": "Transitorio QUINTO — Decreto DOF 2011-08-03",
+    "text": "Asimismo, dentro del plazo mencionado en el Artículo Segundo Transitorio anterior, las sociedades que pretendan registrarse como centros cambiarios o transmisores de dinero en términos de lo dispuesto por el artículo 81-B, que se adiciona por virtud de este Decreto, deberán efectuar el registro correspondiente ante el Servicio de Administración Tributaria, en lugar de la Comisión Nacional Bancaria y de Valores.\n\nLos demás actos que los particulares deban realizar frente a la Comisión Nacional Bancaria y de Valores, en términos de los artículos 57, 81-B y 81-C, incluidos en el presente Decreto, deberán realizarse frente al Servicio de Administración Tributaria, en lugar de dicha Comisión, y producirán los mismos efectos que los previstos en dichos artículos o derivados de estos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2011-08-03:transitory:sexto",
+    "label": "Transitorio SEXTO — Decreto DOF 2011-08-03",
+    "text": "Las personas que hubiesen presentado el Aviso previsto en la Resolución por la que se expiden las reglas para el llenado del formato oficial para presentar el aviso que señala la Resolución por la que se expiden las Disposiciones de carácter general a que se refiere el artículo 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito aplicables a las personas que realicen las operaciones a que se refiere el artículo 81-A del mismo ordenamiento y la Resolución por la que se expiden las Disposiciones de carácter general a que se refiere el artículo 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito aplicables a los denominados transmisores de dinero por dicho ordenamiento, publicada en el Diario Oficial de la Federación del 10 de febrero de 2006, contarán con un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto, para que, una vez constituida la sociedad anónima de que se trate en términos del presente Decreto, presenten nuevamente el aviso correspondiente para, en caso procedente, obtener el registro a que se refiere el artículo 81-B de este Decreto, el cual será otorgado por el Servicio de Administración Tributaria.\n\nAsimismo, aquellas personas morales y físicas que con anterioridad a la entrada en vigor del presente Decreto hayan presentado el referido Aviso y obtenido cada una más de un registro con objeto de realizar las actividades a que se refiere el párrafo anterior, contarán con el plazo de noventa días señalado en el párrafo anterior para que, una vez constituida la sociedad mercantil de que se trate o haber modificado los estatutos y objeto social de la sociedad ya constituida para cumplir con lo dispuesto por el presente Decreto, presenten el aviso correspondiente para obtener, en caso procedente, el registro a que se refiere el artículo 81-B del mismo, que será otorgado por el Servicio de Administración Tributaria.\n\nHasta en tanto se cumpla el citado plazo de noventa días o se efectúe el registro conforme a lo previsto en los párrafos anteriores del presente artículo, lo que ocurra primero, las personas que hubiesen presentado el aviso señalado en los mismos, y que hayan venido operando como transmisores de dinero o realizando las operaciones a que se refiere el artículo 81-A de la Ley General de Organizaciones y Actividades Auxiliares del Crédito antes de la entrada en vigor del presente Decreto, podrán continuar realizando, durante dicho periodo, las actividades a que se refieren los artículos 81-A y 95 Bis de la citada Ley vigentes hasta el día anterior a la entrada en vigor del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2011-08-03:transitory:septimo",
+    "label": "Transitorio SÉPTIMO — Decreto DOF 2011-08-03",
+    "text": "En un plazo de doscientos días naturales contados a partir de la entrada en vigor del presente Decreto, el Servicio de Administración Tributaria deberá iniciar la remisión a la Comisión Nacional Bancaria y de Valores de los expedientes, así como de los padrones y bases de datos, que contengan la información relacionada con los centros cambiarios y transmisores de dinero que se encuentren registrados.\n\nPara el efecto señalado en el párrafo anterior, la Comisión Nacional Bancaria y de Valores y el Servicio de Administración Tributaria determinarán conjuntamente el medio y los sistemas más apropiados para la transmisión segura y oportuna de la información y documentación correspondiente.\n\nUna vez transcurrido el periodo a que se refiere el Artículo Segundo Transitorio de este Decreto, la Comisión Nacional Bancaria y de Valores deberá contar con la totalidad de los expedientes, padrones y bases de datos respectivos a fin de estar en posibilidad de iniciar el ejercicio de las facultades que por medio del presente Decreto se le otorgan."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2011-08-03:transitory:octavo",
+    "label": "Transitorio OCTAVO — Decreto DOF 2011-08-03",
+    "text": "Una vez cumplido el plazo a que se refiere el Artículo Segundo Transitorio anterior, las sociedades que se encuentren registradas como centros cambiarios o transmisores de dinero ante el Servicio de Administración Tributaria quedarán registradas, por ministerio de Ley, ante la Comisión Nacional Bancaria y de Valores."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2011-08-03:transitory:noveno",
+    "label": "Transitorio NOVENO — Decreto DOF 2011-08-03",
+    "text": "En tanto la Secretaría de Hacienda y Crédito Público emita las disposiciones de carácter general a que se refieren las reformas contenidas en el presente Decreto, seguirán aplicándose las expedidas con anterioridad a la vigencia de las mismas, en las materias correspondientes, en lo que no se oponga al presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2011-08-03:transitory:decimo",
+    "label": "Transitorio DÉCIMO — Decreto DOF 2011-08-03",
+    "text": "Las infracciones o delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a las disposiciones vigentes al momento de cometerse las citadas infracciones o delitos, por las autoridades competentes para imponer las sanciones correspondientes en ese momento.\n\nEn los procedimientos administrativos que se encuentren en trámite, excepto por aquellos a que se refiere el artículo 81-D que se adiciona por virtud de este Decreto, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la implementación de las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2011-08-03:transitory:decimo-primero",
+    "label": "Transitorio DÉCIMO PRIMERO — Decreto DOF 2011-08-03",
+    "text": "La sanción penal a que se refiere el artículo 101 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito será aplicable con excepción de todas aquellas personas que a la fecha de entrada en vigor del presente Decreto, suspendan la realización de las operaciones reservadas a centros cambiarios y transmisores de dinero establecidas en los artículos 81-A y 81-A Bis, respectivamente, y que en un plazo que no deberá exceder de noventa días naturales contados a partir de la fecha antes mencionada, se registren ante el Servicio de Administración Tributaria en términos de lo señalado en este Decreto.\n\nLo anterior, con independencia de las sanciones administrativas a que las citadas personas se hubieren hecho acreedoras por el incumplimiento de lo establecido en la Ley que por medio de este Decreto se reforma."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2014-01-10:transitory:trigesimo",
+    "label": "Transitorio TRIGÉSIMO — Decreto DOF 2014-01-10",
+    "text": "En relación con las modificaciones a que se refieren los Artículos Vigésimo Octavo y Vigésimo Noveno de este Decreto, se estará a lo siguiente:\n\nI. Quedarán sin efectos el Acuerdo por el que se determinan los capitales mínimos con que deberán contar los almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero y casas de cambio para el año de 2012, publicado en el Diario Oficial de la Federación el 30 de marzo de 2012, y la Resolución por la que se determinan los capitales mínimos con que deberán contar los almacenes generales de depósito, arrendadoras financieras, empresas de factoraje financiero y casas de cambio para el año de 2013, publicada en el Diario Oficial de la Federación el 29 de marzo de 2013, únicamente en lo que se oponga al presente Decreto.\n\nII. Para efectos de las “Disposiciones de carácter general mediante las que se determina el capital mínimo adicional, al capital mínimo suscrito y pagado sin derecho a retiro con que deberán contar los almacenes generales de depósito, para poder actuar como fiduciarias en los fideicomisos de garantía a que se refiere la Sección Segunda del Capítulo V del Título Segundo de la Ley General de Títulos y Operaciones de Crédito”, publicadas en el Diario Oficial de la Federación del 26 de enero de 2009, el capital que se establece en el artículo 12 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito que por este Decreto se adiciona, servirá como base para determinar el capital adicional con que deberán contar los almacenes generales de depósito que pretendan actuar como fiduciarias en dichos fideicomisos de garantía, a más tardar el último día hábil del año 2013. En consecuencia, cualquier referencia prevista en dichas disposiciones de carácter general respecto a capitales mínimos determinados por la Secretaría de Hacienda y Crédito Público para organizaciones auxiliares del crédito y casas de cambio con fundamento en la fracción I del artículo 8 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito que por este Decreto se reforma, deberá entenderse referida a los capitales mínimos previstos por el artículo 12 Bis del mismo ordenamiento que por este Decreto se adiciona.\n\nIII. Las Reglas para el funcionamiento y operación del Registro Único de Certificados, Almacenes y Mercancías a que hacen referencia los artículos 22 Bis 6 al 22 Bis 8, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, deberán ser emitidas y publicadas para su inmediata entrada en vigor, dentro de los trescientos sesenta días naturales posteriores a la entrada en vigor del presente. Asimismo, durante los trescientos sesenta días naturales posteriores a la fecha de entrada en vigor de este Decreto, no serán exigibles las obligaciones previstas por este Decreto y por las disposiciones de la referida Ley que por el presente se adicionan, en relación con el referido Registro. Una vez emitidas las Reglas, el registro que al efecto lleven los almacenes en términos del artículo 11 Bis, podrá ser sustituido por el RUCAM.\n\nIV. Los artículos 22 Bis 2, 22 Bis 3, 22 Bis 4, 22 Bis 7, 22 Bis 10 y 22 Bis 11 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, adicionados mediante el presente Decreto, entrarán en vigor una vez transcurridos trescientos sesenta días naturales posteriores a la fecha de publicación de este Decreto en el Diario Oficial de la Federación.\n\nV. El Sistema Integral de Información de Almacenamiento de Productos Agropecuarios a que se refiere el artículo 22 Bis 2 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, entrará en vigor a los trescientos sesenta días naturales contados a partir de la fecha de publicación de este Decreto, por lo que la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación contará con ese mismo plazo para emitir las disposiciones de carácter general y tener en operación el sistema digital informático a que se refiere el artículo 22 Bis 2, así como otorgar a los Almacenes Generales de Depósito la clave individualizada de acceso al sistema a que se refiere el artículo 22 Bis 3 y establecer los mecanismos remotos o locales de comunicación electrónica o impresa a que se refiere el artículo 22 Bis 4.\n\nVI. En tanto se emiten o modifiquen las reglas o disposiciones de carácter general a que se refieren las reformas y adiciones contenidas en el presente Decreto, seguirán aplicándose en las materias correspondientes las expedidas con anterioridad a su entrada en vigor, en lo que no se opongan a este Decreto.\n\nVII. Al expedirse las disposiciones a que se refiere este artículo, deberán señalarse expresamente aquéllas a las que sustituyan o deroguen.\n\nVIII. La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, contará con el plazo de doscientos setenta días naturales contados a partir del día siguiente a aquél en que entre en vigor el presente Decreto, para emitir las disposiciones de carácter general a que se refiere este Decreto en materia del Registro de sociedades financieras de objeto múltiple.\n\nIX. Las sociedades financieras de objeto múltiple que a la entrada en vigor de este Decreto se encuentren registradas ante la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros en términos de la Ley de Protección y Defensa al Usuario de Servicios Financieros y disposiciones que de ella emanan, gozarán del plazo de doscientos setenta días naturales contados a partir del día siguiente a aquél en que entren en vigor las disposiciones de carácter general en materia del Registro de sociedades financieras de objeto múltiple a que se refiere este Decreto, para solicitar la renovación de su registro ante dicha Comisión. Aquéllas sociedades financieras de objeto múltiple que no estuvieren registradas, gozarán del mismo plazo para solicitar su registro en términos de este Decreto. Transcurrido dicho plazo sin que se cumpla con ello, las sociedades de que se trate perderán su carácter de sociedad financiera de objeto múltiple por ministerio de ley.\n\nX. Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas infracciones o delitos.\n\nXI. En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por las disposiciones aplicables a los procedimientos administrativos que se estipulan mediante el presente Decreto.\n\nXII. Las erogaciones que, en su caso, se requieran por parte de la Administración Pública Federal para dar cumplimiento a lo dispuesto en el presente Decreto, se sujetarán al presupuesto autorizado para dichos fines en el ejercicio fiscal correspondiente.\n\nXIII. Los centros cambiarios y los transmisores de dinero que a la entrada en vigor de este Decreto se encuentren registrados ante la Comisión Nacional Bancaria y de Valores, gozarán del plazo de doscientos cuarenta días naturales contados a partir del día siguiente a aquél en que entre en vigor el presente Decreto, para solicitar la renovación de su registro. Transcurrido dicho plazo sin que se cumpla con ello, las sociedades de que se trate perderán su carácter de centro cambiario o transmisor de dinero por ministerio de ley.\n\nXIV. Las disposiciones de carácter general a que se refieren los artículos 86 Bis y 87-P de este Decreto, deberán ser emitidas dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto. Las disposiciones de carácter general a que se refiere el artículo 87- C Bis 1 de este Decreto, deberán ser expedidas dentro de los trescientos sesenta días naturales siguientes a la entrada en vigor del presente Decreto.\n\n………"
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2014-01-10:section-2:transitory:unico",
+    "label": "Transitorio ÚNICO — Sección transitoria 2, Decreto DOF 2014-01-10",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los ARTÍCULOS VIGÉSIMO QUINTO, fracción I; TRIGÉSIMO, fracciones IV y VI; CUADRAGÉSIMO, fracciones I y II y; QUINCUAGÉSIMO, fracciones I y II, las cuales entrarán en vigor en las fechas que en dichas disposiciones se establecen."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2018-03-09:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2018-03-09",
+    "text": "El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, salvo que en las Disposiciones Transitorias de este Decreto se disponga lo contrario."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2024-01-24:transitory:primero",
+    "label": "Transitorio Primero — Decreto DOF 2024-01-24",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2024-01-24:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto DOF 2024-01-24",
+    "text": "Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación al presunto infractor."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2024-01-24:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto DOF 2024-01-24",
+    "text": "Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2024-01-24:transitory:cuarto",
+    "label": "Transitorio Cuarto — Decreto DOF 2024-01-24",
+    "text": "La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2024-03-26:transitory:primero",
+    "label": "Transitorio Primero — Decreto DOF 2024-03-26",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2024-03-26:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto DOF 2024-03-26",
+    "text": "El Ejecutivo Federal contará con un plazo de 180 días hábiles a partir de la entrada en vigor de este Decreto, para ajustar los reglamentos, o cualquiera otra disposición normativa que requiera su actualización, de conformidad con el contenido del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2024-03-26:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto DOF 2024-03-26",
+    "text": "La Comisión Nacional Bancaria y de Valores contará con un plazo de 180 días hábiles a partir de la entrada en vigor de este Decreto, para ajustar cualquier disposición normativa que requiera su actualización y emitir las Reglas conducentes, de conformidad con el contenido del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2024-03-26:transitory:cuarto",
+    "label": "Transitorio Cuarto — Decreto DOF 2024-03-26",
+    "text": "Los almacenes generales de depósito deberán ajustar su operación para la emisión de certificados de depósito electrónicos, a más tardar a los 18 meses siguientes a la fecha de entrada en vigor del presente Decreto.\n\nHasta en tanto se cumpla el plazo señalado en el párrafo anterior, o se adopte la emisión de certificados de depósito electrónicos previo a dicho término, los almacenes generales de depósito podrán continuar emitiendo el certificado de depósito documentado en medio físico, para garantizar la continuidad del servicio de certificación. En caso que se constituya un crédito prendario sobre las mercancías o bienes señalados en el certificado de depósito, se deberán incorporar al mismo la información a que se refiere el artículo 232 de la Ley General de Títulos y Operaciones de Crédito. Aquéllos almacenes que inicien la emisión de dichos títulos electrónicos, estarán impedidos para continuar emitiendo certificados documentados en papel, a fin de asegurar la adecuada transición del certificado de depósito a medios electrónicos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2024-03-26:transitory:quinto",
+    "label": "Transitorio Quinto — Decreto DOF 2024-03-26",
+    "text": "Los certificados de depósito y bonos de prenda que hayan sido emitidos antes de la entrada en vigor de este Decreto continuarán vigentes hasta su cancelación. A dichos bonos les será aplicable la legislación vigente al momento de su última negociación. Dichos certificados de depósito podrán ser sustituidos por títulos electrónicos en los términos indicados en la presente Ley. Ciudad de México, a 08 de febrero de 2024.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Pedro Vázquez González, Secretario.- Rúbricas.\"\n\nEn cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 25 de marzo de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2025-11-14:transitory:primero",
+    "label": "Transitorio Primero — Decreto DOF 2025-11-14",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2025-11-14:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto DOF 2025-11-14",
+    "text": "La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.\n\nEn el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.\n\nEn todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2025-11-14:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto DOF 2025-11-14",
+    "text": "Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.\n\nNo procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgoaac:amendment:2025-11-14:transitory:cuarto",
+    "label": "Transitorio Cuarto — Decreto DOF 2025-11-14",
+    "text": "El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025."
+  }
+]

@@ -1,0 +1,11 @@
+LEY DE MUESTRA DEL IMPUESTO
+
+Artículo 1o.- Texto del artículo base.
+
+Artículo 1o.-A.- Texto del artículo con sufijo de letra.
+
+Artículo 1o.-A BIS.- Texto del artículo con sufijo de letra y calificador.
+
+Artículo 1o.-B.- Texto del artículo siguiente.
+
+Artículo 2448 A.- Texto con la forma separada por espacio.

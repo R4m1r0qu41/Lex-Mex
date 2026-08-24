@@ -153,10 +153,11 @@ pub(crate) fn parse_transitory_start<'a>(
 /// (`Artículo 4o.-A.-`). The letter must sit immediately before a body
 /// separator (`.`/`-`), so an ordinary body — `4o.- A los efectos…`
 /// (space before the letter) or `16. Se entenderá…` (letter starts a
-/// word) — is never mistaken for a suffix. Returns the suffix letter and
-/// the remainder at the body separator. The dash form (`2448-A`) is
-/// handled by the grammar and never reaches here.
-fn heading_letter_suffix(after: &str) -> Option<(char, &str)> {
+/// word) — is never mistaken for a suffix. Returns the suffix (the letter,
+/// plus a qualifier when one follows it as in `1o.-A BIS.-`) and the
+/// remainder at the body separator. The dash form (`2448-A`) is handled by
+/// the grammar and never reaches here.
+fn heading_letter_suffix(after: &str) -> Option<(String, &str)> {
     let body = if let Some(rest) = after.strip_prefix(".-").or_else(|| after.strip_prefix('.')) {
         rest
     } else if after.starts_with(' ') {
@@ -164,12 +165,29 @@ fn heading_letter_suffix(after: &str) -> Option<(char, &str)> {
     } else {
         return None;
     };
-    let mut chars = body.chars();
-    let letter = chars.next()?;
-    if !letter.is_ascii_uppercase() || !matches!(chars.next(), Some('.' | '-')) {
+    let letter = body.chars().next()?;
+    if !letter.is_ascii_uppercase() {
         return None;
     }
-    Some((letter, &body[letter.len_utf8()..]))
+    let rest = &body[letter.len_utf8()..];
+    match rest.chars().next() {
+        // `Artículo 4o.-A.-`: the suffix letter closes the identifier.
+        Some('.' | '-') => Some((letter.to_string(), rest)),
+        // `Artículo 1o.-A BIS.-` (LIVA): a qualifier follows the suffix
+        // letter, so the identifier is `1o-A BIS`. Without this the letter
+        // is rejected, the heading collapses to `1o`, and `A BIS.-` is left
+        // stranded at the head of the body — a duplicate `article:1`.
+        Some(' ') => {
+            let tail = rest.trim_start_matches(' ');
+            let qualifier = labels::match_qualifier_word_at(tail)?;
+            let remainder = &tail[qualifier.len()..];
+            if !matches!(remainder.chars().next(), Some('.' | '-')) {
+                return None;
+            }
+            Some((format!("{letter} {qualifier}"), remainder))
+        }
+        _ => None,
+    }
 }
 
 /// `Artículo 15-D.- body`, `ARTICULO 1o. body`, `Artículo 4o.-A.- body`,
@@ -1187,6 +1205,8 @@ mod tests {
         include_str!("../../../fixtures/diputados/reform-decreto-de-reformas-heading-sample.txt");
     const REFORM_BARE_LEY_TITLE_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-bare-ley-title-sample.txt");
+    const ARTICLE_LETTER_SUFFIX_QUALIFIER_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/article-letter-suffix-qualifier-sample.txt");
 
     fn options(instrument_id: &str, title: &str) -> DiputadosOptions {
         DiputadosOptions {
@@ -1827,5 +1847,29 @@ mod tests {
             evidence[2].label,
             "Transitorio PRIMERO — Sección transitoria 2, Decreto DOF 1996-11-22"
         );
+    }
+
+    #[test]
+    fn letter_suffix_heading_keeps_its_qualifier() {
+        // LIVA writes `Artículo 1o.-A BIS.-`. The suffix letter used to be
+        // rejected because a space (not `.`/`-`) follows it, collapsing the
+        // heading to `1o` and stranding `A BIS.-` in the body — which then
+        // collided with the real article 1o as a duplicate canonical id.
+        let document = parse_diputados(
+            ARTICLE_LETTER_SUFFIX_QUALIFIER_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:statute:muestra",
+                "Ley de Muestra del Impuesto",
+            ),
+            NaiveDate::from_ymd_opt(1978, 12, 29).expect("valid date"),
+        )
+        .expect("fixture parses");
+        let numbers: Vec<&str> = document
+            .provisions
+            .iter()
+            .filter(|provision| provision.provision_type == ProvisionType::Article)
+            .map(|provision| provision.number.as_str())
+            .collect();
+        assert_eq!(numbers, ["1o", "1o-A", "1o-A BIS", "1o-B", "2448-A"]);
     }
 }

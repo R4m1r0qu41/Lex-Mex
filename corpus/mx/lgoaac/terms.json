@@ -1,0 +1,35 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:term:filial",
+    "term": "Filial",
+    "instrument_id": "urn:lex-mx:federal:statute:lgoaac",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1",
+    "fraction": "I",
+    "start_char": 44,
+    "end_char": 336,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:term:institucion-financiera-del-exterior",
+    "term": "Institución Financiera del Exterior",
+    "instrument_id": "urn:lex-mx:federal:statute:lgoaac",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1",
+    "fraction": "II",
+    "start_char": 336,
+    "end_char": 578,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:term:sociedad-controladora-filial",
+    "term": "Sociedad Controladora Filial",
+    "instrument_id": "urn:lex-mx:federal:statute:lgoaac",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1",
+    "fraction": "III",
+    "start_char": 578,
+    "end_char": 872,
+    "basis": "express_definition"
+  }
+]

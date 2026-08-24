@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lrascap",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRASCAP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrascap.htm",
+  "retrieved_at": "2026-08-24T03:21:48.624821Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1075684,
+  "etag": "\"1069e4-6451544bb0180\"",
+  "last_modified": "Thu, 04 Dec 2025 00:18:30 GMT",
+  "source_sha256": "b47aeec8015f6cd2ccbcc51a81b3beb06b2b9b096cd738dae46bc725c8a0d644",
+  "extracted_text_sha256": "ecaafe93fd37a3832ed24709fcd0f5af5abec7c4772df6c7050f2d15a7718dd2",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "6e897be94c701a52d929d13ba59761a605d16661"
+}

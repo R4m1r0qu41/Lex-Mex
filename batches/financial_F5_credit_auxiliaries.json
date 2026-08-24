@@ -3,7 +3,8 @@
   "batch_id": "financial_F5_credit_auxiliaries",
   "description": "F5 credit auxiliaries, credit unions, warehouses, casas de cambio, and regulated SOFOM secondary rules.",
   "notes": [
-    "CNBV Normatividad exact title used for oaac-dcg-2009: Disposiciones de carácter general aplicables a los almacenes generales de depósito, casas de cambio, uniones de crédito y sociedades financieras de objeto múltiple reguladas."
+    "CNBV Normatividad exact title used for oaac-dcg-2009: Disposiciones de carácter general aplicables a los almacenes generales de depósito, casas de cambio, uniones de crédito y sociedades financieras de objeto múltiple reguladas.",
+    "2026-08-23 recovery: lgoaac, luc were recorded here with adapter \"cnbv\" and CNBV Normatividad mirror URLs despite being federal laws, and were never ingested through the Rust gate. Operator decision 2026-08-23 re-pointed them at the Camara de Diputados consolidated texts and the diputados adapter, consistent with every other committed federal law; the cnbv labelling was a cluster-1 grouping artifact from listing them beside their DCGs. Both admitted clean the same day."
   ],
   "blocked": [],
   "instruments": [
@@ -11,19 +12,19 @@
       "slug": "lgoaac",
       "title": "Ley General de Organizaciones y Actividades Auxiliares del Crédito",
       "type": "ley",
-      "adapter": "cnbv",
+      "adapter": "diputados",
       "status": "NEW",
-      "ref_page": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-      "source_pdf": "https://www.cnbv.gob.mx/Normatividad/Ley%20General%20de%20Organizaciones%20y%20Actividades%20Auxiliares%20del%20Cr%C3%A9dito.pdf"
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgoaac.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGOAAC.pdf"
     },
     {
       "slug": "luc",
       "title": "Ley de Uniones de Crédito",
       "type": "ley",
-      "adapter": "cnbv",
+      "adapter": "diputados",
       "status": "NEW",
-      "ref_page": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-      "source_pdf": "https://www.cnbv.gob.mx/Normatividad/Ley%20de%20Uniones%20de%20Cr%C3%A9dito.pdf"
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/luc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUC.pdf"
     },
     {
       "slug": "oaac-dcg-2009",

@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.1.0",
+  "prompt_version": "temporal-v2",
+  "instrument_id": "urn:lex-mx:federal:statute:lisr",
+  "publication_date": "2013-12-11",
+  "latest_reform_date": "2024-04-01",
+  "relevant_provisions": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lisr:transitory:primero",
+      "label": "Primero",
+      "text": "El presente Decreto entrará en vigor el 1 de enero de 2014."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lisr:transitory:segundo",
+      "label": "Segundo",
+      "text": "A la entrada en vigor del presente Decreto quedarán abrogadas la Ley del Impuesto Sobre la Renta, publicada en el Diario Oficial de la Federación el 1 de enero de 2002; la Ley del Impuesto Empresarial a Tasa Única, y la Ley del Impuesto a los Depósitos en Efectivo.\n\nMéxico, D.F., a 31 de octubre de 2013.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas.\"\n\nEn cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a seis de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica."
+    }
+  ],
+  "required_output_schema": "schemas/temporal-model-output-v2.schema.json"
+}

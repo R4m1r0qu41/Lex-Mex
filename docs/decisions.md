@@ -1,5 +1,71 @@
 # Architecture decisions
 
+## 2026-08-23 — Vault-reconciliation recovery: ten orphaned instruments, a letter-suffix-plus-qualifier parser fix, and a new hold-out class
+
+A reconciliation between this repository and the Obsidian vault found ten
+instruments present only as pre-2026-07-11 Python-era vault renders, with no
+committed corpus record and no entry in the cluster-2 prepared inventory:
+`lisr`, `reg-lisr`, `liva`, `reg-liva`, `lieps`, `reg-lieps`, `lacp`,
+`lgoaac`, `lrascap`, `luc`. Four of them (`lisr`, `lieps`, `liva`, `lgoaac`)
+were named in the vault's own cluster-2 ingestion note among the 18
+instruments whose Python renders folded letter-suffixed articles into their
+parents, so where they existed at all they were known-defective. Nine
+admitted clean; `lieps` is held out.
+
+**The recovery was recorded in the owning cluster-1 manifests, not a new
+batch.** A first pass created a separate `recovery_RC1_...` manifest, which
+`all_committed_batch_manifests_deserialize` correctly rejected: a slug may
+appear in exactly one batch manifest, and `tax_T1_core`,
+`financial_F4_popular_savings` and `financial_F5_credit_auxiliaries` already
+own these instruments — the same manifests that own committed instruments
+like `cff`. The ten had simply never been run through the Rust gate. Moving
+`lieps` to `tax_T1_core`'s `blocked` list moves `lex-source`'s frozen
+unique-slug baseline 200 → 199.
+
+**`lacp`, `lgoaac`, `lrascap` and `luc` re-pointed to Cámara de Diputados.**
+All four are federal laws (`type: ley`) but were recorded against CNBV's
+Normatividad mirror with `adapter: "cnbv"`, a cluster-1 grouping artifact
+from listing them beside their DCGs; `adapter scaffold` refuses to generate a
+cnbv config, which surfaced it. Every one of the other committed federal laws
+uses the Diputados consolidated text. Operator decision: re-point all four at
+`diputados.gob.mx/LeyesBiblio` (all four pdf and ref URLs returned HTTP 200 on
+2026-08-23) and use the `diputados` adapter.
+
+**Parser fix — `article-letter-suffix-qualifier-heading`.** LIVA writes
+`Artículo 1o.-A BIS.-`. `heading_letter_suffix` accepted a suffix letter only
+when the next character was `.` or `-`; a space follows it here, so the suffix
+was rejected, the heading collapsed to `1o`, and `A BIS.-` was stranded in the
+body — a duplicate `article:1` that cascaded into 87 validation issues. The
+grammar already handled the hyphen form (`32-B Bis`) and qualifier matching
+was already case-insensitive, so `BIS` vs `Bis` was never the discriminator;
+the untested shape was ordinal mark, `.-`, letter suffix, *then* qualifier.
+The fix is additive — every previously-matching input still matches — and an
+audit of all 226 then-committed instruments for a stranded letter-plus-qualifier
+found zero hits, so no committed instrument carried the defect. Fixture
+`fixtures/diputados/article-letter-suffix-qualifier-sample.txt`, test
+`letter_suffix_heading_keeps_its_qualifier`. The same branch recovered LIVA's
+`18-H BIS`, `18-H TER`, `18-H QUÁTER` and `18-H QUINTUS`.
+
+**New hold-out class — `multi-character-article-suffix`.** LIEPS numbers its
+article-26 series through the traditional Spanish alphabet, in which `LL` is
+its own letter between `L` and `M`. `SUFFIX_LETTERS` is scanned by character
+and `Component.letter` is an `Option<char>`, so `26-LL` cannot be represented.
+Supporting it changes what an article suffix *is* in the shared identifier
+grammar all committed instruments parse through. Offered the choice of
+implementing it in this pass; operator chose to hold and log, matching the
+`lcnbv`/`lcmopfih`/`lisipl` precedent. `reg-lieps` is unaffected and admitted.
+
+**Ordinal-mark cases.** `liva`, `lacp` and `lgoaac` needed the reviewed
+`allow_article_gaps: true` adapter setting — the familiar case where
+`1o`–`9o` fail `parse::<u32>()`, never advance `expected_number`, and every
+later plain numeral then collides with a stuck expectation of 1. No parser
+change. `lisr`, `reg-lisr`, `reg-liva`, `reg-lieps`, `lrascap` and `luc`
+admitted without it.
+
+Totals move to 235 instruments (203 federal + 32 NOMs), 38,242 articles,
+1,529 original transitories, 20,668 reference edges, 0 unresolved; 235/235
+`validation.json` reports valid with 374 non-blocking warnings.
+
 ## 2026-08-06 — FI3 admitted; preserve a legacy regulation identity and recognize the narrow `LEY del ...` reform heading
 
 FI3 (`batches/financial_FI3_seguro_rural_convenios.json`, normalized from

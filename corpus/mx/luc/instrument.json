@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:luc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Uniones de Crédito",
+  "short_name": "LUC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2008-08-20",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-08-24T03:21:53.667896Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUC.pdf",
+  "source_sha256": "3db723c0e32c0f31b97d4ff15387fc7e76e29fe6b48ce84da2624a536144f938",
+  "extracted_text_sha256": "f122825552b597ad58eec3f133ccf4abe4ac21fd530133c01efb2f8dac18fe58",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

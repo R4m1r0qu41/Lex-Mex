@@ -816,3 +816,75 @@ for real, not a fix to write against zero instruments.
 
 Status: **open, unaffecting.** No committed or held-out instrument is
 known to exhibit this.
+
+### article-letter-suffix-qualifier-heading — resolved 2026-08-23
+
+What was difficult: LIVA writes `Artículo 1o.-A BIS.-`. `heading_letter_suffix`
+(`crates/lex-parse/src/diputados.rs`) accepted a suffix letter only when the
+very next character was `.` or `-`. A space follows the letter here, so the
+suffix was rejected, the heading collapsed to `1o`, and `A BIS.-` was left
+stranded at the head of the body. That produced a second provision numbered
+`1o` — a hard `duplicate_id` — and, because the strict order walk then never
+advanced, 34 cascading `article_order` errors plus three
+`qualifier_span_mismatch` and one `reference_offsets_invalid` on the bogus
+provision. 87 issues from one missing branch.
+
+Worth noting how it presented: the *grammar* in `labels.rs` already handled
+the hyphen form (`32-B Bis`, covered by `letter_suffix_does_not_swallow_qualifiers`)
+and `parse_qualifier` was already case-insensitive, so `BIS` vs `Bis` was never
+the discriminator. The untested combination was specifically the Diputados
+heading shape: ordinal mark, `.-`, letter suffix, *then* qualifier.
+
+Fix: `heading_letter_suffix` now returns `Option<(String, &str)>` and, when a
+space follows the suffix letter, consumes a qualifier word via the new
+`labels::match_qualifier_word_at` (which reuses the canonical `QUALIFIERS`
+list and preserves source casing) before requiring the `.`/`-` body separator.
+Purely additive: every input that previously matched still matches identically.
+
+Blast radius checked before the change, not after: an audit of all 226
+committed instruments for article text beginning with a stranded
+letter-plus-qualifier found exactly one hit, and it was the uncommitted LIVA
+parse itself. No committed instrument carried this defect.
+
+Fixture: `fixtures/diputados/article-letter-suffix-qualifier-sample.txt`;
+test `letter_suffix_heading_keeps_its_qualifier`. LIVA now parses
+`1o, 1o-A, 1o-A BIS, 1o-B, 1o-C, …` and validates clean, and the same branch
+also recovered LIVA's `18-H BIS`, `18-H TER`, `18-H QUÁTER` and
+`18-H QUINTUS`, confirming it generalizes past `Bis`.
+
+### lieps — multi-character-article-suffix — 2026-08-23
+
+What's difficult: LIEPS numbers its article-26 series through the *traditional*
+Spanish alphabet, in which `LL` is its own letter between `L` and `M`. The
+source runs `Artículo 26-L.-`, `Artículo 26-LL.-`, `Artículo 26-M.-`,
+`Artículo 26-N.-`, `Artículo 26-Ñ.-`. `Ñ` is already handled — it is in
+`SUFFIX_LETTERS` and ranks correctly after `N`. The `LL` digraph is not, and
+cannot be without a model change: `SUFFIX_LETTERS` is a `&str` scanned by
+character, `Component.letter` is an `Option<char>`, and `letter_rank` derives
+its ordering from a character's position in that string. So `26-LL` parses as
+article `26` with `LL.- (Se deroga).` stranded in the body, colliding with the
+real article 26 as a `duplicate_id`.
+
+The provision itself is derogated (`Artículo adicionado DOF 31-12-1999.
+Derogado DOF 01-01-2002`), but that does not make it droppable — the corpus
+represents derogated provisions, and silently losing one to a parser gap is
+the failure mode this log exists to prevent.
+
+What was tried: diagnosis and a corpus-wide scan only. Grepping every
+extracted source for a `LL`/`CH`/`RR` article suffix found this single
+occurrence, so the class is real but currently unique.
+
+Fixing it means changing what an article suffix *is* — `char` to `&str`,
+`letter_rank` re-expressed over a suffix alphabet that includes `LL` (and
+arguably `CH`, historically between `C` and `D`) — in the shared
+article-identifier grammar every one of the 226 committed instruments parses
+through. Inserting `LL` between `L` and `M` preserves relative ordering and
+changes no existing slug, so the change looks safe, but it is a trusted-boundary
+change that wants its own reviewed pass with schema, types, validators,
+fixtures and docs moved together, not a byproduct of a recovery batch.
+
+Status: **held out, not ingested.** Operator decision 2026-08-23 (offered the
+choice of implementing multi-character suffix support in this pass, chose to
+hold and log, matching the `lcnbv`/`lcmopfih`/`lisipl` precedent).
+`batches/tax_T1_core.json` — the manifest that owns it — carries it under
+`blocked`. Its regulation `reg-lieps` is unaffected and ingested clean.
