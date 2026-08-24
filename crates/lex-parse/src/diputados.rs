@@ -165,14 +165,17 @@ fn heading_letter_suffix(after: &str) -> Option<(String, &str)> {
     } else {
         return None;
     };
-    let letter = body.chars().next()?;
-    if !letter.is_ascii_uppercase() {
+    // Uppercase only, so a lowercase word opening a body is never a suffix.
+    // A digraph (`CH`, `LL`, `RR`) is one letter here, as in `26-LL`.
+    let first = body.chars().next()?;
+    if !first.is_uppercase() {
         return None;
     }
-    let rest = &body[letter.len_utf8()..];
+    let letter = labels::match_suffix_token_at(body)?;
+    let rest = &body[letter.len()..];
     match rest.chars().next() {
         // `Artículo 4o.-A.-`: the suffix letter closes the identifier.
-        Some('.' | '-') => Some((letter.to_string(), rest)),
+        Some('.' | '-') => Some((letter.to_owned(), rest)),
         // `Artículo 1o.-A BIS.-` (LIVA): a qualifier follows the suffix
         // letter, so the identifier is `1o-A BIS`. Without this the letter
         // is rejected, the heading collapses to `1o`, and `A BIS.-` is left
@@ -1870,6 +1873,11 @@ mod tests {
             .filter(|provision| provision.provision_type == ProvisionType::Article)
             .map(|provision| provision.number.as_str())
             .collect();
-        assert_eq!(numbers, ["1o", "1o-A", "1o-A BIS", "1o-B", "2448-A"]);
+        assert_eq!(
+            numbers,
+            [
+                "1o", "1o-A", "1o-A BIS", "1o-B", "26-L", "26-LL", "26-M", "26-Ñ", "2448-A"
+            ]
+        );
     }
 }

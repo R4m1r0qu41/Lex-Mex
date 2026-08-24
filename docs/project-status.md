@@ -2,8 +2,8 @@
 
 - **Status date:** 2026-08-23
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed instruments:** 235 (203 federal corpus instruments plus 32 NOMs)
-- **Active ingestion batch:** vault-reconciliation recovery across `tax_T1_core`, `financial_F4_popular_savings`, `financial_F5_credit_auxiliaries` — complete (9/10; `lieps` held out)
+- **Committed instruments:** 236 (204 federal corpus instruments plus 32 NOMs)
+- **Active ingestion batch:** vault-reconciliation recovery across `tax_T1_core`, `financial_F4_popular_savings`, `financial_F5_credit_auxiliaries` — complete (10/10)
 - **Next checkpoint:** normalize and admit EC1 (`cl2_EC1_competencia_inversion`)
 - **Current legal reviewer:** JRH
 
@@ -23,18 +23,18 @@ Current committed-corpus totals:
 
 | Artifact | Count |
 |---|---:|
-| Instruments | 235 |
-| Articles | 38,242 |
-| Original transitory provisions | 1,529 |
+| Instruments | 236 |
+| Articles | 38,312 |
+| Original transitory provisions | 1,543 |
 | Annexes | 29 |
 | Standard clauses | 3,885 |
 | Standard transitory provisions | 100 |
 | Standard post-transitory supplements | 78 |
-| Reference edges | 20,668 |
+| Reference edges | 20,792 |
 | Unresolved reference edges | 0 |
-| Generated Markdown files | 40,003 |
+| Generated Markdown files | 40,088 |
 
-All 235 `validation.json` reports are valid. They contain 374 non-blocking
+All 236 `validation.json` reports are valid. They contain 376 non-blocking
 warnings: 238 non-numeric/suffixed-article notices, 16 unfrozen count
 baselines, 35 represented supplements whose source states no explicit legal
 character, 8 article-gap notices, 3
@@ -82,7 +82,7 @@ development-convention instruments (`lfaar`, `lfgfaga`, `reg-lfgfaga`,
 `reg-lfif-art95`, `reg-lsar`, `lmccbdc`, `lccaif`, `lccbid`;
 `batches/financial_FI3_seguro_rural_convenios.json`). Together with the
 separate Maximasa federal-gap ingestion of `reg-csps`, and the RC1 recovery
-batch below, the live corpus now contains 203 federal instruments.
+batch below, the live corpus now contains 204 federal instruments.
 
 The 2026-08-23 vault-reconciliation recovery is not a new batch. A 2026-08-23
 reconciliation between this repository and the Obsidian vault found ten
@@ -92,17 +92,18 @@ the ISR, IVA and IEPS laws with their reglamentos, plus `lacp`, `lgoaac`,
 `lrascap` and `luc`. Four of them were named in the vault's own cluster-2
 ingestion note among the 18 instruments whose Python renders folded
 letter-suffixed articles into their parents, so they were both uncommitted
-and known-defective where they did exist. Nine admitted clean (`lisr`,
-`reg-lisr`, `liva`, `reg-liva`, `reg-lieps`, `lacp`, `lgoaac`, `lrascap`,
-`luc`), adding 1,524 articles, 54 original transitories and 2,053 resolved
-reference edges with 0 unresolved. These ten were already listed in their owning cluster-1 manifests
+and known-defective where they did exist. All ten admitted clean (`lisr`,
+`reg-lisr`, `liva`, `reg-liva`, `lieps`, `reg-lieps`, `lacp`, `lgoaac`,
+`lrascap`, `luc`), adding 1,594 articles, 68 original transitories and 2,177
+resolved reference edges with 0 unresolved. These ten were already listed in their owning cluster-1 manifests
 (`tax_T1_core`, `financial_F4_popular_savings`,
 `financial_F5_credit_auxiliaries`) and had simply never been run through the
 Rust gate, so the recovery was recorded in those manifests rather than in a
-new one — a slug belongs to exactly one batch manifest. `lieps` is held out
-under `multi-character-article-suffix`
-(`docs/ingestion-difficulty-log.md`) and moved to `tax_T1_core`'s `blocked`
-list, which is why `lex-source`'s frozen unique-slug baseline moves 200 → 199.
+new one — a slug belongs to exactly one batch manifest. `lieps` was briefly held out under
+`multi-character-article-suffix` and admitted the same day once the
+traditional-alphabet digraphs `CH`, `LL` and `RR` were added to the
+article-identifier grammar as single, case-neutral suffix letters
+(`docs/ingestion-difficulty-log.md`).
 `lacp`, `lgoaac`, `lrascap` and `luc` were recorded in the cluster-1
 manifests against CNBV's Normatividad mirror despite being federal laws;
 operator decision 2026-08-23 re-pointed them at the Cámara de Diputados

@@ -852,39 +852,54 @@ test `letter_suffix_heading_keeps_its_qualifier`. LIVA now parses
 also recovered LIVA's `18-H BIS`, `18-H TER`, `18-H QUÁTER` and
 `18-H QUINTUS`, confirming it generalizes past `Bis`.
 
-### lieps — multi-character-article-suffix — 2026-08-23
+### lieps — multi-character-article-suffix — resolved 2026-08-23
 
-What's difficult: LIEPS numbers its article-26 series through the *traditional*
-Spanish alphabet, in which `LL` is its own letter between `L` and `M`. The
-source runs `Artículo 26-L.-`, `Artículo 26-LL.-`, `Artículo 26-M.-`,
-`Artículo 26-N.-`, `Artículo 26-Ñ.-`. `Ñ` is already handled — it is in
-`SUFFIX_LETTERS` and ranks correctly after `N`. The `LL` digraph is not, and
-cannot be without a model change: `SUFFIX_LETTERS` is a `&str` scanned by
-character, `Component.letter` is an `Option<char>`, and `letter_rank` derives
-its ordering from a character's position in that string. So `26-LL` parses as
-article `26` with `LL.- (Se deroga).` stranded in the body, colliding with the
-real article 26 as a `duplicate_id`.
+What was difficult: LIEPS numbers its article-26 series through the
+*traditional* Spanish alphabet, in which `LL` is its own letter between `L`
+and `M`. The source runs `Artículo 26-L.-`, `Artículo 26-LL.-`,
+`Artículo 26-M.-`, `Artículo 26-N.-`, `Artículo 26-Ñ.-`. `Ñ` was already
+handled — it is in the suffix alphabet and ranks correctly after `N`. `LL`
+was not, and could not be while a suffix was modelled as a single character:
+`SUFFIX_LETTERS` was a `&str` scanned per character, `Component.letter` was an
+`Option<char>`, and `letter_rank` derived ordering from a character's position
+in that string. So `26-LL` parsed as article `26` with `LL.- (Se deroga).`
+stranded in the body, colliding with the real article 26 as a `duplicate_id`.
 
-The provision itself is derogated (`Artículo adicionado DOF 31-12-1999.
-Derogado DOF 01-01-2002`), but that does not make it droppable — the corpus
-represents derogated provisions, and silently losing one to a parser gap is
-the failure mode this log exists to prevent.
+That provision is derogated (`Artículo adicionado DOF 31-12-1999. Derogado
+DOF 01-01-2002`), which does not make it droppable — the corpus represents
+derogated provisions, and silently losing one to a parser gap is the failure
+mode this log exists to prevent.
 
-What was tried: diagnosis and a corpus-wide scan only. Grepping every
-extracted source for a `LL`/`CH`/`RR` article suffix found this single
-occurrence, so the class is real but currently unique.
+Fix (operator decision, same day: encode the rule rather than hold the
+instrument, because the shape will recur): `SUFFIX_LETTERS` becomes
+`SUFFIX_TOKENS`, an ordered table that includes the traditional digraphs
+`CH`, `LL` and `RR` at their traditional collation positions — `CH` after
+`C`, `LL` after `L`, `RR` after `R`. `Component.letter` becomes an
+`Option<String>`, `letter_rank` takes `&str`, and a shared
+`labels::match_suffix_token_at` matches **longest-token-first and
+case-insensitively**, so `LL`, `Ll` and `ll` are one suffix and none is ever
+read as `L` plus a stray letter. A token only matches when what follows is
+not another letter, so `26-LLA` still yields no suffix. Both the grammar
+(`labels::parse_component`, the `26-LL` hyphen form) and the Diputados
+heading path (`heading_letter_suffix`, the `.-LL.-` and ` LL.-` forms) go
+through the same matcher.
 
-Fixing it means changing what an article suffix *is* — `char` to `&str`,
-`letter_rank` re-expressed over a suffix alphabet that includes `LL` (and
-arguably `CH`, historically between `C` and `D`) — in the shared
-article-identifier grammar every one of the 226 committed instruments parses
-through. Inserting `LL` between `L` and `M` preserves relative ordering and
-changes no existing slug, so the change looks safe, but it is a trusted-boundary
-change that wants its own reviewed pass with schema, types, validators,
-fixtures and docs moved together, not a byproduct of a recovery batch.
+Blast radius, measured before the change: no committed instrument had an
+article numbered with a digraph, and none had the stranded-digraph body
+signature — zero hits across all 235. Inserting `CH`/`LL`/`RR` shifts the
+absolute rank of later letters but preserves relative order, and slugs are
+derived from the raw label rather than the rank, so no committed slug or
+ordering changes. Confirmed empirically: re-parsing `liva` and `reg-lisr`
+after the change produced byte-identical `provisions.json`.
 
-Status: **held out, not ingested.** Operator decision 2026-08-23 (offered the
-choice of implementing multi-character suffix support in this pass, chose to
-hold and log, matching the `lcnbv`/`lcmopfih`/`lisipl` precedent).
-`batches/tax_T1_core.json` — the manifest that owns it — carries it under
-`blocked`. Its regulation `reg-lieps` is unaffected and ingested clean.
+Fixtures: `fixtures/diputados/article-letter-suffix-qualifier-sample.txt`
+gains the `26-L` / `26-LL` / `26-M` / `26-Ñ` run; tests
+`digraph_suffixes_are_one_letter_and_sort_traditionally`,
+`digraph_suffixes_are_case_neutral`,
+`a_digraph_never_swallows_a_following_letter`, and the extended
+`letter_suffix_heading_keeps_its_qualifier`.
+
+Status: **admitted.** `lieps` validates clean — 70 articles including the
+full `26`…`26-P` run, 14 transitories, 124 references, 0 unresolved — with
+the reviewed `allow_article_gaps: true` setting for its ordinal-mark case.
+

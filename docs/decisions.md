@@ -9,8 +9,8 @@ committed corpus record and no entry in the cluster-2 prepared inventory:
 `lgoaac`, `lrascap`, `luc`. Four of them (`lisr`, `lieps`, `liva`, `lgoaac`)
 were named in the vault's own cluster-2 ingestion note among the 18
 instruments whose Python renders folded letter-suffixed articles into their
-parents, so where they existed at all they were known-defective. Nine
-admitted clean; `lieps` is held out.
+parents, so where they existed at all they were known-defective. **All ten
+admitted clean.**
 
 **The recovery was recorded in the owning cluster-1 manifests, not a new
 batch.** A first pass created a separate `recovery_RC1_...` manifest, which
@@ -18,9 +18,9 @@ batch.** A first pass created a separate `recovery_RC1_...` manifest, which
 appear in exactly one batch manifest, and `tax_T1_core`,
 `financial_F4_popular_savings` and `financial_F5_credit_auxiliaries` already
 own these instruments — the same manifests that own committed instruments
-like `cff`. The ten had simply never been run through the Rust gate. Moving
-`lieps` to `tax_T1_core`'s `blocked` list moves `lex-source`'s frozen
-unique-slug baseline 200 → 199.
+like `cff`. The ten had simply never been run through the Rust gate. `lieps` moved to `tax_T1_core`'s
+`blocked` list and back once the digraph rule landed, leaving `lex-source`'s
+frozen unique-slug baseline at 200.
 
 **`lacp`, `lgoaac`, `lrascap` and `luc` re-pointed to Cámara de Diputados.**
 All four are federal laws (`type: ley`) but were recorded against CNBV's
@@ -46,14 +46,29 @@ found zero hits, so no committed instrument carried the defect. Fixture
 `letter_suffix_heading_keeps_its_qualifier`. The same branch recovered LIVA's
 `18-H BIS`, `18-H TER`, `18-H QUÁTER` and `18-H QUINTUS`.
 
-**New hold-out class — `multi-character-article-suffix`.** LIEPS numbers its
-article-26 series through the traditional Spanish alphabet, in which `LL` is
-its own letter between `L` and `M`. `SUFFIX_LETTERS` is scanned by character
-and `Component.letter` is an `Option<char>`, so `26-LL` cannot be represented.
-Supporting it changes what an article suffix *is* in the shared identifier
-grammar all committed instruments parse through. Offered the choice of
-implementing it in this pass; operator chose to hold and log, matching the
-`lcnbv`/`lcmopfih`/`lisipl` precedent. `reg-lieps` is unaffected and admitted.
+**Article suffixes are tokens, not characters — the traditional digraphs are
+single letters.** LIEPS numbers its article-26 series through the traditional
+Spanish alphabet, in which `LL` is its own letter between `L` and `M`
+(`26-L`, `26-LL`, `26-M`, `26-N`, `26-Ñ`). `Ñ` was already handled; `LL` could
+not be while a suffix was an `Option<char>` ranked by position in a
+character string.
+
+Held out on first pass, then admitted the same day on the operator's call to
+**encode the rule rather than the instrument**, on the reasoning that the shape
+will recur in other older statutes. `SUFFIX_LETTERS` becomes `SUFFIX_TOKENS`,
+an ordered table carrying `CH`, `LL` and `RR` at their traditional collation
+positions; `Component.letter` becomes `Option<String>`; `letter_rank` takes
+`&str`; and a shared `labels::match_suffix_token_at` matches longest-token-first
+and case-insensitively, so `LL`/`Ll`/`ll` are one suffix, `26-LLA` still yields
+no suffix, and both the grammar and the Diputados heading path use the same
+matcher.
+
+Blast radius measured before the change: zero committed instruments carried a
+digraph-numbered article or the stranded-digraph body signature. Inserting the
+digraphs shifts absolute letter ranks but preserves relative order, and slugs
+derive from the raw label rather than the rank, so no committed slug or
+ordering changes — confirmed empirically by re-parsing `liva` and `reg-lisr`
+to byte-identical output.
 
 **Ordinal-mark cases.** `liva`, `lacp` and `lgoaac` needed the reviewed
 `allow_article_gaps: true` adapter setting — the familiar case where
@@ -62,9 +77,9 @@ later plain numeral then collides with a stuck expectation of 1. No parser
 change. `lisr`, `reg-lisr`, `reg-liva`, `reg-lieps`, `lrascap` and `luc`
 admitted without it.
 
-Totals move to 235 instruments (203 federal + 32 NOMs), 38,242 articles,
-1,529 original transitories, 20,668 reference edges, 0 unresolved; 235/235
-`validation.json` reports valid with 374 non-blocking warnings.
+Totals move to 236 instruments (204 federal + 32 NOMs), 38,312 articles,
+1,543 original transitories, 20,792 reference edges, 0 unresolved; 236/236
+`validation.json` reports valid with 376 non-blocking warnings.
 
 ## 2026-08-06 — FI3 admitted; preserve a legacy regulation identity and recognize the narrow `LEY del ...` reform heading
 

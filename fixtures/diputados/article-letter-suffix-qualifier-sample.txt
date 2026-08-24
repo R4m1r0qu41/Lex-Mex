@@ -8,4 +8,12 @@ Artículo 1o.-A BIS.- Texto del artículo con sufijo de letra y calificador.
 
 Artículo 1o.-B.- Texto del artículo siguiente.
 
+Artículo 26-L.- Texto del artículo con sufijo de una letra.
+
+Artículo 26-LL.- Texto del artículo con sufijo dígrafo.
+
+Artículo 26-M.- Texto del artículo siguiente.
+
+Artículo 26-Ñ.- Texto del artículo con eñe.
+
 Artículo 2448 A.- Texto con la forma separada por espacio.

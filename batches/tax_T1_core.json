@@ -5,15 +5,9 @@
   "notes": [
     "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
     "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch.",
-    "2026-08-23 recovery: lisr, reg-lisr, liva, reg-liva and reg-lieps were listed here from the cluster-1 plan but never ingested through the Rust gate; a repository/vault reconciliation found them present only as Python-era vault renders. All five admitted on 2026-08-23. lieps moved to blocked, above."
+    "2026-08-23 (later same day): lieps unblocked and admitted. The multi-character-article-suffix class was closed by adding the traditional-alphabet digraphs CH, LL and RR to the article-identifier grammar as single, case-neutral suffix letters at their traditional collation positions."
   ],
-  "blocked": [
-    {
-      "slug": "lieps",
-      "title": "LEY del Impuesto Especial sobre Producción y Servicios",
-      "reason": "Held out per docs/ingestion-difficulty-log.md: multi-character-article-suffix. LIEPS numbers its article-26 series through the traditional Spanish alphabet, in which LL is its own letter between L and M (26-L, 26-LL, 26-M, 26-N with tilde). SUFFIX_LETTERS is scanned by character and Component.letter is an Option<char>, so 26-LL parses as article 26 with 'LL.- (Se deroga).' stranded in the body, colliding with the real article 26. Supporting it changes article-suffix cardinality in the shared identifier grammar every committed instrument parses through, which wants its own reviewed pass. Its reglamento reg-lieps is unaffected and ingested clean."
-    }
-  ],
+  "blocked": [],
   "instruments": [
     {
       "slug": "cff",
@@ -59,6 +53,15 @@
       "status": "NEW",
       "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIVA_250914.pdf",
       "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIVA_250914.pdf"
+    },
+    {
+      "slug": "lieps",
+      "title": "LEY del Impuesto Especial sobre Producción y Servicios",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lieps.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf"
     },
     {
       "slug": "reg-lieps",

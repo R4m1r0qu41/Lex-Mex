@@ -42,7 +42,47 @@ fn qualifier_rank(index: usize) -> u8 {
 // and `O` (as it appears in law, e.g. LFT 353-N, 353-Ñ, 353-O). The
 // accented vowels trail; they are diacritics, not distinct letters, and
 // are vanishingly rare as article suffixes.
-const SUFFIX_LETTERS: &str = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZÁÉÍÓÚ";
+//
+// The digraphs `CH`, `LL` and `RR` are single letters in the traditional
+// alphabet the older statutes number by, and they appear as real article
+// suffixes: LIEPS runs `26-L`, `26-LL`, `26-M`, `26-N`, `26-Ñ`. They sort
+// at their traditional positions — `CH` after `C`, `LL` after `L`, `RR`
+// after `R` — so a digraph-suffixed article falls between its neighbours
+// rather than after every single letter. Matching is longest-token-first
+// and case-insensitive, so `LL`, `Ll` and `ll` are the same suffix and
+// none of them is ever read as `L` followed by a stray letter.
+const SUFFIX_TOKENS: [&str; 35] = [
+    "A", "B", "C", "CH", "D", "E", "F", "G", "H", "I", "J", "K", "L", "LL", "M", "N", "Ñ", "O",
+    "P", "Q", "R", "RR", "S", "T", "U", "V", "W", "X", "Y", "Z", "Á", "É", "Í", "Ó", "Ú",
+];
+
+/// Match a suffix token at the start of `text`, longest first and
+/// case-insensitively, returning it exactly as written. A token only
+/// matches when what follows it is not another letter, so `26-LLA` yields
+/// no suffix rather than a bogus `LL`.
+#[must_use]
+pub fn match_suffix_token_at(text: &str) -> Option<&str> {
+    let mut best: Option<&str> = None;
+    for token in SUFFIX_TOKENS {
+        let count = token.chars().count();
+        let matched = text
+            .chars()
+            .zip(token.chars())
+            .filter(|(actual, expected)| actual.to_lowercase().eq(expected.to_lowercase()))
+            .count();
+        if matched != count {
+            continue;
+        }
+        let end: usize = text.chars().take(count).map(char::len_utf8).sum();
+        if text[end..].chars().next().is_some_and(is_letter) {
+            continue;
+        }
+        if best.is_none_or(|current| current.len() < end) {
+            best = Some(&text[..end]);
+        }
+    }
+    best
+}
 
 #[derive(Debug, Clone, PartialEq, Eq)]
 struct Component {
@@ -51,8 +91,8 @@ struct Component {
     number: Vec<u64>,
     /// `1o`, `2º`, `3°` ordinal mark (ignored for ordering).
     ordinal: bool,
-    /// Single-letter suffix as written (`15-D`).
-    letter: Option<char>,
+    /// Letter suffix as written (`15-D`, `26-LL`); a digraph is one suffix.
+    letter: Option<String>,
     /// Qualifier rank (`Bis` = 1 … `Nonies` = 8).
     qualifier: Option<u8>,
     /// Qualifier as written, for the raw form.
@@ -102,7 +142,7 @@ impl ArticleLabel {
             .map(|component| {
                 (
                     component.number.clone(),
-                    component.letter.map_or(0, letter_rank),
+                    component.letter.as_deref().map_or(0, letter_rank),
                     component.qualifier.unwrap_or(0),
                 )
             })
@@ -110,10 +150,10 @@ impl ArticleLabel {
     }
 }
 
-fn letter_rank(letter: char) -> u8 {
-    SUFFIX_LETTERS
-        .chars()
-        .position(|candidate| candidate == letter)
+fn letter_rank(letter: &str) -> u8 {
+    SUFFIX_TOKENS
+        .iter()
+        .position(|candidate| candidate.eq_ignore_ascii_case(letter) || *candidate == letter)
         .map_or(u8::MAX, |index| u8::try_from(index + 1).unwrap_or(u8::MAX))
 }
 
@@ -385,19 +425,13 @@ fn parse_component(cursor: &mut Cursor) -> Option<Component> {
     if cursor.peek() == Some('-') {
         cursor.position += 1;
         cursor.eat_inline_space();
-        match cursor.peek() {
-            Some(candidate)
-                if SUFFIX_LETTERS.contains(candidate)
-                    && cursor
-                        .rest()
-                        .chars()
-                        .nth(1)
-                        .is_none_or(|next| !is_letter(next)) =>
-            {
-                cursor.bump(candidate);
-                letter = Some(candidate);
+        match match_suffix_token_at(cursor.rest()) {
+            Some(token) => {
+                let token = token.to_owned();
+                cursor.position += token.len();
+                letter = Some(token);
             }
-            _ => cursor.position = letter_start,
+            None => cursor.position = letter_start,
         }
     } else {
         cursor.position = letter_start;
@@ -512,6 +546,51 @@ mod tests {
         assert_eq!(full("270 Bis-1").sort_key(), full("270 Bis 1").sort_key());
         assert_ne!(full("270 Bis-1").sort_key(), full("270 Bis-2").sort_key());
         assert!(full("270 Bis").sort_key() < full("270 Bis-1").sort_key());
+    }
+
+    #[test]
+    fn digraph_suffixes_are_one_letter_and_sort_traditionally() {
+        // LIEPS numbers 26-L, 26-LL, 26-M; the digraph is its own letter in
+        // the traditional alphabet these statutes number by.
+        assert_eq!(full("26-LL").raw(), "26-LL");
+        assert_eq!(full("26-LL").slug(), "26-ll");
+        let l = full("26-L").sort_key();
+        let ll = full("26-LL").sort_key();
+        let m = full("26-M").sort_key();
+        assert!(l < ll && ll < m, "LL must sort between L and M");
+        // CH sorts after C, RR after R.
+        assert!(full("9-C").sort_key() < full("9-CH").sort_key());
+        assert!(full("9-CH").sort_key() < full("9-D").sort_key());
+        assert!(full("9-R").sort_key() < full("9-RR").sort_key());
+        assert!(full("9-RR").sort_key() < full("9-S").sort_key());
+    }
+
+    #[test]
+    fn digraph_suffixes_are_case_neutral() {
+        for written in ["26-LL", "26-Ll", "26-ll"] {
+            assert_eq!(
+                full(written).sort_key(),
+                full("26-LL").sort_key(),
+                "{written} must rank as the LL suffix"
+            );
+            assert_eq!(full(written).slug(), "26-ll");
+        }
+    }
+
+    #[test]
+    fn a_digraph_never_swallows_a_following_letter() {
+        // `26-LLA` is not a suffixed article: neither `LL` nor `L` may match
+        // when a letter follows, so the label stops at the base number.
+        assert_eq!(
+            super::match_label_at("26-LLA").expect("base label").raw(),
+            "26"
+        );
+        assert_eq!(
+            super::match_label_at("26-CHA").expect("base label").raw(),
+            "26"
+        );
+        // A single letter still wins where no digraph applies.
+        assert_eq!(full("26-L").raw(), "26-L");
     }
 
     #[test]
