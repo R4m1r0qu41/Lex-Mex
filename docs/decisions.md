@@ -25,6 +25,17 @@ instrument. The standalone audit-furniture command remains a read-only
 diagnostic for investigating a retained PDF, while the batch report will
 carry the failed instrument and its audit error.
 
+**Retained-source baseline, 2026-08-24.** A read-only sweep of all 100
+retained PDFs (7,134 pages) found recurring positional furniture in 77
+documents: 411 bands (342 headers, 69 footers; 330 static and 81 dynamic).
+Seven documents also have body-zone repeats, which remain report-only because
+forms and tables can legitimately repeat there. Four one-page PDFs produce no
+recurrence finding: a recurrence needs at least two pages. The sweep did not
+reparse or mutate corpus data and found no confirmed gate failure. A future
+parse is blocked only by the documented three-distinct-provision rule; do not
+add broad string filters from this inventory. The reviewer-facing finding and
+targeted refinement queue live in the dedicated Spearhead audit workspace.
+
 ## 2026-08-24 — Deterministic temporal-status triage, three-tier provenance, and a recorded public-review-submission design
 
 **A vault re-export on 2026-08-23 revealed that 30,153 provision notes
