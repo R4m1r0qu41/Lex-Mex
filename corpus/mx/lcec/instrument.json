@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lcec",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Cámaras Empresariales y sus Confederaciones",
+  "short_name": "LCEC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2005-01-20",
+  "latest_reform_date": "2019-04-12",
+  "retrieved_at": "2026-10-06T18:10:56.312288Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf",
+  "source_sha256": "e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b",
+  "extracted_text_sha256": "153c73b23c6cc7acd71ba9f77bd4260e3d109b985d48e20c87adb72db7b2311c",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

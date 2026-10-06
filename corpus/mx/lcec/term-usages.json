@@ -1,0 +1,1955 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:1:term-usage:238-253",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 238,
+    "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:2:term-usage:866-878",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "span": "Comerciantes",
+    "start_char": 866,
+    "end_char": 878
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:2:term-usage:1058-1070",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 1058,
+    "end_char": 1070
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:2:term-usage:1078-1085",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:estado",
+    "span": "Estados",
+    "start_char": 1078,
+    "end_char": 1085
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:2:term-usage:1587-1599",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "span": "Comerciantes",
+    "start_char": 1587,
+    "end_char": 1599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:2:term-usage:1602-1614",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 1602,
+    "end_char": 1614
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:3:term-usage:109-119",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 109,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:4:term-usage:18-33",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 18,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:4:term-usage:253-265",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "span": "Comerciantes",
+    "start_char": 253,
+    "end_char": 265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:4:term-usage:268-280",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 268,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:4:term-usage:348-363",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 348,
+    "end_char": 363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:4:term-usage:421-436",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 421,
+    "end_char": 436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:4:term-usage:743-749",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:estado",
+    "span": "Estado",
+    "start_char": 743,
+    "end_char": 749
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:4:term-usage:892-907",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 892,
+    "end_char": 907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:4:term-usage:1186-1196",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1186,
+    "end_char": 1196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:5:term-usage:129-142",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 129,
+    "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:5:term-usage:396-409",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 396,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:5:term-usage:588-601",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 588,
+    "end_char": 601
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:5:term-usage:693-703",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 693,
+    "end_char": 703
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:6:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:6:term-usage:99-112",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 99,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:6:term-usage:269-284",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 269,
+    "end_char": 284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:6:term-usage:323-338",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 323,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:6:term-usage:567-579",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "span": "Comerciantes",
+    "start_char": 567,
+    "end_char": 579
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:6:term-usage:582-594",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 582,
+    "end_char": 594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:6:term-usage:847-851",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 847,
+    "end_char": 851
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:6:term-usage:944-948",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 944,
+    "end_char": 948
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:6:term-usage:1148-1163",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 1148,
+    "end_char": 1163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:6:term-usage:1333-1337",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 1333,
+    "end_char": 1337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:7:term-usage:532-544",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "span": "Comerciantes",
+    "start_char": 532,
+    "end_char": 544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:7:term-usage:551-563",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 551,
+    "end_char": 563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:7:term-usage:580-584",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 580,
+    "end_char": 584
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:7:term-usage:610-620",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 610,
+    "end_char": 620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:7:term-usage:1268-1278",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1268,
+    "end_char": 1278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:7:term-usage:1670-1680",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1670,
+    "end_char": 1680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:7:term-usage:1918-1931",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 1918,
+    "end_char": 1931
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:8:term-usage:89-102",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 89,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:8:term-usage:216-229",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 216,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:9:term-usage:4-19",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 4,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:9:term-usage:799-809",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 799,
+    "end_char": 809
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:10:term-usage:405-417",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "span": "Comerciantes",
+    "start_char": 405,
+    "end_char": 417
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:12:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:12:term-usage:208-221",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 208,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:12:term-usage:261-274",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 261,
+    "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:12:term-usage:323-338",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 323,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:12:term-usage:592-607",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 592,
+    "end_char": 607
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:12:term-usage:882-892",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 882,
+    "end_char": 892
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:12:term-usage:1046-1056",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1046,
+    "end_char": 1056
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:12:term-usage:1100-1113",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 1100,
+    "end_char": 1113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:12:term-usage:1225-1235",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1225,
+    "end_char": 1235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:12:term-usage:1256-1269",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 1256,
+    "end_char": 1269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:12:term-usage:2327-2337",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2327,
+    "end_char": 2337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:13:term-usage:74-87",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 74,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:13:term-usage:549-561",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "span": "Comerciantes",
+    "start_char": 549,
+    "end_char": 561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:14:term-usage:74-87",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 74,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:14:term-usage:633-645",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 633,
+    "end_char": 645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:14:term-usage:701-713",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 701,
+    "end_char": 713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:14:term-usage:827-839",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 827,
+    "end_char": 839
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:14:term-usage:2143-2155",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 2143,
+    "end_char": 2155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:14:term-usage:2284-2296",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 2284,
+    "end_char": 2296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:14:term-usage:2315-2319",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 2315,
+    "end_char": 2319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:14:term-usage:2574-2586",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 2574,
+    "end_char": 2586
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:15:term-usage:213-223",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 213,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:15:term-usage:229-242",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 229,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:15:term-usage:606-619",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 606,
+    "end_char": 619
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:15:term-usage:721-734",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 721,
+    "end_char": 734
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:15:term-usage:874-887",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 874,
+    "end_char": 887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:15:term-usage:994-1004",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 994,
+    "end_char": 1004
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:15:term-usage:1233-1243",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1233,
+    "end_char": 1243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:15:term-usage:1249-1262",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 1249,
+    "end_char": 1262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:15:term-usage:1274-1286",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 1274,
+    "end_char": 1286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:15:term-usage:1294-1301",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:estado",
+    "span": "Estados",
+    "start_char": 1294,
+    "end_char": 1301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:15:term-usage:1624-1637",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 1624,
+    "end_char": 1637
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:15:term-usage:1745-1758",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 1745,
+    "end_char": 1758
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:15:term-usage:1898-1911",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 1898,
+    "end_char": 1911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:15:term-usage:2018-2028",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2018,
+    "end_char": 2028
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:16:term-usage:31-46",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 31,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:16:term-usage:1853-1863",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1853,
+    "end_char": 1863
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:17:term-usage:59-71",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "span": "Comerciantes",
+    "start_char": 59,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:17:term-usage:74-86",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 74,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:72-87",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 72,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:170-183",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 170,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:305-318",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 305,
+    "end_char": 318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:427-440",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 427,
+    "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:480-493",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 480,
+    "end_char": 493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:845-858",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 845,
+    "end_char": 858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:931-944",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 931,
+    "end_char": 944
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:1107-1120",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 1107,
+    "end_char": 1120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:1302-1306",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 1302,
+    "end_char": 1306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:1333-1343",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1333,
+    "end_char": 1343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:1372-1387",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 1372,
+    "end_char": 1387
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:1508-1521",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 1508,
+    "end_char": 1521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:1631-1644",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 1631,
+    "end_char": 1644
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:1806-1819",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 1806,
+    "end_char": 1819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:2037-2050",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 2037,
+    "end_char": 2050
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:2085-2098",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 2085,
+    "end_char": 2098
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:2386-2399",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 2386,
+    "end_char": 2399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:2476-2489",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 2476,
+    "end_char": 2489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:2708-2721",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 2708,
+    "end_char": 2721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:3168-3181",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 3168,
+    "end_char": 3181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:3241-3245",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 3241,
+    "end_char": 3245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:18:term-usage:3282-3295",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 3282,
+    "end_char": 3295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:19:term-usage:4-19",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 4,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:19:term-usage:292-305",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 292,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:19:term-usage:426-439",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 426,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:19:term-usage:499-503",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 499,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:19:term-usage:852-865",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 852,
+    "end_char": 865
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:19:term-usage:949-962",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 949,
+    "end_char": 962
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:19:term-usage:1173-1186",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 1173,
+    "end_char": 1186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:19:term-usage:1415-1428",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 1415,
+    "end_char": 1428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:19:term-usage:1590-1603",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 1590,
+    "end_char": 1603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:19:term-usage:2274-2278",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 2274,
+    "end_char": 2278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:19:term-usage:2306-2316",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2306,
+    "end_char": 2316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:19:term-usage:2457-2467",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2457,
+    "end_char": 2467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:19:term-usage:2581-2594",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 2581,
+    "end_char": 2594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:19:term-usage:2742-2755",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 2742,
+    "end_char": 2755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:19:term-usage:3056-3069",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 3056,
+    "end_char": 3069
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:20:term-usage:58-73",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 58,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:20:term-usage:439-452",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 439,
+    "end_char": 452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:22:term-usage:62-75",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 62,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:22:term-usage:159-172",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 159,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:22:term-usage:231-244",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 231,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:22:term-usage:510-520",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 510,
+    "end_char": 520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:22:term-usage:714-724",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 714,
+    "end_char": 724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:22:term-usage:888-898",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 888,
+    "end_char": 898
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:22:term-usage:917-930",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 917,
+    "end_char": 930
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:22:term-usage:1437-1452",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 1437,
+    "end_char": 1452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:22:term-usage:1613-1623",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1613,
+    "end_char": 1623
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:23:term-usage:37-50",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 37,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:24:term-usage:140-153",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 140,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:24:term-usage:699-712",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 699,
+    "end_char": 712
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:24:term-usage:1338-1351",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 1338,
+    "end_char": 1351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:24:term-usage:1468-1481",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 1468,
+    "end_char": 1481
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:25:term-usage:31-46",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 31,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:28:term-usage:292-304",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "span": "Comerciantes",
+    "start_char": 292,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:28:term-usage:307-319",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 307,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:29:term-usage:3-7",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 3,
+    "end_char": 7
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:29:term-usage:30-36",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:estado",
+    "span": "Estado",
+    "start_char": 30,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:29:term-usage:370-374",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 370,
+    "end_char": 374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:29:term-usage:658-662",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 658,
+    "end_char": 662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:29:term-usage:684-688",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 684,
+    "end_char": 688
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:29:term-usage:1414-1418",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 1414,
+    "end_char": 1418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:29:term-usage:1479-1489",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1479,
+    "end_char": 1489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:29:term-usage:1562-1572",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1562,
+    "end_char": 1572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:30:term-usage:10-22",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "span": "Comerciantes",
+    "start_char": 10,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:30:term-usage:25-37",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 25,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:30:term-usage:157-161",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 157,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:31:term-usage:3-7",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 3,
+    "end_char": 7
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:31:term-usage:103-113",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 103,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:31:term-usage:290-300",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 290,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:31:term-usage:517-527",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 517,
+    "end_char": 527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:31:term-usage:655-666",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "span": "Comerciante",
+    "start_char": 655,
+    "end_char": 666
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:31:term-usage:669-679",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industrial",
+    "start_char": 669,
+    "end_char": 679
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:31:term-usage:811-815",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 811,
+    "end_char": 815
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:32:term-usage:44-56",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "span": "Comerciantes",
+    "start_char": 44,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:32:term-usage:59-71",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 59,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:32:term-usage:140-152",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "span": "Comerciantes",
+    "start_char": 140,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:32:term-usage:155-167",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 155,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:32:term-usage:264-270",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:estado",
+    "span": "Estado",
+    "start_char": 264,
+    "end_char": 270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:32:term-usage:453-457",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 453,
+    "end_char": 457
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:32:term-usage:482-494",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "span": "Comerciantes",
+    "start_char": 482,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:32:term-usage:501-513",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 501,
+    "end_char": 513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:32:term-usage:840-850",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 840,
+    "end_char": 850
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:33:term-usage:22-26",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 22,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:33:term-usage:48-58",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 48,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:33:term-usage:149-159",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 149,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:33:term-usage:320-324",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 320,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:33:term-usage:421-431",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 421,
+    "end_char": 431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:33:term-usage:467-482",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 467,
+    "end_char": 482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:33:term-usage:493-503",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 493,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:33:term-usage:729-733",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 729,
+    "end_char": 733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:33:term-usage:805-815",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 805,
+    "end_char": 815
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:33:term-usage:915-919",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 915,
+    "end_char": 919
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:33:term-usage:1032-1036",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 1032,
+    "end_char": 1036
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:33:term-usage:1155-1167",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "span": "Comerciantes",
+    "start_char": 1155,
+    "end_char": 1167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:33:term-usage:1170-1182",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 1170,
+    "end_char": 1182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:34:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:34:term-usage:62-77",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 62,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:34:term-usage:106-110",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 106,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:34:term-usage:920-930",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 920,
+    "end_char": 930
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:34:term-usage:1068-1072",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 1068,
+    "end_char": 1072
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:35:term-usage:281-291",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 281,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:36:term-usage:65-75",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 65,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:36:term-usage:87-100",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 87,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:37:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:37:term-usage:207-217",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 207,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:37:term-usage:258-273",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 258,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:37:term-usage:470-485",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 470,
+    "end_char": 485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:38:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:38:term-usage:90-105",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 90,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:38:term-usage:221-225",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 221,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:38:term-usage:330-340",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 330,
+    "end_char": 340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:38:term-usage:478-491",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 478,
+    "end_char": 491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:39:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:39:term-usage:165-178",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 165,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:39:term-usage:468-478",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 468,
+    "end_char": 478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:40:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:40:term-usage:136-148",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "span": "Comerciantes",
+    "start_char": 136,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:40:term-usage:151-163",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "span": "Industriales",
+    "start_char": 151,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:40:term-usage:274-278",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 274,
+    "end_char": 278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:40:term-usage:499-503",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 499,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:41:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:41:term-usage:227-240",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 227,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:41:term-usage:655-659",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 655,
+    "end_char": 659
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:41:term-usage:749-759",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 749,
+    "end_char": 759
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:42:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:42:term-usage:69-82",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 69,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:42:term-usage:265-275",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 265,
+    "end_char": 275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:42:term-usage:344-357",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederación",
+    "start_char": 344,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:43:term-usage:114-124",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 114,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:article:45:term-usage:60-70",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 60,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:transitory:segundo:term-usage:48-63",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 48,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:transitory:quinto:term-usage:55-70",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 55,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:transitory:septimo:term-usage:31-41",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 31,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:transitory:septimo:term-usage:57-61",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "span": "SIEM",
+    "start_char": 57,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:transitory:octavo:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:transitory:octavo:term-usage:53-68",
+    "provision_id": "urn:lex-mx:federal:statute:lcec:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "span": "Confederaciones",
+    "start_char": 53,
+    "end_char": 68
+  }
+]

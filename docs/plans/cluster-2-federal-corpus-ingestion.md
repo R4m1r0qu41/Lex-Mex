@@ -171,19 +171,17 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-AD1–AD4, TX1–TX3, FI1–FI3, and EC1 are closed; FI1 opened Domain FI
-(`lcnbv` held out for `stale-cross-reference-to-repealed-provision`, a new
-class — `docs/ingestion-difficulty-log.md`), FI2 continued it, and FI3
-completed the prepared FI sequence with all eight entries admitted. When
-general cluster-2 ingestion resumes, normalize EC2
-(`cl2_EC2_empresas_mipyme`, 9 instruments, the next batch per
-`prompts/lex-mex-federal-cluster-2-plan.md`'s admission order) into an
-operational manifest and provisionally process its first instrument. The
-separately authorized five-NOM Maximasa sequence does not reorder the
-prepared federal batches. Corpus-wide relinking and human expected-edge
-review remain separate work.
+EC2 is normalized in `batches/economy_EC2_empresas_mipyme.json`.
+LCEC has completed provisional inspection, source-boundary correction, baseline
+freezing, reverse linking, validation, and Markdown export with zero issues.
+The LCEC checkpoint includes the EC2 manifest, adapter, canonical corpus,
+Markdown, and manifest inventory count update. The next action is to
+provisionally process `reg-lcec`. The remaining eight EC2 instruments are not yet ingested.
+Temporal model analysis and human legal review remain separate workflows.
 
 ## Progress
+
+- [x] (2026-10-06 18:11Z) Normalized all nine prepared EC2 entries (none previously present). Ingested LCEC: 45 articles, 8 original transitories, 23 references, 12 terms with 217 usages, 2 reform-transitory evidence records. An exact adapter stop marker excludes the 2004 congressional signatures and promulgation apparatus; source and extracted hashes stayed identical across reruns. Frozen baseline, bounded closure, and Markdown export passed with zero validation issues. All five required repository checks passed (193 workspace tests). Changes remain uncommitted; no temporal model or legal-review resolution ran.
 
 - [x] (2026-07-14 20:33Z) Ingested and committed `locg` at `97fa5cbc`; validation recorded zero issues.
 - [x] (2026-07-14 21:02Z) Ingested and committed `reg-diputados` at `553baa6e`; validation recorded zero issues.

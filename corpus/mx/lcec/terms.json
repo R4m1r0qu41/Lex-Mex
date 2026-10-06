@@ -1,0 +1,134 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:term:estado",
+    "term": "Estado",
+    "instrument_id": "urn:lex-mx:federal:statute:lcec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 319,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lcec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "fraction": "II",
+    "start_char": 319,
+    "end_char": 363,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:term:comerciantes",
+    "term": "Comerciantes",
+    "instrument_id": "urn:lex-mx:federal:statute:lcec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "fraction": "III",
+    "start_char": 363,
+    "end_char": 564,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:term:industriales",
+    "term": "Industriales",
+    "instrument_id": "urn:lex-mx:federal:statute:lcec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "fraction": "IV",
+    "start_char": 564,
+    "end_char": 939,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:term:confederacion",
+    "term": "Confederación",
+    "instrument_id": "urn:lex-mx:federal:statute:lcec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "fraction": "VI",
+    "start_char": 939,
+    "end_char": 1105,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:term:circunscripcion",
+    "term": "Circunscripción",
+    "instrument_id": "urn:lex-mx:federal:statute:lcec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "fraction": "VII",
+    "start_char": 1105,
+    "end_char": 1185,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:term:giro",
+    "term": "Giro",
+    "instrument_id": "urn:lex-mx:federal:statute:lcec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "fraction": "VIII",
+    "start_char": 1185,
+    "end_char": 1462,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:term:ejercicio",
+    "term": "Ejercicio",
+    "instrument_id": "urn:lex-mx:federal:statute:lcec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "fraction": "IX",
+    "start_char": 1462,
+    "end_char": 1553,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:term:grupo-promotor",
+    "term": "Grupo promotor",
+    "instrument_id": "urn:lex-mx:federal:statute:lcec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "fraction": "X",
+    "start_char": 1553,
+    "end_char": 1706,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:term:siem",
+    "term": "SIEM",
+    "instrument_id": "urn:lex-mx:federal:statute:lcec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "fraction": "XI",
+    "start_char": 1706,
+    "end_char": 1762,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:term:clasificador",
+    "term": "Clasificador",
+    "instrument_id": "urn:lex-mx:federal:statute:lcec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "fraction": "XII",
+    "start_char": 1762,
+    "end_char": 1899,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:term:salario-minimo",
+    "term": "Salario mínimo",
+    "instrument_id": "urn:lex-mx:federal:statute:lcec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "fraction": "XIII",
+    "start_char": 1899,
+    "end_char": 2023,
+    "basis": "express_definition"
+  }
+]
