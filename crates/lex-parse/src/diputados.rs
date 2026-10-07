@@ -1079,6 +1079,24 @@ fn is_reform_transitory_section_header(block: &str) -> bool {
         || uppercase.starts_with("ARTICULOS TRANSITORIOS DEL DECRETO")
 }
 
+/// An all-caps `LEY <title>` line in the reform appendix is an amending act
+/// title only when it is a short, title-shaped line. A long block, a
+/// continuation or running header, a line citing a DOF date, or a sentence
+/// that merely begins `LEY ` is not.
+fn is_short_ley_title_line(block: &str) -> bool {
+    // The appendix prints the title and, often, its publication note in one
+    // block ("LEY <title>. Publicada en el Diario Oficial …"); anything else
+    // after the title sentence means the block is prose.
+    let (title, rest) = block
+        .split_once(". ")
+        .map_or((block, ""), |(title, rest)| (title, rest.trim_start()));
+    title.starts_with("LEY ")
+        && title.chars().count() <= 160
+        && !title.contains("DOF")
+        && !title.to_lowercase().contains("continuación")
+        && (rest.is_empty() || rest.starts_with("Publicad"))
+}
+
 fn reform_act_heading_kind(block: &str) -> Option<&'static str> {
     if is_decree_heading(block) {
         Some("Decreto")
@@ -1090,7 +1108,7 @@ fn reform_act_heading_kind(block: &str) -> Option<&'static str> {
     // Ferroviario.` form. Keep the broader recognition here rather than in
     // the main-document structural parser, where `LEY ` can begin ordinary
     // source text.
-    } else if is_reform_ley_heading(block) || block.starts_with("LEY ") {
+    } else if is_reform_ley_heading(block) || is_short_ley_title_line(block) {
         Some("Ley")
     } else {
         None
@@ -1493,6 +1511,33 @@ mod tests {
                 .text
                 .contains("El presente Decreto entrará en vigor al día siguiente.")
         }));
+    }
+
+    #[test]
+    fn reform_appendix_ley_heading_must_be_a_short_title_line() {
+        for title in [
+            "LEY Reglamentaria del Servicio Ferroviario.",
+            "LEY DEL IMPUESTO SOBRE LA RENTA",
+            "LEY de Ingresos de la Federación para el ejercicio fiscal de 2010",
+        ] {
+            assert_eq!(
+                super::reform_act_heading_kind(title),
+                Some("Ley"),
+                "{title}"
+            );
+        }
+        for not_a_title in [
+            "LEY DEL IMPUESTO SOBRE LA RENTA (continuación)",
+            "LEY GENERAL DE SOCIEDADES MERCANTILES Artículo reformado DOF 12-01-2010",
+            "LEY ORGÁNICA. El Congreso de la Unión expedirá las disposiciones necesarias.",
+            "LEY APLICABLE A LOS CONTRATOS QUE CELEBREN LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA FEDERAL CON PERSONAS FÍSICAS O MORALES NACIONALES O EXTRANJERAS, EN LOS TÉRMINOS Y CONDICIONES QUE SE ESTABLEZCAN EN EL REGLAMENTO",
+        ] {
+            assert_eq!(
+                super::reform_act_heading_kind(not_a_title),
+                None,
+                "{not_a_title}"
+            );
+        }
     }
 
     #[test]
