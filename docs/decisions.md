@@ -1,5 +1,30 @@
 # Architecture decisions
 
+## 2026-10-07 — Article dates: original commencement for unamended articles, reform commencement otherwise
+
+An article's start date is exactly one of two knowable values: the original
+instrument commencement, when the article was never amended, or the
+commencement of the reform that last touched it. The 2026-10-06 repair cleared
+both kinds because it could not tell them apart, which discarded correct
+dates. `temporal-derive-v3` separates them by amendment evidence: an article
+with no `DOF dd-mm-yyyy` note and no footnote mark takes the resolved original
+commencement; an amended article stays unset, because its date is its
+reform's commencement and needs that reform's own transitories.
+
+`derive-temporal --repair-dates-only` restored 10,208 dates in 130
+instruments (receipt: `docs/temporal-date-restoration-2026-10-07.json`).
+Structured comparison against the previous commit showed only `effective_from`
+changed, only from null to the original commencement, and no amended article
+was touched. Before restoring, every instrument was checked for consistency
+between its recorded reform date and its amendment evidence: 130 were
+consistent and none recorded a reform with no evidence in its text.
+
+An unmarked article is not proof of an unamended article if the parser missed
+a note. Cross-checking against the publisher's decree-by-decree reform list is
+the audit for that risk and is not automated. A commencement that depends on a
+future uncertain act, and partial repeals, are not modelled yet; see
+`docs/plans/partial-repeal-and-conditional-commencement.md`.
+
 ## 2026-10-06 — Enforce temporal model boundaries and remove unsupported article dates
 
 Raw temporal model responses must pass the embedded model-output v2 JSON Schema
