@@ -485,6 +485,21 @@ fn is_plural_decree_article_wrapper(block: &str, ordinals: &[String]) -> bool {
         && is_decree_article_wrapper(block, ordinals)
 }
 
+/// The enacting decree's own title says it issues a law *and* amends others
+/// ("SE EXPIDE LA LEY … Y SE REFORMAN …", or the reverse order). Only such an
+/// omnibus enactment has a law whose transitories sit between decree articles
+/// and a separate overall-decree transitory section; scoping the parser's
+/// omnibus path to this title keeps an ordinary law's "Artículos …" block from
+/// being read as one.
+fn is_omnibus_enactment_title(block: &str) -> bool {
+    let title = collapse_whitespace(&block.to_uppercase());
+    (title.starts_with("SE ") || title.starts_with("DECRETO "))
+        && title.contains("SE EXPIDE")
+        && ["SE REFORMAN", "SE ADICIONAN", "SE DEROGAN", "SE ABROGAN"]
+            .iter()
+            .any(|action| title.contains(action))
+}
+
 fn is_immediate_structural(
     line: &str,
     options: &DiputadosOptions,
@@ -788,7 +803,15 @@ pub fn parse_diputados(
     };
     let mut in_statute_transitories = false;
     let mut in_substantive_annex = false;
+    // The omnibus path is gated on the decree title in the preamble, before
+    // the law's own text begins.
+    let omnibus_enactment = blocks
+        .iter()
+        .take(80)
+        .any(|block| is_omnibus_enactment_title(block));
     let mut pending_overall_decree_transitory = false;
+    let mut enactment_layer_ordinals: std::collections::HashSet<String> =
+        std::collections::HashSet::new();
     let mut last_article_base: Option<u64> = None;
     let mut seen_ordinals: std::collections::HashSet<String> = std::collections::HashSet::new();
 
@@ -839,7 +862,7 @@ pub fn parse_diputados(
             if in_statute_transitories {
                 if pending_overall_decree_transitory {
                     pending_overall_decree_transitory = false;
-                    seen_ordinals.clear();
+                    enactment_layer_ordinals = std::mem::take(&mut seen_ordinals);
                     continue;
                 }
                 break;
@@ -858,7 +881,11 @@ pub fn parse_diputados(
             continue;
         }
         if pending_overall_decree_transitory {
-            break;
+            bail!(
+                "{}: omnibus decree article wrapper was not followed by the overall decree's transitory section (found {:?})",
+                options.instrument_id,
+                block.chars().take(60).collect::<String>()
+            );
         }
 
         if in_statute_transitories {
@@ -867,7 +894,7 @@ pub fn parse_diputados(
             if block.starts_with("DECRETO por") || block.starts_with("REFORMAS Y ADICIONES") {
                 break;
             }
-            if is_plural_decree_article_wrapper(&block, &ordinals) {
+            if omnibus_enactment && is_plural_decree_article_wrapper(&block, &ordinals) {
                 if let Some(builder) = current.take() {
                     provisions.push(builder.finish(&options.instrument_id, publication_date));
                 }
@@ -878,6 +905,12 @@ pub fn parse_diputados(
                 // A repeated ordinal starts a reform decree's transitorios
                 // (unmarked by a header); the instrument's own transitorios
                 // are unique, so stop rather than duplicate them.
+                if enactment_layer_ordinals.contains(&ordinal.to_uppercase()) {
+                    bail!(
+                        "{}: overall decree transitory {ordinal} repeats an ordinal already used by the law's own transitories",
+                        options.instrument_id
+                    );
+                }
                 if !seen_ordinals.insert(ordinal.to_uppercase()) {
                     break;
                 }
@@ -1206,7 +1239,7 @@ mod tests {
     use chrono::NaiveDate;
     use lex_core::ProvisionType;
 
-    use super::{DiputadosOptions, parse_diputados};
+    use super::{DiputadosOptions, is_omnibus_enactment_title, parse_diputados};
 
     const CODIGO_FIXTURE: &str = include_str!("../../../fixtures/diputados/codigo-sample.txt");
     const NUMBERED_PARAGRAPH_FIXTURE: &str =
@@ -1460,6 +1493,91 @@ mod tests {
                 .text
                 .contains("El presente Decreto entrará en vigor al día siguiente.")
         }));
+    }
+
+    #[test]
+    fn omnibus_enactment_is_recognised_from_the_decree_title_only() {
+        for title in [
+            "SE EXPIDE LA LEY DE AHORRO Y CRÉDITO POPULAR Y SE REFORMAN Y DEROGAN\nDIVERSAS DISPOSICIONES DE LA LEY GENERAL DE ORGANIZACIONES",
+            "SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA FINANCIERA Y SE EXPIDE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS.",
+        ] {
+            assert!(is_omnibus_enactment_title(title), "{title}");
+        }
+        for title in [
+            "SE EXPIDE LA LEY FEDERAL DE CÁMARAS EMPRESARIALES.",
+            "SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO.",
+            "Artículos Primero y Segundo se reforman y se expide el reglamento.",
+        ] {
+            assert!(!is_omnibus_enactment_title(title), "{title}");
+        }
+    }
+
+    fn omnibus_fixture_without_title() -> String {
+        NESTED_OMNIBUS_TRANSITORY_FIXTURE
+            .lines()
+            .skip(2)
+            .collect::<Vec<_>>()
+            .join("\n")
+    }
+
+    #[test]
+    fn plural_decree_wrapper_is_inert_without_an_omnibus_title() {
+        let document = parse_diputados(
+            &omnibus_fixture_without_title(),
+            &options(
+                "urn:lex-mx:federal:statute:lraf",
+                "Ley para Regular las Agrupaciones Financieras",
+            ),
+            NaiveDate::from_ymd_opt(2014, 1, 10).expect("valid date"),
+        )
+        .expect("ordinary law still parses");
+        // Without the title the overall decree's transitory is not admitted.
+        assert!(
+            document
+                .provisions
+                .iter()
+                .all(|provision| provision.number != "ÚNICO")
+        );
+    }
+
+    #[test]
+    fn omnibus_wrapper_without_overall_transitory_header_fails_loudly() {
+        let raw = NESTED_OMNIBUS_TRANSITORY_FIXTURE.replace(
+            "TRANSITORIO\n\nÚNICO.-",
+            "ARTÍCULO QUINCUAGÉSIMO QUINTO.- Texto de otro artículo del decreto.\n\nÚNICO.-",
+        );
+        let error = parse_diputados(
+            &raw,
+            &options(
+                "urn:lex-mx:federal:statute:lraf",
+                "Ley para Regular las Agrupaciones Financieras",
+            ),
+            NaiveDate::from_ymd_opt(2014, 1, 10).expect("valid date"),
+        )
+        .expect_err("silent truncation is rejected");
+        assert!(
+            error
+                .to_string()
+                .contains("overall decree's transitory section")
+        );
+    }
+
+    #[test]
+    fn omnibus_overall_transitory_reusing_a_law_ordinal_fails_loudly() {
+        let raw = NESTED_OMNIBUS_TRANSITORY_FIXTURE.replace(
+            "ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.",
+            "QUINCUAGÉSIMO SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.",
+        );
+        let error = parse_diputados(
+            &raw,
+            &options(
+                "urn:lex-mx:federal:statute:lraf",
+                "Ley para Regular las Agrupaciones Financieras",
+            ),
+            NaiveDate::from_ymd_opt(2014, 1, 10).expect("valid date"),
+        )
+        .expect_err("duplicate canonical ids are rejected");
+        assert!(error.to_string().contains("repeats an ordinal"));
     }
 
     #[test]
