@@ -39,7 +39,8 @@ pub use standard::{
     validate_standard,
 };
 pub use temporal_derive::{
-    Commencement, DerivationOutcome, SkipReason, derive_article_temporal_determinations,
+    Commencement, DerivationOutcome, SkipReason, clear_unproven_article_dates,
+    derive_article_temporal_determinations,
 };
 pub use terms::{
     GlossaryStyle, detect_glossary_terms, extract_term_usages, extract_terms,

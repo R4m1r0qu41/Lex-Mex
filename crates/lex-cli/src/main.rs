@@ -24,10 +24,11 @@ use lex_export::{
 };
 use lex_parse::{
     Commencement, CorpusExpectations, CorpusView, DiputadosOptions, GlossaryStyle,
-    InstrumentContextPolicy, ReferenceOptions, audit_pdf, derive_article_temporal_determinations,
-    detect_glossary_terms, extract_doc, extract_html_text, extract_internal_references,
-    extract_pdf, extract_references, extract_term_usages, extract_terms, find_admitted_furniture,
-    find_glossary_provision, parse_dcg, parse_diputados, parse_itf_dcg, validate_corpus,
+    InstrumentContextPolicy, ReferenceOptions, audit_pdf, clear_unproven_article_dates,
+    derive_article_temporal_determinations, detect_glossary_terms, extract_doc, extract_html_text,
+    extract_internal_references, extract_pdf, extract_references, extract_term_usages,
+    extract_terms, find_admitted_furniture, find_glossary_provision, parse_dcg, parse_diputados,
+    parse_itf_dcg, validate_corpus,
 };
 use lex_source::{
     SourceConfig, SourceFormat, discover, fetch, fetch_annex, fetch_formal, load_batch_manifest,
@@ -134,11 +135,16 @@ enum Command {
     /// Deterministically classify an instrument's articles as effective,
     /// future-effective, or repealed from plain code -- no model call --
     /// using only its own commencement clause and repeal-marker text.
-    /// Never touches a provision already at a review status past
-    /// `not_analyzed`; skips (and reports why) any instrument whose
+    /// New determinations only touch `not_analyzed` provisions. Also repairs
+    /// unsupported dates produced by the prior deterministic rule.
+    /// Skips (and reports why) any instrument whose
     /// commencement it cannot resolve unambiguously.
     DeriveTemporal {
         instrument: String,
+        /// Clear only unsupported dates from the old deterministic rule.
+        /// Does not create any new temporal determinations.
+        #[arg(long)]
+        repair_dates_only: bool,
     },
     Validate {
         instrument: String,
@@ -376,11 +382,10 @@ fn dispatch(root: &Path, obsidian_vault: Option<&Path>, command: Command) -> Res
             run_temporal_import(&context, &response, &model, response_id)?;
             republish_exports(root, &context, obsidian_vault)?;
         }
-        Command::DeriveTemporal { instrument } => {
-            let context = instrument_context(root, &instrument)?;
-            run_temporal_derive(&context)?;
-            republish_exports(root, &context, obsidian_vault)?;
-        }
+        Command::DeriveTemporal {
+            instrument,
+            repair_dates_only,
+        } => run_derive_command(root, &instrument, repair_dates_only, obsidian_vault)?,
         Command::Validate { instrument } => {
             let context = instrument_context(root, &instrument)?;
             let report = run_validate(root, &context)?;
@@ -894,7 +899,7 @@ fn run_pipeline(
     if !report.valid {
         bail!("pipeline stopped: validation failed");
     }
-    run_temporal_derive(context)?;
+    run_temporal_derive(context, false)?;
     if temporal_provider == TemporalProvider::Codex {
         run_codex_temporal(root, context, temporal_model)?;
     }
@@ -2498,9 +2503,30 @@ fn run_temporal_import(
 /// Deterministic, no-model temporal classification (`lex_parse::temporal_derive`).
 /// Reports what it resolved or skipped and why; never fails the pipeline --
 /// a skipped instrument is an expected, common outcome, not an error.
-fn run_temporal_derive(context: &InstrumentContext) -> Result<()> {
+fn run_derive_command(
+    root: &Path,
+    instrument: &str,
+    repair_dates_only: bool,
+    vault: Option<&Path>,
+) -> Result<()> {
+    let context = instrument_context(root, instrument)?;
+    run_temporal_derive(&context, repair_dates_only)?;
+    republish_exports(root, &context, vault)
+}
+
+fn run_temporal_derive(context: &InstrumentContext, repair_dates_only: bool) -> Result<()> {
     let paths = &context.paths;
     let mut corpus = read_corpus(paths)?;
+    let cleared = clear_unproven_article_dates(&corpus.instrument, &mut corpus.provisions);
+    if cleared > 0 {
+        println!("cleared {cleared} unsupported original-law dates from deterministic articles");
+    }
+    if repair_dates_only {
+        if cleared > 0 {
+            write_canonical(&corpus, &paths.corpus)?;
+        }
+        return Ok(());
+    }
     let today = Utc::now().date_naive();
     let outcome =
         derive_article_temporal_determinations(&corpus.instrument, &corpus.provisions, today);
@@ -2534,7 +2560,7 @@ fn run_temporal_derive(context: &InstrumentContext) -> Result<()> {
             );
         }
     }
-    if outcome.determinations.is_empty() {
+    if outcome.determinations.is_empty() && cleared == 0 {
         return Ok(());
     }
     apply_temporal_determinations(&mut corpus.provisions, &outcome.determinations);

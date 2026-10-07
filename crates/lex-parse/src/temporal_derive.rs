@@ -26,15 +26,12 @@
 //!   category at a time, the same way `docs/ingestion-difficulty-log.md`
 //!   already tracks parser gaps.
 //!
-//! A "simple" instrument's commencement date is applied to every one of its
-//! non-repealed articles as of-today in-force status. It intentionally does
-//! not attempt per-article precision about *which* reform decree added a
-//! given article — for a corpus holding only already-enacted, currently
-//! consolidated text, any article present today has necessarily already
-//! taken effect by the time its own reform predates "today", so asserting
-//! `Effective` without a precise `effective_from` is honest; asserting a
-//! specific `effective_from` for an amendment-added article without
-//! tracking amendment provenance would not be.
+//! A "simple" instrument's commencement drives the existing machine status
+//! classification of its non-repealed articles. It does not prove the effective
+//! date of each article's current wording, so article `effective_from` remains
+//! unset. This is not a historical-version model: later reforms with deferred
+//! or conditional commencement require separate evidence and review even when
+//! the consolidated text already contains their wording.
 
 use chrono::{Days, NaiveDate};
 use lex_core::{
@@ -48,7 +45,7 @@ use regex::Regex;
 /// glance that a determination came from code, not a model call, and which
 /// version of the rules produced it.
 pub const DETERMINATION_SOURCE: &str = "deterministic-rule";
-pub const RULE_SET_VERSION: &str = "temporal-derive-v1";
+pub const RULE_SET_VERSION: &str = "temporal-derive-v2";
 
 /// Why an instrument's commencement could not be resolved automatically.
 /// Each variant is a distinct, addressable outlier category: the intended
@@ -217,7 +214,7 @@ pub fn derive_article_temporal_determinations(
                 provision,
                 instrument,
                 status.clone(),
-                Some(*effective_from),
+                None,
                 0.9,
                 vec![format!(
                     "instrument's own commencement clause resolves to {effective_from}"
@@ -230,6 +227,42 @@ pub fn derive_article_temporal_determinations(
         determinations,
         commencement: Some(commencement),
     }
+}
+
+/// Remove only the unsupported dates produced by the old commencement rule.
+/// Human/model-reviewed state and repeal determinations are outside this repair.
+#[must_use]
+pub fn clear_unproven_article_dates(
+    instrument: &Instrument,
+    provisions: &mut [Provision],
+) -> usize {
+    let transitories = provisions
+        .iter()
+        .filter(|provision| provision.provision_type == ProvisionType::Transitory)
+        .collect::<Vec<_>>();
+    let Commencement::Resolved { effective_from, .. } =
+        resolve_commencement(&transitories, instrument.publication_date)
+    else {
+        return 0;
+    };
+    let mut cleared = 0;
+    for provision in provisions {
+        if provision.provision_type == ProvisionType::Article
+            && provision.temporal_basis == Some(Basis::DeterministicRule)
+            && provision.review_status == ReviewStatus::MachineAccepted
+            && matches!(
+                provision.temporal_status,
+                TemporalStatus::Effective | TemporalStatus::FutureEffective
+            )
+            && provision.effective_from == Some(effective_from)
+            && provision.effective_to.is_none()
+            && provision.transitory_effects.is_empty()
+        {
+            provision.effective_from = None;
+            cleared += 1;
+        }
+    }
+    cleared
 }
 
 fn determination(
@@ -562,6 +595,51 @@ mod tests {
         )
     }
 
+    fn resolved_date(outcome: &super::DerivationOutcome) -> Option<NaiveDate> {
+        assert!(
+            outcome
+                .determinations
+                .iter()
+                .all(|item| item.effective_from.is_none())
+        );
+        match outcome.commencement {
+            Some(Commencement::Resolved { effective_from, .. }) => Some(effective_from),
+            _ => None,
+        }
+    }
+
+    #[test]
+    fn added_article_does_not_inherit_original_law_date_and_repair_preserves_review() {
+        let inst = instrument(date(1995, 12, 22));
+        let mut provisions = vec![
+            article("10-Bis", "Artículo adicionado en 2016."),
+            transitory(
+                "primero",
+                "La presente Ley entrará en vigor al día siguiente de su publicación.",
+            ),
+        ];
+        let outcome = derive_article_temporal_determinations(&inst, &provisions, date(2026, 1, 1));
+        assert_eq!(resolved_date(&outcome), Some(date(1995, 12, 23)));
+        lex_core::apply_temporal_determinations(&mut provisions, &outcome.determinations);
+        provisions[0].effective_from = Some(date(1995, 12, 23));
+        let mut human = provisions[0].clone();
+        human.id = "human-reviewed".to_owned();
+        human.temporal_basis = Some(Basis::LawyerVerified);
+        human.review_status = ReviewStatus::LawyerVerified;
+        provisions.push(human.clone());
+        assert_eq!(
+            super::clear_unproven_article_dates(&inst, &mut provisions),
+            1
+        );
+        assert_eq!(provisions[0].effective_from, None);
+        assert_eq!(provisions[2].effective_from, human.effective_from);
+        assert_eq!(provisions[2].review_status, ReviewStatus::LawyerVerified);
+        assert_eq!(
+            super::clear_unproven_article_dates(&inst, &mut provisions),
+            0
+        );
+    }
+
     #[test]
     #[allow(clippy::float_cmp)] // 1.0 is the deterministic rule's exact contract.
     fn day_after_publication_classifies_all_non_repealed_articles() {
@@ -582,7 +660,8 @@ mod tests {
             .find(|d| d.provision_id.ends_with(":1"))
             .expect("article 1 determination");
         assert_eq!(art1.temporal_status, TemporalStatus::Effective);
-        assert_eq!(art1.effective_from, Some(date(1990, 1, 2)));
+        assert_eq!(art1.effective_from, None);
+        assert_eq!(resolved_date(&outcome), Some(date(1990, 1, 2)));
         assert_eq!(art1.basis, Basis::DeterministicRule);
         assert!(!art1.review_required);
         let art2 = outcome
@@ -612,10 +691,7 @@ mod tests {
             ),
         ];
         let outcome = derive_article_temporal_determinations(&inst, &provisions, date(2026, 1, 1));
-        assert_eq!(
-            outcome.determinations[0].effective_from,
-            Some(date(2001, 3, 16))
-        );
+        assert_eq!(resolved_date(&outcome), Some(date(2001, 3, 16)));
     }
 
     #[test]
@@ -629,10 +705,7 @@ mod tests {
             ),
         ];
         let outcome = derive_article_temporal_determinations(&inst, &provisions, date(2026, 1, 1));
-        assert_eq!(
-            outcome.determinations[0].effective_from,
-            Some(date(1981, 1, 1))
-        );
+        assert_eq!(resolved_date(&outcome), Some(date(1981, 1, 1)));
         assert!(matches!(
             outcome.commencement,
             Some(Commencement::Resolved {
@@ -653,10 +726,7 @@ mod tests {
             ),
         ];
         let outcome = derive_article_temporal_determinations(&inst, &provisions, date(2026, 1, 1));
-        assert_eq!(
-            outcome.determinations[0].effective_from,
-            Some(date(2010, 7, 1))
-        );
+        assert_eq!(resolved_date(&outcome), Some(date(2010, 7, 1)));
     }
 
     #[test]
@@ -670,10 +740,7 @@ mod tests {
             ),
         ];
         let outcome = derive_article_temporal_determinations(&inst, &provisions, date(2026, 1, 1));
-        assert_eq!(
-            outcome.determinations[0].effective_from,
-            Some(date(1981, 3, 30))
-        );
+        assert_eq!(resolved_date(&outcome), Some(date(1981, 3, 30)));
     }
 
     #[test]
@@ -846,10 +913,7 @@ mod tests {
             ),
         ];
         let outcome = derive_article_temporal_determinations(&inst, &provisions, date(2026, 1, 1));
-        assert_eq!(
-            outcome.determinations[0].effective_from,
-            Some(date(2006, 1, 1))
-        );
+        assert_eq!(resolved_date(&outcome), Some(date(2006, 1, 1)));
     }
 
     #[test]
