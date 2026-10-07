@@ -869,9 +869,13 @@ pub(crate) fn initial_temporal_status(text: &str) -> lex_core::TemporalStatus {
     .iter()
     .any(|marker| {
         head.strip_prefix(marker).is_some_and(|tail| {
-            tail.chars()
+            // A marker is standalone when nothing continues its line: end of
+            // text, punctuation, or a line break (the Diputados layout puts the
+            // marker in its own paragraph above the amendment history).
+            let rest = tail.trim_start_matches([' ', '\t']);
+            rest.chars()
                 .next()
-                .is_none_or(|character| !character.is_alphabetic() && !character.is_whitespace())
+                .is_none_or(|character| !character.is_alphanumeric())
         })
     });
     if standalone_marker {
@@ -2569,6 +2573,36 @@ mod tests {
             initial_temporal_status("Se deroga el artículo 27 de otra ley."),
             TemporalStatus::Unknown
         );
+    }
+
+    #[test]
+    fn repeal_marker_alone_on_its_line_is_a_repeal_but_a_sentence_is_not() {
+        // Diputados repealed articles: the marker is its own paragraph, followed
+        // by the retained amendment-history line (LACP, LGOAAC, CCOM).
+        for text in [
+            "Se deroga\n\nArtículo derogado DOF 13-08-2009",
+            "Se deroga\n\nArtículo reformado DOF 15-07-1993. Derogado DOF 10-01-2014",
+            "Derogado\n\nArtículo derogado DOF 10-01-2014",
+            "(Se deroga)\n\nArtículo derogado DOF 13-08-2009",
+            "Se deroga  \n\nArtículo derogado DOF 13-08-2009",
+        ] {
+            assert_eq!(
+                initial_temporal_status(text),
+                TemporalStatus::Repealed,
+                "{text:?}"
+            );
+        }
+        for text in [
+            "Se deroga el artículo 27 de otra ley.\n\nOtro párrafo.",
+            "Se deroga la Ley de otra materia publicada en 1990.",
+            "Derogado capítulo sexto de las sociedades.",
+        ] {
+            assert_eq!(
+                initial_temporal_status(text),
+                TemporalStatus::Unknown,
+                "{text:?}"
+            );
+        }
     }
 
     #[test]
