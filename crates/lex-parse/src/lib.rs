@@ -39,8 +39,8 @@ pub use standard::{
     validate_standard,
 };
 pub use temporal_derive::{
-    Commencement, DerivationOutcome, SkipReason, clear_unproven_article_dates,
-    derive_article_temporal_determinations,
+    Commencement, DerivationOutcome, SkipReason, derive_article_temporal_determinations,
+    repair_article_dates,
 };
 pub use terms::{
     GlossaryStyle, detect_glossary_terms, extract_term_usages, extract_terms,
@@ -293,10 +293,16 @@ impl ReferenceOptions {
     }
 }
 
+static DOF_DATE: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
+    Regex::new(r"\bDOF\s+(\d{2})-(\d{2})-(\d{4})").expect("static regex")
+});
+
+/// Whether text carries any `DOF dd-mm-yyyy` amendment note, valid date or not.
+pub(crate) fn mentions_dof_date(text: &str) -> bool {
+    DOF_DATE.is_match(text)
+}
+
 fn latest_dof_date(text: &str) -> Option<NaiveDate> {
-    static DOF_DATE: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
-        Regex::new(r"\bDOF\s+(\d{2})-(\d{2})-(\d{4})").expect("static regex")
-    });
     DOF_DATE
         .captures_iter(text)
         .filter_map(|captures| {

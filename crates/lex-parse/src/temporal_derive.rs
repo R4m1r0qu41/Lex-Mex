@@ -27,11 +27,15 @@
 //!   already tracks parser gaps.
 //!
 //! A "simple" instrument's commencement drives the existing machine status
-//! classification of its non-repealed articles. It does not prove the effective
-//! date of each article's current wording, so article `effective_from` remains
-//! unset. This is not a historical-version model: later reforms with deferred
-//! or conditional commencement require separate evidence and review even when
-//! the consolidated text already contains their wording.
+//! classification of its non-repealed articles. An article's own start date
+//! is one of exactly two things: the original commencement, if the article
+//! was never amended, or the commencement of the reform that last touched
+//! it. This rule derives the first only. An article showing amendment
+//! evidence (a `DOF dd-mm-yyyy` note or a footnote mark) keeps no
+//! `effective_from`, because its date is its reform's commencement, which
+//! needs that reform's own transitories. This is not a historical-version
+//! model: it says when the current wording could have taken effect, not what
+//! the law said on a chosen past date.
 
 use chrono::{Days, NaiveDate};
 use lex_core::{
@@ -45,7 +49,7 @@ use regex::Regex;
 /// glance that a determination came from code, not a model call, and which
 /// version of the rules produced it.
 pub const DETERMINATION_SOURCE: &str = "deterministic-rule";
-pub const RULE_SET_VERSION: &str = "temporal-derive-v2";
+pub const RULE_SET_VERSION: &str = "temporal-derive-v3";
 
 /// Why an instrument's commencement could not be resolved automatically.
 /// Each variant is a distinct, addressable outlier category: the intended
@@ -210,11 +214,16 @@ pub fn derive_article_temporal_determinations(
             {
                 continue;
             }
+            // An article with no amendment evidence still has its original
+            // wording, so it took effect with the instrument. An amended one
+            // took effect with the reform that touched it, which this rule
+            // does not derive, so its date stays unset.
+            let article_date = (!has_amendment_evidence(provision)).then_some(*effective_from);
             determinations.push(determination(
                 provision,
                 instrument,
                 status.clone(),
-                None,
+                article_date,
                 0.9,
                 vec![format!(
                     "instrument's own commencement clause resolves to {effective_from}"
@@ -229,13 +238,20 @@ pub fn derive_article_temporal_determinations(
     }
 }
 
-/// Remove only the unsupported dates produced by the old commencement rule.
-/// Human/model-reviewed state and repeal determinations are outside this repair.
+/// Whether an article's own text or footnote legend shows it was amended
+/// after the instrument's enactment.
+fn has_amendment_evidence(provision: &Provision) -> bool {
+    !provision.amendment_marks.is_empty() || crate::mentions_dof_date(&provision.text)
+}
+
+/// Repair article start dates written by earlier versions of the rule: an
+/// article with no amendment evidence takes the resolved original
+/// commencement, and an amended one is left unset. Only values that are unset
+/// or exactly the original commencement are touched, and only on
+/// machine-accepted deterministic articles, so a model or human decision is
+/// never altered. Returns how many dates changed.
 #[must_use]
-pub fn clear_unproven_article_dates(
-    instrument: &Instrument,
-    provisions: &mut [Provision],
-) -> usize {
+pub fn repair_article_dates(instrument: &Instrument, provisions: &mut [Provision]) -> usize {
     let transitories = provisions
         .iter()
         .filter(|provision| provision.provision_type == ProvisionType::Transitory)
@@ -245,7 +261,7 @@ pub fn clear_unproven_article_dates(
     else {
         return 0;
     };
-    let mut cleared = 0;
+    let mut changed = 0;
     for provision in provisions {
         if provision.provision_type == ProvisionType::Article
             && provision.temporal_basis == Some(Basis::DeterministicRule)
@@ -254,15 +270,21 @@ pub fn clear_unproven_article_dates(
                 provision.temporal_status,
                 TemporalStatus::Effective | TemporalStatus::FutureEffective
             )
-            && provision.effective_from == Some(effective_from)
             && provision.effective_to.is_none()
             && provision.transitory_effects.is_empty()
         {
-            provision.effective_from = None;
-            cleared += 1;
+            let current = provision.effective_from;
+            if current.is_some() && current != Some(effective_from) {
+                continue;
+            }
+            let target = (!has_amendment_evidence(provision)).then_some(effective_from);
+            if current != target {
+                provision.effective_from = target;
+                changed += 1;
+            }
         }
     }
-    cleared
+    changed
 }
 
 fn determination(
@@ -596,12 +618,6 @@ mod tests {
     }
 
     fn resolved_date(outcome: &super::DerivationOutcome) -> Option<NaiveDate> {
-        assert!(
-            outcome
-                .determinations
-                .iter()
-                .all(|item| item.effective_from.is_none())
-        );
         match outcome.commencement {
             Some(Commencement::Resolved { effective_from, .. }) => Some(effective_from),
             _ => None,
@@ -609,35 +625,69 @@ mod tests {
     }
 
     #[test]
-    fn added_article_does_not_inherit_original_law_date_and_repair_preserves_review() {
+    fn unamended_article_takes_the_original_date_and_an_amended_one_stays_unset() {
+        let inst = instrument(date(1995, 12, 22));
+        let transitory_one = transitory(
+            "primero",
+            "La presente Ley entrará en vigor al día siguiente de su publicación.",
+        );
+        let mut footnoted = article("12", "Texto reformado con nota al pie.");
+        footnoted.amendment_marks = vec![3];
+        let provisions = vec![
+            article("1", "Texto original sin reformas."),
+            article("10-Bis", "Texto.\n\nArtículo adicionado DOF 08-06-2016"),
+            footnoted,
+            transitory_one,
+        ];
+        let outcome = derive_article_temporal_determinations(&inst, &provisions, date(2026, 1, 1));
+        assert_eq!(resolved_date(&outcome), Some(date(1995, 12, 23)));
+        let date_of = |suffix: &str| {
+            outcome
+                .determinations
+                .iter()
+                .find(|item| item.provision_id.ends_with(suffix))
+                .unwrap_or_else(|| panic!("determination for {suffix}"))
+                .effective_from
+        };
+        assert_eq!(date_of(":1"), Some(date(1995, 12, 23)));
+        assert_eq!(date_of(":10-bis"), None);
+        assert_eq!(date_of(":12"), None);
+    }
+
+    #[test]
+    fn repair_restores_unamended_dates_clears_amended_ones_and_preserves_review() {
         let inst = instrument(date(1995, 12, 22));
         let mut provisions = vec![
-            article("10-Bis", "Artículo adicionado en 2016."),
+            article("1", "Texto original sin reformas."),
+            article("10-Bis", "Texto.\n\nArtículo adicionado DOF 08-06-2016"),
             transitory(
                 "primero",
                 "La presente Ley entrará en vigor al día siguiente de su publicación.",
             ),
         ];
         let outcome = derive_article_temporal_determinations(&inst, &provisions, date(2026, 1, 1));
-        assert_eq!(resolved_date(&outcome), Some(date(1995, 12, 23)));
         lex_core::apply_temporal_determinations(&mut provisions, &outcome.determinations);
-        provisions[0].effective_from = Some(date(1995, 12, 23));
-        let mut human = provisions[0].clone();
+        // State written by the v1/v2 rules: every article dated, or none.
+        provisions[0].effective_from = None;
+        provisions[1].effective_from = Some(date(1995, 12, 23));
+        let mut human = provisions[1].clone();
         human.id = "human-reviewed".to_owned();
         human.temporal_basis = Some(Basis::LawyerVerified);
         human.review_status = ReviewStatus::LawyerVerified;
         provisions.push(human.clone());
-        assert_eq!(
-            super::clear_unproven_article_dates(&inst, &mut provisions),
-            1
-        );
-        assert_eq!(provisions[0].effective_from, None);
-        assert_eq!(provisions[2].effective_from, human.effective_from);
-        assert_eq!(provisions[2].review_status, ReviewStatus::LawyerVerified);
-        assert_eq!(
-            super::clear_unproven_article_dates(&inst, &mut provisions),
-            0
-        );
+        let mut other_date = provisions[0].clone();
+        other_date.id = "other-date".to_owned();
+        other_date.effective_from = Some(date(2001, 1, 1));
+        provisions.push(other_date);
+
+        assert_eq!(super::repair_article_dates(&inst, &mut provisions), 2);
+        assert_eq!(provisions[0].effective_from, Some(date(1995, 12, 23)));
+        assert_eq!(provisions[1].effective_from, None);
+        // Human review and an unrelated date are untouched.
+        assert_eq!(provisions[3].effective_from, human.effective_from);
+        assert_eq!(provisions[3].review_status, ReviewStatus::LawyerVerified);
+        assert_eq!(provisions[4].effective_from, Some(date(2001, 1, 1)));
+        assert_eq!(super::repair_article_dates(&inst, &mut provisions), 0);
     }
 
     #[test]
@@ -660,7 +710,7 @@ mod tests {
             .find(|d| d.provision_id.ends_with(":1"))
             .expect("article 1 determination");
         assert_eq!(art1.temporal_status, TemporalStatus::Effective);
-        assert_eq!(art1.effective_from, None);
+        assert_eq!(art1.effective_from, Some(date(1990, 1, 2)));
         assert_eq!(resolved_date(&outcome), Some(date(1990, 1, 2)));
         assert_eq!(art1.basis, Basis::DeterministicRule);
         assert!(!art1.review_required);

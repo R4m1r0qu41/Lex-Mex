@@ -24,11 +24,11 @@ use lex_export::{
 };
 use lex_parse::{
     Commencement, CorpusExpectations, CorpusView, DiputadosOptions, GlossaryStyle,
-    InstrumentContextPolicy, ReferenceOptions, audit_pdf, clear_unproven_article_dates,
-    derive_article_temporal_determinations, detect_glossary_terms, extract_doc, extract_html_text,
-    extract_internal_references, extract_pdf, extract_references, extract_term_usages,
-    extract_terms, find_admitted_furniture, find_glossary_provision, parse_dcg, parse_diputados,
-    parse_itf_dcg, validate_corpus,
+    InstrumentContextPolicy, ReferenceOptions, audit_pdf, derive_article_temporal_determinations,
+    detect_glossary_terms, extract_doc, extract_html_text, extract_internal_references,
+    extract_pdf, extract_references, extract_term_usages, extract_terms, find_admitted_furniture,
+    find_glossary_provision, parse_dcg, parse_diputados, parse_itf_dcg, repair_article_dates,
+    validate_corpus,
 };
 use lex_source::{
     SourceConfig, SourceFormat, discover, fetch, fetch_annex, fetch_formal, load_batch_manifest,
@@ -136,12 +136,14 @@ enum Command {
     /// future-effective, or repealed from plain code -- no model call --
     /// using only its own commencement clause and repeal-marker text.
     /// New determinations only touch `not_analyzed` provisions. Also repairs
-    /// unsupported dates produced by the prior deterministic rule.
+    /// article start dates written by earlier versions of the rule.
     /// Skips (and reports why) any instrument whose
     /// commencement it cannot resolve unambiguously.
     DeriveTemporal {
         instrument: String,
-        /// Clear only unsupported dates from the old deterministic rule.
+        /// Repair only article start dates written by earlier versions of
+        /// the deterministic rule: unamended articles take the original
+        /// commencement, amended ones are left unset.
         /// Does not create any new temporal determinations.
         #[arg(long)]
         repair_dates_only: bool,
@@ -2565,9 +2567,11 @@ fn run_derive_command(
 fn run_temporal_derive(context: &InstrumentContext, repair_dates_only: bool) -> Result<()> {
     let paths = &context.paths;
     let mut corpus = read_corpus(paths)?;
-    let cleared = clear_unproven_article_dates(&corpus.instrument, &mut corpus.provisions);
+    let cleared = repair_article_dates(&corpus.instrument, &mut corpus.provisions);
     if cleared > 0 {
-        println!("cleared {cleared} unsupported original-law dates from deterministic articles");
+        println!(
+            "repaired {cleared} article dates (original commencement for unamended articles; amended articles left unset)"
+        );
     }
     if repair_dates_only {
         if cleared > 0 {
