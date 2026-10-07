@@ -8,7 +8,8 @@ provisions without losing the original view. Codex or Claude Code retrieves
 Markdown/plain text in the background from the same pinned release. A public
 index declares complete or partial coverage and makes available text discoverable.
 
-This is an implementation plan requested on 2026-10-06. Planning is complete;
+This is an implementation plan requested on 2026-10-06 and updated on 2026-10-07
+for execution on **2026-10-08 (America/Mexico_City)**. Planning is complete;
 reader, hosting, MCP, WebMCP, and SQLite implementation have not begun.
 It does not authorize a DNS change or deployment. Local development and a
 reviewable release candidate precede the eventual publication action.
@@ -16,8 +17,13 @@ reviewable release candidate precede the eventual publication action.
 ## Authority, baseline, and existing work
 
 Initial baseline: `8031ea11eb1d4ad88c046ba8b6ba1ed8851eb873`, with the audited
-temporal repair pending its authorized local commit. The implementation baseline
-must be recorded as that completed commit before work starts.
+temporal repair subsequently committed and reorganized by later work. Keep that
+baseline as historical evidence, not tomorrow's build input. Current verified
+implementation baseline: `9e990e09995718a77865993b24c5f8c8e7167b42` on `main`,
+matching the local `origin/main` tracking ref on 2026-10-07; worktree clean before
+this plan update. Repository URL: `https://github.com/R4m1r0qu41/Lex-Mex`.
+Refresh HEAD, status, and the remote tracking state before execution; never reset
+the checkout to the earlier repair commit to reproduce old migration results.
 Repository instructions, canonical corpus, schemas, Rust code, and decisions
 are authoritative. External websites are interaction references, not legal data.
 
@@ -32,6 +38,83 @@ They are not an immutable public release or a byte-preserved PDF store. The
 current source manifest has retrieval metadata but not a successful-upstream-
 check ledger. No validated article-to-PDF page mapping was established here.
 These are implementation prerequisites, not fields to guess.
+
+## Repository and website integration boundaries
+
+The user-created reader workspace is
+`/Users/jr/Documents/4ll4/Webpage/Lex-Mex`. It was empty on inspection on
+2026-10-07. It is inside the Git root `/Users/jr/Documents/4ll4`, not an independent
+Lex-Mex clone. Do not clone the legal corpus over it or create a nested Git
+repository without an explicit architectural reason.
+
+| Surface | Responsibility | Write scope during implementation |
+|---|---|---|
+| `/Users/jr/Dev/lex-mex` | Canonical Rust pipeline, legal corpus, release builder, schemas and publication manifest | Explicit reviewed producer changes; preserve legal decisions |
+| `/Users/jr/Documents/4ll4/Webpage/Lex-Mex` | Reader frontend and development fixtures/release consumption | New reader files; no canonical corpus edits |
+| `/Users/jr/Documents/4ll4/Webpage/LEG4L_L4BS` | Existing firm site, navigation and hosted `/lex-mex/` integration | Named integration paths only after inspection |
+| `/Users/jr/Documents/4ll4` | Parent Git boundary for website and other work | Stage exact paths; preserve unrelated Socials/configuration files |
+
+The existing site uses React/Next-style routes through Vinext. Reuse its actual
+build conventions after inspecting configuration; avoid selecting a second web
+framework before checking how a reader package can be consumed by the host.
+Prefer reader components developed in `Webpage/Lex-Mex` and a small host route
+integration. Test cross-directory module imports and asset paths in the real
+production build; if the host cannot bundle sibling imports, use an explicit
+deterministic staging/package step rather than two manually maintained copies.
+Do not add a package/workspace just for a placeholder: it must have running code.
+
+The site's 2026-10-07 `HANDOFF.md` reports publication through Sites version18,
+with custom domain `https://www.leg4ll4bs.com`. This is handoff evidence, not a
+live availability check performed in this planning pass. The historical source
+layout and release checkout differ: build in `LEG4L_L4BS/`, with a root hosting
+manifest and staged root build output for release packaging. Read the current
+handoff and applicable Sites skills before opening or publishing that project.
+Do not configure an alternative hosting provider or run a Wrangler deployment
+merely because Vinext uses Wrangler internally. Do not change mail/contact work.
+
+Tomorrow's target route is `https://www.leg4ll4bs.com/lex-mex/`, subject to a live
+canonical-domain check and host route verification. Verify apex/www redirects
+and base-path handling; the local directory name does not create a public route.
+The existing parent `public/llms.txt` can link the reader's agent index without
+overwriting the firm's current description or unrelated links. An article URL,
+navigation entry, sitemap entry, and working static asset paths are required
+integration evidence, not simply an iframe link to GitHub.
+
+Read the applicable ancestor/site instructions on 2026-10-08. Open the website
+root in the execution workspace or obtain the necessary filesystem write scope
+before making site edits. This planning session edits only the corpus plan.
+
+## Changes carried forward from 2026-10-07
+
+Source: Agent Vault daily receipt
+`AI/60_Evaluations/session-summaries/lex-mex/2026-10-07.md`, checked against current
+Git history and targeted repository decisions. The handoff reports 220 workspace
+tests and211 passing statute validators; these are prior-session results, not
+checks rerun for this documentation update.
+
+- The mixed repair commit was split, and `temporal-derive-v3` restored 10,208
+  original dates across130 instruments for articles without amendment evidence.
+  Amended wording remains unset. Use the current values and disclose that absence
+  of an amendment marker is not a completed decree-by-decree historical audit.
+- `partially_repealed`, `conditional_pending`, `repeals` with legislative/judicial
+  cause, and `commencement_condition` now exist. Models cannot assign the new
+  statuses. The release exporter/reader must preserve these values and show
+  conditions as unverified where applicable; never collapse them to effective.
+- Parser/source-boundary work, historical targets, legacy-review rechecks, and
+  LACP/LRAF/LCEC audited baselines have advanced. Reuse current fixtures and
+  recorded decisions rather than reparsing all instruments for the reader.
+- Open legal/data tasks remain: unverified-condition review queue and model-output
+  schema version,65 SCJN-flagged provisions across23 instruments needing review,
+  ruling notice versus DOF effective-date judgment, unread repeal cases in
+  LSCS207 and FI-DCG-2014 64, and LFPC reparse drift (190 versus188 articles).
+
+These are named blockers for legal-validity claims and affected instrument
+promotion, not a reason to stop unrelated structural reader development.
+Do not label any collection legally complete or currently valid based on the
+reader's build success. Keep unresolved instruments/records visibly qualified;
+exclude affected candidates from a validated release if their required gates fail.
+Do not silently resolve those tasks as part of frontend integration. The receipt's
+next legal-pipeline action remains separate from tomorrow's reader workstream.
 
 ## First release scope
 
@@ -233,13 +316,71 @@ Rollback changes the latest pointer to a retained known release, preserving hist
 
 ## Current checkpoint and next action
 
-2026-10-06: repository exporter/manifest and prior consumer plan inspected;
-official host/discovery documentation checked; this plan specifies a bounded
-implementation and tests. No new serving code or external configuration written.
+2026-10-07: read today's Lex-Mex receipt and current decisions, verified clean
+corpus HEAD/tracking baseline `9e990e099`, inspected the empty user-created reader
+directory and parent Git boundary, and read the firm site's instructions, package
+scripts and dated hosting handoff. Updated this plan for execution tomorrow.
+No reader files, corpus changes, hosting settings or scheduled jobs were created.
 
-Next action: after the authorized repair commit, implement milestone 1 with an
-explicit four-instrument selection and an inventory of recoverable exact PDFs.
-Bind the active capsule to the applicable task plan and digest before implementation.
+The previous 2026-10-06 planning checkpoint remains historical. Its repaired-date
+behavior and original mixed commit are superseded by the documented October7
+decisions; do not use the old report as the current implementation specification.
+
+## Execution runbook — Thursday, 2026-10-08
+
+Goal for the first build session: a local integrated `/lex-mex/` preview with an
+explicit selected release, discoverable text, one working article/source flow,
+and evidence that firm routes still work. Finish the foundation before pursuing
+MCP, full corpus ingestion, or an elaborate graph. This is a scheduled work plan,
+not an automation that has been installed to run without the operator.
+
+1. **Resume and lock scope.** Read this plan, today's receipt, applicable
+   instructions and site handoff. Discover the corpus capsule. Check both Git
+   roots and preserve unrelated files; record actual HEADs and source versions.
+   Confirm the reader workspace and target host route. Refresh hosting/docs only
+   as needed for the selected integration; credentials stay outside reports.
+2. **Define selected-release contract.** Use the four named instruments with
+   independent gates. Inventory source manifests, matching retained PDFs,
+   current fields and any selection-specific blockers. Add release schema,
+   Rust builder and meaningful fixtures; support qualified missing PDFs rather
+   than silently substituting the live upstream file. Do not reparse the entire
+   corpus or run temporal models as a frontend build dependency.
+3. **Produce the first consumable bundle.** Build immutable manifest, coverage,
+   per-instrument indexes and `.md`/exact `.txt` shards. Verify repeatable output,
+   source hashes and text equality. Keep bulky release/PDF artifacts in a derived
+   ignored staging destination or selected artifact store, not in the website's
+   source history. Give the reader an explicit release path/configuration rather
+   than hardcoding the developer's `/Users/jr` paths.
+4. **Build and nest the reader.** Implement used frontend components in the new
+   directory; wire the host's `/lex-mex/` route and generated assets through its
+   actual build. Deliver Spanish-first catalogue/article/PDF panes, typed related
+   links, copyable share URLs, and an honest unmapped/missing-PDF fallback.
+   Integrate navigation and the parent agent index in named files only. Keep the
+   existing English offer, Spanish root and `/es` redirect intact.
+5. **Validate the integrated preview.** Run required Rust gates for producer
+   changes and `npm test` in `LEG4L_L4BS` for site changes, using mechanical
+   delegation under applicable instructions. Check `/`, `/en`, `/es`, the nested
+   reader, source/text endpoints and asset paths in the production build. Inspect
+   a real PDF pane while text is fetched independently from the same release.
+   Qualify desktop hosts separately when available; record unavailable tests.
+6. **Close with a reviewable candidate.** Inspect exact diffs in both repositories;
+   record release/source digests, passed checks, partial coverage and blockers.
+   Update this plan and continuity before stopping. Prepare a preview/release
+   package and rollback instructions. Commits and deployment follow the user's
+   current authorization and site instructions; this request authorizes planning,
+   not a future publication or unattended job.
+
+First-day completion gate: working local host route and no regression to firm
+pages; at least one selected article has manifest-matching inline PDF (or this
+goal is explicitly blocked by missing source bytes); no-JavaScript clients can
+find the available text; model text and visible source share a release/digest.
+MCP/SQLite/WebMCP remain subsequent milestones if foundation work uses the session.
+Do not present a mock interface alone as completed corpus integration.
+
+Next action on 2026-10-08: resume the two repository boundaries, inventory the
+four-instrument exact sources, and implement milestone1 before host integration.
+Start or bind the reader execution capsule to this plan and its digest; preserve
+the separate legal-pipeline next action from the October7 receipt.
 
 ## Sources
 
