@@ -1,0 +1,530 @@
+{
+  "baseline": "6bcfb5398 (rule temporal-derive-v3); input corpus is the 2026-10-06 date-clearing migration",
+  "rule_set": "temporal-derive-v3",
+  "command": "lex-mex derive-temporal <instrument> --repair-dates-only",
+  "instrument_count": 130,
+  "dates_restored": 10208,
+  "invariants": "Only effective_from changed, from null to the resolved original commencement, on machine-accepted deterministic articles with no DOF amendment note and no footnote mark. Amended articles stay null. Source text, hashes, references, review decisions and every other value were preserved; verified by structured comparison against HEAD.",
+  "instruments": [
+    {
+      "slug": "cub-dcg-2005",
+      "dates_restored": 354
+    },
+    {
+      "slug": "cucb-dcg-2004",
+      "dates_restored": 75
+    },
+    {
+      "slug": "cue-dcg-2003",
+      "dates_restored": 19
+    },
+    {
+      "slug": "ifpe-dcg-2021",
+      "dates_restored": 59
+    },
+    {
+      "slug": "laat",
+      "dates_restored": 22
+    },
+    {
+      "slug": "lac",
+      "dates_restored": 26
+    },
+    {
+      "slug": "laero",
+      "dates_restored": 30
+    },
+    {
+      "slug": "lamp",
+      "dates_restored": 67
+    },
+    {
+      "slug": "latime",
+      "dates_restored": 14
+    },
+    {
+      "slug": "lccaif",
+      "dates_restored": 3
+    },
+    {
+      "slug": "lce",
+      "dates_restored": 38
+    },
+    {
+      "slug": "lcm",
+      "dates_restored": 240
+    },
+    {
+      "slug": "lcmm",
+      "dates_restored": 13
+    },
+    {
+      "slug": "ldcpdch",
+      "dates_restored": 13
+    },
+    {
+      "slug": "ldvuma",
+      "dates_restored": 5
+    },
+    {
+      "slug": "lfaar",
+      "dates_restored": 95
+    },
+    {
+      "slug": "lfar",
+      "dates_restored": 27
+    },
+    {
+      "slug": "lfcpo",
+      "dates_restored": 31
+    },
+    {
+      "slug": "lfcpq",
+      "dates_restored": 2
+    },
+    {
+      "slug": "lfd",
+      "dates_restored": 5
+    },
+    {
+      "slug": "lfda",
+      "dates_restored": 177
+    },
+    {
+      "slug": "lfdo",
+      "dates_restored": 4
+    },
+    {
+      "slug": "lfed",
+      "dates_restored": 237
+    },
+    {
+      "slug": "lfep",
+      "dates_restored": 29
+    },
+    {
+      "slug": "lfisan",
+      "dates_restored": 4
+    },
+    {
+      "slug": "lfpa",
+      "dates_restored": 87
+    },
+    {
+      "slug": "lfpc",
+      "dates_restored": 55
+    },
+    {
+      "slug": "lfpca",
+      "dates_restored": 4
+    },
+    {
+      "slug": "lfprh",
+      "dates_restored": 61
+    },
+    {
+      "slug": "lfra",
+      "dates_restored": 45
+    },
+    {
+      "slug": "lfremsp",
+      "dates_restored": 34
+    },
+    {
+      "slug": "lfrm",
+      "dates_restored": 58
+    },
+    {
+      "slug": "lfrsp",
+      "dates_restored": 32
+    },
+    {
+      "slug": "lftse",
+      "dates_restored": 115
+    },
+    {
+      "slug": "lgbn",
+      "dates_restored": 86
+    },
+    {
+      "slug": "lgcg",
+      "dates_restored": 37
+    },
+    {
+      "slug": "lgdp",
+      "dates_restored": 12
+    },
+    {
+      "slug": "lgmsv",
+      "dates_restored": 77
+    },
+    {
+      "slug": "lgn",
+      "dates_restored": 96
+    },
+    {
+      "slug": "lgoaac",
+      "dates_restored": 4
+    },
+    {
+      "slug": "lgpc",
+      "dates_restored": 46
+    },
+    {
+      "slug": "lgpgir",
+      "dates_restored": 88
+    },
+    {
+      "slug": "lgsm",
+      "dates_restored": 167
+    },
+    {
+      "slug": "lgsnsp",
+      "dates_restored": 147
+    },
+    {
+      "slug": "lgtoc",
+      "dates_restored": 235
+    },
+    {
+      "slug": "lgtrata",
+      "dates_restored": 79
+    },
+    {
+      "slug": "lgvs",
+      "dates_restored": 95
+    },
+    {
+      "slug": "lhheum",
+      "dates_restored": 6
+    },
+    {
+      "slug": "lic",
+      "dates_restored": 19
+    },
+    {
+      "slug": "lic-calidad",
+      "dates_restored": 165
+    },
+    {
+      "slug": "linfonacot",
+      "dates_restored": 30
+    },
+    {
+      "slug": "linfonavit",
+      "dates_restored": 9
+    },
+    {
+      "slug": "lins",
+      "dates_restored": 49
+    },
+    {
+      "slug": "lisr",
+      "dates_restored": 109
+    },
+    {
+      "slug": "lmccbdc",
+      "dates_restored": 8
+    },
+    {
+      "slug": "lncm",
+      "dates_restored": 252
+    },
+    {
+      "slug": "lnrd",
+      "dates_restored": 36
+    },
+    {
+      "slug": "lnsijpa",
+      "dates_restored": 263
+    },
+    {
+      "slug": "lnuf",
+      "dates_restored": 41
+    },
+    {
+      "slug": "lobnce",
+      "dates_restored": 22
+    },
+    {
+      "slug": "lobnefaa",
+      "dates_restored": 38
+    },
+    {
+      "slug": "lobnosp",
+      "dates_restored": 17
+    },
+    {
+      "slug": "lonf",
+      "dates_restored": 19
+    },
+    {
+      "slug": "lopdc",
+      "dates_restored": 23
+    },
+    {
+      "slug": "lopsrm",
+      "dates_restored": 13
+    },
+    {
+      "slug": "loshf",
+      "dates_restored": 15
+    },
+    {
+      "slug": "lpdusf",
+      "dates_restored": 49
+    },
+    {
+      "slug": "lplan",
+      "dates_restored": 8
+    },
+    {
+      "slug": "lpue",
+      "dates_restored": 47
+    },
+    {
+      "slug": "lrart6-mdr",
+      "dates_restored": 36
+    },
+    {
+      "slug": "lrart76-fracvi",
+      "dates_restored": 24
+    },
+    {
+      "slug": "lrfiyii-art105",
+      "dates_restored": 18
+    },
+    {
+      "slug": "lrfv-art76",
+      "dates_restored": 15
+    },
+    {
+      "slug": "lrfxiiib-art123",
+      "dates_restored": 20
+    },
+    {
+      "slug": "lrfxviii-art73",
+      "dates_restored": 2
+    },
+    {
+      "slug": "lritf",
+      "dates_restored": 139
+    },
+    {
+      "slug": "lsat",
+      "dates_restored": 13
+    },
+    {
+      "slug": "lsct",
+      "dates_restored": 7
+    },
+    {
+      "slug": "lsn",
+      "dates_restored": 61
+    },
+    {
+      "slug": "lsp",
+      "dates_restored": 41
+    },
+    {
+      "slug": "lspm",
+      "dates_restored": 66
+    },
+    {
+      "slug": "ltfccg",
+      "dates_restored": 7
+    },
+    {
+      "slug": "ltosf",
+      "dates_restored": 21
+    },
+    {
+      "slug": "luc",
+      "dates_restored": 113
+    },
+    {
+      "slug": "lvgc",
+      "dates_restored": 80
+    },
+    {
+      "slug": "oaac-dcg-2009",
+      "dates_restored": 52
+    },
+    {
+      "slug": "reg-art121-122-lft",
+      "dates_restored": 29
+    },
+    {
+      "slug": "reg-diputados",
+      "dates_restored": 126
+    },
+    {
+      "slug": "reg-lac",
+      "dates_restored": 23
+    },
+    {
+      "slug": "reg-laero",
+      "dates_restored": 175
+    },
+    {
+      "slug": "reg-lan",
+      "dates_restored": 189
+    },
+    {
+      "slug": "reg-lapp",
+      "dates_restored": 100
+    },
+    {
+      "slug": "reg-lbogm",
+      "dates_restored": 64
+    },
+    {
+      "slug": "reg-lce",
+      "dates_restored": 103
+    },
+    {
+      "slug": "reg-lfaebsp",
+      "dates_restored": 38
+    },
+    {
+      "slug": "reg-lfcpq",
+      "dates_restored": 18
+    },
+    {
+      "slug": "reg-lfda",
+      "dates_restored": 175
+    },
+    {
+      "slug": "reg-lfea",
+      "dates_restored": 27
+    },
+    {
+      "slug": "reg-lfep",
+      "dates_restored": 33
+    },
+    {
+      "slug": "reg-lfgfaga",
+      "dates_restored": 8
+    },
+    {
+      "slug": "reg-lfif-art95",
+      "dates_restored": 7
+    },
+    {
+      "slug": "reg-lfpc",
+      "dates_restored": 100
+    },
+    {
+      "slug": "reg-lgcc-rne",
+      "dates_restored": 29
+    },
+    {
+      "slug": "reg-lgdfs",
+      "dates_restored": 220
+    },
+    {
+      "slug": "reg-lgeepa-anp",
+      "dates_restored": 129
+    },
+    {
+      "slug": "reg-lgeepa-meia",
+      "dates_restored": 59
+    },
+    {
+      "slug": "reg-lgeepa-mpcca",
+      "dates_restored": 41
+    },
+    {
+      "slug": "reg-lgeepa-mretc",
+      "dates_restored": 17
+    },
+    {
+      "slug": "reg-lgpc",
+      "dates_restored": 113
+    },
+    {
+      "slug": "reg-lgpgir",
+      "dates_restored": 160
+    },
+    {
+      "slug": "reg-lgs-investigacion",
+      "dates_restored": 84
+    },
+    {
+      "slug": "reg-lgs-mcsaeps",
+      "dates_restored": 336
+    },
+    {
+      "slug": "reg-lgs-msi",
+      "dates_restored": 88
+    },
+    {
+      "slug": "reg-lgs-mt",
+      "dates_restored": 89
+    },
+    {
+      "slug": "reg-lgtrata",
+      "dates_restored": 86
+    },
+    {
+      "slug": "reg-lieps",
+      "dates_restored": 19
+    },
+    {
+      "slug": "reg-linfonacot",
+      "dates_restored": 37
+    },
+    {
+      "slug": "reg-linfonavit-mtai",
+      "dates_restored": 8
+    },
+    {
+      "slug": "reg-lisr",
+      "dates_restored": 311
+    },
+    {
+      "slug": "reg-liva",
+      "dates_restored": 51
+    },
+    {
+      "slug": "reg-lncm",
+      "dates_restored": 696
+    },
+    {
+      "slug": "reg-lopsrm",
+      "dates_restored": 270
+    },
+    {
+      "slug": "reg-lpue",
+      "dates_restored": 147
+    },
+    {
+      "slug": "reg-lsar",
+      "dates_restored": 138
+    },
+    {
+      "slug": "reg-lspcapf",
+      "dates_restored": 36
+    },
+    {
+      "slug": "reg-lss-macerf",
+      "dates_restored": 191
+    },
+    {
+      "slug": "reg-lss-maeba",
+      "dates_restored": 58
+    },
+    {
+      "slug": "reg-lss-rfar",
+      "dates_restored": 18
+    },
+    {
+      "slug": "reg-ltf",
+      "dates_restored": 110
+    },
+    {
+      "slug": "reg-senado",
+      "dates_restored": 250
+    }
+  ]
+}
