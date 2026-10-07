@@ -14,9 +14,9 @@
   "expected_articles": 193,
   "expected_transitories": 2,
   "count_baseline": {
-    "provenance": "machine-proposed",
+    "provenance": "audited",
     "parser_version": "0.1.0",
-    "proposed_at": "2026-07-12T08:06:11Z"
+    "proposed_at": "2026-10-07T00:00:00Z"
   },
   "main_document_stop_markers": [
     "México, D.F., a 26 de noviembre de 2013"

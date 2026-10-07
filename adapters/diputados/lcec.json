@@ -13,9 +13,9 @@
   "expected_articles": 45,
   "expected_transitories": 8,
   "count_baseline": {
-    "provenance": "machine-proposed",
+    "provenance": "audited",
     "parser_version": "0.1.0",
-    "proposed_at": "2026-10-06T18:10:59Z"
+    "proposed_at": "2026-10-07T00:00:00Z"
   },
   "allow_article_gaps": false,
   "formal_publication_urls": {},
