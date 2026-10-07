@@ -302,9 +302,20 @@ pub(crate) fn mentions_dof_date(text: &str) -> bool {
     DOF_DATE.is_match(text)
 }
 
+/// A `DOF` note followed by its date and any further dates in the same
+/// comma- or "y"-separated list, such as `DOF 13-01-2016, 12-01-2017 y 19-01-2018`.
+static DOF_DATE_RUN: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
+    Regex::new(r"\bDOF\s+\d{2}-\d{2}-\d{4}(?:\s*(?:,|y)\s*\d{2}-\d{2}-\d{4})*")
+        .expect("static regex")
+});
+
+static LIST_DATE: std::sync::LazyLock<Regex> =
+    std::sync::LazyLock::new(|| Regex::new(r"(\d{2})-(\d{2})-(\d{4})").expect("static regex"));
+
 fn latest_dof_date(text: &str) -> Option<NaiveDate> {
-    DOF_DATE
-        .captures_iter(text)
+    DOF_DATE_RUN
+        .find_iter(text)
+        .flat_map(|run| LIST_DATE.captures_iter(run.as_str()))
         .filter_map(|captures| {
             NaiveDate::from_ymd_opt(
                 captures[3].parse().ok()?,
@@ -1975,6 +1986,28 @@ pub(crate) fn reform_evidence_item(
 
 #[cfg(test)]
 mod tests {
+    #[test]
+    fn latest_dof_date_reads_every_date_in_a_note_list() {
+        use crate::latest_dof_date;
+        use chrono::NaiveDate;
+        let single = "Artículo reformado DOF 10-01-2014";
+        assert_eq!(
+            latest_dof_date(single),
+            NaiveDate::from_ymd_opt(2014, 1, 10)
+        );
+        let listed =
+            "Cantidades actualizadas DOF 13-01-2016, 12-01-2017,\n   30-12-2024 y 28-12-2025";
+        assert_eq!(
+            latest_dof_date(listed),
+            NaiveDate::from_ymd_opt(2025, 12, 28)
+        );
+        let unrelated = "Fe de erratas DOF 10-01-2025; plazo de 01-02-2030";
+        assert_eq!(
+            latest_dof_date(unrelated),
+            NaiveDate::from_ymd_opt(2025, 1, 10)
+        );
+    }
+
     use std::collections::HashSet;
 
     use chrono::NaiveDate;
