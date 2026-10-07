@@ -13,10 +13,10 @@ use lex_core::{
     Corpus, Instrument, InstrumentStatus, InstrumentType, ProvisionType, ReferenceResolutionStatus,
     ReviewItem, ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest, StandardClause,
     StandardKind, StandardMetadata, StandardStatus, StandardTextBasis, TemporalAnalysisMetadata,
-    TemporalAnalysisRequest, TemporalAnalysisResult, TemporalEvidence, TemporalModelBatch,
-    TemporalReviewResolution, TemporalStatus, TransitoryEffect, apply_temporal_determinations,
-    open_temporal_review, preserve_temporal_review_history, reapply_temporal_determinations,
-    resolve_temporal_review, route_temporal_analysis,
+    TemporalAnalysisRequest, TemporalAnalysisResult, TemporalEvidence, TemporalReviewResolution,
+    TemporalStatus, TransitoryEffect, apply_temporal_determinations, open_temporal_review,
+    parse_temporal_model_response, preserve_temporal_review_history,
+    reapply_temporal_determinations, resolve_temporal_review, route_temporal_analysis,
 };
 use lex_export::{
     LinkTargets, TermTargets, link_targets, term_targets, write_canonical, write_markdown,
@@ -2372,6 +2372,45 @@ fn run_codex_temporal(root: &Path, context: &InstrumentContext, model: &str) -> 
     run_temporal_import(context, &paths.temporal_model_output, model, None)
 }
 
+fn current_temporal_evidence(
+    context: &InstrumentContext,
+    corpus: &Corpus,
+) -> Result<Vec<TemporalEvidence>> {
+    let reform = if context.paths.reform_evidence.exists() {
+        read_json(&context.paths.reform_evidence)?
+    } else {
+        Vec::new()
+    };
+    Ok(build_temporal_evidence(
+        &context.config,
+        &corpus.provisions,
+        &reform,
+    ))
+}
+
+fn ensure_current_temporal_evidence(
+    requested: &[TemporalEvidence],
+    current: &[TemporalEvidence],
+) -> Result<()> {
+    let fingerprint = |items: &[TemporalEvidence]| {
+        items
+            .iter()
+            .map(|item| {
+                (
+                    item.provision_id.clone(),
+                    lex_core::evidence_sha256(&item.text),
+                )
+            })
+            .collect::<BTreeMap<_, _>>()
+    };
+    let old = fingerprint(requested);
+    let new = fingerprint(current);
+    if old.len() != requested.len() || new.len() != current.len() || old != new {
+        bail!("temporal request evidence is stale; regenerate the request before importing");
+    }
+    Ok(())
+}
+
 fn run_temporal_import(
     context: &InstrumentContext,
     response_path: &Path,
@@ -2382,8 +2421,18 @@ fn run_temporal_import(
     let request_bytes = fs::read(&paths.temporal_request)?;
     let request: TemporalAnalysisRequest = serde_json::from_slice(&request_bytes)?;
     let response_bytes = fs::read(response_path)?;
-    let batch: TemporalModelBatch = serde_json::from_slice(&response_bytes)?;
-    let instrument: Instrument = read_json(&paths.instrument)?;
+    let batch = parse_temporal_model_response(&response_bytes)?;
+    let corpus = read_corpus(paths)?;
+    let instrument = &corpus.instrument;
+    if request.instrument_id != instrument.id
+        || request.publication_date != instrument.publication_date
+    {
+        bail!("temporal request instrument metadata is stale");
+    }
+    ensure_current_temporal_evidence(
+        &request.relevant_provisions,
+        &current_temporal_evidence(context, &corpus)?,
+    )?;
     let mut routed = route_temporal_analysis(
         &request,
         batch,
@@ -2648,6 +2697,17 @@ fn run_review_resolve(
         .iter_mut()
         .find(|item| item.id == review_id)
         .with_context(|| format!("review item not found: {review_id}"))?;
+    let corpus = read_corpus(paths)?;
+    let current = current_temporal_evidence(context, &corpus)?;
+    if !current.iter().any(|evidence| {
+        evidence.provision_id == item.provision_id
+            && lex_core::evidence_sha256(&evidence.text)
+                == item.proposed_machine_conclusion.evidence_sha256
+    }) {
+        bail!(
+            "review evidence is stale against the current corpus; regenerate analysis and review"
+        );
+    }
     resolve_temporal_review(item, &mut result.determinations, resolution)?;
 
     write_pretty_json(&result, &paths.temporal_result)?;
@@ -2970,6 +3030,26 @@ mod tests {
     const STALE_RUNNING_HEADER_REFORM_DATE_FIXTURE: &str = include_str!(
         "../../../fixtures/diputados/latest-reform-date-stale-running-header-sample.txt"
     );
+
+    #[test]
+    fn temporal_import_rejects_changed_missing_and_duplicate_current_evidence() {
+        let evidence = lex_core::TemporalEvidence {
+            provision_id: "urn:test:transitory:one".to_owned(),
+            label: "One".to_owned(),
+            text: "Original source text".to_owned(),
+            amendment_marks: Vec::new(),
+        };
+        let original = vec![evidence.clone()];
+        assert!(super::ensure_current_temporal_evidence(&original, &original).is_ok());
+        let mut changed = evidence.clone();
+        changed.text.push_str(" changed");
+        assert!(super::ensure_current_temporal_evidence(&original, &[changed]).is_err());
+        assert!(super::ensure_current_temporal_evidence(&original, &[]).is_err());
+        assert!(
+            super::ensure_current_temporal_evidence(&[evidence.clone(), evidence], &original)
+                .is_err()
+        );
+    }
 
     #[test]
     fn latest_reform_date_uses_latest_matching_date() {

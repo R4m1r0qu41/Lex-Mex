@@ -7,8 +7,9 @@ mod temporal;
 pub use temporal::{
     ReappliedTemporalState, RoutedTemporalAnalysis, TemporalReviewOpenError,
     TemporalReviewResolutionError, TemporalRoutingError, apply_temporal_determinations,
-    evidence_sha256, open_temporal_review, preserve_temporal_review_history,
-    reapply_temporal_determinations, resolve_temporal_review, route_temporal_analysis,
+    evidence_sha256, open_temporal_review, parse_temporal_model_response,
+    preserve_temporal_review_history, reapply_temporal_determinations, resolve_temporal_review,
+    route_temporal_analysis,
 };
 
 pub const SCHEMA_VERSION: &str = "0.1.0";
@@ -741,8 +742,8 @@ pub struct TemporalDetermination {
     /// against. A reparse re-applies a determination only when the current
     /// evidence hashes identically; a quotation merely remaining a
     /// substring of materially different text is not sufficient. Empty for
-    /// determinations recorded before this field existed; those are
-    /// grandfathered in on their next reapply and then backfilled.
+    /// determinations recorded before this field existed; these remain stale
+    /// until evidence is verified through a new analysis and review.
     #[serde(default)]
     pub evidence_sha256: String,
 }

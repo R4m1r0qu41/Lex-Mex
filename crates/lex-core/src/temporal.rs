@@ -30,6 +30,8 @@ pub struct RoutedTemporalAnalysis {
 pub enum TemporalRoutingError {
     #[error("duplicate model determination for {0}")]
     DuplicateDetermination(String),
+    #[error("temporal model response violates v2 schema: {0}")]
+    InvalidModelSchema(String),
     #[error("model omitted determination for {0}")]
     MissingDetermination(String),
     #[error("model returned unknown evidence identifier {0}")]
@@ -64,6 +66,10 @@ pub enum TemporalReviewOpenError {
 pub enum TemporalReviewResolutionError {
     #[error("review item is already resolved")]
     AlreadyResolved,
+    #[error("archived reviews cannot resolve current evidence")]
+    ArchivedReview,
+    #[error("review evidence does not match the current determination")]
+    StaleEvidence,
     #[error("reviewer identity cannot be empty")]
     EmptyReviewer,
     #[error("lawyer_override requires a non-empty --note and at least one changed field")]
@@ -80,6 +86,26 @@ pub enum TemporalReviewResolutionError {
     InvalidOverrideEffect,
     #[error("temporal result does not contain determination for {0}")]
     DeterminationNotFound(String),
+}
+
+/// Validate the external model contract before canonical types can accept
+/// reviewer-only verification fields or other values outside model schema v2.
+pub fn parse_temporal_model_response(
+    bytes: &[u8],
+) -> Result<TemporalModelBatch, TemporalRoutingError> {
+    let value: serde_json::Value = serde_json::from_slice(bytes)
+        .map_err(|error| TemporalRoutingError::InvalidModelSchema(error.to_string()))?;
+    let schema: serde_json::Value = serde_json::from_str(include_str!(
+        "../../../schemas/temporal-model-output-v2.schema.json"
+    ))
+    .map_err(|error| TemporalRoutingError::InvalidModelSchema(error.to_string()))?;
+    let validator = jsonschema::validator_for(&schema)
+        .map_err(|error| TemporalRoutingError::InvalidModelSchema(error.to_string()))?;
+    validator
+        .validate(&value)
+        .map_err(|error| TemporalRoutingError::InvalidModelSchema(error.to_string()))?;
+    serde_json::from_value(value)
+        .map_err(|error| TemporalRoutingError::InvalidModelSchema(error.to_string()))
 }
 
 pub fn route_temporal_analysis(
@@ -200,7 +226,12 @@ fn validate_model_output(
         ));
     }
     for effect in &output.effects {
-        if !valid_effect(effect) {
+        if effect.verification_status == TemporalVerificationStatus::ExternallyVerified
+            || effect.verification_source_url.is_some()
+            || effect.verified_event_date.is_some()
+            || effect.verification_note.is_some()
+            || !valid_effect(effect)
+        {
             return Err(TemporalRoutingError::InvalidEffect(
                 evidence.provision_id.clone(),
             ));
@@ -339,6 +370,20 @@ pub fn resolve_temporal_review(
     determinations: &mut [TemporalDetermination],
     resolution: TemporalReviewResolution,
 ) -> Result<(), TemporalReviewResolutionError> {
+    if is_archived_review_item_id(&item.id) {
+        return Err(TemporalReviewResolutionError::ArchivedReview);
+    }
+    let current = determinations
+        .iter()
+        .find(|candidate| candidate.provision_id == item.provision_id)
+        .ok_or_else(|| {
+            TemporalReviewResolutionError::DeterminationNotFound(item.provision_id.clone())
+        })?;
+    if current.evidence_sha256.is_empty()
+        || current.evidence_sha256 != item.proposed_machine_conclusion.evidence_sha256
+    {
+        return Err(TemporalReviewResolutionError::StaleEvidence);
+    }
     if item.status != ReviewItemStatus::Pending {
         return Err(TemporalReviewResolutionError::AlreadyResolved);
     }
@@ -507,6 +552,8 @@ pub fn preserve_temporal_review_history(
             .iter()
             .find(|item| item.provision_id == previous_item.provision_id)
         else {
+            archive_review(review_items, previous_item);
+            superseded.push(previous_item.provision_id.clone());
             continue;
         };
         let Some(current_determination) = result
@@ -514,22 +561,15 @@ pub fn preserve_temporal_review_history(
             .iter_mut()
             .find(|item| item.provision_id == previous_item.provision_id)
         else {
+            archive_review(review_items, previous_item);
+            superseded.push(previous_item.provision_id.clone());
             continue;
         };
         // `current_determination` was just computed by this rerun from
         // the current evidence, so its own (pre-overwrite) hash is the
         // current hash.
         if previous_determination.evidence_sha256 != current_determination.evidence_sha256 {
-            let version = if previous_determination.evidence_sha256.is_empty() {
-                "legacy".to_owned()
-            } else {
-                previous_determination.evidence_sha256.clone()
-            };
-            let mut archived = previous_item.clone();
-            archived.id = format!("{}:evidence:{version}", previous_item.id);
-            if !review_items.iter().any(|item| item.id == archived.id) {
-                review_items.push(archived);
-            }
+            archive_review(review_items, previous_item);
             superseded.push(previous_item.provision_id.clone());
             continue;
         }
@@ -544,6 +584,16 @@ pub fn preserve_temporal_review_history(
         }
     }
     superseded
+}
+
+fn archive_review(items: &mut Vec<ReviewItem>, previous: &ReviewItem) {
+    let hash = &previous.proposed_machine_conclusion.evidence_sha256;
+    let version = if hash.is_empty() { "legacy" } else { hash };
+    let mut archived = previous.clone();
+    archived.id = format!("{}:evidence:{version}", previous.id);
+    if !items.iter().any(|item| item.id == archived.id) {
+        items.push(archived);
+    }
 }
 
 fn is_archived_review_item_id(id: &str) -> bool {
@@ -660,6 +710,116 @@ mod tests {
 
     use super::*;
     use crate::{TemporalAnalysisRequest, TemporalEvidence, TransitoryEffectType};
+
+    #[test]
+    fn model_schema_rejects_reviewer_fields_and_missing_required_keys() {
+        let valid = serde_json::to_value(model_batch(procedural_survival_effect(
+            TemporalVerificationStatus::OpenEndedByDesign,
+        )))
+        .unwrap();
+        assert!(parse_temporal_model_response(&serde_json::to_vec(&valid).unwrap()).is_ok());
+        let mut externally_verified = valid.clone();
+        externally_verified["determinations"][0]["effects"][0]["verification_status"] =
+            serde_json::json!("externally_verified");
+        assert!(
+            parse_temporal_model_response(&serde_json::to_vec(&externally_verified).unwrap())
+                .is_err()
+        );
+        let mut reviewer_field = valid.clone();
+        reviewer_field["determinations"][0]["effects"][0]["verification_source_url"] =
+            serde_json::json!("https://example.invalid");
+        assert!(
+            parse_temporal_model_response(&serde_json::to_vec(&reviewer_field).unwrap()).is_err()
+        );
+        let mut missing = valid;
+        missing["determinations"][0]
+            .as_object_mut()
+            .unwrap()
+            .remove("effective_to");
+        assert!(parse_temporal_model_response(&serde_json::to_vec(&missing).unwrap()).is_err());
+    }
+
+    fn accept_resolution() -> TemporalReviewResolution {
+        TemporalReviewResolution {
+            resolution: ReviewResolution::AcceptMachineConclusion,
+            reviewer: "Test reviewer".to_owned(),
+            note: None,
+            temporal_status: None,
+            effective_from: None,
+            effective_to: None,
+            effects: None,
+            resolved_at: Utc::now(),
+        }
+    }
+
+    #[test]
+    fn archived_and_stale_reviews_cannot_mutate_current_determinations() {
+        for archived in [true, false] {
+            let mut routed = routed_review();
+            if archived {
+                routed.review_items[0].id.push_str(":evidence:old");
+            } else {
+                routed.result.determinations[0].evidence_sha256 = "changed".to_owned();
+            }
+            let before = serde_json::to_value((&routed.result, &routed.review_items)).unwrap();
+            let error = resolve_temporal_review(
+                &mut routed.review_items[0],
+                &mut routed.result.determinations,
+                accept_resolution(),
+            )
+            .unwrap_err();
+            assert!(matches!(
+                error,
+                TemporalReviewResolutionError::ArchivedReview
+                    | TemporalReviewResolutionError::StaleEvidence
+            ));
+            assert_eq!(
+                before,
+                serde_json::to_value((&routed.result, &routed.review_items)).unwrap()
+            );
+        }
+    }
+
+    #[test]
+    fn omitted_evidence_keeps_pending_and_resolved_review_history() {
+        for resolved in [false, true] {
+            let mut previous = routed_review();
+            if resolved {
+                resolve_temporal_review(
+                    &mut previous.review_items[0],
+                    &mut previous.result.determinations,
+                    accept_resolution(),
+                )
+                .unwrap();
+            }
+            let mut next = previous.result.clone();
+            next.determinations.clear();
+            let mut items = Vec::new();
+            let superseded = preserve_temporal_review_history(
+                &mut next,
+                &mut items,
+                &previous.result,
+                &previous.review_items,
+            );
+            assert_eq!(superseded.len(), 1);
+            assert!(next.determinations.is_empty());
+            let mut expected = previous.review_items[0].clone();
+            expected.id = items[0].id.clone();
+            assert!(is_archived_review_item_id(&items[0].id));
+            assert_eq!(
+                serde_json::to_value(&items[0]).unwrap(),
+                serde_json::to_value(expected).unwrap()
+            );
+            let archived = items.clone();
+            let _ = preserve_temporal_review_history(
+                &mut next,
+                &mut items,
+                &previous.result,
+                &archived,
+            );
+            assert_eq!(items.len(), 1);
+        }
+    }
 
     #[test]
     fn routes_materially_unknown_effect_to_review() {
