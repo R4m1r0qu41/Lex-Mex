@@ -1,9 +1,10 @@
 # Partial repeal and conditional commencement
 
-Status: design proposal for operator sign-off. No schema, Rust type, validator
-or corpus change has been made. Both decisions below were made by the operator
-on 2026-10-07; this note turns them into a concrete shape so the trusted data
-boundary can change in one reviewed step.
+Status: shape approved by the operator on 2026-10-07 and implemented in steps
+2 to 4 below (types, validators, fixtures, parser rule, the two corrected
+rows). Step 5, the model-output schema version for the condition record, and
+the review-queue entry for `unverified` conditions are not built; no parser or
+model sets `conditional_pending` yet.
 
 ## Why this is one change
 
@@ -115,3 +116,28 @@ corpus and can be resolved with a citation; the rest go to the legal reviewer.
   is a legal call, and the 65 provisions in 23 instruments flagged by text
   search (41 committed `effective`, 24 `unknown`; example `lcm` Art. 338) have
   not been read.
+
+## Implementation record (2026-10-07)
+
+- `TemporalStatus::PartiallyRepealed` and `ConditionalPending`; `Provision`
+  gained `repeals` (scope, ordinals, `cause` legislative or judicial,
+  optional DOF date, `renumbering`) and `commencement_condition` (source
+  provision, wording, authority, `condition_status`, `met_on`, `evidence`).
+  Both fields are omitted from JSON when empty.
+- Validators in `validate_corpus` reject a partial repeal with no scope, repeals
+  on an unrepealed provision, a pending provision with no condition, a met
+  condition without a date and evidence, and a condition on the wrong status.
+- A model cannot set either status: the v2 output schema does not list them and
+  the routing check rejects them; a test covers both.
+- The parser classifies only a parenthesised note at the start of a provision
+  that names paragraphs or fractions, in either word order ("el primer
+  párrafo", "los párrafos segundo a cuarto", "las fracciones III y V"). A note
+  with prose inside it ("con los subsecuentes recorriéndose"), or one naming
+  another article or law, stays `unknown` or `repealed` for review.
+- `derive-temporal` now reclassifies committed deterministic `repealed` rows
+  whose note matches: `lfpc` Art. 122 and `ltfccg` Art. 16. A census of all
+  132 instruments finds no other match.
+- Read, not changed: `lscs` Art. 207 holds a derogation clause that repeals
+  other instruments plus promulgation text, so it is probably not itself
+  repealed; `fi-dcg-2014` Art. 64 is a repealed-chapter placeholder. Both stay
+  `repealed` until someone reads the source.

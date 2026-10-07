@@ -2864,3 +2864,17 @@ Named external-law citations are deliberately left unlinked until their target
 instrument is in the corpus. The standalone `link` stage can regenerate the
 graph from an already reviewed corpus without reparsing source text or changing
 temporal decisions.
+
+## 2026-10-07 — Partial repeal, judicial invalidation and conditional commencement
+
+Decision (operator): model partial repeal explicitly and treat an SCJN
+invalidation of an article, fraction or paragraph with the same shape, marked
+by a `cause`. Commencement that waits on an unverifiable future act is
+`conditional_pending` with an `unverified` condition, filled in by audited
+review. Implemented as `partially_repealed` plus `repeals`, and
+`conditional_pending` plus `commencement_condition`; models cannot set either.
+The parser classifies only the unambiguous parenthesised note; anything else
+stays for review. Open: the date that ends force for an SCJN ruling (notice or
+DOF publication), the review-queue entry for unverified conditions, and a
+versioned model-output schema for the condition record.
+
