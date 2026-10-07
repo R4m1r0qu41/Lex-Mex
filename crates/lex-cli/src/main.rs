@@ -28,7 +28,7 @@ use lex_parse::{
     detect_glossary_terms, extract_doc, extract_html_text, extract_internal_references,
     extract_pdf, extract_references, extract_term_usages, extract_terms, find_admitted_furniture,
     find_glossary_provision, parse_dcg, parse_diputados, parse_itf_dcg, repair_article_dates,
-    validate_corpus,
+    repair_partial_repeals, validate_corpus,
 };
 use lex_source::{
     SourceConfig, SourceFormat, discover, fetch, fetch_annex, fetch_formal, load_batch_manifest,
@@ -2573,8 +2573,14 @@ fn run_temporal_derive(context: &InstrumentContext, repair_dates_only: bool) -> 
             "repaired {cleared} article dates (original commencement for unamended articles; amended articles left unset)"
         );
     }
+    let split = repair_partial_repeals(&mut corpus.provisions);
+    if split > 0 {
+        println!(
+            "reclassified {split} partially repealed articles (repeal scope recorded; remaining text stays in force)"
+        );
+    }
     if repair_dates_only {
-        if cleared > 0 {
+        if cleared + split > 0 {
             write_canonical(&corpus, &paths.corpus)?;
         }
         return Ok(());

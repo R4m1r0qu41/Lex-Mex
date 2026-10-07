@@ -290,6 +290,32 @@ pub fn repair_article_dates(instrument: &Instrument, provisions: &mut [Provision
     changed
 }
 
+/// Reclassify committed articles that an earlier parser stored as wholly
+/// `Repealed` although their opening note repeals only named paragraphs or
+/// fractions (`(Se deroga el primer párrafo)`). Only machine-accepted
+/// deterministic articles whose note [`crate::initial_repeals`] recognises are
+/// touched; the rest of the article text stays in force. Returns how many
+/// provisions changed.
+#[must_use]
+pub fn repair_partial_repeals(provisions: &mut [Provision]) -> usize {
+    let mut changed = 0;
+    for provision in provisions {
+        if provision.temporal_status == TemporalStatus::Repealed
+            && provision.temporal_basis == Some(Basis::DeterministicRule)
+            && provision.review_status == ReviewStatus::MachineAccepted
+            && provision.repeals.is_empty()
+        {
+            let repeals = crate::initial_repeals(&provision.text);
+            if !repeals.is_empty() {
+                provision.temporal_status = TemporalStatus::PartiallyRepealed;
+                provision.repeals = repeals;
+                changed += 1;
+            }
+        }
+    }
+    changed
+}
+
 fn determination(
     provision: &Provision,
     instrument: &Instrument,
@@ -627,6 +653,34 @@ mod tests {
             Some(Commencement::Resolved { effective_from, .. }) => Some(effective_from),
             _ => None,
         }
+    }
+
+    #[test]
+    fn repair_partial_repeals_reclassifies_only_deterministic_partial_notes() {
+        let mut partial = article(
+            "16",
+            "(Se deroga el primer párrafo). Párrafo derogado DOF 15-06-2007\n\nTexto vigente.",
+        );
+        partial.temporal_status = TemporalStatus::Repealed;
+        partial.temporal_basis = Some(Basis::DeterministicRule);
+        partial.review_status = ReviewStatus::MachineAccepted;
+        let mut whole = article("2", "(Se deroga)");
+        whole.temporal_status = TemporalStatus::Repealed;
+        whole.temporal_basis = Some(Basis::DeterministicRule);
+        whole.review_status = ReviewStatus::MachineAccepted;
+        let mut reviewed = partial.clone();
+        reviewed.review_status = ReviewStatus::LawyerVerified;
+        let mut provisions = vec![partial, whole, reviewed];
+
+        assert_eq!(repair_partial_repeals(&mut provisions), 1);
+        assert_eq!(
+            provisions[0].temporal_status,
+            TemporalStatus::PartiallyRepealed
+        );
+        assert_eq!(provisions[0].repeals[0].ordinals, ["1"]);
+        assert_eq!(provisions[1].temporal_status, TemporalStatus::Repealed);
+        assert_eq!(provisions[2].temporal_status, TemporalStatus::Repealed);
+        assert_eq!(repair_partial_repeals(&mut provisions), 0);
     }
 
     #[test]

@@ -40,7 +40,7 @@ pub use standard::{
 };
 pub use temporal_derive::{
     Commencement, DerivationOutcome, SkipReason, derive_article_temporal_determinations,
-    repair_article_dates,
+    repair_article_dates, repair_partial_repeals,
 };
 pub use terms::{
     GlossaryStyle, detect_glossary_terms, extract_term_usages, extract_terms,
