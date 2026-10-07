@@ -105,15 +105,13 @@ corpus and can be resolved with a citation; the rest go to the legal reviewer.
   proposes a distinct status so no consumer reads the article as untouched.
 - Does an `unmet` condition ever need a deadline, so a long-overdue condition
   is flagged for re-check? Not proposed here.
-- Judicial invalidation (found 2026-10-07, not yet decided). A Supreme Court
-  (SCJN) general declaration of unconstitutionality can invalidate a whole
-  article, a fraction or a normative portion; it is not a legislative repeal.
-  The source text carries notes such as "Artículo declarado inválido por
-  sentencia de la SCJN … notificada para efectos legales 10-11-2025 y publicada
-  DOF 16-01-2026" (`lcm` Art. 338, committed `effective`). A text search finds
-  such notes in 65 provisions across 23 instruments, 41 committed `effective`
-  and 24 `unknown`; they have not been read, so some may be partial or may
-  describe an older ruling. Options: a `cause` (legislative or judicial) on each
-  repeal entry, a separate `invalidated` status, or both. Which date ends the
-  force of a provision (notification for legal effects or DOF publication) is a
-  legal decision for the operator.
+- Judicial invalidation (found 2026-10-07). Decision (operator, same day):
+  an SCJN invalidation of an article, fraction or paragraph is expressed like a
+  partial repeal, so it follows the same rule for now. It uses the
+  `partially_repealed` shape with a `cause` of `judicial` on the `repeals`
+  entry (legislative repeals carry `legislative`), and the whole-article case
+  uses `repealed` with the same `cause`. A dedicated rule can come later.
+  Open: which date ends force (notified for legal effects or DOF publication)
+  is a legal call, and the 65 provisions in 23 instruments flagged by text
+  search (41 committed `effective`, 24 `unknown`; example `lcm` Art. 338) have
+  not been read.
