@@ -51,6 +51,9 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Active
 
+- [`docs/plans/nested-public-reader.md`](docs/plans/nested-public-reader.md)
+  — Publish discoverable text and a source-backed nested reader with shared MCP access.
+
 - [`docs/plans/maximasa-legal-integration.md`](docs/plans/maximasa-legal-integration.md)
   — Use the selected federal corpus in Maximasa's compliance module, close
   missing-instrument coverage, and design a standards-capable NOM/NMX boundary.
@@ -62,6 +65,9 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
   gate, close reverse links, and validate publication output.
 
 ### Completed
+
+- [`docs/plans/temporal-boundary-repair-and-public-reader.md`](docs/plans/temporal-boundary-repair-and-public-reader.md)
+  — Repair temporal trust boundaries and assess public-reader and agent access.
 
 - [`docs/plans/standard-post-transitory-supplements.md`](docs/plans/standard-post-transitory-supplements.md)
   — Modeled exact-span standard supplements, migrated committed tails, and
