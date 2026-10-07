@@ -83,6 +83,22 @@ fn normalize(text: &str) -> String {
     text.split_whitespace().collect::<Vec<_>>().join(" ")
 }
 
+/// True when `furniture` appears verbatim (same casing) at the start or end
+/// of `block`, on a word boundary, with other text on the other side.
+fn has_exact_edge_match(block: &str, furniture: &str) -> bool {
+    let trimmed = block.trim_end_matches(|c: char| c.is_ascii_punctuation() || c.is_whitespace());
+    let at_end = trimmed.strip_suffix(furniture).is_some_and(|before| {
+        before
+            .chars()
+            .next_back()
+            .is_some_and(|c| !c.is_alphanumeric())
+    });
+    let at_start = block
+        .strip_prefix(furniture)
+        .is_some_and(|after| after.chars().next().is_some_and(|c| !c.is_alphanumeric()));
+    at_end || at_start
+}
+
 fn zone_of(relative_y: f32) -> Zone {
     if relative_y >= 0.88 {
         Zone::Header
@@ -200,7 +216,8 @@ pub fn find_admitted_furniture<'a>(
             (
                 id,
                 text.split("\n\n")
-                    .map(|block| normalize(block).to_lowercase())
+                    .map(normalize)
+                    .map(|block| (block.to_lowercase(), block))
                     .collect::<Vec<_>>(),
             )
         })
@@ -209,7 +226,8 @@ pub fn find_admitted_furniture<'a>(
 
     for band in &report.furniture_bands {
         for sample in &band.sample_texts {
-            let normalized = normalize(sample).to_lowercase();
+            let sample_text = normalize(sample);
+            let normalized = sample_text.to_lowercase();
             // Page counters and other short fragments are too ambiguous to
             // implicate legal text even when they happen to be repeated.
             if normalized.chars().count() < 12 {
@@ -223,7 +241,16 @@ pub fn find_admitted_furniture<'a>(
                 // furniture has its own block. Require that stronger shape so
                 // the gate catches parser leakage without treating a legal
                 // reference to the instrument title as contamination.
-                .filter(|(_, blocks)| blocks.iter().any(|block| block == &normalized))
+                //
+                // Furniture that leaks into a paragraph lands at its edge (the
+                // page break follows the last line or precedes the first), in
+                // the band's exact casing; a title-case citation or one inside
+                // a sentence does neither. Match that shape as well.
+                .filter(|(_, blocks)| {
+                    blocks.iter().any(|(lowered, original)| {
+                        lowered == &normalized || has_exact_edge_match(original, &sample_text)
+                    })
+                })
                 .map(|(id, _)| (*id).to_owned())
                 .collect::<Vec<_>>();
             if !provision_ids.is_empty() {
@@ -369,6 +396,40 @@ mod tests {
         assert_eq!(findings[0].provision_ids, vec!["urn:test:1"]);
         assert_eq!(findings[0].band.zone, Zone::Header);
         assert!(!findings[0].blocks_ingestion());
+    }
+
+    #[test]
+    fn furniture_leaked_at_a_paragraph_edge_is_reported_but_citations_are_not() {
+        let report = FurnitureReport {
+            page_count: 3,
+            furniture_bands: vec![FurnitureBand {
+                y: 980,
+                pages: 3,
+                coverage: 1.0,
+                zone: Zone::Header,
+                kind: BandKind::Static,
+                distinct_texts: 1,
+                sample_texts: vec!["DIARIO OFICIAL DE LA FEDERACIÓN".to_owned()],
+            }],
+            body_zone_repeats: Vec::new(),
+        };
+        for leaked in [
+            "Texto legal. DIARIO OFICIAL DE LA FEDERACIÓN",
+            "Texto legal.\nDIARIO OFICIAL DE LA FEDERACIÓN.",
+            "DIARIO OFICIAL DE LA FEDERACIÓN Continúa el texto legal.",
+        ] {
+            let findings = find_admitted_furniture(&report, [("urn:test:leak", leaked)]);
+            assert_eq!(findings.len(), 1, "{leaked:?}");
+        }
+        for citation in [
+            "La Ley se publicó en el DIARIO OFICIAL DE LA FEDERACIÓN para surtir efectos.",
+            "Publicado en el Diario Oficial de la Federación",
+            "El Diario Oficial de la Federación publicará el aviso.",
+            "NODIARIO OFICIAL DE LA FEDERACIÓN",
+        ] {
+            let findings = find_admitted_furniture(&report, [("urn:test:cite", citation)]);
+            assert!(findings.is_empty(), "{citation:?}");
+        }
     }
 
     #[test]
