@@ -113,8 +113,10 @@ corpus and can be resolved with a citation; the rest go to the legal reviewer.
   entry (legislative repeals carry `legislative`), and the whole-article case
   uses `repealed` with the same `cause`. A dedicated rule can come later.
   Open: which date ends force (notified for legal effects or DOF publication)
-  is a legal call, and the 65 provisions in 23 instruments flagged by text
-  search (41 committed `effective`, 24 `unknown`; example `lcm` Art. 338) have
+  is a legal call, and the 49 provisions in 20 instruments listed in
+  `docs/scjn-invalidation-census-2026-10-07.md` (30 committed `effective`, 19
+  `unknown`; example `lcm` Art. 338; an earlier count of 65 wrongly included
+  Ley de Amparo text that describes the procedure) have
   not been read.
 
 ## Implementation record (2026-10-07)
