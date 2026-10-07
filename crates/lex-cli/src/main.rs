@@ -3658,6 +3658,8 @@ mod tests {
                 review_status: ReviewStatus::NotAnalyzed,
                 transitory_effects: Vec::new(),
                 amendment_marks: Vec::new(),
+                repeals: Vec::new(),
+                commencement_condition: None,
             }],
             references: Vec::new(),
             terms: Vec::new(),

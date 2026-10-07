@@ -210,7 +210,10 @@ pub fn derive_article_temporal_determinations(
         for provision in provisions {
             if provision.provision_type != ProvisionType::Article
                 || provision.review_status != ReviewStatus::NotAnalyzed
-                || provision.temporal_status == TemporalStatus::Repealed
+                || matches!(
+                    provision.temporal_status,
+                    TemporalStatus::Repealed | TemporalStatus::PartiallyRepealed
+                )
             {
                 continue;
             }
@@ -581,6 +584,8 @@ mod tests {
             review_status,
             transitory_effects: Vec::new(),
             amendment_marks: Vec::new(),
+            repeals: Vec::new(),
+            commencement_condition: None,
         }
     }
 

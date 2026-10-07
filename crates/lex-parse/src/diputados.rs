@@ -778,6 +778,8 @@ impl ProvisionBuilder {
             review_status: ReviewStatus::NotAnalyzed,
             transitory_effects: Vec::new(),
             amendment_marks: Vec::new(),
+            repeals: crate::initial_repeals(&text),
+            commencement_condition: None,
         }
     }
 }

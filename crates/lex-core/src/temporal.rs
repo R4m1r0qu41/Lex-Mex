@@ -213,6 +213,8 @@ fn validate_model_output(
         TemporalStatus::PartiallyEffective
             | TemporalStatus::ConditionallyEffective
             | TemporalStatus::RepealedWithSurvival
+            | TemporalStatus::PartiallyRepealed
+            | TemporalStatus::ConditionalPending
             | TemporalStatus::TemporarilyApplicable
             | TemporalStatus::PendingConsolidation
     ) {
@@ -739,6 +741,22 @@ mod tests {
         assert!(parse_temporal_model_response(&serde_json::to_vec(&missing).unwrap()).is_err());
     }
 
+    #[test]
+    fn model_cannot_set_partial_repeal_or_conditional_statuses() {
+        let valid = serde_json::to_value(model_batch(procedural_survival_effect(
+            TemporalVerificationStatus::OpenEndedByDesign,
+        )))
+        .unwrap();
+        for status in ["partially_repealed", "conditional_pending"] {
+            let mut forged = valid.clone();
+            forged["determinations"][0]["temporal_status"] = serde_json::json!(status);
+            assert!(
+                parse_temporal_model_response(&serde_json::to_vec(&forged).unwrap()).is_err(),
+                "{status}"
+            );
+        }
+    }
+
     fn accept_resolution() -> TemporalReviewResolution {
         TemporalReviewResolution {
             resolution: ReviewResolution::AcceptMachineConclusion,
@@ -1232,6 +1250,8 @@ mod tests {
             review_status: ReviewStatus::NotAnalyzed,
             transitory_effects: Vec::new(),
             amendment_marks: Vec::new(),
+            repeals: Vec::new(),
+            commencement_condition: None,
         };
         let evidence_map = |text: &str| HashMap::from([(provision_id.clone(), text.to_owned())]);
 
@@ -1349,6 +1369,8 @@ mod tests {
             review_status: ReviewStatus::NotAnalyzed,
             transitory_effects: Vec::new(),
             amendment_marks: Vec::new(),
+            repeals: Vec::new(),
+            commencement_condition: None,
         }
     }
 

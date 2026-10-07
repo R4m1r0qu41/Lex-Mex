@@ -385,6 +385,12 @@ pub enum TemporalStatus {
     PartiallyEffective,
     ConditionallyEffective,
     Repealed,
+    /// Part of the provision is repealed or judicially invalidated and the
+    /// rest remains; `Provision::repeals` records what was removed.
+    PartiallyRepealed,
+    /// Commencement depends on a future act that has not been shown to occur;
+    /// `Provision::commencement_condition` records the condition.
+    ConditionalPending,
     RepealedWithSurvival,
     Superseded,
     TemporarilyApplicable,
@@ -565,6 +571,72 @@ pub struct Provision {
     /// empty for instruments without compiled-document markers.
     #[serde(default, skip_serializing_if = "Vec::is_empty")]
     pub amendment_marks: Vec<u32>,
+    /// What a partial repeal or judicial invalidation removed, as the source
+    /// states it. Required for `PartiallyRepealed`; may also qualify `Repealed`.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub repeals: Vec<ProvisionRepeal>,
+    /// The unmet or unverified condition a `ConditionalPending` provision
+    /// waits on. Kept once met, as the evidence for the commencement date.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub commencement_condition: Option<CommencementCondition>,
+}
+
+/// The kind of unit a repeal removes.
+#[derive(Debug, Clone, Copy, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum RepealScope {
+    Paragraph,
+    Fraction,
+    Inciso,
+    Other,
+}
+
+/// Who removed the text: the legislature, or the Supreme Court by an
+/// invalidation or general declaration of unconstitutionality.
+#[derive(Debug, Clone, Copy, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum RepealCause {
+    Legislative,
+    Judicial,
+}
+
+/// One partial repeal. `ordinals` are source statements about the text as it
+/// stood before the repeal ("1", "2", "4" or "III"), never offsets into the
+/// current text, because renumbering makes offsets unreliable.
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+pub struct ProvisionRepeal {
+    pub scope: RepealScope,
+    pub ordinals: Vec<String>,
+    pub cause: RepealCause,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub dof_date: Option<NaiveDate>,
+    /// The source says the remaining units are renumbered ("recorriéndose").
+    #[serde(default)]
+    pub renumbering: bool,
+}
+
+#[derive(Debug, Clone, Copy, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum ConditionStatus {
+    Unverified,
+    Met,
+    Unmet,
+}
+
+/// A commencement that waits on a future act. Only an audited resolution may
+/// set `Met`; the parser and a model never do.
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+pub struct CommencementCondition {
+    pub source_provision_id: String,
+    /// The condition in the source's words.
+    pub condition_text: String,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub authority: Option<String>,
+    pub condition_status: ConditionStatus,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub met_on: Option<NaiveDate>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub evidence: Option<String>,
 }
 
 /// One entry of a compiled CNBV document's REFERENCIAS legend: the marker

@@ -910,9 +910,14 @@ fn reference_resolution_status(
 /// source wording, not the legal effectiveness of every provision it prints,
 /// so ordinary provisions start `Unknown`. An explicit repeal note —
 /// `(Se deroga)`, `Derogado` — is a narrow deterministic source fact and
-/// starts `Repealed`. A later temporal determination (reapplied from persisted
-/// results for analyzed instruments) overrides this initial state.
+/// starts `Repealed`; a parenthesised note repealing named paragraphs or
+/// fractions starts `PartiallyRepealed` (see [`initial_repeals`]). A later
+/// temporal determination (reapplied from persisted results for analyzed
+/// instruments) overrides this initial state.
 pub(crate) fn initial_temporal_status(text: &str) -> lex_core::TemporalStatus {
+    if !initial_repeals(text).is_empty() {
+        return lex_core::TemporalStatus::PartiallyRepealed;
+    }
     let head = text.trim_start().to_lowercase();
     let standalone_marker = [
         "(se deroga",
@@ -938,6 +943,211 @@ pub(crate) fn initial_temporal_status(text: &str) -> lex_core::TemporalStatus {
         lex_core::TemporalStatus::Repealed
     } else {
         lex_core::TemporalStatus::Unknown
+    }
+}
+
+/// The word forms of paragraph and fraction ordinals a repeal note may use.
+const ORDINAL_WORDS: &[(&str, &str)] = &[
+    ("primero", "1"),
+    ("primer", "1"),
+    ("segundo", "2"),
+    ("tercero", "3"),
+    ("tercer", "3"),
+    ("cuarto", "4"),
+    ("quinto", "5"),
+    ("sexto", "6"),
+    ("séptimo", "7"),
+    ("octavo", "8"),
+    ("noveno", "9"),
+    ("décimo", "10"),
+];
+
+/// A parenthesised note at the very start of a provision that repeals named
+/// paragraphs or fractions of it, such as `(Se deroga el primer párrafo)` or
+/// `(Se derogan los párrafos segundo a cuarto)`. Only this unambiguous shape is
+/// recognised; a note that names another instrument or article, or that
+/// continues into prose, is left for review. The ordinals are the source's own
+/// statements about the text before the repeal.
+pub(crate) fn initial_repeals(text: &str) -> Vec<lex_core::ProvisionRepeal> {
+    static NOTE: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
+        Regex::new(
+            r"(?is)^\s*\(\s*se\s+derogan?\s+(?:el\s+|los\s+|la\s+|las\s+)?(?:(?P<list_before>[^()]*?)\s+(?P<scope_after>p[áa]rrafos?|fracci[óo]n(?:es)?)|(?P<scope_before>p[áa]rrafos?|fracci[óo]n(?:es)?)\s+(?P<list_after>[^()]*?))\s*(?:,?\s*inclusive)?\s*\)\s*(?:\.|\n|$)",
+        )
+        .expect("static regex")
+    });
+    static DOF_AFTER: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
+        Regex::new(r"(?i)derogad[oa]s?\s+DOF\s+(\d{2})-(\d{2})-(\d{4})").expect("static regex")
+    });
+    let Some(captures) = NOTE.captures(text) else {
+        return Vec::new();
+    };
+    let (Some(scope_match), Some(list_match)) = (
+        captures
+            .name("scope_after")
+            .or_else(|| captures.name("scope_before")),
+        captures
+            .name("list_before")
+            .or_else(|| captures.name("list_after")),
+    ) else {
+        return Vec::new();
+    };
+    let (scope_word, list) = (scope_match.as_str(), list_match.as_str());
+    let scope = if scope_word.to_lowercase().starts_with('p') {
+        lex_core::RepealScope::Paragraph
+    } else {
+        lex_core::RepealScope::Fraction
+    };
+    let Some(ordinals) = repeal_ordinals(list, scope) else {
+        return Vec::new();
+    };
+    let whole = captures.get(0).map_or(0, |matched| matched.end());
+    let window: String = text[whole..].chars().take(160).collect();
+    let dof_date = DOF_AFTER.captures(&window).and_then(|found| {
+        NaiveDate::from_ymd_opt(
+            found[3].parse().ok()?,
+            found[2].parse().ok()?,
+            found[1].parse().ok()?,
+        )
+    });
+    vec![lex_core::ProvisionRepeal {
+        scope,
+        ordinals,
+        cause: lex_core::RepealCause::Legislative,
+        dof_date,
+        renumbering: text.to_lowercase().contains("recorr"),
+    }]
+}
+
+/// Ordinals from a list like `primer`, `segundo a cuarto`, `1, 2 y 4` or
+/// `III y V`; `None` when any item is not an ordinal.
+fn repeal_ordinals(list: &str, scope: lex_core::RepealScope) -> Option<Vec<String>> {
+    let normalized = list.to_lowercase();
+    let mut ordinals: Vec<String> = Vec::new();
+    let mut range_from: Option<u32> = None;
+    for token in normalized
+        .split(|character: char| character == ',' || character.is_whitespace())
+        .filter(|token| !token.is_empty())
+    {
+        if token == "y" || token == "e" {
+            continue;
+        }
+        if token == "a" || token == "al" {
+            range_from = ordinals.last().and_then(|last| last.parse().ok());
+            range_from?;
+            continue;
+        }
+        let value = ORDINAL_WORDS
+            .iter()
+            .find(|(word, _)| *word == token)
+            .map(|(_, number)| (*number).to_owned())
+            .or_else(|| token.parse::<u32>().ok().map(|number| number.to_string()))
+            .or_else(|| {
+                (scope == lex_core::RepealScope::Fraction
+                    && token.chars().all(|c| matches!(c, 'i' | 'v' | 'x')))
+                .then(|| token.to_uppercase())
+            })?;
+        if let Some(from) = range_from.take() {
+            let to: u32 = value.parse().ok()?;
+            if to <= from || to - from > 30 {
+                return None;
+            }
+            ordinals.extend((from + 1..=to).map(|number| number.to_string()));
+        } else {
+            ordinals.push(value);
+        }
+    }
+    (range_from.is_none() && !ordinals.is_empty()).then_some(ordinals)
+}
+
+/// Partial-repeal and conditional-commencement records must be present
+/// exactly where the status needs them, and a condition may only be marked met
+/// with a date and evidence.
+fn validate_repeals_and_condition(provision: &Provision, issues: &mut Vec<ValidationIssue>) {
+    use lex_core::{ConditionStatus, TemporalStatus};
+    let id = || Some(provision.id.clone());
+    let status = &provision.temporal_status;
+    if *status == TemporalStatus::PartiallyRepealed && provision.repeals.is_empty() {
+        issues.push(error(
+            "partial_repeal_without_scope",
+            "partially_repealed provision has no repeals entry".to_owned(),
+            id(),
+        ));
+    }
+    if !provision.repeals.is_empty()
+        && !matches!(
+            status,
+            TemporalStatus::PartiallyRepealed | TemporalStatus::Repealed
+        )
+    {
+        issues.push(error(
+            "repeals_on_unrepealed_provision",
+            format!("repeals recorded on a {status:?} provision"),
+            id(),
+        ));
+    }
+    if provision.repeals.iter().any(|repeal| {
+        repeal.ordinals.is_empty() || repeal.ordinals.iter().any(|o| o.trim().is_empty())
+    }) {
+        issues.push(error(
+            "repeal_without_ordinals",
+            "a repeals entry names no paragraph or fraction".to_owned(),
+            id(),
+        ));
+    }
+    match (&provision.commencement_condition, status) {
+        (None, TemporalStatus::ConditionalPending) => issues.push(error(
+            "conditional_without_condition",
+            "conditional_pending provision has no commencement_condition".to_owned(),
+            id(),
+        )),
+        (Some(condition), _) => {
+            let met = condition.condition_status == ConditionStatus::Met;
+            let in_force = matches!(
+                status,
+                TemporalStatus::Effective | TemporalStatus::FutureEffective
+            );
+            if *status == TemporalStatus::ConditionalPending && met {
+                issues.push(error(
+                    "met_condition_still_pending",
+                    "a met condition must move the provision out of conditional_pending".to_owned(),
+                    id(),
+                ));
+            } else if *status != TemporalStatus::ConditionalPending && !(met && in_force) {
+                issues.push(error(
+                    "condition_on_wrong_status",
+                    format!("commencement_condition on a {status:?} provision"),
+                    id(),
+                ));
+            }
+            if condition.condition_text.trim().is_empty()
+                || condition.source_provision_id.trim().is_empty()
+            {
+                issues.push(error(
+                    "condition_incomplete",
+                    "commencement_condition needs its source provision and wording".to_owned(),
+                    id(),
+                ));
+            }
+            let has_evidence = condition
+                .evidence
+                .as_deref()
+                .is_some_and(|evidence| !evidence.trim().is_empty());
+            if met && (condition.met_on.is_none() || !has_evidence) {
+                issues.push(error(
+                    "met_condition_without_evidence",
+                    "a met condition needs the date it was met and its evidence".to_owned(),
+                    id(),
+                ));
+            }
+            if !met && condition.met_on.is_some() {
+                issues.push(error(
+                    "unmet_condition_with_date",
+                    "only a met condition may carry a met_on date".to_owned(),
+                    id(),
+                ));
+            }
+        }
+        (None, _) => {}
     }
 }
 
@@ -1446,6 +1656,7 @@ fn validate_provisions(
                 ));
             }
         }
+        validate_repeals_and_condition(provision, issues);
         match provision.provision_type {
             ProvisionType::Article => {
                 if expectations.allow_article_gaps {
@@ -1986,6 +2197,209 @@ pub(crate) fn reform_evidence_item(
 
 #[cfg(test)]
 mod tests {
+    fn repeal_fixture_provision(
+        status: TemporalStatus,
+        repeals: Vec<lex_core::ProvisionRepeal>,
+        condition: Option<lex_core::CommencementCondition>,
+    ) -> Provision {
+        Provision {
+            schema_version: "0.1.0".to_owned(),
+            id: "urn:lex-mx:federal:statute:muestra:article:1".to_owned(),
+            instrument_id: "urn:lex-mx:federal:statute:muestra".to_owned(),
+            provision_type: ProvisionType::Article,
+            label: "Artículo 1".to_owned(),
+            number: "1".to_owned(),
+            heading_context: lex_core::HeadingContext {
+                libro: None,
+                title: None,
+                chapter: None,
+                section: None,
+                apartado: None,
+            },
+            text: "Texto.".to_owned(),
+            publication_date: NaiveDate::from_ymd_opt(1990, 1, 1).unwrap(),
+            effective_from: None,
+            effective_to: None,
+            temporal_status: status,
+            temporal_basis: None,
+            temporal_confidence: None,
+            review_status: lex_core::ReviewStatus::MachineAccepted,
+            transitory_effects: Vec::new(),
+            amendment_marks: Vec::new(),
+            repeals,
+            commencement_condition: condition,
+        }
+    }
+
+    fn repeal_codes(provision: &Provision) -> Vec<String> {
+        let mut issues = Vec::new();
+        validate_repeals_and_condition(provision, &mut issues);
+        issues.into_iter().map(|issue| issue.code).collect()
+    }
+
+    fn sample_repeal() -> lex_core::ProvisionRepeal {
+        lex_core::ProvisionRepeal {
+            scope: lex_core::RepealScope::Paragraph,
+            ordinals: vec!["1".to_owned()],
+            cause: lex_core::RepealCause::Legislative,
+            dof_date: None,
+            renumbering: false,
+        }
+    }
+
+    fn sample_condition(
+        status: lex_core::ConditionStatus,
+        met_on: Option<NaiveDate>,
+        evidence: Option<&str>,
+    ) -> lex_core::CommencementCondition {
+        lex_core::CommencementCondition {
+            source_provision_id: "urn:lex-mx:federal:statute:muestra:transitory:tercero".to_owned(),
+            condition_text: "treinta días después de que se emitan las disposiciones".to_owned(),
+            authority: Some("CNBV".to_owned()),
+            condition_status: status,
+            met_on,
+            evidence: evidence.map(str::to_owned),
+        }
+    }
+
+    #[test]
+    fn partial_repeal_notes_are_classified_only_in_the_unambiguous_shape() {
+        let repeals = initial_repeals(
+            "(Se deroga el primer párrafo). Párrafo derogado DOF 15-06-2007\n\nTexto vigente.",
+        );
+        assert_eq!(repeals.len(), 1);
+        assert_eq!(repeals[0].scope, lex_core::RepealScope::Paragraph);
+        assert_eq!(repeals[0].ordinals, ["1"]);
+        assert_eq!(repeals[0].dof_date, NaiveDate::from_ymd_opt(2007, 6, 15));
+        assert!(!repeals[0].renumbering);
+        assert_eq!(
+            initial_temporal_status(
+                "(Se deroga primer párrafo). Párrafo derogado DOF 04-02-2004\n\nTexto."
+            ),
+            TemporalStatus::PartiallyRepealed
+        );
+
+        let listed = initial_repeals(
+            "(Se derogan los párrafos 1, 2 y 4, recorriéndose los subsecuentes)\n\nTexto.",
+        );
+        assert!(
+            listed.is_empty(),
+            "prose inside the note is left for review"
+        );
+
+        let range = initial_repeals("(Se derogan los párrafos segundo a cuarto)\n\nTexto.");
+        assert_eq!(range[0].ordinals, ["2", "3", "4"]);
+
+        let fractions = initial_repeals("(Se derogan las fracciones III y V)\n\nTexto.");
+        assert_eq!(fractions[0].scope, lex_core::RepealScope::Fraction);
+        assert_eq!(fractions[0].ordinals, ["III", "V"]);
+
+        for text in [
+            "Se deroga el primer párrafo del artículo 5 de otra ley.",
+            "(Se deroga el artículo 5 de la Ley Federal)",
+            "(Se deroga)",
+            "(Se deroga el texto del párrafo)",
+        ] {
+            assert!(initial_repeals(text).is_empty(), "{text:?}");
+        }
+    }
+
+    #[test]
+    fn partial_repeal_and_condition_records_are_required_where_the_status_needs_them() {
+        use lex_core::ConditionStatus::{Met, Unmet, Unverified};
+        let date = NaiveDate::from_ymd_opt(2024, 5, 1);
+
+        assert!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::PartiallyRepealed,
+                vec![sample_repeal()],
+                None
+            ))
+            .is_empty()
+        );
+        assert_eq!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::PartiallyRepealed,
+                vec![],
+                None
+            )),
+            ["partial_repeal_without_scope"]
+        );
+        assert_eq!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::Effective,
+                vec![sample_repeal()],
+                None
+            )),
+            ["repeals_on_unrepealed_provision"]
+        );
+
+        assert!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::ConditionalPending,
+                vec![],
+                Some(sample_condition(Unverified, None, None))
+            ))
+            .is_empty()
+        );
+        assert!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::ConditionalPending,
+                vec![],
+                Some(sample_condition(Unmet, None, None))
+            ))
+            .is_empty()
+        );
+        assert_eq!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::ConditionalPending,
+                vec![],
+                None
+            )),
+            ["conditional_without_condition"]
+        );
+        assert!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::Effective,
+                vec![],
+                Some(sample_condition(Met, date, Some("DOF 2024-05-01 acuerdo")))
+            ))
+            .is_empty()
+        );
+        assert_eq!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::ConditionalPending,
+                vec![],
+                Some(sample_condition(Met, date, Some("DOF")))
+            )),
+            ["met_condition_still_pending"]
+        );
+        assert_eq!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::Effective,
+                vec![],
+                Some(sample_condition(Met, None, None))
+            )),
+            ["met_condition_without_evidence"]
+        );
+        assert_eq!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::Effective,
+                vec![],
+                Some(sample_condition(Unverified, None, None))
+            )),
+            ["condition_on_wrong_status"]
+        );
+        assert_eq!(
+            repeal_codes(&repeal_fixture_provision(
+                TemporalStatus::ConditionalPending,
+                vec![],
+                Some(sample_condition(Unverified, date, None))
+            )),
+            ["unmet_condition_with_date"]
+        );
+    }
+
     #[test]
     fn latest_dof_date_reads_every_date_in_a_note_list() {
         use crate::latest_dof_date;
@@ -2012,15 +2426,17 @@ mod tests {
 
     use chrono::NaiveDate;
     use lex_core::{
-        ReferenceForm, ReferenceQualifierType, ReferenceResolutionStatus, TemporalStatus,
+        Provision, ProvisionType, ReferenceForm, ReferenceQualifierType, ReferenceResolutionStatus,
+        TemporalStatus,
     };
     use pretty_assertions::assert_eq;
 
     use super::{
         CorpusExpectations, CorpusView, DiputadosOptions, HistoricalTarget,
         InstrumentContextPolicy, ReferenceOptions, contains_page_header_contamination,
-        extract_internal_references, extract_references, extract_reform_evidence,
+        extract_internal_references, extract_references, extract_reform_evidence, initial_repeals,
         initial_temporal_status, parse_dcg, parse_diputados, validate_corpus, validate_lritf,
+        validate_repeals_and_condition,
     };
 
     const FIXTURE: &str = include_str!("../../../fixtures/lritf/parser-sample.txt");

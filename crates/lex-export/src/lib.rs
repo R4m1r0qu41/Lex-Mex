@@ -243,6 +243,15 @@ fn write_json<T: serde::Serialize>(value: &T, path: &Path) -> Result<()> {
     fs::write(path, json).with_context(|| format!("failed to write {}", path.display()))
 }
 
+/// A one-line JSON front-matter entry, omitted for an empty list.
+fn record_front_matter<T: serde::Serialize>(key: &str, value: &T) -> String {
+    let json = serde_json::to_value(value).expect("serializing a record cannot fail");
+    if json.as_array().is_some_and(Vec::is_empty) {
+        return String::new();
+    }
+    format!("{key}: {json}\n")
+}
+
 fn front_matter(corpus: &Corpus, provision: &Provision) -> String {
     let alias = format!("{} — {}", corpus.instrument.short_name, provision.label);
     let effect_types: Vec<_> = provision
@@ -267,6 +276,16 @@ fn front_matter(corpus: &Corpus, provision: &Provision) -> String {
                 .expect("serializing marker numbers cannot fail")
         )
     };
+    let marks_front_matter = format!(
+        "{marks_front_matter}{}{}",
+        record_front_matter("repeals", &provision.repeals),
+        provision
+            .commencement_condition
+            .as_ref()
+            .map_or_else(String::new, |condition| {
+                record_front_matter("commencement_condition", condition)
+            }),
+    );
     format!(
         "---\nid: {}\ninstrument_id: {}\ninstrument: {}\nname: {}\nprovision_type: {}\nnumber: \"{}\"\naliases: [{}]\ngenerated: true\ntemporal_status: {}\nreview_status: {}\n{}{}source_url: {}\nsource_sha256: {}\n---\n\n",
         provision.id,
@@ -835,6 +854,23 @@ fn json_name<T: serde::Serialize>(value: &T) -> String {
 
 #[cfg(test)]
 mod tests {
+    #[test]
+    fn record_front_matter_is_omitted_when_empty_and_one_line_otherwise() {
+        let empty: Vec<lex_core::ProvisionRepeal> = Vec::new();
+        assert_eq!(super::record_front_matter("repeals", &empty), "");
+        let repeals = vec![lex_core::ProvisionRepeal {
+            scope: lex_core::RepealScope::Paragraph,
+            ordinals: vec!["1".to_owned()],
+            cause: lex_core::RepealCause::Judicial,
+            dof_date: None,
+            renumbering: false,
+        }];
+        let line = super::record_front_matter("repeals", &repeals);
+        assert!(line.starts_with("repeals: [{"));
+        assert!(line.contains("\"cause\":\"judicial\""));
+        assert_eq!(line.matches('\n').count(), 1);
+    }
+
     use std::fs;
 
     use lex_core::{
@@ -1060,6 +1096,8 @@ mod tests {
                 verification_note: None,
             }],
             amendment_marks: Vec::new(),
+            repeals: Vec::new(),
+            commencement_condition: None,
         }
     }
 
@@ -1088,6 +1126,8 @@ mod tests {
             review_status: ReviewStatus::NotAnalyzed,
             transitory_effects: Vec::new(),
             amendment_marks: Vec::new(),
+            repeals: Vec::new(),
+            commencement_condition: None,
         }
     }
 

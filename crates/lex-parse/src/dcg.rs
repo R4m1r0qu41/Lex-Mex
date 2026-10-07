@@ -536,6 +536,8 @@ impl DcgProvisionBuilder {
             review_status: ReviewStatus::NotAnalyzed,
             transitory_effects: Vec::new(),
             amendment_marks: self.amendment_marks.into_iter().collect(),
+            repeals: crate::initial_repeals(&text),
+            commencement_condition: None,
         }
     }
 }
