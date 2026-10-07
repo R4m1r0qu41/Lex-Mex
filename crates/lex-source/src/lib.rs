@@ -32,6 +32,55 @@ pub struct ExternalInstrument {
     /// historical edges and must never resolve against a later same-title law.
     #[serde(default)]
     pub historical_target_unavailable: bool,
+    /// Required with `historical_target_unavailable`: the date the successor
+    /// law took the same title (`YYYY-MM-DD`). Provisions that carry a DOF
+    /// amendment dated on or after it may cite the successor, so they use the
+    /// live alias instead of this historical identity.
+    #[serde(default)]
+    pub historical_until: Option<String>,
+    /// Required with `historical_target_unavailable`: the live instrument that
+    /// replaced the historical one under the same title.
+    #[serde(default)]
+    pub successor_instrument_id: Option<String>,
+}
+
+impl ExternalInstrument {
+    /// A historical identity must be a well-formed, distinct, dated synthetic
+    /// id with a named successor, so a typo cannot silently mint a new target.
+    fn validate(&self) -> Result<()> {
+        if !self.historical_target_unavailable {
+            return Ok(());
+        }
+        let id = &self.instrument_id;
+        let well_formed = id
+            .strip_prefix("urn:lex-mx:federal:")
+            .and_then(|rest| rest.split_once(':'))
+            .is_some_and(|(kind, slug)| {
+                ["statute", "regulation", "code"].contains(&kind)
+                    && !slug.is_empty()
+                    && slug
+                        .chars()
+                        .all(|c| c.is_ascii_lowercase() || c.is_ascii_digit() || c == '-')
+            });
+        anyhow::ensure!(
+            well_formed,
+            "historical instrument id {id:?} is not a well-formed urn:lex-mx:federal id"
+        );
+        let successor = self.successor_instrument_id.as_deref().with_context(|| {
+            format!("historical instrument {id} must name successor_instrument_id")
+        })?;
+        anyhow::ensure!(
+            successor != id,
+            "historical instrument {id} cannot be its own successor"
+        );
+        let until = self
+            .historical_until
+            .as_deref()
+            .with_context(|| format!("historical instrument {id} must set historical_until"))?;
+        chrono::NaiveDate::parse_from_str(until, "%Y-%m-%d")
+            .with_context(|| format!("historical_until {until:?} is not YYYY-MM-DD"))?;
+        Ok(())
+    }
 }
 
 /// The instrument's glossary provision, when it has one. Glossaries
@@ -203,6 +252,11 @@ pub fn load_config(path: &Path) -> Result<SourceConfig> {
                 format!("failed to read intermediate CA {}", resolved.display())
             })?,
         );
+    }
+    for external in &config.external_instruments {
+        external
+            .validate()
+            .with_context(|| format!("invalid adapter config {}", path.display()))?;
     }
     Ok(config)
 }
@@ -503,7 +557,64 @@ fn git_commit() -> Option<String> {
 
 #[cfg(test)]
 mod tests {
-    use super::{SourceFormat, load_batch_manifest, sha256_hex, verify_format};
+    use super::{ExternalInstrument, SourceFormat, load_batch_manifest, sha256_hex, verify_format};
+
+    fn historical(id: &str, until: Option<&str>, successor: Option<&str>) -> ExternalInstrument {
+        ExternalInstrument {
+            name_marker: "ley de muestra".to_owned(),
+            instrument_id: id.to_owned(),
+            historical_target_unavailable: true,
+            historical_until: until.map(str::to_owned),
+            successor_instrument_id: successor.map(str::to_owned),
+        }
+    }
+
+    #[test]
+    fn historical_instrument_requires_a_wellformed_id_date_and_successor() {
+        let ok = historical(
+            "urn:lex-mx:federal:statute:lraf-1990",
+            Some("2014-01-10"),
+            Some("urn:lex-mx:federal:statute:lraf"),
+        );
+        assert!(ok.validate().is_ok());
+        for bad in [
+            historical(
+                "lraf-1990",
+                Some("2014-01-10"),
+                Some("urn:lex-mx:federal:statute:lraf"),
+            ),
+            historical(
+                "urn:lex-mx:federal:statute:LRAF 1990",
+                Some("2014-01-10"),
+                Some("urn:lex-mx:federal:statute:lraf"),
+            ),
+            historical(
+                "urn:lex-mx:federal:statute:lraf-1990",
+                None,
+                Some("urn:lex-mx:federal:statute:lraf"),
+            ),
+            historical(
+                "urn:lex-mx:federal:statute:lraf-1990",
+                Some("10/01/2014"),
+                Some("urn:lex-mx:federal:statute:lraf"),
+            ),
+            historical(
+                "urn:lex-mx:federal:statute:lraf-1990",
+                Some("2014-01-10"),
+                None,
+            ),
+            historical(
+                "urn:lex-mx:federal:statute:lraf-1990",
+                Some("2014-01-10"),
+                Some("urn:lex-mx:federal:statute:lraf-1990"),
+            ),
+        ] {
+            assert!(bad.validate().is_err(), "{bad:?}");
+        }
+        let mut live = historical("not-a-urn", None, None);
+        live.historical_target_unavailable = false;
+        assert!(live.validate().is_ok());
+    }
 
     #[test]
     fn all_committed_batch_manifests_deserialize() {

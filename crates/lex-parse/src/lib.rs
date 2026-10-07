@@ -257,10 +257,56 @@ pub struct ReferenceOptions {
     /// edges targeting the source provision's neighbor of the same
     /// provision type in document order.
     pub relative_references: bool,
-    /// Instrument IDs that identify superseded historical laws not present
-    /// in the current corpus. Their express citations remain canonical but
-    /// deliberately do not become live links to a later same-title law.
-    pub historical_target_ids: Vec<String>,
+    /// Superseded historical laws not present in the current corpus. Their
+    /// express citations remain canonical but deliberately do not become live
+    /// links to a later same-title law.
+    pub historical_targets: Vec<HistoricalTarget>,
+}
+
+/// A superseded law cited under a title a later law now holds. Text with a DOF
+/// amendment dated on or after `until` may cite the successor, so it is
+/// resolved against `successor_id` instead of the historical identity.
+#[derive(Debug, Clone)]
+pub struct HistoricalTarget {
+    pub id: String,
+    pub successor_id: String,
+    pub until: NaiveDate,
+}
+
+impl ReferenceOptions {
+    /// The instrument a citation in `source_text` targets, and whether that
+    /// target is a historical law with no live canonical text.
+    fn target_for<'a>(&'a self, target: &'a str, source_text: &str) -> (&'a str, bool) {
+        match self
+            .historical_targets
+            .iter()
+            .find(|item| item.id == target)
+        {
+            None => (target, false),
+            Some(historical)
+                if latest_dof_date(source_text).is_some_and(|date| date >= historical.until) =>
+            {
+                (historical.successor_id.as_str(), false)
+            }
+            Some(_) => (target, true),
+        }
+    }
+}
+
+fn latest_dof_date(text: &str) -> Option<NaiveDate> {
+    static DOF_DATE: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
+        Regex::new(r"\bDOF\s+(\d{2})-(\d{2})-(\d{4})").expect("static regex")
+    });
+    DOF_DATE
+        .captures_iter(text)
+        .filter_map(|captures| {
+            NaiveDate::from_ymd_opt(
+                captures[3].parse().ok()?,
+                captures[2].parse().ok()?,
+                captures[1].parse().ok()?,
+            )
+        })
+        .max()
 }
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
@@ -276,7 +322,7 @@ pub fn extract_internal_references(provisions: &[Provision]) -> Result<Vec<Refer
         transitory_citations: false,
         same_article_fractions: true,
         relative_references: true,
-        historical_target_ids: Vec::new(),
+        historical_targets: Vec::new(),
     };
     let target_ids: HashSet<String> = provisions.iter().map(|item| item.id.clone()).collect();
     extract_references(provisions, None, &options, &target_ids)
@@ -509,6 +555,7 @@ fn extract_reference_group(
             GroupTarget::External(instrument_id) => instrument_id,
             GroupTarget::Skip => return Vec::new(),
         };
+    let (target_instrument_id, historical) = options.target_for(target_instrument_id, source.text);
     let mut references = direct_reference_edges(
         source,
         target_instrument_id,
@@ -518,10 +565,7 @@ fn extract_reference_group(
         &pre_qualifiers,
         patterns,
         known_targets,
-        options
-            .historical_target_ids
-            .iter()
-            .any(|id| id == target_instrument_id),
+        historical,
     );
     references.extend(range_expansion_edges(
         source,
@@ -530,10 +574,7 @@ fn extract_reference_group(
         group,
         &accepted,
         known_targets,
-        options
-            .historical_target_ids
-            .iter()
-            .any(|id| id == target_instrument_id),
+        historical,
     ));
     references
 }
@@ -639,14 +680,12 @@ fn extract_transitory_citations(
                 GroupTarget::External(instrument_id) => instrument_id,
                 GroupTarget::Skip => continue,
             };
+        let (target_instrument_id, historical_target_unavailable) =
+            options.target_for(target_instrument_id, source.text);
         let target_provision_id = format!(
             "{target_instrument_id}:transitory:{}",
             slug(ordinal.as_str())
         );
-        let historical_target_unavailable = options
-            .historical_target_ids
-            .iter()
-            .any(|id| id == target_instrument_id);
         let resolution_status = reference_resolution_status(
             &target_provision_id,
             known_targets,
@@ -1939,10 +1978,10 @@ mod tests {
     use pretty_assertions::assert_eq;
 
     use super::{
-        CorpusExpectations, CorpusView, DiputadosOptions, InstrumentContextPolicy,
-        ReferenceOptions, contains_page_header_contamination, extract_internal_references,
-        extract_references, extract_reform_evidence, initial_temporal_status, parse_dcg,
-        parse_diputados, validate_corpus, validate_lritf,
+        CorpusExpectations, CorpusView, DiputadosOptions, HistoricalTarget,
+        InstrumentContextPolicy, ReferenceOptions, contains_page_header_contamination,
+        extract_internal_references, extract_references, extract_reform_evidence,
+        initial_temporal_status, parse_dcg, parse_diputados, validate_corpus, validate_lritf,
     };
 
     const FIXTURE: &str = include_str!("../../../fixtures/lritf/parser-sample.txt");
@@ -2013,7 +2052,7 @@ mod tests {
             transitory_citations: true,
             same_article_fractions: true,
             relative_references: true,
-            historical_target_ids: Vec::new(),
+            historical_targets: Vec::new(),
         }
     }
 
@@ -2045,7 +2084,7 @@ mod tests {
             transitory_citations: true,
             same_article_fractions: true,
             relative_references: true,
-            historical_target_ids: Vec::new(),
+            historical_targets: Vec::new(),
         }
     }
 
@@ -2169,6 +2208,53 @@ mod tests {
     }
 
     #[test]
+    fn a_citation_in_text_amended_after_the_successor_resolves_to_the_successor() {
+        let source_id = "urn:lex-mx:federal:statute:lrsic";
+        let successor = "urn:lex-mx:federal:statute:lraf";
+        let document = parse_diputados(
+            "Artículo 1.- Se derogan los artículos 33 de la Ley para Regular las Agrupaciones Financieras.\nArtículo reformado DOF 15-03-2016",
+            &DiputadosOptions {
+                instrument_id: source_id.to_owned(),
+                header_lines: Vec::new(),
+                stop_markers: Vec::new(),
+                annex_markers: Vec::new(),
+            },
+            NaiveDate::from_ymd_opt(2002, 1, 15).unwrap(),
+        )
+        .unwrap();
+        let known_targets = HashSet::from([format!("{successor}:article:33")]);
+        let references = extract_references(
+            &document.provisions,
+            None,
+            &ReferenceOptions {
+                policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                    internal_markers: vec!["de esta ley".to_owned()],
+                    external_instruments: vec![(
+                        "ley para regular las agrupaciones financieras".to_owned(),
+                        HISTORICAL_LRAF_ID.to_owned(),
+                    )],
+                },
+                transitory_citations: true,
+                same_article_fractions: true,
+                relative_references: true,
+                historical_targets: vec![HistoricalTarget {
+                    id: HISTORICAL_LRAF_ID.to_owned(),
+                    successor_id: successor.to_owned(),
+                    until: NaiveDate::from_ymd_opt(2014, 1, 10).unwrap(),
+                }],
+            },
+            &known_targets,
+        )
+        .unwrap();
+        assert_eq!(references.len(), 1);
+        assert_eq!(references[0].target_instrument_id, successor);
+        assert_eq!(
+            references[0].resolution_status,
+            ReferenceResolutionStatus::Resolved
+        );
+    }
+
+    #[test]
     fn preserves_same_title_historical_citations_without_linking_the_successor_law() {
         let source_id = "urn:lex-mx:federal:statute:lrsic";
         let date = NaiveDate::from_ymd_opt(2002, 1, 15).unwrap();
@@ -2199,7 +2285,11 @@ mod tests {
                 transitory_citations: true,
                 same_article_fractions: true,
                 relative_references: true,
-                historical_target_ids: vec![HISTORICAL_LRAF_ID.to_owned()],
+                historical_targets: vec![HistoricalTarget {
+                    id: HISTORICAL_LRAF_ID.to_owned(),
+                    successor_id: "urn:lex-mx:federal:statute:lraf".to_owned(),
+                    until: NaiveDate::from_ymd_opt(2014, 1, 10).unwrap(),
+                }],
             },
             &known_targets,
         )
@@ -2274,7 +2364,7 @@ mod tests {
                 transitory_citations: false,
                 same_article_fractions: false,
                 relative_references: false,
-                historical_target_ids: Vec::new(),
+                historical_targets: Vec::new(),
             },
             &known_targets,
         )
@@ -2312,7 +2402,7 @@ mod tests {
                 transitory_citations: false,
                 same_article_fractions: false,
                 relative_references: false,
-                historical_target_ids: Vec::new(),
+                historical_targets: Vec::new(),
             },
             &known_targets,
         )
@@ -2346,7 +2436,7 @@ mod tests {
                 transitory_citations: false,
                 same_article_fractions: false,
                 relative_references: false,
-                historical_target_ids: Vec::new(),
+                historical_targets: Vec::new(),
             },
             &known_targets,
         )

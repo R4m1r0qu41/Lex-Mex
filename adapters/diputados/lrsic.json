@@ -10,7 +10,9 @@
     {
       "name_marker": "Ley para Regular las Agrupaciones Financieras",
       "instrument_id": "urn:lex-mx:federal:statute:lraf-1990",
-      "historical_target_unavailable": true
+      "historical_target_unavailable": true,
+      "historical_until": "2014-01-10",
+      "successor_instrument_id": "urn:lex-mx:federal:statute:lraf"
     }
   ],
   "official_title": "Ley para Regular las Sociedades de Información Crediticia",

@@ -1569,17 +1569,45 @@ fn evaluate_expected_edges(
                 status: if resolved { "satisfied" } else { "missing" }.to_owned(),
                 detail: if resolved {
                     format!("{} has a resolved edge to {}", source.slug, target.slug)
-                } else if let Some(article) = spec.source_article {
-                    format!(
-                        "{} Article {} has no resolved edge to {}",
-                        source.slug, article, target.slug
-                    )
                 } else {
-                    format!("{} has no resolved edge to {}", source.slug, target.slug)
+                    let historical = source
+                        .references
+                        .iter()
+                        .filter(|(_, _, status)| {
+                            *status == ReferenceResolutionStatus::HistoricalTargetUnavailable
+                        })
+                        .count();
+                    missing_edge_detail(
+                        &source.slug,
+                        spec.source_article.as_deref(),
+                        &target.slug,
+                        historical,
+                    )
                 },
             }
         })
         .collect()
+}
+
+/// Why an expected edge is missing. Historical-target edges are preserved
+/// citations to superseded laws with no live text; they never satisfy an
+/// expectation, and saying so keeps "missing" from reading as "not cited".
+fn missing_edge_detail(
+    source: &str,
+    article: Option<&str>,
+    target: &str,
+    historical_edges: usize,
+) -> String {
+    let mut detail = match article {
+        Some(article) => format!("{source} Article {article} has no resolved edge to {target}"),
+        None => format!("{source} has no resolved edge to {target}"),
+    };
+    if historical_edges > 0 {
+        detail = format!(
+            "{detail}; {source} cites {historical_edges} superseded historical target(s), which are not live edges"
+        );
+    }
+    detail
 }
 
 fn prepare_batch_instruments<'a>(
@@ -2098,12 +2126,21 @@ fn extract_instrument_references(
         global_external_instruments(root, instrument, &siblings)?,
         configured_external,
     )?;
-    let historical_target_ids = context
+    // `load_config` guarantees a historical entry names a successor and a
+    // valid `historical_until`, so a malformed one cannot reach this point.
+    let historical_targets = context
         .config
         .external_instruments
         .iter()
         .filter(|external| external.historical_target_unavailable)
-        .map(|external| external.instrument_id.clone())
+        .filter_map(|external| {
+            Some(lex_parse::HistoricalTarget {
+                id: external.instrument_id.clone(),
+                successor_id: external.successor_instrument_id.clone()?,
+                until: NaiveDate::parse_from_str(external.historical_until.as_deref()?, "%Y-%m-%d")
+                    .ok()?,
+            })
+        })
         .collect();
     let options = ReferenceOptions {
         policy: InstrumentContextPolicy::SentenceEarliestMarker {
@@ -2117,7 +2154,7 @@ fn extract_instrument_references(
         transitory_citations: true,
         same_article_fractions: true,
         relative_references: true,
-        historical_target_ids,
+        historical_targets,
     };
     extract_references(
         provisions,
@@ -3138,6 +3175,17 @@ mod tests {
             Some("machine-proposed")
         );
         assert!(!freeze_adapter_baseline(&adapter_path, Some(publication_date), 99, 99).unwrap());
+    }
+
+    #[test]
+    fn missing_edge_detail_explains_historical_citations() {
+        assert_eq!(
+            super::missing_edge_detail("lrsic", None, "lraf", 0),
+            "lrsic has no resolved edge to lraf"
+        );
+        let detail = super::missing_edge_detail("lrsic", Some("33"), "lraf", 3);
+        assert!(detail.starts_with("lrsic Article 33 has no resolved edge to lraf"));
+        assert!(detail.contains("3 superseded historical target(s)"));
     }
 
     #[test]
