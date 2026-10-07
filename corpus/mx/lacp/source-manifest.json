@@ -14,7 +14,7 @@
   "last_modified": "Tue, 25 Nov 2025 21:27:36 GMT",
   "source_sha256": "d7c97f38c1dfe7dbf0ac5eba162d5fedb51dd132975912cf6e84aee9a614f348",
   "extracted_text_sha256": "d3e183ef132bb1b5b5e2cc97c8ddd0e30a820d494ce813c4403c86cd281c41b3",
-  "extraction_tool": "pdftotext version 26.07.0",
+  "extraction_tool": "pdftotext version 26.09.0",
   "parser_version": "0.1.0",
   "schema_version_used": "0.1.0",
   "resulting_git_commit": "6e897be94c701a52d929d13ba59761a605d16661"
