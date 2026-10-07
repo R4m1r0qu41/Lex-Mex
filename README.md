@@ -120,6 +120,17 @@ already reviewed by a model or a human. See `docs/decisions.md`
 for the exact rules and the outlier categories it deliberately leaves
 untouched.
 
+Instrument commencement does not establish when the current text of each
+article became effective. Deterministic article classifications therefore leave
+`effective_from` unset. To remove only unsupported dates left by the older rule,
+without creating new determinations, run
+`lex-mex derive-temporal <instrument> --repair-dates-only`. This repair preserves
+model and human review decisions. See the 2026-10-06 decision for its exact scope.
+
+Model imports validate the raw response against the v2 JSON Schema and the
+request evidence against the current corpus. Archived or stale review items
+cannot resolve current evidence; omitted evidence retains its review history.
+
 Without a provider, temporal analysis creates a schema-bound request artifact:
 
 ```bash
