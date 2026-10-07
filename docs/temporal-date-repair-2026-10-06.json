@@ -1,0 +1,538 @@
+{
+  "baseline": "8031ea11eb1d4ad88c046ba8b6ba1ed8851eb873",
+  "rule_set": "temporal-derive-v2",
+  "command": "lex-mex derive-temporal <instrument> --repair-dates-only",
+  "instrument_count": 132,
+  "dates_cleared": 15974,
+  "invariants": "Only deterministic machine-accepted article effective_from fields cleared; all other canonical JSON values and review decisions preserved. See docs/decisions.md.",
+  "instruments": [
+    {
+      "slug": "cub-dcg-2005",
+      "dates_cleared": 562
+    },
+    {
+      "slug": "cucb-dcg-2004",
+      "dates_cleared": 306
+    },
+    {
+      "slug": "cue-dcg-2003",
+      "dates_cleared": 104
+    },
+    {
+      "slug": "ifpe-dcg-2021",
+      "dates_cleared": 59
+    },
+    {
+      "slug": "laat",
+      "dates_cleared": 22
+    },
+    {
+      "slug": "lac",
+      "dates_cleared": 143
+    },
+    {
+      "slug": "laero",
+      "dates_cleared": 100
+    },
+    {
+      "slug": "lamp",
+      "dates_cleared": 267
+    },
+    {
+      "slug": "latime",
+      "dates_cleared": 14
+    },
+    {
+      "slug": "lccaif",
+      "dates_cleared": 9
+    },
+    {
+      "slug": "lce",
+      "dates_cleared": 108
+    },
+    {
+      "slug": "lcm",
+      "dates_cleared": 354
+    },
+    {
+      "slug": "lcmm",
+      "dates_cleared": 17
+    },
+    {
+      "slug": "ldcpdch",
+      "dates_cleared": 13
+    },
+    {
+      "slug": "ldvuma",
+      "dates_cleared": 5
+    },
+    {
+      "slug": "lfaar",
+      "dates_cleared": 96
+    },
+    {
+      "slug": "lfar",
+      "dates_cleared": 30
+    },
+    {
+      "slug": "lfcpo",
+      "dates_cleared": 65
+    },
+    {
+      "slug": "lfcpq",
+      "dates_cleared": 31
+    },
+    {
+      "slug": "lfd",
+      "dates_cleared": 415
+    },
+    {
+      "slug": "lfda",
+      "dates_cleared": 258
+    },
+    {
+      "slug": "lfdo",
+      "dates_cleared": 50
+    },
+    {
+      "slug": "lfed",
+      "dates_cleared": 251
+    },
+    {
+      "slug": "lfep",
+      "dates_cleared": 69
+    },
+    {
+      "slug": "lfisan",
+      "dates_cleared": 14
+    },
+    {
+      "slug": "lfpa",
+      "dates_cleared": 102
+    },
+    {
+      "slug": "lfpc",
+      "dates_cleared": 179
+    },
+    {
+      "slug": "lfpca",
+      "dates_cleared": 134
+    },
+    {
+      "slug": "lfprh",
+      "dates_cleared": 116
+    },
+    {
+      "slug": "lfra",
+      "dates_cleared": 56
+    },
+    {
+      "slug": "lfremsp",
+      "dates_cleared": 34
+    },
+    {
+      "slug": "lfrm",
+      "dates_cleared": 61
+    },
+    {
+      "slug": "lfrsp",
+      "dates_cleared": 44
+    },
+    {
+      "slug": "lftse",
+      "dates_cleared": 175
+    },
+    {
+      "slug": "lgbn",
+      "dates_cleared": 157
+    },
+    {
+      "slug": "lgcg",
+      "dates_cleared": 87
+    },
+    {
+      "slug": "lgdp",
+      "dates_cleared": 29
+    },
+    {
+      "slug": "lgmsv",
+      "dates_cleared": 82
+    },
+    {
+      "slug": "lgn",
+      "dates_cleared": 96
+    },
+    {
+      "slug": "lgoaac",
+      "dates_cleared": 193
+    },
+    {
+      "slug": "lgpc",
+      "dates_cleared": 94
+    },
+    {
+      "slug": "lgpgir",
+      "dates_cleared": 126
+    },
+    {
+      "slug": "lgsm",
+      "dates_cleared": 274
+    },
+    {
+      "slug": "lgsnsp",
+      "dates_cleared": 147
+    },
+    {
+      "slug": "lgtoc",
+      "dates_cleared": 433
+    },
+    {
+      "slug": "lgtrata",
+      "dates_cleared": 126
+    },
+    {
+      "slug": "lgvs",
+      "dates_cleared": 141
+    },
+    {
+      "slug": "lhheum",
+      "dates_cleared": 7
+    },
+    {
+      "slug": "lic",
+      "dates_cleared": 436
+    },
+    {
+      "slug": "lic-calidad",
+      "dates_cleared": 165
+    },
+    {
+      "slug": "linfonacot",
+      "dates_cleared": 33
+    },
+    {
+      "slug": "linfonavit",
+      "dates_cleared": 90
+    },
+    {
+      "slug": "lins",
+      "dates_cleared": 60
+    },
+    {
+      "slug": "lisr",
+      "dates_cleared": 224
+    },
+    {
+      "slug": "liva",
+      "dates_cleared": 65
+    },
+    {
+      "slug": "lmccbdc",
+      "dates_cleared": 10
+    },
+    {
+      "slug": "lncm",
+      "dates_cleared": 331
+    },
+    {
+      "slug": "lnrd",
+      "dates_cleared": 36
+    },
+    {
+      "slug": "lnsijpa",
+      "dates_cleared": 266
+    },
+    {
+      "slug": "lnuf",
+      "dates_cleared": 44
+    },
+    {
+      "slug": "loapf",
+      "dates_cleared": 62
+    },
+    {
+      "slug": "lobnce",
+      "dates_cleared": 36
+    },
+    {
+      "slug": "lobnefaa",
+      "dates_cleared": 55
+    },
+    {
+      "slug": "lobnosp",
+      "dates_cleared": 35
+    },
+    {
+      "slug": "lonf",
+      "dates_cleared": 37
+    },
+    {
+      "slug": "lopdc",
+      "dates_cleared": 28
+    },
+    {
+      "slug": "lopsrm",
+      "dates_cleared": 132
+    },
+    {
+      "slug": "loshf",
+      "dates_cleared": 36
+    },
+    {
+      "slug": "lpdusf",
+      "dates_cleared": 125
+    },
+    {
+      "slug": "lplan",
+      "dates_cleared": 47
+    },
+    {
+      "slug": "lpue",
+      "dates_cleared": 73
+    },
+    {
+      "slug": "lrart6-mdr",
+      "dates_cleared": 42
+    },
+    {
+      "slug": "lrart76-fracvi",
+      "dates_cleared": 25
+    },
+    {
+      "slug": "lrfiyii-art105",
+      "dates_cleared": 74
+    },
+    {
+      "slug": "lrfv-art76",
+      "dates_cleared": 15
+    },
+    {
+      "slug": "lrfxiiib-art123",
+      "dates_cleared": 25
+    },
+    {
+      "slug": "lrfxviii-art73",
+      "dates_cleared": 2
+    },
+    {
+      "slug": "lritf",
+      "dates_cleared": 145
+    },
+    {
+      "slug": "lsat",
+      "dates_cleared": 41
+    },
+    {
+      "slug": "lsct",
+      "dates_cleared": 11
+    },
+    {
+      "slug": "lsn",
+      "dates_cleared": 76
+    },
+    {
+      "slug": "lsp",
+      "dates_cleared": 44
+    },
+    {
+      "slug": "lspm",
+      "dates_cleared": 72
+    },
+    {
+      "slug": "ltfccg",
+      "dates_cleared": 18
+    },
+    {
+      "slug": "ltosf",
+      "dates_cleared": 85
+    },
+    {
+      "slug": "luc",
+      "dates_cleared": 151
+    },
+    {
+      "slug": "lvgc",
+      "dates_cleared": 162
+    },
+    {
+      "slug": "oaac-dcg-2009",
+      "dates_cleared": 261
+    },
+    {
+      "slug": "reg-art121-122-lft",
+      "dates_cleared": 29
+    },
+    {
+      "slug": "reg-diputados",
+      "dates_cleared": 316
+    },
+    {
+      "slug": "reg-lac",
+      "dates_cleared": 278
+    },
+    {
+      "slug": "reg-laero",
+      "dates_cleared": 190
+    },
+    {
+      "slug": "reg-lan",
+      "dates_cleared": 200
+    },
+    {
+      "slug": "reg-lapp",
+      "dates_cleared": 160
+    },
+    {
+      "slug": "reg-lbogm",
+      "dates_cleared": 73
+    },
+    {
+      "slug": "reg-lce",
+      "dates_cleared": 197
+    },
+    {
+      "slug": "reg-lfaebsp",
+      "dates_cleared": 73
+    },
+    {
+      "slug": "reg-lfcpq",
+      "dates_cleared": 18
+    },
+    {
+      "slug": "reg-lfda",
+      "dates_cleared": 188
+    },
+    {
+      "slug": "reg-lfea",
+      "dates_cleared": 27
+    },
+    {
+      "slug": "reg-lfep",
+      "dates_cleared": 46
+    },
+    {
+      "slug": "reg-lfgfaga",
+      "dates_cleared": 22
+    },
+    {
+      "slug": "reg-lfif-art95",
+      "dates_cleared": 7
+    },
+    {
+      "slug": "reg-lfpc",
+      "dates_cleared": 100
+    },
+    {
+      "slug": "reg-lgcc-rne",
+      "dates_cleared": 29
+    },
+    {
+      "slug": "reg-lgdfs",
+      "dates_cleared": 232
+    },
+    {
+      "slug": "reg-lgeepa-anp",
+      "dates_cleared": 149
+    },
+    {
+      "slug": "reg-lgeepa-meia",
+      "dates_cleared": 65
+    },
+    {
+      "slug": "reg-lgeepa-mpcca",
+      "dates_cleared": 52
+    },
+    {
+      "slug": "reg-lgeepa-mretc",
+      "dates_cleared": 32
+    },
+    {
+      "slug": "reg-lgpc",
+      "dates_cleared": 114
+    },
+    {
+      "slug": "reg-lgpgir",
+      "dates_cleared": 164
+    },
+    {
+      "slug": "reg-lgs-investigacion",
+      "dates_cleared": 137
+    },
+    {
+      "slug": "reg-lgs-mcsaeps",
+      "dates_cleared": 342
+    },
+    {
+      "slug": "reg-lgs-msi",
+      "dates_cleared": 88
+    },
+    {
+      "slug": "reg-lgs-mt",
+      "dates_cleared": 89
+    },
+    {
+      "slug": "reg-lgtrata",
+      "dates_cleared": 86
+    },
+    {
+      "slug": "reg-lieps",
+      "dates_cleared": 19
+    },
+    {
+      "slug": "reg-linfonacot",
+      "dates_cleared": 37
+    },
+    {
+      "slug": "reg-linfonavit-mtai",
+      "dates_cleared": 14
+    },
+    {
+      "slug": "reg-lisr",
+      "dates_cleared": 312
+    },
+    {
+      "slug": "reg-liva",
+      "dates_cleared": 70
+    },
+    {
+      "slug": "reg-lncm",
+      "dates_cleared": 696
+    },
+    {
+      "slug": "reg-lopsrm",
+      "dates_cleared": 298
+    },
+    {
+      "slug": "reg-lpue",
+      "dates_cleared": 147
+    },
+    {
+      "slug": "reg-lsar",
+      "dates_cleared": 162
+    },
+    {
+      "slug": "reg-lspcapf",
+      "dates_cleared": 97
+    },
+    {
+      "slug": "reg-lss-macerf",
+      "dates_cleared": 196
+    },
+    {
+      "slug": "reg-lss-maeba",
+      "dates_cleared": 58
+    },
+    {
+      "slug": "reg-lss-rfar",
+      "dates_cleared": 18
+    },
+    {
+      "slug": "reg-ltf",
+      "dates_cleared": 110
+    },
+    {
+      "slug": "reg-senado",
+      "dates_cleared": 307
+    }
+  ]
+}
