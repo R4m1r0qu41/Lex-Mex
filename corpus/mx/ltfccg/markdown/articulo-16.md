@@ -7,8 +7,9 @@ provision_type: article
 number: "16"
 aliases: ["LTFCCG — Artículo 16"]
 generated: true
-temporal_status: repealed
+temporal_status: partially_repealed
 review_status: machine_accepted
+repeals: [{"cause":"legislative","dof_date":"2007-06-15","ordinals":["1"],"renumbering":false,"scope":"paragraph"}]
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf
 source_sha256: 1764c89edb8173050fe6bc08f57826ea93a131c7c83f4fc8c15f74de03fb07c3
 ---

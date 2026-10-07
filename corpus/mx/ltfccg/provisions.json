@@ -371,11 +371,22 @@
     "publication_date": "2002-12-30",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "repealed",
+    "temporal_status": "partially_repealed",
     "temporal_basis": "deterministic_rule",
     "temporal_confidence": 1.0,
     "review_status": "machine_accepted",
-    "transitory_effects": []
+    "transitory_effects": [],
+    "repeals": [
+      {
+        "scope": "paragraph",
+        "ordinals": [
+          "1"
+        ],
+        "cause": "legislative",
+        "dof_date": "2007-06-15",
+        "renumbering": false
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
