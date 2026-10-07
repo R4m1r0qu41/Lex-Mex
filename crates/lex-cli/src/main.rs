@@ -254,6 +254,17 @@ enum ReviewCommand {
         #[arg(long)]
         all: bool,
     },
+    /// List review items recorded before evidence hashes were kept, and check
+    /// whether the text each reviewer saw still matches the current corpus.
+    /// With `--check-upstream`, also HEAD the official source and compare its
+    /// headers with the retained manifest to see whether it has moved.
+    Legacy {
+        /// Scan every committed instrument instead of only `--instrument`.
+        #[arg(long)]
+        all_instruments: bool,
+        #[arg(long)]
+        check_upstream: bool,
+    },
     /// Open a review item for a determination that was machine-accepted,
     /// so the designated legal reviewer can correct or enrich it through
     /// the audited resolution workflow.
@@ -2636,6 +2647,10 @@ fn run_review_command(
 ) -> Result<()> {
     match command {
         ReviewCommand::List { all } => run_review_list(context, all),
+        ReviewCommand::Legacy {
+            all_instruments,
+            check_upstream,
+        } => run_review_legacy(root, context, all_instruments, check_upstream),
         ReviewCommand::Open {
             provision_id,
             reason,
@@ -2710,6 +2725,148 @@ fn run_review_open(context: &InstrumentContext, provision_id: &str, reason: &str
     apply_temporal_determinations(&mut corpus.provisions, &result.determinations);
     write_canonical(&corpus, &paths.corpus)?;
     println!("opened review:temporal:{provision_id}");
+    Ok(())
+}
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+enum ReviewedTextState {
+    /// The text the reviewer saw is byte-identical to the current evidence.
+    Matches,
+    /// The provision's current evidence text is not what the reviewer saw.
+    Differs,
+    /// The provision no longer produces temporal evidence.
+    Absent,
+}
+
+#[derive(Debug, Clone, PartialEq, Eq)]
+struct LegacyReviewRow {
+    review_id: String,
+    status: ReviewItemStatus,
+    resolved_by: Option<String>,
+    state: ReviewedTextState,
+}
+
+/// Review items whose proposed conclusion carries no evidence hash predate
+/// hash tracking. Their embedded evidence is still the text the reviewer saw,
+/// so compare it directly with the current corpus evidence.
+fn legacy_review_rows(items: &[ReviewItem], current: &[TemporalEvidence]) -> Vec<LegacyReviewRow> {
+    items
+        .iter()
+        .filter(|item| item.proposed_machine_conclusion.evidence_sha256.is_empty())
+        .map(|item| {
+            let state = match current
+                .iter()
+                .find(|evidence| evidence.provision_id == item.provision_id)
+            {
+                None => ReviewedTextState::Absent,
+                Some(evidence)
+                    if lex_core::evidence_sha256(&evidence.text)
+                        == lex_core::evidence_sha256(&item.evidence.text) =>
+                {
+                    ReviewedTextState::Matches
+                }
+                Some(_) => ReviewedTextState::Differs,
+            };
+            LegacyReviewRow {
+                review_id: item.id.clone(),
+                status: item.status,
+                resolved_by: item.resolved_by.clone(),
+                state,
+            }
+        })
+        .collect()
+}
+
+/// Whether the publisher's current headers match the retained manifest.
+/// `ETag` is authoritative, then `Last-Modified`; a length match alone is not
+/// enough to call the source unchanged.
+fn upstream_verdict(
+    manifest: &lex_core::SourceManifest,
+    probe: &lex_source::SourceProbe,
+) -> &'static str {
+    if probe.http_status != 200 {
+        return "unreachable";
+    }
+    if let (Some(old), Some(new)) = (&manifest.etag, &probe.etag) {
+        return if old == new { "unchanged" } else { "moved" };
+    }
+    match (&manifest.last_modified, &probe.last_modified) {
+        (Some(old), Some(new)) => {
+            if old == new {
+                "unchanged"
+            } else {
+                "moved"
+            }
+        }
+        _ => "unknown",
+    }
+}
+
+fn run_review_legacy(
+    root: &Path,
+    context: &InstrumentContext,
+    all_instruments: bool,
+    check_upstream: bool,
+) -> Result<()> {
+    let slugs = if all_instruments {
+        let mut slugs: Vec<String> = fs::read_dir(root.join("corpus/mx"))?
+            .filter_map(Result::ok)
+            .filter(|entry| entry.path().join("review-queue.json").exists())
+            .filter_map(|entry| entry.file_name().into_string().ok())
+            .collect();
+        slugs.sort();
+        slugs
+    } else {
+        vec![context.config.slug.clone()]
+    };
+    let mut total = 0;
+    for slug in slugs {
+        let instrument = instrument_context(root, &slug)?;
+        let paths = &instrument.paths;
+        let Ok(items) = read_json::<Vec<ReviewItem>>(&paths.review_queue) else {
+            continue;
+        };
+        let rows = legacy_review_rows(
+            &items,
+            &current_temporal_evidence(&instrument, &read_corpus(paths)?)?,
+        );
+        if rows.is_empty() {
+            continue;
+        }
+        let upstream = if check_upstream {
+            let manifest: lex_core::SourceManifest = read_json(&paths.manifest)?;
+            Some(match lex_source::probe_source(&instrument.config) {
+                Ok(probe) => format!(
+                    "{} (manifest retrieved {}, etag {:?})",
+                    upstream_verdict(&manifest, &probe),
+                    manifest.retrieved_at.format("%Y-%m-%d"),
+                    manifest.etag
+                ),
+                Err(error) => format!("unreachable: {error:#}"),
+            })
+        } else {
+            None
+        };
+        println!("{slug}");
+        if let Some(upstream) = upstream {
+            println!("  upstream source: {upstream}");
+        }
+        for row in &rows {
+            println!(
+                "  {}\n    status: {:?}, resolved by: {}\n    reviewed text vs current evidence: {}",
+                row.review_id,
+                row.status,
+                row.resolved_by.as_deref().unwrap_or("-"),
+                match row.state {
+                    ReviewedTextState::Matches => "matches",
+                    ReviewedTextState::Differs => "DIFFERS, re-review needed",
+                    ReviewedTextState::Absent => "provision no longer present",
+                }
+            );
+        }
+        total += rows.len();
+    }
+    println!("{total} legacy review item(s)");
     Ok(())
 }
 
@@ -3175,6 +3332,76 @@ mod tests {
             Some("machine-proposed")
         );
         assert!(!freeze_adapter_baseline(&adapter_path, Some(publication_date), 99, 99).unwrap());
+    }
+
+    fn legacy_item() -> lex_core::ReviewItem {
+        let mut items: Vec<lex_core::ReviewItem> =
+            serde_json::from_str(include_str!("../../../corpus/mx/lritf/review-queue.json"))
+                .unwrap();
+        let mut item = items.remove(0);
+        item.proposed_machine_conclusion.evidence_sha256 = String::new();
+        item
+    }
+
+    #[test]
+    fn legacy_reviews_are_compared_with_current_evidence() {
+        let item = legacy_item();
+        let same = vec![item.evidence.clone()];
+        let rows = super::legacy_review_rows(std::slice::from_ref(&item), &same);
+        assert_eq!(rows.len(), 1);
+        assert_eq!(rows[0].state, super::ReviewedTextState::Matches);
+
+        let mut changed = item.evidence.clone();
+        changed.text.push_str(" nuevo texto");
+        let rows = super::legacy_review_rows(std::slice::from_ref(&item), &[changed]);
+        assert_eq!(rows[0].state, super::ReviewedTextState::Differs);
+
+        let rows = super::legacy_review_rows(std::slice::from_ref(&item), &[]);
+        assert_eq!(rows[0].state, super::ReviewedTextState::Absent);
+
+        let mut hashed = item;
+        hashed.proposed_machine_conclusion.evidence_sha256 = "abc".to_owned();
+        assert!(super::legacy_review_rows(&[hashed], &same).is_empty());
+    }
+
+    #[test]
+    fn upstream_verdict_prefers_etag_then_last_modified() {
+        let mut manifest: lex_core::SourceManifest =
+            serde_json::from_str(include_str!("../../../corpus/mx/lacp/source-manifest.json"))
+                .unwrap();
+        manifest.etag = Some("\"a\"".to_owned());
+        manifest.last_modified = Some("Tue, 25 Nov 2025 21:27:36 GMT".to_owned());
+        let probe =
+            |etag: Option<&str>, last_modified: Option<&str>, status| lex_source::SourceProbe {
+                http_status: status,
+                etag: etag.map(str::to_owned),
+                last_modified: last_modified.map(str::to_owned),
+                content_length: None,
+            };
+        assert_eq!(
+            super::upstream_verdict(&manifest, &probe(Some("\"a\""), None, 200)),
+            "unchanged"
+        );
+        assert_eq!(
+            super::upstream_verdict(&manifest, &probe(Some("\"b\""), None, 200)),
+            "moved"
+        );
+        manifest.etag = None;
+        assert_eq!(
+            super::upstream_verdict(
+                &manifest,
+                &probe(None, Some("Wed, 01 Jul 2026 00:00:00 GMT"), 200)
+            ),
+            "moved"
+        );
+        assert_eq!(
+            super::upstream_verdict(&manifest, &probe(None, None, 200)),
+            "unknown"
+        );
+        assert_eq!(
+            super::upstream_verdict(&manifest, &probe(None, None, 503)),
+            "unreachable"
+        );
     }
 
     #[test]

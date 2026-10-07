@@ -405,13 +405,7 @@ pub fn fetch_annex(config: &SourceConfig, url: &Url) -> Result<Acquisition> {
     )
 }
 
-fn fetch_resource(
-    config: &SourceConfig,
-    url: &Url,
-    format: SourceFormat,
-    operational_source: &str,
-    publisher: &str,
-) -> Result<Acquisition> {
+fn http_client(config: &SourceConfig) -> Result<Client> {
     let mut builder = Client::builder()
         .timeout(Duration::from_mins(1))
         .user_agent(concat!("lex-mex/", env!("CARGO_PKG_VERSION")));
@@ -420,7 +414,46 @@ fn fetch_resource(
             reqwest::Certificate::from_pem(pem).context("invalid intermediate CA certificate")?,
         );
     }
-    let client = builder.build().context("failed to create HTTP client")?;
+    builder.build().context("failed to create HTTP client")
+}
+
+/// Response headers of a source, read without downloading its body, so a
+/// retained manifest can be compared against what the publisher serves now.
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct SourceProbe {
+    pub http_status: u16,
+    pub etag: Option<String>,
+    pub last_modified: Option<String>,
+    pub content_length: Option<u64>,
+}
+
+/// HEAD the instrument's operational source. Read-only: it writes nothing.
+pub fn probe_source(config: &SourceConfig) -> Result<SourceProbe> {
+    let client = http_client(config)?;
+    let response = client
+        .head(config.source_url.clone())
+        .send()
+        .with_context(|| format!("failed to probe {}", config.source_url))?;
+    let headers = response.headers();
+    Ok(SourceProbe {
+        http_status: response.status().as_u16(),
+        etag: header_string(headers, ETAG),
+        last_modified: header_string(headers, LAST_MODIFIED),
+        content_length: headers
+            .get(CONTENT_LENGTH)
+            .and_then(|value| value.to_str().ok())
+            .and_then(|value| value.parse().ok()),
+    })
+}
+
+fn fetch_resource(
+    config: &SourceConfig,
+    url: &Url,
+    format: SourceFormat,
+    operational_source: &str,
+    publisher: &str,
+) -> Result<Acquisition> {
+    let client = http_client(config)?;
 
     let response = client
         .get(url.clone())
