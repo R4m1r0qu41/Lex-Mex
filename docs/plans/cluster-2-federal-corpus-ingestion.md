@@ -181,7 +181,7 @@ Temporal model analysis and human legal review remain separate workflows.
 
 ## Progress
 
-- [x] (2026-10-06 18:11Z) Normalized all nine prepared EC2 entries (none previously present). Ingested LCEC: 45 articles, 8 original transitories, 23 references, 12 terms with 217 usages, 2 reform-transitory evidence records. An exact adapter stop marker excludes the 2004 congressional signatures and promulgation apparatus; source and extracted hashes stayed identical across reruns. Frozen baseline, bounded closure, and Markdown export passed with zero validation issues. All five required repository checks passed (193 workspace tests). Changes remain uncommitted; no temporal model or legal-review resolution ran.
+- [x] (2026-10-06 18:11Z) Normalized all nine prepared EC2 entries (none previously present). Ingested LCEC: 45 articles, 8 original transitories, 23 references, 12 terms with 217 usages, 2 reform-transitory evidence records. An exact adapter stop marker excludes the 2004 congressional signatures and promulgation apparatus; source and extracted hashes stayed identical across reruns. Frozen baseline, bounded closure, and Markdown export passed with zero validation issues. All five required repository checks passed (193 workspace tests). Committed at `8031ea11`; no temporal model or legal-review resolution ran.
 
 - [x] (2026-07-14 20:33Z) Ingested and committed `locg` at `97fa5cbc`; validation recorded zero issues.
 - [x] (2026-07-14 21:02Z) Ingested and committed `reg-diputados` at `553baa6e`; validation recorded zero issues.
