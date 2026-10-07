@@ -1,5 +1,39 @@
 # Architecture decisions
 
+## 2026-10-06 — Enforce temporal model boundaries and remove unsupported article dates
+
+Raw temporal model responses must pass the embedded model-output v2 JSON Schema
+before canonical deserialization. The model cannot assert external verification
+or supply reviewer-only fields. Import also checks that the request's instrument
+metadata and complete evidence ID/text-hash set match the current corpus.
+Review resolution requires matching current source evidence and a matching live
+determination; archived evidence-version IDs cannot mutate current conclusions.
+When evidence disappears from a rerun, pending and resolved review records are
+archived intact instead of dropped. These repairs enforce existing contracts;
+they do not change the model schema or infer reviewer approval.
+
+Original instrument commencement is not the effective date of every article's
+current wording. `temporal-derive-v2` retains the separate commencement result
+but leaves article `effective_from` unknown. Existing deterministic status
+classification is unchanged; this is not a historical-version reconstruction.
+The Rust `derive-temporal --repair-dates-only` migration clears only dates equal
+to resolved original commencement on machine-accepted, deterministic articles
+with effective/future-effective status, no end date, and no transitory effects.
+Model and lawyer review states are excluded.
+
+Against baseline `8031ea11`, the migration removed 15,974 dates in 132 instruments.
+The per-instrument receipt is `docs/temporal-date-repair-2026-10-06.json`.
+Structured comparison confirmed that only those date fields changed; source
+text, manifests, hashes, references, and review records were preserved. The
+canonical serializer also removes some pre-existing trailing newlines.
+Re-export corrected one stale LPUE transitory Markdown status from `repealed`
+to its already-canonical `unknown`; no new legal determination was made.
+
+Regression coverage includes schema rejection, stale/archived resolution,
+omitted pending/resolved history, and later-added article dates. Isolated CLI
+checks reject invalid model claims and stale requests without corpus mutations,
+accept a valid response into the review queue, and reject archived resolution.
+
 ## 2026-08-24 — Historical same-title targets and nested omnibus transitories remain distinct
 
 **Decision: a citation to a superseded law is not a citation to a later law
