@@ -1,0 +1,25 @@
+{
+  "name": "SCJN registry of general invalidity declarations (Declaraciones de invalidez)",
+  "publisher": "Suprema Corte de Justicia de la Nación",
+  "source_url": "https://www2.scjn.gob.mx/DI/paginas/DeclaracionesInvalidez.aspx",
+  "retrieved_on": "2026-10-07",
+  "original_file": {
+    "path": "DeclaracionesInvalidez.pdf",
+    "sha256": "83f9e9b72df3a09991baa424ebd2599c0ee8a6084b4bf1bb94b3b8f4e4355593",
+    "bytes": 2263605,
+    "pages": 1338,
+    "note": "Court-generated download; the URL may not reproduce the same file, so the PDF is kept for provenance."
+  },
+  "converted_file": {
+    "path": "DeclaracionesInvalidez_lex-mex.md",
+    "profile": "lex-mex-record-oriented-v1",
+    "record_count": 1499,
+    "source_number_range": [1, 1502],
+    "source_number_gaps": [266, 267, 519],
+    "resolution_date_range": ["2009-01-20", "2026-09-03"],
+    "records_with_empty_effect_date": 19,
+    "converted_by": "operator, with a PDF-to-Markdown viewer tool; verified by hash match to the PDF and record count"
+  },
+  "use": "Authoritative source for when a judicial invalidation takes effect: the column 'Fecha de surtimiento de efectos'. Not a canonical corpus instrument.",
+  "status": "reference data, not reviewed by the legal reviewer"
+}
