@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfcp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Correduría Pública",
+  "short_name": "LFCP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1992-12-29",
+  "latest_reform_date": "2012-04-09",
+  "retrieved_at": "2026-10-09T04:22:59.697816Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/105.pdf",
+  "source_sha256": "471480d2f55997cdb7b7d372e4f1e1c9a7c72c34cbb1e4186299dc35ad6e2535",
+  "extracted_text_sha256": "4479a53887b17217dbf2d086484916f5c70b8b820286c919f5706a64369f0f7c",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

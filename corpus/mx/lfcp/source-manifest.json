@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfcp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/105.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcp.htm",
+  "retrieved_at": "2026-10-09T04:22:59.697816Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 388122,
+  "etag": "\"5ec1a-57657a79efc80\"",
+  "last_modified": "Fri, 21 Sep 2018 01:35:30 GMT",
+  "source_sha256": "471480d2f55997cdb7b7d372e4f1e1c9a7c72c34cbb1e4186299dc35ad6e2535",
+  "extracted_text_sha256": "4479a53887b17217dbf2d086484916f5c70b8b820286c919f5706a64369f0f7c",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "e3dfcbd891e4b4f858d0bc8236abb4628cb2a65b"
+}
