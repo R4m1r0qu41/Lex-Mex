@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lfmn",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Federal Sobre Metrología y Normalización",
+  "short_name": "REG-LFMN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1999-01-14",
+  "latest_reform_date": "2012-11-28",
+  "retrieved_at": "2026-10-08T08:21:51.746900Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFMN.pdf",
+  "source_sha256": "3acf06eaf8b838cdfa68553efe0f007fcc3e9eee10b0ed42d693c99b0ae59bf3",
+  "extracted_text_sha256": "812c6082148de0c75ae8a7d55a472f4ce9d765a02f186637ee43a5b113ac700e",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}
