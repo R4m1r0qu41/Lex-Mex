@@ -1,0 +1,72 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "economy_EC3_comercio_fedatarios_ip",
+  "description": "EC3 comercio fedatarios ip",
+  "notes": [
+    "Normalized from prompts/cluster-2-batches/lex-mex-cl2-batch-EC3.json. Prepared dates are provenance context, not temporal determinations.",
+    "Provisional structural intake; source identity and boundaries must be reviewed before count freezing or integration."
+  ],
+  "blocked": [
+    {
+      "slug": "lfjs",
+      "title": "LEY Federal de Juegos y Sorteos",
+      "reason": "Parser drops all five original numeric ordinal transitories (1o.–5o.); retained candidate is invalid and excluded from integration until a fixture-backed parser repair."
+    }
+  ],
+  "instruments": [
+    {
+      "slug": "lfcp",
+      "title": "LEY Federal de Correduría Pública",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/105.pdf"
+    },
+    {
+      "slug": "reg-lfcp",
+      "title": "REGLAMENTO de la Ley Federal de Correduría Pública",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCP.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCP.pdf"
+    },
+    {
+      "slug": "reg-ccomer-mpsc",
+      "title": "REGLAMENTO del Código de Comercio en Materia de Prestadores de Servicios de Certificación",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CComer_MPSC.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CComer_MPSC.pdf"
+    },
+    {
+      "slug": "reg-lfpc-art122",
+      "title": "REGLAMENTO del Artículo 122 de la Ley Federal de Protección al Consumidor",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPC_Art122.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPC_Art122.pdf"
+    },
+    {
+      "slug": "reg-lfjs",
+      "title": "REGLAMENTO de la Ley Federal de Juegos y Sorteos",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFJS.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFJS.pdf"
+    },
+    {
+      "slug": "reg-lfppi",
+      "title": "REGLAMENTO de la Ley Federal de Protección a la Propiedad Industrial",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPPI.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPPI.pdf"
+    }
+  ]
+}
