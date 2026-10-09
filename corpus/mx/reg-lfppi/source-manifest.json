@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfppi",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPPI.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPPI.pdf",
+  "retrieved_at": "2026-10-09T04:23:21.784119Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 608703,
+  "etag": "\"949bf-651bc03570500\"",
+  "last_modified": "Thu, 14 May 2026 00:16:52 GMT",
+  "source_sha256": "51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d",
+  "extracted_text_sha256": "aab414b2dfb958c00a23aed29c4bb74985b4c9b742b79991d60e0ff6c45c561b",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "e3dfcbd891e4b4f858d0bc8236abb4628cb2a65b"
+}

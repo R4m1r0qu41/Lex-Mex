@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lfppi",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Federal de Protección a la Propiedad Industrial",
+  "short_name": "REG-LFPPI",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2026-04-28",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-09T04:23:21.784119Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPPI.pdf",
+  "source_sha256": "51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d",
+  "extracted_text_sha256": "aab414b2dfb958c00a23aed29c4bb74985b4c9b742b79991d60e0ff6c45c561b",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}
