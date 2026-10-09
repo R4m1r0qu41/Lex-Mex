@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:ldcmpme",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+  "short_name": "LDCMPME",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2002-12-30",
+  "latest_reform_date": "2023-10-20",
+  "retrieved_at": "2026-10-08T08:21:25.607294Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDCMPME.pdf",
+  "source_sha256": "4933abadd27d345e7a5c1754af10ed429fd148b709b4a78d4f42447b5fcd546d",
+  "extracted_text_sha256": "f8eb1ea3145e1bd41f349b905f71b25dcb575bb5c033d6463e1c38ad414cb765",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

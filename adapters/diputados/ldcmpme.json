@@ -1,0 +1,25 @@
+{
+  "slug": "ldcmpme",
+  "instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+  "short_name": "LDCMPME",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDCMPME.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldcmpme.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2002-12-30",
+  "expected_articles": 26,
+  "expected_transitories": 6,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {},
+  "main_document_stop_markers": [
+    "México, D.F., a 13 de diciembre de 2002"
+  ],
+  "count_baseline": {
+    "provenance": "audited",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-10-09T04:22:58.735975+00:00"
+  }
+}
