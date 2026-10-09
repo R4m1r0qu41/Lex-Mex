@@ -1,0 +1,22 @@
+{
+  "slug": "reg-lcec",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lcec",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley de Cámaras Empresariales y sus Confederaciones",
+  "short_name": "REG-LCEC",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LCEC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LCEC.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2012-02-09",
+  "expected_articles": 50,
+  "expected_transitories": 2,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {},
+  "count_baseline": {
+    "provenance": "audited",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-10-09T04:22:58.735676+00:00"
+  }
+}
