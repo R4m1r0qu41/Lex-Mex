@@ -1,0 +1,13 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ldcmpme:term:secretario-tecnico",
+    "term": "Secretario Técnico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-ldcmpme",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-ldcmpme:article:3",
+    "fraction": "I",
+    "start_char": 220,
+    "end_char": 345,
+    "basis": "express_definition"
+  }
+]

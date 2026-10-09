@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-ldcmpme",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+  "short_name": "REG-LDCMPME",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-05-24",
+  "latest_reform_date": "2018-05-24",
+  "retrieved_at": "2026-10-08T08:21:29.737339Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LDCMPME_240518.pdf",
+  "source_sha256": "478ff012a0c6ad39c7b826a81d91c5eac3decac66b10fd725138c02c2586b165",
+  "extracted_text_sha256": "38325b3f341ca5f28f1ebcf5898d641b117639b4a979b685f3686af1a9eaf52d",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

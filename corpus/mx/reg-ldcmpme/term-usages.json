@@ -1,0 +1,47 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ldcmpme:article:21:term-usage:1417-1435",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-ldcmpme:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-ldcmpme:term:secretario-tecnico",
+    "span": "Secretario Técnico",
+    "start_char": 1417,
+    "end_char": 1435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ldcmpme:article:23:term-usage:125-143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-ldcmpme:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-ldcmpme:term:secretario-tecnico",
+    "span": "Secretario Técnico",
+    "start_char": 125,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ldcmpme:article:24:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-ldcmpme:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-ldcmpme:term:secretario-tecnico",
+    "span": "Secretario Técnico",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ldcmpme:article:31:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-ldcmpme:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-ldcmpme:term:secretario-tecnico",
+    "span": "Secretario Técnico",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ldcmpme:article:31:term-usage:200-218",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-ldcmpme:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-ldcmpme:term:secretario-tecnico",
+    "span": "Secretario Técnico",
+    "start_char": 200,
+    "end_char": 218
+  }
+]
