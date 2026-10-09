@@ -1,0 +1,268 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:1:reference:331-333:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:1",
+    "source_span": "89",
+    "start_char": 331,
+    "end_char": 333,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccom",
+    "target_provision_id": "urn:lex-mx:federal:code:ccom:article:89",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:10:reference:270-273:104:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:10",
+    "source_span": "104",
+    "start_char": 270,
+    "end_char": 273,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccom",
+    "target_provision_id": "urn:lex-mx:federal:code:ccom:article:104",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 275,
+        "end_char": 286
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:10:reference:289-292:105:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:10",
+    "source_span": "105",
+    "start_char": 289,
+    "end_char": 292,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccom",
+    "target_provision_id": "urn:lex-mx:federal:code:ccom:article:105",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:17:reference:30-33:108:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:17",
+    "source_span": "108",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccom",
+    "target_provision_id": "urn:lex-mx:federal:code:ccom:article:108",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 35,
+        "end_char": 47
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:22:reference:25-28:102:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:22",
+    "source_span": "102",
+    "start_char": 25,
+    "end_char": 28,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccom",
+    "target_provision_id": "urn:lex-mx:federal:code:ccom:article:102",
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso A",
+        "start_char": 30,
+        "end_char": 38
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 41,
+        "end_char": 52
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:24:reference:359-361:97:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:24",
+    "source_span": "97",
+    "start_char": 359,
+    "end_char": 361,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccom",
+    "target_provision_id": "urn:lex-mx:federal:code:ccom:article:97",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:24:reference:512-515:102:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:24",
+    "source_span": "102",
+    "start_char": 512,
+    "end_char": 515,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccom",
+    "target_provision_id": "urn:lex-mx:federal:code:ccom:article:102",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:25:reference:241-258:24:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:25",
+    "source_span": "artículo anterior",
+    "start_char": 241,
+    "end_char": 258,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:24",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:25:reference:391-393:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:25",
+    "source_span": "21",
+    "start_char": 391,
+    "end_char": 393,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:25:reference:1020-1023:104:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:25",
+    "source_span": "104",
+    "start_char": 1020,
+    "end_char": 1023,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccom",
+    "target_provision_id": "urn:lex-mx:federal:code:ccom:article:104",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IX",
+        "start_char": 1025,
+        "end_char": 1036
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:26:reference:223-240:25:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:26",
+    "source_span": "artículo anterior",
+    "start_char": 223,
+    "end_char": 240,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:25",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:26:reference:660-662:17:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:26",
+    "source_span": "17",
+    "start_char": 660,
+    "end_char": 662,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:17",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:27:reference:196-213:26:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:27",
+    "source_span": "artículo anterior",
+    "start_char": 196,
+    "end_char": 213,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:26",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:3:reference:217-220:104:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:3",
+    "source_span": "104",
+    "start_char": 217,
+    "end_char": 220,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccom",
+    "target_provision_id": "urn:lex-mx:federal:code:ccom:article:104",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 222,
+        "end_char": 232
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:5:reference:700-703:101:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc:article:5",
+    "source_span": "101",
+    "start_char": 700,
+    "end_char": 703,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccom",
+    "target_provision_id": "urn:lex-mx:federal:code:ccom:article:101",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CComer_MPSC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CComer_MPSC.pdf",
+  "retrieved_at": "2026-10-09T04:23:05.844263Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 229781,
+  "etag": "\"38195-563b487bb1080\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:06 GMT",
+  "source_sha256": "68289021a298c81ea470c045775a924186bf451c2469dcf6c59a43200a2b0048",
+  "extracted_text_sha256": "1a7b8d51c50ace471175781666c59a758ef6a3fa31fa0aad3675c91312c98a4d",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "e3dfcbd891e4b4f858d0bc8236abb4628cb2a65b"
+}

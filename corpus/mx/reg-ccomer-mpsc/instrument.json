@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-ccomer-mpsc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento del Código de Comercio en Materia de Prestadores de Servicios de Certificación",
+  "short_name": "REG-CCOMER-MPSC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2004-07-19",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-09T04:23:05.844263Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CComer_MPSC.pdf",
+  "source_sha256": "68289021a298c81ea470c045775a924186bf451c2469dcf6c59a43200a2b0048",
+  "extracted_text_sha256": "1a7b8d51c50ace471175781666c59a758ef6a3fa31fa0aad3675c91312c98a4d",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}
