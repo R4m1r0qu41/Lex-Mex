@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lnetb",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Nacional para Eliminar Trámites Burocráticos",
+  "short_name": "LNETB",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-07-16",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-08T08:21:42.373644Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNETB.pdf",
+  "source_sha256": "193ffb402e2decb38aac42ad136c90b9a944a097b4f9b94b6e161ca1bd30f839",
+  "extracted_text_sha256": "6380998d7abb85d6fcadd5d7528e6857e0635bded0f2b0788061d06cdf71f83f",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

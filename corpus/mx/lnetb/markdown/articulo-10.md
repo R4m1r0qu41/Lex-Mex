@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lnetb:article:10
+instrument_id: urn:lex-mx:federal:statute:lnetb
+instrument: LNETB
+name: "Ley Nacional para Eliminar Trámites Burocráticos"
+provision_type: article
+number: "10"
+aliases: ["LNETB — Artículo 10"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNETB.pdf
+source_sha256: 193ffb402e2decb38aac42ad136c90b9a944a097b4f9b94b6e161ca1bd30f839
+---
+
+> Título SEGUNDO · Capítulo II
+
+# Artículo 10
+
+La [Autoridad Nacional de Simplificación y Digitalización](articulo-3.md) tendrá las siguientes atribuciones en el ámbito de la Administración Pública Federal: I. Coordinar, implementar, supervisar y vigilar la aplicación de la presente [Ley](articulo-3.md), de los Modelos Nacionales, herramientas y acciones previstas en la presente Ley por parte de los [Sujetos Obligados](articulo-3.md) de la Administración Pública Federal, y del resto de los Sujetos Obligados de competencia Federal; II. Revisar el marco regulatorio federal y, en su caso, emitir recomendaciones a los Sujetos Obligados competentes para la simplificación de [Regulaciones](articulo-3.md), [Trámites](articulo-3.md) y [Servicios](articulo-3.md) específicos. En el caso de los Sujetos Obligados de la Administración Pública Federal, estas recomendaciones serán de carácter vinculante; III. Requerir a los Sujetos Obligados a realizar acciones de simplificación administrativa, digitalización de Trámites y Servicios, y buenas prácticas regulatorias; IV. Promover la evaluación de Regulaciones vigentes a través del Análisis de Impacto Regulatorio ex post; V. Solicitar a los Sujetos Obligados de la Administración Pública Federal la revisión de su acervo regulatorio para la simplificación y digitalización de Trámites y Servicios; VI. Dictaminar el Análisis de Impacto Regulatorio y su [Propuesta Regulatoria](articulo-3.md), en términos de lo establecido en esta Ley; VII. Emitir, para la observancia y aplicación de los Sujetos Obligados de la Administración Pública Federal, las políticas, lineamientos, reglas, manuales y otros instrumentos jurídicos necesarios para el cumplimiento de las disposiciones establecidas en esta Ley; VIII. Aprobar y supervisar el cumplimiento de la Agenda Regulatoria y la [Agenda de Simplificación y Digitalización](articulo-3.md) de los Sujetos Obligados; IX. Realizar propuestas de simplificación y digitalización de Trámites y Servicios a los Sujetos Obligados; así como coordinar y supervisar su implementación; X. Diseñar e implementar, conforme a sus recursos disponibles, las [Soluciones Tecnológicas](articulo-3.md) que se requieran para la operación y funcionamiento de los Modelos y plataformas digitales previstos en esta Ley; XI. Habilitar Ventanillas Digitales Únicas interinstitucionales, para agilizar la atención de Trámites y Servicios, y coordinar su implementación con los Sujetos Obligados competentes; XII. Generar una infraestructura de datos que permita integrar la información generada por los Sujetos Obligados para facilitar la digitalización de Trámites y Servicios; XIII. Establecer acuerdos y convenios de colaboración, concertación y coordinación que resulten necesarios para el cumplimiento de sus atribuciones; XIV. Supervisar que los Sujetos Obligados de la Administración Pública Federal mantengan actualizada la información del [Portal Ciudadano Único de Trámites y Servicios](articulo-3.md), y en su caso, requerir su inmediata actualización; XV. Calcular el costo burocrático de las obligaciones regulatorias, Trámites y Servicios con la información proporcionada por los Sujetos Obligados; XVI. Supervisar y evaluar los avances en la implementación de los Modelos Nacionales previstos en esta Ley; XVII. Implementar, dirigir y coordinar el Modelo Integral de Atención Ciudadana; XVIII. Operar el Centro de Atención para el Bienestar y el número único de contacto ciudadano, y XIX. Las demás que se establezcan en esta Ley y otras disposiciones jurídicas aplicables.

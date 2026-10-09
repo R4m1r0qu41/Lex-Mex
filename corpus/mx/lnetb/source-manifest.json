@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lnetb",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNETB.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnetb.htm",
+  "retrieved_at": "2026-10-08T08:21:42.373644Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 390047,
+  "etag": "\"5f39f-63a3d1d677740\"",
+  "last_modified": "Sat, 19 Jul 2025 00:13:41 GMT",
+  "source_sha256": "193ffb402e2decb38aac42ad136c90b9a944a097b4f9b94b6e161ca1bd30f839",
+  "extracted_text_sha256": "6380998d7abb85d6fcadd5d7528e6857e0635bded0f2b0788061d06cdf71f83f",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "e3dfcbd891e4b4f858d0bc8236abb4628cb2a65b"
+}
