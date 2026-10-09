@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento del Artículo 122 de la Ley Federal de Protección al Consumidor",
+  "short_name": "REG-LFPC-ART122",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1997-08-27",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-09T04:23:09.515942Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPC_Art122.pdf",
+  "source_sha256": "2dfa51f94d75486bd712aa9316cbf39a898abd46e0c45e6133e2fea8fa3352f0",
+  "extracted_text_sha256": "85c6b270e8c5c5205a83a69005c621210b834a6298aa0adcf8c5dee8676e45b6",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

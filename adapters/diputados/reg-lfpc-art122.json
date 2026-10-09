@@ -1,0 +1,25 @@
+{
+  "slug": "reg-lfpc-art122",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento del Artículo 122 de la Ley Federal de Protección al Consumidor",
+  "short_name": "REG-LFPC-ART122",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPC_Art122.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPC_Art122.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1997-08-27",
+  "expected_articles": 14,
+  "expected_transitories": 2,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {},
+  "header_lines": [
+    "REGLAMENTO DE LA LEY SOBRE PRODUCCIÓN, CERTIFICACIÓN Y COMERCIO DE SEMILLAS"
+  ],
+  "count_baseline": {
+    "provenance": "audited",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-10-09T04:25:13.931616+00:00"
+  }
+}

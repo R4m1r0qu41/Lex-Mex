@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPC_Art122.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPC_Art122.pdf",
+  "retrieved_at": "2026-10-09T04:23:09.515942Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 254747,
+  "etag": "\"3e31b-563b4879c8c00\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:04 GMT",
+  "source_sha256": "2dfa51f94d75486bd712aa9316cbf39a898abd46e0c45e6133e2fea8fa3352f0",
+  "extracted_text_sha256": "85c6b270e8c5c5205a83a69005c621210b834a6298aa0adcf8c5dee8676e45b6",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "e3dfcbd891e4b4f858d0bc8236abb4628cb2a65b"
+}

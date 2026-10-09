@@ -1,0 +1,338 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122:article:1",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+    "provision_type": "article",
+    "label": "Artículo 1",
+    "number": "1",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo I"
+    },
+    "text": "El presente Reglamento tiene por objeto regular la inscripción y actuación de los árbitros independientes previstos por el artículo 122 de la Ley Federal de Protección al Consumidor. Corresponde a la Secretaría de Comercio y Fomento Industrial la aplicación y vigilancia de las disposiciones de este ordenamiento.",
+    "publication_date": "1997-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122:article:2",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+    "provision_type": "article",
+    "label": "Artículo 2",
+    "number": "2",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo I"
+    },
+    "text": "Para efectos de este Reglamento, se aplicarán las definiciones establecidas en el artículo 2 de la Ley Federal de Protección al Consumidor, en lo sucesivo la Ley.",
+    "publication_date": "1997-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122:article:3",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+    "provision_type": "article",
+    "label": "Artículo 3",
+    "number": "3",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo II"
+    },
+    "text": "La Secretaría tendrá a su cargo la integración de la Lista de Árbitros, que se conformará por la inscripción de aquellos particulares reconocidos por la propia Secretaría, independientes de la Procuraduría, para dirimir controversias entre proveedores y consumidores en el territorio nacional, conforme a lo previsto en este Reglamento.\n\nPara tal efecto, el territorio nacional se divide en plazas, una por cada Entidad Federativa, incluyendo la del Distrito Federal.\n\nSólo podrá ostentarse y desempeñarse como árbitro oficialmente reconocido por la Secretaría, en los términos de este Reglamento, la persona que cuente con inscripción en la Lista.",
+    "publication_date": "1997-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122:article:4",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+    "provision_type": "article",
+    "label": "Artículo 4",
+    "number": "4",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo II"
+    },
+    "text": "La Lista a que se refiere el artículo anterior contendrá los siguientes datos de cada árbitro:\n\nI. Nombre, domicilio y datos de localización;\n\nII. Especialidad y número de cédula profesional, en su caso; III. Plaza o plazas que atiende, y\n\nIV. La información adicional que la Secretaría requiera mediante publicación en el Diario Oficial de la Federación.",
+    "publication_date": "1997-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122:article:5",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+    "provision_type": "article",
+    "label": "Artículo 5",
+    "number": "5",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo II"
+    },
+    "text": "La Secretaría publicará anualmente en el Diario Oficial de la Federación la Lista de Árbitros actualizada en los términos del presente Reglamento. También la proporcionará a la Procuraduría y a las Delegaciones Federales de la Secretaría, para que faciliten copia a los interesados que lo soliciten.",
+    "publication_date": "1997-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122:article:6",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+    "provision_type": "article",
+    "label": "Artículo 6",
+    "number": "6",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo II"
+    },
+    "text": "Los requisitos que deben cumplirse para obtener la inscripción en la Lista de Árbitros, son los siguientes:\n\nI. Acreditar ante la Secretaría una experiencia práctica de por lo menos cinco años en la profesión, arte u oficio en que se pretenda realizar las funciones arbitrales;\n\nII. Gozar de reconocido prestigio y honorabilidad, y no haber sido sentenciado por delito doloso;\n\nIII. No desempeñar un cargo o comisión en la Administración Pública Federal o local, o puesto de elección popular; y\n\nIV. Aprobar el examen de conocimientos que se elaborará conforme a lo establecido en el presente Reglamento.",
+    "publication_date": "1997-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122:article:7",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+    "provision_type": "article",
+    "label": "Artículo 7",
+    "number": "7",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo II"
+    },
+    "text": "El procedimiento de inscripción a la Lista de Árbitros es el siguiente:\n\nI. La solicitud de inscripción, en el formato publicado en el Diario Oficial de la Federación que al efecto sea proporcionado, se presentará, según corresponda, en la unidad administrativa competente de la Secretaría, cuando se pretenda trabajar en el Distrito Federal, y en caso de las entidades federativas en la Delegación Federal respectiva de la Secretaría. La solicitud contendrá la declaración bajo protesta de decir verdad de que los datos en ella contenidos son ciertos;\n\nII. A la solicitud se acompañarán los documentos que acrediten la información requerida por la Secretaría;\n\nIII. Dentro de los diez días hábiles siguientes a la presentación de la solicitud y documentación requerida, se fijará la fecha y el lugar para la aplicación del examen de conocimientos, el cual tendrá verificativo dentro de los sesenta días hábiles siguientes, y\n\nIV. El resultado del examen se dará a conocer por escrito que será notificado personalmente, por la unidad administrativa o por la delegación federal de la Secretaría, dentro de los diez días hábiles siguientes a la presentación del examen, para quienes tengan su domicilio en el Distrito Federal, y dentro de los veinte días hábiles siguientes de tenerlo en alguna entidad federativa.\n\nAgotado el procedimiento anterior y cubiertos los requisitos señalados en el artículo 6 del presente Reglamento, el solicitante será inscrito por la Secretaría en la Lista de Árbitros y le será extendida la constancia de su inscripción.",
+    "publication_date": "1997-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122:article:8",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+    "provision_type": "article",
+    "label": "Artículo 8",
+    "number": "8",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo II"
+    },
+    "text": "El examen de conocimientos se presentará conforme a lo siguiente:\n\nI. Resolver el cuestionario que elabore el Comité Técnico previsto en el artículo 14 de este Reglamento; II. Redactar un convenio por el que se establezcan reglas arbitrales de un caso hipotético, y\n\nIII. Elaborar el laudo del caso hipotético planteado.\n\nEl examen será resuelto individualmente, conforme al tiempo e indicaciones establecidos por el Comité Técnico a que se refiere el artículo 14 del presente Reglamento. La contravención a esta disposición anulará el examen del sustentante.\n\nSi el aspirante no aprueba el examen, podrá volver a presentarlo, siempre que entre uno y otro medien por lo menos seis meses.",
+    "publication_date": "1997-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122:article:9",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+    "provision_type": "article",
+    "label": "Artículo 9",
+    "number": "9",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo II"
+    },
+    "text": "La vigencia de la inscripción en la Lista de Árbitros será de un año contado a partir de la fecha de inscripción, y renovable en forma indefinida por periodos iguales.\n\nLa renovación se dará siempre que exista solicitud por escrito del árbitro, presentada ante la Secretaría, durante los veinte días hábiles previos a la fecha de conclusión de su vigencia, en la que manifieste bajo protesta de decir verdad que sigue cumpliendo los requisitos señalados en el artículo 6 del presente Reglamento.",
+    "publication_date": "1997-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122:article:10",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+    "provision_type": "article",
+    "label": "Artículo 10",
+    "number": "10",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo II"
+    },
+    "text": "La Secretaría procederá a la cancelación de la inscripción en la Lista de Árbitros, otorgada en términos del presente Reglamento, al árbitro que incurra en incumplimiento de las disposiciones del mismo, el cual quedará impedido para obtener nueva inscripción de conformidad con las disposiciones legales aplicables.",
+    "publication_date": "1997-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122:article:11",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+    "provision_type": "article",
+    "label": "Artículo 11",
+    "number": "11",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo III"
+    },
+    "text": "La actuación de árbitro se realizará conforme a lo siguiente:\n\nI. Prestará, cuando se le requiera, el servicio de arbitraje durante la vigencia de su inscripción en la Lista a que se refiere el artículo 3 de este Reglamento, excepto cuando medie causa justificada a juicio de la Secretaría;\n\nII. Ejercerá personalmente sus funciones, con probidad, honradez, legalidad, eficiencia, profesionalismo e imparcialidad;\n\nIII. Mantendrá confidencialidad sobre la información a que tenga acceso en virtud de los procedimientos en que intervenga;\n\nIV. Sujetará el procedimiento arbitral al convenio que celebren el proveedor y el consumidor y, en lo no previsto, a lo dispuesto en el Código de Comercio;\n\nV. Emitirá oportunamente el laudo arbitral que ponga fin al procedimiento que le haya sido sometido, ya sea en amigable composición o en estricto derecho, evitando demorarlos sin causa justificada;\n\nVI. Dará aviso por escrito a la Secretaría para ausentarse del ejercicio de sus funciones por un plazo mayor a quince días hábiles pero menor de noventa; cuando exceda de este plazo deberá solicitar la licencia respectiva;\n\nVII. Hará del conocimiento de la Secretaría, por escrito, en un plazo máximo de veinte días hábiles, cualquier cambio en los datos que obran en la Lista de Árbitros, y VIII. Lo previsto en las demás leyes y reglamentos.",
+    "publication_date": "1997-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122:article:12",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+    "provision_type": "article",
+    "label": "Artículo 12",
+    "number": "12",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo III"
+    },
+    "text": "Corresponde al árbitro:\n\nI. Actuar como mediador para transmitir e intercambiar propuestas entre el proveedor y el consumidor;\n\nII. Asesorar al proveedor y al consumidor que siendo partes de una controversia, deseen celebrar cualquier convenio que tenga como fin la solución de la misma;\n\nIII. Pronunciar y firmar, ya sea en amigable composición o en estricto derecho, el laudo respectivo, mismo que deberá resolver todos los puntos del negocio, y\n\nIV. Desempeñar su labor de acuerdo a las disposiciones del marco jurídico aplicable a la materia.",
+    "publication_date": "1997-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122:article:13",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+    "provision_type": "article",
+    "label": "Artículo 13",
+    "number": "13",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo III"
+    },
+    "text": "Los honorarios de los árbitros se calcularán de común acuerdo entre el proveedor, el consumidor y el árbitro. El lugar y modo de pago se determinarán en el acuerdo arbitral.",
+    "publication_date": "1997-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122:article:14",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+    "provision_type": "article",
+    "label": "Artículo 14",
+    "number": "14",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo IV"
+    },
+    "text": "El Comité Técnico es el órgano competente para decidir si el sustentante es apto para actuar como árbitro. En dicho Comité participarán representantes de la Secretaría y de la Procuraduría, de conformidad con los lineamientos de integración, operación y funcionamiento que al efecto expida la Secretaría. El Comité Técnico tendrá las facultades siguientes:\n\nI. Elaborar cuando menos cinco versiones distintas de los cuestionarios que se apliquen como examen para obtener la inscripción en la Lista de Árbitros, mismos que versarán sobre temas de relevancia en la materia y contendrán las preguntas suficientes para realizar una evaluación general objetiva respecto de los conocimientos del sustentante;\n\nII. Revisar y modificar, al menos una vez al año, los cuestionarios aplicables a los solicitantes, y\n\nIII. Aplicar y calificar, a través de la unidad administrativa o Delegación Federal respectiva de la Secretaría, el examen de conocimientos a los solicitantes de inscripción en la Lista de Árbitros.",
+    "publication_date": "1997-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122:transitory:primero",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+    "provision_type": "transitory",
+    "label": "PRIMERO",
+    "number": "PRIMERO",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El presente Reglamento entrará en vigor al mes siguiente de su publicación en el Diario Oficial de la Federación.",
+    "publication_date": "1997-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc-art122:transitory:segundo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc-art122",
+    "provision_type": "transitory",
+    "label": "SEGUNDO",
+    "number": "SEGUNDO",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Los lineamientos a que se refiere el artículo 14 del presente Reglamento deberán expedirse dentro del mes siguiente a la entrada en vigor de este ordenamiento.",
+    "publication_date": "1997-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  }
+]
