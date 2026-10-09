@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/liispcen.htm",
+  "retrieved_at": "2026-10-08T08:21:37.498514Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 387514,
+  "etag": "\"5e9ba-616cb60889580\"",
+  "last_modified": "Tue, 23 Apr 2024 22:50:14 GMT",
+  "source_sha256": "1b8883c465f17c991ae5faeffeedffc8fee4b0b5bd7c2d2f080264fee2b3805c",
+  "extracted_text_sha256": "a6a897399264ec2730fd86773e4b04b7957de41a7332d6df529a7ccf2f08b6aa",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "e3dfcbd891e4b4f858d0bc8236abb4628cb2a65b"
+}

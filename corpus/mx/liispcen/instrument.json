@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:liispcen",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+  "short_name": "LIISPCEN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2015-05-06",
+  "latest_reform_date": "2024-04-17",
+  "retrieved_at": "2026-10-08T08:21:37.498514Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf",
+  "source_sha256": "1b8883c465f17c991ae5faeffeedffc8fee4b0b5bd7c2d2f080264fee2b3805c",
+  "extracted_text_sha256": "a6a897399264ec2730fd86773e4b04b7957de41a7332d6df529a7ccf2f08b6aa",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

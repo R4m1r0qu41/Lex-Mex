@@ -1,0 +1,29 @@
+{
+  "slug": "liispcen",
+  "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+  "short_name": "LIISPCEN",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/liispcen.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2015-05-06",
+  "expected_articles": 21,
+  "expected_transitories": 7,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {},
+  "main_document_stop_markers": [
+    "México, D.F., a 19 de marzo de 2015"
+  ],
+  "header_lines": [
+    "LEY PARA IMPULSAR EL INCREMENTO SOSTENIDO DE LA PRODUCTIVIDAD Y LA COMPETITIVIDAD DE LA",
+    "ECONOMÍA NACIONAL"
+  ],
+  "count_baseline": {
+    "provenance": "audited",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-10-09T04:22:58.736418+00:00"
+  }
+}

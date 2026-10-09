@@ -1,0 +1,167 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:term:comisiones-estatales-de-productividad",
+    "term": "Comisiones Estatales de Productividad",
+    "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+    "defining_provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 177,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "term": "Comité",
+    "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+    "defining_provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "fraction": "II",
+    "start_char": 177,
+    "end_char": 288,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "term": "Competitividad",
+    "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+    "defining_provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "fraction": "III",
+    "start_char": 288,
+    "end_char": 557,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:term:dependencias",
+    "term": "Dependencias",
+    "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+    "defining_provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "fraction": "IV",
+    "start_char": 557,
+    "end_char": 780,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:term:emprendedores",
+    "term": "Emprendedores",
+    "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+    "defining_provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "fraction": "V",
+    "start_char": 780,
+    "end_char": 1051,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:term:entidades",
+    "term": "Entidades",
+    "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+    "defining_provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "fraction": "VI",
+    "start_char": 1051,
+    "end_char": 1289,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:term:grandes-empresas",
+    "term": "Grandes empresas",
+    "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+    "defining_provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "fraction": "VII",
+    "start_char": 1289,
+    "end_char": 1585,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:term:mipymes",
+    "term": "MIPYMES",
+    "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+    "defining_provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "fraction": "VIII",
+    "start_char": 1585,
+    "end_char": 1817,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:term:nucleo-productivo",
+    "term": "Núcleo productivo",
+    "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+    "defining_provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "fraction": "IX",
+    "start_char": 1817,
+    "end_char": 2031,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:term:organos-autonomos",
+    "term": "Órganos autónomos",
+    "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+    "defining_provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "fraction": "X",
+    "start_char": 2031,
+    "end_char": 2172,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:term:politicas-de-caracter-regional",
+    "term": "Políticas de carácter regional",
+    "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+    "defining_provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "fraction": "XI",
+    "start_char": 2172,
+    "end_char": 2483,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:term:politicas-de-caracter-sectorial",
+    "term": "Políticas de carácter sectorial",
+    "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+    "defining_provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "fraction": "XII",
+    "start_char": 2483,
+    "end_char": 2638,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:term:politicas-de-caracter-transversal",
+    "term": "Políticas de carácter transversal",
+    "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+    "defining_provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "fraction": "XIII",
+    "start_char": 2638,
+    "end_char": 2803,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:term:productividad-o-productividad-total-de-los-factores",
+    "term": "Productividad o productividad total de los factores",
+    "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+    "defining_provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "fraction": "XIV",
+    "start_char": 2803,
+    "end_char": 3140,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:liispcen",
+    "defining_provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "fraction": "XV",
+    "start_char": 3140,
+    "end_char": 3200,
+    "basis": "express_definition"
+  }
+]

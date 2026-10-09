@@ -1,0 +1,650 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:3:term-usage:625-631",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:3",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 625,
+    "end_char": 631
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:3:term-usage:2012-2019",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:3",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:mipymes",
+    "span": "MIPYMES",
+    "start_char": 2012,
+    "end_char": 2019
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:3:term-usage:2407-2414",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:3",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:mipymes",
+    "span": "MIPYMES",
+    "start_char": 2407,
+    "end_char": 2414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:3:term-usage:2744-2751",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:3",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:mipymes",
+    "span": "MIPYMES",
+    "start_char": 2744,
+    "end_char": 2751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:3:term-usage:4032-4038",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:3",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 4032,
+    "end_char": 4038
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:4:term-usage:579-590",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 579,
+    "end_char": 590
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:4:term-usage:1575-1582",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:mipymes",
+    "span": "MIPYMES",
+    "start_char": 1575,
+    "end_char": 1582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:4:term-usage:1720-1734",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 1720,
+    "end_char": 1734
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:5:term-usage:395-409",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:5",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 395,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:5:term-usage:631-645",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:5",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 631,
+    "end_char": 645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:5:term-usage:667-677",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:5",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 667,
+    "end_char": 677
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:5:term-usage:706-716",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:5",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 706,
+    "end_char": 716
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:5:term-usage:750-756",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:5",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 750,
+    "end_char": 756
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:6:term-usage:102-116",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:6",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 102,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:7:term-usage:404-418",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:7",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 404,
+    "end_char": 418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:8:term-usage:92-106",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:8",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 92,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:8:term-usage:644-651",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:8",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:mipymes",
+    "span": "MIPYMES",
+    "start_char": 644,
+    "end_char": 651
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:8:term-usage:1655-1662",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:8",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:mipymes",
+    "span": "MIPYMES",
+    "start_char": 1655,
+    "end_char": 1662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:8:term-usage:2744-2751",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:8",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:mipymes",
+    "span": "MIPYMES",
+    "start_char": 2744,
+    "end_char": 2751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:9:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:9",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:9:term-usage:286-300",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:9",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 286,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:10:term-usage:330-344",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:10",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 330,
+    "end_char": 344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:10:term-usage:359-365",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:10",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 359,
+    "end_char": 365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:11:term-usage:74-80",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:11",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 74,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:11:term-usage:1378-1392",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:11",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 1378,
+    "end_char": 1392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:11:term-usage:2376-2413",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:11",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comisiones-estatales-de-productividad",
+    "span": "Comisiones Estatales de Productividad",
+    "start_char": 2376,
+    "end_char": 2413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:11:term-usage:3504-3511",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:11",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:mipymes",
+    "span": "MIPYMES",
+    "start_char": 3504,
+    "end_char": 3511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:11:term-usage:5027-5041",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:11",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 5027,
+    "end_char": 5041
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:12:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:12",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:12:term-usage:256-266",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:12",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 256,
+    "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:12:term-usage:383-393",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:12",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 383,
+    "end_char": 393
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:12:term-usage:471-481",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:12",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 471,
+    "end_char": 481
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:12:term-usage:567-577",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:12",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 567,
+    "end_char": 577
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:12:term-usage:1327-1333",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:12",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 1327,
+    "end_char": 1333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:12:term-usage:1805-1811",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:12",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 1805,
+    "end_char": 1811
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:13:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:13",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:13:term-usage:164-170",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:13",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 164,
+    "end_char": 170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:13:term-usage:520-526",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:13",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 520,
+    "end_char": 526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:14:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:14",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:14:term-usage:807-844",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:14",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comisiones-estatales-de-productividad",
+    "span": "Comisiones Estatales de Productividad",
+    "start_char": 807,
+    "end_char": 844
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:15:term-usage:279-285",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:15",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 279,
+    "end_char": 285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:16:term-usage:146-152",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:16",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 146,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:16:term-usage:647-653",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:16",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 647,
+    "end_char": 653
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:17:term-usage:129-135",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:17",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 129,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:18:term-usage:37-47",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:18",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 37,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:18:term-usage:297-303",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:18",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 297,
+    "end_char": 303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:18:term-usage:309-319",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:18",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 309,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:18:term-usage:362-368",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:18",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 362,
+    "end_char": 368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:18:term-usage:723-733",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:18",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 723,
+    "end_char": 733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:18:term-usage:919-930",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:18",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 919,
+    "end_char": 930
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:18:term-usage:1268-1278",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:18",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1268,
+    "end_char": 1278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:19:term-usage:234-248",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:19",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 234,
+    "end_char": 248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:19:term-usage:264-274",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:19",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 264,
+    "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:19:term-usage:477-491",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:19",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 477,
+    "end_char": 491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:19:term-usage:677-687",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:19",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 677,
+    "end_char": 687
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:20:term-usage:442-456",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:20",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 442,
+    "end_char": 456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:20:term-usage:610-620",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:20",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 610,
+    "end_char": 620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:20:term-usage:812-826",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:20",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 812,
+    "end_char": 826
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:20:term-usage:1042-1052",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:20",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1042,
+    "end_char": 1052
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:20:term-usage:1445-1459",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:20",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 1445,
+    "end_char": 1459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:21:term-usage:76-86",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:article:21",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 76,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:transitory:segundo:term-usage:393-399",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 393,
+    "end_char": 399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:transitory:tercero:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:transitory:tercero:term-usage:122-128",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 122,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:transitory:tercero:term-usage:377-391",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 377,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:transitory:tercero:term-usage:459-465",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 459,
+    "end_char": 465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:transitory:cuarto:term-usage:110-116",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
+    "span": "Comité",
+    "start_char": 110,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:transitory:cuarto:term-usage:371-385",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 371,
+    "end_char": 385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:transitory:quinto:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:transitory:quinto:term-usage:217-231",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 217,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:transitory:quinto:term-usage:392-402",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 392,
+    "end_char": 402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:liispcen:transitory:quinto:term-usage:641-655",
+    "provision_id": "urn:lex-mx:federal:statute:liispcen:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
+    "span": "Competitividad",
+    "start_char": 641,
+    "end_char": 655
+  }
+]
