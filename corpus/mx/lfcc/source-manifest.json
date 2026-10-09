@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfcc",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCC_200120.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcc.htm",
+  "retrieved_at": "2026-10-08T08:21:47.852882Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 221238,
+  "etag": "\"36036-5ae4795b2fe40\"",
+  "last_modified": "Tue, 01 Sep 2020 21:56:01 GMT",
+  "source_sha256": "0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde",
+  "extracted_text_sha256": "e553d46b5eb0d610e36bb06b17c7842953254bcd5c3ec7b1053b53a9661e9439",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "e3dfcbd891e4b4f858d0bc8236abb4628cb2a65b"
+}

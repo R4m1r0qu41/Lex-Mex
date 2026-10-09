@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfcc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Fomento a la Confianza Ciudadana",
+  "short_name": "LFCC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2020-01-20",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-08T08:21:47.852882Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCC_200120.pdf",
+  "source_sha256": "0305c9a7ba90c8d0bbe973be2a134a650976ce5d25c304458cb0fd5401b8ddde",
+  "extracted_text_sha256": "e553d46b5eb0d610e36bb06b17c7842953254bcd5c3ec7b1053b53a9661e9439",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

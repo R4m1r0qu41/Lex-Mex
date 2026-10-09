@@ -1,0 +1,76 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:11:reference:2500-2502:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
+    "source_span": "16",
+    "start_char": 2500,
+    "end_char": 2502,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfcc:article:16",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:14:reference:79-81:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfcc:article:14",
+    "source_span": "11",
+    "start_char": 79,
+    "end_char": 81,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IX",
+        "start_char": 54,
+        "end_char": 65
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:16:reference:86-88:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfcc:article:16",
+    "source_span": "15",
+    "start_char": 86,
+    "end_char": 88,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfcc:article:15",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 58,
+        "end_char": 72
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:17:reference:52-69:16:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfcc:article:17",
+    "source_span": "artículo anterior",
+    "start_char": 52,
+    "end_char": 69,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfcc:article:16",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]
