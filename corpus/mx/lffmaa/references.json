@@ -1,0 +1,69 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffmaa:article:12:reference:129-130:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lffmaa:article:12",
+    "source_span": "4",
+    "start_char": 129,
+    "end_char": 130,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lffmaa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lffmaa:article:4",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffmaa:article:13:reference:31-48:12:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lffmaa:article:13",
+    "source_span": "artículo anterior",
+    "start_char": 31,
+    "end_char": 48,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lffmaa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lffmaa:article:12",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffmaa:article:16:reference:52-69:15:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lffmaa:article:16",
+    "source_span": "artículo anterior",
+    "start_char": 52,
+    "end_char": 69,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lffmaa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lffmaa:article:15",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffmaa:article:18:reference:203-204:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lffmaa:article:18",
+    "source_span": "7",
+    "start_char": 203,
+    "end_char": 204,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lffmaa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lffmaa:article:7",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 207,
+        "end_char": 218
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

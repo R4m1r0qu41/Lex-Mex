@@ -1,0 +1,25 @@
+{
+  "slug": "lffmaa",
+  "instrument_id": "urn:lex-mx:federal:statute:lffmaa",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal",
+  "short_name": "LFFMAA",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFMAA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lffmaa.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1988-01-26",
+  "expected_articles": 45,
+  "expected_transitories": 3,
+  "allow_article_gaps": true,
+  "formal_publication_urls": {},
+  "main_document_stop_markers": [
+    "México, D. F., a 23 de diciembre de 1987"
+  ],
+  "count_baseline": {
+    "provenance": "audited",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-10-09T04:22:58.736305+00:00"
+  }
+}

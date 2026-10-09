@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lffmaa",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFMAA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lffmaa.htm",
+  "retrieved_at": "2026-10-08T08:21:34.371923Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 430121,
+  "etag": "\"69029-5f8289358bd80\"",
+  "last_modified": "Fri, 31 Mar 2023 02:00:38 GMT",
+  "source_sha256": "31d853037c0fe8c97535b508ed8a5366dfd6c83e53b6b32967c816554504dbaa",
+  "extracted_text_sha256": "64fc3889e33545fa017fa5b0e9ffba45a17dae1c203de453e5859df98d7a4e9d",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "e3dfcbd891e4b4f858d0bc8236abb4628cb2a65b"
+}
