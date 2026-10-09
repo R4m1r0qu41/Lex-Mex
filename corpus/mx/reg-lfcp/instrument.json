@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lfcp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Federal de Correduría Pública",
+  "short_name": "REG-LFCP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1993-06-04",
+  "latest_reform_date": "2012-11-26",
+  "retrieved_at": "2026-10-09T04:23:02.661674Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCP.pdf",
+  "source_sha256": "43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f",
+  "extracted_text_sha256": "95353207db72ed124335d7e20ca2621a5530000a2ec9686229f96daaada2f8ee",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

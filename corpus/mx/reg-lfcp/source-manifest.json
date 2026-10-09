@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCP.pdf",
+  "retrieved_at": "2026-10-09T04:23:02.661674Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 456094,
+  "etag": "\"6f59e-563b4877e0780\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:02 GMT",
+  "source_sha256": "43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f",
+  "extracted_text_sha256": "95353207db72ed124335d7e20ca2621a5530000a2ec9686229f96daaada2f8ee",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "e3dfcbd891e4b4f858d0bc8236abb4628cb2a65b"
+}
