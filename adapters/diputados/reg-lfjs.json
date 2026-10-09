@@ -1,0 +1,22 @@
+{
+  "slug": "reg-lfjs",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfjs",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley Federal de Juegos y Sorteos",
+  "short_name": "REG-LFJS",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFJS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFJS.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2004-09-17",
+  "expected_articles": 158,
+  "expected_transitories": 7,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {},
+  "count_baseline": {
+    "provenance": "audited",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-10-09T04:25:13.932392+00:00"
+  }
+}
