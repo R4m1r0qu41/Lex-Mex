@@ -155,6 +155,26 @@ pub(crate) fn parse_transitory_start<'a>(
     None
 }
 
+/// Bare numeric-ordinal transitory heading used by some original statutes
+/// (`1o.- La presente Ley entrará en vigor…`, LFJS). Only the strict `.-`
+/// separator is accepted so a body line that merely begins with a numbered
+/// ordinal (`1o. de enero…`) is never read as a heading. Callers must apply
+/// this only inside an established transitory section.
+pub(crate) fn parse_numeric_transitory_start(block: &str) -> Option<(&str, &str)> {
+    let digits = block.bytes().take_while(u8::is_ascii_digit).count();
+    if digits == 0 || digits > 2 {
+        return None;
+    }
+    let rest = &block[digits..];
+    let marker = rest
+        .chars()
+        .next()
+        .filter(|c| matches!(c, 'o' | 'º' | '°'))?;
+    let end = digits + marker.len_utf8();
+    let body = block[end..].strip_prefix(".-")?;
+    Some((&block[..end], body.trim()))
+}
+
 /// A single-letter article suffix in a heading that the base-number
 /// grammar does not fold in itself, either space-separated
 /// (`Artículo 2448 A.-`) or written past the separator after a low ordinal
@@ -903,7 +923,9 @@ pub fn parse_diputados(
                 pending_overall_decree_transitory = true;
                 continue;
             }
-            if let Some((ordinal, body)) = parse_transitory_start(&block, &ordinals) {
+            if let Some((ordinal, body)) = parse_transitory_start(&block, &ordinals)
+                .or_else(|| parse_numeric_transitory_start(&block))
+            {
                 // A repeated ordinal starts a reform decree's transitorios
                 // (unmarked by a header); the instrument's own transitorios
                 // are unique, so stop rather than duplicate them.
@@ -1794,6 +1816,42 @@ mod tests {
                 .iter()
                 .all(|provision| !provision.text.contains("REGLAMENTO DE LA LEY GENERAL"))
         );
+    }
+
+    #[test]
+    fn numeric_original_transitories_are_parsed_in_the_transitory_section() {
+        let source = "LEY DE PRUEBA\n\nARTICULO 1o.- Primer artículo.\n\nARTICULO 2o.- Segundo artículo.\n\nTRANSITORIOS:\n\n1o.- La presente Ley entrará en vigor cinco días después de su publicación.\n\n2o.- Se derogan las disposiciones que se opongan a la presente.\n";
+        let options = options("urn:lex-mx:federal:statute:sample", "Ley de Prueba");
+        let document = parse_diputados(
+            source,
+            &options,
+            NaiveDate::from_ymd_opt(1947, 12, 31).expect("valid date"),
+        )
+        .expect("numeric transitory fixture parses");
+        let transitories: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|provision| provision.provision_type == ProvisionType::Transitory)
+            .collect();
+        assert_eq!(transitories.len(), 2);
+        assert_eq!(transitories[0].number, "1o");
+        assert_eq!(
+            transitories[1].text,
+            "Se derogan las disposiciones que se opongan a la presente."
+        );
+    }
+
+    #[test]
+    fn numeric_transitory_heading_requires_dot_dash_separator() {
+        assert_eq!(
+            super::parse_numeric_transitory_start("5o.- Se concede un plazo."),
+            Some(("5o", "Se concede un plazo."))
+        );
+        assert_eq!(
+            super::parse_numeric_transitory_start("1o. de enero de 1948 entra en vigor."),
+            None
+        );
+        assert_eq!(super::parse_numeric_transitory_start("100o.- texto"), None);
     }
 
     #[test]

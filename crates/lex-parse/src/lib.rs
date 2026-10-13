@@ -1662,14 +1662,14 @@ fn validate_provisions(
                 if expectations.allow_article_gaps {
                     validate_article_order_by_label(provision, &mut previous_article, issues);
                 } else {
-                    match provision.number.parse::<u32>() {
-                        Ok(number) if number == expected_number => expected_number += 1,
-                        Ok(number) => issues.push(error(
+                    match plain_article_number(&provision.number) {
+                        Some(number) if number == expected_number => expected_number += 1,
+                        Some(number) => issues.push(error(
                             "article_order",
                             format!("expected article {expected_number}, found {number}"),
                             Some(provision.id.clone()),
                         )),
-                        Err(_) => issues.push(ValidationIssue {
+                        None => issues.push(ValidationIssue {
                             severity: Severity::Warning,
                             code: "non_numeric_article".to_owned(),
                             message: "article suffix requires ordering review".to_owned(),
@@ -1703,6 +1703,17 @@ fn validate_provisions(
             ProvisionType::Transitory => {}
         }
     }
+}
+
+/// Numeric value of a plain article number, accepting the bare ordinal
+/// marker official texts print on articles 1–9 (`1o`, `9o`). Suffixed or
+/// otherwise non-numeric labels still return `None` and keep their warning.
+fn plain_article_number(number: &str) -> Option<u32> {
+    let digits = number.strip_suffix('o').unwrap_or(number);
+    if digits.is_empty() || !digits.bytes().all(|byte| byte.is_ascii_digit()) {
+        return None;
+    }
+    digits.parse().ok()
 }
 
 fn contains_page_header_contamination(text: &str) -> bool {
@@ -2197,6 +2208,16 @@ pub(crate) fn reform_evidence_item(
 
 #[cfg(test)]
 mod tests {
+    #[test]
+    fn plain_article_number_reads_bare_ordinals_only() {
+        assert_eq!(super::plain_article_number("7"), Some(7));
+        assert_eq!(super::plain_article_number("9o"), Some(9));
+        assert_eq!(super::plain_article_number("10"), Some(10));
+        assert_eq!(super::plain_article_number("1o-A"), None);
+        assert_eq!(super::plain_article_number("o"), None);
+        assert_eq!(super::plain_article_number("12-Bis"), None);
+    }
+
     fn repeal_fixture_provision(
         status: TemporalStatus,
         repeals: Vec<lex_core::ProvisionRepeal>,
