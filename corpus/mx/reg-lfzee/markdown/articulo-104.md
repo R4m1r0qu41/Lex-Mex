@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lfzee:article:104
+instrument_id: urn:lex-mx:federal:regulation:reg-lfzee
+instrument: REG-LFZEE
+name: "Reglamento de la Ley Federal de Zonas Económicas Especiales"
+provision_type: article
+number: "104"
+aliases: ["REG-LFZEE — Artículo 104"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFZEE_290917.pdf
+source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
+---
+
+> Capítulo CUARTO · Sección XIII
+
+# Artículo 104
+
+El [Administrador Integral](articulo-4.md) revisará el [Plan Maestro de la Zona](articulo-4.md) cada cinco años, cuando menos y, en caso de ser necesario, podrá ser modificado, previa aprobación de la [Autoridad Federal](articulo-4.md).

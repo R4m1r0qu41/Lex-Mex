@@ -1,0 +1,25 @@
+{
+  "slug": "lfzee",
+  "instrument_id": "urn:lex-mx:federal:statute:lfzee",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "main_document_stop_markers": [
+    "Ciudad de México, a 27 de abril de 2016"
+  ],
+  "official_title": "Ley Federal de Zonas Económicas Especiales",
+  "short_name": "LFZEE",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfzee.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2016-06-01",
+  "expected_articles": 50,
+  "expected_transitories": 4,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-10-13T17:38:58Z"
+  },
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

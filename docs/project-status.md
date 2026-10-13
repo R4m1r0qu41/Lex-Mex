@@ -1,13 +1,31 @@
 # Lex-Mex Project Status
 
-- **Status date:** 2026-08-24
+- **Status date:** 2026-10-09
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed instruments:** 242 (210 federal corpus instruments plus 32 NOMs)
-- **Active ingestion batch:** EC1 competencia/inversión — all six instruments structurally admitted
-- **Next checkpoint:** normalize and admit EC2 (`cl2_EC2_empresas_mipyme`)
+- **Committed instruments:** 257; EC2/EC3 data checkpoint `ebe688df2`
+- **Working-tree instruments:** 262; LFJS and four EC4 additions uncommitted (257 committed)
+- **Active ingestion batch:** EC3 complete; EC4 four admitted, `lfiiedb` held
+- **Next checkpoint:** commit review; `lfiiedb` modeling decision; reverse links
 - **Current legal reviewer:** JRH
 
-## Current state
+## Current integration checkpoint
+
+Fourteen source-reviewed instruments add 940 articles and 68 original transitories.
+Audited counts, official-title aliases and bounded graph checks are complete.
+All 257 stored validation reports are valid; full required Rust gate passed on
+integrated main. Existing canonical text and legal-review records were preserved.
+Local commit series recorded in the integration report; no push, deployment or
+temporal model run. The public reader still uses
+its separate four-instrument release. See
+[`ec2-ec3-integration-2026-10-09.md`](ec2-ec3-integration-2026-10-09.md).
+
+## Historical project snapshot (2026-08-24)
+
+The remainder below preserves the August narrative and totals. It is historical;
+October changes and current pending work are recorded in the task plans and
+integration report above.
+
+## Historical architecture and corpus state
 
 Lex-Mex is a provenance-aware compiler and temporal-analysis pipeline for
 Mexican federal legal materials. Rust owns acquisition metadata, canonical
@@ -19,7 +37,7 @@ The committed corpus contains official consolidated texts from Cámara de
 Diputados and CNBV sources. Obsidian is a presentation target only; generated
 content is confined to `Corpus/<instrument>/`.
 
-Current committed-corpus totals:
+2026-08-24 committed-corpus totals (historical):
 
 | Artifact | Count |
 |---|---:|

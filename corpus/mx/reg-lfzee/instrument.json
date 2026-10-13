@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lfzee",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Federal de Zonas Económicas Especiales",
+  "short_name": "REG-LFZEE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2016-06-30",
+  "latest_reform_date": "2017-09-29",
+  "retrieved_at": "2026-10-13T17:39:01.892187Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFZEE_290917.pdf",
+  "source_sha256": "b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9",
+  "extracted_text_sha256": "e3ec01bd13077b6aa6ee4fa3be8a0b769933c40300835d64b5ad147c05fcc981",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

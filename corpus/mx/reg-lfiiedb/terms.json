@@ -1,0 +1,112 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:constancia",
+    "term": "Constancia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
+    "fraction": "III",
+    "start_char": 548,
+    "end_char": 680,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:contratacion-de-largo-plazo",
+    "term": "Contratación de Largo Plazo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
+    "fraction": "IV",
+    "start_char": 680,
+    "end_char": 1212,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "term": "Desarrollo con Bienestar",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
+    "fraction": "VI",
+    "start_char": 1212,
+    "end_char": 2217,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:dictamen-tecnico-consolidado",
+    "term": "Dictamen técnico consolidado",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
+    "fraction": "VIII",
+    "start_char": 2217,
+    "end_char": 2611,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:fuente-de-pago",
+    "term": "Fuente de pago",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
+    "fraction": "IX",
+    "start_char": 2611,
+    "end_char": 3363,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:modelo-economico-financiero",
+    "term": "Modelo Económico-Financiero",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
+    "fraction": "XI",
+    "start_char": 3363,
+    "end_char": 3651,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:obligaciones-contingentes",
+    "term": "Obligaciones Contingentes",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
+    "fraction": "XII",
+    "start_char": 3651,
+    "end_char": 3885,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:obligaciones-de-pago",
+    "term": "Obligaciones de Pago",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
+    "fraction": "XIII",
+    "start_char": 3885,
+    "end_char": 4213,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:pasivo-contingente",
+    "term": "Pasivo Contingente",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
+    "fraction": "XIV",
+    "start_char": 4213,
+    "end_char": 4653,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:tasa-interna-de-retorno-(tir)",
+    "term": "Tasa Interna de Retorno (TIR)",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
+    "fraction": "XV",
+    "start_char": 4653,
+    "end_char": 5452,
+    "basis": "express_definition"
+  }
+]

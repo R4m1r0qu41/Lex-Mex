@@ -283,8 +283,23 @@
     "REG-LFPC-ART122": [
       "Reglamento del Artículo 122 de la Ley Federal de Protección al Consumidor"
     ],
+    "LFJS": [
+      "Ley Federal de Juegos y Sorteos"
+    ],
     "REG-LFJS": [
       "Reglamento de la Ley Federal de Juegos y Sorteos"
+    ],
+    "LFZEE": [
+      "Ley Federal de Zonas Económicas Especiales"
+    ],
+    "REG-LFZEE": [
+      "Reglamento de la Ley Federal de Zonas Económicas Especiales"
+    ],
+    "REG-LFIIEDB": [
+      "Reglamento de la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar"
+    ],
+    "LTPCPIMCP": [
+      "Ley para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad"
     ],
     "REG-LFPPI": [
       "Reglamento de la Ley Federal de Protección a la Propiedad Industrial"

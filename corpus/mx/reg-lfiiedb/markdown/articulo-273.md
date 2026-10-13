@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lfiiedb:article:273
+instrument_id: urn:lex-mx:federal:regulation:reg-lfiiedb
+instrument: REG-LFIIEDB
+name: "Reglamento de la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar Nuevo Reglamento"
+provision_type: article
+number: "273"
+aliases: ["REG-LFIIEDB — Artículo 273"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFIIEDB.pdf
+source_sha256: 85d60fd8e0d0d2dac1758f672c5b2200ee6e501eecd8c635b0ac89a93d930b97
+---
+
+> Título DÉCIMO CUARTO · Capítulo XI
+
+# Artículo 273
+
+La celebración, modificación o sustitución de los contratos relevantes que incidan materialmente en la ejecución, financiamiento, continuidad operativa o integridad financiera del Proyecto deberá ser notificada previamente al Interesado contratante, acompañando los términos generales de la operación propuesta, exclusivamente para efectos de control institucional, continuidad del servicio y protección de la Hacienda Pública Federal, sin que dicha notificación constituya por sí misma autorización previa adicional, suspensión automática ni nueva instancia de aprobación no prevista en la Ley o en el presente Reglamento. Para efectos del presente artículo, se entenderá por modificación sustancial aquella que implique alteración relevante del equilibrio financiero del Proyecto, cambio en la fuente de pago, incorporación de garantías nuevas, modificación del beneficiario final o del control efectivo, sustitución de subcontratistas estratégicos, afectación relevante a la continuidad del servicio, incremento significativo de exposición fiscal o cualquier supuesto equivalente que pueda generar riesgos materiales para la Hacienda Pública Federal o comprometer la ejecución del Contrato de Inversión en Infraestructura Estratégica. Las modificaciones operativas ordinarias, ajustes técnicos, adecuaciones de ejecución, actualizaciones contractuales no materiales o sustituciones, que no afecten de manera relevante la estructura financiera, patrimonial o funcional del proyecto, según corresponda, no requerirán nueva dictaminación integral ni procedimientos adicionales distintos a los previstos contractualmente. Los contratos relevantes deberán cumplir en todo momento con los siguientes requisitos: I. Incorporar y reproducir aquellas obligaciones del contrato de inversión estratégica aplicables a dicho subcontrato, incluyendo, entre otros, los estándares de desempeño, los niveles de servicio comprometidos frente al Interesado contratante y las obligaciones en materia de seguridad operacional, ciberseguridad, confidencialidad y acceso a información y auditorías que resulten aplicables; II. Reconocer expresamente los derechos de intervención, continuidad y sustitución en favor del Interesado contratante, incluyendo el derecho a asumir directamente la ejecución del contrato relevante o a designar un sustituto, sin que el subcontratista relevante pueda oponer defensas o excepciones derivadas de su relación con el Contratista, Desarrollador o Proveedor; III. En su caso, cuando involucren la administración, recaudación o custodia de recursos asociados a la operación del Proyecto Procedente, prohibir expresamente cualquier práctica que afecte la integridad del recaudo y establecer la obligación de depositar la totalidad de dichas cantidades y recursos directamente en las cuentas del fideicomiso de proyecto correspondiente, sin deducción, compensación, retención ni afectación de ningún tipo; IV. Prever mecanismos que permitan su terminación anticipada y la sustitución del subcontratista relevante garantizando la continuidad ininterrumpida de la prestación de los servicios al amparo del contrato de inversión estratégica, incluyendo obligaciones de cooperación, transferencia de conocimiento, entrega de documentación técnica y operativa y mantenimiento de certificaciones durante el periodo de transición, y V. Cualesquiera otros requisitos que sean establecidos en términos de los contratos de inversión estratégica.

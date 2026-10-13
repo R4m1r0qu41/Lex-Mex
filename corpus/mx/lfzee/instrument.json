@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfzee",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Zonas Económicas Especiales",
+  "short_name": "LFZEE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2016-06-01",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-10-13T17:38:55.077364Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf",
+  "source_sha256": "a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e",
+  "extracted_text_sha256": "eddc77e7a205071bb91ee1df3df270163b592dd7cfc92f1ebbb0d499c4182b00",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

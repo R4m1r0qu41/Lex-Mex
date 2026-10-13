@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfzee",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfzee.htm",
+  "retrieved_at": "2026-10-13T17:38:55.077364Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 504123,
+  "etag": "\"7b13b-617950e5ff6c0\"",
+  "last_modified": "Fri, 03 May 2024 23:26:59 GMT",
+  "source_sha256": "a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e",
+  "extracted_text_sha256": "eddc77e7a205071bb91ee1df3df270163b592dd7cfc92f1ebbb0d499c4182b00",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "023ed74518f243b89b056963da27169bcdb024e2"
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:ltpcpimcp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTPCPIMCP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltpcpimcp.htm",
+  "retrieved_at": "2026-10-13T17:39:20.056758Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 526127,
+  "etag": "\"8072f-610f60bb9f740\"",
+  "last_modified": "Fri, 09 Feb 2024 17:13:25 GMT",
+  "source_sha256": "55fcd61a87cfde80f0699f50bb45d3ee0a79c461dcb0fc374b9a846125cb491d",
+  "extracted_text_sha256": "ca793e4d095a5cb39c696b079c9a577bdc9f1f7f0df5300774b58fd1cb08a594",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "023ed74518f243b89b056963da27169bcdb024e2"
+}

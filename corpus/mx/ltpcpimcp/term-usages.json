@@ -1,0 +1,551 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:1:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:2:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3:term-usage:25-28",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "span": "Ley",
+    "start_char": 25,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3:term-usage:893-903",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 893,
+    "end_char": 903
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3:term-usage:933-955",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:espacio-publicitario",
+    "span": "Espacios Publicitarios",
+    "start_char": 933,
+    "end_char": 955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3:term-usage:1050-1060",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:publicidad",
+    "span": "Publicidad",
+    "start_char": 1050,
+    "end_char": 1060
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3:term-usage:1330-1340",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:publicidad",
+    "span": "Publicidad",
+    "start_char": 1330,
+    "end_char": 1340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3:term-usage:1826-1829",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "span": "Ley",
+    "start_char": 1826,
+    "end_char": 1829
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3:term-usage:2018-2036",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:publicidad-digital",
+    "span": "Publicidad Digital",
+    "start_char": 2018,
+    "end_char": 2036
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3:term-usage:2051-2069",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:publicidad-digital",
+    "span": "Publicidad Digital",
+    "start_char": 2051,
+    "end_char": 2069
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:4:term-usage:32-54",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:espacio-publicitario",
+    "span": "Espacios Publicitarios",
+    "start_char": 32,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:4:term-usage:80-90",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 80,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:4:term-usage:162-172",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 162,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:4:term-usage:217-239",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:espacio-publicitario",
+    "span": "Espacios Publicitarios",
+    "start_char": 217,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:4:term-usage:289-299",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 289,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:5:term-usage:55-65",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 55,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:5:term-usage:209-219",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 209,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:5:term-usage:374-384",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 374,
+    "end_char": 384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:5:term-usage:389-399",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 389,
+    "end_char": 399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:5:term-usage:556-566",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 556,
+    "end_char": 566
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:5:term-usage:691-702",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciantes",
+    "start_char": 691,
+    "end_char": 702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:6:term-usage:66-88",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:espacio-publicitario",
+    "span": "Espacios Publicitarios",
+    "start_char": 66,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:6:term-usage:105-115",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 105,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:6:term-usage:288-298",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 288,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:6:term-usage:487-509",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:espacio-publicitario",
+    "span": "Espacios Publicitarios",
+    "start_char": 487,
+    "end_char": 509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:6:term-usage:585-607",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:espacio-publicitario",
+    "span": "Espacios Publicitarios",
+    "start_char": 585,
+    "end_char": 607
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:6:term-usage:817-827",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 817,
+    "end_char": 827
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7:term-usage:24-55",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:publicidad-digital-programatica",
+    "span": "Publicidad Digital Programática",
+    "start_char": 24,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7:term-usage:81-91",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 81,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7:term-usage:162-184",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:espacio-publicitario",
+    "span": "Espacios Publicitarios",
+    "start_char": 162,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7:term-usage:207-217",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 207,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7:term-usage:278-300",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:espacio-publicitario",
+    "span": "Espacios Publicitarios",
+    "start_char": 278,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7:term-usage:464-474",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 464,
+    "end_char": 474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7:term-usage:786-796",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 786,
+    "end_char": 796
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7:term-usage:1181-1191",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 1181,
+    "end_char": 1191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7:term-usage:1333-1355",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:espacio-publicitario",
+    "span": "Espacios Publicitarios",
+    "start_char": 1333,
+    "end_char": 1355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7:term-usage:1399-1409",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 1399,
+    "end_char": 1409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:8:term-usage:40-50",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 40,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:9:term-usage:111-114",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "span": "Ley",
+    "start_char": 111,
+    "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:9:term-usage:194-197",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "span": "Ley",
+    "start_char": 194,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10:term-usage:31-34",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "span": "Ley",
+    "start_char": 31,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10:term-usage:159-169",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 159,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10:term-usage:249-252",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "span": "Ley",
+    "start_char": 249,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10:term-usage:299-309",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 299,
+    "end_char": 309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10:term-usage:393-396",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "span": "Ley",
+    "start_char": 393,
+    "end_char": 396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10:term-usage:483-486",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "span": "Ley",
+    "start_char": 483,
+    "end_char": 486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10:term-usage:703-725",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:espacio-publicitario",
+    "span": "Espacios Publicitarios",
+    "start_char": 703,
+    "end_char": 725
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10:term-usage:775-785",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 775,
+    "end_char": 785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10:term-usage:822-832",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 822,
+    "end_char": 832
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10:term-usage:954-964",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 954,
+    "end_char": 964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10:term-usage:1144-1154",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 1144,
+    "end_char": 1154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10:term-usage:1255-1265",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 1255,
+    "end_char": 1265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10:term-usage:1395-1405",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 1395,
+    "end_char": 1405
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10:term-usage:1484-1494",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 1484,
+    "end_char": 1494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10:term-usage:1620-1623",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "span": "Ley",
+    "start_char": 1620,
+    "end_char": 1623
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:11:term-usage:60-63",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:11",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "span": "Ley",
+    "start_char": 60,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:11:term-usage:197-200",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:11",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "span": "Ley",
+    "start_char": 197,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:12:term-usage:59-62",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "span": "Ley",
+    "start_char": 59,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:13:term-usage:46-49",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "span": "Ley",
+    "start_char": 46,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:article:13:term-usage:133-143",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "span": "Anunciante",
+    "start_char": 133,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:transitory:unico:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:transitory:unico",
+    "term_id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  }
+]

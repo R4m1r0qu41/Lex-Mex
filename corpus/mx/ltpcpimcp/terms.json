@@ -1,0 +1,101 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:term:agencia-de-medios-o-agencia",
+    "term": "Agencia de Medios o Agencia",
+    "instrument_id": "urn:lex-mx:federal:statute:ltpcpimcp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 292,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:term:anunciante",
+    "term": "Anunciante",
+    "instrument_id": "urn:lex-mx:federal:statute:ltpcpimcp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "fraction": "II",
+    "start_char": 292,
+    "end_char": 766,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:term:contrato-de-difusion-publicitaria",
+    "term": "Contrato de difusión publicitaria",
+    "instrument_id": "urn:lex-mx:federal:statute:ltpcpimcp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "fraction": "IV",
+    "start_char": 766,
+    "end_char": 958,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:term:espacio-publicitario",
+    "term": "Espacio Publicitario",
+    "instrument_id": "urn:lex-mx:federal:statute:ltpcpimcp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "fraction": "V",
+    "start_char": 958,
+    "end_char": 1217,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:ltpcpimcp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "fraction": "VI",
+    "start_char": 1217,
+    "end_char": 1343,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:term:medio-de-comunicacion-o-medio",
+    "term": "Medio de Comunicación o Medio",
+    "instrument_id": "urn:lex-mx:federal:statute:ltpcpimcp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "fraction": "VII",
+    "start_char": 1343,
+    "end_char": 1619,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:term:publicidad",
+    "term": "Publicidad",
+    "instrument_id": "urn:lex-mx:federal:statute:ltpcpimcp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "fraction": "VIII",
+    "start_char": 1619,
+    "end_char": 1832,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:term:publicidad-digital",
+    "term": "Publicidad Digital",
+    "instrument_id": "urn:lex-mx:federal:statute:ltpcpimcp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "fraction": "IX",
+    "start_char": 1832,
+    "end_char": 2015,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltpcpimcp:term:publicidad-digital-programatica",
+    "term": "Publicidad Digital Programática",
+    "instrument_id": "urn:lex-mx:federal:statute:ltpcpimcp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltpcpimcp:article:3",
+    "fraction": "X",
+    "start_char": 2015,
+    "end_char": 2263,
+    "basis": "express_definition"
+  }
+]

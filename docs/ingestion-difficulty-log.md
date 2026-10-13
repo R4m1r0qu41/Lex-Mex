@@ -7,6 +7,50 @@ close when the plan closes): this log exists so the *same failure class*
 recurring across unrelated batches — NOM standards now, state/municipal
 corpora later — is visible at a glance instead of buried in per-plan prose.
 
+## 2026-10-13 — LFIIEDB nested law in enacting decree (open, held)
+
+- **Instrument:** `lfiiedb`, EC4 (DOF 2026-04-09). Cámara PDF is the whole
+  enacting decree: Artículo Primero expedites the law (141 articles, own
+  `Transitorio Único`), Artículo Segundo reforms the LFPRH by quoting its
+  articles, then a separate decree `Transitorios` section (Primero…).
+- **Failure class:** `nested-law-in-enacting-article` variant. Parser emitted
+  12 "transitories" including the quoted LFPRH article numbers (2, 9 Bis, 16,
+  17, 21, 32, 35 Bis, 50, 54, 108), and missed 9 Bis/35 Bis as articles.
+- **Disposition:** held out of `corpus/` and `adapters/`; blocked in
+  `batches/economy_EC4_zonas_infraestructura.json`.
+- **Open modeling decision (operator/legal):** which provisions are the law's
+  own transitories (the `Único`) versus decree-level transitories (evidence),
+  and whether the quoted LFPRH reform is evidence only. `reg-lfiiedb` was
+  admitted without edges to `lfiiedb`; relink it when the law is admitted.
+
+## 2026-10-13 — LFJS numeric original transitories omitted (resolved)
+
+- **Instrument:** `lfjs`, EC3; 17 articles and five original transitories
+  labeled `1o.` through `5o.`.
+- **Repair:** `parse_numeric_transitory_start` (strict `N o .-` heading, used
+  only inside an established transitory section) with fixtures; the strict
+  article-order validator now reads bare ordinals `1o`–`9o` via
+  `plain_article_number`; adapter stop marker `Fernando Moctezuma S. V. P.`
+  excludes the 1947 signatures/promulgation formula (which otherwise leaked
+  into transitory 5o and produced a spurious CPEUM Article 89 edge).
+- **Side effect:** re-validating `reg-ccomer-mpsc`, `lmccbdc` and
+  `reg-lfif-art95` drops their spurious `non_numeric_article` warnings on
+  plain `1o`–`9o` articles; only `validation.json` changed, canonical text did not.
+- **Result:** 17 articles, 5 transitories, 1 reference, zero issues; admitted.
+
+## 2026-10-13 — EC4 source-boundary repairs (resolved)
+
+- `lfzee`: last original transitory swallowed the 2016 promulgation formula
+  (spurious CPEUM Art. 89 edge); stop marker `Ciudad de México, a 27 de abril de 2016`.
+- `ltpcpimcp`: source appends signatures, promulgation and the SCJN
+  Controversia Constitucional 94/2021 resolutivos, which parsed as three
+  transitories; stop marker `Ciudad de México, a 30 de abril de 2021`. **Legal
+  note:** the Cámara header states the decree was declared invalid by SCJN
+  (notified 2023-06-12, DOF 2023-12-22). Structural ingestion only; its
+  invalidity is a legal-review/temporal matter for JRH, not resolved here.
+- `reg-lfiiedb`: two-line running title leaked into provisions and tripped the
+  furniture gate; fixed with two exact `header_lines` in its adapter.
+
 ## Policy (set 2026-07-28)
 
 When an instrument being ingested hits a structural difficulty that isn't a
@@ -926,7 +970,6 @@ gains the `26-L` / `26-LL` / `26-M` / `26-Ñ` run; tests
 Status: **admitted.** `lieps` validates clean — 70 articles including the
 full `26`…`26-P` run, 14 transitories, 124 references, 0 unresolved — with
 the reviewed `allow_article_gaps: true` setting for its ordinal-mark case.
-
 
 ### temporal-derive — deterministic article in-force triage — landed 2026-08-24
 

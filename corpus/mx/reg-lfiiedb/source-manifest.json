@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfiiedb",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFIIEDB.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFIIEDB.pdf",
+  "retrieved_at": "2026-10-13T17:39:09.458466Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1177132,
+  "etag": "\"11f62c-65d306bb373c0\"",
+  "last_modified": "Tue, 06 Oct 2026 18:46:47 GMT",
+  "source_sha256": "85d60fd8e0d0d2dac1758f672c5b2200ee6e501eecd8c635b0ac89a93d930b97",
+  "extracted_text_sha256": "fb049cd3e8460af062d01e99cfeccea58564042611f773f039b86236a99e1706",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "023ed74518f243b89b056963da27169bcdb024e2"
+}

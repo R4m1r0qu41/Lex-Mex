@@ -171,15 +171,25 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-EC2 is normalized in `batches/economy_EC2_empresas_mipyme.json`.
-LCEC has completed provisional inspection, source-boundary correction, baseline
-freezing, reverse linking, validation, and Markdown export with zero issues.
-The LCEC checkpoint includes the EC2 manifest, adapter, canonical corpus,
-Markdown, and manifest inventory count update. The next action is to
-provisionally process `reg-lcec`. The remaining eight EC2 instruments are not yet ingested.
-Temporal model analysis and human legal review remain separate workflows.
+Review and commit (operator authorization needed) the 2026-10-13 working-tree
+changes: LFJS repair/admission and EC4 (four admitted, `lfiiedb` held). Then
+decide the `lfiiedb` modeling question and run bounded reverse linking for the
+five new instruments. Details: `docs/ingestion-difficulty-log.md`.
 
 ## Progress
+
+- [x] (2026-10-13) Repaired the LFJS numeric-transitory defect (parser + validator + fixtures) and admitted `lfjs` (17 articles, 5 transitories, 1 reference). Normalized EC4: admitted `lfzee` (50/4/39 refs), `reg-lfzee` (146/4/64), `reg-lfiiedb` (320/12/39), `ltpcpimcp` (13/1/6) with audited baselines; `lfiiedb` held (nested law in enacting decree). Working tree 262 instruments, uncommitted; required gate passed (fmt, clippy, 164+ tests, lritf, ifpe-dcg-2021). No commit/push; no reverse relinking yet; no temporal/legal review.
+
+- [x] (2026-10-09) Operator authorized local commits. Support `1bac29446`,
+  fourteen separate instrument commits through `ebe688df2`, Codex companion
+  `023ed7451`. Corpus 257 committed. Required gate passed before commits on
+  unchanged code/data; staged byte/diff checks passed. No push/deployment.
+
+- [x] (2026-10-09) Applied fourteen reviewed EC2/EC3 instruments to main's working
+  tree at e3dfcbd89: 940 articles/68 original transitories/194 references. Audited
+  count baselines and 14 official-title aliases; full required gate and 21 bounded
+  validation/export checks pass. Main holds 257 instruments, 243 committed. LFJS
+  held for missing five numeric transitories. No staged files, commit or push.
 
 - [x] (2026-10-06 18:11Z) Normalized all nine prepared EC2 entries (none previously present). Ingested LCEC: 45 articles, 8 original transitories, 23 references, 12 terms with 217 usages, 2 reform-transitory evidence records. An exact adapter stop marker excludes the 2004 congressional signatures and promulgation apparatus; source and extracted hashes stayed identical across reruns. Frozen baseline, bounded closure, and Markdown export passed with zero validation issues. All five required repository checks passed (193 workspace tests). Committed at `8031ea11`; no temporal model or legal-review resolution ran.
 

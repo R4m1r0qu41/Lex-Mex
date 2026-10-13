@@ -1,0 +1,1298 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:1:term-usage:202-226",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 202,
+    "end_char": 226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:1:term-usage:325-349",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 325,
+    "end_char": 349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2:term-usage:3141-3165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 3141,
+    "end_char": 3165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2:term-usage:3540-3564",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 3540,
+    "end_char": 3564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2:term-usage:4480-4504",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 4480,
+    "end_char": 4504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:5:term-usage:1898-1918",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:obligaciones-de-pago",
+    "span": "Obligaciones de Pago",
+    "start_char": 1898,
+    "end_char": 1918
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:5:term-usage:1921-1941",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:pasivo-contingente",
+    "span": "Pasivos Contingentes",
+    "start_char": 1921,
+    "end_char": 1941
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:6:term-usage:476-496",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:pasivo-contingente",
+    "span": "Pasivos Contingentes",
+    "start_char": 476,
+    "end_char": 496
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:7:term-usage:380-404",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 380,
+    "end_char": 404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:8:term-usage:1273-1293",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:obligaciones-de-pago",
+    "span": "Obligaciones de Pago",
+    "start_char": 1273,
+    "end_char": 1293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:8:term-usage:1336-1356",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:pasivo-contingente",
+    "span": "Pasivos Contingentes",
+    "start_char": 1336,
+    "end_char": 1356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:9:term-usage:328-348",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:obligaciones-de-pago",
+    "span": "Obligaciones de Pago",
+    "start_char": 328,
+    "end_char": 348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:9:term-usage:362-382",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:pasivo-contingente",
+    "span": "Pasivos Contingentes",
+    "start_char": 362,
+    "end_char": 382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:10:term-usage:323-343",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:obligaciones-de-pago",
+    "span": "Obligaciones de Pago",
+    "start_char": 323,
+    "end_char": 343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:10:term-usage:374-394",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:pasivo-contingente",
+    "span": "Pasivos Contingentes",
+    "start_char": 374,
+    "end_char": 394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:10:term-usage:523-543",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:obligaciones-de-pago",
+    "span": "Obligaciones de Pago",
+    "start_char": 523,
+    "end_char": 543
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:10:term-usage:1266-1286",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:obligaciones-de-pago",
+    "span": "Obligaciones de Pago",
+    "start_char": 1266,
+    "end_char": 1286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:10:term-usage:1308-1328",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:pasivo-contingente",
+    "span": "Pasivos Contingentes",
+    "start_char": 1308,
+    "end_char": 1328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:10:term-usage:1824-1844",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:obligaciones-de-pago",
+    "span": "Obligaciones de Pago",
+    "start_char": 1824,
+    "end_char": 1844
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:10:term-usage:1927-1947",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:pasivo-contingente",
+    "span": "Pasivos Contingentes",
+    "start_char": 1927,
+    "end_char": 1947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:11:term-usage:344-364",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:obligaciones-de-pago",
+    "span": "Obligaciones de Pago",
+    "start_char": 344,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:11:term-usage:473-493",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:pasivo-contingente",
+    "span": "Pasivos Contingentes",
+    "start_char": 473,
+    "end_char": 493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:13:term-usage:179-199",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:obligaciones-de-pago",
+    "span": "Obligaciones de Pago",
+    "start_char": 179,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:13:term-usage:202-222",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:pasivo-contingente",
+    "span": "Pasivos Contingentes",
+    "start_char": 202,
+    "end_char": 222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:15:term-usage:130-150",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:obligaciones-de-pago",
+    "span": "Obligaciones de Pago",
+    "start_char": 130,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:16:term-usage:150-174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 150,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:16:term-usage:448-468",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:obligaciones-de-pago",
+    "span": "Obligaciones de Pago",
+    "start_char": 448,
+    "end_char": 468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:16:term-usage:689-709",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:obligaciones-de-pago",
+    "span": "Obligaciones de Pago",
+    "start_char": 689,
+    "end_char": 709
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:17:term-usage:271-295",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 271,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:17:term-usage:1296-1320",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1296,
+    "end_char": 1320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:19:term-usage:291-315",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 291,
+    "end_char": 315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:21:term-usage:233-257",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 233,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:21:term-usage:861-885",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 861,
+    "end_char": 885
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:25:term-usage:1604-1618",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:fuente-de-pago",
+    "span": "Fuente de pago",
+    "start_char": 1604,
+    "end_char": 1618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:26:term-usage:256-280",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 256,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:27:term-usage:651-675",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 651,
+    "end_char": 675
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:27:term-usage:812-836",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 812,
+    "end_char": 836
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:27:term-usage:1197-1221",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1197,
+    "end_char": 1221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:28:term-usage:478-502",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 478,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:29:term-usage:190-214",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 190,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:32:term-usage:220-244",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 220,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:33:term-usage:300-324",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 300,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:35:term-usage:41-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 41,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:35:term-usage:580-604",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 580,
+    "end_char": 604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:35:term-usage:2261-2285",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 2261,
+    "end_char": 2285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:36:term-usage:61-85",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 61,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:37:term-usage:990-1014",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 990,
+    "end_char": 1014
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:38:term-usage:119-143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 119,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:38:term-usage:541-565",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 541,
+    "end_char": 565
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:38:term-usage:1354-1378",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1354,
+    "end_char": 1378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:39:term-usage:1036-1060",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1036,
+    "end_char": 1060
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:40:term-usage:22-46",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 22,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:40:term-usage:1020-1044",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1020,
+    "end_char": 1044
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:41:term-usage:77-101",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 77,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:41:term-usage:405-429",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 405,
+    "end_char": 429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:41:term-usage:1863-1883",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:pasivo-contingente",
+    "span": "Pasivos Contingentes",
+    "start_char": 1863,
+    "end_char": 1883
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:43:term-usage:22-46",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 22,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:44:term-usage:597-621",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 597,
+    "end_char": 621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:45:term-usage:25-49",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 25,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:45:term-usage:693-717",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 693,
+    "end_char": 717
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:45:term-usage:1485-1505",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:pasivo-contingente",
+    "span": "Pasivos Contingentes",
+    "start_char": 1485,
+    "end_char": 1505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:45:term-usage:1741-1761",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:pasivo-contingente",
+    "span": "Pasivos Contingentes",
+    "start_char": 1741,
+    "end_char": 1761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:46:term-usage:826-846",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:pasivo-contingente",
+    "span": "Pasivos Contingentes",
+    "start_char": 826,
+    "end_char": 846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:47:term-usage:339-363",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 339,
+    "end_char": 363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:54:term-usage:243-267",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 243,
+    "end_char": 267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:55:term-usage:299-323",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 299,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:62:term-usage:435-459",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 435,
+    "end_char": 459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:65:term-usage:167-191",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 167,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:66:term-usage:163-187",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 163,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:66:term-usage:445-469",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 445,
+    "end_char": 469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:68:term-usage:138-162",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 138,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:70:term-usage:130-154",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 130,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:74:term-usage:277-301",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 277,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:76:term-usage:301-325",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 301,
+    "end_char": 325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:77:term-usage:1677-1701",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1677,
+    "end_char": 1701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:79:term-usage:362-386",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 362,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:83:term-usage:917-941",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 917,
+    "end_char": 941
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:85:term-usage:236-260",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 236,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:86:term-usage:460-484",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 460,
+    "end_char": 484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:87:term-usage:275-299",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 275,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:89:term-usage:1609-1633",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:89",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1609,
+    "end_char": 1633
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:90:term-usage:940-964",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 940,
+    "end_char": 964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:91:term-usage:884-908",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:91",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 884,
+    "end_char": 908
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:92:term-usage:60-84",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 60,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:95:term-usage:27-51",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 27,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:120:term-usage:113-137",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 113,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:123:term-usage:74-98",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 74,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:124:term-usage:80-104",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:124",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 80,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:125:term-usage:89-113",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 89,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:129:term-usage:230-254",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 230,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:131:term-usage:131-155",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 131,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:138:term-usage:51-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 51,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:139:term-usage:122-146",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:139",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 122,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:151:term-usage:236-260",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:151",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 236,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:152:term-usage:1411-1435",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:152",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1411,
+    "end_char": 1435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:156:term-usage:240-264",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:156",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 240,
+    "end_char": 264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:157:term-usage:874-898",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:157",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 874,
+    "end_char": 898
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:159:term-usage:1480-1504",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:159",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1480,
+    "end_char": 1504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:163:term-usage:286-310",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:163",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 286,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:169:term-usage:697-721",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:169",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 697,
+    "end_char": 721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:170:term-usage:852-876",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:170",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 852,
+    "end_char": 876
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:171:term-usage:169-193",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:171",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 169,
+    "end_char": 193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:174:term-usage:168-192",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:174",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 168,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:176:term-usage:793-817",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:176",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 793,
+    "end_char": 817
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:177:term-usage:1665-1689",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1665,
+    "end_char": 1689
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:178:term-usage:366-390",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:178",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 366,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:185:term-usage:168-192",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:185",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 168,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:187:term-usage:302-326",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:187",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 302,
+    "end_char": 326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:187:term-usage:478-502",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:187",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 478,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:192:term-usage:1034-1058",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:192",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1034,
+    "end_char": 1058
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:226:term-usage:56-80",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:226",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 56,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:235:term-usage:1156-1166",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:235",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:constancia",
+    "span": "Constancia",
+    "start_char": 1156,
+    "end_char": 1166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:239:term-usage:4-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:239",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:constancia",
+    "span": "Constancias",
+    "start_char": 4,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:239:term-usage:1072-1083",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:239",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:constancia",
+    "span": "Constancias",
+    "start_char": 1072,
+    "end_char": 1083
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:240:term-usage:366-376",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:240",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:constancia",
+    "span": "Constancia",
+    "start_char": 366,
+    "end_char": 376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:241:term-usage:1082-1093",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:241",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:constancia",
+    "span": "Constancias",
+    "start_char": 1082,
+    "end_char": 1093
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:242:term-usage:32-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:242",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:constancia",
+    "span": "Constancias",
+    "start_char": 32,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:284:term-usage:248-272",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:284",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 248,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:285:term-usage:184-208",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:285",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 184,
+    "end_char": 208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:288:term-usage:295-319",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:288",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 295,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:290:term-usage:182-206",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:290",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 182,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:293:term-usage:898-922",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:293",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 898,
+    "end_char": 922
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:primero:term-usage:929-953",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:primero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 929,
+    "end_char": 953
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:segundo:term-usage:682-706",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 682,
+    "end_char": 706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:segundo:term-usage:1327-1351",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1327,
+    "end_char": 1351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:segundo:term-usage:1610-1634",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1610,
+    "end_char": 1634
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:tercero:term-usage:101-125",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 101,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:cuarto:term-usage:101-125",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 101,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:cuarto:term-usage:1275-1299",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1275,
+    "end_char": 1299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:quinto:term-usage:354-378",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 354,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:quinto:term-usage:628-652",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 628,
+    "end_char": 652
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:quinto:term-usage:775-799",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 775,
+    "end_char": 799
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:quinto:term-usage:1021-1045",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1021,
+    "end_char": 1045
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:sexto:term-usage:131-155",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 131,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:septimo:term-usage:95-119",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 95,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:septimo:term-usage:546-570",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 546,
+    "end_char": 570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:octavo:term-usage:112-136",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 112,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:octavo:term-usage:625-649",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 625,
+    "end_char": 649
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:octavo:term-usage:1321-1345",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1321,
+    "end_char": 1345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:noveno:term-usage:289-313",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 289,
+    "end_char": 313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:decimo:term-usage:95-119",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 95,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:decimo:term-usage:1446-1470",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1446,
+    "end_char": 1470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:decimo-primero:term-usage:455-479",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 455,
+    "end_char": 479
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:decimo-primero:term-usage:1145-1169",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
+    "span": "Desarrollo con Bienestar",
+    "start_char": 1145,
+    "end_char": 1169
+  }
+]

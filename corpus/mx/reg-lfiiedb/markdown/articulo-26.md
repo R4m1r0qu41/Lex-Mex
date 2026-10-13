@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lfiiedb:article:26
+instrument_id: urn:lex-mx:federal:regulation:reg-lfiiedb
+instrument: REG-LFIIEDB
+name: "Reglamento de la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar Nuevo Reglamento"
+provision_type: article
+number: "26"
+aliases: ["REG-LFIIEDB — Artículo 26"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFIIEDB.pdf
+source_sha256: 85d60fd8e0d0d2dac1758f672c5b2200ee6e501eecd8c635b0ac89a93d930b97
+---
+
+> Título SEGUNDO · Capítulo V
+
+# Artículo 26
+
+La Secretaría, por conducto de las unidades administrativas competentes, podrá validar la procedencia de utilizar fideicomisos o fondos públicos previamente constituidos como VPE, mediante un procedimiento simplificado, siempre que: I. El Proyecto para el [Desarrollo con Bienestar](articulo-2.md) correspondiente resulte compatible con su objeto, fines y patrimonio; II. No se contravenga su instrumento constitutivo ni su régimen jurídico aplicable; III. Se acredite que su utilización resulta más eficiente, económica y operativamente viable que la constitución de un nuevo VPE; IV. Exista posibilidad jurídica y operativa de realizar los ajustes necesarios en el contrato respectivo y, en su caso, en sus reglas de operación; y V. No se generen riesgos fiscales, presupuestarios, patrimoniales o pasivos contingentes adicionales para la Hacienda Pública Federal que no se encuentren debidamente identificados y mitigados. Cuando se actualicen los supuestos anteriores, bastará la validación técnica, financiera y jurídica correspondiente conforme al ámbito de competencia de las unidades administrativas competentes.
