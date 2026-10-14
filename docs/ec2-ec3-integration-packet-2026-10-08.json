@@ -1,0 +1,4629 @@
+{
+  "base_commit": "e3dfcbd891e4b4f858d0bc8236abb4628cb2a65b",
+  "source_worktree": "/private/tmp/lex-mex-intake-20261008",
+  "destination_repository": "/Users/jr/Dev/lex-mex",
+  "status": "prepared, not applied or committed",
+  "allowed_slugs": [
+    "reg-lcec",
+    "ldcmpme",
+    "reg-ldcmpme",
+    "lffmaa",
+    "liispcen",
+    "lnetb",
+    "lfcc",
+    "reg-lfmn",
+    "lfcp",
+    "reg-lfcp",
+    "reg-ccomer-mpsc",
+    "reg-lfpc-art122",
+    "reg-lfjs",
+    "reg-lfppi"
+  ],
+  "excluded_slugs": [
+    "lfjs"
+  ],
+  "files": [
+    {
+      "path": "adapters/diputados/reg-lcec.json",
+      "sha256": "fc1e99a5b09d1ded0d992692e0a123c311da8b5aa0a82497f52cdd69b6744bcc"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/instrument.json",
+      "sha256": "d0fe02412149dc1a23eadbbda42b6d200928073de29853194112f358accc4ac4"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/README.md",
+      "sha256": "0c66902cf90a7dcd52dc10f376fba6af1d5035f6d7fe32c534bb22740f33d761"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-1.md",
+      "sha256": "31a5bbda4caba062475166850792e7bc050f4661e8c7730b55c68eaba30197bd"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-10.md",
+      "sha256": "6175fd0ca04e64546428fdfc2bd7791743ed4cca0356393658da58fa64149f5d"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-11.md",
+      "sha256": "6feeff72bca09bb25e789f360893dbcc9cdd40bf2a43b52d6595aacc2d1f0dcc"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-12.md",
+      "sha256": "64d34d6c8fd97e8a18e0c049a96177a31099937772bcb32dd6a49d2eb16ced02"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-13.md",
+      "sha256": "bca0e1f12fddaf5da2d463a14c3b3fb7fa2075c1f249f5fd896379b76b98022b"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-14.md",
+      "sha256": "cc1d967432afc988ffed20449bd1dd32b735a22d7eb7f7b757d75333961ebd39"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-15.md",
+      "sha256": "d0ad67bed0b6f8626868abfddb1199d718c99d98564100e8a0e7ea2f0183a166"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-16.md",
+      "sha256": "08e2382e3f583cdebd5e491bc2613bd3824a47654463d9ed229af83e2295db4f"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-17.md",
+      "sha256": "1a8bf187d24fdefcf6ef45772bda3802c4f9a55c0cfc69ea3ef1d1ed2ecf26bb"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-18.md",
+      "sha256": "9f9f209cc4d9e3a96ab4f308bcf77b3b89ee9502318657a0cb810ad4055e1cde"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-19.md",
+      "sha256": "4e705de73ccdab269382e8eb2db972061788461207e35581861753c382dedf3b"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-2.md",
+      "sha256": "157a4d86ef41fc3f1f1c9ce8a15ffeb8b11c0bc1c64dee2bc97193441fe2a56e"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-20.md",
+      "sha256": "161fb2001291f10ca0062c29996cb7d3549ae2c7be0c99289f06bf4f535d4a8d"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-21.md",
+      "sha256": "bd1eef2a45379c843afed392f2910981b17316b9c7427d7732302e53f57912a6"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-22.md",
+      "sha256": "b679c91f0ff65c7815e9e8468738221695916f75b21a79e94300d7e80dbb6d28"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-23.md",
+      "sha256": "a8e7ad20c7bb548045d98114d167646910c881538c9902bf24b9dca512625c31"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-24.md",
+      "sha256": "8ecf0539f2bd2ee8ed27ea3881f14f4575adda2090a4bc697aed108b9bf77d14"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-25.md",
+      "sha256": "7d658994bfecd8845f00c2b878f794b350ed52355705b7105e49ccd79da48781"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-26.md",
+      "sha256": "c2ffb75dac068db09384735792a7c4398cec1d4f0291dd81e55968ebfc5ecf2e"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-27.md",
+      "sha256": "284c597408c8b79445026dace42a1ccddc0e13bab8c1b14e749bd7294898721e"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-28.md",
+      "sha256": "7a4875973d23b18819bbda3e5c44f46d141f86020cb9278d2cecbb6f83400451"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-29.md",
+      "sha256": "16cf9eee1ee891153eb546f3363ed449d42ada3449f9368b798495bbf66b08e8"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-3.md",
+      "sha256": "c3b43e84ad79cac756c81cedb7eab2bb10a0aef635b65578287bdf3968c7ec9a"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-30.md",
+      "sha256": "182ee06059dc521d539e2e6f6b86f778d8f0eaa94c315f616bc9e86b1977b384"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-31.md",
+      "sha256": "7ef80fac1cb2d72c4ae6c786b15e0cedb237f4ea8592a54264ef0ab258373109"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-32.md",
+      "sha256": "6eafc5b547f29c380e0e7a406924d8b52e88bb0d5ea284c12123b60f59e4d5ef"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-33.md",
+      "sha256": "cc45c26fdf1487179489c65484751f7235e57ee8255904a0a37e7c314bb814a9"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-34.md",
+      "sha256": "7937189888d35adc3455d237df3432fb4022b0d10afcb80e5fe53f2fe6a8569b"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-35.md",
+      "sha256": "77b045eda71187267a6f5a4f23e5e6f3d038017058aa320127329de6a6d8e30d"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-36.md",
+      "sha256": "a7db3cded3a7162b3af4b6973286629dc76715cd1fd7c883f9c1fc64deabbcb5"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-37.md",
+      "sha256": "b17a826a219fd0290113aec39fdc23114e415b666136bae15464fe6a092a5a0a"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-38.md",
+      "sha256": "38a476231361d48d1571bd343ff3290bd00d896c292b8e5093c959c18054511f"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-39.md",
+      "sha256": "70d3097ab674e49ac236f20a7c9bab808442c7e755d28b2fe7cffa2c73ba600e"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-4.md",
+      "sha256": "abbf225fd6b7853757262a9a92f1379c18bb19ab3255251b5233a3897071a719"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-40.md",
+      "sha256": "e886de91cb8a043e3dad8cdc727dc0e345097e8e559c84067d08a076c2a559ca"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-41.md",
+      "sha256": "e1a3cb2c48cb9359e06573cb928ebda196c2a83297ec562c906adfb9e0500e39"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-42.md",
+      "sha256": "79116192e38e2f41277f3f0373fe1f23f8c74a437e19c59e52e6910b875b3181"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-43.md",
+      "sha256": "46acb1a6c4b4239a606fa1344c5d20048a4e5c343ba24470a92b281da22391b4"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-44.md",
+      "sha256": "fe163667797b838174a076d2bdb1e4a0ecba761f364f201f5fb88c5570e8206c"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-45.md",
+      "sha256": "0a087fe922be7bc0d222cce6dae0acbc23b83eb78c9985bf6585d32e11810afa"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-46.md",
+      "sha256": "6a39b4441819ac5d8cebeb747e9cfbaff2377ea5a9647dc0b5ddf34c735919be"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-47.md",
+      "sha256": "6734af811c42ebda0e77813bc6432b98a59aa43eb9736e3d35083698d82a6240"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-48.md",
+      "sha256": "2c7aaa686929796c48678c95b6e33742e001e89c68e46d6b8d89b8cf6ed28dea"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-49.md",
+      "sha256": "e863b2802aa375e8aa2484600da2a37bc1c93d387becec031a16484903b9d692"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-5.md",
+      "sha256": "45151d50b4a6a82cabcbdd21dde06549dafb9db3e1002d8b20c2743fdef91d8c"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-50.md",
+      "sha256": "c41e3da38ce0188a29370992649bd02ce91cc36ac995fd1a73db7e63c22733f8"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-6.md",
+      "sha256": "5e8aa1298a40bb6f7e051fb2f03d26a92325b7209709fc7172b158c5560571f4"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-7.md",
+      "sha256": "33f1e82e3790a6a835d93f49e0c714877aecf4f4bcb10267c5a656a1909f950b"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-8.md",
+      "sha256": "85b723de2b0d68695c61b7f975b6c7eb5a21056f1b8fc0ea4180201a57b3216a"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/articulo-9.md",
+      "sha256": "7fb095d23fcc670e56e6f2ffcda78cdbffa9ad04fc3d47b7b3965d3cdfd0aee8"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/transitorio-primero.md",
+      "sha256": "1afa0de0cdc4d5759f3c05219de866b0bceaf434512d81d7d3eedb72d71f56ea"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/markdown/transitorio-segundo.md",
+      "sha256": "2dee58387e9c4c62621c8964e376407753037094afff8c8a277cf32d58e475a2"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/provisions.json",
+      "sha256": "83fd6f73ccd8028d3b7abac5462504f0ff018bacf25d459649d525e04e96377f"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/references.json",
+      "sha256": "18e51044182f1c9f87739aec0d1a4bd394b918ab65c1ba143233676b52311de3"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/reform-temporal-evidence.json",
+      "sha256": "fbf5f09c8ee3586814de010472dadfdf446ed7c5c83c98b3df27dd32af7a4966"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/source-manifest.json",
+      "sha256": "e38e1b3128014b20566d8ad3fed30595c7819683be278fd69da20967c4bee05e"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/term-usages.json",
+      "sha256": "5e6f24f2f5f659f4582c1d58faf12268bb1b4e339348cbf8c68b52b5aa8678af"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/terms.json",
+      "sha256": "881f2004c5708af813458b17e84d1a5ed85017e3b010ebeea89b5c3f075d111a"
+    },
+    {
+      "path": "corpus/mx/reg-lcec/validation.json",
+      "sha256": "05dc3c07248e9af1c02fb04d857a4b9cd5f5044807e6bec95ffeaa0141799571"
+    },
+    {
+      "path": "adapters/diputados/ldcmpme.json",
+      "sha256": "6f444c87e7d5508cc828ba0c873a73b652b297ed2582c578ff27b65e3a560927"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/instrument.json",
+      "sha256": "f0020bd7cfdfc0f48a570f9a4d36e654bae7c49481e84d382b9821d360ddd4c9"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/README.md",
+      "sha256": "eabd4eada0caa9d3bad63f49d40fd244fc3ff0d410d2ff00713716e1c3e75e74"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-1.md",
+      "sha256": "95a2e7c0a7ee5ca0f8e5067486c364381f3c5411f1c8b29c74ac18362aa5c8a1"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-10.md",
+      "sha256": "3217891b51232bb1f21eda03d976e79472dece7895b08688b167e670fe03c827"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-11.md",
+      "sha256": "1fe16693d42d310f1390727b069f837a375bc7efb89a8067a00aac8aac0654ee"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-12.md",
+      "sha256": "962cee35081480dd6a4657b21a3d606e8e5cc187beaeb3f25112834ce8b6e387"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-13.md",
+      "sha256": "6a84b66a9562fd9063c959b6a1f5522cada076b3ff21db8519ef70e7c0294798"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-14.md",
+      "sha256": "e16ef9d470aaa389111ee99c2e20543ff89fef081bb9b6b19a9fd8ce2f0f52bf"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-15.md",
+      "sha256": "f26c050a6e6296c93cd95446f141ac1dd3457b834acb63c03617a217dc7ac96d"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-16.md",
+      "sha256": "608a25d8ed7650e076b264da985cc6017cf9bc180e56d28cd00d20dde80c3818"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-17.md",
+      "sha256": "a13e6986c9780bdc4dfef16bf4741e19991565af8bd95ab3c45b8ffeca1701e0"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-18.md",
+      "sha256": "febd7908247e34994bf942450d44c41778b3152df176e4c0ef482505872c1acd"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-19.md",
+      "sha256": "8069a4a48553aef9b5e3e13550b6e46598a0525a6a89ceb345c0e33dc65faf48"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-2.md",
+      "sha256": "c1ac3a088616d6e667e6fea51c04316397d41c16a3e10a6b9284849153cd5a3a"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-20.md",
+      "sha256": "ae3b75079da7e6f8ba0e6277f844a6bedf2c77fd17bdc05b18008f8c3632d2d9"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-21.md",
+      "sha256": "d872a70f67080b32c9c068a781a2155b650c814eaa8ed0d301b57441c2567af4"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-22.md",
+      "sha256": "2ddf9fe6e73474ca8a49a6cb26c09fc2d12e485e64d6b4f65c8f80779546a040"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-23.md",
+      "sha256": "329c9fc32689d1189233bcd5a82f32e84556da6eb9bae2042eda77b7378bb4ac"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-24.md",
+      "sha256": "20eb12ba9a10ab659e4efd1048a261b3119084262f6460f7e116f8b59639fac1"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-25.md",
+      "sha256": "23071983bdc7419de7e647435fe42e469bc1bcf0d4a81e7386145954c7712d4d"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-26.md",
+      "sha256": "2c2d6e2dc56b129028020944dca80db6897e2b0bc92b7b51d0beed0255d89ccd"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-3.md",
+      "sha256": "69931a6020ce1d580cfd6fc6af01df0cb5067ebd56af1cfc767892711a74a28f"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-4.md",
+      "sha256": "b2cdc750d771036dfede88279c9d3ce8c78600599d1819da8df020c8ff688ce8"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-5.md",
+      "sha256": "b744062ce8e2fd19a46fcec3c639f52d0222b408bdebf9696590a22ebc08d356"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-6.md",
+      "sha256": "f8b5bec9c1a42c85505b09a076738ba24611d8ca11996fc6c5280af5725040a1"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-7.md",
+      "sha256": "f53fec596ce679fe95a163e16df7ead9697c2c04113917ffb2576c8e22e7d997"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-8.md",
+      "sha256": "a1ba31327598b0eb8f3c6f74148d2466b387c7804064cbd924b00fa5ae31c800"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/articulo-9.md",
+      "sha256": "fe4676f2e6f292fd00c2a0a327ed594fb964d3cf3aee6104c2dbd3561775e282"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/transitorio-cuarto.md",
+      "sha256": "e6407bc876d7846e079ac451652a022f751c35f356c0ee42a93a2bdce34f8cfb"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/transitorio-primero.md",
+      "sha256": "cf9197e17eadd124b1e725b4138e57fc56443832b1f2ef685826510f4ce7ff5b"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/transitorio-quinto.md",
+      "sha256": "7a40bc39e4253b6ea75afcc425804a3145b9520fa4834acd90e17a9f14c494d3"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/transitorio-segundo.md",
+      "sha256": "ab7a7e37b5cfbd1b96646b3cd7771d278c444fced665fc5a3066334df649d205"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/transitorio-sexto.md",
+      "sha256": "99e2e2addd2b891d12f7ee20ec6daa3253e0049baef8f39faa11dd26483e1ddb"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/markdown/transitorio-tercero.md",
+      "sha256": "77d9b5244f01ab45598c3bbda4a5f726728b34fc19f7c0ebb5efd70b4921bbb4"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/provisions.json",
+      "sha256": "fc742e05139ae52fda10eccdb02bea0ddba5e25d44472fb63b8c514b467dbb90"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/references.json",
+      "sha256": "fd87b93a253a66e61c2bef69c98d40d682e2d5ad378babf18b6439c9a3cd368f"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/reform-temporal-evidence.json",
+      "sha256": "6a6616e623e26dd5773e2d24e9c6b8b6104e573fa7c41069feb626c6e9c9b9ab"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/source-manifest.json",
+      "sha256": "8407e1ee3f0cd820da5a8773bb1db6cda296f6054f51bd9f9c00bc7d78764410"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/term-usages.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/terms.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/ldcmpme/validation.json",
+      "sha256": "c766be9dfbe7d899e432f1542f22b14b3fe66427bf93b15b973920bcb3d84b66"
+    },
+    {
+      "path": "adapters/diputados/reg-ldcmpme.json",
+      "sha256": "c9ae7645ec911bb8dae7133aca8b0dd2a685f4b5cc28dd40a69e8b7f48ef3d27"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/instrument.json",
+      "sha256": "0c49165be74979611c21bdfd1b42a20181fbddd14a39034211084d7875aa8fec"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/README.md",
+      "sha256": "46cad1c757040c00e070f9df68d3f1201e8e62044253f0c4349d21a6e5927956"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-1.md",
+      "sha256": "6ca240048d1038ac7f1c691ac85484b5af80d0c540fc6f67c865c2d4c052cc89"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-10.md",
+      "sha256": "c64db82f53f8e51ed0db819b414d59471ca2ef31eecd166b4577db79bff905eb"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-11.md",
+      "sha256": "d29c48dabe35c9e3fc994f00be05dd3b51d84534152d6b5b29718c359f0a9c35"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-12.md",
+      "sha256": "e844ed3d0ccb3cc0e1a6f807c4ae3d023d56a55be0d72cd65a4d869df86e23d1"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-13.md",
+      "sha256": "2af051cf58f87aae3708067c3a451450583451978ed5a2d68867d93867d37481"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-14.md",
+      "sha256": "af209d814e51241dd3e74a1ea45ac133cf9750706922219f2d09a471c22d4f61"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-15.md",
+      "sha256": "f8ef6d6729c4a0e0f25f378b6720e683ea7911e776882764d41af59d1d91345a"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-16.md",
+      "sha256": "2081dfddeee4158d94b79015e04517afe71692a3376786f29847befa7388db4f"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-17.md",
+      "sha256": "f4f30305ca6024c9531718fd889cf0015c3ac28b4a148e25d35750d5f45e6cf3"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-18.md",
+      "sha256": "3048965b2e58747b046e1dbf4b5aa227576a33b16d003bbca379f71714cf328e"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-19.md",
+      "sha256": "be1d1c86012e214732711fcbbb6ab7c7e718f037ffb3edd38f6866b0287ad198"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-2.md",
+      "sha256": "479df850da7a3b86f614cb05602afefc54e92ccf2e3d71f5cacf8b1b30933187"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-20.md",
+      "sha256": "c5b1f4fd7910be61b5861eb739376dd949fcd715cdddd3d0ed9f0f53ac949557"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-21.md",
+      "sha256": "0f669b98e11a6409cba53e1d2be754a615bcff33a9c5a02f44a8509d5b67e7ca"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-22.md",
+      "sha256": "9e553ee850a4cd163056207491075490cea446c053e2938340d7f02caa22f792"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-23.md",
+      "sha256": "1a790c1f3a62ffc66c7e848077f858f8062e78a5758d592d3acd616ba5619cf3"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-24.md",
+      "sha256": "551c0cf07961a83ca37509fe5e6204d749b916e48f1a1006cd71258d36335dd5"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-25.md",
+      "sha256": "b95c36c6f6ae102cbed6028782cfc8df6ddb5bc2f8a518bd2c0f27e643a81443"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-26.md",
+      "sha256": "568d950d91dca80f65e6626745c872f241347dbdd564ff14ce164a12b9cfb996"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-27.md",
+      "sha256": "ce897715facbc3d2f8f04a32689a99a2036889ba0ee12efed2fbb37ed990860c"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-28.md",
+      "sha256": "65d6217eaa701752e276fae8d94613f5d36563fc0ed7eaf23e9cbb786a6fca49"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-29.md",
+      "sha256": "83121d0dfab20a5f820580c74c67a1dbdd0d3667244736b42c49d053c380f1d4"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-3.md",
+      "sha256": "61bcba36c01b4ef98889ea4f7502d81f3fffaaec4d7d3e8fa0c7fc3e6129366f"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-30.md",
+      "sha256": "e82c893496c118c0408d5221eda5a52cecc5387fe546d0560fe566a9dbd1ab41"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-31.md",
+      "sha256": "10921c921cf1401703fdbe025fb611f4fe0d87cdffe623f3f69bfef29c7e4edf"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-32.md",
+      "sha256": "3a57fe5ff73b5f85e45f098a5ccc4cd9884a2c130825188bb520cdf4c914290f"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-33.md",
+      "sha256": "5ce331d20455e7adf9167829eaad7a1380fd81bfed0f96fa4755a8c1a6189fe8"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-34.md",
+      "sha256": "dee1942921a2bf585e6cce65eff2330ab9ed77a4bad63a849be96697e2d042df"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-35.md",
+      "sha256": "93ff5c327cbf14a37a7ed510d01a705841b945b62d5a4a9ff0935279a318dead"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-36.md",
+      "sha256": "eae04797c166d4e60acd70745490368d1d461dc7169831a15f94e2fdc8257f9b"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-37.md",
+      "sha256": "3bbb88f6212700650a1761b68badda9137b4e86f3c8286e99ebed0e1ff2fdb23"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-4.md",
+      "sha256": "8cc2e6f21f987a3db2d2420d15bab1871e92f62285fc24ae2583b14fea481a82"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-5.md",
+      "sha256": "172f12965a5587da16b86c46f74eb92a41daa09721c2f2af82600645d51c835d"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-6.md",
+      "sha256": "fb03def5df35f7dc72991d81e998f1ada1473aaf32563e5b45e8cc5cb283ab6a"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-7.md",
+      "sha256": "9c8419e4836410786550a200256cda1ee9da907ac061c78883a1158204424997"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-8.md",
+      "sha256": "a1508e9e6575b0db3de4224cc5c7f0f02ed57c2bc35a46f36f6e554aae6294f9"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-9.md",
+      "sha256": "b125fe244c01d8fb7b0f9cd5bac921456425541f80377519bee27ef4cbd51bb1"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/transitorio-primero.md",
+      "sha256": "74838159d96cbcf2041efa68bf898f054b85c24bf87a0f0b5e5b4eb48817d3a5"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/transitorio-segundo.md",
+      "sha256": "4441b8b9ceafd65f646242dfd39fd3ee3bfce2434723871295ad3ea71a22d242"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/provisions.json",
+      "sha256": "e8002b74b0b2756d19eb9c50197574bc8b942f7e5b3da20b441190f45d4e6be2"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/references.json",
+      "sha256": "39cb3a6013badcf39a968ade73f4090673d5803ec25ec8abe3bf098fae157dbd"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/reform-temporal-evidence.json",
+      "sha256": "1b2f071d3783ef9d54b83765ce2adb913df2ea133fbb65d6ac208145e5b784b2"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/source-manifest.json",
+      "sha256": "62a708c1b7c7f5d58de292d8eefd417ab66f3b5d4bbe7f8c2c5ecebc295d8887"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/term-usages.json",
+      "sha256": "9533d612b23a439576391400e7fdbad161c61aac32fc7ab905b61ecc982f8ca0"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/terms.json",
+      "sha256": "e8428a37861eafb73bd9b5943a6ec9976bf629989ca1169c95bfbc4f9c7ec165"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/validation.json",
+      "sha256": "9d882e3ced3142f3b44a0f651cdf620c4f62cb434145c32fdea2cd76f2188a03"
+    },
+    {
+      "path": "adapters/diputados/lffmaa.json",
+      "sha256": "dc45aabf788fbbea74079e5515c472240ed5c0fb560091ae74f958fe4739a796"
+    },
+    {
+      "path": "corpus/mx/lffmaa/instrument.json",
+      "sha256": "a705a37100aeed7ed1b0391b2ca65de39c1fd093b8760d942c5292eb94058c8a"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/README.md",
+      "sha256": "80638d723149ae54f9fdc4d74f7a7ee2ddddde34d2d0157ef42498a6dec84dad"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-10.md",
+      "sha256": "72894651bb387f392335b1dc222e0139f5eb31436620bd7f25995cb4b419e6c2"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-11.md",
+      "sha256": "9119edc1518b49fe40addf1649097ca344105b5647d8ba1dcd753573018d6177"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-12.md",
+      "sha256": "07e2b2506d67a6dddba8e3de0a7a14ac5105efbe443399bafe29a798758bb7d9"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-13.md",
+      "sha256": "515ce3daeb7d885bf77052a54f806d52fc391327e6ddb48652eb55370549a163"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-14.md",
+      "sha256": "f3fa395241586aebab9a859d7fc116b7cadb75d67edf2765ed04be12ecfdebce"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-15.md",
+      "sha256": "fac966f8ce7d8b1e96786279b2e49610ca1313fbd5cb140c81d6b0e8f733a95c"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-16.md",
+      "sha256": "0c9e02264fe90fd64fcfcfae10b28d951c98b50dac1ec7ad2a24e5510fc2a787"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-17.md",
+      "sha256": "db204672be8cacc842ce6f5443a897352aff587eac71b6459c010c1597a5db8b"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-18.md",
+      "sha256": "280acddab7206d040a608b02b839d75c2cf6eb85db44de4a9eb80a7b76fadf52"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-19.md",
+      "sha256": "cb10adfec4565ab5c978d3f07a2b760e8132fd8aa3cca4d8831fc5beb80bf4a7"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-1o.md",
+      "sha256": "3b14ba303f2a94ef06450eabe16d8ff97b056f319751249c6029750ccadbba37"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-20.md",
+      "sha256": "f3e761fa39cbf82e9f41b1a90dfa7bd2694d923d9c71e0234a6399f82ade0c11"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-21.md",
+      "sha256": "4f2b498c8c27123eeffbad04eeb16df3e42c11d8aa8aa9203219cfa9139da398"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-22.md",
+      "sha256": "f908e2fefc7636cddf41279531d48819e304e7327ed03cedf9d2cebb0eb5e1e7"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-23.md",
+      "sha256": "5f94e4b8b5f5ab701a9b6f04f2ef8d11e8375166a276deb1dd402bbec89eadec"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-24.md",
+      "sha256": "6eb8aa3d504d86a7807e43d16b775b56b9bb324401d7fe167dc58b771a20f7c4"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-25.md",
+      "sha256": "f13218ca77d4bb724f888f7756389d4d706d5e4a0e275543cb4fd611ecc3b698"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-26.md",
+      "sha256": "76b4e7bf52ac3e54a566d67b288b46f242825bd6d0dd872548d101e931298ab2"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-27.md",
+      "sha256": "5ac9d53371a69fd3adb293703e28879fce8b1d89d189f6cd362bd5b990fad236"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-28.md",
+      "sha256": "6a089d8630e65580728a725ccf57b370005ce0cd20e2e246a0e6e97f087c1358"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-29.md",
+      "sha256": "3b1d837a01766cb2c3d7134d4920d8d0e49d8490f94eaf9c3cdf5e1bcd2ac766"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-2o.md",
+      "sha256": "698427926749de95ab3c89c529613d1a6f1f9e3912b9d883f5a8d05b428f6938"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-30.md",
+      "sha256": "3017ee1c51e0b1a36dc80ca3fb2bf2db154b7bbc252b6bdb96eae947efc8be37"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-31.md",
+      "sha256": "6ba6f2f59dc1e24b2ea6b9d516bfafaf8a7b8924d4dc1e3721e32031961f99f2"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-32.md",
+      "sha256": "8e251f7749d9d334aeff42c4c40f4cf51c4325bce49661fdce2b49479307feda"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-33.md",
+      "sha256": "8242a2ceaa58182628afbbb96bc8f894e87d1b3eea13550c48606de919c70cef"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-34.md",
+      "sha256": "d1b061e415410503adb874b44f42556d5c4d4c25c6261c56d99a20f154070cca"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-35.md",
+      "sha256": "8e3e71254bb2815be88f00269f6c9302549f8fda648539c583abdfe073a99476"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-36.md",
+      "sha256": "0c90f3dd59f502b15cb456122da3bc02c19c8b5aad3ab3c6b55d3ddbbe179470"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-37.md",
+      "sha256": "24636280729d9c09220ce92b890962fdd61cf8b8a74f466de2a7161fc29491fa"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-38.md",
+      "sha256": "481495876874f6d4cdd69aac5239c53ee09d820cf7939c8910c8a0f420fdd4cc"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-39.md",
+      "sha256": "f85278670d03a37ca9da8a5e188b0a8bf97c125bdc25225397c6322526cc8d45"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-3o.md",
+      "sha256": "c8bb631e4903b64423435698b12753ff1bbce8da01b302cdb87bed47fdf07857"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-40.md",
+      "sha256": "c1e828d9d0d07b9c62ebf82d00a1ad4340053672efdd7771c01ca19013b14c4f"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-41.md",
+      "sha256": "8b8ad699e134630b076b80a1578c75406e75a3ed9091ca3ddb5e1b2477fed1e0"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-42.md",
+      "sha256": "b0f42c0753bda996d86001cdf407021cf8d0f2628a4b63f33cf5536af2ecc4f2"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-43.md",
+      "sha256": "e523e33da655ac6c60340214f3a059697189cfc904bacc4fed08edc7864d23fc"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-44.md",
+      "sha256": "48687f5336ba479f272ca15ef02278e1a37995611385603e4ca156504a972725"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-45.md",
+      "sha256": "255affe8599c3f9f7c412a8bf65192465622ed554c8daaac08fcedf12ce760cf"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-4o.md",
+      "sha256": "762ee0784ba71adc354a4777be32b09eded9e8584d357836d43167e2c5135afe"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-5o.md",
+      "sha256": "66a87284cc0375d19877d8932da4d624fa8f2708d4f105042b80b174c7578223"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-6o.md",
+      "sha256": "5a2cc5034d458a63503480e160293fa47377a1afa08315f40967d57caf7c2670"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-7o.md",
+      "sha256": "3c268c4a39eaa96e50beee7ea842d60fafc3400914664db118b8939e8fc838a8"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-8o.md",
+      "sha256": "c44c59acc395a103c123c47f50f9c2217c87628eb82a0b479ef6980d5be1e52e"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/articulo-9o.md",
+      "sha256": "784c0863b5e7d1c0bd41422eb9f9572bce2378162c9c319cc2f0bbf2c2ced6d1"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/transitorio-primero.md",
+      "sha256": "8a736d27657679c755224a0c91e62f34e4cda94ce0893195c12257a640bfcc07"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/transitorio-segundo.md",
+      "sha256": "77a4108cf399c207354c12e7ec2af49864726303833ad4647c932f8f8c7c1b9c"
+    },
+    {
+      "path": "corpus/mx/lffmaa/markdown/transitorio-tercero.md",
+      "sha256": "d0aba24ca35b305e97db06ef18c3c77afd54666f6726372e7268c206495e958b"
+    },
+    {
+      "path": "corpus/mx/lffmaa/provisions.json",
+      "sha256": "461060ddc32ac659e378f068007df57ba90724019144ec2b19ef4a228fbe173e"
+    },
+    {
+      "path": "corpus/mx/lffmaa/references.json",
+      "sha256": "c79f160aaa7af2814f40e6d1b7ce5467e3ff4a8423501942061b4c427e18dcd3"
+    },
+    {
+      "path": "corpus/mx/lffmaa/reform-temporal-evidence.json",
+      "sha256": "b81d1ce4412443f336792f9c91af63f31929b01b90ba4de372173a1362366c1e"
+    },
+    {
+      "path": "corpus/mx/lffmaa/source-manifest.json",
+      "sha256": "d6cf4745e1406f8ef73770749590f8f2db4ad73b77e45c35ca4a7168beb17ed6"
+    },
+    {
+      "path": "corpus/mx/lffmaa/term-usages.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/lffmaa/terms.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/lffmaa/validation.json",
+      "sha256": "b4366a56accc74116ded9cef987b0f2e6bbcfe0109ed5c268b7fe22e5f499540"
+    },
+    {
+      "path": "adapters/diputados/liispcen.json",
+      "sha256": "48e91c906689deabdbc7907513ec1ba0a77170388e1ca232e45f4de516cecd1f"
+    },
+    {
+      "path": "corpus/mx/liispcen/instrument.json",
+      "sha256": "92e96f55575dd1659ec909a490fce36e726fe3fe94b1a6b34ccf91d7a3628934"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/README.md",
+      "sha256": "16eb59d342955c8b4b9e8c59f7adb1eb0ffbab269f33a6295260c11ca914e753"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-1.md",
+      "sha256": "426b856dc3935c0fc05edf04aa9f1bddc510dd159cda7dbaa1e49ffb3196c49a"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-10.md",
+      "sha256": "13699ae77bbfec44adc9e2d25dfc6f8e450587b294804208da26e0195b6e3879"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-11.md",
+      "sha256": "381c5c8bd5b6e346e071b2babe6471e65f9730947949f85337b442235000632f"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-12.md",
+      "sha256": "ceadfe82c553ad9992b163388e7fdda43ab78e34e2ad445bbea5b6fc84242372"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-13.md",
+      "sha256": "9d349bdf396c723abc6042f3840b562c12210f6e4235c80ba919e8718c42d7ea"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-14.md",
+      "sha256": "325685869d75888ef1bcd3f04321b1f01e09a4e5dfa7a4f7883754640e08c3ec"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-15.md",
+      "sha256": "6c15699c54f02cd05df9078f7b71b5d758b99dca132f98887ce75581eb3e734a"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-16.md",
+      "sha256": "781b0157a6e3e242de18af7b30db0ecdbb6b2b4001a48e17fbd6bf78684cc364"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-17.md",
+      "sha256": "32c644acc4a237c37fdaf627da02c83b2c141098bc74047857b1bbdb7087f68a"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-18.md",
+      "sha256": "951779fe942dced5b925e9591aa15a0ed10e0910ede1efe76aea57ac49a686e8"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-19.md",
+      "sha256": "8012a8541cbf18446a6b309af48e05710e7fefe2b66ae3cab9f431972d902c96"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-2.md",
+      "sha256": "0af8832813d9dbb5969653d3f6d4da6a77f638c79bf3bb54d55666bc8fe183a1"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-20.md",
+      "sha256": "bfde45abd8ab3e801ce857fc2e66630c9c7b954b02765c8be27393e91db70e0f"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-21.md",
+      "sha256": "ec9118ffc4b55c7093416fc3f51174168a2aee273c05fb25737357dc9b46423c"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-3.md",
+      "sha256": "f5367381661fe435d5c153e70b7642d9b278e6a9d98d0364f9ce7b6e1aa7073e"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-4.md",
+      "sha256": "a156ac61f03069ab33125e46b7f06f5a05cd9d4dcb5fef645bb8d6e837265cab"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-5.md",
+      "sha256": "bb6b1118deac16aa6789ca78bf7f0e16cc9ecdf0624669563cb73fbd41b7334c"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-6.md",
+      "sha256": "26672d17097c33d7682e194775635c1ce66b0d8b1d6c30d83922a997e2a40210"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-7.md",
+      "sha256": "43ce53a893650df61268b1adfe028b0a194bd66b52c72548922ed5af6d5d58e9"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-8.md",
+      "sha256": "f8a5808d24b5d8555da128b66ba314e7d4e0b2f230dd8db0ae2c217800bee73c"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-9.md",
+      "sha256": "d90bac0ef480a5af96e67941717236a823f2acd185d799fee078eca9d3817a66"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/transitorio-cuarto.md",
+      "sha256": "3af5723d48d8c7a0950f2b1a48b35541bb75c532eff39588e6872d2e755a03aa"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/transitorio-primero.md",
+      "sha256": "2224d87328f1ea24f826d55a830f0fa48fbda7f911323a6877367181708908d9"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/transitorio-quinto.md",
+      "sha256": "69440bdcee3839d7323fd9ca7eb573a98e041c4194bdd3ad6bfad5a6358ead0d"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/transitorio-segundo.md",
+      "sha256": "3565f4db4cd2d9e9d8e8a1cf7a9a6d50917078a5711ebffc2c7d97e9c2c5f9d9"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/transitorio-septimo.md",
+      "sha256": "6c37464755998a186d8e631e165efd058e5a1f0649c091abddb4284a283dee1b"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/transitorio-sexto.md",
+      "sha256": "d9e584799c69febdb7e627e76401493f3f38e12176db1d133679231ec3d9110c"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/transitorio-tercero.md",
+      "sha256": "7146991b3112407db0f3249a4fc328ec366681b9c9c767eaf965a5ece598209f"
+    },
+    {
+      "path": "corpus/mx/liispcen/provisions.json",
+      "sha256": "fcca30033f00f665e7cf89e9b8d4b853c76f048238b34182f72d9f6aa221e5d0"
+    },
+    {
+      "path": "corpus/mx/liispcen/references.json",
+      "sha256": "dafc1c2413182729674ddd08d6dfc32fc86f5ea9e0bc6902b4fcc52f56e8b337"
+    },
+    {
+      "path": "corpus/mx/liispcen/reform-temporal-evidence.json",
+      "sha256": "c2e491ba9af76bbec610d26ef1e2e6fc0501d83f9a6372db9ebce238c2b34dd6"
+    },
+    {
+      "path": "corpus/mx/liispcen/source-manifest.json",
+      "sha256": "6ccd95df44b2cc8ff565b449fbe58d6b49b2c5546c7a8669293aa47261f33d92"
+    },
+    {
+      "path": "corpus/mx/liispcen/term-usages.json",
+      "sha256": "0430d919cf3e2ba37026cd1e1f561570137412f521cd0b68e77aaa3e00dff0d2"
+    },
+    {
+      "path": "corpus/mx/liispcen/terms.json",
+      "sha256": "fcb7e5ebb33c8e0815903c1f7234abc7038167affb742d62d70fc367758afc34"
+    },
+    {
+      "path": "corpus/mx/liispcen/validation.json",
+      "sha256": "65f4be56b124bf313f963bbcba2a5f24f5de308be0e746daed477c0a26af63c2"
+    },
+    {
+      "path": "adapters/diputados/lnetb.json",
+      "sha256": "4dab0cf3916160c514dc5a6a0ba03e6760b181b360994957b7dce48819e2b53c"
+    },
+    {
+      "path": "corpus/mx/lnetb/instrument.json",
+      "sha256": "b111eb8df36b604f2aff90d8a1913d18a695f1bb2978e1b5a98b9c99f83f048a"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/README.md",
+      "sha256": "0fcdfec4ce2b45b342a07a858d1f55cd649da9cb974a234705d5cbac41774b24"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-1.md",
+      "sha256": "973564004656fde65cdb82a8c3e14de7fb6fa4a3f6d5438156e16edd309d4961"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-10.md",
+      "sha256": "81f3500f21a3791c2c7f635ad5b4925af70debf46c69845b16dd85fcca034b69"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-100.md",
+      "sha256": "039bacb9faa003bbb7abd6579aad3e1108fe245d45aac094bb8bf283a628925d"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-101.md",
+      "sha256": "61be3202aaefc6e9e6e87f678e4f0fcb173330cac6e1b79cb2ec4cbcbbefcec3"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-102.md",
+      "sha256": "2a2e05d9df60b6b1cdd6c0825459434fee2ac83418ba85991a2cc001beec7cd1"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-103.md",
+      "sha256": "62657f14e3b2066f2cd9fa8340c577cbbccba7a3efc2e4b5e222a1e157a930e0"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-104.md",
+      "sha256": "937ce6789446feeb531ad540a4acb35294b2de2b6340925223b51bc292b3d055"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-105.md",
+      "sha256": "e5ed937978dcbe426fcefc33ab8753727ff1efe0557e8d539f2651aeac5a6207"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-106.md",
+      "sha256": "936976a3ae94f7cac8148dbada44d7dad75270727c60932c29baf16aa5e20e5f"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-107.md",
+      "sha256": "387ece88112e678301af5b14eaf1584c9de8e79cd475d5c961696614051502c4"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-108.md",
+      "sha256": "f35d1b0f2d76a04191720bcfb0508c6a34fbc98146dfd2b39912fd3399a64ad6"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-109.md",
+      "sha256": "eae63f6b298521e3cb760c52a61f02e11c065cd7ea4972b9d82e95cd685ab265"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-11.md",
+      "sha256": "a2b73693eae260721c9457a006dc6d011cd2836099a7be34976983cd744a6a6c"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-110.md",
+      "sha256": "739cf9395fcf16bc6323286ea6bfc9afcf8016aea341049c60c00f5ecf928606"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-111.md",
+      "sha256": "26715f744988a21cf72729c1b843450bda66da6038177638ce9198c03e2dc99d"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-112.md",
+      "sha256": "aaa979957a35a4682f4554e888b92678cc0c4e0d3bdcb8f2560d884703b35fd8"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-113.md",
+      "sha256": "09073973d3c5bac6d122550eb465694a864780a6070566a66d7b10c96366ddcd"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-114.md",
+      "sha256": "724d60565798030c34841de1295ecc12321eea72bfa93128ca35d50871635be6"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-12.md",
+      "sha256": "1b09633e0c8cac7e01402917ef0eeef458e1b7d5fcd6127f720be5f37c0d1a1e"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-13.md",
+      "sha256": "c02eedebccf6b2bfaa24fbf16b7d83779b3a3bc9d7902564d2363a1d1151201f"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-14.md",
+      "sha256": "510db5dbf90b69515c8d1d97e1648c409b038caafd05830090510f4ac2819175"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-15.md",
+      "sha256": "d6cd80d7505eadfbc9e74ed4635449950862c7f6eb3d330cbceaf53ceda7a365"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-16.md",
+      "sha256": "bd064c321ab4626faed27b97a9308775170c24c9afc1ccab28e1c37c8023b3ee"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-17.md",
+      "sha256": "c1faccda80604739f755b429b7d5b378079103b1306c6bc02ff0d997e31fdf0b"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-18.md",
+      "sha256": "09380fee41d64e9fbea2aba0843e38906dbc7c59cc65cd93b55b1a56e4606830"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-19.md",
+      "sha256": "f14aa8fb8940fbb152f7a132abe32dbe418ba2bdfb626c3af626eefba7742dda"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-2.md",
+      "sha256": "f0634a71ea8bb3d146ccf4e2d5e604b6f1aca48d038628b53d2ae55fbacf8a12"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-20.md",
+      "sha256": "9a0123ad4b7f60f6ae0413b87beea025a040957c060ea1b8b2ec3c020051c82d"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-21.md",
+      "sha256": "9810a673c736d7abe7802bf5c80a04fab2ae27cd26595175bd9613e2306627ae"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-22.md",
+      "sha256": "e6ab94bdb4a9e88400e9bfaf890f0b6e01f5b071f7406c2bb4031cf40dff78d8"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-23.md",
+      "sha256": "bb6f51a8f65360d697a721140e6df4455c680b7c148d9e296a02dbd468908925"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-24.md",
+      "sha256": "900249a293efd8c2bb2cffb9b8b8497f9ce6edcbc6f675bbb7fe4faa15e1eee7"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-25.md",
+      "sha256": "a6cc288c1314ab24742866f5d1f68aa99e181ae4ab58e904a37c391e82097b67"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-26.md",
+      "sha256": "d5ef7175bc15ffaa299b5fc0980d3787bfd0c6c5ce668a4a1af7c464f63ab02a"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-27.md",
+      "sha256": "3b9adf48e95ffa2e380d415612c6328918a23fd85dff54d7c0325f963c7b7326"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-28.md",
+      "sha256": "27bf26cadd0c4a7f98f5a3f9b65cd148089e3cf0371423455503024dde62aa1b"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-29.md",
+      "sha256": "815952a091ebfa52a06d24c5ba1c555279d8b7afa843f1a8e45974d8c1494c4d"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-3.md",
+      "sha256": "0c615c88a9b557a07f693eee1bc562bb1a75fe93424492f77f1faaf0a389fe06"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-30.md",
+      "sha256": "bee1951b032e9d07f916bc90a8412a67442532bc25afaee5cd9eb885c97f03c7"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-31.md",
+      "sha256": "536aaad577515afad982cd0857cab16bfe932668fc795fc704ef0123ec62d422"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-32.md",
+      "sha256": "8710c04f35aa0f5674b7971b62ba86bafa561b3dcc4ea95020f10b7950a4609d"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-33.md",
+      "sha256": "fb43fc7f9e0af935e62b6d61dd5010c532e6dc4713403c377c7a0dcce4f094ab"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-34.md",
+      "sha256": "10df5d97cc0ff638f5b1dcb013b094ddddbd1f19a1e2391c1fe41310e6a75cd2"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-35.md",
+      "sha256": "484230e5cbb236f55c1ade296503c746a273921defca9c80360a030a143d52b3"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-36.md",
+      "sha256": "fc724ec78a4ea43819a314aa117f2fa75ab3f5e791b0079025bf3df3acbf2e0e"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-37.md",
+      "sha256": "89e41fd0fe4de562b762c7477dd465512169221ec5218faeca278bd38434fc3a"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-38.md",
+      "sha256": "d4e114a16c73ede2382e945a204500bffc0b0534d502957632f01ffb3afb801f"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-39.md",
+      "sha256": "53cdb2a58a428c14a3711338348f9e92470f73ca3e2bbe74a9a82ad84264aec4"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-4.md",
+      "sha256": "5542b7d03b4d2f18ed45ba7a8831351c29768cd760e7a837f2c0968622fea5f7"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-40.md",
+      "sha256": "ecdd205e6fbe8373b5fea0c0733159927231e64c7c34e56b6b2ddf453ff6600d"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-41.md",
+      "sha256": "3b3662614a982aa3406b50a81181d1630cb7856b31d62be0ce0328eb572dfe52"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-42.md",
+      "sha256": "35b8a17f1fe6c4e29a1da823e385380a5dbf3a4310750c9e880f0d53077ebef8"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-43.md",
+      "sha256": "c23932dbce1d56c6464a8a902ae68de28ab466dcfa37b26e5e40406d4474e2ec"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-44.md",
+      "sha256": "6efa4064680f70dc62df72dce84460162e7f6e236eec0090ce6003fbdf35975e"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-45.md",
+      "sha256": "195a2dea5e9946b225d5cf3fe7b4b407eb04f393bf05d17fb68ec4d224ffe9d6"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-46.md",
+      "sha256": "e3e2d913303810e1e950b9e74998087e11b43615f47993780f6ed93917cb4f92"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-47.md",
+      "sha256": "46541a11cbedaff799817e010964159f687bde77fb9248ed2de4cf1fa2fe535d"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-48.md",
+      "sha256": "6a8a7699178d4ad35f2448452059c68d3c4178e8e06a682808cfe19a9c4e5429"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-49.md",
+      "sha256": "3db31cd5708b86caa157a18cc80e18f4be38155b5c5e6aad16c1bd11433d200a"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-5.md",
+      "sha256": "f39f905ba6e83e4aa750def345cd946ddebfdd6d02eb7086d494454dde17f578"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-50.md",
+      "sha256": "99583cb0f4be487f70299209ef65a6266eead94001b48d4e0cc590a512f0be5c"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-51.md",
+      "sha256": "726da107a5ed1cb4dbca940f63e6735ee3ff50229850260c3fc7e59358083cf5"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-52.md",
+      "sha256": "00c2a5d95ca4be57522ed293d4816692883a02cd2527915f074b1a2b2760e0eb"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-53.md",
+      "sha256": "7cd083b4590597ee9169a4f650b5748302e9cf78fee31ddad4a4d08e429f92b7"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-54.md",
+      "sha256": "312db35098a7ca6477bc6df12fe897b281ac91a6e49033ee85f1b16b24abad53"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-55.md",
+      "sha256": "7959dd48c42e1923d1f5aa14b53f7654d7a824c4f5dfa985aad7a7771b26fb6f"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-56.md",
+      "sha256": "ea55ab1cab0c75202ff098bc59e4fd53da792feab23efb3b7b140fee6b8da05b"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-57.md",
+      "sha256": "26674475c5bc7cb633a305dffd72165f95a434ab8b31ec757440831f9e07c793"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-58.md",
+      "sha256": "07b4a71af5f618aa7c574dd3ae26c1f3ec2e383b91655f1057cac62b10f831bb"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-59.md",
+      "sha256": "6efdfb78525a378fa088a37463e154894e6af89443e7a27a2ad1e609a966d311"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-6.md",
+      "sha256": "0bf33240a973b93669429f8ed39107123caa01478b3d2a066ddc241ad27f735a"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-60.md",
+      "sha256": "1b9be88ac3d8b951f3fdaa525aefde8c00dd7c6a04d6815fab0dba03a14ae846"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-61.md",
+      "sha256": "056f7dded2dc7ffb8c7456186b127044ab34a20210972537cd3f678dae530046"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-62.md",
+      "sha256": "9d48b65e35ec044ba126ff0f2265b23de4873c2a1bb20fc5982149063bcac3b9"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-63.md",
+      "sha256": "73af425cfd4d505f89c9989cd69d62a9c966d2b62a2674bc2b57c5cc5a7f108a"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-64.md",
+      "sha256": "fbdb6c71b021e01011f9be267fc5a3cc29be6692715613c4c9309a3c8a1521c1"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-65.md",
+      "sha256": "83039186fd4302c7042b954efe8900bb6a55e9ed827b59f115f0a6fb0d08ea91"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-66.md",
+      "sha256": "344b759e754ea706a9d9d6f16b7caa17b49ef4fa50fa07139003cca229062bf7"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-67.md",
+      "sha256": "95212c7e44225bfab25fd8da26a24aa03400a15958f21a1c981d22204b80e0f9"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-68.md",
+      "sha256": "dffe044f4cb2fb8eb3e81edf83f2fc16c5d925b0bbfb7bbebd602aa1451b90f9"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-69.md",
+      "sha256": "781bd4596bcfed43128d35661b7f4e4118bfc3c8218eb4e6d23316f30af66074"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-7.md",
+      "sha256": "8b87b930dbd0dbe5f6deb5f820264c616b0e13909f43d296ac68a1fba7b570c2"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-70.md",
+      "sha256": "4da1ed72a8d5ffee28746878f5704b6090b89ec64147eb7c990309ce8c322918"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-71.md",
+      "sha256": "c8d8828a8bf9bc8690bd3ee769a38e5c8b5311bd08028f367a554947acffae9c"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-72.md",
+      "sha256": "ce00af58cdace16950cb1e1d41383076c9e5e770dc9e10c9c0429103d47aa2d3"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-73.md",
+      "sha256": "e855f3e39de9570a74ef6312cf987df0625b47ef8462fbc47e45510334d96ada"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-74.md",
+      "sha256": "52df19fa04932f5e1932854d860e77ce4363cd1abbb15e074dff6b8f81856577"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-75.md",
+      "sha256": "7fe12044862547e1b5423087d075be842d860c6cda668d5aa71640de2a285a2d"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-76.md",
+      "sha256": "356b326e2d047f56df92dd900c0c707e40672c938d6f90d5336bcbe1d374b686"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-77.md",
+      "sha256": "a883ce1ef35cac2227ecfe42b659361d10c1b2230e0204b739b4f41367d43f5d"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-78.md",
+      "sha256": "78f81dc584bf684b8a4ade8a6c937d1a80a699c2986ba3743ed14ba9d6cfcd30"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-79.md",
+      "sha256": "abf8dac04adcd5cd94be5494cca4fb0443d0568628e2212dac769b778547c36a"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-8.md",
+      "sha256": "9d8a75dfd78a695ca767fe5e3b08d8dbac1bdf40df86e6b6be93bf96bc35adaa"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-80.md",
+      "sha256": "b766cb378800b3870f979bb590749d7967fe78c7deafd4f43c1fafe5acd84419"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-81.md",
+      "sha256": "19a0c5dd75b91358e18b2c823412968a34d9a90ddf6b2dddc312142050e3dbfc"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-82.md",
+      "sha256": "3a180ad1a9cff498adcb42506fd54fa5b6736df4c6ff194fcbd6667d11cbcd79"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-83.md",
+      "sha256": "4286de46cbadb7a00f4a78eeb00d875d94c438a49f437d7109a9e7679f5bc785"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-84.md",
+      "sha256": "43a054aee7caae66428d6cabc7db663541f6dc17eaa9f3006f21608862274c0e"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-85.md",
+      "sha256": "2d75a276b2bad3a498a27b356e3757b7192f3d90d31310de71094a6def131d28"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-86.md",
+      "sha256": "df1fa9fe132beda30a7a64d54587a8f43cb8a8059aac766c02fed1de096f43d2"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-87.md",
+      "sha256": "cb19881881e7a0f67f7531ca8d5e5299b163b4c9255aec61d964589d46e89e0d"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-88.md",
+      "sha256": "2b38813dc741d2531d0b2f472a32691917ab403b541778a271b2570b8a198efe"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-89.md",
+      "sha256": "7f80d631bca364ce04f334ce678545ceaaed29b4211d7f63c7baf3ab8b96b109"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-9.md",
+      "sha256": "3ade7a6a12495c12aa6abf4b41eaef4e0e2282f8366e9450b158d443294f4bf6"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-90.md",
+      "sha256": "c3932ca31c290520c28c3c6bbf855ebee4a8c8b3c81f59ca357b2e44aa56a8da"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-91.md",
+      "sha256": "eb911b9093e3224c035436f4b239f5e0853e0c9a436223d32462b5e3bd7e013b"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-92.md",
+      "sha256": "db9b30541cb4f0eb761d6ef121c74cad90d00f0120fdcfc94ac29fcea1f7aeef"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-93.md",
+      "sha256": "35cac717f8c3c1e9ad0406f710af51cbecb4fa8534d8c31a169193879c2e0ee5"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-94.md",
+      "sha256": "76ebc674573d20cdc5c22fbd08c0d3240647310da12dc86e03c54c4656305e9f"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-95.md",
+      "sha256": "6385f0bc31e61041035b16a702dc99acee3f85cfb84b5a0d045f81ac471912c1"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-96.md",
+      "sha256": "44380f02d74875fae75dc2d3ddf695881fb9fa080a33171f0709c9fa625008e4"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-97.md",
+      "sha256": "b1009157f7f15e4d91f959575edc11f48d14d20c8e481aa8ccc815d2d0de5361"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-98.md",
+      "sha256": "d64a5c8d67677045e12ccf33d96db79ec7d7bee460e1a99754ffae7bb863791a"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/articulo-99.md",
+      "sha256": "149ec07b835c8185dd5365b098870c2788363f3618a2bb2435ecfa7367d5f20d"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-cuarto.md",
+      "sha256": "b70c9d88e9a398f66432940f4b9a301f7bd601ee82841924b7b7678186105857"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-decimo-cuarto.md",
+      "sha256": "7db926e9188f334192b9acfe5cfc128a901d2f88c11134c24edd5c8c144c0a58"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-decimo-primero.md",
+      "sha256": "b3222612e7c5e5286c4a239df01b72cd15ce6efee83f82ef5053e50560d18b5b"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-decimo-quinto.md",
+      "sha256": "d76a6e4fec8e61068644cc18d13e3b351b524120f173f19d7767d6590a374c5c"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-decimo-segundo.md",
+      "sha256": "641903d4321a3fa438ddfd70313f2e87d49a350fa5bec54589ef34650756d072"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-decimo-septimo.md",
+      "sha256": "092e8a3bd131d5105ebd519d3d3aef06ccb8606f00df3de5ad46eebb6bb3f34c"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-decimo-sexto.md",
+      "sha256": "1d88711604f18bcb856be46cc04604b109ba11e234e47cf90a25155ee634413e"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-decimo-tercero.md",
+      "sha256": "52befd5959c91f6d2ac8639712f405ec488ebb2b99515e4be7a2e9ea4f4e5f50"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-decimo.md",
+      "sha256": "ca4c1148e3b6d8f358a1e9d1461f082fa6a19fd850cd1ef61a8648e928be11b9"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-noveno.md",
+      "sha256": "7e3cc127a0bfefdce1806fc49f75ef18d87af208889a1090b05c0fe9f638027e"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-octavo.md",
+      "sha256": "c01ca9019175ad6d97b5a69b14c78d0294e7af8478447c4b47862fe35b37fdb5"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-primero.md",
+      "sha256": "a21bab988b258ef242c93db3dcda142c95df1615e68dc90f4353d0c51324c231"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-quinto.md",
+      "sha256": "9d6dbee072cdbd867d505c3cc6c9d8024dba06fdc6d7f2f8be96158931c7495b"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-segundo.md",
+      "sha256": "100416178735799357f3b6b78b9bd2c4a8949bf7c52645ce83f9643cec82e235"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-septimo.md",
+      "sha256": "23cbfe071e34f14fa80bdbd9da8c2879f5797effd7843b84870ec8ce04f5a9d4"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-sexto.md",
+      "sha256": "59252cc07bd5b593946637234f7236b6e2981c1fd41099e47c89f494b62a125b"
+    },
+    {
+      "path": "corpus/mx/lnetb/markdown/transitorio-tercero.md",
+      "sha256": "432106b9a49881f36a46b2b138c976246af1913c49e2de5e5405dae90cfd6787"
+    },
+    {
+      "path": "corpus/mx/lnetb/provisions.json",
+      "sha256": "25061a4bb9cbea6cc403108d36557966c99e894f789135911c56645945adbd8c"
+    },
+    {
+      "path": "corpus/mx/lnetb/references.json",
+      "sha256": "635c92262b82e825d38b2cad3467fbd12f9e42e148802affc00745cf3cd8a84a"
+    },
+    {
+      "path": "corpus/mx/lnetb/reform-temporal-evidence.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/lnetb/source-manifest.json",
+      "sha256": "01d21a3a728dc207e4ae74a1eeab03fc57986d66631fbec1642ed155831bbf86"
+    },
+    {
+      "path": "corpus/mx/lnetb/term-usages.json",
+      "sha256": "c30cff4aca025e3c379df388aa42e443c6a7e20e385c3cc8a974c1597f2440e2"
+    },
+    {
+      "path": "corpus/mx/lnetb/terms.json",
+      "sha256": "e47d44cb86e9ad047c2093e90a985e267a5963ac1f1912ae175f3fc2c1a470df"
+    },
+    {
+      "path": "corpus/mx/lnetb/validation.json",
+      "sha256": "a134df9cdb1e24ecc1ecc4beb8a604a0e9726a804cdbd7dc81fce459fa2d87a3"
+    },
+    {
+      "path": "adapters/diputados/lfcc.json",
+      "sha256": "4a99ef5c10713cea2582241233c7655f7e351fc0078603ef72650bbd3d07ee4a"
+    },
+    {
+      "path": "corpus/mx/lfcc/instrument.json",
+      "sha256": "a86668eda987f6ccea7580dad002c83769bca00ad27c1df7ed399c661b24fa75"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/README.md",
+      "sha256": "91703be8ddb2a5aca8e40b46c483ed8e0e123bbeb0d24258bcb90f2907af43d7"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-1.md",
+      "sha256": "d24a3c1e83167f305d8161fda41bef3b412b36e875f5b18779287b1b3a0d68c2"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-10.md",
+      "sha256": "997777f1393f41a1f5367953a784304bf4a9a6198f64a51d40abb7edf713c806"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-11.md",
+      "sha256": "920d3fdae844f6e24c80a7ca3242e84266d5acc881b4181ac237560a2678d3e9"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-12.md",
+      "sha256": "20fa5f57a6df347fb896eaab47ddc23d063939181e90b8dc1a2772cf8a22b06b"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-13.md",
+      "sha256": "4ef85ee2b6e13826530465476701aa93467db25963ac71c2a93b99956c335bd7"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-14.md",
+      "sha256": "1a4c6cda718b21325258dfe6f714cc5a591a13d9cb09f61c4d3f20d54036339c"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-15.md",
+      "sha256": "6d0e4e2a0bc8e88e3a136572bbe2e1771a52be3757a77584904b51794e195867"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-16.md",
+      "sha256": "baf4a4c975e00a449cd3a3bc8a4a71bd8fd823e5317f5a26d7192f7879779b3a"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-17.md",
+      "sha256": "f458feaccb3d0dd4c5adf70b70c5f41a41c6e77e4f7f4ec077ea2c0ec23b6c18"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-2.md",
+      "sha256": "ae603641a5fd9de176c25476318560c99cc20a6ef7fd19e9771a4e9dea041c65"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-3.md",
+      "sha256": "6ec2fc765ddcf97ded6aa9efc1147fb3dc918390a6a05861ff85918b529e2dab"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-4.md",
+      "sha256": "1c92d6b1e953bcf0b969f0734dd997e7802efd890cceeeb8db7ba2e7078ea56f"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-5.md",
+      "sha256": "42361f80fe54187d75b535ea102e31a3901e35cf4da5d8c528a9b75accf563df"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-6.md",
+      "sha256": "55a518498ab05562b7e7e735d481d04a53f6778e2ee3ffdc91e6080c60110e65"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-7.md",
+      "sha256": "d344b304c0489e5d1f34b43ebf274916640f45a7b0999e4bfc55442a48ef0059"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-8.md",
+      "sha256": "41c7dbac864ee90f04a36d47acfe88706e7d9847264cbf34e1f378211db2f764"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/articulo-9.md",
+      "sha256": "34fa9130a5028ef495873888dbdbcf25f5a742e0f4de0c0681072412152f2a65"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/transitorio-primero.md",
+      "sha256": "aa1092ec93e2977e46adf898d34fc86e2e364f2ac0f95e8d1a649938594eda82"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/transitorio-segundo.md",
+      "sha256": "2ad13a546b3006ff69e522cbb2313b4ebdd593655d6e799012899e52ce273050"
+    },
+    {
+      "path": "corpus/mx/lfcc/markdown/transitorio-tercero.md",
+      "sha256": "d4f9782fd3cccab75ad77d8b5455512f69e435852245ec1e316a12fcdb3470ef"
+    },
+    {
+      "path": "corpus/mx/lfcc/provisions.json",
+      "sha256": "610bef8c3fc20d8a3a21954ad3a1f6abb15925b73cc284589971ce475ce50119"
+    },
+    {
+      "path": "corpus/mx/lfcc/references.json",
+      "sha256": "0d9b284c48dc100eb30f5436f9bf1810b426afcb0178b4a1689621be928ad5e5"
+    },
+    {
+      "path": "corpus/mx/lfcc/reform-temporal-evidence.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/lfcc/source-manifest.json",
+      "sha256": "1d2495eafb18cd4ea17e8480118341d25c95f5df5404a83913ed18ca4559b3ee"
+    },
+    {
+      "path": "corpus/mx/lfcc/term-usages.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/lfcc/terms.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/lfcc/validation.json",
+      "sha256": "c9e0e6f852e6c1d06ad667e51350154464058702e728a1505247972a8a31889d"
+    },
+    {
+      "path": "adapters/diputados/reg-lfmn.json",
+      "sha256": "7c5d71a2e7e80bb1d06a39db87108845af5a64de1765d00e504be9af9bd0f971"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/instrument.json",
+      "sha256": "c154b65af6fa3c8994bb9ab6723e462f0ac3b6e012b3953e84f42c7bf1cc854e"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/README.md",
+      "sha256": "58074d7bd45cbd74ec658ee1966dbe2e734a5034537a2312040f4d8e47118309"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-1.md",
+      "sha256": "f039c18374a2f5314a3df83e47968c840e28e8e8f39a5931269d2197353fab52"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-10.md",
+      "sha256": "9c3ccfc011f2dbb061b262f00e7fa64cd3a34d3f598c3d16cd6f93b7cb4941b4"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-100.md",
+      "sha256": "5de50993abd197c28446a02c92069e92fa215f0222dba0f027eaa1476f4b1ee9"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-101.md",
+      "sha256": "c0884e7a8ee75dd91b9b849c359a709adc8b1bade1d58fb026a374afa869a97f"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-102.md",
+      "sha256": "22f2a316d11040f679ffe99301fbabcb92b6bb41b5a56997a37397b4dbc83712"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-103.md",
+      "sha256": "5ef38dcbb661a0771b4b067f966306f6f5d2fce5a6148ba29653d52c46c1f91f"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-104.md",
+      "sha256": "0f95b12d30596532eccb0439aca481c1dc73508eb4b783181ef21a09465607ff"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-105.md",
+      "sha256": "301d81b476ead7e307c9f4b8acd5ad5fdfa4f9f8e3ddde198975aaa077b0e60f"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-106.md",
+      "sha256": "860a14091a65c520879b491421287df496c2ccb790d5b4614224deef081f053c"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-107.md",
+      "sha256": "5066baf7ca5dc0419ac857bce74bb456c785ae0389f36168c670a4806ad07c8f"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-108.md",
+      "sha256": "729e98460fd2f99f3915f9dad9b2129f719286e2ef8d8f477f95bf835eefd979"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-109.md",
+      "sha256": "9f1c258860435fe964e7b557e028cb439b0eb180a49ff8a4e2e415fa5c6a6212"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-11.md",
+      "sha256": "21b30d154cdfaa6af0d30458e17005b6e6cf214f4d305cf112b2b20dee40114e"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-110.md",
+      "sha256": "081c6074a13637f6e11c7a4e0837f38cb0baccf51d4d6631af17f6f9351d0575"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-111.md",
+      "sha256": "0bd7f5d2dfda4115566165879a258ddad10f450903f6cb9b31afd9adbce7de81"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-112.md",
+      "sha256": "85ad9384b1059faf101c23e249a9d086420862895439e29de47e0d465f3473a4"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-113.md",
+      "sha256": "aeb05a0d55eac8da6ca70dae2a147a6e3bd11c3acb6bdb94b0f4a34cd1e5abf6"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-114.md",
+      "sha256": "40abd3f022722c9e24a51bd687961b174f9452c3251d52275d8af83427d90b28"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-115.md",
+      "sha256": "0aa87d3eb4111ab3bbeed70b512844b347f8258ae0f310361f6a1c5e039895ba"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-116.md",
+      "sha256": "cb459190494bd6d8ea1cffae3ff100ad9f33d30c560d574588effc0073e977a8"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-12.md",
+      "sha256": "c543e3448ce9ddcee270d2db5f19ec11fedac955c1eaf044c7ad144daa77bf0b"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-13.md",
+      "sha256": "66d4a9f72aef3dfe6e0f29f9c5c9c694d67f0fd1486aaf373c781100f2460ece"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-14.md",
+      "sha256": "6681914bf944adc76618ba187654ba065f518f324dd44d1aac2864f60e9f4ef3"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-15.md",
+      "sha256": "dd360ad75027a8eb66a936a1f739bc3b21ba9b58c92fbf3060a9aeab3b1d373c"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-16.md",
+      "sha256": "015d563280ee73228f352890d78a134ddb9aabe0e634a8ded74787e8be8a5c0f"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-17.md",
+      "sha256": "4fde9ec892893732d1de28439843910a32002aa6ef4beb2ab3777250f9a044c9"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-18.md",
+      "sha256": "5aa20d6504b608d4ee9d9af26a3e95121621ccb76a8b1ee170a675f9c60a5d4b"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-19.md",
+      "sha256": "0dfcd8be0a7df66e9303ba29337bb275973c9b181b2ac9bc420461809ae69084"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-2.md",
+      "sha256": "990a7cb9aa81e9fd04eef3ada5f096f195563d78ba846cc0c72b208e9aa484a8"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-20.md",
+      "sha256": "c2730042e3f0407c71838da0482e75509b7f9707a3bfbd84f46f618f2d753512"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-21.md",
+      "sha256": "ecf419dbb7be4324abdfbb9bec4e9ae57ee3847f4550392977ac04e183ebab05"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-22.md",
+      "sha256": "aef848fc326b7447f6bb549336f15bda08a084c1412f19decde4fde01d6d4787"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-23.md",
+      "sha256": "78c282d5e5c890ad51df7299a0d009e3ce18d2278bb574b3f4f9c13808fffb33"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-24.md",
+      "sha256": "a95b1ac1f0856c814080fbddff97f79a6fab5c01c7d66c540f582ba18942e31e"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-25.md",
+      "sha256": "89335ba6b4a8c36f0b79b85341d23ba2f951894639f269e7e7a5095155aa0cd4"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-26.md",
+      "sha256": "eb544413f67271f637437ca5a2690630b89915ae93c192e7f7a35a2f5e71b154"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-27.md",
+      "sha256": "cda1c83a892d8e614aa4e0ef5cbc327a0ba8f4ec61cad2407607b298ca854388"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-28.md",
+      "sha256": "f8c5fd30ed26e69aea229f53d35ba1351599da1444ac6bbd6351085f9fb04356"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-29.md",
+      "sha256": "e661f5469fbe26ebccdd6d3c47e63082aa8b211087584094517135ad811156fe"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-3.md",
+      "sha256": "b812a6d65d297cc209f211fa3c5c00f98895f73deb201d75a59d40a36128aecc"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-30.md",
+      "sha256": "794c3fb4d533955a88a026925442dacf6039717127f1b00313acc9220a3dafbb"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-31.md",
+      "sha256": "1a1790a83533385fb66e45344bc929faaa3b2a6bfbbd1f12405e6fd6473a14d0"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-32.md",
+      "sha256": "d98f49e4a408b4d7e183640f556e1fc962cfa57b18f53f8576e96da41839db84"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-33.md",
+      "sha256": "32fd547adbf771ea21b55e925811eedc44cb20dd83af2d26e7ad8080894f07c5"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-34.md",
+      "sha256": "15d8419a788afa22233ff8b384498fae5ab68c840619abe64b45556d793c391b"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-35.md",
+      "sha256": "034f9af29851a1fed3e1675ef4bf72e68d7636b6d7d87380b989fbed9a3dd989"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-36.md",
+      "sha256": "cf0b62a1ca87d39fe2b60603b949f48a293ebc5ab2fa62f1bb165a1f5583a00a"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-37.md",
+      "sha256": "8c9c416db147a344d0005403bca627759d85b6c5f379825fd13a5f0c8f611126"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-38.md",
+      "sha256": "6af72d10bd54d1cf9b6b6247802bf8063fd92bcbf638c9ffb26db0e7493d81e2"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-39.md",
+      "sha256": "2a7bbc60700b658fcc4632a39f85f6a1e73cdb080e08156a652b0ce6c64d5f03"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-4.md",
+      "sha256": "9fc4bf293916069b7fbe942ff24bc691f1276417a9e3b33d75951e2222475ded"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-40.md",
+      "sha256": "a5599f189587a67864071dc8fad9bf4fe3086e4c164175b9a2f80239829b3221"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-41.md",
+      "sha256": "b684a477facfcecc510e28598eb42c0ba72d80ca5042e228ce4c3e08484246b9"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-42.md",
+      "sha256": "871bba2306a5be02ef05790d9440625e8280e80c64aafe1317c079ad969d2f5d"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-43.md",
+      "sha256": "9f3acde850da3ccfd6f69b82be1d06233d3d2922ee777f12fd36c9170fc5c7d6"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-44.md",
+      "sha256": "b9019dbd633ef92e590bb717cf4d217cfc793b723d4517928c40b71b27b4927f"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-45.md",
+      "sha256": "65ab18e5ac55f361ce80319a0914d6f42d960064c65b56f0231e68019db45370"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-46.md",
+      "sha256": "a9c94d59553d548b68088cbacb8be8deb8f3ee4372fa832ffbdfea2c18c2d1da"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-47.md",
+      "sha256": "f50193f3012d32a8d3aedb16b06f0781e6b99481157247c58287bac7618a6b87"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-48.md",
+      "sha256": "8456775a49959d933f28c90bd8012472766a136c5f8c9645b6361e94643d3fa5"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-49.md",
+      "sha256": "27a57cf4df16f528fa25e70608209ef95b97256b1cdceb247edfe48477ba1c8c"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-5.md",
+      "sha256": "ae34c9d19711cf765f008389333c4d38727131d0d69f0eab05aa9b9539793de3"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-50-Bis.md",
+      "sha256": "e6947aa5040324fbccc453a8a3251367a5db146c27b4850c6a0211ccf774f57c"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-50.md",
+      "sha256": "a884bdbb4a98dce946882554d29affdc6748627c7a467318a8681aceea8e54e7"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-51.md",
+      "sha256": "096c1003cbde56ba5776beae8a074ac64270268cfdfd26c52f9df57a254cd7d1"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-52.md",
+      "sha256": "ff977724b25794c33559576d8463316e101939b0000edee6ac48b4ac7d7f3cc1"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-53.md",
+      "sha256": "d463fd74d4a1e7bdc4a2e1f65011e31adb25d5a117fdaabdd4738d17cd35a208"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-54.md",
+      "sha256": "43bdf46c97078f9f8c03deef9b5dc7086b5de7f34ffa7359abffe8f13ef674bc"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-55.md",
+      "sha256": "839a64f04a58e7132cc201f7aa23c82e69c62da627297eed56820d7c55c66603"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-56.md",
+      "sha256": "f80f4c3b7a78510784aeea48b20dd4c752dad56d43e46fd3b611cebda4480241"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-57.md",
+      "sha256": "811bb321ead3018c424e5ee1c86659da64030237e5a27e0f94ff9a87cd87c687"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-58.md",
+      "sha256": "e8861ca41bb5d10dab7f7d112e8bdc6ae8a21a0f1bf26d7dcc03ce3cd5f19d04"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-59.md",
+      "sha256": "cdd7a20a7e3e2a71070f083eea6db071685379f7918db378126deefdabdf86ad"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-6.md",
+      "sha256": "7d3b994c259abc280d23e1b22ea9e1c80641dd895decdd205f7bbb76a1541968"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-60.md",
+      "sha256": "4d485feaa5a519a9a5c461b3c88d97e7ccc79182ef32b8da6606da3be5227553"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-61.md",
+      "sha256": "e707cf2d891e5e467bec1d1ccfa8eec3db23c8c5902f587d3af351b7df73e5b0"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-62.md",
+      "sha256": "2a25e5d327eba0b66a597abd4b4ea90700457b5da45423861052994888e2efc8"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-63.md",
+      "sha256": "a8d0073692a8dd35d59986bfbb0c818e30667341cdb5885a3ce5b601f0ea3ba1"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-64.md",
+      "sha256": "1a59081742551783dbb35e5993c2bb12c676104c634cabe4e7ebd925eba1819b"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-65.md",
+      "sha256": "6ec10ac7952fb890a5ba6457137b045c460b222a9ba8aeac4c27398c58434132"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-66.md",
+      "sha256": "784a9b3db42c0947ea9f094bddd032d1e199963c4debd0087a984e420eeacaf1"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-67.md",
+      "sha256": "d88da551e7180c1cb84084ec40ff8fd3bd72a29ff669cbae1b8eeed9e8d3dc7c"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-68.md",
+      "sha256": "942f4293fbd34a6dce6b260edc88f016ea575278ca89384ae04a0ff3885630e5"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-69.md",
+      "sha256": "3872d785a7274a5357788b517cf56b259570ab0a13678c98b425c9b25c0470d6"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-7.md",
+      "sha256": "f4345c6223f6eca782bd637c5e01c6c662b321d0ce97c3e281d2c43f6c37e771"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-70.md",
+      "sha256": "d553c6479333bcfe525f613b2e93d4ab2f085bca70c90bb73a5139d3ceea009a"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-71.md",
+      "sha256": "8db981f68cb371690fdee08afe46a4cfc25489b7909876da5539d42ee918f0b7"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-72.md",
+      "sha256": "e3d013a69adb17dbc40838b5d5ba1e7bd616ab6b3df472b7cd61a62dcd5d64ad"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-73.md",
+      "sha256": "7eb624173cb6dfd3e845c7d65a2fb609341c1dc2c6eeb908fe03e69b9c31c026"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-74.md",
+      "sha256": "a8d5ec346618ed64593c4c3ddc5d599bd2ec1b858ed97244841d529a8359a0a8"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-75.md",
+      "sha256": "3afda7cff03934d97c2c639ecbbabc1a0f7c12e43a54eb5ed54853bf6a7be782"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-76.md",
+      "sha256": "388a5879a4f97ed663d1c8bf2c3a0e2c51fdca1069705b085d40e37a0f5e89f7"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-77.md",
+      "sha256": "25fe5143b575afb58cc68c33901bc9e6df7a765906894e12ca0e7337446955f4"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-78.md",
+      "sha256": "14d51d492a630f4f471d0b7ec8c52a334c9c05983fadaf6207d1b13e5952f63c"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-79.md",
+      "sha256": "82b08b51f44080cc1cdeb9d4bb1023fd8833044e4c25a08e571ed46678d1dc25"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-8.md",
+      "sha256": "3fb5ee9ff823be2856d6026af640e08a0bf4a5ad5f7b932315ee0511ca24bc1a"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-80.md",
+      "sha256": "08fa9c126a8f87bb20679fe4b5fff2d325234a54c5ff125eca7bec171b3971d7"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-81.md",
+      "sha256": "77002c8cb80391854e9c0c8ee27b89e176a92fb33f3c5dd7379af3d9057f6089"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-82-Bis.md",
+      "sha256": "4c7c7e9ebf5d38a731f1548220c465d3c7597a9caaf8ba9cc4e303f11d1c274a"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-82.md",
+      "sha256": "a4f912816fa8fd4daeae6726ebef060fed705f8e5bd3a4571bdfe53aa86e7537"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-83.md",
+      "sha256": "616db8a5a33b1727fe45ac9dade36b85e0cf5fa6d9d589ad3e97e745d6540eec"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-84.md",
+      "sha256": "c5b3d340736f857333a4b90092ec16ccb92f6676771960d12e7bf73625bca1d5"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-85.md",
+      "sha256": "10c56c415826e042535a2ad2356df6a9623d1b9d27def3e13b92a54a86e6eeec"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-86.md",
+      "sha256": "2fc87d93551917579f7c300697453430dcc160814f91b4e55abdba7d2e3e45cd"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-87.md",
+      "sha256": "6349802f6ff9d6178192ace8ed789cfe2d9374ce76edaed7655b64befa3cc7f3"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-88.md",
+      "sha256": "32dea5970adab6aabe1ccbeab7fc2af134d9d2249b3497a43b0d4938a25c30d9"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-89.md",
+      "sha256": "a0bbb9beb36f6b8c94d8954806f0ca4e826b32ff13e1c0ff94389f1f1ed30e98"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-9.md",
+      "sha256": "e432c34928b58f42628661d0b8f7e30c73961c34febe0e6aa9a28b9a8ba98536"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-90.md",
+      "sha256": "5727dfab23e45ca4273dd30b0e6ae50dbe179c9e210ff7cbd2d3c268ab9c5b18"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-91.md",
+      "sha256": "1c48f6e6c278be3ce668bafb17de1fd999e04ac80b0291e76b83218e773f4072"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-92.md",
+      "sha256": "ef47c9c68dba765c7254fb1804ca5e4ab857214144b0e3d6ff94388eb1f4008a"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-93.md",
+      "sha256": "37b7abd8c8eeb118a56319854b818548c3d7e16d52d328e9ee1b6053c89531d8"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-94.md",
+      "sha256": "0cd0d43c9ea5c163a683dca570a1a4d0ceeb23e6e5c8155a1074be9631174b73"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-95.md",
+      "sha256": "6ebc092ca9f753cdee265f93e20f70c006706336213b5954d6dc78bc370c15ea"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-96.md",
+      "sha256": "668477dc38aea0a229d73ec87186d904c6f6e987b8a822915ef85ef2fc9aa8bd"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-97.md",
+      "sha256": "2ca2a23f2f8594d38cf14019d3eea27755ba4646f9b181323c116da2f4a9dc86"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-98.md",
+      "sha256": "6b136e99510b76b52962f06eac875a972d97945db4e4aefcf28819353235884e"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/articulo-99.md",
+      "sha256": "d0216dd32a5ad5d997e2c5ed5e63fd42ba3425ad553a254417a383b10850d071"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/transitorio-cuarto.md",
+      "sha256": "43917a2991d234495ef51144c8f9437acc97a0667410f52d894f4cbf7ef1cf99"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/transitorio-primero.md",
+      "sha256": "a2e90314c306e73fec295fa3598fad4bdc0b0c69a5df51c2547b88796baea4b9"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/transitorio-segundo.md",
+      "sha256": "e2f794b8b7d95894f6032ce13807e36a60764cf6f198f2691e42b5b4fd98ce87"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/markdown/transitorio-tercero.md",
+      "sha256": "351dd072e7785671b26880b7f54ac1136fe55a00fa5932dcbe5f9cfe7da299e0"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/provisions.json",
+      "sha256": "37df271d9f6b5b55f893cf0b029453efb8e3c3edbbe17a245c98c56d6fbfe5aa"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/references.json",
+      "sha256": "e58078125c4a67ff856b2d7b82fe6c9cb1ca6784d05a81afd0c0be2f71a22b38"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/reform-temporal-evidence.json",
+      "sha256": "1faa8853b6b44f1a33a26174421ba5daf4620dc0334f97a649cd7a5d287980a6"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/source-manifest.json",
+      "sha256": "75332f57728d4d77703106287920a6320194e7003a9a3992ca922756257bf8e3"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/term-usages.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/terms.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/reg-lfmn/validation.json",
+      "sha256": "82446e74fdd11b105bd3e4b9b965a5da43657df8bf7cb6582024bf0823adceee"
+    },
+    {
+      "path": "adapters/diputados/lfcp.json",
+      "sha256": "25420dae8198aeebddea689fa944f9fc36a81c39a4407cef2df44e0028061441"
+    },
+    {
+      "path": "corpus/mx/lfcp/instrument.json",
+      "sha256": "7ab7287d66234a4178e828b36bff49a28634ce2388faa1f58ba79f5c9efcf057"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/README.md",
+      "sha256": "efe9ea317cb252cacbcc7d3acdc811e6830e15478045d0e967c1260e680b3a5c"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-10.md",
+      "sha256": "5a7f1b0e30e27eecb2df83ef5b42da07c966cd1243ed4ad9ea7bba81d714754e"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-11.md",
+      "sha256": "71441b412e840873277b90d81af394f8dc517b9b653ba9acfdf380704e1a5cb1"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-12.md",
+      "sha256": "f2f81d908de5980f5e7ec27a683c67fe7d3a5dcf2d2807c3d5f7ee86083d87ab"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-13.md",
+      "sha256": "b77f5de9a4a3370830577623ade9d9c2bec17731fae908c1859eb64cc733cc1c"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-14.md",
+      "sha256": "eac28d82d3b21f3aba19b94115b3cdf8eb1aaf91460bb6f4042f495fa1d83312"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-15.md",
+      "sha256": "0a4a9d3b0be420e91bc685427d49cda4d65984dccf688a79a4d45eaecd7183c6"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-16.md",
+      "sha256": "de7b8538105f07d2178244cf8fc05796c6aefa9fd70f44e8560318568678ed20"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-17.md",
+      "sha256": "129569864b62b04642cffbf84ad645a6bfde60bd7fb8f266bc1c4d60024b025f"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-18.md",
+      "sha256": "1ff1ee02526b828ee5929a47ed4a066da5bd8c796d79cab259eafcca94172daf"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-19.md",
+      "sha256": "527be93064404904e0db8ee1f1360153faff746ae35372284c2f4f9570481dbd"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-1o.md",
+      "sha256": "cbf9f1bd8ddc2e22c7fd419f3581ebafc35a80913ce07b2938e2e74b3d92ac99"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-20.md",
+      "sha256": "c0db718cebf1633951a8f3b013b862563f0dded2cb405fd902772ea533e62356"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-21.md",
+      "sha256": "dbb71acd23dcc08f434cf419adbcda779f8c7d49cc37170a84811a1def070077"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-22.md",
+      "sha256": "32e57dd6f686c19ba367cbb1d47a3537da25cf4e56238d3524cb28baee2c1708"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-23.md",
+      "sha256": "1236be4e93ede3c1c3c0e011490e400d50d621de0fda675429e888ae3507a265"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-2o.md",
+      "sha256": "f59b40fae28f7ae4ebdbcb33c17abb0913d2c07d4fb425661a399f100c8d7d2a"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-3o.md",
+      "sha256": "59fcc9277035996a788a6a0e7716ed693323e1c59b258a783ad32de05ae76567"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-4o.md",
+      "sha256": "00b84734f37b6961209225f8186f2dd818a226196023990ff639e93015e72f82"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-5o.md",
+      "sha256": "1c2f22838f2ef96920079d1a90755063fc3f9d641d64cf4efcf023f99ace1a1e"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-6o.md",
+      "sha256": "c6abcd24688b84c73ed2789145652654800c853e147e30f75ee8655048ab281d"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-7o.md",
+      "sha256": "0c1deaee569d2e5918991b9edcae342ee29b4bfb5055540e41a53c5d55d03a24"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-8o.md",
+      "sha256": "c312dc4646745aa620c0fdd6230c18074f6ab960818ee4b9341c9a61e3f47107"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/articulo-9o.md",
+      "sha256": "d7bee4f8c4029f600f8e7c468e5f771fff06f30ebdd03c6ee07d3777b0650fd2"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/transitorio-cuarto.md",
+      "sha256": "36d331eb32e7beabc342fc6e04cc0712c7506b100506849eff7653b30c89fc20"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/transitorio-primero.md",
+      "sha256": "981d5b12099e17a2bb5dd610543c01879cfc00d777db1fa3c2809097103bb4a7"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/transitorio-quinto.md",
+      "sha256": "a7b07ec3e58d12312f2e134c074f3f7e0d2cf133283fc3150dc70f0ef73381c2"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/transitorio-segundo.md",
+      "sha256": "fc63380cd70ec2cb80cac6a575226180ed9aa0b3c172b9741162083f0c5255b1"
+    },
+    {
+      "path": "corpus/mx/lfcp/markdown/transitorio-tercero.md",
+      "sha256": "2d08ee919b737e052512ae3760c596cbfe2ec0b1673b66e58b08334e32d28a42"
+    },
+    {
+      "path": "corpus/mx/lfcp/provisions.json",
+      "sha256": "5af8f31132787090369a3f4f9ae533ad1b0d21051c777c7dac057d756f183102"
+    },
+    {
+      "path": "corpus/mx/lfcp/references.json",
+      "sha256": "d0ebc4dcbad4b16a59add423dbba88f829f8c83af00e36512c3585e0494d626b"
+    },
+    {
+      "path": "corpus/mx/lfcp/reform-temporal-evidence.json",
+      "sha256": "c1a3fdc9904c915b2ba1b4d72dc2eb69f89ee4d93fbe9d864e2b866921b45a92"
+    },
+    {
+      "path": "corpus/mx/lfcp/source-manifest.json",
+      "sha256": "109964f36fd3ec686210b7243bf1d4e08bf6949eb7faf4eeff3cbd47dbd4f941"
+    },
+    {
+      "path": "corpus/mx/lfcp/term-usages.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/lfcp/terms.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/lfcp/validation.json",
+      "sha256": "a0178b3a123fea611550a63bc542bf44f1a778ab9b27542fe0e1e4e7819b4e79"
+    },
+    {
+      "path": "adapters/diputados/reg-lfcp.json",
+      "sha256": "73c53a9d3ea58d3b6955cc97bbdf012e6ee8003fc8300e8d14410e38298ff85b"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/instrument.json",
+      "sha256": "f762376c304808fd13ee6d4bfd7766eb743a68bdd854f22db50e741cb5477589"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/README.md",
+      "sha256": "158c6fe84ba9272f67b59179124b0ee805ccbaece7cc9b35ddab5bc49cb7a14f"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-10.md",
+      "sha256": "845b1404a4f422ac36e54bedb84abd54d78723f7049a6d4b3a8f6ba55e758096"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-11.md",
+      "sha256": "1dd3413c0919836be7117f0803445f7adae1e40ddb88b9958b3045d4b518c9ab"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-12.md",
+      "sha256": "4a4bec337ea2871e4f288051297586230cf3aa7e4d0450aa48fbab1cf8865fce"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-13.md",
+      "sha256": "2d54c779e1ec9c2d384b40c5c2666f07849291b2f61a0df22e668675023b6ffa"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-14.md",
+      "sha256": "3781f76329709ef54088749a94f529f8c1d53c325a7d3bd451118565362f53d2"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-15.md",
+      "sha256": "a0e3af99d1dac5e220de6d4c1d5227b8c242865e4fc47e59a470d9be1f48dfdd"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-16.md",
+      "sha256": "8ecdd56a41ebea1eb6d9f5b6d08c8fd48804e387cfd3b7e5800bb6f5600f7f8c"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-17.md",
+      "sha256": "33ea6901537e6b8b6484b183c3285778715326d41a1ad02b80eaf94628113434"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-18.md",
+      "sha256": "60a9315318fed0d26ebd64dad6ca4c0bea7b5e18e6b718c763a0d2da9b9984a6"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-19.md",
+      "sha256": "5af96a474ec169a579ddc123473866c340de36baeeb218cc219d7078183722c9"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-1o.md",
+      "sha256": "049161a7da7101eea532687fe03c0f1b8e7df7e66792cb029ec3c48ce569d311"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-20.md",
+      "sha256": "c71611828cc6f55453fae1137892c82b4c14da0157dbcd42ea1e1b3e655a966e"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-21.md",
+      "sha256": "1edf71162fba31c78f9afdeb3212c0c57659b099c27e2a05d3c445f74203ebcf"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-22.md",
+      "sha256": "dc1782c711c0548d214e7d05afb06c4cc2e1f263871d0e187ebc536e4eda27d8"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-23.md",
+      "sha256": "eccf135c97c85ffffb1240c246a973bfdc0a0e8dd5b4f5e78a051c38ba33a532"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-24.md",
+      "sha256": "712016333cf54cb1ad5b30f752a028a8ae1f32a7ab146bbfc187e99170c0780d"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-25.md",
+      "sha256": "6764da4e852ad5a25eb58fc5c5ad8fe07dd5e4cfcc6a6a31630d1901f025c826"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-26.md",
+      "sha256": "4393abbdc6ab2e06dc5b3c81de01ed16c23246995739afcb907b06dff6592315"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-27.md",
+      "sha256": "2a2f800934562727eeabf36e8a63ab0b839ec72c19c91bf99c506ee9f616e950"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-28.md",
+      "sha256": "6423b817d40870f5be8af9b133c9c216db3cb13280bc9f4fba41238c3572b4aa"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-29.md",
+      "sha256": "248fb2a52809059e41e12b2c0184a71a4e9eb3e15b7e7e39dd2783a71b7b1912"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-2o.md",
+      "sha256": "58f3257609f2aef6cfbbd644741891bfd38d139533be85101980642c27c65606"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-30.md",
+      "sha256": "624f76a06ce54b76e7632b511c750be4db362c5197044257f66691b572a4090d"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-31.md",
+      "sha256": "956c705b9048b79861828f78d78a10753c03dc557d1c89edce49e7e64dbadf56"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-32.md",
+      "sha256": "5b38e427bea5d1c20e57da56c5f7be71653b7972df5d8aa76ca9c19b584fccd9"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-33.md",
+      "sha256": "9845b120c1bfab3c6d9be78481915ceca3faebc35ef38334558b386b9dd1a6a8"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-34.md",
+      "sha256": "67de0b96d8babdfa311d00ff87b4ddf6218529aa7b3b07de4509b78429aa42b2"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-35.md",
+      "sha256": "6e004d7b09ceacfce67ff902c41604bcbba0dd5a75f05f82a77df6035ee9adeb"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-36.md",
+      "sha256": "e88d70ab7170a866c7bc2c24780ad440e75edadac273e90f895d873190344fe4"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-37.md",
+      "sha256": "1209c79da78f739d0924de3068e26904c71fa2cb4143f5b6ab7043e9f04a5a46"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-38.md",
+      "sha256": "9f2f17df98566262d4d111bfcf38b439bfe97c0ab7a193cc2b290162d9678da3"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-39.md",
+      "sha256": "108e190dc6a1b82939606e245a6f73dca363f99e8240866b662feff044643d81"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-3o.md",
+      "sha256": "690982c66f08f054b2ee5389cec61ae616f30bd603868d728db53ef656037c48"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-40.md",
+      "sha256": "91bf34ac829e52d160a26e6f5d5030c5167e696f8633d455974e0ed839eb60f9"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-41.md",
+      "sha256": "5d20ab86c466e2e02e772fd604449bba440f7799015e23320cd142f7aa483c1a"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-42.md",
+      "sha256": "6181927d7e33492e65de3c7498787c7c6bd1a3f005e6647d9b31ba2732864525"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-43.md",
+      "sha256": "685f0535e7c2044fe852e00b622a1e335eda061cffce7222349a73c15053b1f3"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-44.md",
+      "sha256": "a0b0d3395a685bc3b56aeae4907a54ad0e39d31431f3e907ca54d126699d07cb"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-45.md",
+      "sha256": "95cd49c91a15a73f0992afac27da813160ea341a8114a8d2891501f3cbcd94d0"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-46.md",
+      "sha256": "6a46da8681616c611a13d9fa6820d4989c960422a744163fa279b3baa85fe28f"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-47.md",
+      "sha256": "cf8100230aa6db156105b29eacc0ead801fd76a7f135c5e394bead8fa8121677"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-48.md",
+      "sha256": "dc9e92e7743dfff02dd78a27e9f1e0350e4af5468bfb2739b881c9d891846592"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-49.md",
+      "sha256": "5d0f308fb7a70f5e04d3331080937c881e9ca2496bf8f21493e859fcc4a99413"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-4o.md",
+      "sha256": "189b329c521f6a4b03cf43fcc8c367c49473db0cc53e22c485b7cd1bdc263fd1"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-50.md",
+      "sha256": "a918ef09eebcc2971743e01bb1983e80321125ec27931676599cff3427bf9e5f"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-51.md",
+      "sha256": "420d8c5d51de49cad32c2f0026202a92d3289a0c95f53763a3f1544b0ee1ac88"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-52.md",
+      "sha256": "1500979f1807eea4d2fd4997d364a2721c7f5d3b0c2b5ba2d5188e45d946792d"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-53.md",
+      "sha256": "8c5345fec01ef72280ed5855e7595f77069745590470def7ed1065b67a38e338"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-54.md",
+      "sha256": "11dd46acdc8fdbd4ac6571761e6ab5c98f7a8d46510860a4408c21351bef2f7f"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-55.md",
+      "sha256": "0a6318127940f978a97b00befd95930b9a733428dbc66e2f172e1443fbf02c4b"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-56-Bis.md",
+      "sha256": "a18a038bdc64a38a220b20b1b24022fc6fa82146acd46df7e509436daaa9b2cd"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-56.md",
+      "sha256": "7544d9130c329050e5f0028410e481ae2b082c792466a7132dd6475d89079854"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-57.md",
+      "sha256": "8bbab75c7117a9cda487064a33d98335838d8ea89e44ca1d7dfd6e6230c1b478"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-58.md",
+      "sha256": "ac4aa53aafe981c9974ef272bb1fc5bbd3d6b83a9650470bed2436b2e74ec30e"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-59.md",
+      "sha256": "b5b608fe484fc1648b968fe0fdd422a8e0d6218844ff0b1a192e21d0309d6851"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-5o.md",
+      "sha256": "6d039bb96ebbe9d36c57b8c722d7d2d6b40bc1b21c7795d15e494892eddbfb28"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-60.md",
+      "sha256": "a905ae51115e8929620f83083be640033f76a5b0eb6327180ec2b103d18d0b85"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-61.md",
+      "sha256": "b549790ae1885bdb1138590370cf50f8941fe4bc82d68d6afffd2d4001fc2176"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-62.md",
+      "sha256": "c603433fa11723008d0ba86f54bb98bc5795be7975b7d27cce208ece6b7dcef0"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-63.md",
+      "sha256": "b8afc3752093ea8f1de4cc30b17382b1e62ca50f59f7583ded43bcc6c4e1bc55"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-64.md",
+      "sha256": "df106ba7656026e3c9d8032a852c761e3536eb0fada9f668a9795b1a6314f285"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-65.md",
+      "sha256": "951e79b47241910b0195107e453009ddf81faa85ae2df65cf9126add254ad893"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-66.md",
+      "sha256": "013f896a0c316cbab3bcbf5bfd62ad5a870f653c9a3f08a4e8f64faa2104eacd"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-67.md",
+      "sha256": "21e3f849e5716c79cdc30ba6677433f1ac56dc2e2b10b84590962924e246334f"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-68.md",
+      "sha256": "1d65eb7713d5132183848ea972588c51e195c183fbdd12b35c3649c7af6e2049"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-69.md",
+      "sha256": "513aadf83a2a9d0c501fa92e16c5518cdf25e254cc8a6d60f8875ec47491f93a"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-6o.md",
+      "sha256": "ef73150e15b9de858576757fee4147f4bb3dd8f2969b46ccfe93b31f4fa5e22e"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-70.md",
+      "sha256": "8322bca721c91176fe0e8af9865b72a97124f8d119909fc040babcb2e56840b0"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-71.md",
+      "sha256": "39a86edd57f2746d62ab7ba1a98aa6501596187a3b8568465d6c56ae8ff2efad"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-72.md",
+      "sha256": "9d5b6d9d6b75f152c991f6d12fcc217e862800efcc65c0df3f5a2c0a47d9704b"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-73.md",
+      "sha256": "ddf578e94c1151e9e1ef98fea5f702954e3c89207cebbb2e8a897f815042495c"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-74.md",
+      "sha256": "b5c02ea5d66e14aa5e16d2eb7b255e805f0f3f4c52279436efdca794df4655a6"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-75.md",
+      "sha256": "ccfc2e88cb0d751ab32395247080031eaed54ba36df3303ca1ae985f3956f0a2"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-76.md",
+      "sha256": "07304e4c9e2c08d23e261cdf58fe867732e45e7eb2ff86113a110e23e92a2bdd"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-77.md",
+      "sha256": "a20287bb51238fa8d109b3b9b2eef4b410e3b50ae21bee1324fabc96c27dc70d"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-78.md",
+      "sha256": "cfae862b0ce3addee53912f51a9882d980dd263f420e0f1fa2a38c9d23f71af0"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-79.md",
+      "sha256": "635867073057f00f534868437c7ca7239433b39ba631a3b5fcfd8725ee405ec9"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-7o.md",
+      "sha256": "afc35d24eb7852b1ccbec0a5789daa8c2b42422d8846ecc3386ceab9b0e5dfb6"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-80.md",
+      "sha256": "f68c607fdbe13be796d18f3e75a7fc096d26ab1ea430d2a2e1ee2e6b1f6319d3"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-81.md",
+      "sha256": "0c4d5707a4bddf407d7ceb7aa6f0cb689fc873d21b69d19db8ed5508ecc825b9"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-82.md",
+      "sha256": "ca4e68b8d1289f27c65b270c603c94dcf71c2d6a7bb122ba1a2c8d262a64e15c"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-83.md",
+      "sha256": "6e46120d1d0de5ebd2c5467d1014b4a48628f46cac4b4d75789cf7aa84a0e1dc"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-84.md",
+      "sha256": "44fdbb0df2bb543bbd317cad143d4f5d14dd9d2d30a36ed70245979f5f038ce8"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-85.md",
+      "sha256": "f96f9b5e49ca1e6250238914c84d52aef695d9df537eb333f06eb7a60c213421"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-8o.md",
+      "sha256": "15384449a71fe9260a9c1d04921c079f6cbca1cf16b458828041b0830bc176d1"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/articulo-9o.md",
+      "sha256": "a2ba3b02331d252280828c7959e4eed585bb72ad14d8a34daf8162bb7f277d6b"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/transitorio-cuarto.md",
+      "sha256": "833815a32d836a8dc2db88628a4df9cd311d97bc613949d39d107316204651af"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/transitorio-primero.md",
+      "sha256": "eb151caa02dfca14cd7c1294d8321c77cb66e00e2be86847017e887b2a10493d"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/transitorio-segundo.md",
+      "sha256": "a1763f3b9eaa413fbf7f3b8fc9cdd5dbffa2c3ee26cc9711226b2ce9d501275a"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/markdown/transitorio-tercero.md",
+      "sha256": "a9ffcfff59c78f42c664b0a6034a5a69e65dd6321d478ec93d8d9d755ea5a106"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/provisions.json",
+      "sha256": "b8eea521e783eb4004a19cf09498aa98821bd7849987aa737c45b0c61d1839cd"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/references.json",
+      "sha256": "cc04696d403834cccdfea3b90303110c897e088d0ac8c8d3a4b17f4750145220"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/reform-temporal-evidence.json",
+      "sha256": "65dd699f6453a64afe3351edd555957e9a1dc069b159518c59dfc315d2ccaffb"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/source-manifest.json",
+      "sha256": "549a5ce30dd12b184c06665d4576c41e98622b36d2d1f80ce5a229a05ac9e249"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/term-usages.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/terms.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/reg-lfcp/validation.json",
+      "sha256": "ba680adfabb62f7911ba09a248e5bdefb2fc828444981ee67526642aa8c39365"
+    },
+    {
+      "path": "adapters/diputados/reg-ccomer-mpsc.json",
+      "sha256": "704245fabac73ef10ff0f386a74eba75d8c2de01be43c27bbec34caaf6a36ac0"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/instrument.json",
+      "sha256": "5a9fd7fce2a1097e38ecc3a87abeeadd8f61f8c5db430b3c9e336bd9ae505684"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/README.md",
+      "sha256": "2a130d18dc568b710fb487e8099d8bbffccb33ad743513785743d7878d5df27d"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-10o.md",
+      "sha256": "6286cd757dfb3dd3d36696908de3c0c684fb3f9e406bd0c0f93555d8f3a90143"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-11o.md",
+      "sha256": "13cf6877e59f00a506d7496d916e80a0627f3b18a57fca9743011cb09c184457"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-12o.md",
+      "sha256": "4ae2fb2194d6af17de705befd7f32dac5c7c6d8e8e85e91e1be892fd709d3d59"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-13o.md",
+      "sha256": "3d8cc0b6eb8c0e93ec68bcc919217c23830bfff7267f4335a64274de2f2dc0ad"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-14o.md",
+      "sha256": "348bae224592dbdf90a339121d8d4097ec6707b3972f13f5c9167bd4312ebe13"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-15o.md",
+      "sha256": "2acd968a291353b43a5f3c9accd5ccc5ce46effb790e432d59ec9faba5c38c05"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-16o.md",
+      "sha256": "2f1d2dee3f407c23b68f5af2ae231ac2e19c8ac40cd58027b149a7f4535ff094"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-17o.md",
+      "sha256": "298a0c2b614214ed67f945e95e7f5e9af20dd5e3610559d92dbd4a4efb1d4cbb"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-18o.md",
+      "sha256": "b8274433b9e46158b8c668b24f843db048136b3aac503d2ffa0d9daf0b922b8e"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-19o.md",
+      "sha256": "a5c047961858b907cfb9e27b12927acdab7e24869c2246da5077e1ad7ea3b0c0"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-1o.md",
+      "sha256": "b37921dcf4f411ad68ccf7bf487dda1be81c8fabfed08342a5dfdbb5ecb1cd5e"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-20o.md",
+      "sha256": "7d47807a8e933678597df4a0916947a074de9b2e782b988ec9e1e913b607584e"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-21o.md",
+      "sha256": "6f3abb1563e02d11dfdbef59a941d45615326c49857ae6c9993bb2e1e9b74286"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-22o.md",
+      "sha256": "6a7c50b2fc7d1d9af8abcaef0ba2787a2863a6f5cb8e3aba7b242094c54cdd8c"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-23o.md",
+      "sha256": "91dec8e2a5b6c3cd8d6ab62364c379829c07c0d74be958a1c8391e1122540aec"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-24o.md",
+      "sha256": "e889e206dc6d98796a11ab3714ba46d6e8970970cda7b1ada32527a25ebdf1a0"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-25o.md",
+      "sha256": "a9eb82f105d5e96626bdbada01e7c19f77bd62e65032a5d21ef481a050f16a80"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-26o.md",
+      "sha256": "720078520a0605262d2e5aee8403c10a8d6fa7d10806526a22d7f7849f24aae1"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-27o.md",
+      "sha256": "10451ecb81cca4867e0cdd380ac44cb603bc96f39efd3d44e8cb6f086a52113c"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-28o.md",
+      "sha256": "55e4f19af66666a846960d83b017079265961d29b7673cdb5c39324a7177c10b"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-29o.md",
+      "sha256": "502145fd227e8f51c62e96813fb9ebf629c5a60e08ba9dba0bd184fc1d431e20"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-2o.md",
+      "sha256": "5b0213f7729f4bf7cc76103b69a7e9b4b2eceec57fb32a8d1e1781fda7b4bab3"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-3o.md",
+      "sha256": "d0c002e7286e448f5ebc687bc61cd78aec2db233cd2141c09b0889de0dc5a8b2"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-4o.md",
+      "sha256": "54a4a5e30a2bb114ccd2b16ffac0afae7e2bfeaa1688771c47099086b4139479"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-5o.md",
+      "sha256": "9f744691f872047ba0b28791571cb1c97e972187b4c94ff79ed37302fb492b13"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-6o.md",
+      "sha256": "8794b56265c4e78665d80538c37919846943c72d00a5d732f18dd84a299c1762"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-7o.md",
+      "sha256": "563b13c76005e2eff9e84cc03fc43f427ad1f926900ebbd52858230cc6a16df5"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-8o.md",
+      "sha256": "1f0ce988abef301652f0157867308f111b622ebb16d5f6f5b26ec86fae814844"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/articulo-9o.md",
+      "sha256": "a0ba2d71f0d6aceef3e56be3394fe2a7495b05e68d52b2b1b4145e9006f3bb75"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/markdown/transitorio-unico.md",
+      "sha256": "622d1085673febce81526283be7b3c1f772070c99b055cdccf5b1860610ebbd0"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/provisions.json",
+      "sha256": "e25c9eab41440042a48e4a54301e56d799aa48cb1058c97dd63c7169533cb446"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/references.json",
+      "sha256": "59188f9f75cfefaca51597f42ff544cbc69fd1e481af23c952a3bbd9291756a3"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/reform-temporal-evidence.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/source-manifest.json",
+      "sha256": "13eec7ead1f2fe3333b5fe1401f47bcaf079bc8020ad433beea3fb8b0ca9789a"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/term-usages.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/terms.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/reg-ccomer-mpsc/validation.json",
+      "sha256": "1c5025c6dbf9ddc40f4401e583bc633ba328bb9cb21a81910481e5fdb2cbd092"
+    },
+    {
+      "path": "adapters/diputados/reg-lfpc-art122.json",
+      "sha256": "a3b22bc71aa972c73399bb183b4e747bec3d57c6b9e45832cdd467aa5502f667"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/instrument.json",
+      "sha256": "478741734cd010e4d23adfa2123fb44607efae97aee954fb8ac562b869d0ca58"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/README.md",
+      "sha256": "319786c6ce2cfb29c36d0c41fa4794f23dc91cdfffd05871813264daa4e98722"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/articulo-1.md",
+      "sha256": "6cdebec7c400103e051621db311030e0b1e2ee161f45483da094df326a401c42"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/articulo-10.md",
+      "sha256": "f12cc9ef68fdb48fe5446accf14f53c08803017957713cccee2a6a14aac8d63c"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/articulo-11.md",
+      "sha256": "523546a0c9903a36479e06e2d30f118c3fa5d7c02ea97a276de6d5d7dd1e54ef"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/articulo-12.md",
+      "sha256": "3cf485062be1ccb86676405836d74715fc6bf7f7e417ba670676e732dd45b2d5"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/articulo-13.md",
+      "sha256": "33773d5729a8ec2fa25735c6d43afc0227045e35588653151217b89da806c707"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/articulo-14.md",
+      "sha256": "08634460052b1df4fba619a33af90c1c97ae710b07c0cf30d6334ec55db2659a"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/articulo-2.md",
+      "sha256": "300038f18de6d7c6abb4045adb8fad689c0dfc8c10e48e03288e373530c0470f"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/articulo-3.md",
+      "sha256": "5c0da100958a25ba1d7e4a42ae866e9c1cd747dae51c318e84f7a08cd85885e9"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/articulo-4.md",
+      "sha256": "d8642ffbc91a4c094e4beb43ad1d8de2ba3f1f48ac312a3cff653fb4b776b7a9"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/articulo-5.md",
+      "sha256": "dc4de2f01c2591ca529d255f0192ceac459a083e5ea3561d7090c2f24ae30279"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/articulo-6.md",
+      "sha256": "4788862c2aee2a197ad27e28d581d98da280f33df858a2c918036af1be4a206a"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/articulo-7.md",
+      "sha256": "a55d2ce21d98b923305cfd82ac5e86aeb00df03288f3740f194225a130d7e83f"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/articulo-8.md",
+      "sha256": "de8d43dacdff8f877a570b94ec6f5a08d179bdba081d3d4158b00b660cb9d43a"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/articulo-9.md",
+      "sha256": "428989ff5c7ca4853307245918c20b6c320f4b9c53eee484e38dedb437b56902"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/transitorio-primero.md",
+      "sha256": "44429e98b108a39df9044f8c5be3fa0dadb4d9692c41ef95866594311122df4b"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/markdown/transitorio-segundo.md",
+      "sha256": "7821955c53f5e4624bafb1ef279b45cfe6dc98b6ba073d1c785d19fbf6bea519"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/provisions.json",
+      "sha256": "3dc7ee0e110fe1a11a67be6313024eede30f36f7890ac0dd562f1d052828ea70"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/references.json",
+      "sha256": "ca101ff1e7970737a8ff71920c654866fa26cf38e8ed60bc1d37b643e601d055"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/reform-temporal-evidence.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/source-manifest.json",
+      "sha256": "fde6b7c4e13c9d3e23dcf017b46795ee62797f28331b49b1cce0f3059ad2e0c1"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/term-usages.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/terms.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/reg-lfpc-art122/validation.json",
+      "sha256": "4dfcf79657df75aa9ded044de70a11416f3bffb1b18f4670e3fe89bf501a8df1"
+    },
+    {
+      "path": "adapters/diputados/reg-lfjs.json",
+      "sha256": "0c45624ee9360a6121c64b31efa46a1ad96944ff523a543678cb7bbc44aae3c7"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/instrument.json",
+      "sha256": "76cc4ede7ce6fcfdf62e5fed81cf04b8994d4b36ea4bc8e0042eb3acdc011356"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/README.md",
+      "sha256": "576c1a929afc97b7917c39c94ee77a4d07accf19ef36f238501b1b64ed153d36"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-1.md",
+      "sha256": "7f884eb2aa32af5689a84384ed6b3bb5310434795dd7f39741a3bd49b2f22c7c"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-10.md",
+      "sha256": "a6e3a2ed2e85509df31fa5c5cb221e99f71dd885fc5e4cc5d7b42f29ed276c3a"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-100.md",
+      "sha256": "2a933c359f71f38fd5d5d5b6ef61eda47021001482a895cf23355f4380799baf"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-101.md",
+      "sha256": "fc37802c632d233d0875869dc7046db0d4c8fb0aef9ac785e7e5f51345e58959"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-102.md",
+      "sha256": "4f5b9b558bb491265f3346f2fd0c08868f736f25e8bd091ef9009e613bb1be99"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-103.md",
+      "sha256": "ae761f64e68f1d83fcd37b07519fb6b006189a04f7ad474c3a800573061542db"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-104.md",
+      "sha256": "7d5843aa0cd99243dc67ac65185787a594a25e63cf28f00d367a9726f0360d7e"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-105.md",
+      "sha256": "af6dcbbb86b28b48a7efae347516e5c57b70058b2a1d5ed074250a807ca33864"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-106.md",
+      "sha256": "9e8d02d3ec019c298e374096ef551aeda602652a42e2ab7573633d756b1af461"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-107.md",
+      "sha256": "957a654f4da473ffbceaf0b183c7f66b140156139be6ddf9041993d482e9ab54"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-108.md",
+      "sha256": "0f54f4e5996eec992af10ca0806ef8adbf1d324c8923d220e3dc0f286d055ae0"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-109.md",
+      "sha256": "bb116c1fbff215e10ea1db5de8aa0e589e0d8daf5332086f7f029dff689fb873"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-11.md",
+      "sha256": "095ac97edb51b8895d50370c861aca2608303811ace787c31be15e77814aed06"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-110.md",
+      "sha256": "0fd14ca3364fedaf23af3d24943245b26d60fca58ec4c5b99f481c94d7c53771"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-111.md",
+      "sha256": "dffd5875a6a26cebc627e98fc2066acb477767751881954d0a954899836e7008"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-112.md",
+      "sha256": "8d7a35251e9a09b35904157a6667882c7b7996a2bdeac1432b22281648a6ee30"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-113.md",
+      "sha256": "7f033da14ee6c17c73f1c4d80f34f2701c1fd26d6e882abf5eaff9f66c74202a"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-114.md",
+      "sha256": "60679a52297dba7719d3ee2d82a06a83d39696d5c0ae7da9c92860c224c415ed"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-115.md",
+      "sha256": "2a5a94380a1287ccaeb9b1fbe6affd2b03d26e47975bb5ba166ff9f829a50124"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-116.md",
+      "sha256": "c864fa0cae31f6623134f0fcaf7735eb607833f4a54df7608f19694e2f926901"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-117.md",
+      "sha256": "4d7087ba27c3ddd6f29e8d4cae89c1e73b27a519a93c92f5c6d91ae3fda15218"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-118.md",
+      "sha256": "e74101c0863e17e923dfe294d616e3212fb511982cf92a25f3e8295b9f144a43"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-119.md",
+      "sha256": "52493c05010814b65dabeaf9112a5d99c22b98ba57f9642f5f6a8519f30eb590"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-12-Bis.md",
+      "sha256": "3d6bf217b64ae91dd9f9c7a7b5bd918d1182eb8d330d5f4c8cde03e2e8121926"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-12.md",
+      "sha256": "32de266b558eb19b49207c369e40409051bcfece3939c96959dd737b904540eb"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-120.md",
+      "sha256": "0048ef3b8b4dad7d4d49c3abff1873b00856b9dca7beb772e61efec4a8e101bb"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-121.md",
+      "sha256": "2456478c5d16ba6caf5e4d0178cb63f4695835f2e5205933e8d6e6c48fa512ba"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-122.md",
+      "sha256": "6f3f9a6e1c57bf01adf6e417eaa0435cbc05bbf87012729b714553bec32dc76e"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-123.md",
+      "sha256": "3676b3b754e2cbd07a036ae55b81a9c7e9fd31cad61ea65ab906ca50432355d9"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-124.md",
+      "sha256": "f906207c447f99890857d1cde205f2c65cd47d5773912218d76b1cd4eeaaa056"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-125.md",
+      "sha256": "6799235f99c300e76c6cd5f9d4d011b9896e3773837580ea82e019eed4a60040"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-126.md",
+      "sha256": "8a17edcb4289404baa12aba86d5137b59337a63f7474a4de066fd7da3330b408"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-127.md",
+      "sha256": "847c77591c57c68b62aa6218f3a847c40f7dcb872ff03b020572b0a97e9d1cf5"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-128.md",
+      "sha256": "fab23fd3f6c9edee5706bd3af6475b835912dc661431c6fcf4a72296d20b839c"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-129.md",
+      "sha256": "baaf0adc881f3bdef1331ccfe123dee14e01258daeaa1f22a26dba2b58b58935"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-13.md",
+      "sha256": "fb7f85631d290c0f892f9816dcc418fd46f527599af8c7d2bb18c0452d9e64cb"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-130.md",
+      "sha256": "9a073472411de333f985cba958f43547091bd2926e9029570359727dc37e0286"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-131.md",
+      "sha256": "1c83d4bc061867a9f74fe67a373328facec3b947abbc179df5afa8d4d992146c"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-132.md",
+      "sha256": "6e09acc39ac3660bda0f80712cce1bf646d6178c0468434f9d67b3115e92b84b"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-133.md",
+      "sha256": "c1fa760b2620b7e0b316e50179942382ff562bb8aa6163303a27969ec7445161"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-134.md",
+      "sha256": "9455e1303faee63c72408f74ebe211c95b3089cdb3d7f67627e8391b7e49de0d"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-135.md",
+      "sha256": "7122e48836c2b8a46d156bc69012c0c5da5d5ae242cef8555383da48c078bc8d"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-136.md",
+      "sha256": "19280e3bf52e390ca14a77fd94634d0963600db8cd02a20c47e2ebc1aeb7421a"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-137-Bis.md",
+      "sha256": "6ba5528f61a78892a36209ddd2b367f9fc5a538b4f2121ac67b8f66fa412b2a3"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-137-Quáter.md",
+      "sha256": "5c142a01c4b7d517696ce92a48d714cb24672a89f9312cb75a96817109d863c2"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-137-Ter.md",
+      "sha256": "10a719a69c684a8a54b7a15673f5d62f986560f356476927bf9ab556ea9d7430"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-137.md",
+      "sha256": "a5a1dae019068a6e9b235188ebeaa4d64cfed045281dbbcd8aa605734dc1183b"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-138.md",
+      "sha256": "988bf71fa8ce9ed3625c4596e2d2f5e8ffc2b74a1347c3e7a9412c60f20ce6e4"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-139.md",
+      "sha256": "d2c0aee9c2198ecd305a049832b20dddb8e78b89b4517fd16523b520cd27f768"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-14.md",
+      "sha256": "13f8a9c62111cc74f9e3e03184d3a4d9cbe951f63d6527aa009b86e8e1f85dd3"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-140.md",
+      "sha256": "34d6b63a856938101347ecdb63b457d001936ad0c55470b373ec13f0d5cf3906"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-141.md",
+      "sha256": "eb83148badde3915bdb7facc2cce5dc9b8d07220bc7cc1acdf1b0402ea8ba1f1"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-142.md",
+      "sha256": "37ac9c776e5a46107b6b77ff067df5f653e17893c8e607d32e3cc58c9f8abd9e"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-143.md",
+      "sha256": "e3ad6a9161115141e9a54bf4ee7e3c015b463ecd3b588bc7d0fb1485ee7ad822"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-144.md",
+      "sha256": "d35da29b7445060d6662bf3195eb6591dcbaf88b94d69b0b6b1248b6c4dd1284"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-145.md",
+      "sha256": "28d5b7c14bca890ad87d5354cf5bbb75134b89c77cbd46228613e7a7f0a7d42d"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-146.md",
+      "sha256": "0542a880012ad5402aca8ccab4ca61ecb600b938f790053983c8f4d8ab9daca6"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-147.md",
+      "sha256": "02130a29f2cec7f27f5a71f68132fc0e76e8350c70ad71779276bd81725bdb5a"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-148.md",
+      "sha256": "f9c1563a6df47053e37b65a5eb684bc03ed2c9c24f952b055c2495c9edade04f"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-149.md",
+      "sha256": "5a023c59e03acfeda175b5bb9ff86ed71c23330ece167dbf337abef1871f1d97"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-15.md",
+      "sha256": "ad23fd4cfec031d2e900cd2806bcd359db928ba0b281603647fedab6e7deafa6"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-150.md",
+      "sha256": "832d91f74b98e01b22eacf5205355119bedd82c0c8cf76369e70ae0dccbf575f"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-151.md",
+      "sha256": "f077c54b906552b6280ede8575f02f7df03d597747dc4a2d1dd86bb9d0c6854a"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-152.md",
+      "sha256": "b36279d81275628fb2731c11030b12426dbceb94245c1ac42ed113245f76e887"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-153.md",
+      "sha256": "0828e9da5b5d69eb92cb0f92b0ad4ab5d4966253059afc0124375b2f4a94e2c1"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-16.md",
+      "sha256": "489e157255d178fca828e1e8978d049dda5ae2399f4cb95e15bf38ea5c7e6ad7"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-17.md",
+      "sha256": "d20a35ebaf6bb8dde02a3dd42e8c59feb2098278868facecbd3dc99367056692"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-18.md",
+      "sha256": "0c1dc1119fd51684295e7a89d4a2ef3adf7588d0ebf8f7190bdc0c6a16410cc0"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-19.md",
+      "sha256": "b95e9c5e4ead5eb50b6b4f9ba6f541d85d9ab9d8a9971a923719af3dfc6f5e04"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-2.md",
+      "sha256": "e85669a6d42eb968477ec4de1bae5b769f4f44fcfd09217c594fd17b9b2aee06"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-20.md",
+      "sha256": "a77ab0f33254655a0e94dcbdbefa15ebae119dcbdeef8efd3e6821f7c3812e66"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-21.md",
+      "sha256": "8e8e235f0ee91ab225eb5b0197c4fbdca27bdc0b834a09a90a00fb0a30daac78"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-22.md",
+      "sha256": "91d12f502bf778c7a8f77ba8060ee8c0d4913eb5aababc064c760112d5e2a980"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-23.md",
+      "sha256": "3a6171ea5a7176dcd90ab396559194e0f4b1e3047fdb16f6030e462a8c3eb6cf"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-24.md",
+      "sha256": "6a097205e8db82a0d636f496ab11b72f77eb86bd8f331f956dbcfb5fcf602bbb"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-25.md",
+      "sha256": "88c7c8015009278d50d343184b3a789ede5a360e83e7d2997f0c5b79e4f60034"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-26.md",
+      "sha256": "985739b539b1a6dfda660eb861f3ba9547d6ae9bb417f671c01fc25ea20eef61"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-27.md",
+      "sha256": "7da63ea3695c1e8a105729b5f71a6e755d3f9ac702b6411be754c40283daf45a"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-28.md",
+      "sha256": "6165fc73d810c68f466c31259ccd3d3893be1efa0d434c0445860a870cfc46e7"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-29.md",
+      "sha256": "483af61d79af6993769e10b1b695169a9cac4d9513ae2edac36f0df941e08818"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-3.md",
+      "sha256": "24d9cf524aaca41ee9c48b3c8d654b20fa9bfe1322d3a66a8287c945b4730729"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-30.md",
+      "sha256": "f00f0044ab99ecb66cba876f9432fa22dd4e3fa32c95efd5c6a141f3647e9ded"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-31.md",
+      "sha256": "c98bc705368a407092b7d72d23da3c492130d4e0a635f2b604af732c78bac12a"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-32.md",
+      "sha256": "0682a391f3f5662e9de6f58b9402607747074ce191dc40f1149ef81c6fe5b08c"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-33.md",
+      "sha256": "506c1de2bb192240c021dd058449de34e725c794e3bacef75d11f26ce9bb0506"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-34.md",
+      "sha256": "9312f4f8f14f1412390bb66e5effe21b9833c4a6fd3a9ef88467ac9a17674cc6"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-35.md",
+      "sha256": "cdf874fad7d7bac7427a8709a18206f195d86d101a60884da8e646aaaa841ea3"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-36.md",
+      "sha256": "badfbbf6e8b84f2d47b7bb6fbead3330e49ecb05ef5c2c80c52a7d2c8f5e3793"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-37.md",
+      "sha256": "87f63e4047a5410baec77f9727a56c464cf674d885f53b2b64504de1b3f7f644"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-38.md",
+      "sha256": "4ce3120a8bc572a7e6d81a69699b23ec7c766fb1fd9298fa060ac6860622de3f"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-39-BIS.md",
+      "sha256": "07c71d4afe07885d77407c6e3417a609d1a98d6b76ace029a949ce28051b2736"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-39.md",
+      "sha256": "20431f4c16c92dfc381bd910bcae78483aac326599cf517b1ed18afee60735dc"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-4.md",
+      "sha256": "b2c803463fec5d29daa6dd624d829b70190ec6a59f220fe45ca49543cca1290d"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-40.md",
+      "sha256": "c76b4c885557bd6b8b7d75b97322b489ea2000282f20efc4eddfad381d42041c"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-41.md",
+      "sha256": "b8f40c1923c64504fa157c184fcad9e76d5dfcf72f2899b407032d06a1b543c4"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-42.md",
+      "sha256": "5ed10f4d050503dc0eef51ca5f67ae42267a54ca350db1dc45880fa4f69d2239"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-43.md",
+      "sha256": "a5943ce6479bfa0165444d77f8e0a80fdadcbf32e8f126b559ede6eccb8ce99d"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-44.md",
+      "sha256": "27bf05353ac0bd2b65a1f3a0856e2ad39fd79f2e6679706f99eeb42b355d4ac2"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-45.md",
+      "sha256": "cf731545fb78875de85aa69c3c4448594422bb973d752450e70a0016a1bbbb1c"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-46.md",
+      "sha256": "82f06d40e605f02a54bf1e42d5ca6a9c658f79dcbefa4aabf8a017f17932f2af"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-47.md",
+      "sha256": "459ef0a4fdc9ff801a1d461fc0e99864f473350496989812ddf80ee75dc56748"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-48.md",
+      "sha256": "35b954aa58211f921a8b8401ea8ea77a20cd844d68be311441f34667e601e432"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-49.md",
+      "sha256": "77dfa4ff39a39c35d7e163df9b81798ba04d7db0e9a294c59b6ad9b14d27a973"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-5.md",
+      "sha256": "aa50f4f5983eaa9e4da43d7ae5fa9539cf5e76a543711ccf76cf7b413f43dc17"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-50.md",
+      "sha256": "f56f278de9fa5fe5a707342c383187ca6fb6ecb94db443017d62a68833b940cc"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-51.md",
+      "sha256": "e297dc5999640739b57a98f4fa4ab7cf6dd4dac437de61d1891892600f9df6ce"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-52.md",
+      "sha256": "8f226ad42ccd1ce876a0b19652b0758f8a3d678a26c456bcf3584e3094a9d9db"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-53.md",
+      "sha256": "132e0d52683453b1cac024836d8c394dc37debd5331eab206293c360e271afb0"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-54.md",
+      "sha256": "a209556da08ad8ca4498a36d3024a759ca94243dc0a4f7232a26665fc15613d4"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-55.md",
+      "sha256": "298fc1e3537d978e92634ba4fb01b733cc2f4eb7bae4e6a2ee6ffbcf316c8afb"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-56.md",
+      "sha256": "30397ee2e3795bb6124834abf5a5b2723296801544ede88ffb673e7cd3a75eaa"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-57.md",
+      "sha256": "4dd62f7c74109fe4b3524e7feb7600bf2731bde0861dfcdca31b4c582d289889"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-58.md",
+      "sha256": "4734b477f69381748d8d1d12b33124812219f4bfff1cc78f26b802497c78f3a8"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-59.md",
+      "sha256": "df140b00b9fb9d7167a4dcaa993e2a8d991cd76002481135f18babdf849a9284"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-6.md",
+      "sha256": "88412df60a06f0e2c0711184ed3a337c28a4c81ab90465a22dda218dc143c7c4"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-60.md",
+      "sha256": "9c0f2c9c68e644764016cf3b2402567315910511650dadf490731546e3fb061a"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-61.md",
+      "sha256": "5bb481c9d021e1ff7c8b6860306defc75d5d953789b0af7647f244dc55847133"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-62.md",
+      "sha256": "e6b07cffa83460b0da96c6f03c80ea19dc20401fb86174903e6f73935dc7d2f5"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-63.md",
+      "sha256": "681ad232422a8e53a3621dbfb2ce66f38b5e15d168e4d9d16706ede94c921b63"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-64.md",
+      "sha256": "12e55becb80effa91912e1ff1caa60672dbfb2a004d021e30b7fa1ba799ee5a2"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-65.md",
+      "sha256": "fdc3c27c95988f058a3bb8db0f1ba228fb9ea279f267eb4395ee73633034837b"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-66.md",
+      "sha256": "9c6c6d1de97f9402c0c1000f89699379986c05595e6b5aa41581f5fe444038dc"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-67.md",
+      "sha256": "a16747bee3de53979d36f628ae503f717aed5c126924a9f2dd8744c45925167e"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-68.md",
+      "sha256": "5ce5210a4f12a5702a8a3478779d576253148909bc94c3cba662afb8d31164de"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-69.md",
+      "sha256": "047b281962819908f858ee38312e6bd112afda711d84ad0937a0dcc679f39e50"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-7.md",
+      "sha256": "59af3d93acf81f79f150e1c622a29a815622004fbca65f92a1ed0833fcb24b33"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-70.md",
+      "sha256": "3ebcd26860071db9b1c427d5782e1325cfeb567a6746abb02a36c3fe398f4e36"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-71.md",
+      "sha256": "3ce9f6766f14bbbc0892c63b262b342d2f7ae56a687cf7444166bb9ef2256be2"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-72.md",
+      "sha256": "751e84fa9cb1b2395cf2d1c0e8f28fbab171eb270e19c4a794de7eeaf0bad53c"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-73.md",
+      "sha256": "23d7007744bf023b700a4c9c6c48b63e7ec42dc797d9149fb3294b3f9a1bcc3f"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-74.md",
+      "sha256": "2e95b9ddd55b1f420d4329ab0b752d6cf6bb1a0b2c73ca787a0f4b35696dffe5"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-75.md",
+      "sha256": "86a3337d79f5e7c8cb4fc1c355c21d740b453d73d8d7c86e13b8169d5f026a41"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-76.md",
+      "sha256": "a961825b7c9c8239232ab9bf7ba884597f05597f3fb33e4646b9308cf4fbcac3"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-77.md",
+      "sha256": "2ade8f2d3767c0f627a0ed229a7ea1371ea09a8e6f3c2f0371cbd80493fc3d6c"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-78.md",
+      "sha256": "a89b4504bed7c0e998ea01611729f520252693304625288dd03c31f819eb5f81"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-79.md",
+      "sha256": "1ee597295ec995175edf3ee178695738ecbb06f3312290b447cc41b522134927"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-8.md",
+      "sha256": "c9331c8a04d9e45e7abf438871eeef115c82036fa4b32be1dd53e5717bdb4523"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-80.md",
+      "sha256": "9b909eb7d12a2de15fa023471e08653a000f623379ee16eb67d12e53cb5df266"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-81.md",
+      "sha256": "b8dd670b315147407466c2b59e6c5caaf7c465f2b6cfca2bedd823181b3a95f7"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-82.md",
+      "sha256": "2ca9e282eb98edd4f7a0af04381022a82a2e26f6c00073a6be01b228410cd88e"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-83.md",
+      "sha256": "46e01a8279125dc5a01386854cd6f35ebda82d5ab752ba75ccc81c3213a2ecd8"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-84.md",
+      "sha256": "b29a4a4f60e6d41565032f54a78ddf258bd58727dc17742ce440eb0a41cac1c2"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-85.md",
+      "sha256": "b36feeb21f636c527bd7881474c34dc92c289c3852fd38ac19f470b9ed0b4130"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-86.md",
+      "sha256": "d4c40f797f9366abe883d1e4194451e65b50c48627c7cbac1b14243787f0fbbf"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-87.md",
+      "sha256": "21120ce1b2e026e9fa641d9c6b3a3cad38c86421f04c0345bc94e8f7101552f4"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-88.md",
+      "sha256": "4986217c95ddde481e97c9e529d75de8be862d81efe1899fecee8bdc4e9aea78"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-89.md",
+      "sha256": "40ed158087ca7c2d55e6efe8d08e2e29cf53be98476ae59c6f619f24f933ad68"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-9.md",
+      "sha256": "dc89a701d64e29f5e6803fcb7babfba4af93e8d992dec32d3cda3ace62c76ae6"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-90.md",
+      "sha256": "01a2ad627cbdeac1283768d6822a7d7588a347ccec142e899205a4acd7e64d83"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-91.md",
+      "sha256": "662634b598ff3b316b436428bdedbfc898e7667855f5a788e065153604a8f874"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-92.md",
+      "sha256": "861260cf5b7c86537a9f83bfe9315611c486f20b481fdf221e5ab2f5e92157ff"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-93.md",
+      "sha256": "36c2ef7b53a8b7b7406aa2ed26d6d84073fd9c3d94fd01456d5f2e91bc667947"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-94.md",
+      "sha256": "a6445099bf9b5b2a71f5c266580e37f82d0f5a48ba6ab876c7bb1bea8e09f545"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-95.md",
+      "sha256": "fa11294a685c8d7b0d41c3c5528b47b7f7f34025ce573d45e03db3e676771197"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-96.md",
+      "sha256": "acffeb258f3e0f939efcd2892a31d48e2507075f588a3d6effe233365e1e7c0c"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-97.md",
+      "sha256": "e6d83f888c4cabe377c6a1e7ef76bce138262125f65f59f086a79c265b70e1d1"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-98.md",
+      "sha256": "7d13a1d3d4ed4e98020e239a2271b7f2067262213ac0a230cdc0eef256dc52e6"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/articulo-99.md",
+      "sha256": "b6ff274f861f1d4749b0add7ee09b7009dcc4e4740799da0a4e6ce9b67ddd8ab"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/transitorio-cuarto.md",
+      "sha256": "8aab9254aee05757341df6e21e9bc0aac8366d2003d0eb66678c4810f2b13aca"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/transitorio-primero.md",
+      "sha256": "f5241aea351e627712eb7e6a129f7331d3c2921fe0f7e2bd3ab56e919cc95970"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/transitorio-quinto.md",
+      "sha256": "b5e2ff4720efbfcf806ffd688134a2a677636a5cb4f6fca0091f9a339ea4f2c0"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/transitorio-segundo.md",
+      "sha256": "4fb17b695185284400225e9c914ee9bf72d92a1d50f7786321f37f8c72ab20c5"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/transitorio-septimo.md",
+      "sha256": "f1d440b642da41d6740f893db7782a118725a17e6f8d6e1d8bb1f6aee76de74d"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/transitorio-sexto.md",
+      "sha256": "85bf2f277c5115e89e3c52b90e0cb12fbf4252bb78d20280f34d853330087025"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/markdown/transitorio-tercero.md",
+      "sha256": "330ad8baa42c84d658125db9b63fa640b8cb22fc5396e7c427982595095d5ae2"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/provisions.json",
+      "sha256": "710e721d2179d0754e202131c4613434a855d89186768592d34475b42e5f0970"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/references.json",
+      "sha256": "6827e2aae8c1cf8c928fd4c03381201e53a20305b9f28e49d6ad24dbacef819e"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/reform-temporal-evidence.json",
+      "sha256": "b136176ef8a1b7d6f613408ec5a17c805c29595a1ccf087705071744e3eb9cf3"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/source-manifest.json",
+      "sha256": "8251c2fead4e023a4feb1d92b2fe34b8a6d203860857df9d31a5f2ced9f5a2ce"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/term-usages.json",
+      "sha256": "143f8f27544269d20a151ac5fb66393384b78347fb86db816688e454bfb0560d"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/terms.json",
+      "sha256": "0171faf50f67562377bfc15ba99495fadacd04f0f12502b8e72dfb110b5d5bdd"
+    },
+    {
+      "path": "corpus/mx/reg-lfjs/validation.json",
+      "sha256": "990220285bb7525962e0f573635a691472d8e299b445c5b68b697870123f2933"
+    },
+    {
+      "path": "adapters/diputados/reg-lfppi.json",
+      "sha256": "33d3e7e0ba260dcf0d98345cd6daa4433b80d492c1a1dd375563e7ad49f24a1d"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/instrument.json",
+      "sha256": "f8848f9bc888f7fd280d39b19ecb5224f9a3b884e693289adfba667eec58d5de"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/README.md",
+      "sha256": "5a64c3cf4a66920796e9985d3e26304f89877635386eefc903c9da5ea7da6875"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-1.md",
+      "sha256": "7c86128f70937053b4e359b6e4332974914ce5be8824f9c19673ab2d315a5243"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-10.md",
+      "sha256": "3ac09bb738e92e25398ceb2c6747c72e1fd0ed515bec7bd72d1a5a06637ba5b2"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-100.md",
+      "sha256": "3c174914fe13fee3574cdc32df418231a4746aa114450fb6e7e81a7994f0b3ca"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-101.md",
+      "sha256": "ce52fa13f87c5a7fac5252533e060ab140e9eda5bbbfb2841b153a95ade7b547"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-102.md",
+      "sha256": "716a40275a981351edb179d628a45b0bea5e4b4bd23e279631ccba5336e9604d"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-103.md",
+      "sha256": "4eceba15b336b6e4139d51258830c1d2c5049e1f53a3b332746d8eea2ac46d1a"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-104.md",
+      "sha256": "08da475bf341cc193545d5a1c9d177ed15bd78723c8b7916c0453e6352342869"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-105.md",
+      "sha256": "6e224fd63d4388f4e76b0175c727b9b19a6b779d900e38ce0b16e08208937279"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-106.md",
+      "sha256": "2dfc36d7f177ba7ea6837d795c7a557913f53ba01109dd171ac68822ac29c96a"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-107.md",
+      "sha256": "3c2f51cbe6ab166a488cff457828896e4398af8f2b11613544950292a00ebf30"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-108.md",
+      "sha256": "3ba082cb0f61a5273c92f203c3bf1c04b454138e28359336c4fb4aebe07cd68f"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-109.md",
+      "sha256": "042e1287b2f0cfb200fc9cf290853870c5f8af111afc0ef0b0cdd94077baa784"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-11.md",
+      "sha256": "0b2780078011eb715c868d07f6d6c10641e55b3afe818199e30eb341cd654903"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-110.md",
+      "sha256": "207b9f2d35c051f2e560b39586695d6090389e23cab9349d17a2b956b31492fd"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-111.md",
+      "sha256": "2e6623186932f240f89d3fc3acabccf1de2d8b6f86ff3e61c0456659753ba30b"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-112.md",
+      "sha256": "d4d9a2214e51eb224fba421a02de3e116b0acd9eb8f345d180907ffbf843f49c"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-113.md",
+      "sha256": "04f4fb64fa27990d04abc321fcbb45a15c150bc0386e5e0c90326ce383e45d4e"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-114.md",
+      "sha256": "43e9010fe114d2ab041548e11971b7052c0db1afa90850e7bf01b5c619667f79"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-115.md",
+      "sha256": "9b7bc286a6cf65801e5f6926fd212171f99d088ca4b9ab0e6b409109fc60703d"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-116.md",
+      "sha256": "2fd7385d396edff154a38457789aaa4d1bf0ed01fbc43d02a5b66976adca958b"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-117.md",
+      "sha256": "2043b01c12af1b5c747a3a0b5480f1446c8f9feb41d8059294fdf19e97d6db69"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-118.md",
+      "sha256": "b710ef0c9e816c5207f7399a0c8f3b49b8fde2ff1a11700f65d090dcd4f1743d"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-119.md",
+      "sha256": "914333dfbb233727bde751d08e627c3aabfc8110e2b5a8760db1a5263ccd707b"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-12.md",
+      "sha256": "a1d8c327c52f61bf4a47e676a1058b44d47802b829e4fef9c620cad61722835a"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-120.md",
+      "sha256": "1ee5284e29d9d6039fb8f77da6ce9ed068a0910600be708f68c34ad3a35df2a0"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-121.md",
+      "sha256": "5c269446d2124edc2b8a9b6116d86d9f7d4a617689f4b4dda83ec5f43a667630"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-122.md",
+      "sha256": "cf0406ab153f0e418d81498976391c3e9b2d00075d15d9740babca966ab3b0fd"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-123.md",
+      "sha256": "46d2defb1423af2b82ca73e0b2463f28df07361ba7183ca3eb27bc22e9ba7dfa"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-124.md",
+      "sha256": "efd1d2ae096ad28eeeb04b35a87150d0035cee90adbbc7572c8b0b6116e2760e"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-125.md",
+      "sha256": "fea77ee1ca9e897a87834691afa83955cb9313ae697577d220aa88c2601d296d"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-126.md",
+      "sha256": "aebc40707b6ffd9cf0338aab861acee5af30c99ef03660540052b1a38388f731"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-127.md",
+      "sha256": "fe4f684e5858938e665caddc95d02ad29a1392cfb7576b572e78ad2289ad00f4"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-128.md",
+      "sha256": "8bb3b3f222cf5eb170b22ef7d2a6c8e672f69de47da319251a535c3e65b41c97"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-129.md",
+      "sha256": "7e9c479339d17b5c33a6a85bb4e36f85cad162b656f2868a30baa6e495a098e2"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-13.md",
+      "sha256": "6cd7241c7221c264f650b6ae92718c805cd17373ad191f9c17091ed43bf5891a"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-130.md",
+      "sha256": "60dc72f431a1790b98df242239ceb0944959aa4c521d6aa3f03005e8a7929e44"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-131.md",
+      "sha256": "9f043c10395aff4c5c3f2063e46e5459ee3c4af442a501f3d27f603c2b08784d"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-132.md",
+      "sha256": "a9caf52aff9ce703788ee91ace2eefc2b1cd12f245aaa13f69d020b2652f5004"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-133.md",
+      "sha256": "097b8e83f4dabc75f80591fc4e830b6ae69526e56e5b5602259fe967564fb94c"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-134.md",
+      "sha256": "778591accec10eea142e0a542fd2273ed8c561e7dfb49b9440f0011fd6057003"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-135.md",
+      "sha256": "69df00b28c60f7de5345bdc767f9f71049046c104a7ef6a91464ccb513dc0f02"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-136.md",
+      "sha256": "f00ad6c05936f7d21eb07d8466799b61cb3556a584c9066d26086cad0c952658"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-137.md",
+      "sha256": "d0581a50b5fd264a965398a2f04b6248dc169476dcf7396c9547f45ec7f2fa36"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-138.md",
+      "sha256": "d6e8661960601aa9cc3ff66e4b4dc13ee5ce6a782fff3718d648aa6a8b80c5b5"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-139.md",
+      "sha256": "536cbceb36f9af9143a29e70a9472f092f8c376e3fac0a5e2e1ccffe9fcb0a01"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-14.md",
+      "sha256": "48e5aff7e0d7ab2451bb4308b8071cb8ec2eea73718de3948915fbd4bec65064"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-140.md",
+      "sha256": "260ec1c6057a31690cb6d7dd17f8ef2ef131416bb9b3ffa1578542f8586f08f8"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-141.md",
+      "sha256": "04944e5a4823aaf3ce9356674dfdd5fc7416d3ae4bb44f818c8b122f0008b04c"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-142.md",
+      "sha256": "a0e73aa505abc952bb01c8b5a3ada7ec66836e3bb3c9b07a90f23554f02c38f6"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-143.md",
+      "sha256": "e29f037534e3154bd474851daa4f50d3833abff1f5123f8b0a4e61361313ace5"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-144.md",
+      "sha256": "5997649ec3584c7d1a2f30a7af090bd5b0da38805d9a2f463678977ac0760e10"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-145.md",
+      "sha256": "5a2c5b9597fe0aaee1435a3a4b181dd6266e20e2b85bab797f5b71e72bc3f803"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-146.md",
+      "sha256": "34a50488ac663c86924a1dba3744d659d4d5060540f2a8461d47365a725bf85d"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-147.md",
+      "sha256": "3e5a0396af583be53b97c07f402d88c3c05a1bcc7a4441cec9b0ff8006816fba"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-148.md",
+      "sha256": "ef0531cd789a67aed77309c5c88ba4df01fd73542f380c37262f91cef9b0f321"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-149.md",
+      "sha256": "b535a322093e68a564318af6c31a65f3f024717609928478e4722467b41bce63"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-15.md",
+      "sha256": "83f5af4fbae3cef985410e37a8333a63572a1fa9a4dc0b2943efeb287ba1dfc7"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-150.md",
+      "sha256": "6981bb1cd6f5b25a4b589ed6afbe894c1a2d2d6744d0be1d909d8ea60e5c9cc0"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-151.md",
+      "sha256": "39964a3591cdd7b75ee514858ca140339b535e808af41842e88644fdd574f6d0"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-152.md",
+      "sha256": "387b7fee05b7cd32258316a7d6952dcb14624f868478a87f3b369837afc3a0b7"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-153.md",
+      "sha256": "ddd67682914a0daec4a3350a1233a65561f78d764fd91d83ffa1138f5bd711f9"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-154.md",
+      "sha256": "75cbed0ccdf8629fb43f6d8275334c20ec90db917d4dd624d5edecfffa41cc2a"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-155.md",
+      "sha256": "28e43e9cadb7d99f288492e73ce809c1bd021bb00c7a11db65ea1a3784d45f8a"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-156.md",
+      "sha256": "8debd239c4fa294aae2f96b2dd177e39d2d1adc05dfe608c8abb79984686502f"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-157.md",
+      "sha256": "fe98329ccf73b09f2d2a14ea2ce4036a23a5b2edcb3b872bc8ac9a8dfa610302"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-158.md",
+      "sha256": "d6a093976e78e962cbfb29bc70c13ca57e78ed19e7c2f5f7647fdc530bf1fd13"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-159.md",
+      "sha256": "ccbd1459ec4ed62e8f74ecc936fe87c8c293a1405c09a2091687e76dfdb0a826"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-16.md",
+      "sha256": "260e8955ade3ae6342af5b6603cfb2bc9e7f37ae022a8286f987339afe666c64"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-160.md",
+      "sha256": "b5cca00a4d3f0d1ceb3f6d458b0cecc9540d00852b5781b6f5a36d5a84d405ae"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-161.md",
+      "sha256": "ccec8c433904140ec75f4dc4a9483528988131b7ddb08b8b9a1663278e84c3a8"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-162.md",
+      "sha256": "92090b45748339cff4b3054a6c15f3a227d4fae662f3f736b8b869b9fe1c706d"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-163.md",
+      "sha256": "85733f62c9cb89b457bfccc7e19c7c9c7409ab26e72f35e45d4600ebee1e4d91"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-164.md",
+      "sha256": "009e1023b5906a2553183e1c841b53a4e0068be05c6286ea2e189a504aa1c200"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-165.md",
+      "sha256": "7d4ca9e58b29d58bc8dda552613b01c25f8cad939ebbccb9d847297aa4c96d6c"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-166.md",
+      "sha256": "92e897969cb700027c6cf898487110c1154df04b4831a76d7bfed4eeaa9a9fa1"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-167.md",
+      "sha256": "b6a1bedaa39c62e19d67635f871553c84f238aab5be69aea1bd9576517c8986b"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-168.md",
+      "sha256": "1669366335ec0f992dfc735236d1b12ab919c04b3d911152bd976f47ee7030d5"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-169.md",
+      "sha256": "b6f513be0c1b3180985299ae0ba6030f3fe78442e465fba0d725a998e6607276"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-17.md",
+      "sha256": "1c6937a7244958988fac93008960cee082f95463435261203ccb8e0b8d37c58c"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-170.md",
+      "sha256": "d3390005a141289d4ec6bd29030fa6b64efaaa3e87d42beda0c8b49bba2756cb"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-171.md",
+      "sha256": "ce722a1c6b37e4a34df79a20d8dc5d269cffcc03ff651101b021af213f604eb3"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-172.md",
+      "sha256": "0ab6215249f3b615ebd084bd874a35319a144284aef11ecfed331db8337e30e1"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-173.md",
+      "sha256": "ebf4a518877db285347ebdc363203156e109b31793d77d4746d260267f0cffec"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-174.md",
+      "sha256": "3adf36b8b38b3bbcc03aaf00f636ed19fb6745bf250fe7e8f63e0d2b51d43b5a"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-175.md",
+      "sha256": "4c4789947c0455ccd8a4f0bd4fdea943b0b385a84aff09e4b693f25c86744547"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-176.md",
+      "sha256": "6bbd13e27a1b9f1021b75d882e3767688a2757c73f9a2db5962180bf214c719a"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-177.md",
+      "sha256": "9c0550b11946bbd52920b5e6950cd6e075082fe5c0e174a810d4d9fe38166f2e"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-178.md",
+      "sha256": "ec87468e5d310d8e9514b873abe778027d9d4c5a6bfd5351c17446df8d6699a9"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-179.md",
+      "sha256": "0f25db9d16df18472c2248e25761590c9c2d1efe302f798f922a56d26faab049"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-18.md",
+      "sha256": "ff9dcfdc79a33363cce22b1354f4a69d2236b262c9c07375164cddd846056cfd"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-180.md",
+      "sha256": "f340fe2689b68d6f5fe5c0a196d02e02214d3ac11b68cadebe5a8882dc6f9333"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-181.md",
+      "sha256": "0889210e204a05026ac77cbd4b8775e58be6f62bb27ce340d1ee87f524d4d2a1"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-182.md",
+      "sha256": "f2c674b146ba80289723b4e900032392c8d513d22353ca446bd39926b490819b"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-183.md",
+      "sha256": "bf327552a3268767b88765ce8a6da57a398cfa3dab358b752af2835f26ea8b16"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-184.md",
+      "sha256": "7848b7f27f07fec28c1be6b0ee449f5411a16fd64279f3081ac7a062d5b03d7f"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-185.md",
+      "sha256": "36903ab7ffc9abf7630b30c5585c54403aaece2bfb60b5c754ca92b4c1c60ddb"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-186.md",
+      "sha256": "ea6c747b7388c1b0c911169a1dee937cccbbb5546dd90acfee84e83256fc4444"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-187.md",
+      "sha256": "ec73fa3ca3b6ca07758bb55d64b101ad5378d109b517f695791519d374d3aa70"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-188.md",
+      "sha256": "4835b8cae5148e0e3b69b7a412a802fba2e1881dbf6e0fa640c248f253d0ef8c"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-189.md",
+      "sha256": "30dbd21fe87eb7d0912d35840ab5996b123d8b151ad5af7b37ec509e857b5efe"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-19.md",
+      "sha256": "72f75d1307d1c9ec1cb9731a612cc4210c01fe0a8ad5721b2bbe3fab6f201bf9"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-190.md",
+      "sha256": "8e84e7b87b579d73b0382033b920b9a459b20b3fe85943344615040e893e2cc3"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-191.md",
+      "sha256": "1c3bf9d39f47f965b2e04dd8bb88a46b6918b0ee85f72b45d75957b7ffeb3e40"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-192.md",
+      "sha256": "69c58f49441fdcb63da46f5f9aaf68a2094d3389005363398df91c2f678eef33"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-193.md",
+      "sha256": "cb2dcae889ebaa795da5091730affff91dcf3001673eeb9c416243cf675ed141"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-194.md",
+      "sha256": "8e11fbe1ae2bc6b0895366c57ea4a0296b14947fb63a84be6ce822f9f489e1a6"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-195.md",
+      "sha256": "ee8eb63bba511abd5675bf34d6bcd527273102172f42898ebefa03f4c0c941b5"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-196.md",
+      "sha256": "3ecdbe58a586285ba00c67ac448a698d395448b87f149a2eaf9973041433c565"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-197.md",
+      "sha256": "42b107f6e774749a5b8177d70b2663491ad9548b012dd697db27f829a5cf84bd"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-198.md",
+      "sha256": "a4dcf38af31173bc73a8dfd354f5968d1e758089635d5753940f1e05de920fa7"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-199.md",
+      "sha256": "04543dcd729f4b65410278396b2d75347f60f474af9dab81939527e8ea150242"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-2.md",
+      "sha256": "fa701263b0961d9853ac079498ddeaec974bff2bc9c11ca5106171d0b6162ca6"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-20.md",
+      "sha256": "b263a66a34f06e57bc50ea3b57774d1b6bc17d366ab18466fee3f5b15c63533c"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-200.md",
+      "sha256": "6a09a43c03a39be81268241377ab18e5c36bd7c98eb3c004fa4cab40ec767787"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-201.md",
+      "sha256": "d1ac5afe3086406a87eb010762f8e60d51a0aab522e0a63729e3a75e0ea5e5c6"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-202.md",
+      "sha256": "07396ea3a9f2df3df28f24d5af1e4a29709e9d895590ac4861f6003e9bda900c"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-21.md",
+      "sha256": "97027edfc84e7f231821367a7701f1f1210299e2c2c665bd3436a765a5a4b720"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-22.md",
+      "sha256": "8c0b12b0776b68c5d6b7c7fd3ccdd87f27b7abe7367088a6f85a3cbd00f83ae4"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-23.md",
+      "sha256": "d1a5ad8bc85395eb8bc952080349b6a9c08a373b9aab166cb9ac92a7cd51add8"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-24.md",
+      "sha256": "4623ecd02bffaa84ba5e1a4bbef01a65e78824e879ca040aa80372cc061bdc87"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-25.md",
+      "sha256": "3f3b2dffd13c4b6610ad2871ab058896e08fc3c103fd21f620351dd1c4e4d0fe"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-26.md",
+      "sha256": "b532e010983f70b83d901a09b0efd76bd9666bd0bc45ee8969c54d14b8a1682d"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-27.md",
+      "sha256": "b1dca5a08a452935267ab07830c82552b6aadf90952060588981b9c47bc41d98"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-28.md",
+      "sha256": "f5f443b314c084190537fda366e6393b6827937009282604873c4eb7bb9cfac7"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-29.md",
+      "sha256": "beb0473086809bb07cddba971bcfffbeea61e884eb0259c7062f549b05cdd411"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-3.md",
+      "sha256": "86d00c0d96244844141c4defd908a07af3d938b9c62de80f02f97788d7f944c6"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-30.md",
+      "sha256": "fd40a9111f1ca92d646d39c2267a209134395e1fb9460b381ba031bac8de6628"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-31.md",
+      "sha256": "64722c4b65815c60755ac78e997128dcf822d4965483a60fe8248585a28d0613"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-32.md",
+      "sha256": "5c9fd6a6dc40d3c7d7ebf18b74f94115b2153136a41b2dd9e99aab199d748705"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-33.md",
+      "sha256": "375ff343deb5751fc2e2154cbfb26ff4aa81a9ff40bc5a23ec6d681f6c9a789f"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-34.md",
+      "sha256": "5cd54afeabf3b3d7750075a981a76139de429571a508d1f951ffe22ac8c3352f"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-35.md",
+      "sha256": "1d949a49183feb42ae1473aa18748a4a5464b51d514d8881c87364bfd114087a"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-36.md",
+      "sha256": "8a561c6292ac91182c40005f32e1ee3864141a6513bb747d56f09a5a1cdf10f7"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-37.md",
+      "sha256": "f82d3036ca5772eb0cd6308164f56f986c90855a01bebc44e766ca1c211eac11"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-38.md",
+      "sha256": "25e156f414e4932dcda136a1eda8e4ca1334ef729daf6d2d61c8900f3523f5c6"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-39.md",
+      "sha256": "65daa61afd1a60897f5c7a4a0f3bd4ce653c0f4523410f079346728fcfde0f30"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-4.md",
+      "sha256": "65fdd51a82409140d53fa2f78cdf4c261a556066cf6bae4392939c5105be2b39"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-40.md",
+      "sha256": "a5795e28a597d6ba06ee612603fc7e72d4b25fc1b2e9468723917a3412d24093"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-41.md",
+      "sha256": "2c260e103ad26d7210cacc9fcca8b2296b5241e4138374811eabf920b85a6b54"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-42.md",
+      "sha256": "2ecc70c274dfb303a41b77ee3d558a5045e8bf15647957a29397916cad01fce6"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-43.md",
+      "sha256": "da1073213b45301e257db07f111f4f86c86bb5cb4558637818369727da7c999b"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-44.md",
+      "sha256": "68debe4a913cfac64df4d62d835ad79f749682920da7237538c48e479236e293"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-45.md",
+      "sha256": "c21e3dc18af169eacdf55cc018597c320763df6a9449c5360f3de6667ffeaa84"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-46.md",
+      "sha256": "bdb844f60768881623c317921335c7a2850ae53e8edfecce427955e738649ecb"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-47.md",
+      "sha256": "4e9e374b5b83e440ba316320a1309f7e24611046de9a0e502dd341128b9aab39"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-48.md",
+      "sha256": "a1d162a257151816203a834a8fdd7e14d18c836ca08592a097b23d0a29365605"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-49.md",
+      "sha256": "024784523b2f379d4955dd314ef9aec6fb306886a66456de3273e7dab00f2064"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-5.md",
+      "sha256": "56e81ae2f1ffb5d497a8f9bb3c64bcb259391e40cba2f0017ed432e8d7da69b6"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-50.md",
+      "sha256": "9b5b54bb1f5c7c14d936ef8091c9e8125e0054a47dc21b14f13a7a263e3f1067"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-51.md",
+      "sha256": "f255ced388e6b1a7a9bf88183434be4b6623205a99e1e9cb09b2cc170e90f322"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-52.md",
+      "sha256": "515442708d2f154a1f0b2bff3d4d4b5d625bef30ae7e7259c3be4d6a39aba290"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-53.md",
+      "sha256": "e7aec1b4278102412ce8bdebf4a529578ec93f8bc9e0483e14a317801fed3509"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-54.md",
+      "sha256": "e82a622ca84e942537decaab1aa91a92f5d7552baf675714925c04b4e7f29f18"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-55.md",
+      "sha256": "9c9bd60cd770c51d69d8da35f59ec9d589fe41c0f63941cd89854c2b703d08d0"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-56.md",
+      "sha256": "888dc2633453a975e3d2b57fc1d72b907b3eb685a5d134f476f04c31e3863103"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-57.md",
+      "sha256": "1683d086a91c449c8992751d3100ec064346a4c85b49fa0fc9e8b1c8f0ceed99"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-58.md",
+      "sha256": "8622d353c30a72ae3c1b01fd73c4ca7cf71a6ba51eec76fea98da9d258b5daaf"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-59.md",
+      "sha256": "22af3ff3d910a1cc2238751ee08d97d85cf7901f179e5384309487d54527c18b"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-6.md",
+      "sha256": "5550b4e8c2072faedfa49ed874e4c558d8b5fbd865221425427b38d2de725479"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-60.md",
+      "sha256": "f6f6b4a955851776ca38b169288a31b930669327493db6311694efd8ae00653f"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-61.md",
+      "sha256": "ba8e48d48121d53a81703a523daaa3e9eb93cc77139772b540da40c252e59202"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-62.md",
+      "sha256": "a7aa36bbb6cfaef4f5baf5740b7907d8c6f20779a4e240f07dcf39323fd6be41"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-63.md",
+      "sha256": "e03628375fb17e798aaaf212f430864e892c2de3bcc4909f3b3498c262069d6a"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-64.md",
+      "sha256": "502530c9a74ff97478fb2705b1e0245b0c5449df1c0f7fee9a41ba8a296756ad"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-65.md",
+      "sha256": "1fb67bd9c81721ba4e24e9d75418a29699c6d61758f5dfbca1b04d3ba2315cd3"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-66.md",
+      "sha256": "c9fad565f5f00ebf781c4754a653957ce27471dfbc1a03662c833eda880ba12d"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-67.md",
+      "sha256": "474f7bbca6a8d999c58df193e04d35f0b6c6abd004fe3e11eeea38f432ff136c"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-68.md",
+      "sha256": "f4e53bc21dcc56330c586f92ed6668776257f1935c39e088f22347b679cfe206"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-69.md",
+      "sha256": "42559902ebb02b8ba3e74b6f43080c386ce9d9e3e90256a65289439ba1925571"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-7.md",
+      "sha256": "819ef58564b3987eeb60591dc8ba0b373493d2808085acc60ae92012154ab787"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-70.md",
+      "sha256": "9b8ca194ccb338f7d2fcb16ae612e335db206afcdc7607b068fd351d7c34b68c"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-71.md",
+      "sha256": "b3fbc3e5115d8fe2cd9db07a98a79f133e7858a459ff64f09fd53175b1302aba"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-72.md",
+      "sha256": "5496ddb40f35a52db00f8a6e5a535d9cbbae04c7df55064591fd60d0197cb761"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-73.md",
+      "sha256": "94ae2fdec4fa49b93cd0cb4f4b93bff32dd4262792e8dd9731bc3f0644816c4a"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-74.md",
+      "sha256": "2924b29f57baadf18256f57f3f9aef05a9df41030c54b59828003f5bc76ed418"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-75.md",
+      "sha256": "3cc91c5c7bff9331df0d6ccfab3b9ce2842ca85d48ce3abdbd897ea8dd41f391"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-76.md",
+      "sha256": "1b256aba576f521a4a35ea0cb6b4fbbb5d5a6fc2efd051bad3a7dfbdf538bf0f"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-77.md",
+      "sha256": "9efe9c1011cadf9ba486de86c7e201dd16971986cfc6db523231d6d5ac472f8c"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-78.md",
+      "sha256": "8836e93a9775e2b3e66e6031bb9f7371e3dc5ea39f4748724f7166fa83a71cd7"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-79.md",
+      "sha256": "eee6de610adca304ce468fc667bbd67eab7825c4ee643326e81340ed16537a06"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-8.md",
+      "sha256": "5ec3de994dadff1635e598f057c14a25951abeec7b6adfba203a3004e76fb2c2"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-80.md",
+      "sha256": "d9b9bc1062245fad4126796856eda40e2f350c4de14ff732e36c176e38b0e0ea"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-81.md",
+      "sha256": "f56f3ddacf523dbd29f0d5ef931dd796e5b4d39d9fd16987218b5a33b9b405bc"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-82.md",
+      "sha256": "dcdb8b0a3aca7c0d79be63b492ce29e0669f608c988bd1f36965155bd96eb51f"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-83.md",
+      "sha256": "d0fc4182523be817f7702ef2796f6db96e3b9bc9f27652b89a31a5e990ec02f2"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-84.md",
+      "sha256": "9e6e9d5128dfed0e43eb779f87323afdb8eeb6f6bb9ebf4bc2aef49d0e82b862"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-85.md",
+      "sha256": "12328ee4e8db73bfe73b0b8627f4e72c55b30e16f7e95713462c31d75ed7c658"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-86.md",
+      "sha256": "693ab6d534663a0b8fc8892ecdaef542ad02f95b8b081f12a2742f365561f25a"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-87.md",
+      "sha256": "f489d0ea7e165d86256d96d2414c44bae0dcb6ae979b81c2faba692219ca682b"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-88.md",
+      "sha256": "fec74134a70a26f4f275a96349a5a479124f4861338590bba2e81225d83bf31b"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-89.md",
+      "sha256": "2519493bdcf8ec23482aad95a5af7aef4b4627e7165d69353b4b8b5ed6d30202"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-9.md",
+      "sha256": "a7a267ee33762b90eebf30c172c66c8344812c62fe1e597f3f5e69068a4de90f"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-90.md",
+      "sha256": "edc47022a54dab141b1ef3e2c94462ff838033ecd32e1d479c0b743292168296"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-91.md",
+      "sha256": "0fc2b6b8e810a5f6e87f7a8c2cd3898442b0e48497b4c810396ef7a301c57a9d"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-92.md",
+      "sha256": "0331d06ed7194892b7664f0123728c11385c5930c827886fcc14b03f94f423db"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-93.md",
+      "sha256": "d83258923bb402cebacb88d31c0640dd2b5610d2fcb096cbfec6151b53d144ba"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-94.md",
+      "sha256": "7efe341bbfd693f88b550df0fcd99cc47ce827feed821346c18c59d0c804b558"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-95.md",
+      "sha256": "5580005af84c9bab1f1734c7b2128fe873a3407eee41287bb6d334f5bbd7768d"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-96.md",
+      "sha256": "3b7d00456ef87eadc1f91ef67a625430e50b512f999400b1eba4687f83857e49"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-97.md",
+      "sha256": "3be4a00f632e8b3bacc20521716a79757815a345e3c7a612c268237370332615"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-98.md",
+      "sha256": "e6a52b69b09aa7d532498494b1252601a6aa4c3c239bf1c71a3c6e940183c7bb"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/articulo-99.md",
+      "sha256": "3ebca25a37ca73072c34f30a09c92267e069b7a3d575375ecb187134268f8480"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/transitorio-cuarto.md",
+      "sha256": "2c86e5b5db052dafdf8626d871f7dc71d2d0cc07d18ae6cfb59b41ee4597c278"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/transitorio-primero.md",
+      "sha256": "5564b1f5735cc2aa2e744f18fe7a38f08914bf6b4c6d8617a40abc59fe79f2ae"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/transitorio-quinto.md",
+      "sha256": "949c601fb3dcbc5fa03111c002a80f67143dbca9cad5363fe24f7b3bf5586a09"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/transitorio-segundo.md",
+      "sha256": "8d9913a867072373b10089eca430d56f76ea3e39a51279697bceb595bfb4c645"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/markdown/transitorio-tercero.md",
+      "sha256": "92b4c02c73d34263af9824dea73e339416963dc33da8891ce9bae17a819f3f70"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/provisions.json",
+      "sha256": "9b454d3d7ae1bd308136ad85b8573e3c5a6489bd8bc2fd40600b58bf53825cdc"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/references.json",
+      "sha256": "0dd3ff8c63376c6f8ca641d35f1885bc160a7050556ceafcdf1a5ec84169de9a"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/reform-temporal-evidence.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/source-manifest.json",
+      "sha256": "77469fb2c8060193f6c6098aebaf478914881a3e97a648b6653c72d9e9b6fa72"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/term-usages.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/terms.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "corpus/mx/reg-lfppi/validation.json",
+      "sha256": "75683a269a23132a264ebb6973488adcb16fdd3184312a4d1d2585021df91048"
+    },
+    {
+      "path": "batches/economy_EC3_comercio_fedatarios_ip.json",
+      "sha256": "0b145374d52daa56c5c0c69fe6d55a9a38df6a2a328f4191c00e40d4b720f811"
+    }
+  ],
+  "preconditions": [
+    "Reverify both HEADs and dirty state",
+    "Every source hash must match; every destination path must be absent",
+    "Do not include ignored .work or held LFJS artifacts",
+    "Run required checks after integration; no commit/push without authorization"
+  ]
+}

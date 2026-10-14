@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-09",
+  "base_commit": "e3dfcbd891e4b4f858d0bc8236abb4628cb2a65b",
+  "applied_packet": "docs/ec2-ec3-integration-packet-2026-10-08.json",
+  "copied_files": 1149,
+  "corpus_count": 257,
+  "committed_instruments": 243,
+  "new_instruments": 14,
+  "new_articles": 940,
+  "new_original_transitories": 68,
+  "new_references": 194,
+  "aliases_added": 14,
+  "derived_changes_after_copy": [
+    {
+      "path": "corpus/mx/reg-ldcmpme/markdown/articulo-3.md",
+      "packet_sha256": "61bcba36c01b4ef98889ea4f7502d81f3fffaaec4d7d3e8fa0c7fc3e6129366f",
+      "integrated_sha256": "d8764d9d72c958431d20ac6f708f6fd05257fb1b1d49e665c9144461ac877a10"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/references.json",
+      "packet_sha256": "39cb3a6013badcf39a968ade73f4090673d5803ec25ec8abe3bf098fae157dbd",
+      "integrated_sha256": "15d4ed3e88a7a167a9b7e5f3e1139590fff571bf3588b6ee2768ca1ba377c36b"
+    },
+    {
+      "path": "corpus/mx/reg-ldcmpme/validation.json",
+      "packet_sha256": "9d882e3ced3142f3b44a0f651cdf620c4f62cb434145c32fdea2cd76f2188a03",
+      "integrated_sha256": "23010e5b3214afcd7c3823ccc336d7ee6672bd3d594b0cc63b1d5bf45377606b"
+    },
+    {
+      "path": "corpus/mx/liispcen/markdown/articulo-4.md",
+      "packet_sha256": "a156ac61f03069ab33125e46b7f06f5a05cd9d4dcb5fef645bb8d6e837265cab",
+      "integrated_sha256": "b1c8cb7bda315d93c1438f3ae3fe7fec86cc7f781b1ae7accf53ca8cec49680f"
+    },
+    {
+      "path": "corpus/mx/liispcen/references.json",
+      "packet_sha256": "dafc1c2413182729674ddd08d6dfc32fc86f5ea9e0bc6902b4fcc52f56e8b337",
+      "integrated_sha256": "13ab25213e1ff65acb13a13245e9ef504385c9266c2cee2521c999a2e54778e8"
+    },
+    {
+      "path": "corpus/mx/liispcen/validation.json",
+      "packet_sha256": "65f4be56b124bf313f963bbcba2a5f24f5de308be0e746daed477c0a26af63c2",
+      "integrated_sha256": "a0a32697751a0900420ee964b217bf4798b298e737d968668c434479018d86a8"
+    }
+  ],
+  "graph_changes": [
+    {
+      "slug": "reg-lcec",
+      "references_before": 4,
+      "references_after": 4,
+      "added_references": []
+    },
+    {
+      "slug": "ldcmpme",
+      "references_before": 5,
+      "references_after": 5,
+      "added_references": []
+    },
+    {
+      "slug": "reg-ldcmpme",
+      "references_before": 9,
+      "references_after": 10,
+      "added_references": [
+        {
+          "schema_version": "0.1.0",
+          "id": "urn:lex-mx:federal:regulation:reg-ldcmpme:article:3:reference:99-100:3:direct",
+          "source_provision_id": "urn:lex-mx:federal:regulation:reg-ldcmpme:article:3",
+          "source_span": "3",
+          "start_char": 99,
+          "end_char": 100,
+          "target_instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+          "target_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+          "qualifiers": [],
+          "basis": "express_cross_reference",
+          "confidence": 1.0,
+          "resolution_status": "resolved",
+          "reference_form": "direct"
+        }
+      ]
+    },
+    {
+      "slug": "lffmaa",
+      "references_before": 4,
+      "references_after": 4,
+      "added_references": []
+    },
+    {
+      "slug": "liispcen",
+      "references_before": 19,
+      "references_after": 20,
+      "added_references": [
+        {
+          "schema_version": "0.1.0",
+          "id": "urn:lex-mx:federal:statute:liispcen:article:4:reference:1669-1670:3:direct",
+          "source_provision_id": "urn:lex-mx:federal:statute:liispcen:article:4",
+          "source_span": "3",
+          "start_char": 1669,
+          "end_char": 1670,
+          "target_instrument_id": "urn:lex-mx:federal:statute:ldcmpme",
+          "target_provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:3",
+          "qualifiers": [
+            {
+              "qualifier_type": "fraction",
+              "text": "fracción III",
+              "start_char": 1672,
+              "end_char": 1684
+            }
+          ],
+          "basis": "express_cross_reference",
+          "confidence": 1.0,
+          "resolution_status": "resolved",
+          "reference_form": "direct"
+        }
+      ]
+    },
+    {
+      "slug": "lnetb",
+      "references_before": 7,
+      "references_after": 7,
+      "added_references": []
+    },
+    {
+      "slug": "lfcc",
+      "references_before": 4,
+      "references_after": 4,
+      "added_references": []
+    },
+    {
+      "slug": "reg-lfmn",
+      "references_before": 16,
+      "references_after": 16,
+      "added_references": []
+    },
+    {
+      "slug": "lfcp",
+      "references_before": 20,
+      "references_after": 20,
+      "added_references": []
+    },
+    {
+      "slug": "reg-lfcp",
+      "references_before": 13,
+      "references_after": 13,
+      "added_references": []
+    },
+    {
+      "slug": "reg-ccomer-mpsc",
+      "references_before": 15,
+      "references_after": 15,
+      "added_references": []
+    },
+    {
+      "slug": "reg-lfpc-art122",
+      "references_before": 7,
+      "references_after": 7,
+      "added_references": []
+    },
+    {
+      "slug": "reg-lfjs",
+      "references_before": 29,
+      "references_after": 29,
+      "added_references": []
+    },
+    {
+      "slug": "reg-lfppi",
+      "references_before": 40,
+      "references_after": 40,
+      "added_references": []
+    }
+  ],
+  "reverse_link_checks": [
+    {
+      "slug": "lie",
+      "tested": true,
+      "alias_dependent_graph_changes": 0,
+      "unrelated_regeneration_changes_restored": true,
+      "restored_markdown_files": 0
+    },
+    {
+      "slug": "lplan",
+      "tested": true,
+      "alias_dependent_graph_changes": 0,
+      "unrelated_regeneration_changes_restored": true,
+      "restored_markdown_files": 0
+    },
+    {
+      "slug": "lfpc",
+      "tested": true,
+      "alias_dependent_graph_changes": 0,
+      "unrelated_regeneration_changes_restored": true,
+      "restored_markdown_files": 2
+    },
+    {
+      "slug": "reg-lfpc",
+      "tested": true,
+      "alias_dependent_graph_changes": 0,
+      "unrelated_regeneration_changes_restored": true,
+      "restored_markdown_files": 0
+    },
+    {
+      "slug": "lic-calidad",
+      "tested": true,
+      "alias_dependent_graph_changes": 0,
+      "unrelated_regeneration_changes_restored": true,
+      "restored_markdown_files": 1
+    },
+    {
+      "slug": "lan",
+      "tested": true,
+      "alias_dependent_graph_changes": 0,
+      "unrelated_regeneration_changes_restored": true,
+      "restored_markdown_files": 4
+    },
+    {
+      "slug": "reg-lopsrm",
+      "tested": true,
+      "alias_dependent_graph_changes": 0,
+      "unrelated_regeneration_changes_restored": true,
+      "restored_markdown_files": 0
+    }
+  ],
+  "existing_canonical_paths_changed": [],
+  "source_text_and_legal_review_state_unchanged": true,
+  "lfjs_admitted": false,
+  "checks": [
+    "cargo fmt --check",
+    "cargo clippy --workspace --all-targets -- -D warnings",
+    "cargo test --workspace",
+    "cargo run --locked -p lex-cli -- validate lritf",
+    "cargo run --locked -p lex-cli -- validate ifpe-dcg-2021"
+  ],
+  "commit_created": false,
+  "pushed": false,
+  "deployed": false
+}
