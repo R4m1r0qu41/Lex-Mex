@@ -1,5 +1,41 @@
 # Architecture decisions
 
+## 2026-10-13 — LFJS admitted; EC4 admitted with `lfiiedb` held
+
+The LFJS hold of 2026-10-09 is resolved. The parser now reads bare numeric
+original-transitory headings (`1o.-`) only inside an established transitory
+section, and the strict article-order check reads `1o`-`9o` as numbers; both
+are fixture-covered. Revalidation removed spurious `non_numeric_article`
+warnings from three committed instruments' `validation.json` only.
+
+EC4 admitted `lfzee`, `reg-lfzee`, `reg-lfiiedb` and `ltpcpimcp` with audited
+count baselines. Exact adapter stop markers exclude enactment signatures,
+promulgation formulas and, for `ltpcpimcp`, an appended SCJN judgment.
+`lfiiedb` is held out: its enacting decree nests the law beside a reform of
+another law and a separate decree transitory section, and which transitories
+belong to the law is an open modeling decision. `ltpcpimcp` carries a Cámara
+note that SCJN declared it invalid; that is left to legal review, and its
+provisions stay `not_analyzed`. No temporal model run, legal-review resolution
+or reverse relinking is part of this change. Evidence:
+`docs/ingestion-difficulty-log.md`.
+
+## 2026-10-09 — EC2/EC3 source-reviewed structural integration
+
+Fourteen reviewed instruments were admitted into main's working tree with audited
+count baselines. Existing adapter options exclude exact enactment signatures and
+wrapped headers; official PDF/text hashes and legal-review boundaries are preserved.
+The Article 122 PDF's erroneous seeds-regulation running header is retained in the
+source but excluded from provisions after identity/body verification.
+
+Added only verified official-title phrases for the fourteen new instruments to
+the shared alias table. Bounded linking adds REG-LDCMPME article 3 and LIISPCEN article 4
+citations to LDCMPME article 3. Title-only mentions do not become numbered-provision
+edges. Relink-induced unrelated changes in existing corpora were restored; they
+require separate source review. LFJS stays held outside corpus because its five
+numeric original transitories were omitted. No parser/schema change, temporal
+model run or legal-review resolution is part of this integration. Evidence:
+`docs/ec2-ec3-integration-2026-10-09.md`.
+
 ## 2026-10-07 — Article dates: original commencement for unamended articles, reform commencement otherwise
 
 An article's start date is exactly one of two knowable values: the original
