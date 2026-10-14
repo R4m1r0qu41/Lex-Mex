@@ -66,6 +66,9 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Completed
 
+- [`docs/plans/reader-figma-intake-dots.md`](docs/plans/reader-figma-intake-dots.md)
+  — Reader Figma/Dots draft delivered and fourteen EC2/EC3 intakes committed locally.
+
 - [`docs/plans/temporal-boundary-repair-and-public-reader.md`](docs/plans/temporal-boundary-repair-and-public-reader.md)
   — Repair temporal trust boundaries and assess public-reader and agent access.
 
