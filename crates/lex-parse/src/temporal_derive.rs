@@ -59,28 +59,37 @@ pub const RULE_SET_VERSION: &str = "temporal-derive-v3";
 /// narrowing the category rather than the instrument.
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub enum SkipReason {
+    PublicationNotExact,
     /// The instrument has no ordinary transitory provisions at all.
     NoOrdinaryTransitories,
     /// None of the ordinary transitories mention entering into force.
     NoCommencementClause,
     /// More than one ordinary transitory mentions entering into force —
     /// commencement is staged or split by subject matter.
-    MultipleCommencementClauses { count: usize },
+    MultipleCommencementClauses {
+        count: usize,
+    },
     /// The matched transitory carries an exception, condition, or
     /// staged-rollout qualifier (`con excepción`, `salvo`, `cuando`,
     /// `gradualmente`, `declaratoria`, `a más tardar`, …) — some or all of
     /// the instrument's own text does not share the plain reading.
-    ExceptionOrConditionalLanguage { marker: String },
+    ExceptionOrConditionalLanguage {
+        marker: String,
+    },
     /// The commencement period is counted in business days
     /// (`días hábiles`), which requires a holiday calendar this module does
     /// not have.
     BusinessDaysPeriod,
     /// The commencement period uses a unit this module does not compute
     /// (`meses`, `años`) — day arithmetic only is supported today.
-    UnsupportedRelativePeriodUnit { unit: String },
+    UnsupportedRelativePeriodUnit {
+        unit: String,
+    },
     /// A day count is written in Spanish words this module's bounded number
     /// table does not cover, rather than digits.
-    UnrecognizedNumberWord { word: String },
+    UnrecognizedNumberWord {
+        word: String,
+    },
     /// Exactly one commencement clause was found, but its shape does not
     /// match any pattern this module resolves (a cross-reference to another
     /// transitory, a rollout tied to a different event, a spelled-out year,
@@ -93,6 +102,7 @@ impl SkipReason {
     #[must_use]
     pub fn code(&self) -> &'static str {
         match self {
+            Self::PublicationNotExact => "publication-not-exact",
             Self::NoOrdinaryTransitories => "no-ordinary-transitories",
             Self::NoCommencementClause => "no-commencement-clause",
             Self::MultipleCommencementClauses { .. } => "multiple-commencement-clauses",
@@ -107,6 +117,7 @@ impl SkipReason {
     #[must_use]
     pub fn describe(&self) -> String {
         match self {
+            Self::PublicationNotExact => "publication is a period, not an exact day".to_owned(),
             Self::NoOrdinaryTransitories => {
                 "instrument has no ordinary transitory provisions".to_owned()
             }
@@ -166,6 +177,15 @@ pub fn derive_article_temporal_determinations(
     provisions: &[Provision],
     today: NaiveDate,
 ) -> DerivationOutcome {
+    let Some(publication_date) = instrument.publication_date else {
+        return DerivationOutcome {
+            determinations: Vec::new(),
+            commencement: Some(Commencement::Skipped {
+                reason: SkipReason::PublicationNotExact,
+                matched_text: None,
+            }),
+        };
+    };
     let mut determinations = Vec::new();
 
     // Rule A: promote an already-repealed, untouched article's provenance.
@@ -200,7 +220,7 @@ pub fn derive_article_temporal_determinations(
             commencement: None,
         };
     }
-    let commencement = resolve_commencement(&ordinary_transitories, instrument.publication_date);
+    let commencement = resolve_commencement(&ordinary_transitories, publication_date);
     if let Commencement::Resolved { effective_from, .. } = &commencement {
         let status = if *effective_from > today {
             TemporalStatus::FutureEffective
@@ -255,12 +275,15 @@ fn has_amendment_evidence(provision: &Provision) -> bool {
 /// never altered. Returns how many dates changed.
 #[must_use]
 pub fn repair_article_dates(instrument: &Instrument, provisions: &mut [Provision]) -> usize {
+    let Some(publication_date) = instrument.publication_date else {
+        return 0;
+    };
     let transitories = provisions
         .iter()
         .filter(|provision| provision.provision_type == ProvisionType::Transitory)
         .collect::<Vec<_>>();
     let Commencement::Resolved { effective_from, .. } =
-        resolve_commencement(&transitories, instrument.publication_date)
+        resolve_commencement(&transitories, publication_date)
     else {
         return 0;
     };
@@ -327,7 +350,9 @@ fn determination(
     TemporalDetermination {
         provision_id: provision.id.clone(),
         temporal_status: status,
-        publication_date: instrument.publication_date,
+        publication_date: instrument
+            .publication_date
+            .expect("exact day checked before derivation"),
         effective_from,
         effective_to: None,
         confidence,
@@ -561,7 +586,8 @@ mod tests {
             short_name: "LM".to_owned(),
             operational_source: "diputados".to_owned(),
             formal_publication_source: "dof".to_owned(),
-            publication_date,
+            publication_date: Some(publication_date),
+            publication_period: None,
             latest_reform_date: None,
             retrieved_at: chrono::Utc::now(),
             source_url: "https://example.test/lm.pdf".parse().expect("valid url"),
@@ -586,6 +612,7 @@ mod tests {
         review_status: ReviewStatus,
     ) -> Provision {
         Provision {
+            numbering_basis: None,
             schema_version: "0.1.0".to_owned(),
             id: format!("urn:lex-mx:federal:statute:muestra:{provision_type:?}:{id}")
                 .to_lowercase(),
@@ -601,7 +628,8 @@ mod tests {
                 apartado: None,
             },
             text: text.to_owned(),
-            publication_date: date(1990, 1, 1),
+            publication_date: Some(date(1990, 1, 1)),
+            publication_period: None,
             effective_from: None,
             effective_to: None,
             temporal_status,
@@ -1092,5 +1120,30 @@ mod tests {
                 ..
             })
         ));
+    }
+    #[test]
+    fn nonexact_publication_never_guesses_an_endpoint_or_changes_dates() {
+        let mut inst = instrument(date(1912, 1, 1));
+        inst.publication_date = None;
+        let mut provisions = vec![provision(
+            "1",
+            ProvisionType::Transitory,
+            "UNICO",
+            "La Ley entrará en vigor al día siguiente de su publicación.",
+            TemporalStatus::Unknown,
+            ReviewStatus::NotAnalyzed,
+        )];
+        let before = format!("{provisions:?}");
+        let result = derive_article_temporal_determinations(&inst, &provisions, date(2026, 1, 1));
+        assert!(result.determinations.is_empty());
+        assert!(matches!(
+            result.commencement,
+            Some(Commencement::Skipped {
+                reason: SkipReason::PublicationNotExact,
+                ..
+            })
+        ));
+        assert_eq!(repair_article_dates(&inst, &mut provisions), 0);
+        assert_eq!(format!("{provisions:?}"), before);
     }
 }

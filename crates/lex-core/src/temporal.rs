@@ -1227,6 +1227,7 @@ mod tests {
         let original_text = request.relevant_provisions[0].text.clone();
 
         let make_provision = |text: &str| crate::Provision {
+            numbering_basis: None,
             schema_version: SCHEMA_VERSION.to_owned(),
             id: provision_id.clone(),
             instrument_id: "urn:lex-mx:test".to_owned(),
@@ -1241,7 +1242,8 @@ mod tests {
                 apartado: None,
             },
             text: text.to_owned(),
-            publication_date: NaiveDate::from_ymd_opt(2025, 11, 14).unwrap(),
+            publication_date: Some(NaiveDate::from_ymd_opt(2025, 11, 14).unwrap()),
+            publication_period: None,
             effective_from: None,
             effective_to: None,
             temporal_status: TemporalStatus::Unknown,
@@ -1346,6 +1348,7 @@ mod tests {
 
     fn sample_provision_with_text(text: &str) -> crate::Provision {
         crate::Provision {
+            numbering_basis: None,
             schema_version: SCHEMA_VERSION.to_owned(),
             id: "urn:lex-mx:test:transitory:segundo".to_owned(),
             instrument_id: "urn:lex-mx:test".to_owned(),
@@ -1360,7 +1363,8 @@ mod tests {
                 apartado: None,
             },
             text: text.to_owned(),
-            publication_date: NaiveDate::from_ymd_opt(2025, 11, 14).unwrap(),
+            publication_date: Some(NaiveDate::from_ymd_opt(2025, 11, 14).unwrap()),
+            publication_period: None,
             effective_from: None,
             effective_to: None,
             temporal_status: TemporalStatus::Unknown,

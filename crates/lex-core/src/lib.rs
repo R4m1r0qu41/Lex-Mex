@@ -494,6 +494,67 @@ pub struct SourceManifest {
     pub resulting_git_commit: Option<String>,
 }
 
+/// A source-stated inclusive publication period. It is not an exact day.
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(deny_unknown_fields)]
+pub struct PublicationPeriod {
+    pub metadata_version: String,
+    pub kind: PublicationPeriodKind,
+    pub start: NaiveDate,
+    pub end: NaiveDate,
+    pub source_note: String,
+    pub source_sha256: String,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum PublicationPeriodKind {
+    SerializedRange,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum NumberingBasis {
+    ImplicitSingleton,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum EnactmentOwner {
+    ContainingDecree,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum EnactmentEvidenceKind {
+    Transitory,
+    ElidedSiblingArticle,
+}
+
+/// Source apparatus belonging to the enacting decree, not law provisions or
+/// later reform evidence. No temporal or legal determination is stored here.
+#[derive(Debug, Clone, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
+pub struct EnactmentEvidence {
+    pub schema_version: String,
+    pub id: String,
+    pub instrument_id: String,
+    pub owner: EnactmentOwner,
+    pub kind: EnactmentEvidenceKind,
+    pub containing_act_title: String,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub section_heading: Option<String>,
+    pub source_heading: String,
+    pub number: String,
+    pub text: String,
+    pub publication_date: Option<NaiveDate>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub publication_period: Option<PublicationPeriod>,
+    pub source_sha256: String,
+    pub extracted_text_sha256: String,
+    pub text_sha256: String,
+}
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Instrument {
     pub schema_version: String,
@@ -505,7 +566,9 @@ pub struct Instrument {
     pub short_name: String,
     pub operational_source: String,
     pub formal_publication_source: String,
-    pub publication_date: NaiveDate,
+    pub publication_date: Option<NaiveDate>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub publication_period: Option<PublicationPeriod>,
     pub latest_reform_date: Option<NaiveDate>,
     pub retrieved_at: DateTime<Utc>,
     pub source_url: Url,
@@ -553,9 +616,13 @@ pub struct Provision {
     pub provision_type: ProvisionType,
     pub label: String,
     pub number: String,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub numbering_basis: Option<NumberingBasis>,
     pub heading_context: HeadingContext,
     pub text: String,
-    pub publication_date: NaiveDate,
+    pub publication_date: Option<NaiveDate>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub publication_period: Option<PublicationPeriod>,
     pub effective_from: Option<NaiveDate>,
     pub effective_to: Option<NaiveDate>,
     pub temporal_status: TemporalStatus,
@@ -752,6 +819,8 @@ pub struct TermUsage {
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Corpus {
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub enactment_evidence: Vec<EnactmentEvidence>,
     pub instrument: Instrument,
     pub provisions: Vec<Provision>,
     #[serde(default)]
@@ -765,6 +834,120 @@ pub struct Corpus {
     /// without compiled-document markers.
     #[serde(default, skip_serializing_if = "Vec::is_empty")]
     pub amendment_references: Vec<AmendmentReference>,
+}
+
+#[must_use]
+pub fn enactment_evidence_id(
+    instrument_id: &str,
+    date: Option<NaiveDate>,
+    kind: &EnactmentEvidenceKind,
+    number: &str,
+) -> String {
+    let date = date.map_or_else(|| "serialized-range".to_owned(), |d| d.to_string());
+    let key = number
+        .to_lowercase()
+        .replace('á', "a")
+        .replace('é', "e")
+        .replace('í', "i")
+        .replace('ó', "o")
+        .replace('ú', "u")
+        .replace(' ', "-");
+    let unit = match kind {
+        EnactmentEvidenceKind::Transitory => "transitory",
+        EnactmentEvidenceKind::ElidedSiblingArticle => "elided",
+    };
+    format!("{instrument_id}:enactment:{date}:decree:{unit}:{key}")
+}
+
+/// Validate newly introduced publication/evidence boundaries without changing
+/// legacy exact-day records. New ranges never provide an arithmetic anchor.
+pub fn validate_publication_metadata(corpus: &Corpus) -> Result<(), String> {
+    let instrument = &corpus.instrument;
+    match (instrument.publication_date, &instrument.publication_period) {
+        (Some(_), None) => {}
+        (None, Some(period)) => {
+            let schema: serde_json::Value = serde_json::from_str(include_str!(
+                "../../../schemas/publication-period.schema.json"
+            ))
+            .map_err(|e| e.to_string())?;
+            let validator = jsonschema::validator_for(&schema).map_err(|e| e.to_string())?;
+            validator
+                .validate(&serde_json::to_value(period).map_err(|e| e.to_string())?)
+                .map_err(|e| e.to_string())?;
+            if period.start > period.end || period.source_sha256 != instrument.source_sha256 {
+                return Err("invalid or source-mismatched publication period".to_owned());
+            }
+        }
+        _ => return Err("publication must specify exactly one of exact day or period".to_owned()),
+    }
+    for provision in &corpus.provisions {
+        if provision.publication_date != instrument.publication_date
+            || provision.publication_period != instrument.publication_period
+        {
+            return Err(format!(
+                "publication metadata differs from owning instrument: {}",
+                provision.id
+            ));
+        }
+        if provision.numbering_basis.is_some()
+            && (provision.provision_type != ProvisionType::Transitory
+                || provision.number != "UNICO"
+                || !provision.label.to_uppercase().contains("TRANSITORIO"))
+        {
+            return Err(format!(
+                "invalid implicit singleton numbering: {}",
+                provision.id
+            ));
+        }
+    }
+    if corpus
+        .provisions
+        .iter()
+        .any(|p| p.numbering_basis.is_some())
+        && corpus
+            .provisions
+            .iter()
+            .filter(|p| p.provision_type == ProvisionType::Transitory)
+            .count()
+            != 1
+    {
+        return Err("implicit singleton cannot coexist with another own transitory".to_owned());
+    }
+    let mut ids: std::collections::HashSet<_> =
+        corpus.provisions.iter().map(|p| p.id.as_str()).collect();
+    if !corpus.enactment_evidence.is_empty() {
+        let schema: serde_json::Value = serde_json::from_str(include_str!(
+            "../../../schemas/enactment-evidence.schema.json"
+        ))
+        .map_err(|e| e.to_string())?;
+        let validator = jsonschema::validator_for(&schema).map_err(|e| e.to_string())?;
+        for item in &corpus.enactment_evidence {
+            validator
+                .validate(&serde_json::to_value(item).map_err(|e| e.to_string())?)
+                .map_err(|e| e.to_string())?;
+            if !ids.insert(&item.id)
+                || item.instrument_id != instrument.id
+                || item.id
+                    != enactment_evidence_id(
+                        &instrument.id,
+                        instrument.publication_date,
+                        &item.kind,
+                        &item.number,
+                    )
+                || item.source_sha256 != instrument.source_sha256
+                || item.extracted_text_sha256 != instrument.extracted_text_sha256
+                || item.text_sha256 != evidence_sha256(&item.text)
+                || item.publication_date != instrument.publication_date
+                || item.publication_period != instrument.publication_period
+            {
+                return Err(format!(
+                    "invalid or source-mismatched enactment evidence: {}",
+                    item.id
+                ));
+            }
+        }
+    }
+    Ok(())
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -1090,5 +1273,165 @@ mod fold_tests {
         let (text, position) = fold_unit("Texto original.", "tercer párrafo", &steps);
         assert_eq!(text, "(Derogado, D.O.F. 2026-07-31)");
         assert_eq!(position, "cuarto párrafo");
+    }
+}
+
+#[cfg(test)]
+mod publication_metadata_tests {
+    use super::*;
+
+    fn exact_corpus() -> Corpus {
+        Corpus {
+            instrument: serde_json::from_str(include_str!(
+                "../../../corpus/mx/lritf/instrument.json"
+            ))
+            .unwrap(),
+            provisions: serde_json::from_str(include_str!(
+                "../../../corpus/mx/lritf/provisions.json"
+            ))
+            .unwrap(),
+            enactment_evidence: Vec::new(),
+            references: Vec::new(),
+            terms: Vec::new(),
+            term_usages: Vec::new(),
+            amendment_references: Vec::new(),
+        }
+    }
+
+    fn range_corpus() -> Corpus {
+        let mut corpus = exact_corpus();
+        let period = PublicationPeriod {
+            metadata_version: "1.0.0".to_owned(),
+            kind: PublicationPeriodKind::SerializedRange,
+            start: NaiveDate::from_ymd_opt(1912, 1, 1).unwrap(),
+            end: NaiveDate::from_ymd_opt(1912, 1, 8).unwrap(),
+            source_note: "Source states serialized publication".to_owned(),
+            source_sha256: corpus.instrument.source_sha256.clone(),
+        };
+        corpus.instrument.publication_date = None;
+        corpus.instrument.publication_period = Some(period.clone());
+        for p in &mut corpus.provisions {
+            p.publication_date = None;
+            p.publication_period = Some(period.clone());
+        }
+        corpus
+    }
+
+    #[test]
+    fn existing_exact_day_fields_roundtrip_without_shape_or_value_change() {
+        let corpus = exact_corpus();
+        let old: serde_json::Value =
+            serde_json::from_str(include_str!("../../../corpus/mx/lritf/instrument.json")).unwrap();
+        assert_eq!(serde_json::to_value(&corpus.instrument).unwrap(), old);
+        let old: serde_json::Value =
+            serde_json::from_str(include_str!("../../../corpus/mx/lritf/provisions.json")).unwrap();
+        let actual: serde_json::Value =
+            serde_json::from_str(&serde_json::to_string(&corpus.provisions).unwrap()).unwrap();
+        assert_eq!(
+            old.as_array().unwrap().len(),
+            actual.as_array().unwrap().len()
+        );
+        for (before, after) in old
+            .as_array()
+            .unwrap()
+            .iter()
+            .zip(actual.as_array().unwrap())
+        {
+            assert_eq!(
+                before.as_object().unwrap().keys().collect::<Vec<_>>(),
+                after.as_object().unwrap().keys().collect::<Vec<_>>(),
+                "field shape for {}",
+                before["id"]
+            );
+            for (key, value) in before.as_object().unwrap() {
+                assert!(
+                    value == &after[key],
+                    "changed field {key} for {}",
+                    before["id"]
+                );
+            }
+            assert!(after.get("publication_period").is_none());
+            assert!(after.get("numbering_basis").is_none());
+        }
+        validate_publication_metadata(&corpus).unwrap();
+    }
+
+    #[test]
+    fn period_records_have_no_exact_day_and_reject_conflicting_or_reversed_metadata() {
+        let mut corpus = range_corpus();
+        validate_publication_metadata(&corpus).unwrap();
+        let value = serde_json::to_value(&corpus.instrument).unwrap();
+        assert!(value["publication_date"].is_null());
+        assert_eq!(value["publication_period"]["metadata_version"], "1.0.0");
+        corpus.instrument.publication_date = Some(NaiveDate::from_ymd_opt(1912, 1, 1).unwrap());
+        assert!(validate_publication_metadata(&corpus).is_err());
+        corpus = range_corpus();
+        corpus.instrument.publication_period.as_mut().unwrap().start =
+            NaiveDate::from_ymd_opt(1912, 1, 9).unwrap();
+        assert!(validate_publication_metadata(&corpus).is_err());
+        corpus = range_corpus();
+        corpus.provisions[0].publication_date = Some(NaiveDate::from_ymd_opt(1912, 1, 8).unwrap());
+        assert!(validate_publication_metadata(&corpus).is_err());
+    }
+
+    #[test]
+    fn persisted_implicit_singleton_rejects_multiple_or_mixed_own_clauses() {
+        let mut corpus = exact_corpus();
+        let mut clause = corpus
+            .provisions
+            .iter()
+            .find(|p| p.provision_type == ProvisionType::Transitory)
+            .unwrap()
+            .clone();
+        clause.number = "UNICO".to_owned();
+        clause.label = "ARTICULO TRANSITORIO:".to_owned();
+        clause.numbering_basis = Some(NumberingBasis::ImplicitSingleton);
+        corpus.provisions = vec![clause.clone()];
+        validate_publication_metadata(&corpus).unwrap();
+        clause.id.push_str(":second");
+        clause.number = "PRIMERO".to_owned();
+        clause.numbering_basis = None;
+        corpus.provisions.push(clause);
+        assert!(validate_publication_metadata(&corpus).is_err());
+        corpus.provisions[1] = corpus.provisions[0].clone();
+        corpus.provisions[1].id.push_str(":second");
+        assert!(validate_publication_metadata(&corpus).is_err());
+    }
+
+    #[test]
+    fn enactment_sidecar_identity_owner_source_and_text_are_checked() {
+        let mut corpus = exact_corpus();
+        let date = corpus.instrument.publication_date;
+        let kind = EnactmentEvidenceKind::Transitory;
+        let item = EnactmentEvidence {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: enactment_evidence_id(&corpus.instrument.id, date, &kind, "PRIMERO"),
+            instrument_id: corpus.instrument.id.clone(),
+            owner: EnactmentOwner::ContainingDecree,
+            kind,
+            containing_act_title: "DECRETO de expedición".to_owned(),
+            section_heading: Some("TRANSITORIOS".to_owned()),
+            source_heading: "PRIMERO.-".to_owned(),
+            number: "PRIMERO".to_owned(),
+            text: "Texto fuente.".to_owned(),
+            publication_date: date,
+            publication_period: None,
+            source_sha256: corpus.instrument.source_sha256.clone(),
+            extracted_text_sha256: corpus.instrument.extracted_text_sha256.clone(),
+            text_sha256: evidence_sha256("Texto fuente."),
+        };
+        corpus.enactment_evidence.push(item.clone());
+        validate_publication_metadata(&corpus).unwrap();
+        corpus.enactment_evidence[0].text.push_str(" Altered");
+        assert!(validate_publication_metadata(&corpus).is_err());
+        corpus.enactment_evidence[0] = item.clone();
+        corpus.enactment_evidence[0].id.push('x');
+        assert!(validate_publication_metadata(&corpus).is_err());
+        corpus.enactment_evidence[0] = item.clone();
+        corpus.enactment_evidence[0].source_sha256 = "0".repeat(64);
+        assert!(validate_publication_metadata(&corpus).is_err());
+        let mut value = serde_json::to_value(item).unwrap();
+        value["owner"] = "law".into();
+        assert!(serde_json::from_value::<EnactmentEvidence>(value).is_err());
     }
 }

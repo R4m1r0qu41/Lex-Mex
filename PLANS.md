@@ -66,6 +66,10 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Completed
 
+- [`docs/plans/federal-ingestion-failure-repair.md`](docs/plans/federal-ingestion-failure-repair.md)
+  — Parser and follow-up source-ownership/publication repairs verified on all
+  227 frozen cases; 14 holds preserved, no canonical admission.
+
 - [`docs/plans/reader-figma-intake-dots.md`](docs/plans/reader-figma-intake-dots.md)
   — Reader Figma/Dots draft delivered and fourteen EC2/EC3 intakes committed locally.
 

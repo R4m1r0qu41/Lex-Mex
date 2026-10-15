@@ -519,6 +519,7 @@ impl DcgProvisionBuilder {
         };
         let text = self.paragraphs.join("\n\n");
         Provision {
+            numbering_basis: None,
             schema_version: SCHEMA_VERSION.to_owned(),
             id: format!("{}:{kind}:{canonical_number}", self.instrument_id),
             instrument_id: self.instrument_id,
@@ -527,7 +528,8 @@ impl DcgProvisionBuilder {
             number: self.number,
             heading_context: self.heading_context,
             text: text.clone(),
-            publication_date,
+            publication_date: Some(publication_date),
+            publication_period: None,
             effective_from: None,
             effective_to: None,
             temporal_status: crate::initial_temporal_status(&text),

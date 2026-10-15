@@ -27,6 +27,7 @@ const CANONICAL_FILES: &[&str] = &[
     "temporal-analysis-result.json",
     "review-queue.json",
     "reform-temporal-evidence.json",
+    "enactment-evidence.json",
     "validation.json",
 ];
 const STANDARD_CANONICAL_FILES: &[&str] = &[
@@ -236,6 +237,22 @@ fn collect_instrument(
         bail!("no committed corpus found for instrument {slug:?}");
     }
     let instrument: Instrument = read_json(&source_dir.join("instrument.json"))?;
+    let evidence_path = source_dir.join("enactment-evidence.json");
+    let checked = lex_core::Corpus {
+        instrument: instrument.clone(),
+        provisions: read_json(&source_dir.join("provisions.json"))?,
+        enactment_evidence: if evidence_path.exists() {
+            read_json(&evidence_path)?
+        } else {
+            Vec::new()
+        },
+        references: Vec::new(),
+        terms: Vec::new(),
+        term_usages: Vec::new(),
+        amendment_references: Vec::new(),
+    };
+    lex_core::validate_publication_metadata(&checked).map_err(anyhow::Error::msg)?;
+
     let validation_path = source_dir.join("validation.json");
     let validation: serde_json::Value = read_json(&validation_path)?;
     if validation.get("valid").and_then(serde_json::Value::as_bool) != Some(true) {
@@ -527,9 +544,106 @@ mod tests {
         );
     }
 
+    #[test]
+    fn range_bundle_preserves_publication_precision_and_typed_decree_sidecar() {
+        let temporary = tempfile::tempdir().unwrap();
+        let root = temporary.path();
+        write_fixture(root, "range");
+        let directory = root.join("corpus/mx/range");
+        let mut instrument: Instrument =
+            super::read_json(&directory.join("instrument.json")).unwrap();
+        let period = lex_core::PublicationPeriod {
+            metadata_version: "1.0.0".to_owned(),
+            kind: lex_core::PublicationPeriodKind::SerializedRange,
+            start: NaiveDate::from_ymd_opt(1912, 1, 1).unwrap(),
+            end: NaiveDate::from_ymd_opt(1912, 1, 8).unwrap(),
+            source_note: "Serialized source note".to_owned(),
+            source_sha256: instrument.source_sha256.clone(),
+        };
+        instrument.publication_date = None;
+        instrument.publication_period = Some(period.clone());
+        let mut provisions: Vec<Provision> =
+            super::read_json(&directory.join("provisions.json")).unwrap();
+        for p in &mut provisions {
+            p.publication_date = None;
+            p.publication_period = Some(period.clone());
+        }
+        fs::write(
+            directory.join("instrument.json"),
+            serde_json::to_vec_pretty(&instrument).unwrap(),
+        )
+        .unwrap();
+        fs::write(
+            directory.join("provisions.json"),
+            serde_json::to_vec_pretty(&provisions).unwrap(),
+        )
+        .unwrap();
+        let kind = lex_core::EnactmentEvidenceKind::Transitory;
+        let evidence = lex_core::EnactmentEvidence {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: lex_core::enactment_evidence_id(&instrument.id, None, &kind, "PRIMERO"),
+            instrument_id: instrument.id.clone(),
+            owner: lex_core::EnactmentOwner::ContainingDecree,
+            kind,
+            containing_act_title: "DECRETO expedidor".to_owned(),
+            section_heading: Some("TRANSITORIOS".to_owned()),
+            source_heading: "PRIMERO.-".to_owned(),
+            number: "PRIMERO".to_owned(),
+            text: "Texto.".to_owned(),
+            publication_date: None,
+            publication_period: Some(period),
+            source_sha256: instrument.source_sha256.clone(),
+            extracted_text_sha256: instrument.extracted_text_sha256.clone(),
+            text_sha256: lex_core::evidence_sha256("Texto."),
+        };
+        fs::write(
+            directory.join("enactment-evidence.json"),
+            serde_json::to_vec_pretty(&vec![evidence]).unwrap(),
+        )
+        .unwrap();
+        let output = root.join("out");
+        create_bundle(
+            root,
+            &["range".to_owned()],
+            BundleProfile::Canonical,
+            &output,
+            "abc123",
+            "2026-07-25T12:00:00-06:00",
+        )
+        .unwrap();
+        let exported: serde_json::Value =
+            super::read_json(&output.join("instruments/range/instrument.json")).unwrap();
+        assert!(exported["publication_date"].is_null());
+        assert_eq!(exported["publication_period"]["kind"], "serialized_range");
+        assert_eq!(
+            fs::read(directory.join("enactment-evidence.json")).unwrap(),
+            fs::read(output.join("instruments/range/enactment-evidence.json")).unwrap()
+        );
+        let mut invalid: serde_json::Value =
+            super::read_json(&directory.join("enactment-evidence.json")).unwrap();
+        invalid[0]["owner"] = "law".into();
+        fs::write(
+            directory.join("enactment-evidence.json"),
+            serde_json::to_vec(&invalid).unwrap(),
+        )
+        .unwrap();
+        assert!(
+            create_bundle(
+                root,
+                &["range".to_owned()],
+                BundleProfile::Canonical,
+                &root.join("bad"),
+                "abc123",
+                "2026-07-25T12:00:00-06:00"
+            )
+            .is_err()
+        );
+    }
+
     fn write_fixture(root: &Path, slug: &str) {
         let instrument_id = format!("urn:lex-mx:federal:statute:{slug}");
         let corpus = Corpus {
+            enactment_evidence: Vec::new(),
             instrument: Instrument {
                 schema_version: SCHEMA_VERSION.to_owned(),
                 id: instrument_id.clone(),
@@ -540,7 +654,8 @@ mod tests {
                 short_name: slug.to_uppercase(),
                 operational_source: "fixture".to_owned(),
                 formal_publication_source: "fixture".to_owned(),
-                publication_date: NaiveDate::from_ymd_opt(2026, 7, 25).unwrap(),
+                publication_date: Some(NaiveDate::from_ymd_opt(2026, 7, 25).unwrap()),
+                publication_period: None,
                 latest_reform_date: None,
                 retrieved_at: Utc::now(),
                 source_url: Url::parse("https://example.test/source").unwrap(),
@@ -555,6 +670,7 @@ mod tests {
                 formal_extracted_text_sha256: None,
             },
             provisions: vec![Provision {
+                numbering_basis: None,
                 schema_version: SCHEMA_VERSION.to_owned(),
                 id: format!("{instrument_id}:article:1"),
                 instrument_id: instrument_id.clone(),
@@ -569,7 +685,8 @@ mod tests {
                     apartado: None,
                 },
                 text: "Fixture.".to_owned(),
-                publication_date: NaiveDate::from_ymd_opt(2026, 7, 25).unwrap(),
+                publication_date: Some(NaiveDate::from_ymd_opt(2026, 7, 25).unwrap()),
+                publication_period: None,
                 effective_from: None,
                 effective_to: None,
                 temporal_status: TemporalStatus::Unknown,

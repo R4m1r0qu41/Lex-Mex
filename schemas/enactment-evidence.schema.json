@@ -1,0 +1,124 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Containing enactment-decree evidence",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "id",
+    "instrument_id",
+    "owner",
+    "kind",
+    "source_heading",
+    "number",
+    "text",
+    "publication_date",
+    "source_sha256",
+    "extracted_text_sha256",
+    "containing_act_title",
+    "text_sha256"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "instrument_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_heading": {
+      "type": "string",
+      "minLength": 1
+    },
+    "number": {
+      "type": "string",
+      "minLength": 1
+    },
+    "text": {
+      "type": "string",
+      "minLength": 1
+    },
+    "schema_version": {
+      "const": "0.1.0"
+    },
+    "owner": {
+      "const": "containing_decree"
+    },
+    "kind": {
+      "enum": [
+        "transitory",
+        "elided_sibling_article"
+      ]
+    },
+    "publication_date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "publication_period": {
+      "$ref": "#/$defs/period"
+    },
+    "source_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "extracted_text_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "containing_act_title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "text_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "section_heading": {
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "$defs": {
+    "period": {
+      "title": "Source-stated publication period v1",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "metadata_version",
+        "kind",
+        "start",
+        "end",
+        "source_note",
+        "source_sha256"
+      ],
+      "properties": {
+        "metadata_version": {
+          "const": "1.0.0"
+        },
+        "kind": {
+          "const": "serialized_range"
+        },
+        "start": {
+          "type": "string",
+          "format": "date"
+        },
+        "end": {
+          "type": "string",
+          "format": "date"
+        },
+        "source_note": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      }
+    }
+  }
+}

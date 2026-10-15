@@ -36,6 +36,7 @@ pub struct DiputadosOptions {
     /// instrument. Everything after the first matching heading is preserved
     /// as one canonical annex provision.
     pub annex_markers: Vec<String>,
+    pub separate_enactment: bool,
 }
 
 #[derive(Debug)]
@@ -44,6 +45,7 @@ pub struct DiputadosDocument {
     /// Reform-decree transitories from the consolidated document's
     /// appendix, isolated as temporal evidence.
     pub reform_evidence: Vec<TemporalEvidence>,
+    pub enactment_evidence: Vec<lex_core::EnactmentEvidence>,
 }
 
 /// Every transitory ordinal word, masculine and feminine, longest first so
@@ -175,6 +177,20 @@ pub(crate) fn parse_numeric_transitory_start(block: &str) -> Option<(&str, &str)
     Some((&block[..end], body.trim()))
 }
 
+/// Roman labels are accepted only by the established original-transitory
+/// section mode, never by the article or reform-evidence grammar.
+fn parse_roman_transitory_start(block: &str) -> Option<(&str, &str)> {
+    let (ordinal, body) = block.split_once(".-")?;
+    if ordinal.is_empty()
+        || !ordinal
+            .chars()
+            .all(|c| matches!(c, 'I' | 'V' | 'X' | 'L' | 'C' | 'D' | 'M'))
+    {
+        return None;
+    }
+    Some((ordinal, body.trim()))
+}
+
 /// A single-letter article suffix in a heading that the base-number
 /// grammar does not fold in itself, either space-separated
 /// (`Artículo 2448 A.-`) or written past the separator after a low ordinal
@@ -224,6 +240,11 @@ fn heading_letter_suffix(after: &str) -> Option<(String, &str)> {
 /// `Artículo 15-D.- body`, `ARTICULO 1o. body`, `Artículo 4o.-A.- body`,
 /// `Artículo 2448 A.- body` → `(number, body)`.
 fn parse_article_start(block: &str) -> Option<(String, &str)> {
+    let block = if block.starts_with(". Artículo ") {
+        &block[2..]
+    } else {
+        block
+    };
     let rest = ["Artículo ", "ARTÍCULO ", "ARTICULO ", "Articulo "]
         .iter()
         .find_map(|prefix| block.strip_prefix(prefix))?;
@@ -351,7 +372,11 @@ fn is_dropped_decree_block(block: &str, ordinals: &[String]) -> bool {
 /// The leading base number of an article label (`70-A` → 70, `1o` → 1),
 /// for detecting a heading whose number regresses below the sequence.
 fn article_base(number: &str) -> Option<u64> {
-    let digits: String = number.chars().take_while(char::is_ascii_digit).collect();
+    let digits: String = number
+        .chars()
+        .take_while(|c| c.is_ascii_digit() || *c == ',')
+        .filter(|c| *c != ',')
+        .collect();
     digits.parse().ok()
 }
 
@@ -426,6 +451,31 @@ fn is_page_furniture(line: &str, options: &DiputadosOptions, page_number: &Regex
         || page_number.is_match(line)
 }
 
+/// A legislative closing block is apparatus, never a statutory transitory.
+/// Require a place/date opening and actual signatures; an inline citation is
+/// insufficient. Called on normalized blocks so wrapped signatures are whole.
+fn is_enactment_signature(block: &str) -> bool {
+    let upper = block.to_uppercase();
+    let place = ["MÉXICO,", "CIUDAD DE MÉXICO,"]
+        .iter()
+        .any(|p| upper.starts_with(p));
+    ((place
+        || upper.starts_with("PALACIO NACIONAL,")
+        || upper.starts_with("DADO EN LA RESIDENCIA")
+        || upper.starts_with("DADO EN EL PALACIO"))
+        && upper.contains("RÚBRICA"))
+        || (upper.contains("D. P.-") && upper.contains("S. P.-") && upper.contains("RÚBRICA"))
+        || upper.starts_with("POR TANTO, MANDO SE IMPRIMA, PUBLIQUE, CIRCULE")
+        || upper.starts_with("EN CUMPLIMIENTO DE LO DISPUESTO POR LA FRACCIÓN I DEL ARTÍCULO 89")
+        || ((upper.starts_with("DIP.") || upper.starts_with("SEN.")) && upper.contains("RÚBRICA"))
+}
+
+fn is_judicial_appendix(block: &str) -> bool {
+    block.starts_with("PUNTOS RESOLUTIVOS de la sentencia")
+        || block.starts_with("SENTENCIA dictada")
+        || block.starts_with("VERSIÓN pública de la Sentencia")
+}
+
 fn is_stop_marker(block: &str, options: &DiputadosOptions) -> bool {
     block.contains("ARTÍCULOS TRANSITORIOS DE")
         || block.contains("ARTICULOS TRANSITORIOS DE")
@@ -436,10 +486,15 @@ fn is_stop_marker(block: &str, options: &DiputadosOptions) -> bool {
 }
 
 fn is_transitory_section_header(block: &str) -> bool {
+    // The period extension covers printed headings, not a lowercase
+    // continuation line such as "... de este" + "transitorio.".
+    if block.ends_with('.') && block.chars().next().is_some_and(char::is_lowercase) {
+        return false;
+    }
     // A trailing colon, a missing accent, and mixed case all occur
     // (`ARTICULOS TRANSITORIOS`, `TRANSITORIOS:`, `Transitorios`).
     let block = block
-        .strip_suffix(':')
+        .strip_suffix([':', '.'])
         .unwrap_or(block)
         .trim_end()
         .to_uppercase();
@@ -488,11 +543,13 @@ fn is_decree_article_wrapper(block: &str, ordinals: &[String]) -> bool {
         .trim_start()
         .to_uppercase();
     [
-        "SE EXPIDE",
-        "SE REFORMA",
-        "SE ADICIONA",
-        "SE DEROGA",
-        "SE ABROGA",
+        "SE EXPIDE ",
+        "SE APRUEBA LA LEY ",
+        "SE CREA LA LEY ",
+        "SE REFORMA ",
+        "SE ADICIONA ",
+        "SE DEROGA ",
+        "SE ABROGA ",
     ]
     .iter()
     .any(|action| body.starts_with(action))
@@ -526,6 +583,8 @@ fn is_immediate_structural(
     headings: &HeadingPatterns,
 ) -> bool {
     is_stop_marker(line, options)
+        || is_judicial_appendix(line)
+        || line == "FE DE ERRATAS"
         || options
             .annex_markers
             .iter()
@@ -574,7 +633,7 @@ fn is_reform_ley_heading(block: &str) -> bool {
 /// parse (a wrapped citation line starting `Artículo 22 de la Ley` still
 /// opens a new block, exactly as the original LRITF parser behaved).
 fn is_provision_start(line: &str, ordinals: &[String]) -> bool {
-    line.starts_with("Artículo ")
+    (line.starts_with("Artículo ") || line.starts_with(". Artículo "))
         || line.starts_with("ARTÍCULO ")
         || line.starts_with("ARTICULO ")
         || line.starts_with("Articulo ")
@@ -625,13 +684,46 @@ fn normalized_blocks(
     let mut pending_blank = false;
     let mut crossed_page_furniture = false;
 
-    for source_line in raw.lines() {
+    let lines: Vec<_> = raw.lines().collect();
+    let mut publisher_title_lines = std::collections::HashSet::new();
+    for (index, line) in lines.iter().enumerate() {
+        if !line
+            .trim()
+            .starts_with("CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN")
+        {
+            continue;
+        }
+        // Status notes sharing the publisher's Secretaría line are header
+        // metadata too; do not apply this rule to matching body prose.
+        for (metadata, content) in lines.iter().enumerate().skip(index + 1).take(2) {
+            if content.trim().starts_with("Secretaría ") {
+                publisher_title_lines.insert(metadata);
+            }
+        }
+        let start = index.saturating_sub(3);
+        for candidate in start..index {
+            let title = lines[candidate].trim();
+            if ["LEY ", "REGLAMENTO ", "CÓDIGO ", "CODIGO ", "ORDENANZA "]
+                .iter()
+                .any(|prefix| title.starts_with(prefix))
+                && lines[candidate..index].iter().all(|part| {
+                    let part = part.trim();
+                    !part.is_empty() && part.chars().all(|c| !c.is_lowercase() || c == 'o')
+                })
+            {
+                publisher_title_lines.extend(candidate..index);
+                break;
+            }
+        }
+    }
+    for (index, source_line) in lines.into_iter().enumerate() {
         let line = source_line.trim();
         if line.is_empty() {
             pending_blank = true;
             continue;
         }
-        if is_page_furniture(line, options, &page_number) {
+        if publisher_title_lines.contains(&index) || is_page_furniture(line, options, &page_number)
+        {
             if !current.is_empty() {
                 crossed_page_furniture = true;
             }
@@ -653,7 +745,8 @@ fn normalized_blocks(
         // silently absorbed into unrelated content across a page break
         // (confirmed against lfd's real committed source), so only force a
         // split there, where the false-positive risk is negligible.
-        if crossed_page_furniture && is_reform_ley_heading(line) {
+        if crossed_page_furniture && (is_reform_ley_heading(line) || is_short_ley_title_line(line))
+        {
             flush_block(&mut current, &mut blocks);
             crossed_page_furniture = false;
         }
@@ -701,6 +794,7 @@ struct ProvisionBuilder {
     label: String,
     heading: HeadingContext,
     blocks: Vec<String>,
+    implicit_singleton: bool,
 }
 
 impl ProvisionBuilder {
@@ -712,6 +806,7 @@ impl ProvisionBuilder {
             label,
             heading,
             blocks: Vec::new(),
+            implicit_singleton: false,
         };
         builder.push_block(first_block);
         builder
@@ -730,6 +825,7 @@ impl ProvisionBuilder {
                 apartado: None,
             },
             blocks: Vec::new(),
+            implicit_singleton: false,
         };
         builder.push_block(first_block);
         builder
@@ -748,6 +844,7 @@ impl ProvisionBuilder {
                 apartado: None,
             },
             blocks: Vec::new(),
+            implicit_singleton: false,
         }
     }
 
@@ -758,7 +855,12 @@ impl ProvisionBuilder {
         }
     }
 
-    fn finish(self, instrument_id: &str, publication_date: NaiveDate) -> Provision {
+    fn finish(
+        self,
+        instrument_id: &str,
+        publication_date: Option<NaiveDate>,
+        period: Option<&lex_core::PublicationPeriod>,
+    ) -> Provision {
         let (kind, canonical_number) = match self.provision_type {
             // Ordinal marks carry no identity: article "2o" is canonical
             // id ":article:2", so a citation of bare "2" resolves to it.
@@ -781,6 +883,9 @@ impl ProvisionBuilder {
             text
         };
         Provision {
+            numbering_basis: self
+                .implicit_singleton
+                .then_some(lex_core::NumberingBasis::ImplicitSingleton),
             schema_version: SCHEMA_VERSION.to_owned(),
             id: format!("{instrument_id}:{kind}:{canonical_number}"),
             instrument_id: instrument_id.to_owned(),
@@ -790,6 +895,7 @@ impl ProvisionBuilder {
             heading_context: self.heading,
             text: text.clone(),
             publication_date,
+            publication_period: period.cloned(),
             effective_from: None,
             effective_to: None,
             temporal_status: crate::initial_temporal_status(&text),
@@ -805,14 +911,166 @@ impl ProvisionBuilder {
 }
 
 #[allow(clippy::too_many_lines)]
+fn partition_enactment(
+    blocks: Vec<String>,
+    raw: &str,
+    options: &DiputadosOptions,
+    date: Option<NaiveDate>,
+    period: Option<&lex_core::PublicationPeriod>,
+) -> Result<(Vec<String>, Vec<lex_core::EnactmentEvidence>)> {
+    use lex_core::{EnactmentEvidence, EnactmentEvidenceKind, EnactmentOwner};
+    if !options.separate_enactment {
+        return Ok((blocks, Vec::new()));
+    }
+    let ordinals = transitory_ordinals();
+    let wrapper = blocks
+        .iter()
+        .position(|b| is_decree_article_wrapper(b, &ordinals))
+        .ok_or_else(|| anyhow::anyhow!("enactment partition lacks enacting article wrapper"))?;
+    let containing_act_title = blocks[..wrapper]
+        .iter()
+        .enumerate()
+        .find_map(|(i, _)| {
+            let title = blocks[i..wrapper].join(" ");
+            is_omnibus_enactment_title(&title).then_some(title)
+        })
+        .ok_or_else(|| {
+            anyhow::anyhow!("enactment partition lacks corroborating containing-decree title")
+        })?;
+    let sibling = blocks
+        .iter()
+        .enumerate()
+        .skip(wrapper + 1)
+        .find(|(_, b)| {
+            let upper = b.to_uppercase();
+            (upper.starts_with("ARTÍCULOS SEGUNDO A ")
+                || upper.starts_with("ARTICULOS SEGUNDO A ")
+                || upper.starts_with("ARTÍCULO SEGUNDO:")
+                || upper.starts_with("ARTÍCULO SEGUNDO."))
+                && b.contains('…')
+        })
+        .map(|(i, _)| i)
+        .ok_or_else(|| {
+            anyhow::anyhow!("enactment partition lacks elided sibling decree article")
+        })?;
+    let mut main = blocks[..sibling].to_vec();
+    let mut evidence: Vec<EnactmentEvidence> = Vec::new();
+    let mut in_outer = false;
+    let mut heading = String::new();
+    let mut seen = std::collections::HashSet::new();
+    let date_key = date.map_or_else(|| "serialized-range".to_owned(), |d| d.to_string());
+    let mut consumed_header = false;
+    for block in &blocks[sibling..] {
+        if is_stop_marker(block, options) || is_enactment_signature(block) {
+            break;
+        }
+        let upper = block.to_uppercase();
+        if is_transitory_section_header(block)
+            || upper.starts_with("TRANSITORIOS DEL DECRETO POR EL QUE ")
+        {
+            if consumed_header {
+                bail!("ambiguous repeated containing-decree transitory header");
+            }
+            in_outer = true;
+            consumed_header = true;
+            heading.clone_from(block);
+            continue;
+        }
+        if !in_outer {
+            if !block.contains('…') {
+                bail!("unrecognized sibling decree material: {block}");
+            }
+            evidence.push(EnactmentEvidence {
+                schema_version: SCHEMA_VERSION.to_owned(),
+                id: format!(
+                    "{}:enactment:{date_key}:decree:elided:{}",
+                    options.instrument_id,
+                    evidence.len() + 1
+                ),
+                instrument_id: options.instrument_id.clone(),
+                owner: EnactmentOwner::ContainingDecree,
+                kind: EnactmentEvidenceKind::ElidedSiblingArticle,
+                containing_act_title: containing_act_title.clone(),
+                section_heading: None,
+                source_heading: block.clone(),
+                number: (evidence.len() + 1).to_string(),
+                text: block.clone(),
+                publication_date: date,
+                publication_period: period.cloned(),
+                source_sha256: String::new(),
+                extracted_text_sha256: lex_core::evidence_sha256(raw),
+                text_sha256: String::new(),
+            });
+            continue;
+        }
+        if let Some((ordinal, body)) = parse_transitory_start(block, &ordinals)
+            .or_else(|| parse_numeric_transitory_start(block))
+        {
+            if !seen.insert(slug(ordinal)) {
+                bail!("duplicate containing-decree ordinal {ordinal}");
+            }
+            evidence.push(EnactmentEvidence {
+                schema_version: SCHEMA_VERSION.to_owned(),
+                id: format!(
+                    "{}:enactment:{date_key}:decree:transitory:{}",
+                    options.instrument_id,
+                    slug(ordinal)
+                ),
+                instrument_id: options.instrument_id.clone(),
+                owner: EnactmentOwner::ContainingDecree,
+                kind: EnactmentEvidenceKind::Transitory,
+                containing_act_title: containing_act_title.clone(),
+                section_heading: Some(heading.clone()),
+                source_heading: block[..block.len() - body.len()].trim().to_owned(),
+                number: ordinal.to_owned(),
+                text: body.to_owned(),
+                publication_date: date,
+                publication_period: period.cloned(),
+                source_sha256: String::new(),
+                extracted_text_sha256: lex_core::evidence_sha256(raw),
+                text_sha256: String::new(),
+            });
+        } else if let Some(item) = evidence
+            .last_mut()
+            .filter(|e| e.kind == EnactmentEvidenceKind::Transitory)
+        {
+            item.text.push_str("\n\n");
+            item.text.push_str(block);
+        } else {
+            bail!("unattributed containing-decree body");
+        }
+    }
+    for item in &mut evidence {
+        item.text_sha256 = lex_core::evidence_sha256(&item.text);
+    }
+    if !consumed_header || seen.is_empty() {
+        bail!("containing decree lacks transitories");
+    }
+    // Keep main parsing on its existing stop semantics without consuming outer text.
+    main.push("ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA".to_owned());
+    Ok((main, evidence))
+}
+
 pub fn parse_diputados(
     raw: &str,
     options: &DiputadosOptions,
     publication_date: NaiveDate,
 ) -> Result<DiputadosDocument> {
+    parse_diputados_publication(raw, options, Some(publication_date), None)
+}
+
+#[allow(clippy::too_many_lines)]
+pub fn parse_diputados_publication(
+    raw: &str,
+    options: &DiputadosOptions,
+    publication_date: Option<NaiveDate>,
+    publication_period: Option<&lex_core::PublicationPeriod>,
+) -> Result<DiputadosDocument> {
     let patterns = HeadingPatterns::new()?;
     let ordinals = transitory_ordinals();
     let blocks = normalized_blocks(raw, options, &ordinals, &patterns);
+    let (blocks, enactment_evidence) =
+        partition_enactment(blocks, raw, options, publication_date, publication_period)?;
 
     let mut provisions = Vec::new();
     let mut current: Option<ProvisionBuilder> = None;
@@ -824,6 +1082,8 @@ pub fn parse_diputados(
         apartado: None,
     };
     let mut in_statute_transitories = false;
+    let mut roman_transitory_section = false;
+    let mut singleton_heading: Option<String> = None;
     let mut in_substantive_annex = false;
     // The omnibus path is gated on the decree title in the preamble, before
     // the law's own text begins.
@@ -837,8 +1097,17 @@ pub fn parse_diputados(
     let mut last_article_base: Option<u64> = None;
     let mut seen_ordinals: std::collections::HashSet<String> = std::collections::HashSet::new();
 
+    let mut singleton_closed = false;
     for block in blocks {
-        if is_stop_marker(&block, options) {
+        if is_stop_marker(&block, options)
+            || block == "FE DE ERRATAS"
+            || is_judicial_appendix(&block)
+            || (current.is_some()
+                && options.annex_markers.is_empty()
+                && is_enactment_signature(&block))
+        {
+            singleton_closed = current.as_ref().is_some_and(|b| b.implicit_singleton)
+                && (is_enactment_signature(&block) || is_stop_marker(&block, options));
             break;
         }
         if in_substantive_annex {
@@ -853,7 +1122,11 @@ pub fn parse_diputados(
             .any(|marker| block.starts_with(marker))
         {
             if let Some(builder) = current.take() {
-                provisions.push(builder.finish(&options.instrument_id, publication_date));
+                provisions.push(builder.finish(
+                    &options.instrument_id,
+                    publication_date,
+                    publication_period,
+                ));
             }
             let label = block
                 .split_once('.')
@@ -869,7 +1142,11 @@ pub fn parse_diputados(
                 || block.starts_with("Dado en la residencia"))
         {
             if let Some(builder) = current.take() {
-                provisions.push(builder.finish(&options.instrument_id, publication_date));
+                provisions.push(builder.finish(
+                    &options.instrument_id,
+                    publication_date,
+                    publication_period,
+                ));
             }
             continue;
         }
@@ -890,9 +1167,20 @@ pub fn parse_diputados(
                 break;
             }
             if let Some(builder) = current.take() {
-                provisions.push(builder.finish(&options.instrument_id, publication_date));
+                provisions.push(builder.finish(
+                    &options.instrument_id,
+                    publication_date,
+                    publication_period,
+                ));
             }
             in_statute_transitories = true;
+            if block
+                .trim_end_matches([':', '.'])
+                .to_uppercase()
+                .ends_with("TRANSITORIO")
+            {
+                singleton_heading = Some(block.clone());
+            }
             heading = HeadingContext {
                 libro: None,
                 title: None,
@@ -911,6 +1199,13 @@ pub fn parse_diputados(
         }
 
         if in_statute_transitories {
+            if singleton_heading.is_some()
+                && current.as_ref().is_some_and(|b| b.implicit_singleton)
+                && (parse_transitory_start(&block, &ordinals).is_some()
+                    || parse_article_start(&block).is_some())
+            {
+                bail!("mixed numbered and unnumbered transitories are not supported");
+            }
             // A reform decree following the statute transitories ends the
             // main document; its transitories belong to reform evidence.
             if block.starts_with("DECRETO por") || block.starts_with("REFORMAS Y ADICIONES") {
@@ -918,7 +1213,11 @@ pub fn parse_diputados(
             }
             if omnibus_enactment && is_plural_decree_article_wrapper(&block, &ordinals) {
                 if let Some(builder) = current.take() {
-                    provisions.push(builder.finish(&options.instrument_id, publication_date));
+                    provisions.push(builder.finish(
+                        &options.instrument_id,
+                        publication_date,
+                        publication_period,
+                    ));
                 }
                 pending_overall_decree_transitory = true;
                 continue;
@@ -939,7 +1238,29 @@ pub fn parse_diputados(
                     break;
                 }
                 if let Some(builder) = current.take() {
-                    provisions.push(builder.finish(&options.instrument_id, publication_date));
+                    provisions.push(builder.finish(
+                        &options.instrument_id,
+                        publication_date,
+                        publication_period,
+                    ));
+                }
+                current = Some(ProvisionBuilder::transitory(ordinal, body));
+                continue;
+            }
+            // Some regulations number the original transitory section I, II,
+            // ... . Enter this mode only on its initial I heading, before a
+            // named transitory exists, so internal roman fractions stay text.
+            if (roman_transitory_section || current.is_none())
+                && let Some((ordinal, body)) = parse_roman_transitory_start(&block)
+                && (roman_transitory_section || ordinal == "I")
+            {
+                roman_transitory_section = true;
+                if let Some(builder) = current.take() {
+                    provisions.push(builder.finish(
+                        &options.instrument_id,
+                        publication_date,
+                        publication_period,
+                    ));
                 }
                 current = Some(ProvisionBuilder::transitory(ordinal, body));
                 continue;
@@ -950,7 +1271,11 @@ pub fn parse_diputados(
             // the article sequence.
             if let Some((number, body)) = parse_article_start(&block) {
                 if let Some(builder) = current.take() {
-                    provisions.push(builder.finish(&options.instrument_id, publication_date));
+                    provisions.push(builder.finish(
+                        &options.instrument_id,
+                        publication_date,
+                        publication_period,
+                    ));
                 }
                 current = Some(ProvisionBuilder::transitory(&number, body));
                 continue;
@@ -958,13 +1283,21 @@ pub fn parse_diputados(
         } else {
             if is_dropped_decree_block(&block, &ordinals) {
                 if let Some(builder) = current.take() {
-                    provisions.push(builder.finish(&options.instrument_id, publication_date));
+                    provisions.push(builder.finish(
+                        &options.instrument_id,
+                        publication_date,
+                        publication_period,
+                    ));
                 }
                 continue;
             }
             if patterns.apply(&block, &mut heading) {
                 if let Some(builder) = current.take() {
-                    provisions.push(builder.finish(&options.instrument_id, publication_date));
+                    provisions.push(builder.finish(
+                        &options.instrument_id,
+                        publication_date,
+                        publication_period,
+                    ));
                 }
                 continue;
             }
@@ -980,7 +1313,11 @@ pub fn parse_diputados(
                     matches!((base, last_article_base), (Some(b), Some(last)) if b < last);
                 if !regresses {
                     if let Some(builder) = current.take() {
-                        provisions.push(builder.finish(&options.instrument_id, publication_date));
+                        provisions.push(builder.finish(
+                            &options.instrument_id,
+                            publication_date,
+                            publication_period,
+                        ));
                     }
                     last_article_base = base.or(last_article_base);
                     current = Some(ProvisionBuilder::article(number, body, heading.clone()));
@@ -991,11 +1328,33 @@ pub fn parse_diputados(
 
         if let Some(builder) = &mut current {
             builder.push_block(&block);
+        } else if let Some(label) = singleton_heading
+            .as_ref()
+            .filter(|_| in_statute_transitories)
+        {
+            // No printed ordinal is inserted into source text or display label.
+            let mut builder = ProvisionBuilder::transitory("UNICO", &block);
+            builder.label.clone_from(label);
+            builder.implicit_singleton = true;
+            current = Some(builder);
+        } else if in_statute_transitories {
+            bail!(
+                "{}: unnumbered transitory body requires an explicit source identity: {:?}",
+                options.instrument_id,
+                block.chars().take(100).collect::<String>()
+            );
         }
     }
 
+    if current.as_ref().is_some_and(|b| b.implicit_singleton) && !singleton_closed {
+        bail!("unnumbered singleton has no verified closing boundary");
+    }
     if let Some(builder) = current {
-        provisions.push(builder.finish(&options.instrument_id, publication_date));
+        provisions.push(builder.finish(
+            &options.instrument_id,
+            publication_date,
+            publication_period,
+        ));
     }
     if provisions.is_empty() {
         bail!("no provisions recognized for {}", options.instrument_id);
@@ -1004,6 +1363,7 @@ pub fn parse_diputados(
     Ok(DiputadosDocument {
         provisions,
         reform_evidence,
+        enactment_evidence,
     })
 }
 
@@ -1014,10 +1374,16 @@ pub fn parse_diputados(
 #[must_use]
 pub fn extract_dof_publication(raw: &str) -> Option<NaiveDate> {
     let note = Regex::new(
-        r"(?i)publicad[oa] en el Diario Oficial de la Federación el (\d{1,2})[oº]? de ([a-zá-úñ]+) de (\d{4})",
+        r"(?i)publicad[oa] en (?:el|la) Diario Oficial de la Federación (?:el )?(\d{1,2})[oº]? de ([a-zá-úñ]+) (?:de )?(\d{4})",
     )
     .ok()?;
-    let captures = note.captures(raw)?;
+    let end = ["ARTÍCULOS TRANSITORIOS DE", "ARTICULOS TRANSITORIOS DE"]
+        .iter()
+        .filter_map(|marker| raw.find(marker))
+        .min()
+        .unwrap_or(raw.len());
+    let normalized = collapse_whitespace(&raw[..end]);
+    let captures = note.captures(&normalized)?;
     spanish_date(&captures[1], &captures[2].to_lowercase(), &captures[3])
 }
 
@@ -1114,7 +1480,7 @@ fn is_short_ley_title_line(block: &str) -> bool {
     let (title, rest) = block
         .split_once(". ")
         .map_or((block, ""), |(title, rest)| (title, rest.trim_start()));
-    title.starts_with("LEY ")
+    (title.starts_with("LEY ") || title.starts_with("Ley de "))
         && title.chars().count() <= 160
         && !title.contains("DOF")
         && !title.to_lowercase().contains("continuación")
@@ -1160,6 +1526,7 @@ fn decree_publication_date(block: &str, publication_re: &Regex) -> Option<NaiveD
 /// Isolate the consolidated document's reform-decree appendix
 /// (`ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA`) into per-decree
 /// transitory evidence for temporal analysis.
+#[allow(clippy::too_many_lines)]
 pub fn extract_reform_evidence(
     raw: &str,
     options: &DiputadosOptions,
@@ -1167,9 +1534,10 @@ pub fn extract_reform_evidence(
     let headings = HeadingPatterns::new()?;
     let ordinals = transitory_ordinals();
     let publication_re = Regex::new(
-        r"(?i)publicad[oa] en el Diario Oficial de la Federación el (\d{1,2})[oº]? de ([a-zá-úñ]+) de (\d{4})",
+        r"(?i)publicad[oa] en (?:el|la) Diario Oficial de la Federación (?:el )?(\d{1,2})[oº]? de ([a-zá-úñ]+) (?:de )?(\d{4})",
     )?;
     let mut in_reform_appendix = false;
+    let mut in_judicial_appendix = false;
     let mut in_transitories = false;
     let mut publication_date: Option<NaiveDate> = None;
     let mut decree_heading: Option<String> = None;
@@ -1182,6 +1550,22 @@ pub fn extract_reform_evidence(
     let mut evidence = Vec::new();
 
     for block in normalized_blocks(raw, options, &ordinals, &headings) {
+        // Judicial dispositions quote prior decrees; they are retained in the
+        // source manifest, not relabeled as new legislative transitories.
+        if is_judicial_appendix(&block) {
+            flush_reform(&options.instrument_id, &mut current, &mut evidence);
+            in_transitories = false;
+            in_judicial_appendix = true;
+            publication_date = None;
+            act_kind = None;
+            continue;
+        }
+        if in_judicial_appendix {
+            if reform_act_heading_kind(&block).is_none() {
+                continue;
+            }
+            in_judicial_appendix = false;
+        }
         if !in_reform_appendix
             && block.contains("ARTÍCULOS TRANSITORIOS DE")
             && block.contains("DECRETO")
@@ -1337,6 +1721,7 @@ mod tests {
             header_lines: vec![title.to_uppercase()],
             stop_markers: Vec::new(),
             annex_markers: Vec::new(),
+            separate_enactment: false,
         }
     }
 
@@ -1769,6 +2154,7 @@ mod tests {
             ],
             stop_markers: Vec::new(),
             annex_markers: Vec::new(),
+            separate_enactment: false,
         };
         let document = parse_diputados(
             PAGE_BOUNDARY_AMENDMENT_FIXTURE,
@@ -1796,6 +2182,7 @@ mod tests {
             ],
             stop_markers: Vec::new(),
             annex_markers: Vec::new(),
+            separate_enactment: false,
         };
         let document = parse_diputados(
             WRAPPED_RUNNING_HEADER_REGULATION_FIXTURE,
@@ -2199,6 +2586,428 @@ mod tests {
             [
                 "1o", "1o-A", "1o-A BIS", "1o-B", "26-L", "26-LL", "26-M", "26-Ñ", "2448-A"
             ]
+        );
+    }
+    #[test]
+    fn campaign_signatures_end_transitories_without_adapter_stop_markers() {
+        let document = parse_diputados(
+            ORIGINAL_TRANSITORY_SIGNATURE_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:statute:sample",
+                "Ley del Diario Oficial de la Federación y Gacetas Gubernamentales",
+            ),
+            NaiveDate::from_ymd_opt(1986, 12, 24).unwrap(),
+        )
+        .unwrap();
+        assert_eq!(
+            document.provisions.last().unwrap().text,
+            "Se derogan las disposiciones que se opongan a la presente ley."
+        );
+        assert_eq!(document.reform_evidence.len(), 1);
+        assert!(!super::is_enactment_signature(
+            "La comisión en México, D.F., examinará las rúbricas."
+        ));
+        assert!(!super::is_enactment_signature(
+            "El aviso citará: En cumplimiento de lo dispuesto por la fracción I del Artículo 89, sin alterar la obligación."
+        ));
+    }
+
+    #[test]
+    fn publisher_adjacent_wrapped_title_is_removed_but_substantive_titles_survive() {
+        let source = "LEY DE PRUEBA\nTÍTULO LARGO\nCÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN\nSecretaría General\n\nArtículo 1. Texto.\n\nREGLAMENTO INTERNO\n\nSOBRE ATRIBUCIONES\n\n2 de 3\nLEY DE PRUEBA\nTÍTULO LARGO\nCÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN\nSecretaría General\n\nque continúa.\n\nArtículo 2. Fin.";
+        let doc = parse_diputados(
+            source,
+            &options(
+                "urn:lex-mx:federal:statute:sample",
+                "Ley de Prueba Título Largo",
+            ),
+            NaiveDate::from_ymd_opt(2000, 1, 1).unwrap(),
+        )
+        .unwrap();
+        assert_eq!(doc.provisions.len(), 2);
+        assert!(doc.provisions[0].text.contains("REGLAMENTO INTERNO"));
+        assert!(doc.provisions[0].text.contains("SOBRE ATRIBUCIONES"));
+        assert!(!doc.provisions[0].text.contains("TÍTULO LARGO"));
+        assert!(doc.provisions[0].text.contains("que continúa."));
+    }
+
+    #[test]
+    fn ordinal_repealed_article_is_not_a_wrapper() {
+        let doc = parse_diputados(
+            include_str!("../../../fixtures/diputados/repair-lcnp-excerpt.txt"),
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+            NaiveDate::from_ymd_opt(1939, 11, 10).unwrap(),
+        )
+        .unwrap();
+        assert_eq!(
+            doc.provisions
+                .iter()
+                .map(|p| p.number.as_str())
+                .collect::<Vec<_>>(),
+            ["1o", "2o", "3o", "4o"]
+        );
+        assert!(doc.provisions[1].text.starts_with("Se deroga."));
+    }
+
+    #[test]
+    fn explicit_approval_and_creation_wrappers_do_not_duplicate_article_one() {
+        for source in [
+            include_str!("../../../fixtures/diputados/repair-lfdefp-excerpt.txt"),
+            include_str!("../../../fixtures/diputados/repair-lgdlpi-excerpt.txt"),
+        ] {
+            let doc = parse_diputados(
+                source,
+                &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+                NaiveDate::from_ymd_opt(2000, 1, 1).unwrap(),
+            )
+            .unwrap();
+            assert_eq!(
+                doc.provisions
+                    .iter()
+                    .filter(|p| p.id.ends_with(":article:1"))
+                    .count(),
+                1
+            );
+            assert!(!doc.provisions[0].text.starts_with("Se crea la Ley"));
+            assert!(!doc.provisions[0].text.starts_with("Se aprueba la Ley"));
+        }
+    }
+
+    #[test]
+    fn a_single_extracted_dot_before_article_heading_preserves_article_forty() {
+        let doc = parse_diputados(
+            include_str!("../../../fixtures/diputados/repair-reg-lfcine-excerpt.txt"),
+            &options(
+                "urn:lex-mx:federal:regulation:sample",
+                "Reglamento de Muestra",
+            ),
+            NaiveDate::from_ymd_opt(2001, 3, 29).unwrap(),
+        )
+        .unwrap();
+        assert_eq!(
+            doc.provisions
+                .iter()
+                .map(|p| p.number.as_str())
+                .collect::<Vec<_>>(),
+            ["39", "40"]
+        );
+        assert!(doc.provisions[1].text.starts_with("Al momento"));
+    }
+
+    #[test]
+    fn publisher_publication_note_typos_preserve_real_dates() {
+        for (source, expected) in [
+            (
+                include_str!("../../../fixtures/diputados/repair-reg-lfafe-excerpt.txt"),
+                (1972, 5, 6),
+            ),
+            (
+                include_str!("../../../fixtures/diputados/repair-louaaan-excerpt.txt"),
+                (2006, 4, 26),
+            ),
+            (
+                include_str!("../../../fixtures/diputados/repair-lgdnna-excerpt.txt"),
+                (2018, 6, 20),
+            ),
+        ] {
+            assert_eq!(
+                super::extract_dof_publication(source),
+                NaiveDate::from_ymd_opt(expected.0, expected.1, expected.2)
+            );
+        }
+        assert!(
+            super::extract_dof_publication("El contrato surtirá efectos el 6 de mayo de 1972.")
+                .is_none()
+        );
+    }
+
+    #[test]
+    fn judicial_dispositions_are_not_reform_transitories() {
+        let source = format!(
+            "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA\n\nDECRETO por el que se reforma la Ley.\nPublicado en el Diario Oficial de la Federación el 9 de septiembre de 2022\n\nTRANSITORIOS\n\nSEGUNDO. Texto legal.\n\nMéxico, D.F., a 8 de septiembre de 2022.- Dip. Persona.- Rúbrica.\n1 de 2\nLEY DE PRUEBA\nCÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN\nSecretaría General\n\n{}",
+            include_str!("../../../fixtures/diputados/repair-larefam-excerpt.txt")
+        );
+        let evidence = super::extract_reform_evidence(
+            &source,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Prueba"),
+        )
+        .unwrap();
+        assert_eq!(evidence.len(), 1);
+        assert_eq!(evidence[0].text, "Texto legal.");
+        let source = format!(
+            "{source}\nDECRETO por el que se reforma la Ley.\nPublicado en el Diario Oficial de la Federación el 16 de julio de 2025\n\nTRANSITORIOS\n\nÚnico. Otra reforma."
+        );
+        let evidence = super::extract_reform_evidence(
+            &source,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Prueba"),
+        )
+        .unwrap();
+        assert_eq!(evidence.len(), 2);
+        assert_eq!(evidence[1].text, "Otra reforma.");
+        assert!(evidence[1].provision_id.contains("2025-07-16"));
+    }
+    #[test]
+    fn old_cjm_numeric_transitories_end_before_presidential_order() {
+        let doc = parse_diputados(
+            include_str!("../../../fixtures/diputados/repair-cjm-excerpt.txt"),
+            &options(
+                "urn:lex-mx:federal:code:sample",
+                "Código de Justicia Militar",
+            ),
+            NaiveDate::from_ymd_opt(1933, 8, 31).unwrap(),
+        )
+        .unwrap();
+        assert_eq!(
+            doc.provisions
+                .iter()
+                .map(|p| p.number.as_str())
+                .collect::<Vec<_>>(),
+            ["1o", "2o", "3o", "4o"]
+        );
+        assert!(doc.provisions[3].text.ends_with("éste se concedan."));
+        assert!(!doc.provisions[3].text.contains("Por tanto"));
+        assert!(!doc.provisions[3].text.contains("Al C...."));
+    }
+    #[test]
+    fn military_slash_ordinals_and_thousands_do_not_disappear_or_regress() {
+        for (source, numbers) in [
+            (
+                include_str!("../../../fixtures/diputados/repair-loefam-excerpt.txt"),
+                vec!["1/o", "1/o BIS"],
+            ),
+            (
+                include_str!("../../../fixtures/diputados/repair-oga-excerpt.txt"),
+                vec!["999", "1,000", "1,001", "1,002"],
+            ),
+        ] {
+            let doc = parse_diputados(
+                source,
+                &options("urn:lex-mx:federal:statute:sample", "Ley de Prueba"),
+                NaiveDate::from_ymd_opt(2000, 1, 1).unwrap(),
+            )
+            .unwrap();
+            assert_eq!(
+                doc.provisions
+                    .iter()
+                    .map(|p| p.number.as_str())
+                    .collect::<Vec<_>>(),
+                numbers
+            );
+            assert_eq!(
+                doc.provisions[1].id,
+                if numbers[0] == "1/o" {
+                    "urn:lex-mx:federal:statute:sample:article:1-bis"
+                } else {
+                    "urn:lex-mx:federal:statute:sample:article:1000"
+                }
+            );
+        }
+    }
+
+    #[test]
+    fn publisher_status_note_is_removed_only_at_publisher_header() {
+        let source = "Artículo 1. Texto.\n\n1 de 2\nLEY DE SEGURIDAD INTERIOR\nCÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN\nSecretaría General   Declaración de Invalidez de la Ley 15-11-2018 / DOF 30-05-2019\nSecretaría de Servicios Parlamentarios\n\ncontinuación.\n\nArtículo 2. Declaración de Invalidez de la Ley 15-11-2018 / DOF 30-05-2019 citada por la disposición.";
+        let doc = parse_diputados(
+            source,
+            &options(
+                "urn:lex-mx:federal:statute:sample",
+                "Ley de Seguridad Interior",
+            ),
+            NaiveDate::from_ymd_opt(2017, 12, 21).unwrap(),
+        )
+        .unwrap();
+        assert!(!doc.provisions[0].text.contains("Declaración"));
+        assert!(doc.provisions[1].text.contains("Declaración de Invalidez"));
+    }
+    #[test]
+    fn original_publication_range_never_falls_through_to_a_reform_date() {
+        assert!(
+            super::extract_dof_publication(include_str!(
+                "../../../fixtures/diputados/repair-oga-publication-range.txt"
+            ))
+            .is_none()
+        );
+        let source = "Artículo 1. Texto.\n\nTRANSITORIO\n\nLa presente Ordenanza comenzará a surtir efectos.";
+        let error = parse_diputados(
+            source,
+            &options("urn:lex-mx:federal:statute:sample", "Ordenanza de Muestra"),
+            NaiveDate::from_ymd_opt(1912, 1, 1).unwrap(),
+        )
+        .unwrap_err();
+        assert!(error.to_string().contains("no verified closing boundary"));
+    }
+
+    #[test]
+    fn period_section_heading_and_roman_transitories_preserve_source_labels() {
+        let opts = options(
+            "urn:lex-mx:federal:regulation:sample",
+            "Reglamento de Muestra",
+        );
+        let source = include_str!("../../../fixtures/diputados/repair-reg-lfafe-transitories.txt");
+        let doc =
+            parse_diputados(source, &opts, NaiveDate::from_ymd_opt(1972, 5, 6).unwrap()).unwrap();
+        assert_eq!(
+            doc.provisions
+                .iter()
+                .filter(|p| p.provision_type == ProvisionType::Transitory)
+                .count(),
+            8
+        );
+        assert_eq!(doc.provisions[1].number, "PRIMERO");
+        let source = include_str!("../../../fixtures/diputados/repair-reg-lsm-transitories.txt");
+        let doc = parse_diputados(
+            source,
+            &opts,
+            NaiveDate::from_ymd_opt(1942, 11, 10).unwrap(),
+        )
+        .unwrap();
+        assert_eq!(
+            doc.provisions
+                .iter()
+                .map(|p| p.number.as_str())
+                .collect::<Vec<_>>(),
+            ["I", "II", "III", "IV", "V"]
+        );
+        let nested = "Artículo 1. Texto.\n\nTRANSITORIOS\n\nPRIMERO. Se observará:\n\nI.- Primera fracción.\n\nII.- Segunda fracción.\n\nSEGUNDO. Fin.";
+        let doc =
+            parse_diputados(nested, &opts, NaiveDate::from_ymd_opt(2000, 1, 1).unwrap()).unwrap();
+        assert_eq!(doc.provisions.len(), 3);
+        assert!(doc.provisions[1].text.contains("II.- Segunda fracción."));
+    }
+    #[test]
+    fn lowercase_wrapped_transitorio_is_body_not_a_second_section() {
+        let source = format!(
+            "TRANSITORIOS:\n\nNOVENO. {}",
+            include_str!("../../../fixtures/diputados/repair-reg-lfsv-continuation.txt")
+        );
+        let doc = parse_diputados(
+            &source,
+            &options(
+                "urn:lex-mx:federal:regulation:sample",
+                "Reglamento de Muestra",
+            ),
+            NaiveDate::from_ymd_opt(2016, 7, 15).unwrap(),
+        )
+        .unwrap();
+        assert_eq!(
+            doc.provisions
+                .iter()
+                .map(|p| p.number.as_str())
+                .collect::<Vec<_>>(),
+            ["NOVENO", "DÉCIMO", "DÉCIMO PRIMERO"]
+        );
+        assert!(
+            doc.provisions[0]
+                .text
+                .ends_with("fracción III de este transitorio.")
+        );
+        assert!(super::is_transitory_section_header("Transitorios."));
+        assert!(super::is_transitory_section_header("TRANSITORIO."));
+        assert!(!super::is_transitory_section_header("transitorio."));
+    }
+    #[test]
+    fn explicit_layer_partition_preserves_law_decree_and_elided_siblings() {
+        for (raw, own, decree, elided) in [
+            (
+                include_str!("../../../fixtures/diputados/followup-lmigra.txt"),
+                10,
+                4,
+                1,
+            ),
+            (
+                include_str!("../../../fixtures/diputados/followup-reg-lmigra.txt"),
+                0,
+                13,
+                2,
+            ),
+        ] {
+            let mut opts = options("urn:lex-mx:federal:statute:sample", "Ley de Migración");
+            opts.separate_enactment = true;
+            let doc =
+                parse_diputados(raw, &opts, NaiveDate::from_ymd_opt(2011, 5, 25).unwrap()).unwrap();
+            assert_eq!(
+                doc.provisions
+                    .iter()
+                    .filter(|p| p.provision_type == ProvisionType::Transitory)
+                    .count(),
+                own
+            );
+            assert_eq!(
+                doc.enactment_evidence
+                    .iter()
+                    .filter(|e| e.kind == lex_core::EnactmentEvidenceKind::Transitory)
+                    .count(),
+                decree
+            );
+            assert_eq!(doc.enactment_evidence.len(), decree + elided);
+            assert!(
+                doc.enactment_evidence
+                    .iter()
+                    .all(|e| e.text_sha256 == lex_core::evidence_sha256(&e.text))
+            );
+            assert!(
+                doc.enactment_evidence
+                    .iter()
+                    .all(|e| e.containing_act_title.starts_with("DECRETO"))
+            );
+            assert!(
+                doc.provisions
+                    .iter()
+                    .all(|p| !p.text.contains("ARTÍCULOS SEGUNDO A NOVENO"))
+            );
+            if own == 10 {
+                assert!(!doc.reform_evidence.is_empty());
+            }
+        }
+        let mut opts = options("urn:lex-mx:federal:statute:sample", "Ley de Prueba");
+        opts.separate_enactment = true;
+        assert!(
+            parse_diputados(
+                "Artículo 1. Texto.\nTRANSITORIOS\nPRIMERO. Texto.\nPRIMERO. Otra cosa.",
+                &opts,
+                NaiveDate::from_ymd_opt(2000, 1, 1).unwrap()
+            )
+            .is_err()
+        );
+    }
+
+    #[test]
+    fn sole_source_clause_keeps_printed_heading_and_explicit_identity_basis() {
+        for (source, heading) in [
+            (
+                include_str!("../../../fixtures/diputados/followup-lrcdn.txt"),
+                "ARTICULO TRANSITORIO:",
+            ),
+            (
+                include_str!("../../../fixtures/diputados/followup-oga.txt"),
+                "TRANSITORIO",
+            ),
+        ] {
+            let doc = parse_diputados(
+                source,
+                &options("urn:lex-mx:federal:statute:sample", "Ley de Prueba"),
+                NaiveDate::from_ymd_opt(2000, 1, 1).unwrap(),
+            )
+            .unwrap();
+            let item = doc.provisions.last().unwrap();
+            assert_eq!(item.label, heading);
+            assert_eq!(item.number, "UNICO");
+            assert_eq!(
+                item.numbering_basis,
+                Some(lex_core::NumberingBasis::ImplicitSingleton)
+            );
+            assert!(!item.text.contains("UNICO"));
+        }
+        let mixed = "Artículo 1. Texto.\nTRANSITORIO\n\nCláusula sin número.\n\nPRIMERO. Otra cláusula.\n\nMéxico, D.F., a 1 de enero de 2000.- Rúbrica.";
+        assert!(
+            parse_diputados(
+                mixed,
+                &options("urn:lex-mx:federal:statute:sample", "Ley de Prueba"),
+                NaiveDate::from_ymd_opt(2000, 1, 1).unwrap()
+            )
+            .unwrap_err()
+            .to_string()
+            .contains("mixed numbered")
         );
     }
 }

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Source-stated publication period v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "metadata_version",
+    "kind",
+    "start",
+    "end",
+    "source_note",
+    "source_sha256"
+  ],
+  "properties": {
+    "metadata_version": {
+      "const": "1.0.0"
+    },
+    "kind": {
+      "const": "serialized_range"
+    },
+    "start": {
+      "type": "string",
+      "format": "date"
+    },
+    "end": {
+      "type": "string",
+      "format": "date"
+    },
+    "source_note": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    }
+  }
+}

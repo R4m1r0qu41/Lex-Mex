@@ -189,8 +189,19 @@ fn strip_accents(value: &str) -> String {
 pub fn slugify_label(label: &str) -> String {
     let lowered = strip_accents(label).to_lowercase();
     let cleaned: String = lowered
-        .chars()
-        .filter(|character| *character != '°' && *character != 'º' && *character != ',')
+        .char_indices()
+        .filter(|(_, character)| !matches!(*character, '°' | 'º' | ','))
+        .filter(|(index, character)| {
+            !(*character == '/'
+                && *index > 0
+                && lowered.as_bytes()[index - 1].is_ascii_digit()
+                && lowered[*index..].starts_with("/o")
+                && lowered[index + 2..]
+                    .chars()
+                    .next()
+                    .is_none_or(|c| !is_letter(c)))
+        })
+        .map(|(_, character)| character)
         .collect();
     let mut slug = String::with_capacity(cleaned.len());
     let mut pending_dash = false;
@@ -409,6 +420,17 @@ fn parse_qualifier(cursor: &mut Cursor) -> Option<(u8, String)> {
 fn parse_component(cursor: &mut Cursor) -> Option<Component> {
     let number = parse_number(cursor)?;
     let mut ordinal = false;
+    // Military statutes also print the abbreviated ordinal as `1/o`.
+    // The slash binds only in this exact suffix, never as a generic join.
+    if cursor.rest().starts_with("/o")
+        && cursor.rest()[2..]
+            .chars()
+            .next()
+            .is_none_or(|c| !is_letter(c))
+    {
+        cursor.position += 2;
+        ordinal = true;
+    }
     if let Some(mark) = cursor.peek()
         && (mark == 'o' || mark == 'º' || mark == '°')
     {
@@ -662,5 +684,14 @@ mod tests {
         assert_eq!(full("54 Quintus").slug(), "54-quintus");
         assert!(full("54 Quáter").sort_key() < full("54 Quintus").sort_key());
         assert!(full("54 Quintus").sort_key() < full("55").sort_key());
+    }
+    #[test]
+    fn slash_ordinal_normalization_is_bound_to_the_exact_numeric_suffix() {
+        assert_eq!(canonical_slug("1/o"), "1");
+        assert_eq!(canonical_slug("1/o BIS"), "1-bis");
+        assert_eq!(super::slugify_label("1/other"), "1-other");
+        assert_eq!(super::slugify_label("parte/o"), "parte-o");
+        assert_eq!(match_label_at("1/o BIS").unwrap().raw(), "1/o BIS");
+        assert_eq!(match_label_at("1/other").unwrap().raw(), "1");
     }
 }

@@ -120,6 +120,57 @@ fn term_anchor(term: &lex_core::DefinedTerm) -> String {
     }
 }
 
+fn evidence_kind_label(kind: &lex_core::EnactmentEvidenceKind) -> &'static str {
+    match kind {
+        lex_core::EnactmentEvidenceKind::Transitory => "Transitorio del decreto",
+        lex_core::EnactmentEvidenceKind::ElidedSiblingArticle => {
+            "Artículo omitido en la compilación"
+        }
+    }
+}
+
+fn enactment_markdown(corpus: &Corpus) -> String {
+    let mut output = String::from(
+        "# Evidencia del decreto expedidor\n\nEstos textos pertenecen al decreto, no a los transitorios propios del instrumento. No contienen una determinación temporal.\n\n",
+    );
+    for item in &corpus.enactment_evidence {
+        let _ = write!(
+            output,
+            "## {} — {}\n\nID: {}\n\nPropietario: decreto expedidor. Tipo: {}.\n\n{}\n\n",
+            item.number,
+            item.source_heading,
+            item.id,
+            evidence_kind_label(&item.kind),
+            item.text
+        );
+    }
+    output
+}
+
+fn write_enactment_presentation(corpus: &Corpus, directory: &Path) -> Result<Vec<String>> {
+    if corpus.enactment_evidence.is_empty() {
+        for name in ["decreto-expedicion.md", "enactment-evidence.json"] {
+            let path = directory.join(name);
+            if path.is_file() {
+                fs::remove_file(path)?;
+            }
+        }
+        return Ok(Vec::new());
+    }
+    fs::write(
+        directory.join("decreto-expedicion.md"),
+        enactment_markdown(corpus),
+    )?;
+    write_json(
+        &corpus.enactment_evidence,
+        &directory.join("enactment-evidence.json"),
+    )?;
+    Ok(vec![
+        "decreto-expedicion.md".to_owned(),
+        "enactment-evidence.json".to_owned(),
+    ])
+}
+
 pub fn write_canonical(corpus: &Corpus, output_dir: &Path) -> Result<()> {
     fs::create_dir_all(output_dir)?;
     write_json(&corpus.instrument, &output_dir.join("instrument.json"))?;
@@ -127,6 +178,10 @@ pub fn write_canonical(corpus: &Corpus, output_dir: &Path) -> Result<()> {
     write_json(&corpus.references, &output_dir.join("references.json"))?;
     write_json(&corpus.terms, &output_dir.join("terms.json"))?;
     write_json(&corpus.term_usages, &output_dir.join("term-usages.json"))?;
+    let evidence_path = output_dir.join("enactment-evidence.json");
+    if !corpus.enactment_evidence.is_empty() || evidence_path.exists() {
+        write_json(&corpus.enactment_evidence, &evidence_path)?;
+    }
     // The REFERENCIAS legend only exists for compiled documents with
     // margin markers; skip the file entirely for instruments without one.
     if corpus.amendment_references.is_empty() {
@@ -154,6 +209,7 @@ pub fn write_markdown(
     let mut generated_files: std::collections::HashSet<String> =
         corpus.provisions.iter().map(markdown_filename).collect();
     generated_files.insert("README.md".to_owned());
+    generated_files.extend(write_enactment_presentation(corpus, output_dir)?);
     // This directory is a generated presentation target. Remove Markdown
     // files no longer produced by the current canonical corpus so a parser
     // correction cannot leave stale, contradictory provision notes behind.
@@ -210,6 +266,7 @@ pub fn write_obsidian(
     }
     fs::create_dir_all(&instrument_dir)?;
     let mut generated_files = Vec::with_capacity(corpus.provisions.len() + 1);
+    generated_files.extend(write_enactment_presentation(corpus, &instrument_dir)?);
     for provision in &corpus.provisions {
         let filename = markdown_filename(provision);
         let content = obsidian_markdown(corpus, targets, terms, provision);
@@ -286,6 +343,18 @@ fn front_matter(corpus: &Corpus, provision: &Provision) -> String {
                 record_front_matter("commencement_condition", condition)
             }),
     );
+    let marks_front_matter =
+        format!(
+            "{marks_front_matter}{}{}",
+            provision
+                .numbering_basis
+                .as_ref()
+                .map_or_else(String::new, |v| record_front_matter("numbering_basis", v)),
+            provision.publication_period.as_ref().map_or_else(
+                String::new,
+                |v| record_front_matter("publication_period", v)
+            )
+        );
     format!(
         "---\nid: {}\ninstrument_id: {}\ninstrument: {}\nname: {}\nprovision_type: {}\nnumber: \"{}\"\naliases: [{}]\ngenerated: true\ntemporal_status: {}\nreview_status: {}\n{}{}source_url: {}\nsource_sha256: {}\n---\n\n",
         provision.id,
@@ -341,6 +410,13 @@ fn standard_markdown(
             false
         )
     );
+    if let Some(period) = &provision.publication_period {
+        let _ = write!(
+            output,
+            "\nPublicación seriada, sin día exacto: {} a {} (inclusive).\n",
+            period.start, period.end
+        );
+    }
     append_transitory_effects(&mut output, provision);
     output
 }
@@ -360,6 +436,13 @@ fn obsidian_markdown(
     let body = linked_string(corpus, targets, terms, &provision.text, &provision.id, true);
     let body = with_block_anchors(corpus, provision, &body);
     let _ = write!(output, "# {}\n\n{body}\n", provision.label);
+    if let Some(period) = &provision.publication_period {
+        let _ = write!(
+            output,
+            "\nPublicación seriada, sin día exacto: {} a {} (inclusive).\n",
+            period.start, period.end
+        );
+    }
     append_transitory_effects(&mut output, provision);
     output
 }
@@ -753,6 +836,13 @@ fn markdown_index(
             "Fuente formal: [Diario Oficial de la Federación {code}]({formal_url})\n\n"
         );
     }
+    if let Some(period) = &corpus.instrument.publication_period {
+        let _ = write!(
+            output,
+            "Publicación seriada (sin día exacto): {} a {} (inclusive). {}\n\n",
+            period.start, period.end, period.source_note
+        );
+    }
     output.push_str("## Artículos\n\n");
     for provision in corpus
         .provisions
@@ -776,6 +866,19 @@ fn markdown_index(
             &corpus.instrument.short_name,
             obsidian,
         ));
+    }
+    if !corpus.enactment_evidence.is_empty() {
+        output.push_str("\n## Evidencia del decreto expedidor (no son transitorios propios)\n\n");
+        for item in &corpus.enactment_evidence {
+            let _ = writeln!(
+                output,
+                "- {} — {} (decreto): {}",
+                item.number,
+                evidence_kind_label(&item.kind),
+                item.source_heading
+            );
+        }
+        output.push_str("\nVéase enactment-evidence.json y decreto-expedicion.md.\n");
     }
     let annexes: Vec<_> = corpus
         .provisions
@@ -828,7 +931,10 @@ fn index_link(provision: &Provision, instrument_short_name: &str, obsidian: bool
 
 fn markdown_filename(provision: &Provision) -> String {
     match provision.provision_type {
-        ProvisionType::Article => format!("articulo-{}.md", provision.number.replace(' ', "-")),
+        ProvisionType::Article => format!(
+            "articulo-{}.md",
+            provision.number.replace([' ', '/', '\\'], "-")
+        ),
         ProvisionType::Annex => format!("anexo-{}.md", provision.number.replace(' ', "-")),
         ProvisionType::Transitory => format!(
             "transitorio-{}.md",
@@ -899,6 +1005,7 @@ mod tests {
         fs::create_dir_all(&notes).unwrap();
         fs::write(notes.join("criterio.md"), "Conservar.").unwrap();
         let corpus = Corpus {
+            enactment_evidence: Vec::new(),
             instrument: sample_instrument(),
             provisions: vec![sample_provision()],
             references: Vec::new(),
@@ -962,6 +1069,7 @@ mod tests {
             .unwrap();
         let canonical_text = source.text.clone();
         let corpus = Corpus {
+            enactment_evidence: Vec::new(),
             instrument: sample_instrument(),
             provisions: vec![source, target_48, target_54],
             references: vec![
@@ -1008,6 +1116,7 @@ mod tests {
         fs::write(output.join("articulo-1-1.md"), "stale").unwrap();
         fs::write(output.join("inspection.txt"), "keep").unwrap();
         let corpus = Corpus {
+            enactment_evidence: Vec::new(),
             instrument: sample_instrument(),
             provisions: vec![sample_provision()],
             references: Vec::new(),
@@ -1034,6 +1143,7 @@ mod tests {
         let temp = tempdir().unwrap();
         let output = temp.path().join("markdown");
         let corpus = Corpus {
+            enactment_evidence: Vec::new(),
             instrument: sample_instrument(),
             provisions: vec![sample_article("1")],
             references: Vec::new(),
@@ -1053,6 +1163,7 @@ mod tests {
 
     fn sample_provision() -> Provision {
         Provision {
+            numbering_basis: None,
             schema_version: SCHEMA_VERSION.to_owned(),
             id: format!("{LRITF_INSTRUMENT_ID}:transitory:decima-primera"),
             instrument_id: LRITF_INSTRUMENT_ID.to_owned(),
@@ -1067,7 +1178,8 @@ mod tests {
                 apartado: None,
             },
             text: "Texto.".to_owned(),
-            publication_date: chrono::NaiveDate::from_ymd_opt(2018, 3, 9).unwrap(),
+            publication_date: Some(chrono::NaiveDate::from_ymd_opt(2018, 3, 9).unwrap()),
+            publication_period: None,
             effective_from: None,
             effective_to: None,
             temporal_status: TemporalStatus::Unknown,
@@ -1103,6 +1215,7 @@ mod tests {
 
     fn sample_article(number: &str) -> Provision {
         Provision {
+            numbering_basis: None,
             schema_version: SCHEMA_VERSION.to_owned(),
             id: format!("{LRITF_INSTRUMENT_ID}:article:{number}"),
             instrument_id: LRITF_INSTRUMENT_ID.to_owned(),
@@ -1117,7 +1230,8 @@ mod tests {
                 apartado: None,
             },
             text: format!("Texto del artículo {number}."),
-            publication_date: chrono::NaiveDate::from_ymd_opt(2018, 3, 9).unwrap(),
+            publication_date: Some(chrono::NaiveDate::from_ymd_opt(2018, 3, 9).unwrap()),
+            publication_period: None,
             effective_from: None,
             effective_to: None,
             temporal_status: TemporalStatus::Unknown,
@@ -1167,7 +1281,8 @@ mod tests {
             short_name: "LRITF".to_owned(),
             operational_source: "camara_de_diputados".to_owned(),
             formal_publication_source: "dof".to_owned(),
-            publication_date: chrono::NaiveDate::from_ymd_opt(2018, 3, 9).unwrap(),
+            publication_date: Some(chrono::NaiveDate::from_ymd_opt(2018, 3, 9).unwrap()),
+            publication_period: None,
             latest_reform_date: chrono::NaiveDate::from_ymd_opt(2025, 11, 14),
             retrieved_at: chrono::DateTime::parse_from_rfc3339("2026-06-28T00:00:00Z")
                 .unwrap()
@@ -1186,6 +1301,103 @@ mod tests {
             formal_publication_code: None,
             formal_source_sha256: None,
             formal_extracted_text_sha256: None,
+        }
+    }
+    #[test]
+    fn military_slash_heading_exports_as_one_file_and_keeps_display_label() {
+        let temp = tempdir().unwrap();
+        let mut article = sample_article("1/o BIS");
+        article.label = "Artículo 1/o BIS".to_owned();
+        let corpus = Corpus {
+            enactment_evidence: Vec::new(),
+            instrument: sample_instrument(),
+            provisions: vec![article],
+            references: Vec::new(),
+            terms: Vec::new(),
+            term_usages: Vec::new(),
+            amendment_references: Vec::new(),
+        };
+        let targets = link_targets(&[(&corpus, "lritf")]);
+        write_obsidian(
+            &corpus,
+            &targets,
+            &term_targets(&[(&corpus, "lritf")], &targets),
+            &[],
+            temp.path(),
+        )
+        .unwrap();
+        let file = temp.path().join("Corpus/LRITF/articulo-1-o-BIS.md");
+        assert!(file.is_file());
+        assert!(
+            fs::read_to_string(file)
+                .unwrap()
+                .contains("Artículo 1/o BIS")
+        );
+        assert_eq!(
+            targets.values().next().unwrap().filename,
+            "articulo-1-o-BIS.md"
+        );
+    }
+    #[test]
+    fn decree_evidence_exports_separately_and_is_removed_when_cleared() {
+        let temp = tempdir().unwrap();
+        let mut corpus = Corpus {
+            instrument: sample_instrument(),
+            provisions: vec![sample_provision()],
+            enactment_evidence: Vec::new(),
+            references: Vec::new(),
+            terms: Vec::new(),
+            term_usages: Vec::new(),
+            amendment_references: Vec::new(),
+        };
+        let kind = lex_core::EnactmentEvidenceKind::Transitory;
+        corpus.enactment_evidence.push(lex_core::EnactmentEvidence {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: lex_core::enactment_evidence_id(
+                &corpus.instrument.id,
+                corpus.instrument.publication_date,
+                &kind,
+                "PRIMERO",
+            ),
+            instrument_id: corpus.instrument.id.clone(),
+            owner: lex_core::EnactmentOwner::ContainingDecree,
+            kind,
+            containing_act_title: "DECRETO de expedición".to_owned(),
+            section_heading: Some("TRANSITORIOS".to_owned()),
+            source_heading: "PRIMERO.-".to_owned(),
+            number: "PRIMERO".to_owned(),
+            text: "Texto del decreto.".to_owned(),
+            publication_date: corpus.instrument.publication_date,
+            publication_period: None,
+            source_sha256: corpus.instrument.source_sha256.clone(),
+            extracted_text_sha256: corpus.instrument.extracted_text_sha256.clone(),
+            text_sha256: lex_core::evidence_sha256("Texto del decreto."),
+        });
+        let targets = link_targets(&[(&corpus, "lritf")]);
+        let terms = term_targets(&[(&corpus, "lritf")], &targets);
+        let md = temp.path().join("markdown");
+        let canonical = temp.path().join("canonical");
+        super::write_canonical(&corpus, &canonical).unwrap();
+        write_markdown(&corpus, &targets, &terms, &md).unwrap();
+        write_obsidian(&corpus, &targets, &terms, &[], temp.path()).unwrap();
+        let decree = fs::read_to_string(md.join("decreto-expedicion.md")).unwrap();
+        assert!(decree.contains("Transitorio del decreto"));
+        assert!(decree.contains("Texto del decreto."));
+        let vault = temp.path().join("Corpus/LRITF");
+        assert!(vault.join("enactment-evidence.json").exists());
+        corpus.enactment_evidence.clear();
+        super::write_canonical(&corpus, &canonical).unwrap();
+        write_markdown(&corpus, &targets, &terms, &md).unwrap();
+        write_obsidian(&corpus, &targets, &terms, &[], temp.path()).unwrap();
+        assert_eq!(
+            fs::read_to_string(canonical.join("enactment-evidence.json"))
+                .unwrap()
+                .trim(),
+            "[]"
+        );
+        for directory in [&md, &vault] {
+            assert!(!directory.join("decreto-expedicion.md").exists());
+            assert!(!directory.join("enactment-evidence.json").exists());
         }
     }
 }

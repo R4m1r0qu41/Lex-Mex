@@ -27,7 +27,7 @@ use lex_parse::{
     InstrumentContextPolicy, ReferenceOptions, audit_pdf, derive_article_temporal_determinations,
     detect_glossary_terms, extract_doc, extract_html_text, extract_internal_references,
     extract_pdf, extract_references, extract_term_usages, extract_terms, find_admitted_furniture,
-    find_glossary_provision, parse_dcg, parse_diputados, parse_itf_dcg, repair_article_dates,
+    find_glossary_provision, parse_dcg, parse_itf_dcg, repair_article_dates,
     repair_partial_repeals, validate_corpus,
 };
 use lex_source::{
@@ -521,7 +521,9 @@ struct InstrumentIndexEntry {
     official_title: String,
     instrument_type: String,
     status: String,
-    publication_date: NaiveDate,
+    publication_date: Option<NaiveDate>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    publication_period: Option<lex_core::PublicationPeriod>,
     latest_reform_date: Option<NaiveDate>,
     #[serde(skip_serializing_if = "Option::is_none")]
     text_basis: Option<String>,
@@ -577,6 +579,7 @@ fn committed_instrument_index(root: &Path) -> Result<Vec<InstrumentIndexEntry>> 
                     instrument_type: instrument_type_name(&instrument.instrument_type).to_owned(),
                     status: instrument_status_name(&instrument.status).to_owned(),
                     publication_date: instrument.publication_date,
+                    publication_period: instrument.publication_period.clone(),
                     latest_reform_date: instrument.latest_reform_date,
                     text_basis: None,
                     unconsolidated_modification_count: None,
@@ -610,7 +613,8 @@ fn committed_instrument_index(root: &Path) -> Result<Vec<InstrumentIndexEntry>> 
                     official_title: standard.official_title,
                     instrument_type: standard_kind_name(&standard.kind).to_owned(),
                     status: standard_status_name(&standard.status).to_owned(),
-                    publication_date: standard.publication_date,
+                    publication_date: Some(standard.publication_date),
+                    publication_period: None,
                     latest_reform_date: standard
                         .modifications
                         .iter()
@@ -1061,6 +1065,7 @@ fn run_extract(context: &InstrumentContext) -> Result<()> {
 
 /// Everything a configured parser yields for one instrument.
 struct ParsedInstrument {
+    enactment_evidence: Vec<lex_core::EnactmentEvidence>,
     provisions: Vec<lex_core::Provision>,
     /// Manifest of a directly acquired formal source, when the parser
     /// depends on one.
@@ -1845,6 +1850,7 @@ fn diputados_options(config: &SourceConfig) -> DiputadosOptions {
         header_lines,
         stop_markers: config.main_document_stop_markers.clone(),
         annex_markers: config.substantive_annex_markers.clone(),
+        separate_enactment: config.separate_enactment,
     }
 }
 
@@ -1853,11 +1859,16 @@ fn parse_by_configured_parser(
     paths: &Paths,
     config: &SourceConfig,
     raw: &str,
-    publication_date: NaiveDate,
+    publication_date: Option<NaiveDate>,
 ) -> Result<ParsedInstrument> {
     match config.parser.as_str() {
         "diputados" => {
-            let document = parse_diputados(raw, &diputados_options(config), publication_date)?;
+            let document = lex_parse::parse_diputados_publication(
+                raw,
+                &diputados_options(config),
+                publication_date,
+                config.publication_period.as_ref(),
+            )?;
             let formal_manifest = config
                 .formal_source
                 .as_ref()
@@ -1867,11 +1878,14 @@ fn parse_by_configured_parser(
                 provisions: document.provisions,
                 formal_manifest,
                 amendment_references: Vec::new(),
+                enactment_evidence: document.enactment_evidence,
                 reform_evidence: document.reform_evidence,
                 latest_reform_date: None,
             })
         }
         "ifpe-dcg" => {
+            let publication_date =
+                publication_date.context("DCG parser requires an exact publication day")?;
             let formal_manifest: SourceManifest = read_json(&paths.formal_manifest)?;
             let annex_documents = read_annex_documents(paths, config)?;
             let provisions = parse_dcg(
@@ -1885,11 +1899,14 @@ fn parse_by_configured_parser(
                 provisions,
                 formal_manifest: Some(formal_manifest),
                 amendment_references: Vec::new(),
+                enactment_evidence: Vec::new(),
                 reform_evidence: Vec::new(),
                 latest_reform_date: None,
             })
         }
         "itf-dcg" => {
+            let publication_date =
+                publication_date.context("ITF parser requires an exact publication day")?;
             let annex_documents = read_annex_documents(paths, config)?;
             let document = parse_itf_dcg(
                 raw,
@@ -1901,6 +1918,7 @@ fn parse_by_configured_parser(
                 provisions: document.provisions,
                 formal_manifest: None,
                 amendment_references: document.amendment_references,
+                enactment_evidence: Vec::new(),
                 reform_evidence: document.reform_evidence,
                 latest_reform_date: document.latest_reform_date,
             })
@@ -1909,24 +1927,55 @@ fn parse_by_configured_parser(
     }
 }
 
+const OGA_SERIAL_NOTE: &str = "Nueva Ordenanza publicada en el Diario Oficial de la Federación en forma seriada los días 1º al 8 de enero de 1912";
+
+fn resolve_publication(
+    config: &SourceConfig,
+    manifest: &SourceManifest,
+    raw: &str,
+) -> Result<Option<NaiveDate>> {
+    if let Some(period) = &config.publication_period {
+        if config.slug != "oga"
+            || config.instrument_id != "urn:lex-mx:federal:statute:oga"
+            || config.publication_date.is_some()
+            || period.start.to_string() != "1912-01-01"
+            || period.end.to_string() != "1912-01-08"
+            || period.source_note != OGA_SERIAL_NOTE
+            || period.source_sha256 != manifest.source_sha256
+            || !raw
+                .split_whitespace()
+                .collect::<Vec<_>>()
+                .join(" ")
+                .contains(OGA_SERIAL_NOTE)
+        {
+            bail!("invalid OGA serialized-publication exception or mismatched source evidence");
+        }
+        return Ok(None);
+    }
+    match &config.publication_date {
+        Some(date) => Ok(Some(NaiveDate::parse_from_str(date, "%Y-%m-%d")?)),
+        None => Ok(Some(lex_parse::extract_dof_publication(raw).with_context(
+            || {
+                format!(
+                    "adapter for {} has no exact publication date or supported original DOF note",
+                    config.slug
+                )
+            },
+        )?)),
+    }
+}
+
+fn validate_source_metadata(corpus: &Corpus) -> Result<()> {
+    lex_core::validate_publication_metadata(corpus).map_err(anyhow::Error::msg)
+}
+
 fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
     let paths = &context.paths;
     let config = &context.config;
     let manifest: SourceManifest = read_json(&paths.manifest)?;
     let raw = fs::read_to_string(&paths.text)
         .with_context(|| format!("failed to read {}", paths.text.display()))?;
-    let publication_date = match &config.publication_date {
-        Some(date) => NaiveDate::parse_from_str(date, "%Y-%m-%d")?,
-        // A scaffolded adapter has no date yet; derive it from the
-        // document's own DOF publication note. `batch run --freeze-counts`
-        // persists the derived date into the adapter.
-        None => lex_parse::extract_dof_publication(&raw).with_context(|| {
-            format!(
-                "adapter for {} has no publication_date and the document has no DOF note",
-                config.slug
-            )
-        })?,
-    };
+    let publication_date = resolve_publication(config, &manifest, &raw)?;
     let extracted_text_sha256 = manifest
         .extracted_text_sha256
         .clone()
@@ -1946,6 +1995,7 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
         operational_source: manifest.operational_source.clone(),
         formal_publication_source: manifest.formal_publication_source.clone(),
         publication_date,
+        publication_period: config.publication_period.clone(),
         latest_reform_date: match &config.latest_reform_date {
             Some(date) => Some(NaiveDate::parse_from_str(date, "%Y-%m-%d")?),
             None => parsed
@@ -1984,6 +2034,7 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
     // parse of the same raw text.
     let reform_evidence = parsed.reform_evidence;
     let mut corpus = Corpus {
+        enactment_evidence: parsed.enactment_evidence,
         instrument,
         provisions,
         references,
@@ -1991,6 +2042,11 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
         term_usages,
         amendment_references: parsed.amendment_references,
     };
+    for item in &mut corpus.enactment_evidence {
+        item.source_sha256
+            .clone_from(&corpus.instrument.source_sha256);
+    }
+    validate_source_metadata(&corpus)?;
     reapply_persisted_temporal_state(paths, config, &mut corpus, &reform_evidence)?;
     run_furniture_audit(context, &corpus.provisions)?;
     write_canonical(&corpus, &paths.corpus)?;
@@ -2326,7 +2382,9 @@ fn run_temporal_request(context: &InstrumentContext) -> Result<()> {
         schema_version: SCHEMA_VERSION.to_owned(),
         prompt_version: "temporal-v2".to_owned(),
         instrument_id: corpus.instrument.id,
-        publication_date: corpus.instrument.publication_date,
+        publication_date: corpus.instrument.publication_date.context(
+            "temporal requests require an exact publication day; serialized range is not a day",
+        )?,
         latest_reform_date: corpus.instrument.latest_reform_date,
         relevant_provisions: evidence,
         required_output_schema: "schemas/temporal-model-output-v2.schema.json".to_owned(),
@@ -2480,7 +2538,7 @@ fn run_temporal_import(
     let corpus = read_corpus(paths)?;
     let instrument = &corpus.instrument;
     if request.instrument_id != instrument.id
-        || request.publication_date != instrument.publication_date
+        || Some(request.publication_date) != instrument.publication_date
     {
         bail!("temporal request instrument metadata is stale");
     }
@@ -3101,14 +3159,17 @@ fn read_corpus(paths: &Paths) -> Result<Corpus> {
             Ok(Vec::new())
         }
     }
-    Ok(Corpus {
+    let corpus = Corpus {
+        enactment_evidence: optional(&paths.corpus.join("enactment-evidence.json"))?,
         instrument: read_json(&paths.instrument)?,
         provisions: read_json(&paths.provisions)?,
         references: optional(&paths.references)?,
         terms: optional(&paths.terms)?,
         term_usages: optional(&paths.term_usages)?,
         amendment_references: optional(&paths.amendment_references)?,
-    })
+    };
+    validate_source_metadata(&corpus)?;
+    Ok(corpus)
 }
 
 fn instrument_type(value: &str) -> Result<InstrumentType> {
@@ -3235,6 +3296,10 @@ impl Paths {
 
 #[cfg(test)]
 mod tests {
+    use super::{
+        OGA_SERIAL_NOTE, SourceConfig, SourceManifest, instrument_context, resolve_publication,
+        run_temporal_request,
+    };
     use std::{
         collections::{BTreeMap, HashMap, HashSet},
         fs,
@@ -3616,6 +3681,7 @@ mod tests {
     fn fixture_corpus(id: &str, title: &str, short_name: &str, text: &str) -> Corpus {
         let date = NaiveDate::from_ymd_opt(2024, 1, 1).unwrap();
         Corpus {
+            enactment_evidence: Vec::new(),
             instrument: Instrument {
                 schema_version: SCHEMA_VERSION.to_owned(),
                 id: id.to_owned(),
@@ -3626,7 +3692,8 @@ mod tests {
                 short_name: short_name.to_owned(),
                 operational_source: "fixture".to_owned(),
                 formal_publication_source: "dof".to_owned(),
-                publication_date: date,
+                publication_date: Some(date),
+                publication_period: None,
                 latest_reform_date: None,
                 retrieved_at: Utc::now(),
                 source_url: Url::parse("https://example.test/source.pdf").unwrap(),
@@ -3641,6 +3708,7 @@ mod tests {
                 formal_extracted_text_sha256: None,
             },
             provisions: vec![Provision {
+                numbering_basis: None,
                 schema_version: SCHEMA_VERSION.to_owned(),
                 id: format!("{id}:article:1"),
                 instrument_id: id.to_owned(),
@@ -3655,7 +3723,8 @@ mod tests {
                     apartado: None,
                 },
                 text: text.to_owned(),
-                publication_date: date,
+                publication_date: Some(date),
+                publication_period: None,
                 effective_from: None,
                 effective_to: None,
                 temporal_status: TemporalStatus::Unknown,
@@ -3778,5 +3847,89 @@ mod tests {
         .unwrap();
         assert_eq!(skipped.status, "skipped");
         assert_eq!(skipped.expected_edges[0].status, "deferred");
+    }
+    fn fixture_publication_period(hash: &str) -> lex_core::PublicationPeriod {
+        lex_core::PublicationPeriod {
+            metadata_version: "1.0.0".to_owned(),
+            kind: lex_core::PublicationPeriodKind::SerializedRange,
+            start: NaiveDate::from_ymd_opt(1912, 1, 1).unwrap(),
+            end: NaiveDate::from_ymd_opt(1912, 1, 8).unwrap(),
+            source_note: OGA_SERIAL_NOTE.to_owned(),
+            source_sha256: hash.to_owned(),
+        }
+    }
+
+    #[test]
+    fn oga_exception_requires_exact_retained_note_range_and_source() {
+        let mut config: SourceConfig =
+            serde_json::from_str(include_str!("../../../adapters/diputados/lritf.json")).unwrap();
+        let manifest: SourceManifest = serde_json::from_str(include_str!(
+            "../../../corpus/mx/lritf/source-manifest.json"
+        ))
+        .unwrap();
+        config.slug = "oga".to_owned();
+        config.instrument_id = "urn:lex-mx:federal:statute:oga".to_owned();
+        config.publication_date = None;
+        config.publication_period = Some(fixture_publication_period(&manifest.source_sha256));
+        let raw = format!("{OGA_SERIAL_NOTE}\nÚltima reforma publicada DOF 19-12-1985");
+        assert_eq!(resolve_publication(&config, &manifest, &raw).unwrap(), None);
+        assert!(
+            resolve_publication(
+                &config,
+                &manifest,
+                "Última reforma publicada DOF 19-12-1985"
+            )
+            .is_err()
+        );
+        config
+            .publication_period
+            .as_mut()
+            .unwrap()
+            .source_note
+            .push('x');
+        assert!(resolve_publication(&config, &manifest, &raw).is_err());
+        config.publication_period = Some(fixture_publication_period(&manifest.source_sha256));
+        config.publication_period.as_mut().unwrap().start =
+            NaiveDate::from_ymd_opt(1912, 1, 9).unwrap();
+        assert!(resolve_publication(&config, &manifest, &raw).is_err());
+        config.publication_period = Some(fixture_publication_period("wrong"));
+        assert!(resolve_publication(&config, &manifest, &raw).is_err());
+        config.publication_period = Some(fixture_publication_period(&manifest.source_sha256));
+        config.publication_date = Some("1912-01-01".to_owned());
+        assert!(resolve_publication(&config, &manifest, &raw).is_err());
+    }
+
+    #[test]
+    fn range_corpus_loads_but_temporal_request_fails_before_creating_output() {
+        let temp = tempfile::tempdir().unwrap();
+        let root = temp.path();
+        write_fixture_adapter(
+            root,
+            "range",
+            "urn:test:range",
+            "Rango",
+            "RANGO",
+            &serde_json::json!([]),
+        );
+        let context = instrument_context(root, "range").unwrap();
+        let mut corpus = fixture_corpus("urn:test:range", "Rango", "RANGO", "Texto.");
+        let period = fixture_publication_period(&corpus.instrument.source_sha256);
+        corpus.instrument.publication_date = None;
+        corpus.instrument.publication_period = Some(period.clone());
+        for p in &mut corpus.provisions {
+            p.publication_date = None;
+            p.publication_period = Some(period.clone());
+        }
+        write_canonical(&corpus, &context.paths.corpus).unwrap();
+        assert!(
+            read_corpus(&context.paths)
+                .unwrap()
+                .instrument
+                .publication_date
+                .is_none()
+        );
+        let error = run_temporal_request(&context).unwrap_err().to_string();
+        assert!(error.contains("require an exact publication day"));
+        assert!(!context.paths.temporal_request.exists());
     }
 }

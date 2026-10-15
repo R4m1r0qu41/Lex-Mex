@@ -142,6 +142,10 @@ pub struct SourceConfig {
     /// `batch run --freeze-counts` writes it back here.
     #[serde(default)]
     pub publication_date: Option<String>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub publication_period: Option<lex_core::PublicationPeriod>,
+    #[serde(default)]
+    pub separate_enactment: bool,
     /// Latest consolidated reform date when the official operational source
     /// index supplies it but the downloaded document does not print it.
     /// This is an adapter fact, never inferred from retrieval time.

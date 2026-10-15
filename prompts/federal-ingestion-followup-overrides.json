@@ -1,0 +1,24 @@
+{
+  "lmigra": {
+    "separate_enactment": true,
+    "glossary": {
+      "provision_suffix": ":article:3",
+      "style": "mixed_fractions",
+      "additive_to": []
+    }
+  },
+  "reg-lmigra": {
+    "separate_enactment": true
+  },
+  "oga": {
+    "publication_date": null,
+    "publication_period": {
+      "metadata_version": "1.0.0",
+      "kind": "serialized_range",
+      "start": "1912-01-01",
+      "end": "1912-01-08",
+      "source_note": "Nueva Ordenanza publicada en el Diario Oficial de la Federación en forma seriada los días 1º al 8 de enero de 1912",
+      "source_sha256": "25c0da0a39813a4ad1a8189c67a693c131b9df2fc05689881251f15d42b9fdb3"
+    }
+  }
+}

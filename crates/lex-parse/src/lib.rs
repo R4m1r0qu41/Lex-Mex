@@ -28,7 +28,7 @@ pub mod terms;
 pub use dcg::parse_dcg;
 pub use diputados::{
     DiputadosDocument, DiputadosOptions, extract_dof_publication, extract_reform_evidence,
-    parse_diputados,
+    parse_diputados, parse_diputados_publication,
 };
 pub use furniture_audit::{audit_pdf, find_admitted_furniture};
 pub use html::extract_html_text;
@@ -1709,7 +1709,23 @@ fn validate_provisions(
 /// marker official texts print on articles 1–9 (`1o`, `9o`). Suffixed or
 /// otherwise non-numeric labels still return `None` and keep their warning.
 fn plain_article_number(number: &str) -> Option<u32> {
-    let digits = number.strip_suffix('o').unwrap_or(number);
+    let digits = number
+        .strip_suffix("/o")
+        .or_else(|| number.strip_suffix(['o', 'º', '°']))
+        .unwrap_or(number);
+    if digits.contains(',') {
+        let groups: Vec<_> = digits.split(',').collect();
+        if groups[0].is_empty()
+            || groups[0].len() > 3
+            || groups.iter().skip(1).any(|g| g.len() != 3)
+            || groups
+                .iter()
+                .any(|g| !g.bytes().all(|b| b.is_ascii_digit()))
+        {
+            return None;
+        }
+        return groups.concat().parse().ok();
+    }
     if digits.is_empty() || !digits.bytes().all(|byte| byte.is_ascii_digit()) {
         return None;
     }
@@ -2212,6 +2228,11 @@ mod tests {
     fn plain_article_number_reads_bare_ordinals_only() {
         assert_eq!(super::plain_article_number("7"), Some(7));
         assert_eq!(super::plain_article_number("9o"), Some(9));
+        assert_eq!(super::plain_article_number("1°"), Some(1));
+        assert_eq!(super::plain_article_number("2º"), Some(2));
+        assert_eq!(super::plain_article_number("1/o"), Some(1));
+        assert_eq!(super::plain_article_number("1,000"), Some(1000));
+        assert_eq!(super::plain_article_number("1,00"), None);
         assert_eq!(super::plain_article_number("10"), Some(10));
         assert_eq!(super::plain_article_number("1o-A"), None);
         assert_eq!(super::plain_article_number("o"), None);
@@ -2224,6 +2245,7 @@ mod tests {
         condition: Option<lex_core::CommencementCondition>,
     ) -> Provision {
         Provision {
+            numbering_basis: None,
             schema_version: "0.1.0".to_owned(),
             id: "urn:lex-mx:federal:statute:muestra:article:1".to_owned(),
             instrument_id: "urn:lex-mx:federal:statute:muestra".to_owned(),
@@ -2238,7 +2260,8 @@ mod tests {
                 apartado: None,
             },
             text: "Texto.".to_owned(),
-            publication_date: NaiveDate::from_ymd_opt(1990, 1, 1).unwrap(),
+            publication_date: Some(NaiveDate::from_ymd_opt(1990, 1, 1).unwrap()),
+            publication_period: None,
             effective_from: None,
             effective_to: None,
             temporal_status: status,
@@ -2498,6 +2521,7 @@ mod tests {
             ],
             stop_markers: vec!["ARTÍCULOS SEGUNDO A DÉCIMO".to_owned()],
             annex_markers: Vec::new(),
+            separate_enactment: false,
         }
     }
 
@@ -2693,7 +2717,7 @@ mod tests {
                 instrument_id: source_id.to_owned(),
                 header_lines: Vec::new(),
                 stop_markers: Vec::new(),
-                annex_markers: Vec::new(),
+                annex_markers: Vec::new(), separate_enactment: false,
             },
             NaiveDate::from_ymd_opt(2002, 1, 15).unwrap(),
         )
@@ -2740,7 +2764,7 @@ mod tests {
                 instrument_id: source_id.to_owned(),
                 header_lines: Vec::new(),
                 stop_markers: Vec::new(),
-                annex_markers: Vec::new(),
+                annex_markers: Vec::new(), separate_enactment: false,
             },
             date,
         )
@@ -2940,6 +2964,7 @@ mod tests {
                 header_lines: Vec::new(),
                 stop_markers: Vec::new(),
                 annex_markers: Vec::new(),
+                separate_enactment: false,
             },
             date,
         )
@@ -3197,6 +3222,7 @@ mod tests {
             header_lines: vec!["CÓDIGO DE MUESTRA".to_owned()],
             stop_markers: Vec::new(),
             annex_markers: Vec::new(),
+            separate_enactment: false,
         };
         let document = parse_diputados(GAPPED_CODIGO, &options, date).unwrap();
         crate::validate_corpus(

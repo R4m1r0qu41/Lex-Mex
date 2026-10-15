@@ -22,6 +22,7 @@ use regex::Regex;
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
 pub enum GlossaryStyle {
+    MixedFractions,
     /// `I. Término, a …` — the term runs to the first comma.
     Fractions,
     /// `Término: a …` — the term runs to the first colon.
@@ -38,6 +39,7 @@ impl GlossaryStyle {
             "fractions" => Ok(Self::Fractions),
             "colon_entries" => Ok(Self::ColonEntries),
             "roman_colon" => Ok(Self::RomanColon),
+            "mixed_fractions" => Ok(Self::MixedFractions),
             other => bail!("unsupported glossary style {other:?}"),
         }
     }
@@ -53,6 +55,7 @@ pub fn extract_terms(provision: &Provision, style: GlossaryStyle) -> Result<Vec<
         GlossaryStyle::Fractions => fraction_entries(provision)?,
         GlossaryStyle::ColonEntries => colon_entries(provision),
         GlossaryStyle::RomanColon => roman_colon_entries(provision)?,
+        GlossaryStyle::MixedFractions => mixed_fraction_entries(provision)?,
     };
     terms_from_entries(provision, entries)
 }
@@ -195,6 +198,48 @@ struct GlossaryEntry {
     fraction: Option<String>,
     start_char: usize,
     end_char: usize,
+}
+
+/// Explicit adapter style for reviewed mixed comma/colon definitions. The
+/// page-joined entry prefix is admitted only after an exact editorial
+/// `(antes fracción ROMAN)` note, never an arbitrary roman prose citation.
+fn mixed_fraction_entries(provision: &Provision) -> Result<Vec<GlossaryEntry>> {
+    let entry_re =
+        Regex::new(r"(?:^|[;\n]|\(antes fracción [IVXLCDM]+\) )[ \t]*([IVXLCDM]{1,7})\.\s+")?;
+    let mut starts = Vec::new();
+    for c in entry_re.captures_iter(&provision.text) {
+        let n = c.get(1).expect("fraction");
+        let end = c.get(0).expect("entry").end();
+        starts.push((n.start(), end, n.as_str().to_owned()));
+    }
+    let mut result = Vec::new();
+    for (index, (start, body_start, fraction)) in starts.iter().enumerate() {
+        let end = starts.get(index + 1).map_or(provision.text.len(), |x| x.0);
+        let body = &provision.text[*body_start..end];
+        let colon = body.find(':').filter(|n| body[..*n].chars().count() <= 90);
+        let comma = body.find(',');
+        let comma_definition = comma.is_some_and(|n| {
+            ["al ", "a ", "el ", "la "]
+                .iter()
+                .any(|p| body[n + 1..].trim_start().starts_with(p))
+        });
+        let delimiter = if comma_definition {
+            comma
+        } else {
+            colon.or(comma)
+        };
+        let Some(delimiter) = delimiter else {
+            bail!("mixed glossary entry {fraction} lacks a delimiter");
+        };
+        let term = body[..delimiter].trim().to_owned();
+        result.push(GlossaryEntry {
+            term,
+            fraction: Some(fraction.clone()),
+            start_char: provision.text[..*start].chars().count(),
+            end_char: provision.text[..end].chars().count(),
+        });
+    }
+    Ok(result)
 }
 
 fn fraction_entries(provision: &Provision) -> Result<Vec<GlossaryEntry>> {
@@ -562,6 +607,7 @@ mod tests {
 
     fn provision(instrument_id: &str, suffix: &str, text: &str) -> Provision {
         Provision {
+            numbering_basis: None,
             schema_version: SCHEMA_VERSION.to_owned(),
             id: format!("{instrument_id}:{suffix}"),
             instrument_id: instrument_id.to_owned(),
@@ -576,7 +622,8 @@ mod tests {
                 apartado: None,
             },
             text: text.to_owned(),
-            publication_date: chrono::NaiveDate::from_ymd_opt(2021, 1, 28).unwrap(),
+            publication_date: Some(chrono::NaiveDate::from_ymd_opt(2021, 1, 28).unwrap()),
+            publication_period: None,
             effective_from: None,
             effective_to: None,
             temporal_status: TemporalStatus::Unknown,
@@ -835,5 +882,60 @@ mod tests {
                 .collect::<Vec<_>>(),
             ["Usuario de la Infraestructura Tecnológica", "Cuenta"]
         );
+    }
+    #[test]
+    fn reviewed_mixed_glossary_preserves_internal_commas_and_page_joined_entry() {
+        let opts = crate::DiputadosOptions {
+            instrument_id: "urn:lex-mx:federal:statute:lmigra".to_owned(),
+            header_lines: vec!["LEY DE MIGRACIÓN".to_owned()],
+            stop_markers: Vec::new(),
+            annex_markers: Vec::new(),
+            separate_enactment: false,
+        };
+        let doc = crate::parse_diputados(
+            include_str!("../../../fixtures/diputados/followup-lmigra-glossary.txt"),
+            &opts,
+            chrono::NaiveDate::from_ymd_opt(2011, 5, 25).unwrap(),
+        )
+        .unwrap();
+        let terms = extract_terms(&doc.provisions[0], GlossaryStyle::MixedFractions).unwrap();
+        let child_terms: Vec<_> = terms
+            .iter()
+            .filter(|t| t.term.starts_with("Niña,"))
+            .collect();
+        assert_eq!(child_terms.len(), 4);
+        assert_eq!(
+            terms
+                .iter()
+                .filter(|t| t.term == "Autoridad migratoria")
+                .count(),
+            1
+        );
+        assert!(
+            child_terms
+                .iter()
+                .any(|t| t.term == "Niña, niño o adolescente migrante separado")
+        );
+        assert_eq!(
+            terms.len(),
+            terms
+                .iter()
+                .map(|t| &t.id)
+                .collect::<std::collections::HashSet<_>>()
+                .len()
+        );
+        let generic = super::detect_glossary_terms(&doc.provisions).unwrap();
+        assert!(
+            generic.iter().filter(|t| t.term == "Niña").count() > 1,
+            "generic inference must not silently change"
+        );
+        let p = provision(
+            "urn:lex-mx:sample",
+            "article:3",
+            "I. Nombre, al funcionario indicado.\n\nII. Niña, niño o adolescente: persona menor.\n\nUna cita XVI. No debe crear: otra definición.",
+        );
+        let terms = extract_terms(&p, GlossaryStyle::MixedFractions).unwrap();
+        assert_eq!(terms.len(), 2);
+        assert_eq!(terms[0].term, "Nombre");
     }
 }
