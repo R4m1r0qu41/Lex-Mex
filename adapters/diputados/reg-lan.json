@@ -19,38 +19,5 @@
     "proposed_at": "2026-07-12T08:01:46Z"
   },
   "allow_article_gaps": true,
-  "formal_publication_urls": {},
-  "outdated_reference_approvals": [
-    {
-      "source_provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:153",
-      "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
-      "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:122",
-      "source_span": "122",
-      "start_char": 557,
-      "end_char": 560,
-      "source_text_sha256": "1aab6eebedf961f752fff2608b761286031ce8370ae4dd0329420d386c672f19",
-      "source_sha256": "d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399",
-      "reviewer": "Operator",
-      "captured_at": "2026-10-16T19:42:41Z",
-      "decision_source": "docs/held-instruments-review-2026-10-16.md",
-      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
-      "rationale": "LFPA has no article 122 in the current text."
-    }
-  ],
-  "legal_operator_reviews": [
-    {
-      "source_provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:153",
-      "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
-      "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:122",
-      "source_span": "122",
-      "start_char": 557,
-      "end_char": 560,
-      "source_text_sha256": "1aab6eebedf961f752fff2608b761286031ce8370ae4dd0329420d386c672f19",
-      "reviewer": "Operator",
-      "captured_at": "2026-10-16T19:42:41Z",
-      "decision_source": "docs/held-instruments-review-2026-10-16.md",
-      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
-      "note": "Operator: the reference is stale; it should target LFPA article 66."
-    }
-  ]
+  "formal_publication_urls": {}
 }

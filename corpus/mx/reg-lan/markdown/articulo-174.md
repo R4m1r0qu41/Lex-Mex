@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 174
 
-Para efectos del artículo [118](articulo-118.md) de la "Ley", las solicitudes para obtener concesión para explotar, usar o aprovechar bienes nacionales a cargo de "La Comisión", deberán contener los siguientes datos y elementos:
+Para efectos del artículo 118 de la "Ley", las solicitudes para obtener concesión para explotar, usar o aprovechar bienes nacionales a cargo de "La Comisión", deberán contener los siguientes datos y elementos:
 
 I. Nombre, nacionalidad y domicilio del solicitante;
 

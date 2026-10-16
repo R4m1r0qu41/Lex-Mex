@@ -17,6 +17,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 63
 
-Las reclamaciones por negativa, rectificación, modificación y cancelación de inscripciones que perjudiquen a terceros, así como las que se refieran a nulidades de éstas, a que se refiere el artículo [31](articulo-31.md) de la "Ley", se resolverán conforme al procedimiento de conciliación y arbitraje previsto en el presente "Reglamento" o, en su defecto, se deberá demandar ante los tribunales competentes para que, previa la substanciación del proceso respectivo, se dicte la resolución que conforme a derecho proceda.
+Las reclamaciones por negativa, rectificación, modificación y cancelación de inscripciones que perjudiquen a terceros, así como las que se refieran a nulidades de éstas, a que se refiere el artículo 31 de la "Ley", se resolverán conforme al procedimiento de conciliación y arbitraje previsto en el presente "Reglamento" o, en su defecto, se deberá demandar ante los tribunales competentes para que, previa la substanciación del proceso respectivo, se dicte la resolución que conforme a derecho proceda.
 
 Capítulo V Transmisión de Títulos

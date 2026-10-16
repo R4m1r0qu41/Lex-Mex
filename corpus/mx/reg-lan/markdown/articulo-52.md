@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 52
 
-Para efectos de la fracción V, del artículo [29](articulo-29.md) de la "Ley", los concesionarios y asignatarios por la explotación, uso o aprovechamiento de aguas nacionales, superficiales o del subsuelo, deberán tener los medidores de volumen de agua respectivos o los demás dispositivos y procedimientos de medición directa o indirecta que señalen las disposiciones legales y reglamentarias aplicables, así como las normas oficiales mexicanas.
+Para efectos de la fracción V, del artículo 29 de la "Ley", los concesionarios y asignatarios por la explotación, uso o aprovechamiento de aguas nacionales, superficiales o del subsuelo, deberán tener los medidores de volumen de agua respectivos o los demás dispositivos y procedimientos de medición directa o indirecta que señalen las disposiciones legales y reglamentarias aplicables, así como las normas oficiales mexicanas.

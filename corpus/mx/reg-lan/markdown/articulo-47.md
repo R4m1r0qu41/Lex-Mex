@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 47
 
-Para efectos de la fracción III del artículo [27](articulo-27.md) de la “Ley”, cuando durante tres años consecutivos se utilice solamente una parte del volumen de agua, caducará la concesión o asignación respecto al volumen que no hubiere sido aprovechado.
+Para efectos de la fracción III del artículo 27 de la “Ley”, cuando durante tres años consecutivos se utilice solamente una parte del volumen de agua, caducará la concesión o asignación respecto al volumen que no hubiere sido aprovechado.
 
 Antes del vencimiento del plazo de tres años, los titulares podrán disponer o transmitir en los términos de la “Ley” y del presente “Reglamento”, en forma temporal o definitiva, parcial o total, los volúmenes de agua no utilizados que resulten.
 

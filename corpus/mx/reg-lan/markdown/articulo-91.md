@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 91
 
-Para efectos del artículo [51](articulo-51.md) de la "Ley", el reglamento de las personas morales que administren y operen sistemas de riego o el aprovechamiento común de aguas nacionales, deberá además contener:
+Para efectos del artículo 51 de la "Ley", el reglamento de las personas morales que administren y operen sistemas de riego o el aprovechamiento común de aguas nacionales, deberá además contener:
 
 I. La forma de determinar y recuperar oportunamente los costos de operación, conservación y mantenimiento de la infraestructura y de los servicios que se presten, así como su cobro a través de cuotas;
 

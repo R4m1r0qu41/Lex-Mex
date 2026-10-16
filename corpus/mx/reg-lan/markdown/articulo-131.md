@@ -17,6 +17,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 131
 
-Para efectos de los artículos [83](articulo-83.md) y [98](articulo-98.md) de la "Ley", "La Comisión", en el ámbito de su competencia, otorgará el permiso para la construcción de obras públicas de protección contra inundaciones o promoverá su construcción y operación, según sea el caso, en coordinación con los gobiernos estatales y municipales, o en concertación con las personas físicas o morales interesadas.
+Para efectos de los artículos 83 y 98 de la "Ley", "La Comisión", en el ámbito de su competencia, otorgará el permiso para la construcción de obras públicas de protección contra inundaciones o promoverá su construcción y operación, según sea el caso, en coordinación con los gobiernos estatales y municipales, o en concertación con las personas físicas o morales interesadas.
 
 No quedan comprendidas en lo dispuesto en este artículo, las obras públicas de drenaje pluvial en los centros de población, las cuales están a cargo y bajo la responsabilidad de las autoridades locales.

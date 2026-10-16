@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 80
 
-Para efectos del artículo [42](articulo-42.md) de la "Ley", cuando los aprovechamientos de agua no se hayan efectuado en los dos años inmediatos anteriores a la entrada en vigor del decreto o reglamento respectivo, "La Comisión" podrá otorgar las concesiones o asignaciones respectivas, mediante la estimación presuntiva del volumen de agua usada, aprovechada o descargada, considerando indistintamente:
+Para efectos del artículo 42 de la "Ley", cuando los aprovechamientos de agua no se hayan efectuado en los dos años inmediatos anteriores a la entrada en vigor del decreto o reglamento respectivo, "La Comisión" podrá otorgar las concesiones o asignaciones respectivas, mediante la estimación presuntiva del volumen de agua usada, aprovechada o descargada, considerando indistintamente:
 
 I. Los volúmenes que señalen los aparatos de medición que se hubieren instalado o los que se desprendan de alguna de las declaraciones presentadas, conforme a la Ley Federal de Derechos, por la explotación, uso o aprovechamiento de aguas nacionales;
 

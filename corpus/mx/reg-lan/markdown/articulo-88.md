@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 88
 
-La transmisión de derechos a que se refiere el artículo [49](articulo-49.md) de la "Ley", en relación con el Capítulo V, del Titulo Cuarto de la misma, así como las transmisiones en unidades y distritos de riego, podrá ser temporal o definitiva.
+La transmisión de derechos a que se refiere el artículo 49 de la "Ley", en relación con el Capítulo V, del Titulo Cuarto de la misma, así como las transmisiones en unidades y distritos de riego, podrá ser temporal o definitiva.
 
 Es temporal, cuando los derechos se transfieren por determinados ciclos agrícolas, conservando la titularidad de la concesión.
 

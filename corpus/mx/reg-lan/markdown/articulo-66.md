@@ -21,4 +21,4 @@ Bastará un simple aviso por escrito al "Registro", cuando:
 
 I. Sólo se cambie de titular de la concesión o asignación, incluyendo los supuestos previstos en el [artículo anterior](articulo-65.md), siempre y cuando no se modifiquen las características del título respectivo, o
 
-II. Se trate de alguna de las cuencas, entidades federativas, zona o localidad a que se refieran los acuerdos que publique "La Comisión", en los términos del artículo [34](articulo-34.md) de la "Ley" en los que se autoricen las transmisiones de los títulos respectivos sin mayor trámite que su inscripción en el "Registro", sin perjuicio y quedando a salvo los derechos de terceros.
+II. Se trate de alguna de las cuencas, entidades federativas, zona o localidad a que se refieran los acuerdos que publique "La Comisión", en los términos del artículo 34 de la "Ley" en los que se autoricen las transmisiones de los títulos respectivos sin mayor trámite que su inscripción en el "Registro", sin perjuicio y quedando a salvo los derechos de terceros.

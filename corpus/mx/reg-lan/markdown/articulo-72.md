@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 72
 
-Para efectos del segundo párrafo del artículo [35](articulo-35.md) de la “Ley”, la transmisión temporal o definitiva, total o parcial de los derechos para explotar, usar o aprovechar aguas del subsuelo en zonas de veda o reglamentadas, se podrá efectuar en forma separada del derecho de propiedad de la tierra en las zonas en que “La Comisión” determine y publique en el Diario Oficial de la Federación. Tratándose de transmisión total y definitiva de derechos, una vez autorizada por “La Comisión”, se clausurará la obra de alumbramiento respectiva dentro de los diez días hábiles siguientes a la autorización.
+Para efectos del segundo párrafo del artículo 35 de la “Ley”, la transmisión temporal o definitiva, total o parcial de los derechos para explotar, usar o aprovechar aguas del subsuelo en zonas de veda o reglamentadas, se podrá efectuar en forma separada del derecho de propiedad de la tierra en las zonas en que “La Comisión” determine y publique en el Diario Oficial de la Federación. Tratándose de transmisión total y definitiva de derechos, una vez autorizada por “La Comisión”, se clausurará la obra de alumbramiento respectiva dentro de los diez días hábiles siguientes a la autorización.
 
 Tratándose de transmisión total de manera temporal, o parcial de derechos, “La Comisión” dispondrá las medidas necesarias para que los volúmenes que se extraigan del pozo original, así como del nuevo aprovechamiento, sean acordes con la transmisión realizada.
 

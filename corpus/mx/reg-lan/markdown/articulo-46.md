@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 46
 
-Cuando se hubiera revocado una concesión por causas imputables al concesionario en los términos del artículo [27](articulo-27.md), fracción II, de la "Ley", "La Comisión" no tramitará al mismo concesionario otra en sustitución, si no ha transcurrido, por lo menos, un año a partir de que haya quedado firme la resolución de revocación.
+Cuando se hubiera revocado una concesión por causas imputables al concesionario en los términos del artículo 27, fracción II, de la "Ley", "La Comisión" no tramitará al mismo concesionario otra en sustitución, si no ha transcurrido, por lo menos, un año a partir de que haya quedado firme la resolución de revocación.

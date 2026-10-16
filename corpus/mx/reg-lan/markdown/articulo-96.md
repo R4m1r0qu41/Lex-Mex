@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 96
 
-Los certificados a que se refiere el artículo [58](articulo-58.md) de la "Ley", serán nominativos y se sujetarán al siguiente procedimiento para su expedición y transmisión:
+Los certificados a que se refiere el artículo 58 de la "Ley", serán nominativos y se sujetarán al siguiente procedimiento para su expedición y transmisión:
 
 I. La expedición, modalidades y forma de transmisión de los certificados en la unidad respectiva se deberán contemplar en el reglamento de la unidad de riego;
 

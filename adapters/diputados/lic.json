@@ -79,7 +79,7 @@
       "captured_at": "2026-10-16T19:42:41Z",
       "decision_source": "docs/held-instruments-review-2026-10-16.md",
       "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
-      "note": "Operator: should target LFCE article 1, fracción IX (confidential information). Verification added by Claude: LFCE article 1 has no fracción IX; fracción IX of article 3 is \"Información Confidencial\". Operator to confirm the intended article."
+      "note": "Operator: should target LFCE article 3, fracción IX (Información Confidencial)."
     }
   ]
 }

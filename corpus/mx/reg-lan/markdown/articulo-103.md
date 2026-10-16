@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 103
 
-Para efectos del artículo [69](articulo-69.md) de la "Ley", además de lo previsto en el reglamento del distrito de que se trate, cuando haya escasez de agua y los usuarios que dispongan de medios propios para riego hayan satisfecho sus necesidades en la superficie autorizada en los padrones, deberán entregar al distrito los volúmenes excedentes que determine "La Comisión". Los usuarios beneficiados en el distrito cubrirán los costos que se originen.
+Para efectos del artículo 69 de la "Ley", además de lo previsto en el reglamento del distrito de que se trate, cuando haya escasez de agua y los usuarios que dispongan de medios propios para riego hayan satisfecho sus necesidades en la superficie autorizada en los padrones, deberán entregar al distrito los volúmenes excedentes que determine "La Comisión". Los usuarios beneficiados en el distrito cubrirán los costos que se originen.

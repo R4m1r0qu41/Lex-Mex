@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 6o
 
-Además de lo previsto en los artículos [5](articulo-5o.md)o., y 6o., de la "Ley", corresponde al Ejecutivo Federal decretar, por las causas de utilidad pública a que se refiere el artículo [7](articulo-7o.md)o., de la "Ley", la expropiación, la ocupación temporal, total o parcial de los bienes de propiedad privada o la limitación del dominio en los términos de la "Ley", de la Ley de Expropiación y de las demás disposiciones aplicables.
+Además de lo previsto en los artículos 5o., y 6o., de la "Ley", corresponde al Ejecutivo Federal decretar, por las causas de utilidad pública a que se refiere el artículo 7o., de la "Ley", la expropiación, la ocupación temporal, total o parcial de los bienes de propiedad privada o la limitación del dominio en los términos de la "Ley", de la Ley de Expropiación y de las demás disposiciones aplicables.
 
 Cuando se trate de bienes ejidales o comunales, se procederá en los términos de la Ley Agraria.
 

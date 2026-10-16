@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 14
 
-Para efectos del artículo [12](articulo-12.md) de la "Ley", el Director General de "La Comisión" tendrá las siguientes facultades:
+Para efectos del artículo 12 de la "Ley", el Director General de "La Comisión" tendrá las siguientes facultades:
 
 I. Dirigir y representar legalmente a "La Comisión", así como efectuar el trámite y resolución de los asuntos de la competencia de "La Comisión";
 

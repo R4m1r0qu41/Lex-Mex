@@ -1291,6 +1291,12 @@ fn numeric_article_number(number: &str) -> Option<u32> {
 
 const EXTERNAL_INSTRUMENT_MARKERS: &[&str] = &[
     "de la ley ",
+    // A regulation's quoted shorthand for its parent law ("artículo 122 de la
+    // “Ley” y en la Ley Federal de Procedimiento Administrativo"): the quoted
+    // word names the parent law, so the law named later must not take the
+    // citation. The parent law is not linked from here.
+    "de la “ley”",
+    "de la \"ley\"",
     "del código ",
     "de la constitución ",
     // Adjectival Constitution reference: "el artículo 134 constitucional".
@@ -3798,6 +3804,52 @@ mod tests {
                 .iter()
                 .any(|e| e.source_provision_id == provisions[1].id),
             "{edges:?}"
+        );
+    }
+
+    #[test]
+    fn quoted_shorthand_for_the_parent_law_is_not_retargeted_by_a_later_law() {
+        let date = NaiveDate::from_ymd_opt(2018, 3, 9).unwrap();
+        let mut provisions = parse_lritf(RELATIVE_FIXTURE, date).unwrap();
+        let options = ReferenceOptions {
+            policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                internal_markers: vec!["de este reglamento".to_owned()],
+                external_instruments: vec![(
+                    "ley federal de procedimiento administrativo".to_owned(),
+                    "urn:lex-mx:federal:statute:lfpa".to_owned(),
+                )],
+            },
+            transitory_citations: true,
+            same_article_fractions: true,
+            relative_references: true,
+            historical_targets: vec![],
+        };
+        let targets = provisions.iter().map(|p| p.id.clone()).collect();
+        // REG-LAN article 153: article 122 is the Ley de Aguas Nacionales' (the
+        // quoted "Ley"), not LFPA's.
+        for text in [
+            "Se aplicará, en lo conducente, lo dispuesto en el artículo 3 de la “Ley” y en la Ley Federal de Procedimiento Administrativo.",
+            "Se aplicará, en lo conducente, lo dispuesto en el artículo 3 de la \"Ley\" y en la Ley Federal de Procedimiento Administrativo.",
+        ] {
+            provisions[1].text = text.to_owned();
+            let edges = extract_references(&provisions, None, &options, &targets).unwrap();
+            assert!(
+                !edges
+                    .iter()
+                    .any(|e| e.source_provision_id == provisions[1].id),
+                "{text}: {edges:?}"
+            );
+        }
+        // A citation naming the other law directly still links to it.
+        provisions[1].text =
+            "Se aplicará el artículo 3 de la Ley Federal de Procedimiento Administrativo."
+                .to_owned();
+        let edges = extract_references(&provisions, None, &options, &targets).unwrap();
+        assert!(
+            edges
+                .iter()
+                .any(|e| e.source_provision_id == provisions[1].id
+                    && e.target_instrument_id == "urn:lex-mx:federal:statute:lfpa")
         );
     }
 

@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 111
 
-Las unidades de drenaje, se constituirán por acuerdo que se publicará en el Diario Oficial de la Federación conforme a lo previsto en el artículo [76](articulo-76.md) de la "Ley", el cual deberá contener, además de lo señalado en el segundo párrafo de dicho precepto, lo siguiente:
+Las unidades de drenaje, se constituirán por acuerdo que se publicará en el Diario Oficial de la Federación conforme a lo previsto en el artículo 76 de la "Ley", el cual deberá contener, además de lo señalado en el segundo párrafo de dicho precepto, lo siguiente:
 
 I. La descripción de la infraestructura asociada a la creación y operación del drenaje, y
 

@@ -19,4 +19,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 En el caso de que los usuarios se constituyan en personas morales que tengan por objeto administrar y operar un sistema de riego agrícola o la explotación, uso o aprovechamiento común de aguas nacionales para fines agrícolas, se estará a lo dispuesto para las mismas en el Capítulo II, del Título Sexto, de la "Ley" y a lo dispuesto en el presente "Reglamento".
 
-Asimismo, cuando al amparo de un título de concesión, los usuarios se constituyan en personas morales que tengan por objeto el aprovechamiento común de aguas para actividades productivas distintas a las agrícolas, les será aplicable en lo conducente lo dispuesto en el artículo [51](articulo-51.md) de la "Ley" y este "Reglamento".
+Asimismo, cuando al amparo de un título de concesión, los usuarios se constituyan en personas morales que tengan por objeto el aprovechamiento común de aguas para actividades productivas distintas a las agrícolas, les será aplicable en lo conducente lo dispuesto en el artículo 51 de la "Ley" y este "Reglamento".

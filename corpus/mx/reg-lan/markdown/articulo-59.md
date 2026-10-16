@@ -17,6 +17,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 59
 
-Los actos de expedición, prórroga, suspensión y terminación de concesiones, asignaciones o permisos que en los términos del artículo [30](articulo-30.md) de la "Ley" deben ser inscritos de oficio, deberán quedar asentados dentro de los quince días hábiles siguientes a la fecha en que se realicen.
+Los actos de expedición, prórroga, suspensión y terminación de concesiones, asignaciones o permisos que en los términos del artículo 30 de la "Ley" deben ser inscritos de oficio, deberán quedar asentados dentro de los quince días hábiles siguientes a la fecha en que se realicen.
 
 Lo anterior, sin perjuicio de que los propios usuarios, en caso de que no lo haya hecho "La Comisión", soliciten la inscripción en el "Registro" de los títulos respectivos y sus modificaciones.
