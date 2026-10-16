@@ -1977,10 +1977,19 @@ fn validate_repeal_config(
     raw: &str,
 ) -> Result<()> {
     if let Some(notice) = &config.source_repeal_notice {
-        anyhow::ensure!(
-            notice.matches_source(&manifest.source_sha256, raw),
-            "repeal notice does not match retained source bytes/header"
-        );
+        if notice.successor_clause.is_some() {
+            anyhow::ensure!(
+                read_sibling_corpora(root, &config.instrument_id)?
+                    .iter()
+                    .any(|(_, c)| notice.matches_successor(&manifest.source_sha256, c)),
+                "repeal notice does not match the abrogating provision of its successor"
+            );
+        } else {
+            anyhow::ensure!(
+                notice.matches_source(&manifest.source_sha256, raw),
+                "repeal notice does not match retained source bytes/header"
+            );
+        }
         if let Some(successor) = &notice.successor_instrument_id {
             anyhow::ensure!(
                 read_sibling_corpora(root, &config.instrument_id)?
@@ -4074,6 +4083,7 @@ mod tests {
                 .unwrap(),
             formal_source_sha256: "b".repeat(64),
             successor_instrument_id: None,
+            successor_clause: None,
             reviewer: "Fixture reviewer".to_owned(),
             captured_at: "2026-10-16T00:00:00Z".to_owned(),
             reviewer_supplied_at: None,

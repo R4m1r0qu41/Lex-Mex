@@ -138,6 +138,20 @@ fn append_outdated_reference_notices(output: &mut String, corpus: &Corpus, sourc
 
 fn append_source_repeal_notice(output: &mut String, corpus: &Corpus) {
     if let Some(notice) = &corpus.instrument.source_repeal_notice {
+        if let Some(clause) = &notice.successor_clause {
+            let _ = write!(
+                output,
+                "> **Instrumento abrogado — texto histórico.** «{}» (`{}`, instrumento sucesor `{}`).\n> Fuente formal: [Diario Oficial de la Federación]({}). No se infieren fechas ni efectos por disposición.\n\n",
+                notice.source_note,
+                clause.provision_id,
+                notice
+                    .successor_instrument_id
+                    .as_deref()
+                    .unwrap_or_default(),
+                notice.formal_publication_url
+            );
+            return;
+        }
         let _ = write!(
             output,
             "> **Ley abrogada — texto histórico.** {}\n> Fuente formal: [Diario Oficial de la Federación]({}). No se infieren fechas ni efectos por disposición.\n\n",
@@ -1480,6 +1494,7 @@ mod tests {
                 .unwrap(),
             formal_source_sha256: "b".repeat(64),
             successor_instrument_id: None,
+            successor_clause: None,
             reviewer: "Fixture reviewer".to_owned(),
             captured_at: "2026-10-16T00:00:00Z".to_owned(),
             reviewer_supplied_at: None,
@@ -1512,6 +1527,48 @@ mod tests {
         assert_eq!(
             corpus.provisions[0].review_status,
             ReviewStatus::NotAnalyzed
+        );
+    }
+    #[test]
+    fn successor_clause_notice_cites_abrogating_provision_not_a_header() {
+        let mut instrument = sample_instrument();
+        instrument.status = InstrumentStatus::Repealed;
+        instrument.source_repeal_notice = Some(lex_core::SourceRepealNotice {
+            source_note: "se abroga al Reglamento anterior".to_owned(),
+            source_sha256: instrument.source_sha256.clone(),
+            formal_publication_url: "https://dof.gob.mx/nota_detalle.php?codigo=fixture"
+                .parse()
+                .unwrap(),
+            formal_source_sha256: "b".repeat(64),
+            successor_instrument_id: Some("urn:lex-mx:federal:regulation:succ".to_owned()),
+            successor_clause: Some(lex_core::SuccessorAbrogationClause {
+                provision_id: "urn:lex-mx:federal:regulation:succ:transitory:segundo".to_owned(),
+                provision_text_sha256: "d".repeat(64),
+            }),
+            reviewer: "Fixture reviewer".to_owned(),
+            captured_at: "2026-10-16T00:00:00Z".to_owned(),
+            reviewer_supplied_at: None,
+            rationale: "Fixture only".to_owned(),
+            decision_source: "fixture".to_owned(),
+            decision_source_sha256: "c".repeat(64),
+        });
+        let corpus = Corpus {
+            instrument,
+            provisions: vec![sample_article("1")],
+            references: vec![],
+            terms: vec![],
+            term_usages: vec![],
+            amendment_references: vec![],
+            enactment_evidence: vec![],
+        };
+        let targets = link_targets(&[(&corpus, "lritf")]);
+        let terms = term_targets(&[(&corpus, "lritf")], &targets);
+        let index = super::markdown_index(&corpus, &targets, &terms, false);
+        assert!(
+            index.contains("Instrumento abrogado — texto histórico")
+                && index.contains("se abroga al Reglamento anterior")
+                && index.contains("succ:transitory:segundo")
+                && !index.contains("Ley abrogada")
         );
     }
 }

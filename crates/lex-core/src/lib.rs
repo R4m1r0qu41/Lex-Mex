@@ -569,6 +569,11 @@ pub struct SourceRepealNotice {
     pub formal_source_sha256: String,
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub successor_instrument_id: Option<String>,
+    /// Alternative evidence basis: the retained source carries no abrogation
+    /// header, so the notice binds to the abrogating provision of an in-corpus
+    /// successor instrument instead.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub successor_clause: Option<SuccessorAbrogationClause>,
     pub reviewer: String,
     pub captured_at: String,
     #[serde(default, skip_serializing_if = "Option::is_none")]
@@ -576,6 +581,18 @@ pub struct SourceRepealNotice {
     pub rationale: String,
     pub decision_source: String,
     pub decision_source_sha256: String,
+}
+
+/// Exact abrogating provision of the successor instrument, bound by canonical text hash.
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(deny_unknown_fields)]
+pub struct SuccessorAbrogationClause {
+    pub provision_id: String,
+    pub provision_text_sha256: String,
+}
+
+fn normalized_whitespace(text: &str) -> String {
+    text.split_whitespace().collect::<Vec<_>>().join(" ")
 }
 
 impl SourceRepealNotice {
@@ -593,10 +610,18 @@ impl SourceRepealNotice {
             || !(host == "dof.gob.mx"
                 || host.ends_with(".dof.gob.mx")
                 || host == "sidof.segob.gob.mx")
-            || self
-                .source_note
-                .strip_prefix("Ley Abrogada DOF ")
-                .is_none_or(|date| chrono::NaiveDate::parse_from_str(date, "%d-%m-%Y").is_err())
+            || match &self.successor_clause {
+                None => self
+                    .source_note
+                    .strip_prefix("Ley Abrogada DOF ")
+                    .is_none_or(|date| {
+                        chrono::NaiveDate::parse_from_str(date, "%d-%m-%Y").is_err()
+                    }),
+                Some(clause) => self
+                    .successor_instrument_id
+                    .as_ref()
+                    .is_none_or(|id| !clause.provision_id.starts_with(&format!("{id}:"))),
+            }
             || chrono::DateTime::parse_from_rfc3339(&self.captured_at).is_err()
             || self
                 .reviewer_supplied_at
@@ -611,6 +636,7 @@ impl SourceRepealNotice {
     #[must_use]
     pub fn matches_source(&self, source_hash: &str, raw: &str) -> bool {
         self.validate().is_ok()
+            && self.successor_clause.is_none()
             && self.source_sha256 == source_hash
             && raw
                 .split_whitespace()
@@ -623,6 +649,24 @@ impl SourceRepealNotice {
                         .collect::<Vec<_>>()
                         .join(" "),
                 )
+    }
+
+    /// Successor-clause basis: the successor corpus must hold the exact
+    /// abrogating provision, unchanged, and the note must be quoted from it.
+    #[must_use]
+    pub fn matches_successor(&self, source_hash: &str, successor: &Corpus) -> bool {
+        let Some(clause) = &self.successor_clause else {
+            return false;
+        };
+        self.validate().is_ok()
+            && self.source_sha256 == source_hash
+            && self.successor_instrument_id.as_deref() == Some(&successor.instrument.id)
+            && successor.provisions.iter().any(|p| {
+                p.id == clause.provision_id
+                    && evidence_sha256(&p.text) == clause.provision_text_sha256
+                    && normalized_whitespace(&p.text)
+                        .contains(&normalized_whitespace(&self.source_note))
+            })
     }
 }
 
@@ -1647,6 +1691,7 @@ mod publication_metadata_tests {
                 .unwrap(),
             formal_source_sha256: "b".repeat(64),
             successor_instrument_id: Some("urn:lex-mx:federal:statute:lmtr".to_owned()),
+            successor_clause: None,
             reviewer: "Fixture reviewer".to_owned(),
             captured_at: "2026-10-16T00:00:00Z".to_owned(),
             reviewer_supplied_at: None,
@@ -1668,5 +1713,126 @@ mod publication_metadata_tests {
             serialized.get("effective_from").is_none() && serialized.get("effective_to").is_none()
         );
         assert!(serialized.get("reviewer_supplied_at").is_none());
+        // Header-basis notices must not serialize the successor-clause field.
+        assert!(serialized.get("successor_clause").is_none());
+    }
+
+    fn successor_corpus_and_notice() -> (Corpus, SourceRepealNotice) {
+        const SUCCESSOR: &str = "urn:lex-mx:federal:regulation:succ";
+        let clause_text = "Con la entrada en vigor del presente Reglamento, se abroga al \
+            Reglamento anterior, publicado el 14 de enero de 1999, y sus reformas.";
+        let instrument: Instrument = serde_json::from_value(serde_json::json!({
+            "schema_version": SCHEMA_VERSION,
+            "id": SUCCESSOR,
+            "jurisdiction": "mx",
+            "level": "federal",
+            "instrument_type": "regulation",
+            "official_title": "Reglamento sucesor de prueba",
+            "short_name": "SUCC",
+            "operational_source": "camara_de_diputados",
+            "formal_publication_source": "dof",
+            "publication_date": "2026-09-04",
+            "latest_reform_date": null,
+            "retrieved_at": "2026-10-16T00:00:00Z",
+            "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Fixture.pdf",
+            "source_sha256": "e".repeat(64),
+            "extracted_text_sha256": "f".repeat(64),
+            "parser_version": "0.1.0",
+            "status": "in_force"
+        }))
+        .unwrap();
+        let provision: Provision = serde_json::from_value(serde_json::json!({
+            "schema_version": SCHEMA_VERSION,
+            "id": format!("{SUCCESSOR}:transitory:segundo"),
+            "instrument_id": SUCCESSOR,
+            "provision_type": "transitory",
+            "label": "Segundo",
+            "number": "SEGUNDO",
+            "heading_context": {},
+            "text": clause_text,
+            "publication_date": "2026-09-04",
+            "effective_from": null,
+            "effective_to": null,
+            "temporal_status": "unknown",
+            "temporal_basis": null,
+            "temporal_confidence": null,
+            "review_status": "not_analyzed"
+        }))
+        .unwrap();
+        let corpus = Corpus {
+            instrument,
+            provisions: vec![provision.clone()],
+            references: vec![],
+            terms: vec![],
+            term_usages: vec![],
+            amendment_references: vec![],
+            enactment_evidence: vec![],
+        };
+        let notice = SourceRepealNotice {
+            source_note: "se abroga al Reglamento anterior, publicado el 14 de enero de 1999"
+                .to_owned(),
+            source_sha256: "a".repeat(64),
+            formal_publication_url: "https://dof.gob.mx/nota_detalle.php?codigo=fixture"
+                .parse()
+                .unwrap(),
+            formal_source_sha256: "b".repeat(64),
+            successor_instrument_id: Some(SUCCESSOR.to_owned()),
+            successor_clause: Some(SuccessorAbrogationClause {
+                provision_id: provision.id,
+                provision_text_sha256: evidence_sha256(clause_text),
+            }),
+            reviewer: "Fixture reviewer".to_owned(),
+            captured_at: "2026-10-16T00:00:00Z".to_owned(),
+            reviewer_supplied_at: None,
+            rationale: "Fixture only; no effect date asserted".to_owned(),
+            decision_source: "fixture decision".to_owned(),
+            decision_source_sha256: "c".repeat(64),
+        };
+        (corpus, notice)
+    }
+
+    #[test]
+    fn successor_clause_notice_binds_exact_abrogating_provision() {
+        let (corpus, notice) = successor_corpus_and_notice();
+        assert!(notice.validate().is_ok());
+        assert!(notice.matches_successor(&"a".repeat(64), &corpus));
+        // The header basis never accepts a successor-clause notice, and vice versa.
+        assert!(!notice.matches_source(&"a".repeat(64), &notice.source_note));
+        let (_, header_only) = successor_corpus_and_notice();
+        let mut header_only = header_only;
+        header_only.successor_clause = None;
+        assert!(!header_only.matches_successor(&"a".repeat(64), &corpus));
+        // Fails closed on acquisition drift.
+        assert!(!notice.matches_successor(&"d".repeat(64), &corpus));
+        // Fails closed on changed provision text (hash drift).
+        let mut drifted = corpus.clone();
+        drifted.provisions[0].text.push_str(" Modificado.");
+        assert!(!notice.matches_successor(&"a".repeat(64), &drifted));
+        // Fails closed when the note is not quoted from the provision.
+        let mut unquoted = notice.clone();
+        unquoted.source_note = "se abroga otro reglamento".to_owned();
+        assert!(!unquoted.matches_successor(&"a".repeat(64), &corpus));
+        // Fails closed when the provision is missing or the successor is another instrument.
+        let mut missing = corpus.clone();
+        missing.provisions.clear();
+        assert!(!notice.matches_successor(&"a".repeat(64), &missing));
+        let mut other = corpus.clone();
+        other.instrument.id = "urn:lex-mx:federal:regulation:other".to_owned();
+        assert!(!notice.matches_successor(&"a".repeat(64), &other));
+        // Validation rejects a clause not owned by the declared successor or with no successor.
+        let mut foreign = notice.clone();
+        foreign.successor_clause.as_mut().unwrap().provision_id =
+            "urn:lex-mx:federal:regulation:other:transitory:segundo".to_owned();
+        assert!(foreign.validate().is_err());
+        let mut no_successor = notice.clone();
+        no_successor.successor_instrument_id = None;
+        assert!(no_successor.validate().is_err());
+        let mut bad_hash = notice;
+        bad_hash
+            .successor_clause
+            .as_mut()
+            .unwrap()
+            .provision_text_sha256 = "zz".to_owned();
+        assert!(bad_hash.validate().is_err());
     }
 }

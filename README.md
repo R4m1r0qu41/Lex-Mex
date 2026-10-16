@@ -17,8 +17,8 @@ Diputados and CNBV consolidated sources. See
 [`docs/project-status.md`](docs/project-status.md) for the current corpus
 totals and next work item, and the active
 [`cluster-2 plan`](docs/plans/cluster-2-federal-corpus-ingestion.md) for the
-authoritative ingestion inventory and recovery state. Those facts change with
-nearly every commit and are not duplicated here.
+authoritative ingestion inventory and recovery state. A dated snapshot of the
+totals follows below; it can lag the status file.
 
 Temporal analysis remains intentionally narrower than structural ingestion.
 The audited temporal corpus currently covers LRITF, `ifpe-dcg-2021`, and
@@ -26,7 +26,33 @@ The audited temporal corpus currently covers LRITF, `ifpe-dcg-2021`, and
 transitory SÉPTIMO. Newly normalized instruments stay `not_analyzed` until a
 separate schema-gated temporal pass is authorized: ordinary provisions carry
 `temporal_status: unknown`, while an express source-text repeal note is
-recorded deterministically as `repealed`.
+recorded deterministically as `repealed`; an instrument-level
+abrogation can also be recorded from the exact abrogating clause of an
+in-corpus successor instrument (`reg-lfmn`), never inferred.
+
+## Corpus status (snapshot 2026-10-16)
+
+| Measure | Count |
+|---|---:|
+| Instruments (laws, regulations, codes, DCGs) | 467 |
+| — `in_force` / `repealed` (historical: `lftr`, `reg-lfmn`) | 465 / 2 |
+| — Cámara de Diputados / CNBV DCGs / Secretaría de Salud / DOF sources | 455 / 10 / 1 / 1 |
+| Articles | 64,586 |
+| Original transitory provisions | 3,470 |
+| Annexes | 30 |
+| Reference edges | 27,429 |
+| — resolved / historical-target-unavailable / approved outdated | 27,423 / 5 / 1 |
+| Provisions `not_analyzed` / `machine_accepted` / `lawyer_verified` / `review_required` | 47,843 / 20,240 / 2 / 1 |
+| Provisions with temporal status `unknown` | 46,524 |
+| Generated Markdown files under `corpus/mx` (incl. NOMs) | 68,560 |
+| NOM standards (separate boundary, not counted as instruments) | 32 |
+| Current Cámara laws and regulations covered | 452 of 453 (`egdf` excluded) |
+
+Counts are computed from the canonical JSON in `corpus/mx/*/` (instrument,
+provision and reference records) and are a snapshot; `docs/project-status.md`
+is the authority and is refreshed at each checkpoint. Structural admission
+does not mean legal review: provisions in the 2026-10-15 admissions are
+`not_analyzed`, and the corpus-wide reverse-linking pass has not yet run.
 
 > [!IMPORTANT]
 > Lex-Mex is not an official publication, is not affiliated with the Mexican

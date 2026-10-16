@@ -171,12 +171,18 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-Review and commit (operator authorization needed) the 2026-10-13 working-tree
-changes: LFJS repair/admission and EC4 (four admitted, `lfiiedb` held). Then
-decide the `lfiiedb` modeling question and run bounded reverse linking for the
-five new instruments. Details: `docs/ingestion-difficulty-log.md`.
+(Updated 2026-10-16.) The structural first pass is complete: 467 instruments
+committed and pushed, 452 of 453 current Cámara rows covered (`egdf` excluded
+by operator decision; see `docs/federal-coverage-audit-2026-10-16.md`).
+Scope and obtain operator authorization for the corpus-wide reverse-linking
+pass across the 467 instruments, as a separate bounded plan. Open operator
+decisions: `reg-lfmn` currency (Cámara lists it abrogated 2026-09-04) and the
+`lfiiedb` law-versus-decree transitory modeling. Deferred DCGs stay out of
+scope. Details: `docs/ingestion-difficulty-log.md`.
 
 ## Progress
+
+- [x] (2026-10-16) Coverage audit against the live Cámara indexes: 452 of 453 current rows covered (`egdf` excluded); report `docs/federal-coverage-audit-2026-10-16.md`. Operator decisions: `reg-lfmn` abrogated (recorded via the new `successor_clause` repeal-notice basis, abrogated by `reg-lic-calidad` Transitory Segundo, DOF 2026-09-04; `repealed` instruments now `lftr` and `reg-lfmn`); `cfpc` stays in force pending its 2027-04-01 deadline. Refreshed README and `docs/project-status.md` totals (467 instruments, 64,586 articles, 3,470 transitories, 30 annexes, 27,429 reference edges). Local, uncommitted at the time of writing; no temporal model, no reverse relinking.
 
 - [x] (2026-10-13) Repaired the LFJS numeric-transitory defect (parser + validator + fixtures) and admitted `lfjs` (17 articles, 5 transitories, 1 reference). Normalized EC4: admitted `lfzee` (50/4/39 refs), `reg-lfzee` (146/4/64), `reg-lfiiedb` (320/12/39), `ltpcpimcp` (13/1/6) with audited baselines; `lfiiedb` held (nested law in enacting decree). Working tree 262 instruments, uncommitted; required gate passed (fmt, clippy, 164+ tests, lritf, ifpe-dcg-2021). No commit/push; no reverse relinking yet; no temporal/legal review.
 

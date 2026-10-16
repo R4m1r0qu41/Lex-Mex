@@ -1,0 +1,54 @@
+{
+  "audit": "federal-coverage-2026-10-16",
+  "repository_head": "25732f3ef58ab19d1965d5015d206e9d3c4fdd40",
+  "retrieved_at": "2026-10-16T05:15Z",
+  "sources": {
+    "https://www.diputados.gob.mx/LeyesBiblio/index.htm": {
+      "http_status": 200,
+      "sha256": "a0989ffc0be3b5abce4b5d7d9fb303e4989e033bc0825a339b46197b3553149e"
+    },
+    "https://www.diputados.gob.mx/LeyesBiblio/regla.htm": {
+      "http_status": 200,
+      "sha256": "290d5c3d842c6bda231c29bacb3cb05531e6071b82f2c93f9e47c49212b615ce"
+    }
+  },
+  "current_rows": {
+    "laws": 315,
+    "regulations": 138,
+    "total": 453
+  },
+  "matched": 452,
+  "unmatched": [
+    "egdf"
+  ],
+  "corpus_instruments": 467,
+  "corpus_not_on_current_list": [
+    "cfpc",
+    "cub-dcg-2005",
+    "cucb-dcg-2004",
+    "cue-dcg-2003",
+    "fi-dcg-2014",
+    "ifpe-dcg-2021",
+    "itf-dcg-2018",
+    "lftr",
+    "oaac-dcg-2009",
+    "reg-csps",
+    "reg-lfmn",
+    "reg-lgs-insumos",
+    "scap-dcg-2012",
+    "servinv-dcg-2013",
+    "socap-sofipo-dcg-2006"
+  ],
+  "flags": {
+    "reg-lfmn": "Resolved 2026-10-16: operator decision, recorded repealed via successor_clause basis (reg-lic-calidad transitory segundo; DOF nota 5797937)",
+    "cfpc": "Confirmed 2026-10-16 by operator: stays in force; abrogation deadline 2027-04-01, recheck before then",
+    "lfc": "Ley Federal de Cinematografía abrogated 2026-05-22; not in corpus"
+  },
+  "not_tested": [
+    "source currency",
+    "text completeness",
+    "legal effect",
+    "cross-instrument links"
+  ],
+  "corpus_changed": "reg-lfmn only (after audit): instrument.json status/notice and Markdown banner"
+}

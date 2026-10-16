@@ -59,6 +59,25 @@
       "type": "string",
       "pattern": "^urn:lex-mx:federal:[a-z]+:[a-z0-9-]+$"
     },
+    "successor_clause": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "provision_id",
+        "provision_text_sha256"
+      ],
+      "properties": {
+        "provision_id": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        "provision_text_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      }
+    },
     "decision_source_sha256": {
       "type": "string",
       "pattern": "^[a-f0-9]{64}$"

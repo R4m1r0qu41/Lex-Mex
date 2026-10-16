@@ -2914,3 +2914,18 @@ stays for review. Open: the date that ends force for an SCJN ruling (notice or
 DOF publication), the review-queue entry for unverified conditions, and a
 versioned model-output schema for the condition record.
 
+## 2026-10-16 — Instrument abrogation by successor clause; REG-LFMN; CFPC
+
+Decision (operator): record `reg-lfmn` as an abrogated historical instrument,
+and leave `cfpc` in force (its statutory abrogation deadline is 2027-04-01,
+to be rechecked). The retained Cámara text of `reg-lfmn` is unchanged and prints
+no abrogation header, so the header-based `source_repeal_notice` could not be
+used. `SourceRepealNotice` gained an optional `successor_clause` basis: the
+exact abrogating provision of an in-corpus successor instrument, bound by
+canonical text hash, with the notice's `source_note` quoted verbatim from it.
+Header-basis notices are unchanged byte-for-byte (`lftr`). The notice sets only
+instrument status `repealed`; no effect date and no provision-level state is
+inferred. Reviewer is the operator, not JRH. The validator change is flagged for
+Codex technical review. See
+`docs/federal-reg-lfmn-abrogation-decision-2026-10-16.md`.
+

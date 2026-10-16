@@ -1,14 +1,56 @@
 # Lex-Mex Project Status
 
-- **Status date:** 2026-10-09
+- **Status date:** 2026-10-16
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed instruments:** 257; EC2/EC3 data checkpoint `ebe688df2`
-- **Working-tree instruments:** 262; LFJS and four EC4 additions uncommitted (257 committed)
-- **Active ingestion batch:** EC3 complete; EC4 four admitted, `lfiiedb` held
-- **Next checkpoint:** commit review; `lfiiedb` modeling decision; reverse links
+- **Committed and pushed instruments:** 467 (`corpus/mx/*/instrument.json`); `main` at `25732f3ef`, matches `origin/main`. The 32 further `corpus/mx` directories are NOM standards, a separate boundary
+- **Federal structural first pass:** structurally complete. 452 of 453 current Cámara laws and regulations are in the corpus; the one gap is `egdf`, excluded by operator decision ([coverage audit](federal-coverage-audit-2026-10-16.md))
+- **Deferred:** three DCGs (`consar-cuf-dcg-2018`, `cusf-dcg-2014`, `pld-lic115-dcg-2009`), outside the Cámara universe
+- **Next checkpoint:** corpus-wide reverse-linking pass across the 467 instruments (not yet scoped or authorized); operator decisions on `reg-lfmn` currency and `lfiiedb` modeling
+- **Legal and temporal review:** none run on the 2026-10-15 admissions; provisions are `not_analyzed`
 - **Current legal reviewer:** JRH
 
-## Current integration checkpoint
+## 2026-10-15 admission checkpoint
+
+The structural first pass was completed on 2026-10-15 in four steps, each
+recorded in its own report: batch-01 source inspection
+([report](federal-source-inspection-batch-01-report.md)); bulk admission of
+225 instruments plus LAEM and LAMNI, 457 total
+([report](federal-bulk-admission-report-2026-10-15.md)); admission of ten
+originally held instruments, 467 total
+([report](federal-held-source-reprocessing-report-2026-10-15.md)); and the
+coverage audit ([report](federal-coverage-audit-2026-10-16.md)). Count
+baselines for the new adapters are unfrozen observations, not reviewed
+source counts. Existing instruments have not been reverse-relinked. No
+temporal model ran. The final native gate passed (265 tests, LRITF and
+IFPE validation).
+
+## Current corpus totals (2026-10-16)
+
+| Measure | Count |
+|---|---:|
+| Instruments (laws, regulations, codes, DCGs) | 467 |
+| — `in_force` / `repealed` (historical: `lftr`, `reg-lfmn`) | 465 / 2 |
+| — Cámara de Diputados / CNBV DCGs / Secretaría de Salud / DOF sources | 455 / 10 / 1 / 1 |
+| Articles | 64,586 |
+| Original transitory provisions | 3,470 |
+| Annexes | 30 |
+| Reference edges | 27,429 |
+| — resolved / historical-target-unavailable / approved outdated | 27,423 / 5 / 1 |
+| Provisions `not_analyzed` / `machine_accepted` / `lawyer_verified` / `review_required` | 47,843 / 20,240 / 2 / 1 |
+| Provisions with temporal status `unknown` | 46,524 |
+| Generated Markdown files under `corpus/mx` (incl. NOMs) | 68,560 |
+| NOM standards (separate boundary, not counted as instruments) | 32 |
+| Current Cámara laws and regulations covered | 452 of 453 (`egdf` excluded) |
+
+Totals are computed from canonical JSON by script, not by hand. The two
+`repealed` instruments are deliberate historical admissions: `lftr` (printed
+source header) and `reg-lfmn` (abrogated by Transitory Segundo of
+`reg-lic-calidad`, DOF 2026-09-04; operator decision recorded in
+[`federal-reg-lfmn-abrogation-decision-2026-10-16.md`](federal-reg-lfmn-abrogation-decision-2026-10-16.md)).
+`cfpc` remains `in_force`; the Cámara index reports a statutory abrogation
+deadline of 2027-04-01, to be rechecked before then.
+
+## Earlier integration checkpoint (2026-10-09, superseded)
 
 Fourteen source-reviewed instruments add 940 articles and 68 original transitories.
 Audited counts, official-title aliases and bounded graph checks are complete.
@@ -161,6 +203,7 @@ The cluster-2 first pass contains 326 instruments in 53 batches. Its state is:
 | Prepared, not yet admitted | 41 | 255 |
 | Explicitly blocked or held out | 3 | 6 |
 
+*(Superseded 2026-10-15: all prepared cluster-2 instruments except the deferred and excluded holds are now admitted; see Current corpus totals above.)*
 The remaining prepared cluster-2 workload is 255 instruments. `egdf`,
 `lif-2026`, and `pef-2026` remain explicit deferrals pending reviewer
 direction; `lcmopfih` and `lisipl` are held out per
