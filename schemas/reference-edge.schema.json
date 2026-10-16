@@ -57,15 +57,27 @@
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["qualifier_type", "text"],
+        "required": [
+          "qualifier_type",
+          "text"
+        ],
         "dependentRequired": {
-          "start_char": ["end_char"],
-          "end_char": ["start_char"]
+          "start_char": [
+            "end_char"
+          ],
+          "end_char": [
+            "start_char"
+          ]
         },
         "properties": {
           "qualifier_type": {
             "type": "string",
-            "enum": ["paragraph", "fraction", "subsection", "other"]
+            "enum": [
+              "paragraph",
+              "fraction",
+              "subsection",
+              "other"
+            ]
           },
           "text": {
             "type": "string",
@@ -93,11 +105,120 @@
     },
     "resolution_status": {
       "type": "string",
-      "enum": ["resolved", "unresolved", "historical_target_unavailable"]
+      "enum": [
+        "resolved",
+        "unresolved",
+        "historical_target_unavailable",
+        "historical_superseded_reference_outdated"
+      ]
     },
     "reference_form": {
       "type": "string",
-      "enum": ["direct", "range_expansion", "relative"]
+      "enum": [
+        "direct",
+        "range_expansion",
+        "relative"
+      ]
+    },
+    "outdated_reference_approval": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_provision_id",
+        "target_instrument_id",
+        "target_provision_id",
+        "source_span",
+        "reviewer",
+        "rationale",
+        "decision_source",
+        "start_char",
+        "end_char",
+        "source_text_sha256",
+        "source_sha256",
+        "captured_at",
+        "decision_source_sha256"
+      ],
+      "properties": {
+        "source_provision_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "target_instrument_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "target_provision_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source_span": {
+          "type": "string",
+          "minLength": 1
+        },
+        "reviewer": {
+          "type": "string",
+          "minLength": 1
+        },
+        "rationale": {
+          "type": "string",
+          "minLength": 1
+        },
+        "decision_source": {
+          "type": "string",
+          "minLength": 1
+        },
+        "start_char": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "end_char": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "source_text_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "source_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "captured_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "reviewer_supplied_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "decision_source_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      }
     }
-  }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "resolution_status": {
+            "const": "historical_superseded_reference_outdated"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "outdated_reference_approval"
+        ]
+      },
+      "else": {
+        "not": {
+          "required": [
+            "outdated_reference_approval"
+          ]
+        }
+      }
+    }
+  ]
 }

@@ -120,9 +120,36 @@ fn term_anchor(term: &lex_core::DefinedTerm) -> String {
     }
 }
 
+fn append_outdated_reference_notices(output: &mut String, corpus: &Corpus, source_id: &str) {
+    for edge in &corpus.references {
+        if edge.source_provision_id == source_id
+            && edge.resolution_status
+                == ReferenceResolutionStatus::HistoricalSupersededReferenceOutdated
+            && let Some(approval) = &edge.outdated_reference_approval
+        {
+            let _ = write!(
+                output,
+                "> Referencia histórica desactualizada: «{}» → `{}`. Se conserva la cita sin enlace vigente. {}\n\n",
+                edge.source_span, edge.target_provision_id, approval.rationale
+            );
+        }
+    }
+}
+
+fn append_source_repeal_notice(output: &mut String, corpus: &Corpus) {
+    if let Some(notice) = &corpus.instrument.source_repeal_notice {
+        let _ = write!(
+            output,
+            "> **Ley abrogada — texto histórico.** {}\n> Fuente formal: [Diario Oficial de la Federación]({}). No se infieren fechas ni efectos por disposición.\n\n",
+            notice.source_note, notice.formal_publication_url
+        );
+    }
+}
+
 fn evidence_kind_label(kind: &lex_core::EnactmentEvidenceKind) -> &'static str {
     match kind {
         lex_core::EnactmentEvidenceKind::Transitory => "Transitorio del decreto",
+        lex_core::EnactmentEvidenceKind::ContainingArticle => "Artículo del acto contenedor",
         lex_core::EnactmentEvidenceKind::ElidedSiblingArticle => {
             "Artículo omitido en la compilación"
         }
@@ -130,17 +157,34 @@ fn evidence_kind_label(kind: &lex_core::EnactmentEvidenceKind) -> &'static str {
 }
 
 fn enactment_markdown(corpus: &Corpus) -> String {
-    let mut output = String::from(
-        "# Evidencia del decreto expedidor\n\nEstos textos pertenecen al decreto, no a los transitorios propios del instrumento. No contienen una determinación temporal.\n\n",
-    );
+    let neutral = corpus
+        .enactment_evidence
+        .iter()
+        .any(|e| e.owner == lex_core::EnactmentOwner::ContainingAct);
+    let mut output = String::from(if neutral {
+        "# Evidencia del acto contenedor\n\nEstos textos pertenecen al acto contenedor, no a las disposiciones propias del instrumento. Se conserva el título formal del acto; no contienen una determinación temporal.\n\n"
+    } else {
+        "# Evidencia del decreto expedidor\n\nEstos textos pertenecen al decreto, no a los transitorios propios del instrumento. No contienen una determinación temporal.\n\n"
+    });
     for item in &corpus.enactment_evidence {
         let _ = write!(
             output,
-            "## {} — {}\n\nID: {}\n\nPropietario: decreto expedidor. Tipo: {}.\n\n{}\n\n",
+            "## {} — {}\n\nID: {}\n\nPropietario: {}. Tipo: {}.\n\n{}\n\n",
             item.number,
             item.source_heading,
             item.id,
-            evidence_kind_label(&item.kind),
+            if item.owner == lex_core::EnactmentOwner::ContainingAct {
+                "acto contenedor"
+            } else {
+                "decreto expedidor"
+            },
+            if item.owner == lex_core::EnactmentOwner::ContainingAct
+                && item.kind == lex_core::EnactmentEvidenceKind::Transitory
+            {
+                "Transitorio del acto contenedor"
+            } else {
+                evidence_kind_label(&item.kind)
+            },
             item.text
         );
     }
@@ -381,6 +425,8 @@ fn standard_markdown(
     provision: &Provision,
 ) -> String {
     let mut output = front_matter(corpus, provision);
+    append_source_repeal_notice(&mut output, corpus);
+    append_outdated_reference_notices(&mut output, corpus, &provision.id);
     if let Some(title) = &provision.heading_context.title {
         let _ = write!(output, "> {title}");
         if let Some(chapter) = &provision.heading_context.chapter {
@@ -428,6 +474,8 @@ fn obsidian_markdown(
     provision: &Provision,
 ) -> String {
     let mut output = front_matter(corpus, provision);
+    append_source_repeal_notice(&mut output, corpus);
+    append_outdated_reference_notices(&mut output, corpus, &provision.id);
     let _ = write!(
         output,
         "[[Corpus/{0}/{0}|← Índice {0}]]\n\n",
@@ -807,6 +855,35 @@ fn obsidian_review_queue(items: &[ReviewItem]) -> String {
     output
 }
 
+fn append_enactment_index(output: &mut String, corpus: &Corpus) {
+    if !corpus.enactment_evidence.is_empty() {
+        let neutral = corpus
+            .enactment_evidence
+            .iter()
+            .any(|e| e.owner == lex_core::EnactmentOwner::ContainingAct);
+        output.push_str(if neutral {
+            "\n## Evidencia del acto contenedor (no son disposiciones propias)\n\n"
+        } else {
+            "\n## Evidencia del decreto expedidor (no son transitorios propios)\n\n"
+        });
+        for item in &corpus.enactment_evidence {
+            let _ = writeln!(
+                output,
+                "- {} — {} ({}): {}",
+                item.number,
+                evidence_kind_label(&item.kind),
+                if neutral {
+                    "acto contenedor"
+                } else {
+                    "decreto"
+                },
+                item.source_heading
+            );
+        }
+        output.push_str("\nVéase enactment-evidence.json y decreto-expedicion.md.\n");
+    }
+}
+
 fn markdown_index(
     corpus: &Corpus,
     targets: &LinkTargets,
@@ -825,6 +902,7 @@ fn markdown_index(
         "# {}\n\nFuente operativa: [{}]({})\n\n",
         linked_title, corpus.instrument.operational_source, corpus.instrument.source_url
     );
+    append_source_repeal_notice(&mut output, corpus);
     if let Some(formal_url) = &corpus.instrument.formal_publication_url {
         let code = corpus
             .instrument
@@ -867,19 +945,7 @@ fn markdown_index(
             obsidian,
         ));
     }
-    if !corpus.enactment_evidence.is_empty() {
-        output.push_str("\n## Evidencia del decreto expedidor (no son transitorios propios)\n\n");
-        for item in &corpus.enactment_evidence {
-            let _ = writeln!(
-                output,
-                "- {} — {} (decreto): {}",
-                item.number,
-                evidence_kind_label(&item.kind),
-                item.source_heading
-            );
-        }
-        output.push_str("\nVéase enactment-evidence.json y decreto-expedicion.md.\n");
-    }
+    append_enactment_index(&mut output, corpus);
     let annexes: Vec<_> = corpus
         .provisions
         .iter()
@@ -1266,6 +1332,7 @@ mod tests {
             confidence: 1.0,
             resolution_status: ReferenceResolutionStatus::Resolved,
             reference_form: ReferenceForm::Direct,
+            outdated_reference_approval: None,
         }
     }
 
@@ -1296,6 +1363,7 @@ mod tests {
                 "429a8916f3b1aa7035c0b700e27cd132a3af1662b1661ac703b9b0c7847b25a6".to_owned(),
             parser_version: "0.1.0".to_owned(),
             status: InstrumentStatus::InForce,
+            source_repeal_notice: None,
             issuing_authorities: Vec::new(),
             formal_publication_url: None,
             formal_publication_code: None,
@@ -1399,5 +1467,51 @@ mod tests {
             assert!(!directory.join("decreto-expedicion.md").exists());
             assert!(!directory.join("enactment-evidence.json").exists());
         }
+    }
+    #[test]
+    fn historical_instrument_notice_is_visible_without_changing_provision_state() {
+        let mut instrument = sample_instrument();
+        instrument.status = InstrumentStatus::Repealed;
+        instrument.source_repeal_notice = Some(lex_core::SourceRepealNotice {
+            source_note: "Ley Abrogada DOF 16-07-2025".to_owned(),
+            source_sha256: instrument.source_sha256.clone(),
+            formal_publication_url: "https://www.dof.gob.mx/nota_detalle.php?codigo=fixture"
+                .parse()
+                .unwrap(),
+            formal_source_sha256: "b".repeat(64),
+            successor_instrument_id: None,
+            reviewer: "Fixture reviewer".to_owned(),
+            captured_at: "2026-10-16T00:00:00Z".to_owned(),
+            reviewer_supplied_at: None,
+            rationale: "Fixture only".to_owned(),
+            decision_source: "fixture".to_owned(),
+            decision_source_sha256: "c".repeat(64),
+        });
+        let corpus = Corpus {
+            instrument,
+            provisions: vec![sample_article("1")],
+            references: vec![],
+            terms: vec![],
+            term_usages: vec![],
+            amendment_references: vec![],
+            enactment_evidence: vec![],
+        };
+        let targets = link_targets(&[(&corpus, "lritf")]);
+        let terms = term_targets(&[(&corpus, "lritf")], &targets);
+        let index = super::markdown_index(&corpus, &targets, &terms, false);
+        assert!(
+            index.contains("Ley abrogada — texto histórico")
+                && index.contains("Ley Abrogada DOF 16-07-2025")
+        );
+        let article = super::standard_markdown(&corpus, &targets, &terms, &corpus.provisions[0]);
+        assert!(article.contains("Ley abrogada — texto histórico"));
+        assert_eq!(
+            corpus.provisions[0].temporal_status,
+            TemporalStatus::Unknown
+        );
+        assert_eq!(
+            corpus.provisions[0].review_status,
+            ReviewStatus::NotAnalyzed
+        );
     }
 }

@@ -1,0 +1,57 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcnbv:term:entidades-o-entidades-financieras-integrantes-del-sistema-financiero-mexicano",
+    "term": "Entidades o entidades financieras integrantes del Sistema Financiero Mexicano",
+    "instrument_id": "urn:lex-mx:federal:statute:lcnbv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:3",
+    "fraction": "IV",
+    "start_char": 239,
+    "end_char": 1604,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcnbv:term:federaciones",
+    "term": "Federaciones",
+    "instrument_id": "urn:lex-mx:federal:statute:lcnbv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:3",
+    "fraction": "V",
+    "start_char": 1604,
+    "end_char": 1755,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcnbv:term:fondo-de-proteccion",
+    "term": "Fondo de protección",
+    "instrument_id": "urn:lex-mx:federal:statute:lcnbv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:3",
+    "fraction": "VI",
+    "start_char": 1755,
+    "end_char": 2005,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcnbv:term:centros-cambiarios",
+    "term": "Centros cambiarios",
+    "instrument_id": "urn:lex-mx:federal:statute:lcnbv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:3",
+    "fraction": "VII",
+    "start_char": 2005,
+    "end_char": 2177,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcnbv:term:transmisores-de-dinero",
+    "term": "Transmisores de dinero",
+    "instrument_id": "urn:lex-mx:federal:statute:lcnbv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:3",
+    "fraction": "VIII",
+    "start_char": 2177,
+    "end_char": 2356,
+    "basis": "express_definition"
+  }
+]

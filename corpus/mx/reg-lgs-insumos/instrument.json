@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de Insumos para la Salud",
+  "short_name": "REG-LGS-INSUMOS",
+  "operational_source": "secretaria_de_salud",
+  "formal_publication_source": "dof",
+  "publication_date": "1998-02-04",
+  "latest_reform_date": "2021-05-31",
+  "retrieved_at": "2026-10-16T03:56:11.674080Z",
+  "source_url": "http://www.oag.salud.gob.mx/descargas/LV/56-31052021.pdf",
+  "source_sha256": "e56e8f67f42d7c34c2ed95938cb5f27011f44ab6cf97b653c7dc846e29512fd6",
+  "extracted_text_sha256": "07ed51145ee4233431fe3560419ba45450bc6a695b4aa4698473591663bc05cb",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

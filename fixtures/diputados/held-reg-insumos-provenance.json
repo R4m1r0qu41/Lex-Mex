@@ -1,0 +1,68 @@
+{
+  "sources": [
+    {
+      "slug": "reg-lgs-insumos",
+      "status": "official_compiled_source_acquired",
+      "retrieved_at": "2026-10-16T03:56:11Z",
+      "publisher": "Secretaría de Salud, Oficina del Abogado General",
+      "official_url": "http://www.oag.salud.gob.mx/descargas/LV/56-31052021.pdf",
+      "bytes_path": "reg-lgs-insumos/oag-http.pdf",
+      "headers_path": "reg-lgs-insumos/oag-http.pdf.headers",
+      "mime_type": "application/pdf",
+      "http_response": {
+        "status": 200,
+        "content_length": 1168853,
+        "last_modified": "Wed, 06 Mar 2024 17:13:02 GMT"
+      },
+      "source_sha256": "e56e8f67f42d7c34c2ed95938cb5f27011f44ab6cf97b653c7dc846e29512fd6",
+      "extracted_text_path": "reg-lgs-insumos/oag-http.txt",
+      "extracted_text_sha256": "72182d69f4c0232a7718a7bbcc2a21c1a934533162a031200c5d394ed002c512",
+      "historical_official_url": "https://www.salud.gob.mx/unidades/cdi/nom/compi/ris.htm",
+      "historical_bytes_path": "reg-lgs-insumos/salud-historical-ris.html",
+      "historical_sha256": "29450ea34eb1f09743b4533b863102e84d697511b5f0da7aa0336880d446d529",
+      "formal_dof_source_chain": [
+        {
+          "role": "original_publication",
+          "retrieved_at": "2026-10-16T04:38:24Z",
+          "index_url": "https://dof.gob.mx/index_111.php?day=04&month=02&year=1998",
+          "full_issue_url": "https://dof.gob.mx/abrirPDF.php?archivo=04021998-MAT.pdf&anio=1998&repo=repositorio/",
+          "bytes_path": "reg-lgs-insumos/dof-1998-full-issue-v3.pdf",
+          "headers_path": "reg-lgs-insumos/dof-1998-full-issue-v3.pdf.headers",
+          "mime_type": "application/pdf",
+          "http_response": {
+            "status": 200,
+            "content_length": 38211059
+          },
+          "source_sha256": "5b1e2ce8cbca2c90a003c3cfe33c782c5c86910ac16f9ec31a8e77c1a8df0942",
+          "verification": "The official index explicitly lists Reglamento de Insumos para la Salud. The issue is image-only; OCR of page 55 independently reads the instrument title, its opening decree text, and Artículos 1 and 2.",
+          "ocr_evidence_path": "reg-lgs-insumos/dof-1998-page-55.txt",
+          "ocr_evidence_sha256": "4070b78e991ce54842a58cfc21e5b536540846a18847d06bea45f929d7fe2fca"
+        },
+        {
+          "role": "latest_reform",
+          "retrieved_at": "2026-10-16T04:37:55Z",
+          "index_url": "https://dof.gob.mx/index_111.php?day=31&month=05&year=2021",
+          "detail_url": "https://dof.gob.mx/nota_detalle.php?codigo=5619841&fecha=31/05/2021",
+          "full_issue_url": "https://dof.gob.mx/abrirPDF.php?archivo=31052021-MAT.pdf&anio=2021&repo=repositorio/",
+          "bytes_path": "reg-lgs-insumos/dof-2021-full-issue-v3.pdf",
+          "headers_path": "reg-lgs-insumos/dof-2021-full-issue-v3.pdf.headers",
+          "mime_type": "application/pdf",
+          "http_response": {
+            "status": 200,
+            "content_length": 3112130
+          },
+          "source_sha256": "9098c02354db8bdf624824f709219821526b6bfa39bdda1e458f5c48238fa219",
+          "extracted_text_path": "reg-lgs-insumos/dof-2021-full-issue-v3.txt",
+          "extracted_text_sha256": "627e0ccdccabe870a9a6a577af0024a8cb92158d7ed1ddbccc207986ff1db88d",
+          "verification": "The official index and issue text identify the 2021 reform. The reform begins at official issue page 45 and its Transitorio Sexto completes at page 48."
+        }
+      ],
+      "publisher_pagination_observation": "The OAG compiled PDF has 77 physical pages, while its printed footer numbers run 1 through 77 of 78. Its final retained page completes the 2021 executive signature. This is a publisher-pagination discrepancy only; no missing-content conclusion is made.",
+      "retrieval_note": "The HTTPS OAG URL failed certificate validation; the exact official host succeeded via HTTP. Earlier DOF endpoint experiments that returned a portal error or redirect page are retained as failed discovery evidence; the full-issue DOF PDFs above are the verified formal sources."
+    }
+  ],
+  "fixture_raw_char_start": 202741,
+  "fixture_raw_char_end": 226400,
+  "fixture_sha256": "ab8ac7c2b4f559fce0991d0071c1bcbb0850d68d39f11927eb3b43b0bf3f15c6",
+  "selection": "Exact source suffix from first appended2008decree through2021closing signature. Printed pagination ends77de78; publisherPDF physically77pages; preserved source discrepancy, not inferred missing provisions."
+}

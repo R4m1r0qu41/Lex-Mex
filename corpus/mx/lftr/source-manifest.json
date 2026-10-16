@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lftr",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/abro/lftr/LFTR_abro.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/abro/lftr.htm",
+  "retrieved_at": "2026-10-16T03:56:02.167890Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1917910,
+  "etag": "\"1d43d6-6451f2176cb00\"",
+  "last_modified": "Thu, 04 Dec 2025 12:04:28 GMT",
+  "source_sha256": "a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a",
+  "extracted_text_sha256": "4aec027be9cb1e9b2fb928d3554a6698e2331e91ce29f1c84d2d1c22839d441e",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "0b944572a25db5fbb499f752bb06a3fec8cc9e93"
+}

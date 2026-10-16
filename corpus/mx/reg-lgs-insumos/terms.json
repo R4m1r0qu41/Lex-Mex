@@ -1,0 +1,200 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:acondicionamiento",
+    "term": "Acondicionamiento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "I",
+    "start_char": 57,
+    "end_char": 208,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:biodisponibilidad",
+    "term": "Biodisponibilidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "II",
+    "start_char": 208,
+    "end_char": 719,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:condicion-sanitaria",
+    "term": "Condición Sanitaria",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "III",
+    "start_char": 719,
+    "end_char": 1183,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:denominacion-distintiva",
+    "term": "Denominación Distintiva",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "IV",
+    "start_char": 1183,
+    "end_char": 1457,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:denominacion-generica",
+    "term": "Denominación Genérica",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "V",
+    "start_char": 1457,
+    "end_char": 1675,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:envase-primario",
+    "term": "Envase Primario",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "VI",
+    "start_char": 1675,
+    "end_char": 1780,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:envase-secundario",
+    "term": "Envase Secundario",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "VII",
+    "start_char": 1780,
+    "end_char": 2641,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:etiqueta",
+    "term": "Etiqueta",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "VIII",
+    "start_char": 2641,
+    "end_char": 2897,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:farmacopea-de-los-estados-unidos-mexicanos",
+    "term": "Farmacopea de los Estados Unidos Mexicanos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "IX",
+    "start_char": 2897,
+    "end_char": 3148,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:farmacopea-homeopatica-de-los-estados-unidos-mexicanos",
+    "term": "Farmacopea Homeopática de los Estados Unidos Mexicanos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "X",
+    "start_char": 3148,
+    "end_char": 3694,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:insumos",
+    "term": "Insumos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "XI",
+    "start_char": 3694,
+    "end_char": 3783,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "XII",
+    "start_char": 3783,
+    "end_char": 3820,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:lote",
+    "term": "Lote",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "XIII",
+    "start_char": 3820,
+    "end_char": 5043,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:medicamento-generico",
+    "term": "Medicamento Genérico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "XIV",
+    "start_char": 5043,
+    "end_char": 5809,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:molecula-nueva",
+    "term": "Molécula Nueva",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "XV",
+    "start_char": 5809,
+    "end_char": 6823,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:normas",
+    "term": "Normas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "XVI",
+    "start_char": 6823,
+    "end_char": 6871,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "XVII",
+    "start_char": 6871,
+    "end_char": 6918,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:term:tercero-autorizado",
+    "term": "Tercero Autorizado",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
+    "fraction": "XVIII",
+    "start_char": 6918,
+    "end_char": 7200,
+    "basis": "express_definition"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "sources": [
+    {
+      "slug": "pef-2026",
+      "status": "official_compiled_source_acquired",
+      "retrieved_at": "2026-10-16T03:56:02Z",
+      "publisher": "Cámara de Diputados",
+      "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf",
+      "bytes_path": "pef-2026/pef-2026-diputados.pdf",
+      "headers_path": "pef-2026/pef-2026-diputados.pdf.headers",
+      "mime_type": "application/pdf",
+      "http_response": {
+        "status": 200,
+        "content_length": 8624116,
+        "last_modified": "Mon, 24 Nov 2025 16:59:37 GMT",
+        "etag": "\"8397f4-6445a1696f040\""
+      },
+      "source_sha256": "02bf4543bd8e99d1bb980a3c513749114a6db35ee94a9ce8ef678cf73d95165b",
+      "formal_dof_url": "https://dof.gob.mx/2025/SHCP/PEF_2026.html",
+      "formal_dof_bytes_path": "pef-2026/pef-2026.html",
+      "formal_dof_sha256": "c648b151313dfcdb0b4611429154edc1d417191cb32f1af2913eeab107da5655",
+      "note": "The Diputados PDF is the preferred parser input. The retained official DOF HTML includes decree and annexes."
+    }
+  ],
+  "fixture_raw_char_start": 142478,
+  "fixture_raw_char_end": 159441,
+  "fixture_sha256": "1632cd1cb17450d4bee0b051c027748494c3625d14a0006a544119317e658cec",
+  "selection": "Exact contiguous extracted-text source range: Article39 through first1000chars of annex1. Annex4 table artifact diagnosis separately preserved in work receipt."
+}

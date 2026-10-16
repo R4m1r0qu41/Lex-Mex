@@ -43,12 +43,16 @@
       "const": "0.1.0"
     },
     "owner": {
-      "const": "containing_decree"
+      "enum": [
+        "containing_decree",
+        "containing_act"
+      ]
     },
     "kind": {
       "enum": [
         "transitory",
-        "elided_sibling_article"
+        "elided_sibling_article",
+        "containing_article"
       ]
     },
     "publication_date": {

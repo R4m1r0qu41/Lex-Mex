@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lif-2026",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026",
+  "short_name": "LIF-2026",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-11-07",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-16T03:53:34.440320Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf",
+  "source_sha256": "a305ca23bba43cddf2275067af29bb0ba35def7aedbbb0d3fc4557da9067a82c",
+  "extracted_text_sha256": "c48b5fb55fe3c119f2a0b7aa403d9c2f3ff10ac29a88ec2a11665cdb9d37311c",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

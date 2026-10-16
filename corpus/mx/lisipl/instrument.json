@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lisipl",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Impuesto sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (Ley que Establece, Reforma y Adiciona las Disposiciones Relativas a Diversos Impuestos)",
+  "short_name": "LISIPL",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1968-12-31",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-16T03:53:34.314421Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf",
+  "source_sha256": "432feb3abb31b584418b275a1e4d42015eb7a4f4a440d09d938a7d74a9c13113",
+  "extracted_text_sha256": "503bbf0cd691aa2b02eedce5dfa7d6326ddfe63bd20c15fa8492bf2860ca702a",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

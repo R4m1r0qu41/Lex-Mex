@@ -1,0 +1,20 @@
+{
+  "slug": "lgag",
+  "status": "official_compiled_source_acquired",
+  "retrieved_at": "2026-10-16T03:53:34Z",
+  "publisher": "Cámara de Diputados",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAg.pdf",
+  "bytes_path": "lgag/lgag.pdf",
+  "headers_path": "lgag/response.headers",
+  "mime_type": "application/pdf",
+  "http_response": {
+    "status": 200,
+    "content_length": 310018,
+    "last_modified": "Tue, 13 Jan 2026 16:22:12 GMT",
+    "etag": "\"4bb02-6484764d7b500\""
+  },
+  "source_sha256": "025de5f30e5b2b422e8654f9470ddefda03486c72a732489146cfe09065d5409",
+  "extracted_text_path": "lgag/lgag.txt",
+  "extracted_text_sha256": "dc49c3f5960dd8c623dfcf5ba132b781cae3e6883584cfa0fa3a1f942c36883c",
+  "note": "Reserved for Ley General de Aguas."
+}

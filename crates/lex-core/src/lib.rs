@@ -522,6 +522,7 @@ pub enum NumberingBasis {
 #[serde(rename_all = "snake_case")]
 pub enum EnactmentOwner {
     ContainingDecree,
+    ContainingAct,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
@@ -529,6 +530,8 @@ pub enum EnactmentOwner {
 pub enum EnactmentEvidenceKind {
     Transitory,
     ElidedSiblingArticle,
+    /// Substantive containing-act article, never a provision of the nested law.
+    ContainingArticle,
 }
 
 /// Source apparatus belonging to the enacting decree, not law provisions or
@@ -555,6 +558,74 @@ pub struct EnactmentEvidence {
     pub text_sha256: String,
 }
 
+/// Source-backed instrument-level historical notice. Publication wording is
+/// retained as evidence; no date or provision-level legal effect is inferred.
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(deny_unknown_fields)]
+pub struct SourceRepealNotice {
+    pub source_note: String,
+    pub source_sha256: String,
+    pub formal_publication_url: Url,
+    pub formal_source_sha256: String,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub successor_instrument_id: Option<String>,
+    pub reviewer: String,
+    pub captured_at: String,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub reviewer_supplied_at: Option<String>,
+    pub rationale: String,
+    pub decision_source: String,
+    pub decision_source_sha256: String,
+}
+
+impl SourceRepealNotice {
+    pub fn validate(&self) -> Result<(), String> {
+        let schema: serde_json::Value = serde_json::from_str(include_str!(
+            "../../../schemas/source-repeal-notice.schema.json"
+        ))
+        .map_err(|e| e.to_string())?;
+        jsonschema::validator_for(&schema)
+            .map_err(|e| e.to_string())?
+            .validate(&serde_json::to_value(self).map_err(|e| e.to_string())?)
+            .map_err(|e| e.to_string())?;
+        let host = self.formal_publication_url.host_str().unwrap_or("");
+        if self.formal_publication_url.scheme() != "https"
+            || !(host == "dof.gob.mx"
+                || host.ends_with(".dof.gob.mx")
+                || host == "sidof.segob.gob.mx")
+            || self
+                .source_note
+                .strip_prefix("Ley Abrogada DOF ")
+                .is_none_or(|date| chrono::NaiveDate::parse_from_str(date, "%d-%m-%Y").is_err())
+            || chrono::DateTime::parse_from_rfc3339(&self.captured_at).is_err()
+            || self
+                .reviewer_supplied_at
+                .as_ref()
+                .is_some_and(|t| chrono::DateTime::parse_from_rfc3339(t).is_err())
+        {
+            return Err("invalid source-backed repeal notice".to_owned());
+        }
+        Ok(())
+    }
+
+    #[must_use]
+    pub fn matches_source(&self, source_hash: &str, raw: &str) -> bool {
+        self.validate().is_ok()
+            && self.source_sha256 == source_hash
+            && raw
+                .split_whitespace()
+                .collect::<Vec<_>>()
+                .join(" ")
+                .contains(
+                    &self
+                        .source_note
+                        .split_whitespace()
+                        .collect::<Vec<_>>()
+                        .join(" "),
+                )
+    }
+}
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Instrument {
     pub schema_version: String,
@@ -576,6 +647,8 @@ pub struct Instrument {
     pub extracted_text_sha256: String,
     pub parser_version: String,
     pub status: InstrumentStatus,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub source_repeal_notice: Option<SourceRepealNotice>,
     /// Authorities that jointly issued the instrument. Empty for instruments
     /// recorded before joint-issuer support (for example, statutes enacted by
     /// Congress and recorded only through their operational publisher).
@@ -747,6 +820,8 @@ pub enum ReferenceResolutionStatus {
     /// represented by the current consolidated target corpus. The edge is
     /// retained as a historical citation, not treated as a live graph link.
     HistoricalTargetUnavailable,
+    /// An exact human-reviewed stale citation within a still-identified target.
+    HistoricalSupersededReferenceOutdated,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
@@ -759,6 +834,85 @@ pub enum ReferenceForm {
     /// document order, kept distinguishable from explicit numeric
     /// citations because the target is inferred from position, not named.
     Relative,
+}
+
+/// Opt-in source-backed boundaries after deterministic block normalization.
+/// Markers match block prefixes exactly and must occur once in the source.
+#[derive(Debug, Clone, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
+pub struct NestedInstrumentProfile {
+    pub containing_act_title: String,
+    pub wrapper_marker: String,
+    pub body_start_marker: String,
+    pub body_end_marker: String,
+    pub outer_transitory_marker: String,
+}
+
+/// Human authorization for one exact source citation, not a target-wide exemption.
+/// `captured_at` records software capture; it is not the reviewer's decision time.
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(deny_unknown_fields)]
+pub struct OutdatedReferenceApproval {
+    pub source_provision_id: String,
+    pub target_instrument_id: String,
+    pub target_provision_id: String,
+    pub source_span: String,
+    pub start_char: usize,
+    pub end_char: usize,
+    pub source_text_sha256: String,
+    pub source_sha256: String,
+    pub reviewer: String,
+    pub captured_at: String,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub reviewer_supplied_at: Option<String>,
+    pub rationale: String,
+    pub decision_source: String,
+    pub decision_source_sha256: String,
+}
+
+impl OutdatedReferenceApproval {
+    pub fn validate(&self) -> Result<(), String> {
+        let hash = |s: &str| {
+            s.len() == 64
+                && s.bytes()
+                    .all(|c| c.is_ascii_digit() || (b'a'..=b'f').contains(&c))
+        };
+        if self.source_provision_id.trim().is_empty()
+            || self.target_instrument_id.trim().is_empty()
+            || !self
+                .target_provision_id
+                .starts_with(&format!("{}:", self.target_instrument_id))
+            || self.source_span.is_empty()
+            || self.start_char >= self.end_char
+            || self.source_span.chars().count() != self.end_char - self.start_char
+            || !hash(&self.source_text_sha256)
+            || !hash(&self.source_sha256)
+            || self.reviewer.trim().is_empty()
+            || self.rationale.trim().is_empty()
+            || self.decision_source.trim().is_empty()
+            || !hash(&self.decision_source_sha256)
+            || chrono::DateTime::parse_from_rfc3339(&self.captured_at).is_err()
+            || self
+                .reviewer_supplied_at
+                .as_ref()
+                .is_some_and(|t| chrono::DateTime::parse_from_rfc3339(t).is_err())
+        {
+            return Err("invalid exact outdated-reference approval".to_owned());
+        }
+        Ok(())
+    }
+
+    #[must_use]
+    pub fn matches(&self, edge: &ReferenceEdge, source_text: &str) -> bool {
+        self.validate().is_ok()
+            && self.source_provision_id == edge.source_provision_id
+            && self.target_instrument_id == edge.target_instrument_id
+            && self.target_provision_id == edge.target_provision_id
+            && self.source_span == edge.source_span
+            && self.start_char == edge.start_char
+            && self.end_char == edge.end_char
+            && self.source_text_sha256 == evidence_sha256(source_text)
+    }
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -776,6 +930,8 @@ pub struct ReferenceEdge {
     pub confidence: f32,
     pub resolution_status: ReferenceResolutionStatus,
     pub reference_form: ReferenceForm,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub outdated_reference_approval: Option<OutdatedReferenceApproval>,
 }
 
 /// A term expressly defined by a glossary provision, anchored to the exact
@@ -855,13 +1011,50 @@ pub fn enactment_evidence_id(
     let unit = match kind {
         EnactmentEvidenceKind::Transitory => "transitory",
         EnactmentEvidenceKind::ElidedSiblingArticle => "elided",
+        EnactmentEvidenceKind::ContainingArticle => "containing-article",
     };
     format!("{instrument_id}:enactment:{date}:decree:{unit}:{key}")
 }
 
 /// Validate newly introduced publication/evidence boundaries without changing
 /// legacy exact-day records. New ranges never provide an arithmetic anchor.
+/// Stable neutral identity for a containing act whose formal legal kind is retained in its title.
+#[must_use]
+pub fn containing_act_evidence_id(
+    instrument_id: &str,
+    date: Option<NaiveDate>,
+    kind: &EnactmentEvidenceKind,
+    number: &str,
+) -> String {
+    enactment_evidence_id(instrument_id, date, kind, number).replace(":decree:", ":containing-act:")
+}
+
+fn validate_review_metadata(corpus: &Corpus) -> Result<(), String> {
+    if let Some(notice) = &corpus.instrument.source_repeal_notice {
+        notice.validate()?;
+        if corpus.instrument.status != InstrumentStatus::Repealed
+            || notice.source_sha256 != corpus.instrument.source_sha256
+            || notice.successor_instrument_id.as_deref() == Some(&corpus.instrument.id)
+        {
+            return Err("source-backed repeal notice/status identity mismatch".to_owned());
+        }
+    }
+    for edge in &corpus.references {
+        if let Some(approval) = &edge.outdated_reference_approval {
+            approval.validate()?;
+            if approval.source_sha256 != corpus.instrument.source_sha256 {
+                return Err(format!(
+                    "outdated-reference approval source hash mismatch: {}",
+                    edge.id
+                ));
+            }
+        }
+    }
+    Ok(())
+}
+
 pub fn validate_publication_metadata(corpus: &Corpus) -> Result<(), String> {
+    validate_review_metadata(corpus)?;
     let instrument = &corpus.instrument;
     match (instrument.publication_date, &instrument.publication_period) {
         (Some(_), None) => {}
@@ -928,12 +1121,21 @@ pub fn validate_publication_metadata(corpus: &Corpus) -> Result<(), String> {
             if !ids.insert(&item.id)
                 || item.instrument_id != instrument.id
                 || item.id
-                    != enactment_evidence_id(
-                        &instrument.id,
-                        instrument.publication_date,
-                        &item.kind,
-                        &item.number,
-                    )
+                    != if item.owner == EnactmentOwner::ContainingAct {
+                        containing_act_evidence_id(
+                            &instrument.id,
+                            instrument.publication_date,
+                            &item.kind,
+                            &item.number,
+                        )
+                    } else {
+                        enactment_evidence_id(
+                            &instrument.id,
+                            instrument.publication_date,
+                            &item.kind,
+                            &item.number,
+                        )
+                    }
                 || item.source_sha256 != instrument.source_sha256
                 || item.extracted_text_sha256 != instrument.extracted_text_sha256
                 || item.text_sha256 != evidence_sha256(&item.text)
@@ -1433,5 +1635,38 @@ mod publication_metadata_tests {
         let mut value = serde_json::to_value(item).unwrap();
         value["owner"] = "law".into();
         assert!(serde_json::from_value::<EnactmentEvidence>(value).is_err());
+    }
+    #[test]
+    fn source_repeal_notice_binds_header_and_acquisition_without_inventing_dates() {
+        let raw = include_str!("../../../fixtures/diputados/held-lftr-repeal-header.txt");
+        let notice = SourceRepealNotice {
+            source_note: "Ley Abrogada DOF 16-07-2025".to_owned(),
+            source_sha256: "a".repeat(64),
+            formal_publication_url: "https://www.dof.gob.mx/nota_detalle.php?codigo=fixture"
+                .parse()
+                .unwrap(),
+            formal_source_sha256: "b".repeat(64),
+            successor_instrument_id: Some("urn:lex-mx:federal:statute:lmtr".to_owned()),
+            reviewer: "Fixture reviewer".to_owned(),
+            captured_at: "2026-10-16T00:00:00Z".to_owned(),
+            reviewer_supplied_at: None,
+            rationale: "Fixture only; no effect date asserted".to_owned(),
+            decision_source: "fixture decision".to_owned(),
+            decision_source_sha256: "c".repeat(64),
+        };
+        assert!(notice.matches_source(&"a".repeat(64), raw));
+        assert!(!notice.matches_source(&"b".repeat(64), raw));
+        assert!(!notice.matches_source(&"a".repeat(64), "Ley vigente"));
+        let mut invalid = notice.clone();
+        invalid.formal_publication_url = "https://example.com/unofficial".parse().unwrap();
+        assert!(invalid.validate().is_err());
+        let mut invalid = notice.clone();
+        invalid.reviewer_supplied_at = Some("unknown".to_owned());
+        assert!(invalid.validate().is_err());
+        let serialized = serde_json::to_value(notice).unwrap();
+        assert!(
+            serialized.get("effective_from").is_none() && serialized.get("effective_to").is_none()
+        );
+        assert!(serialized.get("reviewer_supplied_at").is_none());
     }
 }

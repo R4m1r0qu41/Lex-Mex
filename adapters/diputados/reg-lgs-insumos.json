@@ -1,0 +1,30 @@
+{
+  "slug": "reg-lgs-insumos",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de Insumos para la Salud",
+  "short_name": "REG-LGS-INSUMOS",
+  "operational_source": "secretaria_de_salud",
+  "source_url": "http://www.oag.salud.gob.mx/descargas/LV/56-31052021.pdf",
+  "reference_url": "http://www.oag.salud.gob.mx/descargas/LV/56-31052021.pdf",
+  "publisher": "Secretaría de Salud, Oficina del Abogado General",
+  "publication_date": "1998-02-04",
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {
+    "1998-02-04": "https://dof.gob.mx/abrirPDF.php?archivo=04021998-MAT.pdf&anio=1998&repo=repositorio/",
+    "2021-05-31": "https://dof.gob.mx/abrirPDF.php?archivo=31052021-MAT.pdf&anio=2021&repo=repositorio/"
+  },
+  "latest_reform_date": "2021-05-31",
+  "header_lines": [
+    "REGLAMENTO DE INSUMOS PARA LA SALUD",
+    "OFICINA DEL ABOGADO GENERAL",
+    "Última reforma D. O. F. 31-05-2021",
+    "Publicado en el Diario Oficial de la Federación el 4 de febrero de 1998."
+  ],
+  "main_document_stop_markers": [
+    "DECRETO que reforma, adiciona y deroga diversas disposiciones del Reglamento de Insumos"
+  ]
+}

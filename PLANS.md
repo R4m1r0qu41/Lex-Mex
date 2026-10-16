@@ -66,6 +66,10 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Completed
 
+- [`docs/plans/federal-held-source-reprocessing.md`](docs/plans/federal-held-source-reprocessing.md)
+  — Ten cleared holds admitted locally (467 instruments); Sol review and native
+  checks passed; three DCGs deferred and EGDF excluded. Awaiting commit authority.
+
 - [`docs/plans/federal-bulk-structural-admission.md`](docs/plans/federal-bulk-structural-admission.md)
   — Admitted/exported 225 candidates; 457 instruments locally, 14 holds
   reported separately; GPT-6.1-Sol independent review accepted.

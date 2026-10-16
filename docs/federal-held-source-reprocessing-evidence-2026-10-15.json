@@ -1,0 +1,1687 @@
+{
+  "independent_review": {
+    "model": "GPT-6.1-Sol",
+    "status": "accepted",
+    "scope": "read-only actual source, corpus, approval and export inspection; final native gate separately passed",
+    "lisipl_header_correction": "accepted"
+  },
+  "summary": {
+    "baseline_commit": "0b944572a25db5fbb499f752bb06a3fec8cc9e93",
+    "baseline_instruments": 457,
+    "working_instruments": 467,
+    "admitted": 10,
+    "deferred": [
+      "consar-cuf-dcg-2018",
+      "cusf-dcg-2014",
+      "pld-lic115-dcg-2009"
+    ],
+    "excluded": [
+      "egdf"
+    ],
+    "errors": 0,
+    "existing_corpus_files_unchanged": 71343,
+    "new_provisions": {
+      "article": 1014,
+      "transitory": 88,
+      "annex": 1
+    },
+    "references": {
+      "resolved": 424,
+      "historical_superseded_reference_outdated": 1
+    },
+    "enactment_evidence": {
+      "elided_sibling_article": 2,
+      "transitory": 71,
+      "containing_article": 6
+    },
+    "markdown_files": 1118,
+    "warnings": {
+      "counts_not_frozen": 20,
+      "non_numeric_article": 42,
+      "historical_superseded_reference_outdated": 1
+    },
+    "pef_printed_annex_sections": 38,
+    "pef_canonical_annex_containers": 1,
+    "pef_table_citation_unlinked": true,
+    "temporal_model_run": false,
+    "existing_reverse_relink_performed": false,
+    "commit_or_push": false,
+    "native_gate": {
+      "fmt": "passed",
+      "clippy": "passed",
+      "workspace_tests_passed": 265,
+      "workspace_tests_failed": 0,
+      "lritf": "valid;145/11/126;0issues",
+      "ifpe": "valid;59/4/113;0issues"
+    },
+    "binary_sha256": "32f70f11e50f8910c6c8055bb963f11bf7132ac6df3c66910d4a59b4b3a8d294"
+  },
+  "cases": [
+    {
+      "slug": "lga",
+      "source_manifest": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:statute:lga",
+        "operational_source": "camara_de_diputados",
+        "formal_publication_source": "dof",
+        "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+        "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGA.pdf",
+        "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lga.htm",
+        "retrieved_at": "2026-10-16T03:53:34.410967Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "content_length": 591615,
+        "etag": "\"906ff-64501c560c040\"",
+        "last_modified": "Wed, 03 Dec 2025 01:02:49 GMT",
+        "source_sha256": "2f931111ab2745aa5a3b2ef0a99dc5beaf73d78f7674f2d90b4462319c1fc688",
+        "extracted_text_sha256": "ce6946becb8658c439f86490f4912a510ab3718ca89c80726b6913efa05cd8d4",
+        "extraction_tool": "pdftotext version 26.09.0",
+        "parser_version": "0.1.0",
+        "schema_version_used": "0.1.0",
+        "resulting_git_commit": "0b944572a25db5fbb499f752bb06a3fec8cc9e93"
+      },
+      "validation": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:statute:lga",
+        "valid": true,
+        "article_count": 123,
+        "transitory_count": 17,
+        "reference_count": 20,
+        "issues": [
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no article-count baseline frozen; parse found 123 articles",
+            "provision_id": null
+          },
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no transitory-count baseline frozen; parse found 17 transitories",
+            "provision_id": null
+          }
+        ]
+      },
+      "provision_count": 140,
+      "enactment_counts": {},
+      "reform_evidence_count": 8,
+      "tree_sha256": "850a4fbcac031c26a3dc07a2b3676771b68a145ad46fa9ff922b2572a36b9fd2",
+      "files": 149,
+      "markdown": 141,
+      "review_states": [
+        "not_analyzed"
+      ],
+      "temporal_states": [
+        "unknown"
+      ]
+    },
+    {
+      "slug": "lgag",
+      "source_manifest": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:statute:lgag",
+        "operational_source": "camara_de_diputados",
+        "formal_publication_source": "dof",
+        "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+        "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAg.pdf",
+        "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgag.htm",
+        "retrieved_at": "2026-10-16T03:53:34.334825Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "content_length": 310018,
+        "etag": "\"4bb02-6484764d7b500\"",
+        "last_modified": "Tue, 13 Jan 2026 16:22:12 GMT",
+        "source_sha256": "025de5f30e5b2b422e8654f9470ddefda03486c72a732489146cfe09065d5409",
+        "extracted_text_sha256": "af8c144abecdda696d9ead7bd38dcfd4f45d06a4e8de8d989b72b42a50275102",
+        "extraction_tool": "pdftotext version 26.09.0",
+        "parser_version": "0.1.0",
+        "schema_version_used": "0.1.0",
+        "resulting_git_commit": "0b944572a25db5fbb499f752bb06a3fec8cc9e93"
+      },
+      "validation": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:statute:lgag",
+        "valid": true,
+        "article_count": 45,
+        "transitory_count": 2,
+        "reference_count": 2,
+        "issues": [
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no article-count baseline frozen; parse found 45 articles",
+            "provision_id": null
+          },
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no transitory-count baseline frozen; parse found 2 transitories",
+            "provision_id": null
+          }
+        ]
+      },
+      "provision_count": 47,
+      "enactment_counts": {
+        "elided_sibling_article": 1,
+        "transitory": 3
+      },
+      "reform_evidence_count": 0,
+      "tree_sha256": "3084e3f25568ed5dd78dd9aa8e2bd537cf89b16cdc4bd2715ad227eda69e497b",
+      "files": 59,
+      "markdown": 49,
+      "review_states": [
+        "not_analyzed"
+      ],
+      "temporal_states": [
+        "unknown"
+      ]
+    },
+    {
+      "slug": "lif-2026",
+      "source_manifest": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:statute:lif-2026",
+        "operational_source": "camara_de_diputados",
+        "formal_publication_source": "dof",
+        "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+        "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf",
+        "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lif-2026.htm",
+        "retrieved_at": "2026-10-16T03:53:34.440320Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "content_length": 756083,
+        "etag": "\"b8973-64344d9bad080\"",
+        "last_modified": "Mon, 10 Nov 2025 22:14:10 GMT",
+        "source_sha256": "a305ca23bba43cddf2275067af29bb0ba35def7aedbbb0d3fc4557da9067a82c",
+        "extracted_text_sha256": "c48b5fb55fe3c119f2a0b7aa403d9c2f3ff10ac29a88ec2a11665cdb9d37311c",
+        "extraction_tool": "pdftotext version 26.09.0",
+        "parser_version": "0.1.0",
+        "schema_version_used": "0.1.0",
+        "resulting_git_commit": "0b944572a25db5fbb499f752bb06a3fec8cc9e93"
+      },
+      "validation": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:statute:lif-2026",
+        "valid": true,
+        "article_count": 34,
+        "transitory_count": 30,
+        "reference_count": 31,
+        "issues": [
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no article-count baseline frozen; parse found 34 articles",
+            "provision_id": null
+          },
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no transitory-count baseline frozen; parse found 30 transitories",
+            "provision_id": null
+          }
+        ]
+      },
+      "provision_count": 64,
+      "enactment_counts": {},
+      "reform_evidence_count": 0,
+      "tree_sha256": "7a8934e4a4580e3dc64f953a41d3b6d0f5c6fad7adb5a059434c34a5ef473586",
+      "files": 73,
+      "markdown": 65,
+      "review_states": [
+        "not_analyzed"
+      ],
+      "temporal_states": [
+        "unknown"
+      ]
+    },
+    {
+      "slug": "pef-2026",
+      "source_manifest": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:other:pef-2026",
+        "operational_source": "camara_de_diputados",
+        "formal_publication_source": "dof",
+        "publisher": "Cámara de Diputados",
+        "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf",
+        "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf",
+        "retrieved_at": "2026-10-16T03:56:02.924723Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "content_length": 8624116,
+        "etag": "\"8397f4-6445a1696f040\"",
+        "last_modified": "Mon, 24 Nov 2025 16:59:37 GMT",
+        "source_sha256": "02bf4543bd8e99d1bb980a3c513749114a6db35ee94a9ce8ef678cf73d95165b",
+        "extracted_text_sha256": "b855516f1b69457a671ca160f8805735e96350e4f0f8c98a7b1e5d9b332e6788",
+        "extraction_tool": "pdftotext version 26.09.0",
+        "parser_version": "0.1.0",
+        "schema_version_used": "0.1.0",
+        "resulting_git_commit": "0b944572a25db5fbb499f752bb06a3fec8cc9e93"
+      },
+      "validation": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:other:pef-2026",
+        "valid": true,
+        "article_count": 39,
+        "transitory_count": 16,
+        "reference_count": 39,
+        "issues": [
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no article-count baseline frozen; parse found 39 articles",
+            "provision_id": null
+          },
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no transitory-count baseline frozen; parse found 16 transitories",
+            "provision_id": null
+          }
+        ]
+      },
+      "provision_count": 56,
+      "enactment_counts": {},
+      "reform_evidence_count": 0,
+      "tree_sha256": "703ad38a9e08de3c10dc8f69431d86fd5b5f8f40aac8f902f9162b6eb6f48b1e",
+      "files": 65,
+      "markdown": 57,
+      "review_states": [
+        "not_analyzed"
+      ],
+      "temporal_states": [
+        "unknown"
+      ]
+    },
+    {
+      "slug": "lftr",
+      "source_manifest": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:statute:lftr",
+        "operational_source": "camara_de_diputados",
+        "formal_publication_source": "dof",
+        "publisher": "Cámara de Diputados",
+        "official_url": "https://www.diputados.gob.mx/LeyesBiblio/abro/lftr/LFTR_abro.pdf",
+        "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/abro/lftr.htm",
+        "retrieved_at": "2026-10-16T03:56:02.167890Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "content_length": 1917910,
+        "etag": "\"1d43d6-6451f2176cb00\"",
+        "last_modified": "Thu, 04 Dec 2025 12:04:28 GMT",
+        "source_sha256": "a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a",
+        "extracted_text_sha256": "4aec027be9cb1e9b2fb928d3554a6698e2331e91ce29f1c84d2d1c22839d441e",
+        "extraction_tool": "pdftotext version 26.09.0",
+        "parser_version": "0.1.0",
+        "schema_version_used": "0.1.0",
+        "resulting_git_commit": "0b944572a25db5fbb499f752bb06a3fec8cc9e93"
+      },
+      "validation": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:statute:lftr",
+        "valid": true,
+        "article_count": 324,
+        "transitory_count": 0,
+        "reference_count": 106,
+        "issues": [
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no article-count baseline frozen; parse found 324 articles",
+            "provision_id": null
+          },
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no transitory-count baseline frozen; parse found 0 transitories",
+            "provision_id": null
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lftr:article:180-bis"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lftr:article:180-ter"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lftr:article:180-quater"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lftr:article:190-bis"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lftr:article:218-bis"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lftr:article:307-bis"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lftr:article:307-ter"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lftr:article:307-quater"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lftr:article:307-quintus"
+          }
+        ]
+      },
+      "provision_count": 324,
+      "enactment_counts": {
+        "elided_sibling_article": 1,
+        "transitory": 45
+      },
+      "reform_evidence_count": 88,
+      "tree_sha256": "389569f0b91107c43db4151b6c731ee274ed105d061f9822cff1f87e20cea75b",
+      "files": 336,
+      "markdown": 326,
+      "review_states": [
+        "not_analyzed"
+      ],
+      "temporal_states": [
+        "unknown"
+      ]
+    },
+    {
+      "slug": "reg-lgs-insumos",
+      "source_manifest": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+        "operational_source": "secretaria_de_salud",
+        "formal_publication_source": "dof",
+        "publisher": "Secretaría de Salud, Oficina del Abogado General",
+        "official_url": "http://www.oag.salud.gob.mx/descargas/LV/56-31052021.pdf",
+        "reference_url": "http://www.oag.salud.gob.mx/descargas/LV/56-31052021.pdf",
+        "retrieved_at": "2026-10-16T03:56:11.674080Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "content_length": 1168853,
+        "etag": null,
+        "last_modified": "Wed, 06 Mar 2024 17:13:02 GMT",
+        "source_sha256": "e56e8f67f42d7c34c2ed95938cb5f27011f44ab6cf97b653c7dc846e29512fd6",
+        "extracted_text_sha256": "07ed51145ee4233431fe3560419ba45450bc6a695b4aa4698473591663bc05cb",
+        "extraction_tool": "pdftotext version 26.09.0",
+        "parser_version": "0.1.0",
+        "schema_version_used": "0.1.0",
+        "resulting_git_commit": "0b944572a25db5fbb499f752bb06a3fec8cc9e93"
+      },
+      "validation": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+        "valid": true,
+        "article_count": 255,
+        "transitory_count": 6,
+        "reference_count": 132,
+        "issues": [
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no article-count baseline frozen; parse found 255 articles",
+            "provision_id": null
+          },
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no transitory-count baseline frozen; parse found 6 transitories",
+            "provision_id": null
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:24-bis"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:81-bis"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:125-bis"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:130-bis-1"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:130-bis-2"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:130-bis-3"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:130-bis-4"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:138-bis"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:152-bis"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:161-bis"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:167-bis"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:177-bis-1"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:177-bis-2"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:177-bis-3"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:177-bis-4"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:177-bis-5"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:190-bis-1"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:190-bis-2"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:190-bis-3"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:190-bis-4"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:190-bis-5"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:190-bis-6"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:190-bis-7"
+          }
+        ]
+      },
+      "provision_count": 261,
+      "enactment_counts": {},
+      "reform_evidence_count": 29,
+      "tree_sha256": "453dea98189e26b138e9d8b44a352d126c47b4655ed4265fef172a715731abc9",
+      "files": 270,
+      "markdown": 262,
+      "review_states": [
+        "not_analyzed"
+      ],
+      "temporal_states": [
+        "repealed",
+        "unknown"
+      ]
+    },
+    {
+      "slug": "lcnbv",
+      "source_manifest": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:statute:lcnbv",
+        "operational_source": "camara_de_diputados",
+        "formal_publication_source": "dof",
+        "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+        "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf",
+        "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcnbv.htm",
+        "retrieved_at": "2026-10-16T03:53:34.405566Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "content_length": 505030,
+        "etag": "\"7b4c6-5e07c26425080\"",
+        "last_modified": "Thu, 02 Jun 2022 19:38:26 GMT",
+        "source_sha256": "b3b4605f2abb4d33a705c6f5569ba5eaa45a41158305ac588ad4e275705798d8",
+        "extracted_text_sha256": "3db2ae8195f2f94fd15a3afe1713afc8cd1d102525708deacf8a1360c2ab0669",
+        "extraction_tool": "pdftotext version 26.09.0",
+        "parser_version": "0.1.0",
+        "schema_version_used": "0.1.0",
+        "resulting_git_commit": "0b944572a25db5fbb499f752bb06a3fec8cc9e93"
+      },
+      "validation": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:statute:lcnbv",
+        "valid": true,
+        "article_count": 31,
+        "transitory_count": 11,
+        "reference_count": 50,
+        "issues": [
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no article-count baseline frozen; parse found 31 articles",
+            "provision_id": null
+          },
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no transitory-count baseline frozen; parse found 11 transitories",
+            "provision_id": null
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lcnbv:article:5-bis"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lcnbv:article:5-bis-1"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lcnbv:article:5-bis-2"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lcnbv:article:6-bis"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lcnbv:article:9-bis"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lcnbv:article:9-bis-1"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lcnbv:article:9-bis-2"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lcnbv:article:9-bis-3"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lcnbv:article:9-bis-4"
+          },
+          {
+            "severity": "warning",
+            "code": "non_numeric_article",
+            "message": "article suffix requires ordering review",
+            "provision_id": "urn:lex-mx:federal:statute:lcnbv:article:18-bis"
+          },
+          {
+            "severity": "warning",
+            "code": "historical_superseded_reference_outdated",
+            "message": "reviewed stale citation retained without a live link: urn:lex-mx:federal:statute:lmv:article:16-bis-7",
+            "provision_id": "urn:lex-mx:federal:statute:lcnbv:article:15"
+          }
+        ]
+      },
+      "provision_count": 42,
+      "enactment_counts": {},
+      "reform_evidence_count": 41,
+      "tree_sha256": "281a9df560034c6a2a8f0d86a4c2bc4fc5586c4ad61ba78a4aa96501e46811bb",
+      "files": 51,
+      "markdown": 43,
+      "review_states": [
+        "not_analyzed"
+      ],
+      "temporal_states": [
+        "unknown"
+      ]
+    },
+    {
+      "slug": "lcmopfih",
+      "source_manifest": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:statute:lcmopfih",
+        "operational_source": "camara_de_diputados",
+        "formal_publication_source": "dof",
+        "publisher": "Cámara de Diputados",
+        "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf",
+        "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcmopfih.htm",
+        "retrieved_at": "2026-10-16T03:53:34.310619Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "content_length": 285878,
+        "etag": "\"45cb6-58a31466afac0\"",
+        "last_modified": "Fri, 31 May 2019 16:12:03 GMT",
+        "source_sha256": "c8a4080aaf0b6f80cf9c50f8085d899e2ba68bbac8568ab12743dddf65cfa742",
+        "extracted_text_sha256": "c1081fe719c33d3a4564e25265d64d1afb121d6731402462aeb2e70888906535",
+        "extraction_tool": "pdftotext version 26.09.0",
+        "parser_version": "0.1.0",
+        "schema_version_used": "0.1.0",
+        "resulting_git_commit": "0b944572a25db5fbb499f752bb06a3fec8cc9e93"
+      },
+      "validation": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:statute:lcmopfih",
+        "valid": true,
+        "article_count": 15,
+        "transitory_count": 5,
+        "reference_count": 11,
+        "issues": [
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no article-count baseline frozen; parse found 15 articles",
+            "provision_id": null
+          },
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no transitory-count baseline frozen; parse found 5 transitories",
+            "provision_id": null
+          }
+        ]
+      },
+      "provision_count": 20,
+      "enactment_counts": {
+        "containing_article": 2,
+        "transitory": 8
+      },
+      "reform_evidence_count": 0,
+      "tree_sha256": "a05ee81a24b2239d21db3e5f0be39743e95fb7490f79a7cc45070007acc35cbf",
+      "files": 32,
+      "markdown": 22,
+      "review_states": [
+        "not_analyzed"
+      ],
+      "temporal_states": [
+        "unknown"
+      ]
+    },
+    {
+      "slug": "lisipl",
+      "source_manifest": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:statute:lisipl",
+        "operational_source": "camara_de_diputados",
+        "formal_publication_source": "dof",
+        "publisher": "Cámara de Diputados",
+        "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf",
+        "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lisipl.htm",
+        "retrieved_at": "2026-10-16T03:53:34.314421Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "content_length": 263324,
+        "etag": "\"4049c-5763e8da4f000\"",
+        "last_modified": "Wed, 19 Sep 2018 19:38:40 GMT",
+        "source_sha256": "432feb3abb31b584418b275a1e4d42015eb7a4f4a440d09d938a7d74a9c13113",
+        "extracted_text_sha256": "503bbf0cd691aa2b02eedce5dfa7d6326ddfe63bd20c15fa8492bf2860ca702a",
+        "extraction_tool": "pdftotext version 26.09.0",
+        "parser_version": "0.1.0",
+        "schema_version_used": "0.1.0",
+        "resulting_git_commit": "0b944572a25db5fbb499f752bb06a3fec8cc9e93"
+      },
+      "validation": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:statute:lisipl",
+        "valid": true,
+        "article_count": 7,
+        "transitory_count": 0,
+        "reference_count": 3,
+        "issues": [
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no article-count baseline frozen; parse found 7 articles",
+            "provision_id": null
+          },
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no transitory-count baseline frozen; parse found 0 transitories",
+            "provision_id": null
+          }
+        ]
+      },
+      "provision_count": 7,
+      "enactment_counts": {
+        "containing_article": 2,
+        "transitory": 7
+      },
+      "reform_evidence_count": 0,
+      "tree_sha256": "5d0c250e6bdd455b15b18ec8b770af26609d04ebe5a3b444fe0ddb55cf369725",
+      "files": 19,
+      "markdown": 9,
+      "review_states": [
+        "not_analyzed"
+      ],
+      "temporal_states": [
+        "unknown"
+      ]
+    },
+    {
+      "slug": "lfiiedb",
+      "source_manifest": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+        "operational_source": "dof",
+        "formal_publication_source": "dof",
+        "publisher": "Diario Oficial de la Federación",
+        "official_url": "https://dof.gob.mx/abrirPDF.php?anio=2026&archivo=09042026-VES.pdf&repo=",
+        "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfiiedb.htm",
+        "retrieved_at": "2026-10-16T03:53:46.596135Z",
+        "http_status": 200,
+        "content_type": "application/pdf",
+        "content_length": 2684082,
+        "etag": null,
+        "last_modified": null,
+        "source_sha256": "7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e",
+        "extracted_text_sha256": "b5d370fa68085a8634556ba273ef09addd54ef84f6a2c04da078cf1ceec30039",
+        "extraction_tool": "pdftotext version 26.09.0",
+        "parser_version": "0.1.0",
+        "schema_version_used": "0.1.0",
+        "resulting_git_commit": "0b944572a25db5fbb499f752bb06a3fec8cc9e93"
+      },
+      "validation": {
+        "schema_version": "0.1.0",
+        "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+        "valid": true,
+        "article_count": 141,
+        "transitory_count": 1,
+        "reference_count": 31,
+        "issues": [
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no article-count baseline frozen; parse found 141 articles",
+            "provision_id": null
+          },
+          {
+            "severity": "warning",
+            "code": "counts_not_frozen",
+            "message": "no transitory-count baseline frozen; parse found 1 transitories",
+            "provision_id": null
+          }
+        ]
+      },
+      "provision_count": 142,
+      "enactment_counts": {
+        "containing_article": 2,
+        "transitory": 8
+      },
+      "reform_evidence_count": 0,
+      "tree_sha256": "16f38d824fef82e0cea7e9c9a4594d44ee01a71c3a0dda56afbff54433ca0b06",
+      "files": 154,
+      "markdown": 144,
+      "review_states": [
+        "not_analyzed"
+      ],
+      "temporal_states": [
+        "unknown"
+      ]
+    }
+  ],
+  "operator_decisions": {
+    "artifact": "docs/federal-held-source-review-2026-10-15.md",
+    "sha256": "8f323c260a89118cab09e8d04dbe3a98c7fb93d35522a1937b8e9433fb6cabb3",
+    "egdf_followup": "Exclude from corpus"
+  },
+  "prior_machine_proposals": {
+    "lcnbv": [
+      {
+        "schema_version": "0.1.0",
+        "id": "urn:lex-mx:federal:statute:lcnbv:article:15:reference:741-749:16-bis-7:direct",
+        "source_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:15",
+        "source_span": "16 Bis 7",
+        "start_char": 741,
+        "end_char": 749,
+        "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+        "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:16-bis-7",
+        "qualifiers": [],
+        "basis": "express_cross_reference",
+        "confidence": 1.0,
+        "resolution_status": "unresolved",
+        "reference_form": "direct"
+      }
+    ],
+    "lftr_instrument": {
+      "schema_version": "0.1.0",
+      "id": "urn:lex-mx:federal:statute:lftr",
+      "jurisdiction": "mx",
+      "level": "federal",
+      "instrument_type": "statute",
+      "official_title": "Ley Federal de Telecomunicaciones y Radiodifusión",
+      "short_name": "LFTR",
+      "operational_source": "camara_de_diputados",
+      "formal_publication_source": "dof",
+      "publication_date": "2014-07-14",
+      "latest_reform_date": "2025-11-14",
+      "retrieved_at": "2026-10-16T03:56:02.167890Z",
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/abro/lftr/LFTR_abro.pdf",
+      "source_sha256": "a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a",
+      "extracted_text_sha256": "4aec027be9cb1e9b2fb928d3554a6698e2331e91ce29f1c84d2d1c22839d441e",
+      "parser_version": "0.1.0",
+      "status": "in_force"
+    }
+  },
+  "source_intake": {
+    "schema_version": "held-source-intake-v1",
+    "retrieved_at": "2026-10-16T03:54:18Z",
+    "scope": "Source evidence only. No corpus, adapter, or tracked-file changes are represented here.",
+    "metadata_corrections": [
+      {
+        "field": "sources[*].retrieved_at",
+        "previous_values": "2026-10-15T21:53:34Z through 2026-10-15T21:56:11Z",
+        "corrected_values": "2026-10-16T03:53:34Z through 2026-10-16T03:56:11Z",
+        "reason": "The previous values used local America/Mexico_City clock time but labeled it UTC. Corrected from each retained byte file's st_mtime with datetime.fromtimestamp(st_mtime, timezone.utc).isoformat(). Source bytes and hashes did not change."
+      }
+    ],
+    "sources": [
+      {
+        "slug": "lcmopfih",
+        "status": "official_compiled_source_acquired",
+        "retrieved_at": "2026-10-16T03:53:34Z",
+        "publisher": "Cámara de Diputados",
+        "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf",
+        "bytes_path": "lcmopfih/lcmopfih.pdf",
+        "headers_path": "lcmopfih/response.headers",
+        "mime_type": "application/pdf",
+        "http_response": {
+          "status": 200,
+          "content_length": 285878,
+          "last_modified": "Fri, 31 May 2019 16:12:03 GMT",
+          "etag": "\"45cb6-58a31466afac0\""
+        },
+        "source_sha256": "c8a4080aaf0b6f80cf9c50f8085d899e2ba68bbac8568ab12743dddf65cfa742",
+        "extracted_text_path": "lcmopfih/lcmopfih.txt",
+        "extracted_text_sha256": "1f7725a294b6b4c106c8e87d21adfe44deb0692bc9c2bd00f02250008ae85073",
+        "note": "Nested-law source; parser boundary evidence sent to reviewer."
+      },
+      {
+        "slug": "lisipl",
+        "status": "official_compiled_source_acquired",
+        "retrieved_at": "2026-10-16T03:53:34Z",
+        "publisher": "Cámara de Diputados",
+        "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf",
+        "bytes_path": "lisipl/lisipl.pdf",
+        "headers_path": "lisipl/response.headers",
+        "mime_type": "application/pdf",
+        "http_response": {
+          "status": 200,
+          "content_length": 263324,
+          "last_modified": "Wed, 19 Sep 2018 19:38:40 GMT",
+          "etag": "\"4049c-5763e8da4f000\""
+        },
+        "source_sha256": "432feb3abb31b584418b275a1e4d42015eb7a4f4a440d09d938a7d74a9c13113",
+        "extracted_text_path": "lisipl/lisipl.txt",
+        "extracted_text_sha256": "33e942a610dd00a231de4269715f8e9ac1989fd4c0d55d214385309858001593",
+        "note": "Nested-tax source; its sole transitory section is outer-instrument evidence."
+      },
+      {
+        "slug": "lfiiedb",
+        "status": "official_formal_source_acquired",
+        "retrieved_at": "2026-10-16T03:53:46Z",
+        "publisher": "Diario Oficial de la Federación",
+        "official_url": "https://dof.gob.mx/abrirPDF.php?anio=2026&archivo=09042026-VES.pdf&repo=",
+        "bytes_path": "lfiiedb/lfiiedb-enacting-decree.pdf",
+        "headers_path": "lfiiedb/lfiiedb-enacting-decree.pdf.headers",
+        "mime_type": "application/pdf",
+        "http_response": {
+          "status": 200,
+          "content_length": 2684082
+        },
+        "source_sha256": "7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e",
+        "extracted_text_path": "lfiiedb/lfiiedb-enacting-decree.txt",
+        "extracted_text_sha256": "b2cb34526555f542f64fbdf0aa25227c9926df896f116d6e5df6221cf040539f",
+        "prior_unmanifested_copy_path": "lfiiedb/previous-lfiiedb.pdf",
+        "note": "Formal enacting decree. The separately retained prior PDF differs in pagination and bytes; it is preserved for comparison, not replaced."
+      },
+      {
+        "slug": "lcnbv",
+        "status": "official_compiled_source_acquired",
+        "retrieved_at": "2026-10-16T03:53:34Z",
+        "publisher": "Cámara de Diputados",
+        "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf",
+        "bytes_path": "lcnbv/lcnbv.pdf",
+        "headers_path": "lcnbv/response.headers",
+        "mime_type": "application/pdf",
+        "http_response": {
+          "status": 200,
+          "content_length": 505030,
+          "last_modified": "Thu, 02 Jun 2022 19:38:26 GMT",
+          "etag": "\"7b4c6-5e07c26425080\""
+        },
+        "source_sha256": "b3b4605f2abb4d33a705c6f5569ba5eaa45a41158305ac588ad4e275705798d8",
+        "extracted_text_path": "lcnbv/lcnbv.txt",
+        "extracted_text_sha256": "8842498c5e21fccfaeb8b70d6922e34f73a586f309d94bfa7fd26be5cc2e27e7",
+        "note": "The locally retained PDF is byte-identical to this acquisition; its stale-reference policy remains separate."
+      },
+      {
+        "slug": "lif-2026",
+        "status": "official_compiled_source_acquired",
+        "retrieved_at": "2026-10-16T03:53:34Z",
+        "publisher": "Cámara de Diputados",
+        "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf",
+        "bytes_path": "lif-2026/lif-2026.pdf",
+        "headers_path": "lif-2026/response.headers",
+        "mime_type": "application/pdf",
+        "http_response": {
+          "status": 200,
+          "content_length": 756083,
+          "last_modified": "Mon, 10 Nov 2025 22:14:10 GMT",
+          "etag": "\"b8973-64344d9bad080\""
+        },
+        "source_sha256": "a305ca23bba43cddf2275067af29bb0ba35def7aedbbb0d3fc4557da9067a82c",
+        "extracted_text_path": "lif-2026/lif-2026.txt",
+        "extracted_text_sha256": "eac15d9acee0c4602d6dec306fa01d9815c5f8d74f305c59ae7d10b9e064bd2d"
+      },
+      {
+        "slug": "pef-2026",
+        "status": "official_compiled_source_acquired",
+        "retrieved_at": "2026-10-16T03:56:02Z",
+        "publisher": "Cámara de Diputados",
+        "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf",
+        "bytes_path": "pef-2026/pef-2026-diputados.pdf",
+        "headers_path": "pef-2026/pef-2026-diputados.pdf.headers",
+        "mime_type": "application/pdf",
+        "http_response": {
+          "status": 200,
+          "content_length": 8624116,
+          "last_modified": "Mon, 24 Nov 2025 16:59:37 GMT",
+          "etag": "\"8397f4-6445a1696f040\""
+        },
+        "source_sha256": "02bf4543bd8e99d1bb980a3c513749114a6db35ee94a9ce8ef678cf73d95165b",
+        "formal_dof_url": "https://dof.gob.mx/2025/SHCP/PEF_2026.html",
+        "formal_dof_bytes_path": "pef-2026/pef-2026.html",
+        "formal_dof_sha256": "c648b151313dfcdb0b4611429154edc1d417191cb32f1af2913eeab107da5655",
+        "note": "The Diputados PDF is the preferred parser input. The retained official DOF HTML includes decree and annexes."
+      },
+      {
+        "slug": "lga",
+        "status": "official_compiled_source_acquired",
+        "retrieved_at": "2026-10-16T03:53:34Z",
+        "publisher": "Cámara de Diputados",
+        "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGA.pdf",
+        "bytes_path": "lga/lga.pdf",
+        "headers_path": "lga/response.headers",
+        "mime_type": "application/pdf",
+        "http_response": {
+          "status": 200,
+          "content_length": 591615,
+          "last_modified": "Wed, 03 Dec 2025 01:02:49 GMT",
+          "etag": "\"906ff-64501c560c040\""
+        },
+        "source_sha256": "2f931111ab2745aa5a3b2ef0a99dc5beaf73d78f7674f2d90b4462319c1fc688",
+        "extracted_text_path": "lga/lga.txt",
+        "extracted_text_sha256": "4e4e5e99b9e3d71e12f508e2c939a7d76155cf1c92b11a02f6e164c36aed6075",
+        "note": "Reserved for Ley General de Archivos."
+      },
+      {
+        "slug": "lgag",
+        "status": "official_compiled_source_acquired",
+        "retrieved_at": "2026-10-16T03:53:34Z",
+        "publisher": "Cámara de Diputados",
+        "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAg.pdf",
+        "bytes_path": "lgag/lgag.pdf",
+        "headers_path": "lgag/response.headers",
+        "mime_type": "application/pdf",
+        "http_response": {
+          "status": 200,
+          "content_length": 310018,
+          "last_modified": "Tue, 13 Jan 2026 16:22:12 GMT",
+          "etag": "\"4bb02-6484764d7b500\""
+        },
+        "source_sha256": "025de5f30e5b2b422e8654f9470ddefda03486c72a732489146cfe09065d5409",
+        "extracted_text_path": "lgag/lgag.txt",
+        "extracted_text_sha256": "dc49c3f5960dd8c623dfcf5ba132b781cae3e6883584cfa0fa3a1f942c36883c",
+        "note": "Reserved for Ley General de Aguas."
+      },
+      {
+        "slug": "lftr",
+        "status": "official_historical_and_abrogation_sources_acquired",
+        "retrieved_at": "2026-10-16T03:56:02Z",
+        "publisher": "Cámara de Diputados",
+        "official_url": "https://www.diputados.gob.mx/LeyesBiblio/abro/lftr/LFTR_abro.pdf",
+        "bytes_path": "lftr/lftr-diputados-abro.pdf",
+        "headers_path": "lftr/lftr-diputados-abro.pdf.headers",
+        "mime_type": "application/pdf",
+        "http_response": {
+          "status": 200,
+          "content_length": 1917910,
+          "last_modified": "Thu, 04 Dec 2025 12:04:28 GMT",
+          "etag": "\"1d43d6-6451f2176cb00\""
+        },
+        "source_sha256": "a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a",
+        "abrogated_catalog_url": "https://www.diputados.gob.mx/LeyesBiblio/abro/lftr.htm",
+        "abrogated_catalog_bytes_path": "lftr/lftr-diputados-abro-index.html",
+        "abrogated_catalog_sha256": "cf3a26d7e89aa61590e57ce71704acd19851b1bbec98ee99d2cb08419c5d8d49",
+        "original_url": "https://dof.gob.mx/nota_detalle.php?codigo=5352323&fecha=14/07/2014",
+        "original_bytes_path": "lftr/lftr-original-dof.html",
+        "original_sha256": "f5a95cf666480af82d02f3094388cf7b396b6b3ee0d25263fdff89ba7a2e2604",
+        "abrogation_url": "https://dof.gob.mx/nota_detalle.php?codigo=5763167&fecha=16/07/2025",
+        "abrogation_bytes_path": "lftr/lftr-abrogation-dof.html",
+        "abrogation_sha256": "f95535f4f240ad1dd03e2e6addd333fddc0c8729a88aeb30a810f3f8d85fbc41",
+        "note": "The Diputados abrogated-law PDF is the preferred parser input. The retained formal DOF enactment and abrogation pages support its historical provenance."
+      },
+      {
+        "slug": "reg-lgs-insumos",
+        "status": "official_compiled_source_acquired",
+        "retrieved_at": "2026-10-16T03:56:11Z",
+        "publisher": "Secretaría de Salud, Oficina del Abogado General",
+        "official_url": "http://www.oag.salud.gob.mx/descargas/LV/56-31052021.pdf",
+        "bytes_path": "reg-lgs-insumos/oag-http.pdf",
+        "headers_path": "reg-lgs-insumos/oag-http.pdf.headers",
+        "mime_type": "application/pdf",
+        "http_response": {
+          "status": 200,
+          "content_length": 1168853,
+          "last_modified": "Wed, 06 Mar 2024 17:13:02 GMT"
+        },
+        "source_sha256": "e56e8f67f42d7c34c2ed95938cb5f27011f44ab6cf97b653c7dc846e29512fd6",
+        "extracted_text_path": "reg-lgs-insumos/oag-http.txt",
+        "extracted_text_sha256": "72182d69f4c0232a7718a7bbcc2a21c1a934533162a031200c5d394ed002c512",
+        "historical_official_url": "https://www.salud.gob.mx/unidades/cdi/nom/compi/ris.htm",
+        "historical_bytes_path": "reg-lgs-insumos/salud-historical-ris.html",
+        "historical_sha256": "29450ea34eb1f09743b4533b863102e84d697511b5f0da7aa0336880d446d529",
+        "formal_dof_source_chain": [
+          {
+            "role": "original_publication",
+            "retrieved_at": "2026-10-16T04:38:24Z",
+            "index_url": "https://dof.gob.mx/index_111.php?day=04&month=02&year=1998",
+            "full_issue_url": "https://dof.gob.mx/abrirPDF.php?archivo=04021998-MAT.pdf&anio=1998&repo=repositorio/",
+            "bytes_path": "reg-lgs-insumos/dof-1998-full-issue-v3.pdf",
+            "headers_path": "reg-lgs-insumos/dof-1998-full-issue-v3.pdf.headers",
+            "mime_type": "application/pdf",
+            "http_response": {
+              "status": 200,
+              "content_length": 38211059
+            },
+            "source_sha256": "5b1e2ce8cbca2c90a003c3cfe33c782c5c86910ac16f9ec31a8e77c1a8df0942",
+            "verification": "The official index explicitly lists Reglamento de Insumos para la Salud. The issue is image-only; OCR of page 55 independently reads the instrument title, its opening decree text, and Artículos 1 and 2.",
+            "ocr_evidence_path": "reg-lgs-insumos/dof-1998-page-55.txt",
+            "ocr_evidence_sha256": "4070b78e991ce54842a58cfc21e5b536540846a18847d06bea45f929d7fe2fca"
+          },
+          {
+            "role": "latest_reform",
+            "retrieved_at": "2026-10-16T04:37:55Z",
+            "index_url": "https://dof.gob.mx/index_111.php?day=31&month=05&year=2021",
+            "detail_url": "https://dof.gob.mx/nota_detalle.php?codigo=5619841&fecha=31/05/2021",
+            "full_issue_url": "https://dof.gob.mx/abrirPDF.php?archivo=31052021-MAT.pdf&anio=2021&repo=repositorio/",
+            "bytes_path": "reg-lgs-insumos/dof-2021-full-issue-v3.pdf",
+            "headers_path": "reg-lgs-insumos/dof-2021-full-issue-v3.pdf.headers",
+            "mime_type": "application/pdf",
+            "http_response": {
+              "status": 200,
+              "content_length": 3112130
+            },
+            "source_sha256": "9098c02354db8bdf624824f709219821526b6bfa39bdda1e458f5c48238fa219",
+            "extracted_text_path": "reg-lgs-insumos/dof-2021-full-issue-v3.txt",
+            "extracted_text_sha256": "627e0ccdccabe870a9a6a577af0024a8cb92158d7ed1ddbccc207986ff1db88d",
+            "verification": "The official index and issue text identify the 2021 reform. The reform begins at official issue page 45 and its Transitorio Sexto completes at page 48."
+          }
+        ],
+        "publisher_pagination_observation": "The OAG compiled PDF has 77 physical pages, while its printed footer numbers run 1 through 77 of 78. Its final retained page completes the 2021 executive signature. This is a publisher-pagination discrepancy only; no missing-content conclusion is made.",
+        "retrieval_note": "The HTTPS OAG URL failed certificate validation; the exact official host succeeded via HTTP. Earlier DOF endpoint experiments that returned a portal error or redirect page are retained as failed discovery evidence; the full-issue DOF PDFs above are the verified formal sources."
+      },
+      {
+        "slug": "egdf",
+        "status": "excluded_by_operator",
+        "publisher": "Diario Oficial de la Federación",
+        "source_bytes_path": "egdf/egdf-dof.html",
+        "source_sha256": "36f912d4082e107dcbde023deb700d41914348b89cd4a5200cdb354fdcac642f",
+        "note": "A historical DOF page was retrieved before the operator instructed corpus exclusion. No further acquisition or processing is authorized."
+      }
+    ]
+  },
+  "implementation_sha256": {
+    "crates/.DS_Store": "e6cf270499afee0d50363ee791eb6649b774ffad6c4b7940bfd776ae16116732",
+    "crates/lex-export/Cargo.toml": "845f818a57cd6b02fb0621d7b0e359eeab2480eacbff6922982e0efb8a9188d6",
+    "crates/lex-export/.DS_Store": "dbaa3a575d6d544477c1df452c24b9cd432d9955fac8e6037c70530244b3b4be",
+    "crates/lex-parse/Cargo.toml": "3ea44efb8ea52b35709ab256c30feafbad753382b2ef3865a05e1b71f8f820f3",
+    "crates/lex-parse/.DS_Store": "b5434dafa2f6864b9d98af610947a53474e204cac0fb3fe34cbd05ab216d6486",
+    "crates/lex-core/Cargo.toml": "babb0eabd4d5fe91d4185d85115a78372eae8352ccac7653fad4d72a0024d70f",
+    "crates/lex-cli/Cargo.toml": "acf80d63ffa3983553a18130ddbbcf3c857ac51564ae6a0643196a8d09ccfdd8",
+    "crates/lex-cli/.DS_Store": "5bf9612ab6288396b10b6b439242e4800abbb69419dc0d5da733cb79decc4dc2",
+    "crates/lex-source/Cargo.toml": "6640214f0d5786fbb0d9a04b29d0f744628cb44d55dadc4c81bfcfe0a0f86fc7",
+    "crates/lex-source/.DS_Store": "ae21e70c92f8d5c10f670e552f2b696d446250c57201af671ce21dfe3618f855",
+    "crates/lex-source/src/lib.rs": "6ceb5c35b3a10e25df1f361d5bfe78c20d4824ea69a7d931a22b8f762ca4fa72",
+    "crates/lex-cli/tests/temporal_boundaries.rs": "3db13deaae0bfbddc013d6d47f9fdebf0d807174c5ff5bd32e6b00050b8d9146",
+    "crates/lex-cli/src/standards.rs": "a5182342588727c1a5323488cbf4bf37103dd648a12a779dad82bc44a47f30e3",
+    "crates/lex-cli/src/bundle.rs": "13cd498216e80fe61ce81673c0973c4a0322824abff92b4271aab83295caec96",
+    "crates/lex-cli/src/review_packets.rs": "6bda028c5ea312bfa99d678779230d74564e7e2a105fedcdb0c5159ed5878fa6",
+    "crates/lex-cli/src/main.rs": "87a6d80793b4c05b4ecaff5004e582d42f1ad54ea932a8295d102b34a731dc31",
+    "crates/lex-core/src/lib.rs": "6c80cebc576eeb1d639a8dddc15df268315a227db8f855c0c971959447eb04c3",
+    "crates/lex-core/src/temporal.rs": "fb92c23659855b1778378128c636deb97dd9a33990c2e31a09a4deb3b921f41b",
+    "crates/lex-parse/src/standard.rs": "1fd930997bf1e278233e8ba6424c35e500de414f7b481a0aae159b28d68f994a",
+    "crates/lex-parse/src/dcg.rs": "22ef3d83100a9f47da942c714d8034978cdce86489ad9d7accd9ebdd17a6756d",
+    "crates/lex-parse/src/itf.rs": "7cfb7a9bce0d47fb232d34f4863720bec47b47efb6a8575c465ab58b22dfdb5a",
+    "crates/lex-parse/src/html.rs": "91d3970fada2e7abd3888f276cb713abcbb752bb5d07b0ea5a35e4c84d412348",
+    "crates/lex-parse/src/diputados.rs": "150ab5c984bfbd8e5abea3d17e017950bb04e1caa0f630c17726a869b42f9a96",
+    "crates/lex-parse/src/lib.rs": "3328d67e9d7f0434ef3e5c5f73e463e5e2f42527d0e423e6ad645bd3508ff9d4",
+    "crates/lex-parse/src/temporal_derive.rs": "57d977ebea0807e381971ff7466d293806d2fead4c6d54798c899ad4c8735cba",
+    "crates/lex-parse/src/terms.rs": "c2018f00da8e1e010bb4b2bf1c70635cc0acffb3360d3c90946d7aaa0b078810",
+    "crates/lex-parse/src/labels.rs": "b45f8855dd232fa028c14734a20e1867484943e554a80813ff40363b840bbd4e",
+    "crates/lex-parse/src/furniture_audit.rs": "2fae785f55600d0589e9478cd49a7add9f13573bf08655f8d05b1418b1c3e93a",
+    "crates/lex-export/src/lib.rs": "6548c9be6a415f417ed05e0e7d457a090970de28306b90b5ef2ad2f727e189ac",
+    "schemas/standard-validation.schema.json": "0eece14d866e2505b8aebd870f110a1f0dff720240e64a05d6d39f4739dfb19a",
+    "schemas/source-manifest.schema.json": "2cfdc43991dd2e6ba22cb2f0d0ed87523dba0242786ff6bd29555b7f1668dd95",
+    "schemas/external-review-submission.schema.json": "5a621047c0792b05403f3c0663f07ce4dc508b573145712dd159b41afdc23d23",
+    "schemas/temporal-model-output-v2.schema.json": "693be7f8c6f2a468dc9b4c716918f2c0a407cb2adb095611983cb5619688c3ec",
+    "schemas/review-packet.schema.json": "0e0271f3f703bc621100c2ccdd565f6cab01cd5dbba97a3294378723eb198564",
+    "schemas/publication-period.schema.json": "b3dfb146fbe5117204e8df806ca5d794917bdb124e3363ce10f73ccbd165ca52",
+    "schemas/enactment-evidence.schema.json": "954970d11e37731379594656ce19aab108051856df905400ff56a5df7e545598",
+    "schemas/reference-edge.schema.json": "08ec62c532e31613243b0e317bd162921a6281f3230b7a7d53bdf39624926f16",
+    "schemas/temporal-analysis.schema.json": "4ea8c60dbb4a5b59c227f9a5da3b2a24ddd2b20351e8031ef781c7b906d4a1b9",
+    "schemas/standard-supplement.schema.json": "b54d7ddfbe3126140ef7fffdfffc3af1294780180dd3444d0ad73f0d126dadb5",
+    "schemas/source-repeal-notice.schema.json": "3184589d004bad5c9d433234c99f0a3813f578def432f68f5384db7a7ec431cc",
+    "schemas/standard-clause.schema.json": "411cbc91ea1582eaf4d05514070240c4310667fc426fa580b983ff1c675a183a",
+    "schemas/standard-transitory.schema.json": "99eb98c8f7c926f602fb347e63ad5cdf3fcd40dd5fa3cfe84e07633d7dea1be2",
+    "schemas/defined-term.schema.json": "92551b3f8167d4e614be8310441f341a2a1e879d785846e3ac3487b936b818c8",
+    "schemas/standard-metadata.schema.json": "692f10bae6c159a0c1fc3e9d5a8d30d3d7c38aa3c3f6182c5c9146ff5bf7bc88",
+    "schemas/term-usage.schema.json": "e25d620d4a2ba54e84f1b7b94bdea230cddf267c0be1982884afc6dc1f455541",
+    "schemas/temporal-model-output.schema.json": "66fed6053626d8ce65dd787c473e0c3bbc59b5440f9384f5dd1d526dd3ee0dbd",
+    "schemas/batch-manifest.schema.json": "babbf1f647354cd38766c2424a5983c947715a49390f798645fa4cb35e7b187c",
+    "schemas/corpus-bundle-manifest.schema.json": "b46d39a25315ee74d73c8d92865077552c885da84891577cfd623551c74f8e10"
+  },
+  "admission_stage_receipts": [
+    {
+      "slug": "lga",
+      "stages": [
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "admitted"
+    },
+    {
+      "slug": "lgag",
+      "stages": [
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "admitted"
+    },
+    {
+      "slug": "lif-2026",
+      "stages": [
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "admitted"
+    },
+    {
+      "slug": "pef-2026",
+      "stages": [
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "admitted"
+    },
+    {
+      "slug": "lftr",
+      "stages": [
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "admitted"
+    },
+    {
+      "slug": "reg-lgs-insumos",
+      "stages": [
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "admitted"
+    },
+    {
+      "slug": "lcnbv",
+      "stages": [
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "admitted"
+    },
+    {
+      "slug": "lcmopfih",
+      "stages": [
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "admitted"
+    },
+    {
+      "slug": "lisipl",
+      "stages": [
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "admitted"
+    },
+    {
+      "slug": "lfiiedb",
+      "stages": [
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "admitted"
+    }
+  ],
+  "lisipl_header_correction_receipts": [
+    {
+      "target": "private",
+      "stage": "parse",
+      "command": [
+        "/Users/jr/Dev/lex-mex/.work/held-reprocess-intake/implementation/lisipl-header-repair/repair-lex-mex",
+        "--root",
+        "/Users/jr/Dev/lex-mex/.work/federal-held-reprocess/candidates/lisipl",
+        "parse",
+        "lisipl"
+      ],
+      "exit_code": 0,
+      "seconds": 2.467,
+      "log": ".work/held-reprocess-intake/implementation/lisipl-header-repair/private-parse.log"
+    },
+    {
+      "target": "private",
+      "stage": "link",
+      "command": [
+        "/Users/jr/Dev/lex-mex/.work/held-reprocess-intake/implementation/lisipl-header-repair/repair-lex-mex",
+        "--root",
+        "/Users/jr/Dev/lex-mex/.work/federal-held-reprocess/candidates/lisipl",
+        "link",
+        "lisipl"
+      ],
+      "exit_code": 0,
+      "seconds": 1.324,
+      "log": ".work/held-reprocess-intake/implementation/lisipl-header-repair/private-link.log"
+    },
+    {
+      "target": "private",
+      "stage": "validate",
+      "command": [
+        "/Users/jr/Dev/lex-mex/.work/held-reprocess-intake/implementation/lisipl-header-repair/repair-lex-mex",
+        "--root",
+        "/Users/jr/Dev/lex-mex/.work/federal-held-reprocess/candidates/lisipl",
+        "validate",
+        "lisipl"
+      ],
+      "exit_code": 0,
+      "seconds": 1.321,
+      "log": ".work/held-reprocess-intake/implementation/lisipl-header-repair/private-validate.log"
+    },
+    {
+      "target": "private",
+      "stage": "export",
+      "command": [
+        "/Users/jr/Dev/lex-mex/.work/held-reprocess-intake/implementation/lisipl-header-repair/repair-lex-mex",
+        "--root",
+        "/Users/jr/Dev/lex-mex/.work/federal-held-reprocess/candidates/lisipl",
+        "export",
+        "lisipl",
+        "--format",
+        "markdown"
+      ],
+      "exit_code": 0,
+      "seconds": 1.604,
+      "log": ".work/held-reprocess-intake/implementation/lisipl-header-repair/private-export.log"
+    },
+    {
+      "target": "main",
+      "stage": "parse",
+      "command": [
+        "/Users/jr/Dev/lex-mex/.work/held-reprocess-intake/implementation/lisipl-header-repair/repair-lex-mex",
+        "--root",
+        "/Users/jr/Dev/lex-mex",
+        "parse",
+        "lisipl"
+      ],
+      "exit_code": 1,
+      "seconds": 0.064,
+      "log": ".work/held-reprocess-intake/implementation/lisipl-header-repair/main-parse.log"
+    },
+    {
+      "target": "main",
+      "stage": "parse",
+      "command": [
+        "/Users/jr/Dev/lex-mex/.work/held-reprocess-intake/implementation/lisipl-header-repair/repair-lex-mex",
+        "--root",
+        "/Users/jr/Dev/lex-mex",
+        "parse",
+        "lisipl"
+      ],
+      "exit_code": 0,
+      "seconds": 1.875,
+      "log": ".work/held-reprocess-intake/implementation/lisipl-header-repair/main-parse-retry.log",
+      "retry_after_missing_local_cache": true
+    },
+    {
+      "target": "main",
+      "stage": "link",
+      "command": [
+        "/Users/jr/Dev/lex-mex/.work/held-reprocess-intake/implementation/lisipl-header-repair/repair-lex-mex",
+        "--root",
+        "/Users/jr/Dev/lex-mex",
+        "link",
+        "lisipl"
+      ],
+      "exit_code": 0,
+      "seconds": 1.489,
+      "log": ".work/held-reprocess-intake/implementation/lisipl-header-repair/main-link-retry.log",
+      "retry_after_missing_local_cache": true
+    },
+    {
+      "target": "main",
+      "stage": "validate",
+      "command": [
+        "/Users/jr/Dev/lex-mex/.work/held-reprocess-intake/implementation/lisipl-header-repair/repair-lex-mex",
+        "--root",
+        "/Users/jr/Dev/lex-mex",
+        "validate",
+        "lisipl"
+      ],
+      "exit_code": 0,
+      "seconds": 1.356,
+      "log": ".work/held-reprocess-intake/implementation/lisipl-header-repair/main-validate-retry.log",
+      "retry_after_missing_local_cache": true
+    },
+    {
+      "target": "main",
+      "stage": "export",
+      "command": [
+        "/Users/jr/Dev/lex-mex/.work/held-reprocess-intake/implementation/lisipl-header-repair/repair-lex-mex",
+        "--root",
+        "/Users/jr/Dev/lex-mex",
+        "export",
+        "lisipl",
+        "--format",
+        "markdown"
+      ],
+      "exit_code": 0,
+      "seconds": 1.88,
+      "log": ".work/held-reprocess-intake/implementation/lisipl-header-repair/main-export-retry.log",
+      "retry_after_missing_local_cache": true
+    }
+  ],
+  "lisipl_header_correction_audit": {
+    "outcome": "corrected",
+    "scope": "exact LISIPL adapter headers and source-backed test only; no parser implementation change",
+    "commands": [
+      "cargo fmt",
+      "cargo test -p lex-parse reviewed_nested_sources_separate_own_and_containing_act_provisions -- --nocapture",
+      "repair-lex-mex --root <private|main> parse lisipl",
+      "repair-lex-mex --root <private|main> link lisipl",
+      "repair-lex-mex --root <private|main> validate lisipl",
+      "repair-lex-mex --root <private|main> export lisipl --format markdown"
+    ],
+    "initial_main_parse": "failed before writes because retained sourcecache absent; copied verified private cache without reacquisition and retried all main stages",
+    "cases": [
+      {
+        "target": "main",
+        "provision_changes": [
+          {
+            "id": "urn:lex-mx:federal:statute:lisipl:article:2",
+            "fields": [
+              "text"
+            ],
+            "before_text_characters": 524,
+            "after_text_characters": 268
+          }
+        ],
+        "enactment_evidence_changes": [
+          {
+            "id": "urn:lex-mx:federal:statute:lisipl:enactment:1968-12-31:containing-act:containing-article:wrapper",
+            "fields": [
+              "text",
+              "text_sha256"
+            ]
+          },
+          {
+            "id": "urn:lex-mx:federal:statute:lisipl:enactment:1968-12-31:containing-act:transitory:quinto",
+            "fields": [
+              "text",
+              "text_sha256"
+            ]
+          }
+        ],
+        "source_manifest_byte_identical": true,
+        "source_sha256": "432feb3abb31b584418b275a1e4d42015eb7a4f4a440d09d938a7d74a9c13113",
+        "extracted_text_sha256": "503bbf0cd691aa2b02eedce5dfa7d6326ddfe63bd20c15fa8492bf2860ca702a",
+        "counts": {
+          "articles": 7,
+          "own_transitories": 0,
+          "outer_transitories": 7
+        },
+        "validation_valid": true
+      },
+      {
+        "target": "private",
+        "provision_changes": [
+          {
+            "id": "urn:lex-mx:federal:statute:lisipl:article:2",
+            "fields": [
+              "text"
+            ],
+            "before_text_characters": 524,
+            "after_text_characters": 268
+          }
+        ],
+        "enactment_evidence_changes": [
+          {
+            "id": "urn:lex-mx:federal:statute:lisipl:enactment:1968-12-31:containing-act:containing-article:wrapper",
+            "fields": [
+              "text",
+              "text_sha256"
+            ]
+          },
+          {
+            "id": "urn:lex-mx:federal:statute:lisipl:enactment:1968-12-31:containing-act:transitory:quinto",
+            "fields": [
+              "text",
+              "text_sha256"
+            ]
+          }
+        ],
+        "source_manifest_byte_identical": true,
+        "source_sha256": "432feb3abb31b584418b275a1e4d42015eb7a4f4a440d09d938a7d74a9c13113",
+        "extracted_text_sha256": "503bbf0cd691aa2b02eedce5dfa7d6326ddfe63bd20c15fa8492bf2860ca702a",
+        "counts": {
+          "articles": 7,
+          "own_transitories": 0,
+          "outer_transitories": 7
+        },
+        "validation_valid": true
+      }
+    ],
+    "note": "Initial title-page full official instrument caption remains in wrapper/preamble evidence intentionally; running headers no longer contaminate own articles or containing-act transitories."
+  }
+}

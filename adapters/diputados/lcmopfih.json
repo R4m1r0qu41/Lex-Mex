@@ -1,0 +1,28 @@
+{
+  "slug": "lcmopfih",
+  "instrument_id": "urn:lex-mx:federal:statute:lcmopfih",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica",
+  "short_name": "LCMOPFIH",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcmopfih.htm",
+  "publisher": "Cámara de Diputados",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {},
+  "nested_instrument": {
+    "containing_act_title": "LEY QUE ESTABLECE, REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES Y QUE REFORMA OTRAS LEYES FEDERALES",
+    "wrapper_marker": "ARTICULO VIGESIMO SEXTO.-",
+    "body_start_marker": "\"LEY DE CONTRIBUCION DE MEJORAS",
+    "body_end_marker": "ARTICULOS VIGESIMO SEPTIMO A TRIGESIMO TERCERO.-",
+    "outer_transitory_marker": "TRANSITORIOS"
+  },
+  "separate_enactment": false,
+  "header_lines": [
+    "LEY DE CONTRIBUCIÓN DE MEJORAS POR OBRAS PÚBLICAS FEDERALES DE INFRAESTRUCTURA HIDRÁULICA"
+  ]
+}

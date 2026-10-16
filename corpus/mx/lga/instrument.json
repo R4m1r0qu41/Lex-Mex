@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lga",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Archivos",
+  "short_name": "LGA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2018-06-15",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-10-16T03:53:34.410967Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGA.pdf",
+  "source_sha256": "2f931111ab2745aa5a3b2ef0a99dc5beaf73d78f7674f2d90b4462319c1fc688",
+  "extracted_text_sha256": "ce6946becb8658c439f86490f4912a510ab3718ca89c80726b6913efa05cd8d4",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

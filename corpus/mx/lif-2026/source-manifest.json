@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lif-2026",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lif-2026.htm",
+  "retrieved_at": "2026-10-16T03:53:34.440320Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 756083,
+  "etag": "\"b8973-64344d9bad080\"",
+  "last_modified": "Mon, 10 Nov 2025 22:14:10 GMT",
+  "source_sha256": "a305ca23bba43cddf2275067af29bb0ba35def7aedbbb0d3fc4557da9067a82c",
+  "extracted_text_sha256": "c48b5fb55fe3c119f2a0b7aa403d9c2f3ff10ac29a88ec2a11665cdb9d37311c",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "0b944572a25db5fbb499f752bb06a3fec8cc9e93"
+}

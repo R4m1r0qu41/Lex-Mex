@@ -1851,6 +1851,7 @@ fn diputados_options(config: &SourceConfig) -> DiputadosOptions {
         stop_markers: config.main_document_stop_markers.clone(),
         annex_markers: config.substantive_annex_markers.clone(),
         separate_enactment: config.separate_enactment,
+        nested_instrument: config.nested_instrument.clone(),
     }
 }
 
@@ -1969,6 +1970,29 @@ fn validate_source_metadata(corpus: &Corpus) -> Result<()> {
     lex_core::validate_publication_metadata(corpus).map_err(anyhow::Error::msg)
 }
 
+fn validate_repeal_config(
+    root: &Path,
+    config: &SourceConfig,
+    manifest: &SourceManifest,
+    raw: &str,
+) -> Result<()> {
+    if let Some(notice) = &config.source_repeal_notice {
+        anyhow::ensure!(
+            notice.matches_source(&manifest.source_sha256, raw),
+            "repeal notice does not match retained source bytes/header"
+        );
+        if let Some(successor) = &notice.successor_instrument_id {
+            anyhow::ensure!(
+                read_sibling_corpora(root, &config.instrument_id)?
+                    .iter()
+                    .any(|(_, c)| &c.instrument.id == successor),
+                "repeal notice successor is not in the corpus"
+            );
+        }
+    }
+    Ok(())
+}
+
 fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
     let paths = &context.paths;
     let config = &context.config;
@@ -1983,6 +2007,8 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
 
     let parsed = parse_by_configured_parser(paths, config, &raw, publication_date)?;
     let (provisions, formal_manifest) = (parsed.provisions, parsed.formal_manifest);
+
+    validate_repeal_config(root, config, &manifest, &raw)?;
 
     let instrument = Instrument {
         schema_version: SCHEMA_VERSION.to_owned(),
@@ -2007,7 +2033,12 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
         source_sha256: manifest.source_sha256,
         extracted_text_sha256,
         parser_version: env!("CARGO_PKG_VERSION").to_owned(),
-        status: InstrumentStatus::InForce,
+        status: if config.source_repeal_notice.is_some() {
+            InstrumentStatus::Repealed
+        } else {
+            InstrumentStatus::InForce
+        },
+        source_repeal_notice: config.source_repeal_notice.clone(),
         issuing_authorities: config.issuing_authorities.clone(),
         formal_publication_url: config
             .formal_source
@@ -2170,12 +2201,49 @@ fn extract_instrument_terms(
 
 /// Extract this instrument's reference edges, resolving targets against
 /// every instrument committed under `corpus/mx/`.
+/// Intake decisions are immutable under ordinary reparse/relink. A changed or
+/// removed approval needs an explicit audited migration, not a missing config key.
+fn preserve_intake_decisions(context: &InstrumentContext) -> Result<()> {
+    let instrument_path = context.paths.corpus.join("instrument.json");
+    if instrument_path.is_file() {
+        let prior: Instrument = read_json(&instrument_path)?;
+        if let Some(notice) = prior.source_repeal_notice {
+            anyhow::ensure!(
+                context.config.source_repeal_notice.as_ref() == Some(&notice),
+                "refusing to replace or clear persisted instrument repeal decision"
+            );
+        }
+    }
+    let references_path = context.paths.corpus.join("references.json");
+    if references_path.is_file() {
+        let prior: Vec<lex_core::ReferenceEdge> = read_json(&references_path)?;
+        for edge in prior {
+            if let Some(approval) = edge.outdated_reference_approval {
+                anyhow::ensure!(
+                    context
+                        .config
+                        .outdated_reference_approvals
+                        .contains(&approval),
+                    "refusing to replace or clear persisted stale-reference decision"
+                );
+            }
+        }
+    }
+    Ok(())
+}
+
 fn extract_instrument_references(
     root: &Path,
     context: &InstrumentContext,
     instrument: &Instrument,
     provisions: &[lex_core::Provision],
 ) -> Result<Vec<lex_core::ReferenceEdge>> {
+    preserve_intake_decisions(context)?;
+    anyhow::ensure!(
+        context.config.reference_policy.as_deref() != Some("internal")
+            || context.config.outdated_reference_approvals.is_empty(),
+        "exact external reference approvals require cross-instrument extraction"
+    );
     if context.config.reference_policy.as_deref() == Some("internal") {
         return extract_internal_references(provisions);
     }
@@ -2225,12 +2293,20 @@ fn extract_instrument_references(
         relative_references: true,
         historical_targets,
     };
-    extract_references(
+    let mut references = extract_references(
         provisions,
         Some((instrument.id.as_str(), instrument.official_title.as_str())),
         &options,
         &known_targets,
-    )
+    )?;
+    lex_parse::apply_outdated_reference_approvals(
+        &mut references,
+        provisions,
+        &context.config.outdated_reference_approvals,
+        &instrument.source_sha256,
+        &known_targets,
+    )?;
+    Ok(references)
 }
 
 /// Hand-curated official-title and colloquial citation aliases, keyed by an
@@ -3297,7 +3373,8 @@ impl Paths {
 #[cfg(test)]
 mod tests {
     use super::{
-        OGA_SERIAL_NOTE, SourceConfig, SourceManifest, instrument_context, resolve_publication,
+        InstrumentContext, OGA_SERIAL_NOTE, SourceConfig, SourceFormat, SourceManifest,
+        instrument_context, load_config, preserve_intake_decisions, resolve_publication,
         run_temporal_request,
     };
     use std::{
@@ -3701,6 +3778,7 @@ mod tests {
                 extracted_text_sha256: "b".repeat(64),
                 parser_version: "test".to_owned(),
                 status: InstrumentStatus::InForce,
+                source_repeal_notice: None,
                 issuing_authorities: Vec::new(),
                 formal_publication_url: None,
                 formal_publication_code: None,
@@ -3931,5 +4009,83 @@ mod tests {
         let error = run_temporal_request(&context).unwrap_err().to_string();
         assert!(error.contains("require an exact publication day"));
         assert!(!context.paths.temporal_request.exists());
+    }
+    #[test]
+    fn ordinary_reruns_cannot_clear_or_replace_persisted_intake_approvals() {
+        let temp = tempfile::tempdir().unwrap();
+        let config = load_config(
+            &Path::new(env!("CARGO_MANIFEST_DIR")).join("../../adapters/diputados/lritf.json"),
+        )
+        .unwrap();
+        let mut context = InstrumentContext {
+            config,
+            paths: Paths::new(temp.path(), "lritf", SourceFormat::Pdf),
+        };
+        let mut corpus = fixture_corpus(&context.config.instrument_id, "Fixture", "LRITF", "Texto");
+        let approval = lex_core::OutdatedReferenceApproval {
+            source_provision_id: corpus.provisions[0].id.clone(),
+            target_instrument_id: "urn:lex-mx:federal:statute:lmv".to_owned(),
+            target_provision_id: "urn:lex-mx:federal:statute:lmv:article:16-bis-7".to_owned(),
+            source_span: "Texto".to_owned(),
+            start_char: 0,
+            end_char: 5,
+            source_text_sha256: lex_core::evidence_sha256("Texto"),
+            source_sha256: corpus.instrument.source_sha256.clone(),
+            reviewer: "Fixture reviewer".to_owned(),
+            captured_at: "2026-10-16T00:00:00Z".to_owned(),
+            reviewer_supplied_at: None,
+            rationale: "Fixture only".to_owned(),
+            decision_source: "fixture".to_owned(),
+            decision_source_sha256: "c".repeat(64),
+        };
+        corpus.references.push(lex_core::ReferenceEdge {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: "fixture-edge".to_owned(),
+            source_provision_id: approval.source_provision_id.clone(),
+            source_span: approval.source_span.clone(),
+            start_char: 0,
+            end_char: 5,
+            target_instrument_id: approval.target_instrument_id.clone(),
+            target_provision_id: approval.target_provision_id.clone(),
+            qualifiers: vec![],
+            basis: lex_core::Basis::ExpressCrossReference,
+            confidence: 1.0,
+            resolution_status: ReferenceResolutionStatus::HistoricalSupersededReferenceOutdated,
+            reference_form: lex_core::ReferenceForm::Direct,
+            outdated_reference_approval: Some(approval.clone()),
+        });
+        write_canonical(&corpus, &context.paths.corpus).unwrap();
+        assert!(preserve_intake_decisions(&context).is_err());
+        context
+            .config
+            .outdated_reference_approvals
+            .push(approval.clone());
+        assert!(preserve_intake_decisions(&context).is_ok());
+        context.config.outdated_reference_approvals[0]
+            .rationale
+            .push_str(" changed");
+        assert!(preserve_intake_decisions(&context).is_err());
+        context.config.outdated_reference_approvals[0] = approval;
+        let notice = lex_core::SourceRepealNotice {
+            source_note: "Ley Abrogada DOF 16-07-2025".to_owned(),
+            source_sha256: corpus.instrument.source_sha256.clone(),
+            formal_publication_url: "https://www.dof.gob.mx/nota_detalle.php?codigo=fixture"
+                .parse()
+                .unwrap(),
+            formal_source_sha256: "b".repeat(64),
+            successor_instrument_id: None,
+            reviewer: "Fixture reviewer".to_owned(),
+            captured_at: "2026-10-16T00:00:00Z".to_owned(),
+            reviewer_supplied_at: None,
+            rationale: "Fixture only".to_owned(),
+            decision_source: "fixture".to_owned(),
+            decision_source_sha256: "c".repeat(64),
+        };
+        corpus.instrument.status = InstrumentStatus::Repealed;
+        corpus.instrument.source_repeal_notice = Some(notice.clone());
+        write_canonical(&corpus, &context.paths.corpus).unwrap();
+        assert!(preserve_intake_decisions(&context).is_err());
+        context.config.source_repeal_notice = Some(notice);
+        assert!(preserve_intake_decisions(&context).is_ok());
     }
 }

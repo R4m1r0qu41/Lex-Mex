@@ -726,6 +726,19 @@ fn accepted_numbers<'a>(group: &'a str, patterns: &ReferencePatterns) -> Vec<reg
     let Some(first) = candidates.first() else {
         return Vec::new();
     };
+    // A flattened table can interleave a value cell between "artículo" and
+    // its number (PEF Annex4: "artículo 0 74, fracción IV"). Reject this
+    // malformed sequence; never repair it into an invented article74 edge.
+    if first.as_str() == "0"
+        && candidates.get(1).is_some_and(|next| {
+            group[first.end()..next.start()]
+                .chars()
+                .all(char::is_whitespace)
+                && next.as_str().parse::<u64>().is_ok_and(|n| n > 0)
+        })
+    {
+        return Vec::new();
+    }
     let leading = group[..first.start()].trim();
     if !leading.is_empty()
         && !leading.eq_ignore_ascii_case("constitucional")
@@ -888,6 +901,7 @@ fn reference_edge(
         confidence: 1.0,
         resolution_status,
         reference_form,
+        outdated_reference_approval: None,
     }
 }
 
@@ -1964,6 +1978,20 @@ fn validate_reference(
         return;
     };
     validate_reference_span(reference, source_text, issues);
+    let approved = reference.resolution_status
+        == ReferenceResolutionStatus::HistoricalSupersededReferenceOutdated;
+    if approved != reference.outdated_reference_approval.is_some()
+        || reference
+            .outdated_reference_approval
+            .as_ref()
+            .is_some_and(|a| !a.matches(reference, source_text))
+    {
+        issues.push(error(
+            "outdated_reference_approval_invalid",
+            "outdated reference requires an exact valid source-bound approval".to_owned(),
+            Some(reference.source_provision_id.clone()),
+        ));
+    }
     validate_reference_target(
         instrument_id,
         reference,
@@ -2038,6 +2066,51 @@ fn validate_reference_span(
     }
 }
 
+/// Apply only explicit exact-span, exact-source human decisions. Every supplied
+/// approval must match one missing target; stale approvals fail closed on rerun.
+pub fn apply_outdated_reference_approvals<S: std::hash::BuildHasher>(
+    references: &mut [ReferenceEdge],
+    provisions: &[Provision],
+    approvals: &[lex_core::OutdatedReferenceApproval],
+    source_sha256: &str,
+    known_targets: &HashSet<String, S>,
+) -> Result<()> {
+    for approval in approvals {
+        approval.validate().map_err(anyhow::Error::msg)?;
+        anyhow::ensure!(
+            approval.source_sha256 == source_sha256,
+            "outdated-reference approval acquisition hash mismatch"
+        );
+        let source = provisions
+            .iter()
+            .find(|p| p.id == approval.source_provision_id)
+            .ok_or_else(|| anyhow::anyhow!("outdated-reference approval source missing"))?;
+        let matches: Vec<_> = references
+            .iter()
+            .enumerate()
+            .filter(|(_, edge)| approval.matches(edge, &source.text))
+            .map(|(i, _)| i)
+            .collect();
+        anyhow::ensure!(
+            matches.len() == 1,
+            "outdated-reference approval must match exactly one extracted edge"
+        );
+        let edge = &mut references[matches[0]];
+        anyhow::ensure!(
+            !known_targets.contains(&edge.target_provision_id),
+            "outdated-reference target now available; review/relink required"
+        );
+        anyhow::ensure!(
+            edge.resolution_status == ReferenceResolutionStatus::Unresolved
+                && edge.outdated_reference_approval.is_none(),
+            "outdated-reference approval cannot overwrite a resolved or previously approved edge"
+        );
+        edge.resolution_status = ReferenceResolutionStatus::HistoricalSupersededReferenceOutdated;
+        edge.outdated_reference_approval = Some(approval.clone());
+    }
+    Ok(())
+}
+
 fn validate_reference_target(
     instrument_id: &str,
     reference: &ReferenceEdge,
@@ -2093,6 +2166,24 @@ fn validate_reference_target(
             "historical_reference_target_now_available",
             format!(
                 "historical reference target now exists and must be relinked: {}",
+                reference.target_provision_id
+            ),
+        ),
+        (ReferenceResolutionStatus::HistoricalSupersededReferenceOutdated, false) => {
+            issues.push(warning(
+                "historical_superseded_reference_outdated",
+                format!(
+                    "reviewed stale citation retained without a live link: {}",
+                    reference.target_provision_id
+                ),
+                Some(reference.source_provision_id.clone()),
+            ));
+            return;
+        }
+        (ReferenceResolutionStatus::HistoricalSupersededReferenceOutdated, true) => (
+            "outdated_reference_target_now_available",
+            format!(
+                "outdated citation target now exists and requires review: {}",
                 reference.target_provision_id
             ),
         ),
@@ -2522,6 +2613,7 @@ mod tests {
             stop_markers: vec!["ARTÍCULOS SEGUNDO A DÉCIMO".to_owned()],
             annex_markers: Vec::new(),
             separate_enactment: false,
+            nested_instrument: None,
         }
     }
 
@@ -2717,7 +2809,7 @@ mod tests {
                 instrument_id: source_id.to_owned(),
                 header_lines: Vec::new(),
                 stop_markers: Vec::new(),
-                annex_markers: Vec::new(), separate_enactment: false,
+                annex_markers: Vec::new(), separate_enactment: false, nested_instrument: None,
             },
             NaiveDate::from_ymd_opt(2002, 1, 15).unwrap(),
         )
@@ -2764,7 +2856,7 @@ mod tests {
                 instrument_id: source_id.to_owned(),
                 header_lines: Vec::new(),
                 stop_markers: Vec::new(),
-                annex_markers: Vec::new(), separate_enactment: false,
+                annex_markers: Vec::new(), separate_enactment: false, nested_instrument: None,
             },
             date,
         )
@@ -2965,6 +3057,7 @@ mod tests {
                 stop_markers: Vec::new(),
                 annex_markers: Vec::new(),
                 separate_enactment: false,
+                nested_instrument: None,
             },
             date,
         )
@@ -3223,6 +3316,7 @@ mod tests {
             stop_markers: Vec::new(),
             annex_markers: Vec::new(),
             separate_enactment: false,
+            nested_instrument: None,
         };
         let document = parse_diputados(GAPPED_CODIGO, &options, date).unwrap();
         crate::validate_corpus(
@@ -3533,5 +3627,251 @@ Ciudad de México, a 1 de octubre de 2025.
             "urn:lex-mx:federal:statute:lritf:amendment:2025-11-14:transitory:segundo"
         );
         assert_eq!(evidence[1].text, "La aplicación será gradual.");
+    }
+    #[test]
+    #[allow(clippy::too_many_lines)]
+    fn exact_reviewed_stale_reference_is_retained_and_other_missing_targets_fail() {
+        let instrument_id = "urn:lex-mx:federal:statute:lcnbv";
+        let options = DiputadosOptions {
+            instrument_id: instrument_id.to_owned(),
+            header_lines: vec!["LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES".to_owned()],
+            stop_markers: vec![],
+            annex_markers: vec![],
+            separate_enactment: false,
+            nested_instrument: None,
+        };
+        let doc = parse_diputados(
+            include_str!("../../../fixtures/diputados/held-lcnbv-article15.txt"),
+            &options,
+            NaiveDate::from_ymd_opt(1995, 4, 28).unwrap(),
+        )
+        .unwrap();
+        let target = "urn:lex-mx:federal:statute:lmv";
+        let opts = ReferenceOptions {
+            policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                internal_markers: vec!["de esta ley".to_owned()],
+                external_instruments: vec![(
+                    "ley del mercado de valores".to_owned(),
+                    target.to_owned(),
+                )],
+            },
+            transitory_citations: true,
+            same_article_fractions: true,
+            relative_references: true,
+            historical_targets: vec![],
+        };
+        let mut edges = extract_references(&doc.provisions, None, &opts, &HashSet::new()).unwrap();
+        let stale = edges
+            .iter()
+            .find(|e| e.target_provision_id == format!("{target}:article:16-bis-7"))
+            .unwrap()
+            .clone();
+        assert_eq!(
+            stale.resolution_status,
+            ReferenceResolutionStatus::Unresolved
+        );
+        let mut issues = Vec::new();
+        let by_id = doc.provisions.iter().map(|p| (p.id.as_str(), p)).collect();
+        super::validate_reference(
+            instrument_id,
+            None,
+            &stale,
+            &by_id,
+            &HashSet::new(),
+            &mut issues,
+        );
+        assert!(
+            issues
+                .iter()
+                .any(|i| i.code == "unresolved_internal_reference")
+        );
+        let source = doc
+            .provisions
+            .iter()
+            .find(|p| p.id == stale.source_provision_id)
+            .unwrap();
+        let approval = lex_core::OutdatedReferenceApproval {
+            source_provision_id: stale.source_provision_id.clone(),
+            target_instrument_id: target.to_owned(),
+            target_provision_id: stale.target_provision_id.clone(),
+            source_span: stale.source_span.clone(),
+            start_char: stale.start_char,
+            end_char: stale.end_char,
+            source_text_sha256: lex_core::evidence_sha256(&source.text),
+            source_sha256: "a".repeat(64),
+            reviewer: "Fixture reviewer".to_owned(),
+            captured_at: "2026-10-16T00:00:00Z".to_owned(),
+            reviewer_supplied_at: None,
+            rationale: "Explicit fixture approval for this one stale citation".to_owned(),
+            decision_source: "fixture decision; not a canonical operator resolution".to_owned(),
+            decision_source_sha256: "c".repeat(64),
+        };
+        super::apply_outdated_reference_approvals(
+            &mut edges,
+            &doc.provisions,
+            std::slice::from_ref(&approval),
+            &"a".repeat(64),
+            &HashSet::new(),
+        )
+        .unwrap();
+        let approved = edges.iter().find(|e| e.id == stale.id).unwrap();
+        assert_eq!(
+            approved.resolution_status,
+            ReferenceResolutionStatus::HistoricalSupersededReferenceOutdated
+        );
+        assert_eq!(approved.source_span, stale.source_span);
+        assert_eq!(
+            approved.outdated_reference_approval.as_ref(),
+            Some(&approval)
+        );
+        let mut issues = Vec::new();
+        super::validate_reference(
+            instrument_id,
+            None,
+            approved,
+            &by_id,
+            &HashSet::new(),
+            &mut issues,
+        );
+        assert!(
+            !issues
+                .iter()
+                .any(|i| i.severity == lex_core::Severity::Error)
+        );
+        assert!(
+            issues
+                .iter()
+                .any(|i| i.code == "historical_superseded_reference_outdated")
+        );
+        // A second missing citation does not inherit the approval.
+        let mut other = stale.clone();
+        other.target_provision_id = format!("{target}:article:999");
+        let mut issues = Vec::new();
+        super::validate_reference(
+            instrument_id,
+            None,
+            &other,
+            &by_id,
+            &HashSet::new(),
+            &mut issues,
+        );
+        assert!(
+            issues
+                .iter()
+                .any(|i| i.code == "unresolved_internal_reference")
+        );
+        // Tampered approvals, source text, present targets and duplicates fail closed.
+        let mut tampered = approved.clone();
+        tampered
+            .outdated_reference_approval
+            .as_mut()
+            .unwrap()
+            .source_text_sha256 = "0".repeat(64);
+        let mut issues = Vec::new();
+        super::validate_reference(
+            instrument_id,
+            None,
+            &tampered,
+            &by_id,
+            &HashSet::new(),
+            &mut issues,
+        );
+        assert!(
+            issues
+                .iter()
+                .any(|i| i.code == "outdated_reference_approval_invalid")
+        );
+        let mut raw = vec![stale.clone()];
+        assert!(
+            super::apply_outdated_reference_approvals(
+                &mut raw,
+                &doc.provisions,
+                std::slice::from_ref(&approval),
+                &"b".repeat(64),
+                &HashSet::new()
+            )
+            .is_err()
+        );
+        let mut changed = doc.provisions.clone();
+        changed[0].text.push(' ');
+        assert!(
+            super::apply_outdated_reference_approvals(
+                &mut raw,
+                &changed,
+                std::slice::from_ref(&approval),
+                &"a".repeat(64),
+                &HashSet::new()
+            )
+            .is_err()
+        );
+        assert!(
+            super::apply_outdated_reference_approvals(
+                &mut raw,
+                &doc.provisions,
+                std::slice::from_ref(&approval),
+                &"a".repeat(64),
+                &HashSet::from([stale.target_provision_id.clone()])
+            )
+            .is_err()
+        );
+        let mut duplicate = vec![stale.clone(), stale];
+        assert!(
+            super::apply_outdated_reference_approvals(
+                &mut duplicate,
+                &doc.provisions,
+                &[approval],
+                &"a".repeat(64),
+                &HashSet::new()
+            )
+            .is_err()
+        );
+    }
+
+    #[test]
+    fn flattened_table_zero_then_article_number_is_unlinked_without_changing_text() {
+        let source = "urn:lex-mx:federal:decree:pef-2026";
+        let target = "urn:lex-mx:federal:constitution:cpeum";
+        let opts = DiputadosOptions {
+            instrument_id: source.to_owned(),
+            header_lines: vec![],
+            stop_markers: vec![],
+            annex_markers: vec![],
+            separate_enactment: false,
+            nested_instrument: None,
+        };
+        let refs = ReferenceOptions {
+            policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                internal_markers: vec![],
+                external_instruments: vec![(
+                    "constitución política de los estados unidos mexicanos".to_owned(),
+                    target.to_owned(),
+                )],
+            },
+            transitory_citations: false,
+            same_article_fractions: false,
+            relative_references: false,
+            historical_targets: vec![],
+        };
+        for (citation, expected) in [("0 74", 0), ("74", 1)] {
+            let raw = format!(
+                "Artículo 1. Se refiere el artículo {citation}, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos."
+            );
+            let doc = parse_diputados(&raw, &opts, NaiveDate::from_ymd_opt(2025, 11, 21).unwrap())
+                .unwrap();
+            let before = doc.provisions[0].text.clone();
+            let edges = extract_references(
+                &doc.provisions,
+                None,
+                &refs,
+                &HashSet::from([format!("{target}:article:74")]),
+            )
+            .unwrap();
+            assert_eq!(edges.len(), expected);
+            if expected == 1 {
+                assert_eq!(edges[0].target_provision_id, format!("{target}:article:74"));
+            }
+            assert_eq!(doc.provisions[0].text, before);
+            assert!(before.contains(&format!("artículo {citation}")));
+        }
     }
 }

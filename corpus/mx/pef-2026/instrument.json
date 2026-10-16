@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:other:pef-2026",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "other",
+  "official_title": "Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2026",
+  "short_name": "PEF-2026",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-11-21",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-16T03:56:02.924723Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf",
+  "source_sha256": "02bf4543bd8e99d1bb980a3c513749114a6db35ee94a9ce8ef678cf73d95165b",
+  "extracted_text_sha256": "b855516f1b69457a671ca160f8805735e96350e4f0f8c98a7b1e5d9b332e6788",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

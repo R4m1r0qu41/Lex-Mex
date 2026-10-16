@@ -1,0 +1,39 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:1:reference:46-47:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgag:article:1",
+    "source_span": "4",
+    "start_char": 46,
+    "end_char": 47,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo octavo",
+        "start_char": 51,
+        "end_char": 65
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:43:reference:236-237:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgag:article:43",
+    "source_span": "2",
+    "start_char": 236,
+    "end_char": 237,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

@@ -146,6 +146,12 @@ pub struct SourceConfig {
     pub publication_period: Option<lex_core::PublicationPeriod>,
     #[serde(default)]
     pub separate_enactment: bool,
+    #[serde(default)]
+    pub nested_instrument: Option<lex_core::NestedInstrumentProfile>,
+    #[serde(default)]
+    pub source_repeal_notice: Option<lex_core::SourceRepealNotice>,
+    #[serde(default)]
+    pub outdated_reference_approvals: Vec<lex_core::OutdatedReferenceApproval>,
     /// Latest consolidated reform date when the official operational source
     /// index supplies it but the downloaded document does not print it.
     /// This is an adapter fact, never inferred from retrieval time.
@@ -261,6 +267,36 @@ pub fn load_config(path: &Path) -> Result<SourceConfig> {
         external
             .validate()
             .with_context(|| format!("invalid adapter config {}", path.display()))?;
+    }
+    anyhow::ensure!(
+        !(config.separate_enactment && config.nested_instrument.is_some()),
+        "nested_instrument and separate_enactment are mutually exclusive"
+    );
+    if let Some(notice) = &config.source_repeal_notice {
+        notice.validate().map_err(anyhow::Error::msg)?;
+        anyhow::ensure!(
+            notice.successor_instrument_id.as_deref() != Some(&config.instrument_id),
+            "repealed instrument cannot be its own successor"
+        );
+    }
+    let mut approvals = std::collections::HashSet::new();
+    for approval in &config.outdated_reference_approvals {
+        approval.validate().map_err(anyhow::Error::msg)?;
+        anyhow::ensure!(
+            approval
+                .source_provision_id
+                .starts_with(&format!("{}:", config.instrument_id)),
+            "approval source belongs to another instrument"
+        );
+        anyhow::ensure!(
+            approvals.insert((
+                approval.source_provision_id.clone(),
+                approval.start_char,
+                approval.end_char,
+                approval.target_provision_id.clone()
+            )),
+            "duplicate outdated-reference approval"
+        );
     }
     Ok(config)
 }
@@ -683,7 +719,7 @@ mod tests {
             manifest_count += 1;
         }
         assert_eq!(manifest_count, 43, "expected 43 committed batch manifests");
-        assert_eq!(slugs.len(), 226, "expected 226 unique instruments");
+        assert_eq!(slugs.len(), 227, "expected 227 unique instruments");
     }
 
     #[test]

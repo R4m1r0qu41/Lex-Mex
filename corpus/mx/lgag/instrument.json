@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgag",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Aguas",
+  "short_name": "LGAG",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-12-11",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-16T03:53:34.334825Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAg.pdf",
+  "source_sha256": "025de5f30e5b2b422e8654f9470ddefda03486c72a732489146cfe09065d5409",
+  "extracted_text_sha256": "af8c144abecdda696d9ead7bd38dcfd4f45d06a4e8de8d989b72b42a50275102",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

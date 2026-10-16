@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfiiedb",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar",
+  "short_name": "LFIIEDB",
+  "operational_source": "dof",
+  "formal_publication_source": "dof",
+  "publication_date": "2026-04-09",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-16T03:53:46.596135Z",
+  "source_url": "https://dof.gob.mx/abrirPDF.php?anio=2026&archivo=09042026-VES.pdf&repo=",
+  "source_sha256": "7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e",
+  "extracted_text_sha256": "b5d370fa68085a8634556ba273ef09addd54ef84f6a2c04da078cf1ceec30039",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

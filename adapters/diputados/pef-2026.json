@@ -1,0 +1,21 @@
+{
+  "slug": "pef-2026",
+  "instrument_id": "urn:lex-mx:federal:other:pef-2026",
+  "instrument_type": "other",
+  "parser": "diputados",
+  "official_title": "Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2026",
+  "short_name": "PEF-2026",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf",
+  "publisher": "Cámara de Diputados",
+  "publication_date": "2025-11-21",
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {},
+  "substantive_annex_markers": [
+    "ANEXO 1. GASTO NETO TOTAL"
+  ],
+  "expected_annexes": 1
+}

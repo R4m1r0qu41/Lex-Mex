@@ -37,6 +37,7 @@ pub struct DiputadosOptions {
     /// as one canonical annex provision.
     pub annex_markers: Vec<String>,
     pub separate_enactment: bool,
+    pub nested_instrument: Option<lex_core::NestedInstrumentProfile>,
 }
 
 #[derive(Debug)]
@@ -670,21 +671,7 @@ fn is_numbered_paragraph_start(line: &str) -> bool {
 /// blocks unless it coincides with page furniture (a paragraph continuing
 /// across a page boundary), and structural headings and provision starts
 /// always open a block of their own.
-fn normalized_blocks(
-    raw: &str,
-    options: &DiputadosOptions,
-    ordinals: &[String],
-    headings: &HeadingPatterns,
-) -> Vec<String> {
-    let page_number = Regex::new(r"^\d+\s+de\s+\d+$").expect("static regex");
-    let amendment_mark_end =
-        Regex::new(r"(?i)\bDOF\s+\d{2}-\d{2}-\d{4}[.,;:]?$").expect("static regex");
-    let mut blocks = Vec::new();
-    let mut current = String::new();
-    let mut pending_blank = false;
-    let mut crossed_page_furniture = false;
-
-    let lines: Vec<_> = raw.lines().collect();
+fn publisher_title_lines(lines: &[&str]) -> std::collections::HashSet<usize> {
     let mut publisher_title_lines = std::collections::HashSet::new();
     for (index, line) in lines.iter().enumerate() {
         if !line
@@ -716,8 +703,42 @@ fn normalized_blocks(
             }
         }
     }
+    publisher_title_lines
+}
+
+fn normalized_blocks(
+    raw: &str,
+    options: &DiputadosOptions,
+    ordinals: &[String],
+    headings: &HeadingPatterns,
+) -> Vec<String> {
+    let page_number = Regex::new(r"^\d+\s+de\s+\d+$").expect("static regex");
+    let nested_signature_date =
+        Regex::new(r"^(?:Ciudad de México|México), a \d{1,2} de [a-záéíóúñ]+ de \d{4}\.-")
+            .expect("static regex");
+    let amendment_mark_end =
+        Regex::new(r"(?i)\bDOF\s+\d{2}-\d{2}-\d{4}[.,;:]?$").expect("static regex");
+    let mut blocks = Vec::new();
+    let mut current = String::new();
+    let mut pending_blank = false;
+    let mut crossed_page_furniture = false;
+
+    let lines: Vec<_> = raw.lines().collect();
+    let publisher_title_lines = publisher_title_lines(&lines);
     for (index, source_line) in lines.into_iter().enumerate() {
         let line = source_line.trim();
+        // These source-backed nested profiles quote each numeric article.
+        // Strip only a structural opening quote immediately before its heading;
+        // retain all body quotation marks and never mutate acquisition bytes.
+        let line = if options.nested_instrument.is_some()
+            && ["\"ARTICULO ", "\"ARTÍCULO ", "\"Artículo "]
+                .iter()
+                .any(|p| line.starts_with(p))
+        {
+            &line[1..]
+        } else {
+            line
+        };
         if line.is_empty() {
             pending_blank = true;
             continue;
@@ -755,6 +776,24 @@ fn normalized_blocks(
         }
         pending_blank = false;
         crossed_page_furniture = false;
+        // Formal DOF editions need not leave a blank before wrapped signatures.
+        // Only an opted-in nested source's place/date closing line creates this
+        // boundary; the whole block must still pass the signature classifier.
+        if options.nested_instrument.is_some()
+            && (nested_signature_date.is_match(line)
+                || line.starts_with(
+                    "En cumplimiento de lo dispuesto por la fracción I del Artículo 89",
+                ))
+        {
+            flush_block(&mut current, &mut blocks);
+        }
+        if !options.annex_markers.is_empty()
+            && line.starts_with(
+                "SALÓN DE SESIONES DE LA CÁMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNIÓN.-",
+            )
+        {
+            flush_block(&mut current, &mut blocks);
+        }
         if is_immediate_structural(line, options, headings) {
             flush_block(&mut current, &mut blocks);
             blocks.push(collapse_whitespace(line));
@@ -911,6 +950,166 @@ impl ProvisionBuilder {
 }
 
 #[allow(clippy::too_many_lines)]
+/// Partition only an adapter's explicitly reviewed source boundaries. No title,
+/// ordinal, or "La presente Ley" phrase alone infers legal ownership.
+fn partition_nested_instrument(
+    blocks: &[String],
+    raw: &str,
+    options: &DiputadosOptions,
+    profile: &lex_core::NestedInstrumentProfile,
+    date: Option<NaiveDate>,
+    period: Option<&lex_core::PublicationPeriod>,
+) -> Result<(Vec<String>, Vec<lex_core::EnactmentEvidence>)> {
+    use lex_core::{EnactmentEvidence, EnactmentEvidenceKind, EnactmentOwner};
+    let unique = |marker: &str| -> Result<usize> {
+        anyhow::ensure!(
+            !marker.trim().is_empty(),
+            "empty nested-instrument boundary"
+        );
+        let found: Vec<_> = blocks
+            .iter()
+            .enumerate()
+            .filter(|(_, b)| b.starts_with(marker))
+            .map(|(i, _)| i)
+            .collect();
+        anyhow::ensure!(
+            found.len() == 1,
+            "nested-instrument boundary must occur once: {marker:?} (found {})",
+            found.len()
+        );
+        Ok(found[0])
+    };
+    let wrapper = unique(&profile.wrapper_marker)?;
+    let start = unique(&profile.body_start_marker)?;
+    let end = unique(&profile.body_end_marker)?;
+    anyhow::ensure!(
+        wrapper < start && start < end,
+        "nested-instrument boundaries are out of order"
+    );
+    anyhow::ensure!(
+        !profile.containing_act_title.trim().is_empty()
+            && blocks[..wrapper]
+                .join(" ")
+                .contains(&profile.containing_act_title),
+        "nested-instrument containing title not corroborated by source"
+    );
+    let stop = blocks
+        .iter()
+        .enumerate()
+        .skip(end + 1)
+        .find(|(_, b)| is_enactment_signature(b) || is_stop_marker(b, options))
+        .map(|(i, _)| i)
+        .ok_or_else(|| anyhow::anyhow!("nested-instrument lacks corroborated source closure"))?;
+    let outer: Vec<_> = blocks
+        .iter()
+        .enumerate()
+        .take(stop)
+        .skip(end)
+        .filter(|(_, b)| b.starts_with(&profile.outer_transitory_marker))
+        .map(|(i, _)| i)
+        .collect();
+    anyhow::ensure!(
+        !profile.outer_transitory_marker.trim().is_empty() && outer.len() == 1,
+        "nested-instrument outer transitory boundary must occur once before source closure"
+    );
+    let outer = outer[0];
+    anyhow::ensure!(
+        outer > end,
+        "nested-instrument lacks containing sibling article"
+    );
+    let mut evidence = Vec::new();
+    let mut add = |kind: EnactmentEvidenceKind,
+                   number: String,
+                   heading: String,
+                   text: String,
+                   section: Option<String>| {
+        evidence.push(EnactmentEvidence {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: lex_core::containing_act_evidence_id(&options.instrument_id, date, &kind, &number),
+            instrument_id: options.instrument_id.clone(),
+            owner: EnactmentOwner::ContainingAct,
+            kind,
+            containing_act_title: profile.containing_act_title.clone(),
+            section_heading: section,
+            source_heading: heading,
+            number,
+            text_sha256: lex_core::evidence_sha256(&text),
+            text,
+            publication_date: date,
+            publication_period: period.cloned(),
+            source_sha256: String::new(),
+            extracted_text_sha256: lex_core::evidence_sha256(raw),
+        });
+    };
+    // The first record includes all source preamble and elided earlier siblings;
+    // the second preserves substantive quoted amendments as one containing-act
+    // region, never feeding their article numbers into the nested-law parser.
+    add(
+        EnactmentEvidenceKind::ContainingArticle,
+        "wrapper".to_owned(),
+        blocks[wrapper].clone(),
+        blocks[..start].join("\n\n"),
+        None,
+    );
+    add(
+        EnactmentEvidenceKind::ContainingArticle,
+        "following".to_owned(),
+        blocks[end].clone(),
+        blocks[end..outer].join("\n\n"),
+        None,
+    );
+    let ordinals = transitory_ordinals();
+    let mut current: Option<(String, String, String)> = None;
+    let mut seen = std::collections::HashSet::new();
+    for block in &blocks[outer + 1..stop] {
+        if is_transitory_section_header(block) {
+            bail!("repeated containing-act transitory section");
+        }
+        if let Some((number, body)) = parse_transitory_start(block, &ordinals)
+            .or_else(|| parse_numeric_transitory_start(block))
+        {
+            anyhow::ensure!(
+                seen.insert(slug(number)),
+                "duplicate containing-act transitory ordinal"
+            );
+            if let Some((n, h, text)) = current.take() {
+                add(
+                    EnactmentEvidenceKind::Transitory,
+                    n,
+                    h,
+                    text,
+                    Some(blocks[outer].clone()),
+                );
+            }
+            current = Some((
+                number.to_owned(),
+                block[..block.len() - body.len()].trim().to_owned(),
+                body.to_owned(),
+            ));
+        } else if let Some((_, _, text)) = &mut current {
+            text.push_str("\n\n");
+            text.push_str(block);
+        } else {
+            bail!("unattributed containing-act transitory text");
+        }
+    }
+    if let Some((n, h, text)) = current {
+        add(
+            EnactmentEvidenceKind::Transitory,
+            n,
+            h,
+            text,
+            Some(blocks[outer].clone()),
+        );
+    }
+    anyhow::ensure!(
+        !seen.is_empty(),
+        "nested-instrument lacks containing-act transitories"
+    );
+    Ok((blocks[start..end].to_vec(), evidence))
+}
+
+#[allow(clippy::too_many_lines)]
 fn partition_enactment(
     blocks: Vec<String>,
     raw: &str,
@@ -919,6 +1118,13 @@ fn partition_enactment(
     period: Option<&lex_core::PublicationPeriod>,
 ) -> Result<(Vec<String>, Vec<lex_core::EnactmentEvidence>)> {
     use lex_core::{EnactmentEvidence, EnactmentEvidenceKind, EnactmentOwner};
+    if let Some(profile) = &options.nested_instrument {
+        anyhow::ensure!(
+            !options.separate_enactment,
+            "nested and legacy enactment modes conflict"
+        );
+        return partition_nested_instrument(&blocks, raw, options, profile, date, period);
+    }
     if !options.separate_enactment {
         return Ok((blocks, Vec::new()));
     }
@@ -947,7 +1153,7 @@ fn partition_enactment(
                 || upper.starts_with("ARTICULOS SEGUNDO A ")
                 || upper.starts_with("ARTÍCULO SEGUNDO:")
                 || upper.starts_with("ARTÍCULO SEGUNDO."))
-                && b.contains('…')
+                && (b.contains('…') || is_dot_redacted_decree_article(b, &ordinals))
         })
         .map(|(i, _)| i)
         .ok_or_else(|| {
@@ -977,7 +1183,7 @@ fn partition_enactment(
             continue;
         }
         if !in_outer {
-            if !block.contains('…') {
+            if !block.contains('…') && !is_dot_redacted_decree_article(block, &ordinals) {
                 bail!("unrecognized sibling decree material: {block}");
             }
             evidence.push(EnactmentEvidence {
@@ -1085,6 +1291,7 @@ pub fn parse_diputados_publication(
     let mut roman_transitory_section = false;
     let mut singleton_heading: Option<String> = None;
     let mut in_substantive_annex = false;
+    let mut in_annex_apparatus = false;
     // The omnibus path is gated on the decree title in the preamble, before
     // the law's own text begins.
     let omnibus_enactment = blocks
@@ -1128,10 +1335,9 @@ pub fn parse_diputados_publication(
                     publication_period,
                 ));
             }
-            let label = block
-                .split_once('.')
-                .map_or(block.as_str(), |(heading, _)| heading)
-                .trim();
+            // The printed description is part of the annex heading, including
+            // text after a numbered heading's period (PEF Annex1).
+            let label = block.trim();
             current = Some(ProvisionBuilder::annex("1", label));
             in_substantive_annex = true;
             continue;
@@ -1139,7 +1345,8 @@ pub fn parse_diputados_publication(
         if in_statute_transitories
             && !options.annex_markers.is_empty()
             && (block.starts_with("Dado en la Residencia")
-                || block.starts_with("Dado en la residencia"))
+                || block.starts_with("Dado en la residencia")
+                || block.starts_with("SALÓN DE SESIONES DE LA CÁMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNIÓN.-"))
         {
             if let Some(builder) = current.take() {
                 provisions.push(builder.finish(
@@ -1148,6 +1355,12 @@ pub fn parse_diputados_publication(
                     publication_period,
                 ));
             }
+            in_annex_apparatus = true;
+            continue;
+        }
+        if in_annex_apparatus {
+            // The configured substantive annex marker above ends this skip.
+            // Source signatures stay in acquisition bytes, not in a provision.
             continue;
         }
         if is_transitory_section_header(&block) {
@@ -1374,7 +1587,7 @@ pub fn parse_diputados_publication(
 #[must_use]
 pub fn extract_dof_publication(raw: &str) -> Option<NaiveDate> {
     let note = Regex::new(
-        r"(?i)publicad[oa] en (?:el|la) Diario Oficial de la Federación (?:el )?(\d{1,2})[oº]? de ([a-zá-úñ]+) (?:de )?(\d{4})",
+        r"(?i)publicad[oa] en (?:el|la) (?:Diario Oficial de la Federación|DOF) (?:el )?(\d{1,2})[oº]? de ([a-zá-úñ]+) (?:de )?(\d{4})",
     )
     .ok()?;
     let end = ["ARTÍCULOS TRANSITORIOS DE", "ARTICULOS TRANSITORIOS DE"]
@@ -1534,7 +1747,7 @@ pub fn extract_reform_evidence(
     let headings = HeadingPatterns::new()?;
     let ordinals = transitory_ordinals();
     let publication_re = Regex::new(
-        r"(?i)publicad[oa] en (?:el|la) Diario Oficial de la Federación (?:el )?(\d{1,2})[oº]? de ([a-zá-úñ]+) (?:de )?(\d{4})",
+        r"(?i)publicad[oa] en (?:el|la) (?:Diario Oficial de la Federación|DOF) (?:el )?(\d{1,2})[oº]? de ([a-zá-úñ]+) (?:de )?(\d{4})",
     )?;
     let mut in_reform_appendix = false;
     let mut in_judicial_appendix = false;
@@ -1572,6 +1785,15 @@ pub fn extract_reform_evidence(
         {
             in_reform_appendix = true;
             continue;
+        }
+        // Some official compilations omit the Diputados appendix banner.
+        // A configured main-document stop marker may opt in only when the
+        // same block is independently recognized as an amending act title.
+        if !in_reform_appendix
+            && is_stop_marker(&block, options)
+            && reform_act_heading_kind(&block).is_some()
+        {
+            in_reform_appendix = true;
         }
         if !in_reform_appendix {
             continue;
@@ -1722,6 +1944,7 @@ mod tests {
             stop_markers: Vec::new(),
             annex_markers: Vec::new(),
             separate_enactment: false,
+            nested_instrument: None,
         }
     }
 
@@ -2155,6 +2378,7 @@ mod tests {
             stop_markers: Vec::new(),
             annex_markers: Vec::new(),
             separate_enactment: false,
+            nested_instrument: None,
         };
         let document = parse_diputados(
             PAGE_BOUNDARY_AMENDMENT_FIXTURE,
@@ -2182,7 +2406,7 @@ mod tests {
             ],
             stop_markers: Vec::new(),
             annex_markers: Vec::new(),
-            separate_enactment: false,
+            separate_enactment: false, nested_instrument: None,
         };
         let document = parse_diputados(
             WRAPPED_RUNNING_HEADER_REGULATION_FIXTURE,
@@ -3009,5 +3233,359 @@ mod tests {
             .to_string()
             .contains("mixed numbered")
         );
+    }
+    fn nested_options(slug: &str) -> DiputadosOptions {
+        let mut opts = options(
+            &format!("urn:lex-mx:federal:statute:{slug}"),
+            "Unused header",
+        );
+        let (title, wrapper, start, end, transitory, headers) = match slug {
+            "lcmopfih" => (
+                "LEY QUE ESTABLECE, REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES Y QUE REFORMA OTRAS LEYES FEDERALES",
+                "ARTICULO VIGESIMO SEXTO.-", "\"LEY DE CONTRIBUCION DE MEJORAS",
+                "ARTICULOS VIGESIMO SEPTIMO A TRIGESIMO TERCERO.-", "TRANSITORIOS",
+                vec!["LEY DE CONTRIBUCIÓN DE MEJORAS POR OBRAS PÚBLICAS FEDERALES DE INFRAESTRUCTURA HIDRÁULICA".to_owned()]),
+            "lisipl" => (
+                "LEY QUE ESTABLECE, REFORMA Y ADICIONA LAS DISPOSICIONES RELATIVAS A DIVERSOS IMPUESTOS.",
+                "ARTICULO NOVENO.-", "ARTICULO 1o.-", "ARTICULO DECIMO.-", "TRANSITORIOS.",
+                vec!["IMPUESTO SOBRE SERVICIOS EXPRESAMENTE DECLARADOS DE INTERÉS PÚBLICO POR LEY, EN LOS QUE INTERVENGAN EMPRESAS CONCESIONARIAS DE".to_owned(), "BIENES DEL DOMINIO DIRECTO DE LA NACIÓN (LEY QUE ESTABLECE, REFORMA Y ADICIONA LAS DISPOSICIONES RELATIVAS A DIVERSOS IMPUESTOS)".to_owned()]),
+            "lfiiedb" => (
+                "SE EXPIDE LA LEY PARA EL FOMENTO DE LA INVERSIÓN EN INFRAESTRUCTURA ESTRATÉGICA PARA EL DESARROLLO CON BIENESTAR, Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA",
+                "Artículo Primero.-", "TÍTULO PRIMERO",
+                "Artículo Segundo.-", "Transitorios", vec![]),
+            _ => unreachable!(),
+        };
+        opts.header_lines = headers;
+        if slug == "lfiiedb" {
+            opts.header_lines.extend(
+                include_str!("../../../fixtures/diputados/held-nested-lfiiedb.txt")
+                    .lines()
+                    .map(str::trim)
+                    .filter(|line| {
+                        line.contains("DIARIO OFICIAL") && line.contains("Edición Vespertina")
+                    })
+                    .map(str::to_owned),
+            );
+        }
+        opts.nested_instrument = Some(lex_core::NestedInstrumentProfile {
+            containing_act_title: title.to_owned(),
+            wrapper_marker: wrapper.to_owned(),
+            body_start_marker: start.to_owned(),
+            body_end_marker: end.to_owned(),
+            outer_transitory_marker: transitory.to_owned(),
+        });
+        opts
+    }
+
+    fn assert_lisipl_source_headers_absent(doc: &super::DiputadosDocument) {
+        assert!(doc.provisions.iter().all(|p| {
+            !p.text
+                .contains("IMPUESTO SOBRE SERVICIOS EXPRESAMENTE DECLARADOS")
+                && !p
+                    .text
+                    .contains("BIENES DEL DOMINIO DIRECTO DE LA NACIÓN (LEY QUE ESTABLECE")
+        }));
+        let fifth = doc
+            .enactment_evidence
+            .iter()
+            .find(|e| e.number == "QUINTO")
+            .unwrap();
+        assert!(fifth.text.ends_with("51% de unidades y permisos."));
+        assert!(
+            !fifth
+                .text
+                .contains("IMPUESTO SOBRE SERVICIOS EXPRESAMENTE DECLARADOS")
+        );
+        assert!(
+            !fifth
+                .text
+                .contains("BIENES DEL DOMINIO DIRECTO DE LA NACIÓN (LEY QUE ESTABLECE")
+        );
+    }
+
+    #[test]
+    fn reviewed_nested_sources_separate_own_and_containing_act_provisions() {
+        for (slug, raw, articles, transitories, outer) in [
+            (
+                "lcmopfih",
+                include_str!("../../../fixtures/diputados/held-nested-lcmopfih.txt"),
+                15,
+                5,
+                8,
+            ),
+            (
+                "lisipl",
+                include_str!("../../../fixtures/diputados/held-nested-lisipl.txt"),
+                7,
+                0,
+                7,
+            ),
+            (
+                "lfiiedb",
+                include_str!("../../../fixtures/diputados/held-nested-lfiiedb.txt"),
+                141,
+                1,
+                8,
+            ),
+        ] {
+            let opts = nested_options(slug);
+            let doc =
+                parse_diputados(raw, &opts, NaiveDate::from_ymd_opt(2000, 1, 1).unwrap()).unwrap();
+            assert_eq!(
+                doc.provisions
+                    .iter()
+                    .filter(|p| p.provision_type == lex_core::ProvisionType::Article)
+                    .count(),
+                articles,
+                "{slug}"
+            );
+            assert_eq!(
+                doc.provisions
+                    .iter()
+                    .filter(|p| p.provision_type == lex_core::ProvisionType::Transitory)
+                    .count(),
+                transitories,
+                "{slug}"
+            );
+            assert_eq!(
+                doc.enactment_evidence
+                    .iter()
+                    .filter(|e| e.kind == lex_core::EnactmentEvidenceKind::Transitory)
+                    .count(),
+                outer,
+                "{slug}"
+            );
+            assert_eq!(
+                doc.enactment_evidence
+                    .iter()
+                    .filter(|e| e.kind == lex_core::EnactmentEvidenceKind::ContainingArticle)
+                    .count(),
+                2
+            );
+            assert!(
+                doc.enactment_evidence
+                    .iter()
+                    .all(|e| e.owner == lex_core::EnactmentOwner::ContainingAct)
+            );
+            assert!(
+                doc.provisions
+                    .iter()
+                    .all(|p| !p.text.contains("DIARIO OFICIAL")
+                        && !p.text.contains("CÁMARA DE DIPUTADOS")),
+                "page furniture in {slug}"
+            );
+            if slug == "lisipl" {
+                assert_lisipl_source_headers_absent(&doc);
+            }
+            if slug == "lfiiedb" {
+                assert!(
+                    doc.provisions[0]
+                        .heading_context
+                        .title
+                        .as_deref()
+                        .is_some_and(|h| h.starts_with("Título PRIMERO"))
+                );
+                assert!(
+                    doc.provisions[0]
+                        .heading_context
+                        .chapter
+                        .as_deref()
+                        .is_some_and(|h| h.starts_with("Capítulo ÚNICO"))
+                );
+                let sibling = doc
+                    .enactment_evidence
+                    .iter()
+                    .find(|e| e.number == "following")
+                    .unwrap();
+                assert!(sibling.text.contains("Artículo 108.-"));
+                assert!(!doc.provisions.last().unwrap().text.contains("Se reforman"));
+                assert!(!doc.enactment_evidence.iter().any(|e| {
+                    e.text
+                        .contains("SE REFORMA EL ARTÍCULO 141 DEL CÓDIGO FISCAL")
+                }));
+            }
+        }
+    }
+
+    #[test]
+    fn nested_boundaries_fail_closed_on_missing_duplicate_reversed_and_wrong_title() {
+        let raw = include_str!("../../../fixtures/diputados/held-nested-lcmopfih.txt");
+        let opts = nested_options("lcmopfih");
+        for altered in [
+            raw.replace("ARTICULO VIGESIMO SEXTO.-", "ARTICULO AUSENTE.-"),
+            format!("{raw}\n\nARTICULO VIGESIMO SEXTO.- Duplicado."),
+            raw.replace("ARTICULO VIGESIMO SEXTO.-", "TEMPORARY")
+                .replace(
+                    "ARTICULOS VIGESIMO SEPTIMO A TRIGESIMO TERCERO.-",
+                    "ARTICULO VIGESIMO SEXTO.-",
+                )
+                .replace(
+                    "TEMPORARY",
+                    "ARTICULOS VIGESIMO SEPTIMO A TRIGESIMO TERCERO.-",
+                ),
+            raw.replace(
+                "Y QUE REFORMA OTRAS LEYES FEDERALES",
+                "TITULO NO CORROBORADO",
+            ),
+        ] {
+            assert!(
+                parse_diputados(
+                    &altered,
+                    &opts,
+                    NaiveDate::from_ymd_opt(2000, 1, 1).unwrap()
+                )
+                .is_err()
+            );
+        }
+    }
+
+    #[test]
+    fn ascii_dot_only_sibling_preserves_lgag_law_and_outer_transitories() {
+        let raw = include_str!("../../../fixtures/diputados/held-lgag-ascii-elision.txt");
+        let mut opts = options("urn:lex-mx:federal:statute:lgag", "LEY GENERAL DE AGUAS");
+        opts.separate_enactment = true;
+        let doc =
+            parse_diputados(raw, &opts, NaiveDate::from_ymd_opt(2025, 12, 11).unwrap()).unwrap();
+        assert_eq!(
+            doc.provisions
+                .iter()
+                .filter(|p| p.provision_type == lex_core::ProvisionType::Article)
+                .count(),
+            45
+        );
+        assert_eq!(
+            doc.provisions
+                .iter()
+                .filter(|p| p.provision_type == lex_core::ProvisionType::Transitory)
+                .count(),
+            2
+        );
+        assert_eq!(doc.enactment_evidence.len(), 4);
+        assert_eq!(
+            doc.enactment_evidence
+                .iter()
+                .filter(|e| e.kind == lex_core::EnactmentEvidenceKind::Transitory)
+                .count(),
+            3
+        );
+        assert!(doc.enactment_evidence.iter().any(|e| e.kind
+            == lex_core::EnactmentEvidenceKind::ElidedSiblingArticle
+            && e.text.contains("..........")));
+        let substantive = raw.replace(
+            "Artículo Segundo.- ..........",
+            "Artículo Segundo.- Se conserva contenido sustantivo.",
+        );
+        assert!(
+            parse_diputados(
+                &substantive,
+                &opts,
+                NaiveDate::from_ymd_opt(2025, 12, 11).unwrap()
+            )
+            .is_err()
+        );
+    }
+
+    #[test]
+    fn budget_signatures_do_not_leak_into_last_transitory_before_substantive_annex() {
+        let raw = include_str!("../../../fixtures/diputados/held-pef-annex-boundary.txt");
+        let mut opts = options(
+            "urn:lex-mx:federal:decree:pef-2026",
+            "PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2026",
+        );
+        opts.annex_markers = vec!["ANEXO 1. GASTO NETO TOTAL".to_owned()];
+        let doc =
+            parse_diputados(raw, &opts, NaiveDate::from_ymd_opt(2025, 11, 21).unwrap()).unwrap();
+        assert_eq!(
+            doc.provisions
+                .iter()
+                .filter(|p| p.provision_type == lex_core::ProvisionType::Article)
+                .count(),
+            1
+        );
+        assert_eq!(
+            doc.provisions
+                .iter()
+                .filter(|p| p.provision_type == lex_core::ProvisionType::Transitory)
+                .count(),
+            16
+        );
+        let last = doc
+            .provisions
+            .iter()
+            .rfind(|p| p.provision_type == lex_core::ProvisionType::Transitory)
+            .unwrap();
+        assert!(
+            last.text
+                .contains("Título Tercero Bis de la Ley General de Salud.")
+        );
+        assert!(
+            !last.text.contains("SALÓN DE SESIONES")
+                && !last.text.contains("En cumplimiento")
+                && !last.text.contains("ANEXO 1")
+        );
+        let annexes: Vec<_> = doc
+            .provisions
+            .iter()
+            .filter(|p| p.provision_type == lex_core::ProvisionType::Annex)
+            .collect();
+        assert_eq!(annexes.len(), 1);
+        assert_eq!(annexes[0].label, "ANEXO 1. GASTO NETO TOTAL (pesos)");
+        assert!(annexes[0].text.contains("RAMOS AUTÓNOMOS"));
+        assert!(raw.contains("SALÓN DE SESIONES"));
+    }
+
+    #[test]
+    fn configured_oag_appendix_with_dof_dates_preserves_all_ten_reform_sections() {
+        let raw = include_str!("../../../fixtures/diputados/held-reg-insumos-reforms.txt");
+        let mut opts = options(
+            "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+            "REGLAMENTO DE INSUMOS PARA LA SALUD",
+        );
+        opts.header_lines.extend(
+            [
+                "OFICINA DEL ABOGADO GENERAL",
+                "Última reforma D. O. F. 31-05-2021",
+                "Publicado en el Diario Oficial de la Federación el 4 de febrero de 1998.",
+            ]
+            .map(str::to_owned),
+        );
+        // No blanket inference from a DECRETO heading before an explicit gate.
+        assert!(
+            super::extract_reform_evidence(raw, &opts)
+                .unwrap()
+                .is_empty()
+        );
+        opts.stop_markers = vec!["DECRETO que reforma, adiciona y deroga diversas disposiciones del Reglamento de Insumos".to_owned()];
+        let evidence = super::extract_reform_evidence(raw, &opts).unwrap();
+        let mut counts = std::collections::BTreeMap::new();
+        for item in &evidence {
+            *counts
+                .entry(item.provision_id.split(":amendment:").nth(1).unwrap()[..10].to_owned())
+                .or_insert(0usize) += 1;
+            assert!(
+                !item.text.contains("OFICINA DEL ABOGADO GENERAL")
+                    && !item.text.contains("Última reforma D. O. F.")
+                    && !item.text.contains(
+                        "Publicado en el Diario Oficial de la Federación el 4 de febrero de 1998."
+                    )
+            );
+            assert!(!item.text.contains("Rúbrica"));
+        }
+        assert_eq!(
+            counts,
+            std::collections::BTreeMap::from([
+                ("2008-01-02".to_owned(), 8),
+                ("2008-08-05".to_owned(), 3),
+                ("2010-08-17".to_owned(), 1),
+                ("2011-01-13".to_owned(), 3),
+                ("2011-05-26".to_owned(), 1),
+                ("2011-10-19".to_owned(), 3),
+                ("2012-05-17".to_owned(), 1),
+                ("2012-10-09".to_owned(), 2),
+                ("2014-03-14".to_owned(), 1),
+                ("2021-05-31".to_owned(), 6),
+            ])
+        );
+        assert_eq!(evidence.len(), 29);
     }
 }

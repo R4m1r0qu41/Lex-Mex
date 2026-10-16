@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lcnbv",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de la Comisión Nacional Bancaria y de Valores",
+  "short_name": "LCNBV",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1995-04-28",
+  "latest_reform_date": "2022-05-11",
+  "retrieved_at": "2026-10-16T03:53:34.405566Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf",
+  "source_sha256": "b3b4605f2abb4d33a705c6f5569ba5eaa45a41158305ac588ad4e275705798d8",
+  "extracted_text_sha256": "3db2ae8195f2f94fd15a3afe1713afc8cd1d102525708deacf8a1360c2ab0669",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

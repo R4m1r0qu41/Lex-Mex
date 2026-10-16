@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:other:pef-2026",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf",
+  "retrieved_at": "2026-10-16T03:56:02.924723Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 8624116,
+  "etag": "\"8397f4-6445a1696f040\"",
+  "last_modified": "Mon, 24 Nov 2025 16:59:37 GMT",
+  "source_sha256": "02bf4543bd8e99d1bb980a3c513749114a6db35ee94a9ce8ef678cf73d95165b",
+  "extracted_text_sha256": "b855516f1b69457a671ca160f8805735e96350e4f0f8c98a7b1e5d9b332e6788",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "0b944572a25db5fbb499f752bb06a3fec8cc9e93"
+}

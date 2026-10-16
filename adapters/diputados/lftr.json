@@ -1,0 +1,34 @@
+{
+  "slug": "lftr",
+  "instrument_id": "urn:lex-mx:federal:statute:lftr",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Federal de Telecomunicaciones y Radiodifusión",
+  "short_name": "LFTR",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/abro/lftr/LFTR_abro.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/abro/lftr.htm",
+  "publisher": "Cámara de Diputados",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {
+    "2014-07-14": "https://dof.gob.mx/nota_detalle.php?codigo=5352323&fecha=14/07/2014",
+    "2025-07-16": "https://dof.gob.mx/nota_detalle.php?codigo=5763167&fecha=16/07/2025"
+  },
+  "separate_enactment": true,
+  "nested_instrument": null,
+  "source_repeal_notice": {
+    "source_note": "Ley Abrogada DOF 16-07-2025",
+    "source_sha256": "a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a",
+    "formal_publication_url": "https://dof.gob.mx/nota_detalle.php?codigo=5763167&fecha=16/07/2025",
+    "formal_source_sha256": "f95535f4f240ad1dd03e2e6addd333fddc0c8729a88aeb30a810f3f8d85fbc41",
+    "successor_instrument_id": "urn:lex-mx:federal:statute:lmtr",
+    "reviewer": "Operator (annotated review document)",
+    "captured_at": "2026-10-16T04:45:05.952479Z",
+    "rationale": "Abrogated Law the current law is lmtr. because it is very new keep with an abrogated line.",
+    "decision_source": "docs/federal-held-source-review-2026-10-15.md",
+    "decision_source_sha256": "8f323c260a89118cab09e8d04dbe3a98c7fb93d35522a1937b8e9433fb6cabb3"
+  }
+}

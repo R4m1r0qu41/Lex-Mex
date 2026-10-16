@@ -1,0 +1,33 @@
+{
+  "sources": [
+    {
+      "slug": "lftr",
+      "status": "official_historical_and_abrogation_sources_acquired",
+      "retrieved_at": "2026-10-16T03:56:02Z",
+      "publisher": "Cámara de Diputados",
+      "official_url": "https://www.diputados.gob.mx/LeyesBiblio/abro/lftr/LFTR_abro.pdf",
+      "bytes_path": "lftr/lftr-diputados-abro.pdf",
+      "headers_path": "lftr/lftr-diputados-abro.pdf.headers",
+      "mime_type": "application/pdf",
+      "http_response": {
+        "status": 200,
+        "content_length": 1917910,
+        "last_modified": "Thu, 04 Dec 2025 12:04:28 GMT",
+        "etag": "\"1d43d6-6451f2176cb00\""
+      },
+      "source_sha256": "a15012b33a415083f7714764c86fda8ed0078d3f5313dfc194c503f98a573a2a",
+      "abrogated_catalog_url": "https://www.diputados.gob.mx/LeyesBiblio/abro/lftr.htm",
+      "abrogated_catalog_bytes_path": "lftr/lftr-diputados-abro-index.html",
+      "abrogated_catalog_sha256": "cf3a26d7e89aa61590e57ce71704acd19851b1bbec98ee99d2cb08419c5d8d49",
+      "original_url": "https://dof.gob.mx/nota_detalle.php?codigo=5352323&fecha=14/07/2014",
+      "original_bytes_path": "lftr/lftr-original-dof.html",
+      "original_sha256": "f5a95cf666480af82d02f3094388cf7b396b6b3ee0d25263fdff89ba7a2e2604",
+      "abrogation_url": "https://dof.gob.mx/nota_detalle.php?codigo=5763167&fecha=16/07/2025",
+      "abrogation_bytes_path": "lftr/lftr-abrogation-dof.html",
+      "abrogation_sha256": "f95535f4f240ad1dd03e2e6addd333fddc0c8729a88aeb30a810f3f8d85fbc41",
+      "note": "The Diputados abrogated-law PDF is the preferred parser input. The retained formal DOF enactment and abrogation pages support its historical provenance."
+    }
+  ],
+  "fixture_sha256": "ea3714b00e5798b23c4958611f4f0aa53d47dd4d3f0619262dbe3e44c5883841",
+  "selection": "exact source prefix preceding first Artículo 1., including printed Ley Abrogada DOF header"
+}

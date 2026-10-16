@@ -1,0 +1,47 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lisipl:article:2:reference:90-91:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lisipl:article:2",
+    "source_span": "1",
+    "start_char": 90,
+    "end_char": 91,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lisipl",
+    "target_provision_id": "urn:lex-mx:federal:statute:lisipl:article:1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lisipl:article:4:reference:135-136:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lisipl:article:4",
+    "source_span": "1",
+    "start_char": 135,
+    "end_char": 136,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lisipl",
+    "target_provision_id": "urn:lex-mx:federal:statute:lisipl:article:1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lisipl:article:7:reference:113-114:6:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lisipl:article:7",
+    "source_span": "6",
+    "start_char": 113,
+    "end_char": 114,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lisipl",
+    "target_provision_id": "urn:lex-mx:federal:statute:lisipl:article:6",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

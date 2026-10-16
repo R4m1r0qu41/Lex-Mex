@@ -595,6 +595,7 @@ mod tests {
             extracted_text_sha256: "0".repeat(64),
             parser_version: "0.1.0".to_owned(),
             status: lex_core::InstrumentStatus::InForce,
+            source_repeal_notice: None,
             issuing_authorities: Vec::new(),
             formal_publication_url: None,
             formal_publication_code: None,

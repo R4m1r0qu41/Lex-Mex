@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lcnbv",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcnbv.htm",
+  "retrieved_at": "2026-10-16T03:53:34.405566Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 505030,
+  "etag": "\"7b4c6-5e07c26425080\"",
+  "last_modified": "Thu, 02 Jun 2022 19:38:26 GMT",
+  "source_sha256": "b3b4605f2abb4d33a705c6f5569ba5eaa45a41158305ac588ad4e275705798d8",
+  "extracted_text_sha256": "3db2ae8195f2f94fd15a3afe1713afc8cd1d102525708deacf8a1360c2ab0669",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "0b944572a25db5fbb499f752bb06a3fec8cc9e93"
+}

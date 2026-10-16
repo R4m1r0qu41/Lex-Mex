@@ -1,0 +1,24 @@
+{
+  "slug": "lcnbv",
+  "status": "official_compiled_source_acquired",
+  "retrieved_at": "2026-10-16T03:53:34Z",
+  "publisher": "Cámara de Diputados",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf",
+  "bytes_path": "lcnbv/lcnbv.pdf",
+  "headers_path": "lcnbv/response.headers",
+  "mime_type": "application/pdf",
+  "http_response": {
+    "status": 200,
+    "content_length": 505030,
+    "last_modified": "Thu, 02 Jun 2022 19:38:26 GMT",
+    "etag": "\"7b4c6-5e07c26425080\""
+  },
+  "source_sha256": "b3b4605f2abb4d33a705c6f5569ba5eaa45a41158305ac588ad4e275705798d8",
+  "extracted_text_path": "lcnbv/lcnbv.txt",
+  "extracted_text_sha256": "8842498c5e21fccfaeb8b70d6922e34f73a586f309d94bfa7fd26be5cc2e27e7",
+  "note": "The locally retained PDF is byte-identical to this acquisition; its stale-reference policy remains separate.",
+  "fixture": "held-lcnbv-article15.txt",
+  "raw_char_start": 52962,
+  "raw_char_end": 54795,
+  "fixture_sha256": "29e3077ddaf1e66ea1ee22d49cbd33be75b72314138aac552de12b79c13b9b67"
+}

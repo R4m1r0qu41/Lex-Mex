@@ -1,0 +1,18 @@
+---
+id: urn:lex-mx:federal:statute:lif-2026:transitory:decimo-segundo
+instrument_id: urn:lex-mx:federal:statute:lif-2026
+instrument: LIF-2026
+name: "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2026"
+provision_type: transitory
+number: "Décimo Segundo"
+aliases: ["LIF-2026 — Décimo Segundo"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf
+source_sha256: a305ca23bba43cddf2275067af29bb0ba35def7aedbbb0d3fc4557da9067a82c
+---
+
+# Décimo Segundo
+
+Las entidades federativas a que se refiere el Decreto por el que se fomenta la regularización de vehículos usados de procedencia extranjera, publicado en el Diario Oficial de la Federación el 29 de diciembre de 2022, y sus posteriores modificaciones, entregarán a sus municipios, en términos de las disposiciones específicas emitidas por la Secretaría de Hacienda y Crédito Público, los subsidios federales derivados de los ingresos que se obtengan por los aprovechamientos que se hayan generado en el ejercicio fiscal de 2025, en términos de lo dispuesto por el artículo [9](articulo-9o.md) del citado Decreto. Dichos recursos se podrán comprometer, devengar y pagar por parte de los municipios durante el ejercicio fiscal de 2026. Los recursos que reciban los municipios conforme al párrafo anterior, que no hayan sido comprometidos, devengados y pagados durante el ejercicio fiscal de 2026, deberán ser concentrados en la Tesorería de la Federación incluidos los rendimientos financieros que hubieran generado, conforme a lo establecido en la Ley de Ingresos de la Federación del ejercicio fiscal que corresponda, dentro de los 15 días naturales siguientes al término del citado ejercicio fiscal. Durante el primer bimestre del ejercicio fiscal de 2026, la Secretaría de Hacienda y Crédito Público podrá convenir, así como entregar a las entidades federativas respectivas, mediante el mecanismo de Adeudos de Ejercicios Fiscales Anteriores, los subsidios federales que correspondan a los municipios y que deriven de los aprovechamientos que se hayan generado en el ejercicio fiscal de 2025, en términos del Decreto mencionado. En este supuesto, el ejercicio y aplicación de los recursos se sujetará a lo establecido en el párrafo primero del presente transitorio. Para efectos de lo establecido en el párrafo anterior, las secretarías de Economía y de Seguridad y Protección Ciudadana, el Servicio de Administración Tributaria y la Agencia Nacional de Aduanas de México, en el ámbito de sus respectivas competencias, deberán coordinarse para que, a más tardar el 20 de enero de 2026, se remita a la Secretaría de Hacienda y Crédito Público la información relativa a los ingresos excedentes que se obtengan por los aprovechamientos generados en el ejercicio fiscal de 2025, a fin de que la Secretaría de Hacienda y Crédito Público, durante el primer bimestre de 2026, realice los registros de dichos ingresos excedentes, de los recursos presupuestarios y demás registros contables correspondientes al ejercicio fiscal de 2025. Los ingresos que en su caso se generen durante el ejercicio fiscal de 2026, derivados de la aplicación del Decreto a que se refiere el párrafo primero de este transitorio, se concentrarán en la Tesorería de la Federación por concepto de aprovechamientos, y serán destinados por la Secretaría de Hacienda y Crédito Público, en los términos que se establecen en dicho Decreto. Los recursos a que se refiere la presente disposición transitoria, no se incluirán en la recaudación federal participable prevista en el artículo 2o. de la Ley de Coordinación Fiscal y tendrán el carácter de ingresos excedentes.

@@ -1,0 +1,65 @@
+{
+  "intake_retrieved_at": "2026-10-16T03:54:18Z",
+  "sources": [
+    {
+      "slug": "lcmopfih",
+      "status": "official_compiled_source_acquired",
+      "retrieved_at": "2026-10-16T03:53:34Z",
+      "publisher": "Cámara de Diputados",
+      "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf",
+      "bytes_path": "lcmopfih/lcmopfih.pdf",
+      "headers_path": "lcmopfih/response.headers",
+      "mime_type": "application/pdf",
+      "http_response": {
+        "status": 200,
+        "content_length": 285878,
+        "last_modified": "Fri, 31 May 2019 16:12:03 GMT",
+        "etag": "\"45cb6-58a31466afac0\""
+      },
+      "source_sha256": "c8a4080aaf0b6f80cf9c50f8085d899e2ba68bbac8568ab12743dddf65cfa742",
+      "extracted_text_path": "lcmopfih/lcmopfih.txt",
+      "extracted_text_sha256": "1f7725a294b6b4c106c8e87d21adfe44deb0692bc9c2bd00f02250008ae85073",
+      "note": "Nested-law source; parser boundary evidence sent to reviewer."
+    },
+    {
+      "slug": "lisipl",
+      "status": "official_compiled_source_acquired",
+      "retrieved_at": "2026-10-16T03:53:34Z",
+      "publisher": "Cámara de Diputados",
+      "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf",
+      "bytes_path": "lisipl/lisipl.pdf",
+      "headers_path": "lisipl/response.headers",
+      "mime_type": "application/pdf",
+      "http_response": {
+        "status": 200,
+        "content_length": 263324,
+        "last_modified": "Wed, 19 Sep 2018 19:38:40 GMT",
+        "etag": "\"4049c-5763e8da4f000\""
+      },
+      "source_sha256": "432feb3abb31b584418b275a1e4d42015eb7a4f4a440d09d938a7d74a9c13113",
+      "extracted_text_path": "lisipl/lisipl.txt",
+      "extracted_text_sha256": "33e942a610dd00a231de4269715f8e9ac1989fd4c0d55d214385309858001593",
+      "note": "Nested-tax source; its sole transitory section is outer-instrument evidence."
+    },
+    {
+      "slug": "lfiiedb",
+      "status": "official_formal_source_acquired",
+      "retrieved_at": "2026-10-16T03:53:46Z",
+      "publisher": "Diario Oficial de la Federación",
+      "official_url": "https://dof.gob.mx/abrirPDF.php?anio=2026&archivo=09042026-VES.pdf&repo=",
+      "bytes_path": "lfiiedb/lfiiedb-enacting-decree.pdf",
+      "headers_path": "lfiiedb/lfiiedb-enacting-decree.pdf.headers",
+      "mime_type": "application/pdf",
+      "http_response": {
+        "status": 200,
+        "content_length": 2684082
+      },
+      "source_sha256": "7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e",
+      "extracted_text_path": "lfiiedb/lfiiedb-enacting-decree.txt",
+      "extracted_text_sha256": "b2cb34526555f542f64fbdf0aa25227c9926df896f116d6e5df6221cf040539f",
+      "prior_unmanifested_copy_path": "lfiiedb/previous-lfiiedb.pdf",
+      "note": "Formal enacting decree. The separately retained prior PDF differs in pagination and bytes; it is preserved for comparison, not replaced."
+    }
+  ],
+  "note": "Fixtures are byte-identical official-source extracted text. Boundary ownership follows operator annotations in docs/federal-held-source-review-2026-10-15.md; no temporal decision is made."
+}

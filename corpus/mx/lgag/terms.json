@@ -1,0 +1,178 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:term:agua-potable",
+    "term": "Agua Potable",
+    "instrument_id": "urn:lex-mx:federal:statute:lgag",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "fraction": "I",
+    "start_char": 51,
+    "end_char": 250,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lgag",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "fraction": "II",
+    "start_char": 250,
+    "end_char": 293,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:term:consejos-de-cuenca",
+    "term": "Consejos de Cuenca",
+    "instrument_id": "urn:lex-mx:federal:statute:lgag",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "fraction": "III",
+    "start_char": 293,
+    "end_char": 729,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:term:cultura-del-agua",
+    "term": "Cultura del agua",
+    "instrument_id": "urn:lex-mx:federal:statute:lgag",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "fraction": "IV",
+    "start_char": 729,
+    "end_char": 1129,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:term:derecho-humano-al-agua",
+    "term": "Derecho humano al agua",
+    "instrument_id": "urn:lex-mx:federal:statute:lgag",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "fraction": "V",
+    "start_char": 1129,
+    "end_char": 1287,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:term:estrategia-nacional-hidrica",
+    "term": "Estrategia Nacional Hídrica",
+    "instrument_id": "urn:lex-mx:federal:statute:lgag",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "fraction": "VI",
+    "start_char": 1287,
+    "end_char": 1568,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:term:gestion-del-agua",
+    "term": "Gestión del agua",
+    "instrument_id": "urn:lex-mx:federal:statute:lgag",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "fraction": "VII",
+    "start_char": 1568,
+    "end_char": 2038,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:term:infraestructura-hidraulica",
+    "term": "Infraestructura Hidráulica",
+    "instrument_id": "urn:lex-mx:federal:statute:lgag",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "fraction": "VIII",
+    "start_char": 2038,
+    "end_char": 2215,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lgag",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "fraction": "IX",
+    "start_char": 2215,
+    "end_char": 2247,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:term:saneamiento",
+    "term": "Saneamiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lgag",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "fraction": "X",
+    "start_char": 2247,
+    "end_char": 2545,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lgag",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "fraction": "XI",
+    "start_char": 2545,
+    "end_char": 2613,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:term:servicio-intermunicipal-de-agua-y-saneamiento",
+    "term": "Servicio intermunicipal de agua y saneamiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lgag",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "fraction": "XII",
+    "start_char": 2613,
+    "end_char": 3070,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:term:servicios-municipales-de-agua-y-saneamiento",
+    "term": "Servicios municipales de agua y saneamiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lgag",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "fraction": "XIII",
+    "start_char": 3070,
+    "end_char": 3516,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:term:sistemas-comunitarios-de-agua-y-saneamiento",
+    "term": "Sistemas comunitarios de agua y saneamiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lgag",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "fraction": "XIV",
+    "start_char": 3516,
+    "end_char": 3805,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:term:sistemas-de-captacion-de-agua-pluvial",
+    "term": "Sistemas de captación de agua pluvial",
+    "instrument_id": "urn:lex-mx:federal:statute:lgag",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "fraction": "XV",
+    "start_char": 3805,
+    "end_char": 4046,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:term:soluciones-basadas-en-la-naturaleza",
+    "term": "Soluciones basadas en la naturaleza",
+    "instrument_id": "urn:lex-mx:federal:statute:lgag",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "fraction": "XVI",
+    "start_char": 4046,
+    "end_char": 4426,
+    "basis": "express_definition"
+  }
+]

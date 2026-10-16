@@ -1,0 +1,389 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:1:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:1:term-usage:545-548",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 545,
+    "end_char": 548
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:3:term-usage:18-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 18,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:4:term-usage:28-31",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 28,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:4:term-usage:448-456",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:comision",
+    "span": "Comisión",
+    "start_char": 448,
+    "end_char": 456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:6:term-usage:22-25",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 22,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:10:term-usage:25-28",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 25,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:13:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:15:term-usage:25-28",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 25,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:18:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:18:term-usage:17-35",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:consejos-de-cuenca",
+    "span": "Consejos de Cuenca",
+    "start_char": 17,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:19:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:22:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:22:term-usage:17-35",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:consejos-de-cuenca",
+    "span": "Consejos de Cuenca",
+    "start_char": 17,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:22:term-usage:242-245",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 242,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:24:term-usage:290-293",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 290,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:25:term-usage:528-531",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 528,
+    "end_char": 531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:26:term-usage:41-51",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 41,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:26:term-usage:60-68",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:comision",
+    "span": "Comisión",
+    "start_char": 60,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:26:term-usage:112-115",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 112,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:26:term-usage:355-365",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 355,
+    "end_char": 365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:26:term-usage:375-383",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:comision",
+    "span": "Comisión",
+    "start_char": 375,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:27:term-usage:72-75",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 72,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:27:term-usage:1400-1403",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 1400,
+    "end_char": 1403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:28:term-usage:60-63",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 60,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:29:term-usage:164-167",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 164,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:29:term-usage:245-248",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 245,
+    "end_char": 248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:29:term-usage:329-332",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 329,
+    "end_char": 332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:29:term-usage:534-537",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 534,
+    "end_char": 537
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:29:term-usage:781-784",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 781,
+    "end_char": 784
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:30:term-usage:45-53",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:comision",
+    "span": "Comisión",
+    "start_char": 45,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:30:term-usage:138-148",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 138,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:31:term-usage:2205-2215",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2205,
+    "end_char": 2215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:31:term-usage:2243-2251",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:comision",
+    "span": "Comisión",
+    "start_char": 2243,
+    "end_char": 2251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:32:term-usage:264-272",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:comision",
+    "span": "Comisión",
+    "start_char": 264,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:35:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:35:term-usage:87-97",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 87,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:35:term-usage:102-110",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:comision",
+    "span": "Comisión",
+    "start_char": 102,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:35:term-usage:293-311",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:consejos-de-cuenca",
+    "span": "Consejos de Cuenca",
+    "start_char": 293,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:36:term-usage:53-56",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 53,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:article:45:term-usage:532-535",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 532,
+    "end_char": 535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:transitory:primero:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:transitory:primero",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgag:transitory:segundo:term-usage:102-105",
+    "provision_id": "urn:lex-mx:federal:statute:lgag:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lgag:term:ley",
+    "span": "Ley",
+    "start_char": 102,
+    "end_char": 105
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Source-backed instrument-level repeal notice",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "source_note",
+    "reviewer",
+    "rationale",
+    "decision_source",
+    "source_sha256",
+    "formal_source_sha256",
+    "captured_at",
+    "formal_publication_url",
+    "decision_source_sha256"
+  ],
+  "properties": {
+    "source_note": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "reviewer": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "rationale": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "decision_source": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "source_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "formal_source_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "captured_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "reviewer_supplied_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "formal_publication_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "successor_instrument_id": {
+      "type": "string",
+      "pattern": "^urn:lex-mx:federal:[a-z]+:[a-z0-9-]+$"
+    },
+    "decision_source_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    }
+  }
+}

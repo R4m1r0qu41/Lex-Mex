@@ -663,6 +663,7 @@ mod tests {
                 extracted_text_sha256: "b".repeat(64),
                 parser_version: "fixture".to_owned(),
                 status: InstrumentStatus::InForce,
+                source_repeal_notice: None,
                 issuing_authorities: Vec::new(),
                 formal_publication_url: None,
                 formal_publication_code: None,

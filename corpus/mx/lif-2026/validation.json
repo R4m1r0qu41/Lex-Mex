@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lif-2026",
+  "valid": true,
+  "article_count": 34,
+  "transitory_count": 30,
+  "reference_count": 31,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no article-count baseline frozen; parse found 34 articles",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no transitory-count baseline frozen; parse found 30 transitories",
+      "provision_id": null
+    }
+  ]
+}

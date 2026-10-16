@@ -1,0 +1,34 @@
+{
+  "slug": "lcnbv",
+  "instrument_id": "urn:lex-mx:federal:statute:lcnbv",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de la Comisión Nacional Bancaria y de Valores",
+  "short_name": "LCNBV",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcnbv.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {},
+  "outdated_reference_approvals": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:15",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+      "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:16-bis-7",
+      "source_span": "16 Bis 7",
+      "start_char": 741,
+      "end_char": 749,
+      "source_text_sha256": "49ed1e83e2043ebe3c003a102be424a432bca064830f11b4478538bdfc6c362e",
+      "source_sha256": "b3b4605f2abb4d33a705c6f5569ba5eaa45a41158305ac588ad4e275705798d8",
+      "reviewer": "JRH (operator)",
+      "captured_at": "2026-10-16T04:51:39.591115Z",
+      "rationale": "Yes the lcnbv is not 'upddated' that citation is stale. it should be `historical_superseded_reference_outdated`",
+      "decision_source": "docs/federal-held-source-review-2026-10-15.md",
+      "decision_source_sha256": "8f323c260a89118cab09e8d04dbe3a98c7fb93d35522a1937b8e9433fb6cabb3"
+    }
+  ]
+}

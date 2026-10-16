@@ -1,0 +1,29 @@
+{
+  "slug": "lisipl",
+  "instrument_id": "urn:lex-mx:federal:statute:lisipl",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Impuesto sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (Ley que Establece, Reforma y Adiciona las Disposiciones Relativas a Diversos Impuestos)",
+  "short_name": "LISIPL",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lisipl.htm",
+  "publisher": "Cámara de Diputados",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {},
+  "nested_instrument": {
+    "containing_act_title": "LEY QUE ESTABLECE, REFORMA Y ADICIONA LAS DISPOSICIONES RELATIVAS A DIVERSOS IMPUESTOS.",
+    "wrapper_marker": "ARTICULO NOVENO.-",
+    "body_start_marker": "ARTICULO 1o.-",
+    "body_end_marker": "ARTICULO DECIMO.-",
+    "outer_transitory_marker": "TRANSITORIOS."
+  },
+  "separate_enactment": false,
+  "header_lines": [
+    "IMPUESTO SOBRE SERVICIOS EXPRESAMENTE DECLARADOS DE INTERÉS PÚBLICO POR LEY, EN LOS QUE INTERVENGAN EMPRESAS CONCESIONARIAS DE",
+    "BIENES DEL DOMINIO DIRECTO DE LA NACIÓN (LEY QUE ESTABLECE, REFORMA Y ADICIONA LAS DISPOSICIONES RELATIVAS A DIVERSOS IMPUESTOS)"
+  ]
+}

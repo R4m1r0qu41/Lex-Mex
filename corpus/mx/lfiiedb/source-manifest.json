@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
+  "operational_source": "dof",
+  "formal_publication_source": "dof",
+  "publisher": "Diario Oficial de la Federación",
+  "official_url": "https://dof.gob.mx/abrirPDF.php?anio=2026&archivo=09042026-VES.pdf&repo=",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfiiedb.htm",
+  "retrieved_at": "2026-10-16T03:53:46.596135Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 2684082,
+  "etag": null,
+  "last_modified": null,
+  "source_sha256": "7679afbbf32749e0c0bacab72644d41fc6ccdeeab3a2f25dfae8d26a065de01e",
+  "extracted_text_sha256": "b5d370fa68085a8634556ba273ef09addd54ef84f6a2c04da078cf1ceec30039",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "0b944572a25db5fbb499f752bb06a3fec8cc9e93"
+}
