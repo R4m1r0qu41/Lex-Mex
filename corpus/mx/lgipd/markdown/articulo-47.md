@@ -17,7 +17,7 @@ source_sha256: 952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f
 
 # Artículo 47
 
-La Junta de Gobierno tendrá, además de aquellas que establece el artículo 58 de la [Ley](articulo-2.md) Federal de las Entidades Paraestatales, las siguientes atribuciones:
+La Junta de Gobierno tendrá, además de aquellas que establece el artículo [58](../../lfep/markdown/articulo-58.md) de la [Ley](articulo-2.md) Federal de las Entidades Paraestatales, las siguientes atribuciones:
 
 I. Aprobar el Estatuto Orgánico del [Consejo](articulo-2.md), con base en la propuesta que presente el Director General del Consejo;
 

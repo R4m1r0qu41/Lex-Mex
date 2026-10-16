@@ -17,6 +17,6 @@ source_sha256: 40725278819b2229ddb95c8deda858d7fda9c9dd83654729e9242727f1eee4a8
 
 # Artículo 6o
 
-Para los efectos de esta Ley, se considerarán obligaciones garantizadas los depósitos, préstamos y créditos a que se refieren las fracciones I y II del artículo 46 de la Ley de [Instituciones](articulo-5o.md) de Crédito.
+Para los efectos de esta Ley, se considerarán obligaciones garantizadas los depósitos, préstamos y créditos a que se refieren las fracciones I y II del artículo [46](../../lic/markdown/articulo-46.md) de la Ley de [Instituciones](articulo-5o.md) de Crédito.
 
 Las Instituciones tienen la obligación de informar a las personas usuarias de sus servicios sobre el tipo y monto de las operaciones garantizadas en los términos de esta Ley.

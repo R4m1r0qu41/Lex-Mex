@@ -113,7 +113,7 @@ No se aplicará lo señalado en esta fracción en la proporción que el pago est
 
 Para efectos de esta fracción, se considera que dos miembros se encuentran en un mismo grupo cuando uno de ellos tenga el control efectivo del otro, o bien, cuando un tercero tenga el control efectivo de ambos. Se considerará control efectivo lo señalado en el artículo [176](articulo-176.md) de esta Ley, sin importar la residencia fiscal de las partes involucradas. Fracción reformada DOF 09-12-2019
 
-XXIV. Los pagos de cantidades iniciales por el derecho de adquirir o vender, bienes, divisas, acciones u otros títulos valor que no coticen en mercados reconocidos, de acuerdo con lo establecido por el artículo 16-C del Código Fiscal de la Federación, y que no se hubiera ejercido, siempre que se trate de partes contratantes que sean relacionadas en los términos del artículo [179](articulo-179.md) de esta Ley.
+XXIV. Los pagos de cantidades iniciales por el derecho de adquirir o vender, bienes, divisas, acciones u otros títulos valor que no coticen en mercados reconocidos, de acuerdo con lo establecido por el artículo [16-C](../../cff/markdown/articulo-16-C.md) del Código Fiscal de la Federación, y que no se hubiera ejercido, siempre que se trate de partes contratantes que sean relacionadas en los términos del artículo [179](articulo-179.md) de esta Ley.
 
 XXV. La restitución efectuada por el prestatario por un monto equivalente a los derechos patrimoniales de los títulos recibidos en préstamo, cuando dichos derechos sean cobrados por los prestatarios de los títulos.
 
@@ -133,7 +133,7 @@ No se incluirán dentro de las deudas que devengan intereses a cargo del contrib
 
 Lo dispuesto en el párrafo anterior no será aplicable tratándose de sociedades financieras de objeto múltiple no reguladas, que para la consecución de su objeto social, realicen actividades preponderantemente con sus partes relacionadas nacionales o extranjeras. Párrafo adicionado DOF 12-11-2021
 
-El límite del triple del capital contable que determina el monto excedente de las deudas al que se refiere esta fracción podría ampliarse en los casos en que los contribuyentes comprueben que la actividad que realizan requiere en sí misma de mayor apalancamiento y obtengan resolución al respecto en los términos que señala el artículo 34-A del Código Fiscal de la Federación.
+El límite del triple del capital contable que determina el monto excedente de las deudas al que se refiere esta fracción podría ampliarse en los casos en que los contribuyentes comprueben que la actividad que realizan requiere en sí misma de mayor apalancamiento y obtengan resolución al respecto en los términos que señala el artículo [34-A](../../cff/markdown/articulo-34-A.md) del Código Fiscal de la Federación.
 
 Con independencia de lo previsto en esta fracción se estará a lo dispuesto en los artículos [11](articulo-11.md) y [179](articulo-179.md) de la presente Ley.
 
@@ -177,6 +177,6 @@ Lo señalado en esta fracción podrá determinarse, en el caso de sociedades per
 
 El cálculo señalado en esta fracción se realizará al finalizar el ejercicio fiscal de que se trate y se reflejará en la declaración anual correspondiente. Fracción adicionada DOF 09-12-2019
 
-XXXIII. Los pagos que se realicen en los supuestos señalados en el artículo 15-D, primer y segundo párrafos del Código Fiscal de la Federación. Fracción adicionada DOF 23-04-2021
+XXXIII. Los pagos que se realicen en los supuestos señalados en el artículo [15-D](../../cff/markdown/articulo-15-D.md), primer y segundo párrafos del Código Fiscal de la Federación. Fracción adicionada DOF 23-04-2021
 
 Los conceptos no deducibles a que se refiere esta Ley, se deberán considerar en el ejercicio en el que se efectúe la erogación y no en aquel ejercicio en el que formen parte del costo de lo vendido.

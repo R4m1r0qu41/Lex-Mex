@@ -17,4 +17,4 @@ source_sha256: dd4e6e24f201a4e6b37919dc0461523bdb4f74e7c4852815f51bfd576c990296
 
 # Artículo 27
 
-Los magistrados y secretarios de acuerdos de los tribunales agrarios estarán impedidos para conocer los asuntos en los cuales se presente alguna de las causas previstas en el artículo 82 de la Ley Orgánica del Poder Judicial de la Federación.
+Los magistrados y secretarios de acuerdos de los tribunales agrarios estarán impedidos para conocer los asuntos en los cuales se presente alguna de las causas previstas en el artículo [82](../../lopjf/markdown/articulo-82.md) de la Ley Orgánica del Poder Judicial de la Federación.

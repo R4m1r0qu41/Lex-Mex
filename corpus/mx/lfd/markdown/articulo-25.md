@@ -33,7 +33,7 @@ b).- Obtención de concesiones del Gobierno Federal o de los gobiernos de las En
 
 V. Por la expedición de permisos para la constitución de fideicomisos:
 
-a). Por los permisos para constituir fideicomisos a que se refiere el artículo 11 de la Ley de Inversión Extranjera .................................................................................... $21,648.83
+a). Por los permisos para constituir fideicomisos a que se refiere el artículo [11](../../lie/markdown/articulo-11.md) de la Ley de Inversión Extranjera .................................................................................... $21,648.83
 
 b). Para la modificación de los permisos para la constitución de los fideicomisos a que se refiere el inciso anterior ................................................................................. $9,740.31
 

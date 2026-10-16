@@ -19,7 +19,7 @@ source_sha256: 05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d
 
 Cuando el amparo se solicite en contra de actos relativos a determinación, liquidación, ejecución o cobro de contribuciones o créditos de naturaleza fiscal, podrá concederse discrecionalmente la suspensión del acto reclamado, la que surtirá efectos si se ha constituido o se constituye la garantía del interés fiscal ante la autoridad exactora por cualquiera de los medios permitidos por las leyes fiscales aplicables. Párrafo publicado sin cambios DOF 16-10-2025
 
-El órgano jurisdiccional está facultado para reducir el monto de la garantía o dispensar su otorgamiento, en los siguientes casos: Párrafo publicado sin cambios DOF 16-10-2025 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS I. Si realizado el embargo por las autoridades fiscales, éste haya quedado firme y los bienes del contribuyente embargados fueran suficientes para asegurar la garantía del interés fiscal;
+El órgano jurisdiccional está facultado para reducir el monto de la garantía o dispensar su otorgamiento, en los siguientes casos: Párrafo publicado sin cambios DOF 16-10-2025 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS I. Si realizado el embargo por las autoridades fiscales, éste haya quedado firme y los bienes del contribuyente embargados fueran suficientes para asegurar la garantía del interés fiscal;
 
 II. Si el monto de los créditos excediere la capacidad económica de la persona quejosa, y Fracción reformada DOF 13-03-2025
 

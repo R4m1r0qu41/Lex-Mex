@@ -21,7 +21,7 @@ Se deroga el título VII, Libro II del Código de Comercio de 15 de septiembre d
 
 Artículo recorrido (antes artículo [196](articulo-196.md)) DOF 04-04-2013
 
-En cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo el presente decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los veintiséis días del mes de agosto de mil novecientos treinta y cinco.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado del Despacho de Hacienda y Crédito Público, Eduardo Suárez.- Rúbrica.- El Secretario de Estado y del Despacho de la Economía Nacional, Rafael Sánchez Tapia.- Rúbrica.- Al C. Secretario de Gobernación.- Presente."
+En cumplimiento de lo dispuesto en la fracción I del artículo [89](../../cpeum/markdown/articulo-89.md) de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo el presente decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los veintiséis días del mes de agosto de mil novecientos treinta y cinco.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado del Despacho de Hacienda y Crédito Público, Eduardo Suárez.- Rúbrica.- El Secretario de Estado y del Despacho de la Economía Nacional, Rafael Sánchez Tapia.- Rúbrica.- Al C. Secretario de Gobernación.- Presente."
 
 Lo que comunico a usted para su publicación y demás fines.
 

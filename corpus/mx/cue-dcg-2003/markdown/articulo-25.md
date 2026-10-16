@@ -32,7 +32,7 @@ En caso de que el monto que pretenda colocarse en términos del párrafo anterio
 
 VI. Número mínimo de accionistas o tenedores de títulos de crédito que las representen, considerados como gran público inversionista, una vez realizada la operación de colocación, el cual, en ningún caso, podrá ser menor a 100.
 
-Las instituciones financieras que presten servicios de custodia de valores a favor de terceros, que no especifiquen el número de inversionistas que representan, así como las sociedades de inversión y demás personas morales, fondos y fideicomisos, se considerarán como 1 inversionista. Asimismo, no se considerará gran público inversionista, a las emisoras que hayan adquirido acciones representativas de su capital, de conformidad con el artículo 56 de la Ley del Mercado de Valores.
+Las instituciones financieras que presten servicios de custodia de valores a favor de terceros, que no especifiquen el número de inversionistas que representan, así como las sociedades de inversión y demás personas morales, fondos y fideicomisos, se considerarán como 1 inversionista. Asimismo, no se considerará gran público inversionista, a las emisoras que hayan adquirido acciones representativas de su capital, de conformidad con el artículo [56](../../lmv/markdown/articulo-56.md) de la Ley del Mercado de Valores.
 
 VII. Criterios de distribución de los valores aplicables a la oferta que se celebre en México que prevean que ninguna persona podrá adquirir más del 40 % del monto total de la oferta.
 

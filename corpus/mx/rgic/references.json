@@ -263,7 +263,20 @@
     "end_char": 111,
     "target_instrument_id": "urn:lex-mx:federal:regulation:rgic",
     "target_provision_id": "urn:lex-mx:federal:regulation:rgic:article:37",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 206,
+        "end_char": 217
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 226,
+        "end_char": 236
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

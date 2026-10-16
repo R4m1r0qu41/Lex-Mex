@@ -25,7 +25,7 @@ consolidados, las constancias siguientes:
 
 “El presente estado de situación financiera, se formuló de conformidad con los Criterios de (274)
 
-Contabilidad para las Instituciones de Crédito, emitidos por la Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los Artículos 99, 101 y 102 de la Ley de Instituciones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las operaciones efectuadas por la institución hasta la fecha arriba mencionada, las cuales se realizaron y valuaron con apego a sanas prácticas bancarias y a las disposiciones legales y administrativas aplicables.
+Contabilidad para las Instituciones de Crédito, emitidos por la Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los Artículos [99](../../lic/markdown/articulo-99.md), [101](../../lic/markdown/articulo-101.md) y [102](../../lic/markdown/articulo-102.md) de la Ley de Instituciones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las operaciones efectuadas por la institución hasta la fecha arriba mencionada, las cuales se realizaron y valuaron con apego a sanas prácticas bancarias y a las disposiciones legales y administrativas aplicables.
 
 El presente estado de situación financiera fue aprobado por el consejo de administración bajo (274)
 
@@ -33,7 +33,7 @@ la responsabilidad de los directivos que lo suscriben.”
 
 (274) II. Estado de resultado integral:
 
-(274) “El presente estado de resultado integral se formuló de conformidad con los Criterios de Contabilidad para las Instituciones de Crédito, emitidos por la Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los Artículos 99, 101 y 102 de la Ley de Instituciones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejados todos los ingresos y egresos derivados de las operaciones efectuadas por la institución durante el período arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas bancarias y a las disposiciones legales y administrativas aplicables.
+(274) “El presente estado de resultado integral se formuló de conformidad con los Criterios de Contabilidad para las Instituciones de Crédito, emitidos por la Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los Artículos [99](../../lic/markdown/articulo-99.md), [101](../../lic/markdown/articulo-101.md) y [102](../../lic/markdown/articulo-102.md) de la Ley de Instituciones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejados todos los ingresos y egresos derivados de las operaciones efectuadas por la institución durante el período arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas bancarias y a las disposiciones legales y administrativas aplicables.
 
 El presente estado de resultado integral fue aprobado por el consejo de administración bajo la (274)
 
@@ -43,7 +43,7 @@ responsabilidad de los directivos que lo suscriben.”
 
 “El presente estado de cambios en el capital contable se formuló de conformidad con los (274)
 
-Criterios de Contabilidad para las Instituciones de Crédito, emitidos por la Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los Artículos 99, 101 y 102 de la Ley de Instituciones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejados todos los movimientos en las cuentas de capital contable derivados de las operaciones efectuadas por la institución durante el período arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas bancarias y a las disposiciones legales y administrativas aplicables.
+Criterios de Contabilidad para las Instituciones de Crédito, emitidos por la Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los Artículos [99](../../lic/markdown/articulo-99.md), [101](../../lic/markdown/articulo-101.md) y [102](../../lic/markdown/articulo-102.md) de la Ley de Instituciones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejados todos los movimientos en las cuentas de capital contable derivados de las operaciones efectuadas por la institución durante el período arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas bancarias y a las disposiciones legales y administrativas aplicables.
 
 El presente estado de cambios en el capital contable fue aprobado por el consejo de (274)
 
@@ -51,7 +51,7 @@ administración bajo la responsabilidad de los directivos que los suscriben.”
 
 (274) IV. Estado de flujos de efectivo:
 
-(274) “El presente estado de flujos de efectivo se formuló de conformidad con los Criterios de Contabilidad para las Instituciones de Crédito, emitidos por la Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los Artículos 99, 101 y 102 de la Ley de Instituciones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las entradas de efectivo y salidas de efectivo derivadas de las operaciones efectuadas por la institución durante el período arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas bancarias y a las disposiciones legales y administrativas aplicables.
+(274) “El presente estado de flujos de efectivo se formuló de conformidad con los Criterios de Contabilidad para las Instituciones de Crédito, emitidos por la Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los Artículos [99](../../lic/markdown/articulo-99.md), [101](../../lic/markdown/articulo-101.md) y [102](../../lic/markdown/articulo-102.md) de la Ley de Instituciones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las entradas de efectivo y salidas de efectivo derivadas de las operaciones efectuadas por la institución durante el período arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas bancarias y a las disposiciones legales y administrativas aplicables.
 
 El presente estado de flujos de efectivo fue aprobado por el consejo de administración bajo la (274)
 

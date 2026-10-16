@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 36
 
-Se entiende por espectro electromagnético lo establecido en la fracción II del artículo [3](articulo-3o.md)o. de la [Ley](articulo-2o.md) Federal de Telecomunicaciones.
+Se entiende por espectro electromagnético lo establecido en la fracción II del artículo 3o. de la [Ley](articulo-2o.md) Federal de Telecomunicaciones.

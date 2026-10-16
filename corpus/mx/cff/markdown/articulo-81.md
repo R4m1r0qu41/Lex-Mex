@@ -39,31 +39,31 @@ IX. No proporcionar la información a que se refiere el artículo [20](articulo-
 
 X. No cumplir, en la forma y términos señalados, con lo establecido en la fracción IV del artículo [29](articulo-29.md) de este Código.
 
-XI. No incluir a todas las sociedades integradas en la solicitud de autorización para determinar el resultado fiscal integrado que presente la sociedad integradora en términos del artículo 63, fracción III de la Ley del Impuesto sobre la Renta, o no incorporar a todas las sociedades integradas en los términos del último párrafo del artículo 66 de dicha Ley.
+XI. No incluir a todas las sociedades integradas en la solicitud de autorización para determinar el resultado fiscal integrado que presente la sociedad integradora en términos del artículo [63](../../lisr/markdown/articulo-63.md), fracción III de la Ley del Impuesto sobre la Renta, o no incorporar a todas las sociedades integradas en los términos del último párrafo del artículo 66 de dicha Ley.
 
-XII. No presentar los avisos de incorporación o desincorporación al régimen opcional para grupos de sociedades en términos de los artículos 66, cuarto párrafo y 68, quinto párrafo, de la Ley del Impuesto sobre la Renta o presentarlos en forma extemporánea.
+XII. No presentar los avisos de incorporación o desincorporación al régimen opcional para grupos de sociedades en términos de los artículos [66](../../lisr/markdown/articulo-66.md), cuarto párrafo y [68](../../lisr/markdown/articulo-68.md), quinto párrafo, de la Ley del Impuesto sobre la Renta o presentarlos en forma extemporánea.
 
-XIII. (Se deroga). XIV. No proporcionar la información de las operaciones efectuadas en el año de calendario anterior, a través de fideicomisos por los que se realicen actividades empresariales, de conformidad con el artículo 76, fracción XIII de la Ley del Impuesto sobre la Renta, según sea el caso.
+XIII. (Se deroga). XIV. No proporcionar la información de las operaciones efectuadas en el año de calendario anterior, a través de fideicomisos por los que se realicen actividades empresariales, de conformidad con el artículo [76](../../lisr/markdown/articulo-76.md), fracción XIII de la Ley del Impuesto sobre la Renta, según sea el caso.
 
 XV. (Se deroga).
 
-XVI. No proporcionar la información a que se refiere la fracción V del artículo 32 de la Ley del Impuesto al Valor Agregado a través de los medios, formatos electrónicos y plazos establecidos en dicha Ley, o presentarla incompleta o con errores.
+XVI. No proporcionar la información a que se refiere la fracción V del artículo [32](../../liva/markdown/articulo-32.md) de la Ley del Impuesto al Valor Agregado a través de los medios, formatos electrónicos y plazos establecidos en dicha Ley, o presentarla incompleta o con errores.
 
-XVII. No presentar la declaración informativa de las operaciones efectuadas con partes relacionadas durante el año de calendario inmediato anterior, de conformidad con los artículos 76, fracción X y 110, fracción X de la Ley del Impuesto sobre la Renta, o presentarla incompleta o con errores. Fracción reformada DOF 12-11-2021
+XVII. No presentar la declaración informativa de las operaciones efectuadas con partes relacionadas durante el año de calendario inmediato anterior, de conformidad con los artículos [76](../../lisr/markdown/articulo-76.md), fracción X y [110](../../lisr/markdown/articulo-110.md), fracción X de la Ley del Impuesto sobre la Renta, o presentarla incompleta o con errores. Fracción reformada DOF 12-11-2021
 
-XVIII. No proporcionar la información a que se refiere el artículo 19, fracciones II, tercer párrafo, XIII y XV de la Ley del Impuesto Especial sobre Producción y Servicios.
+XVIII. No proporcionar la información a que se refiere el artículo [19](../../lieps/markdown/articulo-19.md), fracciones II, tercer párrafo, XIII y XV de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-XIX. No proporcionar la información a que se refiere el artículo 19, fracciones X y XVI de la Ley del Impuesto Especial sobre Producción y Servicios.
+XIX. No proporcionar la información a que se refiere el artículo [19](../../lieps/markdown/articulo-19.md), fracciones X y XVI de la Ley del Impuesto Especial sobre Producción y Servicios.
 
 XX. No presentar el aviso a que se refiere el último párrafo del artículo [9](articulo-9o.md)o. de este Código.
 
-XXI. No registrarse de conformidad con lo dispuesto en el artículo 19, fracciones XI y XIV de la Ley del Impuesto Especial sobre Producción y Servicios.
+XXI. No registrarse de conformidad con lo dispuesto en el artículo [19](../../lieps/markdown/articulo-19.md), fracciones XI y XIV de la Ley del Impuesto Especial sobre Producción y Servicios.
 
-XXII. No proporcionar la información relativa del interés real pagado por el contribuyente en el ejercicio de que se trate por créditos hipotecarios, en los términos de la fracción IV del artículo 151 de la Ley del Impuesto sobre la Renta.
+XXII. No proporcionar la información relativa del interés real pagado por el contribuyente en el ejercicio de que se trate por créditos hipotecarios, en los términos de la fracción IV del artículo [151](../../lisr/markdown/articulo-151.md) de la Ley del Impuesto sobre la Renta.
 
-XXIII. No proporcionar la información a que se refiere el penúltimo párrafo de la fracción VIII del artículo 29 de la Ley del Impuesto al Valor Agregado o presentarla incompleta o con errores.
+XXIII. No proporcionar la información a que se refiere el penúltimo párrafo de la fracción VIII del artículo [29](../../liva/markdown/articulo-29.md) de la Ley del Impuesto al Valor Agregado o presentarla incompleta o con errores.
 
-XXIV. No proporcionar la constancia a que se refiere la fracción II del artículo 55 de la Ley del Impuesto sobre la Renta.
+XXIV. No proporcionar la constancia a que se refiere la fracción II del artículo [55](../../lisr/markdown/articulo-55.md) de la Ley del Impuesto sobre la Renta.
 
 XXV. No dar cumplimiento a lo dispuesto en el artículo [28](articulo-28.md), fracción I de este Código.
 
@@ -89,15 +89,15 @@ h) No generar o conservar los reportes de información a que se refiere el artí
 
 i) Destruir o alterar los sellos de clausura del establecimiento que como sanción se impusieron por la comisión de las conductas previstas en los demás incisos de esta fracción, o realizar cualquier acción que impida cumplir el propósito de dichos sellos, o que el contribuyente opere sin haber concluido el plazo de clausura. Inciso adicionado DOF 07-11-2025
 
-XXVI. No proporcionar la información a que se refiere la fracción VIII del artículo 32 de la Ley del Impuesto al Valor Agregado a través de los medios, formatos electrónicos y plazos establecidos en dicha Ley, o presentarla incompleta o con errores.
+XXVI. No proporcionar la información a que se refiere la fracción VIII del artículo [32](../../liva/markdown/articulo-32.md) de la Ley del Impuesto al Valor Agregado a través de los medios, formatos electrónicos y plazos establecidos en dicha Ley, o presentarla incompleta o con errores.
 
 XXVII. No proporcionar la información a que se refiere el artículo [32-G](articulo-32-G.md) de este Código, a través de los medios, formatos electrónicos y plazos establecidos en dicha Ley, o presentarla incompleta o con errores.
 
-XXVIII. No cumplir con la obligación a que se refiere la fracción IV del artículo 98 de la Ley del Impuesto sobre la Renta.
+XXVIII. No cumplir con la obligación a que se refiere la fracción IV del artículo [98](../../lisr/markdown/articulo-98.md) de la Ley del Impuesto sobre la Renta.
 
-XXIX. No proporcionar la información señalada en el artículo [30-A](articulo-30-A.md) de este Código o presentarla incompleta o con errores. XXX. No proporcionar o proporcionar de forma extemporánea la documentación comprobatoria que ampare que las acciones objeto de la autorización a que se refiere el artículo 161 de la Ley del Impuesto sobre la Renta, no han salido del grupo de sociedades o no presentar o presentar en forma extemporánea la información o el aviso a que se refieren los artículos 262, fracción IV y 269 del Reglamento de la Ley del Impuesto sobre la Renta.
+XXIX. No proporcionar la información señalada en el artículo [30-A](articulo-30-A.md) de este Código o presentarla incompleta o con errores. XXX. No proporcionar o proporcionar de forma extemporánea la documentación comprobatoria que ampare que las acciones objeto de la autorización a que se refiere el artículo [161](../../lisr/markdown/articulo-161.md) de la Ley del Impuesto sobre la Renta, no han salido del grupo de sociedades o no presentar o presentar en forma extemporánea la información o el aviso a que se refieren los artículos [262](../../reg-lisr/markdown/articulo-262.md), fracción IV y [269](../../reg-lisr/markdown/articulo-269.md) del Reglamento de la Ley del Impuesto sobre la Renta.
 
-XXXI. No proporcionar la información a que se refieren los artículos 76, fracción XV, 82, fracción VII, 110, fracción VII, 118, fracción V y 128 de la Ley del Impuesto sobre la Renta, o presentarla en forma extemporánea.
+XXXI. No proporcionar la información a que se refieren los artículos [76](../../lisr/markdown/articulo-76.md), fracción XV, [82](../../lisr/markdown/articulo-82.md), fracción VII, [110](../../lisr/markdown/articulo-110.md), fracción VII, [118](../../lisr/markdown/articulo-118.md), fracción V y [128](../../lisr/markdown/articulo-128.md) de la Ley del Impuesto sobre la Renta, o presentarla en forma extemporánea.
 
 XXXII. (Se deroga).
 
@@ -107,24 +107,24 @@ XXXIV. No proporcionar los datos, informes o documentos solicitados por las auto
 
 XXXV. (Se deroga).
 
-XXXVI. No cumplir con las obligaciones establecidas en el artículo 82, fracción III y penúltimo párrafo, inciso a), de la Ley del Impuesto sobre la Renta.
+XXXVI. No cumplir con las obligaciones establecidas en el artículo [82](../../lisr/markdown/articulo-82.md), fracción III y penúltimo párrafo, inciso a), de la Ley del Impuesto sobre la Renta.
 
-XXXVII. No cumplir con las obligaciones establecidas en el artículo 82, fracción III y penúltimo párrafo, inciso b), de la Ley del Impuesto sobre la Renta.
+XXXVII. No cumplir con las obligaciones establecidas en el artículo [82](../../lisr/markdown/articulo-82.md), fracción III y penúltimo párrafo, inciso b), de la Ley del Impuesto sobre la Renta.
 
-XXXVIII. Incumplir con la restricción prevista en el artículo 82, fracción II de la Ley del Impuesto sobre la Renta.
+XXXVIII. Incumplir con la restricción prevista en el artículo [82](../../lisr/markdown/articulo-82.md), fracción II de la Ley del Impuesto sobre la Renta.
 
-XXXIX. No destinar la totalidad del patrimonio o los donativos correspondientes, en los términos del artículo 82, fracción V de la Ley del Impuesto sobre la Renta.
+XXXIX. No destinar la totalidad del patrimonio o los donativos correspondientes, en los términos del artículo [82](../../lisr/markdown/articulo-82.md), fracción V de la Ley del Impuesto sobre la Renta.
 
 XL. No proporcionar la información a que se refieren los artículos [31-A](articulo-31-A.md) de este Código y 76-A de la Ley del Impuesto sobre la Renta, o proporcionarla incompleta, con errores, inconsistencias o en forma distinta a lo señalado en las disposiciones fiscales.
 
 XLI. No ingresar la información contable a través de la página de Internet del Servicio de Administración Tributaria estando obligado a ello; ingresarla fuera de los plazos establecidos en las disposiciones fiscales, o bien, no ingresarla de conformidad con las reglas de carácter general previstas en el artículo 28, fracción IV del Código, así como ingresarla con alteraciones que impidan su lectura.
 
-XLII. No proporcionar la información a que se refiere el artículo 82-Bis de la Ley del Impuesto sobre la Renta, o presentarla incompleta o con errores.
+XLII. No proporcionar la información a que se refiere el artículo [82-Bis](../../lisr/markdown/articulo-82-Bis.md) de la Ley del Impuesto sobre la Renta, o presentarla incompleta o con errores.
 
 XLIII. Se deroga. Fracción derogada DOF 12-11-2021
 
-XLIV. No cumplir con las obligaciones establecidas en el artículo 82, fracción VI de la Ley del Impuesto sobre la Renta.
+XLIV. No cumplir con las obligaciones establecidas en el artículo [82](../../lisr/markdown/articulo-82.md), fracción VI de la Ley del Impuesto sobre la Renta.
 
-XLV. Cuando el contratista no cumpla con la obligación de entregar a un contratante la información y documentación a que se refieren los artículos 27, fracción V, tercer párrafo de la Ley del Impuesto sobre la Renta y 5o., fracción II, segundo párrafo de la Ley del Impuesto al Valor Agregado.
+XLV. Cuando el contratista no cumpla con la obligación de entregar a un contratante la información y documentación a que se refieren los artículos [27](../../lisr/markdown/articulo-27.md), fracción V, tercer párrafo de la Ley del Impuesto sobre la Renta y 5o., fracción II, segundo párrafo de la Ley del Impuesto al Valor Agregado.
 
 XLVI. No cancelar los comprobantes fiscales digitales por Internet de ingresos cuando dichos comprobantes se hayan emitido por error o sin una causa para ello o cancelarlos fuera del plazo establecido en el artículo [29-A](articulo-29-A.md), cuarto párrafo de este Código, y demás disposiciones aplicables. Fracción adicionada DOF 12-11-2021

@@ -17,7 +17,7 @@ source_sha256: 952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f
 
 # Artículo 50
 
-El Director General del [Consejo](articulo-2.md) tendrá, además de aquellas que establece el artículo 59 de la [Ley](articulo-2.md) Federal de las Entidades Paraestatales, las siguientes facultades:
+El Director General del [Consejo](articulo-2.md) tendrá, además de aquellas que establece el artículo [59](../../lfep/markdown/articulo-59.md) de la [Ley](articulo-2.md) Federal de las Entidades Paraestatales, las siguientes facultades:
 
 I. Planear, organizar, coordinar, dirigir, controlar y evaluar el funcionamiento del Consejo, con sujeción a las disposiciones aplicables;
 

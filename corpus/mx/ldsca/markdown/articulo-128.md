@@ -17,4 +17,4 @@ source_sha256: 3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d
 
 # Artículo 128
 
-La [Junta Permanente](articulo-3.md) estará dotada de autonomía para dictar sus fallos y contará con presupuesto anual propio, que se integrará con las aportaciones anuales de los sectores representados en ella, en los montos que determine su Pleno, en términos del Artículo 186 de la [Ley](articulo-3.md) de Desarrollo Rural Sustentable.
+La [Junta Permanente](articulo-3.md) estará dotada de autonomía para dictar sus fallos y contará con presupuesto anual propio, que se integrará con las aportaciones anuales de los sectores representados en ella, en los montos que determine su Pleno, en términos del Artículo [186](../../ldrs/markdown/articulo-186.md) de la [Ley](articulo-3.md) de Desarrollo Rural Sustentable.

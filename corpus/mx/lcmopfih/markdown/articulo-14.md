@@ -19,4 +19,4 @@ Los ingresos que se recauden con motivo de la aplicación de esta Ley, tendrán 
 
 En estos casos, será necesario que las entidades federativas y los municipios manifiesten su consentimiento expreso con la realización y operación de las obras públicas, el que implicará cuando no se haya optado por el pago directo, la aceptación de la compensación contra créditos fiscales, o bien la retención contra la participación en la recaudación federal dentro del Sistema Nacional de Coordinación Fiscal.
 
-Para el caso de afectación de participaciones federales que correspondan a las entidades federativas y los municipios dentro del Sistema Nacional de Coordinación Fiscal, será necesario que se cumpla previamente con lo dispuesto en el artículo 9o. de la Ley de Coordinación Fiscal.
+Para el caso de afectación de participaciones federales que correspondan a las entidades federativas y los municipios dentro del Sistema Nacional de Coordinación Fiscal, será necesario que se cumpla previamente con lo dispuesto en el artículo [9](../../lcf/markdown/articulo-9o.md)o. de la Ley de Coordinación Fiscal.

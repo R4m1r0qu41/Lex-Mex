@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 175
 
-Para los efectos de la [Ley](articulo-2o.md) y de este Reglamento, se entenderá por escala comercial e industrial lo que el artículo 75, fracciones I y II, del Código de Comercio considera actos de comercio.
+Para los efectos de la [Ley](articulo-2o.md) y de este Reglamento, se entenderá por escala comercial e industrial lo que el artículo [75](../../ccom/markdown/articulo-75.md), fracciones I y II, del Código de Comercio considera actos de comercio.

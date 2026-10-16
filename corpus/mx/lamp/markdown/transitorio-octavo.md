@@ -15,4 +15,4 @@ source_sha256: 05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d
 
 # OCTAVO
 
-Las declaratorias generales de inconstitucionalidad no podrán ser hechas respecto de tesis aprobadas conforme a la ley anterior. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
+Las declaratorias generales de inconstitucionalidad no podrán ser hechas respecto de tesis aprobadas conforme a la ley anterior. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS

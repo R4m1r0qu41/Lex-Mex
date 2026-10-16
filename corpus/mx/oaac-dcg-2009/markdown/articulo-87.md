@@ -36,6 +36,6 @@ V. Criterios Contables: a los “Criterios de contabilidad para Uniones de Créd
 
 VI. Derogada.
 
-VII. Instituciones: a las instituciones de crédito a que se refiere el Artículo 2 de la Ley de Instituciones de Crédito. (94) 42
+VII. Instituciones: a las instituciones de crédito a que se refiere el Artículo [2](../../lic/markdown/articulo-2o.md) de la Ley de Instituciones de Crédito. (94) 42
 
 (94) 43

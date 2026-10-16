@@ -23,6 +23,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpo:article:2:reference:120-121:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:2",
+    "source_span": "3",
+    "start_char": 120,
+    "end_char": 121,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "target_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpo:article:43:reference:508-510:18:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:43",
     "source_span": "18",

@@ -71,7 +71,7 @@ b) El informe que el director general elabore conforme a lo señalado en el art�
 
 c) La opinión del consejo de administración sobre el contenido del informe del director general a que se refiere el inciso anterior.
 
-d) El informe a que se refiere el artículo 172, inciso B) de la Ley General de Sociedades Mercantiles en el que se contengan las principales políticas y criterios contables y de información seguidos en la preparación de la información financiera.
+d) El informe a que se refiere el artículo [172](../../lgsm/markdown/articulo-172.md), inciso B) de la Ley General de Sociedades Mercantiles en el que se contengan las principales políticas y criterios contables y de información seguidos en la preparación de la información financiera.
 
 e) El informe sobre las operaciones y actividades en las que hubiere intervenido conforme a lo previsto en esta Ley.
 

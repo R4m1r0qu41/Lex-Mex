@@ -39,4 +39,4 @@ VIII. Copia de la autorización en materia de impacto ambiental, en su caso.
 
 Los transportistas de residuos peligrosos exhibirán únicamente la documentación señalada en las fracciones I y II de este artículo, así como la indicada en las fracciones IX y X del artículo 80 de la [Ley](articulo-2.md).
 
-Se tendrá por cumplido lo dispuesto en la fracción VII del presente artículo, cuando se hubiese presentado ante la Secretaría un programa de prevención de accidentes en los términos del artículo 147 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+Se tendrá por cumplido lo dispuesto en la fracción VII del presente artículo, cuando se hubiese presentado ante la Secretaría un programa de prevención de accidentes en los términos del artículo [147](../../lgeepa/markdown/articulo-147.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.

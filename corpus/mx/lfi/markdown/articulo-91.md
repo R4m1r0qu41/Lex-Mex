@@ -17,7 +17,7 @@ source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 
 Las sociedades operadoras de fondos de inversión y distribuidoras de acciones de fondos de inversión en términos de las disposiciones de carácter general que emita la Secretaría de Hacienda y Crédito Público, escuchando la previa opinión de la [Comisión](articulo-2.md), estarán obligadas, en adición a cumplir con las demás obligaciones que les resulten aplicables, a: Párrafo reformado DOF 10-01-2014
 
-I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y Fracción reformada DOF 28-06-2007
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos [139](../../cpf/markdown/articulo-139.md) ó 148 Bis del Código Penal Federal o que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código, y Fracción reformada DOF 28-06-2007
 
 II. Presentar a la Secretaría de Hacienda y Crédito Público, por conducto de la Comisión, reportes sobre:
 

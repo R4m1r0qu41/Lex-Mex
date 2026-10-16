@@ -21,6 +21,6 @@ Las plataformas digitales de intermediación que proporcionen los servicios digi
 
 I. Retener a las personas físicas o morales residentes en el país o a los residentes en el extranjero sin establecimiento en México que presten los servicios digitales, el 100% del impuesto especial sobre producción y servicios cobrado. El retenedor sustituirá al prestador del servicio en la obligación de pago del impuesto. En este caso el prestador del servicio considerará el impuesto retenido como pago definitivo del impuesto.
 
-II. Cumplir con las obligaciones previstas en el artículo 18-J, fracción II, incisos b), c) y d) y último párrafo de dicha fracción de la Ley del Impuesto al Valor Agregado, respecto del impuesto especial sobre producción y servicios que se cause conforme al artículo [2](articulo-2o.md)o., fracción II, inciso D) de esta Ley.
+II. Cumplir con las obligaciones previstas en el artículo [18-J](../../liva/markdown/articulo-18-J.md), fracción II, incisos b), c) y d) y último párrafo de dicha fracción de la Ley del Impuesto al Valor Agregado, respecto del impuesto especial sobre producción y servicios que se cause conforme al artículo [2](articulo-2o.md)o., fracción II, inciso D) de esta Ley.
 
 Artículo adicionado DOF 07-11-2025

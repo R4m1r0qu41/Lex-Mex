@@ -17,4 +17,4 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 1714
 
-Cuando la propiedad de la cosa ajena conste por medios diversos de los enumerados en el artículo que precede, el albacea se limitará a poner al margen de las partidas respectivas, una nota que indique la pertenencia de la cosa, para que la propiedad se discuta en el juicio correspondiente.
+Cuando la propiedad de la cosa ajena conste por medios diversos de los enumerados en el [artículo que precede](articulo-1713.md), el albacea se limitará a poner al margen de las partidas respectivas, una nota que indique la pertenencia de la cosa, para que la propiedad se discuta en el juicio correspondiente.

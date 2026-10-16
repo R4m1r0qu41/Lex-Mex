@@ -19,7 +19,7 @@ source_sha256: d7c97f38c1dfe7dbf0ac5eba162d5fedb51dd132975912cf6e84aee9a614f348
 
 El patrimonio de las [Sociedades Financieras Comunitarias](articulo-3o.md) estará formado por un capital social ordinario y un capital adicional que se denominará comunal.
 
-El capital social ordinario estará compuesto por una parte fija y una parte variable y se estará integrado por acciones serie "O" que contendrán los requisitos establecidos en el artículo 125 de la Ley General de Sociedades Mercantiles. Las acciones de la serie "O" serán de igual valor y conferirán a sus tenedores los mismos derechos y deberán pagarse íntegramente en efectivo en el acto de ser suscritas, o bien, en especie, si así estuviese previsto en sus estatutos sociales.
+El capital social ordinario estará compuesto por una parte fija y una parte variable y se estará integrado por acciones serie "O" que contendrán los requisitos establecidos en el artículo [125](../../lgsm/markdown/articulo-125.md) de la Ley General de Sociedades Mercantiles. Las acciones de la serie "O" serán de igual valor y conferirán a sus tenedores los mismos derechos y deberán pagarse íntegramente en efectivo en el acto de ser suscritas, o bien, en especie, si así estuviese previsto en sus estatutos sociales.
 
 Adicionalmente las Sociedades Financieras Comunitarias podrán emitir acciones de voto limitado, las cuales otorgarán derecho de voto únicamente en los asuntos relativos a cambio de objeto, fusión, escisión, transformación, disolución y liquidación. Dichas acciones de voto limitado podrán conferir derecho a recibir un dividendo preferente y acumulativo, así como un dividendo superior al de las acciones representativas del capital ordinario, siempre y cuando así se establezca en los estatutos sociales de la Sociedades Financieras Comunitarias emisora. En ningún caso los dividendos de esta serie podrán ser inferiores a los de las otras series.
 
@@ -27,7 +27,7 @@ El capital comunal se conformará con las aportaciones que efectúen sus [Socios
 
 El capital comunal podrá ser fortalecido mediante fondos públicos o privados que tengan por objeto el fomento de la sustentabilidad financiera de las Sociedades Financieras Comunitarias.
 
-La distribución de las utilidades de la sociedad se efectuará a prorrata respecto de la serie "O" y de la serie "C". Al respecto, el pago de dividendos a los tenedores de acciones de la serie "O" se efectuará en términos de lo establecido por el artículo 113 de la Ley General de Sociedades Mercantiles. No podrán asignarse dividendos a los tenedores de las acciones de la serie "C", los cuales únicamente se podrán destinar al aumento del propio capital comunal.
+La distribución de las utilidades de la sociedad se efectuará a prorrata respecto de la serie "O" y de la serie "C". Al respecto, el pago de dividendos a los tenedores de acciones de la serie "O" se efectuará en términos de lo establecido por el artículo [113](../../lgsm/markdown/articulo-113.md) de la Ley General de Sociedades Mercantiles. No podrán asignarse dividendos a los tenedores de las acciones de la serie "C", los cuales únicamente se podrán destinar al aumento del propio capital comunal.
 
 En ningún caso podrá participar en el patrimonio de las Sociedades Financieras Comunitarias, agrupaciones de carácter político partidista.
 

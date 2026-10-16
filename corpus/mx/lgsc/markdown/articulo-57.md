@@ -21,4 +21,4 @@ El Fondo de Previsión Social no podrá ser limitado; deberá destinarse a reser
 
 Las prestaciones derivadas del Fondo de Previsión Social, serán independientes de las prestaciones a que tengan derecho los socios por su afiliación a los sistemas de seguridad social.
 
-Las sociedades cooperativas en general, deberán de afiliar obligatoriamente a sus trabajadores, y socios que aporten su trabajo personal, a los sistemas de seguridad social, e instrumentar las medidas de seguridad e higiene en el trabajo, así como de capacitación y adiestramiento, gozando del beneficio expresado en los artículos 116 y 179 de la Ley del Seguro Social.
+Las sociedades cooperativas en general, deberán de afiliar obligatoriamente a sus trabajadores, y socios que aporten su trabajo personal, a los sistemas de seguridad social, e instrumentar las medidas de seguridad e higiene en el trabajo, así como de capacitación y adiestramiento, gozando del beneficio expresado en los artículos [116](../../lss/markdown/articulo-116.md) y [179](../../lss/markdown/articulo-179.md) de la Ley del Seguro Social.

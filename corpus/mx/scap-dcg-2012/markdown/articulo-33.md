@@ -100,7 +100,7 @@ iii) Tratándose de garantías otorgadas por organismos autónomos de las entida
 
 1) De ser el caso, la evidencia de la existencia de participaciones o aportaciones federales o ingresos locales como garantías o fuente de pago del crédito.
 
-2) Para los casos en que se establezca un fideicomiso para garantizar y ser fuente de pago de las obligaciones, copia del contrato correspondiente así como, de ser el caso, copias del decreto en el que se ordene su constitución y de la autorización del congreso local que permita la afectación de participaciones federales en el referido fideicomiso de garantía o de fuente de pago, conforme a lo establecido en el Artículo 34, fracción II de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, o la que la sustituya.
+2) Para los casos en que se establezca un fideicomiso para garantizar y ser fuente de pago de las obligaciones, copia del contrato correspondiente así como, de ser el caso, copias del decreto en el que se ordene su constitución y de la autorización del congreso local que permita la afectación de participaciones federales en el referido fideicomiso de garantía o de fuente de pago, conforme a lo establecido en el Artículo [34](../../ldfefm/markdown/articulo-34.md), fracción II de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, o la que la sustituya.
 
 10. Reestructuración.
 

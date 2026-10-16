@@ -21,7 +21,7 @@ La Secretaría, dentro de los cinco días siguientes a la presentación de la so
 
 Cuando la Secretaría decida llevar a cabo una consulta pública, deberá hacerlo conforme a las bases que a continuación se mencionan:
 
-I. El día siguiente a aquel en que resuelva iniciar la consulta pública, notificará al promovente que deberá publicar, en un término no mayor de cinco días contados a partir de que surta efectos la notificación, un extracto de la obra o actividad en un periódico de amplia circulación en la entidad federativa donde se pretenda llevar a cabo; de no hacerlo, el plazo que restare para concluir el procedimiento quedará suspendido. La Secretaría podrá, en todo caso, declarar la caducidad en los términos del artículo 60 de la Ley Federal de Procedimiento Administrativo.
+I. El día siguiente a aquel en que resuelva iniciar la consulta pública, notificará al promovente que deberá publicar, en un término no mayor de cinco días contados a partir de que surta efectos la notificación, un extracto de la obra o actividad en un periódico de amplia circulación en la entidad federativa donde se pretenda llevar a cabo; de no hacerlo, el plazo que restare para concluir el procedimiento quedará suspendido. La Secretaría podrá, en todo caso, declarar la caducidad en los términos del artículo [60](../../lfpa/markdown/articulo-60.md) de la Ley Federal de Procedimiento Administrativo.
 
 El extracto del proyecto de la obra o actividad contendrá, por lo menos, la siguiente información: REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL a) Nombre de la persona física o moral responsable del proyecto;
 

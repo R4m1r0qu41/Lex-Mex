@@ -21,7 +21,7 @@ La información relativa a los partidos políticos nacionales y locales, agrupac
 
 La información de los sindicatos y sus dirigentes podrá ser requerida por la Secretaría a la Secretaría del Trabajo y Previsión Social u órgano equivalente a nivel local.
 
-La dependencia encargada de conducir y supervisar la política energética del país en materia energética a que se refiere el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, deberá proporcionar la información que tenga conforme a sus facultades y le sea requerida por la Secretaría en el ejercicio de sus atribuciones.
+La dependencia encargada de conducir y supervisar la política energética del país en materia energética a que se refiere el artículo [28](../../cpeum/markdown/articulo-28.md) de la Constitución Política de los Estados Unidos Mexicanos, deberá proporcionar la información que tenga conforme a sus facultades y le sea requerida por la Secretaría en el ejercicio de sus atribuciones.
 
 Las empresas públicas del Estado y sus filiales establecerán medidas internas que tengan como finalidad mitigar el Riesgo de ser utilizadas en Operaciones con Recursos de Procedencia Ilícita. Para tales efectos, podrán celebrar acuerdos de colaboración con la Secretaría.
 

@@ -25,7 +25,7 @@ I. Por el Comerciante, y II. Por los accionistas de la sociedad de que se trate 
 
 El demandante podrá transigir en juicio el monto de la indemnización por daños y perjuicios, siempre que previamente someta a aprobación del conciliador o síndico, según corresponda, los términos y condiciones del convenio judicial correspondiente. La falta de dicha formalidad será causa de nulidad relativa.
 
-El ejercicio de las acciones a que se refiere este artículo no estará sujeto al cumplimiento de los requisitos establecidos en los artículos 161 y 163 de la Ley General de Sociedades Mercantiles. En todo caso, dichas acciones deberán comprender el monto total de las responsabilidades en favor del Comerciante y no únicamente el interés personal del o los demandantes.
+El ejercicio de las acciones a que se refiere este artículo no estará sujeto al cumplimiento de los requisitos establecidos en los artículos [161](../../lgsm/markdown/articulo-161.md) y [163](../../lgsm/markdown/articulo-163.md) de la Ley General de Sociedades Mercantiles. En todo caso, dichas acciones deberán comprender el monto total de las responsabilidades en favor del Comerciante y no únicamente el interés personal del o los demandantes.
 
 Las acciones que tengan por objeto exigir responsabilidad en términos de este artículo, prescribirán en cinco años contados a partir del día en que se hubiere actualizado el supuesto de que se trate, de los que se refiere el artículo [270 Bis](articulo-270-Bis.md), que haya causado el daño patrimonial correspondiente.
 

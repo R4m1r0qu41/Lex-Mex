@@ -23,7 +23,7 @@ Al pago provisional así determinado, se le restan los pagos provisionales de es
 
 En la declaración anual por el derecho a que se refiere el artículo [39](articulo-39.md) de esta Ley, pueden acreditarse los pagos provisionales mensuales de este derecho efectivamente pagados, correspondientes al ejercicio de que se trate.
 
-Cuando en la declaración de pago provisional o en la declaración anual resulte saldo a favor, el Asignatario puede compensar dicho saldo a favor contra los pagos posteriores del propio derecho, actualizado conforme a lo previsto en el artículo 17-A del Código Fiscal de la Federación, considerándose el periodo comprendido desde el mes en el que se obtenga el saldo a favor, hasta el mes en el que se realice la compensación.
+Cuando en la declaración de pago provisional o en la declaración anual resulte saldo a favor, el Asignatario puede compensar dicho saldo a favor contra los pagos posteriores del propio derecho, actualizado conforme a lo previsto en el artículo [17-A](../../cff/markdown/articulo-17-A.md) del Código Fiscal de la Federación, considerándose el periodo comprendido desde el mes en el que se obtenga el saldo a favor, hasta el mes en el que se realice la compensación.
 
 La Secretaría puede emitir los lineamientos para el debido cumplimiento de lo establecido en el presente Capítulo.
 

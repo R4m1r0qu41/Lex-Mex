@@ -15,7 +15,7 @@ source_sha256: 60e8482fc72c2fa506c23a78da1bbb2e8f2877b30ea083dd6760b93ce343282e
 
 # Artículo 14
 
-Las operaciones a que se refiere el artículo 3 de la Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura se sujetarán a las siguientes normas generales:
+Las operaciones a que se refiere el artículo [3](../../lfgfaga/markdown/articulo-3o.md) de la Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura se sujetarán a las siguientes normas generales:
 
 I.- Solo se efectuarán en relación con financiamientos que hayan sido otorgados o concertados a personas físicas o morales cuyas actividades se encuentren relacionadas con la producción, acopio y distribución de bienes y servicios de o para los sectores agropecuario y forestal, así como de la agroindustria y de otras actividades conexas o afines, o que se desarrollen en el medio rural;
 

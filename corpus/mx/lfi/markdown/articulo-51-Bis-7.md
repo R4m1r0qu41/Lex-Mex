@@ -19,6 +19,6 @@ Las sociedades operadoras de fondos de inversión que actúen como fiduciarias, 
 
 Las acciones para pedir cuentas, para exigir la responsabilidad de las citadas sociedades operadoras de fondos de inversión así como para pedir la remoción, corresponderán al fideicomisario o a sus representantes legales, y a falta de estos al ministerio público, sin perjuicio de poder el fideicomitente reservarse en el acto constitutivo del fideicomiso o en las modificaciones del mismo, el derecho para ejercitar esta acción.
 
-En caso de renuncia o remoción se estará a lo dispuesto en el artículo 385 de la Ley General de Títulos y Operaciones de Crédito.
+En caso de renuncia o remoción se estará a lo dispuesto en el artículo [385](../../lgtoc/markdown/articulo-385.md) de la Ley General de Títulos y Operaciones de Crédito.
 
 Artículo adicionado DOF 10-01-2014

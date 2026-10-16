@@ -25,4 +25,4 @@ II. El uso u operación de embarcaciones en arrecifes de coral;
 
 III. La realización de las actividades consideradas como Altamente Riesgosas, y
 
-IV. Aquellos supuestos y conductas previstos por el artículo 1913 del Código Civil Federal.
+IV. Aquellos supuestos y conductas previstos por el artículo [1913](../../ccf/markdown/articulo-1913.md) del Código Civil Federal.

@@ -27,4 +27,4 @@ La [Unidad de Gobierno](articulo-3.md) tiene a su cargo la atención y despacho 
 
 Las autoridades federales, cooperarán en sus respectivos ámbitos de competencia para hacer cumplir las determinaciones que dicten las autoridades de la Secretaría de Gobernación de conformidad con las leyes y este Reglamento, cuando para ello fueren requeridas.
 
-Las autoridades de las entidades federativas, de los municipios y de las alcaldías de la Ciudad de México deben cooperar con la Secretaría de Gobernación, conforme a lo dispuesto en el artículo 10 de la Ley Federal de Juegos y Sorteos. Párrafo reformado DOF 16-11-2023
+Las autoridades de las entidades federativas, de los municipios y de las alcaldías de la Ciudad de México deben cooperar con la Secretaría de Gobernación, conforme a lo dispuesto en el artículo [10](../../lfjs/markdown/articulo-10.md) de la Ley Federal de Juegos y Sorteos. Párrafo reformado DOF 16-11-2023

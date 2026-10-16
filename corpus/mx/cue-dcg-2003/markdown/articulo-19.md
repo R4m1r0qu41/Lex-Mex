@@ -22,7 +22,7 @@ I. Obtener la previa autorización de la Comisión.
 
 II. Difundir la información de que se trate, con posterioridad a que el prospecto o suplemento informativo haya sido divulgado en términos del artículo [23](articulo-23.md) de las presentes disposiciones.
 
-III. Que la información incluya, cuando menos, la denominación de la emisora, tipo de valores y nombre del intermediario colocador al que se podrá solicitar mayor información, así como la mención a que hace referencia el artículo 86, penúltimo párrafo de la Ley del Mercado de Valores.
+III. Que la información incluya, cuando menos, la denominación de la emisora, tipo de valores y nombre del intermediario colocador al que se podrá solicitar mayor información, así como la mención a que hace referencia el artículo [86](../../lmv/markdown/articulo-86.md), penúltimo párrafo de la Ley del Mercado de Valores.
 
 IV. Que únicamente dé a conocer información que se contenga en el prospecto de colocación, folleto o suplemento informativo. En todo caso, la información deberá ser clara, objetiva y veraz.
 

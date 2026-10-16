@@ -25,6 +25,6 @@ Monto de los ingresos amparados por Tasa aplicable comprobantes fiscales efectiv
 
 Los contribuyentes podrán disminuir a la cantidad que resulte, el impuesto sobre la renta pagado en las declaraciones mensuales a que se refiere el artículo [113-E](articulo-113-E.md) de esta Ley y, en su caso, el que les retuvieron conforme al artículo [113-J](articulo-113-J.md) de este ordenamiento.
 
-Se considera que se actualiza el supuesto previsto en el artículo 109, fracción I del Código Fiscal de la Federación, cuando los contribuyentes cancelen los comprobantes fiscales digitales por Internet, aún y cuando los receptores hayan dado efectos fiscales a los mismos.
+Se considera que se actualiza el supuesto previsto en el artículo [109](../../cff/markdown/articulo-109.md), fracción I del Código Fiscal de la Federación, cuando los contribuyentes cancelen los comprobantes fiscales digitales por Internet, aún y cuando los receptores hayan dado efectos fiscales a los mismos.
 
 Artículo adicionado DOF 12-11-2021

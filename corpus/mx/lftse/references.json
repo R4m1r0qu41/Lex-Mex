@@ -16,6 +16,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lftse:article:10-bis:reference:348-350:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lftse:article:10-bis",
+    "source_span": "15",
+    "start_char": 348,
+    "end_char": 350,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lft",
+    "target_provision_id": "urn:lex-mx:federal:statute:lft:article:15",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lftse:article:102:reference:170-172:95:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lftse:article:102",
     "source_span": "95",
@@ -23,6 +38,21 @@
     "end_char": 172,
     "target_instrument_id": "urn:lex-mx:federal:statute:lftse",
     "target_provision_id": "urn:lex-mx:federal:statute:lftse:article:95",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lftse:article:111:reference:1296-1298:22:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lftse:article:111",
+    "source_span": "22",
+    "start_char": 1296,
+    "end_char": 1298,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lissste",
+    "target_provision_id": "urn:lex-mx:federal:statute:lissste:article:22",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -485,6 +515,28 @@
     "target_instrument_id": "urn:lex-mx:federal:statute:lftse",
     "target_provision_id": "urn:lex-mx:federal:statute:lftse:article:50",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lftse:transitory:7o:reference:430-432:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lftse:transitory:7o",
+    "source_span": "89",
+    "start_char": 430,
+    "end_char": 432,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 406,
+        "end_char": 416
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

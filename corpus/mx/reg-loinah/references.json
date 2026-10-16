@@ -1,6 +1,28 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:52:reference:123-125:37:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:52",
+    "source_span": "37",
+    "start_char": 123,
+    "end_char": 125,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:37",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XII",
+        "start_char": 127,
+        "end_char": 139
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-loinah:article:53:reference:44-61:52:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:53",
     "source_span": "artículo anterior",

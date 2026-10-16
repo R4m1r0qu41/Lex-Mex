@@ -29,6 +29,6 @@ IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a l
 
 V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos [1713](articulo-1713.md), [1770](articulo-1770.md) y demás relativos de este Código; y
 
-VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 810 del Código Nacional de Procedimientos Civiles y Familiares. Fracción reformada DOF 14-11-2025
+VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo [810](../../cnpcf/markdown/articulo-810.md) del Código Nacional de Procedimientos Civiles y Familiares. Fracción reformada DOF 14-11-2025
 
 Artículo adicionado DOF 06-01-1994

@@ -17,19 +17,19 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 2
 
-Las definiciones previstas en el artículo 2 de la [Ley](articulo-2.md) Federal de Presupuesto y Responsabilidad Hacendaria serán aplicables en el presente Reglamento. Adicionalmente, de conformidad con el último párrafo de dicho artículo, se entenderá por:
+Las definiciones previstas en el artículo [2](../../lfprh/markdown/articulo-2.md) de la [Ley](articulo-2.md) Federal de Presupuesto y Responsabilidad Hacendaria serán aplicables en el presente Reglamento. Adicionalmente, de conformidad con el último párrafo de dicho artículo, se entenderá por:
 
 I. Se deroga. Fracción derogada DOF 08-08-2025
 
-II. Aportaciones federales: los recursos transferidos a las entidades federativas y municipios a través de los fondos a que se refiere el artículo 25 de la Ley de Coordinación Fiscal;
+II. Aportaciones federales: los recursos transferidos a las entidades federativas y municipios a través de los fondos a que se refiere el artículo [25](../../lcf/markdown/articulo-25.md) de la Ley de Coordinación Fiscal;
 
 III. Derogada. Fracción derogada DOF 25-04-2014
 
 IV. Balance financiero: la diferencia entre los ingresos y el gasto neto total, incluyendo el costo financiero de la deuda pública del Gobierno Federal y de las entidades de control directo;
 
-V. Balance primario: la diferencia entre los ingresos y el gasto neto total, excluyendo el costo financiero de la deuda pública del Gobierno Federal y de las entidades de control directo; VI. Cartera: los Programas y Proyectos de Inversión de conformidad con lo establecido en los artículos 34, fracción III, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 46 de este Reglamento;
+V. Balance primario: la diferencia entre los ingresos y el gasto neto total, excluyendo el costo financiero de la deuda pública del Gobierno Federal y de las entidades de control directo; VI. Cartera: los Programas y Proyectos de Inversión de conformidad con lo establecido en los artículos [34](../../lfprh/markdown/articulo-34.md), fracción III, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 46 de este Reglamento;
 
-VII. Clave presupuestaria: la agrupación de los componentes de las clasificaciones a que se refiere el artículo 28 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que identifica, ordena y consolida en un registro, la información de dichas clasificaciones y vincula las asignaciones que se determinan durante la programación, integración y aprobación del Presupuesto de Egresos, con las etapas de control, y las de ejecución y seguimiento del ejercicio del gasto;
+VII. Clave presupuestaria: la agrupación de los componentes de las clasificaciones a que se refiere el artículo [28](../../lfprh/markdown/articulo-28.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que identifica, ordena y consolida en un registro, la información de dichas clasificaciones y vincula las asignaciones que se determinan durante la programación, integración y aprobación del Presupuesto de Egresos, con las etapas de control, y las de ejecución y seguimiento del ejercicio del gasto;
 
 VIII. Comisión: la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación; Fracción reformada DOF 04-09-2009
 
@@ -37,15 +37,15 @@ IX. Cuenta por liquidar certificada: el medio por el cual se realizan cargos al 
 
 X. Disponibilidades financieras: los recursos financieros que las entidades mantienen en caja, depósitos o inversiones hasta en tanto son aplicados a cubrir su flujo de operación o gasto;
 
-XI. Entidades apoyadas: las entidades a que se refiere el artículo 2, fracción XVI de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que reciben transferencias y subsidios con cargo al Presupuesto de Egresos;
+XI. Entidades apoyadas: las entidades a que se refiere el artículo [2](../../lfprh/markdown/articulo-2.md), fracción XVI de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que reciben transferencias y subsidios con cargo al Presupuesto de Egresos;
 
-XII. Entidades no apoyadas: las entidades a que se refiere el artículo 2, fracción XVI de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que no reciben transferencias ni subsidios con cargo al Presupuesto de Egresos;
+XII. Entidades no apoyadas: las entidades a que se refiere el artículo [2](../../lfprh/markdown/articulo-2.md), fracción XVI de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que no reciben transferencias ni subsidios con cargo al Presupuesto de Egresos;
 
 XIII. Estructura ocupacional: el conjunto de puestos con funciones definidas, delimitadas y concretas que permiten el cumplimiento de los objetivos de las unidades administrativas con base en los registros y autorizaciones, en los términos de las disposiciones aplicables, la cual se vincula a la estructura orgánica cuando identifica al superior jerárquico de cada uno de esos puestos, y a la estructura salarial cuando identifica el nivel tabular de los mismos; Fracción reformada DOF 04-09-2009
 
 XIV. Se deroga. Fracción derogada DOF 04-09-2009
 
-XIV Bis. Evaluación costo y beneficio: la evaluación a que se refiere el artículo 34, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en donde se muestre que dichos programas y proyectos de inversión son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables; Fracción adicionada DOF 08-08-2025
+XIV Bis. Evaluación costo y beneficio: la evaluación a que se refiere el artículo [34](../../lfprh/markdown/articulo-34.md), fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en donde se muestre que dichos programas y proyectos de inversión son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables; Fracción adicionada DOF 08-08-2025
 
 XV. Instituciones financieras internacionales: las instituciones internacionales públicas o privadas, cuya función es otorgar o garantizar crédito externo a corto o largo plazo, que no constituyen un organismo financiero internacional;
 

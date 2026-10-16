@@ -29,7 +29,7 @@ c) Que para cancelar la fianza, será requisito contar con el consentimiento exp
 
 d) Que la afianzadora acepta expresamente someterse a los procedimientos de ejecución previstos en la Ley de Instituciones de Seguros y de Fianzas, aún para el caso de que proceda el cobro de indemnización por mora con motivo del pago extemporáneo del importe de la póliza de fianza requerida. Inciso reformado DOF 20-02-2017
 
-Tratándose de fianzas a favor de las Dependencias, el procedimiento de ejecución será el previsto en el artículo 282 de la Ley de Instituciones de Seguros y de Fianzas; Párrafo reformado DOF 20-02-2017
+Tratándose de fianzas a favor de las Dependencias, el procedimiento de ejecución será el previsto en el artículo [282](../../lisf/markdown/articulo-282.md) de la Ley de Instituciones de Seguros y de Fianzas; Párrafo reformado DOF 20-02-2017
 
 II. En caso de prórrogas o esperas, o cualesquiera modificaciones a las obligaciones garantizadas, deberán realizarse las modificaciones correspondientes a la fianza. Toda modificación deberá formalizarse con la participación de la afianzadora, en términos de las disposiciones aplicables;
 

@@ -17,7 +17,7 @@ source_sha256: f9c395f4ea69c08016d20173667f4c2dd5de0b2898bb119d806e8274dca6dd98
 
 # Artículo 15
 
-La Junta de Gobierno, además de las atribuciones que le confiere el artículo 58 de la Ley Federal de las Entidades Paraestatales, tendrá las siguientes facultades:
+La Junta de Gobierno, además de las atribuciones que le confiere el artículo [58](../../lfep/markdown/articulo-58.md) de la Ley Federal de las Entidades Paraestatales, tendrá las siguientes facultades:
 
 I. Aprobar el proyecto de presupuesto anual del Instituto y su programa operativo anual, a propuesta de su Director o Directora General;
 

@@ -27,4 +27,4 @@ III. Llevar a cabo reuniones periódicas, a fin de supervisar los avances de las
 
 IV. Las que específicamente se prevean en los acuerdos o convenios de coordinación que al efecto se hayan celebrado.
 
-Los convenios y acuerdos de coordinación que para estos efectos celebren autoridades del Gobierno Federal y las entidades federativas, con la participación de las autoridades municipales, quedarán sujetos a los criterios y formalidades previstas en el artículo 12 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y demás disposiciones aplicables.
+Los convenios y acuerdos de coordinación que para estos efectos celebren autoridades del Gobierno Federal y las entidades federativas, con la participación de las autoridades municipales, quedarán sujetos a los criterios y formalidades previstas en el artículo [12](../../lgeepa/markdown/articulo-12.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y demás disposiciones aplicables.

@@ -25,7 +25,7 @@ Las autoridades educativas de las entidades federativas deberán proporcionar a 
 
 II. Las autoridades educativas de las entidades federativas deberán, en los plazos y condiciones establecidos en las disposiciones a que se refiere la fracción anterior, registrar en el sistema de administración de nómina la información relativa a los movimientos del personal que modifiquen cada nómina.
 
-La información que las autoridades educativas de las entidades federativas registren en el sistema de administración de nómina, deberá corresponder a aquélla registrada en el Sistema de Información y Gestión Educativa a que se refiere el artículo 12, fracción X, de la Ley General de Educación;
+La información que las autoridades educativas de las entidades federativas registren en el sistema de administración de nómina, deberá corresponder a aquélla registrada en el Sistema de Información y Gestión Educativa a que se refiere el artículo [12](../../lge/markdown/articulo-12.md), fracción X, de la Ley General de Educación;
 
 III. Con base en la información registrada en el sistema de administración de nómina, la Secretaría de Educación Pública verificará que ésta corresponda con la contenida en el Sistema de Información y Gestión Educativa y solicitará a las autoridades educativas de las entidades federativas, la validación de la nómina correspondiente a cada una de ellas.
 
@@ -47,7 +47,7 @@ Sin perjuicio de lo anterior, las autoridades educativas de las entidades federa
 
 VIII. Las entidades federativas realizarán los registros e informarán sobre las aportaciones federales a que se refiere este artículo, en los términos de los artículos [48](articulo-48.md) y [49](articulo-49.md) de esta Ley, y
 
-IX. La Secretaría de Educación Pública presentará a través de Internet la información a que se refiere el artículo 73 de la Ley General de Contabilidad Gubernamental, respecto al Fondo a que se refiere este artículo.
+IX. La Secretaría de Educación Pública presentará a través de Internet la información a que se refiere el artículo [73](../../lgcg/markdown/articulo-73.md) de la Ley General de Contabilidad Gubernamental, respecto al Fondo a que se refiere este artículo.
 
 Los recursos a que se refieren las fracciones anteriores sólo podrán erogarse en el ejercicio fiscal en que fueron presupuestados, exclusivamente para el pago de los conceptos relativos a servicios personales del personal a que se refiere el [artículo anterior](articulo-26.md), incluyendo el incremento en remuneraciones que, en su caso, se acuerde en los términos del artículo [27-A](articulo-27-A.md) de esta Ley.
 

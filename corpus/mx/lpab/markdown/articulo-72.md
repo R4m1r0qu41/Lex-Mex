@@ -17,4 +17,4 @@ source_sha256: 40725278819b2229ddb95c8deda858d7fda9c9dd83654729e9242727f1eee4a8
 
 # Artículo 72
 
-Al [Instituto](articulo-5o.md) le serán aplicables los artículos 68, 86, y 100 de la Ley de [Instituciones](articulo-5o.md) de Crédito.
+Al [Instituto](articulo-5o.md) le serán aplicables los artículos [68](../../lic/markdown/articulo-68.md), [86](../../lic/markdown/articulo-86.md), y [100](../../lic/markdown/articulo-100.md) de la Ley de [Instituciones](articulo-5o.md) de Crédito.

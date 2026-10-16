@@ -27,7 +27,7 @@ I.- Poder general para pleitos y cobranzas y actos de administración en los té
 
 II.- Poder especial para pleitos y cobranzas, con las cláusulas especiales a que se refiere el artículo [2587](../../ccf/markdown/articulo-2587.md) del Código Civil Federal.
 
-III.- Poder para actos de administración en materia laboral con facultades expresas para articular y absolver posiciones de acuerdo con lo dispuesto en el artículo 786 de la Ley Federal del Trabajo, con facultades para administrar las relaciones laborales y conciliar de acuerdo con lo dispuesto en los artículos 11 y 876, fracciones I y VI de la misma Ley, así como comparecer en juicio en los términos de los artículos 692, fracciones I, II y III, y el 878 de la Ley referida.
+III.- Poder para actos de administración en materia laboral con facultades expresas para articular y absolver posiciones de acuerdo con lo dispuesto en el artículo [786](../../lft/markdown/articulo-786.md) de la Ley Federal del Trabajo, con facultades para administrar las relaciones laborales y conciliar de acuerdo con lo dispuesto en los artículos 11 y 876, fracciones I y VI de la misma Ley, así como comparecer en juicio en los términos de los artículos 692, fracciones I, II y III, y el 878 de la Ley referida.
 
 IV.- Poder para otorgar y suscribir títulos de crédito, en los términos del artículo [9](../../lgtoc/markdown/articulo-9o.md)o. de la Ley General de Títulos y Operaciones de Crédito. Las facultades a que se refiere este artículo se podrán ejercitar ante cualquier autoridad jurisdiccional, sea civil, penal, administrativa, laboral, militar, federal, estatal o municipal.
 

@@ -19,7 +19,7 @@ source_sha256: 64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df
 
 No estarán obligados al pago del derecho federal a que se refiere este Capítulo:
 
-I. Los contribuyentes cuya descarga de aguas residuales del trimestre no rebase los límites permisibles establecidos en las siguientes tablas o, en su caso, en las condiciones particulares de descarga que la Comisión Nacional del Agua emita conforme a la declaratoria de clasificación del cuerpo de las aguas nacionales que corresponda, publicada en el Diario Oficial de la Federación a que se refiere el artículo 87 de la Ley de Aguas Nacionales. Párrafo reformado DOF 13-11-2023
+I. Los contribuyentes cuya descarga de aguas residuales del trimestre no rebase los límites permisibles establecidos en las siguientes tablas o, en su caso, en las condiciones particulares de descarga que la Comisión Nacional del Agua emita conforme a la declaratoria de clasificación del cuerpo de las aguas nacionales que corresponda, publicada en el Diario Oficial de la Federación a que se refiere el artículo [87](../../lan/markdown/articulo-87.md) de la Ley de Aguas Nacionales. Párrafo reformado DOF 13-11-2023
 
 Tabla LÍMITES PERMISIBLES
 

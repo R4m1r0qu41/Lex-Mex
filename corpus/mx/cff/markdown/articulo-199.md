@@ -19,7 +19,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 Se considera un esquema reportable, cualquiera que genere o pueda generar, directa o indirectamente, la obtención de un beneficio fiscal en México y tenga alguna de las siguientes características:
 
-I. Evite que autoridades extranjeras intercambien información fiscal o financiera con las autoridades fiscales mexicanas, incluyendo por la aplicación del Estándar para el Intercambio Automático de Información sobre Cuentas Financieras en Materia Fiscal, a que se refiere la recomendación adoptada por el Consejo de la Organización para la Cooperación y el Desarrollo Económicos el 15 de julio de 2014, así como otras formas de intercambio de información similares. En el caso del referido Estándar, esta fracción no será aplicable en la medida que el contribuyente haya recibido documentación por parte de un intermediario que demuestre que la información ha sido revelada por dicho intermediario a la autoridad fiscal extranjera de que se trate. Lo dispuesto en esta fracción incluye cuando se utilice una cuenta, producto financiero o inversión que no sea una cuenta financiera para efectos del referido Estándar o cuando se reclasifique una renta o capital en productos no sujetos a intercambio de información. II. Evite la aplicación del artículo 4-B o del Capítulo I, del Título VI, de la Ley del Impuesto sobre la Renta.
+I. Evite que autoridades extranjeras intercambien información fiscal o financiera con las autoridades fiscales mexicanas, incluyendo por la aplicación del Estándar para el Intercambio Automático de Información sobre Cuentas Financieras en Materia Fiscal, a que se refiere la recomendación adoptada por el Consejo de la Organización para la Cooperación y el Desarrollo Económicos el 15 de julio de 2014, así como otras formas de intercambio de información similares. En el caso del referido Estándar, esta fracción no será aplicable en la medida que el contribuyente haya recibido documentación por parte de un intermediario que demuestre que la información ha sido revelada por dicho intermediario a la autoridad fiscal extranjera de que se trate. Lo dispuesto en esta fracción incluye cuando se utilice una cuenta, producto financiero o inversión que no sea una cuenta financiera para efectos del referido Estándar o cuando se reclasifique una renta o capital en productos no sujetos a intercambio de información. II. Evite la aplicación del artículo [4-B](../../lisr/markdown/articulo-4-B.md) o del Capítulo I, del Título VI, de la Ley del Impuesto sobre la Renta.
 
 III. Consista en uno o más actos jurídicos que permitan transmitir pérdidas fiscales pendientes de disminuir de utilidades fiscales, a personas distintas de las que las generaron.
 
@@ -41,13 +41,13 @@ e) Se utilice un régimen de protección unilateral concedido en términos de un
 
 VII. Se evite constituir un establecimiento permanente en México en términos de la Ley del Impuesto sobre la Renta y los tratados para evitar la doble tributación suscritos por México. VIII. Involucre la transmisión de un activo depreciado total o parcialmente, que permita su depreciación por otra parte relacionada.
 
-IX. Cuando involucre un mecanismo híbrido definido de conformidad con la fracción XXIII del artículo 28 de la Ley del Impuesto sobre la Renta.
+IX. Cuando involucre un mecanismo híbrido definido de conformidad con la fracción XXIII del artículo [28](../../lisr/markdown/articulo-28.md) de la Ley del Impuesto sobre la Renta.
 
 X. Evite la identificación del beneficiario efectivo de ingresos o activos, incluyendo a través del uso de entidades extranjeras o figuras jurídicas cuyos beneficiarios no se encuentren designados o identificados al momento de su constitución o en algún momento posterior.
 
 XI. Cuando se tengan pérdidas fiscales cuyo plazo para realizar su disminución de la utilidad fiscal esté por terminar conforme a la Ley del Impuesto sobre la Renta y se realicen operaciones para obtener utilidades fiscales a las cuales se les disminuyan dichas pérdidas fiscales y dichas operaciones le generan una deducción autorizada al contribuyente que generó las pérdidas o a una parte relacionada.
 
-XII. Evite la aplicación de la tasa adicional del 10% prevista en los artículos 140, segundo párrafo; 142, segundo párrafo de la fracción V; y 164 de la Ley del Impuesto sobre la Renta.
+XII. Evite la aplicación de la tasa adicional del 10% prevista en los artículos [140](../../lisr/markdown/articulo-140.md), segundo párrafo; [142](../../lisr/markdown/articulo-142.md), segundo párrafo de la fracción V; y 164 de la Ley del Impuesto sobre la Renta.
 
 XIII. En el que se otorgue el uso o goce temporal de un bien y el arrendatario a su vez otorgue el uso o goce temporal del mismo bien al arrendador o una parte relacionada de este último.
 

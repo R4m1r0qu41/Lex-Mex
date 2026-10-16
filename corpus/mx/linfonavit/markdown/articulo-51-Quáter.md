@@ -17,7 +17,7 @@ source_sha256: 9ee6e5ef336dee5700726bd3c570d24f91fc458136e298ae2e3806bd12217912
 
 Las personas trabajadoras derechohabientes tendrán las siguientes obligaciones frente al Instituto en materia de arrendamiento social:
 
-I.- Pagar en tiempo, forma y de manera completa las rentas a que estén obligados. Para tales efectos el monto de las rentas será descontado del salario en los términos de los artículos 97 y 110 de la Ley Federal del Trabajo;
+I.- Pagar en tiempo, forma y de manera completa las rentas a que estén obligados. Para tales efectos el monto de las rentas será descontado del salario en los términos de los artículos [97](../../lft/markdown/articulo-97.md) y [110](../../lft/markdown/articulo-110.md) de la Ley Federal del Trabajo;
 
 II.- Cuidar diligentemente la vivienda que se le otorgue como si fuera propia;
 

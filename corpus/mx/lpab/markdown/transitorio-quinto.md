@@ -15,7 +15,7 @@ source_sha256: 40725278819b2229ddb95c8deda858d7fda9c9dd83654729e9242727f1eee4a8
 
 # QUINTO
 
-El Fideicomiso a que se refiere el artículo 122 de la Ley de [Instituciones](articulo-5o.md) de Crédito vigente hasta antes de la entrada en vigor del presente Decreto permanecerá en operación, con el único objeto de administrar las operaciones del programa conocido como de "capitalización y compra de cartera" y de dar cumplimiento a lo señalado en el artículo Séptimo Transitorio de este Decreto, a fin de que se concluyan las auditorías ordenadas por la Cámara de Diputados.
+El Fideicomiso a que se refiere el artículo [122](../../lic/markdown/articulo-122.md) de la Ley de [Instituciones](articulo-5o.md) de Crédito vigente hasta antes de la entrada en vigor del presente Decreto permanecerá en operación, con el único objeto de administrar las operaciones del programa conocido como de "capitalización y compra de cartera" y de dar cumplimiento a lo señalado en el artículo Séptimo Transitorio de este Decreto, a fin de que se concluyan las auditorías ordenadas por la Cámara de Diputados.
 
 El Ejecutivo Federal y la Cámara de Diputados tomarán las medidas pertinentes para que las auditorías concluyan en un plazo máximo de 6 meses a partir de la entrada en vigor de esta Ley.
 
@@ -35,7 +35,7 @@ Cuando la ilegalidad del crédito sea atribuible a la administración de la inst
 
 Las Reglas Generales deberán sujetarse estrictamente a lo siguiente:
 
-A) Se establecerá el mecanismo para que los interesados puedan afectar en fideicomiso los derechos de cobro que les devuelva el Fideicomiso a que se refiere el artículo 122 de la Ley de Instituciones de Crédito vigente hasta antes de la entrada en vigor del presente Decreto, y de esta manera estén en posibilidad de emitir títulos de crédito a través del fideicomiso, con el objeto de realizar colocaciones y obtener liquidez;
+A) Se establecerá el mecanismo para que los interesados puedan afectar en fideicomiso los derechos de cobro que les devuelva el Fideicomiso a que se refiere el artículo [122](../../lic/markdown/articulo-122.md) de la Ley de Instituciones de Crédito vigente hasta antes de la entrada en vigor del presente Decreto, y de esta manera estén en posibilidad de emitir títulos de crédito a través del fideicomiso, con el objeto de realizar colocaciones y obtener liquidez;
 
 B) El Instituto y las Instituciones participantes en el nuevo programa, convendrán una fórmula que obligue a las Instituciones a la obtención de los mejores resultados en los procesos de administración y cobranza de los créditos designados dentro del referido programa. El convenio respectivo preverá sanciones aplicables a las Instituciones, que no acrediten haber adoptado las medidas y providencias para efectuar una diligente administración y cobranza de tales créditos; C) El Instituto y las Instituciones, acordarán un mecanismo propicio para que el costo derivado de los créditos a que se refiere el párrafo anterior, que no fueran cubiertos totalmente, se absorba preferentemente con cargo a las Instituciones y por el sistema financiero;
 

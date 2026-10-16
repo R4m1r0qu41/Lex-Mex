@@ -21,7 +21,7 @@ La [Comisión](articulo-3.md), mediante disposiciones de carácter general que p
 
 La Comisión establecerá, mediante disposiciones de carácter general que faciliten la transparencia y confiabilidad de la información financiera de las uniones, la forma y el contenido que deberán presentar los estados financieros de las uniones; de igual forma, podrá ordenar que los estados financieros se difundan con las modificaciones pertinentes y en los plazos que al efecto establezca.
 
-Las uniones como excepción a lo dispuesto en el artículo 177 de la Ley General de Sociedades Mercantiles, deberán publicar sus estados financieros en los términos y medios que establezcan las disposiciones de carácter general a que se refiere el párrafo primero de este artículo.
+Las uniones como excepción a lo dispuesto en el artículo [177](../../lgsm/markdown/articulo-177.md) de la Ley General de Sociedades Mercantiles, deberán publicar sus estados financieros en los términos y medios que establezcan las disposiciones de carácter general a que se refiere el párrafo primero de este artículo.
 
 Los estados financieros anuales deberán estar dictaminados por un auditor externo independiente, quien será designado directamente por el consejo de administración de la unión de que se trate.
 

@@ -17,9 +17,9 @@ source_sha256: f6af373e0f5b95596b4e54f4ccd2e0270fcc85bd4f05fb43da775de2f53c9ff7
 
 # Artículo 25
 
-El Director General de la [Comisión](articulo-4.md) tendrá la representación legal de la misma, además de las facultades y obligaciones establecidas por los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales, contará con las siguientes facultades:
+El Director General de la [Comisión](articulo-4.md) tendrá la representación legal de la misma, además de las facultades y obligaciones establecidas por los artículos [22](../../lfep/markdown/articulo-22.md) y [59](../../lfep/markdown/articulo-59.md) de la Ley Federal de las Entidades Paraestatales, contará con las siguientes facultades:
 
-I. Ejercer las funciones de su competencia por acuerdo del Presidente de la República y asistir a las reuniones a que se refiere el Artículo 7o. de la Ley Orgánica de la Administración Pública Federal;
+I. Ejercer las funciones de su competencia por acuerdo del Presidente de la República y asistir a las reuniones a que se refiere el Artículo [7](../../loapf/markdown/articulo-7o.md)o. de la Ley Orgánica de la Administración Pública Federal;
 
 II. Administrar los recursos humanos, materiales y financieros asignados a la Comisión; III. Proponer a la Junta de Gobierno la designación de los servidores públicos de las dos jerarquías inmediatas inferiores a la del propio Titular;
 

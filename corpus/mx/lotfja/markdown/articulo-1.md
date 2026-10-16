@@ -21,7 +21,7 @@ La presente Ley es de orden público e interés general y tiene por objeto deter
 
 El Tribunal Federal de Justicia Administrativa es un órgano jurisdiccional con autonomía para emitir sus fallos y con jurisdicción plena.
 
-Formará parte del Sistema Nacional Anticorrupción y estará sujeto a las bases establecidas en el artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, en la Ley General correspondiente y en el presente ordenamiento.
+Formará parte del Sistema Nacional Anticorrupción y estará sujeto a las bases establecidas en el artículo [113](../../cpeum/markdown/articulo-113.md) de la Constitución Política de los Estados Unidos Mexicanos, en la Ley General correspondiente y en el presente ordenamiento.
 
 Las resoluciones que emita el Tribunal deberán apegarse a los principios de legalidad, máxima publicidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso. El presupuesto aprobado por la Cámara de Diputados para el Tribunal Federal de Justicia Administrativa, se ejercerá con autonomía y conforme a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y las disposiciones legales aplicables, bajo los principios de legalidad, certeza, independencia, honestidad, responsabilidad y transparencia. Su administración será eficiente para lograr la eficacia de la justicia administrativa bajo el principio de rendición de cuentas.
 

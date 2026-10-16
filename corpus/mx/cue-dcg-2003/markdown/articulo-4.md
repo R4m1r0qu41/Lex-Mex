@@ -56,7 +56,7 @@ Las Emisoras a que hace referencia el presente artículo, que opten por presenta
 
 financiera de conformidad con el artículo [79](articulo-79.md), fracción III de las presentes disposiciones, podrán omitir presentar la conciliación de las cuentas más relevantes a que se refiere dicha fracción, siempre que señalen el riesgo correspondiente a las diferencias contables que pudieran generarse, sin perjuicio de que deberán dar cumplimiento a lo establecido por la fracción II, inciso a) del artículo [37](articulo-37.md), o en su caso, por el artículo [33](articulo-33.md), fracción II de las presentes disposiciones.
 
-VI. Opinión legal a que se refiere el artículo 87, fracción II de la Ley del Mercado de Valores, expedida por licenciado en derecho del país de origen de la emisora o de cotización principal de sus valores, que reúna los requisitos de independencia previstos por el artículo [87](articulo-87.md) de estas disposiciones.
+VI. Opinión legal a que se refiere el artículo [87](../../lmv/markdown/articulo-87.md), fracción II de la Ley del Mercado de Valores, expedida por licenciado en derecho del país de origen de la emisora o de cotización principal de sus valores, que reúna los requisitos de independencia previstos por el artículo [87](articulo-87.md) de estas disposiciones.
 
 VII. La documentación a que hace referencia el artículo [2](articulo-2.md), fracción I, incisos e), g), k), l) y m) de estas disposiciones.
 

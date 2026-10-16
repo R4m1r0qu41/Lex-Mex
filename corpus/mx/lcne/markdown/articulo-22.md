@@ -25,7 +25,7 @@ II. Ser sentenciada por la comisión de algún delito doloso;
 
 III. [Haber sido declarada en estado de interdicción;] Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 04-11-2025 y publicada DOF 26-12-2025
 
-IV. Incumplir alguna de las obligaciones a que se refieren las fracciones IX, X y XIII, del artículo 7, de la Ley General de Responsabilidades Administrativas, cuando dicho incumplimiento se determine por resolución definitiva;
+IV. Incumplir alguna de las obligaciones a que se refieren las fracciones IX, X y XIII, del artículo [7](../../lgra/markdown/articulo-7.md), de la Ley General de Responsabilidades Administrativas, cuando dicho incumplimiento se determine por resolución definitiva;
 
 V. No asistir a tres o más de tres sesiones ordinarias o extraordinarias del Comité Técnico al año, sin motivo o causa justificada;
 

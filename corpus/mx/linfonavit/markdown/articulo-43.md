@@ -15,7 +15,7 @@ source_sha256: 9ee6e5ef336dee5700726bd3c570d24f91fc458136e298ae2e3806bd12217912
 
 # Artículo 43
 
-En los términos de la fracción XII del apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la administración de los recursos del Fondo Nacional de la Vivienda para los Trabajadores estará a cargo del Instituto.
+En los términos de la fracción XII del apartado "A" del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos, la administración de los recursos del Fondo Nacional de la Vivienda para los Trabajadores estará a cargo del Instituto.
 
 Las aportaciones, así como los descuentos para cubrir los créditos que otorgue el Instituto que reciban las entidades receptoras autorizadas conforme a esta Ley, deberán ser transferidas a la cuenta que el Banco de México le lleve al Instituto, en los términos y conforme a los procedimientos que se establezcan en el Reglamento de la Ley de los Sistemas de Ahorro para el Retiro. Párrafo reformado DOF 12-01-2012
 

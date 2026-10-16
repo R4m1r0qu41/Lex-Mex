@@ -23,6 +23,6 @@ El estímulo fiscal consiste en poder deducir de los ingresos acumulables del co
 
 Se otorga un estímulo fiscal a quien contrate adultos mayores, consistente en deducir de sus ingresos acumulables para los efectos del impuesto sobre la renta del ejercicio fiscal correspondiente, el equivalente al 25% del salario efectivamente pagado a las personas de 65 años y más. Para estos efectos, se deberá considerar la totalidad del salario que sirva de base para calcular, en el ejercicio que corresponda, las retenciones del impuesto sobre la renta del trabajador de que se trate, en los términos del artículo [96](articulo-96.md) de esta Ley.
 
-Los contribuyentes que apliquen los beneficios previstos en este artículo, deberán cumplir con las obligaciones contenidas en el artículo 15 de la Ley del Seguro Social.
+Los contribuyentes que apliquen los beneficios previstos en este artículo, deberán cumplir con las obligaciones contenidas en el artículo [15](../../lss/markdown/articulo-15.md) de la Ley del Seguro Social.
 
 Artículo reformado DOF 09-12-2019

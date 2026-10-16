@@ -21,7 +21,7 @@ El procedimiento de disolución y liquidación a que se refiere el artículo [24
 
 I.- La totalidad de los socios o accionistas acordarán mediante asamblea la disolución y liquidación de la sociedad, declarando bajo protesta de decir verdad, que se ubican y cumplen con las condiciones a que se refiere el artículo [249 Bis](articulo-249-Bis.md) de esta Ley, y nombrarán al liquidador de entre los socios o accionistas.
 
-Este acuerdo deberá suscribirse por todos los socios o accionistas, constar en acta de disolución y liquidación y publicarse en el sistema electrónico establecido por la Secretaría de Economía previsto en el artículo 50 Bis del Código de Comercio, a más tardar dentro de los 5 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación, en ningún caso se exigirá el requisito de escritura pública, póliza, o cualquier otra formalidad adicional a la contemplada en este párrafo;
+Este acuerdo deberá suscribirse por todos los socios o accionistas, constar en acta de disolución y liquidación y publicarse en el sistema electrónico establecido por la Secretaría de Economía previsto en el artículo [50 Bis](../../ccom/markdown/articulo-50-Bis.md) del Código de Comercio, a más tardar dentro de los 5 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación, en ningún caso se exigirá el requisito de escritura pública, póliza, o cualquier otra formalidad adicional a la contemplada en este párrafo;
 
 II.- Una vez publicado el acuerdo, la Secretaría de Economía verificará que el acta de disolución y liquidación de la sociedad cumpla con lo establecido en la fracción anterior y, de ser procedente, lo enviará electrónicamente para su inscripción en el Registro Público de Comercio de conformidad con lo dispuesto en el artículo 10 Bis 1 del Reglamento del Registro Público de Comercio;
 
@@ -29,7 +29,7 @@ III.- Los socios o accionistas entregarán al liquidador todos los bienes, libro
 
 IV.- El liquidador llevará a cabo la distribución del remanente del haber social entre los socios o accionistas de forma proporcional a sus aportaciones, si es que lo hubiere en un plazo que no excederá los 45 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación; V.- Los socios o accionistas entregarán al liquidador los títulos de las acciones a más tardar dentro de los 15 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación;
 
-VI.- Una vez liquidada la sociedad, el liquidador publicará el balance final de la sociedad en el sistema electrónico establecido por la Secretaría de Economía previsto en el artículo 50 Bis del Código de Comercio, que en ningún caso podrá exceder a los 60 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación, y
+VI.- Una vez liquidada la sociedad, el liquidador publicará el balance final de la sociedad en el sistema electrónico establecido por la Secretaría de Economía previsto en el artículo [50 Bis](../../ccom/markdown/articulo-50-Bis.md) del Código de Comercio, que en ningún caso podrá exceder a los 60 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación, y
 
 VII.- La Secretaría de Economía realizará la inscripción de la cancelación del folio de la sociedad en el Registro Público de Comercio de conformidad con lo dispuesto en el artículo 10 Bis 1 del Reglamento del Registro Público de Comercio y notificará a la autoridad fiscal correspondiente.
 

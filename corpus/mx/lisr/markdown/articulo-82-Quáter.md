@@ -27,7 +27,7 @@ II. No expedir el comprobante fiscal que ampare los donativos recibidos o expedi
 
 III. Cuando con motivo del ejercicio de las facultades de comprobación o de los expedientes, documentos o bases de datos del Servicio de Administración Tributaria o aquellas a las que tenga acceso o tenga en su poder dicho órgano administrativo desconcentrado, se conozca la actualización de cualquier hecho que constituya incumplimiento a las obligaciones o requisitos que establezcan las disposiciones fiscales a cargo de las donatarias autorizadas.
 
-IV. Estar incluida en la lista a que se refiere el cuarto párrafo del artículo 69-B del Código Fiscal de la Federación.
+IV. Estar incluida en la lista a que se refiere el cuarto párrafo del artículo [69-B](../../cff/markdown/articulo-69-B.md) del Código Fiscal de la Federación.
 
 V. Si el o los representantes legales, socios o asociados o cualquier integrante del Consejo Directivo o de Administración de una organización civil o fideicomiso que haya sido revocada su autorización por ubicarse en el supuesto referido en la fracción anterior, dentro de los últimos cinco años, forman parte de las organizaciones civiles y fideicomisos autorizados para recibir donativos deducibles durante la vigencia de la misma.
 
@@ -41,7 +41,7 @@ B. El Servicio de Administración Tributaria realizará el procedimiento de revo
 
 I. Emitirá oficio a través del cual dé a conocer a la donataria autorizada la causal de revocación que se configure conforme al apartado anterior, otorgándole un plazo de diez días hábiles siguientes a aquél en el que surta efectos la notificación de dicho oficio, a fin de que manifieste ante la autoridad fiscal lo que a su derecho convenga, aportando la documentación e información que considere pertinente para desvirtuar la misma.
 
-Se admitirá toda clase de pruebas, excepto la testimonial y la confesional a cargo de las autoridades. Las pruebas se valorarán en los términos del artículo 130 del Código Fiscal de la Federación.
+Se admitirá toda clase de pruebas, excepto la testimonial y la confesional a cargo de las autoridades. Las pruebas se valorarán en los términos del artículo [130](../../cff/markdown/articulo-130.md) del Código Fiscal de la Federación.
 
 II. Agotado el plazo a que se refiere la fracción anterior, la autoridad fiscal emitirá la resolución correspondiente en un plazo que no excederá de tres meses, contados a partir del día siguiente a aquél en que se agotó el referido plazo.
 

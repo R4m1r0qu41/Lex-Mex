@@ -17,4 +17,4 @@ source_sha256: 51f28ed8bbe83b9f62cf9a88705a4c40b1b9a18d2036e2381ee97933881f3a44
 
 # Artículo 22
 
-De acuerdo con lo establecido por el Artículo 6, Fracción XIV Bis de la Ley de la Comisión Nacional de los Derechos Humanos, ésta es la encargada de la observancia en el seguimiento, evaluación y monitoreo de la [Política Nacional](articulo-5.md) en Materia de Igualdad entre mujeres y hombres.
+De acuerdo con lo establecido por el Artículo [6](../../lcndh/markdown/articulo-6o.md), Fracción XIV Bis de la Ley de la Comisión Nacional de los Derechos Humanos, ésta es la encargada de la observancia en el seguimiento, evaluación y monitoreo de la [Política Nacional](articulo-5.md) en Materia de Igualdad entre mujeres y hombres.

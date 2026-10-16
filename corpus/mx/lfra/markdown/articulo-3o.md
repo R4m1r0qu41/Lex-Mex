@@ -27,4 +27,4 @@ III. La interpretación de la Ley penal en materia de delitos contra el ambiente
 
 IV. Los mecanismos alternativos de solución de controversias previstos en las Leyes, y
 
-V. La Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+V. La Ley de Amparo, Reglamentaria de los Artículos [103](../../cpeum/markdown/articulo-103.md) y [107](../../cpeum/markdown/articulo-107.md) de la Constitución Política de los Estados Unidos Mexicanos.

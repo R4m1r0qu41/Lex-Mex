@@ -17,16 +17,16 @@ source_sha256: b040dd53cd38f57ceaacd736fd04475ba82c840d063c62229302627d09f3f363
 
 La Comisión, previo derecho de audiencia de la Emisora, podrá cancelar la (108)
 
-Inscripción de los Valores en el Registro y podrá exceptuar a la Emisora de realizar una Oferta pública de adquisición, cuando el listado de los Valores se encuentre suspendido. La cancelación de la [Inscripción](articulo-1.md) de los Valores estará sujeta a las reglas previstas en el artículo 108, fracción I, incisos b) y c) de la Ley del Mercado de Valores.
+Inscripción de los Valores en el Registro y podrá exceptuar a la Emisora de realizar una Oferta pública de adquisición, cuando el listado de los Valores se encuentre suspendido. La cancelación de la [Inscripción](articulo-1.md) de los Valores estará sujeta a las reglas previstas en el artículo [108](../../lmv/markdown/articulo-108.md), fracción I, incisos b) y c) de la Ley del Mercado de Valores.
 
 En caso de que, adicionalmente a la suspensión señalada, la Emisora se encuentre en alguno de los (108)
 
-supuestos siguientes, la Comisión podrá exceptuar la obligación del cumplimiento de las reglas previstas en el artículo 108, fracción I, incisos b) y c) de la Ley del Mercado de Valores:
+supuestos siguientes, la Comisión podrá exceptuar la obligación del cumplimiento de las reglas previstas en el artículo [108](../../lmv/markdown/articulo-108.md), fracción I, incisos b) y c) de la Ley del Mercado de Valores:
 
 (108) I. Declaración de quiebra;
 
 (108) II. Liquidación judicial o forzosa;
 
-(108) III. Insolvencia acreditada que imposibilite cumplir con los incisos b) y c) de la fracción I del artículo 108 de la Ley del Mercado de Valores.
+(108) III. Insolvencia acreditada que imposibilite cumplir con los incisos b) y c) de la fracción I del artículo [108](../../lmv/markdown/articulo-108.md) de la Ley del Mercado de Valores.
 
 Capítulo Quinto De la oferta pública de compra

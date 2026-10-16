@@ -16,4 +16,4 @@ source_sha256: b040dd53cd38f57ceaacd736fd04475ba82c840d063c62229302627d09f3f363
 
 # Artículo 51
 
-Las emisoras que opten por diferir la revelación de algún evento relevante, en términos del artículo 105 de la Ley del Mercado de Valores, deberán llevar un registro con los nombres de las personas que hayan tenido acceso a la información, que incluya la fecha y hora en que se hicieron conocedores de la misma, obteniendo de éstas un compromiso de confidencialidad, conservando dicha información el carácter de privilegiada para todos los efectos legales aplicables.
+Las emisoras que opten por diferir la revelación de algún evento relevante, en términos del artículo [105](../../lmv/markdown/articulo-105.md) de la Ley del Mercado de Valores, deberán llevar un registro con los nombres de las personas que hayan tenido acceso a la información, que incluya la fecha y hora en que se hicieron conocedores de la misma, obteniendo de éstas un compromiso de confidencialidad, conservando dicha información el carácter de privilegiada para todos los efectos legales aplicables.

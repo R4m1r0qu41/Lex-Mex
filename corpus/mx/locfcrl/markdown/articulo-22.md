@@ -23,7 +23,7 @@ I. Celebrar actos y otorgar toda clase de documentos inherentes al objeto del Ce
 
 II. Tener la representación legal del Centro, así como ejercer facultades de administración, pleitos y cobranzas, con apego a la [Ley](articulo-3.md) y al Estatuto Orgánico.
 
-Previo acuerdo de la [Junta de Gobierno](articulo-3.md) podrá realizar actos de dominio; III. Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. El otorgamiento y validez de estos poderes, deberá seguir el procedimiento que se establece en los artículos 23 y 25 de la Ley Federal de las Entidades Paraestatales;
+Previo acuerdo de la [Junta de Gobierno](articulo-3.md) podrá realizar actos de dominio; III. Otorgar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial. El otorgamiento y validez de estos poderes, deberá seguir el procedimiento que se establece en los artículos [23](../../lfep/markdown/articulo-23.md) y [25](../../lfep/markdown/articulo-25.md) de la Ley Federal de las Entidades Paraestatales;
 
 IV. Sustituir y revocar poderes generales o especiales;
 

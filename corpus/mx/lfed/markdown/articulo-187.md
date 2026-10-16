@@ -17,4 +17,4 @@ source_sha256: e6a8ce3c4efe726e0336a029d6906fcefe2f517c2cf1e44edea9c4862ddd8c68
 
 # Artículo 187
 
-Si el [Ministerio Público](articulo-2.md) no cumple con lo dispuesto en el artículo que precede, la medida cautelar se revocará luego que la pida la [Parte Demandada](articulo-2.md).
+Si el [Ministerio Público](articulo-2.md) no cumple con lo dispuesto en el [artículo que precede](articulo-186.md), la medida cautelar se revocará luego que la pida la [Parte Demandada](articulo-2.md).

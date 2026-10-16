@@ -19,7 +19,7 @@ Para hacer cumplir sus determinaciones, las autoridades jurisdiccionales, previo
 
 I. Multa hasta por las cantidades a que se refiere el artículo [192](articulo-192.md) fracción III de este [Código Nacional](articulo-2.md), la cual podrá duplicarse en caso de reincidencia;
 
-II. Auxilio de la fuerza pública y la fractura de cerraduras si fuere necesario; III. Cateo por orden escrita, de conformidad con los requisitos del Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
+II. Auxilio de la fuerza pública y la fractura de cerraduras si fuere necesario; III. Cateo por orden escrita, de conformidad con los requisitos del Artículo [16](../../cpeum/markdown/articulo-16.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 IV. Arresto hasta por treinta y seis horas, y
 

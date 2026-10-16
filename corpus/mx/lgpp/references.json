@@ -246,6 +246,34 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpp:article:56:reference:2771-2773:29:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgpp:article:56",
+    "source_span": "29",
+    "start_char": 2771,
+    "end_char": 2773,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:29",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 2777,
+        "end_char": 2789
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso c",
+        "start_char": 2791,
+        "end_char": 2799
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpp:article:62:reference:156-173:61:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lgpp:article:62",
     "source_span": "artículo anterior",

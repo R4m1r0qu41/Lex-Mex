@@ -25,9 +25,9 @@ b) En el escrito deberá especificar de forma clara y precisa la totalidad de la
 
 d) Anexar la documentación que acredite el cumplimiento de la totalidad de las obligaciones objeto de infracción.
 
-Para los efectos del primer párrafo del artículo 55 de la Ley, se entenderá por plazo inicial del procedimiento de verificación el término de cinco días a que se refiere el artículo 68 de la Ley Federal de Procedimiento Administrativo.
+Para los efectos del primer párrafo del artículo 55 de la Ley, se entenderá por plazo inicial del procedimiento de verificación el término de cinco días a que se refiere el artículo [68](../../lfpa/markdown/articulo-68.md) de la Ley Federal de Procedimiento Administrativo.
 
-En cuanto al segundo párrafo del artículo 55 de la Ley, se entenderá por plazo inicial del procedimiento sancionador el periodo establecido en el artículo 72 de la Ley Federal de Procedimiento Administrativo.
+En cuanto al segundo párrafo del artículo 55 de la Ley, se entenderá por plazo inicial del procedimiento sancionador el periodo establecido en el artículo [72](../../lfpa/markdown/articulo-72.md) de la Ley Federal de Procedimiento Administrativo.
 
 Para obtener alguno de los beneficios previstos en el artículo 55 de la Ley, quien realice la Actividad Vulnerable deberá cumplir con lo previsto en las reglas de carácter general.
 

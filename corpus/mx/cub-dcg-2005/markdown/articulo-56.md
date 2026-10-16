@@ -21,7 +21,7 @@ Las Instituciones no estarán obligadas a sujetarse a los límites máximos esta
 
 el Artículo [54](articulo-54.md) de las presentes disposiciones, cuando celebren Financiamiento con:
 
-(382) I. La Administración Pública Federal centralizada a que se refiere el artículo 1 de la Ley Orgánica de la Administración Pública Federal, así como con aquellos sujetos de crédito respecto de los cuales el Gobierno Federal le otorgue su garantía en términos de la Ley Federal de Deuda Pública y, en su caso, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+(382) I. La Administración Pública Federal centralizada a que se refiere el artículo [1](../../loapf/markdown/articulo-1o.md) de la Ley Orgánica de la Administración Pública Federal, así como con aquellos sujetos de crédito respecto de los cuales el Gobierno Federal le otorgue su garantía en términos de la Ley Federal de Deuda Pública y, en su caso, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 (367) II. Derogada.
 

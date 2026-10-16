@@ -23,4 +23,4 @@ En caso de fallecimiento del Trabajador, si los beneficiarios a que se refiere e
 
 El Trabajador, deberá designar beneficiarios sustitutos de los indicados en el párrafo anterior, única y exclusivamente para el caso de que faltaren los beneficiarios legales. El Trabajador podrá en cualquier tiempo cambiar esta última designación. Dicha designación deberá realizarla en el PENSIONISSSTE o en la Administradora que le opere su Cuenta Individual.
 
-A falta de los beneficiarios legales y sustitutos, dicha entrega se hará en el orden de prelación previsto en el artículo 501 de la Ley Federal del Trabajo. Cualquier conflicto deberá ser resuelto ante el Tribunal Federal de Conciliación y Arbitraje.
+A falta de los beneficiarios legales y sustitutos, dicha entrega se hará en el orden de prelación previsto en el artículo [501](../../lft/markdown/articulo-501.md) de la Ley Federal del Trabajo. Cualquier conflicto deberá ser resuelto ante el Tribunal Federal de Conciliación y Arbitraje.

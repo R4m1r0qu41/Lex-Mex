@@ -21,11 +21,11 @@ Se podrán establecer mediante Reglas facilidades en la presentación del trámi
 
 Las facilidades a que se refiere el párrafo anterior serán aplicables únicamente si los interesados cumplen con los siguientes requisitos:
 
-I. Estar al corriente en el cumplimiento de sus obligaciones fiscales; II. No se le haya emitido y notificado la resolución que determine que emite falsos comprobantes fiscales, en términos del artículo 49 Bis del Código Fiscal de la Federación;
+I. Estar al corriente en el cumplimiento de sus obligaciones fiscales; II. No se le haya emitido y notificado la resolución que determine que emite falsos comprobantes fiscales, en términos del artículo [49 Bis](../../cff/markdown/articulo-49-Bis.md) del Código Fiscal de la Federación;
 
 III. No encontrarse en el listado de empresas publicadas por el [SAT](articulo-1.md) conforme a los artículos 69, con excepción de la fracción VI, 69-B, cuarto párrafo, y 69-B Bis, noveno párrafo, del Código Fiscal de la Federación;
 
-IV. Contar con certificados de sellos digitales vigentes y no encontrarse en alguno de los supuestos establecidos en los artículos 17-H y 17-H Bis del Código Fiscal de la Federación, durante los doce meses inmediatos anteriores a la fecha de presentación de la solicitud, y
+IV. Contar con certificados de sellos digitales vigentes y no encontrarse en alguno de los supuestos establecidos en los artículos [17-H](../../cff/markdown/articulo-17-H.md) y [17-H Bis](../../cff/markdown/articulo-17-H-Bis.md) del Código Fiscal de la Federación, durante los doce meses inmediatos anteriores a la fecha de presentación de la solicitud, y
 
 V. Las demás que se establezcan mediante Reglas.
 

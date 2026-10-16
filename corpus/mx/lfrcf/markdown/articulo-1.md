@@ -17,7 +17,7 @@ source_sha256: cc687a4d8d9de93d2d3ec9b40b26d0273e108bb002a6f611806dc36ebce5ba2c
 
 # Artículo 1
 
-La presente Ley es de orden público y tiene por objeto reglamentar los artículos 73 fracción XXIV, 74, fracciones II y VI, y 79 de la Constitución Política de los Estados Unidos Mexicanos en materia de revisión y fiscalización de:
+La presente Ley es de orden público y tiene por objeto reglamentar los artículos [73](../../cpeum/markdown/articulo-73.md) fracción XXIV, [74](../../cpeum/markdown/articulo-74.md), fracciones II y VI, y [79](../../cpeum/markdown/articulo-79.md) de la Constitución Política de los Estados Unidos Mexicanos en materia de revisión y fiscalización de:
 
 I. La [Cuenta Pública](articulo-4.md);
 

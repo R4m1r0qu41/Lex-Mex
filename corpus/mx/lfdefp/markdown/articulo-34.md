@@ -17,4 +17,4 @@ source_sha256: 603475aa11e46fa2fcf3b7e1c1ec111d4202070c309d1b355b834f011c226262
 
 # Artículo 34
 
-Los defensores públicos deberán excusarse de aceptar o continuar la defensa de un inculpado cuando exista alguna de las causas de impedimento previstas en las fracciones I, II, IX, XIII, XIV y XV del artículo 146 de la Ley Orgánica del Poder Judicial de la Federación.
+Los defensores públicos deberán excusarse de aceptar o continuar la defensa de un inculpado cuando exista alguna de las causas de impedimento previstas en las fracciones I, II, IX, XIII, XIV y XV del artículo [146](../../lopjf/markdown/articulo-146.md) de la Ley Orgánica del Poder Judicial de la Federación.

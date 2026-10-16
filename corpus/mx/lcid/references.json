@@ -103,5 +103,27 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcid:article:4:reference:2172-2173:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+    "source_span": "2",
+    "start_char": 2172,
+    "end_char": 2173,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lsct",
+    "target_provision_id": "urn:lex-mx:federal:statute:lsct:article:2",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 2148,
+        "end_char": 2158
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   }
 ]

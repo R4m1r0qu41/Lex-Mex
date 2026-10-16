@@ -17,7 +17,7 @@ source_sha256: 44f65ae5f6367e9a510790e5b10730bd179df1f48b9703485548c0add7dbacc4
 
 Para efectos de lo dispuesto en la presente Ley, se entenderá por:
 
-I. Índice Nacional de Precios al Consumidor: El que elabora el Instituto Nacional de Estadística y Geografía conforme a lo previsto en el artículo 59, fracción III, inciso a de la Ley del Sistema Nacional de Información Estadística y Geográfica;
+I. Índice Nacional de Precios al Consumidor: El que elabora el Instituto Nacional de Estadística y Geografía conforme a lo previsto en el artículo [59](../../lsnieg/markdown/articulo-59.md), fracción III, inciso a de la Ley del Sistema Nacional de Información Estadística y Geográfica;
 
 II. INEGI: Al Instituto Nacional de Estadística y Geografía; y
 

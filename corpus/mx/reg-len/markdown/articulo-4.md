@@ -17,7 +17,7 @@ source_sha256: 01a9b609397e354014b0511a81438ad96ddba6e85157f82ff4d778e5979ca795
 
 # Artículo 4
 
-Para efectos de este Reglamento, además de las definiciones establecidas en el artículo 3 de la Ley de Educación Naval, se entenderá por:
+Para efectos de este Reglamento, además de las definiciones establecidas en el artículo [3](../../len/markdown/articulo-3.md) de la Ley de Educación Naval, se entenderá por:
 
 I. Adiestramiento: El proceso académico mediante el cual, el personal naval se prepara o entrena sistemáticamente en un procedimiento, con el fin de desempeñar con eficiencia una actividad, en el menor tiempo posible, con el mínimo de conocimientos teóricos, y el fortalecimiento de los valores institucionales;
 

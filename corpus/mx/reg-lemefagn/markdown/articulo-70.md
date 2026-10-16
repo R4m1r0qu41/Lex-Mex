@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 70
 
-Los estudios de nivel medio superior son aquellos que requieren, como mínimo, acreditar la educación básica de conformidad con lo estipulado en el artículo 37 de la Ley General de Educación, y cuya conclusión permite acreditar el bachillerato u opciones terminales técnicas equivalentes.
+Los estudios de nivel medio superior son aquellos que requieren, como mínimo, acreditar la educación básica de conformidad con lo estipulado en el artículo [37](../../lge/markdown/articulo-37.md) de la Ley General de Educación, y cuya conclusión permite acreditar el bachillerato u opciones terminales técnicas equivalentes.
 
 La Dirección y Rectoría deberá prever y disponer lo necesario para que las personas egresadas de las Instituciones Educativas de nivel medio superior tengan oportunidad de continuar sus estudios superiores.
 

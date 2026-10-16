@@ -17,4 +17,4 @@ source_sha256: cc687a4d8d9de93d2d3ec9b40b26d0273e108bb002a6f611806dc36ebce5ba2c
 
 # Artículo 13
 
-La [Cuenta Pública](articulo-4.md) será presentada en el plazo previsto en el artículo 74, fracción VI, de la Constitución Política de los Estados Unidos Mexicanos y, conforme a lo que establece el artículo 53 de la Ley General de Contabilidad Gubernamental.
+La [Cuenta Pública](articulo-4.md) será presentada en el plazo previsto en el artículo [74](../../cpeum/markdown/articulo-74.md), fracción VI, de la Constitución Política de los Estados Unidos Mexicanos y, conforme a lo que establece el artículo [53](../../lgcg/markdown/articulo-53.md) de la Ley General de Contabilidad Gubernamental.

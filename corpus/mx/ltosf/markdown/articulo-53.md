@@ -15,4 +15,4 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 53
 
-Para la ejecución de las multas que imponga el Banco de México en términos de esta Ley, se observará lo previsto en los artículos 66 y 67 de la Ley del Banco de México.
+Para la ejecución de las multas que imponga el Banco de México en términos de esta Ley, se observará lo previsto en los artículos [66](../../lbm/markdown/articulo-66.md) y [67](../../lbm/markdown/articulo-67.md) de la Ley del Banco de México.

@@ -69,8 +69,8 @@ c) Los casos en que se haya ejercido la función a que se refiere el artículo [
 
 d) Los casos en que se haya ejercido la función a que se refiere el artículo [37](articulo-37.md), apartado A, fracción VII, y apartado B, fracción XI, de esta Ley, y
 
-e) Los montos de los créditos fiscales firmes determinados a los Asignatarios con motivo de las revisiones que se practiquen en términos de lo dispuesto por el artículo 42 y demás aplicables del Código Fiscal de la Federación respecto al cumplimiento del pago de los derechos previstos en el Título Tercero de esta Ley y, en su caso, los montos de las multas que se les impongan.
+e) Los montos de los créditos fiscales firmes determinados a los Asignatarios con motivo de las revisiones que se practiquen en términos de lo dispuesto por el artículo [42](../../cff/markdown/articulo-42.md) y demás aplicables del Código Fiscal de la Federación respecto al cumplimiento del pago de los derechos previstos en el Título Tercero de esta Ley y, en su caso, los montos de las multas que se les impongan.
 
 Para dar cumplimiento a lo dispuesto en este artículo, el Fondo Mexicano del Petróleo y la Secretaría deben coordinarse con la Secretaría de Energía y el Servicio de Administración Tributaria. Párrafo reformado DOF 18-03-2025
 
-Para los efectos de este artículo, la publicación de la información en materia fiscal constituye una excepción a lo previsto en el artículo 69 del Código Fiscal de la Federación.
+Para los efectos de este artículo, la publicación de la información en materia fiscal constituye una excepción a lo previsto en el artículo [69](../../cff/markdown/articulo-69.md) del Código Fiscal de la Federación.

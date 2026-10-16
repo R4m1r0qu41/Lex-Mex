@@ -17,7 +17,7 @@ source_sha256: 3edf486e601217f5f595f94f56832d8845cbd9193b6494af52473237252bcc5f
 
 # Artículo 4o
 
-La función de Consejero Jurídico, prevista en el artículo 90 de la Constitución Política de los Estados Unidos Mexicanos, estará a cargo de la Consejería Jurídica del Ejecutivo Federal. Al frente de la Consejería Jurídica habrá un Consejero que dependerá directamente del Presidente de la República, y será nombrado y removido libremente por éste. Párrafo reformado DOF 30-11-2018
+La función de Consejero Jurídico, prevista en el artículo [90](../../cpeum/markdown/articulo-90.md) de la Constitución Política de los Estados Unidos Mexicanos, estará a cargo de la Consejería Jurídica del Ejecutivo Federal. Al frente de la Consejería Jurídica habrá un Consejero que dependerá directamente del Presidente de la República, y será nombrado y removido libremente por éste. Párrafo reformado DOF 30-11-2018
 
 Para ser Consejero Jurídico se deben cumplir los mismos requisitos que para ser Fiscal General de la República. Párrafo reformado DOF 30-11-2018
 

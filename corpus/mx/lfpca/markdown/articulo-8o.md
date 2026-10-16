@@ -43,9 +43,9 @@ X. Cuando no se hagan valer conceptos de impugnación.
 
 XI. Cuando de las constancias de autos apareciere claramente que no existe la resolución o acto impugnados.
 
-XII. Que puedan impugnarse en los términos del artículo 97 de la Ley de Comercio Exterior, cuando no haya transcurrido el plazo para el ejercicio de la opción o cuando la opción ya haya sido ejercida.
+XII. Que puedan impugnarse en los términos del artículo [97](../../lce/markdown/articulo-97.md) de la Ley de Comercio Exterior, cuando no haya transcurrido el plazo para el ejercicio de la opción o cuando la opción ya haya sido ejercida.
 
-XIII. Dictados por la autoridad administrativa para dar cumplimiento a la decisión que emane de los mecanismos alternativos de solución de controversias a que se refiere el artículo 97 de la Ley de Comercio Exterior.
+XIII. Dictados por la autoridad administrativa para dar cumplimiento a la decisión que emane de los mecanismos alternativos de solución de controversias a que se refiere el artículo [97](../../lce/markdown/articulo-97.md) de la Ley de Comercio Exterior.
 
 XIV. Que hayan sido dictados por la autoridad administrativa en un procedimiento de resolución de controversias previsto en un tratado para evitar la doble tributación, si dicho procedimiento se inició con posterioridad a la resolución que recaiga a un recurso de revocación o después de la conclusión de un juicio ante el Tribunal.
 

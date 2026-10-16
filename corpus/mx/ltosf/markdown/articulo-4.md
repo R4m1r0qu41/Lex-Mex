@@ -29,7 +29,7 @@ Con base en la opinión de la citada dependencia, el Banco de México, en su cas
 
 Independientemente de las sanciones previstas en esta Ley, el Banco de México podrá suspender operaciones con las instituciones de crédito que infrinjan lo dispuesto en este precepto.
 
-Lo previsto en este artículo no impide que el Banco de México ejerza en cualquier momento las facultades a que se refiere el artículo 48 de la Ley de Instituciones de Crédito, así como las previstas en la Ley del Banco de México; ni limita que la Comisión Federal de Competencia Económica pueda, en términos de la Ley Federal de Competencia Económica, evaluar directamente si existen o no condiciones razonables de competencia ni ejercer sus atribuciones en términos de la legislación aplicable.
+Lo previsto en este artículo no impide que el Banco de México ejerza en cualquier momento las facultades a que se refiere el artículo [48](../../lic/markdown/articulo-48.md) de la Ley de Instituciones de Crédito, así como las previstas en la Ley del Banco de México; ni limita que la Comisión Federal de Competencia Económica pueda, en términos de la Ley Federal de Competencia Económica, evaluar directamente si existen o no condiciones razonables de competencia ni ejercer sus atribuciones en términos de la legislación aplicable.
 
 La Comisión Federal de Competencia Económica, cuando detecte prácticas que vulneren el proceso de competencia y libre concurrencia en materia de tasas de interés o en la prestación de servicios financieros, impondrá las sanciones que correspondan de conformidad con la Ley que la rige e informará de ello a la Secretaría de Hacienda y Crédito Público y al Banco de México.
 

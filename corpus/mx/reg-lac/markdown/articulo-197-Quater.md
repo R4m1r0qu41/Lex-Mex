@@ -23,6 +23,6 @@ I. Operar la aeronave en estado de ebriedad o bajo los efectos de estupefaciente
 
 II. Permitir por actos u omisiones, siendo responsable de la aeronave, que otra persona opere en estado de ebriedad o bajo los efectos de estupefacientes, psicotrópicos o enervantes, y
 
-III. Realizar actos u omisiones que constituyan uno o algunos de los delitos previstos en los artículos 84, 84 bis y 86, fracción II de la Ley Federal de Armas de Fuego y Explosivos; 461 de la Ley General de Salud, y 139, 139 ter, 140, 170, 172 bis, párrafo segundo, 194, fracción I, 289, 290, a 293 y 302 del Código Penal Federal.
+III. Realizar actos u omisiones que constituyan uno o algunos de los delitos previstos en los artículos [84](../../lfafe/markdown/articulo-84.md), [84 bis](../../lfafe/markdown/articulo-84-Bis.md) y [86](../../lfafe/markdown/articulo-86.md), fracción II de la Ley Federal de Armas de Fuego y Explosivos; 461 de la Ley General de Salud, y 139, 139 ter, 140, 170, 172 bis, párrafo segundo, 194, fracción I, 289, 290, a 293 y 302 del Código Penal Federal.
 
 Artículo adicionado DOF 21-01-2022

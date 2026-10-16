@@ -17,7 +17,7 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 # Artículo 2
 
-Para efectos de este Reglamento, serán aplicables las definiciones establecidas en el artículo 5 A de la Ley del Seguro Social, así como las siguientes:
+Para efectos de este Reglamento, serán aplicables las definiciones establecidas en el artículo [5](../../lss/markdown/articulo-5.md) A de la Ley del Seguro Social, así como las siguientes:
 
 I. Consejo Técnico: El Consejo Técnico del Instituto;
 

@@ -59,6 +59,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:103:reference:501-503:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:103",
+    "source_span": "21",
+    "start_char": 501,
+    "end_char": 503,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laero:article:11:reference:325-326:8:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:11",
     "source_span": "8",
@@ -111,6 +126,21 @@
         "end_char": 1028
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:110:reference:167-169:77:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:110",
+    "source_span": "77",
+    "start_char": 167,
+    "end_char": 169,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lac",
+    "target_provision_id": "urn:lex-mx:federal:statute:lac:article:77",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -175,6 +205,21 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:138:reference:1199-1201:50:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:138",
+    "source_span": "50",
+    "start_char": 1199,
+    "end_char": 1201,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfce",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfce:article:50",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -423,6 +468,34 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:2:reference:387-388:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:2",
+    "source_span": "5",
+    "start_char": 387,
+    "end_char": 388,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lac",
+    "target_provision_id": "urn:lex-mx:federal:statute:lac:article:5",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 390,
+        "end_char": 401
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a",
+        "start_char": 403,
+        "end_char": 411
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laero:article:21:reference:1193-1194:8:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:21",
     "source_span": "8",
@@ -498,6 +571,21 @@
         "end_char": 239
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:35:reference:816-818:44:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:35",
+    "source_span": "44",
+    "start_char": 816,
+    "end_char": 818,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lvgc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lvgc:article:44",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

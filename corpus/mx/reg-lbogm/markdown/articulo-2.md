@@ -17,7 +17,7 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 2
 
-Para los efectos de este Reglamento se estará a las definiciones previstas en el artículo 3 de la Ley de Bioseguridad de Organismos Genéticamente Modificados y las siguientes:
+Para los efectos de este Reglamento se estará a las definiciones previstas en el artículo [3](../../lbogm/markdown/articulo-3.md) de la Ley de Bioseguridad de Organismos Genéticamente Modificados y las siguientes:
 
 I. Ley: Ley de Bioseguridad de Organismos Genéticamente Modificados;
 

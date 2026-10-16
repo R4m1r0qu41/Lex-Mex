@@ -45,7 +45,7 @@ c) 69-B Bis, noveno párrafo del Código Fiscal de la Federación.
 
 La suspensión durará el tiempo que el agente aduanal se encuentre en los referidos listados. Fracción adicionada DOF 19-11-2025
 
-XI. No cuente con certificados de sellos digitales vigentes, o se ubique en alguno de los supuestos señalados en los artículos 17-H o 17-H Bis del Código Fiscal de la Federación. La suspensión durará hasta en tanto el agente aduanal cuente con los referidos certificados, o bien, deje de ubicarse en los referidos supuestos. Fracción adicionada DOF 19-11-2025 XII. Cuando en el despacho aduanero que promueva, no exista omisión en el pago de contribuciones y cuotas compensatorias, y se determine el pago de multas que sean equivalentes o excedan al 70% del valor comercial de la mercancía. Fracción adicionada DOF 19-11-2025
+XI. No cuente con certificados de sellos digitales vigentes, o se ubique en alguno de los supuestos señalados en los artículos [17-H](../../cff/markdown/articulo-17-H.md) o [17-H Bis](../../cff/markdown/articulo-17-H-Bis.md) del Código Fiscal de la Federación. La suspensión durará hasta en tanto el agente aduanal cuente con los referidos certificados, o bien, deje de ubicarse en los referidos supuestos. Fracción adicionada DOF 19-11-2025 XII. Cuando en el despacho aduanero que promueva, no exista omisión en el pago de contribuciones y cuotas compensatorias, y se determine el pago de multas que sean equivalentes o excedan al 70% del valor comercial de la mercancía. Fracción adicionada DOF 19-11-2025
 
 XIII. Cuente con créditos fiscales determinados no firmes, que no se encuentren pagados o garantizados en alguna de las formas permitidas por el Código Fiscal de la Federación. Fracción adicionada DOF 19-11-2025
 

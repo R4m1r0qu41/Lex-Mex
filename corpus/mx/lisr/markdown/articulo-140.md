@@ -27,7 +27,7 @@ Se entiende que el ingreso lo percibe el propietario del título valor y, en el 
 
 Para los efectos de este artículo, también se consideran dividendos o utilidades distribuidos, los siguientes:
 
-I. Los intereses a que se refieren los artículos 85 y 123 de la Ley General de Sociedades Mercantiles y las participaciones en la utilidad que se paguen a favor de obligacionistas u otros, por sociedades mercantiles residentes en México o por sociedades nacionales de crédito.
+I. Los intereses a que se refieren los artículos [85](../../lgsm/markdown/articulo-85.md) y [123](../../lgsm/markdown/articulo-123.md) de la Ley General de Sociedades Mercantiles y las participaciones en la utilidad que se paguen a favor de obligacionistas u otros, por sociedades mercantiles residentes en México o por sociedades nacionales de crédito.
 
 II. Los préstamos a los socios o accionistas, a excepción de aquéllos que reúnan los siguientes requisitos:
 

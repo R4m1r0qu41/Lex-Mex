@@ -39,7 +39,7 @@ IX. Coordinar, con las entidades federativas, la prestación y promoción de los
 
 X. Concertar acciones con los sectores social y privado, mediante convenios y contratos en que se regulen la prestación y promoción de los servicios de salud en materia de asistencia social, con la participación que corresponda a otras dependencias o entidades;
 
-XI. Coordinar, evaluar y dar seguimiento a los servicios de salud que en materia de asistencia social presten las instituciones a que se refiere el Artículo 34 Fracción II de la Ley General de Salud;
+XI. Coordinar, evaluar y dar seguimiento a los servicios de salud que en materia de asistencia social presten las instituciones a que se refiere el Artículo [34](../../lgs/markdown/articulo-34.md) Fracción II de la Ley General de Salud;
 
 XII. Realizar investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 

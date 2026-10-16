@@ -57,13 +57,13 @@ XII. Encontrarse dentro de los supuestos de cancelación a que se refiere la Ley
 
 XIII. Cuando promuevan el despacho de mercancías manifestando el nombre, domicilio o la clave del registro federal de contribuyentes de una persona que no le hubiera encargado la operación o el despacho de las mercancías. Fracción adicionada DOF 19-11-2025
 
-XIV. Cuando se actualice el supuesto establecido en el artículo 104, último párrafo del Código Fiscal de la Federación. En este supuesto, no se podrá solicitar nuevamente la autorización para obtener una patente de agente aduanal. Fracción adicionada DOF 19-11-2025
+XIV. Cuando se actualice el supuesto establecido en el artículo [104](../../cff/markdown/articulo-104.md), último párrafo del Código Fiscal de la Federación. En este supuesto, no se podrá solicitar nuevamente la autorización para obtener una patente de agente aduanal. Fracción adicionada DOF 19-11-2025
 
 XV. Tratándose de los regímenes aduaneros de importación temporal de depósito fiscal, de tránsito, de recinto fiscalizado y de recinto fiscalizado estratégico, cuando efectúe los trámites del despacho aduanero de mercancías no permitidas para destinarse a dichos regímenes. Fracción adicionada DOF 19-11-2025
 
 XVI. Tratándose de los regímenes aduaneros de importación temporal de mercancías para retornar al extranjero después de haberse destinado a un proceso de elaboración, transformación o reparación, cuando efectúe los trámites del despacho aduanero y dichas mercancías no correspondan a insumos para llevar a cabo los referidos procesos, o bien, cuando corresponda a mercancía terminada que no se someterá a dichos procesos. Fracción adicionada DOF 19-11-2025
 
-XVII. Efectuar, en más de dos ocasiones en un mismo ejercicio fiscal, los trámites del despacho aduanero de mercancías que no correspondan al programa de exportación autorizado por la Secretaría de Economía y, en su caso, al registro otorgado al importador, en términos de los artículos 28-A, primer párrafo de la Ley del Impuesto al Valor Agregado, 15-A, primer párrafo de la Ley del Impuesto Especial sobre Producción y Servicios y 100-A de esta Ley, así como de las reglas emitidas por el Servicio de Administración Tributaria. Fracción adicionada DOF 19-11-2025
+XVII. Efectuar, en más de dos ocasiones en un mismo ejercicio fiscal, los trámites del despacho aduanero de mercancías que no correspondan al programa de exportación autorizado por la Secretaría de Economía y, en su caso, al registro otorgado al importador, en términos de los artículos [28-A](../../liva/markdown/articulo-28-A.md), primer párrafo de la Ley del Impuesto al Valor Agregado, 15-A, primer párrafo de la Ley del Impuesto Especial sobre Producción y Servicios y 100-A de esta Ley, así como de las reglas emitidas por el Servicio de Administración Tributaria. Fracción adicionada DOF 19-11-2025
 
 XVIII. Cuando se encuentre como no localizado en su domicilio fiscal o el estatus de este sea inexistente. Fracción adicionada DOF 19-11-2025
 

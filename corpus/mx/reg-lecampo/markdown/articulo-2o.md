@@ -17,7 +17,7 @@ source_sha256: 8804184956ffcb703bb0a96aa95542e971c0b1e257c9c689db82f566d4bded4c
 
 # Artículo 2o
 
-Para efectos de interpretación y aplicación de este [Reglamento](articulo-2o.md), además de los conceptos contenidos en el artículo 3o. de la Ley de Energía para el Campo, se entenderá por:
+Para efectos de interpretación y aplicación de este [Reglamento](articulo-2o.md), además de los conceptos contenidos en el artículo [3](../../lec/markdown/articulo-3o.md)o. de la Ley de Energía para el Campo, se entenderá por:
 
 I. Agente Técnico: La Dependencia o Entidad del Sector Público responsable de la administración, aplicación y supervisión de las Cuotas Energéticas;
 

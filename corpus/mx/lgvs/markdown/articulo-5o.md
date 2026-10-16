@@ -19,7 +19,7 @@ source_sha256: b82b6148e235121951a94cb388fe59dbebe4212c8a6c85f26704873150827911
 
 El objetivo de la política nacional en materia de vida silvestre y su hábitat, es su conservación mediante la protección y la exigencia de niveles óptimos de aprovechamiento sustentable, de modo que simultáneamente se logre mantener y promover la restauración de su diversidad e integridad, así como incrementar el bienestar de los habitantes del país.
 
-En la formulación y la conducción de la política nacional en materia de vida silvestre se observarán, por parte de las autoridades competentes, los principios establecidos en el artículo 15 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente. Además dichas autoridades deberán prever:
+En la formulación y la conducción de la política nacional en materia de vida silvestre se observarán, por parte de las autoridades competentes, los principios establecidos en el artículo [15](../../lgeepa/markdown/articulo-15.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente. Además dichas autoridades deberán prever:
 
 I. La conservación de la diversidad genética, así como la protección, restauración y manejo integral de los hábitats naturales, como factores principales para la conservación y recuperación de las especies silvestres.
 

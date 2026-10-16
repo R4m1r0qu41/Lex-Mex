@@ -17,4 +17,4 @@ source_sha256: a305ca23bba43cddf2275067af29bb0ba35def7aedbbb0d3fc4557da9067a82c
 
 # Artículo 8o
 
-Se autoriza al Ejecutivo Federal a contratar proyectos de infraestructura productiva de largo plazo de la Comisión Federal de Electricidad en los términos de los artículos 18 de la Ley Federal de Deuda Pública y 32, párrafos segundo a sexto, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como del Título Cuarto, Capítulo XIV del Reglamento de este último ordenamiento, por un total de 32 mil 472.7 millones de pesos que corresponde a catorce proyectos de inversión directa.
+Se autoriza al Ejecutivo Federal a contratar proyectos de infraestructura productiva de largo plazo de la Comisión Federal de Electricidad en los términos de los artículos [18](../../lgdp/markdown/articulo-18.md) de la Ley Federal de Deuda Pública y 32, párrafos segundo a sexto, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como del Título Cuarto, Capítulo XIV del Reglamento de este último ordenamiento, por un total de 32 mil 472.7 millones de pesos que corresponde a catorce proyectos de inversión directa.

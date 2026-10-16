@@ -21,7 +21,7 @@ Para calcular la proporción a que se refieren los artículos [5](articulo-5o.md
 
 I. Las importaciones de bienes o servicios, inclusive cuando sean temporales en los términos de la Ley Aduanera;
 
-II. Las enajenaciones de sus activos fijos y gastos y cargos diferidos a que se refiere el artículo 32 de la Ley del Impuesto sobre la Renta, así como la enajenación del suelo, salvo que sea parte del activo circulante del contribuyente, aun cuando se haga a través de certificados de participación inmobiliaria; Fracción reformada DOF 11-12-2013
+II. Las enajenaciones de sus activos fijos y gastos y cargos diferidos a que se refiere el artículo [32](../../lisr/markdown/articulo-32.md) de la Ley del Impuesto sobre la Renta, así como la enajenación del suelo, salvo que sea parte del activo circulante del contribuyente, aun cuando se haga a través de certificados de participación inmobiliaria; Fracción reformada DOF 11-12-2013
 
 III. Los dividendos percibidos en moneda, en acciones, en partes sociales o en títulos de crédito, siempre que en este último caso su enajenación no implique la transmisión de dominio de un bien tangible o del derecho para adquirirlo, salvo que se trate de personas morales que perciban ingresos preponderantemente por este concepto;
 
@@ -35,7 +35,7 @@ VII. Las enajenaciones realizadas a través de arrendamiento financiero. En esto
 
 VIII. Las enajenaciones de bienes adquiridos por dación en pago o adjudicación judicial o fiduciaria, siempre que dichas enajenaciones sean realizadas por contribuyentes que por disposición legal no puedan conservar en propiedad los citados bienes, y
 
-IX. Los que se deriven de operaciones financieras derivadas a que se refiere el artículo 16-A del Código Fiscal de la Federación.
+IX. Los que se deriven de operaciones financieras derivadas a que se refiere el artículo [16-A](../../cff/markdown/articulo-16-A.md) del Código Fiscal de la Federación.
 
 X. La enajenación de los certificados de participación inmobiliarios no amortizables a que se refiere el segundo párrafo de la fracción VII del artículo [9](articulo-9o.md)o. de esta Ley. Fracción adicionada DOF 23-12-2005
 

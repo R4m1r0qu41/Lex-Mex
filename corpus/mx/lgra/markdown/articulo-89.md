@@ -31,7 +31,7 @@ Además de los requisitos señalados, para la aplicación del beneficio al que s
 
 En su caso, las personas que sean los segundos o ulteriores en aportar elementos de convicción suficientes y cumplan con el resto de los requisitos anteriormente establecidos, podrán obtener una reducción de la sanción aplicable de hasta el cincuenta por ciento, cuando aporten elementos de convicción en la investigación, adicionales a los que ya tenga la Autoridad Investigadora. Para determinar el monto de la reducción se tomará en consideración el orden cronológico de presentación de la solicitud y de los elementos de convicción presentados.
 
-El procedimiento de solicitud de reducción de sanciones establecido en este artículo podrá coordinarse con el procedimiento de solicitud de reducción de sanciones establecido en el artículo 103 de la Ley Federal de Competencia Económica cuando así convenga a las Autoridades Investigadoras correspondientes.
+El procedimiento de solicitud de reducción de sanciones establecido en este artículo podrá coordinarse con el procedimiento de solicitud de reducción de sanciones establecido en el artículo [103](../../lfce/markdown/articulo-103.md) de la Ley Federal de Competencia Económica cuando así convenga a las Autoridades Investigadoras correspondientes.
 
 El [Comité Coordinador](articulo-3.md) podrá recomendar mecanismos de coordinación efectiva a efecto de permitir el intercambio de información entre autoridades administrativas, autoridades investigadoras de órganos del Estado Mexicano y Autoridades Investigadoras dentro de su ámbito de competencia.
 

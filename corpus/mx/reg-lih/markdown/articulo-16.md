@@ -17,6 +17,6 @@ source_sha256: c9996a72239837b24f45f4a49c4f117b1fe2b3b9faf2c3eb0e5ce00d8a991d53
 
 # Artículo 16
 
-Para la adjudicación directa de Contratos a concesionarios mineros conforme al artículo 56, párrafos primero y segundo de la Ley del Sector Hidrocarburos, la Secretaría de Energía debe entregar a la Secretaría lo señalado en las fracciones I, III y IV del artículo [5](articulo-5.md) de este Reglamento.
+Para la adjudicación directa de Contratos a concesionarios mineros conforme al artículo [56](../../lsh/markdown/articulo-56.md), párrafos primero y segundo de la Ley del Sector Hidrocarburos, la Secretaría de Energía debe entregar a la Secretaría lo señalado en las fracciones I, III y IV del artículo [5](articulo-5.md) de este Reglamento.
 
 Artículo reformado DOF 03-10-2025

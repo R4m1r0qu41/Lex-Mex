@@ -33,6 +33,6 @@ IV. Informar a la Comisión Nacional del Agua las descomposturas de su medidor d
 
 Para los efectos del primer párrafo de este artículo, sin perjuicio de la consulta directa de los medidores instalados por la Comisión Nacional del Agua, los contribuyentes podrán consultar vía Internet, en el transcurso del trimestre que corresponda, el estado que guardan sus consumos, de conformidad con el procedimiento que al efecto señale el Servicio de Administración Tributaria mediante reglas de carácter general.
 
-Las personas físicas y morales que usen, exploten o aprovechen aguas nacionales, estarán obligadas a llevar un registro de las lecturas de su medidor en el formato que para tal efecto autorice el Servicio de Administración Tributaria. Dicho registro deberá conservarse en términos de lo dispuesto en el artículo 30 del Código Fiscal de la Federación.
+Las personas físicas y morales que usen, exploten o aprovechen aguas nacionales, estarán obligadas a llevar un registro de las lecturas de su medidor en el formato que para tal efecto autorice el Servicio de Administración Tributaria. Dicho registro deberá conservarse en términos de lo dispuesto en el artículo [30](../../cff/markdown/articulo-30.md) del Código Fiscal de la Federación.
 
 Artículo reformado DOF 18-12-1992, 01-01-2002, 12-12-2011

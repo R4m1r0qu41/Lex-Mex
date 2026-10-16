@@ -31,6 +31,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:17:reference:172-176:19-b:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:17",
+    "source_span": "19-B",
+    "start_char": 172,
+    "end_char": 176,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfd",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfd:article:19-b",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfdeapd:article:22:reference:123-124:1:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:22",
     "source_span": "1",

@@ -39,7 +39,7 @@ IX. Declaración de Procedencia de Retiro, el documento que le expide al militar
 
 X. Haber o haberes, la percepción base que se establece en el tabulador que expide la Secretaría de Hacienda y Crédito Público;
 
-XI. Prima de perseverancia, la percepción a que se refieren los artículos 51 de la Ley de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional y 55 de la Ley de Recompensas de la Armada de México; Fracción reformada DOF 16-07-2025
+XI. Prima de perseverancia, la percepción a que se refieren los artículos [51](../../larefam/markdown/articulo-51.md) de la Ley de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional y 55 de la Ley de Recompensas de la Armada de México; Fracción reformada DOF 16-07-2025
 
 XII. Asignación de técnico, la percepción que se cubre a los militares en activo por tener estudios a nivel licenciatura y estar desempeñando funciones específicas de su profesión;
 

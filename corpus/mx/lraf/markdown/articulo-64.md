@@ -19,7 +19,7 @@ source_sha256: e86e9b734f81f2cdc9e2cf39b79ab4aaeea8295ae966ce73a487319c49de521a
 
 Las [Sociedades Controladoras](articulo-5o.md) podrán prever estipulaciones en sus estatutos sociales, sin perjuicio de los derechos de los accionistas establecidos en el artículo [65](articulo-65.md) de esta Ley, que:
 
-I. Impongan restricciones, de cualquier naturaleza, a la transmisión de propiedad o derechos, respecto de las acciones representativas del capital social de una misma serie o clase, distintas a lo que se prevé en el artículo 130 de la Ley General de Sociedades Mercantiles. Lo anterior, siempre que dichas estipulaciones:
+I. Impongan restricciones, de cualquier naturaleza, a la transmisión de propiedad o derechos, respecto de las acciones representativas del capital social de una misma serie o clase, distintas a lo que se prevé en el artículo [130](../../lgsm/markdown/articulo-130.md) de la Ley General de Sociedades Mercantiles. Lo anterior, siempre que dichas estipulaciones:
 
 a) Sean aprobadas en asamblea general extraordinaria de accionistas en la cual no haya votado en contra el cinco por ciento o más del capital social representado por los accionistas presentes.
 
@@ -37,7 +37,7 @@ Cualquier cláusula estatutaria de las previstas en esta fracción que no cumpla
 
 II. Establezcan causales de exclusión de socios o para ejercer derechos de separación, de retiro, o bien, para amortizar acciones, en adición a lo dispuesto en la Ley General de Sociedades Mercantiles, así como el precio o las bases para su determinación. III. Implementen mecanismos a seguir en caso de que los accionistas no lleguen a acuerdos respecto de asuntos específicos.
 
-IV. Amplíen, limiten o nieguen el derecho de suscripción preferente a que se refiere el artículo 132 de la Ley General de Sociedades Mercantiles. Al respecto, podrán estipularse medios de publicidad distintos de los señalados en dicho precepto legal.
+IV. Amplíen, limiten o nieguen el derecho de suscripción preferente a que se refiere el artículo [132](../../lgsm/markdown/articulo-132.md) de la Ley General de Sociedades Mercantiles. Al respecto, podrán estipularse medios de publicidad distintos de los señalados en dicho precepto legal.
 
 V. Permitan limitar la responsabilidad en los daños y perjuicios ocasionados por sus consejeros y Directivos Relevantes, derivados de los actos que ejecuten o por las decisiones que adopten, en términos de lo establecido en el artículo [49](articulo-49.md) de esta Ley.
 

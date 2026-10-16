@@ -19,7 +19,7 @@ source_sha256: 603475aa11e46fa2fcf3b7e1c1ec111d4202070c309d1b355b834f011c226262
 
 Además de las que se deriven de otras disposiciones legales, reglamentos o acuerdos generales expedidos por el Consejo de la Judicatura Federal, o de la Ley Orgánica del Poder Judicial de la Federación, serán causas de responsabilidad de los servidores públicos del Instituto Federal de Defensoría Pública:
 
-I. Inmiscuirse indebidamente en cuestiones que competan a otros órganos del Poder Judicial de la Federación, o actuar indebidamente cuando se encuentren impedidos por alguna de las causales previstas por las fracciones I, II, IX, XIII, XIV y XV del artículo 146 de la Ley Orgánica del Poder Judicial de la Federación; precisamente en contravención con lo dispuesto por el artículo 148 del ordenamiento jurídico en cita;
+I. Inmiscuirse indebidamente en cuestiones que competan a otros órganos del Poder Judicial de la Federación, o actuar indebidamente cuando se encuentren impedidos por alguna de las causales previstas por las fracciones I, II, IX, XIII, XIV y XV del artículo [146](../../lopjf/markdown/articulo-146.md) de la Ley Orgánica del Poder Judicial de la Federación; precisamente en contravención con lo dispuesto por el artículo 148 del ordenamiento jurídico en cita;
 
 II. Descuidar y abandonar injustificadamente el desempeño de las funciones o labores que deban realizar en virtud de su encargo;
 

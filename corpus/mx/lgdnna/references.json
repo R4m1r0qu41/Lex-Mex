@@ -31,6 +31,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:127:reference:2749-2751:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:127",
+    "source_span": "27",
+    "start_char": 2749,
+    "end_char": 2751,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:27",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 2725,
+        "end_char": 2735
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdnna:article:130:reference:1294-1297:125:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:130",
     "source_span": "125",

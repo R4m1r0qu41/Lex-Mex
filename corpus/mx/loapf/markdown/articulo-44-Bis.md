@@ -17,7 +17,7 @@ source_sha256: 3edf486e601217f5f595f94f56832d8845cbd9193b6494af52473237252bcc5f
 
 # Artículo 44 Bis
 
-El Gabinete Social de la Presidencia de la República es la instancia colegiada de formulación y coordinación de la asignación y transferencia de los bienes a los que se refiere el párrafo cuarto del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como los bienes asegurados y decomisados en los procedimientos penales federales, el cual estará integrado por: Párrafo publicado sin cambios DOF 28-11-2024
+El Gabinete Social de la Presidencia de la República es la instancia colegiada de formulación y coordinación de la asignación y transferencia de los bienes a los que se refiere el párrafo cuarto del artículo [22](../../cpeum/markdown/articulo-22.md) de la Constitución Política de los Estados Unidos Mexicanos, así como los bienes asegurados y decomisados en los procedimientos penales federales, el cual estará integrado por: Párrafo publicado sin cambios DOF 28-11-2024
 
 I. La persona Titular del Ejecutivo Federal, quien lo presidirá;
 

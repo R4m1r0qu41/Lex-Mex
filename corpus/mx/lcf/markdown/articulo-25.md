@@ -37,8 +37,8 @@ Dichos Fondos se integrarán, distribuirán, administrarán, ejercerán y superv
 
 El Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo será administrado por la Secretaría de Hacienda y Crédito Público, y la transferencia de los recursos de dicho Fondo se realizará en los términos previstos en el artículo [26-A](articulo-26-A.md) de esta Ley. Párrafo adicionado DOF 09-12-2013
 
-Las entidades federativas que no suscriban el convenio mencionado en el artículo 77 bis 16 A, de la Ley General de Salud, se sujetarán a lo previsto en la presente Ley, respecto del Fondo de Aportaciones para los Servicios de Salud. Párrafo adicionado DOF 03-01-2024
+Las entidades federativas que no suscriban el convenio mencionado en el artículo [77 bis 16](../../lgs/markdown/articulo-77-bis-16.md) A, de la Ley General de Salud, se sujetarán a lo previsto en la presente Ley, respecto del Fondo de Aportaciones para los Servicios de Salud. Párrafo adicionado DOF 03-01-2024
 
-En el caso de las entidades federativas que suscriban o hayan suscrito el convenio previsto en el artículo 77 bis 16 A de la Ley General de Salud con Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) recibirán el monto de los recursos que correspondan del Fondo de Aportaciones para los Servicios de Salud, con objeto de destinarlo a las obligaciones que conserven en términos de la Ley General de Salud, de conformidad con lo que se señale en el convenio antes citado. Párrafo adicionado DOF 03-01-2024
+En el caso de las entidades federativas que suscriban o hayan suscrito el convenio previsto en el artículo [77 bis 16](../../lgs/markdown/articulo-77-bis-16.md) A de la Ley General de Salud con Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) recibirán el monto de los recursos que correspondan del Fondo de Aportaciones para los Servicios de Salud, con objeto de destinarlo a las obligaciones que conserven en términos de la Ley General de Salud, de conformidad con lo que se señale en el convenio antes citado. Párrafo adicionado DOF 03-01-2024
 
 Artículo adicionado DOF 29-12-1997

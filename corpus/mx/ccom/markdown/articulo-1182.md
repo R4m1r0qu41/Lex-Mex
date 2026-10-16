@@ -17,6 +17,6 @@ source_sha256: b99bbf981434011b6351ef308922fea90f6f0f8777b113183cf1737840c5bbef
 
 # Artículo 1182
 
-Si el que solicita la providencia precautoria no cumple con lo dispuesto en el artículo que precede, ésta se revocará de oficio, aunque no lo pida la persona contra la que se decretó.
+Si el que solicita la providencia precautoria no cumple con lo dispuesto en el [artículo que precede](articulo-1181.md), ésta se revocará de oficio, aunque no lo pida la persona contra la que se decretó.
 
 Artículo reformado DOF 10-01-2014

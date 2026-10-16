@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 6
 
-Para efectos de los artículos 6o. y 36 de la [Ley](articulo-1.md), las personas que deban transmitir o presentar al [Sistema Electrónico Aduanero](articulo-1.md) el Documento Electrónico o Digital, incluso el Pedimento, podrán utilizar el sello digital a que se refiere el artículo 29 del Código Fiscal de la Federación, o cualquier medio tecnológico de identificación autorizado por el [SAT](articulo-1.md) mediante disposiciones de carácter general, el cual estará sujeto a las disposiciones jurídicas aplicables a la firma electrónica avanzada.
+Para efectos de los artículos 6o. y 36 de la [Ley](articulo-1.md), las personas que deban transmitir o presentar al [Sistema Electrónico Aduanero](articulo-1.md) el Documento Electrónico o Digital, incluso el Pedimento, podrán utilizar el sello digital a que se refiere el artículo [29](../../cff/markdown/articulo-29.md) del Código Fiscal de la Federación, o cualquier medio tecnológico de identificación autorizado por el [SAT](articulo-1.md) mediante disposiciones de carácter general, el cual estará sujeto a las disposiciones jurídicas aplicables a la firma electrónica avanzada.
 
 El titular de un sello digital o medio tecnológico de identificación autorizado por el SAT mediante disposiciones de carácter general, que se utilice para la transmisión o presentación de un Documento Electrónico o Digital, será responsable del uso que se haga del mismo, así como de las consecuencias jurídicas que se deriven de dicho uso, por lo que deberá solicitar su revocación ante cualquier circunstancia que ponga en riesgo su privacidad o confidencialidad o cuando la firma electrónica avanzada se revoque o cancele.
 

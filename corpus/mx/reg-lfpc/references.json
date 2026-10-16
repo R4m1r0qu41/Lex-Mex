@@ -1,6 +1,21 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc:article:2:reference:52-53:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfpc:article:2",
+    "source_span": "2",
+    "start_char": 52,
+    "end_char": 53,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpc:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfpc:article:22:reference:65-82:21:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfpc:article:22",
     "source_span": "artículo anterior",
@@ -118,6 +133,50 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc:article:63:reference:46-52:47-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfpc:article:63",
+    "source_span": "47 BIS",
+    "start_char": 46,
+    "end_char": 52,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lac",
+    "target_provision_id": "urn:lex-mx:federal:statute:lac:article:47-bis",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 54,
+        "end_char": 64
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpc:article:63:reference:1219-1225:47-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfpc:article:63",
+    "source_span": "47 BIS",
+    "start_char": 1219,
+    "end_char": 1225,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lac",
+    "target_provision_id": "urn:lex-mx:federal:statute:lac:article:47-bis",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 1227,
+        "end_char": 1237
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",

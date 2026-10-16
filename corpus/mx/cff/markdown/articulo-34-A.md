@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 34-A
 
-Las autoridades fiscales podrán resolver las consultas que formulen los interesados relativas a la metodología utilizada en la determinación de los precios o montos de las contraprestaciones, en operaciones con partes relacionadas, en los términos del artículo 179 de la Ley del Impuesto sobre la Renta, siempre que el contribuyente presente la información, datos y documentación, necesarios para la emisión de la resolución correspondiente. Estas resoluciones podrán derivar de un acuerdo con las autoridades competentes de un país con el que se tenga un tratado para evitar la doble tributación.
+Las autoridades fiscales podrán resolver las consultas que formulen los interesados relativas a la metodología utilizada en la determinación de los precios o montos de las contraprestaciones, en operaciones con partes relacionadas, en los términos del artículo [179](../../lisr/markdown/articulo-179.md) de la Ley del Impuesto sobre la Renta, siempre que el contribuyente presente la información, datos y documentación, necesarios para la emisión de la resolución correspondiente. Estas resoluciones podrán derivar de un acuerdo con las autoridades competentes de un país con el que se tenga un tratado para evitar la doble tributación.
 
 Las resoluciones que en su caso se emitan en los términos de este artículo, podrán surtir sus efectos en el ejercicio en que se soliciten, en el ejercicio inmediato anterior y hasta por los tres ejercicios fiscales siguientes a aquél en que se soliciten. La vigencia podrá ser mayor cuando deriven de un procedimiento amistoso, en los términos de un tratado internacional de que México sea parte.
 

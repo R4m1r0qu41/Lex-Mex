@@ -23,7 +23,7 @@ I. Máxima protección: Obligación de cualquier autoridad, de velar por la apli
 
 II. Perspectiva de género: Entendida como una visión científica, analítica y política sobre las mujeres y los hombres y las relaciones entre ellos en la sociedad, que permite enfocar y comprender las desigualdades socialmente construidas a fin de establecer políticas y acciones de Estado transversales para disminuir hasta abatir las brechas de desigualdad entre los sexos y garantizar el acceso a la justicia y el ejercicio pleno de sus derechos.
 
-III. Prohibición de la esclavitud y de la discriminación, en los términos del artículo [1](articulo-1o.md)o. de la Constitución Política de los Estados Unidos Mexicanos.
+III. Prohibición de la esclavitud y de la discriminación, en los términos del artículo [1](../../cpeum/markdown/articulo-1o.md)o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 IV. Interés superior de la infancia: Entendido como la obligación del Estado de proteger los derechos de la niñez y la adolescencia, y de velar por las víctimas, ofendidos y testigos menores de 18 años de edad, atendiendo a su protección integral y su desarrollo armónico.
 

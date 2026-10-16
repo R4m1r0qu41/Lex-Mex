@@ -15,4 +15,4 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # QUINTO
 
-Los procedimientos administrativos en materia de prácticas desleales de comercio internacional y de medidas de salvaguarda que se encuentren en trámite conforme a la [Ley](articulo-1o.md) Reglamentaria del Artículo 131 de la Constitución Política de los Estados Unidos Mexicanos en materia de Comercio Exterior y al Reglamento contra Prácticas Desleales de Comercio Internacional, se concluirán de acuerdo a estos ordenamientos.
+Los procedimientos administrativos en materia de prácticas desleales de comercio internacional y de medidas de salvaguarda que se encuentren en trámite conforme a la [Ley](articulo-1o.md) Reglamentaria del Artículo [131](../../cpeum/markdown/articulo-131.md) de la Constitución Política de los Estados Unidos Mexicanos en materia de Comercio Exterior y al Reglamento contra Prácticas Desleales de Comercio Internacional, se concluirán de acuerdo a estos ordenamientos.

@@ -487,6 +487,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:22:reference:659-663:17-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:22",
+    "source_span": "17-A",
+    "start_char": 659,
+    "end_char": 663,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:17-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:228:reference:86-103:227:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:228",
     "source_span": "artículo anterior",
@@ -544,6 +559,21 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:30:reference:624-628:17-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:30",
+    "source_span": "17-A",
+    "start_char": 624,
+    "end_char": 628,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:17-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",

@@ -1,6 +1,21 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:article:1:reference:439-442:113:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lotfja:article:1",
+    "source_span": "113",
+    "start_char": 439,
+    "end_char": 442,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:113",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lotfja:article:12:reference:99-100:8:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lotfja:article:12",
     "source_span": "8",
@@ -8,6 +23,21 @@
     "end_char": 100,
     "target_instrument_id": "urn:lex-mx:federal:statute:lotfja",
     "target_provision_id": "urn:lex-mx:federal:statute:lotfja:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:article:18:reference:242-244:94:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lotfja:article:18",
+    "source_span": "94",
+    "start_char": 242,
+    "end_char": 244,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lce",
+    "target_provision_id": "urn:lex-mx:federal:statute:lce:article:94",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -97,6 +127,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:article:3:reference:3624-3626:94:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lotfja:article:3",
+    "source_span": "94",
+    "start_char": 3624,
+    "end_char": 3626,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lce",
+    "target_provision_id": "urn:lex-mx:federal:statute:lce:article:94",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lotfja:article:30:reference:21-38:29:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lotfja:article:30",
     "source_span": "artículo anterior",
@@ -120,6 +165,28 @@
     "target_instrument_id": "urn:lex-mx:federal:statute:lotfja",
     "target_provision_id": "urn:lex-mx:federal:statute:lotfja:article:3",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:article:36:reference:1904-1906:43:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lotfja:article:36",
+    "source_span": "43",
+    "start_char": 1904,
+    "end_char": 1906,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpca:article:43",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 1880,
+        "end_char": 1890
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -245,6 +312,50 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:article:54:reference:609-612:113:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lotfja:article:54",
+    "source_span": "113",
+    "start_char": 609,
+    "end_char": 612,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:113",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 613,
+        "end_char": 625
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:article:62:reference:137-140:109:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lotfja:article:62",
+    "source_span": "109",
+    "start_char": 137,
+    "end_char": 140,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:109",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 111,
+        "end_char": 123
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lotfja:article:67:reference:193-195:42:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lotfja:article:67",
     "source_span": "42",
@@ -280,6 +391,28 @@
         "text": "fracción XXXV",
         "start_char": 18,
         "end_char": 31
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto:reference:4276-4278:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lotfja:transitory:quinto",
+    "source_span": "89",
+    "start_char": 4276,
+    "end_char": 4278,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 4252,
+        "end_char": 4262
       }
     ],
     "basis": "express_cross_reference",

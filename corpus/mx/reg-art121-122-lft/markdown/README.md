@@ -1,4 +1,4 @@
-# Reglamento de los Artículos 121 y 122 de la Ley Federal del Trabajo
+# Reglamento de los Artículos [121](../../lft/markdown/articulo-121.md) y [122](../../lft/markdown/articulo-122.md) de la Ley Federal del Trabajo
 
 Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_Art121-122_LFT_050614.pdf)
 

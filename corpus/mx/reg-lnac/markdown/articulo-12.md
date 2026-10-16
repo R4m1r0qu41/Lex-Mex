@@ -37,4 +37,4 @@ En el caso de los nacidos en el extranjero, hijos de padres mexicanos nacidos en
 
 En el caso de los nacidos en el extranjero, hijos de padres mexicanos por naturalización, de padre mexicano por naturalización, o de madre mexicana por naturalización, además deberán presentar copia certificada de la carta de naturalización de su padre o de su madre expedida con anterioridad a su nacimiento.
 
-Una vez que el interesado haya cumplido con todos los requisitos señalados en este artículo, el certificado de nacionalidad mexicana se expedirá en un día hábil. Una vez expedido el certificado de nacionalidad mexicana, la Secretaría cumplirá con lo previsto en el artículo 96 de la Ley General de Población.
+Una vez que el interesado haya cumplido con todos los requisitos señalados en este artículo, el certificado de nacionalidad mexicana se expedirá en un día hábil. Una vez expedido el certificado de nacionalidad mexicana, la Secretaría cumplirá con lo previsto en el artículo [96](../../lgp/markdown/articulo-96.md) de la Ley General de Población.

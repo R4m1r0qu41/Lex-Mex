@@ -19,7 +19,7 @@ source_sha256: 78fb5069898e5e58096511208e3cfa308922eb1c5c68f68c4ecd80b20c6f422f
 
 Para el cumplimiento de su objeto, el [Instituto](articulo-4.md) sólo podrá realizar las siguientes operaciones:
 
-I. Garantizar los créditos y, en su caso, otorgar financiamiento para la operación de los almacenes y tiendas a que se refiere el artículo 103 de la [Ley](articulo-4.md) Federal del Trabajo;
+I. Garantizar los créditos y, en su caso, otorgar financiamiento para la operación de los almacenes y tiendas a que se refiere el artículo [103](../../lft/markdown/articulo-103.md) de la [Ley](articulo-4.md) Federal del Trabajo;
 
 II. Otorgar financiamiento a los trabajadores para la adquisición de bienes y pago de servicios y garantizar dichas adquisiciones y pagos;
 

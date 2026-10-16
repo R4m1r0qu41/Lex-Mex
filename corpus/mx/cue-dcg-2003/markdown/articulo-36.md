@@ -60,7 +60,7 @@ a) Ejemplar de la publicación periódica en el órgano o periódico oficial que
 
 b) En caso de que la legislación local así lo contemple, informe periódico que rinda a la Legislatura local el titular del Ejecutivo de la entidad federativa de que se trate, sobre las cuentas de origen y aplicación de los recursos públicos, el ejercicio de los programas previstos en la Ley de Ingresos correspondiente y los saldos de la deuda pública.
 
-c) En su caso, la información a que hace referencia el artículo 8 del Reglamento del artículo [9](articulo-9.md)o. de la Ley de la Coordinación Fiscal en materia de registro de obligaciones y empréstitos de entidades federativas y municipios.
+c) En su caso, la información a que hace referencia el artículo 8 del Reglamento del artículo 9o. de la Ley de la Coordinación Fiscal en materia de registro de obligaciones y empréstitos de entidades federativas y municipios.
 
 IV. Información jurídica:
 

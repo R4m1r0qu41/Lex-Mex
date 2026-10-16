@@ -29,7 +29,7 @@ V. Establecer planes de capacitación de conformidad con lo previsto en la Ley F
 
 VI. Auxiliar a los sindicatos o trabajadores en los procedimientos de elección de sus directivas sindicales, así como verificar el cumplimiento de los principios democráticos y los requisitos legales aplicables;
 
-VII. Convocar y organizar los recuentos para consultas a solicitud fundada de los trabajadores, o en caso de duda razonable sobre la veracidad de la documentación presentada en la verificación de la elección de directivas sindicales conforme al artículo 371 Bis de la Ley Federal del Trabajo;
+VII. Convocar y organizar los recuentos para consultas a solicitud fundada de los trabajadores, o en caso de duda razonable sobre la veracidad de la documentación presentada en la verificación de la elección de directivas sindicales conforme al artículo [371 Bis](../../lft/markdown/articulo-371-Bis.md) de la Ley Federal del Trabajo;
 
 VIII. Expedir las constancias de no conciliación;
 
@@ -37,13 +37,13 @@ IX. Expedir las constancias de representatividad;
 
 X. Verificar el apoyo mayoritario de los trabajadores en los contratos colectivos de trabajo que los rigen y sus convenios de revisión, vigilando el ejercicio del voto personal, libre, directo y secreto;
 
-XI. Tomar en consideración las propuestas y opiniones del Comité Nacional de Concertación y Productividad referidas en el artículo 153-K, fracciones XII, XIII y XIV, de la Ley Federal del Trabajo;
+XI. Tomar en consideración las propuestas y opiniones del Comité Nacional de Concertación y Productividad referidas en el artículo [153-K](../../lft/markdown/articulo-153-K.md), fracciones XII, XIII y XIV, de la Ley Federal del Trabajo;
 
-XII. Verificar que el contenido de los contratos colectivos de trabajo se haya hecho del conocimiento de los trabajadores, conforme a lo dispuesto por el artículo 400 Bis de la Ley Federal del Trabajo;
+XII. Verificar que el contenido de los contratos colectivos de trabajo se haya hecho del conocimiento de los trabajadores, conforme a lo dispuesto por el artículo [400 Bis](../../lft/markdown/articulo-400-Bis.md) de la Ley Federal del Trabajo;
 
 XIII. Proporcionar la documentación e información relativa al registro del contrato colectivo o de la administración del contrato-ley, tabuladores, padrones de trabajadores afiliados a los sindicatos contendientes y toda aquella información que posea a los tribunales que así lo requieran;
 
-XIV. Hacer pública conforme al artículo 365 Bis de la Ley Federal del Trabajo, la información de los sindicatos, y brindar a las personas que lo soliciten copia de los documentos que obren en los expedientes registrados, previo pago de los derechos correspondientes, en términos del artículo 8o. de la [Constitución](articulo-3.md) y de la Ley General de Transparencia y Acceso a la Información Pública, priorizando la utilización de medios tecnológicos; XV. Establecer un modelo de gestión conciliatoria y administrativa para su adecuado funcionamiento;
+XIV. Hacer pública conforme al artículo [365 Bis](../../lft/markdown/articulo-365-Bis.md) de la Ley Federal del Trabajo, la información de los sindicatos, y brindar a las personas que lo soliciten copia de los documentos que obren en los expedientes registrados, previo pago de los derechos correspondientes, en términos del artículo 8o. de la [Constitución](articulo-3.md) y de la Ley General de Transparencia y Acceso a la Información Pública, priorizando la utilización de medios tecnológicos; XV. Establecer un modelo de gestión conciliatoria y administrativa para su adecuado funcionamiento;
 
 XVI. Establecer el Código de Conducta para las personas servidoras públicas al Centro;
 

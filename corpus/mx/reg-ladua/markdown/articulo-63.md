@@ -23,6 +23,6 @@ I. El comprobante fiscal digital por Internet o documento equivalente, o bien, e
 
 II. Documento con el cual se acredite la propiedad de las Mercancías, y
 
-III. Comprobante del recinto fiscal expedido cuando las Mercancías ingresaron al mismo. Cuando proceda la devolución del valor de las Mercancías a que se refiere este artículo, se deberá actualizar dicho valor, desde la fecha en que se efectuó la asignación, destrucción o donación del bien que corresponda hasta la fecha en que se dicte la resolución por parte de la Autoridad Aduanera de la procedencia de la devolución, de conformidad con lo dispuesto en el artículo 17-A del Código Fiscal de la Federación. Párrafo reformado DOF 23-02-2026
+III. Comprobante del recinto fiscal expedido cuando las Mercancías ingresaron al mismo. Cuando proceda la devolución del valor de las Mercancías a que se refiere este artículo, se deberá actualizar dicho valor, desde la fecha en que se efectuó la asignación, destrucción o donación del bien que corresponda hasta la fecha en que se dicte la resolución por parte de la Autoridad Aduanera de la procedencia de la devolución, de conformidad con lo dispuesto en el artículo [17-A](../../cff/markdown/articulo-17-A.md) del Código Fiscal de la Federación. Párrafo reformado DOF 23-02-2026
 
 La indemnización consistirá en entregar al interesado el valor de las Mercancías objeto de la asignación, destrucción o donación, de conformidad con los documentos a que se refiere la fracción I de este artículo. Párrafo reformado DOF 23-02-2026

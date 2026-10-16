@@ -142,6 +142,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsat:article:28:reference:882-884:69:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lsat:article:28",
+    "source_span": "69",
+    "start_char": 882,
+    "end_char": 884,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:69",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsat:article:30:reference:548-550:22:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lsat:article:30",
     "source_span": "22",
@@ -194,6 +209,43 @@
     "end_char": 40,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsat",
     "target_provision_id": "urn:lex-mx:federal:statute:lsat:article:7",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsat:transitory:segundo:reference:76-78:33:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lsat:transitory:segundo",
+    "source_span": "33",
+    "start_char": 76,
+    "end_char": 78,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:33",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 80,
+        "end_char": 92
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsat:transitory:segundo:reference:96-102:70-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lsat:transitory:segundo",
+    "source_span": "70 bis",
+    "start_char": 96,
+    "end_char": 102,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:70-bis",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

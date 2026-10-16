@@ -1,6 +1,21 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcacsam:article:6:reference:159-162:180:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lcacsam:article:6",
+    "source_span": "180",
+    "start_char": 159,
+    "end_char": 162,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "target_provision_id": "urn:lex-mx:federal:statute:lissfam:article:180",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcacsam:article:8:reference:123-125:21:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lcacsam:article:8",
     "source_span": "21",

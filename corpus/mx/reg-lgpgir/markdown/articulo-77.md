@@ -17,7 +17,7 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 77
 
-Quien conforme a la [Ley](articulo-2.md) esté obligado a la presentación de un seguro y ya lo hubiere presentado, de acuerdo a lo previsto en los artículos 35 o 147 Bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y éste se encuentre vigente, cumplirán con dicha obligación siempre que en la solicitud correspondiente el interesado haga referencia a tal circunstancia.
+Quien conforme a la [Ley](articulo-2.md) esté obligado a la presentación de un seguro y ya lo hubiere presentado, de acuerdo a lo previsto en los artículos [35](../../lgeepa/markdown/articulo-35.md) o [147 Bis](../../lgeepa/markdown/articulo-147-BIS.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y éste se encuentre vigente, cumplirán con dicha obligación siempre que en la solicitud correspondiente el interesado haga referencia a tal circunstancia.
 
 Tratándose del transporte de residuos peligrosos la obligación se tendrá por cumplida con la presentación de la copia de la póliza del seguro vigente que se haya presentado ante la Secretaría de Comunicaciones y Transportes.
 

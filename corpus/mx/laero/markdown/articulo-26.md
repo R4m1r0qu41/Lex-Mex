@@ -33,6 +33,6 @@ VI. Disolución, liquidación o quiebra de la concesionaria o permisionaria, y
 
 VII. Muerte de la persona física permisionaria.
 
-En el caso de rescate se seguirá el procedimiento establecido en el artículo 26 de la Ley General de Bienes Nacionales y procederá indemnización.
+En el caso de rescate se seguirá el procedimiento establecido en el artículo [26](../../lgbn/markdown/articulo-26.md) de la Ley General de Bienes Nacionales y procederá indemnización.
 
 La terminación de la concesión o permiso no extingue las obligaciones contraídas por el titular durante su vigencia.

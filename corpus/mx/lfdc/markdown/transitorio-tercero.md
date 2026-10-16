@@ -17,7 +17,7 @@ source_sha256: 70f871ee9f8791063f9da9df9eab93b68efc1f2878f8024299bb5cd93b238658
 
 A partir de la entrada en vigor de la presente Ley, se estará a lo siguiente:
 
-I.- Para los efectos de lo dispuesto en la fracción I del artículo 208 del Código Fiscal de la Federación, se podrá señalar el domicilio para recibir notificaciones de conformidad con lo dispuesto en la fracción XIV del artículo [2](articulo-2o.md)o. de la presente Ley.
+I.- Para los efectos de lo dispuesto en la fracción I del artículo [208](../../cff/markdown/articulo-208.md) del Código Fiscal de la Federación, se podrá señalar el domicilio para recibir notificaciones de conformidad con lo dispuesto en la fracción XIV del artículo [2](articulo-2o.md)o. de la presente Ley.
 
 II.- Para los efectos de lo dispuesto en el último párrafo del artículo 208 citado, cuando no se señale el domicilio para recibir notificaciones en los términos establecidos en la fracción XIV del precitado artículo [2](articulo-2o.md)o. de esta Ley, las notificaciones que deban practicarse se efectuarán por lista autorizada. III.- Los contribuyentes podrán presentar en los juicios de nulidad ante el Tribunal Federal de Justicia Fiscal y Administrativa, como prueba documental, el expediente administrativo en los términos establecidos en el artículo [24](articulo-24.md) de la presente Ley, no obstante que exista disposición en contrario en el Código Fiscal de la Federación.
 

@@ -48,7 +48,7 @@ XI. Disposiciones de carácter general aplicables a las entidades y emisoras sup
 
 (109) XIII. Las demás que expida la Comisión con posterioridad a estas disposiciones, que resulten aplicables a las casas de bolsa.
 
-Adicionalmente, las casas de bolsa que de conformidad con lo establecido en el artículo 40, tercer párrafo de la Ley de Fondos de Inversión, proporcionen de manera directa a fondos de inversión servicios de distribución de acciones, deberán ajustarse a las disposiciones de carácter general expedidas en esa materia por la Comisión.
+Adicionalmente, las casas de bolsa que de conformidad con lo establecido en el artículo [40](../../lfi/markdown/articulo-40.md), tercer párrafo de la Ley de Fondos de Inversión, proporcionen de manera directa a fondos de inversión servicios de distribución de acciones, deberán ajustarse a las disposiciones de carácter general expedidas en esa materia por la Comisión.
 
 En todo caso, las casas de bolsa en la realización de sus actividades y la prestación de sus servicios, estarán obligadas al cumplimiento de sus manuales que conforme a las presentes disposiciones deban tener.
 

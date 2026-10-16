@@ -161,7 +161,7 @@ II. Aprovechamiento de cualquier recurso forestal maderable y no maderable en se
 
 III. Cualquier aprovechamiento persistente de especies de difícil regeneración, y
 
-IV. Aprovechamientos forestales en áreas naturales protegidas, de conformidad con lo establecido en el artículo 76, fracción III de la Ley General de Desarrollo Forestal Sustentable. Fracción reformada DOF 31-10-2014
+IV. Aprovechamientos forestales en áreas naturales protegidas, de conformidad con lo establecido en el artículo [76](../../lgdfs/markdown/articulo-76.md), fracción III de la Ley General de Desarrollo Forestal Sustentable. Fracción reformada DOF 31-10-2014
 
 Ñ) PLANTACIONES FORESTALES:
 

@@ -21,7 +21,7 @@ Corresponde al Sistema Nacional para el Desarrollo Integral de la Familia, a los
 
 I. Proporcionar asistencia social para la atención de niñas, niños y adolescentes migrantes que requieran servicios para su protección;
 
-II. Otorgar facilidades de estancia y garantizar la protección y los derechos de niñas, niños y adolescentes migrantes, independientemente de su nacionalidad y situación migratoria, garantizando el principio de unidad familiar y el cumplimiento de las medidas de protección para la restitución integral de derechos vulnerados de niñas, niños y adolescentes de conformidad con los artículos 122 y 123 de la [Ley](articulo-3.md) General de los Derechos de Niñas, Niños y Adolescentes;
+II. Otorgar facilidades de estancia y garantizar la protección y los derechos de niñas, niños y adolescentes migrantes, independientemente de su nacionalidad y situación migratoria, garantizando el principio de unidad familiar y el cumplimiento de las medidas de protección para la restitución integral de derechos vulnerados de niñas, niños y adolescentes de conformidad con los artículos [122](../../lgdnna/markdown/articulo-122.md) y [123](../../lgdnna/markdown/articulo-123.md) de la [Ley](articulo-3.md) General de los Derechos de Niñas, Niños y Adolescentes;
 
 III. El Sistema Nacional DIF y los sistemas de las entidades federativas, en coordinación con las instituciones competentes, deberán identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial;
 

@@ -37,7 +37,7 @@ VIII. Derogada Fracción reformada y recorrida DOF 30-11-2012. Derogada DOF 24-0
 
 IX. Fomentar la creación de cooperativas de consumo entre los trabajadores; Fracción adicionada DOF 30-11-2012
 
-X. Fomentar la educación entre las personas trabajadoras del campo y sus familiares. En el caso de las personas trabajadoras del campo se deberá fomentar la educación con pertinencia cultural y lingüística para personas adultas a través de los diversos tipos y modalidades de estudio para erradicar el rezago educativo y el analfabetismo. En el caso de los hijos de las personas trabajadoras del campo se deberá fomentar la educación obligatoria. Cuando las actividades a que se refiere este Capítulo se sitúen fuera de las poblaciones, la persona empleadora deberá establecer y sostener escuelas de conformidad con lo previsto en el artículo 82 de la Ley General de Educación.
+X. Fomentar la educación entre las personas trabajadoras del campo y sus familiares. En el caso de las personas trabajadoras del campo se deberá fomentar la educación con pertinencia cultural y lingüística para personas adultas a través de los diversos tipos y modalidades de estudio para erradicar el rezago educativo y el analfabetismo. En el caso de los hijos de las personas trabajadoras del campo se deberá fomentar la educación obligatoria. Cuando las actividades a que se refiere este Capítulo se sitúen fuera de las poblaciones, la persona empleadora deberá establecer y sostener escuelas de conformidad con lo previsto en el artículo [82](../../lge/markdown/articulo-82.md) de la Ley General de Educación.
 
 Las autoridades educativas de las entidades federativas podrán celebrar con las personas empleadoras, convenios para el cumplimiento de dicha obligación.
 

@@ -17,7 +17,7 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 Para abanderar una Embarcación o Artefacto Naval por primera ocasión y siempre y cuando esto lo vaya a realizar un servidor público con rango de Subsecretario u homólogo o por el Director General de Marina Mercante, a bordo de la Embarcación o Artefacto Naval se deberá cumplir con lo siguiente:
 
-I. Contar con una Bandera Mexicana de las proporciones que marca el artículo [3](articulo-3.md)o. de la [Ley](articulo-10.md) sobre el Escudo, la Bandera y el Himno Nacionales;
+I. Contar con una Bandera Mexicana de las proporciones que marca el artículo [3](../../lebhn/markdown/articulo-3o.md)o. de la [Ley](articulo-10.md) sobre el Escudo, la Bandera y el Himno Nacionales;
 
 II. El día designado para el abanderamiento de la Embarcación mexicana, se deberá tener preparada la bandera en el asta a popa del buque; o en el palo mayor con su respectiva driza y con un oficial a resguardo para que el servidor público que se encuentre a cargo de izar la Bandera Nacional, no tenga obstáculo alguno cuando se indique que deberá hacerlo;
 
@@ -33,4 +33,4 @@ VI. Se ordenará a todo el personal posición de saludar, bandas de guerra y de 
 
 VII. Una vez hecha firme la Bandera Nacional, se ordenará, posición de firmes al personal. Acto seguido, en un lugar previamente determinado, se firmará el acta de abanderamiento por el servidor público que abanderó la Embarcación, así como los testigos y por el Capitán de Puerto, y
 
-VIII. El personal que se encuentra formado en el muelle al costado de la Embarcación, hará los honores de ordenanza al servidor público de más alto rango, conforme a lo contemplado en el artículo 12 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales. De acuerdo a ello, los honores a la Bandera Nacional se harán con antelación a los actos relacionados con las personas participantes en la ceremonia, quienes acompañadas de las autoridades competentes se trasladará al portalón de la escala real para su retiro.
+VIII. El personal que se encuentra formado en el muelle al costado de la Embarcación, hará los honores de ordenanza al servidor público de más alto rango, conforme a lo contemplado en el artículo [12](../../lebhn/markdown/articulo-12.md) de la Ley sobre el Escudo, la Bandera y el Himno Nacionales. De acuerdo a ello, los honores a la Bandera Nacional se harán con antelación a los actos relacionados con las personas participantes en la ceremonia, quienes acompañadas de las autoridades competentes se trasladará al portalón de la escala real para su retiro.

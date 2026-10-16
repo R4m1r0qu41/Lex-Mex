@@ -15,7 +15,7 @@ source_sha256: 3db723c0e32c0f31b97d4ff15387fc7e76e29fe6b48ce84da2624a536144f938
 
 # Décimo
 
-Se deroga la fracción IV del artículo 6 de la Ley de Inversión Extranjera.
+Se deroga la fracción IV del artículo [6](../../lie/markdown/articulo-6o.md) de la Ley de Inversión Extranjera.
 
 México, D.F., a 30 de abril de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Ma. Mercedes Maciel Ortiz, Secretaria.- Rúbricas."
 

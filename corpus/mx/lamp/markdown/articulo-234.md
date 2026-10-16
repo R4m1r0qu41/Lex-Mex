@@ -23,4 +23,4 @@ I. La fecha a partir de la cual surtirá sus efectos; y
 
 II. Los alcances y las condiciones de la declaratoria de inconstitucionalidad.
 
-Los efectos de estas declaratorias no serán retroactivos salvo en materia penal, en términos del párrafo primero del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+Los efectos de estas declaratorias no serán retroactivos salvo en materia penal, en términos del párrafo primero del artículo [14](../../cpeum/markdown/articulo-14.md) de la Constitución Política de los Estados Unidos Mexicanos.

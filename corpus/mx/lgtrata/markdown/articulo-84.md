@@ -17,7 +17,7 @@ source_sha256: 390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32
 
 # Artículo 84
 
-El Gobierno Federal, conforme al Artículo 21 de la Ley Orgánica de la Administración Pública Federal, establecerá una Comisión Intersecretarial para Prevenir, Combatir y Sancionar los Delitos en Materia de Trata de Personas, que tendrá por objeto:
+El Gobierno Federal, conforme al Artículo [21](../../loapf/markdown/articulo-21.md) de la Ley Orgánica de la Administración Pública Federal, establecerá una Comisión Intersecretarial para Prevenir, Combatir y Sancionar los Delitos en Materia de Trata de Personas, que tendrá por objeto:
 
 I. Definir y coordinar la implementación de una Política de Estado en materia de Trata de Personas y demás objeto previstos en esta Ley;
 

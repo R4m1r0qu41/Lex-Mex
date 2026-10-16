@@ -77,7 +77,7 @@ XXVIII. Transparentar y dar seguimiento a todas las denuncias, quejas, solicitud
 
 XXIX. Establecer los mecanismos necesarios para fortalecer la participación ciudadana en la rendición de cuentas de las entidades sujetas a fiscalización;
 
-XXX. Formar parte del Comité Coordinador del Sistema Nacional Anticorrupción en términos de lo dispuesto por el artículo 113 fracción III de la Constitución Política de los Estados Unidos Mexicanos y la Ley General del Sistema;
+XXX. Formar parte del Comité Coordinador del Sistema Nacional Anticorrupción en términos de lo dispuesto por el artículo [113](../../cpeum/markdown/articulo-113.md) fracción III de la Constitución Política de los Estados Unidos Mexicanos y la Ley General del Sistema;
 
 XXXI. Rendir un informe anual basado en indicadores en materia de fiscalización, debidamente sistematizados y actualizados, mismo que será público y se compartirá con los integrantes del Comité Coordinador a que se refiere la Ley General del Sistema Nacional Anticorrupción y al Comité de Participación Ciudadana. Con base en el informe señalado podrá presentar desde su competencia proyectos de recomendaciones integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, por lo que hace a las causas que los generan;
 

@@ -23,7 +23,7 @@ I. Almacenamiento de residuos peligrosos, acción de retener temporalmente los r
 
 II. Acopio, acción de reunir los residuos de una o diferentes fuentes para su manejo;
 
-II Bis. Actividades del Sector Hidrocarburos, las actividades definidas como tales en el artículo [3](articulo-3.md)o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción adicionada DOF 31-10-2014
+II Bis. Actividades del Sector Hidrocarburos, las actividades definidas como tales en el artículo [3](../../lansi/markdown/articulo-3o.md)o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción adicionada DOF 31-10-2014
 
 1 II Ter. Agencia, la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción adicionada DOF 31-10-2014
 
@@ -43,7 +43,7 @@ IX. Diagnóstico Básico para la Gestión Integral de los Residuos, estudio que 
 
 X. Instalaciones, aquéllas en donde se desarrolla el proceso generador de residuos peligrosos o donde se realizan las actividades de manejo de este tipo de residuos. Esta definición incluye a los predios que pertenecen al generador de residuos peligrosos o aquéllos sobre los cuales tiene una posesión derivada y que tengan relación directa con su actividad;
 
-XI. Inventario Nacional de Sitios Contaminados, el que elabora la Secretaría conforme al artículo 75 de la Ley General para la Prevención y Gestión Integral de los Residuos;
+XI. Inventario Nacional de Sitios Contaminados, el que elabora la Secretaría conforme al artículo [75](../../lgpgir/markdown/articulo-75.md) de la Ley General para la Prevención y Gestión Integral de los Residuos;
 
 XII. Jales, residuos generados en las operaciones primarias de separación y concentración de minerales;
 

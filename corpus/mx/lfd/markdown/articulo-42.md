@@ -43,6 +43,6 @@ e) Los animales vivos.
 
 III.- Los equipajes o efectos personales de pasajeros, por cada cien kilogramos o fracción, diariamente ................................................................................................................. $28.94
 
-Por el almacenaje a que se refiere el último párrafo de los artículos 185 y 195 del Código Fiscal de la Federación, se estará obligado al pago del derecho de almacenaje, conforme a las disposiciones establecidas en esta Sección, el que se causará a partir de la fecha en que se hubieran puesto los bienes a disposición del adquirente o del embargado, según corresponda.
+Por el almacenaje a que se refiere el último párrafo de los artículos [185](../../cff/markdown/articulo-185.md) y [195](../../cff/markdown/articulo-195.md) del Código Fiscal de la Federación, se estará obligado al pago del derecho de almacenaje, conforme a las disposiciones establecidas en esta Sección, el que se causará a partir de la fecha en que se hubieran puesto los bienes a disposición del adquirente o del embargado, según corresponda.
 
 Para los efectos del presente artículo, los contenedores vacíos se considerarán mercancías.

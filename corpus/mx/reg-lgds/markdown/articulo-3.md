@@ -17,7 +17,7 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 3
 
-Además de las definiciones contenidas en el artículo 5 de la Ley General de Desarrollo Social, para los efectos de este Reglamento se entiende por:
+Además de las definiciones contenidas en el artículo [5](../../lgds/markdown/articulo-5.md) de la Ley General de Desarrollo Social, para los efectos de este Reglamento se entiende por:
 
 I. Coinversión Social: la participación, conjunta o individual, de organizaciones de los sectores social y privado, mediante la aportación de recursos humanos, materiales o financieros, en las acciones y programas gubernamentales de desarrollo social;
 

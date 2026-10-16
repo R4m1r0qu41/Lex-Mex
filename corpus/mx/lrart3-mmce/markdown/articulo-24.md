@@ -19,4 +19,4 @@ source_sha256: 6cfd550f22edb3253ebf98d885329be5402890d902d17afaa7860d94d76fe014
 
 La Comisión se constituye como un organismo público descentralizado, no sectorizado, con autonomía técnica, operativa, presupuestaria, de decisión y de gestión, con personalidad jurídica y patrimonio propio.
 
-La autonomía presupuestaria a la que se refiere el párrafo anterior, se sujetará a lo establecido en los artículos 5, fracción II y 29 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+La autonomía presupuestaria a la que se refiere el párrafo anterior, se sujetará a lo establecido en los artículos [5](../../lfprh/markdown/articulo-5.md), fracción II y [29](../../lfprh/markdown/articulo-29.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.

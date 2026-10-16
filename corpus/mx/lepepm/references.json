@@ -82,6 +82,94 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lepepm:article:102:reference:1489-1491:41:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lepepm:article:102",
+    "source_span": "41",
+    "start_char": 1489,
+    "end_char": 1491,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:41",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 1464,
+        "end_char": 1475
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 1626,
+        "end_char": 1637
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lepepm:article:102:reference:3998-4001:107:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lepepm:article:102",
+    "source_span": "107",
+    "start_char": 3998,
+    "end_char": 4001,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lepepm:article:104:reference:848-851:107:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lepepm:article:104",
+    "source_span": "107",
+    "start_char": 848,
+    "end_char": 851,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lepepm:article:105:reference:3708-3711:107:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lepepm:article:105",
+    "source_span": "107",
+    "start_char": 3708,
+    "end_char": 3711,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lepepm:article:107:reference:460-462:10:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lepepm:article:107",
+    "source_span": "10",
+    "start_char": 460,
+    "end_char": 462,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgdp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgdp:article:10",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lepepm:article:107:reference:3287-3290:102:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lepepm:article:107",
     "source_span": "102",
@@ -443,6 +531,28 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lepepm:article:91:reference:684-686:42:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lepepm:article:91",
+    "source_span": "42",
+    "start_char": 684,
+    "end_char": 686,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgbn:article:42",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 660,
+        "end_char": 670
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",

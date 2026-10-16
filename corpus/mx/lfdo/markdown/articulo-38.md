@@ -17,6 +17,6 @@ source_sha256: 6f9b44bd6bc8c19aad3747e9198f2c5543b0415afa4a3cd63b4bd995091932ad
 
 # Artículo 38
 
-En caso de que se reciban informaciones anónimas sobre hechos relacionados con la comisión de los delitos a que se refiere esta Ley, se estará a lo dispuesto en los artículos 212, 215, 221 y demás relativos y aplicables del Código Nacional de Procedimientos Penales.
+En caso de que se reciban informaciones anónimas sobre hechos relacionados con la comisión de los delitos a que se refiere esta Ley, se estará a lo dispuesto en los artículos [212](../../cnpp/markdown/articulo-212.md), [215](../../cnpp/markdown/articulo-215.md), [221](../../cnpp/markdown/articulo-221.md) y demás relativos y aplicables del Código Nacional de Procedimientos Penales.
 
 Artículo reformado DOF 16-06-2016

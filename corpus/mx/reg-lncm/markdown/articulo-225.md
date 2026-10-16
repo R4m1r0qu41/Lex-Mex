@@ -21,6 +21,6 @@ I. Permisos temporales de Navegación de cabotaje, para Embarcaciones extranjera
 
 II. Permisos para la prestación de servicios en vías navegables, para la utilización de Embarcaciones en Navegación interior o de cabotaje, de los establecidos por el artículo 42 de la Ley, y
 
-III. Autorizaciones de permanencia para artefactos navales extranjeros que pretendan operar en las zonas marinas mexicanas, de conformidad con lo establecido en el artículo 16 de la Ley Federal del Mar.
+III. Autorizaciones de permanencia para artefactos navales extranjeros que pretendan operar en las zonas marinas mexicanas, de conformidad con lo establecido en el artículo [16](../../lfm/markdown/articulo-16.md) de la Ley Federal del Mar.
 
 Los navieros nacionales en la explotación y operación de Embarcaciones o Artefactos Navales mexicanos, no requerirán permisos temporales de Navegación para realizar Navegación de cabotaje, ni autorizaciones de permanencia; sin perjuicio de los permisos para la prestación de servicios correspondientes.

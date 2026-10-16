@@ -25,7 +25,7 @@ II. Con el equivalente de 100 a 30,000 veces la Unidad de Medida y Actualizació
 
 III. Con el equivalente de 150 a 30,000 veces la Unidad de Medida y Actualización, a quien cometa las infracciones señaladas en las fracciones III, V, VII, IX, XII, XVI, XIX, XXI, XXII, XXIII, XXIV, XXV y XXIX del artículo [155](articulo-155.md) de esta Ley. Fracción reformada DOF 11-04-2022, 11-04-2022
 
-Para la imposición de multas servirá de base la Unidad de Medida y Actualización prevista en el párrafo sexto del Apartado B del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos, al momento de cometerse la infracción.
+Para la imposición de multas servirá de base la Unidad de Medida y Actualización prevista en el párrafo sexto del Apartado B del artículo [26](../../cpeum/markdown/articulo-26.md) de la Constitución Política de los Estados Unidos Mexicanos, al momento de cometerse la infracción.
 
 A los reincidentes se les aplicará el doble de las multas previstas en este artículo, según corresponda. Para conocer de las reincidencias la Procuraduría Federal de Protección al Ambiente deberá generar un catálogo de infractores, donde se incluya información de nombres, razón social, ubicación, superficies y coordenadas en UTM. Párrafo reformado DOF 11-04-2022
 

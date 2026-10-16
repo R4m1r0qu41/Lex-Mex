@@ -21,7 +21,7 @@ Los hechos que se conozcan con motivo del ejercicio de las facultades de comprob
 
 La información relativa a la identidad de terceros que importen o hayan importado mercancías idénticas, similares o de la misma especie o clase, cuyo valor en aduana se utilice para determinar el valor de las mercancías objeto de resolución, así como la información confidencial de dichas importaciones que se utilice para motivar la resolución, sólo podrá ser revelada a los tribunales ante los que, en su caso, se impugne el acto de autoridad.
 
-No obstante lo dispuesto en el párrafo anterior, el interesado podrá designar un máximo de dos representantes, con el fin de tener acceso a la información confidencial proporcionada u obtenida de terceros respecto del valor en aduana en importaciones de mercancías idénticas, similares o de la misma especie o clase, en los términos de lo dispuesto en los artículos 46 y 48 del Código Fiscal de la Federación.
+No obstante lo dispuesto en el párrafo anterior, el interesado podrá designar un máximo de dos representantes, con el fin de tener acceso a la información confidencial proporcionada u obtenida de terceros respecto del valor en aduana en importaciones de mercancías idénticas, similares o de la misma especie o clase, en los términos de lo dispuesto en los artículos [46](../../cff/markdown/articulo-46.md) y [48](../../cff/markdown/articulo-48.md) del Código Fiscal de la Federación.
 
 Artículo adicionado DOF 31-12-1998
 

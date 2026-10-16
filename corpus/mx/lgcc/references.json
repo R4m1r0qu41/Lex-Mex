@@ -120,6 +120,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:transitory:decimo:reference:754-756:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:decimo",
+    "source_span": "89",
+    "start_char": 754,
+    "end_char": 756,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 730,
+        "end_char": 740
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgcc:transitory:noveno:reference:319-321:83:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:noveno",
     "source_span": "83",
@@ -127,6 +149,21 @@
     "end_char": 321,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
     "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:83",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:transitory:sexto:reference:383-386:123:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:sexto",
+    "source_span": "123",
+    "start_char": 383,
+    "end_char": 386,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:123",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

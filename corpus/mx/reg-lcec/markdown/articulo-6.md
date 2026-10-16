@@ -19,7 +19,7 @@ source_sha256: 76a5d189cd607e352b2cc39a92c4ad2d46f6d4628cd6e300030d92cf2191a88c
 
 En términos de lo dispuesto en el último párrafo del artículo 4 de la [Ley](articulo-2.md), las entidades extranjeras o binacionales interesadas en operar en territorio nacional, deberán solicitar la autorización correspondiente y presentar ante la Secretaría, lo siguiente:
 
-I. Escrito que cumpla con los requisitos previstos en el artículo 15 de la Ley Federal de Procedimiento Administrativo;
+I. Escrito que cumpla con los requisitos previstos en el artículo [15](../../lfpa/markdown/articulo-15.md) de la Ley Federal de Procedimiento Administrativo;
 
 II. Acta Constitutiva de la Entidad Extranjera, y
 

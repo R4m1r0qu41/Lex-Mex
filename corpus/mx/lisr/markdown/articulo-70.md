@@ -25,7 +25,7 @@ a) Los que permitan determinar la cuenta de utilidad fiscal neta a que se refier
 
 b) De los dividendos o utilidades percibidos o distribuidos, incluidos los que no hubieren provenido de su cuenta de utilidad fiscal neta, conforme a lo dispuesto en las reglas de carácter general que para estos efectos expida el Servicio de Administración Tributaria.
 
-II. La integradora y las integradas deberán adjuntar a la declaración informativa de su situación fiscal que están obligadas a presentar conforme a lo dispuesto en el artículo 32-H del Código Fiscal de la Federación, copia de las opiniones que en materia fiscal recibieron de terceros y que hubieren tenido el efecto de disminuir el resultado fiscal o aumentar la pérdida fiscal del ejercicio.
+II. La integradora y las integradas deberán adjuntar a la declaración informativa de su situación fiscal que están obligadas a presentar conforme a lo dispuesto en el artículo [32-H](../../cff/markdown/articulo-32-H.md) del Código Fiscal de la Federación, copia de las opiniones que en materia fiscal recibieron de terceros y que hubieren tenido el efecto de disminuir el resultado fiscal o aumentar la pérdida fiscal del ejercicio.
 
 III. La integradora deberá llevar y conservar los siguientes registros:
 

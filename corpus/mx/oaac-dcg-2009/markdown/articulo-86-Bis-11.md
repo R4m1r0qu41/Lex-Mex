@@ -74,7 +74,7 @@ a) En la evaluación cuantitativa y cualitativa considerar, cuando menos:
 
 1. Los estados financieros y, en su caso sus dictámenes, la relación de bienes patrimoniales y, en general, la información y documentación presentada por el posible acreditado.
 
-Las uniones de crédito únicamente deberán considerar los dictámenes de auditoría externa a los estados financieros, cuando se trate de personas obligadas a dictaminar sus estados financieros para efectos fiscales, en los términos del artículo 52 del Código Fiscal de la Federación de conformidad con lo dispuesto por el artículo 32-A del propio Código.
+Las uniones de crédito únicamente deberán considerar los dictámenes de auditoría externa a los estados financieros, cuando se trate de personas obligadas a dictaminar sus estados financieros para efectos fiscales, en los términos del artículo [52](../../cff/markdown/articulo-52.md) del Código Fiscal de la Federación de conformidad con lo dispuesto por el artículo 32-A del propio Código.
 
 2. La fuente primaria de recuperación del crédito.
 

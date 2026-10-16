@@ -17,4 +17,4 @@ source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd
 
 # Artículo 1
 
-La presente Ley es de orden público, de aplicación en todo el territorio nacional, reglamentaria del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional.
+La presente Ley es de orden público, de aplicación en todo el territorio nacional, reglamentaria del artículo [21](../../cpeum/markdown/articulo-21.md) de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional.

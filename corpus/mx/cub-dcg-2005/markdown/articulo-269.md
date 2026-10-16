@@ -22,7 +22,7 @@ Las Instituciones deberán contar con un funcionario o área encargada de revisa
 
 operaciones efectuadas a través del Sistema de Recepción y Asignación, designada por la persona o área a quien se le hayan asignado las funciones de Contraloría Interna y ser independiente de las áreas de negocio. Dicho funcionario o área estará a cargo de al menos, lo siguiente:
 
-(264) I. Verificar que se cumpla con lo establecido en el Título Quinto, Capítulo V de las presentes disposiciones, así como con lo previsto por los artículos 180 y 181 de la Ley del Mercado de Valores y con lo indicado en los artículos 53 y 81 de la Ley y demás artículos que resulten aplicables.
+(264) I. Verificar que se cumpla con lo establecido en el Título Quinto, Capítulo V de las presentes disposiciones, así como con lo previsto por los artículos [180](../../lmv/markdown/articulo-180.md) y [181](../../lmv/markdown/articulo-181.md) de la Ley del Mercado de Valores y con lo indicado en los artículos 53 y 81 de la Ley y demás artículos que resulten aplicables.
 
 (264) II. Velar por el debido cumplimiento de lo previsto en las fracciones II a XIII del Artículo [259](articulo-259.md) de las presentes disposiciones, que deberán contenerse en los manuales de las Instituciones.
 
@@ -50,7 +50,7 @@ c) Las reglas establecidas en los Artículos [268 Bis 1](articulo-268-Bis-1.md),
 
 (264) Adicionalmente, cuando así lo determine el Comité de Auditoría, el funcionario o área a que se refiere el presente artículo, informará lo dispuesto en el párrafo anterior a otras unidades de la Institución, incluyendo, en su caso, al Consejo.
 
-VII. Informar a la Comisión dentro de las 48 horas siguientes, cuando presuma que un cliente de la Institución giró una instrucción u Orden y como consecuencia se podría incurrir, en términos de los Artículos 364 y 370 de la Ley del Mercado de Valores, en cualquiera de las prohibiciones siguientes:
+VII. Informar a la Comisión dentro de las 48 horas siguientes, cuando presuma que un cliente de la Institución giró una instrucción u Orden y como consecuencia se podría incurrir, en términos de los Artículos [364](../../lmv/markdown/articulo-364.md) y [370](../../lmv/markdown/articulo-370.md) de la Ley del Mercado de Valores, en cualquiera de las prohibiciones siguientes:
 
 a) Manipular el mercado.
 

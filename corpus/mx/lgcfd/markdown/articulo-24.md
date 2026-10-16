@@ -29,7 +29,7 @@ V. Promover y vigilar que la CONADE establezca indicadores básicos de gestión 
 
 VI. Con base en las autoevaluaciones de la CONADE opinar sobre su desempeño general.
 
-La opinión a que se refiere el párrafo anterior deberá abarcar los aspectos que establece el artículo 30, fracción VI del [Reglamento](articulo-4.md) de la [Ley](articulo-4.md) Federal de las Entidades Paraestatales;
+La opinión a que se refiere el párrafo anterior deberá abarcar los aspectos que establece el artículo [30](../../reg-lfep/markdown/articulo-30.md), fracción VI del [Reglamento](articulo-4.md) de la [Ley](articulo-4.md) Federal de las Entidades Paraestatales;
 
 VII. Evaluar aspectos específicos de la CONADE y hacer las recomendaciones procedentes;
 

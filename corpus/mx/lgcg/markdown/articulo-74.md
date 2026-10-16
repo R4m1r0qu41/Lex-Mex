@@ -43,7 +43,7 @@ e) Contar, a más tardar el último día hábil de julio de cada año con un reg
 
 La Secretaría de Salud del Gobierno Federal dará acceso al sistema establecido para el registro del personal federalizado, para efectos de consulta a las instancias locales y federales de control, evaluación y fiscalización que así lo soliciten, y
 
-f) Incluir en su página de Internet la información que sea remitida por las entidades federativas en términos del artículo 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, particularmente respecto a:
+f) Incluir en su página de Internet la información que sea remitida por las entidades federativas en términos del artículo [85](../../lfprh/markdown/articulo-85.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, particularmente respecto a:
 
 1. Número y tipo de las plazas existentes, el nombre y la Clave Única de Registro de Población y el Registro Federal de Contribuyentes con Homoclave de quienes las ocupan, así como número de horas, por centros de trabajo, y el pago que reciben por concepto de servicios personales;
 

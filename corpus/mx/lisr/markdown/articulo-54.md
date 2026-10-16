@@ -51,4 +51,4 @@ Lo dispuesto en esta fracción no será aplicable a los intereses que se paguen 
 
 VI. Intereses que se paguen a los fondos de inversión a que se refiere el artículo [87](articulo-87.md) y de renta variable a que se refiere el artículo [88](articulo-88.md), de esta Ley. Fracción reformada DOF 18-11-2015
 
-VII. Las ganancias obtenidas en las operaciones financieras derivadas de capital referenciadas al tipo de cambio de una divisa que se realicen en los mercados reconocidos a que se refiere la fracción I del artículo 16-C del Código Fiscal de la Federación.
+VII. Las ganancias obtenidas en las operaciones financieras derivadas de capital referenciadas al tipo de cambio de una divisa que se realicen en los mercados reconocidos a que se refiere la fracción I del artículo [16-C](../../cff/markdown/articulo-16-C.md) del Código Fiscal de la Federación.

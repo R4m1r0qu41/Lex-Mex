@@ -19,8 +19,8 @@ Las acciones representativas del capital social fijo de los fondos de inversión
 
 Las acciones representativas de la parte variable del capital, serán de libre suscripción, conforme a lo establecido en el prospecto de información al público inversionista, y otorgarán los derechos establecidos en el artículo [14 Bis 2](articulo-14-Bis-2.md) siguiente, o cualquier otro derecho económico que se establezca en los estatutos sociales.
 
-Como excepción a lo previsto en el artículo 132 de la Ley General de Sociedades Mercantiles, no existirá derecho de preferencia para suscribir acciones en casos de aumento de capital, ni para adquirirlas en caso de enajenaciones, salvo pacto en contrario en ambos supuestos, el cual deberá informarse en el prospecto de información al público inversionista.
+Como excepción a lo previsto en el artículo [132](../../lgsm/markdown/articulo-132.md) de la Ley General de Sociedades Mercantiles, no existirá derecho de preferencia para suscribir acciones en casos de aumento de capital, ni para adquirirlas en caso de enajenaciones, salvo pacto en contrario en ambos supuestos, el cual deberá informarse en el prospecto de información al público inversionista.
 
-Los accionistas de la parte variable del capital tampoco tendrán el derecho de separación ni el derecho de retiro a que se refieren los artículos 206 y 220 de la Ley General de Sociedades Mercantiles, sin perjuicio de la observancia de los términos y condiciones aplicables respecto de las operaciones de adquisición, recompra y venta de las acciones representativas del capital social del propio fondo de inversión.
+Los accionistas de la parte variable del capital tampoco tendrán el derecho de separación ni el derecho de retiro a que se refieren los artículos [206](../../lgsm/markdown/articulo-206.md) y [220](../../lgsm/markdown/articulo-220.md) de la Ley General de Sociedades Mercantiles, sin perjuicio de la observancia de los términos y condiciones aplicables respecto de las operaciones de adquisición, recompra y venta de las acciones representativas del capital social del propio fondo de inversión.
 
 Artículo adicionado DOF 10-01-2014

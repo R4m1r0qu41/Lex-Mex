@@ -15,6 +15,6 @@ source_sha256: b040dd53cd38f57ceaacd736fd04475ba82c840d063c62229302627d09f3f363
 
 # Artículo 88
 
-Las Emisoras estarán obligadas a suministrar cualquier otra información o documentación adicional a la señalada en las presentes disposiciones, que les sea requerida en ejercicio de las facultades de inspección y vigilancia que a la Comisión le atribuye el artículo 4, fracción XXX de la Ley de la Comisión Nacional Bancaria y de Valores.
+Las Emisoras estarán obligadas a suministrar cualquier otra información o documentación adicional a la señalada en las presentes disposiciones, que les sea requerida en ejercicio de las facultades de inspección y vigilancia que a la Comisión le atribuye el artículo [4](../../lcnbv/markdown/articulo-4.md), fracción XXX de la Ley de la Comisión Nacional Bancaria y de Valores.
 
 Asimismo, las Emisoras deberán presentar toda aquella información y documentación que, a su juicio, consideren Información Relevante, aun cuando ésta no se encuentre especificada en las presentes disposiciones, debiendo en todo caso, presentarla a la [Bolsa](articulo-1.md) correspondiente para su divulgación al público.

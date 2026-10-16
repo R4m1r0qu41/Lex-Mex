@@ -17,7 +17,7 @@ source_sha256: 269e72195414406bcbd3e90ac40ec26e031a9ea519316c44ee30bdfdf3163059
 
 # Artículo 85
 
-El Instituto contará con una Contraloría Interna, denominada Órgano Interno de Control, al frente de la cual estará el Contralor Interno, Titular de dicho órgano, mismo que será designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal y que, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de responsabilidades, auditoría y quejas, designados en los mismos términos.
+El Instituto contará con una Contraloría Interna, denominada Órgano Interno de Control, al frente de la cual estará el Contralor Interno, Titular de dicho órgano, mismo que será designado en los términos del artículo [37](../../loapf/markdown/articulo-37.md), fracción XII, de la Ley Orgánica de la Administración Pública Federal y que, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de responsabilidades, auditoría y quejas, designados en los mismos términos.
 
 El Titular del órgano de control interno, así como los de sus áreas de auditoría, quejas y responsabilidades, dependerán de la Secretaría de la Función Pública. Dicho órgano desarrollará sus funciones conforme a los lineamientos que emita esta última.
 

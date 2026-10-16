@@ -39,7 +39,7 @@ IX. El monto de la garantía que deberá otorgar el concesionario para el cumpli
 
 b) Al terminar la ejecución de las obras la garantía a que se refiere el inciso anterior se sustituirá por otra, para garantizar el cumplimiento de obligaciones, cuyo monto será equivalente a seis meses de la contraprestación fiscal que deba pagarse al gobierno federal conforme a la ley, por el uso, aprovechamiento o explotación de los bienes de dominio público concesionados.
 
-El monto de la garantía deberá actualizarse anualmente conforme al artículo 17-A del Código Fiscal de la Federación; Fracción reformada DOF 11-06-2012
+El monto de la garantía deberá actualizarse anualmente conforme al artículo [17-A](../../cff/markdown/articulo-17-A.md) del Código Fiscal de la Federación; Fracción reformada DOF 11-06-2012
 
 X. Las pólizas de seguros de daños a terceros en sus personas o bienes, y los que pudieren sufrir las construcciones e instalaciones. En el caso de marinas, el seguro de instalaciones comprenderá sólo aquellas que estén adheridas de manera permanente a los bienes de dominio público; Fracción reformada DOF 11-06-2012
 

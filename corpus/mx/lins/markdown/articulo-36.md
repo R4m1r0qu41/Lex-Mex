@@ -17,4 +17,4 @@ source_sha256: 40271b07f2d2236f7e4d722d2b61f35db2d82772543dcf4911097efe13697c5e
 
 # Artículo 36
 
-Serán trabajadores de confianza los directores generales, directores, subdirectores, jefes de división, jefes de departamento, jefe de servicios y los demás que desempeñen las funciones a que se refiere el artículo [5](articulo-5.md)o. de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 Constitucional.
+Serán trabajadores de confianza los directores generales, directores, subdirectores, jefes de división, jefes de departamento, jefe de servicios y los demás que desempeñen las funciones a que se refiere el artículo 5o. de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 Constitucional.

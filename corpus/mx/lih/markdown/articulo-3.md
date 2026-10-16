@@ -17,7 +17,7 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 3
 
-Para los efectos de esta Ley, son aplicables, en singular o plural, las definiciones contenidas en el artículo 5 de la Ley del Sector Hidrocarburos, así como las siguientes: Párrafo reformado DOF 18-03-2025
+Para los efectos de esta Ley, son aplicables, en singular o plural, las definiciones contenidas en el artículo [5](../../lsh/markdown/articulo-5.md) de la Ley del Sector Hidrocarburos, así como las siguientes: Párrafo reformado DOF 18-03-2025
 
 I. Área Unificada: el área determinada en superficie y profundidad en la que se instruyó la unificación por tratarse de un yacimiento compartido, de conformidad con la Ley del Sector Hidrocarburos; Fracción adicionada DOF 18-03-2025
 

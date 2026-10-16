@@ -15,4 +15,4 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # TERCERO
 
-Lo dispuesto en el presente Reglamento será aplicable a todos los bienes que, a la fecha de su entrada en vigor, se hubieran adjudicado a favor del Instituto con motivo de la aplicación del Procedimiento Administrativo de Ejecución, y no hayan sido enajenados conforme al artículo 291 de la Ley del Seguro Social.
+Lo dispuesto en el presente Reglamento será aplicable a todos los bienes que, a la fecha de su entrada en vigor, se hubieran adjudicado a favor del Instituto con motivo de la aplicación del Procedimiento Administrativo de Ejecución, y no hayan sido enajenados conforme al artículo [291](../../lss/markdown/articulo-291.md) de la Ley del Seguro Social.

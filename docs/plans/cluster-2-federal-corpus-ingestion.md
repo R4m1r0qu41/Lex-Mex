@@ -174,11 +174,12 @@ Do not assume these statements remain current. At every resumption, compare them
 (Updated 2026-10-16.) The structural first pass is complete: 467 instruments
 committed and pushed, 452 of 453 current Cámara rows covered (`egdf` excluded
 by operator decision; see `docs/federal-coverage-audit-2026-10-16.md`).
-Scope and obtain operator authorization for the corpus-wide reverse-linking
-pass across the 467 instruments, as a separate bounded plan. Open operator
-decisions: `reg-lfmn` currency (Cámara lists it abrogated 2026-09-04) and the
-`lfiiedb` law-versus-decree transitory modeling. Deferred DCGs stay out of
-scope. Details: `docs/ingestion-difficulty-log.md`.
+The corpus-wide reverse-linking pass is
+[`docs/plans/corpus-wide-reverse-linking.md`](corpus-wide-reverse-linking.md),
+not a reader-database index. It is complete on a branch and awaits operator
+approval to land on `main`. Open operator decisions: the `lrsic` historical
+edge question and the `lfiiedb` law-versus-decree transitory modeling.
+Deferred DCGs stay out of scope. Details: `docs/ingestion-difficulty-log.md`.
 
 ## Progress
 

@@ -53,6 +53,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:13:reference:1507-1510:786:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:13",
+    "source_span": "786",
+    "start_char": 1507,
+    "end_char": 1510,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lft",
+    "target_provision_id": "urn:lex-mx:federal:statute:lft:article:786",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfaebsp:article:13:reference:1908-1909:9:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:13",
     "source_span": "9",
@@ -665,6 +680,43 @@
     "end_char": 1520,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
     "target_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:4",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:85:reference:217-219:37:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:85",
+    "source_span": "37",
+    "start_char": 217,
+    "end_char": 219,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:37",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XII",
+        "start_char": 221,
+        "end_char": 233
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:86:reference:661-663:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:86",
+    "source_span": "19",
+    "start_char": 661,
+    "end_char": 663,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfep",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfep:article:19",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

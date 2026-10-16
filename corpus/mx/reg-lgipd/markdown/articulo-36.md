@@ -29,4 +29,4 @@ IV. Señalar los montos, plazos y forma de asignación de las becas, así como l
 
 V. Fomentar mecanismos de vinculación entre las y los becarios y las instituciones académicas, así como con las dependencias del sector público o privado que puedan favorecer su inclusión laboral.
 
-Las escuelas privadas con autorización o reconocimiento de validez oficial de estudios, proporcionarán becas a estudiantes con discapacidad, en los números y modalidades, que determine la Secretaría de Educación Pública en términos de lo dispuesto en el artículo 57, fracción III de la Ley General de Educación.
+Las escuelas privadas con autorización o reconocimiento de validez oficial de estudios, proporcionarán becas a estudiantes con discapacidad, en los números y modalidades, que determine la Secretaría de Educación Pública en términos de lo dispuesto en el artículo [57](../../lge/markdown/articulo-57.md), fracción III de la Ley General de Educación.

@@ -45,7 +45,7 @@ de las presentes disposiciones.
 
 (93) 85 3. Fideicomisos constituidos específicamente con la finalidad de compartir el riesgo de crédito con las entidades financieras, en los cuales actúen tanto como fideicomitentes y fiduciarias instituciones de banca de desarrollo, que a su vez cuenten con garantía expresa del Gobierno Federal. En este caso, la calificación asignada a la parte cubierta deberá ser A-1.
 
-(93) 86 4. Fideicomisos públicos que tengan el carácter de entidades paraestatales y que formen parte del Sistema Bancario Mexicano, de conformidad con el Artículo 3 de la Ley de Instituciones de Crédito, Fideicomisos de Contragarantía, la Financiera Rural, el Fondo Nacional de Infraestructura y el Fondo Nacional de Garantías de los sectores Agropecuario, Forestal, Pesquero y Rural. En este caso, la calificación asignada a la parte cubierta deberá ser A-1.
+(93) 86 4. Fideicomisos públicos que tengan el carácter de entidades paraestatales y que formen parte del Sistema Bancario Mexicano, de conformidad con el Artículo [3](../../lic/markdown/articulo-3o.md) de la Ley de Instituciones de Crédito, Fideicomisos de Contragarantía, la Financiera Rural, el Fondo Nacional de Infraestructura y el Fondo Nacional de Garantías de los sectores Agropecuario, Forestal, Pesquero y Rural. En este caso, la calificación asignada a la parte cubierta deberá ser A-1.
 
 IV. En caso de que las uniones de crédito sean beneficiarias de garantías bajo el Esquema de (93) 87
 

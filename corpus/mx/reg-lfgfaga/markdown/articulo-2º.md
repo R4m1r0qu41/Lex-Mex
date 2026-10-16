@@ -15,7 +15,7 @@ source_sha256: 60e8482fc72c2fa506c23a78da1bbb2e8f2877b30ea083dd6760b93ce343282e
 
 # Artículo 2º
 
-De acuerdo con el artículo 8 de la Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, el Comité Técnico del fideicomiso quedará integrado por 9 miembros propietarios que, tratándose de servidores públicos, tendrán preferentemente el nivel jerárquico de Director General o su equivalente en la Administración Pública Federal.
+De acuerdo con el artículo [8](../../lfgfaga/markdown/articulo-8o.md) de la Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, el Comité Técnico del fideicomiso quedará integrado por 9 miembros propietarios que, tratándose de servidores públicos, tendrán preferentemente el nivel jerárquico de Director General o su equivalente en la Administración Pública Federal.
 
 Serán miembros del Comité Técnico del fideicomiso:
 

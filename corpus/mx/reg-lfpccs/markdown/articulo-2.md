@@ -17,7 +17,7 @@ source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 
 # Artículo 2
 
-Para los efectos del presente Reglamento, además de las definiciones previstas en el artículo 3 de la [Ley](articulo-2.md) Federal de Producción, Certificación y Comercio de Semillas se entenderá por:
+Para los efectos del presente Reglamento, además de las definiciones previstas en el artículo [3](../../lfpccs/markdown/articulo-3.md) de la [Ley](articulo-2.md) Federal de Producción, Certificación y Comercio de Semillas se entenderá por:
 
 I. Beneficio de semillas: Proceso al que se someten las semillas, con el objeto de conservar o mejorar su calidad;
 

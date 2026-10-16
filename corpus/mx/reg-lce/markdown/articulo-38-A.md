@@ -19,7 +19,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 Para efectos del artículo 38 de la [Ley](articulo-1o.md), el monto de la subvención se calculará en función del beneficio obtenido por el receptor.
 
-La metodología para calcular el monto de la subvención en función del beneficio obtenido, podrá considerar las condiciones y características particulares de cada subvención, del país que la otorga; así como, si existe una investigación por discriminación de precios para la misma mercancía. La citada metodología deberá considerar las directrices establecidas en el artículo [14](articulo-14.md) del Acuerdo sobre Subvenciones y Medidas Compensatorias de la Organización Mundial del Comercio.
+La metodología para calcular el monto de la subvención en función del beneficio obtenido, podrá considerar las condiciones y características particulares de cada subvención, del país que la otorga; así como, si existe una investigación por discriminación de precios para la misma mercancía. La citada metodología deberá considerar las directrices establecidas en el artículo 14 del Acuerdo sobre Subvenciones y Medidas Compensatorias de la Organización Mundial del Comercio.
 
 Por regla general, cuando la subvención se conceda a la producción, el valor total del beneficio se asignará con base en la producción o las ventas; en caso de que la subvención se conceda a la exportación, dicho beneficio se asignará con base en las ventas de exportación del producto del que se trate.
 

@@ -19,7 +19,7 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 De ser procedente, el contrato también deberá contener los términos y condiciones relativos a los aspectos siguientes:
 
-I. La condición suspensiva a que se refiere el artículo 35 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; Fracción reformada DOF 31-10-2014
+I. La condición suspensiva a que se refiere el artículo [35](../../lfprh/markdown/articulo-35.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; Fracción reformada DOF 31-10-2014
 
 II. El pago de las prestaciones a que se refiere el artículo 100 de la Ley, en los supuestos que dicho artículo establece;
 

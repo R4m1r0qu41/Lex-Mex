@@ -19,7 +19,7 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 Para efectos de la determinación del impuesto sobre la renta, se estará a lo siguiente:
 
-A. Los Contratistas, en lugar de aplicar los porcentajes de deducción establecidos en los artículos 33 y 34 de la Ley del Impuesto sobre la Renta, deberán aplicar los siguientes porcentajes:
+A. Los Contratistas, en lugar de aplicar los porcentajes de deducción establecidos en los artículos [33](../../lisr/markdown/articulo-33.md) y [34](../../lisr/markdown/articulo-34.md) de la Ley del Impuesto sobre la Renta, deberán aplicar los siguientes porcentajes:
 
 I. El 100% del monto original de las inversiones realizadas para la Exploración, recuperación secundaria y mejorada, y el mantenimiento no capitalizable, en el ejercicio en el que se efectúen;
 
@@ -29,7 +29,7 @@ III. El 10% del monto original de las inversiones realizadas en infraestructura 
 
 Cuando el Contratista utilice bienes de las inversiones a que se refiere este artículo que no hubieran sido deducidos en su totalidad conforme al Título Tercero de esta Ley, para efectos de este Título sólo podrán deducir el saldo pendiente por depreciar de los bienes que correspondan a dicho Contrato en términos de los lineamientos que al respecto emita la Secretaría.
 
-Para efectos de la pérdida fiscal prevista en el artículo 57 de la Ley del Impuesto sobre la Renta, los contribuyentes que realicen actividades en las regiones de áreas marinas con tirante de agua superior a quinientos metros, podrán disminuir dicha pérdida ocurrida en un ejercicio de la utilidad fiscal de los quince ejercicios siguientes hasta agotarlo.
+Para efectos de la pérdida fiscal prevista en el artículo [57](../../lisr/markdown/articulo-57.md) de la Ley del Impuesto sobre la Renta, los contribuyentes que realicen actividades en las regiones de áreas marinas con tirante de agua superior a quinientos metros, podrán disminuir dicha pérdida ocurrida en un ejercicio de la utilidad fiscal de los quince ejercicios siguientes hasta agotarlo.
 
 B. Quienes se agrupen en consorcio en términos del artículo [31](articulo-31.md) de esta Ley, deben observar lo siguiente: Párrafo reformado DOF 18-03-2025
 

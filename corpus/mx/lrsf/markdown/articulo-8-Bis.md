@@ -25,7 +25,7 @@ Se entenderá por rentabilidad económica, el resultado de comparar los ingresos
 
 Para efectos de esta fracción, la Secretaría deberá remitir a la Secretaría de Hacienda y Crédito Público la evaluación que llevó a cabo sobre la rentabilidad económica del proyecto, así como la documentación que utilizó para realizar dicha evaluación, a fin de que esta última dependencia en un plazo no mayor a treinta días naturales, contado a partir de la fecha en que recibió la evaluación y documentación a que se refiere este párrafo, emita su opinión al respecto. En caso de que la Secretaría de Hacienda y Crédito Público no emita esta opinión en el plazo establecido, se entenderá emitida en sentido afirmativo. En todo caso, los recursos que se destinen para liberar el derecho de vía, se considerarán dentro de los costos totales del proyecto;
 
-II. El registro en la cartera de programas y proyectos de inversión, en términos del artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, cuando se consideren recursos públicos federales como parte de su financiamiento, y
+II. El registro en la cartera de programas y proyectos de inversión, en términos del artículo [34](../../lfprh/markdown/articulo-34.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, cuando se consideren recursos públicos federales como parte de su financiamiento, y
 
 III. La determinación de las contraprestaciones que el concesionario deba cubrir al Gobierno Federal, en términos de las disposiciones jurídicas aplicables. Para efectos de esta fracción, la Secretaría deberá presentar a la Secretaría de Hacienda y Crédito Público la propuesta de dichas contraprestaciones.
 

@@ -411,6 +411,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:7:reference:1156-1158:34:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgv:article:7",
+    "source_span": "34",
+    "start_char": 1156,
+    "end_char": 1158,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfdo",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfdo:article:34",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgv:article:77:reference:124-141:76:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lgv:article:77",
     "source_span": "artículo anterior",

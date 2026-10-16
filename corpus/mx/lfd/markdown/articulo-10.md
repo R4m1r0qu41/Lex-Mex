@@ -19,7 +19,7 @@ source_sha256: 64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df
 
 Por la recepción y estudio de la solicitud y, en su caso, la regularización de la situación migratoria en los términos de las disposiciones migratorias se pagará el derecho conforme a la cuota de ............................................................................................................................... $1,847.13
 
-No pagarán los derechos a que se refiere este artículo los extranjeros que soliciten la regularización de su situación migratoria con fundamento en las fracciones III, IV y V del artículo 133 de la Ley de Migración.
+No pagarán los derechos a que se refiere este artículo los extranjeros que soliciten la regularización de su situación migratoria con fundamento en las fracciones III, IV y V del artículo [133](../../lmigra/markdown/articulo-133.md) de la Ley de Migración.
 
 El pago del derecho a que se refiere este artículo será sin perjuicio del derecho que corresponda al otorgamiento de la condición de estancia a adquirir en términos del artículo [8](articulo-8o.md)o. de esta Ley.
 

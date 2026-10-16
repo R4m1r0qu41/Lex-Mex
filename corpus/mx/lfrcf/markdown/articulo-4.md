@@ -19,7 +19,7 @@ source_sha256: cc687a4d8d9de93d2d3ec9b40b26d0273e108bb002a6f611806dc36ebce5ba2c
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Auditoría Superior de la Federación: el órgano técnico de fiscalización de la [Cámara](articulo-4.md) de Diputados del Congreso de la Unión a que se refieren los artículos 74, fracciones II y VI y 79 y 109 de la Constitución Política de los Estados Unidos Mexicanos;
+I. Auditoría Superior de la Federación: el órgano técnico de fiscalización de la [Cámara](articulo-4.md) de Diputados del Congreso de la Unión a que se refieren los artículos [74](../../cpeum/markdown/articulo-74.md), fracciones II y VI y [79](../../cpeum/markdown/articulo-79.md) y [109](../../cpeum/markdown/articulo-109.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Auditorías: proceso sistemático en el que de manera objetiva se obtiene y se evalúa evidencia para determinar si las acciones llevadas a cabo por los entes sujetos a revisión se realizaron de conformidad con la normatividad establecida o con base en principios que aseguren una gestión pública adecuada;
 
@@ -31,7 +31,7 @@ V. Cámara: la Cámara de Diputados del Congreso de la Unión;
 
 VI. Comisión: la Comisión de Vigilancia de la Auditoría Superior de la Federación de la Cámara;
 
-VII. Comisión de Presupuesto: la [Comisión](articulo-4.md) de Presupuesto y [Cuenta Pública](articulo-4.md) de la Cámara; VIII. Cuenta Pública: la Cuenta Pública Federal a que se refiere el artículo 74, fracción VI de la Constitución Política de los Estados Unidos Mexicanos y cuyo contenido se establece en el artículo 53 de la Ley General de Contabilidad Gubernamental;
+VII. Comisión de Presupuesto: la [Comisión](articulo-4.md) de Presupuesto y [Cuenta Pública](articulo-4.md) de la Cámara; VIII. Cuenta Pública: la Cuenta Pública Federal a que se refiere el artículo [74](../../cpeum/markdown/articulo-74.md), fracción VI de la Constitución Política de los Estados Unidos Mexicanos y cuyo contenido se establece en el artículo [53](../../lgcg/markdown/articulo-53.md) de la Ley General de Contabilidad Gubernamental;
 
 IX. Entes Públicos: Los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la Administración Pública Federal, y sus homólogos de las entidades federativas, los municipios y alcaldías de la Ciudad de México y sus dependencias y entidades, las fiscalías o procuradurías locales, las empresas productivas del Estado y sus subsidiarias, así como cualquier otro ente sobre el que tenga control sobre sus decisiones o acciones cualquiera de los poderes y órganos públicos citados; Fracción reformada DOF 20-05-2021
 
@@ -39,7 +39,7 @@ X. Entidades Federativas: los Estados de la República Mexicana y la Ciudad de M
 
 XI. Entidades fiscalizadas: los entes públicos; las entidades de interés público distintas a los partidos políticos; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura jurídica análoga, así como los mandatos, fondos o fideicomisos, públicos o privados, cuando hayan recibido por cualquier título, recursos públicos federales o las participaciones federales, no obstante que sean o no considerados entidades paraestatales por la Ley Federal de las Entidades Paraestatales y aun cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada, que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos federales o participaciones federales, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines;
 
-XII. Entidades fiscalizadoras locales: las que están previstas en el artículo 116, fracción II, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos;
+XII. Entidades fiscalizadoras locales: las que están previstas en el artículo [116](../../cpeum/markdown/articulo-116.md), fracción II, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos;
 
 XIII. Faltas administrativas graves: las así señaladas en la Ley General de Responsabilidades Administrativas;
 
@@ -51,11 +51,11 @@ XVI. Fiscalización superior: la revisión que realiza la Auditoría Superior de
 
 XVII. Gestión Financiera: las acciones, tareas y procesos que, en la ejecución de los programas, realizan las entidades fiscalizadas para captar, recaudar u obtener recursos públicos conforme a la [Ley de Ingresos](articulo-4.md) y el presupuesto de egresos, así como las demás disposiciones aplicables, para administrar, manejar, custodiar, ejercer y aplicar los mismos y demás fondos, patrimonio y recursos, en términos del [Presupuesto de Egresos](articulo-4.md) y las demás disposiciones aplicables;
 
-XVIII. Hacienda Pública Federal: conjunto de bienes y derechos de titularidad de la Federación; XIX. Informe de Avance de [Gestión Financiera](articulo-4.md): el informe que rinden los poderes de la unión y los entes públicos federales de manera consolidada a través del Ejecutivo Federal, a la Cámara sobre los avances físicos y financieros de los programas federales aprobados para el análisis correspondiente de dicha Cámara, presentado como un apartado específico del segundo informe trimestral del ejercicio correspondiente al que se refiere el artículo 107 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+XVIII. Hacienda Pública Federal: conjunto de bienes y derechos de titularidad de la Federación; XIX. Informe de Avance de [Gestión Financiera](articulo-4.md): el informe que rinden los poderes de la unión y los entes públicos federales de manera consolidada a través del Ejecutivo Federal, a la Cámara sobre los avances físicos y financieros de los programas federales aprobados para el análisis correspondiente de dicha Cámara, presentado como un apartado específico del segundo informe trimestral del ejercicio correspondiente al que se refiere el artículo [107](../../lfprh/markdown/articulo-107.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
 
 XX. Informe General: el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública;
 
-XXI. Informe específico: el informe derivado de denuncias a que se refiere el último párrafo de la fracción I del artículo 79 de la Constitución Política de los Estados Unidos Mexicanos;
+XXI. Informe específico: el informe derivado de denuncias a que se refiere el último párrafo de la fracción I del artículo [79](../../cpeum/markdown/articulo-79.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 XXII. Informes Individuales: los informes de cada una de las auditorías practicadas a las entidades fiscalizadas;
 
@@ -79,6 +79,6 @@ XXXI. Tribunal: el Tribunal Federal de Justicia Administrativa;
 
 XXXII. Unidad: la Unidad de Evaluación y Control de la Comisión, y
 
-XXXIII. Unidad de Medida y Actualización: el valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo 26, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la ley federal en la materia, para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes.
+XXXIII. Unidad de Medida y Actualización: el valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo [26](../../cpeum/markdown/articulo-26.md), apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la ley federal en la materia, para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes.
 
-Las definiciones previstas en los artículos 2 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y 4 de la Ley General de Contabilidad Gubernamental, serán aplicables a la presente Ley.
+Las definiciones previstas en los artículos [2](../../lfprh/markdown/articulo-2.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y 4 de la Ley General de Contabilidad Gubernamental, serán aplicables a la presente Ley.

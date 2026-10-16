@@ -1,6 +1,28 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfrt-mcpctrt:article:11:reference:1299-1301:36:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfrt-mcpctrt:article:11",
+    "source_span": "36",
+    "start_char": 1299,
+    "end_char": 1301,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:36",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 1273,
+        "end_char": 1285
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfrt-mcpctrt:article:11:reference:2004-2006:19:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfrt-mcpctrt:article:11",
     "source_span": "19",
@@ -133,6 +155,28 @@
         "text": "fracción II",
         "start_char": 293,
         "end_char": 304
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfrt-mcpctrt:article:9:reference:2440-2442:36:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfrt-mcpctrt:article:9",
+    "source_span": "36",
+    "start_char": 2440,
+    "end_char": 2442,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:36",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 2414,
+        "end_char": 2426
       }
     ],
     "basis": "express_cross_reference",

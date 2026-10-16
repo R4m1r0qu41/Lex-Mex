@@ -1,6 +1,21 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:15:reference:448-452:69-m:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:15",
+    "source_span": "69-M",
+    "start_char": 448,
+    "end_char": 452,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:69-m",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:18:reference:83-100:17:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:18",
     "source_span": "artículo anterior",
@@ -291,6 +306,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:76:reference:872-876:69-c:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:76",
+    "source_span": "69-C",
+    "start_char": 872,
+    "end_char": 876,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:69-c",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:76:reference:1075-1077:66:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:76",
     "source_span": "66",
@@ -432,6 +462,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:83:reference:1880-1884:69-c:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:83",
+    "source_span": "69-C",
+    "start_char": 1880,
+    "end_char": 1884,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:69-c",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:86:reference:1185-1187:86:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:86",
     "source_span": "II",
@@ -491,6 +536,21 @@
         "end_char": 1641
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:86:reference:2121-2123:69:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:86",
+    "source_span": "69",
+    "start_char": 2121,
+    "end_char": 2123,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:69",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

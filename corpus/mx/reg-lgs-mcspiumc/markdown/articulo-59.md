@@ -19,6 +19,6 @@ source_sha256: 2cc4bd6de7ab80102fae680a7017a0876b062f7999f7e33916b853cc8296cb19
 
 Una vez permitida la [Importación](articulo-3.md) de [Materia Prima](articulo-3.md), esta deberá ser movilizada a las instalaciones en las que se llevará a cabo la siembra, bajo el procedimiento de guarda, custodia y responsabilidad, el cual, será con cargo al importador y consistirá en el resguardo del lote o embarque de Materia Prima, desde el punto de ingreso al territorio nacional, hasta el [Sitio Confinado Permitido](articulo-3.md) en donde se realizará la siembra.
 
-El procedimiento de guarda, custodia y responsabilidad deberá observar lo establecido en los artículos 78, fracción II del Reglamento de la [Ley](articulo-3.md) Federal de Sanidad Vegetal y 45 del Reglamento de Insumos para la Salud.
+El procedimiento de guarda, custodia y responsabilidad deberá observar lo establecido en los artículos [78](../../reg-lfsv/markdown/articulo-78.md), fracción II del Reglamento de la [Ley](articulo-3.md) Federal de Sanidad Vegetal y 45 del Reglamento de Insumos para la Salud.
 
 Queda estrictamente prohibida la movilización de la Materia Prima a un sitio distinto del señalado en el certificado fitosanitario para la Importación.

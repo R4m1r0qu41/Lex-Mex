@@ -17,6 +17,6 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 # Artículo 91
 
-La transferencia del Fondo Mexicano del Petróleo que se realice al Fondo de Extracción de Hidrocarburos será el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.0087, y se sujetará a lo establecido en el artículo 4o-B de la Ley de Coordinación Fiscal.
+La transferencia del Fondo Mexicano del Petróleo que se realice al Fondo de Extracción de Hidrocarburos será el monto que resulte de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.0087, y se sujetará a lo establecido en el artículo [4](../../lcf/markdown/articulo-4o.md)o-B de la Ley de Coordinación Fiscal.
 
 Artículo derogado DOF 31-12-2008. Adicionado DOF 11-08-2014

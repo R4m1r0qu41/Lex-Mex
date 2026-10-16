@@ -31,7 +31,7 @@ V. Calificación de Semilla: Procedimiento por el cual se verifican las semillas
 
 VI. Cannabinoides: Compuestos orgánicos pertenecientes al grupo de los terpenofenoles, entre los que se encuentran, el cannabidiol y tetrahidrocannabinol;
 
-VII. Cannabis: Planta de cannabis sativa, índica y americana o mariguana, su resina, preparados y semillas; VIII. Catálogo Nacional de Variedades Vegetales: El previsto en el artículo 3, fracción VII de la Ley Federal de Producción, Certificación y Comercio de Semillas;
+VII. Cannabis: Planta de cannabis sativa, índica y americana o mariguana, su resina, preparados y semillas; VIII. Catálogo Nacional de Variedades Vegetales: El previsto en el artículo [3](../../lfpccs/markdown/articulo-3.md), fracción VII de la Ley Federal de Producción, Certificación y Comercio de Semillas;
 
 IX. CBD: Cannabidiol y sus formas ácidas, compuesto cannabinoide que carece de propiedades psicoactivas;
 
@@ -65,7 +65,7 @@ XXIII. Laboratorio de Control de Calidad: El autorizado por la [COFEPRIS](articu
 
 XXIV. Ley: Ley General de Salud;
 
-XXV. Libros de Control: Compilación de registros gráficos obtenidos por cualquier sistema autorizado, siempre y cuando contengan los datos necesarios para el control de Materia Prima, Derivados Farmacológicos y Medicamentos de Cannabis y cumplan con lo establecido en el artículo 159 del Reglamento de Insumos para la Salud y la Farmacopea de los Estados Unidos Mexicanos;
+XXV. Libros de Control: Compilación de registros gráficos obtenidos por cualquier sistema autorizado, siempre y cuando contengan los datos necesarios para el control de Materia Prima, Derivados Farmacológicos y Medicamentos de Cannabis y cumplan con lo establecido en el artículo [159](../../reg-lgs-insumos/markdown/articulo-159.md) del Reglamento de Insumos para la Salud y la Farmacopea de los Estados Unidos Mexicanos;
 
 XXVI. Materia Prima: Semillas, plántulas, material vegetal propagativo, tallos, hojas o inflorescencias de la Cannabis, necesarios para la elaboración de Derivados Farmacológicos o Medicamentos;
 
@@ -89,7 +89,7 @@ XXXV. SE: Secretaría de Economía;
 
 XXXVI. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria, órgano administrativo desconcentrado de la SADER;
 
-XXXVII. Sistema de Gestión de Calidad: Mecanismo a través del cual el [Laboratorio de Control de Calidad](articulo-3.md) da cumplimiento a lo establecido en el artículo 8o. del Reglamento de Insumos para la Salud y controla las actividades asociadas con la calidad; XXXVIII. Sitio Confinado Permitido: Espacio físico donde se encuentra la Producción Primaria de Cannabis y se realiza su comercialización, siempre que en la realización de tales actividades se utilicen barreras, con el fin de limitar de manera efectiva su contacto con la población y el medio ambiente;
+XXXVII. Sistema de Gestión de Calidad: Mecanismo a través del cual el [Laboratorio de Control de Calidad](articulo-3.md) da cumplimiento a lo establecido en el artículo [8](../../reg-lgs-insumos/markdown/articulo-8o.md)o. del Reglamento de Insumos para la Salud y controla las actividades asociadas con la calidad; XXXVIII. Sitio Confinado Permitido: Espacio físico donde se encuentra la Producción Primaria de Cannabis y se realiza su comercialización, siempre que en la realización de tales actividades se utilicen barreras, con el fin de limitar de manera efectiva su contacto con la población y el medio ambiente;
 
 XXXIX. SNICS: Servicio Nacional de Inspección y Certificación de Semillas, órgano administrativo desconcentrado de la SADER;
 
@@ -97,7 +97,7 @@ XL. Testar: Someter a la semilla y planta de la Cannabis y sus Derivados Farmaco
 
 XLI. THC: Tetrahidrocannabinol y su forma ácida, compuesto Cannabinoide con propiedades psicoactivas;
 
-XLII. Transportar: Trasladar de un lugar a otro Materia Prima, Derivados Farmacológicos o Medicamentos de la Cannabis mediante el proceso de guarda y custodia establecido en el artículo 46 del Reglamento de Insumos para la Salud, la Farmacopea de los Estados Unidos Mexicanos y demás disposiciones jurídicas aplicables;
+XLII. Transportar: Trasladar de un lugar a otro Materia Prima, Derivados Farmacológicos o Medicamentos de la Cannabis mediante el proceso de guarda y custodia establecido en el artículo [46](../../reg-lgs-insumos/markdown/articulo-46.md) del Reglamento de Insumos para la Salud, la Farmacopea de los Estados Unidos Mexicanos y demás disposiciones jurídicas aplicables;
 
 XLIII. Trazabilidad: Sistema que permite identificar el origen y las diferentes etapas del proceso de evolución de los productos relacionados con la Cannabis, con los fines de producción, investigación, fabricación y distribución; el cual contiene la información unificada de todas las actividades para mayor capacidad de control y seguimiento por parte de las autoridades competentes, y
 

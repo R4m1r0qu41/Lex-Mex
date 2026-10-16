@@ -17,4 +17,4 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 835
 
-La infracción del artículo que precede, se castigará como delito, de acuerdo con lo que disponga el Código de la materia.
+La infracción del [artículo que precede](articulo-834.md), se castigará como delito, de acuerdo con lo que disponga el Código de la materia.

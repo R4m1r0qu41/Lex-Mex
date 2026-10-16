@@ -18,6 +18,6 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 48 Bis 6
 
-Tratándose de nuevas Sociedades Financieras Populares, que hayan obtenido autorización para organizarse y operar como tales, y que previo a dicha autorización, hayan sido una entidad financiera a las que se refiere el artículo 3, fracción IV de la Ley de la Comisión Nacional Bancaria y de Valores, sujeta a la supervisión de la Comisión o cualquier otra autoridad nacional o extranjera con facultades de supervisión, deberán determinar sus requerimientos de capitalización por riesgo operacional a los que se refiere el presente Sub Apartado, utilizando su información histórica disponible.
+Tratándose de nuevas Sociedades Financieras Populares, que hayan obtenido autorización para organizarse y operar como tales, y que previo a dicha autorización, hayan sido una entidad financiera a las que se refiere el artículo [3](../../lcnbv/markdown/articulo-3.md), fracción IV de la Ley de la Comisión Nacional Bancaria y de Valores, sujeta a la supervisión de la Comisión o cualquier otra autoridad nacional o extranjera con facultades de supervisión, deberán determinar sus requerimientos de capitalización por riesgo operacional a los que se refiere el presente Sub Apartado, utilizando su información histórica disponible.
 
 Sub Apartado D De la entrega de información sobre los requerimientos de capitalización

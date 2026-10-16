@@ -825,5 +825,20 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfiyii-art105:transitory:tercero:reference:66-68:12:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfiyii-art105:transitory:tercero",
+    "source_span": "12",
+    "start_char": 66,
+    "end_char": 68,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lcf",
+    "target_provision_id": "urn:lex-mx:federal:statute:lcf:article:12",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   }
 ]

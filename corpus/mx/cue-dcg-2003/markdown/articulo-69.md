@@ -20,6 +20,6 @@ Las Emisoras estarán obligadas a informar a la institución para el depósito d
 
 Las emisoras informarán a la bolsa en la que listen los valores indicados en el párrafo que precede, la información a que se refiere dicho párrafo a través del [SEDI](articulo-1.md) y, posteriormente en la misma fecha, a la Comisión a través del STIV-2.
 
-La falta de informe referente al pago de los títulos o la indicación de que los valores no serán cubiertos a su vencimiento, dará lugar a que la institución depositaria, en ejercicio del poder conferido por la Emisora y antes de la fecha de vencimiento, proceda a emitir tantos títulos como depositantes tenga registrados, de manera que pueda ejercerse acción cambiaria y no se produzca el efecto de cesión ordinaria previsto en el artículo 27 de la Ley General de Títulos y Operaciones de Crédito.
+La falta de informe referente al pago de los títulos o la indicación de que los valores no serán cubiertos a su vencimiento, dará lugar a que la institución depositaria, en ejercicio del poder conferido por la Emisora y antes de la fecha de vencimiento, proceda a emitir tantos títulos como depositantes tenga registrados, de manera que pueda ejercerse acción cambiaria y no se produzca el efecto de cesión ordinaria previsto en el artículo [27](../../lgtoc/markdown/articulo-27.md) de la Ley General de Títulos y Operaciones de Crédito.
 
 Título Octavo Disposiciones generales

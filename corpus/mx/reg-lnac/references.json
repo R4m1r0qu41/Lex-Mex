@@ -1,6 +1,21 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lnac:article:12:reference:2483-2485:96:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lnac:article:12",
+    "source_span": "96",
+    "start_char": 2483,
+    "end_char": 2485,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgp:article:96",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lnac:article:13:reference:100-102:37:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lnac:article:13",
     "source_span": "37",
@@ -111,6 +126,21 @@
         "end_char": 382
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lnac:article:2:reference:94-95:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lnac:article:2",
+    "source_span": "2",
+    "start_char": 94,
+    "end_char": 95,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lnac",
+    "target_provision_id": "urn:lex-mx:federal:statute:lnac:article:2",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

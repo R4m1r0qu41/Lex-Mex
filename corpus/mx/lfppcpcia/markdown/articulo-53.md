@@ -19,4 +19,4 @@ source_sha256: 7263691565a635e37b58c99dbea5ad01b4e911550d48954dd5553b76d1664abe
 
 El [Registro](articulo-3.md) es un instrumento de la política pública que identifica, cataloga, registra y documenta las manifestaciones de los pueblos y comunidades indígenas y afromexicanas.
 
-El [Instituto](articulo-3.md) será responsable de integrar y operar el Registro, mismo que será parte del Catálogo Nacional de Pueblos y Comunidades Indígenas en los términos de la fracción XXXIII del artículo 4 de la [Ley](articulo-3.md) del Instituto Nacional de los Pueblos Indígenas. Corresponde al Instituto otorgar constancias de Inscripción en el Registro con opinión de la Secretaría Técnica.
+El [Instituto](articulo-3.md) será responsable de integrar y operar el Registro, mismo que será parte del Catálogo Nacional de Pueblos y Comunidades Indígenas en los términos de la fracción XXXIII del artículo [4](../../linpi/markdown/articulo-4.md) de la [Ley](articulo-3.md) del Instituto Nacional de los Pueblos Indígenas. Corresponde al Instituto otorgar constancias de Inscripción en el Registro con opinión de la Secretaría Técnica.

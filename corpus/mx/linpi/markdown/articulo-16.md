@@ -17,7 +17,7 @@ source_sha256: f9c395f4ea69c08016d20173667f4c2dd5de0b2898bb119d806e8274dca6dd98
 
 # Artículo 16
 
-La persona titular de la Dirección General del Instituto será designada y removida por la persona titular de la Presidencia del Ejecutivo Federal, de quien dependerá directamente, debiendo reunir los requisitos previstos en el artículo 21 de la Ley Federal de las Entidades Paraestatales.
+La persona titular de la Dirección General del Instituto será designada y removida por la persona titular de la Presidencia del Ejecutivo Federal, de quien dependerá directamente, debiendo reunir los requisitos previstos en el artículo [21](../../lfep/markdown/articulo-21.md) de la Ley Federal de las Entidades Paraestatales.
 
 Además de los requisitos señalados, la persona titular de la Dirección General deberá pertenecer a un pueblo indígena o afromexicanos y preferentemente hablar una lengua indígena. Asimismo, deberá tener la experiencia y los conocimientos relacionados con el objeto del Instituto, que le permitan desarrollar sus actividades con solvencia profesional y técnica.
 

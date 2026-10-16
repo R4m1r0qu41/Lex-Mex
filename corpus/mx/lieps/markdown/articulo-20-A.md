@@ -25,7 +25,7 @@ II. Tratándose de personas físicas y morales residentes en el país que propor
 
 III. Tratándose de residentes en el extranjero sin establecimiento en México que proporcionen los servicios digitales conforme al artículo [2](articulo-2o.md)o., fracción II, inciso D), numeral 1 de esta Ley, únicamente deberán:
 
-a) Cumplir las obligaciones previstas en el artículo 18-D, fracciones I, VI y VII de la Ley del Impuesto al Valor Agregado.
+a) Cumplir las obligaciones previstas en el artículo [18-D](../../liva/markdown/articulo-18-D.md), fracciones I, VI y VII de la Ley del Impuesto al Valor Agregado.
 
 b) Ofertar y cobrar, conjuntamente con el precio de sus servicios digitales, el impuesto especial sobre producción y servicios incluido en el precio.
 
@@ -37,16 +37,16 @@ e) Emitir y enviar vía electrónica a los receptores de los servicios digitales
 
 IV. Tratándose de las plataformas digitales de intermediación a que se refiere el artículo [2](articulo-2o.md)o., fracción II, inciso D), numeral 2 de esta Ley:
 
-a) Cumplir las obligaciones previstas en el artículo 18-D, fracciones I, VI y VII de la Ley del Impuesto al Valor Agregado, cuando se trate de residentes en el extranjero sin establecimiento en México.
+a) Cumplir las obligaciones previstas en el artículo [18-D](../../liva/markdown/articulo-18-D.md), fracciones I, VI y VII de la Ley del Impuesto al Valor Agregado, cuando se trate de residentes en el extranjero sin establecimiento en México.
 
 b) Publicar en su página de Internet, aplicación, plataforma o cualquier otro medio similar, el precio con el impuesto especial sobre producción y servicios incluido en que se ofertan los servicios digitales por los prestadores de servicios, en los que operan como intermediarios.
 
-c) Proporcionar al Servicio de Administración Tributaria, en el apartado correspondiente, la información a que se refiere el artículo 18-J, fracción III de la Ley del Impuesto al Valor Agregado, en cuyas operaciones hayan actuado como intermediarios.
+c) Proporcionar al Servicio de Administración Tributaria, en el apartado correspondiente, la información a que se refiere el artículo [18-J](../../liva/markdown/articulo-18-J.md), fracción III de la Ley del Impuesto al Valor Agregado, en cuyas operaciones hayan actuado como intermediarios.
 
 El cumplimiento de las obligaciones a que se refiere este artículo y el artículo [5](articulo-5o.md)o.-A BIS de esta Ley, no dará lugar a que se considere que el residente en el extranjero constituye un establecimiento permanente en México.
 
 La omisión en el pago del impuesto o del entero de las retenciones que, en su caso, deban efectuar y en la presentación de la declaración de pago y de la información, a que se refieren este artículo y el artículo [5](articulo-5o.md)o.-A BIS de esta Ley, se sancionará de conformidad con lo dispuesto en la presente Ley y en el Código Fiscal de la Federación.
 
-Asimismo, el incumplimiento de las obligaciones a que se refieren el párrafo anterior y las fracciones III, inciso a) y IV, inciso a) de este artículo, dará lugar al bloqueo temporal del acceso al servicio digital del prestador de los servicios digitales que incumplió con las obligaciones mencionadas, bloqueo que se realizará de conformidad con lo dispuesto en los artículos 18-H BIS a 18-H QUINTUS de la Ley del Impuesto al Valor Agregado.
+Asimismo, el incumplimiento de las obligaciones a que se refieren el párrafo anterior y las fracciones III, inciso a) y IV, inciso a) de este artículo, dará lugar al bloqueo temporal del acceso al servicio digital del prestador de los servicios digitales que incumplió con las obligaciones mencionadas, bloqueo que se realizará de conformidad con lo dispuesto en los artículos [18-H BIS](../../liva/markdown/articulo-18-H-BIS.md) a [18-H QUINTUS](../../liva/markdown/articulo-18-H-QUINTUS.md) de la Ley del Impuesto al Valor Agregado.
 
 Artículo adicionado DOF 07-11-2025

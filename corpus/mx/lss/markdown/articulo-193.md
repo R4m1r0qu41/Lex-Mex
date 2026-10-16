@@ -23,6 +23,6 @@ En caso de fallecimiento del trabajador o pensionado, tendrán derecho a recibir
 
 La Administradora de Fondos para el Retiro en la que se encontraba registrado el trabajador o pensionado fallecido, deberá entregar el importe de las subcuentas, incluidas las de Vivienda, que en términos de las disposiciones legales aplicables puedan entregarse en una sola exhibición.
 
-A falta de beneficiarios designados, dicha entrega se hará en el orden de prelación previsto en el artículo 501 de la Ley Federal del Trabajo. Cualquier conflicto deberá ser resuelto ante los tribunales competentes de conformidad con lo establecido en la Ley Orgánica del Poder Judicial de la Federación.
+A falta de beneficiarios designados, dicha entrega se hará en el orden de prelación previsto en el artículo [501](../../lft/markdown/articulo-501.md) de la Ley Federal del Trabajo. Cualquier conflicto deberá ser resuelto ante los tribunales competentes de conformidad con lo establecido en la Ley Orgánica del Poder Judicial de la Federación.
 
 Artículo reformado DOF 01-05-2019, 16-12-2020

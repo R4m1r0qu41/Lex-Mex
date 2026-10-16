@@ -15,7 +15,7 @@ source_sha256: be4e1666f8a8b3dfdcbbc047aed6542b4982972d1297e2e04dee839e30cc0ce1
 
 # SEGUNDO
 
-Se deroga el artículo 26 de la Ley Orgánica de Nacional Financiera, S. A., relativo a la Comisión Especial de Financiamientos Exteriores y se abrogan las demás disposiciones legales que se opongan a la presente Ley.
+Se deroga el artículo [26](../../lonf/markdown/articulo-26.md) de la Ley Orgánica de Nacional Financiera, S. A., relativo a la Comisión Especial de Financiamientos Exteriores y se abrogan las demás disposiciones legales que se opongan a la presente Ley.
 
 México, D.F., a 29 de diciembre de 1976.- Enrique Ramírez y Ramírez, D. P.- Hilda Anderson de Rojas, S. P.- Crescencio Herrera Herrera, D. S.- Mario Carballo Pazos, S. S.- Rúbricas".
 

@@ -17,7 +17,7 @@ source_sha256: 1462bbacad053d49c213e32c1859dd914c1415d2c37c6a22970bd87877a9c9bd
 
 # Artículo 3
 
-Además de las definiciones contenidas en el artículo 4 de la Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores, para los efectos del presente [Reglamento](articulo-3.md) se entenderá por:
+Además de las definiciones contenidas en el artículo [4](../../linfonacot/markdown/articulo-4.md) de la Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores, para los efectos del presente [Reglamento](articulo-3.md) se entenderá por:
 
 I. Centros de Trabajo. Las personas físicas y morales que estén afiliadas ante el Instituto, y que tengan a su servicio trabajadores, con el propósito de que éstos puedan ser sujetos del crédito que concede el Instituto;
 

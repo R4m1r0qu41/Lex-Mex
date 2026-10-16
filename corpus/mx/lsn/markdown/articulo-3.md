@@ -23,7 +23,7 @@ I. La protección de la nación mexicana frente a las amenazas y riesgos que enf
 
 II. La preservación de la soberanía e independencia nacionales y la defensa del territorio; III. El mantenimiento del orden constitucional y el fortalecimiento de las instituciones democráticas de gobierno;
 
-IV. El mantenimiento de la unidad de las partes integrantes de la Federación señaladas en el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;
+IV. El mantenimiento de la unidad de las partes integrantes de la Federación señaladas en el artículo [43](../../cpeum/markdown/articulo-43.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 V. La defensa legítima del Estado Mexicano respecto de otros Estados o sujetos de derecho internacional, y
 

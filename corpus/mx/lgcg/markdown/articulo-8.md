@@ -29,7 +29,7 @@ IV. El titular de la unidad administrativa de la Secretaría de Hacienda respons
 
 V. Un representante de la Secretaría de la Función Pública;
 
-VI. Cuatro gobernadores de las entidades federativas de los grupos a que se refiere el artículo 20, fracción III, de la Ley de Coordinación Fiscal, conforme a lo siguiente:
+VI. Cuatro gobernadores de las entidades federativas de los grupos a que se refiere el artículo [20](../../lcf/markdown/articulo-20.md), fracción III, de la Ley de Coordinación Fiscal, conforme a lo siguiente:
 
 a) Un gobernador de alguna entidad federativa integrante de los grupos uno y tres;
 

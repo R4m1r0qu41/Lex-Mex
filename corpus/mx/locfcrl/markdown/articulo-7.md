@@ -21,4 +21,4 @@ El [Centro](articulo-3.md) contará con los servidores públicos que requiera pa
 
 El Centro contará con un servicio profesional que incorpore la perspectiva de género, el enfoque de derechos humanos, así como los mecanismos necesarios de gestión, promoción y compensación orientados a la jerarquización del empleo y la carrera pública, basado en el mérito, el logro de resultados y en los valores de: vocación de servicio, efectividad, transparencia, eficiencia, cuidado de los recursos, orientación a la ciudadanía, calidad del servicio, probidad, rendición de cuentas, flexibilidad, mérito e idoneidad.
 
-Asimismo, el Centro establecerá mecanismos de ingreso, adscripción, ascenso, evaluación, remoción y concursos, de conformidad con lo establecido en los artículos 684-K a 684-U de la [Ley](articulo-3.md) Federal del Trabajo.
+Asimismo, el Centro establecerá mecanismos de ingreso, adscripción, ascenso, evaluación, remoción y concursos, de conformidad con lo establecido en los artículos [684-K](../../lft/markdown/articulo-684-K.md) a [684-U](../../lft/markdown/articulo-684-U.md) de la [Ley](articulo-3.md) Federal del Trabajo.

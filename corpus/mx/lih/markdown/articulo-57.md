@@ -17,7 +17,7 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 57
 
-El Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos se integrará con los recursos recaudados por el impuesto por la actividad de exploración y extracción de hidrocarburos previsto en el presente Título. Para los efectos del artículo 2o. de la Ley de Coordinación Fiscal, no se incluirá en la recaudación federal participable, la recaudación total que se obtenga del impuesto por la actividad de exploración y extracción de hidrocarburos previsto en el presente Título.
+El Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos se integrará con los recursos recaudados por el impuesto por la actividad de exploración y extracción de hidrocarburos previsto en el presente Título. Para los efectos del artículo [2](../../lcf/markdown/articulo-2o.md)o. de la Ley de Coordinación Fiscal, no se incluirá en la recaudación federal participable, la recaudación total que se obtenga del impuesto por la actividad de exploración y extracción de hidrocarburos previsto en el presente Título.
 
 Los recursos recaudados se distribuirán entre las entidades federativas adheridas al Sistema Nacional de Coordinación Fiscal y sus municipios conforme a los siguientes criterios:
 

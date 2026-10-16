@@ -17,4 +17,4 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 46
 
-El procedimiento para la realización de las visitas de verificación a que hacen referencia los artículos [10](articulo-10.md), [26](articulo-26.md), [37](articulo-37.md) y la fracción III, del artículo [39](articulo-39.md), se realizará de conformidad con lo establecido en los artículos 62 al 68 de la Ley Federal de Procedimiento Administrativo.
+El procedimiento para la realización de las visitas de verificación a que hacen referencia los artículos [10](articulo-10.md), [26](articulo-26.md), [37](articulo-37.md) y la fracción III, del artículo [39](articulo-39.md), se realizará de conformidad con lo establecido en los artículos [62](../../lfpa/markdown/articulo-62.md) al [68](../../lfpa/markdown/articulo-68.md) de la Ley Federal de Procedimiento Administrativo.

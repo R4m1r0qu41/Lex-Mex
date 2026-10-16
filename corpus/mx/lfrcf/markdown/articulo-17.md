@@ -75,7 +75,7 @@ XVIII. Recurrir, a través de la unidad administrativa a cargo de las investigac
 
 XIX. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de las multas que imponga;
 
-XX. Participar en el Sistema Nacional Anticorrupción así como en su Comité Coordinador, en los términos de lo dispuesto por el artículo 113 fracción III de la Constitución Política de los Estados Unidos Mexicanos y de la ley general en la materia, así como celebrar convenios con organismos cuyas funciones sean acordes o guarden relación con sus atribuciones y participar en foros nacionales e internacionales;
+XX. Participar en el Sistema Nacional Anticorrupción así como en su Comité Coordinador, en los términos de lo dispuesto por el artículo [113](../../cpeum/markdown/articulo-113.md) fracción III de la Constitución Política de los Estados Unidos Mexicanos y de la ley general en la materia, así como celebrar convenios con organismos cuyas funciones sean acordes o guarden relación con sus atribuciones y participar en foros nacionales e internacionales;
 
 XXI. Podrá solicitar a las entidades fiscalizadas información del ejercicio en curso, respecto de procesos concluidos, para la planeación de la fiscalización de la Cuenta Pública. Lo anterior sin perjuicio de la revisión y fiscalización que la Auditoría Superior de la Federación lleve a cabo conforme a lo contenido en la fracción II del artículo [1](articulo-1.md) de esta Ley;
 

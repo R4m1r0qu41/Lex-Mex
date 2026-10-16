@@ -45,6 +45,6 @@ XII. La forma de administración de la sociedad.
 
 El o los accionistas serán subsidiariamente o solidariamente responsables, según corresponda, con la sociedad, por la comisión de conductas sancionadas como delitos.
 
-Los contratos celebrados entre el accionista único y la sociedad deberán inscribirse por la sociedad en el sistema electrónico establecido por la Secretaría de Economía conforme a lo dispuesto en el artículo 50 Bis del Código de Comercio.
+Los contratos celebrados entre el accionista único y la sociedad deberán inscribirse por la sociedad en el sistema electrónico establecido por la Secretaría de Economía conforme a lo dispuesto en el artículo [50 Bis](../../ccom/markdown/articulo-50-Bis.md) del Código de Comercio.
 
 Artículo derogado DOF 11-06-1992. Adicionado DOF 14-03-2016

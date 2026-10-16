@@ -15,4 +15,4 @@ source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 
 # SEGUNDO
 
-A la entrada en vigor de este Decreto se abroga la Ley de Sociedades de Inversión publicada en el Diario Oficial de la Federación el 14 de enero de 1985, y se derogan los incisos m) y n) del artículo 7 de la Ley de Inversión Extranjera.
+A la entrada en vigor de este Decreto se abroga la Ley de Sociedades de Inversión publicada en el Diario Oficial de la Federación el 14 de enero de 1985, y se derogan los incisos m) y n) del artículo [7](../../lie/markdown/articulo-7o.md) de la Ley de Inversión Extranjera.

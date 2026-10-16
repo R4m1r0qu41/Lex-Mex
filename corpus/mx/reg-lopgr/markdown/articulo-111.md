@@ -25,7 +25,7 @@ II. Tratándose de personal de mando medio que aspire a ocupar un puesto de mand
 
 III. Tratándose de personal de la rama administrativa que aspire a ocupar un cargo de oficial ministerial, agente del Ministerio Público de la Federación, agente de la [Policía](articulo-2.md) o perito, o de mando en la actividad sustantiva; Fe de erratas a la fracción DOF 21-09-2012
 
-IV. Tratándose de los agentes del Ministerio Público de la Federación, agentes de la Policía o peritos que aspiren a ocupar un cargo de mando superior en la actividad sustantiva, conforme al artículo 91 de la Ley General del Sistema Nacional de Seguridad Pública;
+IV. Tratándose de los agentes del Ministerio Público de la Federación, agentes de la Policía o peritos que aspiren a ocupar un cargo de mando superior en la actividad sustantiva, conforme al artículo [91](../../lgsnsp/markdown/articulo-91.md) de la Ley General del Sistema Nacional de Seguridad Pública;
 
 V. Tratándose de aspirantes a ingresar al [Servicio de Carrera](articulo-2.md), y
 

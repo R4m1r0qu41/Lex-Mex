@@ -23,7 +23,7 @@ II. Testimonio de la escritura pública de constitución y, en su caso, de refor
 
 III. Contrato, factura o documento con que se acredite la propiedad de la Embarcación o Artefacto Naval, o contrato de arrendamiento financiero, en los términos de este Capítulo, otorgado ante fedatario público, que demuestre su legítima posesión;
 
-IV. En caso de persona física, copia del acta de nacimiento o de cualquier otro documento con el que el interesado acredite su nacionalidad mexicana, en términos de lo dispuesto por el artículo [3](articulo-3.md)o. de la [Ley](articulo-10.md) de Nacionalidad;
+IV. En caso de persona física, copia del acta de nacimiento o de cualquier otro documento con el que el interesado acredite su nacionalidad mexicana, en términos de lo dispuesto por el artículo [3](../../lnac/markdown/articulo-3o.md)o. de la [Ley](articulo-10.md) de Nacionalidad;
 
 V. Documento que acredite, en su caso, la dimisión de la bandera del país de procedencia y, en su caso, la baja permanente de su registro, y
 

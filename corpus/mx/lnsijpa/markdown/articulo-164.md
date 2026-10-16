@@ -21,7 +21,7 @@ Internamiento El internamiento se utilizará como medida extrema y por el tiempo
 
 Para los efectos de esta Ley, podrá ser aplicado el internamiento en los siguientes supuestos, previstos en la legislación federal o sus equivalentes en las entidades federativas:
 
-a) De los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+a) De los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo [73](../../cpeum/markdown/articulo-73.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 b) De los delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
 
@@ -29,7 +29,7 @@ c) Terrorismo, en términos del Código Penal Federal;
 
 d) Extorsión agravada, cuando se comete por asociación delictuosa;
 
-e) Contra la salud, previsto en los artículos 194, fracciones I y II, 195, 196 Ter, 197, primer párrafo del Código Penal Federal y los previstos en las fracciones I, II y III del artículo 464 Ter y en los artículos 475 y 476 de la Ley General de Salud;
+e) Contra la salud, previsto en los artículos [194](../../cpf/markdown/articulo-194.md), fracciones I y II, [195](../../cpf/markdown/articulo-195.md), [196 Ter](../../cpf/markdown/articulo-196-Ter.md), [197](../../cpf/markdown/articulo-197.md), primer párrafo del Código Penal Federal y los previstos en las fracciones I, II y III del artículo 464 Ter y en los artículos [475](../../lgs/markdown/articulo-475.md) y [476](../../lgs/markdown/articulo-476.md) de la Ley General de Salud;
 
 f) Posesión, portación, fabricación, importación y acopio de armas de fuego prohibidas y/o de uso exclusivo del Ejército, Armada o Fuerza Aérea;
 

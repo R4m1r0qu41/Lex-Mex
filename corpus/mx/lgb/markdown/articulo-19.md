@@ -17,4 +17,4 @@ source_sha256: 1a7dcb966c812b4d78487fc81a4f873a2d1fd63e0f40a021dc8aa2d56e31dc19
 
 # Artículo 19
 
-Las editoriales del país podrán deducir impuestos a través de las donaciones que realicen en especie a la [Dirección General](articulo-2.md) en términos de lo dispuesto por los artículos 27, fracción I, inciso a), y 151, fracción III, inciso a) de la Ley del Impuesto sobre la Renta; y 131 de su Reglamento, siempre y cuando las donaciones realizadas sean valoradas y, en su caso, aceptadas por la [Secretaría](articulo-2.md).
+Las editoriales del país podrán deducir impuestos a través de las donaciones que realicen en especie a la [Dirección General](articulo-2.md) en términos de lo dispuesto por los artículos [27](../../lisr/markdown/articulo-27.md), fracción I, inciso a), y [151](../../lisr/markdown/articulo-151.md), fracción III, inciso a) de la Ley del Impuesto sobre la Renta; y 131 de su Reglamento, siempre y cuando las donaciones realizadas sean valoradas y, en su caso, aceptadas por la [Secretaría](articulo-2.md).

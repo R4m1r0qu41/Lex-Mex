@@ -17,7 +17,7 @@ source_sha256: 5c89d48167a4e1170c69e0b1e0294260b806a30d861275d8dca09b0334cd09d4
 
 # Artículo 10-C
 
-Las entidades adheridas al Sistema Nacional de Coordinación Fiscal, sin que se considere un incumplimiento de los convenios a que se refiere el artículo [10](articulo-10.md) de esta Ley ni de lo dispuesto en el artículo 41 de la Ley del Impuesto al Valor Agregado, y en adición a los impuestos a que hace referencia el artículo [43](articulo-43.md) de este último ordenamiento, podrán establecer impuestos locales a la venta o consumo final de los bienes cuya enajenación se encuentre gravada por la Ley del Impuesto Especial sobre Producción y Servicios, siempre que no se trate de bienes cuyo gravamen se encuentre reservado a la Federación, dicha venta o consumo final se realice dentro del territorio de la entidad de que se trate y se cumplan los requisitos siguientes:
+Las entidades adheridas al Sistema Nacional de Coordinación Fiscal, sin que se considere un incumplimiento de los convenios a que se refiere el artículo [10](articulo-10.md) de esta Ley ni de lo dispuesto en el artículo [41](../../liva/markdown/articulo-41.md) de la Ley del Impuesto al Valor Agregado, y en adición a los impuestos a que hace referencia el artículo [43](articulo-43.md) de este último ordenamiento, podrán establecer impuestos locales a la venta o consumo final de los bienes cuya enajenación se encuentre gravada por la Ley del Impuesto Especial sobre Producción y Servicios, siempre que no se trate de bienes cuyo gravamen se encuentre reservado a la Federación, dicha venta o consumo final se realice dentro del territorio de la entidad de que se trate y se cumplan los requisitos siguientes:
 
 I. No se establezcan tratamientos especiales de ningún tipo.
 

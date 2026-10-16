@@ -19,7 +19,7 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 Para los efectos del presente Reglamento se estará a las definiciones previstas en las Leyes General del Equilibrio Ecológico y la Protección al Ambiente, y Federal sobre Metrología y Normalización y a las siguientes:
 
-I. Actividades del Sector Hidrocarburos: Aquéllas previstas en el artículo 3, fracción XI, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción reformada DOF 31-10-2014
+I. Actividades del Sector Hidrocarburos: Aquéllas previstas en el artículo [3](../../lansi/markdown/articulo-3o.md), fracción XI, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción reformada DOF 31-10-2014
 
 I Bis. Agencia: Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción adicionada DOF 31-10-2014
 

@@ -848,21 +848,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:82:reference:235-236:4:direct",
-    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:82",
-    "source_span": "4",
-    "start_char": 235,
-    "end_char": 236,
-    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
-    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:4",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:88:reference:283-285:79:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:88",
     "source_span": "79",

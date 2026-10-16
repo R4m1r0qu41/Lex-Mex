@@ -17,7 +17,7 @@ source_sha256: b82b6148e235121951a94cb388fe59dbebe4212c8a6c85f26704873150827911
 
 # Artículo 44
 
-La [Secretaría](articulo-3o.md) otorgará el reconocimiento al que se refiere el segundo párrafo del artículo 59 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de conformidad con lo establecido en el reglamento, a las unidades de manejo para la conservación de la vida silvestre que se hayan distinguido por:
+La [Secretaría](articulo-3o.md) otorgará el reconocimiento al que se refiere el segundo párrafo del artículo [59](../../lgeepa/markdown/articulo-59.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de conformidad con lo establecido en el reglamento, a las unidades de manejo para la conservación de la vida silvestre que se hayan distinguido por:
 
 a) Sus logros en materia de difusión, educación, investigación, capacitación, trato digno y respetuoso y desarrollo de actividades de manejo sustentable que hayan contribuido a la conservación de las especies silvestres, sus poblaciones y su hábitat natural, a la generación de empleos y al bienestar socioeconómico de los habitantes de la localidad de que se trate.
 

@@ -26,7 +26,7 @@ I. Administrador de Comisionistas: a los comisionistas que operan al amparo de l
 
 II. Auditor Externo Independiente: al contador público o licenciado en contaduría pública que cumpla con las características y requisitos contenidos en las “Disposiciones de carácter general aplicables a las entidades y emisoras supervisadas por la Comisión Nacional Bancaria y de Valores que contraten servicios de auditoría externa de estados financieros básicos” y sus modificaciones.
 
-III. Auditor Interno, a la persona o área que desempeña dicha función en las Sociedades Cooperativas de Ahorro y Préstamo, a que se refiere el inciso d) de la fracción V del Artículo 34 de la Ley General de Sociedades Cooperativas.
+III. Auditor Interno, a la persona o área que desempeña dicha función en las Sociedades Cooperativas de Ahorro y Préstamo, a que se refiere el inciso d) de la fracción V del Artículo [34](../../lgsc/markdown/articulo-34.md) de la Ley General de Sociedades Cooperativas.
 
 15 Anexo sustituido mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha sustitución no se encuentra reflejada en el texto vigente. 16 Anexo sustituido mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha sustitución no se encuentra reflejada en el texto vigente. 17 Fracción adicionada mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha adición no se encuentra reflejada en el texto vigente.
 
@@ -54,13 +54,13 @@ X. Comisión, a la Comisión Nacional Bancaria y de Valores.
 
 XI. Comité de Auditoría, al comité constituido por el Consejo de Administración, que tendrá las funciones descritas en los Apartados C de la Sección Primera, D de la Sección Segunda, D de la Sección Tercera y D de la Sección Cuarta del Capítulo II del Título Tercero de las presentes disposiciones y que apoyará al mencionado órgano de gobierno en la definición y actualización de los objetivos del Sistema de Control Interno y los lineamientos para su implementación, así como en su evaluación.
 
-XII. Comité de Crédito, al Comité de Crédito o su equivalente a que se refiere el inciso a) de la fracción V del Artículo 34 de la Ley General de Sociedades Cooperativas.
+XII. Comité de Crédito, al Comité de Crédito o su equivalente a que se refiere el inciso a) de la fracción V del Artículo [34](../../lgsc/markdown/articulo-34.md) de la Ley General de Sociedades Cooperativas.
 
 18 Fracción adicionada mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha adición no se encuentra reflejada en el texto vigente. 19 Fracción adicionada mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha adición no se encuentra reflejada en el texto vigente.
 
 XIII. Comité de Protección al Ahorro Cooperativo, al órgano del Fondo de Protección encargado de administrar la cuenta de seguro de depósitos de dicho fondo, que se constituya de conformidad con lo señalado en el Título Cuarto de la Ley.
 
-XIV. Comité de Riesgos, al Comité de Riesgos a que se refiere el inciso b) de la fracción V del Artículo 34 de la Ley General de Sociedades Cooperativas.
+XIV. Comité de Riesgos, al Comité de Riesgos a que se refiere el inciso b) de la fracción V del Artículo [34](../../lgsc/markdown/articulo-34.md) de la Ley General de Sociedades Cooperativas.
 
 XV. Comité de Supervisión Auxiliar, al órgano del Fondo de Protección encargado de ejercer la supervisión auxiliar de las Sociedades Cooperativas de Ahorro y Préstamo en términos de la Ley.
 
@@ -68,9 +68,9 @@ XVI. Comité Técnico, al órgano rector del Fondo de Protección a que se refie
 
 XVII. Consejeros, a los miembros del Consejo de Administración de las Sociedades Cooperativas de Ahorro y Préstamo.
 
-XVIII. Consejo de Administración, al consejo de administración de las Sociedades Cooperativas de Ahorro y Préstamo a que se refiere la fracción II del Artículo 34 de la Ley General de Sociedades Cooperativas.
+XVIII. Consejo de Administración, al consejo de administración de las Sociedades Cooperativas de Ahorro y Préstamo a que se refiere la fracción II del Artículo [34](../../lgsc/markdown/articulo-34.md) de la Ley General de Sociedades Cooperativas.
 
-XIX. Consejo de Vigilancia, al consejo de vigilancia de las Sociedades Cooperativas de Ahorro y Préstamo a que se refiere la fracción III del Artículo 34 de la Ley General de Sociedades Cooperativas.
+XIX. Consejo de Vigilancia, al consejo de vigilancia de las Sociedades Cooperativas de Ahorro y Préstamo a que se refiere la fracción III del Artículo [34](../../lgsc/markdown/articulo-34.md) de la Ley General de Sociedades Cooperativas.
 
 XX. Contraseña: a la cadena de caracteres que autentica a un Usuario en un [Medio Electrónico](articulo-1.md) o en Servicios Electrónicos.
 
@@ -98,7 +98,7 @@ XXIX. Cuentas Solidarias, a la Cuenta Colectiva en la que cualquiera de los coti
 
 XXX. Desbloqueo de Factores de Autenticación: al proceso mediante el cual la Sociedad habilita el uso de un Factor de Autenticación que se encontraba bloqueado.
 
-XXXI. Director o Gerente General, al director o gerente general de las Sociedades a que se refiere el Artículo 34, fracción V, inciso c) de la Ley General de Sociedades Cooperativas, así como al Gerente General del Fondo de Protección a que se refiere el Artículo 43, segundo párrafo de la Ley, según corresponda.
+XXXI. Director o Gerente General, al director o gerente general de las Sociedades a que se refiere el Artículo [34](../../lgsc/markdown/articulo-34.md), fracción V, inciso c) de la Ley General de Sociedades Cooperativas, así como al Gerente General del Fondo de Protección a que se refiere el Artículo 43, segundo párrafo de la Ley, según corresponda.
 
 XXXII. Dispositivo de Acceso: al equipo que permite a un Usuario acceder a los Servicios Electrónicos.
 

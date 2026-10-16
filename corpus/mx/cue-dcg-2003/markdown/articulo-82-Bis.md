@@ -21,7 +21,7 @@ Tratándose de las Entidades financieras que actúen como Emisoras, deberán ela
 
 de sostenibilidad de conformidad con la normatividad que al efecto se emita en las disposiciones de carácter general aplicables a cada entidad financiera, dictadas por las autoridades financieras mexicanas competentes, según corresponda. Lo anterior, también resultará aplicable a las Emisoras que a través de sus subsidiarias realicen preponderantemente actividades financieras sujetas a la supervisión de dichas autoridades.
 
-(104) Las sociedades financieras de objeto múltiple no reguladas que emitan Valores distintos a instrumentos de deuda y las Emisoras que sean personas morales cuya actividad preponderante sea el otorgamiento de crédito, la celebración de arrendamiento financiero o factoraje financiero, deberán cumplir con las normas de información de sostenibilidad que les sean aplicables a las sociedades financieras de objeto múltiple reguladas a que se refiere el artículo 87-D, fracción V de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+(104) Las sociedades financieras de objeto múltiple no reguladas que emitan Valores distintos a instrumentos de deuda y las Emisoras que sean personas morales cuya actividad preponderante sea el otorgamiento de crédito, la celebración de arrendamiento financiero o factoraje financiero, deberán cumplir con las normas de información de sostenibilidad que les sean aplicables a las sociedades financieras de objeto múltiple reguladas a que se refiere el artículo [87-D](../../lgoaac/markdown/articulo-87-D.md), fracción V de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
 
 Para efectos de lo previsto en el presente artículo, por actividad preponderante se entenderá aquella (104)
 

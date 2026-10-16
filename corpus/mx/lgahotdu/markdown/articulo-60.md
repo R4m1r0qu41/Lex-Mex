@@ -33,4 +33,4 @@ VII. Deberá definir los casos y condiciones para la suspensión y clausura de l
 
 VIII. Deberá definir los casos y condiciones para la revocación de autorizaciones, y
 
-IX. La simplificación de las autorizaciones, permisos o licencias de las autoridades locales atenderán las recomendaciones que se emitan en términos del artículo 147 de la Ley Federal de Telecomunicaciones y Radiodifusión.
+IX. La simplificación de las autorizaciones, permisos o licencias de las autoridades locales atenderán las recomendaciones que se emitan en términos del artículo [147](../../lftr/markdown/articulo-147.md) de la Ley Federal de Telecomunicaciones y Radiodifusión.

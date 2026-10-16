@@ -55,7 +55,7 @@ En los casos en que a las personas morales con fines no lucrativos o a los fidei
 
 VII. Informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquel en el que se realice la operación, de los donativos recibidos en efectivo en moneda nacional o extranjera, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos.
 
-La información a que se refiere esta fracción estará a disposición de la Secretaría de Hacienda y Crédito Público, en los términos del segundo párrafo del artículo 69 del Código Fiscal de la Federación.
+La información a que se refiere esta fracción estará a disposición de la Secretaría de Hacienda y Crédito Público, en los términos del segundo párrafo del artículo [69](../../cff/markdown/articulo-69.md) del Código Fiscal de la Federación.
 
 VIII. Informar a las autoridades fiscales, en los términos que señale el Servicio de Administración Tributaria mediante reglas de carácter general, de las operaciones que celebren con partes relacionadas y de los servicios que reciban o de los bienes que adquieran, de personas que les hayan otorgado donativos deducibles en los términos de esta Ley.
 

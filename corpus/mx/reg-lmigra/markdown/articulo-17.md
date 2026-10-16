@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 17
 
-Una vez que haya concluido el proceso de certificación, el Centro de Evaluación emitirá, en caso procedente, la certificación a que se refieren los artículos 96 y 97 de la Ley General del Sistema Nacional de Seguridad Pública y 23 de la Ley, que establecen que la certificación es requisito indispensable de ingreso, promoción y permanencia.
+Una vez que haya concluido el proceso de certificación, el Centro de Evaluación emitirá, en caso procedente, la certificación a que se refieren los artículos [96](../../lgsnsp/markdown/articulo-96.md) y [97](../../lgsnsp/markdown/articulo-97.md) de la Ley General del Sistema Nacional de Seguridad Pública y 23 de la Ley, que establecen que la certificación es requisito indispensable de ingreso, promoción y permanencia.
 
 La certificación a que se refiere el párrafo anterior deberá expedirse en un plazo no mayor a sesenta días naturales, contados a partir del inicio del proceso de certificación, para efectos de su registro. La certificación y el registro respectivo tendrán una vigencia de hasta tres años.
 

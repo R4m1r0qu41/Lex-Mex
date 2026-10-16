@@ -17,4 +17,4 @@ source_sha256: 7fa6151d65442b7beeb14e032ba54cbcaf4a8140606f152acb988bc554978550
 
 # Artículo 162
 
-Tendrán preferencia para adquirir terrenos nacionales, a titulo oneroso, los poseedores que los hayan explotado en los últimos tres años. En su defecto, se estará a lo dispuesto en el artículo 58 de la Ley General de Bienes Nacionales.
+Tendrán preferencia para adquirir terrenos nacionales, a titulo oneroso, los poseedores que los hayan explotado en los últimos tres años. En su defecto, se estará a lo dispuesto en el artículo [58](../../lgbn/markdown/articulo-58.md) de la Ley General de Bienes Nacionales.

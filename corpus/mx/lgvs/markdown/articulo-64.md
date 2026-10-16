@@ -21,6 +21,6 @@ La [Secretaría](articulo-3o.md) acordará con los propietarios o legítimos pos
 
 La realización de cualquier obra pública o privada, así como de aquellas actividades que puedan afectar la protección, recuperación y restablecimiento de los elementos naturales en los hábitats críticos, deberá quedar sujeta a las condiciones que se establezcan como medidas especiales de manejo y conservación en los planes de manejo de que se trate, así como del informe preventivo correspondiente, de conformidad con lo establecido en el reglamento.
 
-En todo momento el Ejecutivo Federal podrá imponer limitaciones de los derechos de dominio en los predios que abarquen dicho hábitat, de conformidad con los artículos [1](articulo-1o.md)o., fracción X y 2o. de la Ley de Expropiación, con el objeto de dar cumplimiento a las medidas necesarias para su manejo y conservación.
+En todo momento el Ejecutivo Federal podrá imponer limitaciones de los derechos de dominio en los predios que abarquen dicho hábitat, de conformidad con los artículos [1](../../lexp/markdown/articulo-1o.md)o., fracción X y 2o. de la Ley de Expropiación, con el objeto de dar cumplimiento a las medidas necesarias para su manejo y conservación.
 
 Artículo reformado DOF 02-09-2010

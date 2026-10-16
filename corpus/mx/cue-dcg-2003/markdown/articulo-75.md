@@ -24,4 +24,4 @@ Lo dispuesto en los párrafos anteriores, no resultará aplicable a las sociedad
 
 El cumplimiento del presente artículo no exime a las Emisoras de presentar la información a que (107)
 
-hacen referencia los artículos 104 a 106 de la Ley del Mercado de Valores.
+hacen referencia los artículos [104](../../lmv/markdown/articulo-104.md) a [106](../../lmv/markdown/articulo-106.md) de la Ley del Mercado de Valores.

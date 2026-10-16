@@ -51,6 +51,6 @@ VI. Por la evaluación y resolución de la solicitud de modificación de proyect
 
 VII. (Se deroga). Fracción derogada DOF 18-11-2010
 
-VIII. Por la evaluación de la solicitud de exención de presentación de la manifestación de impacto ambiental de las obras y actividades señaladas en el artículo 6o. del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Evaluación del Impacto Ambiental, se pagará la cuota de: ............................................................ $5,941.17
+VIII. Por la evaluación de la solicitud de exención de presentación de la manifestación de impacto ambiental de las obras y actividades señaladas en el artículo [6](../../reg-lgeepa-meia/markdown/articulo-6o.md)o. del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Evaluación del Impacto Ambiental, se pagará la cuota de: ............................................................ $5,941.17
 
 Artículo adicionado DOF 10-05-1996. Reformado DOF 31-12-1998, 31-12-2000, 01-12-2004

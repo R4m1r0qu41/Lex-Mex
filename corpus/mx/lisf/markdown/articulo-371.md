@@ -23,7 +23,7 @@ I. Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y est
 
 II. Haber ocupado, por lo menos durante cinco años, cargos de alto nivel en el sistema financiero mexicano o en las dependencias, organismos o instituciones que ejerzan funciones de autoridad en materia financiera; III. No ser accionista, ni desempeñar el cargo de consejero, comisario, auditor externo, actuario independiente que dictamine sobre la situación y suficiencia de las reservas técnicas, apoderado, funcionario, empleado o agente de cualquiera de las [Instituciones](articulo-2.md) y [Sociedades Mutualistas](articulo-2.md), así como de las demás personas y entidades sujetas a la inspección y vigilancia de la Comisión.
 
-No se incumplirá este requisito cuando se tengan inversiones en términos de lo dispuesto por el artículo 372 de la Ley del Mercado de Valores;
+No se incumplirá este requisito cuando se tengan inversiones en términos de lo dispuesto por el artículo [372](../../lmv/markdown/articulo-372.md) de la Ley del Mercado de Valores;
 
 IV. No tener nexos patrimoniales con los accionistas que formen el grupo de [Control](articulo-2.md) de alguna Institución, así como de cualquiera de las demás personas y entidades sujetas a la inspección y vigilancia de la Comisión, ni con los funcionarios de primer y segundo nivel de las mismas, así como no ser cónyuge ni tener relación de parentesco consanguíneo dentro del segundo grado con dichas personas;
 

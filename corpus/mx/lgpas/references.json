@@ -364,6 +364,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:147:reference:418-421:203:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgpas:article:147",
+    "source_span": "203",
+    "start_char": 418,
+    "end_char": 421,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:203",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgpas:article:147:reference:688-691:132:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgpas:article:147",
     "source_span": "132",

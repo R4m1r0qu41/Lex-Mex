@@ -15,7 +15,7 @@ source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 
 # Artículo 20
 
-Los Organismos acreditados interesados en obtener la aprobación de la Secretaría para verificar las Emisiones de Gases o Compuestos de Efecto Invernadero o certificar su reducción, presentarán una solicitud que contendrá los requisitos de información previstos en el artículo 15 de la Ley Federal de Procedimiento Administrativo, a la que se anexará:
+Los Organismos acreditados interesados en obtener la aprobación de la Secretaría para verificar las Emisiones de Gases o Compuestos de Efecto Invernadero o certificar su reducción, presentarán una solicitud que contendrá los requisitos de información previstos en el artículo [15](../../lfpa/markdown/articulo-15.md) de la Ley Federal de Procedimiento Administrativo, a la que se anexará:
 
 I. Copia de la acreditación como Organismos en materia de Emisiones de Gases o Compuestos de Efecto Invernadero;
 

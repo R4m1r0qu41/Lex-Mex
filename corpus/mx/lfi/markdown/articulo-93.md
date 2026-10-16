@@ -15,7 +15,7 @@ source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 
 # Artículo 93
 
-Los delitos previstos en esta Ley solo admitirán comisión dolosa. La acción penal en los delitos a que se refiere esta Ley prescribirá en tres años contados a partir del día en que la Secretaría de Hacienda y Crédito Público o persona con interés jurídico tenga conocimiento del delito y del probable responsable, y si no tienen ese conocimiento, en cinco años que se computarán conforme a las reglas establecidas en el artículo 102 del Código Penal Federal. Una vez cubierto el requisito de procedibilidad, la prescripción seguirá corriendo según las reglas del Código Penal Federal.
+Los delitos previstos en esta Ley solo admitirán comisión dolosa. La acción penal en los delitos a que se refiere esta Ley prescribirá en tres años contados a partir del día en que la Secretaría de Hacienda y Crédito Público o persona con interés jurídico tenga conocimiento del delito y del probable responsable, y si no tienen ese conocimiento, en cinco años que se computarán conforme a las reglas establecidas en el artículo [102](../../cpf/markdown/articulo-102.md) del Código Penal Federal. Una vez cubierto el requisito de procedibilidad, la prescripción seguirá corriendo según las reglas del Código Penal Federal.
 
 Las penas previstas en esta Ley, se reducirán a un tercio cuando se acredite haber reparado el daño o haber resarcido el perjuicio ocasionado.
 

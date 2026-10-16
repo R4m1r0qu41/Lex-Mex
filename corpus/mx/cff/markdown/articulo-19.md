@@ -27,6 +27,6 @@ Los particulares o sus representantes podrán autorizar por escrito a personas q
 
 Quien promueva a nombre de otro deberá acreditar que la representación le fué otorgada a más tardar en la fecha en que se presenta la promoción.
 
-Para los efectos de este artículo, las escrituras públicas que se contengan en documentos digitales en los términos de lo dispuesto por el artículo 1834-Bis del Código Civil Federal, deberán contener firma electrónica avanzada del fedatario público.
+Para los efectos de este artículo, las escrituras públicas que se contengan en documentos digitales en los términos de lo dispuesto por el artículo [1834-Bis](../../ccf/markdown/articulo-1834-bis.md) del Código Civil Federal, deberán contener firma electrónica avanzada del fedatario público.
 
 Cuando las promociones deban ser presentadas en documentos digitales por los representantes o los autorizados, el documento digital correspondiente deberá contener firma electrónica avanzada de dichas personas.

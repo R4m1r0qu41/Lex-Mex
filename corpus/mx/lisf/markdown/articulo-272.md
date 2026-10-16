@@ -35,4 +35,4 @@ La sociedad escindida no se entenderá autorizada para organizarse y operar como
 
 El proceso de escisión a que se refiere este artículo, de ninguna manera modificará los términos y condiciones vigentes pactados en los contratos de seguro o en los contratos de fianza correspondientes. En todo caso, para su modificación será necesaria la manifestación de la voluntad de las partes interesadas en este sentido.
 
-En lo no previsto en este artículo, se observará lo establecido en el artículo 228 Bis de la Ley General de Sociedades Mercantiles.
+En lo no previsto en este artículo, se observará lo establecido en el artículo [228 Bis](../../lgsm/markdown/articulo-228-Bis.md) de la Ley General de Sociedades Mercantiles.

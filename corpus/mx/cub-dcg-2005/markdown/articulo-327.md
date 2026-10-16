@@ -26,4 +26,4 @@ En caso de que los servicios o comisiones a contratar se refieran a la utilizaci
 
 Asimismo, las Instituciones deberán señalar las medidas que implementarán en los supuestos previstos por la fracción VII del Artículo [318](articulo-318.md) de las presentes disposiciones.
 
-II. Acompañar el proyecto de contrato de prestación de servicios o comisión, señalando la fecha probable de su celebración. En su caso, las instituciones de banca de desarrollo remitirán el contrato respectivo, una vez concluidos los procedimientos a que se refieren las fracciones I y II del Artículo 26 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, en caso de resultar aplicable esta última ley.
+II. Acompañar el proyecto de contrato de prestación de servicios o comisión, señalando la fecha probable de su celebración. En su caso, las instituciones de banca de desarrollo remitirán el contrato respectivo, una vez concluidos los procedimientos a que se refieren las fracciones I y II del Artículo [26](../../laassp/markdown/articulo-26.md) de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, en caso de resultar aplicable esta última ley.

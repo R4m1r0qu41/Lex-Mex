@@ -17,4 +17,4 @@ source_sha256: 390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32
 
 # Artículo 53
 
-Cuando el Ministerio Público tenga conocimiento por cualquier medio de la comisión de alguno de los delitos en materia de trata de personas asumirá la función de la dirección de investigación a que se refiere el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+Cuando el Ministerio Público tenga conocimiento por cualquier medio de la comisión de alguno de los delitos en materia de trata de personas asumirá la función de la dirección de investigación a que se refiere el artículo [21](../../cpeum/markdown/articulo-21.md) de la Constitución Política de los Estados Unidos Mexicanos.

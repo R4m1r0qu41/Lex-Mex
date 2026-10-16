@@ -57,7 +57,7 @@ XIII. En las operaciones a que se refiere la fracción XVII del artículo [144](
 
 a) Celebrar operaciones con la propia Institución de Fianzas en el cumplimiento de fideicomisos, salvo aquéllas autorizadas por el Banco de México mediante disposiciones de carácter general, cuando no impliquen conflicto de intereses;
 
-b) Responder a los fideicomitentes o fideicomisarios del incumplimiento de los deudores por los bienes, derechos o valores que se adquieran, salvo que sea por su culpa según lo dispuesto en la parte final del artículo 391 de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los fondos cuya inversión se les encomiende.
+b) Responder a los fideicomitentes o fideicomisarios del incumplimiento de los deudores por los bienes, derechos o valores que se adquieran, salvo que sea por su culpa según lo dispuesto en la parte final del artículo [391](../../lgtoc/markdown/articulo-391.md) de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los fondos cuya inversión se les encomiende.
 
 Si al término del fideicomiso, los derechos o valores no hubieren sido pagados por los deudores, la fiduciaria deberá transferirlos, junto con los demás bienes, derechos o valores que constituyan el patrimonio fiduciario al fideicomitente o fideicomisario, según sea el caso, absteniéndose de cubrir su importe.
 

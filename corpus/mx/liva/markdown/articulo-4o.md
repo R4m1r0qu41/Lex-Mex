@@ -19,8 +19,8 @@ source_sha256: f2b5b1770441a6a4e48f3ade408f9ff7a3e9c81bd5d529e52484f49e4a8e91a6
 
 El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley la tasa que corresponda según sea el caso. Para los efectos del párrafo anterior, se entiende por impuesto acreditable el impuesto al valor agregado que haya sido trasladado al contribuyente y el propio impuesto que él hubiese pagado con motivo de la importación de bienes o servicios, en el mes de que se trate.
 
-El impuesto que se traslade por los servicios a que se refiere el artículo 15-D, primer y segundo párrafos del Código Fiscal de la Federación, no será acreditable en los términos de la presente Ley. Párrafo adicionado DOF 23-04-2021
+El impuesto que se traslade por los servicios a que se refiere el artículo [15-D](../../cff/markdown/articulo-15-D.md), primer y segundo párrafos del Código Fiscal de la Federación, no será acreditable en los términos de la presente Ley. Párrafo adicionado DOF 23-04-2021
 
-El derecho al acreditamiento es personal para los contribuyentes del impuesto al valor agregado y no podrá ser trasmitido por acto entre vivos, excepto tratándose de fusión. En el caso de escisión, el acreditamiento del impuesto pendiente de acreditar a la fecha de la escisión sólo lo podrá efectuar la sociedad escindente. Cuando desaparezca la sociedad escindente, se estará a lo dispuesto en el antepenúltimo párrafo del artículo 14-B del Código Fiscal de la Federación.
+El derecho al acreditamiento es personal para los contribuyentes del impuesto al valor agregado y no podrá ser trasmitido por acto entre vivos, excepto tratándose de fusión. En el caso de escisión, el acreditamiento del impuesto pendiente de acreditar a la fecha de la escisión sólo lo podrá efectuar la sociedad escindente. Cuando desaparezca la sociedad escindente, se estará a lo dispuesto en el antepenúltimo párrafo del artículo [14-B](../../cff/markdown/articulo-14-B.md) del Código Fiscal de la Federación.
 
 Artículo reformado DOF 31-12-1979, 30-12-1980, 31-12-1982, 31-12-1999, 31-12-2000, 30-12-2002, 01-12-2004, 07-06-2005

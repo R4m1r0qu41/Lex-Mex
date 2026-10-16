@@ -17,6 +17,6 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 # Artículo 52
 
-La autoridad llevará a cabo las visitas de verificación observando lo previsto en el artículo 13 de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo, así como los principios de unidad, funcionalidad, coordinación, profesionalismo, simplificación, agilidad, precisión, transparencia e imparcialidad.
+La autoridad llevará a cabo las visitas de verificación observando lo previsto en el artículo [13](../../lfpa/markdown/articulo-13.md) de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo, así como los principios de unidad, funcionalidad, coordinación, profesionalismo, simplificación, agilidad, precisión, transparencia e imparcialidad.
 
 La [Dirección General](articulo-2.md) podrá celebrar convenios de colaboración con las autoridades competentes de las entidades federativas, en materia de visitas de verificación.

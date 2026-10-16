@@ -17,7 +17,7 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 3
 
-Para los efectos de este Reglamento, serán aplicables las definiciones establecidas en el artículo 2 de la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional, así como las siguientes: Párrafo reformado DOF 27-01-2012, 20-03-2026
+Para los efectos de este Reglamento, serán aplicables las definiciones establecidas en el artículo [2](../../lemefam/markdown/articulo-2.md) de la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional, así como las siguientes: Párrafo reformado DOF 27-01-2012, 20-03-2026
 
 I. Derogada. Fracción derogada DOF 20-03-2026
 

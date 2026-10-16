@@ -17,4 +17,4 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 # Artículo 136
 
-La relación jurídica entre la [Institución](articulo-2.md) y los integrantes se rige por el artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, la [Ley](articulo-2.md) y el presente [Reglamento](articulo-2.md).
+La relación jurídica entre la [Institución](articulo-2.md) y los integrantes se rige por el artículo [123](../../cpeum/markdown/articulo-123.md), Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, la [Ley](articulo-2.md) y el presente [Reglamento](articulo-2.md).

@@ -17,7 +17,7 @@ source_sha256: f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9
 
 # Artículo 24
 
-La Junta de Gobierno tendrá, además de aquellas que establece el artículo 58 de la [Ley](articulo-1.md) Federal de las Entidades Paraestatales, las siguientes atribuciones:
+La Junta de Gobierno tendrá, además de aquellas que establece el artículo [58](../../lfep/markdown/articulo-58.md) de la [Ley](articulo-1.md) Federal de las Entidades Paraestatales, las siguientes atribuciones:
 
 I. Aprobar y modificar su reglamento de sesiones, y el [Estatuto](articulo-1.md) Orgánico del [Consejo](articulo-1.md), con base en la propuesta que presente la presidencia; Fracción reformada DOF 20-03-2014
 

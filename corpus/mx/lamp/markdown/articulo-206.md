@@ -19,4 +19,4 @@ source_sha256: 05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d
 
 El incidente a que se refiere este Capítulo procede en contra de las autoridades responsables, por cualquier persona que resulte agraviada por el incumplimiento de la suspensión, sea de plano o definitiva, por exceso o defecto en su ejecución o por admitir, con notoria mala fe o negligencia inexcusable, fianza o contrafianza que resulte ilusoria o insuficiente.
 
-Este incidente podrá promoverse en cualquier tiempo, mientras no cause ejecutoria la resolución que se dicte en el juicio de amparo. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
+Este incidente podrá promoverse en cualquier tiempo, mientras no cause ejecutoria la resolución que se dicte en el juicio de amparo. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS

@@ -1,6 +1,21 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:article:11:reference:349-351:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfea:article:11",
+    "source_span": "19",
+    "start_char": 349,
+    "end_char": 351,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfea:article:11:reference:1362-1363:11:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfea:article:11",
     "source_span": "I",
@@ -16,6 +31,21 @@
         "end_char": 1363
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:article:15:reference:653-655:49:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfea:article:15",
+    "source_span": "49",
+    "start_char": 653,
+    "end_char": 655,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccom",
+    "target_provision_id": "urn:lex-mx:federal:code:ccom:article:49",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -237,6 +267,28 @@
         "text": "primer párrafo",
         "start_char": 34,
         "end_char": 48
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:transitory:sexto:reference:1366-1368:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfea:transitory:sexto",
+    "source_span": "89",
+    "start_char": 1366,
+    "end_char": 1368,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 1342,
+        "end_char": 1352
       }
     ],
     "basis": "express_cross_reference",

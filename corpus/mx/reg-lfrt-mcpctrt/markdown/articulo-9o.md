@@ -41,7 +41,7 @@ XI. Ordenar y coordinar el encadenamiento de las estaciones de radio y televisi�
 
 XII. Conocer previamente los boletines que los concesionarios o permisionarios estén obligados a transmitir gratuitamente y ordenar a éstos su difusión, salvo en los casos de notoria urgencia, en los cuales las autoridades podrán directamente y bajo su responsabilidad, ordenar su transmisión de acuerdo con lo señalado por el artículo 60 de la Ley Federal de Radio y Televisión;
 
-XIII. Emitir la opinión a que se refiere la fracción III del artículo 36 de la Ley Orgánica de la Administración Pública Federal;
+XIII. Emitir la opinión a que se refiere la fracción III del artículo [36](../../loapf/markdown/articulo-36.md) de la Ley Orgánica de la Administración Pública Federal;
 
 XIV. Vigilar la transmisión del Himno Nacional por estaciones de radio y televisión, así como la proyección por televisión del Escudo y de la Bandera Nacionales y los programas que versen sobre los mismos, o que contengan motivos del Himno, en coordinación con la Unidad de Gobierno de la Secretaría de Gobernación;
 

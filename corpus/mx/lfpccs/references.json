@@ -23,6 +23,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpccs:article:18:reference:57-59:34:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfpccs:article:18",
+    "source_span": "34",
+    "start_char": 57,
+    "end_char": 59,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ldrs",
+    "target_provision_id": "urn:lex-mx:federal:statute:ldrs:article:34",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpccs:article:23:reference:528-530:37:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfpccs:article:23",
     "source_span": "37",

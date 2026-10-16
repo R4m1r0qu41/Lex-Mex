@@ -24,7 +24,7 @@ Las Sociedades, dentro de sus procedimientos para la gestión y el otorgamiento 
 
 I. Efectuar una visita de verificación o realizar una inspección ocular en el lugar donde el acreditado realice la actividad productiva que será financiada.
 
-En los casos en que la contratación para el otorgamiento de Microcréditos Productivos se celebre de manera no presencial, las Sociedades deberán observar el procedimiento y límites previstos en la disposición 4ª Bis de las Disposiciones de carácter general a que se refieren los artículos 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, emitidas por la Secretaría, o las que las sustituyan.
+En los casos en que la contratación para el otorgamiento de Microcréditos Productivos se celebre de manera no presencial, las Sociedades deberán observar el procedimiento y límites previstos en la disposición 4ª Bis de las Disposiciones de carácter general a que se refieren los artículos [71](../../lrascap/markdown/articulo-71.md) y [72](../../lrascap/markdown/articulo-72.md) de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, emitidas por la Secretaría, o las que las sustituyan.
 
 II. Efectuar un análisis de la capacidad de pago del acreditado, así como de la viabilidad de la actividad productiva a la que se destinará el Microcrédito Productivo, conforme a las políticas y procedimientos para su otorgamiento.
 

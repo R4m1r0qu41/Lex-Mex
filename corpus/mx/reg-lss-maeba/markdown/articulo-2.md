@@ -17,7 +17,7 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 2
 
-Para los efectos del presente Reglamento, serán aplicables las definiciones establecidas en el artículo 5 A, de la Ley del Seguro Social, así como las siguientes:
+Para los efectos del presente Reglamento, serán aplicables las definiciones establecidas en el artículo [5](../../lss/markdown/articulo-5.md) A, de la Ley del Seguro Social, así como las siguientes:
 
 I. Adquirente: Persona física o moral a la que, previo cumplimiento y acreditación de los requisitos establecidos para el procedimiento de enajenación previsto en este Reglamento, se le transfiere la propiedad de los bienes adjudicados en favor del Instituto;
 

@@ -21,7 +21,7 @@ Son atribuciones del Presidente del Tribunal, las siguientes:
 
 I. Representar al Tribunal, a la Sala Superior, al Pleno General y Jurisdiccional de la Sala Superior y a la Junta de Gobierno y Administración, ante toda clase de autoridades y delegar el ejercicio de esta función en servidores públicos subalternos sin perjuicio de su ejercicio directo, así como atender los recursos de reclamación de responsabilidad patrimonial en contra de las actuaciones atribuidas al propio Tribunal;
 
-II. Formar parte del Comité Coordinador del Sistema Nacional Anticorrupción en términos de lo dispuesto por el artículo 113 fracción III de la Constitución Política de los Estados Unidos Mexicanos;
+II. Formar parte del Comité Coordinador del Sistema Nacional Anticorrupción en términos de lo dispuesto por el artículo [113](../../cpeum/markdown/articulo-113.md) fracción III de la Constitución Política de los Estados Unidos Mexicanos;
 
 III. Despachar la correspondencia del Tribunal;
 

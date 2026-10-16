@@ -105,6 +105,73 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:article:7:reference:570-572:28:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lansi:article:7",
+    "source_span": "28",
+    "start_char": 570,
+    "end_char": 572,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:28",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:article:7:reference:840-847:111-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lansi:article:7",
+    "source_span": "111 Bis",
+    "start_char": 840,
+    "end_char": 847,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:111-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:article:7:reference:1059-1061:50:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lansi:article:7",
+    "source_span": "50",
+    "start_char": 1059,
+    "end_char": 1061,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpgir",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:50",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I",
+        "start_char": 1063,
+        "end_char": 1075
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:article:7:reference:2032-2035:117:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lansi:article:7",
+    "source_span": "117",
+    "start_char": 2032,
+    "end_char": 2035,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgdfs",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:117",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lansi:transitory:segundo:reference:339-341:30:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lansi:transitory:segundo",
     "source_span": "30",

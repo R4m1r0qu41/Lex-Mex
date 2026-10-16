@@ -1,6 +1,62 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgb:article:19:reference:170-172:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgb:article:19",
+    "source_span": "27",
+    "start_char": 170,
+    "end_char": 172,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
+    "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:27",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 174,
+        "end_char": 184
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a",
+        "start_char": 186,
+        "end_char": 194
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgb:article:19:reference:199-202:151:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgb:article:19",
+    "source_span": "151",
+    "start_char": 199,
+    "end_char": 202,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
+    "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:151",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 204,
+        "end_char": 216
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a",
+        "start_char": 218,
+        "end_char": 226
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgb:article:20:reference:468-470:15:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgb:article:20",
     "source_span": "15",

@@ -70,7 +70,7 @@ en Paso y Medida o proporcionales, únicamente serán reconocidos, para efectos 
 
 (93) 126 II. Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, o la que la sustituya.
 
-(93) 127 III. Fideicomisos públicos que formen parte del sistema financiero mexicano acorde con el artículo [3](articulo-3.md)o. de la Ley de Instituciones de Crédito.
+(93) 127 III. Fideicomisos públicos que formen parte del sistema financiero mexicano acorde con el artículo [3](../../lic/markdown/articulo-3o.md)o. de la Ley de Instituciones de Crédito.
 
 (93) 128 IV. Fideicomisos celebrados específicamente con la finalidad de compartir el riesgo de crédito, en los cuales actúen como fideicomitentes y fiduciarias las instituciones de banca de desarrollo que cuenten con garantía expresa del Gobierno Federal.
 

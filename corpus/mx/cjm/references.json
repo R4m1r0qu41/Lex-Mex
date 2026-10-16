@@ -907,6 +907,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cjm:article:275-ter:reference:2952-2953:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:code:cjm:article:275-ter",
+    "source_span": "2",
+    "start_char": 2952,
+    "end_char": 2953,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfdo",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfdo:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cjm:article:275-ter:reference:3064-3067:164:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cjm:article:275-ter",
     "source_span": "164",

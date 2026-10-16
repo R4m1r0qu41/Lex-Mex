@@ -37,7 +37,7 @@ Para que los concesionarios estén en posibilidad de efectuar la operación señ
 
 En caso de que el pago realizado abarque más de un periodo anual, la Comisión Reguladora de Telecomunicaciones, dará a conocer a los concesionarios, como facilidad administrativa, el pago anual equivalente en moneda nacional, correspondiente al valor presente del monto total pagado utilizando una tasa real anual de descuento de 2.50 por ciento, considerando el período que cubre dicho pago y el número de megahertz asociados a cada posición orbital. Párrafo reformado DOF 11-12-2013, 07-11-2025
 
-Asimismo, el monto anual que se haya pagado ante las autoridades, por concepto de la concesión de cada posición orbital, se deberá de actualizar en los términos del artículo 17-A del Código Fiscal de la Federación. Párrafo reformado DOF 11-12-2013
+Asimismo, el monto anual que se haya pagado ante las autoridades, por concepto de la concesión de cada posición orbital, se deberá de actualizar en los términos del artículo [17-A](../../cff/markdown/articulo-17-A.md) del Código Fiscal de la Federación. Párrafo reformado DOF 11-12-2013
 
 Para los efectos del presente artículo, en ningún caso se podrán acreditar los pagos por el uso de bandas de frecuencias que en su caso, el concesionario haya efectuado o efectúe. El acreditamiento a que se refiere este artículo no dará lugar a devolución o compensación alguna. Párrafo adicionado DOF 11-12-2013
 

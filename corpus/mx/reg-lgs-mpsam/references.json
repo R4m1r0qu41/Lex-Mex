@@ -278,6 +278,58 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:215-bis-2:reference:442-443:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:215-bis-2",
+    "source_span": "4",
+    "start_char": 442,
+    "end_char": 443,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgv:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafos primero y segundo",
+        "start_char": 445,
+        "end_char": 471
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:215-bis-4:reference:295-297:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:215-bis-4",
+    "source_span": "32",
+    "start_char": 295,
+    "end_char": 297,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgv:article:32",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:215-bis-6:reference:178-180:30:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:215-bis-6",
+    "source_span": "30",
+    "start_char": 178,
+    "end_char": 180,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgv:article:30",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:223:reference:173-190:222:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:223",
     "source_span": "artículo anterior",

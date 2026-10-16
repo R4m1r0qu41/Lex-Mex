@@ -16,4 +16,4 @@ source_sha256: b040dd53cd38f57ceaacd736fd04475ba82c840d063c62229302627d09f3f363
 
 # Artículo 58
 
-Las personas a que se refiere el primer párrafo del artículo 366 de la Ley del Mercado de Valores, deberán dar los avisos previstos en el artículo 367 del mismo ordenamiento legal a través de la emisora y esta última mediante el [SEDI](articulo-1.md). En el evento de que los avisos no puedan realizarse a través de la emisora, dichas personas podrán solicitar a la bolsa les permita llevar a cabo directamente la difusión correspondiente.
+Las personas a que se refiere el primer párrafo del artículo [366](../../lmv/markdown/articulo-366.md) de la Ley del Mercado de Valores, deberán dar los avisos previstos en el artículo 367 del mismo ordenamiento legal a través de la emisora y esta última mediante el [SEDI](articulo-1.md). En el evento de que los avisos no puedan realizarse a través de la emisora, dichas personas podrán solicitar a la bolsa les permita llevar a cabo directamente la difusión correspondiente.

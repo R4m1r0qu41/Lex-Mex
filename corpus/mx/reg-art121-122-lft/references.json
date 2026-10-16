@@ -1,6 +1,36 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-art121-122-lft:reference:28-31:121:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-art121-122-lft",
+    "source_span": "121",
+    "start_char": 28,
+    "end_char": 31,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lft",
+    "target_provision_id": "urn:lex-mx:federal:statute:lft:article:121",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-art121-122-lft:reference:34-37:122:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-art121-122-lft",
+    "source_span": "122",
+    "start_char": 34,
+    "end_char": 37,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lft",
+    "target_provision_id": "urn:lex-mx:federal:statute:lft:article:122",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-art121-122-lft:article:13:reference:81-83:10:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-art121-122-lft:article:13",
     "source_span": "10",
@@ -76,6 +106,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-art121-122-lft:article:22:reference:260-263:985:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-art121-122-lft:article:22",
+    "source_span": "985",
+    "start_char": 260,
+    "end_char": 263,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lft",
+    "target_provision_id": "urn:lex-mx:federal:statute:lft:article:985",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-art121-122-lft:article:4:reference:576-577:4:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-art121-122-lft:article:4",
     "source_span": "I",
@@ -110,5 +155,35 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-art121-122-lft:transitory:segundo:reference:41-44:121:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-art121-122-lft:transitory:segundo",
+    "source_span": "121",
+    "start_char": 41,
+    "end_char": 44,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lft",
+    "target_provision_id": "urn:lex-mx:federal:statute:lft:article:121",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-art121-122-lft:transitory:segundo:reference:47-50:122:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-art121-122-lft:transitory:segundo",
+    "source_span": "122",
+    "start_char": 47,
+    "end_char": 50,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lft",
+    "target_provision_id": "urn:lex-mx:federal:statute:lft:article:122",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   }
 ]

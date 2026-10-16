@@ -63,7 +63,7 @@ IX. El aviso de cancelación en el registro federal de contribuyentes por defunc
 
 XI. El aviso de cancelación en el registro federal de contribuyentes por liquidación total del activo, se presentará por los contribuyentes que tributen en los términos del Título II de la Ley del Impuesto sobre la Renta, conjuntamente con la declaración final de la liquidación total del activo de la sociedad a que se refiere el artículo 12 de la citada Ley.
 
-Para los efectos del párrafo anterior y del artículo 76, fracción V de la Ley del Impuesto sobre la Renta, cuando el ejercicio de liquidación a que se refiere el artículo [12](articulo-12.md) del mismo ordenamiento, sea por un periodo menor a tres meses, el contribuyente presentará el aviso a que se refiere esta fracción conjuntamente con la declaración del ejercicio de liquidación;
+Para los efectos del párrafo anterior y del artículo [76](../../lisr/markdown/articulo-76.md), fracción V de la Ley del Impuesto sobre la Renta, cuando el ejercicio de liquidación a que se refiere el artículo [12](articulo-12.md) del mismo ordenamiento, sea por un periodo menor a tres meses, el contribuyente presentará el aviso a que se refiere esta fracción conjuntamente con la declaración del ejercicio de liquidación;
 
 XII. El aviso de cancelación en el registro federal de contribuyentes por cese total de operaciones, se presentará por los residentes en el extranjero que dejen de realizar operaciones en México o cierren sus establecimientos permanentes.
 

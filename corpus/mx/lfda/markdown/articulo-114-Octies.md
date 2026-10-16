@@ -39,7 +39,7 @@ c) Cuenten con una política que prevea la terminación de cuentas de infractore
 
 d) Incluyan y no interfieran con medidas tecnológicas efectivas estándar que protegen o identifican material protegido por esta Ley, que se desarrollan a través de un proceso abierto y voluntario por un amplio consenso de titulares de derecho de autor y proveedores de servicios, que están disponibles de manera razonable y no discriminatoria, y que no imponen costos sustanciales a los proveedores de servicios o cargas sustanciales en sus sistemas o redes, y
 
-e) Tratándose de los Proveedores de Servicios en Línea a que se refieren los incisos b) y c) de la fracción II del artículo [114](articulo-114.md) Septies, deberán, además de lo previsto en el inciso inmediato anterior, no recibir un beneficio financiero atribuible a la conducta infractora, cuando el proveedor tenga el derecho y la capacidad de controlar la conducta infractora.
+e) Tratándose de los Proveedores de Servicios en Línea a que se refieren los incisos b) y c) de la fracción II del artículo [114 Septies](articulo-114-Septies.md), deberán, además de lo previsto en el inciso inmediato anterior, no recibir un beneficio financiero atribuible a la conducta infractora, cuando el proveedor tenga el derecho y la capacidad de controlar la conducta infractora.
 
 III. El aviso a que se refiere el inciso a), numeral 1, de la fracción anterior, deberá presentarse a través de los formularios y sistemas conforme lo señale el reglamento de la Ley, en los cuales se establecerá la información suficiente para identificar y localizar el material o contenido infractor.
 

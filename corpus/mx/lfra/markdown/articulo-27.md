@@ -17,6 +17,6 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 27
 
-Las personas e instituciones legitimadas conforme al artículo [28](articulo-28.md) de la presente Ley, podrán demandar la responsabilidad ambiental y el cumplimiento de las obligaciones, pagos y prestaciones previstos en este Título, en términos de lo dispuesto por la presente Ley, el Código Nacional de Procedimientos Civiles y Familiares, o de conformidad a la ley federal que regule los procedimientos judiciales a los que hace referencia el artículo 17 de la Constitución Política de los Estados Unidos Mexicanos.
+Las personas e instituciones legitimadas conforme al artículo [28](articulo-28.md) de la presente Ley, podrán demandar la responsabilidad ambiental y el cumplimiento de las obligaciones, pagos y prestaciones previstos en este Título, en términos de lo dispuesto por la presente Ley, el Código Nacional de Procedimientos Civiles y Familiares, o de conformidad a la ley federal que regule los procedimientos judiciales a los que hace referencia el artículo [17](../../cpeum/markdown/articulo-17.md) de la Constitución Política de los Estados Unidos Mexicanos.
 
 Artículo reformado DOF 14-11-2025

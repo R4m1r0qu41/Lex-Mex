@@ -55,7 +55,7 @@ XVI. Resolver los recursos que se interpongan conforme a lo previsto por esta Le
 
 XVII. Dictaminar los estudios de impacto social para el otorgamiento de concesiones, conforme a lo previsto en el artículo [6 BIS](articulo-6-BIS.md), primer párrafo, de la presente Ley; Fracción recorrida DOF 26-06-2006. Reformada DOF 08-05-2023
 
-XVIII. Declarar la nulidad de concesiones y actos administrativos regulados por la presente Ley en caso de omisión o irregularidad de cualquiera de los elementos de validez del acto administrativo establecidos en las fracciones I a X del artículo 3 de la Ley Federal de Procedimiento Administrativo; Fracción adicionada DOF 08-05-2023
+XVIII. Declarar la nulidad de concesiones y actos administrativos regulados por la presente Ley en caso de omisión o irregularidad de cualquiera de los elementos de validez del acto administrativo establecidos en las fracciones I a X del artículo [3](../../lfpa/markdown/articulo-3.md) de la Ley Federal de Procedimiento Administrativo; Fracción adicionada DOF 08-05-2023
 
 XIX. Promover juicio de lesividad en contra de resoluciones administrativas y concesiones que lesionen el interés público o a la Administración Pública Federal; Fracción adicionada DOF 08-05-2023
 

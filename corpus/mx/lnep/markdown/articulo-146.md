@@ -31,6 +31,6 @@ V. Cuando se trate de delitos de cuyo bien jurídico sea titular la federación 
 
 VI. Cuando la continuidad de la aplicación de la pena sea irrelevante para los fines de la reinserción del sentenciado a la sociedad o prevenir la reincidencia.
 
-No podrá aplicarse la medida por criterios de política penitenciaria en los casos de delitos contra el libre desarrollo de la personalidad, trata de personas, delincuencia organizada, secuestro, ni otros delitos que conforme a la ley aplicable merezcan prisión preventiva oficiosa, de conformidad con el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.
+No podrá aplicarse la medida por criterios de política penitenciaria en los casos de delitos contra el libre desarrollo de la personalidad, trata de personas, delincuencia organizada, secuestro, ni otros delitos que conforme a la ley aplicable merezcan prisión preventiva oficiosa, de conformidad con el artículo [19](../../cpeum/markdown/articulo-19.md) de la Constitución Política de los Estados Unidos Mexicanos.
 
 En cualquier caso, la Autoridad Penitenciaria deberá aplicar los principios de objetividad y no discriminación en el proceso y ejecución de la medida.

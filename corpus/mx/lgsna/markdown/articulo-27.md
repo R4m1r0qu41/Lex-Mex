@@ -31,4 +31,4 @@ IV. Responsabilidades administrativas de [Servidores públicos](articulo-3.md), 
 
 V. Transparencia y acceso a la información pública, conforme a la ley de la materia.
 
-La Secretaría de la Función Pública y el órgano interno de control, como excepción a lo previsto en el artículo 37 de la Ley Orgánica de la Administración Pública Federal, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
+La Secretaría de la Función Pública y el órgano interno de control, como excepción a lo previsto en el artículo [37](../../loapf/markdown/articulo-37.md) de la Ley Orgánica de la Administración Pública Federal, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.

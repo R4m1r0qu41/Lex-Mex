@@ -49,7 +49,7 @@ l) Ser víctimas de conflictos armados y de persecución étnica o religiosa, y 
 
 m) Ser huérfanos. Inciso adicionado DOF 19-12-2014
 
-Para los efectos de esta Ley son niñas, niños y adolescentes las personas comprendidas en el artículo 5 de la Ley General de los Derechos de Niñas, Niños y Adolescentes. Párrafo reformado DOF 06-01-2023
+Para los efectos de esta Ley son niñas, niños y adolescentes las personas comprendidas en el artículo [5](../../lgdnna/markdown/articulo-5.md) de la Ley General de los Derechos de Niñas, Niños y Adolescentes. Párrafo reformado DOF 06-01-2023
 
 II. Las mujeres:
 

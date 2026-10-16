@@ -21,8 +21,8 @@ Los contribuyentes que opten por pagar el impuesto sobre la renta en términos d
 
 I. Encontrarse activos en el Registro Federal de Contribuyentes. II. En el caso de reanudación de actividades, que en el ejercicio inmediato anterior, los ingresos amparados en comprobantes fiscales digitales por Internet no hayan excedido de tres millones quinientos mil pesos.
 
-III. Encontrarse al corriente en el cumplimiento de sus obligaciones fiscales de conformidad con lo previsto en el artículo 32-D del Código Fiscal de la Federación.
+III. Encontrarse al corriente en el cumplimiento de sus obligaciones fiscales de conformidad con lo previsto en el artículo [32-D](../../cff/markdown/articulo-32-D.md) del Código Fiscal de la Federación.
 
-IV. No encontrarse en el listado de contribuyentes publicados por el Servicio de Administración Tributaria en términos del artículo 69-B, cuarto párrafo del Código Fiscal de la Federación.
+IV. No encontrarse en el listado de contribuyentes publicados por el Servicio de Administración Tributaria en términos del artículo [69-B](../../cff/markdown/articulo-69-B.md), cuarto párrafo del Código Fiscal de la Federación.
 
 Artículo adicionado DOF 12-11-2021

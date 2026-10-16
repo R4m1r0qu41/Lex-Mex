@@ -43,7 +43,7 @@ V. Estar inscrito y activo en el registro federal de contribuyentes;
 
 VI. Contar con firma electrónica avanzada o, en su caso, sello digital vigente;
 
-VII. Estar al corriente en el cumplimiento de sus obligaciones fiscales mediante la constancia de cumplimiento a que se refiere el artículo 32-D del Código Fiscal de la Federación;
+VII. Estar al corriente en el cumplimiento de sus obligaciones fiscales mediante la constancia de cumplimiento a que se refiere el artículo [32-D](../../cff/markdown/articulo-32-D.md) del Código Fiscal de la Federación;
 
 VIII. No estar condenado en sentencia definitiva por haber participado en la comisión de delitos fiscales o de otros delitos intencionales que ameriten pena corporal, y
 

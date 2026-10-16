@@ -27,6 +27,6 @@ Total 1.000000
 
 El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, distribuirá los recursos del fondo a que se refiere el segundo párrafo de este artículo, dentro de los primeros 25 días de cada mes y se considerará como pago definitivo. La entidad federativa de que se trate deberá distribuir cuando menos el 20% de los recursos que reciba de este fondo a los municipios de la entidad, que se distribuirá entre estos últimos, en la forma en que determine la legislatura respectiva.
 
-El monto del fondo a que se refiere el primer párrafo de este artículo se determinará anualmente en el Presupuesto de Egresos de la Federación, el cual se actualizará cada año, aplicando el factor correspondiente al periodo comprendido desde el mes de julio del penúltimo año hasta el mes de julio inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación.
+El monto del fondo a que se refiere el primer párrafo de este artículo se determinará anualmente en el Presupuesto de Egresos de la Federación, el cual se actualizará cada año, aplicando el factor correspondiente al periodo comprendido desde el mes de julio del penúltimo año hasta el mes de julio inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo [17-A](../../cff/markdown/articulo-17-A.md) del Código Fiscal de la Federación.
 
 Artículo adicionado DOF 23-12-2005

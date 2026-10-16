@@ -29,7 +29,7 @@ IV. La ganancia derivada de la enajenación de activos fijos y terrenos, título
 
 En los casos de reducción de capital o de liquidación, de sociedades mercantiles residentes en el extranjero, la ganancia se determinará conforme a lo dispuesto en la fracción V del artículo [142](articulo-142.md) de esta Ley.
 
-En los casos de fusión o escisión de sociedades, no se considerará ingreso acumulable la ganancia derivada de dichos actos, cuando se cumplan los requisitos establecidos en el artículo 14-B del Código Fiscal de la Federación.
+En los casos de fusión o escisión de sociedades, no se considerará ingreso acumulable la ganancia derivada de dichos actos, cuando se cumplan los requisitos establecidos en el artículo [14-B](../../cff/markdown/articulo-14-B.md) del Código Fiscal de la Federación.
 
 V. Los pagos que se perciban por recuperación de un crédito deducido por incobrable. VI. La cantidad que se recupere por seguros, fianzas o responsabilidades a cargo de terceros, tratándose de pérdidas de bienes del contribuyente.
 

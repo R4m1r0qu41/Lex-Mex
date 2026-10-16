@@ -148,6 +148,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmin:article:11:reference:842-844:37:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:11",
+    "source_span": "37",
+    "start_char": 842,
+    "end_char": 844,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:37",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XII",
+        "start_char": 846,
+        "end_char": 858
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lmin:article:16:reference:89-90:4:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:16",
     "source_span": "4",

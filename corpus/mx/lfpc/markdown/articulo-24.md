@@ -25,7 +25,7 @@ III. Representar individualmente o en grupo a los consumidores ante autoridades 
 
 IV. Recopilar, elaborar, procesar y divulgar información objetiva para facilitar al consumidor un mejor conocimiento de los bienes y servicios que se ofrecen en el mercado;
 
-En el caso de servicios educativos proporcionados por particulares, deberá informar a las y los consumidores, la publicación señalada en el segundo párrafo del artículo 56 de la Ley General de Educación así como la aptitud del personal administrativo que labora en el plantel; Párrafo adicionado DOF 19-08-2010
+En el caso de servicios educativos proporcionados por particulares, deberá informar a las y los consumidores, la publicación señalada en el segundo párrafo del artículo [56](../../lge/markdown/articulo-56.md) de la Ley General de Educación así como la aptitud del personal administrativo que labora en el plantel; Párrafo adicionado DOF 19-08-2010
 
 V. Formular y realizar programas de educación para el consumo, así como de difusión y orientación respecto de las materias a que se refiere esta ley; Fracción reformada DOF 04-02-2004
 

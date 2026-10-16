@@ -17,6 +17,6 @@ source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 
 # Artículo 64 Ter
 
-Es falta administrativa grave, la omisión de enterar las cuotas, aportaciones, cuotas sociales o descuentos ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los términos que señalan los artículos 21 y 22 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+Es falta administrativa grave, la omisión de enterar las cuotas, aportaciones, cuotas sociales o descuentos ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los términos que señalan los artículos [21](../../lissste/markdown/articulo-21.md) y [22](../../lissste/markdown/articulo-22.md) de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
 Artículo adicionado DOF 22-11-2021

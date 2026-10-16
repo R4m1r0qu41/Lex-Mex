@@ -17,4 +17,4 @@ source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 
 # Artículo 46
 
-Las personas facilitadoras deberán excusarse o podrán ser recusadas para conocer de los asuntos, de conformidad con lo dispuesto en el artículo 104 del Código Nacional de Procedimientos Civiles y Familiares y demás disposiciones aplicables.
+Las personas facilitadoras deberán excusarse o podrán ser recusadas para conocer de los asuntos, de conformidad con lo dispuesto en el artículo [104](../../cnpcf/markdown/articulo-104.md) del Código Nacional de Procedimientos Civiles y Familiares y demás disposiciones aplicables.

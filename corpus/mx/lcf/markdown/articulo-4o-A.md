@@ -17,7 +17,7 @@ source_sha256: 5c89d48167a4e1170c69e0b1e0294260b806a30d861275d8dca09b0334cd09d4
 
 # Artículo 4o-A
 
-La recaudación derivada de la aplicación de las cuotas previstas en el artículo 2o-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, se dividirá en dos partes:
+La recaudación derivada de la aplicación de las cuotas previstas en el artículo [2](../../lieps/markdown/articulo-2o.md)o-A, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, se dividirá en dos partes:
 
 I. Del total recaudado 9/11 corresponderá a las entidades federativas en función del consumo efectuado en su territorio, de acuerdo con la información que Petróleos Mexicanos y los demás permisionarios para el expendio al público y la distribución de gasolinas y diésel proporcione a la Secretaría de Hacienda y Crédito Público, complementada, en su caso, con la información del Servicio de Administración Tributaria y de la Comisión Reguladora de Energía, siempre y cuando se encuentren adheridas al Sistema Nacional de Coordinación Fiscal. Párrafo reformado DOF 11-08-2014
 

@@ -23,7 +23,7 @@ I. Resoluciones definitivas por las que se impongan sanciones administrativas a 
 
 II. En materia agraria, que se tramitarán de conformidad con lo dispuesto por el artículo [27](../../cpeum/markdown/articulo-27.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
-III. Las materias previstas en el artículo 94 de la [Ley](articulo-5.md) de Comercio Exterior, salvo las relativas a los actos de aplicación de las cuotas compensatorias definitivas, o la modalidad, plazos o facilidades de pago y condonación de multas y accesorios;
+III. Las materias previstas en el artículo [94](../../lce/markdown/articulo-94.md) de la [Ley](articulo-5.md) de Comercio Exterior, salvo las relativas a los actos de aplicación de las cuotas compensatorias definitivas, o la modalidad, plazos o facilidades de pago y condonación de multas y accesorios;
 
 IV. Se afecten los programas o metas de la Administración Pública Centralizada, Descentralizada en el ámbito Federal y Local, así como tratándose de los Órganos Constitucionales Autónomos;
 

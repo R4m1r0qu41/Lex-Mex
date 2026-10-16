@@ -23,6 +23,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpf:article:107:reference:101-103:37:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:107",
+    "source_span": "37",
+    "start_char": 101,
+    "end_char": 103,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:37",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XII",
+        "start_char": 105,
+        "end_char": 117
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lpf:article:110:reference:364-365:5:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:110",
     "source_span": "5",
@@ -382,6 +404,21 @@
     "end_char": 4675,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:102",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpf:article:43:reference:854-856:83:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpf:article:43",
+    "source_span": "83",
+    "start_char": 854,
+    "end_char": 856,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:83",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

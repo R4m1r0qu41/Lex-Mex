@@ -20,4 +20,4 @@ La persona o grupo de personas que mediante la celebración de una oferta públi
 
 El oferente deberá prever en su folleto informativo lo establecido en el párrafo anterior.
 
-En el supuesto de que el oferente no amplíe su oferta pública o no lleve a cabo una segunda oferta en términos de lo dispuesto en la presente disposición, se estará a lo dispuesto por el artículo 103 de la Ley del Mercado de Valores.
+En el supuesto de que el oferente no amplíe su oferta pública o no lleve a cabo una segunda oferta en términos de lo dispuesto en la presente disposición, se estará a lo dispuesto por el artículo [103](../../lmv/markdown/articulo-103.md) de la Ley del Mercado de Valores.

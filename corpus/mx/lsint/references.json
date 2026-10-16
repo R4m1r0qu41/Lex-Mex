@@ -23,6 +23,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsint:article:11:reference:1023-1024:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lsint:article:11",
+    "source_span": "1",
+    "start_char": 1023,
+    "end_char": 1024,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lsn",
+    "target_provision_id": "urn:lex-mx:federal:statute:lsn:article:1",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 994,
+        "end_char": 1009
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsint:article:12:reference:37-54:11:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lsint:article:12",
     "source_span": "artículo anterior",
@@ -35,6 +57,28 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsint:article:13:reference:827-828:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lsint:article:13",
+    "source_span": "1",
+    "start_char": 827,
+    "end_char": 828,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lsn",
+    "target_provision_id": "urn:lex-mx:federal:statute:lsn:article:1",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 798,
+        "end_char": 813
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -142,6 +186,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsint:article:3:reference:112-113:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lsint:article:3",
+    "source_span": "4",
+    "start_char": 112,
+    "end_char": 113,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lsn",
+    "target_provision_id": "urn:lex-mx:federal:statute:lsn:article:4",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsint:article:34:reference:225-228:109:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lsint:article:34",
     "source_span": "109",
@@ -187,6 +246,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsint:article:4:reference:464-465:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
+    "source_span": "5",
+    "start_char": 464,
+    "end_char": 465,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lsn",
+    "target_provision_id": "urn:lex-mx:federal:statute:lsn:article:5",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsint:article:4:reference:1657-1658:2:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
     "source_span": "2",
@@ -194,6 +268,21 @@
     "end_char": 1658,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsint",
     "target_provision_id": "urn:lex-mx:federal:statute:lsint:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsint:article:6:reference:384-385:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lsint:article:6",
+    "source_span": "7",
+    "start_char": 384,
+    "end_char": 385,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lsn",
+    "target_provision_id": "urn:lex-mx:federal:statute:lsn:article:7",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

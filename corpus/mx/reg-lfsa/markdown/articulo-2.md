@@ -17,7 +17,7 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 2
 
-Para los efectos del presente Reglamento, además de las definiciones previstas en el artículo 4 de la [Ley](articulo-2.md) Federal de Sanidad Animal, se entenderá por:
+Para los efectos del presente Reglamento, además de las definiciones previstas en el artículo [4](../../lfsa/markdown/articulo-4.md) de la [Ley](articulo-2.md) Federal de Sanidad Animal, se entenderá por:
 
 I. Agente etiológico: Es el que causa una enfermedad, plaga, intoxicación o contaminación en un animal o bien de origen pecuario;
 

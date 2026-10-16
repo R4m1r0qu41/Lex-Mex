@@ -40,8 +40,9 @@ in-corpus successor instrument (`reg-lfmn`), never inferred.
 | Articles | 64,586 |
 | Original transitory provisions | 3,470 |
 | Annexes | 30 |
-| Reference edges | 27,429 |
-| — resolved / historical-target-unavailable / approved outdated | 27,423 / 5 / 1 |
+| Reference edges | 30,414 |
+| — resolved / historical-target-unavailable / approved outdated | 30,408 / 5 / 1 |
+| — resolved cross-instrument edges | 4,138 |
 | Provisions `not_analyzed` / `machine_accepted` / `lawyer_verified` / `review_required` | 47,843 / 20,240 / 2 / 1 |
 | Provisions with temporal status `unknown` | 46,524 |
 | Generated Markdown files under `corpus/mx` (incl. NOMs) | 68,560 |
@@ -52,7 +53,9 @@ Counts are computed from the canonical JSON in `corpus/mx/*/` (instrument,
 provision and reference records) and are a snapshot; `docs/project-status.md`
 is the authority and is refreshed at each checkpoint. Structural admission
 does not mean legal review: provisions in the 2026-10-15 admissions are
-`not_analyzed`, and the corpus-wide reverse-linking pass has not yet run.
+`not_analyzed`. The corpus-wide relink (`lex-mex link --all`) rewrote 305
+graphs; 12 instruments were held at their previous graphs (see
+`docs/project-status.md`).
 
 > [!IMPORTANT]
 > Lex-Mex is not an official publication, is not affiliated with the Mexican
@@ -227,6 +230,7 @@ cargo run --locked -p lex-cli -- fetch lritf
 cargo run --locked -p lex-cli -- extract lritf
 cargo run --locked -p lex-cli -- parse lritf
 cargo run --locked -p lex-cli -- link lritf
+cargo run --locked -p lex-cli -- link --all
 cargo run --locked -p lex-cli -- validate lritf
 cargo run --locked -p lex-cli -- export lritf --format json
 cargo run --locked -p lex-cli -- export lritf --format markdown

@@ -17,9 +17,9 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 # Artículo 71
 
-La persona titular de la Dirección General del Consejo Nacional asistirá a las reuniones a que se refiere el artículo 7 de la Ley Orgánica de la Administración Pública Federal y ejercerá las funciones a que se refiere esta Ley.
+La persona titular de la Dirección General del Consejo Nacional asistirá a las reuniones a que se refiere el artículo [7](../../loapf/markdown/articulo-7o.md) de la Ley Orgánica de la Administración Pública Federal y ejercerá las funciones a que se refiere esta Ley.
 
-Asimismo, además de las facultades y obligaciones que le confieren el artículo 59 de la Ley Federal de las Entidades Paraestatales, la persona titular de la Dirección General tendrá las siguientes atribuciones:
+Asimismo, además de las facultades y obligaciones que le confieren el artículo [59](../../lfep/markdown/articulo-59.md) de la Ley Federal de las Entidades Paraestatales, la persona titular de la Dirección General tendrá las siguientes atribuciones:
 
 I. Celebrar y otorgar toda clase de actos y documentos relativos al objeto del Consejo Nacional;
 

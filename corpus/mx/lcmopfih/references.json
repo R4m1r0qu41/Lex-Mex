@@ -31,6 +31,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcmopfih:article:14:reference:1016-1017:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lcmopfih:article:14",
+    "source_span": "9",
+    "start_char": 1016,
+    "end_char": 1017,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lcf",
+    "target_provision_id": "urn:lex-mx:federal:statute:lcf:article:9",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lcmopfih:article:2:reference:251-268:1:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lcmopfih:article:2",
     "source_span": "artículo anterior",

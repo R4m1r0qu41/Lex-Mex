@@ -19,7 +19,7 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 Los convenios que suscriba la Secretaría con los estados y el Distrito Federal, con la participación que corresponda a los municipios y delegaciones, respectivamente, para la formulación de los programas de ordenamiento ecológico a que se refiere el artículo 20 BIS 2 de la Ley, además de los requisitos señalados en el artículo [8](articulo-8o.md)o. de este Reglamento, deberán establecer, entre otros aspectos:
 
-I. Las materias y actividades que constituyen el objeto del convenio respectivo. No podrán ser objeto de estos convenios las actividades que permiten el desarrollo de la industria de hidrocarburos, ni las actividades a que se refiere el artículo 3o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, conforme lo previsto en el artículo 95 de la Ley de Hidrocarburos; Fracción reformada DOF 31-10-2014
+I. Las materias y actividades que constituyen el objeto del convenio respectivo. No podrán ser objeto de estos convenios las actividades que permiten el desarrollo de la industria de hidrocarburos, ni las actividades a que se refiere el artículo [3](../../lansi/markdown/articulo-3o.md)o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, conforme lo previsto en el artículo 95 de la Ley de Hidrocarburos; Fracción reformada DOF 31-10-2014
 
 II. La congruencia con las disposiciones del Plan Nacional de Desarrollo, la programación sectorial ambiental, y el programa de ordenamiento ecológico general del territorio;
 

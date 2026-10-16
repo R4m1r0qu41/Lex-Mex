@@ -173,6 +173,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfmzaah:article:5-ter:reference:4666-4668:83:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfmzaah:article:5-ter",
+    "source_span": "83",
+    "start_char": 4666,
+    "end_char": 4668,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:83",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfmzaah:article:5-ter:reference:5270-5276:34-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfmzaah:article:5-ter",
     "source_span": "34 Bis",

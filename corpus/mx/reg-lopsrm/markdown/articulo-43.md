@@ -29,7 +29,7 @@ I. Nombre o razón social, nacionalidad y domicilio del contratista;
 
 II. Información relativa al número de escritura constitutiva, sus reformas y datos de su inscripción en el Registro Público correspondiente;
 
-III. Relación de socios, conforme a lo dispuesto en el segundo párrafo de la fracción VI del artículo 51 de la Ley y el artículo 73 de la Ley General de Sociedades Mercantiles;
+III. Relación de socios, conforme a lo dispuesto en el segundo párrafo de la fracción VI del artículo 51 de la Ley y el artículo [73](../../lgsm/markdown/articulo-73.md) de la Ley General de Sociedades Mercantiles;
 
 IV. Nombre de los representantes legales del contratista, así como la información relativa a los documentos públicos que los acrediten como tales y sus datos de inscripción en el Registro Público de Comercio;
 

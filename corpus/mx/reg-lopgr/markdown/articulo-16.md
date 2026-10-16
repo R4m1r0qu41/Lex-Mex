@@ -17,6 +17,6 @@ source_sha256: 05173ee7243159eadc0ab705431d038e1381731df1799208978dfdc945663afc
 
 # Artículo 16
 
-La Subprocuraduría Especializada en Investigación de Delincuencia Organizada es la unidad especializada a que se refiere el artículo 8 de la Ley Federal contra la Delincuencia Organizada, y tendrá las facultades que dicho ordenamiento le confiere.
+La Subprocuraduría Especializada en Investigación de Delincuencia Organizada es la unidad especializada a que se refiere el artículo [8](../../lfdo/markdown/articulo-8o.md) de la Ley Federal contra la Delincuencia Organizada, y tendrá las facultades que dicho ordenamiento le confiere.
 
-Esta Subprocuraduría contará con unidades especializadas y un cuerpo técnico de control que además de las funciones a que se refiere el artículo 8, párrafo segundo, de la Ley Federal contra la Delincuencia Organizada, ejecutará las intervenciones de comunicaciones privadas.
+Esta Subprocuraduría contará con unidades especializadas y un cuerpo técnico de control que además de las funciones a que se refiere el artículo [8](../../lfdo/markdown/articulo-8o.md), párrafo segundo, de la Ley Federal contra la Delincuencia Organizada, ejecutará las intervenciones de comunicaciones privadas.

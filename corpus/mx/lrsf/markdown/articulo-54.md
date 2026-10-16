@@ -17,4 +17,4 @@ source_sha256: 02fe2afc021cdf42249b2003da14bf738f24157375ffc0b420e1e7d7a5c20fd5
 
 # Artículo 54
 
-El derecho a percibir las indemnizaciones establecidas en este capítulo y la fijación del monto se sujetará a las disposiciones del Código Civil para el Distrito Federal en materia común y para toda la República en materia federal. Para la prelación en el pago de las mismas, se estará a lo dispuesto en el artículo 501 de la Ley Federal del Trabajo.
+El derecho a percibir las indemnizaciones establecidas en este capítulo y la fijación del monto se sujetará a las disposiciones del Código Civil para el Distrito Federal en materia común y para toda la República en materia federal. Para la prelación en el pago de las mismas, se estará a lo dispuesto en el artículo [501](../../lft/markdown/articulo-501.md) de la Ley Federal del Trabajo.

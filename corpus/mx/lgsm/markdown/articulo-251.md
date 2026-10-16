@@ -19,7 +19,7 @@ source_sha256: 72b051296792cad896ac90e814ff8949e4ac140bf5ca5cc08f2f03e5e95aeac3
 
 Las sociedades extranjeras sólo podrán ejercer el comercio desde su inscripción en el Registro.
 
-La inscripción sólo se efectuará previa autorización de la Secretaría de Economía, en los términos de los artículos 17 y 17 A de la Ley de Inversión Extranjera. Párrafo reformado DOF 24-12-1996, 28-07-2006
+La inscripción sólo se efectuará previa autorización de la Secretaría de Economía, en los términos de los artículos [17](../../lie/markdown/articulo-17.md) y [17](../../lie/markdown/articulo-17.md) A de la Ley de Inversión Extranjera. Párrafo reformado DOF 24-12-1996, 28-07-2006
 
 Las sociedades extranjeras deberán publicar anualmente, en el sistema electrónico establecido por la Secretaría de Economía, un balance general de la negociación visado por un contador público titulado. Párrafo reformado DOF 13-06-2014
 

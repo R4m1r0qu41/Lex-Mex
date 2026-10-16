@@ -18,7 +18,7 @@ source_sha256: b040dd53cd38f57ceaacd736fd04475ba82c840d063c62229302627d09f3f363
 
 Los avisos a que se refiere el artículo [24 Bis](articulo-24-Bis.md) anterior, deberán presentarse a más tardar el día hábil siguiente a la fecha de colocación de los valores, estar suscritos por representante o apoderado y acompañados de la documentación siguiente, según corresponda:
 
-I. Los documentos a través de los cuales se realice la oferta en el extranjero y la propaganda e información dirigida a los inversionistas, deberán consignar expresamente lo señalado en el último párrafo del artículo 7 de la Ley del Mercado de Valores, así como la información siguiente:
+I. Los documentos a través de los cuales se realice la oferta en el extranjero y la propaganda e información dirigida a los inversionistas, deberán consignar expresamente lo señalado en el último párrafo del artículo [7](../../lmv/markdown/articulo-7.md) de la Ley del Mercado de Valores, así como la información siguiente:
 
 a) Que la información contenida en los documentos utilizados para realizar la oferta es responsabilidad exclusiva de la emisora y no ha sido revisada ni autorizada por la Comisión.
 

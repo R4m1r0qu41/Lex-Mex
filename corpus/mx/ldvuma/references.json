@@ -1,6 +1,34 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldvuma:article:2:reference:215-217:59:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:ldvuma:article:2",
+    "source_span": "59",
+    "start_char": 215,
+    "end_char": 217,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+    "target_provision_id": "urn:lex-mx:federal:statute:lsnieg:article:59",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 219,
+        "end_char": 231
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a",
+        "start_char": 233,
+        "end_char": 241
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:ldvuma:transitory:segundo:reference:322-323:5:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ldvuma:transitory:segundo",
     "source_span": "5",

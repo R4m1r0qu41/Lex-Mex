@@ -45,7 +45,7 @@ XII. Las cantidades acumulables en los términos de la fracción II del artícul
 
 XIII. Las cantidades que correspondan al contribuyente en su carácter de condómino o fideicomisario de un bien inmueble destinado a hospedaje, otorgado en administración a un tercero a fin de que lo utilice para hospedar a personas distintas del contribuyente.
 
-XIV. Los provenientes de operaciones financieras derivadas y operaciones financieras a que se refieren los artículos 16-A del Código Fiscal de la Federación y 21 de esta Ley. Para estos efectos se estará a lo dispuesto en el artículo [146](articulo-146.md) de esta Ley.
+XIV. Los provenientes de operaciones financieras derivadas y operaciones financieras a que se refieren los artículos [16-A](../../cff/markdown/articulo-16-A.md) del Código Fiscal de la Federación y 21 de esta Ley. Para estos efectos se estará a lo dispuesto en el artículo [146](articulo-146.md) de esta Ley.
 
 XV. Los ingresos estimados en los términos de la fracción III del artículo [91](articulo-91.md) de esta Ley y los determinados, inclusive presuntivamente por las autoridades fiscales, en los casos en que proceda conforme a las leyes fiscales.
 
@@ -53,7 +53,7 @@ XVI. Las cantidades que paguen las instituciones de seguros a los asegurados o a
 
 Cuando las personas no estén obligadas a presentar declaración anual, la retención efectuada se considerará como pago definitivo. Cuando dichas personas opten por presentar declaración del ejercicio, acumularán las cantidades a que se refiere el párrafo anterior a sus demás ingresos, en cuyo caso podrán acreditar contra el impuesto que resulte a su cargo, el monto de la retención efectuada en los términos del párrafo anterior.
 
-XVII. Los provenientes de las regalías a que se refiere el artículo 15-B del Código Fiscal de la Federación.
+XVII. Los provenientes de las regalías a que se refiere el artículo [15-B](../../cff/markdown/articulo-15-B.md) del Código Fiscal de la Federación.
 
 XVIII. Los ingresos provenientes de planes personales de retiro o de la subcuenta de aportaciones voluntarias a que se refiere la fracción V del artículo [151](articulo-151.md) de esta Ley, cuando se perciban sin que el contribuyente se encuentre en los supuestos de invalidez o incapacidad para realizar un trabajo remunerado, de conformidad con las leyes de seguridad social, o sin haber llegado a la edad de 65 años, para estos efectos se considerará como ingreso el monto total de las aportaciones que hubiese realizado a dicho plan personal de retiro o a la subcuenta de aportaciones voluntarias que hubiere deducido conforme al artículo [151](articulo-151.md), fracción V de esta Ley, actualizadas, así como los intereses reales devengados durante todos los años de la inversión, actualizados. Para determinar el impuesto por estos ingresos se estará a lo siguiente:
 

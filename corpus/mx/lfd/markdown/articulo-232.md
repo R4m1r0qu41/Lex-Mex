@@ -21,19 +21,19 @@ Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmueb
 
 I.- El 7.5% anual del valor del inmueble concesionado o permisionado incluyendo terreno, áreas de agua ocupadas, obras e instalaciones, en su caso.
 
-Cuando se trate de bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales, distintos de los señalados en las fracciones IV y V de este artículo, pagarán anualmente por metro cuadrado de superficie, la siguiente cuota .......................... $4.6905 Párrafo reformado DOF 31-12-2000 Fracción reformada DOF 31-12-1998
+Cuando se trate de bienes nacionales comprendidos en los artículos [113](../../lan/markdown/articulo-113.md) y [114](../../lan/markdown/articulo-114.md) de la Ley de Aguas Nacionales, distintos de los señalados en las fracciones IV y V de este artículo, pagarán anualmente por metro cuadrado de superficie, la siguiente cuota .......................... $4.6905 Párrafo reformado DOF 31-12-2000 Fracción reformada DOF 31-12-1998
 
 II.- El 3.5% anual del valor del inmueble concesionado o permisionado, cuando se destine para protección y ornato, no se realicen construcciones y el concesionario o permisionario sea propietario, poseedor o arrendatario del predio colindante a éste.
 
 III.- El 2% anual del valor del inmueble concesionado o permisionado, cuando en el inmueble se realicen actividades agropecuarias.
 
-Para los efectos de las fracciones I, II y III que anteceden, el valor del inmueble se determinará conforme a un avalúo que emita el Instituto de Administración y Avalúos de Bienes Nacionales, mismo que será actualizado anualmente en términos de lo dispuesto en el artículo 17-A del Código Fiscal de la Federación. Párrafo reformado DOF 07-12-2016
+Para los efectos de las fracciones I, II y III que anteceden, el valor del inmueble se determinará conforme a un avalúo que emita el Instituto de Administración y Avalúos de Bienes Nacionales, mismo que será actualizado anualmente en términos de lo dispuesto en el artículo [17-A](../../cff/markdown/articulo-17-A.md) del Código Fiscal de la Federación. Párrafo reformado DOF 07-12-2016
 
 Cada cinco años como máximo deberá realizarse un nuevo avalúo, si el término de la concesión o permiso excede del periodo mencionado. Dicho avalúo únicamente deberá considerar el inmueble como originalmente se concesionó o permisionó, sin incluir las mejoras y adiciones que se hubieren efectuado durante la concesión o el permiso.
 
-IV.- De $0.0737 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades agrícolas o pecuarias, en el caso de los bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales. Fracción reformada DOF 31-12-1998
+IV.- De $0.0737 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades agrícolas o pecuarias, en el caso de los bienes nacionales comprendidos en los artículos [113](../../lan/markdown/articulo-113.md) y [114](../../lan/markdown/articulo-114.md) de la Ley de Aguas Nacionales. Fracción reformada DOF 31-12-1998
 
-V.- De $4.7570 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de protección y ornato, no se realicen construcciones y el concesionario o permisionario sea propietario, poseedor o arrendatario del predio colindante a éste, respecto de aquellos bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales. Fracción reformada DOF 31-12-1998
+V.- De $4.7570 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de protección y ornato, no se realicen construcciones y el concesionario o permisionario sea propietario, poseedor o arrendatario del predio colindante a éste, respecto de aquellos bienes nacionales comprendidos en los artículos [113](../../lan/markdown/articulo-113.md) y [114](../../lan/markdown/articulo-114.md) de la Ley de Aguas Nacionales. Fracción reformada DOF 31-12-1998
 
 VI.- De $4.7686 anual por metro cuadrado cuando el uso o goce consista en la realización de actividades pesqueras. Fracción reformada DOF 31-12-1998
 
@@ -55,7 +55,7 @@ Las cuotas señaladas en las fracciones III y IV que anteceden, sólo se aplicar
 
 Para los efectos de este artículo, no se estará obligado al pago de los derechos tratándose de los siguientes casos:
 
-a). Las personas físicas y morales que estén obligadas a pagar el aprovechamiento establecido en el artículo 37 de la Ley de Puertos;
+a). Las personas físicas y morales que estén obligadas a pagar el aprovechamiento establecido en el artículo [37](../../lpue/markdown/articulo-37.md) de la Ley de Puertos;
 
 b). Las personas físicas o morales contratadas por dependencias del Gobierno Federal o por sus organismos descentralizados, para la realización de servicios tales como conservación, mantenimiento, vigilancia, limpieza o jardinería que deben realizar en el interior de los inmuebles y que requieren de espacios para el alojamiento de equipos, enseres diversos y la estancia de personas, por los espacios ocupados en dichos inmuebles;
 

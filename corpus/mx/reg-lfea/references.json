@@ -117,5 +117,27 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfea:transitory:segundo:reference:981-983:18:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:transitory:segundo",
+    "source_span": "18",
+    "start_char": 981,
+    "end_char": 983,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:18",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XII",
+        "start_char": 1044,
+        "end_char": 1056
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   }
 ]

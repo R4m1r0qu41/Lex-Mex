@@ -17,4 +17,4 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 1428
 
-Si la cosa mencionada en el artículo que precede, existe en la herencia, pero no en la cantidad y número designados, tendrá el legatario lo que hubiere.
+Si la cosa mencionada en el [artículo que precede](articulo-1427.md), existe en la herencia, pero no en la cantidad y número designados, tendrá el legatario lo que hubiere.

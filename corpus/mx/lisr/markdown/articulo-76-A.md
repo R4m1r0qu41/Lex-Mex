@@ -17,7 +17,7 @@ source_sha256: 803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786
 
 # Artículo 76-A
 
-Los contribuyentes señalados en los artículos 32-A, segundo párrafo y 32-H, fracciones I, II, III, IV y VI del Código Fiscal de la Federación que celebren operaciones con partes relacionadas, en adición a lo establecido en el artículo [76](articulo-76.md), fracciones IX y XII, y en relación con el artículo [179](articulo-179.md), primer y último párrafos de esta Ley, deberán proporcionar a las autoridades fiscales las declaraciones anuales informativas de partes relacionadas que a continuación se mencionan: Párrafo reformado DOF 12-11-2021
+Los contribuyentes señalados en los artículos [32-A](../../cff/markdown/articulo-32-A.md), segundo párrafo y [32-H](../../cff/markdown/articulo-32-H.md), fracciones I, II, III, IV y VI del Código Fiscal de la Federación que celebren operaciones con partes relacionadas, en adición a lo establecido en el artículo [76](articulo-76.md), fracciones IX y XII, y en relación con el artículo [179](articulo-179.md), primer y último párrafos de esta Ley, deberán proporcionar a las autoridades fiscales las declaraciones anuales informativas de partes relacionadas que a continuación se mencionan: Párrafo reformado DOF 12-11-2021
 
 I. Declaración informativa maestra de partes relacionadas del grupo empresarial multinacional, que deberá contener información referente al grupo empresarial multinacional, de la:
 

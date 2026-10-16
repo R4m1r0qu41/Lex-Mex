@@ -83,6 +83,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:article:44:reference:521-524:184:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lbio:article:44",
+    "source_span": "184",
+    "start_char": 521,
+    "end_char": 524,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ldrs",
+    "target_provision_id": "urn:lex-mx:federal:statute:ldrs:article:184",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbio:transitory:decimo:reference:314-315:7:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lbio:transitory:decimo",
     "source_span": "7",

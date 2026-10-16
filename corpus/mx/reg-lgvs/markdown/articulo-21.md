@@ -19,4 +19,4 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 La Secretaría podrá entregar ejemplares que se encuentren confinados en los [CIVS](articulo-2.md) a las personas inscritas en el registro a que se refiere el artículo 38 de la [Ley](articulo-2.md).
 
-Para registrarse, los interesados deberán presentar al CIVS correspondiente los datos y documentos a que se refiere el artículo 15 de la Ley Federal de Procedimiento Administrativo, así como la información con la que se demuestre su capacidad para el mantenimiento de ejemplares de fauna silvestre en condiciones adecuadas.
+Para registrarse, los interesados deberán presentar al CIVS correspondiente los datos y documentos a que se refiere el artículo [15](../../lfpa/markdown/articulo-15.md) de la Ley Federal de Procedimiento Administrativo, así como la información con la que se demuestre su capacidad para el mantenimiento de ejemplares de fauna silvestre en condiciones adecuadas.

@@ -31,7 +31,7 @@ V. Participar en coordinación con las autoridades correspondientes, en la trami
 
 VI. Establecer en coordinación con la Secretaría de Economía, las medidas para procurar el abasto nacional suficiente del azúcar de caña previendo la reserva estratégica que permita el establecimiento de niveles de inventarios adecuados;
 
-VII. Proponer a la Secretaría de Economía las bases para la fijación de precios máximos en la materia, en términos del Artículo 7o. de la Ley Federal de Competencia Económica;
+VII. Proponer a la Secretaría de Economía las bases para la fijación de precios máximos en la materia, en términos del Artículo [7](../../lfce/markdown/articulo-7.md)o. de la Ley Federal de Competencia Económica;
 
 VIII. Promover y encauzar el crédito en coordinación con la Secretaría de Hacienda y Crédito Público, para el desarrollo y estimulación de la producción del campo cañero, la operación de los [Ingenios](articulo-3.md) y el financiamiento de los inventarios de azúcar;
 

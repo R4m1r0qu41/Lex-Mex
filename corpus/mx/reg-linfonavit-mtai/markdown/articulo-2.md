@@ -23,11 +23,11 @@ I. INFONAVIT: el Instituto del Fondo Nacional de la Vivienda para los Trabajador
 
 II. IFAI: el Instituto Federal de Acceso a la Información Pública;
 
-III. Normatividad del [INFONAVIT](articulo-2.md): la expedida por la Asamblea General del INFONAVIT en materia de transparencia y acceso a la información, de conformidad con el artículo 10, fracción X, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
+III. Normatividad del [INFONAVIT](articulo-2.md): la expedida por la Asamblea General del INFONAVIT en materia de transparencia y acceso a la información, de conformidad con el artículo [10](../../linfonavit/markdown/articulo-10.md), fracción X, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
 IV. Derogada; Fracción derogada DOF 24-02-2006
 
-V. Comité de Transparencia y Acceso a la Información del INFONAVIT: El comité referido en los artículos 25 bis y 25 bis 1 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; Fracción reformada DOF 24-02-2006
+V. Comité de Transparencia y Acceso a la Información del INFONAVIT: El comité referido en los artículos [25 bis](../../linfonavit/markdown/articulo-25-Bis.md) y [25 bis 1](../../linfonavit/markdown/articulo-25-Bis-1.md) de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; Fracción reformada DOF 24-02-2006
 
 VI. Contraloría Interna: La Contraloría Interna del INFONAVIT;
 

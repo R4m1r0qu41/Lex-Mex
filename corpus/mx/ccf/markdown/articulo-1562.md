@@ -17,4 +17,4 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 1562
 
-Sólo cuando el original depositado haya sido destruido o robado, se tendrá como formal testamento el duplicado, procediéndose para su apertura como se dispone en el artículo que precede.
+Sólo cuando el original depositado haya sido destruido o robado, se tendrá como formal testamento el duplicado, procediéndose para su apertura como se dispone en el [artículo que precede](articulo-1561.md).

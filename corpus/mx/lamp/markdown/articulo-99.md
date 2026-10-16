@@ -17,4 +17,4 @@ source_sha256: 05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d
 
 # Artículo 99
 
-El recurso de queja deberá presentarse por escrito ante el órgano jurisdiccional que conozca del juicio de amparo. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS En el caso de que se trate de actos de la autoridad responsable, el recurso deberá plantearse ante el órgano jurisdiccional de amparo que deba conocer o haya conocido del juicio.
+El recurso de queja deberá presentarse por escrito ante el órgano jurisdiccional que conozca del juicio de amparo. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS En el caso de que se trate de actos de la autoridad responsable, el recurso deberá plantearse ante el órgano jurisdiccional de amparo que deba conocer o haya conocido del juicio.

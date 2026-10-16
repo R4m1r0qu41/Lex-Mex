@@ -15,4 +15,4 @@ source_sha256: a305ca23bba43cddf2275067af29bb0ba35def7aedbbb0d3fc4557da9067a82c
 
 # Vigésimo Sexto
 
-Los recursos recaudados en términos del artículo 49 de la Ley Federal de Derechos serán destinados por la Secretaría de Hacienda y Crédito Público al Servicio de Administración Tributaria, una vez disminuida la contraprestación establecida en el artículo 16 de la Ley Aduanera.
+Los recursos recaudados en términos del artículo [49](../../lfd/markdown/articulo-49.md) de la Ley Federal de Derechos serán destinados por la Secretaría de Hacienda y Crédito Público al Servicio de Administración Tributaria, una vez disminuida la contraprestación establecida en el artículo [16](../../ladua/markdown/articulo-16.md) de la Ley Aduanera.

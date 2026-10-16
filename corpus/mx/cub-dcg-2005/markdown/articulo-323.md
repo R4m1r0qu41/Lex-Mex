@@ -36,7 +36,7 @@ Para efectos de la determinación del monto a que se refiere el presente inciso,
 
 No obstante lo anterior, en caso de que el comisionista de que se trate sea un establecimiento (300)
 
-autorizado para la exposición y venta de mercancías extranjeras y nacionales en puertos aéreos internacionales, fronterizos y marítimos de altura en términos de lo dispuesto por la fracción I del Artículo 121 de la Ley Aduanera, o bien sea un comisionista que tenga el carácter de establecimiento que preste el servicio de hospedaje, el límite de las operaciones será hasta de:
+autorizado para la exposición y venta de mercancías extranjeras y nacionales en puertos aéreos internacionales, fronterizos y marítimos de altura en términos de lo dispuesto por la fracción I del Artículo [121](../../ladua/markdown/articulo-121.md) de la Ley Aduanera, o bien sea un comisionista que tenga el carácter de establecimiento que preste el servicio de hospedaje, el límite de las operaciones será hasta de:
 
 (300) a) Un monto acumulado en el transcurso de un mes calendario de 1,500 dólares de los Estados Unidos de América, tratándose de personas físicas de nacionalidad extranjera.
 

@@ -25,6 +25,6 @@ En estos casos se investigará no sólo a las personas físicas que pertenezcan 
 
 Los agentes de las fuerzas del orden público que participen en dichas investigaciones, con base en las circunstancias del caso, se les proporcionará una nueva identidad, dotándolos para tal efecto de la documentación correspondiente. Párrafo adicionado DOF 16-06-2016
 
-Las autoridades responsables de proporcionar los medios necesarios para acreditar la nueva identidad, actuarán por instrucción fundada y motivada de la autoridad competente y sus acciones estarán bajo el amparo de la fracción VI del artículo 15 del Código Penal Federal y 251, fracción IX del Código Nacional de Procedimientos Penales. Párrafo adicionado DOF 16-06-2016
+Las autoridades responsables de proporcionar los medios necesarios para acreditar la nueva identidad, actuarán por instrucción fundada y motivada de la autoridad competente y sus acciones estarán bajo el amparo de la fracción VI del artículo [15](../../cpf/markdown/articulo-15.md) del Código Penal Federal y 251, fracción IX del Código Nacional de Procedimientos Penales. Párrafo adicionado DOF 16-06-2016
 
 Al servidor público que indebidamente incumpla con dicha disposición, se le sujetará al procedimiento de responsabilidad administrativa o penal según corresponda. Párrafo adicionado DOF 16-06-2016

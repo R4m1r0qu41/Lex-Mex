@@ -1199,6 +1199,22 @@ const EXTERNAL_INSTRUMENT_MARKERS: &[&str] = &[
     "del mismo código",
     "del referido código",
     "del mencionado código",
+    // Instrument head nouns in title phrasing: a law named later in the title
+    // ("Decreto por el que se abroga la Ley…") is part of that title, not the
+    // cited law. Only unambiguous title openings are listed: bare "del
+    // acuerdo" or "de la norma" are ordinary Spanish ("los términos del
+    // acuerdo que suscriban") and must not hide an internal citation. A
+    // configured title that starts at the noun still supersedes the marker.
+    "del decreto por el que",
+    "del decreto por el cual",
+    "del decreto que",
+    "del acuerdo por el que",
+    "del acuerdo por el cual",
+    "del acuerdo sobre",
+    "del estatuto de",
+    "de las reglas de carácter general",
+    "de las reglas generales",
+    "de los lineamientos para",
 ];
 
 fn has_internal_instrument_context(value: &str) -> bool {
@@ -3873,5 +3889,180 @@ Ciudad de México, a 1 de octubre de 2025.
             assert_eq!(doc.provisions[0].text, before);
             assert!(before.contains(&format!("artículo {citation}")));
         }
+    }
+
+    fn closure_references(
+        text: &str,
+        instrument_id: &str,
+        internal_markers: &[&str],
+        external: &[(&str, &str)],
+        known: &[&str],
+    ) -> Vec<lex_core::ReferenceEdge> {
+        let document = parse_diputados(
+            text,
+            &DiputadosOptions {
+                instrument_id: instrument_id.to_owned(),
+                header_lines: Vec::new(),
+                stop_markers: Vec::new(),
+                annex_markers: Vec::new(),
+                separate_enactment: false,
+                nested_instrument: None,
+            },
+            NaiveDate::from_ymd_opt(2002, 1, 15).unwrap(),
+        )
+        .unwrap();
+        extract_references(
+            &document.provisions,
+            None,
+            &ReferenceOptions {
+                policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                    internal_markers: internal_markers.iter().map(|m| (*m).to_owned()).collect(),
+                    external_instruments: external
+                        .iter()
+                        .map(|(marker, id)| ((*marker).to_owned(), (*id).to_owned()))
+                        .collect(),
+                },
+                transitory_citations: true,
+                same_article_fractions: true,
+                relative_references: true,
+                historical_targets: Vec::new(),
+            },
+            &known.iter().map(|id| (*id).to_owned()).collect(),
+        )
+        .unwrap()
+    }
+
+    const CPEUM: &str = "urn:lex-mx:federal:constitution:cpeum";
+    const LFT: &str = "urn:lex-mx:federal:statute:lft";
+
+    #[test]
+    fn constitution_self_citation_is_not_captured_by_a_later_official_title() {
+        let text = "Artículo 3.- Se normarán por el apartado A del artículo 123 de esta Constitución, en los términos que establezca la Ley Federal del Trabajo.";
+        let known = [
+            "urn:lex-mx:federal:constitution:cpeum:article:123",
+            "urn:lex-mx:federal:statute:lft:article:123",
+        ];
+        let external = [("ley federal del trabajo", LFT)];
+        let with_markers = closure_references(
+            text,
+            CPEUM,
+            &[
+                "de esta constitución",
+                "esta constitución",
+                " constitucional",
+            ],
+            &external,
+            &known,
+        );
+        assert_eq!(with_markers.len(), 1);
+        assert_eq!(with_markers[0].target_instrument_id, CPEUM);
+        // Documents the defect the markers prevent: ley-shaped markers alone
+        // let the later title capture the citation.
+        let ley_shaped = closure_references(text, CPEUM, &["de esta ley"], &external, &known);
+        assert_eq!(ley_shaped[0].target_instrument_id, LFT);
+        let adjectival = closure_references(
+            "Artículo 3.- En términos del artículo 123 constitucional, la Ley Federal del Trabajo regula la materia.",
+            CPEUM,
+            &[
+                "de esta constitución",
+                "esta constitución",
+                " constitucional",
+            ],
+            &external,
+            &known,
+        );
+        assert_eq!(adjectival.len(), 1);
+        assert_eq!(adjectival[0].target_instrument_id, CPEUM);
+    }
+
+    #[test]
+    fn a_law_named_inside_a_decree_title_is_not_the_cited_law() {
+        let external = [(
+            "ley federal de remuneraciones de los servidores públicos",
+            "urn:lex-mx:federal:statute:lfremsp",
+        )];
+        let known = ["urn:lex-mx:federal:statute:lfremsp:article:5"];
+        let skipped = closure_references(
+            "Artículo 1.- En términos del artículo 5 del DECRETO por el que se abroga la Ley Federal de Remuneraciones de los Servidores Públicos, se pagará.",
+            "urn:lex-mx:federal:statute:pef",
+            &["de esta ley"],
+            &external,
+            &known,
+        );
+        assert!(skipped.is_empty());
+        let cited = closure_references(
+            "Artículo 1.- En términos del artículo 5 de la Ley Federal de Remuneraciones de los Servidores Públicos, se pagará.",
+            "urn:lex-mx:federal:statute:pef",
+            &["de esta ley"],
+            &external,
+            &known,
+        );
+        assert_eq!(cited.len(), 1);
+        assert_eq!(
+            cited[0].target_instrument_id,
+            "urn:lex-mx:federal:statute:lfremsp"
+        );
+        // Ordinary words must not hide an internal citation.
+        let internal = closure_references(
+            "Artículo 1.- Se allanen a los artículos 15 y 117, en los términos del acuerdo que suscriban los acreedores.",
+            "urn:lex-mx:federal:statute:lcm",
+            &["de esta ley"],
+            &[],
+            &[
+                "urn:lex-mx:federal:statute:lcm:article:15",
+                "urn:lex-mx:federal:statute:lcm:article:117",
+            ],
+        );
+        assert_eq!(internal.len(), 2);
+    }
+
+    #[test]
+    fn regulation_titles_keep_citing_the_regulated_articles() {
+        // Like "Ley Reglamentaria del artículo 6o.… de la Constitución", a
+        // regulation title cites the articles it regulates; only a decree's
+        // embedded law title is not a citation (see the decree test).
+        let known = [
+            "urn:lex-mx:federal:statute:lft:article:121",
+            "urn:lex-mx:federal:statute:lft:article:122",
+        ];
+        let external = [("ley federal del trabajo", LFT)];
+        let title = closure_references(
+            "Artículo 1.- Se abroga el Reglamento de los Artículos 121 y 122 de la Ley Federal del Trabajo, publicado en el Diario Oficial.",
+            "urn:lex-mx:federal:regulation:reg-x",
+            &["de este reglamento"],
+            &external,
+            &known,
+        );
+        assert_eq!(title.len(), 2);
+        let cited = closure_references(
+            "Artículo 1.- Conforme a los artículos 121 y 122 de la Ley Federal del Trabajo, se resolverá.",
+            "urn:lex-mx:federal:regulation:reg-x",
+            &["de este reglamento"],
+            &external,
+            &known,
+        );
+        assert_eq!(cited.len(), 2);
+        // A regulation named by its own configured title still receives the edge.
+        let reg = closure_references(
+            "Artículo 1.- Los artículos 262 y 269 del Reglamento de la Ley Federal del Trabajo aplican.",
+            "urn:lex-mx:federal:statute:cff",
+            &["de este código"],
+            &[
+                ("ley federal del trabajo", LFT),
+                (
+                    "reglamento de la ley federal del trabajo",
+                    "urn:lex-mx:federal:regulation:reg-lft",
+                ),
+            ],
+            &[
+                "urn:lex-mx:federal:regulation:reg-lft:article:262",
+                "urn:lex-mx:federal:regulation:reg-lft:article:269",
+            ],
+        );
+        assert_eq!(reg.len(), 2);
+        assert!(
+            reg.iter()
+                .all(|edge| edge.target_instrument_id == "urn:lex-mx:federal:regulation:reg-lft")
+        );
     }
 }

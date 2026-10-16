@@ -65,7 +65,7 @@ b) Coordinados por la Secretaría, respecto de las entidades no agrupadas en un 
 
 c) Coordinados por entidades, por disposición de ley.
 
-Para la mejor agrupación y clasificación presupuestaria de aquellas sociedades o asociaciones civiles asimiladas a las empresas de participación estatal mayoritaria, de acuerdo con el artículo 46 de la Ley Orgánica de la Administración Pública Federal, la Secretaría determinará su ubicación en alguno de los incisos anteriores, y
+Para la mejor agrupación y clasificación presupuestaria de aquellas sociedades o asociaciones civiles asimiladas a las empresas de participación estatal mayoritaria, de acuerdo con el artículo [46](../../loapf/markdown/articulo-46.md) de la Ley Orgánica de la Administración Pública Federal, la Secretaría determinará su ubicación en alguno de los incisos anteriores, y
 
 IV. Unidad responsable, constituye el elemento programático identificado con las áreas administrativas de los ejecutores de gasto responsables de proporcionar a la unidad de administración los insumos para la programación y presupuesto, y del ejercicio de recursos humanos, materiales y financieros para contribuir al cumplimiento de los objetivos de los programas presupuestarios autorizados al ramo o entidad, conforme a lo siguiente:
 
@@ -75,4 +75,4 @@ b) De los ramos administrativos, que constituyen las dependencias, incluidos sus
 
 c) De los ramos generales, que se definen en términos de la fracción I, inciso c) de este artículo;
 
-d) De las entidades, que se identifican con la denominación de la entidad o, en su caso, área administrativa conforme a su ley o decreto de creación, incluidas las entidades a que se refiere el artículo 46 último párrafo de la Ley Orgánica de la Administración Pública Federal.
+d) De las entidades, que se identifican con la denominación de la entidad o, en su caso, área administrativa conforme a su ley o decreto de creación, incluidas las entidades a que se refiere el artículo [46](../../loapf/markdown/articulo-46.md) último párrafo de la Ley Orgánica de la Administración Pública Federal.

@@ -22,7 +22,7 @@ El Comité Técnico deberá evaluar y verificar en forma previa a la designació
 
 I. Sus datos generales y, en su caso, los de su cónyuge, concubina o concubinario e hijos en los que se incluya la información relativa a su identidad, domicilio, estado civil, Registro Federal de Contribuyentes, Clave Única de Registro de Población, nacionalidad o calidad migratoria, así como el acta de nacimiento. En todo momento, la información deberá estar sustentada en documentos emitidos por autoridad competente, salvo en el caso del domicilio, donde bastará cualquier documento que así lo acredite y cuya fecha de antigüedad no exceda de 90 días.
 
-II. Reporte de crédito especial emitido en términos del artículo 36 Bis de la Ley para Regular las Sociedades de Información Crediticia, cuya fecha de emisión no exceda de tres meses con relación a la fecha de su presentación ante el Comité Técnico.
+II. Reporte de crédito especial emitido en términos del artículo [36 Bis](../../lrsic/markdown/articulo-36-Bis.md) de la Ley para Regular las Sociedades de Información Crediticia, cuya fecha de emisión no exceda de tres meses con relación a la fecha de su presentación ante el Comité Técnico.
 
 III. Copia del título o cédula profesional, así como las cartas de recomendación que acrediten que el candidato ha prestado servicios profesionales cuyo desempeño requiera conocimientos y experiencia en materia financiera y administrativa por más de tres años, siendo dicho plazo anterior a la fecha de su presentación ante el Comité Técnico.
 

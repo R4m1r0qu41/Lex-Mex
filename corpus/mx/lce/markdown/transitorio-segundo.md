@@ -15,4 +15,4 @@ source_sha256: 3f114f47007c21b4691bad502b786b45aa5e45c1571bd56dd8ca4f5af991b459
 
 # SEGUNDO
 
-Se abroga la Ley Reglamentaria del Artículo 131 de la Constitución Política de los Estados Unidos Mexicanos en Materia de Comercio Exterior, publicada en el Diario Oficial de la Federación el 13 de enero de 1986, la Ley que Establece el Régimen de Exportación del Oro, publicada en el Diario Oficial de la Federación el 30 de diciembre de 1980 y las demás disposiciones u ordenamientos que se le opongan.
+Se abroga la Ley Reglamentaria del Artículo [131](../../cpeum/markdown/articulo-131.md) de la Constitución Política de los Estados Unidos Mexicanos en Materia de Comercio Exterior, publicada en el Diario Oficial de la Federación el 13 de enero de 1986, la Ley que Establece el Régimen de Exportación del Oro, publicada en el Diario Oficial de la Federación el 30 de diciembre de 1980 y las demás disposiciones u ordenamientos que se le opongan.

@@ -29,7 +29,7 @@ IV. Ejecutar, en coordinación con las unidades competentes de la [Institución]
 
 V. Realizar las investigaciones relacionadas con delitos materia de su competencia, de conformidad con las disposiciones jurídicas aplicables;
 
-VI. Realizar las detenciones en caso de urgencia y flagrancia, conforme a lo dispuesto en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y el Código Nacional de Procedimientos Penales;
+VI. Realizar las detenciones en caso de urgencia y flagrancia, conforme a lo dispuesto en el artículo [16](../../cpeum/markdown/articulo-16.md) de la Constitución Política de los Estados Unidos Mexicanos y el Código Nacional de Procedimientos Penales;
 
 VII. Supervisar, en el ámbito de su competencia, que los integrantes preserven el lugar de los hechos, así como la integridad de los indicios, huellas o vestigios del hecho delictivo, incluyendo los instrumentos, objetos o productos del delito, en términos de las disposiciones jurídicas aplicables;
 

@@ -113,7 +113,7 @@ deberán haberse cumplido a la fecha de escrituración del crédito; no obstante
 
 Los Créditos Hipotecarios de Vivienda destinados a la remodelación o mejoramiento de la (295)
 
-vivienda sin propósito de especulación comercial, otorgados al amparo del artículo 43 Bis de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y del artículo 176 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los que la subcuenta de vivienda del acreditado y sus aportaciones futuras funjan como garantía y fuente de pago, respectivamente, tendrán una ponderación por riesgo de crédito de conformidad con lo siguiente:
+vivienda sin propósito de especulación comercial, otorgados al amparo del artículo [43 Bis](../../linfonavit/markdown/articulo-43-Bis.md) de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y del artículo [176](../../lissste/markdown/articulo-176.md) de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los que la subcuenta de vivienda del acreditado y sus aportaciones futuras funjan como garantía y fuente de pago, respectivamente, tendrán una ponderación por riesgo de crédito de conformidad con lo siguiente:
 
 (295) 1. Del 20 por ciento, cuando el saldo insoluto del crédito represente 50 por ciento o menos de la suma de los recursos de la subcuenta de vivienda del acreditado.
 

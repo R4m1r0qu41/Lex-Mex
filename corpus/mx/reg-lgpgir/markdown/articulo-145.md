@@ -23,6 +23,6 @@ La Secretaría de Salud contará con un plazo de veinte días hábiles para emit
 
 Tratándose de pasivos ambientales, la Secretaría de Salud contará con un plazo de treinta días hábiles, contados a partir de la fecha en que dicha dependencia reciba la información señalada en el primer párrafo del presente artículo.
 
-La Secretaría de Salud podrá abstenerse de formular respuesta expresa a la Secretaría, en tal caso se estará a lo dispuesto en el segundo párrafo del artículo 55 de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
+La Secretaría de Salud podrá abstenerse de formular respuesta expresa a la Secretaría, en tal caso se estará a lo dispuesto en el segundo párrafo del artículo [55](../../lfpa/markdown/articulo-55.md) de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo.
 
 La opinión técnica que emita la Secretaría de Salud se referirá exclusivamente a la población humana como receptor de la contaminación del sitio.

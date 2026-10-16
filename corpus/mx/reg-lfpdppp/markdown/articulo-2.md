@@ -17,9 +17,9 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 2
 
-Además de las definiciones establecidas en el artículo 3 de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, para los efectos del presente Reglamento se entenderá por:
+Además de las definiciones establecidas en el artículo [3](../../lfpdppp/markdown/articulo-3.md) de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, para los efectos del presente Reglamento se entenderá por:
 
-I. Dependencias: Las señaladas en el artículo 26 de la Ley Orgánica de la Administración Pública Federal;
+I. Dependencias: Las señaladas en el artículo [26](../../loapf/markdown/articulo-26.md) de la Ley Orgánica de la Administración Pública Federal;
 
 II. Derechos ARCO: Son los derechos de acceso, rectificación, cancelación y oposición;
 

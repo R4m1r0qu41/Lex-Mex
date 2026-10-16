@@ -194,6 +194,94 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:38:reference:642-643:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:38",
+    "source_span": "3",
+    "start_char": 642,
+    "end_char": 643,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "target_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XI",
+        "start_char": 647,
+        "end_char": 658
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:40:reference:1142-1143:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:40",
+    "source_span": "3",
+    "start_char": 1142,
+    "end_char": 1143,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "target_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XI",
+        "start_char": 1147,
+        "end_char": 1158
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:43:reference:1631-1632:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:43",
+    "source_span": "3",
+    "start_char": 1631,
+    "end_char": 1632,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "target_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XI",
+        "start_char": 1636,
+        "end_char": 1647
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:44:reference:1073-1074:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:44",
+    "source_span": "3",
+    "start_char": 1073,
+    "end_char": 1074,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "target_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XI",
+        "start_char": 1078,
+        "end_char": 1089
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:46:reference:68-85:45:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:46",
     "source_span": "artículo anterior",
@@ -217,6 +305,28 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:27",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:48:reference:1074-1075:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:48",
+    "source_span": "3",
+    "start_char": 1074,
+    "end_char": 1075,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "target_provision_id": "urn:lex-mx:federal:statute:lansi:article:3",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XI",
+        "start_char": 1079,
+        "end_char": 1090
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

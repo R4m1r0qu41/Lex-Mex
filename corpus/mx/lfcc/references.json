@@ -1,6 +1,28 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcc:article:1:reference:1088-1090:37:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfcc:article:1",
+    "source_span": "37",
+    "start_char": 1088,
+    "end_char": 1090,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lih",
+    "target_provision_id": "urn:lex-mx:federal:statute:lih:article:37",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 1104,
+        "end_char": 1116
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfcc:article:11:reference:2500-2502:16:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfcc:article:11",
     "source_span": "16",

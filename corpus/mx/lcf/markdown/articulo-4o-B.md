@@ -17,7 +17,7 @@ source_sha256: 5c89d48167a4e1170c69e0b1e0294260b806a30d861275d8dca09b0334cd09d4
 
 # Artículo 4o-B
 
-El Fondo de Extracción de Hidrocarburos estará conformado por los recursos que le transfiera el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, en términos del artículo 91 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Párrafo reformado DOF 31-12-2008, 11-08-2014
+El Fondo de Extracción de Hidrocarburos estará conformado por los recursos que le transfiera el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, en términos del artículo [91](../../lfprh/markdown/articulo-91.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Párrafo reformado DOF 31-12-2008, 11-08-2014
 
 El Fondo a que se refiere este artículo será distribuido entre aquellas entidades que formen parte de la clasificación de extracción de petróleo y gas definida en el último censo económico realizado por el Instituto Nacional de Estadística y Geografía, de acuerdo a la fórmula siguiente:
 

@@ -23,4 +23,4 @@ II. Los artículos [9](articulo-9o.md)o., fracciones I, incisos f), g) y h), y I
 
 III. Todas las disposiciones que se opongan a lo previsto en esta ley.
 
-Se deja sin efectos el artículo 110 de la Ley de Vías Generales de Comunicación sólo por lo que hace a puertos, terminales, marinas e instalaciones portuarias, así como a servicios portuarios.
+Se deja sin efectos el artículo [110](../../lvgc/markdown/articulo-110.md) de la Ley de Vías Generales de Comunicación sólo por lo que hace a puertos, terminales, marinas e instalaciones portuarias, así como a servicios portuarios.

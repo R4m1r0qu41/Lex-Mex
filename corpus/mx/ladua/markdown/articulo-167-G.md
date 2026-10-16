@@ -33,7 +33,7 @@ b) 69-B, cuarto párrafo del Código Fiscal de la Federación, o
 
 c) 69-B Bis, noveno párrafo del Código Fiscal de la Federación. Fracción adicionada DOF 19-11-2025
 
-VI. La agencia, sus socios o accionistas, no cuenten con certificados de sellos digitales vigentes, o se ubiquen en alguno de los supuestos señalados en los artículos 17-H o 17-H Bis del Código Fiscal de la Federación. Fracción adicionada DOF 19-11-2025
+VI. La agencia, sus socios o accionistas, no cuenten con certificados de sellos digitales vigentes, o se ubiquen en alguno de los supuestos señalados en los artículos [17-H](../../cff/markdown/articulo-17-H.md) o [17-H Bis](../../cff/markdown/articulo-17-H-Bis.md) del Código Fiscal de la Federación. Fracción adicionada DOF 19-11-2025
 
 Para efectos de las fracciones I, III y IV del presente artículo, se inhabilitará a la agencia aduanal para operar desde el inicio del procedimiento, hasta por un mes.
 

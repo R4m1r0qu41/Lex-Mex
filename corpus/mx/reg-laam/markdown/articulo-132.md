@@ -23,7 +23,7 @@ I. Dejar de cumplir con alguno de los requisitos que establece la Ley, el presen
 
 II. Quedar incluida en alguno de los supuestos establecidos en el artículo 51 de la Ley; Fracción reformada DOF 02-04-2026
 
-III. Quedar clasificada en la primera o segunda categoría de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Fracción reformada DOF 11-03-2016, 06-03-2020, 02-04-2026
+III. Quedar clasificada en la primera o segunda categoría de accidentes o enfermedades previstas en el artículo [226](../../lissfam/markdown/articulo-226.md) de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Fracción reformada DOF 11-03-2016, 06-03-2020, 02-04-2026
 
 IV. No obtener la calificación mínima aprobatoria en los exámenes que establece el artículo [59](articulo-59.md) de este Reglamento; Fracción reformada DOF 22-09-2010
 
@@ -35,7 +35,7 @@ VII. No presentarse a los exámenes sin causa justificada;
 
 VIII. Presentarse a los exámenes bajo los efectos de alcohol, drogas o psicotrópicos;
 
-IX. Conducirse con falsedad o hacer uso de medios fraudulentos; X. Estar vinculada a proceso penal; cumpliendo sentencia condenatoria del orden penal; haber comparecido ante un órgano de disciplina, resultando culpable y quedando firme la imposición de los correctivos disciplinarios previstos en las fracciones IV, V y VI del artículo 50 de la Ley de Disciplina para el Personal de la Armada de México o estar cumpliendo cualquiera de dichos correctivos disciplinarios; Fracción reformada DOF 22-09-2010, 11-03-2016, 02-04-2026
+IX. Conducirse con falsedad o hacer uso de medios fraudulentos; X. Estar vinculada a proceso penal; cumpliendo sentencia condenatoria del orden penal; haber comparecido ante un órgano de disciplina, resultando culpable y quedando firme la imposición de los correctivos disciplinarios previstos en las fracciones IV, V y VI del artículo [50](../../ldparm/markdown/articulo-50.md) de la Ley de Disciplina para el Personal de la Armada de México o estar cumpliendo cualquiera de dichos correctivos disciplinarios; Fracción reformada DOF 22-09-2010, 11-03-2016, 02-04-2026
 
 XI. Habérsele conferido ascenso por adecuación de grado durante el proceso de promoción;
 

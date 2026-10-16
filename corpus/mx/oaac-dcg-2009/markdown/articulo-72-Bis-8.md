@@ -28,16 +28,16 @@ Las Sociedades Financieras de Objeto Múltiple Reguladas a que se refiere este a
 
 La Comisión podrá ordenar la reubicación del grado de riesgo del deudor o de los créditos de la cartera crediticia de consumo, hipotecaria de vivienda y comercial, con los consecuentes ajustes a las estimaciones preventivas constituidas.
 
-Para efectos de revelación al público en general, dichas sociedades para la cartera crediticia de consumo, hipotecaria de vivienda y comercial, deberán presentar en su información financiera los grados de riesgo A-1, A-2, B-1, B-2, B-3, C-1, C-2, D y E, establecidos en el artículo [129](articulo-129.md) de la Circular Única de Bancos.
+Para efectos de revelación al público en general, dichas sociedades para la cartera crediticia de consumo, hipotecaria de vivienda y comercial, deberán presentar en su información financiera los grados de riesgo A-1, A-2, B-1, B-2, B-3, C-1, C-2, D y E, establecidos en el artículo [129](../../cub-dcg-2005/markdown/articulo-129.md) de la Circular Única de Bancos.
 
 Asimismo, las sociedades a que se refiere este artículo, para la cartera crediticia de consumo, hipotecaria de vivienda y comercial, deberán revelar trimestralmente en sus notas a los estados financieros, la probabilidad de incumplimiento, la severidad de la pérdida y la exposición al incumplimiento. La probabilidad de incumplimiento y severidad de la pérdida de cada grupo deberán obtenerse como el promedio ponderado por la exposición al incumplimiento. Las citadas sociedades deberán reflejar en notas a sus estados financieros los desgloses de dichos grados de riesgo.
 
-III. El Capítulo I con excepción de la “Serie D Criterios relativos a los estados financieros básicos” referidos por el artículo 174 de la citada Circular Única de Bancos.
+III. El Capítulo I con excepción de la “Serie D Criterios relativos a los estados financieros básicos” referidos por el artículo [174](../../cub-dcg-2005/markdown/articulo-174.md) de la citada Circular Única de Bancos.
 
 IV. El Capítulo II del Título Tercero de la Circular Única de Bancos.
 
 V. Derogada.
 
-VI. Las “Disposiciones de carácter general a que se refieren los artículos 115 de la Ley de Instituciones de Crédito en relación con el 87-D de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y 95-Bis de este último ordenamiento, aplicables a las sociedades financieras de objeto múltiple”, emitidas por la [Secretaría](articulo-1.md) y publicadas en el Diario Oficial de la Federación el 17 de marzo de 2011 y sus modificaciones, o las que las sustituyan.
+VI. Las “Disposiciones de carácter general a que se refieren los artículos [115](../../lic/markdown/articulo-115.md) de la Ley de Instituciones de Crédito en relación con el 87-D de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y 95-Bis de este último ordenamiento, aplicables a las sociedades financieras de objeto múltiple”, emitidas por la [Secretaría](articulo-1.md) y publicadas en el Diario Oficial de la Federación el 17 de marzo de 2011 y sus modificaciones, o las que las sustituyan.
 
 Capítulo I Bis 1 Otras disposiciones

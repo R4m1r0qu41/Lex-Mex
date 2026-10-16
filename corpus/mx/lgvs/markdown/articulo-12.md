@@ -17,6 +17,6 @@ source_sha256: b82b6148e235121951a94cb388fe59dbebe4212c8a6c85f26704873150827911
 
 # Artículo 12
 
-La celebración de los convenios o acuerdos de coordinación a que se refiere el [artículo anterior](articulo-11.md), se sujetará a las bases previstas en el artículo 12 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+La celebración de los convenios o acuerdos de coordinación a que se refiere el [artículo anterior](articulo-11.md), se sujetará a las bases previstas en el artículo [12](../../lgeepa/markdown/articulo-12.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 Artículo reformado DOF 10-01-2002

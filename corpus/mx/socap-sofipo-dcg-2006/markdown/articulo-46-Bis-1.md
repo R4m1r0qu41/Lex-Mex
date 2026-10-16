@@ -24,7 +24,7 @@ Grupo 1. Estará integrado por:
 
 I. Caja.
 
-II. Operaciones Sujetas a Riesgo de Crédito con o a cargo de las dependencias que conforman la administración pública federal centralizada a la que se refiere el artículo 1 de la Ley Orgánica de la Administración Pública Federal.
+II. Operaciones Sujetas a Riesgo de Crédito con o a cargo de las dependencias que conforman la administración pública federal centralizada a la que se refiere el artículo [1](../../loapf/markdown/articulo-1o.md) de la Ley Orgánica de la Administración Pública Federal.
 
 III. Operaciones Sujetas a Riesgo de Crédito con o a cargo del Instituto para la Protección al Ahorro Bancario.
 

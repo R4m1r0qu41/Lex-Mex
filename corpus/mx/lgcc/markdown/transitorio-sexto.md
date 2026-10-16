@@ -15,7 +15,7 @@ source_sha256: fa7447754261e46a344d4b49a9be0e1a5bd0eaf28c1ef12c721c124fe39e7b15
 
 # Sexto
 
-En tanto no se expidan el Estatuto Orgánico, reglamentos y demás acuerdos de orden administrativo para el funcionamiento y operación del Instituto Nacional de Ecología y Cambio Climático, se continuarán aplicando los vigentes en lo que no se opongan a la presente [Ley](articulo-3o.md). La situación del personal de dicho organismo se regirá por las disposiciones relativas al Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+En tanto no se expidan el Estatuto Orgánico, reglamentos y demás acuerdos de orden administrativo para el funcionamiento y operación del Instituto Nacional de Ecología y Cambio Climático, se continuarán aplicando los vigentes en lo que no se opongan a la presente [Ley](articulo-3o.md). La situación del personal de dicho organismo se regirá por las disposiciones relativas al Apartado B del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos.
 
 El Instituto contará con una Coordinación General de Cambio Climático con nivel, al menos de Dirección General.
 

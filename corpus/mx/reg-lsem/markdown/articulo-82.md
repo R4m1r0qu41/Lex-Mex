@@ -25,4 +25,4 @@ La firma de los documentos notariales, de los actos del registro civil y las dec
 
 Las delegaciones de facultades serán notificadas a la Secretaría por la persona titular de la Oficina Consular, a efecto de autorizarlas y llevar el registro de las mismas. Párrafo reformado DOF 27-05-2025
 
-Para efectos del presente reglamento, se entenderá por persona titular de la Oficina Consular aquella denominada como Jefe de Oficina Consular, definida en el artículo 1-BIS la fracción XIII de la Ley del Servicio Exterior Mexicano. Párrafo adicionado DOF 27-05-2025
+Para efectos del presente reglamento, se entenderá por persona titular de la Oficina Consular aquella denominada como Jefe de Oficina Consular, definida en el artículo [1-BIS](../../lsem/markdown/articulo-1-BIS.md) la fracción XIII de la Ley del Servicio Exterior Mexicano. Párrafo adicionado DOF 27-05-2025

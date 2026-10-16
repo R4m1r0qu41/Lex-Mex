@@ -20,6 +20,6 @@ La información relevante y documentación a que hacen referencia, en lo conduce
 
 Las emisoras u oferentes que no observen los plazos antes señalados, no podrán realizar la colocación de los valores o, en su caso, la oferta pública, según corresponda.
 
-Lo anterior, sin perjuicio de la prohibición que establece el tercer párrafo del artículo 85 de la Ley del Mercado de Valores.
+Lo anterior, sin perjuicio de la prohibición que establece el tercer párrafo del artículo [85](../../lmv/markdown/articulo-85.md) de la Ley del Mercado de Valores.
 
 Las bolsas deberán revelar a través de los mecanismos que prevé el artículo [77](articulo-77.md), segundo párrafo de las presentes disposiciones, el momento a partir del cual se encontrará disponible al público la documentación a que se refiere primer párrafo de este artículo, señalando la denominación de la persona moral y el tipo de valores objeto de inscripción y listado, así como las modificaciones a que se refiere el [artículo siguiente](articulo-24.md). Simultáneamente, las bolsas pondrán a disposición del público, en sus instalaciones, la citada documentación, así como el prospecto de colocación, folleto o suplemento informativo, preliminares, a partir de esa misma fecha, debiendo divulgar estos últimos a través de su página electrónica en la red mundial Internet.

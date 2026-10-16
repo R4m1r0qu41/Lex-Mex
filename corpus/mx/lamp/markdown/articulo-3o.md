@@ -35,7 +35,7 @@ La Firma Electrónica es el medio de ingreso al sistema electrónico del Poder J
 
 El Órgano de Administración Judicial, mediante acuerdos generales, determinará la forma en que deberán integrarse los expedientes físico y electrónico, salvaguardando en todo momento el derecho de las partes para consultarlos.
 
-Las personas titulares de los órganos jurisdiccionales serán las responsables de vigilar la digitalización de todas las promociones y documentos que presenten en forma física las partes, así como LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS de los acuerdos, resoluciones o sentencias y toda información relacionada con los expedientes en el sistema.
+Las personas titulares de los órganos jurisdiccionales serán las responsables de vigilar la digitalización de todas las promociones y documentos que presenten en forma física las partes, así como LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS de los acuerdos, resoluciones o sentencias y toda información relacionada con los expedientes en el sistema.
 
 El Órgano de Administración Judicial, en ejercicio de las facultades que le confiere la Ley Orgánica del Poder Judicial de la Federación, emitirá los acuerdos generales que considere necesarios a efecto de establecer las bases y el correcto funcionamiento de la Firma Electrónica.
 

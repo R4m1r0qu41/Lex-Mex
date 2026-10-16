@@ -59,7 +59,7 @@ b) Gasto social, incluyendo los recursos transferidos a las entidades federativa
 
 c) Educación, incluyendo los recursos transferidos a las entidades federativas, así como las asignaciones de las entidades, para efectos de la integración que corresponda en términos de la Ley General de Educación, en su caso, de la Ley de Coordinación Fiscal y demás disposiciones aplicables;
 
-d) Prevención y eliminación de la discriminación en los términos del artículo 3 de la Ley Federal para Prevenir y Eliminar la Discriminación;
+d) Prevención y eliminación de la discriminación en los términos del artículo [3](../../lfped/markdown/articulo-3.md) de la Ley Federal para Prevenir y Eliminar la Discriminación;
 
 e) Investigación científica y desarrollo tecnológico, para efectos de la integración que corresponda en los términos de la Ley de Ciencia y Tecnología y demás disposiciones aplicables;
 

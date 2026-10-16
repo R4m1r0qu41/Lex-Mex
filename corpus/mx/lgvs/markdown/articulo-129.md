@@ -17,7 +17,7 @@ source_sha256: b82b6148e235121951a94cb388fe59dbebe4212c8a6c85f26704873150827911
 
 # Artículo 129
 
-Además de los destinos previstos en el artículo 174 BIS de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la [Secretaría](articulo-3o.md) dará a los bienes decomisados cualquiera de los siguientes destinos:
+Además de los destinos previstos en el artículo [174 BIS](../../lgeepa/markdown/articulo-174-BIS.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la [Secretaría](articulo-3o.md) dará a los bienes decomisados cualquiera de los siguientes destinos:
 
 I. Internamiento temporal en un centro de conservación o institución análoga con el objetivo de rehabilitar al ejemplar, de tal manera que le permita sobrevivir en un entorno silvestre o en cautiverio, según se trate;
 

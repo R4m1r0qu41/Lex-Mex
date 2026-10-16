@@ -17,7 +17,7 @@ source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 
 # Artículo 83
 
-El derecho a la educación La educación es el conjunto de actividades de orientación, enseñanza y aprendizaje, contenidas en planes y programas educativos, otorgadas por instituciones públicas o privadas que permitan a las personas privadas de su libertad alcanzar mejores niveles de conocimiento para su desarrollo personal, de conformidad con lo establecido en el artículo [3](articulo-3.md)o. Constitucional.
+El derecho a la educación La educación es el conjunto de actividades de orientación, enseñanza y aprendizaje, contenidas en planes y programas educativos, otorgadas por instituciones públicas o privadas que permitan a las personas privadas de su libertad alcanzar mejores niveles de conocimiento para su desarrollo personal, de conformidad con lo establecido en el artículo 3o. Constitucional.
 
 La educación que se imparta en los Centros Penitenciarios será laica, gratuita y tendrá contenidos de carácter académico, cívico, social, higiénico, artístico, físico y ético, orientados en el respeto a la ley, las instituciones y los derechos humanos. Será, en todo caso, orientada por las técnicas de la pedagogía y quedará a cargo de profesores o maestros especializados. Así mismo las personas privadas de su libertad que obtengan una certificación por la autoridad educativa correspondiente podrán realizar las labores de docencia a las que hace referencia el presente artículo.
 

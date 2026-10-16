@@ -31,7 +31,7 @@ A. Revisión de la historia clínica de cada persona con la jerarquía de Genera
 
 B. Análisis de sangre: a. Biometría hemática;
 
-b. Detección del virus a que se refiere la primera categoría, numerales 82 y 83, y la segunda categoría, numeral 45, del artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+b. Detección del virus a que se refiere la primera categoría, numerales 82 y 83, y la segunda categoría, numeral 45, del artículo [226](../../lissfam/markdown/articulo-226.md) de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
 c. Química sanguínea, y
 
@@ -113,7 +113,7 @@ Resultado a. Biometría hemática:
 
 5. Hematocrito 42 a 52%
 
-b. Obtener resultado negativo a la prueba del virus a que se refiere la primera categoría, numerales 82 y 83, y la segunda categoría, numeral 45, del artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+b. Obtener resultado negativo a la prueba del virus a que se refiere la primera categoría, numerales 82 y 83, y la segunda categoría, numeral 45, del artículo [226](../../lissfam/markdown/articulo-226.md) de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
 
 c. Química sanguínea: 1. Urea 19 a 40 mg/dl.
 
@@ -209,8 +209,8 @@ Menor a 139 MG/DL Normal Acredita buena salud 140 a 199 MG/DL Intolerancia a la 
 
 K. Derogado. Inciso derogado DOF 20-03-2026
 
-V. Acreditarán buena salud las personas participantes que en el examen médico obtengan los parámetros o las cifras consideradas normales y que no se encuentren comprendidos en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Fracción reformada DOF 20-03-2026
+V. Acreditarán buena salud las personas participantes que en el examen médico obtengan los parámetros o las cifras consideradas normales y que no se encuentren comprendidos en el artículo [226](../../lissfam/markdown/articulo-226.md) de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Fracción reformada DOF 20-03-2026
 
-VI. No acreditarán buena salud las personas participantes que en el examen médico se encuentren consideradas en alguna de las categorías de incapacidad o trastornos funcionales de menos del 20%, establecidas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, de conformidad con el certificado médico expedido por el Centro Integral de Evaluación o la instalación sanitaria militar que se designe, dentro del período general de pruebas, y Fracción reformada DOF 20-03-2026
+VI. No acreditarán buena salud las personas participantes que en el examen médico se encuentren consideradas en alguna de las categorías de incapacidad o trastornos funcionales de menos del 20%, establecidas en el artículo [226](../../lissfam/markdown/articulo-226.md) de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, de conformidad con el certificado médico expedido por el Centro Integral de Evaluación o la instalación sanitaria militar que se designe, dentro del período general de pruebas, y Fracción reformada DOF 20-03-2026
 
 VII. El resultado del examen médico se calificará como “ACREDITA BUENA SALUD” o “NO ACREDITA BUENA SALUD”, siendo determinante y definitivo acreditar buena salud para el ascenso.

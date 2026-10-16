@@ -17,7 +17,7 @@ source_sha256: d2a25adcb45f622bbbf2a4e58f1139fb5236961fe86de3dd9ad9de2dfa21d54e
 
 # Artículo 58-17
 
-El [Tribunal](articulo-1-A.md) determinará las Salas Regionales Especializadas en materia del juicio de resolución exclusiva de fondo, el cual versará únicamente sobre la impugnación de resoluciones definitivas que deriven del ejercicio de las facultades de comprobación a que se refiere el artículo 42, fracciones II, III o IX del Código Fiscal de la Federación y la cuantía del asunto sea mayor a doscientas veces la Unidad de Medida y Actualización, elevada al año, vigente al momento de emisión de la resolución combatida.
+El [Tribunal](articulo-1-A.md) determinará las Salas Regionales Especializadas en materia del juicio de resolución exclusiva de fondo, el cual versará únicamente sobre la impugnación de resoluciones definitivas que deriven del ejercicio de las facultades de comprobación a que se refiere el artículo [42](../../cff/markdown/articulo-42.md), fracciones II, III o IX del Código Fiscal de la Federación y la cuantía del asunto sea mayor a doscientas veces la Unidad de Medida y Actualización, elevada al año, vigente al momento de emisión de la resolución combatida.
 
 El juicio de resolución exclusiva de fondo no será procedente cuando se haya interpuesto recurso administrativo en contra de las resoluciones señaladas en el párrafo anterior, y dicho recurso haya sido desechado, sobreseído o se tenga por no presentado.
 

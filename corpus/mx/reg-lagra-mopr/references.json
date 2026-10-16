@@ -432,6 +432,43 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:71:reference:739-740:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:71",
+    "source_span": "7",
+    "start_char": 739,
+    "end_char": 740,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
+    "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:7",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 742,
+        "end_char": 753
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:74:reference:95-97:13:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:74",
+    "source_span": "13",
+    "start_char": 95,
+    "end_char": 97,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:13",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:76:reference:411-413:65:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:76",
     "source_span": "65",

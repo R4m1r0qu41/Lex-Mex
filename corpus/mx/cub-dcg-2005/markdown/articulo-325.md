@@ -22,6 +22,6 @@ Las Instituciones no podrán celebrar los contratos de comisión mercantil a que
 
 (300) I. Casas de bolsa, salvo que se trate de las operaciones a que se refiere la fracción IX del Artículo [319](articulo-319.md) de las presentes disposiciones.
 
-(300) II. Personas cuyo objeto principal sea la realización de las actividades a que se refiere el Artículo [81](articulo-81.md)- A de Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+(300) II. Personas cuyo objeto principal sea la realización de las actividades a que se refiere el Artículo [81](../../lgoaac/markdown/articulo-81.md)- A de Ley General de Organizaciones y Actividades Auxiliares del Crédito.
 
 Sección Segunda Bis (Derogada) De la operación de Cuentas Móviles a través de Administradores de Comisionistas de Telefonía Móvil

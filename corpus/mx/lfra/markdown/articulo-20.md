@@ -27,4 +27,4 @@ III. Haber contado por lo menos con tres años de anterioridad a la conducta que
 
 IV. Contar con la garantía financiera que en su caso se requiera en términos de lo dispuesto por el artículo [8](articulo-8o.md)o. de esta Ley, y
 
-V. Contar con alguno de los certificados resultado de la auditoría ambiental a la que hace referencia el artículo 38 BIS de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+V. Contar con alguno de los certificados resultado de la auditoría ambiental a la que hace referencia el artículo [38 BIS](../../lgeepa/markdown/articulo-38-BIS.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.

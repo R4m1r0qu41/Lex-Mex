@@ -17,7 +17,7 @@ source_sha256: 12b5a375ccfb83d3a9e46f19e97429007aea1caf283f9e0f0566f222a7e6f998
 
 # Artículo 3
 
-Para efectos de este reglamento, se aplican las definiciones establecidas en el artículo 3 de la Ley Federal de Telecomunicaciones y Radiodifusión, así como las siguientes:
+Para efectos de este reglamento, se aplican las definiciones establecidas en el artículo [3](../../lftr/markdown/articulo-3.md) de la Ley Federal de Telecomunicaciones y Radiodifusión, así como las siguientes:
 
 I. Asignación: acto administrativo a través del cual la Secretaría otorga a las personas previstas en el artículo [15](articulo-15.md) de este reglamento el uso de un segmento de la CSRE;
 

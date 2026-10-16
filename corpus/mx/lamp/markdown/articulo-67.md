@@ -21,4 +21,4 @@ En el escrito con el cual se inicia el incidente deberán ofrecerse las pruebas 
 
 Transcurrido el plazo anterior, dentro de los tres días siguientes se celebrará la audiencia en la que se recibirán y desahogarán las pruebas, se oirán los alegatos de las partes y, en su caso, se dictará la resolución correspondiente.
 
-Sección Primera Nulidad de Notificaciones LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
+Sección Primera Nulidad de Notificaciones LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS

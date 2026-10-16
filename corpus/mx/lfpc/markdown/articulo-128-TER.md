@@ -35,7 +35,7 @@ VIII. Aquellas que vulneren los derechos contemplados en el Título Segundo de l
 
 IX. Cuando exista cualquier diferencia entre el texto del contrato de adhesión registrado ante la Procuraduría Federal del Consumidor y el utilizado, en perjuicio de los consumidores; Fracción adicionada DOF 11-01-2018
 
-X. Aquellas conductas que vulneren las disposiciones de carácter general en materia de despachos de cobranza emitidas por la Procuraduría en términos del artículo 17 Bis 4 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y Fracción adicionada DOF 11-01-2018
+X. Aquellas conductas que vulneren las disposiciones de carácter general en materia de despachos de cobranza emitidas por la Procuraduría en términos del artículo [17 Bis 4](../../ltosf/markdown/articulo-17-Bis-4.md) de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y Fracción adicionada DOF 11-01-2018
 
 XI. Cuando la acreditación del cese de las causas que dieron origen a la imposición de la medida precautoria, se basen en documentación o información falsa o que no sea idónea para comprobar su regularización. Fracción adicionada DOF 11-01-2018
 

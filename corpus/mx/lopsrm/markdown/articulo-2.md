@@ -27,7 +27,7 @@ III. Dependencias: las señaladas en las fracciones I y II del artículo [1](art
 
 IV. Entidades: las mencionadas en las fracciones IV y V del artículo [1](articulo-1.md) de esta Ley;
 
-V. Entidades federativas: los Estados de la Federación y la Ciudad de México, conforme al artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;
+V. Entidades federativas: los Estados de la Federación y la Ciudad de México, conforme al artículo [43](../../cpeum/markdown/articulo-43.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 VI. Hacienda: la [Secretaría](articulo-2.md) de Hacienda y Crédito Público;
 

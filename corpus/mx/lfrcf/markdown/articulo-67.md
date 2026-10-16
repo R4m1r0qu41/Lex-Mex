@@ -23,7 +23,7 @@ I. Promover ante el [Tribunal](articulo-4.md), en los términos de la Ley Genera
 
 II. Dar vista a los órganos internos de control competentes de conformidad con la Ley General de Responsabilidades Administrativas, cuando detecte posibles responsabilidades administrativas distintas a las mencionadas en la fracción anterior.
 
-En caso de que la Auditoría Superior de la Federación determine la existencia de daños o perjuicios, o ambos a la [Hacienda Pública Federal](articulo-4.md) o al patrimonio de los entes públicos, que deriven de faltas administrativas no graves, procederá en los términos del artículo 50 de la Ley General de Responsabilidades Administrativas;
+En caso de que la Auditoría Superior de la Federación determine la existencia de daños o perjuicios, o ambos a la [Hacienda Pública Federal](articulo-4.md) o al patrimonio de los entes públicos, que deriven de faltas administrativas no graves, procederá en los términos del artículo [50](../../lgra/markdown/articulo-50.md) de la Ley General de Responsabilidades Administrativas;
 
 III. Presentar las denuncias y querellas penales, que correspondan ante la [Fiscalía Especializada](articulo-4.md), por los probables delitos que se detecten derivado de sus auditorías;
 
@@ -37,4 +37,4 @@ V. Presentar las denuncias de juicio político ante la [Cámara](articulo-4.md) 
 
 Las denuncias penales de hechos presuntamente ilícitos y las denuncias de juicio político, deberán presentarse por parte de la Auditoría Superior de la Federación cuando se cuente con los elementos que establezcan las leyes en dichas materias.
 
-Las resoluciones del Tribunal podrán ser recurridas por la Auditoría Superior de la Federación, cuando lo considere pertinente, en términos de lo dispuesto en el artículo 104, fracción III de la Constitución Política de los Estados Unidos Mexicanos y a la legislación aplicable.
+Las resoluciones del Tribunal podrán ser recurridas por la Auditoría Superior de la Federación, cuando lo considere pertinente, en términos de lo dispuesto en el artículo [104](../../cpeum/markdown/articulo-104.md), fracción III de la Constitución Política de los Estados Unidos Mexicanos y a la legislación aplicable.

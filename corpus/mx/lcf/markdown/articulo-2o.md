@@ -23,7 +23,7 @@ I. El impuesto sobre la renta derivado de los contratos y asignaciones para la e
 
 II. El impuesto sobre la renta por concepto de salarios y, en general, por la prestación de un servicio personal subordinado causado por los servidores públicos de la Federación, de las entidades federativas, de los municipios y las demarcaciones territoriales del Distrito Federal, así como de sus organismos autónomos y entidades paraestatales y paramunicipales;
 
-III. La recaudación total que se obtenga de los derechos a que se refieren los artículos 268, 269 y 270 de la Ley Federal de Derechos;
+III. La recaudación total que se obtenga de los derechos a que se refieren los artículos [268](../../lfd/markdown/articulo-268.md), [269](../../lfd/markdown/articulo-269.md) y [270](../../lfd/markdown/articulo-270.md) de la Ley Federal de Derechos;
 
 IV. Los incentivos que se establezcan en los convenios de colaboración administrativa en materia fiscal federal;
 
@@ -31,15 +31,15 @@ V. El impuesto sobre automóviles nuevos;
 
 VI. La parte de la recaudación correspondiente al impuesto especial sobre producción y servicios en que participen las entidades en los términos del artículo [3](articulo-3o.md)o.-A de esta Ley;
 
-VII. La recaudación obtenida en términos de lo previsto en los artículos 2o., fracción II, inciso B) y 2o.-A, fracción II, de la Ley del Impuesto Especial sobre Producción y Servicios;
+VII. La recaudación obtenida en términos de lo previsto en los artículos [2](../../lieps/markdown/articulo-2o.md)o., fracción II, inciso B) y 2o.-A, fracción II, de la Ley del Impuesto Especial sobre Producción y Servicios;
 
 VIII. Las cantidades que se distribuyan a las entidades federativas de acuerdo con lo previsto en los artículos [4](articulo-4o.md)o.-A y 4o.-B de esta Ley; Fracción reformada DOF 11-08-2014
 
-IX. El excedente de los ingresos que obtenga la Federación por aplicar una tasa superior al 1% a los ingresos por la obtención de premios a que se refieren los artículos 138 y 169 de la Ley del Impuesto sobre la Renta, y Fracción reformada DOF 11-08-2014
+IX. El excedente de los ingresos que obtenga la Federación por aplicar una tasa superior al 1% a los ingresos por la obtención de premios a que se refieren los artículos [138](../../lisr/markdown/articulo-138.md) y [169](../../lisr/markdown/articulo-169.md) de la Ley del Impuesto sobre la Renta, y Fracción reformada DOF 11-08-2014
 
 X. El impuesto por la actividad de exploración y extracción de hidrocarburos previsto en el Título Cuarto de la Ley de Ingresos sobre Hidrocarburos. Fracción adicionada DOF 11-08-2014 Párrafo reformado DOF 03-12-1993. Párrafo con fracciones reformado DOF 09-12-2013
 
-Adicionalmente, la recaudación federal participable estará integrada por el 80.29% de los ingresos petroleros del Gobierno Federal a que se refiere el artículo 2, fracción XXX Bis, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como de los ingresos excedentes a que se refiere el tercer párrafo del artículo 93 de la misma ley. Párrafo adicionado DOF 11-08-2014
+Adicionalmente, la recaudación federal participable estará integrada por el 80.29% de los ingresos petroleros del Gobierno Federal a que se refiere el artículo [2](../../lfprh/markdown/articulo-2.md), fracción XXX Bis, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como de los ingresos excedentes a que se refiere el tercer párrafo del artículo 93 de la misma ley. Párrafo adicionado DOF 11-08-2014
 
 El Fondo General de Participaciones se distribuirá conforme a la fórmula siguiente:
 
@@ -81,7 +81,7 @@ ni es la última información oficial de población que hubiere dado a conocer e
 
 Las entidades deberán informar de la totalidad de la recaudación que efectúen de cada uno de sus impuestos y derechos locales, en los formatos que para ello emita la Secretaría de Hacienda y Crédito Público. La fórmula anterior no será aplicable en el evento de que en el año de cálculo la recaudación federal participable sea inferior a la observada en el año 2007. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al coeficiente efectivo que cada entidad haya recibido de dicho Fondo en el año 2007. La Secretaría de Hacienda y Crédito Público podrá solicitar a las entidades la información que estime necesaria para verificar las cifras recaudatorias locales presentadas por las entidades. Párrafo reformado DOF 26-12-1990, 03-12-1993, 21-12-2007, 09-12-2013
 
-También se adicionará al Fondo General un monto equivalente al 80% del impuesto recaudado en 1989 por las entidades federativas, por concepto de las bases especiales de tributación. Dicho monto se actualizará en los términos del artículo 17-A del Código Fiscal de la Federación, desde el sexto mes de 1989 hasta el sexto mes del ejercicio en el que se efectúe la distribución. Este monto se dividirá entre doce y se distribuirá mensualmente a las entidades, en la proporción que representa la recaudación de estas bases de cada entidad, respecto del 80% de la recaudación por bases especiales de tributación en el año de 1989. Párrafo adicionado DOF 26-12-1990
+También se adicionará al Fondo General un monto equivalente al 80% del impuesto recaudado en 1989 por las entidades federativas, por concepto de las bases especiales de tributación. Dicho monto se actualizará en los términos del artículo [17-A](../../cff/markdown/articulo-17-A.md) del Código Fiscal de la Federación, desde el sexto mes de 1989 hasta el sexto mes del ejercicio en el que se efectúe la distribución. Este monto se dividirá entre doce y se distribuirá mensualmente a las entidades, en la proporción que representa la recaudación de estas bases de cada entidad, respecto del 80% de la recaudación por bases especiales de tributación en el año de 1989. Párrafo adicionado DOF 26-12-1990
 
 Adicionalmente, las entidades participarán en los accesorios de las contribuciones que forman parte de la recaudación federal participable, que se señalen en los convenios respectivos. En los productos de la Federación relacionados con bienes o bosques, que las leyes definen como nacionales, ubicados en el territorio de cada entidad, ésta recibirá el 50% de su monto, cuando provenga de venta o arrendamiento de terrenos nacionales o de la explotación de tales terrenos o de bosques nacionales.
 

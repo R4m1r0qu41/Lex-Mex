@@ -17,7 +17,7 @@ source_sha256: d2a25adcb45f622bbbf2a4e58f1139fb5236961fe86de3dd9ad9de2dfa21d54e
 
 # Artículo 30
 
-Las Salas Regionales serán competentes para conocer de los juicios por razón de territorio, de conformidad con lo previsto en el artículo 34 de la Ley Orgánica del [Tribunal](articulo-1-A.md) Federal de Justicia Administrativa. Párrafo reformado DOF 09-06-2026
+Las Salas Regionales serán competentes para conocer de los juicios por razón de territorio, de conformidad con lo previsto en el artículo [34](../../lotfja/markdown/articulo-34.md) de la Ley Orgánica del [Tribunal](articulo-1-A.md) Federal de Justicia Administrativa. Párrafo reformado DOF 09-06-2026
 
 En caso de duda, será competente por razón de territorio la Sala Regional ante quien se haya presentado el asunto.
 

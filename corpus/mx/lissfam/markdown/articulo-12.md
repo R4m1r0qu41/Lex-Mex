@@ -39,7 +39,7 @@ IX. Discutir anualmente, para su aprobación o modificación, los presupuestos, 
 
 X. Aprobar anualmente, previo informe de los comisarios y dictamen de los auditores externos, los estados financieros del Instituto y autorizar la publicación de los mismos; XI. Vigilar que las inversiones se hagan de acuerdo con las disposiciones de esta Ley y sus reglamentos;
 
-XII. Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los comisarios, en los términos del artículo 58, fracción XV, de la Ley Federal de las Entidades Paraestatales;
+XII. Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los comisarios, en los términos del artículo [58](../../lfep/markdown/articulo-58.md), fracción XV, de la Ley Federal de las Entidades Paraestatales;
 
 XIII. Conceder licencias a los miembros de la Junta; Fracción reformada DOF 16-07-2025
 

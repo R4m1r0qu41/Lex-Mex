@@ -35,13 +35,13 @@ III. Buena conducta militar y civil;
 
 IV. Buena salud.
 
-La [Secretaría](articulo-2.md) podrá considerar en la convocatoria respectiva la participación de personal que se ubique en alguna de las hipótesis previstas en el artículo 226 Bis de la [Ley](articulo-2.md) del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas. En este supuesto, el personal que participe deberá cumplir con las condiciones siguientes:
+La [Secretaría](articulo-2.md) podrá considerar en la convocatoria respectiva la participación de personal que se ubique en alguna de las hipótesis previstas en el artículo [226 Bis](../../lissfam/markdown/articulo-226-Bis.md) de la [Ley](articulo-2.md) del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas. En este supuesto, el personal que participe deberá cumplir con las condiciones siguientes:
 
 a. Su condición de salud no haya requerido cambio de arma o de Guardia Nacional a servicio en términos del citado numeral; Inciso reformado DOF 16-07-2025
 
 b. Lo solicite por escrito, y
 
-c. No se trate del padecimiento previsto en el numeral 13 del artículo 226 Bis de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+c. No se trate del padecimiento previsto en el numeral 13 del artículo [226 Bis](../../lissfam/markdown/articulo-226-Bis.md) de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
 V. Un índice de masa corporal inferior a 28.00;
 

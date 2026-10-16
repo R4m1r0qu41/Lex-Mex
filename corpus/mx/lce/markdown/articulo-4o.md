@@ -19,9 +19,9 @@ source_sha256: 3f114f47007c21b4691bad502b786b45aa5e45c1571bd56dd8ca4f5af991b459
 
 El Ejecutivo Federal tendrá las siguientes facultades:
 
-I. Crear, aumentar, disminuir o suprimir aranceles, mediante decretos publicados en el Diario Oficial de la Federación, de conformidad con lo establecido en el artículo 131 de la Constitución Política de los Estados Unidos Mexicanos;
+I. Crear, aumentar, disminuir o suprimir aranceles, mediante decretos publicados en el Diario Oficial de la Federación, de conformidad con lo establecido en el artículo [131](../../cpeum/markdown/articulo-131.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
-II. Regular, restringir o prohibir la exportación, importación, circulación o tránsito de mercancías, cuando lo estime urgente, mediante decretos publicados en el Diario Oficial de la Federación, de conformidad con el artículo 131 de la Constitución Política de los Estados Unidos Mexicanos;
+II. Regular, restringir o prohibir la exportación, importación, circulación o tránsito de mercancías, cuando lo estime urgente, mediante decretos publicados en el Diario Oficial de la Federación, de conformidad con el artículo [131](../../cpeum/markdown/articulo-131.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 III. Establecer medidas para regular o restringir la exportación o importación de mercancías a través de acuerdos expedidos por la [Secretaría](articulo-3o.md) o, en su caso, conjuntamente con la autoridad competente, y publicados en el Diario Oficial de la Federación;
 

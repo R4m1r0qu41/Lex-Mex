@@ -17,7 +17,7 @@ source_sha256: b99bbf981434011b6351ef308922fea90f6f0f8777b113183cf1737840c5bbef
 
 # Artículo 79
 
-Se exceptuarán de lo dispuesto en el artículo que precede:
+Se exceptuarán de lo dispuesto en el [artículo que precede](articulo-78.md):
 
 I.- Los contratos que con arreglo a este Código ú otras leyes, deban reducirse a escritura o requieran formas o solemnidades necesarias para su eficacia;
 

@@ -17,4 +17,4 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 847
 
-El propietario puede pedir que se arranquen los árboles plantados a menor distancia de su predio de la señalada en el artículo que precede, y hasta cuando sea mayor, si es evidente el daño que los árboles le causan.
+El propietario puede pedir que se arranquen los árboles plantados a menor distancia de su predio de la señalada en el [artículo que precede](articulo-846.md), y hasta cuando sea mayor, si es evidente el daño que los árboles le causan.

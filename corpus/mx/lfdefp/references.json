@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdefp:article:34:reference:209-212:146:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdefp:article:34",
+    "source_span": "146",
+    "start_char": 209,
+    "end_char": 212,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lopjf",
+    "target_provision_id": "urn:lex-mx:federal:statute:lopjf:article:146",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I, II, IX, XIII, XIV y XV",
+        "start_char": 159,
+        "end_char": 195
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdefp:article:37:reference:566-569:146:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdefp:article:37",
+    "source_span": "146",
+    "start_char": 566,
+    "end_char": 569,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lopjf",
+    "target_provision_id": "urn:lex-mx:federal:statute:lopjf:article:146",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I, II, IX, XIII, XIV y XV",
+        "start_char": 516,
+        "end_char": 552
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

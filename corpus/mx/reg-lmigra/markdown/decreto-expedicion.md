@@ -139,3 +139,4 @@ La Secretaría de Gobernación, la Secretaría de Relaciones Exteriores y el Ins
 Decreto por el que se expide el Reglamento de la Ley de Migración y se reforman, derogan y adicionan
 
 diversas disposiciones del Reglamento de la Ley General de Población y del Reglamento de la Ley de Asociaciones Religiosas y Culto Público se realice con los recursos aprobados en sus presupuestos, por lo que no se requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable, para el presente ejercicio fiscal y los subsecuentes.
+

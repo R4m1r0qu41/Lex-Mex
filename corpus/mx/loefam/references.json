@@ -200,6 +200,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loefam:article:175-bis:reference:211-213:25:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:loefam:article:175-bis",
+    "source_span": "25",
+    "start_char": 211,
+    "end_char": 213,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lissfam",
+    "target_provision_id": "urn:lex-mx:federal:statute:lissfam:article:25",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:loefam:article:175-bis:reference:1261-1264:173:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:loefam:article:175-bis",
     "source_span": "173",

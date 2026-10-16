@@ -37,7 +37,7 @@ f) Asesoría en fusiones, escisiones o adquisiciones de capital y demás restruc
 
 g) Administración de activos de fondos de inversión, y h) Distribución de acciones de fondos de inversión.
 
-III Asesores en inversiones: a las personas, físicas o morales, registradas ante la Comisión en términos del artículo 225 de la Ley del Mercado de Valores, que sin ser intermediarios del mercado de valores proporcionen de manera habitual y profesional servicios de Gestión de inversiones o de Asesoría de inversiones.
+III Asesores en inversiones: a las personas, físicas o morales, registradas ante la Comisión en términos del artículo [225](../../lmv/markdown/articulo-225.md) de la Ley del Mercado de Valores, que sin ser intermediarios del mercado de valores proporcionen de manera habitual y profesional servicios de Gestión de inversiones o de Asesoría de inversiones.
 
 IV. Asesores en inversiones independientes: a los Asesores en inversiones cuyos accionistas, socios, miembros del consejo de administración, así como directivos, apoderados y empleados, no participen en el capital o en los órganos de administración, ni tengan relación de dependencia con las instituciones de crédito, casas de bolsa, sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión o instituciones calificadoras de valores.
 

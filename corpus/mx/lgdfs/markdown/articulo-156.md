@@ -39,6 +39,6 @@ La Procuraduría podrá determinar el destino final a las materias primas forest
 
 La Procuraduría podrá determinar algunos de los destinos previstos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, o bien transferir los bienes decomisados al Instituto Nacional para Devolver al Pueblo lo Robado, quien los podrá enajenar de conformidad con las disposiciones de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público. Párrafo adicionado DOF 11-04-2022
 
-Los recursos económicos provenientes de las multas y los obtenidos por los procedimientos de venta a que hace referencia el artículo 89 de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, se destinarán a la inspección y vigilancia forestal, de conformidad con las disposiciones aplicables. Párrafo adicionado DOF 11-04-2022
+Los recursos económicos provenientes de las multas y los obtenidos por los procedimientos de venta a que hace referencia el artículo [89](../../lfaebsp/markdown/articulo-89.md) de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, se destinarán a la inspección y vigilancia forestal, de conformidad con las disposiciones aplicables. Párrafo adicionado DOF 11-04-2022
 
 Nota: El Decreto DOF 11-04-2022, que adicionó tres párrafos al artículo 156, omitió señalar de forma expresa la posición, recorrido o derogación, en su caso, del ya existente segundo párrafo del artículo.

@@ -21,7 +21,7 @@ El comité se integra por:
 
 I. Los miembros de la Comisión Permanente de Funcionarios Fiscales, a que se refiere la Ley de Coordinación Fiscal, con excepción del Secretario de Hacienda y Crédito Público;
 
-II. Un representante de los municipios por cada grupo de las entidades federativas a que se refiere el artículo 20, fracción III, de la Ley de Coordinación Fiscal;
+II. Un representante de los municipios por cada grupo de las entidades federativas a que se refiere el artículo [20](../../lcf/markdown/articulo-20.md), fracción III, de la Ley de Coordinación Fiscal;
 
 III. Un representante de la Auditoría Superior de la Federación;
 

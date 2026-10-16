@@ -40,7 +40,7 @@ VII. Los Capítulos V, V Bis y V Bis 1 del Título Segundo de la Circular Única
 
 VIII. El Capítulo VI del Título Segundo de la Circular Única de Bancos.
 
-IX. El Capítulo I del Título Tercero de la Circular Única de Bancos, con excepción de la “Serie D Criterios relativos a los estados financieros básicos”, referidos por el artículo 174 de la citada Circular Única de Bancos.
+IX. El Capítulo I del Título Tercero de la Circular Única de Bancos, con excepción de la “Serie D Criterios relativos a los estados financieros básicos”, referidos por el artículo [174](../../cub-dcg-2005/markdown/articulo-174.md) de la citada Circular Única de Bancos.
 
 X. El Capítulo II del Título Tercero de la Circular Única de Bancos.
 

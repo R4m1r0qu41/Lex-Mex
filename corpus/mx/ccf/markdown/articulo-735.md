@@ -21,4 +21,4 @@ Con el objeto de favorecer la formación del patrimonio de la familia, se vender
 
 I. Los terrenos pertenecientes al Gobierno Federal o al Gobierno del Distrito Federal que no estén destinados a un servicio público ni sean de uso común; Fracción reformada DOF 23-12-1974
 
-II. Los terrenos que el Gobierno adquiera por expropiación, de acuerdo con el inciso c) del párrafo undécimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos; III. Los terrenos que el Gobierno adquiera para dedicarlos a la formación del patrimonio de las familias que cuenten con pocos recursos.
+II. Los terrenos que el Gobierno adquiera por expropiación, de acuerdo con el inciso c) del párrafo undécimo del artículo [27](../../cpeum/markdown/articulo-27.md) de la Constitución Política de los Estados Unidos Mexicanos; III. Los terrenos que el Gobierno adquiera para dedicarlos a la formación del patrimonio de las familias que cuenten con pocos recursos.

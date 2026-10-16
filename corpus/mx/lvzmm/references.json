@@ -45,6 +45,50 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lvzmm:article:37:reference:579-581:46:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lvzmm:article:37",
+    "source_span": "46",
+    "start_char": 579,
+    "end_char": 581,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lac",
+    "target_provision_id": "urn:lex-mx:federal:statute:lac:article:46",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 583,
+        "end_char": 595
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lvzmm:article:37:reference:599-601:47:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lvzmm:article:37",
+    "source_span": "47",
+    "start_char": 599,
+    "end_char": 601,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lac",
+    "target_provision_id": "urn:lex-mx:federal:statute:lac:article:47",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 603,
+        "end_char": 615
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lvzmm:article:4-bis:reference:68-69:5:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lvzmm:article:4-bis",
     "source_span": "5",
@@ -176,6 +220,21 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lvzmm:article:49:reference:102-104:83:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lvzmm:article:49",
+    "source_span": "83",
+    "start_char": 102,
+    "end_char": 104,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:83",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",

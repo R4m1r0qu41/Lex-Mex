@@ -19,4 +19,4 @@ source_sha256: 3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d
 
 En el [Contrato](articulo-3.md) se establecerán los mecanismos necesarios para garantizar el pago oportuno de los alcances que correspondan a los [Abastecedores de Caña](articulo-3.md).
 
-Sin embargo, en caso de concurso mercantil de los [Industriales](articulo-3.md) sin liquidez o de imposibilidad de acceso a créditos para cubrir sus obligaciones contractuales con los Abastecedores de Caña, éstos serán considerados acreedores con garantía real en los términos de lo dispuesto en los Artículos 217, Fracción II, y 219 de la [Ley](articulo-3.md) de Concursos Mercantiles.
+Sin embargo, en caso de concurso mercantil de los [Industriales](articulo-3.md) sin liquidez o de imposibilidad de acceso a créditos para cubrir sus obligaciones contractuales con los Abastecedores de Caña, éstos serán considerados acreedores con garantía real en los términos de lo dispuesto en los Artículos [217](../../lcm/markdown/articulo-217.md), Fracción II, y [219](../../lcm/markdown/articulo-219.md) de la [Ley](articulo-3.md) de Concursos Mercantiles.

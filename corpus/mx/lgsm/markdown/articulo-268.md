@@ -23,11 +23,11 @@ I. Todo accionista tendrá derecho a participar en las decisiones de la sociedad
 
 II. Los accionistas tendrán voz y voto, las acciones serán de igual valor y conferirán los mismos derechos;
 
-III. Cualquier accionista podrá someter asuntos a consideración de la Asamblea, para que sean incluidos en el orden del día, siempre y cuando lo solicite al administrador por escrito o por medios electrónicos, si se acuerda un sistema de información de acuerdo con lo dispuesto en el artículo 89 del Código de Comercio;
+III. Cualquier accionista podrá someter asuntos a consideración de la Asamblea, para que sean incluidos en el orden del día, siempre y cuando lo solicite al administrador por escrito o por medios electrónicos, si se acuerda un sistema de información de acuerdo con lo dispuesto en el artículo [89](../../ccom/markdown/articulo-89.md) del Código de Comercio;
 
-IV. El administrador enviará a todos los accionistas el asunto sujeto a votación por escrito o por cualquier medio electrónico si se acuerda un sistema de información de acuerdo con lo dispuesto en el artículo 89 del Código de Comercio, señalando la fecha para emitir el voto respectivo;
+IV. El administrador enviará a todos los accionistas el asunto sujeto a votación por escrito o por cualquier medio electrónico si se acuerda un sistema de información de acuerdo con lo dispuesto en el artículo [89](../../ccom/markdown/articulo-89.md) del Código de Comercio, señalando la fecha para emitir el voto respectivo;
 
-V. Los accionistas manifestarán su voto sobre los asuntos por escrito o por medios electrónicos si se acuerda un sistema de información de acuerdo con lo dispuesto en el artículo 89 del Código de Comercio, ya sea de manera presencial o fuera de asamblea.
+V. Los accionistas manifestarán su voto sobre los asuntos por escrito o por medios electrónicos si se acuerda un sistema de información de acuerdo con lo dispuesto en el artículo [89](../../ccom/markdown/articulo-89.md) del Código de Comercio, ya sea de manera presencial o fuera de asamblea.
 
 La Asamblea de Accionistas será convocada por el administrador de la sociedad, mediante la publicación de un aviso en el sistema electrónico establecido por la Secretaría de Economía con una antelación mínima de cinco días hábiles. En la convocatoria se insertará el orden del día con los asuntos que se someterán a consideración de la Asamblea, así como los documentos que correspondan.
 

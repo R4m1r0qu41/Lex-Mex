@@ -22,7 +22,7 @@ I. Administración integral de riesgos, al conjunto de objetivos, políticas, pr
 
 ll. Auditor Externo Independiente, al contador público o licenciado en contaduría pública que cumpla, en lo conducente, con las características y requisitos contenidos en las “Disposiciones de carácter general aplicables a las entidades y emisoras supervisadas por la Comisión Nacional Bancaria y de Valores que contraten servicios de auditoría externa de estados financieros básicos” y sus modificaciones.
 
-III.Certificados bursátiles fiduciarios, a aquellos certificados bursátiles fiduciarios de desarrollo, inmobiliarios e indizados a que se refiere el artículo 63 Bis 1 de la Ley del Mercado de Valores, así como los certificados bursátiles fiduciarios de inversión en energía e infraestructura y los certificados bursátiles fiduciarios de proyectos de inversión a que aluden las "Disposiciones de carácter general aplicables a las emisoras de valores y a otros participantes del mercado de valores", publicadas en el Diario Oficial de la Federación el 19 de marzo de 2003 y sus respectivas modificaciones.
+III.Certificados bursátiles fiduciarios, a aquellos certificados bursátiles fiduciarios de desarrollo, inmobiliarios e indizados a que se refiere el artículo [63 Bis 1](../../lmv/markdown/articulo-63-Bis-1.md) de la Ley del Mercado de Valores, así como los certificados bursátiles fiduciarios de inversión en energía e infraestructura y los certificados bursátiles fiduciarios de proyectos de inversión a que aluden las "Disposiciones de carácter general aplicables a las emisoras de valores y a otros participantes del mercado de valores", publicadas en el Diario Oficial de la Federación el 19 de marzo de 2003 y sus respectivas modificaciones.
 
 IV. Contingencia Operativa, a cualquier evento que dificulte o inhabilite a una sociedad que administra mecanismos electrónicos de negociación de acciones de fondos de inversión o de divulgación de información de fondos de inversión, a prestar sus servicios o realizar los procesos necesarios para llevar a cabo las actividades a que se refiere el artículo [64 Bis 12](articulo-64-Bis-12.md) de las presentes disposiciones.
 
@@ -50,7 +50,7 @@ XV. Opinión no modificada (o favorable) o modificada (o desfavorable), a aquell
 
 XVI. Plan de Continuidad de Negocio, al conjunto de estrategias, procedimientos y acciones que permitan la continuidad en la prestación de los servicios o en la realización de los procesos de las sociedades que administran mecanismos electrónicos de negociación de acciones de fondos de inversión o de divulgación de información de fondos de inversión, ante contingencias operativas, o bien su restablecimiento oportuno, así como la mitigación de las afectaciones producto de dichas contingencias.
 
-XVII. Reportes de información crediticia, a los reportes de crédito especiales emitidos por sociedades de información crediticia a que se refiere el artículo 36 Bis de la Ley para Regular las Sociedades de Información Crediticia, siguientes:
+XVII. Reportes de información crediticia, a los reportes de crédito especiales emitidos por sociedades de información crediticia a que se refiere el artículo [36 Bis](../../lrsic/markdown/articulo-36-Bis.md) de la Ley para Regular las Sociedades de Información Crediticia, siguientes:
 
 a) Aquel emitido por una sociedad de información crediticia en el que se incluya la información contenida en las bases de datos de las demás sociedades de información crediticia, o
 

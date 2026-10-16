@@ -31,7 +31,7 @@ V. Las personas distintas a los funcionarios o empleados que con su firma puedan
 
 VI. Las personas morales, así como los consejeros y funcionarios de éstas, en las que la Institución o la sociedad controladora del grupo financiero al que, en su caso, pertenezca la propia Institución, posean directa o indirectamente el control del 10% o más de los títulos representativos de su capital.
 
-La participación indirecta de las Instituciones y de las sociedades controladoras a través de los inversionistas institucionales que prevé el artículo 15 de la Ley de Instituciones de Crédito, no computarán para considerar a la empresa emisora como relacionada;
+La participación indirecta de las Instituciones y de las sociedades controladoras a través de los inversionistas institucionales que prevé el artículo [15](../../lic/markdown/articulo-15.md) de la Ley de Instituciones de Crédito, no computarán para considerar a la empresa emisora como relacionada;
 
 VII. Las personas morales en las que los funcionarios de las Instituciones sean consejeros o administradores u ocupen cualquiera de los tres primeros niveles jerárquicos en dichas personas morales, y
 

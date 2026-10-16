@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 2
 
-Para efectos de este Reglamento, serán aplicables las definiciones establecidas en el artículo 5 A de la Ley del Seguro Social, así como las siguientes:
+Para efectos de este Reglamento, serán aplicables las definiciones establecidas en el artículo [5](../../lss/markdown/articulo-5.md) A de la Ley del Seguro Social, así como las siguientes:
 
 I. Patrón del campo: persona física o moral que realiza actividades agrícolas, ganaderas, forestales o mixtas, independientemente de su naturaleza jurídica o económica y que contrata trabajadores para la explotación de dichas actividades;
 

@@ -87,7 +87,7 @@ iii) Un análisis que permita conocer el monto, a valor presente, de la posició
 
 e) Los montos correspondientes a los requerimientos financieros del sector público, incluyendo su saldo histórico.
 
-f) La evolución de los proyectos de inversión en infraestructura que cuenten con erogaciones plurianuales aprobadas en términos del artículo 74, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos; Inciso adicionado DOF 01-10-2007
+f) La evolución de los proyectos de inversión en infraestructura que cuenten con erogaciones plurianuales aprobadas en términos del artículo [74](../../cpeum/markdown/articulo-74.md), fracción IV, de la Constitución Política de los Estados Unidos Mexicanos; Inciso adicionado DOF 01-10-2007
 
 g) La información relativa a los ingresos obtenidos por cada uno de los proyectos de inversión financiada directa y condicionada establecidos en el Tomo correspondiente del Presupuesto de Egresos; así como la información relativa al balance de las entidades de control directo a que se refiere el catálogo de la estimación de ingresos, contenido en la Ley de Ingresos. Inciso adicionado DOF 24-01-2014
 

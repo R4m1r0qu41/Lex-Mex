@@ -349,6 +349,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lges:article:62:reference:836-839:119:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lges:article:62",
+    "source_span": "119",
+    "start_char": 836,
+    "end_char": 839,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lge",
+    "target_provision_id": "urn:lex-mx:federal:statute:lge:article:119",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lges:article:64:reference:364-365:3:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lges:article:64",
     "source_span": "3",

@@ -17,7 +17,7 @@ source_sha256: 8e60a8ba9f27b47d26806dbae115c0803dd9ea6a3a02a1b359dc86516d40759e
 
 # Artículo 1
 
-Para efectos de este Reglamento, además de lo establecido en el artículo 2o. de la [Ley](articulo-1.md) de Inversión Extranjera, se entenderá por:
+Para efectos de este Reglamento, además de lo establecido en el artículo [2](../../lie/markdown/articulo-2o.md)o. de la [Ley](articulo-1.md) de Inversión Extranjera, se entenderá por:
 
 I. Actividades reservadas: las contempladas en los artículos 5o. y 6o. de la Ley;
 

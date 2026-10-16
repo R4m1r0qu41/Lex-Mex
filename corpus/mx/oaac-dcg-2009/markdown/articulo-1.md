@@ -60,7 +60,7 @@ b) Mantener la titularidad de derechos que permitan, directa o indirectamente, e
 
 c) Dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de una persona moral, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma.
 
-(106) XIV Bis. Convenio Judicial: al acuerdo por escrito, que tiene el carácter de cosa juzgada conforme a lo establecido en los artículos 354 a 357 del Código Federal de Procedimientos Civiles, que celebran las partes en un proceso judicial para finalizar la controversia.
+(106) XIV Bis. Convenio Judicial: al acuerdo por escrito, que tiene el carácter de cosa juzgada conforme a lo establecido en los artículos [354](../../cfpc/markdown/articulo-354.md) a [357](../../cfpc/markdown/articulo-357.md) del Código Federal de Procedimientos Civiles, que celebran las partes en un proceso judicial para finalizar la controversia.
 
 XV. Depositante habilitado: a la persona física o moral que tenga en propiedad, arrendamiento o comodato, bodegas o locales, respecto de los cuales celebre un contrato de habilitación con un almacén general de depósito, en términos del primer párrafo del Artículo [16](articulo-16.md) de la [LGOAAC](articulo-1.md).
 
@@ -172,7 +172,7 @@ XLII. Registro: al Registro Nacional de Valores a que se refiere la Ley del Merc
 
 XLIII. Registro de certificados y bonos de prenda: al registro de certificados de depósito y bonos de prenda a que se refiere el Artículo [11 Bis](articulo-11-Bis.md) de la LGOAAC.
 
-XLIV. Reportes de información crediticia: a los reportes de crédito especiales emitidos por sociedades de información crediticia a que se refiere el artículo 36 Bis de la Ley para Regular las Sociedades de Información Crediticia, siguientes:
+XLIV. Reportes de información crediticia: a los reportes de crédito especiales emitidos por sociedades de información crediticia a que se refiere el artículo [36 Bis](../../lrsic/markdown/articulo-36-Bis.md) de la Ley para Regular las Sociedades de Información Crediticia, siguientes:
 
 a) Aquel emitido por una sociedad de información crediticia en el que se incluya la información contenida en las bases de datos de las demás sociedades de información crediticia, o
 
@@ -220,7 +220,7 @@ c) Contar con información financiera, económica, contable, jurídica y adminis
 
 d) Coadyuvar permanentemente a la observancia de la normatividad aplicable a las actividades de las uniones de crédito.
 
-L. Sociedad Financiera de Objeto Múltiple Regulada: en singular o plural, a las sociedades financieras de objeto múltiple a que se refieren el cuarto y quinto párrafos del artículo 87-B de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
+L. Sociedad Financiera de Objeto Múltiple Regulada: en singular o plural, a las sociedades financieras de objeto múltiple a que se refieren el cuarto y quinto párrafos del artículo [87-B](../../lgoaac/markdown/articulo-87-B.md) de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.
 
 LI. Sociedades Inmobiliarias: a aquellas personas morales en cuyo capital participen y ejerzan control una o varias uniones de crédito, ya sea conjunta o separadamente, y que sean propietarias o administren los inmuebles en los que se ubiquen las oficinas de estas.
 

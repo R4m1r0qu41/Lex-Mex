@@ -21,7 +21,7 @@ El tiempo que duren las reparaciones efectuadas al inmueble al amparo de la gara
 
 Artículo adicionado DOF 29-01-2009
 
-ARTÍCULO [73](articulo-73.md) QUINTUS.- En caso de que el consumidor haya hecho valer la garantía establecida en el artículo 73 QUÁTER, y no obstante, persistan los defectos o fallas imputables al proveedor, éste se verá obligado de nueva cuenta a realizar todas las reparaciones necesarias para corregirlas de inmediato, así como a otorgarle, en el caso de defectos o fallas leves, una bonificación del cinco por ciento sobre el valor de la reparación; en caso de defectos o fallas graves, el proveedor deberá realizar una bonificación del veinte por ciento de la cantidad señalada en el contrato como precio del bien.
+ARTÍCULO 73 QUINTUS.- En caso de que el consumidor haya hecho valer la garantía establecida en el artículo 73 QUÁTER, y no obstante, persistan los defectos o fallas imputables al proveedor, éste se verá obligado de nueva cuenta a realizar todas las reparaciones necesarias para corregirlas de inmediato, así como a otorgarle, en el caso de defectos o fallas leves, una bonificación del cinco por ciento sobre el valor de la reparación; en caso de defectos o fallas graves, el proveedor deberá realizar una bonificación del veinte por ciento de la cantidad señalada en el contrato como precio del bien.
 
 Para efectos de esta Ley, se entiende por defectos o fallas graves, aquellos que afecten la estructura o las instalaciones del inmueble y comprometan el uso pleno o la seguridad del inmueble, o bien, impidan que el consumidor lo use, goce y disfrute conforme a la naturaleza o destino del mismo. Se entenderá por defectos o fallas leves, todos aquellos que no sean graves.
 

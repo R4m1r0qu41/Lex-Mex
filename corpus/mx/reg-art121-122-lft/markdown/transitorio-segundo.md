@@ -15,4 +15,4 @@ source_sha256: 9be81cab513e8797c27eab1c8932b087599fe9ff39528fde9b661cdebf4257f0
 
 # SEGUNDO
 
-Se abroga el Reglamento de los Artículos 121 y 122 de la Ley Federal del Trabajo, publicado en el Diario Oficial de la Federación el 2 de mayo de 1975.
+Se abroga el Reglamento de los Artículos [121](../../lft/markdown/articulo-121.md) y [122](../../lft/markdown/articulo-122.md) de la Ley Federal del Trabajo, publicado en el Diario Oficial de la Federación el 2 de mayo de 1975.

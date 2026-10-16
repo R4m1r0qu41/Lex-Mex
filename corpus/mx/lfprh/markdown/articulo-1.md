@@ -17,7 +17,7 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 # Artículo 1
 
-La presente Ley es de orden público, y tiene por objeto reglamentar los artículos 74 fracción IV, 75, 126, 127 y 134 de la Constitución Política de los Estados Unidos Mexicanos, en materia de programación, presupuestación, aprobación, ejercicio, control y evaluación de los ingresos y egresos públicos federales.
+La presente Ley es de orden público, y tiene por objeto reglamentar los artículos [74](../../cpeum/markdown/articulo-74.md) fracción IV, [75](../../cpeum/markdown/articulo-75.md), [126](../../cpeum/markdown/articulo-126.md), [127](../../cpeum/markdown/articulo-127.md) y [134](../../cpeum/markdown/articulo-134.md) de la Constitución Política de los Estados Unidos Mexicanos, en materia de programación, presupuestación, aprobación, ejercicio, control y evaluación de los ingresos y egresos públicos federales.
 
 Los sujetos obligados a cumplir las disposiciones de esta Ley deberán observar que la administración de los recursos públicos federales se realice con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
 

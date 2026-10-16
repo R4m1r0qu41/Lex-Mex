@@ -17,7 +17,7 @@ source_sha256: d295edfeef5d5f77b69a5817a13bc40ee26d72d93f187b00e57e8badb40363fe
 
 # Artículo 2
 
-Para los efectos del presente Reglamento, además de lo establecido en el artículo 2 de la [Ley](articulo-2.md) de Fomento para la Lectura y el Libro, se entenderá por:
+Para los efectos del presente Reglamento, además de lo establecido en el artículo [2](../../lfll/markdown/articulo-2.md) de la [Ley](articulo-2.md) de Fomento para la Lectura y el Libro, se entenderá por:
 
 I. Biblioteca de aula.- Acervo bibliográfico que la [Secretaría](articulo-2.md) de Educación Pública, en coordinación con las autoridades locales, selecciona, adquiere, distribuye y ubica de manera permanente dentro del aula de las escuelas públicas de educación básica, para uso exclusivo de los alumnos adscritos a dicha aula;
 

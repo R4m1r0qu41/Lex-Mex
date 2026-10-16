@@ -17,4 +17,4 @@ source_sha256: 02bf4543bd8e99d1bb980a3c513749114a6db35ee94a9ce8ef678cf73d95165b
 
 # Artículo 2
 
-El gasto neto total previsto en el presente Presupuesto de Egresos importa la cantidad de $10,193,683,700,000, y corresponde al total de los ingresos aprobados en la Ley de Ingresos. En términos del artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, para el presente ejercicio fiscal se prevé un déficit presupuestario de $1,393,770,634,695.
+El gasto neto total previsto en el presente Presupuesto de Egresos importa la cantidad de $10,193,683,700,000, y corresponde al total de los ingresos aprobados en la Ley de Ingresos. En términos del artículo [17](../../lfprh/markdown/articulo-17.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, para el presente ejercicio fiscal se prevé un déficit presupuestario de $1,393,770,634,695.

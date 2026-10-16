@@ -23,7 +23,7 @@ Las casas de bolsa deberán anotar, al calce de los estados financieros básicos
 
 “El presente estado de situación financiera se formuló de conformidad con los criterios de (100)
 
-contabilidad para casas de bolsa, emitidos por la [Comisión](articulo-1.md) Nacional Bancaria y de Valores con fundamento en lo dispuesto por los artículos 205, último párrafo, 210, segundo párrafo y 211 de la Ley del Mercado de Valores, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las operaciones efectuadas por la casa de bolsa hasta la fecha arriba mencionada, las cuales se realizaron y valuaron con apego a sanas prácticas bursátiles y a las disposiciones legales y administrativas aplicables.
+contabilidad para casas de bolsa, emitidos por la [Comisión](articulo-1.md) Nacional Bancaria y de Valores con fundamento en lo dispuesto por los artículos [205](../../lmv/markdown/articulo-205.md), último párrafo, [210](../../lmv/markdown/articulo-210.md), segundo párrafo y [211](../../lmv/markdown/articulo-211.md) de la Ley del Mercado de Valores, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las operaciones efectuadas por la casa de bolsa hasta la fecha arriba mencionada, las cuales se realizaron y valuaron con apego a sanas prácticas bursátiles y a las disposiciones legales y administrativas aplicables.
 
 El presente estado de situación financiera fue aprobado por el consejo de administración bajo (100)
 
@@ -33,7 +33,7 @@ la responsabilidad de los directivos que lo suscriben.”
 
 “El presente estado de resultado integral se formuló de conformidad con los criterios de (100)
 
-contabilidad para casas de bolsa, emitidos por la Comisión Nacional Bancaria y de Valores con fundamento en lo dispuesto por los artículos 205, último párrafo, 210, segundo párrafo y 211 de la Ley del Mercado de Valores, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejados todos los ingresos y egresos derivados de las operaciones efectuadas por la casa de bolsa durante el período arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas bursátiles y a las disposiciones legales y administrativas aplicables.
+contabilidad para casas de bolsa, emitidos por la Comisión Nacional Bancaria y de Valores con fundamento en lo dispuesto por los artículos [205](../../lmv/markdown/articulo-205.md), último párrafo, [210](../../lmv/markdown/articulo-210.md), segundo párrafo y [211](../../lmv/markdown/articulo-211.md) de la Ley del Mercado de Valores, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejados todos los ingresos y egresos derivados de las operaciones efectuadas por la casa de bolsa durante el período arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas bursátiles y a las disposiciones legales y administrativas aplicables.
 
 El presente estado de resultado integral fue aprobado por el consejo de administración bajo (100)
 
@@ -43,7 +43,7 @@ la responsabilidad de los directivos que lo suscriben.”
 
 “El presente estado de cambios en el capital contable se formuló de conformidad con los (100)
 
-criterios de contabilidad para casas de bolsa, emitidos por la Comisión Nacional Bancaria y de Valores con fundamento en lo dispuesto por los artículos 205, último párrafo, 210, segundo párrafo y 211 de la Ley del Mercado de Valores, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejados todos los movimientos en las cuentas de capital contable derivados de las operaciones efectuadas por la casa de bolsa durante el período arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas bursátiles y a las disposiciones legales y administrativas aplicables.
+criterios de contabilidad para casas de bolsa, emitidos por la Comisión Nacional Bancaria y de Valores con fundamento en lo dispuesto por los artículos [205](../../lmv/markdown/articulo-205.md), último párrafo, [210](../../lmv/markdown/articulo-210.md), segundo párrafo y [211](../../lmv/markdown/articulo-211.md) de la Ley del Mercado de Valores, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejados todos los movimientos en las cuentas de capital contable derivados de las operaciones efectuadas por la casa de bolsa durante el período arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas bursátiles y a las disposiciones legales y administrativas aplicables.
 
 El presente estado de cambios en el capital contable fue aprobado por el consejo de (100)
 
@@ -51,7 +51,7 @@ administración bajo la responsabilidad de los directivos que lo suscriben.” (
 
 “El presente estado de flujos de efectivo se formuló de conformidad con los Criterios de (100)
 
-Contabilidad para Casas de Bolsa, emitidos por la Comisión Nacional Bancaria y de Valores con fundamento en lo dispuesto por los artículos 205, último párrafo, 210, segundo párrafo y 211 de la Ley del Mercado de Valores, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las entradas de efectivo y salidas de efectivo derivadas de las operaciones efectuadas por la casa de bolsa durante el periodo arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas bursátiles y a las disposiciones legales y administrativas aplicables.
+Contabilidad para Casas de Bolsa, emitidos por la Comisión Nacional Bancaria y de Valores con fundamento en lo dispuesto por los artículos [205](../../lmv/markdown/articulo-205.md), último párrafo, [210](../../lmv/markdown/articulo-210.md), segundo párrafo y [211](../../lmv/markdown/articulo-211.md) de la Ley del Mercado de Valores, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las entradas de efectivo y salidas de efectivo derivadas de las operaciones efectuadas por la casa de bolsa durante el periodo arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas bursátiles y a las disposiciones legales y administrativas aplicables.
 
 El presente estado de flujos de efectivo fue aprobado por el consejo de administración bajo la (100)
 

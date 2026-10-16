@@ -136,6 +136,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:2:reference:89-90:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:2",
+    "source_span": "2",
+    "start_char": 89,
+    "end_char": 90,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrpv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrpv:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:26:reference:213-230:25:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:26",
     "source_span": "artículo anterior",

@@ -282,6 +282,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lse:article:11:reference:10150-10151:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lse:article:11",
+    "source_span": "2",
+    "start_char": 10150,
+    "end_char": 10151,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpc:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lse:article:110:reference:253-256:112:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lse:article:110",
     "source_span": "112",
@@ -421,6 +436,21 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lse:article:152:reference:1628-1630:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lse:article:152",
+    "source_span": "19",
+    "start_char": 1628,
+    "end_char": 1630,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgbn:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -959,6 +989,28 @@
     "target_instrument_id": "urn:lex-mx:federal:statute:lse",
     "target_provision_id": "urn:lex-mx:federal:statute:lse:article:60",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lse:article:77:reference:125-128:113:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lse:article:77",
+    "source_span": "113",
+    "start_char": 125,
+    "end_char": 128,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpc:article:113",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 96,
+        "end_char": 111
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

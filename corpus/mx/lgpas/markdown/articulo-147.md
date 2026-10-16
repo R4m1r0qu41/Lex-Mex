@@ -17,7 +17,7 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 # Artículo 147
 
-Las sanciones administrativas a que se refiere el [artículo anterior](articulo-146.md) se aplicarán sin perjuicio, en su caso, de las penas que correspondan cuando los actos u omisiones constitutivos de infracciones sean también constitutivos de delito, en los términos de las disposiciones penales aplicables y sin perjuicio de la responsabilidad ambiental que pudiera resultar, para lo cual será aplicable lo dispuesto por el artículo 203 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+Las sanciones administrativas a que se refiere el [artículo anterior](articulo-146.md) se aplicarán sin perjuicio, en su caso, de las penas que correspondan cuando los actos u omisiones constitutivos de infracciones sean también constitutivos de delito, en los términos de las disposiciones penales aplicables y sin perjuicio de la responsabilidad ambiental que pudiera resultar, para lo cual será aplicable lo dispuesto por el artículo [203](../../lgeepa/markdown/articulo-203.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 Son responsables solidarios de las sanciones a que haya lugar, aquellas personas físicas o morales que intervienen en la preparación o realización de las infracciones contenidas en el artículo [132](articulo-132.md) de la presente Ley.
 

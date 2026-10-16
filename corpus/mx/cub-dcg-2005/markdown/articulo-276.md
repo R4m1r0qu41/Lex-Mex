@@ -19,7 +19,7 @@ source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
 
 Las instituciones de banca múltiple remitirán mensualmente a través del SITI la (188)
 
-información provisional y definitiva a que se refiere la Cuarta de las “Disposiciones relativas a las cuotas ordinarias que las instituciones de banca múltiple están obligadas a cubrir al Instituto para la Protección al Ahorro Bancario a que se refiere el artículo 22 de la Ley de Protección al Ahorro Bancario” de acuerdo al procedimiento establecido en la Sección Tercera, Capítulo I del Título Cuarto de las presentes disposiciones.
+información provisional y definitiva a que se refiere la Cuarta de las “Disposiciones relativas a las cuotas ordinarias que las instituciones de banca múltiple están obligadas a cubrir al Instituto para la Protección al Ahorro Bancario a que se refiere el artículo [22](../../lpab/markdown/articulo-22.md) de la Ley de Protección al Ahorro Bancario” de acuerdo al procedimiento establecido en la Sección Tercera, Capítulo I del Título Cuarto de las presentes disposiciones.
 
 Sección Segunda.- Derogada (190)
 

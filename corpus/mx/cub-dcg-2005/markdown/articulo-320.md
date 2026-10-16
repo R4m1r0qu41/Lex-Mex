@@ -39,7 +39,7 @@ cumplimiento de los requisitos señalados en el Artículo [318](articulo-318.md)
 
 (300) b) Administración integral de riesgos.
 
-(300) c) Prevención de operaciones con recursos de procedencia ilícita y financiamiento al terrorismo a que se refiere el Artículo 115 de la Ley y las “Disposiciones de carácter general a que se refiere el artículo 115 de la Ley de Instituciones de Crédito” emitidas por la Secretaría, o las que las sustituyan.
+(300) c) Prevención de operaciones con recursos de procedencia ilícita y financiamiento al terrorismo a que se refiere el Artículo 115 de la Ley y las “Disposiciones de carácter general a que se refiere el artículo [115](../../lic/markdown/articulo-115.md) de la Ley de Instituciones de Crédito” emitidas por la Secretaría, o las que las sustituyan.
 
 (300) IV. El procedimiento que emplearía la Institución en la validación para el pago de cheques en caso de realizar operaciones de las referidas en el Artículo [319](articulo-319.md), fracción VII de estas disposiciones.
 

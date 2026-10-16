@@ -37,12 +37,12 @@ V. Cuando la Institución de Fianzas al ser requerida, no rinda las cuentas de s
 
 Las acciones para pedir cuentas, para exigir la responsabilidad de la institución fiduciaria y para pedir su remoción, corresponderán al fideicomisario o a sus representantes legales y a falta de éstos al Ministerio Público, sin perjuicio de poder el fideicomitente reservarse en el acto constitutivo del fideicomiso o en las modificaciones del mismo, el derecho para ejercitar esta acción.
 
-En caso de renuncia o remoción se estará a lo dispuesto en el párrafo final del artículo 385 de la Ley General de Títulos y Operaciones de Crédito;
+En caso de renuncia o remoción se estará a lo dispuesto en el párrafo final del artículo [385](../../lgtoc/markdown/articulo-385.md) de la Ley General de Títulos y Operaciones de Crédito;
 
 VI. Los recursos recibidos por las Instituciones de Fianzas con cargo a contratos de fideicomiso no podrán cubrir la [Base de Inversión](articulo-2.md) que dichas instituciones deben constituir de acuerdo a lo dispuesto en esta Ley, ni podrán considerarse para efecto alguno como parte de los cómputos relativos a los [Fondos Propios Admisibles](articulo-2.md) que respaldan el requerimiento de capital de solvencia previsto en el artículo [232](articulo-232.md) de esta Ley;
 
 VII. La Comisión determinará, mediante disposiciones de carácter general que emita con acuerdo de su Junta de Gobierno y escuchando la opinión del Banco de México, el monto máximo de recursos que una Institución de Fianzas podrá recibir en fideicomiso, considerando su capital pagado, los Fondos Propios Admisibles que respalden su requerimiento de capital de solvencia y cualquier otro elemento que apoye su solvencia, y
 
-VIII. Cuando se trate de operaciones de fideicomiso que constituya el Gobierno Federal o que él mismo, para los efectos de este artículo declare de interés público a través de la [Secretaría](articulo-2.md), no será aplicable el plazo que establece la fracción III del artículo 394 de la Ley General de Títulos y Operaciones de Crédito.
+VIII. Cuando se trate de operaciones de fideicomiso que constituya el Gobierno Federal o que él mismo, para los efectos de este artículo declare de interés público a través de la [Secretaría](articulo-2.md), no será aplicable el plazo que establece la fracción III del artículo [394](../../lgtoc/markdown/articulo-394.md) de la Ley General de Títulos y Operaciones de Crédito.
 
 En lo no previsto por lo anterior, a las Instituciones de Fianzas fiduciarias les será aplicable lo establecido en la Ley General de Títulos y Operaciones de Crédito.

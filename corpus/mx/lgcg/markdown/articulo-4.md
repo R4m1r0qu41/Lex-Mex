@@ -35,7 +35,7 @@ VII. Cuentas contables: las cuentas necesarias para el registro contable de las 
 
 VIII. Cuentas presupuestarias: las cuentas que conforman los clasificadores de ingresos y gastos públicos;
 
-IX. Cuenta pública: el documento a que se refiere el artículo 74, fracción VI de la Constitución Política de los Estados Unidos Mexicanos; así como el informe que, conforme a las constituciones locales, rinden las entidades federativas y los municipios; Fracción reformada DOF 19-01-2018
+IX. Cuenta pública: el documento a que se refiere el artículo [74](../../cpeum/markdown/articulo-74.md), fracción VI de la Constitución Política de los Estados Unidos Mexicanos; así como el informe que, conforme a las constituciones locales, rinden las entidades federativas y los municipios; Fracción reformada DOF 19-01-2018
 
 X. Deuda pública: las obligaciones de pasivo, directas o contingentes, derivadas de financiamientos a cargo de los gobiernos federal, de las entidades federativas o municipales, en términos de las disposiciones legales aplicables, sin perjuicio de que dichas obligaciones tengan como propósito operaciones de canje o refinanciamiento; Fracción reformada DOF 19-01-2018
 

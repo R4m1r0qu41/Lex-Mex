@@ -17,4 +17,4 @@ source_sha256: e05548ce5210162f6613eab2a8d8e53b7eed65ffe4a909d4665277fe1726e369
 
 # Artículo 49
 
-El aplazamiento de incorporación en las unidades del activo, es potestativo del Estado concederlo a quienes se encuentren comprendidos en el artículo 26 de la Ley del Servicio Militar y en consecuencia, su otorgamiento no exonera a los aplazados de las obligaciones que pesan sobre los de su clase.
+El aplazamiento de incorporación en las unidades del activo, es potestativo del Estado concederlo a quienes se encuentren comprendidos en el artículo [26](../../lsm/markdown/articulo-26.md) de la Ley del Servicio Militar y en consecuencia, su otorgamiento no exonera a los aplazados de las obligaciones que pesan sobre los de su clase.

@@ -39,7 +39,7 @@ VIII. Dar cumplimiento a los requisitos legales y estatutarios establecidos con 
 
 IX. Asegurar que se mantengan los sistemas de contabilidad, registro, archivo o información de la sociedad.
 
-X. Elaborar y presentar al consejo de administración el informe a que se refiere el artículo 172 de la Ley General de Sociedades Mercantiles, con excepción de lo relativo a las principales políticas y criterios contables y de información seguidos en la preparación de la información financiera.
+X. Elaborar y presentar al consejo de administración el informe a que se refiere el artículo [172](../../lgsm/markdown/articulo-172.md) de la Ley General de Sociedades Mercantiles, con excepción de lo relativo a las principales políticas y criterios contables y de información seguidos en la preparación de la información financiera.
 
 XI. Establecer mecanismos y controles internos que permitan verificar que los actos de la Sociedad Controladora, entidades financieras integrantes del Grupo Financiero y Subcontroladoras, se hayan apegado a la normativa aplicable, así como dar seguimiento a los resultados de esos mecanismos y controles internos y tomar las medidas que resulten necesarias en su caso.
 

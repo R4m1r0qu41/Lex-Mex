@@ -15,4 +15,4 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # SEXTO
 
-Se derogan los artículos 35 a 41; 46, fracción III; y 150 a 155 del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+Se derogan los artículos [35](../../reg-lfprh/markdown/articulo-35.md) a [41](../../reg-lfprh/markdown/articulo-41.md); [46](../../reg-lfprh/markdown/articulo-46.md), fracción III; y [150](../../reg-lfprh/markdown/articulo-150.md) a [155](../../reg-lfprh/markdown/articulo-155.md) del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.

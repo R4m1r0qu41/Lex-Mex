@@ -17,4 +17,4 @@ source_sha256: d8e73214cb24d2de425b58971ee1f4ff50a7ae1b7eeeff05c929649818601228
 
 # Artículo 27
 
-El Sistema Nacional para el Desarrollo Integral de la Familia es el Organismo Público Descentralizado, con patrimonio y personalidad jurídica propios, a que se refiere el Artículo 172 de la Ley General de Salud.
+El Sistema Nacional para el Desarrollo Integral de la Familia es el Organismo Público Descentralizado, con patrimonio y personalidad jurídica propios, a que se refiere el Artículo [172](../../lgs/markdown/articulo-172.md) de la Ley General de Salud.

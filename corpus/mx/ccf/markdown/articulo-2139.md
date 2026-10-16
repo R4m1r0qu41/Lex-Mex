@@ -17,4 +17,4 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 2139
 
-Las acciones rescisorias y de indemnización a que se refiere el artículo que precede, prescriben en un año, que se contará para la primera, desde el día en que se perfeccionó el contrato y para la segunda, desde el día en que el adquirente tenga noticia de la carga o servidumbre.
+Las acciones rescisorias y de indemnización a que se refiere el [artículo que precede](articulo-2138.md), prescriben en un año, que se contará para la primera, desde el día en que se perfeccionó el contrato y para la segunda, desde el día en que el adquirente tenga noticia de la carga o servidumbre.

@@ -16,7 +16,7 @@ source_sha256: b040dd53cd38f57ceaacd736fd04475ba82c840d063c62229302627d09f3f363
 
 # Artículo 1
 
-Para efectos de las presentes disposiciones y en adición a los conceptos previstos en el artículo 2 de la Ley del Mercado de Valores, se entenderá por:
+Para efectos de las presentes disposiciones y en adición a los conceptos previstos en el artículo [2](../../lmv/markdown/articulo-2.md) de la Ley del Mercado de Valores, se entenderá por:
 
 I. Actualización de la inscripción, a la modificación de la inscripción en el número, clase, serie o importe de las acciones o certificados de participación ordinarios sobre acciones, inscritos en el Registro.
 
@@ -46,7 +46,7 @@ a) El precio de las acciones, o bien, de los certificados bursátiles fiduciario
 
 1. Preste servicios de auditoría externa de estados financieros básicos o sea empleado o socio del despacho en el que labore el auditor externo de la emisora.
 
-2. Emita la opinión legal a que se refiere el artículo 85, fracción IV de la Ley del Mercado de Valores o sea empleado o socio del despacho en el que labore la persona que rinda la citada opinión legal.
+2. Emita la opinión legal a que se refiere el artículo [85](../../lmv/markdown/articulo-85.md), fracción IV de la Ley del Mercado de Valores o sea empleado o socio del despacho en el que labore la persona que rinda la citada opinión legal.
 
 3. Trabaje o desempeñe un empleo, cargo o comisión en algún intermediario del mercado de valores que participe con motivo de la realización de cualquier operación de la emisora en cuestión.
 
@@ -72,7 +72,7 @@ e) Que actúen como fiduciarias de fideicomisos que se constituyan con el fin de
 
 XIV. Inscripción, a la anotación que realiza la Comisión en el Registro respecto de los valores de una emisora y sus características.
 
-XV. Intermediario Colocador, a la casa de bolsa que suscriba el contrato de colocación con la emisora y sea responsable de realizar la revisión y análisis de la documentación e información relativa al negocio y actividades de la propia emisora y demás actividades a que hace referencia el artículo 177 Bis de la Ley del Mercado de Valores, para que se obtenga la [Inscripción](articulo-1.md) de algún valor y, en su caso, aprobación de su oferta pública, así como de llevar a cabo la colocación de dichos valores en el mercado.
+XV. Intermediario Colocador, a la casa de bolsa que suscriba el contrato de colocación con la emisora y sea responsable de realizar la revisión y análisis de la documentación e información relativa al negocio y actividades de la propia emisora y demás actividades a que hace referencia el artículo [177 Bis](../../lmv/markdown/articulo-177-Bis.md) de la Ley del Mercado de Valores, para que se obtenga la [Inscripción](articulo-1.md) de algún valor y, en su caso, aprobación de su oferta pública, así como de llevar a cabo la colocación de dichos valores en el mercado.
 
 XVI. Inversionista calificado:
 

@@ -23,7 +23,7 @@ I. Comprobar que quienes capacitarán o adiestrarán a los trabajadores, están 
 
 II. Acreditar satisfactoriamente, a juicio de la Secretaría del Trabajo y Previsión Social, tener conocimientos bastantes sobre los procedimientos tecnológicos propios de la rama industrial o actividad en la que pretendan impartir dicha capacitación o adiestramiento; y
 
-III. No estar ligadas con personas o instituciones que propaguen algún credo religioso, en los términos de la prohibición establecida por la fracción IV del Artículo [3](articulo-3o.md)o. Constitucional.
+III. No estar ligadas con personas o instituciones que propaguen algún credo religioso, en los términos de la prohibición establecida por la fracción IV del Artículo 3o. Constitucional.
 
 El registro concedido en los términos de este artículo podrá ser revocado cuando se contravengan las disposiciones de esta Ley.
 

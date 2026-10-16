@@ -27,4 +27,4 @@ II. Las características personales y situación económica de la persona quejos
 
 III. La posibilidad de que se sustraiga a la acción de la justicia.
 
-No se exigirá garantía cuando la suspensión únicamente tenga los efectos a que se refiere el artículo [163](articulo-163.md) de esta Ley. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS El incumplimiento de cualesquiera de las condiciones fijadas por la persona juzgadora dará lugar a la revocación de la suspensión. Párrafo adicionado DOF 16-10-2025
+No se exigirá garantía cuando la suspensión únicamente tenga los efectos a que se refiere el artículo [163](articulo-163.md) de esta Ley. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS El incumplimiento de cualesquiera de las condiciones fijadas por la persona juzgadora dará lugar a la revocación de la suspensión. Párrafo adicionado DOF 16-10-2025

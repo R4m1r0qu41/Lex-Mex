@@ -36,7 +36,7 @@ El límite máximo de financiamiento que se podrá otorgar a una persona será e
 
 su capital neto, en términos de lo dispuesto por el inciso h) de la fracción I del artículo 19 de la Ley y el Capítulo I del Título tercero de las presentes disposiciones.
 
-4. Tratándose de sociedades cooperativas a las que se refiere la fracción I y II del artículo 21 de la Ley General de Sociedades Cooperativas, la suma de los financiamientos otorgados a un Socio, o grupo de Socios que sean parte de un mismo grupo de “Riesgo Común”, no podrá exceder del 20 por ciento del capital neto de la Sociedad Cooperativa de Ahorro y Préstamo acreditante.
+4. Tratándose de sociedades cooperativas a las que se refiere la fracción I y II del artículo [21](../../lgsc/markdown/articulo-21.md) de la Ley General de Sociedades Cooperativas, la suma de los financiamientos otorgados a un Socio, o grupo de Socios que sean parte de un mismo grupo de “Riesgo Común”, no podrá exceder del 20 por ciento del capital neto de la Sociedad Cooperativa de Ahorro y Préstamo acreditante.
 
 5. Tratándose de Microcréditos Productivos el importe máximo que las Sociedades podrán entregar a un Socio de manera directa, no podrá exceder de 12,000 UDIS, mientras que para el caso de grupos de Socios que contraten mancomunadamente un Microcrédito Productivo, el monto máximo que las Sociedades podrán otorgar será de 20,000 UDIS al grupo de Socios, siendo el máximo por cada Socio el equivalente a 2,500 UDIS por cada uno de los Socios que integren el grupo. Se deberá considerar el valor de la UDI a la fecha de la concertación del Microcrédito Productivo.
 

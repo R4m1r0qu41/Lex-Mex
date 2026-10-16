@@ -46,6 +46,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lftr-mcsre:article:3:reference:89-90:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lftr-mcsre:article:3",
+    "source_span": "3",
+    "start_char": 89,
+    "end_char": 90,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lftr",
+    "target_provision_id": "urn:lex-mx:federal:statute:lftr:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lftr-mcsre:article:3:reference:288-290:15:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lftr-mcsre:article:3",
     "source_span": "15",

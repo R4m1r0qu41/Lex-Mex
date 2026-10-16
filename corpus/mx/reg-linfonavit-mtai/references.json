@@ -28,5 +28,57 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2:reference:451-453:10:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "source_span": "10",
+    "start_char": 451,
+    "end_char": 453,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonavit",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonavit:article:10",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción X",
+        "start_char": 455,
+        "end_char": 465
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2:reference:701-707:25-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "source_span": "25 bis",
+    "start_char": 701,
+    "end_char": 707,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonavit",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonavit:article:25-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2:reference:710-718:25-bis-1:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "source_span": "25 bis 1",
+    "start_char": 710,
+    "end_char": 718,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonavit",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonavit:article:25-bis-1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   }
 ]

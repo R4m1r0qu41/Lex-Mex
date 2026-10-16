@@ -17,7 +17,7 @@ source_sha256: 5edf7b5ad4dd65a9c97c02ec51f13499aa7ab5025f02ad6e9be3c948ff3cf185
 
 # Artículo 29
 
-El órgano de gobierno tendrá las atribuciones indelegables previstas en los artículos 15, segundo párrafo, y 58 de la Ley Federal de las Entidades Paraestatales.
+El órgano de gobierno tendrá las atribuciones indelegables previstas en los artículos [15](../../lfep/markdown/articulo-15.md), segundo párrafo, y [58](../../lfep/markdown/articulo-58.md) de la Ley Federal de las Entidades Paraestatales.
 
 Asimismo, tendrá la atribución indelegable de nombrar y remover, por mayoría calificada de cinco votos, al [Secretario Técnico](articulo-3.md), de conformidad con lo establecido por esta Ley.
 

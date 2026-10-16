@@ -65,7 +65,7 @@ i) Descripción de los procedimientos del manejo y almacenamiento de los reactiv
 
 Dichos animales deberán ser identificados desde su ingreso, y deberán conservarse los registros de su recepción, historial de uso y disposición final;
 
-XVI. Realizar las pruebas de control en proceso, de acuerdo con los métodos aprobados conforme al artículo 8 del Reglamento de Insumos para la Salud, la Farmacopea de los Estados Unidos Mexicanos y su Sistema de Gestión de Calidad;
+XVI. Realizar las pruebas de control en proceso, de acuerdo con los métodos aprobados conforme al artículo [8](../../reg-lgs-insumos/markdown/articulo-8o.md) del Reglamento de Insumos para la Salud, la Farmacopea de los Estados Unidos Mexicanos y su Sistema de Gestión de Calidad;
 
 XVII. Establecer un procedimiento que señale las acciones a seguir en caso de que se obtengan resultados analíticos fuera de especificaciones;
 

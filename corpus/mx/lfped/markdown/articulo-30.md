@@ -17,7 +17,7 @@ source_sha256: f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9
 
 # Artículo 30
 
-La Presidencia del [Consejo](articulo-1.md) tendrá, además de aquellas que establece el artículo 59 de la [Ley](articulo-1.md) Federal de las Entidades Paraestatales, las siguientes atribuciones: Párrafo reformado DOF 20-03-2014
+La Presidencia del [Consejo](articulo-1.md) tendrá, además de aquellas que establece el artículo [59](../../lfep/markdown/articulo-59.md) de la [Ley](articulo-1.md) Federal de las Entidades Paraestatales, las siguientes atribuciones: Párrafo reformado DOF 20-03-2014
 
 I. Planear, organizar, coordinar, dirigir, controlar y evaluar el funcionamiento del Consejo, con sujeción a las disposiciones aplicables;
 

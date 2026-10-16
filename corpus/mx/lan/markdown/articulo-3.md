@@ -19,7 +19,7 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 Para los efectos de esta Ley se entenderá por:
 
-I. "Aguas Nacionales": Son aquellas referidas en el Párrafo Quinto del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
+I. "Aguas Nacionales": Son aquellas referidas en el Párrafo Quinto del Artículo [27](../../cpeum/markdown/articulo-27.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. "Acuífero": Cualquier formación geológica o conjunto de formaciones geológicas hidráulicamente conectados entre sí, por las que circulan o se almacenan aguas del subsuelo que pueden ser extraídas para su explotación, uso o aprovechamiento y cuyos límites laterales y verticales se definen convencionalmente para fines de evaluación, manejo y administración de las aguas nacionales del subsuelo; III. "Aguas claras" o "Aguas de primer uso": Aquellas provenientes de distintas fuentes naturales y de almacenamientos artificiales que no han sido objeto de uso previo alguno;
 
@@ -151,7 +151,7 @@ LIV. "Uso Ambiental" o "Uso para conservación ecológica": El caudal o volumen 
 
 LV. "Uso Consuntivo": El volumen de agua de una calidad determinada que se consume al llevar a cabo una actividad específica, el cual se determina como la diferencia del volumen de una calidad determinada que se extrae, menos el volumen de una calidad también determinada que se descarga, y que se señalan en el título respectivo;
 
-LVI. "Uso Doméstico": La aplicación de agua nacional para el uso particular de las personas y del hogar, riego de sus jardines y de árboles de ornato, incluyendo el abrevadero de animales domésticos que no constituya una actividad lucrativa, en términos del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+LVI. "Uso Doméstico": La aplicación de agua nacional para el uso particular de las personas y del hogar, riego de sus jardines y de árboles de ornato, incluyendo el abrevadero de animales domésticos que no constituya una actividad lucrativa, en términos del Artículo [115](../../cpeum/markdown/articulo-115.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 LVII. “Uso en Acuacultura”: El aprovechamiento de paso de aguas nacionales en el conjunto de actividades dirigidas a la reproducción controlada, pre engorda y engorda de especies de la fauna y flora realizadas en instalaciones en aguas nacionales, por medio de técnicas de cría o cultivo, que sean susceptibles de explotación comercial, ornamental o recreativa; Fracción reformada DOF 24-03-2016
 

@@ -19,9 +19,9 @@ source_sha256: 1b8883c465f17c991ae5faeffeedffc8fee4b0b5bd7c2d2f080264fee2b3805c
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Comisiones Estatales de Productividad: Las establecidas de conformidad con el artículo 153-Q de la Ley Federal del Trabajo;
+I. Comisiones Estatales de Productividad: Las establecidas de conformidad con el artículo [153-Q](../../lft/markdown/articulo-153-Q.md) de la Ley Federal del Trabajo;
 
-II. Comité: El Comité Nacional de Productividad, previsto en el artículo 153-K de la Ley Federal del Trabajo;
+II. Comité: El Comité Nacional de Productividad, previsto en el artículo [153-K](../../lft/markdown/articulo-153-K.md) de la Ley Federal del Trabajo;
 
 III. Competitividad: El conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo, las cuales se sustentarán primordialmente en el incremento sostenido de la productividad total de los factores;
 

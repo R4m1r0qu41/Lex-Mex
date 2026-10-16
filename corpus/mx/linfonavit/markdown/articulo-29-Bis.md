@@ -15,7 +15,7 @@ source_sha256: 9ee6e5ef336dee5700726bd3c570d24f91fc458136e298ae2e3806bd12217912
 
 # Artículo 29 Bis
 
-Las personas físicas o morales que se encuentren registradas en términos del artículo 15 de la Ley Federal del Trabajo para llevar a cabo la prestación de servicios especializados o la ejecución de obras especializadas que no forman parte del objeto social ni de la actividad económica preponderante de la beneficiaria de los mismos, deberán proporcionar cuatrimestralmente a más tardar el día 17 de los meses de enero, mayo y septiembre, la información de los contratos celebrados en el cuatrimestre de que se trate, conforme a lo siguiente:
+Las personas físicas o morales que se encuentren registradas en términos del artículo [15](../../lft/markdown/articulo-15.md) de la Ley Federal del Trabajo para llevar a cabo la prestación de servicios especializados o la ejecución de obras especializadas que no forman parte del objeto social ni de la actividad económica preponderante de la beneficiaria de los mismos, deberán proporcionar cuatrimestralmente a más tardar el día 17 de los meses de enero, mayo y septiembre, la información de los contratos celebrados en el cuatrimestre de que se trate, conforme a lo siguiente:
 
 a) Datos Generales;
 

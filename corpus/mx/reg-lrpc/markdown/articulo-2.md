@@ -33,6 +33,6 @@ VI. Estatuto derivado: Mecanismo mediante el cual los extranjeros a que se refie
 
 VII. Integración: Proceso mediante el cual los refugiados, durante su estancia en territorio nacional, desarrollan condiciones de autosuficiencia, acceso al trabajo, educación, servicios de salud, adaptación en el ámbito social y cultural, entre otros;
 
-VIII. Instituto: Instituto Nacional de Migración; IX. Organizaciones de la Sociedad Civil: Agrupaciones civiles y sociales, legalmente constituidas, entre ellas las que se refiere el artículo 5 de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, y
+VIII. Instituto: Instituto Nacional de Migración; IX. Organizaciones de la Sociedad Civil: Agrupaciones civiles y sociales, legalmente constituidas, entre ellas las que se refiere el artículo [5](../../lffaosc/markdown/articulo-5.md) de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, y
 
 X. Subsecretaría: La Subsecretaría que conozca de la materia migratoria de acuerdo con la estructura orgánica vigente de la Secretaría.

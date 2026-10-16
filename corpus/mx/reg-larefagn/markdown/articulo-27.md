@@ -21,4 +21,4 @@ Para determinar el peso, como factor determinante para establecer el estado de s
 
 Peso I. I.M.C. (en unidades) = Estatura al cuadrado
 
-II. Para determinar el grado de incapacidad o trastorno funcional de menos del 20% por este padecimiento, se observará lo estipulado en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas. Fracción reformada DOF 20-03-2026
+II. Para determinar el grado de incapacidad o trastorno funcional de menos del 20% por este padecimiento, se observará lo estipulado en el artículo [226](../../lissfam/markdown/articulo-226.md) de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas. Fracción reformada DOF 20-03-2026

@@ -36,7 +36,7 @@ Para efectos de lo establecido en las fracciones I a IV anteriores se entenderá
 
 Sin perjuicio de lo establecido en el presente artículo, aquellas Operaciones Sujetas a Riesgo de (227)
 
-Crédito con o a cargo de la Ciudad de México que correspondan a Financiamientos originados de conformidad con lo dispuesto en el artículo 33 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y cuenten con la garantía del Gobierno Federal, o bien que correspondan a deuda estatal garantizada en los términos del Capítulo IV del Título Tercero de la ley citada, tendrán una ponderación por riesgo de crédito de 0 (cero) por ciento.
+Crédito con o a cargo de la Ciudad de México que correspondan a Financiamientos originados de conformidad con lo dispuesto en el artículo [33](../../ldfefm/markdown/articulo-33.md) de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y cuenten con la garantía del Gobierno Federal, o bien que correspondan a deuda estatal garantizada en los términos del Capítulo IV del Título Tercero de la ley citada, tendrán una ponderación por riesgo de crédito de 0 (cero) por ciento.
 
 En el caso, de que se cuente con una Calificación específica de la Operación Sujeta a Riesgo de Crédito (370)
 

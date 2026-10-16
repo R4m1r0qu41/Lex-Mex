@@ -57,6 +57,6 @@ Se podrá exceptuar la participación del testigo social en las contrataciones p
 
 El Reglamento de esta Ley establecerá los términos para el funcionamiento y operación de los testigos sociales en las contrataciones públicas.
 
-La Secretaría establecerá los montos de la contraprestación al testigo social en contrataciones públicas, en función de la importancia y del presupuesto asignado a la contratación, mismos que no podrán exceder los montos de las remuneraciones máximas permitidas a las personas servidoras públicas en términos de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones jurídicas aplicables.
+La Secretaría establecerá los montos de la contraprestación al testigo social en contrataciones públicas, en función de la importancia y del presupuesto asignado a la contratación, mismos que no podrán exceder los montos de las remuneraciones máximas permitidas a las personas servidoras públicas en términos de los artículos [75](../../cpeum/markdown/articulo-75.md) y [127](../../cpeum/markdown/articulo-127.md) de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones jurídicas aplicables.
 
 Artículo adicionado DOF 28-05-2009. Reformado DOF 16-04-2025

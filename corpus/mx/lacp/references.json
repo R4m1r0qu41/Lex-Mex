@@ -1719,6 +1719,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:article:146:reference:1627-1628:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lacp:article:146",
+    "source_span": "5",
+    "start_char": 1627,
+    "end_char": 1628,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lcnbv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:5",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 1630,
+        "end_char": 1644
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lacp:article:147:reference:229-232:146:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lacp:article:147",
     "source_span": "146",
@@ -3650,6 +3672,36 @@
     "end_char": 1028,
     "target_instrument_id": "urn:lex-mx:federal:statute:lacp",
     "target_provision_id": "urn:lex-mx:federal:statute:lacp:article:118",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:article:46-bis-6:reference:343-346:125:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lacp:article:46-bis-6",
+    "source_span": "125",
+    "start_char": 343,
+    "end_char": 346,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:125",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lacp:article:46-bis-6:reference:2376-2379:113:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lacp:article:46-bis-6",
+    "source_span": "113",
+    "start_char": 2376,
+    "end_char": 2379,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:113",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

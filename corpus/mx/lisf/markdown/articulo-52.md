@@ -27,7 +27,7 @@ III. Los formularios a que se refiere el presente artículo estarán foliados y 
 
 IV. Los formularios a que se refiere este precepto contendrán el respectivo orden del día.
 
-La Institución deberá tener a disposición de los representantes de los accionistas los formularios de los poderes, durante el plazo a que se refiere el artículo 173 de la Ley General de Sociedades Mercantiles, a fin de que aquéllos puedan hacerlos llegar con oportunidad a sus representados.
+La Institución deberá tener a disposición de los representantes de los accionistas los formularios de los poderes, durante el plazo a que se refiere el artículo [173](../../lgsm/markdown/articulo-173.md) de la Ley General de Sociedades Mercantiles, a fin de que aquéllos puedan hacerlos llegar con oportunidad a sus representados.
 
 Los escrutadores estarán obligados a cerciorarse de la observancia de lo dispuesto en este artículo e informar sobre ello a la asamblea, lo que se hará constar en el acta respectiva.
 

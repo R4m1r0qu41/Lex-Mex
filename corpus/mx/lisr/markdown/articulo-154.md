@@ -31,7 +31,7 @@ En el caso de la fracción VII del artículo [94](articulo-94.md) de esta Ley, s
 
 Cuando el ingreso de que se trate se perciba por periodos de doce meses en los términos del séptimo párrafo de este artículo y dichos periodos no coincidan con el año calendario, se aplicarán las tasas previstas en las fracciones anteriores, en función del periodo de doce meses en lugar del año de calendario.
 
-Para los efectos de lo dispuesto en este artículo y el artículo [156](articulo-156.md) de esta Ley, los contribuyentes podrán garantizar el pago del impuesto sobre la renta que pudiera causarse con motivo de la realización de sus actividades en territorio nacional, mediante depósito en las cuentas a que se refiere la fracción I del artículo 141 del Código Fiscal de la Federación.
+Para los efectos de lo dispuesto en este artículo y el artículo [156](articulo-156.md) de esta Ley, los contribuyentes podrán garantizar el pago del impuesto sobre la renta que pudiera causarse con motivo de la realización de sus actividades en territorio nacional, mediante depósito en las cuentas a que se refiere la fracción I del artículo [141](../../cff/markdown/articulo-141.md) del Código Fiscal de la Federación.
 
 Se exceptúan del pago del impuesto a que se refiere este artículo, por los ingresos por salarios y en general por la prestación de un servicio personal subordinado, pagados por residentes en el extranjero, personas físicas o morales, que no tengan establecimiento permanente en el país o que teniéndolo, el servicio no esté relacionado con dicho establecimiento, siempre que la estancia del prestador del servicio en territorio nacional sea menor a 183 días naturales, consecutivos o no, en un periodo de doce meses.
 

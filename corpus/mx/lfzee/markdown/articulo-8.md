@@ -19,7 +19,7 @@ source_sha256: a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e
 
 El Titular del Ejecutivo Federal, a través del decreto correspondiente, emitirá la declaratoria de la [Zona](articulo-3.md). Dicho decreto será publicado en el Diario Oficial de la Federación y contendrá:
 
-I. La delimitación geográfica precisa de la Zona en su modalidad unitaria, o bien, el polígono territorial donde podrán establecerse secciones, señalando las entidades federativas y los municipios en los que se ubicará la Zona. En su caso, deberá señalar los inmuebles del dominio público de la Federación que serán destinados para establecer la Zona, para los efectos previstos en el artículo 9 de la Ley General de Bienes Nacionales;
+I. La delimitación geográfica precisa de la Zona en su modalidad unitaria, o bien, el polígono territorial donde podrán establecerse secciones, señalando las entidades federativas y los municipios en los que se ubicará la Zona. En su caso, deberá señalar los inmuebles del dominio público de la Federación que serán destinados para establecer la Zona, para los efectos previstos en el artículo [9](../../lgbn/markdown/articulo-9.md) de la Ley General de Bienes Nacionales;
 
 II. La delimitación geográfica del [Área de Influencia](articulo-3.md), señalando las entidades federativas y los municipios en los que se ubicará la misma;
 

@@ -24,7 +24,7 @@ Grupo 1. Estará integrado por:
 
 I. Caja.
 
-II. Operaciones Sujetas a Riesgo de Crédito con o a cargo de las dependencias que conforman la administración pública federal centralizada a la que se refiere el artículo 1 de la Ley Orgánica de la Administración Pública Federal.
+II. Operaciones Sujetas a Riesgo de Crédito con o a cargo de las dependencias que conforman la administración pública federal centralizada a la que se refiere el artículo [1](../../loapf/markdown/articulo-1o.md) de la Ley Orgánica de la Administración Pública Federal.
 
 III. Operaciones Sujetas a Riesgo de Crédito con o a cargo del Instituto para la Protección al Ahorro Bancario.
 
@@ -102,7 +102,7 @@ Los créditos y valores que no cuenten con Calificación propia, pero que estén
 
 Para efectos de la ponderación del riesgo de crédito establecido en las fracciones I a IV anteriores, se entenderá como categoría de Calificación siguiente inferior al grado de Calificación otorgado por las Instituciones Calificadoras reconocidas por la Comisión, representado por letras que, a su vez, podrán tener diferentes niveles representados por números o signos, o ambos, que representen una Calificación menor inmediata respecto a otra determinada, con base en las variaciones de las letras.
 
-Sin perjuicio de lo establecido en el presente artículo, aquellas Operaciones Sujetas a Riesgo de Crédito con o a cargo de la Ciudad de México que correspondan a financiamientos originados de conformidad con lo dispuesto en el artículo 33 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y cuenten con la garantía del Gobierno Federal, o bien que correspondan a deuda estatal garantizada en los términos del Título Tercero, Capítulo IV de la citada ley, tendrán una ponderación por riesgo de crédito de 0 por ciento.
+Sin perjuicio de lo establecido en el presente artículo, aquellas Operaciones Sujetas a Riesgo de Crédito con o a cargo de la Ciudad de México que correspondan a financiamientos originados de conformidad con lo dispuesto en el artículo [33](../../ldfefm/markdown/articulo-33.md) de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y cuenten con la garantía del Gobierno Federal, o bien que correspondan a deuda estatal garantizada en los términos del Título Tercero, Capítulo IV de la citada ley, tendrán una ponderación por riesgo de crédito de 0 por ciento.
 
 En el caso, de que se cuente con una Calificación específica de la Operación Sujeta a Riesgo de Crédito de que se trate, distinta de la otorgada a los entes públicos referidos en el presente artículo, las Sociedades Financieras Populares deberán determinar la ponderación por riesgo de crédito en función de las fracciones I a III del presente artículo, siempre que dicha operación se encuentre registrada ante la Secretaría y esté calificada por al menos una de las Instituciones Calificadoras autorizadas por la Comisión. Lo anterior en el entendido de que, si se cuenta con dos o más Calificaciones específicas de la Operación Sujeta a Riesgo de Crédito, otorgadas por las Instituciones Calificadoras autorizadas por la Comisión, para determinar la diferencia entre las categorías de calificación a que se refieren las fracciones I a III anteriores, se considerará la Calificación específica de aquella Institución Calificadora determinada por los criterios establecidos el Anexo O Bis 1 de las presentes disposiciones.
 

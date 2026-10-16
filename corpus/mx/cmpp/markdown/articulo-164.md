@@ -19,7 +19,7 @@ source_sha256: 351c69a7bc3f61976933d76e45cf185a721a331a145778dd3f315df5216a5e32
 
 Causas de procedencia El [Ministerio Público](articulo-3.md) sólo podrá solicitar a la [Persona Juzgadora de Control](articulo-3.md) la prisión preventiva o el resguardo domiciliario cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia de la persona militar imputada en el juicio, el desarrollo de la investigación, la protección de la víctima u ofendido, de los testigos o de la comunidad así como cuando la persona militar imputada esté siendo procesada o haya sido sentenciada previamente por la comisión de un delito doloso, siempre y cuando la causa diversa no sea acumulable o conexa en los términos del presente [Código](articulo-3.md). Párrafo reformado DOF 16-07-2025
 
-Lo anterior en términos de lo previsto en el artículo 57 del Código de Justicia Militar.
+Lo anterior en términos de lo previsto en el artículo [57](../../cjm/markdown/articulo-57.md) del Código de Justicia Militar.
 
 En el supuesto de que la persona militar imputada esté siendo procesada por otro delito distinto de aquel en el que se solicite la prisión preventiva, deberá analizarse si ambos procesos son susceptibles de acumulación, en cuyo caso la existencia de proceso previo no dará lugar por si sola a la procedencia de la prisión preventiva. Párrafo reformado DOF 16-07-2025
 

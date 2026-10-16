@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 69
 
-La Comisión Federal de Electricidad, a través del área que corresponda, debe realizar los registros de las cuentas por los conceptos de presupuesto y gasto de los recursos económicos destinados a cumplir con las obligaciones señaladas en los artículos 91, fracción VII y 136, último párrafo de la Ley del Sector Eléctrico.
+La Comisión Federal de Electricidad, a través del área que corresponda, debe realizar los registros de las cuentas por los conceptos de presupuesto y gasto de los recursos económicos destinados a cumplir con las obligaciones señaladas en los artículos [91](../../lse/markdown/articulo-91.md), fracción VII y [136](../../lse/markdown/articulo-136.md), último párrafo de la Ley del Sector Eléctrico.

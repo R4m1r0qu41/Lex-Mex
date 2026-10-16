@@ -18,7 +18,7 @@ source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
 
 # Artículo 1
 
-Para efectos de las presentes disposiciones serán aplicables, en singular o plural, las definiciones señaladas en el artículo 3 de la Ley de Ahorro y Crédito Popular y, adicionalmente, se entenderá por:
+Para efectos de las presentes disposiciones serán aplicables, en singular o plural, las definiciones señaladas en el artículo [3](../../lacp/markdown/articulo-3o.md) de la Ley de Ahorro y Crédito Popular y, adicionalmente, se entenderá por:
 
 (65) (93) 6 I. Administrador de Comisionistas, a los comisionistas que operan al amparo de lo dispuesto por el artículo [265 Bis 52](articulo-265-Bis-52.md) de las presentes disposiciones
 
@@ -64,7 +64,7 @@ del Título Cuarto de las presentes disposiciones, expresado en porcentaje redon
 
 (94) 9
 
-XI. Comité de Crédito, al Comité de Crédito o su equivalente a que se refiere el artículo 26 de la Ley de Ahorro y Crédito Popular.
+XI. Comité de Crédito, al Comité de Crédito o su equivalente a que se refiere el artículo [26](../../lacp/markdown/articulo-26.md) de la Ley de Ahorro y Crédito Popular.
 
 XII. Comité de Remuneración, al comité constituido por el Consejo de Administración de las Sociedades Financieras Populares conforme al artículo [209 Bis 5](articulo-209-Bis-5.md) de las presentes disposiciones, a fin de apoyar al mencionado órgano de gobierno en sus funciones relativas al [Sistema de Remuneración](articulo-1.md), y cuyo objeto será la implementación, mantenimiento y evaluación del Sistema de Remuneración, con las atribuciones descritas en el artículo [209 Bis 6](articulo-209-Bis-6.md) de las presentes disposiciones. XII Bis. Conductas observables para la gestión del fraude: En singular o plural, las conductas Internas o Externas que, para efectos del cumplimiento de estas disposiciones, son aquellos comportamientos o conjunto de acciones realizadas por una persona o conjunto de personas en contra del Usuario con la finalidad de obtener un lucro indebido para sí o para tercera persona; así como aquellas acciones tendientes a:
 
@@ -90,11 +90,11 @@ XIV. Derogada.
 
 XV. Consejeros, a los miembros del Consejo de Administración de las Sociedades Financieras Populares o de los Organismos de Integración a que hace referencia la Ley de Ahorro y Crédito Popular.
 
-XVI. Consejo de Administración, al Consejo de Administración de las Sociedades Financieras Populares, y de los Organismos de Integración a que se refieren los artículos 18 y 63, de la Ley de Ahorro y Crédito Popular.
+XVI. Consejo de Administración, al Consejo de Administración de las Sociedades Financieras Populares, y de los Organismos de Integración a que se refieren los artículos [18](../../lacp/markdown/articulo-18.md) y [63](../../lacp/markdown/articulo-63.md), de la Ley de Ahorro y Crédito Popular.
 
 9 La fracción X Bis 2 fue adicionada mediante Resolución publicada en el Diario Oficial de la Federación el 3 de julio de 2026, misma que entrarán en vigor el 1 de enero de 2028.
 
-XVII. Consejo de Vigilancia o Comisario, al Consejo de Vigilancia o Comisario de las Sociedades Financieras Populares y de los Organismos de Integración a que se refieren los artículos 23 y 70 de la Ley de Ahorro y Crédito Popular.
+XVII. Consejo de Vigilancia o Comisario, al Consejo de Vigilancia o Comisario de las Sociedades Financieras Populares y de los Organismos de Integración a que se refieren los artículos [23](../../lacp/markdown/articulo-23.md) y [70](../../lacp/markdown/articulo-70.md) de la Ley de Ahorro y Crédito Popular.
 
 XVIII. Consorcio, el conjunto de personas morales vinculadas entre sí por una o más personas físicas que integrando un grupo de personas, tengan el control de las primeras.
 
@@ -126,7 +126,7 @@ XXXI. Desbloqueo de Factores de Autenticación, al proceso mediante el cual la S
 
 (94)10
 
-XXXII. Director o Gerente General, al Director o Gerente General de las Sociedades Financieras Populares, de las Sociedades Financieras Comunitarias y de los Organismos de Integración Financiera Rural a que se refieren los artículos 18, 23 y 63, de la Ley de Ahorro y Crédito Popular.
+XXXII. Director o Gerente General, al Director o Gerente General de las Sociedades Financieras Populares, de las Sociedades Financieras Comunitarias y de los Organismos de Integración Financiera Rural a que se refieren los artículos [18](../../lacp/markdown/articulo-18.md), [23](../../lacp/markdown/articulo-23.md) y [63](../../lacp/markdown/articulo-63.md), de la Ley de Ahorro y Crédito Popular.
 
 XXXIII. Dispositivo de Acceso, al equipo que permite a un Usuario acceder a los Servicios Electrónicos.
 
@@ -174,7 +174,7 @@ a) Las personas que tengan parentesco por consanguinidad, afinidad o civil hasta
 
 b) Las sociedades que formen parte de un mismo consorcio o grupo empresarial y la persona o conjunto de personas que tengan el control de dichas sociedades.
 
-XLI. Grupo empresarial, el conjunto de personas morales organizadas bajo esquemas de participación directa o indirecta del capital social, en las que una misma sociedad mantiene el control de dichas personas morales. Asimismo, se considerarán como grupo empresarial a los grupos financieros constituidos conforme al artículo 12 de la Ley para Regular las Agrupaciones Financieras.
+XLI. Grupo empresarial, el conjunto de personas morales organizadas bajo esquemas de participación directa o indirecta del capital social, en las que una misma sociedad mantiene el control de dichas personas morales. Asimismo, se considerarán como grupo empresarial a los grupos financieros constituidos conforme al artículo [12](../../lraf/markdown/articulo-12.md) de la Ley para Regular las Agrupaciones Financieras.
 
 XLII. Guía de Supervisión Auxiliar, a los aspectos mínimos que, en relación con lo dispuesto por el Capítulo Único del Título Sexto, deberán observar los Comités de Supervisión de las Federaciones en la elaboración de los manuales de supervisión auxiliar respectivos, la cual se adjunta a las presentes disposiciones como Anexo I.
 

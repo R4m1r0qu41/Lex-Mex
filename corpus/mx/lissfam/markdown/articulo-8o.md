@@ -17,6 +17,6 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 # Artículo 8o
 
-El Instituto cuenta con un órgano de vigilancia integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto, a las sesiones ordinarias y extraordinarias de la Junta Directiva del Instituto y tendrán las atribuciones que les confieren los artículos 60 de la Ley Federal de las Entidades Paraestatales, 29 y 30 de su Reglamento y demás disposiciones aplicables.
+El Instituto cuenta con un órgano de vigilancia integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto, a las sesiones ordinarias y extraordinarias de la Junta Directiva del Instituto y tendrán las atribuciones que les confieren los artículos [60](../../lfep/markdown/articulo-60.md) de la Ley Federal de las Entidades Paraestatales, 29 y 30 de su Reglamento y demás disposiciones aplicables.
 
 Artículo reformado DOF 08-05-2006

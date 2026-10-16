@@ -17,7 +17,7 @@ source_sha256: aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5
 
 # Artículo 121
 
-La cuantía de la Pensión por invalidez será igual a una cuantía básica del treinta y cinco por ciento del promedio del [Sueldo Básico](articulo-6.md) disfrutado en el último año inmediato anterior a la fecha de la baja del Trabajador. Dicha cuantía no será inferior a la Pensión prevista en el artículo 170 de la Ley del Seguro Social a la fecha de entrada en vigor de esta Ley, cantidad que se actualizará anualmente, en el mes de febrero, conforme al cambio anualizado del Índice Nacional de Precios al Consumidor. La cuantía de este beneficio será hasta por un monto máximo de diez veces el [Salario Mínimo](articulo-6.md).
+La cuantía de la Pensión por invalidez será igual a una cuantía básica del treinta y cinco por ciento del promedio del [Sueldo Básico](articulo-6.md) disfrutado en el último año inmediato anterior a la fecha de la baja del Trabajador. Dicha cuantía no será inferior a la Pensión prevista en el artículo [170](../../lss/markdown/articulo-170.md) de la Ley del Seguro Social a la fecha de entrada en vigor de esta Ley, cantidad que se actualizará anualmente, en el mes de febrero, conforme al cambio anualizado del Índice Nacional de Precios al Consumidor. La cuantía de este beneficio será hasta por un monto máximo de diez veces el [Salario Mínimo](articulo-6.md).
 
 Los [Pensionados](articulo-6.md) por invalidez tendrán derecho a una gratificación anual igual en número de días a las concedidas a los Trabajadores en activo de la Administración Pública Federal, según la cuota diaria de su Pensión. Esta gratificación deberá pagarse, a elección del Pensionado:
 

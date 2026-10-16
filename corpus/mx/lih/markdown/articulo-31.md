@@ -21,7 +21,7 @@ Las bases de licitación de los Contratos y los Contratos deben prever que ésto
 
 I. Ser residentes para efectos fiscales en México;
 
-II. Tener por objeto exclusivamente la Exploración y Extracción de Hidrocarburos, a excepción de Petróleos Mexicanos, otras Empresas Públicas del Estado, así como los titulares de concesiones mineras para la adjudicación de los Contratos para la Exploración y Extracción de Gas Natural asociado a la veta de carbón mineral y producido por la misma para autoconsumo a que se refiere el artículo 56 de la Ley del Sector Hidrocarburos, y Fracción reformada DOF 18-03-2025
+II. Tener por objeto exclusivamente la Exploración y Extracción de Hidrocarburos, a excepción de Petróleos Mexicanos, otras Empresas Públicas del Estado, así como los titulares de concesiones mineras para la adjudicación de los Contratos para la Exploración y Extracción de Gas Natural asociado a la veta de carbón mineral y producido por la misma para autoconsumo a que se refiere el artículo [56](../../lsh/markdown/articulo-56.md) de la Ley del Sector Hidrocarburos, y Fracción reformada DOF 18-03-2025
 
 III. No tributar en el régimen fiscal opcional para grupos de sociedades a que se refiere el Capítulo VI del Título Segundo de la Ley del Impuesto sobre la Renta.
 

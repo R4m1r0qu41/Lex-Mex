@@ -158,6 +158,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:82:reference:1501-1506:1-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:82",
+    "source_span": "1-BIS",
+    "start_char": 1501,
+    "end_char": 1506,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lsem",
+    "target_provision_id": "urn:lex-mx:federal:statute:lsem:article:1-bis",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XIII",
+        "start_char": 1510,
+        "end_char": 1523
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsem:article:83:reference:1183-1186:126:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:83",
     "source_span": "126",

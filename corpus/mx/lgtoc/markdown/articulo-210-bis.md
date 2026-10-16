@@ -21,7 +21,7 @@ Las sociedades anónimas que pretendan emitir obligaciones convertibles en accio
 
 I.- Deberán tomar las medidas pertinentes para tener en tesorería acciones por el importe que requiera la conversión.
 
-II.- Para los efectos del punto anterior, no será aplicable lo dispuesto en el artículo 132 de la Ley General de Sociedades Mercantiles.
+II.- Para los efectos del punto anterior, no será aplicable lo dispuesto en el artículo [132](../../lgsm/markdown/articulo-132.md) de la Ley General de Sociedades Mercantiles.
 
 III.- En el acuerdo de emisión se establecerá el plazo dentro del cual, a partir de la fecha en que sean colocadas las obligaciones, debe ejercitarse el derecho de conversión.
 

@@ -51,7 +51,7 @@ XI. Prever a nivel nacional las necesidades de tierra para desarrollo urbano y v
 
 XII. Elaborar, apoyar y ejecutar programas para satisfacer las necesidades de suelo urbano y el establecimiento de provisiones y reservas territoriales para el adecuado desarrollo de los centros de población, en coordinación con las dependencias y entidades de la Administración Pública Federal correspondientes y los gobiernos de las entidades federativas y municipales, y con la participación de los diversos grupos sociales;
 
-XII Bis. Establecer mecanismos para el ejercicio del derecho de preferencia a que se refiere el artículo 84 de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano; Fracción adicionada DOF 30-11-2018
+XII Bis. Establecer mecanismos para el ejercicio del derecho de preferencia a que se refiere el artículo [84](../../lgahotdu/markdown/articulo-84.md) de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano; Fracción adicionada DOF 30-11-2018
 
 XIII. Promover y concertar programas de vivienda y de desarrollo urbano y metropolitano, y apoyar su ejecución, con la participación de los gobiernos de las entidades federativas y municipales, así como de los sectores social y privado, a efecto de que el desarrollo nacional en la materia se oriente hacia una planeación sustentable y de integración;
 

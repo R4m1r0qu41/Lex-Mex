@@ -27,7 +27,7 @@ IV.- El contribuyente no efectúe el pago del derecho en los términos del artí
 
 V.- Se opongan u obstaculicen la iniciación o desarrollo de las facultades de comprobación, verificación y medición o no presenten la información o documentación que le solicite la Comisión Nacional del Agua. Fracción reformada DOF 01-01-2002
 
-VI. Cuando no se lleven los registros de las lecturas del aparato de medición, se lleven incorrectamente o en contravención de lo dispuesto por el artículo [225](articulo-225.md) de la presente Ley, o bien, no se conserven en los términos de lo establecido en el artículo 30 del Código Fiscal de la Federación. Fracción adicionada DOF 01-01-2002. Reformada DOF 18-11-2010
+VI. Cuando no se lleven los registros de las lecturas del aparato de medición, se lleven incorrectamente o en contravención de lo dispuesto por el artículo [225](articulo-225.md) de la presente Ley, o bien, no se conserven en los términos de lo establecido en el artículo [30](../../cff/markdown/articulo-30.md) del Código Fiscal de la Federación. Fracción adicionada DOF 01-01-2002. Reformada DOF 18-11-2010
 
 VII. Se lleven a cabo instalaciones hidráulicas o derivaciones de agua sin la autorización respectiva o cuando se realicen modificaciones o manipulaciones a las tuberías o ramales de distribución. Fracción adicionada DOF 18-11-2010
 

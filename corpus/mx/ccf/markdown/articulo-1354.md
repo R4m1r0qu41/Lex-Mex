@@ -17,4 +17,4 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 1354
 
-En el caso final del artículo que precede, corresponde al que debe pagar el legado la prueba de que el testador tuvo conocimiento de la primera prestación.
+En el caso final del [artículo que precede](articulo-1353.md), corresponde al que debe pagar el legado la prueba de que el testador tuvo conocimiento de la primera prestación.

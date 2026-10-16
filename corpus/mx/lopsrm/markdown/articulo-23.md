@@ -21,4 +21,4 @@ En las obras públicas y los servicios relacionados con las mismas, cuya ejecuci
 
 El presupuesto actualizado será la base para solicitar la asignación de cada ejercicio presupuestal subsecuente.
 
-Para los efectos de este artículo, las dependencias y entidades observarán lo dispuesto en el artículo 50 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. La información sobre estos contratos se difundirá a través de la [Plataforma](articulo-2.md). Párrafo reformado DOF 28-05-2009, 16-04-2025 Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo tercero
+Para los efectos de este artículo, las dependencias y entidades observarán lo dispuesto en el artículo [50](../../lfprh/markdown/articulo-50.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. La información sobre estos contratos se difundirá a través de la [Plataforma](articulo-2.md). Párrafo reformado DOF 28-05-2009, 16-04-2025 Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo tercero

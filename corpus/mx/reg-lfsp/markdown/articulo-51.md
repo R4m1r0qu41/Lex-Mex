@@ -21,13 +21,13 @@ Toda persona que tenga conocimiento de irregularidades cometidas por los Centros
 
 La queja se resolverá conforme al siguiente procedimiento:
 
-I. Una vez recibido el escrito de queja, se radicará el expediente correspondiente ante la Dirección General, en términos del artículo 46 de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo; II. Previo análisis y valoración de las documentales o datos vertidos en el expediente, la Dirección General deberá acreditar su competencia para conocer de la queja en términos de los artículos 1 y 16 de la Ley;
+I. Una vez recibido el escrito de queja, se radicará el expediente correspondiente ante la Dirección General, en términos del artículo [46](../../lfpa/markdown/articulo-46.md) de la [Ley](articulo-2.md) Federal de Procedimiento Administrativo; II. Previo análisis y valoración de las documentales o datos vertidos en el expediente, la Dirección General deberá acreditar su competencia para conocer de la queja en términos de los artículos 1 y 16 de la Ley;
 
 III. Determinada la competencia, tanto territorial como por la materia, la Dirección General ordenará las diligencias pertinentes para hacerse de medios de prueba, sin más limitaciones que las establecidas en la Ley y, en su caso, ordenará la práctica de una visita de verificación para comprobar el cumplimiento de la normatividad en materia de seguridad privada;
 
 IV. Se notificará la radicación del expediente y se le correrá traslado del escrito de queja y sus anexos al Centro de Capacitación o Prestador de Servicios en contra del cual se incoe el procedimiento, a efecto que esgrima los alegatos que considere pertinentes en un plazo de cinco días hábiles;
 
-V. Una vez realizada la visita de verificación, el particular podrá ofrecer las pruebas que estime pertinentes, fijando los puntos sobre los que versen, tanto en relación a los hechos contenidos en el acta de la visita de verificación, como al escrito de queja, en el término de cinco días hábiles contados a partir del día hábil siguiente al de la visita; plazo que podrá ampliarse por tres días más, conforme a lo establecido en el artículo 31 de la Ley Federal de Procedimiento Administrativo;
+V. Una vez realizada la visita de verificación, el particular podrá ofrecer las pruebas que estime pertinentes, fijando los puntos sobre los que versen, tanto en relación a los hechos contenidos en el acta de la visita de verificación, como al escrito de queja, en el término de cinco días hábiles contados a partir del día hábil siguiente al de la visita; plazo que podrá ampliarse por tres días más, conforme a lo establecido en el artículo [31](../../lfpa/markdown/articulo-31.md) de la Ley Federal de Procedimiento Administrativo;
 
 VI. El desahogo de las pruebas ofrecidas y admitidas se realizará dentro de un plazo no menor a tres ni mayor de quince días, contado a partir de su admisión, y
 

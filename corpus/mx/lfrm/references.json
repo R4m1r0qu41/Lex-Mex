@@ -299,6 +299,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:45:reference:339-341:75:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfrm:article:45",
+    "source_span": "75",
+    "start_char": 339,
+    "end_char": 341,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsmime",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsmime:article:75",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfrm:article:46:reference:1219-1221:36:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfrm:article:46",
     "source_span": "36",

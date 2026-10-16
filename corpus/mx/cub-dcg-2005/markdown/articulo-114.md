@@ -31,7 +31,7 @@ Como excepción a la tabla anterior, las Instituciones podrán calcular la SPi c
 
 continuación:
 
-(274) I. Tratándose de créditos otorgados a personas morales o personas físicas con actividad empresarial que hayan sido declaradas en concurso mercantil con plan de reestructura previo, en términos de lo establecido en el Artículo 341 de la Ley de Concursos Mercantiles, y hasta la adopción de un convenio entre el acreditado y los acreedores reconocidos o bien, hasta que se determine la quiebra del acreditado en los plazos establecidos en la citada ley:
+(274) I. Tratándose de créditos otorgados a personas morales o personas físicas con actividad empresarial que hayan sido declaradas en concurso mercantil con plan de reestructura previo, en términos de lo establecido en el Artículo [341](../../lcm/markdown/articulo-341.md) de la Ley de Concursos Mercantiles, y hasta la adopción de un convenio entre el acreditado y los acreedores reconocidos o bien, hasta que se determine la quiebra del acreditado en los plazos establecidos en la citada ley:
 
 (274) a) Para la parte cubierta con garantías reales, las Instituciones deberán sujetarse a lo que establece el Sub Apartado B del presente apartado.
 
@@ -63,9 +63,9 @@ de Concursos Mercantiles, la Severidad de la Pérdida se sujetará al siguiente 
 
 (274) Donde:
 
-(274) Garantías= Las garantías que en su caso se constituyan en términos del artículo 75 de la Ley de Concursos Mercantiles aplicando según corresponda, los factores de ajuste o los porcentajes de descuento correspondientes a cada tipo de garantía real admisible como se establece a continuación:
+(274) Garantías= Las garantías que en su caso se constituyan en términos del artículo [75](../../lcm/markdown/articulo-75.md) de la Ley de Concursos Mercantiles aplicando según corresponda, los factores de ajuste o los porcentajes de descuento correspondientes a cada tipo de garantía real admisible como se establece a continuación:
 
-(274) Las Instituciones, respecto de los citados créditos otorgados al amparo de la fracción II del artículo 224 de la Ley de Concursos Mercantiles y tratándose de garantías reales financieras que cumplan con los requisitos establecidos en las fracciones I y II del Artículo [2 Bis 30](articulo-2-Bis-30.md) y en el Anexo 24 de las presentes disposiciones, deberán utilizar un descuento estándar para ajustar por volatilidad el valor de las garantías reales financieras, conforme a lo establecido en el Anexo 1-F de las mencionadas disposiciones. Asimismo, tratándose de garantías reales no financieras que cumplan con los requisitos establecidos en las fracciones I y II del Artículo [2 Bis 30](articulo-2-Bis-30.md) y en el Anexo 24 de las presentes disposiciones, las Instituciones deberán utilizar un descuento estándar para ajustar por volatilidad el valor de las garantías reales no financieras, de conformidad con la tabla siguiente:
+(274) Las Instituciones, respecto de los citados créditos otorgados al amparo de la fracción II del artículo [224](../../lcm/markdown/articulo-224.md) de la Ley de Concursos Mercantiles y tratándose de garantías reales financieras que cumplan con los requisitos establecidos en las fracciones I y II del Artículo [2 Bis 30](articulo-2-Bis-30.md) y en el Anexo 24 de las presentes disposiciones, deberán utilizar un descuento estándar para ajustar por volatilidad el valor de las garantías reales financieras, conforme a lo establecido en el Anexo 1-F de las mencionadas disposiciones. Asimismo, tratándose de garantías reales no financieras que cumplan con los requisitos establecidos en las fracciones I y II del Artículo [2 Bis 30](articulo-2-Bis-30.md) y en el Anexo 24 de las presentes disposiciones, las Instituciones deberán utilizar un descuento estándar para ajustar por volatilidad el valor de las garantías reales no financieras, de conformidad con la tabla siguiente:
 
 (274)
 
@@ -73,7 +73,7 @@ Tipo de garantía real no financiera Porcentaje o instrumento asimilable Descuen
 
 (274) Masa Ajustada= La Masa, como este término se define en la Ley de Concursos Mercantiles, deduciendo el monto de las obligaciones a que se refiere la fracción I del artículo 224 de la referida ley y aplicando al monto resultante un descuento del 40 por ciento.
 
-(274) Si = Saldo insoluto de los créditos otorgados al amparo de la fracción II del artículo 224 de la Ley de Concursos Mercantiles a la fecha de la calificación.
+(274) Si = Saldo insoluto de los créditos otorgados al amparo de la fracción II del artículo [224](../../lcm/markdown/articulo-224.md) de la Ley de Concursos Mercantiles a la fecha de la calificación.
 
 (274) SPi Max = Severidad de la pérdida máxima que corresponda al crédito de acuerdo con la primera tabla de este artículo.
 
@@ -87,7 +87,7 @@ de Concursos Mercantiles, la Severidad de la Pérdida se sujetará al siguiente 
 
 (274) Masa Ajustada’ = La Masa, como este término se define en la Ley de Concursos Mercantiles, deduciendo el monto de las obligaciones a que se refieren las fracciones I y II del artículo 224 de la referida ley y aplicando al monto resultante un descuento del 40 por ciento.
 
-(274) Si= Saldo insoluto de los créditos otorgados al amparo de la fracción III del artículo 224 de la Ley de Concursos Mercantiles a la fecha de la calificación.
+(274) Si= Saldo insoluto de los créditos otorgados al amparo de la fracción III del artículo [224](../../lcm/markdown/articulo-224.md) de la Ley de Concursos Mercantiles a la fecha de la calificación.
 
 (274) SPi Max= Severidad de la pérdida máxima que corresponda al crédito de acuerdo con la primera tabla de este artículo.
 

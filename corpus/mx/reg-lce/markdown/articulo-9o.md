@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 9o
 
-Para los efectos del artículo [6](articulo-6o.md)o. de la [Ley](articulo-1o.md), la [Comisión](articulo-1o.md) tendrá a su cargo emitir opinión sobre la conveniencia de adoptar las siguientes medidas, previamente a su expedición y durante su vigencia:
+Para los efectos del artículo 6o. de la [Ley](articulo-1o.md), la [Comisión](articulo-1o.md) tendrá a su cargo emitir opinión sobre la conveniencia de adoptar las siguientes medidas, previamente a su expedición y durante su vigencia:
 
 I. El establecimiento, aumento, disminución o eliminación de aranceles o preferencias arancelarias a la exportación o importación de mercancías;
 

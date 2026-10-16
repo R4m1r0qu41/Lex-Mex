@@ -19,7 +19,7 @@ source_sha256: e9c60d3644c8edcb600667e79ef7e3d218c21369879b0495b441f09d25aa78db
 
 Corresponde a las Instituciones Públicas del Sector Salud, garantizar a las personas adultas mayores: Párrafo reformado DOF 26-01-2005
 
-I. El derecho a la prestación de servicios públicos de salud integrales y de calidad, en todas las actividades de atención médica, de conformidad con lo establecido en el artículo 33 de la [Ley](articulo-3o.md) General de Salud; II. Especial atención que deberán recibir los programas de detección oportuna y tratamiento temprano de enfermedades crónicas y neoplasias entre las personas adultas mayores, así como de atención y asistencia a quienes sufren de discapacidades funcionales.
+I. El derecho a la prestación de servicios públicos de salud integrales y de calidad, en todas las actividades de atención médica, de conformidad con lo establecido en el artículo [33](../../lgs/markdown/articulo-33.md) de la [Ley](articulo-3o.md) General de Salud; II. Especial atención que deberán recibir los programas de detección oportuna y tratamiento temprano de enfermedades crónicas y neoplasias entre las personas adultas mayores, así como de atención y asistencia a quienes sufren de discapacidades funcionales.
 
 Asimismo, los programas de salud dirigidos a atender las necesidades de las personas en las diferentes etapas del ciclo de vida incorporarán medidas de prevención y promoción de la salud a fin de contribuir a prevenir discapacidades y favorecer un envejecimiento saludable, en igualdad de condiciones para el ejercicio del derecho a la protección de la salud de las mujeres y los hombres; Fracción reformada DOF 30-03-2022
 

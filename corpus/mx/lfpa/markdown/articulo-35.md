@@ -19,7 +19,7 @@ source_sha256: a8b8019ba04a815ff0b146856625b2342e4366067e763ae5140dee7245212861
 
 Las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes o documentos y las resoluciones administrativas definitivas podrán realizarse: I. Personalmente con quien deba entenderse la diligencia, en el domicilio del interesado;
 
-II. Mediante oficio entregado por mensajero o correo certificado, con acuse de recibo. También podrá realizarse mediante telefax, medios de comunicación electrónica o cualquier otro medio, cuando así lo haya aceptado expresamente el promovente y siempre que pueda comprobarse fehacientemente la recepción de los mismos, en el caso de comunicaciones electrónicas certificadas, deberán realizarse conforme a los requisitos previstos en la Norma Oficial Mexicana a que se refiere el artículo 49 del Código de Comercio, y Fracción reformada DOF 30-05-2000, 02-05-2017
+II. Mediante oficio entregado por mensajero o correo certificado, con acuse de recibo. También podrá realizarse mediante telefax, medios de comunicación electrónica o cualquier otro medio, cuando así lo haya aceptado expresamente el promovente y siempre que pueda comprobarse fehacientemente la recepción de los mismos, en el caso de comunicaciones electrónicas certificadas, deberán realizarse conforme a los requisitos previstos en la Norma Oficial Mexicana a que se refiere el artículo [49](../../ccom/markdown/articulo-49.md) del Código de Comercio, y Fracción reformada DOF 30-05-2000, 02-05-2017
 
 III. Por edicto, cuando se desconozca el domicilio del interesado o en su caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal.
 

@@ -17,7 +17,7 @@ source_sha256: 40271b07f2d2236f7e4d722d2b61f35db2d82772543dcf4911097efe13697c5e
 
 # Artículo 19
 
-Los directores generales de los [Institutos Nacionales de Salud](articulo-2.md) tendrán, además de las facultades y obligaciones señaladas en el artículo 59 de la Ley Federal de las Entidades Paraestatales, las siguientes:
+Los directores generales de los [Institutos Nacionales de Salud](articulo-2.md) tendrán, además de las facultades y obligaciones señaladas en el artículo [59](../../lfep/markdown/articulo-59.md) de la Ley Federal de las Entidades Paraestatales, las siguientes:
 
 I. Celebrar y otorgar toda clase de actos, convenios, contratos y documentos inherentes al objeto del Instituto;
 

@@ -19,7 +19,7 @@ source_sha256: b760b87cb82b23955e149500a1a832a608029ca814f0653b1430f6948d33e9f5
 
 Los actos de los procedimientos de contratación se llevarán a cabo a través de la [Plataforma](articulo-2.md), de conformidad con las disposiciones que para tal efecto emita la [Secretaría](articulo-2.md).
 
-Los actos a que se refiere el párrafo anterior se considerarán públicos, en términos del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
+Los actos a que se refiere el párrafo anterior se considerarán públicos, en términos del artículo [134](../../cpeum/markdown/articulo-134.md) de la Constitución Política de los Estados Unidos Mexicanos.
 
 Las proposiciones presentadas a través de la Plataforma deberán firmarse por los licitantes o sus apoderados, empleando los medios de identificación electrónica, los cuales producirán los mismos efectos que las leyes otorgan a los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio.
 

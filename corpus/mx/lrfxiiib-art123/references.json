@@ -31,6 +31,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfxiiib-art123:article:2-bis:reference:333-335:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfxiiib-art123:article:2-bis",
+    "source_span": "15",
+    "start_char": 333,
+    "end_char": 335,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lft",
+    "target_provision_id": "urn:lex-mx:federal:statute:lft:article:15",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrfxiiib-art123:article:3:reference:1578-1584:43-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrfxiiib-art123:article:3",
     "source_span": "43 Bis",

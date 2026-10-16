@@ -17,6 +17,6 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 141
 
-Para efectos de lo dispuesto en el artículo 138 de la Ley, cuando el proyecto de asociación público-privada comprenda alguno de los trabajos que puedan considerarse dentro de los supuestos de los artículos 3 y 4 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, se seguirá el procedimiento de conciliación previsto en dicha Ley y su Reglamento.
+Para efectos de lo dispuesto en el artículo 138 de la Ley, cuando el proyecto de asociación público-privada comprenda alguno de los trabajos que puedan considerarse dentro de los supuestos de los artículos [3](../../lopsrm/markdown/articulo-3.md) y [4](../../lopsrm/markdown/articulo-4.md) de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, se seguirá el procedimiento de conciliación previsto en dicha Ley y su Reglamento.
 
 En todos los demás casos, se seguirá el procedimiento de conciliación de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y su Reglamento.

@@ -43,6 +43,6 @@ I. Por la expedición del título de concesión ................................
 
 II. Por la prórroga .............................................................................................. $20,128.17
 
-Cuando la explotación de los servicios objeto de la concesión de bandas de frecuencias o recursos orbitales a los que se refieren los apartados A, B y C, requiera el otorgamiento de un título de concesión única, en términos del segundo párrafo del artículo 54 de la Ley en Materia de Telecomunicaciones y Radiodifusión, el pago de derechos correspondiente al de bandas de frecuencias o recursos orbitales, comprenderá la expedición de la concesión única respectiva. Párrafo reformado DOF 07-12-2016, 07-11-2025 Reforma DOF 07-11-2025: Derogó del artículo el entonces párrafo tercero
+Cuando la explotación de los servicios objeto de la concesión de bandas de frecuencias o recursos orbitales a los que se refieren los apartados A, B y C, requiera el otorgamiento de un título de concesión única, en términos del segundo párrafo del artículo [54](../../lmtr/markdown/articulo-54.md) de la Ley en Materia de Telecomunicaciones y Radiodifusión, el pago de derechos correspondiente al de bandas de frecuencias o recursos orbitales, comprenderá la expedición de la concesión única respectiva. Párrafo reformado DOF 07-12-2016, 07-11-2025 Reforma DOF 07-11-2025: Derogó del artículo el entonces párrafo tercero
 
 Artículo reformado DOF 20-12-1991, 18-12-1992. Derogado DOF 03-12-1993. Adicionado DOF 18-11-2015

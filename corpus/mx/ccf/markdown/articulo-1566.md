@@ -17,4 +17,4 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 1566
 
-Para que en los casos enumerados en el artículo que precede pueda otorgarse testamento privado, es necesario que al testador no le sea posible hacer testamento ológrafo.
+Para que en los casos enumerados en el [artículo que precede](articulo-1565.md) pueda otorgarse testamento privado, es necesario que al testador no le sea posible hacer testamento ológrafo.

@@ -17,4 +17,4 @@ source_sha256: 36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db
 
 # Artículo 52
 
-El Órgano Interno de Control en el [Instituto](articulo-2.md) estará a cargo de una persona titular, designada en los términos del artículo 37, fracción XII de la [Ley Orgánica](articulo-2.md) de la Administración Pública Federal, quien en ejercicio de sus facultades se auxiliará de las personas titulares de las áreas de responsabilidades, de quejas y auditoría, así como demás personal adscrito a dicho Órgano, quienes dependerán jerárquica, funcional y presupuestalmente de la Secretaría de la Función Pública.
+El Órgano Interno de Control en el [Instituto](articulo-2.md) estará a cargo de una persona titular, designada en los términos del artículo [37](../../loapf/markdown/articulo-37.md), fracción XII de la [Ley Orgánica](articulo-2.md) de la Administración Pública Federal, quien en ejercicio de sus facultades se auxiliará de las personas titulares de las áreas de responsabilidades, de quejas y auditoría, así como demás personal adscrito a dicho Órgano, quienes dependerán jerárquica, funcional y presupuestalmente de la Secretaría de la Función Pública.

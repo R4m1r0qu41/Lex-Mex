@@ -17,4 +17,4 @@ source_sha256: 43b274e9565f7bfe9e8d404998a6baf17ac415d624a70cbcde9f1f3b639d56a7
 
 # Artículo 48
 
-En los casos donde surja duda sobre la competencia que le corresponde a cada una de las autoridades federales dentro del Mecanismo, se procederá en términos del artículo 24 de la [Ley](articulo-3.md) Orgánica de la Administración Pública Federal.
+En los casos donde surja duda sobre la competencia que le corresponde a cada una de las autoridades federales dentro del Mecanismo, se procederá en términos del artículo [24](../../loapf/markdown/articulo-24.md) de la [Ley](articulo-3.md) Orgánica de la Administración Pública Federal.

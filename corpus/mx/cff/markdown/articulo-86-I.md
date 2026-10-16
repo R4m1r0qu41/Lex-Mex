@@ -17,4 +17,4 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 86-I
 
-Cometen infracción quienes almacenen, vendan, enajenen o distribuyan en México cajetillas de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, que no contengan impreso el código de seguridad previsto en el artículo 19, fracción XXII de la Ley del Impuesto Especial sobre Producción y Servicios, o el que contengan sea apócrifo, acorde con lo previsto en el artículo 19-A de la citada Ley.
+Cometen infracción quienes almacenen, vendan, enajenen o distribuyan en México cajetillas de cigarros y otros tabacos labrados, con excepción de puros y otros tabacos labrados hechos enteramente a mano, que no contengan impreso el código de seguridad previsto en el artículo [19](../../lieps/markdown/articulo-19.md), fracción XXII de la Ley del Impuesto Especial sobre Producción y Servicios, o el que contengan sea apócrifo, acorde con lo previsto en el artículo 19-A de la citada Ley.

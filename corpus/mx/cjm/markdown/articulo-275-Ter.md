@@ -45,6 +45,6 @@ Las penas previstas en este capítulo se impondrán además de las que correspon
 
 Para los efectos de este capítulo, se entenderá por Fuerzas Armadas Mexicanas, a las instituciones armadas de la Unión, a saber: Ejército, Armada, Fuerza Aérea y Guardia Nacional. Párrafo reformado DOF 16-07-2025
 
-Para los efectos de este capítulo se entenderá por delincuencia organizada la prevista en el artículo 2o. de la Ley Federal contra la Delincuencia Organizada y por asociación delictuosa, la prevista en el artículo [164](../../cpf/markdown/articulo-164.md) del Código Penal Federal.
+Para los efectos de este capítulo se entenderá por delincuencia organizada la prevista en el artículo [2](../../lfdo/markdown/articulo-2o.md)o. de la Ley Federal contra la Delincuencia Organizada y por asociación delictuosa, la prevista en el artículo [164](../../cpf/markdown/articulo-164.md) del Código Penal Federal.
 
 Artículo adicionado DOF 16-11-2011

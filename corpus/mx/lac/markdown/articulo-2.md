@@ -101,7 +101,7 @@ XXXIX. Sistema de gestión de la seguridad operacional: Enfoque sistemático par
 
 XL. Sistema de Gestión de los Riesgos Asociados a la Fatiga: Conjunto de reglas, procedimientos y datos que sirven para controlar y gestionar constantemente los riesgos de seguridad operacional relacionados con la fatiga, los cuales se basan en principios, conocimientos científicos y en la experiencia operacional, con el propósito de asegurar el eficaz desempeño del personal con un nivel de alerta adecuado, conocido como “FRMS” por las siglas en inglés de Fatigue Risk Management System;
 
-XLI. Tratados: Los definidos como tales en la fracción I del artículo 2 de la Ley sobre la Celebración de Tratados, y
+XLI. Tratados: Los definidos como tales en la fracción I del artículo [2](../../lsct/markdown/articulo-2o.md) de la Ley sobre la Celebración de Tratados, y
 
 XLII. Vigilancia: Actividades mediante las cuales el Estado constata, de manera preventiva, con verificaciones, inspecciones y auditorías que las personas titulares de licencias, certificados, autorizaciones o aprobaciones en el ámbito de la aviación cumplen con los requisitos y las funciones establecidas, al nivel de competencia y seguridad operacional que se requiere.
 

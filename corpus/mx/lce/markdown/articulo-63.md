@@ -17,4 +17,4 @@ source_sha256: 3f114f47007c21b4691bad502b786b45aa5e45c1571bd56dd8ca4f5af991b459
 
 # Artículo 63
 
-Las cuotas compensatorias serán consideradas como aprovechamientos en los términos del artículo [3](articulo-3o.md)o. del Código Fiscal de la Federación.
+Las cuotas compensatorias serán consideradas como aprovechamientos en los términos del artículo [3](../../cff/markdown/articulo-3o.md)o. del Código Fiscal de la Federación.

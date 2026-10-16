@@ -23,9 +23,9 @@ I. Datos generales de la persona, que incluyan nombre, denominación o razón so
 
 15 la información que clasifique como confidencial en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
-II. Nombre y firma de los representantes legal y técnico de la empresa, lo cual se podrá sustituir con el número de Registro Único de Personas Acreditadas en los términos del artículo 69-B de la Ley Federal de Procedimiento Administrativo;
+II. Nombre y firma de los representantes legal y técnico de la empresa, lo cual se podrá sustituir con el número de Registro Único de Personas Acreditadas en los términos del artículo [69-B](../../lfpa/markdown/articulo-69-B.md) de la Ley Federal de Procedimiento Administrativo;
 
-III. Número de la autorización en materia de impacto ambiental, en el caso de que la actividad sea de las consideradas en el artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+III. Número de la autorización en materia de impacto ambiental, en el caso de que la actividad sea de las consideradas en el artículo [28](../../lgeepa/markdown/articulo-28.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
 IV. Número de autorización del Programa de Prevención de Accidentes en materia de riesgo ambiental, cuando la actividad sea considerada altamente riesgosa;
 

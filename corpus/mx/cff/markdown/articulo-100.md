@@ -21,4 +21,4 @@ El derecho a formular la querella, la declaratoria y la declaratoria de perjuici
 
 La acción penal en los delitos fiscales prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad que señala este Código para el delito de que se trate, pero en ningún caso será menor de cinco años.
 
-Con excepción de lo dispuesto por los artículos 105 y 107, primer párrafo, del Código Penal Federal, la acción penal en los delitos fiscales prescribirá conforme a las reglas aplicables previstas por dicho Código.
+Con excepción de lo dispuesto por los artículos [105](../../cpf/markdown/articulo-105.md) y [107](../../cpf/markdown/articulo-107.md), primer párrafo, del Código Penal Federal, la acción penal en los delitos fiscales prescribirá conforme a las reglas aplicables previstas por dicho Código.

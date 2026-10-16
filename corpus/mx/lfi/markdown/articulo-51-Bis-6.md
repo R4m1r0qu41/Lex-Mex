@@ -27,7 +27,7 @@ d) Las sociedades en cuyo capital tengan mayoría las personas a que hacen refer
 
 II. Celebrar operaciones por cuenta propia. Lo anterior, salvo que se trate de las autorizadas por el Banco de México mediante disposiciones de carácter general o bien, las previstas por el artículo [40](articulo-40.md) de esta Ley, cuando no impliquen conflicto de interés;
 
-III. Responder a los fideicomitentes o fideicomisarios del incumplimiento de los deudores por los bienes, derechos o valores que se adquieran, salvo que sea por su culpa según lo dispuesto en la parte final del artículo 391 de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los recursos cuya inversión se les encomiende.
+III. Responder a los fideicomitentes o fideicomisarios del incumplimiento de los deudores por los bienes, derechos o valores que se adquieran, salvo que sea por su culpa según lo dispuesto en la parte final del artículo [391](../../lgtoc/markdown/articulo-391.md) de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los recursos cuya inversión se les encomiende.
 
 Si al término del fideicomiso, los bienes, derechos o valores no hubieren sido pagados por los deudores, la fiduciaria deberá transferirlos, junto con el efectivo, bienes y demás derechos o valores que constituyan el patrimonio del fideicomiso, al fideicomitente o fideicomisario, según sea el caso, absteniéndose de cubrir su importe.
 

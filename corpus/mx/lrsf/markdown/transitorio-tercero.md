@@ -17,8 +17,8 @@ source_sha256: 02fe2afc021cdf42249b2003da14bf738f24157375ffc0b420e1e7d7a5c20fd5
 
 Se derogan:
 
-I. Los artículos 1, fracción V; 9, fracción I, y del 129 al 145 de la Ley de Vías Generales de Comunicación;
+I. Los artículos [1](../../lvgc/markdown/articulo-1o.md), fracción V; [9](../../lvgc/markdown/articulo-9o.md), fracción I, y del 129 al 145 de la Ley de Vías Generales de Comunicación;
 
-II. Los artículos 5, fracción X, y 7, fracción IV, inciso s) de la Ley de Inversión Extranjera, y
+II. Los artículos [5](../../lie/markdown/articulo-5o.md), fracción X, y [7](../../lie/markdown/articulo-7o.md), fracción IV, inciso s) de la Ley de Inversión Extranjera, y
 
 III. Todas las disposiciones que se opongan a la presente Ley.

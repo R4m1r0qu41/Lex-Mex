@@ -19,6 +19,6 @@ source_sha256: 1b50289dd80607f83a22c917a3ead722edbf30ee45e8756b3d764f000e1ffc48
 
 El [Centro](articulo-3.md) Federal de Conciliación y Registro Laboral es un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, y con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión.
 
-La autonomía presupuestaria a la que se refiere el párrafo anterior, se sujetará a lo establecido en los artículos 5, fracción II y 29 de la [Ley](articulo-3.md) Federal de Presupuesto y Responsabilidad Hacendaria.
+La autonomía presupuestaria a la que se refiere el párrafo anterior, se sujetará a lo establecido en los artículos [5](../../lfprh/markdown/articulo-5.md), fracción II y [29](../../lfprh/markdown/articulo-29.md) de la [Ley](articulo-3.md) Federal de Presupuesto y Responsabilidad Hacendaria.
 
 Al Centro le será aplicable la Ley Federal de las Entidades Paraestatales en lo no previsto en la presente Ley.

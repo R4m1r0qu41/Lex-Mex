@@ -15,7 +15,7 @@ source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 
 # Artículo 39 Bis 6
 
-Los asesores en inversiones a los que se refiere el artículo 225 de la Ley del Mercado de Valores que cuenten con la autorización del artículo 225 Bis de la misma Ley, podrán ser el socio fundador de los fondos de inversión a los que se refiere el artículo [30](articulo-30.md) de la presente Ley y les prestarán los servicios de administración de activos, como excepción a lo establecido en el artículo [39](articulo-39.md).
+Los asesores en inversiones a los que se refiere el artículo [225](../../lmv/markdown/articulo-225.md) de la Ley del Mercado de Valores que cuenten con la autorización del artículo 225 Bis de la misma Ley, podrán ser el socio fundador de los fondos de inversión a los que se refiere el artículo [30](articulo-30.md) de la presente Ley y les prestarán los servicios de administración de activos, como excepción a lo establecido en el artículo [39](articulo-39.md).
 
 A la asamblea de accionistas, al consejo de administración y al comisario de los asesores en inversiones que actúen como socios fundadores de dichos fondos de inversión, les corresponderán las funciones asignadas, respectivamente, las funciones a que se refiere el artículo [10](articulo-10.md) de esta Ley.
 

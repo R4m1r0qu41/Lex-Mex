@@ -17,4 +17,4 @@ source_sha256: 75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9
 
 # Artículo 165
 
-La visita se tendrá por concluida, una vez que haya transcurrido el plazo de cinco días previsto en el artículo [162](articulo-162.md) de esta Ley. Por lo que, a partir del día hábil siguiente, comenzará a contabilizarse el plazo que tiene la autoridad educativa federal para imponer sanciones administrativas, de acuerdo con lo establecido en el artículo 79 de la Ley Federal de Procedimiento Administrativo.
+La visita se tendrá por concluida, una vez que haya transcurrido el plazo de cinco días previsto en el artículo [162](articulo-162.md) de esta Ley. Por lo que, a partir del día hábil siguiente, comenzará a contabilizarse el plazo que tiene la autoridad educativa federal para imponer sanciones administrativas, de acuerdo con lo establecido en el artículo [79](../../lfpa/markdown/articulo-79.md) de la Ley Federal de Procedimiento Administrativo.

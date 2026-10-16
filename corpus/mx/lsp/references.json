@@ -97,6 +97,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsp:article:13:reference:1021-1024:246:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lsp:article:13",
+    "source_span": "246",
+    "start_char": 1021,
+    "end_char": 1024,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lcm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lcm:article:246",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 992,
+        "end_char": 1007
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsp:article:13:reference:1488-1490:14:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lsp:article:13",
     "source_span": "14",

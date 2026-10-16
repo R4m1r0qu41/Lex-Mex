@@ -17,6 +17,6 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 # Artículo 140 Bis
 
-La persona discente causará baja del Sistema Educativo Militar y del Ejército, Fuerza Aérea y Guardia Nacional cuando, además, se ubique en los supuestos previstos en el artículo 170, fracción II, apartados D y G, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y el artículo 43, fracción II, incisos d) y f), de la Ley de la Guardia Nacional.
+La persona discente causará baja del Sistema Educativo Militar y del Ejército, Fuerza Aérea y Guardia Nacional cuando, además, se ubique en los supuestos previstos en el artículo [170](../../loefam/markdown/articulo-170.md), fracción II, apartados D y G, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y el artículo [43](../../lgn/markdown/articulo-43.md), fracción II, incisos d) y f), de la Ley de la Guardia Nacional.
 
 Artículo adicionado DOF 05-08-2024. Reformado DOF 20-03-2026

@@ -150,9 +150,9 @@ Adicionalmente, cuando se trate de créditos que correspondan a Deuda Estatal Ga
 
 18. Tratándose de créditos a entidades federativas y municipios que estén garantizados de conformidad con el Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios o la que la sustituya, el documento más reciente en el que conste el seguimiento a la evaluación que realice la Secretaría del cumplimiento de los convenios para la contratación de la Deuda Estatal Garantizada conforme al artículo 40 de la citada ley por parte de la entidad federativa o municipio.
 
-Asimismo, tratándose de los entes públicos a los que se refiere el artículo 47 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios o la que la sustituya, las Sociedades Financieras Populares deberán contar con el último documento en el que conste el seguimiento a la evaluación que realice la entidad federativa o municipio, según corresponda, del convenio a que se refiere dicho artículo.
+Asimismo, tratándose de los entes públicos a los que se refiere el artículo [47](../../ldfefm/markdown/articulo-47.md) de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios o la que la sustituya, las Sociedades Financieras Populares deberán contar con el último documento en el que conste el seguimiento a la evaluación que realice la entidad federativa o municipio, según corresponda, del convenio a que se refiere dicho artículo.
 
-Tratándose de créditos que las Sociedades Financieras Populares otorguen a la Ciudad de México, estas deberán contar con los últimos informes a los que alude la fracción VIII del artículo 33 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios o la que la sustituya.
+Tratándose de créditos que las Sociedades Financieras Populares otorguen a la Ciudad de México, estas deberán contar con los últimos informes a los que alude la fracción VIII del artículo [33](../../ldfefm/markdown/articulo-33.md) de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios o la que la sustituya.
 
 e) Garantías.
 
@@ -172,7 +172,7 @@ iii) Certificado de libertad de gravamen de los bienes garantes.
 
 i) De ser el caso, la evidencia de la existencia de participaciones o aportaciones federales o ingresos locales como garantías o fuente de pago del crédito.
 
-ii) Para los casos en que se establezca un fideicomiso para garantizar y ser fuente de pago de las obligaciones, copia del contrato correspondiente, así como, de ser el caso, copias del decreto en el que se ordene su constitución, y de la autorización del congreso local que permita la afectación de participaciones federales en el referido fideicomiso de garantía o de fuente de pago, conforme a lo establecido en el artículo 34, fracción II de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios o la que la sustituya.
+ii) Para los casos en que se establezca un fideicomiso para garantizar y ser fuente de pago de las obligaciones, copia del contrato correspondiente, así como, de ser el caso, copias del decreto en el que se ordene su constitución, y de la autorización del congreso local que permita la afectación de participaciones federales en el referido fideicomiso de garantía o de fuente de pago, conforme a lo establecido en el artículo [34](../../ldfefm/markdown/articulo-34.md), fracción II de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios o la que la sustituya.
 
 f) Reestructuración.
 

@@ -37,6 +37,6 @@ Cuando el recurrente no cumpla con alguno de los requisitos a que se refieren la
 
 La interposición del recurso de revisión suspenderá los efectos del acto impugnado cuando se trate de multas.
 
-Adicionalmente, contra las sanciones impuestas por el Banco de México por infracciones a las disposiciones incluidas en la presente Ley procederá el recurso de reconsideración, en los mismos términos y condiciones previstos en los artículos 64, 65 y 66 de la Ley del Banco de México. Párrafo adicionado DOF 24-01-2024
+Adicionalmente, contra las sanciones impuestas por el Banco de México por infracciones a las disposiciones incluidas en la presente Ley procederá el recurso de reconsideración, en los mismos términos y condiciones previstos en los artículos [64](../../lbm/markdown/articulo-64.md), [65](../../lbm/markdown/articulo-65.md) y [66](../../lbm/markdown/articulo-66.md) de la Ley del Banco de México. Párrafo adicionado DOF 24-01-2024
 
 Artículo reformado DOF 10-01-2014

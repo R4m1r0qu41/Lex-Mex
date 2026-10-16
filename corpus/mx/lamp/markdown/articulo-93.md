@@ -19,7 +19,7 @@ source_sha256: 05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d
 
 Al conocer de los asuntos en revisión, el órgano jurisdiccional observará las reglas siguientes:
 
-I. Si quien recurre es la persona quejosa, examinará, en primer término, los agravios hechos valer en contra del sobreseimiento decretado en la resolución recurrida. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Párrafo reformado DOF 13-03-2025
+I. Si quien recurre es la persona quejosa, examinará, en primer término, los agravios hechos valer en contra del sobreseimiento decretado en la resolución recurrida. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Párrafo reformado DOF 13-03-2025
 
 Si los agravios son fundados, examinará las causales de sobreseimiento invocadas y no estudiadas por el órgano jurisdiccional de amparo de primera instancia, o surgidas con posterioridad a la resolución impugnada;
 

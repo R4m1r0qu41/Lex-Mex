@@ -21,7 +21,7 @@ Los contribuyentes de los derechos a que se refiere el presente Capítulo, al mo
 
 I.- El costo comprobado de los aparatos de medición que adquieran y cumplan con las características y especificaciones señaladas en las reglas de carácter general emitidas por la Comisión Nacional del Agua, así como los gastos de su instalación, sin incluir las cantidades que además se carguen o cobren al adquirente por otras contribuciones, para calcular el volumen de agua explotada, usada o aprovechada, en los términos de la presente Ley.
 
-A fin de hacer efectiva dicha disminución, los contribuyentes deberán conservar y presentar ante las oficinas de la Comisión Nacional del Agua, para su verificación, el comprobante fiscal de la compra del aparato de medición y de su instalación, que deberá cumplir con los requisitos fiscales a que se refiere el artículo 29-A del Código Fiscal de la Federación. Fracción reformada DOF 31-12-1999, 31-12-2000, 19-12-2024
+A fin de hacer efectiva dicha disminución, los contribuyentes deberán conservar y presentar ante las oficinas de la Comisión Nacional del Agua, para su verificación, el comprobante fiscal de la compra del aparato de medición y de su instalación, que deberá cumplir con los requisitos fiscales a que se refiere el artículo [29-A](../../cff/markdown/articulo-29-A.md) del Código Fiscal de la Federación. Fracción reformada DOF 31-12-1999, 31-12-2000, 19-12-2024
 
 II. (Se deroga). Fracción reformada DOF 31-12-1998, 31-12-2000, 12-12-2011. Derogada DOF 11-12-2013
 

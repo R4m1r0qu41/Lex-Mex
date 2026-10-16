@@ -19,4 +19,4 @@ Durante las investigaciones y el proceso penal federal se mantendrá el resguard
 
 Los servidores públicos de la Secretaría guardarán la debida reserva de la identidad y de cualquier dato personal a que se refiere el párrafo anterior, así como de la información y documentación que estos hayan proporcionado en los respectivos Avisos, salvo en los casos en los que sea requerida por la [Unidad](articulo-3.md) o la autoridad judicial.
 
-Se deberá mantener en reserva y bajo resguardo, la identidad y datos personales de los servidores públicos que intervengan en cualquier acto derivado de la aplicación de la Ley, observando, en su caso, lo dispuesto por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+Se deberá mantener en reserva y bajo resguardo, la identidad y datos personales de los servidores públicos que intervengan en cualquier acto derivado de la aplicación de la Ley, observando, en su caso, lo dispuesto por el artículo [20](../../cpeum/markdown/articulo-20.md) de la Constitución Política de los Estados Unidos Mexicanos.

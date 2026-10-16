@@ -226,6 +226,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:101-bis-3:reference:1696-1697:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:101-bis-3",
+    "source_span": "5",
+    "start_char": 1696,
+    "end_char": 1697,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lcnbv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:5",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 1699,
+        "end_char": 1713
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgoaac:article:101-bis-4:reference:229-238:101-bis-3:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:101-bis-4",
     "source_span": "101 Bis 3",
@@ -359,6 +381,21 @@
     "end_char": 1856,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgoaac",
     "target_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:20",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:11-bis-1:reference:312-315:179:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:11-bis-1",
+    "source_span": "179",
+    "start_char": 312,
+    "end_char": 315,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ldrs",
+    "target_provision_id": "urn:lex-mx:federal:statute:ldrs:article:179",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -1111,6 +1148,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:53:reference:3407-3410:177:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:53",
+    "source_span": "177",
+    "start_char": 3407,
+    "end_char": 3410,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:177",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo primero",
+        "start_char": 3596,
+        "end_char": 3611
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgoaac:article:56:reference:1028-1034:95-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:56",
     "source_span": "95 Bis",
@@ -1461,6 +1520,36 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:8-bis:reference:161-164:128:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:8-bis",
+    "source_span": "128",
+    "start_char": 161,
+    "end_char": 164,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:128",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:8-bis:reference:167-170:129:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:8-bis",
+    "source_span": "129",
+    "start_char": 167,
+    "end_char": 170,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:129",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgoaac:article:8-bis:reference:311-312:8:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:8-bis",
     "source_span": "8",
@@ -1727,6 +1816,21 @@
     "end_char": 656,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgoaac",
     "target_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:81-a-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:81-b:reference:1755-1758:128:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:81-b",
+    "source_span": "128",
+    "start_char": 1755,
+    "end_char": 1758,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:128",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -2272,6 +2376,43 @@
     "end_char": 6070,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgoaac",
     "target_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:87-c-bis-1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:87-d:reference:7395-7396:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:87-d",
+    "source_span": "4",
+    "start_char": 7395,
+    "end_char": 7396,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lcnbv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I",
+        "start_char": 7398,
+        "end_char": 7410
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgoaac:article:87-d:reference:7418-7419:6:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:87-d",
+    "source_span": "6",
+    "start_char": 7418,
+    "end_char": 7419,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lcnbv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:6",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

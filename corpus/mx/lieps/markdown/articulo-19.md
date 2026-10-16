@@ -53,7 +53,7 @@ VIII. Los contribuyentes de los bienes a que se refieren los incisos A), B), C),
 
 Los contribuyentes que tengan uno o varios establecimientos ubicados en una entidad federativa diferente al de la matriz, deberán presentar la información a que se refiere el párrafo anterior por las operaciones que correspondan a dichos establecimientos para su consumo final.
 
-La información a que se refiere esta fracción y la fracción VI de este artículo, será la base para la determinación de las participaciones a que se refiere esta Ley y los artículos 3o. y 3o.-A de la Ley de Coordinación Fiscal, en materia del impuesto especial sobre producción y servicios. Párrafo reformado DOF 30-12-2002
+La información a que se refiere esta fracción y la fracción VI de este artículo, será la base para la determinación de las participaciones a que se refiere esta Ley y los artículos [3](../../lcf/markdown/articulo-3o.md)o. y 3o.-A de la Ley de Coordinación Fiscal, en materia del impuesto especial sobre producción y servicios. Párrafo reformado DOF 30-12-2002
 
 IX. Los productores e importadores de tabacos labrados y de otros productos que contengan nicotina, deberán informar a la Secretaría de Hacienda y Crédito Público, conjuntamente con su declaración del mes, el precio de enajenación de cada producto y el valor y volumen de los mismos; así como especificar el peso total de tabacos labrados enajenados, la cantidad total de cigarros enajenados o la cantidad de miligramos de nicotina contenida en los productos enajenados, según corresponda. Esta información se deberá proporcionar por cada una de las marcas que produzca o importe el contribuyente. Fracción reformada DOF 27-11-2009, 07-11-2025
 
@@ -81,7 +81,7 @@ XVII. Proporcionar la información que del impuesto especial sobre producción y
 
 XVIII. Los contribuyentes que enajenen al público en general bebidas alcohólicas para su consumo en el mismo lugar o establecimiento en el que se enajenen, deberán destruir los envases que las contenían, inmediatamente después de que se haya agotado su contenido. El Servicio de Administración Tributaria, a través de reglas de carácter general, podrá establecer los casos en los que no será aplicable la obligación de destruir envases a que se refiere la presente fracción. Fracción reformada DOF 12-11-2021
 
-XIX. Los importadores de los bienes a que se refiere el inciso B) de la fracción I del artículo [2](articulo-2o.md)o. de esta Ley, que no elaboren bebidas alcohólicas, deberán estar inscritos en el Padrón de Importadores a que se refiere el artículo 59, fracción IV de la Ley Aduanera. Fracción reformada DOF 31-12-2003, 09-12-2019
+XIX. Los importadores de los bienes a que se refiere el inciso B) de la fracción I del artículo [2](articulo-2o.md)o. de esta Ley, que no elaboren bebidas alcohólicas, deberán estar inscritos en el Padrón de Importadores a que se refiere el artículo [59](../../ladua/markdown/articulo-59.md), fracción IV de la Ley Aduanera. Fracción reformada DOF 31-12-2003, 09-12-2019
 
 XX. (Se deroga). Fracción adicionada DOF 23-12-2005. Derogada DOF 09-12-2019
 

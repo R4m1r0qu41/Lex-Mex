@@ -19,7 +19,7 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
 
-Queda prohibido que la madre, padre o cualquier persona en la familia, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños o adolescentes. Se define el castigo corporal y humillante según lo dispuesto por la fracción VIII del artículo 47 de la Ley General de los Derechos de Niñas, Niños y Adolescentes. Párrafo adicionado DOF 11-01-2021
+Queda prohibido que la madre, padre o cualquier persona en la familia, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños o adolescentes. Se define el castigo corporal y humillante según lo dispuesto por la fracción VIII del artículo [47](../../lgdnna/markdown/articulo-47.md) de la Ley General de los Derechos de Niñas, Niños y Adolescentes. Párrafo adicionado DOF 11-01-2021
 
 La violencia familiar es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, patrimonial, económica o sexual a cualquier integrante de la familia dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones; así como, el incumplimiento de las obligaciones alimentarias por parte de la persona que de conformidad con lo dispuesto en este Código tiene obligación de cubrirlas. Párrafo reformado DOF 11-01-2021, 17-01-2024
 

@@ -17,4 +17,4 @@ source_sha256: 3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d
 
 # Artículo 5
 
-El producto azúcar de caña, por ser necesario para la economía nacional y el consumo popular, queda sujeto a las disposiciones contenidas en el Artículo 7o. de la [Ley](articulo-3.md) Federal de Competencia Económica.
+El producto azúcar de caña, por ser necesario para la economía nacional y el consumo popular, queda sujeto a las disposiciones contenidas en el Artículo [7](../../lfce/markdown/articulo-7.md)o. de la [Ley](articulo-3.md) Federal de Competencia Económica.

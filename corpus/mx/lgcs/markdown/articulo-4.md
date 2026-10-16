@@ -47,6 +47,6 @@ XII. [Sistema de Información de Normatividad de Comunicación: Sistema a cargo 
 
 XIII. Tiempos Comerciales: Corresponde a los espacios de radio y televisión que los Entes Públicos utilizan para la difusión de campañas, de conformidad con el Presupuesto de Egresos correspondiente;
 
-XIV. Tiempos de Estado: Las transmisiones gratuitas diarias referidas en los artículos 251 y 252 de la Ley Federal de Telecomunicaciones y Radiodifusión;
+XIV. Tiempos de Estado: Las transmisiones gratuitas diarias referidas en los artículos [251](../../lftr/markdown/articulo-251.md) y [252](../../lftr/markdown/articulo-252.md) de la Ley Federal de Telecomunicaciones y Radiodifusión;
 
 XV. Tiempos Fiscales: Corresponden al pago en especie del Impuesto Federal sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación; a través de transmisiones gratuitas en radio y televisión, y XVI. Tiempos Oficiales: Comprende tanto los [Tiempos de Estado](articulo-4.md) como los Tiempos Fiscales en radio y televisión.

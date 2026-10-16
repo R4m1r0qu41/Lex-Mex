@@ -29,7 +29,7 @@ IV. Realizar el traslado de procesados que se deriven de la audiencia inicial co
 
 V. Realizar los traslados de sentenciados para compurgar la sentencia impuesta, en el centro penitenciario más cercano a su domicilio, determinados por los jueces de ejecución de los Centros de Justicia Penales Federales;
 
-VI. Coadyuvar con el órgano jurisdiccional para mantener el orden en las audiencias, bajo la conducción y mando de éste, respetando lo previsto en el artículo 53 del Código Nacional de Procedimientos Penales;
+VI. Coadyuvar con el órgano jurisdiccional para mantener el orden en las audiencias, bajo la conducción y mando de éste, respetando lo previsto en el artículo [53](../../cnpp/markdown/articulo-53.md) del Código Nacional de Procedimientos Penales;
 
 VII. Cumplimentar las medidas de apremio ordenadas por el órgano jurisdiccional durante la audiencia, en coordinación con otras autoridades competentes;
 
@@ -41,7 +41,7 @@ X. Suministrar, integrar y mantener actualizadas las bases de datos de la Direcc
 
 XI. Planear reuniones de trabajo con los operadores del sistema de justicia penal, para mejorar las funciones de traslados y de seguridad en salas;
 
-XII. Dirigir y atender todos los asuntos de traslados y seguridad en salas vinculados al sistema de justicia penal a que se refiere el artículo 22 de la [Ley](articulo-2.md) Nacional de Ejecución Penal;
+XII. Dirigir y atender todos los asuntos de traslados y seguridad en salas vinculados al sistema de justicia penal a que se refiere el artículo [22](../../lnep/markdown/articulo-22.md) de la [Ley](articulo-2.md) Nacional de Ejecución Penal;
 
 XIII. Informar a los Consejos de Disciplina las faltas cometidas por el personal que desempeñe funciones de seguridad procesal;
 
@@ -61,7 +61,7 @@ XXI. Fomentar la capacitación integral y especialización de los integrantes a 
 
 XXII. Suministrar, integrar, y mantener actualizadas las bases de datos de la Dirección General con la información que se obtenga con motivo del ejercicio de sus atribuciones;
 
-XXIII. Determinar la distribución del personal policial procesal en las entidades federativas para realizar las funciones que señala el artículo 22 de la Ley Nacional de Ejecución Penal;
+XXIII. Determinar la distribución del personal policial procesal en las entidades federativas para realizar las funciones que señala el artículo [22](../../lnep/markdown/articulo-22.md) de la Ley Nacional de Ejecución Penal;
 
 XXIV. Organizar la distribución de los recursos humanos, financieros, materiales y tecnológicos que permitan con sus atribuciones, y
 

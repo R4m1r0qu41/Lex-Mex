@@ -20,7 +20,7 @@ source_sha256: f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b
 
 El grupo IV estará integrado por:
 
-(382) I. Operaciones Sujetas a Riesgo de Crédito con o a cargo de entidades de la Administración Pública Federal paraestatal a las que se refiere el artículo 3 de la Ley Orgánica de la Administración Pública Federal, a excepción del IPAB.
+(382) I. Operaciones Sujetas a Riesgo de Crédito con o a cargo de entidades de la Administración Pública Federal paraestatal a las que se refiere el artículo [3](../../loapf/markdown/articulo-3o.md) de la Ley Orgánica de la Administración Pública Federal, a excepción del IPAB.
 
 (383) II. Derogada.
 

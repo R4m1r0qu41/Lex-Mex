@@ -31,7 +31,7 @@ VI. Entero: el depósito de recursos a la Tesorería que realiza cualquier ente 
 
 VII. Entidades: los organismos descentralizados, empresas de participación estatal y fideicomisos públicos que de conformidad con la Ley Orgánica de la Administración Pública Federal sean considerados entidades paraestatales;
 
-VIII. Entidades Federativas: las partes integrantes de la Federación a que se refiere el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;
+VIII. Entidades Federativas: las partes integrantes de la Federación a que se refiere el artículo [43](../../cpeum/markdown/articulo-43.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 IX. Funciones de tesorería: las actividades que corresponde realizar a la Tesorería para la gestión integral de los procesos vinculados con la recaudación, administración, pago y vigilancia respecto de los recursos y valores de la propiedad o al cuidado del Gobierno Federal, así como de las garantías otorgadas a favor del mismo, en términos de los Títulos Segundo y Tercero de esta Ley;
 

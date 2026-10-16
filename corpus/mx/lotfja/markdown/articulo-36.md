@@ -37,7 +37,7 @@ IX. Dictar los acuerdos y providencias relativas a las medidas cautelares provis
 
 X. Supervisar la debida integración de las actuaciones en el Sistema de Justicia en Línea del Tribunal;
 
-XI. Proponer a la Sala Regional la designación de perito tercero, para que se proceda en los términos de la fracción V del artículo 43 de la Ley Federal de Procedimiento Contencioso Administrativo;
+XI. Proponer a la Sala Regional la designación de perito tercero, para que se proceda en los términos de la fracción V del artículo [43](../../lfpca/markdown/articulo-43.md) de la Ley Federal de Procedimiento Contencioso Administrativo;
 
 XII. Tramitar y resolver los juicios en la vía sumaria que por turno le correspondan, atendiendo a las disposiciones legales que regulan dicho procedimiento;
 

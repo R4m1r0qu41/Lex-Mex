@@ -31,6 +31,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfar:article:12:reference:1631-1633:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfar:article:12",
+    "source_span": "27",
+    "start_char": 1631,
+    "end_char": 1633,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
+    "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:27",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfar:article:19:reference:282-299:18:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lfar:article:19",
     "source_span": "artículo anterior",

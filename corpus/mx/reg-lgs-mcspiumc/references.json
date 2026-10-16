@@ -141,6 +141,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:2:reference:421-422:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:2",
+    "source_span": "3",
+    "start_char": 421,
+    "end_char": 422,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:25:reference:1673-1675:25:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:25",
     "source_span": "IV",
@@ -175,6 +190,103 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:reference:1328-1329:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
+    "source_span": "3",
+    "start_char": 1328,
+    "end_char": 1329,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpccs",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpccs:article:3",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 1331,
+        "end_char": 1343
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:reference:4964-4967:159:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
+    "source_span": "159",
+    "start_char": 4964,
+    "end_char": 4967,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:159",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:reference:6605-6606:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
+    "source_span": "8",
+    "start_char": 6605,
+    "end_char": 6606,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:reference:7692-7694:46:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
+    "source_span": "46",
+    "start_char": 7692,
+    "end_char": 7694,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:46",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:34:reference:235-237:54:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:34",
+    "source_span": "54",
+    "start_char": 235,
+    "end_char": 237,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:54",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:35:reference:329-331:46:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:35",
+    "source_span": "46",
+    "start_char": 329,
+    "end_char": 331,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:46",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -252,6 +364,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:59:reference:528-530:78:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:59",
+    "source_span": "78",
+    "start_char": 528,
+    "end_char": 530,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfsv",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:78",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 532,
+        "end_char": 543
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60:reference:621-623:60:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60",
     "source_span": "IV",
@@ -308,5 +442,20 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:reference:3470-3471:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9",
+    "source_span": "8",
+    "start_char": 3470,
+    "end_char": 3471,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   }
 ]

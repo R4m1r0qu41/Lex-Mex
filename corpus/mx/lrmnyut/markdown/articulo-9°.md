@@ -15,4 +15,4 @@ source_sha256: 6e3f13a2ca4c875228dcbd57a62c04bd991e1540b851c56f320c8aaf2016d7c0
 
 # Artículo 9°
 
-En caso de infracción a lo dispuesto en el artículo [4](articulo-4°.md)°, independientemente de las sanciones penales establecidas en esta Ley, el Ejecutivo Federal podrá proceder al rescate de la respectiva concesión, conforme a lo dispuesto en el artículo 14 de la Ley General de Bienes Nacionales.
+En caso de infracción a lo dispuesto en el artículo [4](articulo-4°.md)°, independientemente de las sanciones penales establecidas en esta Ley, el Ejecutivo Federal podrá proceder al rescate de la respectiva concesión, conforme a lo dispuesto en el artículo [14](../../lgbn/markdown/articulo-14.md) de la Ley General de Bienes Nacionales.

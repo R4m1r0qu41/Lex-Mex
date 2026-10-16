@@ -17,4 +17,4 @@ source_sha256: 71dca147c2bed643f28921065bc240abcd15879a1504a55a9c153d6b202bbc5f
 
 # Artículo 2o
 
-Son sujetos de esta Ley los previstos en el artículo 2o. de la Ley de Desarrollo Rural Sustentable.
+Son sujetos de esta Ley los previstos en el artículo [2](../../ldrs/markdown/articulo-2o.md)o. de la Ley de Desarrollo Rural Sustentable.

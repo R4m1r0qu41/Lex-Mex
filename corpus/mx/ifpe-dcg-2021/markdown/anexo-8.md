@@ -31,7 +31,7 @@ Datos de Verificación de Firma a aquellos Datos de Verificación de Firma Elect
 
 Descifrado: al proceso de aplicar los Datos de Creación de Firma Electrónica Calificados a un Mensaje de Datos que haya sido [Cifrado](articulo-1.md), para que el Titular del respectivo Certificado Digital pueda ver el contenido del Mensaje de Datos original.
 
-Firma Electrónica: al conjunto de datos que se agrega a un Mensaje de Datos, el cual está asociado en forma lógica a éste y es atribuible al Titular una vez utilizado el Sistema de Información Calificado y que cumple con los requisitos de Firma Electrónica Avanzada o Fiable a que se refiere el artículo 89 del Código de Comercio, según sea modificado o sustituido con posterioridad.
+Firma Electrónica: al conjunto de datos que se agrega a un Mensaje de Datos, el cual está asociado en forma lógica a éste y es atribuible al Titular una vez utilizado el Sistema de Información Calificado y que cumple con los requisitos de Firma Electrónica Avanzada o Fiable a que se refiere el artículo [89](../../ccom/markdown/articulo-89.md) del Código de Comercio, según sea modificado o sustituido con posterioridad.
 
 Infraestructura Extendida de a aquel a que se refieren las Reglas de la IES. Seguridad (IES):
 
@@ -39,7 +39,7 @@ Reglas de la IES: a las Reglas para Operar como Agencia Registradora y/o Agencia
 
 Sistema de Información Calificado: a aquel sistema de información que permite, por una parte, la Creación de Firmas Electrónicas, como Dispositivo de Creación de Firma Electrónica en términos de las Reglas de la IES, y, por otra parte, la Verificación de Firmas Electrónicas, como Dispositivo de Verificación de Firma Electrónica en términos de dichas Reglas, así como llevar a cabo el Cifrado y Descifrado de Mensajes de Datos.
 
-Titular: a aquel a que se refiere las Reglas de la IES, que interviene en su carácter de Firmante en términos del artículo 89 del Código de Comercio.
+Titular: a aquel a que se refiere las Reglas de la IES, que interviene en su carácter de Firmante en términos del artículo [89](../../ccom/markdown/articulo-89.md) del Código de Comercio.
 
 Verificación de una Firma Electrónica: al proceso de aplicar los Datos de Verificación de Firma Electrónica a la Firma Electrónica de un Mensaje de Datos y comprobar, tanto la fiabilidad de dicha Firma Electrónica mediante la verificación de que esta fue creada para ese mismo Mensaje de Datos utilizando los Datos de Creación de la Firma Electrónica que corresponden a los Datos de Verificación de Firma Electrónica, como la integridad del Mensaje de Datos al no sufrir alteración después de generada su Firma Electrónica.
 

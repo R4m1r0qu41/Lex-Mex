@@ -31,6 +31,6 @@ c) La actualización que se determine para el ejercicio que se presupueste de lo
 
 III.- Adicionalmente, en el caso de los servicios de educación para adultos, la determinación de los recursos del Fondo de Aportaciones para la Educación Tecnológica y de Adultos y su consiguiente distribución, responderán a fórmulas que consideren las prioridades específicas y estrategias compensatorias para el abatimiento del rezago en materia de alfabetización, educación básica y formación para el trabajo. Las fórmulas, así como las variables consideradas y la fuente de información correspondiente, a que se refiere esta fracción deberán publicarse por la Secretaría de Educación Pública, a más tardar el 31 de enero de cada año en el Diario Oficial de la Federación. Fracción reformada DOF 09-12-2013
 
-La información que presenten las entidades y la Secretaría de Educación Pública, por este Fondo, deberá sujetarse al artículo 73 de la Ley General de Contabilidad Gubernamental. Párrafo adicionado DOF 09-12-2013
+La información que presenten las entidades y la Secretaría de Educación Pública, por este Fondo, deberá sujetarse al artículo [73](../../lgcg/markdown/articulo-73.md) de la Ley General de Contabilidad Gubernamental. Párrafo adicionado DOF 09-12-2013
 
 Artículo adicionado DOF 31-12-1998

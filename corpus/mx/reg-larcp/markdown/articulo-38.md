@@ -27,4 +27,4 @@ III. En toda sesión se requerirá como mínimo la asistencia del titular de la 
 
 IV. La Dirección General sustanciará los expedientes que deba conocer la Comisión, en términos de la Ley y demás ordenamientos aplicables.
 
-Para los efectos a que se refiere el artículo 86 de la Ley Federal de Procedimiento Administrativo, se entenderá como superior jerárquico de la Comisión al titular de la [Subsecretaría](articulo-2o.md).
+Para los efectos a que se refiere el artículo [86](../../lfpa/markdown/articulo-86.md) de la Ley Federal de Procedimiento Administrativo, se entenderá como superior jerárquico de la Comisión al titular de la [Subsecretaría](articulo-2o.md).

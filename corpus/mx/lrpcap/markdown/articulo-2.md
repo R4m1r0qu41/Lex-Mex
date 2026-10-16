@@ -33,7 +33,7 @@ VII. Protección Complementaria: Protección que la [Secretaría](articulo-2.md)
 
 VIII. Condición de Refugiado: Estatus jurídico del extranjero que encontrándose en los supuestos establecidos en el artículo 13 de la Ley, es reconocido como refugiado, por la Secretaría de Gobernación y recibe protección como tal.
 
-IX. Representación: Las señaladas en el artículo 1 Bis, fracción VIII de la Ley del Servicio Exterior Mexicano.
+IX. Representación: Las señaladas en el artículo [1 Bis](../../lsem/markdown/articulo-1-BIS.md), fracción VIII de la Ley del Servicio Exterior Mexicano.
 
 X. Secretaría: Secretaría de Gobernación.
 

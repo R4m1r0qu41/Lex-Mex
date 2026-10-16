@@ -63,4 +63,4 @@ XXII. Procuradurías de Protección: La Procuraduría Federal de Protección de 
 
 XXIII. Sistema: Sistema Integral de Justicia Penal para Adolescentes, y
 
-XXIV. Víctima u Ofendido: Los señalados en el artículo 108 del Código Nacional de Procedimientos Penales.
+XXIV. Víctima u Ofendido: Los señalados en el artículo [108](../../cnpp/markdown/articulo-108.md) del Código Nacional de Procedimientos Penales.

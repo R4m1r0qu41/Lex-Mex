@@ -17,7 +17,7 @@ source_sha256: f2b5b1770441a6a4e48f3ade408f9ff7a3e9c81bd5d529e52484f49e4a8e91a6
 
 # Artículo 18-A
 
-Se considerará como valor para los efectos del cálculo del impuesto, el valor real de los intereses devengados cuando éstos deriven de créditos otorgados por las instituciones del sistema financiero a que se refiere el artículo 7o. de la Ley del Impuesto sobre la Renta; en créditos otorgados a través de contratos de apertura de crédito o cuenta corriente en los que el acreditado o cuentacorrentista pueda disponer del crédito mediante el uso de tarjetas expedidas por el acreedor; y de operaciones de arrendamiento financiero. Párrafo reformado DOF 29-12-1997, 30-12-2002, 11-12-2013
+Se considerará como valor para los efectos del cálculo del impuesto, el valor real de los intereses devengados cuando éstos deriven de créditos otorgados por las instituciones del sistema financiero a que se refiere el artículo [7](../../lisr/markdown/articulo-7.md)o. de la Ley del Impuesto sobre la Renta; en créditos otorgados a través de contratos de apertura de crédito o cuenta corriente en los que el acreditado o cuentacorrentista pueda disponer del crédito mediante el uso de tarjetas expedidas por el acreedor; y de operaciones de arrendamiento financiero. Párrafo reformado DOF 29-12-1997, 30-12-2002, 11-12-2013
 
 En el caso de las operaciones a que se refiere este artículo, las comisiones que se cobren al deudor, acreditado, cuentacorrentista o arrendatario, por la disposición de dinero en efectivo o por cualquier otro concepto y las penas convencionales, excepto los intereses moratorios, no se considerarán como parte de los intereses devengados.
 

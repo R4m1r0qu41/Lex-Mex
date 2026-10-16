@@ -17,6 +17,6 @@ source_sha256: 4afbc3d9466d845cfcfb8c2a64a1b7b5cf4efcbc31fe8b58afba418bb9600c52
 
 # Artículo 78
 
-Las medidas de seguridad a las que se refiere el artículo 404 de la Ley General de Salud que correspondan, se aplicarán para proteger la salud de la población por las actividades relacionadas a la producción, publicidad e importación de productos del tabaco.
+Las medidas de seguridad a las que se refiere el artículo [404](../../lgs/markdown/articulo-404.md) de la Ley General de Salud que correspondan, se aplicarán para proteger la salud de la población por las actividades relacionadas a la producción, publicidad e importación de productos del tabaco.
 
 Las medidas a que se refiere el párrafo anterior serán de inmediata aplicación y durarán el tiempo estrictamente necesario para corregir las irregularidades que pongan en peligro la salud de las personas o hasta que cese la causa que dio origen a su aplicación.

@@ -33,6 +33,6 @@ IV. Presentar declaraciones provisionales y anual en los términos de esta Ley.
 
 V. Informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquel en el que se realice la operación, de las contraprestaciones recibidas en efectivo, en moneda nacional, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos.
 
-La información a que se refiere esta fracción estará a disposición de la Secretaría de Hacienda y Crédito Público, en los términos del segundo párrafo del artículo 69 del Código Fiscal de la Federación.
+La información a que se refiere esta fracción estará a disposición de la Secretaría de Hacienda y Crédito Público, en los términos del segundo párrafo del artículo [69](../../cff/markdown/articulo-69.md) del Código Fiscal de la Federación.
 
 Cuando los ingresos a que se refiere este Capítulo sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria quien lleve los libros, expida los comprobantes fiscales y efectúe los pagos provisionales. Las personas a las que correspondan los rendimientos deberán solicitar a la institución fiduciaria el comprobante a que se refiere el último párrafo del [artículo anterior](articulo-117.md). Párrafo reformado DOF 12-11-2021

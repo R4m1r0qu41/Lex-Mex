@@ -16,7 +16,7 @@ source_sha256: b040dd53cd38f57ceaacd736fd04475ba82c840d063c62229302627d09f3f363
 
 # Artículo 56
 
-Las emisoras que realicen la adquisición de acciones representativas de su capital social, de conformidad con el artículo 56 de la Ley del Mercado de Valores, lo harán a través de la bolsa, debiendo ajustarse en adición a lo previsto en dicho precepto legal, a lo siguiente:
+Las emisoras que realicen la adquisición de acciones representativas de su capital social, de conformidad con el artículo [56](../../lmv/markdown/articulo-56.md) de la Ley del Mercado de Valores, lo harán a través de la bolsa, debiendo ajustarse en adición a lo previsto en dicho precepto legal, a lo siguiente:
 
 I. Estar al corriente en el pago de dividendos acumulativos que, en su caso, se haya establecido a favor de acciones preferentes.
 
@@ -32,7 +32,7 @@ c) En caso de que la intención de la Emisora sea adquirir más del 1% de las ac
 
 d) Mediante oferta pública de compra cuando el número de acciones que se pretenda adquirir en una o varias operaciones, dentro de un lapso de 20 días hábiles, sea igual o superior al 3% de las acciones en circulación de la Emisora.
 
-En caso de que la oferta a que se refiere este inciso tenga como finalidad la cancelación de la inscripción de las acciones en el Registro, el precio de la oferta deberá ajustarse a lo dispuesto por el artículo 108 de la Ley del Mercado de Valores.
+En caso de que la oferta a que se refiere este inciso tenga como finalidad la cancelación de la inscripción de las acciones en el Registro, el precio de la oferta deberá ajustarse a lo dispuesto por el artículo [108](../../lmv/markdown/articulo-108.md) de la Ley del Mercado de Valores.
 
 e) Ordenándola por conducto de la persona designada por el director general de la emisora como responsable del manejo de los recursos para la adquisición de acciones propias, ajustándose a lo dispuesto en el artículo [60](articulo-60.md) de las presentes disposiciones.
 

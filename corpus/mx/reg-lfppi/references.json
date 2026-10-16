@@ -151,6 +151,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2:reference:950-951:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:2",
+    "source_span": "2",
+    "start_char": 950,
+    "end_char": 951,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lsct",
+    "target_provision_id": "urn:lex-mx:federal:statute:lsct:article:2",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 954,
+        "end_char": 965
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:20:reference:272-274:11:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:20",
     "source_span": "11",
@@ -300,6 +322,21 @@
     "end_char": 1285,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfppi",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:148",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfppi:article:31:reference:238-240:28:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfppi:article:31",
+    "source_span": "28",
+    "start_char": 238,
+    "end_char": 240,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:28",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

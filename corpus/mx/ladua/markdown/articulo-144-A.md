@@ -41,7 +41,7 @@ b) 69-B, cuarto párrafo del Código Fiscal de la Federación, o
 
 c) 69-B Bis, noveno párrafo del Código Fiscal de la Federación. Fracción adicionada DOF 19-11-2025
 
-IX. Cuando los concesionarios o autorizados, sus socios o accionistas, según corresponda, tengan suspendido o cancelado su certificado de sello digital vigente o no cuenten con los mismos, o se ubiquen en alguno de los supuestos señalados en los artículos 17-H o 17-H Bis del Código Fiscal de la Federación. Fracción adicionada DOF 19-11-2025
+IX. Cuando los concesionarios o autorizados, sus socios o accionistas, según corresponda, tengan suspendido o cancelado su certificado de sello digital vigente o no cuenten con los mismos, o se ubiquen en alguno de los supuestos señalados en los artículos [17-H](../../cff/markdown/articulo-17-H.md) o [17-H Bis](../../cff/markdown/articulo-17-H-Bis.md) del Código Fiscal de la Federación. Fracción adicionada DOF 19-11-2025
 
 X. Cuando los concesionarios o autorizados, sus socios o accionistas, según corresponda, se encuentren como no localizados en su domicilio fiscal o el estatus de este sea inexistente. Fracción adicionada DOF 19-11-2025
 

@@ -33,19 +33,19 @@ Cuando exista discrepancia entre la descripción de los bienes, mercancías, ser
 
 Los comprobantes que se expidan en los supuestos que a continuación se indican, deberán cumplir adicionalmente con lo que en cada caso se específica:
 
-a) Los que se expidan a las personas físicas que cumplan sus obligaciones fiscales por conducto del coordinado, las cuales hayan optado por pagar el impuesto individualmente de conformidad con lo establecido por el artículo 73, quinto párrafo de la Ley del Impuesto sobre la Renta, deberán identificar el vehículo que les corresponda.
+a) Los que se expidan a las personas físicas que cumplan sus obligaciones fiscales por conducto del coordinado, las cuales hayan optado por pagar el impuesto individualmente de conformidad con lo establecido por el artículo [73](../../lisr/markdown/articulo-73.md), quinto párrafo de la Ley del Impuesto sobre la Renta, deberán identificar el vehículo que les corresponda.
 
 b) Los que amparen donativos deducibles en términos de la Ley del Impuesto sobre la Renta, deberán señalar expresamente tal situación y contener el número y fecha del oficio constancia de la autorización para recibir dichos donativos o, en su caso, del oficio de renovación correspondiente. Cuando amparen bienes que hayan sido deducidos previamente, para los efectos del impuesto sobre la renta, se indicará que el donativo no es deducible.
 
 c) Los que se expidan por la obtención de ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, deberán contener el número de cuenta predial del inmueble de que se trate o, en su caso, los datos de identificación del certificado de participación inmobiliaria no amortizable.
 
-d) Los que expidan los contribuyentes sujetos al impuesto especial sobre producción y servicios que enajenen tabacos labrados de conformidad con lo establecido por el artículo 19, fracción II, último párrafo de la Ley del Impuesto Especial sobre Producción y Servicios, deberán especificar el peso total de tabaco contenido en los tabacos labrados enajenados o, en su caso, la cantidad de cigarros enajenados.
+d) Los que expidan los contribuyentes sujetos al impuesto especial sobre producción y servicios que enajenen tabacos labrados de conformidad con lo establecido por el artículo [19](../../lieps/markdown/articulo-19.md), fracción II, último párrafo de la Ley del Impuesto Especial sobre Producción y Servicios, deberán especificar el peso total de tabaco contenido en los tabacos labrados enajenados o, en su caso, la cantidad de cigarros enajenados.
 
 e) Los que expidan los fabricantes, ensambladores, comercializadores e importadores de automóviles en forma definitiva, cuyo destino sea permanecer en territorio nacional para su circulación o comercialización, deberán contener el número de identificación vehicular y la clave vehicular que corresponda al automóvil.
 
 El valor del vehículo enajenado deberá estar expresado en el comprobante correspondiente en moneda nacional.
 
-Para efectos de esta fracción se entiende por automóvil la definición contenida en el artículo 5 de la Ley Federal del Impuesto sobre Automóviles Nuevos. Cuando los bienes o las mercancías no puedan ser identificados individualmente, se hará el señalamiento expreso de tal situación.
+Para efectos de esta fracción se entiende por automóvil la definición contenida en el artículo [5](../../lfisan/markdown/articulo-5o.md) de la Ley Federal del Impuesto sobre Automóviles Nuevos. Cuando los bienes o las mercancías no puedan ser identificados individualmente, se hará el señalamiento expreso de tal situación.
 
 f) Los que expidan los contribuyentes que distribuyan o enajenen hidrocarburos o petrolíferos, deberán contener el número de permiso vigente concedido por la Comisión Nacional de Energía. Inciso adicionado DOF 07-11-2025
 
@@ -57,13 +57,13 @@ a) Los que expidan los contribuyentes que enajenen lentes ópticos graduados, de
 
 b) Los que expidan los contribuyentes que presten el servicio de transportación escolar, deberán separar el monto que corresponda por dicho concepto.
 
-c) Los relacionados con las operaciones que dieron lugar a la emisión de los documentos pendientes de cobro de conformidad con lo establecido por el artículo [1](articulo-1o.md)o.-C, fracción III de la Ley del Impuesto al Valor Agregado, deberán consignar la cantidad efectivamente pagada por el deudor cuando los adquirentes hayan otorgado descuentos, rebajas o bonificaciones.
+c) Los relacionados con las operaciones que dieron lugar a la emisión de los documentos pendientes de cobro de conformidad con lo establecido por el artículo [1](../../liva/markdown/articulo-1o.md)o.-C, fracción III de la Ley del Impuesto al Valor Agregado, deberán consignar la cantidad efectivamente pagada por el deudor cuando los adquirentes hayan otorgado descuentos, rebajas o bonificaciones.
 
 VII. El importe total consignado en número o letra, conforme a lo siguiente:
 
 a) Cuando la contraprestación se pague en una sola exhibición, en el momento en que se expida el comprobante fiscal digital por Internet correspondiente a la operación de que se trate, se señalará expresamente dicha situación, además se indicará el importe total de la operación y, cuando así proceda, el monto de los impuestos trasladados desglosados con cada una de las tasas del impuesto correspondiente y, en su caso, el monto de los impuestos retenidos.
 
-Los contribuyentes que realicen las operaciones a que se refieren los artículos [2](articulo-2o.md)o.-A de la Ley del Impuesto al Valor Agregado; 19, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, y 11, tercer párrafo de la Ley Federal del Impuesto sobre Automóviles Nuevos, no trasladarán el impuesto en forma expresa y por separado, salvo tratándose de la enajenación de los bienes a que se refiere el artículo [2](articulo-2o.md)o., fracción I, incisos A), D), F), G), I) y J) de la Ley del Impuesto Especial sobre Producción y Servicios, cuando el adquirente sea, a su vez, contribuyente de este impuesto por dichos bienes y así lo solicite.
+Los contribuyentes que realicen las operaciones a que se refieren los artículos [2](../../liva/markdown/articulo-2o.md)o.-A de la Ley del Impuesto al Valor Agregado; 19, fracción II de la Ley del Impuesto Especial sobre Producción y Servicios, y 11, tercer párrafo de la Ley Federal del Impuesto sobre Automóviles Nuevos, no trasladarán el impuesto en forma expresa y por separado, salvo tratándose de la enajenación de los bienes a que se refiere el artículo [2](../../lieps/markdown/articulo-2o.md)o., fracción I, incisos A), D), F), G), I) y J) de la Ley del Impuesto Especial sobre Producción y Servicios, cuando el adquirente sea, a su vez, contribuyente de este impuesto por dichos bienes y así lo solicite.
 
 Tratándose de contribuyentes que presten servicios personales, cada pago que perciban por la prestación de servicios se considerará como una sola exhibición y no como una parcialidad.
 

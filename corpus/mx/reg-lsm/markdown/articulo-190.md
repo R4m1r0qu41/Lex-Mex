@@ -41,7 +41,7 @@ XI.- Vigilar que todo el personal perteneciente a las Reservas concurra a los ll
 
 XII.- Llevar la estadística para estar siempre en condiciones de proporcionar a la superioridad la mayor cantidad de datos para el reclutamiento, la instrucción, maniobras, movilización y operaciones militares que puedan presentarse dentro de su jurisdicción;
 
-XIII.- Visar cada año la Cartilla de Identificación del personal de reservistas residente dentro de su Sector, de acuerdo con lo prevenido en el artículo 49 de la Ley del Servicio Militar;
+XIII.- Visar cada año la Cartilla de Identificación del personal de reservistas residente dentro de su Sector, de acuerdo con lo prevenido en el artículo [49](../../lsm/markdown/articulo-49.md) de la Ley del Servicio Militar;
 
 XIV.- Exigir bajo su más estrecha responsabilidad que todas las órdenes, programas de instrucción, instructivos, etc., que reciba por conducto de la Oficina de Reclutamiento de Zona sean debidamente cumplidos por las Juntas Municipales de Reclutamiento;
 

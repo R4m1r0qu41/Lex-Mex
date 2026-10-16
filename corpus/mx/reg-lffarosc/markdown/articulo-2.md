@@ -17,7 +17,7 @@ source_sha256: 50d888e53a7b0990f6d19dbab03d263e01ca7d4a4365a0c2663e03caf9f2715c
 
 # Artículo 2
 
-Para efectos del presente Reglamento, además de las definiciones que se establecen en el artículo 2 de la [Ley](articulo-2.md) Federal de Fomento a las [Actividades](articulo-2.md) Realizadas por Organizaciones de la Sociedad Civil, se entenderá por:
+Para efectos del presente Reglamento, además de las definiciones que se establecen en el artículo [2](../../lffaosc/markdown/articulo-2.md) de la [Ley](articulo-2.md) Federal de Fomento a las [Actividades](articulo-2.md) Realizadas por Organizaciones de la Sociedad Civil, se entenderá por:
 
 I. Actividades, las actividades realizadas por las Organizaciones enunciadas en el artículo 5 de la Ley;
 

@@ -17,6 +17,6 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 371
 
-El Juez del Registro Civil, el juez de primera instancia en su caso, y el notario que consientan en la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro por un término que no baje de dos ni exceda de cinco años.
+El Juez del Registro Civil, el juez de primera instancia en su caso, y el notario que consientan en la violación del [artículo que precede](articulo-370.md), serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro por un término que no baje de dos ni exceda de cinco años.
 
 Artículo reformado DOF 24-03-1971, 14-03-1973

@@ -164,6 +164,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:38:reference:1369-1371:86:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:38",
+    "source_span": "86",
+    "start_char": 1369,
+    "end_char": 1371,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:86",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-larcp:article:45:reference:247-249:43:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:45",
     "source_span": "43",

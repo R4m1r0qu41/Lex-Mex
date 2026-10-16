@@ -17,7 +17,7 @@ source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 
 # Artículo 16
 
-El Ministerio Público determinará la reserva de la averiguación previa, en los casos señalados en el artículo 3, fracción XV, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal, conforme las reglas siguientes:
+El Ministerio Público determinará la reserva de la averiguación previa, en los casos señalados en el artículo [3](../../lopgjdf/markdown/articulo-3.md), fracción XV, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal, conforme las reglas siguientes:
 
 I. Cuando la averiguación que motive la propuesta de reserva, verse sobre delitos no graves o sancionados con pena alternativa o no privativa de libertad, el agente del Ministerio Público del conocimiento formulará la propuesta al superior jerárquico de su adscripción, quien contará con cinco días hábiles para emitir su determinación, la que se notificará al denunciante, querellante, ofendido o víctima del delito, y
 

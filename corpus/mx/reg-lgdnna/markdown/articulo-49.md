@@ -21,7 +21,7 @@ La [Procuraduría Federal](articulo-2.md), en términos de los convenios que al 
 
 I. La inclusión de la niña, niño o adolescente y su familia, en forma conjunta o separada, en programas de asistencia social, de salud y educativos, así como actividades deportivas, culturales, artísticas o cualquier otra actividad recreativa al que puedan incorporarse por sus características;
 
-II. La orden de tratamiento médico, psicológico o psiquiátrico de la niña, niño o adolescente o de su madre, padre, representante o responsable, en especial los servicios de salud de emergencia previstos en los artículos 29 y 30 de la Ley General de Víctimas;
+II. La orden de tratamiento médico, psicológico o psiquiátrico de la niña, niño o adolescente o de su madre, padre, representante o responsable, en especial los servicios de salud de emergencia previstos en los artículos [29](../../lgv/markdown/articulo-29.md) y [30](../../lgv/markdown/articulo-30.md) de la Ley General de Víctimas;
 
 III. La separación inmediata de la niña, niño o adolescente de la actividad laboral;
 

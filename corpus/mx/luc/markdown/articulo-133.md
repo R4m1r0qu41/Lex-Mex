@@ -31,6 +31,6 @@ III. Por edictos, en los supuestos señalados en el artículo [141](articulo-141
 
 IV. Por medio electrónico, en el supuesto previsto en el artículo [142](articulo-142.md) de esta Ley.
 
-Respecto a la información y documentación que deba exhibirse a los inspectores de la [Comisión](articulo-3.md) al amparo de una visita de inspección se deberá observar lo previsto en el reglamento expedido por el Ejecutivo Federal, en materia de supervisión, al amparo de lo establecido en el artículo 5, primer párrafo de la Ley de la Comisión Nacional Bancaria y de Valores.
+Respecto a la información y documentación que deba exhibirse a los inspectores de la [Comisión](articulo-3.md) al amparo de una visita de inspección se deberá observar lo previsto en el reglamento expedido por el Ejecutivo Federal, en materia de supervisión, al amparo de lo establecido en el artículo [5](../../lcnbv/markdown/articulo-5.md), primer párrafo de la Ley de la Comisión Nacional Bancaria y de Valores.
 
 Para efectos de este Capítulo, se entenderá por autoridades financieras a la [Secretaría](articulo-3.md) y a la Comisión.

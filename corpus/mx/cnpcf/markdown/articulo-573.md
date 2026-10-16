@@ -43,4 +43,4 @@ XIII. Embargo preventivo de bienes del agresor, que deberá inscribirse en el Re
 
 XIV. En caso de ser solicitado, proveer a fin de que la víctima pueda recibir en instituciones públicas y de manera gratuita atención médica y acompañamiento psicológico.
 
-La autoridad jurisdiccional está obligada a observar aquellos casos en los que pudiera tratarse de violencia vicaria en contra de mujeres, por sí o a través de una tercera persona definida en el artículo 6, fracción VI, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias. Párrafo reformado DOF 16-12-2024, 15-01-2026
+La autoridad jurisdiccional está obligada a observar aquellos casos en los que pudiera tratarse de violencia vicaria en contra de mujeres, por sí o a través de una tercera persona definida en el artículo [6](../../lgamvlv/markdown/articulo-6.md), fracción VI, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias. Párrafo reformado DOF 16-12-2024, 15-01-2026

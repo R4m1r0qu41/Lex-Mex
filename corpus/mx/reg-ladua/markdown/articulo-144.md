@@ -21,7 +21,7 @@ Para efectos del artículo 100, fracción II de la [Ley](articulo-1.md), las emp
 
 I. Realizar el pago del derecho que corresponda conforme a la Ley Federal de Derechos;
 
-II. Acreditar estar al corriente en el cumplimiento de obligaciones fiscales en términos de lo previsto en el artículo 32-D del Código Fiscal de la Federación, y
+II. Acreditar estar al corriente en el cumplimiento de obligaciones fiscales en términos de lo previsto en el artículo [32-D](../../cff/markdown/articulo-32-D.md) del Código Fiscal de la Federación, y
 
 III. Lo demás que establezca el [SAT](articulo-1.md) mediante Reglas.
 

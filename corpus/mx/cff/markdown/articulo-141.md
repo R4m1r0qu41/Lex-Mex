@@ -39,7 +39,7 @@ En ningún caso las autoridades fiscales podrán dispensar el otorgamiento de la
 
 La garantía deberá constituirse dentro de los treinta días siguientes a aquél en que surta efectos la notificación efectuada por la autoridad fiscal correspondiente de la resolución sobre la cual se deba garantizar el interés fiscal, salvo en los casos en que se indique un plazo diferente en otros preceptos de este Código.
 
-Conforme al artículo 135 de la Ley de Amparo, tratándose de los juicios de amparo que se pidan contra el cobro de las contribuciones y aprovechamientos, por los causantes obligados directamente a su pago, el interés fiscal se deberá asegurar mediante el depósito de las cantidades que correspondan ante la Tesorería de la Federación o la Entidad Federativa o Municipio que corresponda.
+Conforme al artículo [135](../../lamp/markdown/articulo-135.md) de la Ley de Amparo, tratándose de los juicios de amparo que se pidan contra el cobro de las contribuciones y aprovechamientos, por los causantes obligados directamente a su pago, el interés fiscal se deberá asegurar mediante el depósito de las cantidades que correspondan ante la Tesorería de la Federación o la Entidad Federativa o Municipio que corresponda.
 
 En los casos en que de acuerdo con la Ley Federal de Procedimiento Contencioso Administrativo o, en su caso, la Ley de Amparo, se solicite ante el Tribunal Federal de Justicia Administrativa o ante el órgano jurisdiccional competente la suspensión contra actos relativos a determinación, liquidación, ejecución o cobro de contribuciones, aprovechamientos y otros créditos de naturaleza fiscal, el interés fiscal se deberá garantizar ante la autoridad exactora conforme a lo establecido en este artículo. Párrafo reformado DOF 07-11-2025
 

@@ -37,7 +37,7 @@ VIII. Promover el manejo integral de las cuencas hidrográficas, e
 
 IX. Impulsar el manejo integrado de plagas y enfermedades que afecten tanto a los recursos forestales, como, en su caso, a los cultivos agrícolas.
 
-La Secretaría de Agricultura y Desarrollo Rural no otorgará apoyos o incentivos económicos para actividades agropecuarias en zonas deforestadas o para aquellas que propicien el cambio de uso de suelo de terrenos forestales o incrementen la frontera agropecuaria, para tal fin, se entenderán por actividades agropecuarias las definidas como tales en el artículo 3, fracción I de la Ley de Desarrollo Rural Sustentable. Párrafo reformado DOF 26-04-2021
+La Secretaría de Agricultura y Desarrollo Rural no otorgará apoyos o incentivos económicos para actividades agropecuarias en zonas deforestadas o para aquellas que propicien el cambio de uso de suelo de terrenos forestales o incrementen la frontera agropecuaria, para tal fin, se entenderán por actividades agropecuarias las definidas como tales en el artículo [3](../../ldrs/markdown/articulo-3o.md), fracción I de la Ley de Desarrollo Rural Sustentable. Párrafo reformado DOF 26-04-2021
 
 Para los efectos del párrafo anterior, la Secretaría y la Secretaría de Agricultura y Desarrollo Rural establecerán el instrumento de información que permita identificar los terrenos forestales o predios agropecuarios. Párrafo reformado DOF 26-04-2021
 

@@ -27,6 +27,6 @@ III. Estadísticas de actos o hechos de naturaleza similar a la amenaza identifi
 
 IV. Áreas de insuficiencia operativa, técnica y logística para enfrentar la amenaza identificada;
 
-V. El compromiso de contribuir a la atención de la amenaza y, en su caso, de restablecer la colaboración a que se refiere el segundo párrafo del artículo 1 de la Ley de [Seguridad Nacional](articulo-4.md), en los términos que establezca la [Declaratoria de Protección a la Seguridad Interior](articulo-4.md), y
+V. El compromiso de contribuir a la atención de la amenaza y, en su caso, de restablecer la colaboración a que se refiere el segundo párrafo del artículo [1](../../lsn/markdown/articulo-1.md) de la Ley de [Seguridad Nacional](articulo-4.md), en los términos que establezca la [Declaratoria de Protección a la Seguridad Interior](articulo-4.md), y
 
 VI. La demás información que se considere relevante para justificar la procedencia de la Declaratoria de Protección a la Seguridad Interior y para la toma de decisiones correspondientes.

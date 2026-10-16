@@ -17,7 +17,7 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 33
 
-El proyecto de [Presupuesto de Egresos](articulo-11.md), además de contener lo previsto en el artículo 41 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, deberá incluir:
+El proyecto de [Presupuesto de Egresos](articulo-11.md), además de contener lo previsto en el artículo [41](../../lfprh/markdown/articulo-41.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, deberá incluir:
 
 I. La estimación del monto máximo anual del gasto programable para los proyectos de Asociación Público Privada, a fin de atender los compromisos de pago requeridos, tanto de los proyectos nuevos que pretendan iniciar las Dependencias o [Entidades Federales](articulo-11.md) durante el siguiente ejercicio fiscal, como de aquéllos previamente autorizados;
 

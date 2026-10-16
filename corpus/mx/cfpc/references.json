@@ -196,6 +196,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cfpc:article:171:reference:84-87:108:direct",
+    "source_provision_id": "urn:lex-mx:federal:code:cfpc:article:171",
+    "source_span": "108",
+    "start_char": 84,
+    "end_char": 87,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:108",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cfpc:article:171:reference:247-250:127:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cfpc:article:171",
     "source_span": "127",
@@ -2389,6 +2404,28 @@
     "target_instrument_id": "urn:lex-mx:federal:code:cfpc",
     "target_provision_id": "urn:lex-mx:federal:code:cfpc:article:1",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cfpc:transitory:3º:reference:505-507:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:code:cfpc:transitory:3º",
+    "source_span": "89",
+    "start_char": 505,
+    "end_char": 507,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 481,
+        "end_char": 491
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

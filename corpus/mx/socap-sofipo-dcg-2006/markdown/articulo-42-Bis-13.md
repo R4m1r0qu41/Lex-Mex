@@ -32,4 +32,4 @@ b) Las reservas de la parte cubierta por cada uno de los avalistas se determinar
 
 c) Las reservas de la parte no cubierta se determinarán utilizando la Probabilidad de Incumplimiento y la Severidad de la Pérdida del acreditado de conformidad con lo dispuesto en la presente sección.
 
-En los casos donde la Sociedad Financiera Popular no cuente con información para determinar la Probabilidad de Incumplimiento del obligado solidario o avalista, deberán calcularla de acuerdo con lo establecido en el Artículo [112](articulo-112.md) de la Circular Única de Bancos.
+En los casos donde la Sociedad Financiera Popular no cuente con información para determinar la Probabilidad de Incumplimiento del obligado solidario o avalista, deberán calcularla de acuerdo con lo establecido en el Artículo [112](../../cub-dcg-2005/markdown/articulo-112.md) de la Circular Única de Bancos.

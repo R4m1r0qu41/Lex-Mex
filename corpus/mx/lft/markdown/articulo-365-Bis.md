@@ -17,7 +17,7 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 # Artículo 365 Bis
 
-El Centro Federal de Conciliación y Registro Laboral hará pública, para consulta de cualquier persona, debidamente actualizada, la información de los registros de los sindicatos. Asimismo, deberá expedir copias de los documentos que obren en los expedientes de registros que se les soliciten, en términos del artículo [8](articulo-8o.md)o. constitucional y de lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública. Párrafo reformado DOF 01-05-2019
+El Centro Federal de Conciliación y Registro Laboral hará pública, para consulta de cualquier persona, debidamente actualizada, la información de los registros de los sindicatos. Asimismo, deberá expedir copias de los documentos que obren en los expedientes de registros que se les soliciten, en términos del artículo 8o. constitucional y de lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública. Párrafo reformado DOF 01-05-2019
 
 El texto íntegro de los documentos del registro de los sindicatos, las tomas de nota, el estatuto, las actas de asambleas y todos los documentos contenidos en el expediente de registro sindical, deberán estar disponibles en los sitios de Internet del Centro Federal de Conciliación y Registro Laboral. Párrafo reformado DOF 01-05-2019
 
@@ -37,7 +37,7 @@ VII. Central obrera a la que pertenecen, en su caso.
 
 VIII. Padrón de socios. Fracción adicionada DOF 01-05-2019
 
-Por lo que se refiere a los documentos que obran en el expediente de registro de las asociaciones, únicamente estará clasificada como información confidencial los domicilios y CURP de los trabajadores señalados en los padrones de socios, en términos del último párrafo del artículo 78 de la Ley General de Transparencia y Acceso a la Información Pública. Párrafo adicionado DOF 01-05-2019
+Por lo que se refiere a los documentos que obran en el expediente de registro de las asociaciones, únicamente estará clasificada como información confidencial los domicilios y CURP de los trabajadores señalados en los padrones de socios, en términos del último párrafo del artículo [78](../../lgtaip/markdown/articulo-78.md) de la Ley General de Transparencia y Acceso a la Información Pública. Párrafo adicionado DOF 01-05-2019
 
 La actualización de los índices se deberá hacer cada tres meses.
 

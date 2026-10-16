@@ -80,5 +80,20 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsm:article:63:reference:983-986:382:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lsm:article:63",
+    "source_span": "382",
+    "start_char": 983,
+    "end_char": 986,
+    "target_instrument_id": "urn:lex-mx:federal:code:cjm",
+    "target_provision_id": "urn:lex-mx:federal:code:cjm:article:382",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   }
 ]

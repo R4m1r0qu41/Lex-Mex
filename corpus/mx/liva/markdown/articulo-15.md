@@ -59,9 +59,9 @@ g) Reciban o paguen las instituciones públicas que emitan bonos y administren p
 
 h) Deriven de valores a cargo del Gobierno Federal e inscritos en el Registro Nacional de Valores e Intermediarios. Inciso adicionado DOF 31-12-1988. Reformado DOF 28-12-1989, 30-12-2002
 
-i) Deriven de títulos de crédito que sean de los que se consideran como colocados entre el gran público inversionista, conforme a las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público o de operaciones de préstamo de títulos, valores y otros bienes fungibles a que se refiere la fracción III del artículo 14-A del Código Fiscal de la Federación. Inciso adicionado DOF 28-12-1989. Reformado DOF 26-12-1990, 29-12-1993 Fracción reformada DOF 30-12-1980
+i) Deriven de títulos de crédito que sean de los que se consideran como colocados entre el gran público inversionista, conforme a las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público o de operaciones de préstamo de títulos, valores y otros bienes fungibles a que se refiere la fracción III del artículo [14-A](../../cff/markdown/articulo-14-A.md) del Código Fiscal de la Federación. Inciso adicionado DOF 28-12-1989. Reformado DOF 26-12-1990, 29-12-1993 Fracción reformada DOF 30-12-1980
 
-XI.- Por los que se deriven de operaciones financieras derivadas a que se refiere el artículo 16-A del Código Fiscal de la Federación. Fracción reformada DOF 30-12-1980. Derogada 26-12-1990. Adicionada 29-12-1993
+XI.- Por los que se deriven de operaciones financieras derivadas a que se refiere el artículo [16-A](../../cff/markdown/articulo-16-A.md) del Código Fiscal de la Federación. Fracción reformada DOF 30-12-1980. Derogada 26-12-1990. Adicionada 29-12-1993
 
 XII.- Los proporcionados a sus miembros como contraprestación normal por sus cuotas y siempre que los servicios que presten sean únicamente los relativos a los fines que les sean propios, tratándose de:
 
@@ -85,7 +85,7 @@ XV.- Los servicios profesionales de medicina, hospitalarios, de radiología, de 
 
 XVI.- Por los que obtengan contraprestaciones los autores en los casos siguientes:
 
-a) Por autorizar a terceros la publicación de obras escritas de su creación en periódicos y revistas, siempre que los periódicos y revistas se destinen para su enajenación al público por la persona que efectúa los pagos por estos conceptos. b) Por transmitir temporalmente los derechos patrimoniales u otorgar temporalmente licencias de uso a terceros, correspondientes a obras de su autoría a que se refieren las fracciones I a VII, IX, X, XII, XIII y XIV del artículo [13](articulo-13.md) y el artículo 78 de la Ley Federal del Derecho de Autor, que estén inscritas en el Registro Público del Derecho de Autor de la Secretaría de Educación Pública.
+a) Por autorizar a terceros la publicación de obras escritas de su creación en periódicos y revistas, siempre que los periódicos y revistas se destinen para su enajenación al público por la persona que efectúa los pagos por estos conceptos. b) Por transmitir temporalmente los derechos patrimoniales u otorgar temporalmente licencias de uso a terceros, correspondientes a obras de su autoría a que se refieren las fracciones I a VII, IX, X, XII, XIII y XIV del artículo [13](articulo-13.md) y el artículo [78](../../lfda/markdown/articulo-78.md) de la Ley Federal del Derecho de Autor, que estén inscritas en el Registro Público del Derecho de Autor de la Secretaría de Educación Pública.
 
 c) Lo dispuesto en los incisos anteriores no aplicará:
 

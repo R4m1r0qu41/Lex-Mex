@@ -17,7 +17,7 @@ source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 
 # Artículo 2
 
-Para efectos de este Reglamento, además de las definiciones previstas en el artículo 4 de la [Ley](articulo-2.md) General de los Derechos de Niñas, Niños y Adolescentes, se entenderá por:
+Para efectos de este Reglamento, además de las definiciones previstas en el artículo [4](../../lgdnna/markdown/articulo-4.md) de la [Ley](articulo-2.md) General de los Derechos de Niñas, Niños y Adolescentes, se entenderá por:
 
 I. Ley: a la Ley General de los Derechos de Niñas, Niños y Adolescentes;
 

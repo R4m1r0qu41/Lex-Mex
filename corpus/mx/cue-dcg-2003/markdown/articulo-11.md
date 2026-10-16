@@ -20,7 +20,7 @@ Las emisoras podrán solicitar a la Comisión autorice la inscripción preventiv
 
 La [Inscripción](articulo-1.md) preventiva bajo la modalidad de listado previo tendrá por efecto el permitir a la Emisora realizar la oferta pública de las acciones objeto de dicho acto registral, en un plazo improrrogable de 2 años. Dicha oferta podrá llevarse a cabo, siempre que:
 
-I. A partir del momento en que obtengan la autorización de la inscripción preventiva bajo la modalidad de listado previo, haya dado cumplimiento a las disposiciones aplicables a las emisoras con valores inscritos en el Registro a que se refieren los artículos 104 a 106 de la Ley del Mercado de Valores, ajustándose para ello a lo dispuesto en el Título Cuarto de estas disposiciones.
+I. A partir del momento en que obtengan la autorización de la inscripción preventiva bajo la modalidad de listado previo, haya dado cumplimiento a las disposiciones aplicables a las emisoras con valores inscritos en el Registro a que se refieren los artículos [104](../../lmv/markdown/articulo-104.md) a [106](../../lmv/markdown/articulo-106.md) de la Ley del Mercado de Valores, ajustándose para ello a lo dispuesto en el Título Cuarto de estas disposiciones.
 
 II. Solicite la autorización de la documentación a que hace referencia el artículo [2](articulo-2.md)o., fracción I, incisos l) y m) de estas disposiciones, acompañada de la documentación a que hace referencia la fracción I, incisos e) y k) del citado artículo [2](articulo-2.md)o. Asimismo, deberá adecuar sus estatutos conforme a lo previsto en el artículo [8](articulo-8.md)o. de las presentes disposiciones.
 

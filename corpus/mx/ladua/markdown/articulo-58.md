@@ -15,7 +15,7 @@ source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
 
 # Artículo 58
 
-Para la reexpedición de mercancías de procedencia extranjera de la franja o región fronteriza al resto del país, las contribuciones se determinarán considerando el valor en aduana de las mercancías en la fecha en que se hubieran dado los supuestos a que se refiere la fracción I del artículo [56](articulo-56.md) de esta Ley, y se actualizarán en los términos del artículo 17-A del Código Fiscal de la Federación. Párrafo reformado DOF 30-12-1996
+Para la reexpedición de mercancías de procedencia extranjera de la franja o región fronteriza al resto del país, las contribuciones se determinarán considerando el valor en aduana de las mercancías en la fecha en que se hubieran dado los supuestos a que se refiere la fracción I del artículo [56](articulo-56.md) de esta Ley, y se actualizarán en los términos del artículo [17-A](../../cff/markdown/articulo-17-A.md) del Código Fiscal de la Federación. Párrafo reformado DOF 30-12-1996
 
 Tratándose de mercancías que hayan sido objeto de procesos de elaboración o transformación en dicha franja o región, se estará a lo siguiente:
 

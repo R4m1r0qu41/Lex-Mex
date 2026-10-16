@@ -17,4 +17,4 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 1509
 
-Lo dispuesto en el artículo que precede se observará también por cualquiera que tenga en su poder un testamento.
+Lo dispuesto en el [artículo que precede](articulo-1508.md) se observará también por cualquiera que tenga en su poder un testamento.

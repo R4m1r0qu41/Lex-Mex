@@ -23,7 +23,7 @@ I. Estar inscrito y activo en el registro federal de contribuyentes;
 
 II. Contar con firma electrónica avanzada vigente;
 
-III. Presentar la constancia de cumplimiento de las obligaciones fiscales, prevista en el artículo 32-D del Código Fiscal de la Federación, y
+III. Presentar la constancia de cumplimiento de las obligaciones fiscales, prevista en el artículo [32-D](../../cff/markdown/articulo-32-D.md) del Código Fiscal de la Federación, y
 
 IV. Los demás requisitos establecidos en las Reglas que al efecto emita el [SAT](articulo-1.md).
 

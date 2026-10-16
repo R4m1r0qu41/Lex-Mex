@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 31-A
 
-Los contribuyentes deberán presentar, con base en su contabilidad, la información de las siguientes operaciones: a) Las operaciones financieras a que se refieren los artículos 20 y 21 de la Ley del Impuesto sobre la Renta.
+Los contribuyentes deberán presentar, con base en su contabilidad, la información de las siguientes operaciones: a) Las operaciones financieras a que se refieren los artículos [20](../../lisr/markdown/articulo-20.md) y [21](../../lisr/markdown/articulo-21.md) de la Ley del Impuesto sobre la Renta.
 
 b) Las operaciones con partes relacionadas.
 

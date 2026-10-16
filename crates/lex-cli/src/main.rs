@@ -114,8 +114,19 @@ enum Command {
     Parse {
         instrument: String,
     },
+    /// Recompute references and defined-term usages from canonical text.
     Link {
-        instrument: String,
+        /// Committed instrument slug. Required unless `--all` is set.
+        #[arg(
+            value_name = "INSTRUMENT",
+            required_unless_present = "all",
+            conflicts_with = "all"
+        )]
+        instrument: Option<String>,
+        /// Relink every committed instrument against the current corpus.
+        /// Validation failures are left unchanged and reported.
+        #[arg(long)]
+        all: bool,
     },
     AnalyzeTemporal {
         instrument: String,
@@ -348,6 +359,22 @@ fn main() -> Result<()> {
 /// Split from `main` so the per-subcommand match arms -- one per CLI
 /// surface, growing whenever a subcommand is added -- don't make `main`
 /// itself trip a function-length lint on an unrelated addition.
+fn dispatch_link(root: &Path, instrument: Option<String>, all: bool) -> Result<()> {
+    if all {
+        let report = run_corpus_closure(root)?;
+        if report.status != "ok" {
+            bail!(
+                "corpus closure left {} instrument(s) unchanged because relink validation failed; see .work/corpus-closure.json",
+                report.rejected.len()
+            );
+        }
+        return Ok(());
+    }
+    let instrument = instrument.context("missing instrument slug")?;
+    let context = instrument_context(root, &instrument)?;
+    run_link(root, &context)
+}
+
 fn dispatch(root: &Path, obsidian_vault: Option<&Path>, command: Command) -> Result<()> {
     match command {
         command @ (Command::Instruments { .. } | Command::Path { .. } | Command::Search { .. }) => {
@@ -369,10 +396,7 @@ fn dispatch(root: &Path, obsidian_vault: Option<&Path>, command: Command) -> Res
             let context = instrument_context(root, &instrument)?;
             run_parse(root, &context)?;
         }
-        Command::Link { instrument } => {
-            let context = instrument_context(root, &instrument)?;
-            run_link(root, &context)?;
-        }
+        Command::Link { instrument, all } => dispatch_link(root, instrument, all)?,
         Command::AnalyzeTemporal {
             instrument,
             provider,
@@ -1827,7 +1851,17 @@ fn self_reference_markers(instrument_type: &str) -> Vec<String> {
             "de estas disposiciones",
         ]
         .as_slice(),
-        // statute, constitution, and anything else are ley-shaped.
+        // A constitution cites itself as "esta Constitución" or by the
+        // adjective ("el artículo 123 constitucional"). Without these, a later
+        // official title in the sentence would capture the citation.
+        "constitution" => [
+            "de esta constitución",
+            "de la presente constitución",
+            "esta constitución",
+            " constitucional",
+        ]
+        .as_slice(),
+        // statute and anything else are ley-shaped.
         _ => ["de esta ley", "de la presente ley", "esta ley"].as_slice(),
     };
     own.iter()
@@ -2064,8 +2098,8 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
             .as_ref()
             .and_then(|manifest| manifest.extracted_text_sha256.clone()),
     };
-    let references = extract_instrument_references(root, context, &instrument, &provisions)?;
-    let (terms, term_usages) = extract_instrument_terms(root, context, &instrument, &provisions)?;
+    let (references, terms, term_usages) =
+        links_for_parsed_instrument(root, context, &instrument, &provisions)?;
     // Reform evidence must be computed before reapplication: an
     // amendment-event determination's provision ID lives only in reform
     // evidence, never among canonical provisions, and reapplication needs
@@ -2161,16 +2195,33 @@ fn reapply_persisted_temporal_state(
     Ok(())
 }
 
+fn links_for_parsed_instrument(
+    root: &Path,
+    context: &InstrumentContext,
+    instrument: &Instrument,
+    provisions: &[lex_core::Provision],
+) -> Result<(
+    Vec<lex_core::ReferenceEdge>,
+    Vec<lex_core::DefinedTerm>,
+    Vec<lex_core::TermUsage>,
+)> {
+    let loaded_siblings = read_sibling_corpora(root, &instrument.id)?;
+    let siblings = corpus_views(&loaded_siblings);
+    let references =
+        extract_instrument_references(root, context, instrument, provisions, &siblings)?;
+    let (terms, usages) = extract_instrument_terms(context, provisions, &siblings)?;
+    Ok((references, terms, usages))
+}
+
 /// Extract the instrument's glossary terms and every exact term usage.
 /// A glossary that is expressly additive to another instrument's glossary
 /// (the DCG's Article 1 opens "además de los términos utilizados en la
 /// Ley…") resolves usages against its own terms first, then the terms of
 /// each instrument listed in `additive_to`, in order.
 fn extract_instrument_terms(
-    root: &Path,
     context: &InstrumentContext,
-    instrument: &Instrument,
     provisions: &[lex_core::Provision],
+    siblings: &[(&str, &Corpus)],
 ) -> Result<(Vec<lex_core::DefinedTerm>, Vec<lex_core::TermUsage>)> {
     // An adapter may configure its glossary explicitly (the audited
     // committed instruments do); otherwise a fraction glossary is
@@ -2193,7 +2244,6 @@ fn extract_instrument_terms(
         return Ok((Vec::new(), Vec::new()));
     }
 
-    let siblings = read_sibling_corpora(root, &instrument.id)?;
     let mut term_sets: Vec<&[lex_core::DefinedTerm]> = vec![&terms];
     for additive_instrument in additive_to {
         let sibling = siblings
@@ -2246,6 +2296,7 @@ fn extract_instrument_references(
     context: &InstrumentContext,
     instrument: &Instrument,
     provisions: &[lex_core::Provision],
+    siblings: &[(&str, &Corpus)],
 ) -> Result<Vec<lex_core::ReferenceEdge>> {
     preserve_intake_decisions(context)?;
     anyhow::ensure!(
@@ -2256,10 +2307,9 @@ fn extract_instrument_references(
     if context.config.reference_policy.as_deref() == Some("internal") {
         return extract_internal_references(provisions);
     }
-    let siblings = read_sibling_corpora(root, &instrument.id)?;
     let mut known_targets: HashSet<String> =
         provisions.iter().map(|item| item.id.clone()).collect();
-    for (_, corpus) in &siblings {
+    for (_, corpus) in siblings {
         known_targets.extend(corpus.provisions.iter().map(|item| item.id.clone()));
     }
     let configured_external = context.config.external_instruments.iter().map(|external| {
@@ -2269,7 +2319,7 @@ fn extract_instrument_references(
         )
     });
     let external_instruments = merge_external_instruments(
-        global_external_instruments(root, instrument, &siblings)?,
+        global_external_instruments(root, instrument, siblings)?,
         configured_external,
     )?;
     // `load_config` guarantees a historical entry names a successor and a
@@ -2334,7 +2384,41 @@ struct InstrumentAliasTable {
 fn global_external_instruments(
     root: &Path,
     instrument: &Instrument,
-    siblings: &[(String, Corpus)],
+    siblings: &[(&str, &Corpus)],
+) -> Result<Vec<(String, String)>> {
+    let mut short_name_to_id = HashMap::new();
+    let mut instruments = Vec::with_capacity(siblings.len() + 1);
+    instruments.push(instrument);
+    for (_, corpus) in siblings {
+        instruments.push(&corpus.instrument);
+    }
+    for candidate in &instruments {
+        if let Some(existing) =
+            short_name_to_id.insert(candidate.short_name.clone(), candidate.id.clone())
+            && existing != candidate.id
+        {
+            bail!(
+                "instrument short_name {} maps to both {} and {}",
+                candidate.short_name,
+                existing,
+                candidate.id
+            );
+        }
+    }
+    let alias_markers = configured_alias_markers(root, &instrument.id, &short_name_to_id)?;
+    let title_markers = unique_official_title_markers(&instrument.id, &instruments);
+    // Official titles and curated aliases must agree. `normalize` keeps the
+    // longest marker first, which is what lets a full title win over a
+    // shorter title that is its prefix when both start at the same character.
+    normalize_external_instruments(title_markers.into_iter().chain(alias_markers))
+}
+
+/// Curated multi-word aliases whose `short_name` key is a committed instrument.
+/// A missing alias table is an empty set, not an error: official titles still link.
+fn configured_alias_markers(
+    root: &Path,
+    own_instrument_id: &str,
+    short_name_to_id: &HashMap<String, String>,
 ) -> Result<Vec<(String, String)>> {
     let alias_path = root.join("adapters/diputados/_instrument-aliases.json");
     if !alias_path.is_file() {
@@ -2354,24 +2438,61 @@ fn global_external_instruments(
             alias_path.display()
         );
     }
+    resolve_global_aliases(&table, own_instrument_id, short_name_to_id)
+}
 
-    let mut short_name_to_id = HashMap::new();
-    for candidate in
-        std::iter::once(instrument).chain(siblings.iter().map(|(_, corpus)| &corpus.instrument))
-    {
-        if let Some(existing) =
-            short_name_to_id.insert(candidate.short_name.clone(), candidate.id.clone())
-            && existing != candidate.id
+/// Exact official titles of other committed instruments. A title shared by more
+/// than one instrument, and any title with no space, stays unlinked.
+fn unique_official_title_markers(
+    own_instrument_id: &str,
+    instruments: &[&Instrument],
+) -> Vec<(String, String)> {
+    let mut grouped: BTreeMap<String, Vec<&str>> = BTreeMap::new();
+    for instrument in instruments {
+        let title = instrument.official_title.trim();
+        if !title.contains(' ') {
+            continue;
+        }
+        grouped
+            .entry(title.to_lowercase())
+            .or_default()
+            .push(instrument.id.as_str());
+    }
+    let mut markers = Vec::new();
+    for (title, mut ids) in grouped {
+        ids.sort_unstable();
+        ids.dedup();
+        if let [target_id] = ids.as_slice()
+            && *target_id != own_instrument_id
         {
-            bail!(
-                "instrument short_name {} maps to both {} and {}",
-                candidate.short_name,
-                existing,
-                candidate.id
-            );
+            markers.push((title, (*target_id).to_owned()));
         }
     }
-    resolve_global_aliases(&table, &instrument.id, &short_name_to_id)
+    markers
+}
+
+/// Official titles that more than one committed instrument uses. They are not
+/// markers; closure reports them so the omission is visible.
+fn ambiguous_official_titles(corpora: &[(String, Corpus)]) -> Vec<String> {
+    let mut grouped: BTreeMap<String, BTreeMap<&str, &str>> = BTreeMap::new();
+    for (slug, corpus) in corpora {
+        let title = corpus.instrument.official_title.trim();
+        if !title.contains(' ') {
+            continue;
+        }
+        grouped
+            .entry(title.to_lowercase())
+            .or_default()
+            .insert(corpus.instrument.id.as_str(), slug.as_str());
+    }
+    grouped
+        .into_iter()
+        .filter(|(_, owners)| owners.len() > 1)
+        .map(|(title, owners)| {
+            let slugs: Vec<_> = owners.into_values().collect();
+            format!("{title} ({})", slugs.join(", "))
+        })
+        .collect()
 }
 
 fn resolve_global_aliases(
@@ -2435,22 +2556,506 @@ fn merge_external_instruments(
     normalize_external_instruments(global)
 }
 
+fn corpus_views(corpora: &[(String, Corpus)]) -> Vec<(&str, &Corpus)> {
+    corpora
+        .iter()
+        .map(|(slug, corpus)| (slug.as_str(), corpus))
+        .collect()
+}
+
+fn sibling_views<'a>(
+    corpora: &'a [(String, Corpus)],
+    own_instrument_id: &str,
+) -> Vec<(&'a str, &'a Corpus)> {
+    corpora
+        .iter()
+        .filter(|(_, corpus)| corpus.instrument.id != own_instrument_id)
+        .map(|(slug, corpus)| (slug.as_str(), corpus))
+        .collect()
+}
+
 fn run_link(root: &Path, context: &InstrumentContext) -> Result<()> {
-    let paths = &context.paths;
-    let mut corpus = read_corpus(paths)?;
-    corpus.references =
-        extract_instrument_references(root, context, &corpus.instrument, &corpus.provisions)?;
-    let (terms, term_usages) =
-        extract_instrument_terms(root, context, &corpus.instrument, &corpus.provisions)?;
-    corpus.terms = terms;
-    corpus.term_usages = term_usages;
-    write_canonical(&corpus, &paths.corpus)?;
+    let corpora = read_committed_corpora(root)?;
+    let mut corpus = read_corpus(&context.paths)?;
+    let graph = relink_instrument(root, context, &corpus, &corpora)?;
+    corpus.references = graph.references;
+    corpus.terms = graph.terms;
+    corpus.term_usages = graph.usages;
+    write_canonical(&corpus, &context.paths.corpus)?;
     println!("extracted {} canonical references", corpus.references.len());
     println!(
         "extracted {} defined terms with {} usages",
         corpus.terms.len(),
         corpus.term_usages.len()
     );
+    Ok(())
+}
+
+struct LinkedGraph {
+    references: Vec<lex_core::ReferenceEdge>,
+    terms: Vec<lex_core::DefinedTerm>,
+    usages: Vec<lex_core::TermUsage>,
+}
+
+fn relink_instrument(
+    root: &Path,
+    context: &InstrumentContext,
+    corpus: &Corpus,
+    corpora: &[(String, Corpus)],
+) -> Result<LinkedGraph> {
+    let siblings = sibling_views(corpora, &corpus.instrument.id);
+    let references = extract_instrument_references(
+        root,
+        context,
+        &corpus.instrument,
+        &corpus.provisions,
+        &siblings,
+    )?;
+    let (terms, usages) = extract_instrument_terms(context, &corpus.provisions, &siblings)?;
+    Ok(LinkedGraph {
+        references,
+        terms,
+        usages,
+    })
+}
+
+#[derive(Debug, serde::Serialize)]
+struct CorpusClosureReport {
+    status: String,
+    instruments: usize,
+    relinked: usize,
+    unchanged: usize,
+    references_before: usize,
+    references_after: usize,
+    resolved_cross_instrument: usize,
+    ambiguous_titles: Vec<String>,
+    rejected: Vec<CorpusClosureRejection>,
+}
+
+#[derive(Debug, serde::Serialize)]
+struct CorpusClosureRejection {
+    slug: String,
+    errors: Vec<String>,
+}
+
+enum ClosureDecision {
+    Unchanged,
+    Accepted(lex_core::ValidationReport),
+    Rejected(Vec<String>),
+}
+
+/// Relink every committed instrument once, against one in-memory corpus.
+/// An instrument whose new graph does not validate is left on disk as it was.
+fn run_corpus_closure(root: &Path) -> Result<CorpusClosureReport> {
+    let mut corpora = read_committed_corpora(root)?;
+    let contexts = load_instrument_contexts(root, &corpora)?;
+    let references_before = corpora
+        .iter()
+        .map(|(_, corpus)| corpus.references.len())
+        .sum();
+    let original_terms: Vec<_> = corpora
+        .iter()
+        .map(|(_, corpus)| corpus.terms.clone())
+        .collect();
+    let original_usages: Vec<_> = corpora
+        .iter()
+        .map(|(_, corpus)| corpus.term_usages.clone())
+        .collect();
+    let ambiguous_titles = ambiguous_official_titles(&corpora);
+
+    // Terms come only from each instrument's own provisions. The second pass
+    // recomputes usages so an additive glossary sees those refreshed terms.
+    refresh_linked_terms(&contexts, &mut corpora)?;
+    refresh_linked_terms(&contexts, &mut corpora)?;
+    let proposals = propose_references(root, &contexts, &corpora)?;
+    let provision_ids = all_provision_ids(&corpora);
+    let decisions = classify_closure(
+        &contexts,
+        &corpora,
+        &proposals,
+        &original_terms,
+        &original_usages,
+        &provision_ids,
+    )?;
+    apply_closure_decisions(
+        &mut corpora,
+        &proposals,
+        &decisions,
+        &original_terms,
+        &original_usages,
+    );
+    let (targets, term_targets) = closure_link_targets(&corpora);
+    let mut relinked = 0;
+    let mut unchanged = 0;
+    let mut rejected = Vec::new();
+    for (index, (slug, corpus)) in corpora.iter().enumerate() {
+        let context = contexts
+            .get(slug)
+            .with_context(|| format!("no adapter configuration found for instrument {slug:?}"))?;
+        match &decisions[index] {
+            ClosureDecision::Unchanged => unchanged += 1,
+            ClosureDecision::Rejected(errors) => {
+                println!("{slug}: rejected, left unchanged");
+                rejected.push(CorpusClosureRejection {
+                    slug: slug.clone(),
+                    errors: errors.clone(),
+                });
+            }
+            ClosureDecision::Accepted(report) => {
+                write_relinked_instrument(context, corpus, report, &targets, &term_targets)?;
+                println!("{slug}: relinked {} references", corpus.references.len());
+                relinked += 1;
+            }
+        }
+    }
+    let report = CorpusClosureReport {
+        status: if rejected.is_empty() { "ok" } else { "failed" }.to_owned(),
+        instruments: corpora.len(),
+        relinked,
+        unchanged,
+        references_before,
+        references_after: corpora
+            .iter()
+            .map(|(_, corpus)| corpus.references.len())
+            .sum(),
+        resolved_cross_instrument: resolved_cross_instrument_edges(&corpora),
+        ambiguous_titles,
+        rejected,
+    };
+    write_pretty_json(&report, &root.join(".work/corpus-closure.json"))?;
+    println!(
+        "corpus closure: relinked {}, unchanged {}, rejected {}, references {} -> {}, resolved cross-instrument {}",
+        report.relinked,
+        report.unchanged,
+        report.rejected.len(),
+        report.references_before,
+        report.references_after,
+        report.resolved_cross_instrument
+    );
+    Ok(report)
+}
+
+fn load_instrument_contexts(
+    root: &Path,
+    corpora: &[(String, Corpus)],
+) -> Result<HashMap<String, InstrumentContext>> {
+    let mut configs = HashMap::new();
+    for path in adapter_paths(root)? {
+        let config = load_config(&path)?;
+        if let Some(previous) = configs.insert(config.slug.clone(), config) {
+            bail!("duplicate adapter slug {}", previous.slug);
+        }
+    }
+    let mut contexts = HashMap::new();
+    for (slug, _) in corpora {
+        let config = configs.remove(slug).with_context(|| {
+            format!("no adapter configuration found for instrument {slug:?} under adapters/")
+        })?;
+        let paths = Paths::new(root, slug, config.source_format);
+        contexts.insert(slug.clone(), InstrumentContext { config, paths });
+    }
+    Ok(contexts)
+}
+
+fn refresh_linked_terms(
+    contexts: &HashMap<String, InstrumentContext>,
+    corpora: &mut [(String, Corpus)],
+) -> Result<()> {
+    let mut extracted = Vec::with_capacity(corpora.len());
+    for (index, (slug, corpus)) in corpora.iter().enumerate() {
+        if index.is_multiple_of(50) {
+            println!("refreshing terms {index}/{}", corpora.len());
+        }
+        let context = contexts
+            .get(slug)
+            .with_context(|| format!("no adapter configuration found for instrument {slug:?}"))?;
+        let siblings = sibling_views(corpora, &corpus.instrument.id);
+        extracted.push(extract_instrument_terms(
+            context,
+            &corpus.provisions,
+            &siblings,
+        )?);
+    }
+    for ((_, corpus), (terms, usages)) in corpora.iter_mut().zip(extracted) {
+        corpus.terms = terms;
+        corpus.term_usages = usages;
+    }
+    Ok(())
+}
+
+fn propose_references(
+    root: &Path,
+    contexts: &HashMap<String, InstrumentContext>,
+    corpora: &[(String, Corpus)],
+) -> Result<Vec<LinkedGraph>> {
+    let mut proposals = Vec::with_capacity(corpora.len());
+    for (index, (slug, corpus)) in corpora.iter().enumerate() {
+        println!("linking {slug} ({}/{})", index + 1, corpora.len());
+        let context = contexts
+            .get(slug)
+            .with_context(|| format!("no adapter configuration found for instrument {slug:?}"))?;
+        let siblings = sibling_views(corpora, &corpus.instrument.id);
+        let references = extract_instrument_references(
+            root,
+            context,
+            &corpus.instrument,
+            &corpus.provisions,
+            &siblings,
+        )?;
+        proposals.push(LinkedGraph {
+            references,
+            terms: corpus.terms.clone(),
+            usages: corpus.term_usages.clone(),
+        });
+    }
+    Ok(proposals)
+}
+
+fn all_provision_ids(corpora: &[(String, Corpus)]) -> HashSet<String> {
+    corpora
+        .iter()
+        .flat_map(|(_, corpus)| corpus.provisions.iter().map(|item| item.id.clone()))
+        .collect()
+}
+
+fn closure_term_ids(
+    corpora: &[(String, Corpus)],
+    original_terms: &[Vec<lex_core::DefinedTerm>],
+    rejected: &[Option<Vec<String>>],
+) -> HashSet<String> {
+    let mut ids = HashSet::new();
+    for (index, (_, corpus)) in corpora.iter().enumerate() {
+        let terms = if rejected[index].is_some() {
+            &original_terms[index]
+        } else {
+            &corpus.terms
+        };
+        ids.extend(terms.iter().map(|term| term.id.clone()));
+    }
+    ids
+}
+
+fn classify_closure(
+    contexts: &HashMap<String, InstrumentContext>,
+    corpora: &[(String, Corpus)],
+    proposals: &[LinkedGraph],
+    original_terms: &[Vec<lex_core::DefinedTerm>],
+    original_usages: &[Vec<lex_core::TermUsage>],
+    provision_ids: &HashSet<String>,
+) -> Result<Vec<ClosureDecision>> {
+    let mut rejected: Vec<Option<Vec<String>>> = vec![None; corpora.len()];
+    loop {
+        let term_ids = closure_term_ids(corpora, original_terms, &rejected);
+        let mut changed = false;
+        for (index, ((slug, corpus), proposal)) in corpora.iter().zip(proposals).enumerate() {
+            if rejected[index].is_some()
+                || graph_unchanged(
+                    corpus,
+                    proposal,
+                    &original_terms[index],
+                    &original_usages[index],
+                )?
+            {
+                continue;
+            }
+            let drift = protected_edge_drift(corpus, proposal);
+            if !drift.is_empty() {
+                rejected[index] = Some(drift);
+                changed = true;
+                continue;
+            }
+            let context = contexts.get(slug).with_context(|| {
+                format!("no adapter configuration found for instrument {slug:?}")
+            })?;
+            let report = validate_loaded(context, corpus, proposal, provision_ids, &term_ids);
+            if !report.valid {
+                rejected[index] = Some(validation_errors(&report));
+                changed = true;
+            }
+        }
+        if !changed {
+            break;
+        }
+    }
+    let term_ids = closure_term_ids(corpora, original_terms, &rejected);
+    let mut decisions = Vec::with_capacity(corpora.len());
+    for (index, ((slug, corpus), proposal)) in corpora.iter().zip(proposals).enumerate() {
+        if let Some(errors) = rejected[index].clone() {
+            decisions.push(ClosureDecision::Rejected(errors));
+            continue;
+        }
+        if graph_unchanged(
+            corpus,
+            proposal,
+            &original_terms[index],
+            &original_usages[index],
+        )? {
+            decisions.push(ClosureDecision::Unchanged);
+            continue;
+        }
+        let context = contexts
+            .get(slug)
+            .with_context(|| format!("no adapter configuration found for instrument {slug:?}"))?;
+        decisions.push(ClosureDecision::Accepted(validate_loaded(
+            context,
+            corpus,
+            proposal,
+            provision_ids,
+            &term_ids,
+        )));
+    }
+    Ok(decisions)
+}
+
+/// Persisted historical-identity and reviewer-approved edges record adapter or
+/// reviewer decisions. A closure relink may never change or drop one, even when
+/// the new graph validates; it keeps the previous graph instead.
+fn protected_edge_drift(corpus: &Corpus, proposal: &LinkedGraph) -> Vec<String> {
+    let proposed: HashMap<&str, &lex_core::ReferenceEdge> = proposal
+        .references
+        .iter()
+        .map(|edge| (edge.id.as_str(), edge))
+        .collect();
+    corpus
+        .references
+        .iter()
+        .filter(|edge| {
+            matches!(
+                edge.resolution_status,
+                ReferenceResolutionStatus::HistoricalTargetUnavailable
+                    | ReferenceResolutionStatus::HistoricalSupersededReferenceOutdated
+            ) || edge.outdated_reference_approval.is_some()
+        })
+        .filter(|edge| {
+            proposed
+                .get(edge.id.as_str())
+                .is_none_or(|new| serde_json::to_value(new).ok() != serde_json::to_value(edge).ok())
+        })
+        .map(|edge| {
+            format!(
+                "persisted historical or approved reference changed or dropped: {}",
+                edge.id
+            )
+        })
+        .collect()
+}
+
+fn graph_unchanged(
+    corpus: &Corpus,
+    proposal: &LinkedGraph,
+    original_terms: &[lex_core::DefinedTerm],
+    original_usages: &[lex_core::TermUsage],
+) -> Result<bool> {
+    Ok(
+        serde_json::to_value(&corpus.references)? == serde_json::to_value(&proposal.references)?
+            && serde_json::to_value(original_terms)? == serde_json::to_value(&proposal.terms)?
+            && serde_json::to_value(original_usages)? == serde_json::to_value(&proposal.usages)?,
+    )
+}
+
+fn validate_loaded(
+    context: &InstrumentContext,
+    corpus: &Corpus,
+    proposal: &LinkedGraph,
+    provision_ids: &HashSet<String>,
+    term_ids: &HashSet<String>,
+) -> lex_core::ValidationReport {
+    let config = &context.config;
+    validate_corpus(
+        &CorpusView {
+            instrument_id: &corpus.instrument.id,
+            official_title: Some(corpus.instrument.official_title.as_str()),
+            provisions: &corpus.provisions,
+            references: &proposal.references,
+            terms: &proposal.terms,
+            term_usages: &proposal.usages,
+            amendment_references: &corpus.amendment_references,
+        },
+        &CorpusExpectations {
+            min_articles: config.expected_min_articles,
+            articles: config.expected_articles,
+            transitories: config.expected_transitories,
+            annexes: config.expected_annexes,
+            require_chapter_context: config.parser == "ifpe-dcg",
+            allow_article_gaps: config.allow_article_gaps,
+        },
+        provision_ids,
+        term_ids,
+    )
+}
+
+fn validation_errors(report: &lex_core::ValidationReport) -> Vec<String> {
+    report
+        .issues
+        .iter()
+        .filter(|issue| issue.severity == lex_core::Severity::Error)
+        .take(12)
+        .map(|issue| format!("{}: {}", issue.code, issue.message))
+        .collect()
+}
+
+fn apply_closure_decisions(
+    corpora: &mut [(String, Corpus)],
+    proposals: &[LinkedGraph],
+    decisions: &[ClosureDecision],
+    original_terms: &[Vec<lex_core::DefinedTerm>],
+    original_usages: &[Vec<lex_core::TermUsage>],
+) {
+    for (index, (_, corpus)) in corpora.iter_mut().enumerate() {
+        match &decisions[index] {
+            ClosureDecision::Rejected(_) => {
+                corpus.terms.clone_from(&original_terms[index]);
+                corpus.term_usages.clone_from(&original_usages[index]);
+            }
+            ClosureDecision::Accepted(_) => {
+                corpus.references.clone_from(&proposals[index].references);
+                corpus.terms.clone_from(&proposals[index].terms);
+                corpus.term_usages.clone_from(&proposals[index].usages);
+            }
+            ClosureDecision::Unchanged => {}
+        }
+    }
+}
+
+fn closure_link_targets(corpora: &[(String, Corpus)]) -> (LinkTargets, TermTargets) {
+    let inputs: Vec<_> = corpora
+        .iter()
+        .map(|(slug, corpus)| (corpus, slug.as_str()))
+        .collect();
+    let targets = link_targets(&inputs);
+    let terms = term_targets(&inputs, &targets);
+    (targets, terms)
+}
+
+fn resolved_cross_instrument_edges(corpora: &[(String, Corpus)]) -> usize {
+    corpora
+        .iter()
+        .map(|(_, corpus)| {
+            corpus
+                .references
+                .iter()
+                .filter(|edge| {
+                    edge.resolution_status == ReferenceResolutionStatus::Resolved
+                        && edge.target_instrument_id != corpus.instrument.id
+                })
+                .count()
+        })
+        .sum()
+}
+
+fn write_relinked_instrument(
+    context: &InstrumentContext,
+    corpus: &Corpus,
+    report: &lex_core::ValidationReport,
+    targets: &LinkTargets,
+    term_targets: &TermTargets,
+) -> Result<()> {
+    let directory = &context.paths.corpus;
+    write_pretty_json(&corpus.references, &directory.join("references.json"))?;
+    write_pretty_json(&corpus.terms, &directory.join("terms.json"))?;
+    write_pretty_json(&corpus.term_usages, &directory.join("term-usages.json"))?;
+    write_validation(report, directory)?;
+    write_markdown(corpus, targets, term_targets, &context.paths.markdown)?;
     Ok(())
 }
 
@@ -3384,7 +3989,7 @@ mod tests {
     use super::{
         InstrumentContext, OGA_SERIAL_NOTE, SourceConfig, SourceFormat, SourceManifest,
         instrument_context, load_config, preserve_intake_decisions, resolve_publication,
-        run_temporal_request,
+        run_temporal_request, self_reference_markers,
     };
     use std::{
         collections::{BTreeMap, HashMap, HashSet},
@@ -3402,10 +4007,11 @@ mod tests {
     use url::Url;
 
     use super::{
-        Cli, Command, ExpectedEdgeCorpus, InstrumentAliasTable, Paths, SearchScope,
+        Cli, Command, ExpectedEdgeCorpus, InstrumentAliasTable, LinkedGraph, Paths, SearchScope,
         committed_instrument_index, evaluate_expected_edges, freeze_adapter_baseline,
-        latest_reform_date, merge_external_instruments, read_corpus, resolve_global_aliases,
-        run_batch_closure, scaffold_adapter, selected_corpus_paths,
+        latest_reform_date, merge_external_instruments, protected_edge_drift, read_corpus,
+        resolve_global_aliases, run_batch_closure, run_corpus_closure, scaffold_adapter,
+        selected_corpus_paths, unique_official_title_markers,
     };
 
     const STALE_RUNNING_HEADER_REFORM_DATE_FIXTURE: &str = include_str!(
@@ -3701,6 +4307,119 @@ mod tests {
             merged,
             vec![(marker.to_owned(), "urn:test:lraf-1990".to_owned())]
         );
+    }
+
+    #[test]
+    fn official_titles_link_only_when_unique_and_descriptive() {
+        let repeated = fixture_corpus("urn:test:a", "Ley Repetida", "A", "Texto.");
+        let again = fixture_corpus("urn:test:b", "Ley Repetida", "B", "Texto.");
+        let unique = fixture_corpus("urn:test:c", "Ley Única", "C", "Texto.");
+        let short = fixture_corpus("urn:test:d", "CPEUM", "D", "Texto.");
+        let markers = unique_official_title_markers(
+            "urn:test:a",
+            &[
+                &repeated.instrument,
+                &again.instrument,
+                &unique.instrument,
+                &short.instrument,
+            ],
+        );
+        assert_eq!(
+            markers,
+            vec![("ley única".to_owned(), "urn:test:c".to_owned())]
+        );
+    }
+
+    #[test]
+    fn link_all_does_not_require_an_instrument_slug() {
+        let cli = Cli::try_parse_from(["lex-mex", "link", "--all"]).unwrap();
+        assert!(matches!(
+            cli.command,
+            Command::Link {
+                all: true,
+                instrument: None
+            }
+        ));
+        assert!(Cli::try_parse_from(["lex-mex", "link"]).is_err());
+        assert!(Cli::try_parse_from(["lex-mex", "link", "lritf", "--all"]).is_err());
+    }
+
+    fn write_title_closure_fixture(root: &Path) {
+        let none = serde_json::json!([]);
+        let fixtures = [
+            (
+                "target",
+                "urn:test:target",
+                "Ley Destino",
+                "DESTINO",
+                "Texto destino.",
+            ),
+            (
+                "source",
+                "urn:test:source",
+                "Ley Fuente",
+                "FUENTE",
+                "En términos del artículo 1 de la Ley Destino.",
+            ),
+            (
+                "broken",
+                "urn:test:broken",
+                "Ley Rota",
+                "ROTA",
+                "En términos del artículo 9 de la Ley Destino.",
+            ),
+            ("left", "urn:test:left", "Ley Repetida", "IZQ", "Texto."),
+            ("right", "urn:test:right", "Ley Repetida", "DER", "Texto."),
+            (
+                "ask",
+                "urn:test:ask",
+                "Ley Consulta",
+                "CONSULTA",
+                "En términos del artículo 1 de la Ley Repetida.",
+            ),
+        ];
+        for (slug, id, title, short_name, text) in fixtures {
+            write_fixture_adapter(root, slug, id, title, short_name, &none);
+            write_canonical(
+                &fixture_corpus(id, title, short_name, text),
+                &root.join("corpus/mx").join(slug),
+            )
+            .unwrap();
+        }
+    }
+
+    #[test]
+    fn corpus_closure_links_unique_official_titles_and_keeps_invalid_relinks() {
+        let temporary = tempfile::tempdir().unwrap();
+        let root = temporary.path();
+        write_title_closure_fixture(root);
+        let target_id = "urn:test:target";
+
+        let report = run_corpus_closure(root).unwrap();
+
+        assert_eq!(report.status, "failed");
+        assert_eq!(report.instruments, 6);
+        assert_eq!(report.relinked, 1);
+        assert_eq!(report.unchanged, 4);
+        assert_eq!(report.rejected.len(), 1);
+        assert_eq!(report.rejected[0].slug, "broken");
+        assert!(
+            report
+                .ambiguous_titles
+                .iter()
+                .any(|title| title.contains("ley repetida"))
+        );
+        let source = read_corpus(&Paths::new(root, "source", SourceFormat::Pdf)).unwrap();
+        assert_eq!(source.references.len(), 1);
+        assert_eq!(source.references[0].target_instrument_id, target_id);
+        assert_eq!(
+            source.references[0].resolution_status,
+            ReferenceResolutionStatus::Resolved
+        );
+        let broken = read_corpus(&Paths::new(root, "broken", SourceFormat::Pdf)).unwrap();
+        assert!(broken.references.is_empty());
+        let ask = read_corpus(&Paths::new(root, "ask", SourceFormat::Pdf)).unwrap();
+        assert!(ask.references.is_empty());
     }
 
     #[test]
@@ -4097,5 +4816,100 @@ mod tests {
         assert!(preserve_intake_decisions(&context).is_err());
         context.config.source_repeal_notice = Some(notice);
         assert!(preserve_intake_decisions(&context).is_ok());
+    }
+
+    #[test]
+    fn constitutions_cite_themselves_by_constitution_wording() {
+        let markers = self_reference_markers("constitution");
+        for marker in [
+            "de esta constitución",
+            "esta constitución",
+            " constitucional",
+        ] {
+            assert!(markers.iter().any(|m| m == marker), "{marker}");
+        }
+        assert!(
+            !self_reference_markers("statute")
+                .iter()
+                .any(|m| m.contains("constituci"))
+        );
+    }
+
+    fn sample_closure_instrument() -> lex_core::Instrument {
+        serde_json::from_value(serde_json::json!({
+            "schema_version": SCHEMA_VERSION,
+            "id": "urn:lex-mx:federal:statute:fixture",
+            "jurisdiction": "mx",
+            "level": "federal",
+            "instrument_type": "statute",
+            "official_title": "Ley de prueba",
+            "short_name": "FIXTURE",
+            "operational_source": "camara_de_diputados",
+            "formal_publication_source": "dof",
+            "publication_date": "2002-01-15",
+            "latest_reform_date": null,
+            "retrieved_at": "2026-10-16T00:00:00Z",
+            "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/FIXTURE.pdf",
+            "source_sha256": "e".repeat(64),
+            "extracted_text_sha256": "f".repeat(64),
+            "parser_version": "0.1.0",
+            "status": "in_force"
+        }))
+        .unwrap()
+    }
+
+    #[test]
+    fn closure_guard_keeps_persisted_historical_and_approved_edges() {
+        let edge = |status: ReferenceResolutionStatus, target: &str| lex_core::ReferenceEdge {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: "fixture:reference:1:article:12".to_owned(),
+            source_provision_id: "fixture:article:2".to_owned(),
+            source_span: "12".to_owned(),
+            start_char: 1,
+            end_char: 3,
+            target_instrument_id: target.to_owned(),
+            target_provision_id: format!("{target}:article:12"),
+            qualifiers: vec![],
+            basis: lex_core::Basis::ExpressCrossReference,
+            confidence: 1.0,
+            resolution_status: status,
+            reference_form: lex_core::ReferenceForm::Direct,
+            outdated_reference_approval: None,
+        };
+        let corpus_with = |references: Vec<lex_core::ReferenceEdge>| Corpus {
+            instrument: sample_closure_instrument(),
+            provisions: vec![],
+            references,
+            terms: vec![],
+            term_usages: vec![],
+            amendment_references: vec![],
+            enactment_evidence: vec![],
+        };
+        let historical = edge(
+            ReferenceResolutionStatus::HistoricalTargetUnavailable,
+            "urn:lex-mx:federal:statute:lraf-1990",
+        );
+        let graph = |references: Vec<lex_core::ReferenceEdge>| LinkedGraph {
+            references,
+            terms: vec![],
+            usages: vec![],
+        };
+        let corpus = corpus_with(vec![historical.clone()]);
+        assert!(protected_edge_drift(&corpus, &graph(vec![historical.clone()])).is_empty());
+        let retargeted = edge(
+            ReferenceResolutionStatus::Resolved,
+            "urn:lex-mx:federal:statute:lraf",
+        );
+        assert_eq!(
+            protected_edge_drift(&corpus, &graph(vec![retargeted])).len(),
+            1
+        );
+        assert_eq!(protected_edge_drift(&corpus, &graph(vec![])).len(), 1);
+        // Ordinary resolved edges may change freely.
+        let ordinary = corpus_with(vec![edge(
+            ReferenceResolutionStatus::Resolved,
+            "urn:lex-mx:federal:statute:lraf",
+        )]);
+        assert!(protected_edge_drift(&ordinary, &graph(vec![])).is_empty());
     }
 }

@@ -17,4 +17,4 @@ source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 
 # Artículo 28
 
-El desarrollo forestal sustentable se considera un área prioritaria del desarrollo nacional, en los términos señalados en el artículo 25 de la Constitución Política de los Estados Unidos Mexicanos y el 4 de esta Ley.
+El desarrollo forestal sustentable se considera un área prioritaria del desarrollo nacional, en los términos señalados en el artículo [25](../../cpeum/markdown/articulo-25.md) de la Constitución Política de los Estados Unidos Mexicanos y el 4 de esta Ley.

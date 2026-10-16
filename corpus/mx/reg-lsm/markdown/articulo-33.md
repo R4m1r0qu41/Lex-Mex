@@ -17,7 +17,7 @@ source_sha256: e05548ce5210162f6613eab2a8d8e53b7eed65ffe4a909d4665277fe1726e369
 
 # Artículo 33
 
-Los mexicanos comprendidos en las circunstancias a que se refiere la primera parte del artículo [10](articulo-10.md) de a Ley del Servicio Militar, según su situación, pueden ser exceptuados:
+Los mexicanos comprendidos en las circunstancias a que se refiere la primera parte del artículo [10](../../lsm/markdown/articulo-10.md) de a Ley del Servicio Militar, según su situación, pueden ser exceptuados:
 
 I.- De servir en las unidades del activo;
 

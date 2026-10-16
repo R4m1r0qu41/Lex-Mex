@@ -1,6 +1,28 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:22:reference:46-47:6:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgimh:article:22",
+    "source_span": "6",
+    "start_char": 46,
+    "end_char": 47,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lcndh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lcndh:article:6",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "Fracción XIV",
+        "start_char": 49,
+        "end_char": 61
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgimh:article:26:reference:254-255:1:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgimh:article:26",
     "source_span": "1",

@@ -15,4 +15,4 @@ source_sha256: 40725278819b2229ddb95c8deda858d7fda9c9dd83654729e9242727f1eee4a8
 
 # DÉCIMO OCTAVO
 
-Se derogan el artículo 122 de la Ley de [Instituciones](articulo-5o.md) de Crédito y el artículo 89 de la Ley del Mercado de Valores, en los términos de los presentes artículos transitorios.
+Se derogan el artículo [122](../../lic/markdown/articulo-122.md) de la Ley de [Instituciones](articulo-5o.md) de Crédito y el artículo [89](../../lmv/markdown/articulo-89.md) de la Ley del Mercado de Valores, en los términos de los presentes artículos transitorios.

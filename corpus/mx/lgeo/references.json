@@ -179,6 +179,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:53:reference:417-419:81:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgeo:article:53",
+    "source_span": "81",
+    "start_char": 417,
+    "end_char": 419,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lan",
+    "target_provision_id": "urn:lex-mx:federal:statute:lan:article:81",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgeo:article:56:reference:84-101:55:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lgeo:article:56",
     "source_span": "artículo anterior",

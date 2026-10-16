@@ -29,11 +29,11 @@ V. Cuando el monto de los premios a repartir no consista en bienes, la Secretar�
 
 VI. Los sorteos a que se refiere el presente artículo deberán cumplir con lo dispuesto en la Ley Federal de Juegos y Sorteos.
 
-Los premios obtenidos por los ganadores de los sorteos de conformidad con el presente artículo, no serán ingresos acumulables para los efectos del artículo 16 de la Ley del Impuesto sobre la Renta y quedan comprendidos en la exención establecida en el artículo 93, fracción XXIV de dicha ley, según corresponda.
+Los premios obtenidos por los ganadores de los sorteos de conformidad con el presente artículo, no serán ingresos acumulables para los efectos del artículo [16](../../lisr/markdown/articulo-16.md) de la Ley del Impuesto sobre la Renta y quedan comprendidos en la exención establecida en el artículo 93, fracción XXIV de dicha ley, según corresponda.
 
 Los sorteos a que se refiere este artículo, no estarán afectos al pago del impuesto especial sobre producción y servicios.
 
-El monto de los impuestos estatales que se generen por la obtención de los premios a que se refiere el presente artículo será cubierto por la Federación a la Entidad Federativa en donde se entregue el premio correspondiente, a través del procedimiento de compensación permanente de fondos a que se refiere el segundo párrafo del artículo 15 de la Ley de Coordinación Fiscal y a lo establecido en los convenios de colaboración administrativa en materia fiscal federal que tienen celebrados las Entidades Federativas adheridas al Sistema Nacional de Coordinación Fiscal.
+El monto de los impuestos estatales que se generen por la obtención de los premios a que se refiere el presente artículo será cubierto por la Federación a la Entidad Federativa en donde se entregue el premio correspondiente, a través del procedimiento de compensación permanente de fondos a que se refiere el segundo párrafo del artículo [15](../../lcf/markdown/articulo-15.md) de la Ley de Coordinación Fiscal y a lo establecido en los convenios de colaboración administrativa en materia fiscal federal que tienen celebrados las Entidades Federativas adheridas al Sistema Nacional de Coordinación Fiscal.
 
 La Federación cubrirá a los municipios, a través de la Entidad Federativa en donde se entregue el premio respectivo, las cantidades que correspondan por la aplicación del impuesto municipal a la obtención de premios.
 

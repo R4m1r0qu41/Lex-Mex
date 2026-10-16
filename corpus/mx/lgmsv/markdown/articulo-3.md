@@ -91,7 +91,7 @@ XXXVIII. Persona Permisionaria: Persona física o moral autorizada por la [Secre
 
 XXXIX. Persona usuaria: La persona que realiza desplazamientos haciendo uso del sistema de movilidad;
 
-XL. Personas con discapacidad: Personas a las que hace referencia la fracción XXVII del artículo [2](articulo-2.md) de Ley General para la Inclusión de las Personas con Discapacidad;
+XL. Personas con discapacidad: Personas a las que hace referencia la fracción XXVII del artículo [2](../../lgipd/markdown/articulo-2.md) de Ley General para la Inclusión de las Personas con Discapacidad;
 
 XLI. Personas con movilidad limitada: Toda persona cuya movilidad se ha reducido por motivos de edad, embarazo y alguna otra situación que, sin ser una discapacidad, requiere una atención adecuada y la adaptación a sus necesidades particulares en el servicio
 

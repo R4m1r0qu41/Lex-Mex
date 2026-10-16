@@ -25,6 +25,6 @@ II. Ser profesional de la salud, con alguna de las especialidades del Instituto 
 
 III. Tener una trayectoria reconocida en la Medicina y reconocidos méritos académicos; Fracción reformada DOF 14-07-2008
 
-IV. No encontrarse en alguno de los impedimentos que señala el artículo 19, fracciones II a V de la Ley Federal de las Entidades Paraestatales, y Fracción reformada DOF 14-07-2008
+IV. No encontrarse en alguno de los impedimentos que señala el artículo [19](../../lfep/markdown/articulo-19.md), fracciones II a V de la Ley Federal de las Entidades Paraestatales, y Fracción reformada DOF 14-07-2008
 
 V. Tener experiencia en el desempeño de cargos de alto nivel decisorio cuyo ejercicio requiera conocimientos y experiencia en materia administrativa. Fracción adicionada DOF 14-07-2008

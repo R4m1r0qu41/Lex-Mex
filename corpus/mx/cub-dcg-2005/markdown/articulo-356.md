@@ -21,4 +21,4 @@ Para efecto de dar cumplimiento a lo dispuesto en los artículos 63, párrafo pr
 
 64, párrafos primero y sexto de la Ley, se deberá hacer constar la declaración unilateral de voluntad mediante la firma del acta de emisión de los bonos bancarios y de las obligaciones subordinadas que no sean inscritos en el Registro, a más tardar un día hábil previo a la fecha de emisión, de conformidad con lo establecido en el Anexo 74 de las presentes disposiciones, según corresponda.
 
-Tratándose de bonos bancarios u obligaciones subordinadas inscritos en el Registro, deberá observarse lo señalado en el artículo [7](articulo-7.md)o. y el Anexo AB de las Disposiciones de carácter general aplicables a las emisoras de valores y a otros participantes del mercado de valores.
+Tratándose de bonos bancarios u obligaciones subordinadas inscritos en el Registro, deberá observarse lo señalado en el artículo [7](../../cue-dcg-2003/markdown/articulo-7.md)o. y el Anexo AB de las Disposiciones de carácter general aplicables a las emisoras de valores y a otros participantes del mercado de valores.

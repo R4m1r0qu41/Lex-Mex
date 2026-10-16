@@ -25,7 +25,7 @@ II. Las regulaciones y restricciones no arancelarias y prohibiciones aplicables 
 
 III. Pagar las contribuciones y cuotas compensatorias que correspondan, en términos de las disposiciones legales aplicables, considerando el valor en aduana declarado en el Pedimento con el que la Mercancía ingresó al país.
 
-Para el cálculo del pago previsto en el párrafo anterior, se deberá considerar la actualización del impuesto general de importación, de las cuotas compensatorias y de las demás contribuciones que correspondan, en términos del artículo 17-A del Código Fiscal de la Federación, a partir del mes en que las Mercancías ingresaron temporalmente al país y hasta que se efectúe el cambio de régimen, y
+Para el cálculo del pago previsto en el párrafo anterior, se deberá considerar la actualización del impuesto general de importación, de las cuotas compensatorias y de las demás contribuciones que correspondan, en términos del artículo [17-A](../../cff/markdown/articulo-17-A.md) del Código Fiscal de la Federación, a partir del mes en que las Mercancías ingresaron temporalmente al país y hasta que se efectúe el cambio de régimen, y
 
 IV. Lo demás que establezca el [SAT](articulo-1.md) mediante Reglas.
 

@@ -28,5 +28,35 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:3:reference:49-50:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:3",
+    "source_span": "2",
+    "start_char": 49,
+    "end_char": 50,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lppddhp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lppddhp:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:48:reference:170-172:24:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:48",
+    "source_span": "24",
+    "start_char": 170,
+    "end_char": 172,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:24",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   }
 ]

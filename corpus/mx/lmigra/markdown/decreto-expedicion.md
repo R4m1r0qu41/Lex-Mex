@@ -43,3 +43,4 @@ ID: urn:lex-mx:federal:statute:lmigra:enactment:2011-05-25:decree:transitory:cua
 Propietario: decreto expedidor. Tipo: Transitorio del decreto.
 
 Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
+

@@ -24,7 +24,7 @@ I. Depósitos a la vista.
 
 a) Características generales
 
-Las cuentas en que se lleven a cabo estos depósitos podrán aperturarse con un expediente completo o bien, con un expediente simplificado para aquellas consideradas de Bajo Riesgo de acuerdo a los requisitos para la apertura de cuentas, de conformidad con lo previsto en las “Disposiciones de carácter general a que se refieren los Artículos 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo” emitidas por la Secretaría de Hacienda y Crédito Público.
+Las cuentas en que se lleven a cabo estos depósitos podrán aperturarse con un expediente completo o bien, con un expediente simplificado para aquellas consideradas de Bajo Riesgo de acuerdo a los requisitos para la apertura de cuentas, de conformidad con lo previsto en las “Disposiciones de carácter general a que se refieren los Artículos [71](../../lrascap/markdown/articulo-71.md) y [72](../../lrascap/markdown/articulo-72.md) de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo” emitidas por la Secretaría de Hacienda y Crédito Público.
 
 Las cuentas de Bajo Riesgo deberán ajustarse a la suma de los abonos en el transcurso de un mes calendario y no podrán exceder al equivalente en moneda nacional a mil UDIS. Se podrán recibir depósitos mensuales adicionales al límite establecido, hasta por el equivalente en moneda nacional de seis mil UDIS, siempre que el origen de los recursos provenga exclusivamente de subsidios relativos a programas gubernamentales de apoyo a determinados sectores de la población.
 
@@ -32,7 +32,7 @@ Para realizar el cálculo en UDIS de los límites señalados en este numeral, la
 
 Para determinar el monto máximo de los abonos en las cuentas de Bajo Riesgo en el transcurso de un mes calendario, las Sociedades podrán no incluir los importes relativos a intereses, devoluciones por transferencias electrónicas de fondos y cualquier otra bonificación que dichas Sociedades realicen por el uso o manejo de la cuenta que, en su caso, se efectúen en el periodo de que se trate.
 
-Adicionalmente, las Sociedades que pretendan llevar a cabo la apertura de cuentas de Bajo Riesgo, a través de la recepción o captura de datos de forma remota de conformidad con lo previsto por las “Disposiciones de Carácter General a las que se refieren los Artículos 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo”, deberán contar con la previa autorización de la Comisión. Para tales efectos, deberán acompañar a la solicitud de autorización la descripción de los procedimientos que implementarán para evaluar los controles que minimicen los riesgos asociados a esta operación, los cuales deberán considerar al menos lo previsto en los apartados de control interno, contenidos en el Título Tercero de las presentes disposiciones, según la regulación prudencial que le corresponda aplicar a la Sociedad de que se trate.
+Adicionalmente, las Sociedades que pretendan llevar a cabo la apertura de cuentas de Bajo Riesgo, a través de la recepción o captura de datos de forma remota de conformidad con lo previsto por las “Disposiciones de Carácter General a las que se refieren los Artículos [71](../../lrascap/markdown/articulo-71.md) y [72](../../lrascap/markdown/articulo-72.md) de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo”, deberán contar con la previa autorización de la Comisión. Para tales efectos, deberán acompañar a la solicitud de autorización la descripción de los procedimientos que implementarán para evaluar los controles que minimicen los riesgos asociados a esta operación, los cuales deberán considerar al menos lo previsto en los apartados de control interno, contenidos en el Título Tercero de las presentes disposiciones, según la regulación prudencial que le corresponda aplicar a la Sociedad de que se trate.
 
 b) Cuentahabientes
 
@@ -274,7 +274,7 @@ Podrán ser adquiridos por personas físicas.
 
 Los avales sobre títulos de crédito se otorgarán con base en aperturas de crédito que la Sociedad avalista otorgue al suscriptor de los títulos.
 
-Atento a lo dispuesto en el Artículo 15 de la Ley General de Títulos y Operaciones de Crédito, no es necesario que, precisamente en la fecha de suscripción de un pagaré, se indique el nombre del beneficiario. Por lo tanto, las Sociedades podrán avalar títulos de crédito sin la mención del beneficiario siempre y cuando, también conforme al precepto citado, se cumpla con dicho requisito con anterioridad a la presentación de los títulos para su pago o aceptación.
+Atento a lo dispuesto en el Artículo [15](../../lgtoc/markdown/articulo-15.md) de la Ley General de Títulos y Operaciones de Crédito, no es necesario que, precisamente en la fecha de suscripción de un pagaré, se indique el nombre del beneficiario. Por lo tanto, las Sociedades podrán avalar títulos de crédito sin la mención del beneficiario siempre y cuando, también conforme al precepto citado, se cumpla con dicho requisito con anterioridad a la presentación de los títulos para su pago o aceptación.
 
 La Sociedad avalista podrá descontar los títulos de crédito en la fecha en que los mismos hayan sido emitidos.
 

@@ -17,7 +17,7 @@ source_sha256: cf7f5220f083bdcd8eed4104bbdf40299221f32cd5c51e17b1f03b033e677815
 
 # Artículo 72
 
-Las entidades federativas remitirán a la [Secretaría de Hacienda](articulo-4.md), a través del sistema de información a que se refiere el artículo 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la información sobre el ejercicio y destino de los recursos federales que reciban dichas entidades federativas y, por conducto de éstas, los municipios y las demarcaciones territoriales del Distrito Federal, los organismos descentralizados estatales, universidades públicas, asociaciones civiles y otros terceros beneficiarios. Para la remisión y la divulgación de esta información no podrá oponerse la reserva fiduciaria, bursátil, bancaria o cualquier otra análoga.
+Las entidades federativas remitirán a la [Secretaría de Hacienda](articulo-4.md), a través del sistema de información a que se refiere el artículo [85](../../lfprh/markdown/articulo-85.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la información sobre el ejercicio y destino de los recursos federales que reciban dichas entidades federativas y, por conducto de éstas, los municipios y las demarcaciones territoriales del Distrito Federal, los organismos descentralizados estatales, universidades públicas, asociaciones civiles y otros terceros beneficiarios. Para la remisión y la divulgación de esta información no podrá oponerse la reserva fiduciaria, bursátil, bancaria o cualquier otra análoga.
 
 Dicha información deberá contener como mínimo los siguientes rubros:
 

@@ -60,6 +60,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnep:article:146:reference:1680-1682:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnep:article:146",
+    "source_span": "19",
+    "start_char": 1680,
+    "end_char": 1682,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnep:article:147:reference:101-118:146:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lnep:article:147",
     "source_span": "artículo anterior",
@@ -179,7 +194,14 @@
     "end_char": 233,
     "target_instrument_id": "urn:lex-mx:federal:statute:lnep",
     "target_provision_id": "urn:lex-mx:federal:statute:lnep:article:18",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo tercero",
+        "start_char": 239,
+        "end_char": 254
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -214,21 +236,6 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnep:article:83:reference:374-375:3:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lnep:article:83",
-    "source_span": "3",
-    "start_char": 374,
-    "end_char": 375,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lnep",
-    "target_provision_id": "urn:lex-mx:federal:statute:lnep:article:3",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -292,6 +299,21 @@
         "end_char": 171
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnep:transitory:decimo:reference:711-714:477:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnep:transitory:decimo",
+    "source_span": "477",
+    "start_char": 711,
+    "end_char": 714,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:477",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1472,21 +1494,6 @@
     "end_char": 805,
     "target_instrument_id": "urn:lex-mx:federal:statute:lnep",
     "target_provision_id": "urn:lex-mx:federal:statute:lnep:article:207",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnep:transitory:tercero:reference:590-591:1:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lnep:transitory:tercero",
-    "source_span": "1",
-    "start_char": 590,
-    "end_char": 591,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lnep",
-    "target_provision_id": "urn:lex-mx:federal:statute:lnep:article:1",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

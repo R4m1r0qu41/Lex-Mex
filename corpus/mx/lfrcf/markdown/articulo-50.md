@@ -17,7 +17,7 @@ source_sha256: cc687a4d8d9de93d2d3ec9b40b26d0273e108bb002a6f611806dc36ebce5ba2c
 
 # Artículo 50
 
-La [Auditoría Superior de la Federación](articulo-4.md) fiscalizará las participaciones federales conforme a la facultad establecida en el artículo 79, fracción I, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.
+La [Auditoría Superior de la Federación](articulo-4.md) fiscalizará las participaciones federales conforme a la facultad establecida en el artículo [79](../../cpeum/markdown/articulo-79.md), fracción I, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.
 
 La Auditoría Superior de la Federación fiscalizará de manera directa las participaciones federales. En la fiscalización superior de las participaciones federales se revisarán los procesos realizados por el Gobierno Federal, las entidades federativas, los municipios y las alcaldías de la Ciudad de México, e incluirá:
 

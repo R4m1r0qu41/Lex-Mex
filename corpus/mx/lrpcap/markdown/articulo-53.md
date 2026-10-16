@@ -23,6 +23,6 @@ Para efectos de lo señalado en el párrafo anterior, la Secretaría deberá rem
 
 En el caso a que se refiere el primer párrafo de este artículo la Secretaría, durante el procedimiento de extradición, deberá emitir su opinión a la Secretaría de Relaciones Exteriores, respecto de si la solicitud de extradición es acorde o no con la salvaguarda del principio de no devolución y, en su caso, las acciones que fuesen procedentes a su juicio, para cumplir con dicho principio.
 
-Dicha opinión se hará llegar al Juez de conocimiento, por conducto de la Secretaría de Relaciones Exteriores, para su consideración, antes de que emita la opinión jurídica a que se refieren los artículos 28 y 29 de la Ley de Extradición Internacional.
+Dicha opinión se hará llegar al Juez de conocimiento, por conducto de la Secretaría de Relaciones Exteriores, para su consideración, antes de que emita la opinión jurídica a que se refieren los artículos [28](../../lei/markdown/articulo-28.md) y [29](../../lei/markdown/articulo-29.md) de la Ley de Extradición Internacional.
 
 Cuando una solicitud de reconocimiento de la condición de refugiado se encuentre pendiente de resolución, la Secretaría deberá resolver sobre el reconocimiento de la condición de refugiado en un plazo no mayor a diez días hábiles, sin perjuicio de lo dispuesto por los artículos [18](articulo-18.md), [19](articulo-19.md), [20](articulo-20.md), [21](articulo-21.md), [22](articulo-22.md) y [23](articulo-23.md) de esta Ley.

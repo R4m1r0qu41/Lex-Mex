@@ -17,6 +17,6 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 39
 
-Para efectos del artículo 15, fracción X, inciso b), segundo párrafo de la Ley, se consideran bienes de inversión, aquéllos que integran el activo fijo en los términos del segundo párrafo del artículo 32 de la Ley del Impuesto sobre la Renta.
+Para efectos del artículo 15, fracción X, inciso b), segundo párrafo de la Ley, se consideran bienes de inversión, aquéllos que integran el activo fijo en los términos del segundo párrafo del artículo [32](../../lisr/markdown/articulo-32.md) de la Ley del Impuesto sobre la Renta.
 
 Artículo reformado DOF 25-09-2014

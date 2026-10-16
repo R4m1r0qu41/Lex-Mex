@@ -17,4 +17,4 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 1032
 
-Si el usufructuario se negare a hacer la anticipación de que habla el artículo que precede, el propietario podrá hacer que se venda la parte de bienes que baste para el pago de la cantidad que aquél debía satisfacer, según la regla establecida en dicho artículo.
+Si el usufructuario se negare a hacer la anticipación de que habla el [artículo que precede](articulo-1031.md), el propietario podrá hacer que se venda la parte de bienes que baste para el pago de la cantidad que aquél debía satisfacer, según la regla establecida en dicho artículo.

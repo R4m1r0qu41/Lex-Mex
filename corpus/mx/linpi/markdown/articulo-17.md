@@ -17,7 +17,7 @@ source_sha256: f9c395f4ea69c08016d20173667f4c2dd5de0b2898bb119d806e8274dca6dd98
 
 # Artículo 17
 
-El Director o Directora General del Instituto, además de las facultades y obligaciones que le confiere el artículo 59 de la Ley Federal de las Entidades Paraestatales, tendrá las siguientes:
+El Director o Directora General del Instituto, además de las facultades y obligaciones que le confiere el artículo [59](../../lfep/markdown/articulo-59.md) de la Ley Federal de las Entidades Paraestatales, tendrá las siguientes:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el buen funcionamiento del Instituto, dando cumplimiento a los fines, atribuciones y funciones establecidas en esta Ley;
 

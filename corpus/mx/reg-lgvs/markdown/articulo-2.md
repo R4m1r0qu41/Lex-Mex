@@ -17,7 +17,7 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 2
 
-Además de las definiciones contenidas en el artículo 3o. de la [Ley](articulo-2.md) General de Vida Silvestre y la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para efectos del presente Reglamento se entenderá por: Párrafo reformado DOF 09-05-2014
+Además de las definiciones contenidas en el artículo [3](../../lgvs/markdown/articulo-3o.md)o. de la [Ley](articulo-2.md) General de Vida Silvestre y la Ley General del Equilibrio Ecológico y la Protección al Ambiente, para efectos del presente Reglamento se entenderá por: Párrafo reformado DOF 09-05-2014
 
 I. Características físicas. Conjunto de particularidades observables en un ejemplar, población, especie o área determinada;
 

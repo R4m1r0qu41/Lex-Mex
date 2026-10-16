@@ -45,9 +45,9 @@ XIII. Obtener y conservar la información de ciencias de la tierra, para increme
 
 XIV. Participar en las reuniones geocientíficas nacionales e internacionales;
 
-XV. Formar parte del Consejo Nacional de Áreas Naturales Protegidas, conforme al artículo 56 BIS de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y su Reglamento;
+XV. Formar parte del Consejo Nacional de Áreas Naturales Protegidas, conforme al artículo [56 BIS](../../lgeepa/markdown/articulo-56-BIS.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y su Reglamento;
 
-XVI. Proporcionar la información geológica, geoquímica y geofísica y asesoría técnica sobre el uso y aprovechamiento, actuales y potenciales, de los recursos minerales, que se les debe requerir en los términos del artículo 58 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XVI. Proporcionar la información geológica, geoquímica y geofísica y asesoría técnica sobre el uso y aprovechamiento, actuales y potenciales, de los recursos minerales, que se les debe requerir en los términos del artículo [58](../../lgeepa/markdown/articulo-58.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
 XVII. Identificar y promover ante la Secretaría la ejecución de obras de infraestructura que propicien el desarrollo de distritos mineros;
 

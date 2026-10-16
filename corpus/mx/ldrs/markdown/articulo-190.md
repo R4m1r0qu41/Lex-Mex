@@ -17,7 +17,7 @@ source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 
 # Artículo 190
 
-Para los efectos del [artículo anterior](articulo-189.md), y de acuerdo a lo dispuesto por los artículos 24 y 25 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las previsiones presupuestales podrán comprender los siguientes rubros: Párrafo reformado DOF 26-05-2011
+Para los efectos del [artículo anterior](articulo-189.md), y de acuerdo a lo dispuesto por los artículos [24](../../lfprh/markdown/articulo-24.md) y [25](../../lfprh/markdown/articulo-25.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las previsiones presupuestales podrán comprender los siguientes rubros: Párrafo reformado DOF 26-05-2011
 
 I. Apoyos para la adquisición de activos privados para la inversión e insumos en las unidades de los propios productores y pagos por empleo temporal aplicados al mejoramiento de sus activos; apoyos para el desarrollo forestal y de plantaciones; y, apoyos directos al campo, en los términos que definan los programas y de acuerdo a lo establecido en esta Ley; II. Apoyos a la comercialización y al financiamiento para cosechas elegibles con problemas de comercialización, a la cobertura de riesgos; para el otorgamiento de crédito por la banca de desarrollo y demás fondos; para el seguro agrícola; y fondos de apoyo a empresas sociales y fondos regionales gubernamentales y no gubernamentales para el combate a la pobreza;
 

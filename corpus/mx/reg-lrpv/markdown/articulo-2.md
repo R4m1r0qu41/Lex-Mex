@@ -17,7 +17,7 @@ source_sha256: 3ff22c0d4dda5724ded6314ddc83e072cab81433b14dd9c6056e67eb5f4f8dd1
 
 # Artículo 2
 
-Para los efectos de este [Reglamento](articulo-2.md), además de las definiciones previstas en el artículo 2 de la [Ley](articulo-2.md) del Registro Público Vehicular, se entenderá por:
+Para los efectos de este [Reglamento](articulo-2.md), además de las definiciones previstas en el artículo [2](../../lrpv/markdown/articulo-2.md) de la [Ley](articulo-2.md) del Registro Público Vehicular, se entenderá por:
 
 I. Ley: La Ley del Registro Público Vehicular;
 

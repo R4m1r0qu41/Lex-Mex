@@ -1512,6 +1512,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:133:reference:1625-1626:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:luc:article:133",
+    "source_span": "5",
+    "start_char": 1625,
+    "end_char": 1626,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lcnbv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:5",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 1628,
+        "end_char": 1642
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:luc:article:134:reference:229-232:133:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:luc:article:134",
     "source_span": "133",
@@ -2023,6 +2045,36 @@
         "end_char": 2819
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:22:reference:113-116:128:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:luc:article:22",
+    "source_span": "128",
+    "start_char": 113,
+    "end_char": 116,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:128",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:22:reference:119-122:129:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:luc:article:22",
+    "source_span": "129",
+    "start_char": 119,
+    "end_char": 122,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:129",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2889,6 +2941,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:67:reference:968-971:177:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:luc:article:67",
+    "source_span": "177",
+    "start_char": 968,
+    "end_char": 971,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:177",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo primero",
+        "start_char": 1157,
+        "end_char": 1172
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:luc:article:70:reference:59-61:67:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:luc:article:70",
     "source_span": "67",
@@ -3293,6 +3367,28 @@
     "target_instrument_id": "urn:lex-mx:federal:statute:luc",
     "target_provision_id": "urn:lex-mx:federal:statute:luc:article:40",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:transitory:decimo:reference:38-39:6:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:luc:transitory:decimo",
+    "source_span": "6",
+    "start_char": 38,
+    "end_char": 39,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:6",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 13,
+        "end_char": 24
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

@@ -19,7 +19,7 @@ Para los efectos de esta Ley, se entiende por:
 
 I. Centro Nacional de Información: el Centro Nacional de Información del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
 
-II. Instituciones de seguridad pública: a las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias o entidades encargadas de la seguridad pública de orden federal, local o municipal, a que se refiere el artículo 5, fracción VIII, de la Ley General del Sistema Nacional de Seguridad Pública, así como las competentes para conocer y sancionar las infracciones administrativas, en sus respectivas competencias;
+II. Instituciones de seguridad pública: a las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias o entidades encargadas de la seguridad pública de orden federal, local o municipal, a que se refiere el artículo [5](../../lgsnsp/markdown/articulo-5.md), fracción VIII, de la Ley General del Sistema Nacional de Seguridad Pública, así como las competentes para conocer y sancionar las infracciones administrativas, en sus respectivas competencias;
 
 III. Ley: la Ley Nacional del Registro de Detenciones;
 

@@ -21,6 +21,6 @@ Cuando se trate de la autorización prevista en el artículo 68, fracción I de 
 
 I. Arrendamiento, servidumbre voluntaria, ocupación superficial, ocupación temporal, compraventa, permuta y cualquier otra que no contravenga la Ley, de conformidad con lo previsto en los artículos 100 y 101 de la Ley de Hidrocarburos;
 
-II. Cuando estén involucrados terrenos, bienes o derechos sujetos a los regímenes previstos en la Ley Agraria, con la documentación que atienda a las formalidades previstas en los artículos 24 a 28, 30 y 31 de la Ley Agraria, de conformidad con la fracción II del artículo 102 de la Ley de Hidrocarburos, o
+II. Cuando estén involucrados terrenos, bienes o derechos sujetos a los regímenes previstos en la Ley Agraria, con la documentación que atienda a las formalidades previstas en los artículos [24](../../lagra/markdown/articulo-24.md) a [28](../../lagra/markdown/articulo-28.md), [30](../../lagra/markdown/articulo-30.md) y [31](../../lagra/markdown/articulo-31.md) de la Ley Agraria, de conformidad con la fracción II del artículo 102 de la Ley de Hidrocarburos, o
 
 III. Por medio de servidumbres legales de hidrocarburos decretadas por vía jurisdiccional o administrativa, de conformidad con el artículo 109, párrafo tercero de la Ley de Hidrocarburos.

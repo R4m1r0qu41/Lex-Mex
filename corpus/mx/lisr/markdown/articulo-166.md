@@ -101,6 +101,6 @@ c. Los que se deriven de créditos concedidos o garantizados en condiciones pref
 
 d. Los que deriven de créditos concedidos al Gobierno Federal o al Banco de México y los provenientes de títulos de créditos emitidos por el Gobierno Federal o por el Banco de México, colocados en México entre el gran público inversionista, siempre que los beneficiarios efectivos sean residentes en el extranjero.
 
-En el caso de que no sea posible identificar al beneficiario efectivo residente en el extranjero de los intereses provenientes de los créditos o títulos a que se refiere el párrafo anterior, los intermediarios financieros no estarán obligados a efectuar la retención correspondiente ni tendrán la responsabilidad solidaria a que se refiere el artículo 26 del Código Fiscal de la Federación.
+En el caso de que no sea posible identificar al beneficiario efectivo residente en el extranjero de los intereses provenientes de los créditos o títulos a que se refiere el párrafo anterior, los intermediarios financieros no estarán obligados a efectuar la retención correspondiente ni tendrán la responsabilidad solidaria a que se refiere el artículo [26](../../cff/markdown/articulo-26.md) del Código Fiscal de la Federación.
 
 El Servicio de Administración Tributaria podrá emitir las reglas de carácter general necesarias para la debida y correcta aplicación de este artículo. Párrafo adicionado DOF 12-11-2021

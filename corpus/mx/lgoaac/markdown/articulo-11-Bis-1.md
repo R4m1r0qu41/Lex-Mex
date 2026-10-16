@@ -19,7 +19,7 @@ source_sha256: 54747e6ec98327430ccf77b2acc5ba3033ef64f42d8d7f1fdee957755070f683
 
 Tratándose de certificados de depósito que amparen productos agropecuarios y pesqueros, los títulos deberán incluir la manifestación del depositante, respecto a lo siguiente:
 
-I. En su caso, la mención expresa de que se trata de productos básicos y estratégicos de conformidad con lo establecido por el artículo 179 de la Ley de Desarrollo Rural Sustentable;
+I. En su caso, la mención expresa de que se trata de productos básicos y estratégicos de conformidad con lo establecido por el artículo [179](../../ldrs/markdown/articulo-179.md) de la Ley de Desarrollo Rural Sustentable;
 
 II. El lugar de producción. En el caso de productos agropecuarios y pesqueros de origen nacional, se deberá consignar la clave que le corresponda de acuerdo con el catálogo de integración territorial de estados, municipios y localidades, publicado por el Instituto Nacional de Estadística y Geografía;
 

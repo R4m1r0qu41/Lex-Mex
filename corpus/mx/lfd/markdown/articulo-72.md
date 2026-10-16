@@ -41,7 +41,7 @@ a).- Por la primera prórroga ..................................................
 
 b).- Por la segunda y ulteriores prórrogas ................................................. $2,014.95 Fracción reformada DOF 26-12-1990, 03-12-1993. Reformada con incisos DOF 28-12-1994
 
-X.- Por la recepción, estudio de la solicitud y, en su caso, el otorgamiento de la opinión de la Comisión Nacional de Inversiones Extranjeras a que se refiere el artículo 56 de la Ley en Materia de Telecomunicaciones y Radiodifusión .......................................... $29,675.45 Fracción adicionada DOF 26-12-1990. Derogada DOF 28-12-1994. Adicionada DOF 18-11-2015. Reformada DOF 07-11-2025
+X.- Por la recepción, estudio de la solicitud y, en su caso, el otorgamiento de la opinión de la Comisión Nacional de Inversiones Extranjeras a que se refiere el artículo [56](../../lmtr/markdown/articulo-56.md) de la Ley en Materia de Telecomunicaciones y Radiodifusión .......................................... $29,675.45 Fracción adicionada DOF 26-12-1990. Derogada DOF 28-12-1994. Adicionada DOF 18-11-2015. Reformada DOF 07-11-2025
 
 XI.- (Se deroga). Fracción adicionada DOF 20-12-1991. Derogada DOF 28-12-1994
 

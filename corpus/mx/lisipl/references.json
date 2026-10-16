@@ -16,6 +16,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lisipl:article:3:reference:110-112:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lisipl:article:3",
+    "source_span": "16",
+    "start_char": 110,
+    "end_char": 112,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y II",
+        "start_char": 79,
+        "end_char": 96
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lisipl:article:4:reference:135-136:1:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lisipl:article:4",
     "source_span": "1",

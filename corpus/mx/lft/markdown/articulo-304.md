@@ -17,6 +17,6 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 # Artículo 304
 
-Las disposiciones de este capítulo se aplican a las personas trabajadoras artistas intérpretes o ejecutantes, en términos del artículo 116 de la Ley Federal del Derecho de Autor, que actúen en teatros, cines, centros nocturnos o de variedades, circos, radio y televisión, salas de doblaje o en cualquier otro lugar o entorno donde se lleve a cabo la interpretación y/o ejecución.
+Las disposiciones de este capítulo se aplican a las personas trabajadoras artistas intérpretes o ejecutantes, en términos del artículo [116](../../lfda/markdown/articulo-116.md) de la Ley Federal del Derecho de Autor, que actúen en teatros, cines, centros nocturnos o de variedades, circos, radio y televisión, salas de doblaje o en cualquier otro lugar o entorno donde se lleve a cabo la interpretación y/o ejecución.
 
 Artículo reformado DOF 14-05-2026

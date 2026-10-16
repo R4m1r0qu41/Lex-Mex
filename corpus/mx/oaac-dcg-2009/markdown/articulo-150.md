@@ -25,7 +25,7 @@ consolidados, las constancias siguientes:
 
 “El presente balance general se formuló de conformidad con los criterios de contabilidad (93) 223
 
-para uniones de crédito emitidos por la [Comisión](articulo-1.md) Nacional Bancaria y de [Valores](articulo-1.md), con fundamento en lo dispuesto por los artículos 65, 67 y 74 de la Ley de Uniones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las operaciones efectuadas por la unión de crédito hasta la fecha arriba mencionada, las cuales se realizaron y valuaron con apego a sanas prácticas y a las disposiciones aplicables.
+para uniones de crédito emitidos por la [Comisión](articulo-1.md) Nacional Bancaria y de [Valores](articulo-1.md), con fundamento en lo dispuesto por los artículos [65](../../luc/markdown/articulo-65.md), [67](../../luc/markdown/articulo-67.md) y [74](../../luc/markdown/articulo-74.md) de la Ley de Uniones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas las operaciones efectuadas por la unión de crédito hasta la fecha arriba mencionada, las cuales se realizaron y valuaron con apego a sanas prácticas y a las disposiciones aplicables.
 
 El presente balance general fue aprobado por el consejo de administración bajo la (93) 224
 
@@ -35,7 +35,7 @@ responsabilidad de los directivos que lo suscriben.”
 
 “El presente estado de resultados se formuló de conformidad con los criterios de contabilidad (93) 226
 
-para uniones de crédito emitidos por la Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los artículos 65, 67 y 74 de la Ley de Uniones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejados todos los ingresos y egresos derivados de las operaciones efectuadas por la unión de crédito durante el periodo arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas y a las disposiciones aplicables.
+para uniones de crédito emitidos por la Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los artículos [65](../../luc/markdown/articulo-65.md), [67](../../luc/markdown/articulo-67.md) y [74](../../luc/markdown/articulo-74.md) de la Ley de Uniones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejados todos los ingresos y egresos derivados de las operaciones efectuadas por la unión de crédito durante el periodo arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas y a las disposiciones aplicables.
 
 El presente estado de resultados fue aprobado por el consejo de administración bajo la (93) 227
 
@@ -47,7 +47,7 @@ responsabilidad de los directivos que lo suscriben.”
 
 “El presente estado de variaciones en el capital contable se formuló de conformidad con los (93) 229
 
-criterios de contabilidad para uniones de crédito emitidos por la Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los artículos 65, 67 y 74 de la Ley de Uniones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejados todos los movimientos en las cuentas de capital contable derivados de las operaciones efectuadas por la unión de crédito durante el periodo arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas y a las disposiciones aplicables.
+criterios de contabilidad para uniones de crédito emitidos por la Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los artículos [65](../../luc/markdown/articulo-65.md), [67](../../luc/markdown/articulo-67.md) y [74](../../luc/markdown/articulo-74.md) de la Ley de Uniones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejados todos los movimientos en las cuentas de capital contable derivados de las operaciones efectuadas por la unión de crédito durante el periodo arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas y a las disposiciones aplicables.
 
 El presente estado de variaciones en el capital contable fue aprobado por el consejo de (93) 230
 
@@ -57,7 +57,7 @@ administración bajo la responsabilidad de los directivos que lo suscriben.”
 
 “El presente estado de flujos de efectivo se formuló de conformidad con los criterios de (93) 232
 
-contabilidad para uniones de crédito emitidos por la Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los artículos 65, 67 y 74 de la Ley de Uniones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas todas las entradas y salidas de efectivo derivadas de las operaciones efectuadas por la unión de crédito durante el periodo arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas y a las disposiciones aplicables.
+contabilidad para uniones de crédito emitidos por la Comisión Nacional Bancaria y de Valores, con fundamento en lo dispuesto por los artículos [65](../../luc/markdown/articulo-65.md), [67](../../luc/markdown/articulo-67.md) y [74](../../luc/markdown/articulo-74.md) de la Ley de Uniones de Crédito, de observancia general y obligatoria, aplicados de manera consistente, encontrándose reflejadas todas las entradas y salidas de efectivo derivadas de las operaciones efectuadas por la unión de crédito durante el periodo arriba mencionado, las cuales se realizaron y valuaron con apego a sanas prácticas y a las disposiciones aplicables.
 
 El presente estado de flujos de efectivo fue aprobado por el consejo de administración bajo (93) 233
 

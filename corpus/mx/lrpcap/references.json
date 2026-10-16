@@ -97,6 +97,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:article:2:reference:1946-1951:1-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "source_span": "1 Bis",
+    "start_char": 1946,
+    "end_char": 1951,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lsem",
+    "target_provision_id": "urn:lex-mx:federal:statute:lsem:article:1-bis",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VIII",
+        "start_char": 1953,
+        "end_char": 1966
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lrpcap:article:26:reference:209-211:13:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:26",
     "source_span": "13",
@@ -231,6 +253,36 @@
     "end_char": 580,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrpcap",
     "target_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:26",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:article:53:reference:1131-1133:28:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:53",
+    "source_span": "28",
+    "start_char": 1131,
+    "end_char": 1133,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lei",
+    "target_provision_id": "urn:lex-mx:federal:statute:lei:article:28",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:article:53:reference:1136-1138:29:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:53",
+    "source_span": "29",
+    "start_char": 1136,
+    "end_char": 1138,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lei",
+    "target_provision_id": "urn:lex-mx:federal:statute:lei:article:29",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

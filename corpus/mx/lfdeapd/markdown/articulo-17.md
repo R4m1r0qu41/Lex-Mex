@@ -17,6 +17,6 @@ source_sha256: 4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0
 
 # Artículo 17
 
-El Órgano Jurisdiccional dispondrá que se publiquen los edictos en el Diario Oficial de la Federación, la cual deberá ser de forma gratuita, de conformidad con el artículo 19-B de la Ley Federal de Derechos. Asimismo, se deberán publicar los avisos en la página electrónica del Poder Judicial de la Federación y en la de la Comisión Nacional de Búsqueda.
+El Órgano Jurisdiccional dispondrá que se publiquen los edictos en el Diario Oficial de la Federación, la cual deberá ser de forma gratuita, de conformidad con el artículo [19-B](../../lfd/markdown/articulo-19-B.md) de la Ley Federal de Derechos. Asimismo, se deberán publicar los avisos en la página electrónica del Poder Judicial de la Federación y en la de la Comisión Nacional de Búsqueda.
 
 Las publicaciones señaladas en el presente precepto deberán ser por tres ocasiones, con intervalos de una semana, llamando a cualquier persona que tenga interés jurídico en el procedimiento de Declaración Especial de Ausencia correspondiente.

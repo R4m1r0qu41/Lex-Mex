@@ -17,7 +17,7 @@ source_sha256: 2e35228bd3100a3a137f313359833c4836f2b4b6d4e52e1ce4fe58a970cd768f
 
 Para el cumplimiento del objeto de esta [Ley](articulo-3.md), las autoridades tendrán las siguientes obligaciones:
 
-I. Observar, en el ejercicio de esta Ley, los principios rectores de las instituciones de seguridad pública señalados en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos;
+I. Observar, en el ejercicio de esta Ley, los principios rectores de las instituciones de seguridad pública señalados en el artículo [21](../../cpeum/markdown/articulo-21.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Coordinar sus acciones, en el ámbito de sus respectivas competencias, para el cumplimiento del objeto de esta Ley;
 

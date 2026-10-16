@@ -39,7 +39,7 @@ II. El proyecto de decreto de Ley de Ingresos, el cual incluirá:
 
 a) La estimación de ingresos del Gobierno Federal, de las entidades de control directo, así como los ingresos provenientes de financiamiento;
 
-b) Las propuestas de endeudamiento neto del Gobierno Federal, de las entidades y del Distrito Federal, así como la intermediación financiera, en los términos de los artículos 73 y 122 de la Constitución Política de los Estados Unidos Mexicanos;
+b) Las propuestas de endeudamiento neto del Gobierno Federal, de las entidades y del Distrito Federal, así como la intermediación financiera, en los términos de los artículos [73](../../cpeum/markdown/articulo-73.md) y [122](../../cpeum/markdown/articulo-122.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 c) Un apartado que señale el saldo total de la deuda contingente derivada de proyectos de inversión productiva de largo plazo, los ingresos derivados de dichos proyectos, así como, en su caso, los nuevos proyectos a contratar y su monto, por entidad y por tipo de inversión, en los términos de esta Ley y de la Ley General de Deuda Pública;
 

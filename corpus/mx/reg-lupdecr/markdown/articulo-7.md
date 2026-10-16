@@ -43,7 +43,7 @@ II. Al escrito de solicitud, si se trata de una persona física, se adjuntará l
 
 a) Copia simple de una identificación oficial vigente con fotografía, tanto del solicitante como de las personas a que se refiere el inciso f) de la fracción anterior.
 
-Para efectos de este inciso se reputa identificación oficial cualquiera de las citadas en la fracción IV, del artículo 12, del Reglamento de la Ley de Nacionalidad;
+Para efectos de este inciso se reputa identificación oficial cualquiera de las citadas en la fracción IV, del artículo [12](../../reg-lnac/markdown/articulo-12.md), del Reglamento de la Ley de Nacionalidad;
 
 b) Constancia del tipo de actividad que desempeña; c) Comprobante de su domicilio fiscal;
 
@@ -61,7 +61,7 @@ b) Copia simple del poder general para actos de administración otorgado al repr
 
 c) Copia simple de una identificación oficial vigente con fotografía del representante legal y de las personas a que se refiere el inciso e) de la fracción I de este artículo.
 
-Para efectos de este inciso se reputa identificación oficial cualquiera de las citadas en la fracción IV del artículo 12 del Reglamento de la Ley de Nacionalidad, y
+Para efectos de este inciso se reputa identificación oficial cualquiera de las citadas en la fracción IV del artículo [12](../../reg-lnac/markdown/articulo-12.md) del Reglamento de la Ley de Nacionalidad, y
 
 d) Las documentales descritas en los incisos b), c), e) y f) de la fracción anterior, que correspondan a la persona moral solicitante.
 

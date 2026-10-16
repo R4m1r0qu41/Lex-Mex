@@ -23,7 +23,7 @@ I. Dar trámite a la substanciación del recurso interpuesto, sin realizar pronu
 
 II. Formar un cuaderno de apelación que contenga las actuaciones relativas al recurso interpuesto;
 
-III. Ordenar se corra traslado al colitigante para que, dentro del mismo plazo otorgado, previsto en el artículo que precede, para la interposición del recurso, conteste los agravios si a su interés conviene, y
+III. Ordenar se corra traslado al colitigante para que, dentro del mismo plazo otorgado, previsto en el [artículo que precede](articulo-164.md), para la interposición del recurso, conteste los agravios si a su interés conviene, y
 
 IV. Proceder a requerir a la parte colitigante para que dentro del plazo previsto en la fracción que antecede, señale domicilio para recibir notificaciones en segunda instancia, bajo apercibimiento de que, en caso de no hacerlo, las resoluciones respectivas les serán notificadas por medio de lista. Transcurrido el plazo al que alude la fracción III que antecede, remitirá a su superior jerárquico que deba conocer de la apelación en segunda instancia de acuerdo a los ordenamientos internos que lo rijan, los autos originales del juicio de extinción de dominio y el cuaderno de apelación respectivo.
 

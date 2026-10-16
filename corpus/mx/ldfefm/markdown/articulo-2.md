@@ -23,7 +23,7 @@ II. Balance presupuestario: la diferencia entre los [Ingresos totales](articulo-
 
 III. Balance presupuestario de recursos disponibles: la diferencia entre los [Ingresos de libre disposición](articulo-2.md), incluidos en la Ley de Ingresos, más el [Financiamiento Neto](articulo-2.md) y los [Gastos no etiquetados](articulo-2.md) considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
-IV. Criterios Generales de Política Económica: el documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo 42, fracción III, inciso a), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el cual sirve de base para la elaboración de la Ley de Ingresos y el Presupuesto de Egresos de la Federación;
+IV. Criterios Generales de Política Económica: el documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo [42](../../lfprh/markdown/articulo-42.md), fracción III, inciso a), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el cual sirve de base para la elaboración de la Ley de Ingresos y el Presupuesto de Egresos de la Federación;
 
 V. Deuda Contingente: cualquier [Financiamiento](articulo-2.md) sin fuente o garantía de pago definida, que sea asumida de manera solidaria o subsidiaria por las [Entidades Federativas](articulo-2.md) con sus [Municipios](articulo-2.md), organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos, locales o municipales y, por los propios Municipios con sus respectivos organismos descentralizados y empresas de participación municipal mayoritaria;
 
@@ -55,7 +55,7 @@ XVII. Gasto no etiquetado: las erogaciones que realizan las Entidades Federativa
 
 XVIII. Gasto total: la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto;
 
-XIX. Ingresos de libre disposición: los [Ingresos locales](articulo-2.md) y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
+XIX. Ingresos de libre disposición: los [Ingresos locales](articulo-2.md) y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo [19](../../lfprh/markdown/articulo-19.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
 
 XX. Ingresos excedentes: los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos;
 

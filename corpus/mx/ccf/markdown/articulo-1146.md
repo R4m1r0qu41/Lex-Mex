@@ -17,4 +17,4 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 1146
 
-En el caso previsto por el artículo que precede, el acreedor sólo podrá exigir a los deudores que no prescribieren, el valor de la obligación, deducida la parte que corresponda al deudor que prescribió.
+En el caso previsto por el [artículo que precede](articulo-1145.md), el acreedor sólo podrá exigir a los deudores que no prescribieren, el valor de la obligación, deducida la parte que corresponda al deudor que prescribió.

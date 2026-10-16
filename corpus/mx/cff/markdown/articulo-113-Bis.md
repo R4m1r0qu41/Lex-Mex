@@ -29,4 +29,4 @@ Cuando el delito sea cometido por un servidor público en ejercicio de sus funci
 
 Se requerirá querella por parte de la Secretaría de Hacienda y Crédito Público, para proceder penalmente por este delito.
 
-El delito previsto en este artículo, así como el dispuesto en el artículo 400 Bis del Código Penal Federal, se podrán perseguir simultáneamente.
+El delito previsto en este artículo, así como el dispuesto en el artículo [400 Bis](../../cpf/markdown/articulo-400-Bis.md) del Código Penal Federal, se podrán perseguir simultáneamente.

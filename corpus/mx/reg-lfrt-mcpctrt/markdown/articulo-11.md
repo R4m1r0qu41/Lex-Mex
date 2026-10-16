@@ -41,7 +41,7 @@ Con base en la información a que se refiere esta fracción y a lo que señala e
 
 II. La Secretaría de Comunicaciones y Transportes procederá al estudio de las solicitudes recibidas en el lugar y dentro del plazo establecido;
 
-III. La Secretaría de Comunicaciones y Transportes solicitará a la Secretaría de Gobernación la opinión a que se refiere la fracción III del artículo 36 de la Ley Orgánica de la Administración Pública Federal;
+III. La Secretaría de Comunicaciones y Transportes solicitará a la Secretaría de Gobernación la opinión a que se refiere la fracción III del artículo [36](../../loapf/markdown/articulo-36.md) de la Ley Orgánica de la Administración Pública Federal;
 
 IV. Para seleccionar la solicitud que continuará el trámite concesionario, la Secretaría de Comunicaciones y Transportes realizará un estudio comparativo entre las solicitudes recibidas que hubieren cubierto los requisitos exigidos, a fin de evaluarlas y seleccionar la que, a su juicio, mejor satisfaga el interés social;
 

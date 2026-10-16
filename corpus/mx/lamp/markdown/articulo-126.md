@@ -17,7 +17,7 @@ source_sha256: 05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d
 
 # Artículo 126
 
-La suspensión se concederá de oficio y de plano cuando se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales.
+La suspensión se concederá de oficio y de plano cuando se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo [22](../../cpeum/markdown/articulo-22.md) de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales.
 
 En este caso, la suspensión se decretará en el auto de admisión de la demanda, comunicándose sin demora a la autoridad responsable, por cualquier medio que permita lograr su inmediato cumplimiento.
 

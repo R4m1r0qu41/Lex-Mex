@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 1
 
-Además de las definiciones establecidas en el artículo 2o. de la [Ley](articulo-1.md) Aduanera, para efectos de este Reglamento se entenderá por:
+Además de las definiciones establecidas en el artículo [2](../../ladua/markdown/articulo-2o.md)o. de la [Ley](articulo-1.md) Aduanera, para efectos de este Reglamento se entenderá por:
 
 I. Ley, la Ley Aduanera;
 

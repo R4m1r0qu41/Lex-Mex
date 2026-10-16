@@ -17,7 +17,7 @@ source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 
 # Artículo 120
 
-El Comité de Profesionalización de la Procuraduría a que se refiere el artículo 51, fracción I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal, es un órgano que auxiliará en el cumplimiento de la implementación y supervisión de las medidas y mecanismos del Servicio Profesional de Carrera, que estará integrado por:
+El Comité de Profesionalización de la Procuraduría a que se refiere el artículo [51](../../lopgjdf/markdown/articulo-51.md), fracción I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal, es un órgano que auxiliará en el cumplimiento de la implementación y supervisión de las medidas y mecanismos del Servicio Profesional de Carrera, que estará integrado por:
 
 I. Procurador, quien fungirá como Presidente, y podrá ser suplido por el servidor público que él designe y que tenga nivel jerárquico mínimo de Director General;
 

@@ -19,7 +19,7 @@ source_sha256: 390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32
 
 La Federación será competente para investigar, perseguir y sancionar los delitos establecidos en esta Ley cuando:
 
-I. Se apliquen las reglas de competencia previstas en la Ley Orgánica del Poder Judicial de la Federación. LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS II. El delito se inicie, prepare o cometa en el extranjero, siempre y cuando produzca o se pretenda que produzca efecto en el territorio nacional, o cuando se inicie, prepare o cometa en el territorio nacional, siempre y cuando produzca o se pretenda que tengan efectos en el extranjero, en términos de los artículos 2o, 3o, 4o, 5o y 6o del [Código Penal](articulo-4o.md) Federal;
+I. Se apliquen las reglas de competencia previstas en la Ley Orgánica del Poder Judicial de la Federación. LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS II. El delito se inicie, prepare o cometa en el extranjero, siempre y cuando produzca o se pretenda que produzca efecto en el territorio nacional, o cuando se inicie, prepare o cometa en el territorio nacional, siempre y cuando produzca o se pretenda que tengan efectos en el extranjero, en términos de los artículos [2](../../cpf/markdown/articulo-2o.md)o, [3](../../cpf/markdown/articulo-3o.md)o, [4](../../cpf/markdown/articulo-4o.md)o, [5](../../cpf/markdown/articulo-5o.md)o y [6](../../cpf/markdown/articulo-6o.md)o del [Código Penal](articulo-4o.md) Federal;
 
 III. Lo previsto en el artículo 10 del Código Federal de Procedimientos Penales;
 

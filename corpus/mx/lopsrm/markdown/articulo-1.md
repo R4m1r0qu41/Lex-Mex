@@ -17,7 +17,7 @@ source_sha256: b760b87cb82b23955e149500a1a832a608029ca814f0653b1430f6948d33e9f5
 
 # Artículo 1
 
-La presente Ley es de orden público y tiene por objeto reglamentar la aplicación del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos en materia de contrataciones de obras públicas, así como de los servicios relacionados con las mismas, que realicen: Párrafo reformado DOF 28-05-2009
+La presente Ley es de orden público y tiene por objeto reglamentar la aplicación del artículo [134](../../cpeum/markdown/articulo-134.md) de la Constitución Política de los Estados Unidos Mexicanos en materia de contrataciones de obras públicas, así como de los servicios relacionados con las mismas, que realicen: Párrafo reformado DOF 28-05-2009
 
 I. Las unidades administrativas de la Presidencia de la República;
 

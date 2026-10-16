@@ -29,4 +29,4 @@ La imposición de las multas se realizará con base en la Unidad de Medida y Act
 
 En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
 
-La autoridad correspondiente podrá otorgar al infractor la opción a que se refiere el párrafo final del artículo 173 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, si éste se obliga a reparar el daño cometido mediante el restablecimiento de las condiciones anteriores a su comisión o a realizar una inversión equivalente en los términos que se establezcan, en cuyo caso se observará lo previsto en esa disposición.
+La autoridad correspondiente podrá otorgar al infractor la opción a que se refiere el párrafo final del artículo [173](../../lgeepa/markdown/articulo-173.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, si éste se obliga a reparar el daño cometido mediante el restablecimiento de las condiciones anteriores a su comisión o a realizar una inversión equivalente en los términos que se establezcan, en cuyo caso se observará lo previsto en esa disposición.

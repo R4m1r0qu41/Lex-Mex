@@ -1,4 +1,4 @@
-# Reglamento del Artículo 122 de la Ley Federal de Protección al Consumidor
+# Reglamento del Artículo [122](../../lfpc/markdown/articulo-122.md) de la Ley Federal de Protección al Consumidor
 
 Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPC_Art122.pdf)
 

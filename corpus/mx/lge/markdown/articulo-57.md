@@ -31,7 +31,7 @@ VI. Diseñar contenido multimedia que podrá vincularse con los contenidos en pa
 
 Para las lenguas indígenas que no cuenten con ningún tipo de presencia, se deben realizar acciones afirmativas para incluirlas en los programas de estudio. Las lenguas indígenas que ya tengan presencia en el sistema actual de educación, se deben fortalecer y consolidar su uso.
 
-La educación indígena, intercultural y plurilingüe deberá ser considerada prioritaria en el Plan Nacional de Desarrollo como parte de las obligaciones establecidas por el artículo 20 Bis de la Ley de Planeación.
+La educación indígena, intercultural y plurilingüe deberá ser considerada prioritaria en el Plan Nacional de Desarrollo como parte de las obligaciones establecidas por el artículo [20 Bis](../../lplan/markdown/articulo-20-Bis.md) de la Ley de Planeación.
 
 Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 30-06-2021 y publicada DOF 13-03-2023
 

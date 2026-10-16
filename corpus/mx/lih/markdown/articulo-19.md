@@ -25,7 +25,7 @@ II. Los costos en que se incurra por negligencia o fraude del Contratista o de l
 
 III. Los donativos;
 
-IV. Los costos y gastos por concepto de servidumbres, derechos de vía, ocupaciones temporales o permanentes, arrendamientos o adquisición de terrenos, indemnizaciones y cualquier otra figura análoga, que se derive de lo dispuesto en el artículo 56 y en el Capítulo IV del Título Cuarto de la Ley del Sector Hidrocarburos; Fracción reformada DOF 18-03-2025
+IV. Los costos y gastos por concepto de servidumbres, derechos de vía, ocupaciones temporales o permanentes, arrendamientos o adquisición de terrenos, indemnizaciones y cualquier otra figura análoga, que se derive de lo dispuesto en el artículo [56](../../lsh/markdown/articulo-56.md) y en el Capítulo IV del Título Cuarto de la Ley del Sector Hidrocarburos; Fracción reformada DOF 18-03-2025
 
 V. Los costos en que se incurra por servicios de asesoría, excepto aquéllos previstos en los lineamientos que emita la Secretaría;
 

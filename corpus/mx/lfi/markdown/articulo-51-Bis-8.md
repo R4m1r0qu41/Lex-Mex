@@ -15,7 +15,7 @@ source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 
 # Artículo 51 Bis 8
 
-Las sociedades operadoras de fondos de inversión podrán actuar como fiduciarias en fideicomisos de inversión, que tengan por objeto emitir los valores siguientes: certificados bursátiles fiduciarios de desarrollo, inmobiliarios, indizados, o cualquiera de los referidos en la fracción II del artículo 62 de la Ley del Mercado de Valores, ajustándose para tales efectos a lo previsto en dicho ordenamiento legal.
+Las sociedades operadoras de fondos de inversión podrán actuar como fiduciarias en fideicomisos de inversión, que tengan por objeto emitir los valores siguientes: certificados bursátiles fiduciarios de desarrollo, inmobiliarios, indizados, o cualquiera de los referidos en la fracción II del artículo [62](../../lmv/markdown/articulo-62.md) de la Ley del Mercado de Valores, ajustándose para tales efectos a lo previsto en dicho ordenamiento legal.
 
 En los fideicomisos a que se refiere el párrafo anterior se podrá o no admitir la adhesión de terceros con posterioridad a su constitución.
 

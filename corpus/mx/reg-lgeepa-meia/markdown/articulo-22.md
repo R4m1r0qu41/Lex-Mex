@@ -19,4 +19,4 @@ source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f
 
 En los casos en que la manifestación de impacto ambiental presente insuficiencias que impidan la evaluación del proyecto, la Secretaría podrá solicitar al promovente, por única vez y dentro de los cuarenta días siguientes a la integración del expediente, aclaraciones, rectificaciones o ampliaciones al contenido de la misma y en tal caso, se suspenderá el término de sesenta días a que se refiere el artículo 35 bis de la Ley.
 
-La suspensión no podrá exceder de sesenta días computados a partir de que sea declarada. Transcurrido este plazo sin que la información sea entregada por el promovente, la Secretaría podrá declarar la caducidad del trámite en los términos del artículo 60 de la Ley Federal de Procedimiento Administrativo.
+La suspensión no podrá exceder de sesenta días computados a partir de que sea declarada. Transcurrido este plazo sin que la información sea entregada por el promovente, la Secretaría podrá declarar la caducidad del trámite en los términos del artículo [60](../../lfpa/markdown/articulo-60.md) de la Ley Federal de Procedimiento Administrativo.

@@ -26,7 +26,7 @@ I. Los servicios profesionales o de asesoría incluyendo mandatos y comisiones, 
 
 II. Los servicios auxiliares y complementarios que las Sociedades Financieras Populares obtengan de las sociedades en las que invierta al amparo del artículo 36 de la Ley.
 
-Tratándose de Sociedades Financieras Populares tampoco serán aplicables a los servicios que contraten con integrantes del Grupo Financiero al que pertenezcan dichas sociedades de conformidad con el artículo 12 de la Ley para Regular las Agrupaciones Financieras III. La manufactura, envío a domicilio o distribución de tarjetas de débito, crédito o recargables inactivas.
+Tratándose de Sociedades Financieras Populares tampoco serán aplicables a los servicios que contraten con integrantes del Grupo Financiero al que pertenezcan dichas sociedades de conformidad con el artículo [12](../../lraf/markdown/articulo-12.md) de la Ley para Regular las Agrupaciones Financieras III. La manufactura, envío a domicilio o distribución de tarjetas de débito, crédito o recargables inactivas.
 
 IV. El traslado de valores.
 

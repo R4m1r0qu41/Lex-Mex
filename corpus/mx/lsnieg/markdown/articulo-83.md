@@ -17,7 +17,7 @@ source_sha256: bf18e4d51b4f44e741ab550e298f712a350ab08eec94061489aba7745c1aaeab
 
 # Artículo 83
 
-De conformidad con lo dispuesto en el artículo 5 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, para su tratamiento presupuestario el Instituto se sujetará a lo siguiente:
+De conformidad con lo dispuesto en el artículo [5](../../lfprh/markdown/articulo-5.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, para su tratamiento presupuestario el Instituto se sujetará a lo siguiente:
 
 I. Aprobará su proyecto de presupuesto y deberá enviarlo a la Secretaría de Hacienda y Crédito Público para su integración al proyecto de Presupuesto de Egresos de la Federación, observando los criterios generales de política económica y los techos globales de gasto establecidos por el Ejecutivo Federal;
 
@@ -27,7 +27,7 @@ III. Autorizará las adecuaciones a su presupuesto sin requerir la autorización
 
 IV. Realizará sus pagos a través de su tesorería;
 
-V. Determinará los ajustes que correspondan en su presupuesto en caso de disminución de ingresos, observando en lo conducente lo dispuesto en el artículo 21 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y
+V. Determinará los ajustes que correspondan en su presupuesto en caso de disminución de ingresos, observando en lo conducente lo dispuesto en el artículo [21](../../lfprh/markdown/articulo-21.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y
 
 VI. Llevará la contabilidad y elaborará sus informes conforme a lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y deberá enviarlos a la Secretaría de Hacienda y Crédito Público para su integración a los informes trimestrales y a la Cuenta Pública;
 

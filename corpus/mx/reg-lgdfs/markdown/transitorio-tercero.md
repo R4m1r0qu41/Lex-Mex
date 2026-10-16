@@ -15,4 +15,4 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # TERCERO
 
-La Secretaría de Medio Ambiente y Recursos Naturales emitirá las normas, procedimientos y metodologías a que se refiere el artículo 37 de la [Ley](articulo-2.md) General de Desarrollo Forestal Sustentable, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Reglamento y las difundirá a través de su página electrónica.
+La Secretaría de Medio Ambiente y Recursos Naturales emitirá las normas, procedimientos y metodologías a que se refiere el artículo [37](../../lgdfs/markdown/articulo-37.md) de la [Ley](articulo-2.md) General de Desarrollo Forestal Sustentable, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Reglamento y las difundirá a través de su página electrónica.

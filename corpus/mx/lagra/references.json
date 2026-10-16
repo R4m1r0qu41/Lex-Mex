@@ -610,6 +610,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lagra:article:162:reference:193-195:58:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lagra:article:162",
+    "source_span": "58",
+    "start_char": 193,
+    "end_char": 195,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgbn:article:58",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lagra:article:172:reference:226-243:171:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lagra:article:172",
     "source_span": "artículo anterior",

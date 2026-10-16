@@ -25,9 +25,9 @@ III. Coadyuvar en el desarrollo económico integral de los trabajadores y de sus
 
 IV. Instrumentar acciones que permitan obtener a los trabajadores financiamiento para la adquisición de bienes y servicios, en las mejores condiciones de precio, calidad y crédito;
 
-V. Participar en términos de la presente Ley en los programas que establezcan las instituciones de crédito y sociedades financieras de objeto limitado, dirigidos a fomentar el crédito para los trabajadores, así como para los almacenes y tiendas a que se refiere el artículo 103 de la Ley Federal del Trabajo;
+V. Participar en términos de la presente Ley en los programas que establezcan las instituciones de crédito y sociedades financieras de objeto limitado, dirigidos a fomentar el crédito para los trabajadores, así como para los almacenes y tiendas a que se refiere el artículo [103](../../lft/markdown/articulo-103.md) de la Ley Federal del Trabajo;
 
-VI. Brindar apoyo y asesoría en el funcionamiento de las tiendas y almacenes a que se refiere el artículo 103 de la Ley Federal del Trabajo;
+VI. Brindar apoyo y asesoría en el funcionamiento de las tiendas y almacenes a que se refiere el artículo [103](../../lft/markdown/articulo-103.md) de la Ley Federal del Trabajo;
 
 VII. Celebrar los actos o contratos relacionados directa o indirectamente con su objeto;
 

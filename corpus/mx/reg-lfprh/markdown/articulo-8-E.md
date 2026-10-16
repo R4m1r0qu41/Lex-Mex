@@ -17,9 +17,9 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 8-E
 
-Para la constitución de sociedades o asociaciones civiles como entidades, o en el caso de que la participación de alguna dependencia o entidad en las mismas actualice los supuestos para que se considere entidad en términos del artículo 46 de la [Ley](articulo-2.md) Orgánica de la Administración Pública Federal, las dependencias coordinadoras de sector deberán observar lo dispuesto en los artículos [8](articulo-8.md) C y [8](articulo-8.md) D, y en la operación de las mismas deberán sujetarse a la Ley, a este Reglamento y a las demás disposiciones aplicables en materia de gasto público federal.
+Para la constitución de sociedades o asociaciones civiles como entidades, o en el caso de que la participación de alguna dependencia o entidad en las mismas actualice los supuestos para que se considere entidad en términos del artículo [46](../../loapf/markdown/articulo-46.md) de la [Ley](articulo-2.md) Orgánica de la Administración Pública Federal, las dependencias coordinadoras de sector deberán observar lo dispuesto en los artículos [8](articulo-8.md) C y [8](articulo-8.md) D, y en la operación de las mismas deberán sujetarse a la Ley, a este Reglamento y a las demás disposiciones aplicables en materia de gasto público federal.
 
-No se considerarán aportaciones económicas preponderantes a sociedades o asociaciones civiles, en términos del artículo 46 de la Ley Orgánica de la Administración Pública Federal, los subsidios que se otorguen a éstas para apoyar su operación, siempre y cuando se reúnan los siguientes requisitos:
+No se considerarán aportaciones económicas preponderantes a sociedades o asociaciones civiles, en términos del artículo [46](../../loapf/markdown/articulo-46.md) de la Ley Orgánica de la Administración Pública Federal, los subsidios que se otorguen a éstas para apoyar su operación, siempre y cuando se reúnan los siguientes requisitos:
 
 I. Exista la obligación prevista expresamente en un tratado internacional, en una disposición legal o en un ordenamiento emitido por el Titular del Ejecutivo Federal, de otorgar apoyos para la operación de la sociedad o asociación civil correspondiente;
 

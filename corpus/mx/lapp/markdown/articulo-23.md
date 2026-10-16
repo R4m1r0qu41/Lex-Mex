@@ -21,7 +21,7 @@ I. Tratándose de proyectos de asociación público-privada que involucren recur
 
 a) El dictamen de viabilidad a que se refiere el artículo [14](articulo-14.md) de esta [Ley](articulo-12.md);
 
-b) El registro en la cartera de inversión a que se refiere el artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y
+b) El registro en la cartera de inversión a que se refiere el artículo [34](../../lfprh/markdown/articulo-34.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y
 
 c) La autorización de la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación, en términos del artículo [24](articulo-24.md) de esta Ley; II. En el caso de proyectos de asociación público-privada que involucren recursos públicos federales en numerario, distintos a los previstos en el Presupuesto de Egresos de la Federación, deberán contar con los requisitos previstos en los incisos a) y b) de la fracción anterior, y
 

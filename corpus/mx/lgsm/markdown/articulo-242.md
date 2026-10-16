@@ -27,7 +27,7 @@ III.- Vender los bienes de la sociedad;
 
 IV.- Liquidar a cada socio su haber social;
 
-V.- Practicar el balance final de la liquidación, que deberá someterse a la discusión y aprobación de los socios, en la forma que corresponda, según la naturaleza de la sociedad. El balance final, una vez aprobado, se depositará en el Registro Público de Comercio; deberá publicarse en el sistema electrónico establecido por la Secretaría de Economía previsto en el artículo 50 Bis del Código de Comercio; Párrafo reformado DOF 24-01-2018
+V.- Practicar el balance final de la liquidación, que deberá someterse a la discusión y aprobación de los socios, en la forma que corresponda, según la naturaleza de la sociedad. El balance final, una vez aprobado, se depositará en el Registro Público de Comercio; deberá publicarse en el sistema electrónico establecido por la Secretaría de Economía previsto en el artículo [50 Bis](../../ccom/markdown/articulo-50-Bis.md) del Código de Comercio; Párrafo reformado DOF 24-01-2018
 
 VI.- Obtener del Registro Público de Comercio la cancelación de la inscripción del contrato social, una vez concluida la liquidación.
 

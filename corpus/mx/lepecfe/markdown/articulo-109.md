@@ -17,4 +17,4 @@ source_sha256: 6e45ab84a076cbd9cfd5fbd8abbe5f2d88fbd767229f21f5e7327aaf692b22a5
 
 # Artículo 109
 
-La Comisión Federal de Electricidad puede realizar proyectos de infraestructura productiva de largo plazo en términos de los artículos 32 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 18, párrafo tercero, de la Ley Federal de Deuda Pública.
+La Comisión Federal de Electricidad puede realizar proyectos de infraestructura productiva de largo plazo en términos de los artículos [32](../../lfprh/markdown/articulo-32.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 18, párrafo tercero, de la Ley Federal de Deuda Pública.

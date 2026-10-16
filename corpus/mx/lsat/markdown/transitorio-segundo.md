@@ -15,4 +15,4 @@ source_sha256: ba54c4384528c6b47fbb3f641cb57dd089a9f1770306b45776ad1711eaca21d5
 
 # Segundo
 
-A partir de la entrada en vigor de esta Ley, quedan derogados los artículos 33, fracción III, y 70 bis del Código Fiscal de la Federación y 201 de la Ley Aduanera. La Secretaría de Hacienda y Crédito Público establecerá mecanismos para que las percepciones de los trabajadores no sufran menoscabo.
+A partir de la entrada en vigor de esta Ley, quedan derogados los artículos [33](../../cff/markdown/articulo-33.md), fracción III, y [70 bis](../../cff/markdown/articulo-70-Bis.md) del Código Fiscal de la Federación y 201 de la Ley Aduanera. La Secretaría de Hacienda y Crédito Público establecerá mecanismos para que las percepciones de los trabajadores no sufran menoscabo.

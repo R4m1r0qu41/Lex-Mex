@@ -57,11 +57,11 @@ VI. Establecer en las disposiciones técnico-administrativas aplicables los requ
 
 Artículo adicionado DOF 03-05-2023
 
-Artículo [78](articulo-78.md) Quinquiesdecies. La Agencia Federal de Aviación Civil debe vigilar que las personas concesionarias, asignatarias, permisionarias u operadoras del transporte aéreo, identifiquen sus sistemas de tecnología de la información y las comunicaciones, y datos críticos que empleen para los fines de la aviación civil, y en función de una evaluación de riesgos, elaboren y lleven a la práctica las medidas que correspondan para protegerlos de interferencia ilícita.
+Artículo [78 Quinquies](articulo-78-Quinquies.md)decies. La Agencia Federal de Aviación Civil debe vigilar que las personas concesionarias, asignatarias, permisionarias u operadoras del transporte aéreo, identifiquen sus sistemas de tecnología de la información y las comunicaciones, y datos críticos que empleen para los fines de la aviación civil, y en función de una evaluación de riesgos, elaboren y lleven a la práctica las medidas que correspondan para protegerlos de interferencia ilícita.
 
 Artículo adicionado DOF 03-05-2023
 
-Artículo [78](articulo-78.md) Sexiesdecies. Las personas concesionarias, asignatarias, permisionarias u operadoras del transporte aéreo adoptarán medidas, cuando exista información fiable que indique que una aeronave pueda ser objeto de un acto de interferencia ilícita, para protegerla, si todavía está en tierra, y para notificar su llegada lo antes posible a la Agencia Federal de Aviación Civil y a los servicios de tránsito aéreo si la aeronave ya ha salido.
+Artículo [78 Sexies](articulo-78-Sexies.md)decies. Las personas concesionarias, asignatarias, permisionarias u operadoras del transporte aéreo adoptarán medidas, cuando exista información fiable que indique que una aeronave pueda ser objeto de un acto de interferencia ilícita, para protegerla, si todavía está en tierra, y para notificar su llegada lo antes posible a la Agencia Federal de Aviación Civil y a los servicios de tránsito aéreo si la aeronave ya ha salido.
 
 Artículo adicionado DOF 03-05-2023
 

@@ -25,4 +25,4 @@ II. Normas. A las normas oficiales mexicanas;
 
 III. Secretaría. A la Secretaría del Trabajo y Previsión Social;
 
-IV. Trabajadores. A los hombres y mujeres que prestan a una persona física o moral un trabajo personal subordinado, que sus relaciones laborales se encuentren comprendidas en el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+IV. Trabajadores. A los hombres y mujeres que prestan a una persona física o moral un trabajo personal subordinado, que sus relaciones laborales se encuentren comprendidas en el apartado A del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos.

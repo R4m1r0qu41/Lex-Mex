@@ -41,10 +41,10 @@ IX.- De las omisiones en que incurra la Procuraduría Agraria y que deparen perj
 
 X.- De los negocios de jurisdicción voluntaria en materia agraria; y
 
-XI.- De las controversias relativas a los contratos de asociación o aprovechamiento de tierras ejidales, a que se refiere el artículo 45 de la Ley Agraria; Fracción reformada DOF 09-07-1993
+XI.- De las controversias relativas a los contratos de asociación o aprovechamiento de tierras ejidales, a que se refiere el artículo [45](../../lagra/markdown/articulo-45.md) de la Ley Agraria; Fracción reformada DOF 09-07-1993
 
-XII.- De la reversión a que se refiere el artículo 97 de la Ley Agraria; Fracción adicionada DOF 09-07-1993
+XII.- De la reversión a que se refiere el artículo [97](../../lagra/markdown/articulo-97.md) de la Ley Agraria; Fracción adicionada DOF 09-07-1993
 
-XIII.- De la ejecución de los convenios a que se refiere la fracción VI del artículo 185 de la Ley Agraria, así como de la ejecución de laudos arbitrales en materia agraria, previa determinación de que se encuentran apegados a las disposiciones legales aplicables; y Fracción adicionada DOF 09-07-1993
+XIII.- De la ejecución de los convenios a que se refiere la fracción VI del artículo [185](../../lagra/markdown/articulo-185.md) de la Ley Agraria, así como de la ejecución de laudos arbitrales en materia agraria, previa determinación de que se encuentran apegados a las disposiciones legales aplicables; y Fracción adicionada DOF 09-07-1993
 
 XIV.- De los demás asuntos que determinen las leyes. Fracción adicionada DOF 09-07-1993

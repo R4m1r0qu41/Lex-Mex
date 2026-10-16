@@ -31,6 +31,6 @@ Las organizaciones auxiliares del crédito y las casas de cambio, no podrán pag
 
 Los repartos efectuados en contravención a lo dispuesto en el párrafo anterior, deberán ser restituidos a la sociedad. Serán solidariamente responsables a este respecto, los accionistas que los hayan percibido y los administradores y funcionarios que los hayan pagado.
 
-Las organizaciones auxiliares del crédito como excepción a lo dispuesto en el artículo 177 de la Ley General de Sociedades Mercantiles, deberán publicar sus estados financieros en los términos y medios que establezcan las disposiciones de carácter general a que se refiere el párrafo primero de este artículo.
+Las organizaciones auxiliares del crédito como excepción a lo dispuesto en el artículo [177](../../lgsm/markdown/articulo-177.md) de la Ley General de Sociedades Mercantiles, deberán publicar sus estados financieros en los términos y medios que establezcan las disposiciones de carácter general a que se refiere el párrafo primero de este artículo.
 
 Artículo reformado DOF 03-01-1990, 27-12-1991, 04-06-2001, 10-01-2014

@@ -324,7 +324,7 @@ Podrán ser adquiridos por personas físicas y morales.
 
 Los avales sobre títulos de crédito se otorgarán con base en aperturas de crédito que la Sociedad Financiera Popular avalista otorgue al suscriptor de los títulos.
 
-Atento a lo dispuesto en el artículo 15 de la Ley General de Títulos y Operaciones de Crédito, no es necesario que, precisamente en la fecha de suscripción de un pagaré, se indique el nombre del beneficiario. Por lo tanto, las instituciones podrán avalar títulos de crédito sin la mención del beneficiario siempre y cuando, también conforme al precepto citado, se cumpla con dicho requisito con anterioridad a la presentación de los títulos para su pago.
+Atento a lo dispuesto en el artículo [15](../../lgtoc/markdown/articulo-15.md) de la Ley General de Títulos y Operaciones de Crédito, no es necesario que, precisamente en la fecha de suscripción de un pagaré, se indique el nombre del beneficiario. Por lo tanto, las instituciones podrán avalar títulos de crédito sin la mención del beneficiario siempre y cuando, también conforme al precepto citado, se cumpla con dicho requisito con anterioridad a la presentación de los títulos para su pago.
 
 Los acreedores, beneficiarios de los pagarés y los deudores, suscriptores de los títulos, podrán ser puestos en contacto por la institución que otorgue el aval.
 
@@ -406,7 +406,7 @@ Las Sociedades Financieras Populares deberán incluir en los títulos de crédit
 
 g) Autorización.
 
-Las Sociedades Financieras Populares que deseen emitir obligaciones subordinadas deberán presentar su solicitud de autorización a la vicepresidencia encargada de su supervisión de la Comisión, acompañada de los proyectos de acta de emisión y de los títulos que se emitan en términos de lo dispuesto por los artículos 208, 209 y 210 de la Ley General de Títulos y Operaciones de Crédito, indicando asimismo las condiciones bajo las cuales colocarán dichos títulos.
+Las Sociedades Financieras Populares que deseen emitir obligaciones subordinadas deberán presentar su solicitud de autorización a la vicepresidencia encargada de su supervisión de la Comisión, acompañada de los proyectos de acta de emisión y de los títulos que se emitan en términos de lo dispuesto por los artículos [208](../../lgtoc/markdown/articulo-208.md), [209](../../lgtoc/markdown/articulo-209.md) y [210](../../lgtoc/markdown/articulo-210.md) de la Ley General de Títulos y Operaciones de Crédito, indicando asimismo las condiciones bajo las cuales colocarán dichos títulos.
 
 X. Recepción de préstamos o créditos de organismos e instituciones financieras internacionales.
 

@@ -15,4 +15,4 @@ source_sha256: 9ee6e5ef336dee5700726bd3c570d24f91fc458136e298ae2e3806bd12217912
 
 # Tercero
 
-El Consejo de Administración del Instituto presentará a la Asamblea, para su consideración y aprobación en su caso, los dictámenes a que se refiere el Artículo 147 de la Ley Federal del Trabajo.
+El Consejo de Administración del Instituto presentará a la Asamblea, para su consideración y aprobación en su caso, los dictámenes a que se refiere el Artículo [147](../../lft/markdown/articulo-147.md) de la Ley Federal del Trabajo.

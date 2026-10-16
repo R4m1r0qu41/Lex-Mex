@@ -67,6 +67,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loam:article:88:reference:1144-1146:50:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:loam:article:88",
+    "source_span": "50",
+    "start_char": 1144,
+    "end_char": 1146,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ldparm",
+    "target_provision_id": "urn:lex-mx:federal:statute:ldparm:article:50",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones III, IV y V",
+        "start_char": 1108,
+        "end_char": 1130
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:loam:article:93:reference:2000-2002:56:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:loam:article:93",
     "source_span": "56",

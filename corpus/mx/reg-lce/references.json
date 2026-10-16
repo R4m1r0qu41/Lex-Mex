@@ -381,21 +381,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lce:article:38-a:reference:506-508:14:direct",
-    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:38-a",
-    "source_span": "14",
-    "start_char": 506,
-    "end_char": 508,
-    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lce",
-    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:14",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lce:article:4:reference:503-504:2:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:4",
     "source_span": "2",
@@ -672,21 +657,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lce:article:9:reference:30-31:6:direct",
-    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:9",
-    "source_span": "6",
-    "start_char": 30,
-    "end_char": 31,
-    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lce",
-    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:6",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lce:article:95:reference:1303-1320:94:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:95",
     "source_span": "artículo anterior",
@@ -706,5 +676,20 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lce:transitory:quinto:reference:197-200:131:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lce:transitory:quinto",
+    "source_span": "131",
+    "start_char": 197,
+    "end_char": 200,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:131",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   }
 ]

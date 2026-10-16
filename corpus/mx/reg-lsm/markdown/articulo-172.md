@@ -23,7 +23,7 @@ I.- Designar el personal que debe prestar sus servicios en las oficinas de Reclu
 
 II.- Resolver sobre las solicitudes de anticipos, teniendo en consideración el número máximo fijado a este respecto;
 
-III.- Conceder los aplazamientos que se soliciten según lo dispuesto en el artículo 26 de la Ley del Servicio Militar;
+III.- Conceder los aplazamientos que se soliciten según lo dispuesto en el artículo [26](../../lsm/markdown/articulo-26.md) de la Ley del Servicio Militar;
 
 IV.- Fallar en definitiva todos los incidentes que le turnen los Consulados de México en el extranjero, de acuerdo con lo prevenido en el articulo 43 de la Ley del Servicio Militar y los recursos interpuestos contra las resoluciones de las Oficinas de Reclutamiento de Zona;
 

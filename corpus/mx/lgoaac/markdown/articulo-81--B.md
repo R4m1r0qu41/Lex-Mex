@@ -27,7 +27,7 @@ II. Que en sus estatutos sociales se prevea que, en la realización de su objeto
 
 III. Que cuenten con establecimientos físicos destinados exclusivamente a la realización de su objeto social.
 
-IV. Que acompañen a su solicitud la relación e información de las personas que directa o indirectamente pretendan mantener una participación en el capital social del centro cambiario o transmisor de dinero a registrar, la cual deberá contener el monto del capital social que cada una de ellas suscribirá. V. Que, dentro de los tres días hábiles siguientes a que la sociedad de que se trate haya inscrito en el registro señalado en el artículo 128 de la Ley General de Sociedades Mercantiles la transmisión de cualquiera de sus acciones por más del dos por ciento de su capital social pagado, den aviso a la Comisión Nacional Bancaria y de Valores de dicha transmisión.
+IV. Que acompañen a su solicitud la relación e información de las personas que directa o indirectamente pretendan mantener una participación en el capital social del centro cambiario o transmisor de dinero a registrar, la cual deberá contener el monto del capital social que cada una de ellas suscribirá. V. Que, dentro de los tres días hábiles siguientes a que la sociedad de que se trate haya inscrito en el registro señalado en el artículo [128](../../lgsm/markdown/articulo-128.md) de la Ley General de Sociedades Mercantiles la transmisión de cualquiera de sus acciones por más del dos por ciento de su capital social pagado, den aviso a la Comisión Nacional Bancaria y de Valores de dicha transmisión.
 
 VI. Que cuenten con el dictamen técnico favorable a que se refiere el artículo [86 Bis](articulo-86-Bis.md) de la presente Ley.
 

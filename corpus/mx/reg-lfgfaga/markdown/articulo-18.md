@@ -15,6 +15,6 @@ source_sha256: 60e8482fc72c2fa506c23a78da1bbb2e8f2877b30ea083dd6760b93ce343282e
 
 # Artículo 18
 
-Los créditos susceptibles de garantizarse deberán reunir las características señaladas en el artículo 5 de la Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura.
+Los créditos susceptibles de garantizarse deberán reunir las características señaladas en el artículo [5](../../lfgfaga/markdown/articulo-5o.md) de la Ley que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura.
 
 Artículo reformado DOF 10-05-2007

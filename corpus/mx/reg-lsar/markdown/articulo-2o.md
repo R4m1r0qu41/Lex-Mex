@@ -25,9 +25,9 @@ II. Administradora Receptora, aquella que asume la administración de la Cuenta 
 
 III. Administradora Transferente, aquella que deja de administrar la Cuenta Individual objeto de un Traspaso;
 
-IV. Aportaciones al [FOVISSSTE](articulo-2o.md), las enteradas por las dependencias y entidades públicas de conformidad con lo previsto en los artículos 191 fracción II y 194 de la Ley del Instituto de Seguridad y Servicios Sociales de los [Trabajadores](articulo-2o.md) del Estado;
+IV. Aportaciones al [FOVISSSTE](articulo-2o.md), las enteradas por las dependencias y entidades públicas de conformidad con lo previsto en los artículos [191](../../lissste/markdown/articulo-191.md) fracción II y [194](../../lissste/markdown/articulo-194.md) de la Ley del Instituto de Seguridad y Servicios Sociales de los [Trabajadores](articulo-2o.md) del Estado;
 
-V. Aportaciones al [INFONAVIT](articulo-2o.md), las enteradas por los patrones de conformidad con lo previsto en el artículo 29 fracción II de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
+V. Aportaciones al [INFONAVIT](articulo-2o.md), las enteradas por los patrones de conformidad con lo previsto en el artículo [29](../../linfonavit/markdown/articulo-29.md) fracción II de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
 VI. Asignación, al proceso mediante el cual la Comisión designa una [Administradora](articulo-2o.md) a las Cuentas Individuales de aquellos Trabajadores que no se registren en una, tomando en consideración lo previsto en la Ley, el presente Reglamento y las reglas generales que al efecto emita la Comisión;
 
@@ -67,9 +67,9 @@ XXIV. Subcuenta de Ahorro a Largo Plazo, aquélla donde se depositen los recurso
 
 XXV. Subcuenta del Fondo de la Vivienda, aquélla donde se depositen las Aportaciones al FOVISSSTE y los intereses que éstas generen de conformidad con lo previsto en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-XXVI. Subcuenta de RCV IMSS, a la subcuenta del seguro de retiro, cesantía en edad avanzada y vejez a que se refiere el artículo 159 fracción I de la Ley del Seguro Social;
+XXVI. Subcuenta de RCV IMSS, a la subcuenta del seguro de retiro, cesantía en edad avanzada y vejez a que se refiere el artículo [159](../../lss/markdown/articulo-159.md) fracción I de la Ley del Seguro Social;
 
-XXVII. Subcuenta de RCV ISSSTE, a la subcuenta del seguro de retiro, cesantía en edad avanzada y vejez a que se refiere el artículo 76 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+XXVII. Subcuenta de RCV ISSSTE, a la subcuenta del seguro de retiro, cesantía en edad avanzada y vejez a que se refiere el artículo [76](../../lissste/markdown/articulo-76.md) de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
 XXVIII. Subcuenta de Vivienda, aquélla donde se depositen las Aportaciones al INFONAVIT y los intereses que éstas generen de conformidad con lo previsto en la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 

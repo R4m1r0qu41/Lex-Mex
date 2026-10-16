@@ -272,6 +272,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgaas:article:21:reference:134-137:212:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgaas:article:21",
+    "source_span": "212",
+    "start_char": 134,
+    "end_char": 137,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:212",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgaas:article:4:reference:2355-2356:4:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgaas:article:4",
     "source_span": "4",

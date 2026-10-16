@@ -345,5 +345,35 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lie:transitory:tercero:reference:31-33:46:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lie:transitory:tercero",
+    "source_span": "46",
+    "start_char": 31,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:46",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lie:transitory:tercero:reference:36-38:47:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lie:transitory:tercero",
+    "source_span": "47",
+    "start_char": 36,
+    "end_char": 38,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:47",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   }
 ]

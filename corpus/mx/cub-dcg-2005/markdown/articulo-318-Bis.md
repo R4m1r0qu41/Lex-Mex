@@ -23,7 +23,7 @@ correctivas que deriven de la supervisión que realice la Comisión en términos
 
 Tratándose de las operaciones a que se refieren las fracciones IX, X y XI del Artículo [319](articulo-319.md) de las presentes (301)
 
-disposiciones, la Comisión, de conformidad con lo previsto por las “Disposiciones de carácter general a que se refiere el artículo 115 de la Ley de Instituciones de Crédito” emitidas por la Secretaría, o las que las sustituyan, podrá en cualquier momento, efectuar requerimientos de información, así como verificar con la Institución que los comisionistas que contrate cuenten con la información necesaria a fin de dar cumplimiento a lo previsto en dicho ordenamiento.
+disposiciones, la Comisión, de conformidad con lo previsto por las “Disposiciones de carácter general a que se refiere el artículo [115](../../lic/markdown/articulo-115.md) de la Ley de Instituciones de Crédito” emitidas por la Secretaría, o las que las sustituyan, podrá en cualquier momento, efectuar requerimientos de información, así como verificar con la Institución que los comisionistas que contrate cuenten con la información necesaria a fin de dar cumplimiento a lo previsto en dicho ordenamiento.
 
 Adicionalmente, en caso de operaciones celebradas con instituciones de banca múltiple comitentes, (301)
 

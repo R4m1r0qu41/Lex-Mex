@@ -21,7 +21,7 @@ Las personas titulares de las dependencias y los órganos de gobierno de las ent
 
 I. Revisar el programa y el presupuesto de obras públicas y servicios relacionados con las mismas, así como sus modificaciones, y formular las observaciones y recomendaciones convenientes;
 
-II. En su caso, autorizar los supuestos no previstos en las políticas, bases y lineamientos en materia de obras públicas y servicios relacionados con las mismas que emita la [Secretaría](articulo-2.md), de conformidad con lo previsto en el artículo [1](articulo-1.md) Quinquies de la presente Ley; Fracción reformada DOF 16-04-2025
+II. En su caso, autorizar los supuestos no previstos en las políticas, bases y lineamientos en materia de obras públicas y servicios relacionados con las mismas que emita la [Secretaría](articulo-2.md), de conformidad con lo previsto en el artículo [1 Quinquies](articulo-1-Quinquies.md) de la presente Ley; Fracción reformada DOF 16-04-2025
 
 III. Dictaminar, previo al inicio del procedimiento, sobre la procedencia de no celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en el artículo [42](articulo-42.md) de esta Ley. Esta atribución podrá ejercerse directamente por la persona titular de la dependencia o entidad, o por aquella a quien se delegue dicha función. En ningún caso la delegación podrá recaer en persona servidora pública con nivel inferior al de director general en las dependencias o su equivalente en las entidades; Fracción reformada DOF 16-04-2025
 

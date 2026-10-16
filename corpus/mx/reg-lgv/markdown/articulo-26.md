@@ -17,4 +17,4 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 26
 
-La Comisión Ejecutiva tiene su domicilio en la Ciudad de México, sin perjuicio de que establezca delegaciones en las entidades federativas, de conformidad con lo dispuesto en el artículo 17 Bis de la Ley Orgánica de la Administración Pública Federal.
+La Comisión Ejecutiva tiene su domicilio en la Ciudad de México, sin perjuicio de que establezca delegaciones en las entidades federativas, de conformidad con lo dispuesto en el artículo [17 Bis](../../loapf/markdown/articulo-17-Bis.md) de la Ley Orgánica de la Administración Pública Federal.

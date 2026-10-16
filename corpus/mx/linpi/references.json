@@ -1,6 +1,51 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linpi:article:15:reference:77-79:58:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:linpi:article:15",
+    "source_span": "58",
+    "start_char": 77,
+    "end_char": 79,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfep",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfep:article:58",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linpi:article:16:reference:236-238:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:linpi:article:16",
+    "source_span": "21",
+    "start_char": 236,
+    "end_char": 238,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfep",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfep:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linpi:article:17:reference:115-117:59:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:linpi:article:17",
+    "source_span": "59",
+    "start_char": 115,
+    "end_char": 117,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfep",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfep:article:59",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:linpi:article:18:reference:221-222:2:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:linpi:article:18",
     "source_span": "2",
@@ -9,6 +54,28 @@
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:2",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linpi:article:25:reference:158-160:37:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:linpi:article:25",
+    "source_span": "37",
+    "start_char": 158,
+    "end_char": 160,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:37",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XII",
+        "start_char": 162,
+        "end_char": 174
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

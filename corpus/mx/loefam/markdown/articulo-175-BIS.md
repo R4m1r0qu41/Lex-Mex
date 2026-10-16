@@ -17,7 +17,7 @@ source_sha256: 6edcf3cbe4e1e01dd12e691d672534d0d2e22028f7bf81c46ecf9e6f4c9148c7
 
 # Artículo 175 BIS
 
-La licencia por edad límite es la que se concede a los militares con veinte, o más años de servicios efectivos que estén próximos a ser colocados en situación de retiro, por edad límite dispuesta en el artículo 25 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, conforme a la tabla siguiente:
+La licencia por edad límite es la que se concede a los militares con veinte, o más años de servicios efectivos que estén próximos a ser colocados en situación de retiro, por edad límite dispuesta en el artículo [25](../../lissfam/markdown/articulo-25.md) de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, conforme a la tabla siguiente:
 
 Años de Servicio
 

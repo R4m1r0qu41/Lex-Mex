@@ -1,6 +1,36 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loinah:article:2:reference:620-621:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:loinah:article:2",
+    "source_span": "3",
+    "start_char": 620,
+    "end_char": 621,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfmzaah",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfmzaah:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loinah:article:2:reference:981-982:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:loinah:article:2",
+    "source_span": "7",
+    "start_char": 981,
+    "end_char": 982,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfmzaah",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfmzaah:article:7",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:loinah:transitory:unico:reference:269-271:89:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:loinah:transitory:unico",
     "source_span": "89",

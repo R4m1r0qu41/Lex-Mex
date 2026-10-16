@@ -17,7 +17,7 @@ source_sha256: 1f33240cef59d86e064987331b3448af4f030f168813be571117bd3e09f20291
 
 # Artículo 7
 
-Las funciones de administración de aspectos financieros y cálculo de las contraprestaciones de los contratos a que se refiere el párrafo séptimo del artículo [27](../../cpeum/markdown/articulo-27.md) de la Constitución Política de los Estados Unidos Mexicanos, que correspondan al [Fondo Mexicano del Petróleo](articulo-2.md) en los términos de los artículos 35 y 37, apartado A, fracción IV, de la Ley de Ingresos sobre Hidrocarburos, se llevarán a cabo a través del [Comité](articulo-2.md) quien, para ello, encomendará a un Coordinador Ejecutivo y demás personal a su cargo que éste designe, la ejecución de los actos relacionados con dichas funciones.
+Las funciones de administración de aspectos financieros y cálculo de las contraprestaciones de los contratos a que se refiere el párrafo séptimo del artículo [27](../../cpeum/markdown/articulo-27.md) de la Constitución Política de los Estados Unidos Mexicanos, que correspondan al [Fondo Mexicano del Petróleo](articulo-2.md) en los términos de los artículos [35](../../lih/markdown/articulo-35.md) y [37](../../lih/markdown/articulo-37.md), apartado A, fracción IV, de la Ley de Ingresos sobre Hidrocarburos, se llevarán a cabo a través del [Comité](articulo-2.md) quien, para ello, encomendará a un Coordinador Ejecutivo y demás personal a su cargo que éste designe, la ejecución de los actos relacionados con dichas funciones.
 
 Para efectos de lo dispuesto en el párrafo anterior, el Coordinador Ejecutivo tendrá las atribuciones siguientes:
 

@@ -17,4 +17,4 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 99
 
-Los planes de pensiones establecidos por patrones o derivados de contratación colectiva, o por dependencias o entidades a que se refieren los artículos 190 de la [Ley](articulo-2o.md) del Seguro Social y 54 de la Ley del Instituto de Seguridad y Servicios Sociales de los [Trabajadores](articulo-2o.md) del Estado, que se soliciten sean registrados por los patrones, se presentarán ante la Comisión en los términos que ésta determine mediante disposiciones de carácter general.
+Los planes de pensiones establecidos por patrones o derivados de contratación colectiva, o por dependencias o entidades a que se refieren los artículos [190](../../lss/markdown/articulo-190.md) de la [Ley](articulo-2o.md) del Seguro Social y 54 de la Ley del Instituto de Seguridad y Servicios Sociales de los [Trabajadores](articulo-2o.md) del Estado, que se soliciten sean registrados por los patrones, se presentarán ante la Comisión en los términos que ésta determine mediante disposiciones de carácter general.

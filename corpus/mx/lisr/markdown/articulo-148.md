@@ -53,7 +53,7 @@ El límite que establece esta fracción no incluye los gastos relacionados con l
 
 XIII. Los pagos por servicios aduaneros, distintos de los honorarios de agentes aduanales y de los gastos en que incurran dichos agentes o la persona moral constituida por dichos agentes aduanales en los términos de la Ley Aduanera.
 
-XIV. Los pagos de cantidades iniciales por el derecho de adquirir o vender, bienes, divisas, acciones u otros títulos valor que no coticen en mercados reconocidos, de acuerdo con lo establecido por el artículo 16-C del Código Fiscal de la Federación, y que no se hubiera ejercido, siempre que se trate de partes contratantes que sean relacionadas en los términos del artículo [179](articulo-179.md) de esta Ley.
+XIV. Los pagos de cantidades iniciales por el derecho de adquirir o vender, bienes, divisas, acciones u otros títulos valor que no coticen en mercados reconocidos, de acuerdo con lo establecido por el artículo [16-C](../../cff/markdown/articulo-16-C.md) del Código Fiscal de la Federación, y que no se hubiera ejercido, siempre que se trate de partes contratantes que sean relacionadas en los términos del artículo [179](articulo-179.md) de esta Ley.
 
 XV. La restitución efectuada por el prestatario por un monto equivalente a los derechos patrimoniales de los títulos recibidos en préstamo.
 

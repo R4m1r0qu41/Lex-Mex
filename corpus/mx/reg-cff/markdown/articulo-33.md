@@ -85,4 +85,4 @@ a) La adquisición de bienes, de servicios y el uso o goce temporal de bienes, q
 
 b) La adquisición de bienes, de servicios y el uso o goce temporal de bienes, que se utilicen exclusivamente para realizar sus actividades por las que no deban pagar el impuesto, y c) La adquisición de bienes, de servicios y el uso o goce temporal de bienes, que se utilicen indistintamente para realizar tanto actividades por las que se deba pagar el impuesto, como aquéllas por las que no se está obligado al pago del mismo.
 
-Cuando el destino de los bienes o servicios varíe y se deba efectuar el ajuste del acreditamiento previsto en el artículo 5o.-A de la Ley del Impuesto al Valor Agregado, se deberá registrar su efecto en la contabilidad.
+Cuando el destino de los bienes o servicios varíe y se deba efectuar el ajuste del acreditamiento previsto en el artículo [5](../../liva/markdown/articulo-5o.md)o.-A de la Ley del Impuesto al Valor Agregado, se deberá registrar su efecto en la contabilidad.

@@ -43,11 +43,11 @@ f) Que se microfilmen o graben en discos ópticos o en cualquier otro medio que 
 
 g) Divulgar, hacer uso personal o indebido de la información confidencial proporcionada por terceros independientes que afecte su posición competitiva, a que se refieren los artículos [46](articulo-46.md), fracción IV y [48](articulo-48.md), fracción VII de este Código.
 
-h) Realizar la deducción o acreditamiento, en contravención a lo señalado en los artículos 28, fracción XXXIII de la Ley del Impuesto sobre la Renta o 4o., tercer párrafo de la Ley del Impuesto al Valor Agregado. III. Se considera también agravante, la omisión en el entero de contribuciones que se hayan retenido o recaudado de los contribuyentes.
+h) Realizar la deducción o acreditamiento, en contravención a lo señalado en los artículos [28](../../lisr/markdown/articulo-28.md), fracción XXXIII de la Ley del Impuesto sobre la Renta o 4o., tercer párrafo de la Ley del Impuesto al Valor Agregado. III. Se considera también agravante, la omisión en el entero de contribuciones que se hayan retenido o recaudado de los contribuyentes.
 
 IV. Igualmente es agravante, el que la comisión de la infracción sea en forma continuada.
 
-V. Asimismo, se considera agravante que los contribuyentes no den cumplimiento a lo dispuesto por los artículos 76, fracciones IX y XII, 76-A, 90, penúltimo párrafo, 110, fracción XI, 179, 180, 181 y 182 de la Ley del Impuesto sobre la Renta.
+V. Asimismo, se considera agravante que los contribuyentes no den cumplimiento a lo dispuesto por los artículos [76](../../lisr/markdown/articulo-76.md), fracciones IX y XII, [76-A](../../lisr/markdown/articulo-76-A.md), [90](../../lisr/markdown/articulo-90.md), penúltimo párrafo, 110, fracción XI, 179, 180, 181 y 182 de la Ley del Impuesto sobre la Renta.
 
 VI. Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales de carácter formal a las que correspondan varias multas, sólo se aplicará la que corresponda a la infracción cuya multa sea mayor.
 

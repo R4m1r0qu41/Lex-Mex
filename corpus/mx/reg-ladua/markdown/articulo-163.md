@@ -23,7 +23,7 @@ I. Los datos relativos al Pedimento o a la forma oficial utilizada para la impor
 
 II. Los números de serie, parte, marca, modelo o, en su defecto, las especificaciones técnicas o comerciales necesarias para identificar las Mercancías y distinguirlas de otras similares, cuando se trate de Mercancías susceptibles de ser identificadas individualmente y dichos datos existan.
 
-A la solicitud a que se refiere el presente artículo, se deberá anexar una carta del Residente en Territorio Nacional que tenga bajo su custodia las Mercancías, en la que de conformidad con lo establecido en el artículo 26, fracción VIII del Código Fiscal de la Federación, asuma la responsabilidad solidaria de los créditos que lleguen a derivarse, en caso de que éstas no sean retornadas al extranjero, destruidas o importadas en forma definitiva.
+A la solicitud a que se refiere el presente artículo, se deberá anexar una carta del Residente en Territorio Nacional que tenga bajo su custodia las Mercancías, en la que de conformidad con lo establecido en el artículo [26](../../cff/markdown/articulo-26.md), fracción VIII del Código Fiscal de la Federación, asuma la responsabilidad solidaria de los créditos que lleguen a derivarse, en caso de que éstas no sean retornadas al extranjero, destruidas o importadas en forma definitiva.
 
 Las Mercancías destinadas al mantenimiento y reparación de los bienes importados temporalmente a que se refiere este artículo, no deberán cumplir con la obligación de retorno. Aquellos equipos que por su naturaleza sean incorporados a dichos bienes, deberán retornar con los mismos.
 

@@ -8,7 +8,20 @@
     "end_char": 1635492,
     "target_instrument_id": "urn:lex-mx:federal:statute:ligie",
     "target_provision_id": "urn:lex-mx:federal:statute:ligie:article:2",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 1635495,
+        "end_char": 1635506
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso d",
+        "start_char": 1635533,
+        "end_char": 1635541
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -24,6 +37,84 @@
     "target_instrument_id": "urn:lex-mx:federal:statute:ligie",
     "target_provision_id": "urn:lex-mx:federal:statute:ligie:article:1",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ligie:article:2:reference:9395-9396:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:ligie:article:2",
+    "source_span": "4",
+    "start_char": 9395,
+    "end_char": 9396,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lce",
+    "target_provision_id": "urn:lex-mx:federal:statute:lce:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 9400,
+        "end_char": 9410
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 9418,
+        "end_char": 9429
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ligie:article:2:reference:9526-9527:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:ligie:article:2",
+    "source_span": "4",
+    "start_char": 9526,
+    "end_char": 9527,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lce",
+    "target_provision_id": "urn:lex-mx:federal:statute:lce:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 9531,
+        "end_char": 9541
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 9549,
+        "end_char": 9561
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ligie:transitory:septimo:reference:536-538:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:ligie:transitory:septimo",
+    "source_span": "89",
+    "start_char": 536,
+    "end_char": 538,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 512,
+        "end_char": 522
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

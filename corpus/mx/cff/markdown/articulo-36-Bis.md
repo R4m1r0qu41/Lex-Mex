@@ -21,4 +21,4 @@ Las resoluciones administrativas de carácter individual o dirigidas a agrupacio
 
 Al concluir el ejercicio para el que se hubiere emitido una resolución de las que señala el párrafo anterior, los interesados podrán someter las circunstancias del caso a la autoridad fiscal competente para que dicte la resolución que proceda.
 
-Este precepto no será aplicable a las autorizaciones relativas a prórrogas para el pago en parcialidades, aceptación de garantías del interés fiscal, las que obliga la ley para la deducción en inversiones en activo fijo, y a las que se refiere el artículo 59 de la Ley del Impuesto sobre la Renta.
+Este precepto no será aplicable a las autorizaciones relativas a prórrogas para el pago en parcialidades, aceptación de garantías del interés fiscal, las que obliga la ley para la deducción en inversiones en activo fijo, y a las que se refiere el artículo [59](../../lisr/markdown/articulo-59.md) de la Ley del Impuesto sobre la Renta.

@@ -108,7 +108,7 @@ XXXII. Plataforma, a las aplicaciones informáticas, interfaces, páginas de Int
 
 XXXIII. Plazo de Solicitud de Financiamiento Colectivo, al período en que una solicitud de financiamiento colectivo puede mantenerse publicada en la Plataforma de una institución de financiamiento colectivo con el fin de ofrecer a los Inversionistas la celebración de una Operación con los Solicitantes.
 
-XXXIV. Reporte de Información Crediticia, a cualquiera de los reportes de crédito emitidos por sociedades de información crediticia a que se refiere el artículo 36 Bis de la Ley para Regular las Sociedades de Información Crediticia, a saber:
+XXXIV. Reporte de Información Crediticia, a cualquiera de los reportes de crédito emitidos por sociedades de información crediticia a que se refiere el artículo [36 Bis](../../lrsic/markdown/articulo-36-Bis.md) de la Ley para Regular las Sociedades de Información Crediticia, a saber:
 
 a) El emitido por una sociedad de información crediticia en el que se incluya la información contenida en las bases de datos de las demás sociedades de información crediticia.
 

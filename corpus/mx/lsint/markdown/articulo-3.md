@@ -17,4 +17,4 @@ source_sha256: d8a1702852a76f1b20742643526f32f3363e02d75f74aaa1633a608566b9dc89
 
 # Artículo 3
 
-En el ejercicio de las atribuciones de [Seguridad Interior](articulo-4.md) se observarán los principios previstos en el artículo 4 de la Ley de [Seguridad Nacional](articulo-4.md) y los de racionalidad, oportunidad, proporcionalidad, temporalidad, subsidiariedad y gradualidad, así como las obligaciones relativas al uso legítimo de la fuerza.
+En el ejercicio de las atribuciones de [Seguridad Interior](articulo-4.md) se observarán los principios previstos en el artículo [4](../../lsn/markdown/articulo-4.md) de la Ley de [Seguridad Nacional](articulo-4.md) y los de racionalidad, oportunidad, proporcionalidad, temporalidad, subsidiariedad y gradualidad, así como las obligaciones relativas al uso legítimo de la fuerza.

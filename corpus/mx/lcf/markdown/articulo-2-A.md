@@ -45,7 +45,7 @@ IPDAiT-1 = Recaudación local de predial y de los derechos de agua en el municip
 
 IPDAiT-2 = Recaudación local del predial y de los derechos de agua en el municipio i en el segundo año inmediato anterior para el cual se efectúa el cálculo. Fracción reformada DOF 31-12-1986, 29-12-1993
 
-II.- La transferencia del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo que, en términos del artículo 92 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se realice a los municipios colindantes con la frontera o litorales por los que se realice materialmente la salida del país de los hidrocarburos. La Comisión Nacional de Hidrocarburos informará mensualmente a la Secretaría de Hacienda y Crédito Público los montos y municipios a que se refiere el párrafo anterior. Fe de erratas a la fracción DOF 15-04-1982. Reformada DOF 30-12-1983, 31-12-1986, 03-12-1993, 29-12-1993, 11-08-2014
+II.- La transferencia del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo que, en términos del artículo [92](../../lfprh/markdown/articulo-92.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se realice a los municipios colindantes con la frontera o litorales por los que se realice materialmente la salida del país de los hidrocarburos. La Comisión Nacional de Hidrocarburos informará mensualmente a la Secretaría de Hacienda y Crédito Público los montos y municipios a que se refiere el párrafo anterior. Fe de erratas a la fracción DOF 15-04-1982. Reformada DOF 30-12-1983, 31-12-1986, 03-12-1993, 29-12-1993, 11-08-2014
 
 III.- 1% de la recaudación federal participable, en la siguiente forma:
 

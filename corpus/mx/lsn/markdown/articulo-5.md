@@ -25,7 +25,7 @@ II. Actos de interferencia extranjera en los asuntos nacionales que puedan impli
 
 III. Actos que impidan a las autoridades actuar contra la delincuencia organizada;
 
-IV. Actos tendentes a quebrantar la unidad de las partes integrantes de la Federación, señaladas en el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;
+IV. Actos tendentes a quebrantar la unidad de las partes integrantes de la Federación, señaladas en el artículo [43](../../cpeum/markdown/articulo-43.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 V. Actos tendentes a obstaculizar o bloquear operaciones militares o navales contra la delincuencia organizada;
 
@@ -43,4 +43,4 @@ XI. Actos tendentes a obstaculizar o bloquear actividades de inteligencia o cont
 
 XII. Actos tendentes a destruir o inhabilitar la infraestructura de carácter estratégico o indispensable para la provisión de bienes o servicios públicos, y Fracción reformada DOF 08-11-2019
 
-XIII. [Actos ilícitos en contra del fisco federal a los que hace referencia el artículo 167 del Código Nacional de Procedimientos Penales.] Fracción adicionada DOF 08-11-2019 Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025
+XIII. [Actos ilícitos en contra del fisco federal a los que hace referencia el artículo [167](../../cnpp/markdown/articulo-167.md) del Código Nacional de Procedimientos Penales.] Fracción adicionada DOF 08-11-2019 Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025

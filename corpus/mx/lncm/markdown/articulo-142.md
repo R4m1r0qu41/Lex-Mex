@@ -37,6 +37,6 @@ b. 400 derechos especiales de giro por la pérdida o los daños causados al equi
 
 d. 600 derechos especiales de giro por la pérdida o daños causados por equipajes que no sean los mencionados en los incisos anteriores.
 
-El derecho a percibir las indemnizaciones establecidas en este artículo, así como la fijación del monto, se sujetarán en lo no dispuesto por esta Ley, al Código Civil Federal. Para la prelación en el pago de las mismas, se estará a lo dispuesto por el artículo 501 de la Ley Federal del Trabajo.
+El derecho a percibir las indemnizaciones establecidas en este artículo, así como la fijación del monto, se sujetarán en lo no dispuesto por esta Ley, al Código Civil Federal. Para la prelación en el pago de las mismas, se estará a lo dispuesto por el artículo [501](../../lft/markdown/articulo-501.md) de la Ley Federal del Trabajo.
 
 El transportista estará impedido de beneficiarse de la limitación de responsabilidad determinada en este artículo si se demuestra que la muerte, lesiones o daños se deben a una acción u omisión de éste que haya tenido lugar, ya con una intención de provocar dichas situaciones; o bien, temerariamente y a sabiendas de que probablemente se producirían.

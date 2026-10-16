@@ -25,4 +25,4 @@ II. Se expidan en favor de persona no capacitada por la presente Ley para obtene
 
 III. Derogada. Fracción derogada DOF 08-05-2023
 
-IV. Se identifique, por parte de la Secretaría, alguna omisión o irregularidad de cualquiera de los elementos de validez del acto administrativo establecidos en las fracciones I a X del artículo 3 de la Ley Federal de Procedimiento Administrativo; Fracción adicionada DOF 08-05-2023 Reforma DOF 08-05-2023: Derogó del artículo el entonces párrafo segundo
+IV. Se identifique, por parte de la Secretaría, alguna omisión o irregularidad de cualquiera de los elementos de validez del acto administrativo establecidos en las fracciones I a X del artículo [3](../../lfpa/markdown/articulo-3.md) de la Ley Federal de Procedimiento Administrativo; Fracción adicionada DOF 08-05-2023 Reforma DOF 08-05-2023: Derogó del artículo el entonces párrafo segundo

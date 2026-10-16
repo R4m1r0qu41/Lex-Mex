@@ -41,7 +41,7 @@ d) Instalar y mantener en funcionamiento permanente un sistema de circuito cerra
 
 e) Transmitir al sistema electrónico a cargo de la autoridad aduanera, dentro de los diez días naturales al mes siguiente, la información relativa a la venta de las mercancías realizadas en el mes inmediato anterior, en los términos que se establezcan mediante reglas, especificando cantidades, descripción y código del producto, fracción arancelaria, número de identificación comercial y valor de la venta de la mercancía. Inciso reformado DOF 01-07-2020
 
-f) Presentar ante la Administración General de Aduanas la documentación comprobatoria que acredite el pago del aprovechamiento del 5% de sus ingresos brutos obtenido por la venta de mercancías efectuadas mensualmente y la que acredite que se ha efectuado el pago del derecho por el otorgamiento de la autorización del establecimiento respectivo, conforme al Artículo 40, inciso k) de la Ley Federal de Derechos.
+f) Presentar ante la Administración General de Aduanas la documentación comprobatoria que acredite el pago del aprovechamiento del 5% de sus ingresos brutos obtenido por la venta de mercancías efectuadas mensualmente y la que acredite que se ha efectuado el pago del derecho por el otorgamiento de la autorización del establecimiento respectivo, conforme al Artículo [40](../../lfd/markdown/articulo-40.md), inciso k) de la Ley Federal de Derechos.
 
 g) Cumplir con los mecanismos de control de ventas y entrega de mercancías que se establezcan mediante reglas.
 

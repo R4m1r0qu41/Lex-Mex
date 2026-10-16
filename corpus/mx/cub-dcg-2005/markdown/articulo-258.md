@@ -27,7 +27,7 @@ El Sistema de Recepción y Asignación deberá identificar con toda claridad lo 
 
 (264) IV. Fecha y hora de la transmisión de Órdenes a las casas de bolsa.
 
-(264) V. Bolsa a la que la casa de bolsa de que se trate, transmitió la Orden, incluyendo a las bolsas de valores extranjeras con las cuales las Bolsas hayan celebrado un acuerdo en términos del artículo 244, fracción X de la Ley del Mercado de Valores.
+(264) V. Bolsa a la que la casa de bolsa de que se trate, transmitió la Orden, incluyendo a las bolsas de valores extranjeras con las cuales las Bolsas hayan celebrado un acuerdo en términos del artículo [244](../../lmv/markdown/articulo-244.md), fracción X de la Ley del Mercado de Valores.
 
 (264) VI. Hora y folio del hecho en la Bolsa en la que se ejecutó la Orden.
 

@@ -17,7 +17,7 @@ source_sha256: 5c89d48167a4e1170c69e0b1e0294260b806a30d861275d8dca09b0334cd09d4
 
 # Artículo 27-A
 
-El Ejecutivo Federal y los gobiernos de las entidades federativas, conforme a lo dispuesto en el artículo 25 de la Ley General de Educación, concurrirán en el financiamiento del gasto en servicios personales para la educación pública, conforme a lo siguiente: I. El Ejecutivo Federal proveerá los recursos necesarios para cubrir los pagos de servicios personales a que se refieren los artículos [26](articulo-26.md), [26-A](articulo-26-A.md) y [43](articulo-43.md) de esta Ley;
+El Ejecutivo Federal y los gobiernos de las entidades federativas, conforme a lo dispuesto en el artículo [25](../../lge/markdown/articulo-25.md) de la Ley General de Educación, concurrirán en el financiamiento del gasto en servicios personales para la educación pública, conforme a lo siguiente: I. El Ejecutivo Federal proveerá los recursos necesarios para cubrir los pagos de servicios personales a que se refieren los artículos [26](articulo-26.md), [26-A](articulo-26-A.md) y [43](articulo-43.md) de esta Ley;
 
 II. Los gobiernos de las entidades federativas cubrirán, con cargo a sus propios ingresos, las erogaciones en materia de servicios personales de las plazas distintas a las señaladas en la fracción anterior, incluyendo el incremento salarial y de prestaciones correspondiente a dichas plazas;
 

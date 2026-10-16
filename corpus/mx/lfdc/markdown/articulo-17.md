@@ -17,7 +17,7 @@ source_sha256: 70f871ee9f8791063f9da9df9eab93b68efc1f2878f8024299bb5cd93b238658
 
 # Artículo 17
 
-Los contribuyentes que corrijan su situación fiscal, pagarán una multa equivalente al 20% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios después de que se inicie el ejercicio de las facultades de comprobación de las autoridades fiscales y hasta antes de que se le notifique el acta final de la visita domiciliaria o el oficio de observaciones a que se refiere la fracción VI del artículo 48 del Código Fiscal de la Federación, según sea el caso.
+Los contribuyentes que corrijan su situación fiscal, pagarán una multa equivalente al 20% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios después de que se inicie el ejercicio de las facultades de comprobación de las autoridades fiscales y hasta antes de que se le notifique el acta final de la visita domiciliaria o el oficio de observaciones a que se refiere la fracción VI del artículo [48](../../cff/markdown/articulo-48.md) del Código Fiscal de la Federación, según sea el caso.
 
 Si el infractor paga las contribuciones omitidas junto con sus accesorios, después de que se notifique el acta final de la visita domiciliaria o el oficio de observaciones, según sea el caso, pero antes de la notificación de la resolución que determine el monto de las contribuciones omitidas, pagará una multa equivalente al 30% de las contribuciones omitidas.
 

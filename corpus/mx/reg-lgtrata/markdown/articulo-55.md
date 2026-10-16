@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 55
 
-Los bienes muebles o inmuebles o comercios destinados al hospedaje, alimentación o recreación que se vinculen con los delitos previstos en la Ley, serán asegurados de conformidad con la normativa aplicable y, en su caso, el Ministerio Público Federal realizará las acciones conducentes para iniciar el procedimiento de extinción de dominio, en términos de la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.
+Los bienes muebles o inmuebles o comercios destinados al hospedaje, alimentación o recreación que se vinculen con los delitos previstos en la Ley, serán asegurados de conformidad con la normativa aplicable y, en su caso, el Ministerio Público Federal realizará las acciones conducentes para iniciar el procedimiento de extinción de dominio, en términos de la Ley Federal de Extinción de Dominio, Reglamentaria del artículo [22](../../cpeum/markdown/articulo-22.md) de la Constitución Política de los Estados Unidos Mexicanos.

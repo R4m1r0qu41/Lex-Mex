@@ -17,7 +17,7 @@ source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 
 # Artículo 10
 
-El Ministerio Público determinará el no ejercicio de la acción penal, en los casos previstos en el artículo 3, fracción XVI, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal, y en los siguientes:
+El Ministerio Público determinará el no ejercicio de la acción penal, en los casos previstos en el artículo [3](../../lopgjdf/markdown/articulo-3.md), fracción XVI, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal, y en los siguientes:
 
 I. Cuando se acredite plenamente alguna causa de exclusión del delito;
 

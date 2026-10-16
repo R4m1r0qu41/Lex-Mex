@@ -23,7 +23,7 @@ I. Efectuar auditorías, revisiones, reconocimientos de existencias y otros acto
 
 III. Solicitar y requerir la información y documentación que estime necesaria a los servidores públicos, a los [Auxiliares](articulo-2.md), a los particulares y demás sujetos relacionados con la recaudación, manejo, ejercicio, administración, inversión, pago, reintegro o custodia de recursos y valores de la propiedad o al cuidado del Gobierno Federal o, en general, con las Funciones de tesorería.
 
-El titular de la Tesorería queda facultado, en términos del artículo 142, párrafo tercero, fracción VI de la Ley de Instituciones de Crédito, para solicitar a las instituciones de crédito por conducto de la Comisión Nacional Bancaria y de Valores, los estados de cuenta y cualquiera otra información relativa a las cuentas personales de los servidores públicos, Auxiliares y, en su caso, particulares relacionados con la investigación de que se trate;
+El titular de la Tesorería queda facultado, en términos del artículo [142](../../lic/markdown/articulo-142.md), párrafo tercero, fracción VI de la Ley de Instituciones de Crédito, para solicitar a las instituciones de crédito por conducto de la Comisión Nacional Bancaria y de Valores, los estados de cuenta y cualquiera otra información relativa a las cuentas personales de los servidores públicos, Auxiliares y, en su caso, particulares relacionados con la investigación de que se trate;
 
 IV. Establecer en las observaciones que formule, las acciones correctivas a efecto de subsanar las irregularidades detectadas en los actos de vigilancia y, en su caso, el plazo que corresponda conforme al Reglamento para concentrar o enterar a la Tesorería las cantidades que procedan;
 

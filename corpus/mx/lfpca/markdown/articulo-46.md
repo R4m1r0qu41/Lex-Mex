@@ -25,6 +25,6 @@ II. Tratándose de actos de comprobación de las autoridades administrativas, se
 
 III. El valor de las pruebas pericial y testimonial, así como el de las demás pruebas, quedará a la prudente apreciación de la Sala.
 
-Cuando se trate de documentos digitales con firma electrónica distinta a una firma electrónica avanzada o sello digital, para su valoración se estará a lo dispuesto por los artículos 348, 349 y 350 del Código Nacional de Procedimientos Civiles y Familiares. Párrafo reformado DOF 14-11-2025
+Cuando se trate de documentos digitales con firma electrónica distinta a una firma electrónica avanzada o sello digital, para su valoración se estará a lo dispuesto por los artículos [348](../../cnpcf/markdown/articulo-348.md), [349](../../cnpcf/markdown/articulo-349.md) y [350](../../cnpcf/markdown/articulo-350.md) del Código Nacional de Procedimientos Civiles y Familiares. Párrafo reformado DOF 14-11-2025
 
 Cuando por el enlace de las pruebas rendidas y de las presunciones formadas, la Sala adquiera convicción distinta acerca de los hechos materia del litigio, podrá valorar las pruebas sin sujetarse a lo dispuesto en las fracciones anteriores, debiendo fundar razonadamente esta parte de su sentencia.

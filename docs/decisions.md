@@ -1,5 +1,13 @@
 # Architecture decisions
 
+## 2026-10-16 — Official titles participate in corpus-wide closure
+
+The curated alias table remains the only source of accent-stripped and colloquial citation names. Each committed instrument's exact official title is also a cross-instrument marker when the title contains a space and no other committed instrument uses it. `Ley de Amnistía` is shared by `lamn` and `lamni`, so that title stays unlinked. A curated alias and an official title that assign one marker to different instruments is an error. Adapter-scoped historical markers still override the global marker.
+
+`link --all` reloads the committed corpus once, relinks every instrument, and writes a new reference graph, term graph, validation report, and Markdown only when that graph validates. Instruments that would fail validation stay as they were. This closure is canonical data. The reader database indexes it later and is not an input to it.
+
+Seven in-corpus DCG alias keys were renamed onto the committed `short_name` so their already-curated colloquial names resolve. Deferred DCG keys with no committed instrument were not changed.
+
 ## 2026-10-13 — LFJS admitted; EC4 admitted with `lfiiedb` held
 
 The LFJS hold of 2026-10-09 is resolved. The parser now reads bare numeric
@@ -2928,4 +2936,20 @@ instrument status `repealed`; no effect date and no provision-level state is
 inferred. Reviewer is the operator, not JRH. The validator change is flagged for
 Codex technical review. See
 `docs/federal-reg-lfmn-abrogation-decision-2026-10-16.md`.
+
+## 2026-10-16 — Corpus-wide relink: persisted historical edges are protected
+
+Decision (operator-approved plan): `lex-mex link --all` relinks the committed
+corpus with unique official titles as markers, but never changes or drops a
+persisted `historical_target_unavailable` or approved-outdated edge; an
+instrument whose new graph would is held at its previous graph, like an
+instrument that cites an article absent from the target corpus. Constitutions
+cite themselves as "esta Constitución" or by the adjective "constitucional",
+and decree or agreement title openings ("del decreto por el que…") are not
+citations of a law named later in the title. `lrsic` is held pending an
+operator/JRH decision: the existing dating rule resolves its Article 2 citation
+(fraction V, reformed DOF 09-03-2018) to the 2014 LRAF, while the stored graph
+and the 2026-08-24 entry keep it on `lraf-1990`. See
+`docs/plans/corpus-wide-reverse-linking.md` and the
+`corpus-wide-reverse-linking` entry in `docs/ingestion-difficulty-log.md`.
 

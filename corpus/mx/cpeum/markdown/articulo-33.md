@@ -15,7 +15,7 @@ source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 
 # Artículo 33
 
-Son personas extranjeras las que no posean las calidades determinadas en el artículo 30 constitucional y gozarán de los derechos humanos y garantías que reconoce esta Constitución. Párrafo reformado DOF 10-06-2011
+Son personas extranjeras las que no posean las calidades determinadas en el artículo [30](articulo-30.md) constitucional y gozarán de los derechos humanos y garantías que reconoce esta Constitución. Párrafo reformado DOF 10-06-2011
 
 El Ejecutivo de la Unión, previa audiencia, podrá expulsar del territorio nacional a personas extranjeras con fundamento en la ley, la cual regulará el procedimiento administrativo, así como el lugar y tiempo que dure la detención. Párrafo adicionado DOF 10-06-2011
 

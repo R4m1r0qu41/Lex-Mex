@@ -17,4 +17,4 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 1506
 
-En el caso del artículo que precede, no tendrá validez el testamento mientras no se justifique la identidad del testador.
+En el caso del [artículo que precede](articulo-1505.md), no tendrá validez el testamento mientras no se justifique la identidad del testador.

@@ -1,6 +1,21 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laassp:article:1:reference:94-97:134:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:1",
+    "source_span": "134",
+    "start_char": 94,
+    "end_char": 97,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:134",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:laassp:article:101:reference:864-866:96:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:101",
     "source_span": "96",
@@ -260,6 +275,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laassp:article:21:reference:2904-2907:134:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:21",
+    "source_span": "134",
+    "start_char": 2904,
+    "end_char": 2907,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:134",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:laassp:article:24:reference:1962-1964:35:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:24",
     "source_span": "35",
@@ -334,7 +364,14 @@
     "end_char": 266,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:35",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo sexto",
+        "start_char": 268,
+        "end_char": 281
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -439,6 +476,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laassp:article:33:reference:1944-1946:50:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:33",
+    "source_span": "50",
+    "start_char": 1944,
+    "end_char": 1946,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:50",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:laassp:article:34:reference:130-132:35:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:34",
     "source_span": "35",
@@ -473,6 +525,51 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laassp:article:36:reference:877-880:134:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:36",
+    "source_span": "134",
+    "start_char": 877,
+    "end_char": 880,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:134",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laassp:article:38:reference:4632-4634:75:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:38",
+    "source_span": "75",
+    "start_char": 4632,
+    "end_char": 4634,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:75",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laassp:article:38:reference:4637-4640:127:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:38",
+    "source_span": "127",
+    "start_char": 4637,
+    "end_char": 4640,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:127",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -595,6 +692,21 @@
         "end_char": 310
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laassp:article:5:reference:439-441:43:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
+    "source_span": "43",
+    "start_char": 439,
+    "end_char": 441,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:43",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1310,5 +1422,57 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laassp:transitory:decimo-cuarto:reference:113-115:13:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:laassp:transitory:decimo-cuarto",
+    "source_span": "13",
+    "start_char": 113,
+    "end_char": 115,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsc:article:13",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laassp:transitory:decimo-sexto:reference:960-962:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:laassp:transitory:decimo-sexto",
+    "source_span": "89",
+    "start_char": 960,
+    "end_char": 962,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 936,
+        "end_char": 946
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laassp:transitory:decimo-tercero:reference:43-45:17:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:laassp:transitory:decimo-tercero",
+    "source_span": "17",
+    "start_char": 43,
+    "end_char": 45,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsc:article:17",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   }
 ]

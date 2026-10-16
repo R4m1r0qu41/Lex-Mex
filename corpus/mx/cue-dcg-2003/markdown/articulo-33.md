@@ -24,11 +24,11 @@ I. Información anual:
 
 (107) a) El tercer día hábil inmediato siguiente a la fecha de celebración de la asamblea general ordinaria de accionistas o, en su defecto, de la asamblea de tenedores, que resuelva acerca de los resultados del ejercicio social, que deberá efectuarse dentro de los 4 meses posteriores al cierre de dicho ejercicio:
 
-(101) 1. Informes y opinión mencionados en el artículo 28, fracción IV de la Ley del Mercado de Valores, en el caso de sociedades anónimas bursátiles y sociedades anónimas promotoras de inversión bursátil que hubieren adoptado el régimen previsto en el artículo 15 de la citada Ley.
+(101) 1. Informes y opinión mencionados en el artículo [28](../../lmv/markdown/articulo-28.md), fracción IV de la Ley del Mercado de Valores, en el caso de sociedades anónimas bursátiles y sociedades anónimas promotoras de inversión bursátil que hubieren adoptado el régimen previsto en el artículo 15 de la citada Ley.
 
 La información a que se refiere el párrafo anterior deberá presentarse a la Comisión debidamente suscrita, en original o copia, por la persona que la emitió, o quien actúe en representación del órgano colegiado que la formuló.
 
-Tratándose de sociedades anónimas que no se ubiquen en alguno de los supuestos anteriores, informe del consejo de administración presentado a la asamblea general ordinaria de accionistas que resuelva acerca de los resultados del ejercicio social, autentificado por el secretario del citado consejo, así como informe del comisario y, tratándose de sociedades anónimas promotoras de inversión bursátil, informe del comité que ejerza las funciones en materia de prácticas societarias en términos de lo previsto en el artículo 43, fracción I de la Ley del Mercado de Valores.
+Tratándose de sociedades anónimas que no se ubiquen en alguno de los supuestos anteriores, informe del consejo de administración presentado a la asamblea general ordinaria de accionistas que resuelva acerca de los resultados del ejercicio social, autentificado por el secretario del citado consejo, así como informe del comisario y, tratándose de sociedades anónimas promotoras de inversión bursátil, informe del comité que ejerza las funciones en materia de prácticas societarias en términos de lo previsto en el artículo [43](../../lmv/markdown/articulo-43.md), fracción I de la Ley del Mercado de Valores.
 
 2. Derogado.
 

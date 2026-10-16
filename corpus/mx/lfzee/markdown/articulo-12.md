@@ -39,7 +39,7 @@ g) Fomentar la creación y el fortalecimiento de incubadoras de empresas que se 
 
 h) El fomento al desarrollo económico, social y urbano del Área de Influencia, incluyendo programas de vivienda digna y cercana a los centros de trabajo; de salud; construcción de escuelas, espacios recreativos y culturales, así como mejoramiento del transporte público y otros servicios públicos;
 
-i) En caso de que una administración portuaria integral a que se refiere la Ley de Puertos, se ubique en el Área de Influencia o de manera contigua a ésta, los mecanismos de coordinación con aquélla para la debida operación de la Zona. En todo caso, se velará porque las políticas y los programas para el desarrollo del sistema portuario nacional guarden congruencia con el Programa de Desarrollo y, en su caso, conforme al procedimiento previsto en el artículo 41 de la Ley de Puertos se promoverán los ajustes que correspondan al programa maestro de desarrollo portuario a que se refiere dicho artículo;
+i) En caso de que una administración portuaria integral a que se refiere la Ley de Puertos, se ubique en el Área de Influencia o de manera contigua a ésta, los mecanismos de coordinación con aquélla para la debida operación de la Zona. En todo caso, se velará porque las políticas y los programas para el desarrollo del sistema portuario nacional guarden congruencia con el Programa de Desarrollo y, en su caso, conforme al procedimiento previsto en el artículo [41](../../lpue/markdown/articulo-41.md) de la Ley de Puertos se promoverán los ajustes que correspondan al programa maestro de desarrollo portuario a que se refiere dicho artículo;
 
 j) La sustentabilidad, protección y preservación del medio ambiente, y
 

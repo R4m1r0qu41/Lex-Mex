@@ -24,7 +24,7 @@ Previo al otorgamiento de los Microcréditos, las Sociedades Financieras Popular
 
 I. Efectuar una visita de verificación o realizar una inspección ocular en el lugar donde el acreditado realice la actividad comercial, industrial o de servicios profesionales.
 
-En los casos en que la contratación para el otorgamiento de Microcrédito se celebre de manera no presencial, las Sociedades Financieras Populares deberán observar el procedimiento y límites previstos en la disposición 4ª Bis de las Disposiciones de carácter general a que se refiere el artículo 124 de la Ley de Ahorro y Crédito Popular o las que las sustituyan.
+En los casos en que la contratación para el otorgamiento de Microcrédito se celebre de manera no presencial, las Sociedades Financieras Populares deberán observar el procedimiento y límites previstos en la disposición 4ª Bis de las Disposiciones de carácter general a que se refiere el artículo [124](../../lacp/markdown/articulo-124.md) de la Ley de Ahorro y Crédito Popular o las que las sustituyan.
 
 II. Realizar una consulta ante una Sociedad de Información Crediticia, en términos de lo previsto por el Título Cuarto, Capítulo IV de las presentes disposiciones.
 

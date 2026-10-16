@@ -5,8 +5,12 @@
 - **Committed and pushed instruments:** 467 (`corpus/mx/*/instrument.json`); `main` at `25732f3ef`, matches `origin/main`. The 32 further `corpus/mx` directories are NOM standards, a separate boundary
 - **Federal structural first pass:** structurally complete. 452 of 453 current Cámara laws and regulations are in the corpus; the one gap is `egdf`, excluded by operator decision ([coverage audit](federal-coverage-audit-2026-10-16.md))
 - **Deferred:** three DCGs (`consar-cuf-dcg-2018`, `cusf-dcg-2014`, `pld-lic115-dcg-2009`), outside the Cámara universe
-- **Next checkpoint:** corpus-wide reverse-linking pass across the 467 instruments (not yet scoped or authorized); operator decisions on `reg-lfmn` currency and `lfiiedb` modeling
+- **Next checkpoint:** land the corpus-wide relink on `main` after operator approval; then review the 12 instruments held at their previous graphs (11 cite an article absent from the target corpus, `lrsic` is held by the historical-edge guard pending an operator/JRH question). Reader database still waits. `lfiiedb` modeling remains open
 - **Legal and temporal review:** none run on the 2026-10-15 admissions; provisions are `not_analyzed`
+
+## 2026-10-16 reverse-linking checkpoint
+
+`link --all` relinked the 467 committed instruments against unique official titles plus the curated alias table. 305 graphs were rewritten and still validate (27,429 → 30,414 references, 4,138 resolved cross-instrument edges); 150 were already closed. 12 were left on their previous graphs: 11 whose new graph pointed at an article the target corpus does not contain (one missing article rejects the whole graph), and `lrsic`, held by a guard that never lets a relink change a persisted historical or approved edge. No provision text or instrument record changed. A review of every retargeted and removed edge fixed three linker defects before landing (constitution self-citations, decree titles, and a head-noun over-match). `Ley de Amnistía` (`lamn`, `lamni`) stays unlinked. Detail: [corpus-wide reverse linking](plans/corpus-wide-reverse-linking.md) and the `corpus-wide-reverse-linking` entry in `docs/ingestion-difficulty-log.md`.
 - **Current legal reviewer:** JRH
 
 ## 2026-10-15 admission checkpoint
@@ -34,8 +38,9 @@ IFPE validation).
 | Articles | 64,586 |
 | Original transitory provisions | 3,470 |
 | Annexes | 30 |
-| Reference edges | 27,429 |
-| — resolved / historical-target-unavailable / approved outdated | 27,423 / 5 / 1 |
+| Reference edges | 30,414 |
+| — resolved / historical-target-unavailable / approved outdated | 30,408 / 5 / 1 |
+| — resolved cross-instrument edges | 4,138 |
 | Provisions `not_analyzed` / `machine_accepted` / `lawyer_verified` / `review_required` | 47,843 / 20,240 / 2 / 1 |
 | Provisions with temporal status `unknown` | 46,524 |
 | Generated Markdown files under `corpus/mx` (incl. NOMs) | 68,560 |

@@ -23,4 +23,4 @@ La Comisión en ningún caso estará obligada a proporcionar la Información Con
 
 Los servidores públicos de la Comisión deberán abstenerse de pronunciarse públicamente o revelar información relacionada con los expedientes o procedimientos ante la Comisión y que cause daño o perjuicio directo a los involucrados, hasta que se haya notificado al Agente Económico investigado la resolución del Pleno, preservando en todo momento las obligaciones derivadas del presente artículo.
 
-Al efecto, lo dispuesto por el artículo 10 de la Ley Federal de las Entidades Paraestatales no será aplicable únicamente respecto de la información Confidencial o Reservada obtenida por la Comisión en ejercicio de sus atribuciones. Párrafo adicionado DOF 16-07-2025
+Al efecto, lo dispuesto por el artículo [10](../../lfep/markdown/articulo-10.md) de la Ley Federal de las Entidades Paraestatales no será aplicable únicamente respecto de la información Confidencial o Reservada obtenida por la Comisión en ejercicio de sus atribuciones. Párrafo adicionado DOF 16-07-2025

@@ -19,6 +19,6 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 En términos de las disposiciones jurídicas aplicables, las dependencias y entidades federales deberán incluir en sus anteproyectos de presupuesto los compromisos plurianuales de gasto que, en su caso, deriven de las asociaciones público-privadas en las que participen. Dichos compromisos tendrán preferencia respecto de otras previsiones de gasto, quedando sujetos a la disponibilidad presupuestaria anual.
 
-Tratándose de proyectos de asociación público-privada que tengan el carácter de proyectos de inversión en infraestructura con erogaciones plurianuales en términos del artículo 74, fracción IV de la Constitución Política de los Estados Unidos Mexicanos, se estará a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, su Reglamento y las disposiciones jurídicas aplicables.
+Tratándose de proyectos de asociación público-privada que tengan el carácter de proyectos de inversión en infraestructura con erogaciones plurianuales en términos del artículo [74](../../cpeum/markdown/articulo-74.md), fracción IV de la Constitución Política de los Estados Unidos Mexicanos, se estará a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, su Reglamento y las disposiciones jurídicas aplicables.
 
 Artículo reformado DOF 31-10-2014

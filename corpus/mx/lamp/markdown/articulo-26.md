@@ -19,7 +19,7 @@ source_sha256: 05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d
 
 Las notificaciones en los juicios de amparo se harán:
 
-I. En forma personal: LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS a) A la persona quejosa privada de su libertad, en el local del órgano jurisdiccional que conozca del juicio, o en el de su reclusión o a su defensor o defensora, representante legal o persona designada para oír notificaciones; Inciso reformado DOF 13-03-2025
+I. En forma personal: LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS a) A la persona quejosa privada de su libertad, en el local del órgano jurisdiccional que conozca del juicio, o en el de su reclusión o a su defensor o defensora, representante legal o persona designada para oír notificaciones; Inciso reformado DOF 13-03-2025
 
 b) La primera notificación a la persona tercera interesada y al o la particular señalada como autoridad responsable; Inciso reformado DOF 13-03-2025
 
@@ -57,4 +57,4 @@ IV. Por vía electrónica:
 
 a) A las partes que cuenten con un usuario dentro del Portal de Servicios en Línea del Poder Judicial de la Federación.
 
-b) A las autoridades, a través de los perfiles institucionales oficiales con que cuenten dentro del Portal de Servicios en Línea del Poder Judicial de la Federación o, en su caso, conforme al Convenio que tengan suscrito con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Para los supuestos enunciados en los incisos anteriores, la totalidad de las notificaciones del juicio de amparo, ya sean de carácter personal o por lista, deben practicarse por las vías mencionadas. Fracción reformada DOF 16-10-2025
+b) A las autoridades, a través de los perfiles institucionales oficiales con que cuenten dentro del Portal de Servicios en Línea del Poder Judicial de la Federación o, en su caso, conforme al Convenio que tengan suscrito con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Para los supuestos enunciados en los incisos anteriores, la totalidad de las notificaciones del juicio de amparo, ya sean de carácter personal o por lista, deben practicarse por las vías mencionadas. Fracción reformada DOF 16-10-2025

@@ -79,9 +79,9 @@ XXIX. Informes trimestrales: los Informes sobre la Situación Económica, las Fi
 
 XXX. Ingresos excedentes: los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos o en su caso respecto de los ingresos propios de las entidades de control indirecto;
 
-XXX Bis. Ingresos Petroleros: los recursos que reciba el Gobierno Federal por la suma de las transferencias desde el Fondo Mexicano del Petróleo que se incluyan en la Ley de Ingresos y el Presupuesto de Egresos para cubrir los conceptos señalados en el artículo 16, fracción II, incisos a) a g) de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y la recaudación por el impuesto sobre la renta que se genere por los contratos y asignaciones a que se refiere el párrafo séptimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos; Fracción adicionada DOF 11-08-2014
+XXX Bis. Ingresos Petroleros: los recursos que reciba el Gobierno Federal por la suma de las transferencias desde el Fondo Mexicano del Petróleo que se incluyan en la Ley de Ingresos y el Presupuesto de Egresos para cubrir los conceptos señalados en el artículo [16](../../lfmped/markdown/articulo-16.md), fracción II, incisos a) a g) de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y la recaudación por el impuesto sobre la renta que se genere por los contratos y asignaciones a que se refiere el párrafo séptimo del artículo [27](../../cpeum/markdown/articulo-27.md) de la Constitución Política de los Estados Unidos Mexicanos; Fracción adicionada DOF 11-08-2014
 
-XXXI. Ingresos propios: los recursos que por cualquier concepto obtengan las entidades, distintos a los recursos por concepto de subsidios y transferencias, conforme a lo dispuesto en el artículo 52 de la Ley Federal de las [Entidades](articulo-2.md) Paraestatales;
+XXXI. Ingresos propios: los recursos que por cualquier concepto obtengan las entidades, distintos a los recursos por concepto de subsidios y transferencias, conforme a lo dispuesto en el artículo [52](../../lfep/markdown/articulo-52.md) de la Ley Federal de las [Entidades](articulo-2.md) Paraestatales;
 
 XXXI Bis. Inversión física y financiera directa: las erogaciones que tienen como contraprestación la constitución de un activo; Fracción adicionada DOF 24-01-2014 XXXII. Ley de Ingresos: la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente;
 
@@ -131,7 +131,7 @@ LIII. Subsidios: las asignaciones de recursos federales previstas en el Presupue
 
 LIV. Transferencias: las asignaciones de recursos federales previstas en los presupuestos de las dependencias, destinadas a las entidades bajo su coordinación sectorial o en su caso, a los órganos administrativos desconcentrados, para sufragar los gastos de operación y de capital, incluyendo el déficit de operación y los gastos de administración asociados al otorgamiento de subsidios, así como las asignaciones para el apoyo de programas de las entidades vinculados con operaciones de inversión financiera o para el pago de intereses, comisiones y gastos, derivados de créditos contratados en moneda nacional o extranjera;
 
-LIV Bis. Transferencias del Fondo Mexicano del Petróleo: aquéllas a que se refiere el artículo 16 de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que el Fondo Mexicano del Petróleo debe realizar en los términos del Título Quinto de la presente Ley; Fracción adicionada DOF 11-08-2014
+LIV Bis. Transferencias del Fondo Mexicano del Petróleo: aquéllas a que se refiere el artículo [16](../../lfmped/markdown/articulo-16.md) de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que el Fondo Mexicano del Petróleo debe realizar en los términos del Título Quinto de la presente Ley; Fracción adicionada DOF 11-08-2014
 
 LV. Tribunales administrativos: Los órganos conformados con tal carácter en las leyes federales, tales como el Tribunal Federal de Justicia Fiscal y Administrativa, y los Tribunales Agrarios;
 

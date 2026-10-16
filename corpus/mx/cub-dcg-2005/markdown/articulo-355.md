@@ -51,7 +51,7 @@ sujetas en lo conducente a las disposiciones de carácter general expedidas por 
 
 (266) XV. Derogada.
 
-(264) XVI. Disposiciones de carácter general aplicables a las entidades y personas a que se refieren los artículos 3, fracciones IV, V, VI, VII y VIII y 4, fracción XXX, de la Ley de la Comisión Nacional Bancaria y de Valores, así como al público en general, en la entrega y recepción de documentos en la Comisión Nacional Bancaria y de Valores, publicadas en el Diario Oficial de la Federación el 5 de octubre de 2011.
+(264) XVI. Disposiciones de carácter general aplicables a las entidades y personas a que se refieren los artículos [3](../../lcnbv/markdown/articulo-3.md), fracciones IV, V, VI, VII y VIII y [4](../../lcnbv/markdown/articulo-4.md), fracción XXX, de la Ley de la Comisión Nacional Bancaria y de Valores, así como al público en general, en la entrega y recepción de documentos en la Comisión Nacional Bancaria y de Valores, publicadas en el Diario Oficial de la Federación el 5 de octubre de 2011.
 
 (243) XVII. Disposiciones de carácter general aplicables a las entidades y emisoras supervisadas por la Comisión Nacional Bancaria y de Valores que contraten servicios de auditoría externa de estados financieros básicos.
 

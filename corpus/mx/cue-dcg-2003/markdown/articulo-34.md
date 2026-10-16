@@ -22,7 +22,7 @@ I. El día de su publicación, la convocatoria a las asambleas de accionistas, a
 
 II. El día hábil inmediato siguiente al de celebración de la asamblea de que se trate:
 
-a) Resumen de los acuerdos adoptados en la asamblea de accionistas que se celebre en cumplimiento a lo dispuesto por el artículo 181 de la Ley General de Sociedades Mercantiles, que incluya expresamente la aplicación de utilidades y, en su caso, el dividendo decretado, número del cupón o cupones contra los que se pagará, así como lugar y fecha de pago.
+a) Resumen de los acuerdos adoptados en la asamblea de accionistas que se celebre en cumplimiento a lo dispuesto por el artículo [181](../../lgsm/markdown/articulo-181.md) de la Ley General de Sociedades Mercantiles, que incluya expresamente la aplicación de utilidades y, en su caso, el dividendo decretado, número del cupón o cupones contra los que se pagará, así como lugar y fecha de pago.
 
 b) Resumen de los acuerdos adoptados en asambleas de accionistas distintas a las mencionadas en el inciso anterior, así como de las asambleas de obligacionistas y tenedores de otros valores.
 
@@ -30,7 +30,7 @@ III. Dentro de los 5 días hábiles siguientes a la celebración de la asamblea 
 
 a) Copia autentificada por el secretario del consejo de administración de la Emisora o por persona facultada para ello, de las actas de asambleas de accionistas, acompañada de la lista de asistencia firmada por los escrutadores designados al efecto, indicándose el número de acciones correspondientes a cada socio y, en su caso, por quien esté representado, así como el total de acciones representadas.
 
-A la lista de asistencia se anexarán copias de las constancias y, en su caso, del listado de titulares a que se refiere el artículo 290 de la Ley del Mercado de Valores, las que deberán ser enviadas por los depositantes a la emisora.
+A la lista de asistencia se anexarán copias de las constancias y, en su caso, del listado de titulares a que se refiere el artículo [290](../../lmv/markdown/articulo-290.md) de la Ley del Mercado de Valores, las que deberán ser enviadas por los depositantes a la emisora.
 
 b) Copia autentificada por el presidente de la asamblea, de las actas de asambleas generales de obligacionistas y tenedores de otros valores, acompañadas de la lista de asistencia firmada por los obligacionistas y tenedores de los valores o sus representantes y por los escrutadores designados al efecto, indicando el número de valores correspondientes a cada obligacionista o tenedor de valores, así como el total de los valores representados.
 

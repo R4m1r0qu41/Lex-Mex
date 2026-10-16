@@ -27,7 +27,7 @@ No será necesario presentar las mercancías ante el mecanismo de selección aut
 
 En los supuestos en que no se requiera pedimento para activar el mecanismo de selección automatizado, se deberán presentar ante dicho mecanismo las mercancías con la documentación correspondiente, en los términos a que se refiere este artículo.
 
-El reconocimiento aduanero no limita las facultades de comprobación de las autoridades aduaneras respecto de las mercancías que se introduzcan o extraigan del territorio nacional, no siendo aplicable en estos casos el artículo 36 del Código Fiscal de la Federación. Si las autoridades omiten al momento del despacho objetar el valor de las mercancías o los documentos o informaciones que sirvan de base para determinarlo, no se entenderá que el valor declarado ha sido aceptado o que existe resolución favorable al particular.
+El reconocimiento aduanero no limita las facultades de comprobación de las autoridades aduaneras respecto de las mercancías que se introduzcan o extraigan del territorio nacional, no siendo aplicable en estos casos el artículo [36](../../cff/markdown/articulo-36.md) del Código Fiscal de la Federación. Si las autoridades omiten al momento del despacho objetar el valor de las mercancías o los documentos o informaciones que sirvan de base para determinarlo, no se entenderá que el valor declarado ha sido aceptado o que existe resolución favorable al particular.
 
 Las autoridades aduaneras, en ejercicio de sus facultades, podrán emplear los sistemas, equipos tecnológicos, cualquier otro medio o servicio con que se cuente y que facilite el reconocimiento, la inspección o la verificación de las mercancías.
 

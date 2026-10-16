@@ -23,6 +23,6 @@ El Presidente de la República podrá ordenar por sí o a petición de las Legis
 
 I. Comprometan o superen las capacidades efectivas de las autoridades competentes para atenderla, o
 
-II. Se originen por la falta o insuficiente colaboración de las entidades federativas y municipios en la preservación de la [Seguridad Nacional](articulo-4.md), de conformidad con lo previsto en el segundo párrafo del artículo 1 de la Ley de Seguridad Nacional.
+II. Se originen por la falta o insuficiente colaboración de las entidades federativas y municipios en la preservación de la [Seguridad Nacional](articulo-4.md), de conformidad con lo previsto en el segundo párrafo del artículo [1](../../lsn/markdown/articulo-1.md) de la Ley de Seguridad Nacional.
 
 Aquellas amenazas a la Seguridad Interior que no requieran Declaratoria en términos del presente artículo serán atendidas por las autoridades conforme sus atribuciones y las disposiciones legales que resulten aplicables.

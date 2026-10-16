@@ -17,7 +17,7 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 4o
 
-Compete a las Entidades Federativas y Municipios, en el ámbito de sus circunscripciones territoriales y conforme a la distribución de atribuciones que se establezca en las leyes locales, los asuntos señalados en el artículo [6](articulo-6o.md)o. de la Ley y en especial:
+Compete a las Entidades Federativas y Municipios, en el ámbito de sus circunscripciones territoriales y conforme a la distribución de atribuciones que se establezca en las leyes locales, los asuntos señalados en el artículo 6o. de la Ley y en especial:
 
 I.- La formulación de los criterios ecológicos particulares en cada Entidad Federativa, que guarden congruencia con los que en su caso hubiere formulado la Federación, en las materias a que se refiere el presente artículo;
 

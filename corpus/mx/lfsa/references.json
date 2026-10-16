@@ -16,6 +16,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsa:article:106-bis:reference:792-795:278:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfsa:article:106-bis",
+    "source_span": "278",
+    "start_char": 792,
+    "end_char": 795,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:278",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfsa:article:112:reference:526-527:112:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfsa:article:112",
     "source_span": "I",

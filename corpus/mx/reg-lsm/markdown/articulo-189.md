@@ -17,4 +17,4 @@ source_sha256: e05548ce5210162f6613eab2a8d8e53b7eed65ffe4a909d4665277fe1726e369
 
 # Artículo 189
 
-Cuando el volumen del trabajo exija mayor personal médico que el mencionado en el [artículo anterior](articulo-188.md), el Jefe del Sector ordenará que un médico civil ayude al médico militar, de conformidad con lo prevenido en el artículo 48 de la Ley del Servicio Militar.
+Cuando el volumen del trabajo exija mayor personal médico que el mencionado en el [artículo anterior](articulo-188.md), el Jefe del Sector ordenará que un médico civil ayude al médico militar, de conformidad con lo prevenido en el artículo [48](../../lsm/markdown/articulo-48.md) de la Ley del Servicio Militar.

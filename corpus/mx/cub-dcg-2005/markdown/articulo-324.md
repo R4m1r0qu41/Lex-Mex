@@ -62,7 +62,7 @@ IV. Los procedimientos que la Institución utilizará para la identificación de
 
 (300) IX. El derecho de la Institución para realizar al comisionista las revisiones de seguridad que se señalan en el Artículo [168 Bis 12](articulo-168-Bis-12.md), fracciones II, III y IV de las presentes disposiciones a los servicios contratados o bien, proporcionar evidencia a la Institución de la realización de estas revisiones.
 
-(300) X. Tratándose de las operaciones a que se refiere la fracción XI del Artículo [319](articulo-319.md) de las presentes disposiciones, a fin de dar cumplimiento a las “Disposiciones de carácter general a que se refiere el artículo 115 de la Ley de Instituciones de Crédito” emitidas por la Secretaría, o las que las sustituyan, la obligación del comisionista para recabar y conservar del cliente lo siguiente:
+(300) X. Tratándose de las operaciones a que se refiere la fracción XI del Artículo [319](articulo-319.md) de las presentes disposiciones, a fin de dar cumplimiento a las “Disposiciones de carácter general a que se refiere el artículo [115](../../lic/markdown/articulo-115.md) de la Ley de Instituciones de Crédito” emitidas por la Secretaría, o las que las sustituyan, la obligación del comisionista para recabar y conservar del cliente lo siguiente:
 
 (300) a) Para aquellas operaciones de hasta el equivalente a 250 dólares de los Estados Unidos de América, que se realicen para la adquisición de productos o servicios comercializados u ofrecidos por el comisionista, deberán presentar la información y documentación siguiente:
 
@@ -74,9 +74,9 @@ IV. Los procedimientos que la Institución utilizará para la identificación de
 
 Para efectos de lo anterior, los datos relativos al nombre y fecha de nacimiento del cliente (300)
 
-deberán ser obtenidos de una identificación oficial de las señaladas en la 4ª de las “Disposiciones de carácter general a que se refiere el artículo 115 de la Ley de Instituciones de Crédito” emitidas por la Secretaría, o las que las sustituyan.
+deberán ser obtenidos de una identificación oficial de las señaladas en la 4ª de las “Disposiciones de carácter general a que se refiere el artículo [115](../../lic/markdown/articulo-115.md) de la Ley de Instituciones de Crédito” emitidas por la Secretaría, o las que las sustituyan.
 
-(300) b) Tratándose de establecimientos autorizados para la exposición y venta de mercancías extranjeras y nacionales en puertos aéreos internacionales, fronterizos y marítimos de altura en términos de lo dispuesto por la fracción I del Artículo 121 de la Ley Aduanera:
+(300) b) Tratándose de establecimientos autorizados para la exposición y venta de mercancías extranjeras y nacionales en puertos aéreos internacionales, fronterizos y marítimos de altura en términos de lo dispuesto por la fracción I del Artículo [121](../../ladua/markdown/articulo-121.md) de la Ley Aduanera:
 
 (300) 1. La información y documentación siguiente:
 
@@ -112,11 +112,11 @@ ii) Copia del documento oficial expedido por el Instituto Nacional de Migración
 
 Los comisionistas deberán enviar a la Institución la información relativa a las mencionadas (300)
 
-operaciones, a fin de que la propia Institución dé cumplimiento al citado Artículo 115 de la Ley y a las “Disposiciones de carácter general a que se refiere el artículo 115 de la Ley de Instituciones de Crédito” emitidas por la Secretaría, o las que las sustituyan, con base en la información recibida de los comisionistas.
+operaciones, a fin de que la propia Institución dé cumplimiento al citado Artículo 115 de la Ley y a las “Disposiciones de carácter general a que se refiere el artículo [115](../../lic/markdown/articulo-115.md) de la Ley de Instituciones de Crédito” emitidas por la Secretaría, o las que las sustituyan, con base en la información recibida de los comisionistas.
 
 (300) XI. El derecho de la Institución para suspender operaciones en caso de que los comisionistas presenten cambios en su operación en contravención a lo previsto en el contrato, o de alguna manera pongan en riesgo a la Institución, la seguridad de la información o los recursos de sus clientes.
 
-(347) XII. Tratándose de las operaciones a que se refieren las fracciones IX y X del Artículo [319](articulo-319.md) y el Artículo 319 Bis, fracción I de las presentes disposiciones, la obligación del comisionista para recabar del cliente la información necesaria y transmitirla en tiempo y forma a la Institución, a fin de dar cumplimiento a lo previsto en el Artículo 115 de la Ley y las “Disposiciones de carácter general a que se refiere el Artículo 115 de la Ley de Instituciones de Crédito”, emitidas por la Secretaría, o las que las sustituyan.
+(347) XII. Tratándose de las operaciones a que se refieren las fracciones IX y X del Artículo [319](articulo-319.md) y el Artículo 319 Bis, fracción I de las presentes disposiciones, la obligación del comisionista para recabar del cliente la información necesaria y transmitirla en tiempo y forma a la Institución, a fin de dar cumplimiento a lo previsto en el Artículo 115 de la Ley y las “Disposiciones de carácter general a que se refiere el Artículo [115](../../lic/markdown/articulo-115.md) de la Ley de Instituciones de Crédito”, emitidas por la Secretaría, o las que las sustituyan.
 
 (347) XIII. La obligación del comisionista de elaborar planes de remediación respecto de los hallazgos de las revisiones y pruebas de seguridad efectuadas a las que se refiere la fracción IX del presente artículo y entregarlos a la Institución.
 

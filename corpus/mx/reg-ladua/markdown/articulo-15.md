@@ -19,7 +19,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 Para efectos del artículo 20, último párrafo, de la [Ley](articulo-1.md), las empresas porteadoras deberán llevar a cabo la designación ante la Autoridad Aduanera de su representante en territorio nacional, conforme a lo siguiente: Párrafo reformado DOF 23-02-2026
 
-I. Presentar una promoción formulada en términos de los artículos 18 y 19 del Código Fiscal de la Federación, en la que se señale el nombramiento del representante y el domicilio para oír y recibir notificaciones en territorio nacional, anexando copia certificada de la escritura pública en la que conste el poder para actos de administración otorgado a favor del representante, y
+I. Presentar una promoción formulada en términos de los artículos [18](../../cff/markdown/articulo-18.md) y [19](../../cff/markdown/articulo-19.md) del Código Fiscal de la Federación, en la que se señale el nombramiento del representante y el domicilio para oír y recibir notificaciones en territorio nacional, anexando copia certificada de la escritura pública en la que conste el poder para actos de administración otorgado a favor del representante, y
 
 II. Solicitar la inscripción de la designación del representante en el registro correspondiente.
 

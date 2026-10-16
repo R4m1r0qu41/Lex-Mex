@@ -23,7 +23,7 @@ Las inversiones que conforme a esta Ley realicen las instituciones nacionales de
 
 Las instituciones nacionales de seguros y las instituciones nacionales de fianzas, en las contrataciones de servicios que requieran para realizar las operaciones y servicios previstos en los artículos [118](articulo-118.md) y [144](articulo-144.md) de esta Ley, no estarán sujetas a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
 
-Las contrataciones que realicen las instituciones nacionales de seguros y las instituciones nacionales de fianzas relativas al gasto asociado con materiales y suministros, servicios generales, e inversión física en bienes muebles e inmuebles, conforme al artículo 30 del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se sujetarán a lo dispuesto en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
+Las contrataciones que realicen las instituciones nacionales de seguros y las instituciones nacionales de fianzas relativas al gasto asociado con materiales y suministros, servicios generales, e inversión física en bienes muebles e inmuebles, conforme al artículo [30](../../reg-lfprh/markdown/articulo-30.md) del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se sujetarán a lo dispuesto en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
 
 Para efectos de lo dispuesto en los dos párrafos anteriores, la Secretaría estará facultada para emitir lineamientos generales, así como para resolver consultas sobre contrataciones específicas, privilegiando en todo momento la eficiencia, eficacia y debida oportunidad en los servicios que prestan las instituciones nacionales de seguros y las instituciones nacionales de fianzas.
 

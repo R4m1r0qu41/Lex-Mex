@@ -17,7 +17,7 @@ source_sha256: 5edf7b5ad4dd65a9c97c02ec51f13499aa7ab5025f02ad6e9be3c948ff3cf185
 
 # Artículo 35
 
-Corresponde al [Secretario Técnico](articulo-3.md) ejercer la dirección de la [Secretaría Ejecutiva](articulo-3.md), por lo que contará con las facultades previstas en el artículo 59 de la Ley Federal de las Entidades Paraestatales.
+Corresponde al [Secretario Técnico](articulo-3.md) ejercer la dirección de la [Secretaría Ejecutiva](articulo-3.md), por lo que contará con las facultades previstas en el artículo [59](../../lfep/markdown/articulo-59.md) de la Ley Federal de las Entidades Paraestatales.
 
 El Secretario Técnico adicionalmente tendrá las siguientes funciones:
 

@@ -1066,3 +1066,81 @@ both narrow** (fixtures: `del_year_contraction_resolves`,
   the categorization (still correctly skipped — month units remain
   unsupported — but now lands in the specific `unsupported-relative-period-unit`
   bucket instead of the generic catch-all).
+
+### [cluster] corpus-wide-reverse-linking — closure review findings — 2026-10-16
+
+Review of the first `link --all` closure (305 graphs rewritten, 27,429 → 30,414
+references, 4,138 resolved cross-instrument edges) against `25732f3ef`, reading
+every retargeted and removed edge rather than a sample.
+
+**Fixed in the closure (fixtures in `lex-parse` and `lex-cli`):**
+
+- `constitution-self-citation-captured-by-later-title`: CPEUM "artículo 123 de
+  esta Constitución … Ley Federal del Trabajo" linked to LFT Art. 123, and
+  "artículo 21 de esta Constitución … Ley Nacional sobre el Uso de la Fuerza"
+  to LNUF. `self_reference_markers("constitution")` held only ley-shaped
+  phrases. Added `de esta constitución`, `de la presente constitución`,
+  `esta constitución` and ` constitucional`.
+- `decree-title-embeds-law-title`: PEF "artículo 5 del DECRETO por el que se
+  abroga la Ley Federal de Remuneraciones…" linked to LFREMSP Art. 5. Added
+  unambiguous instrument-title openings (`del decreto por el que`, `del decreto
+  que`, `del acuerdo por el que`, `del acuerdo sobre`, `del estatuto de`,
+  `de las reglas de carácter general`, `de las reglas generales`, `de los
+  lineamientos para`). Bare `del acuerdo` / `de la norma` are ordinary Spanish
+  and were removed after they hid LCM and LSSS internal citations. A
+  regulation title ("Reglamento de los Artículos 121 y 122 de la Ley Federal
+  del Trabajo") still cites the articles it regulates, as the existing ordinal
+  title fixture requires.
+- `persisted-historical-edge-drift`: the closure now rejects any instrument
+  whose new graph changes or drops a persisted `historical_target_unavailable`
+  or approved-outdated edge, like persisted repeal notices.
+
+**Open operator/JRH question (lrsic):** LRSIC Article 2 fraction V cites "el
+artículo 12 de la Ley para Regular las Agrupaciones Financieras". The stored
+graph (and the 2026-08-24 entry above) keeps it on `lraf-1990`. The fraction
+carries `Fracción reformada DOF 23-01-2004, 01-02-2008, 09-03-2018`, after the
+adapter's `historical_until` 2014-01-10, so the existing dating rule (fixture
+`a_citation_in_text_amended_after_the_successor_resolves_to_the_successor`)
+resolves it to the current `lraf`. `main`'s own `link lrsic` already produces
+that edge, so the stored graph is not reproducible by current code. The closure
+guard keeps LRSIC on its stored graph until the question is answered: is the
+2018 re-enactment a citation of the 2014 LRAF, or does the stored 1990 identity
+stand?
+
+**Rejected instruments (12), classified read-only; no fixes in this pass:**
+
+| Slug | Missing target | Evidence | Class |
+|---|---|---|---|
+| `cpf` | LIC 112 Quintus | heading "Artículo 112 Quintus.-" sits inside LIC 112 Quáter's text | target parser defect (`Quintus` suffix) |
+| `lgmime` | LGIPE 11 Bis | LGIPE Art. 11 text reads "[Artículo 11 Bis. Suprimido]" | stale citation (suppressed by SCJN) |
+| `lmv` | LGTOC 228-B, 228-H | "Artículo 228 b.-" sits inside LGTOC 228's text | target parser defect (lowercase letter suffix) |
+| `lbm` | CFF 136 Ter | CFF has Art. 136 only | stale or wrong-law citation, unverified |
+| `lftr` | LGTAIP 180 Bis | LGTAIP has Art. 180 only | stale citation, unverified |
+| `lgs` | CPF 209 Quintus | CPF has 209 to 209 Quáter | unverified: target heading not found inside another article |
+| `lic` | LRAF 28 Bis; LFCE 31 Bis | each target has the base article only | stale citation, unverified |
+| `lpdusf` | CNPCF 1235 | CNPCF ends at Art. 1191 | wrong-law or stale citation |
+| `lsar` | LMV 16 Bis 2/3/7/8 | LMV has Art. 16 only (same family as `lcnbv`) | stale citation, repealed family |
+| `reg-lan` | LFPA 122 | LFPA ends at Art. 96 | wrong-law or stale citation |
+| `reg-lisr` | LISR 216 Bis | LISR numeric articles end at 215 | stale (old-LISR) citation, unverified |
+| `lrsic` | (guard) | see above | policy question |
+
+Target-side parser defects found on the way (need a fixture and a separate
+parser pass because they change `provisions.json`): the `Quintus` suffix is
+unrecognized (also visible as headings embedded in neighbouring articles in `lfdo`
+Art. 12 Quintus and `lfpc` Arts. 63 and 73 Quintus), and a lowercase single-letter suffix "228 b." is not a heading.
+"Unverified" rows need a check against the official source before an approved
+outdated reference is recorded.
+
+**Recorded, not fixed:**
+
+- `amparo-running-title-furniture`: 79 `lamp` provisions contain the uppercase
+  running title "LEY REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA
+  CONSTITUCIÓN…", which the linker cites (158 edges to CPEUM). Furniture in
+  `provisions.json`; fix with a furniture fixture, not in the linking pass.
+- `bare-constitucion-not-linked`: in non-CPEUM instruments, "artículo 3o.
+  constitucional" and "de la Constitución" are skipped, so 13 citations in 7
+  instruments (`lfda`, `lfra`, `lft`, `lnep`, `lnsijpa`, `loapf`, `reg-senado`)
+  that were wrongly internal are now unlinked rather than linked to CPEUM. Linking
+  bare "Constitución" needs a decision because state constitutions share the
+  word.
+

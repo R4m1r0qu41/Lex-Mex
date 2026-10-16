@@ -173,9 +173,9 @@ vol. volumétrico; volumen
 
 b) Otros:
 
-AE arancel específico establecido en los términos de los artículos 4o., fracción I, y 12, fracción II, de la Ley de Comercio Exterior
+AE arancel específico establecido en los términos de los artículos [4](../../lce/markdown/articulo-4o.md)o., fracción I, y 12, fracción II, de la Ley de Comercio Exterior
 
-AMX arancel mixto establecido en los términos de los artículos 4o., fracción I, y 12, fracción III, de la Ley de Comercio Exterior
+AMX arancel mixto establecido en los términos de los artículos [4](../../lce/markdown/articulo-4o.md)o., fracción I, y 12, fracción III, de la Ley de Comercio Exterior
 
 ASTM Sociedad Americana para el Ensayo de Materiales (“American Society for Testing Materials”)
 

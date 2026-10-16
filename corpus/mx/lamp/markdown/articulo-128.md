@@ -27,7 +27,7 @@ II. Deberá acreditarse, aunque sea de manera indiciaria, el interés suspension
 
 III. Que, al ponderar los efectos de la suspensión frente al interés social, y a disposiciones de orden público, el órgano jurisdiccional advierta que su concesión no causa un daño significativo a la colectividad, ni priva a la sociedad de beneficios que ordinariamente le corresponden.
 
-IV. Que, del análisis preliminar de los argumentos y elementos aportados, se desprenda la apariencia del buen derecho, sin que ello implique prejuzgar sobre el fondo del asunto. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Párrafo con fracciones adicionado DOF 16-10-2025
+IV. Que, del análisis preliminar de los argumentos y elementos aportados, se desprenda la apariencia del buen derecho, sin que ello implique prejuzgar sobre el fondo del asunto. LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Párrafo con fracciones adicionado DOF 16-10-2025
 
 La suspensión se tramitará en incidente por separado y por duplicado.
 

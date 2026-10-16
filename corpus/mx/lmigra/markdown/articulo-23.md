@@ -17,7 +17,7 @@ source_sha256: a823b87d27bee29da481750b9893f00024bd80aed8b0713bf8b1ac1e55b9b8de
 
 # Artículo 23
 
-En términos del artículo 96 de la [Ley](articulo-3.md) General del Sistema Nacional de Seguridad Pública, los servidores públicos del [Instituto](articulo-3.md) están obligados a someterse al proceso de certificación que consiste en la comprobación del cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, necesarios para el ejercicio de sus funciones, en los procedimientos de ingreso, promoción y permanencia, en los términos del [Reglamento](articulo-3.md).
+En términos del artículo [96](../../lgsnsp/markdown/articulo-96.md) de la [Ley](articulo-3.md) General del Sistema Nacional de Seguridad Pública, los servidores públicos del [Instituto](articulo-3.md) están obligados a someterse al proceso de certificación que consiste en la comprobación del cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, necesarios para el ejercicio de sus funciones, en los procedimientos de ingreso, promoción y permanencia, en los términos del [Reglamento](articulo-3.md).
 
 La certificación es requisito indispensable de ingreso, permanencia y promoción.
 

@@ -19,4 +19,4 @@ source_sha256: 7e1c33029ca423d65491911d15e2f1b436ed269540148af1e4787570441ac0b6
 
 La evaluación a que se refiere el [artículo anterior](articulo-86.md) se realizará con base en indicadores que permitan medir el cumplimiento de la Ley, del Reglamento, del Programa y demás disposiciones aplicables. La evaluación tendrá por objeto adecuar las estrategias de operación y la definición de las políticas relacionadas con la inclusión de las personas con discapacidad, debiendo contribuir con la información para los procesos de transparencia y rendición de cuentas.
 
-Lo anterior, sin perjuicio de la evaluación del desempeño que realicen las instancias competentes en los términos de los artículos 110 y 111 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás disposiciones jurídicas aplicables.
+Lo anterior, sin perjuicio de la evaluación del desempeño que realicen las instancias competentes en los términos de los artículos [110](../../lfprh/markdown/articulo-110.md) y [111](../../lfprh/markdown/articulo-111.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás disposiciones jurídicas aplicables.

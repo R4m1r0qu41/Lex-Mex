@@ -19,7 +19,7 @@ source_sha256: d8e73214cb24d2de425b58971ee1f4ff50a7ae1b7eeeff05c929649818601228
 
 Se entienden como servicios básicos de salud en materia de asistencia social los siguientes:
 
-I. Los señalados en el Artículo 168 de la Ley General de Salud:
+I. Los señalados en el Artículo [168](../../lgs/markdown/articulo-168.md) de la Ley General de Salud:
 
 a) La atención a personas que, por sus carencias socio-económicas o por condiciones de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo; Inciso reformado DOF 01-06-2011
 
@@ -51,7 +51,7 @@ VII. La cooperación con instituciones de procuración e impartición de justici
 
 VIII. La orientación nutricional y la alimentación complementaria a población de escasos recursos y a población de zonas marginadas;
 
-IX. Coadyuvar con las autoridades educativas en la prestación de servicios de educación especial, con base en lo estipulado en el Artículo 41 de la Ley General de Educación;
+IX. Coadyuvar con las autoridades educativas en la prestación de servicios de educación especial, con base en lo estipulado en el Artículo [41](../../lge/markdown/articulo-41.md) de la Ley General de Educación;
 
 X. El apoyo a mujeres en períodos de gestación o lactancia, con especial atención a las adolescentes en situación de vulnerabilidad;
 

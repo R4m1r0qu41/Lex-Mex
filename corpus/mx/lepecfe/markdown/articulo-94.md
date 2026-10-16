@@ -17,4 +17,4 @@ source_sha256: 6e45ab84a076cbd9cfd5fbd8abbe5f2d88fbd767229f21f5e7327aaf692b22a5
 
 # Artículo 94
 
-Los bienes inmuebles, muebles, así como las cuentas bancarias de la Comisión Federal de Electricidad están sujetos al régimen de dominio público de la Federación conforme a lo dispuesto en los artículos 3 fracciones III y V, y 4 párrafo cuarto de la Ley General de Bienes Nacionales y esta Ley, y por lo tanto son inembargables e imprescriptibles.
+Los bienes inmuebles, muebles, así como las cuentas bancarias de la Comisión Federal de Electricidad están sujetos al régimen de dominio público de la Federación conforme a lo dispuesto en los artículos [3](../../lgbn/markdown/articulo-3.md) fracciones III y V, y [4](../../lgbn/markdown/articulo-4.md) párrafo cuarto de la Ley General de Bienes Nacionales y esta Ley, y por lo tanto son inembargables e imprescriptibles.

@@ -17,6 +17,6 @@ source_sha256: 72b051296792cad896ac90e814ff8949e4ac140bf5ca5cc08f2f03e5e95aeac3
 
 # Artículo 90
 
-La sociedad anónima puede constituirse por la comparecencia ante fedatario público, de las personas que otorguen la escritura o póliza correspondiente, o por suscripción pública, en cuyo caso se estará a lo establecido en el artículo 11 de la Ley del Mercado de Valores.
+La sociedad anónima puede constituirse por la comparecencia ante fedatario público, de las personas que otorguen la escritura o póliza correspondiente, o por suscripción pública, en cuyo caso se estará a lo establecido en el artículo [11](../../lmv/markdown/articulo-11.md) de la Ley del Mercado de Valores.
 
 Artículo reformado DOF 13-06-2014

@@ -27,7 +27,7 @@ II. A ser reparadas por el Estado de manera integral, adecuada, diferenciada, tr
 
 III. A conocer la verdad de lo ocurrido acerca de los hechos en que le fueron violados sus derechos humanos para lo cual la autoridad deberá informar los resultados de las investigaciones;
 
-IV. A que se le brinde protección y se salvaguarde su vida y su integridad corporal, en los casos previstos en el artículo 34 de la Ley Federal contra la Delincuencia Organizada;
+IV. A que se le brinde protección y se salvaguarde su vida y su integridad corporal, en los casos previstos en el artículo [34](../../lfdo/markdown/articulo-34.md) de la Ley Federal contra la Delincuencia Organizada;
 
 V. A ser tratadas con humanidad y respeto de su dignidad y sus derechos humanos por parte de los servidores públicos y, en general, por el personal de las instituciones públicas responsables del cumplimiento de esta Ley, así como por parte de los particulares que cuenten con convenios para brindar servicios a las víctimas;
 

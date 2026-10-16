@@ -1432,6 +1432,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:constitution:cpeum:article:33:reference:85-87:30:direct",
+    "source_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:33",
+    "source_span": "30",
+    "start_char": 85,
+    "end_char": 87,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:30",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:constitution:cpeum:article:35:reference:3215-3217:40:direct",
     "source_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:35",
     "source_span": "40",
@@ -1606,7 +1621,14 @@
     "end_char": 7835,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:21",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo noveno",
+        "start_char": 7837,
+        "end_char": 7851
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2710,7 +2732,14 @@
     "end_char": 4167,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:41",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo octavo",
+        "start_char": 4170,
+        "end_char": 4184
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

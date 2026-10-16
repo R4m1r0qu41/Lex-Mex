@@ -47,7 +47,7 @@ XIII. Instituto Nacional de las Mujeres;
 
 XIV. Instituto Nacional de Migración, y
 
-XV. Se deroga. Fracción derogada DOF 20-05-2021 LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS Además, participará como integrante de la Comisión un representante de la Fiscalía General de la República, quien actuará con pleno respeto a la autonomía constitucional que le confiere a la institución el artículo 102, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos. Párrafo adicionado DOF 20-05-2021
+XV. Se deroga. Fracción derogada DOF 20-05-2021 LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS Además, participará como integrante de la Comisión un representante de la Fiscalía General de la República, quien actuará con pleno respeto a la autonomía constitucional que le confiere a la institución el artículo [102](../../cpeum/markdown/articulo-102.md), Apartado A, de la Constitución Política de los Estados Unidos Mexicanos. Párrafo adicionado DOF 20-05-2021
 
 Por cada miembro propietario habrá un suplente designado por el titular, quien en su caso deberá tener nivel inmediato inferior o equivalente.
 

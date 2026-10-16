@@ -69,7 +69,7 @@ XIX. Conducir las relaciones del Gobierno Federal con el Tribunal Federal de Con
 
 XX. Intervenir en los nombramientos, aprobaciones, designaciones, destituciones, renuncias y jubilaciones de servidores públicos que no se atribuyan expresamente por la ley a otras dependencias del Ejecutivo;
 
-XXI. Asistir en lo relativo al ejercicio de las facultades que otorgan a la persona titular del Ejecutivo Federal los artículos 96 y 100 de la Constitución Política de los Estados Unidos Mexicanos, respecto de la elección de las personas integrantes del Poder Judicial; Fracción reformada DOF 28-11-2024
+XXI. Asistir en lo relativo al ejercicio de las facultades que otorgan a la persona titular del Ejecutivo Federal los artículos [96](../../cpeum/markdown/articulo-96.md) y [100](../../cpeum/markdown/articulo-100.md) de la Constitución Política de los Estados Unidos Mexicanos, respecto de la elección de las personas integrantes del Poder Judicial; Fracción reformada DOF 28-11-2024
 
 XXII. Llevar el registro de autógrafos de los funcionarios federales, de los Gobernadores de los Estados y del jefe de gobierno de la Ciudad de México y legalizar las firmas de los mismos;
 

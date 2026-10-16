@@ -36,7 +36,7 @@ Las Instituciones solamente podrán aceptar modificaciones o cancelaciones de in
 
 Cuando se trate de instrucciones giradas a través de medios de telecomunicación en los que se utilice (264)
 
-la voz, las Instituciones solamente podrán recibir las instrucciones respectivas en el referido medio, si previamente obtienen la autorización del cliente para grabar su voz o la de la persona facultada para instruir la celebración de operaciones al amparo de los contratos respectivos y, adicionalmente, se conserven los registros de voz correspondientes durante el plazo señalado en el artículo 208 de la Ley del Mercado de Valores.
+la voz, las Instituciones solamente podrán recibir las instrucciones respectivas en el referido medio, si previamente obtienen la autorización del cliente para grabar su voz o la de la persona facultada para instruir la celebración de operaciones al amparo de los contratos respectivos y, adicionalmente, se conserven los registros de voz correspondientes durante el plazo señalado en el artículo [208](../../lmv/markdown/articulo-208.md) de la Ley del Mercado de Valores.
 
 Lo dispuesto en este artículo es sin perjuicio del tratamiento que en las presentes disposiciones se (265)
 

@@ -17,7 +17,7 @@ source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 
 # Artículo 26
 
-El Ministerio Público deberá proporcionar atención a los ofendidos y a las víctimas del delito, para ello realizará las acciones contenidas en el artículo 12 de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal, así como las siguientes:
+El Ministerio Público deberá proporcionar atención a los ofendidos y a las víctimas del delito, para ello realizará las acciones contenidas en el artículo [12](../../lopgjdf/markdown/articulo-12.md) de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal, así como las siguientes:
 
 I. Informar, oportunamente de los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos, y, cuando así lo soliciten, ser informados del desarrollo del procedimiento penal y de las consecuencias legales de sus actuaciones dentro del mismo; II. Prestar los servicios que constitucionalmente tienen encomendados con legalidad, honradez, lealtad, imparcialidad, profesionalismo, eficiencia, eficacia, calidad, calidez, respeto irrestricto a sus derechos humanos y con la máxima diligencia;
 

@@ -27,7 +27,7 @@ En el caso de fusión de sociedades, cuando la sociedad que desaparezca con moti
 
 Tratándose de la escisión parcial de la sociedad integradora, la sociedad que participe con carácter de escindente deberá pagar dentro del mes siguiente a aquél en el que surta efectos la escisión, el total del impuesto que con anterioridad a ese hecho hubiere diferido la sociedad escindente, aplicando lo dispuesto en el primer y segundo párrafos de este artículo.
 
-En caso de escisión total de la sociedad integradora, la sociedad que tenga el carácter de escindida designada a que se refiere el artículo 14-B, fracción II, inciso b) del Código Fiscal de la Federación y las sociedades integradas deberán estar a lo dispuesto en el primer y segundo párrafos de este artículo.
+En caso de escisión total de la sociedad integradora, la sociedad que tenga el carácter de escindida designada a que se refiere el artículo [14-B](../../cff/markdown/articulo-14-B.md), fracción II, inciso b) del Código Fiscal de la Federación y las sociedades integradas deberán estar a lo dispuesto en el primer y segundo párrafos de este artículo.
 
 Cuando el grupo se ubique en lo dispuesto en el presente artículo la sociedad integradora, la fusionante, la escindente o la escindida referida en el párrafo anterior, según corresponda, deberá presentar el aviso a que se refiere el último párrafo del artículo [68](articulo-68.md) de esta Ley por cada una de las sociedades del grupo incluida ella misma ante el Servicio de Administración Tributaria dentro de los quince días siguientes a la fecha en que ocurra dicho supuesto, presentando la información que señale el Servicio de Administración Tributaria mediante reglas de carácter general.
 

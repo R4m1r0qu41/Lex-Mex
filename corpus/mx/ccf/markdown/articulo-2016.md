@@ -17,4 +17,4 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 2016
 
-En el caso del artículo que precede, si no se designa la calidad de la cosa, el deudor cumple entregando una de mediana calidad.
+En el caso del [artículo que precede](articulo-2015.md), si no se designa la calidad de la cosa, el deudor cumple entregando una de mediana calidad.

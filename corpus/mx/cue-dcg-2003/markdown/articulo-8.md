@@ -20,7 +20,7 @@ Las emisoras deberán prever en sus estatutos sociales, tratándose de sociedade
 
 I. Un capital mínimo fijo sin derecho a retiro.
 
-II. La estipulación de que los aumentos y, en su caso, las disminuciones a la porción variable del capital social deberán ser aprobados por la asamblea general de accionistas ordinaria o extraordinaria, según se convenga, debiendo protocolizarse en cualquier caso el acta correspondiente, salvo que se trate de los aumentos o disminuciones a que hace referencia el artículo 56 de la Ley del Mercado de Valores.
+II. La estipulación de que los aumentos y, en su caso, las disminuciones a la porción variable del capital social deberán ser aprobados por la asamblea general de accionistas ordinaria o extraordinaria, según se convenga, debiendo protocolizarse en cualquier caso el acta correspondiente, salvo que se trate de los aumentos o disminuciones a que hace referencia el artículo [56](../../lmv/markdown/articulo-56.md) de la Ley del Mercado de Valores.
 
 Segundo párrafo.- Derogado.
 

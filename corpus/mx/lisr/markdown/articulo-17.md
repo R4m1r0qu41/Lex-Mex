@@ -39,7 +39,7 @@ Cuando en términos del primer párrafo de esta fracción, el contribuyente hubi
 
 En el caso de incumplimiento de los contratos de arrendamiento financiero, respecto de los cuales se haya ejercido la opción de considerar como ingreso obtenido en el ejercicio únicamente la parte del precio exigible, el arrendador considerará como ingreso obtenido en el ejercicio, las cantidades exigibles en el mismo del arrendatario, disminuidas por las cantidades que ya hubiera devuelto conforme al contrato respectivo.
 
-En los casos de contratos de arrendamiento financiero, se considerarán ingresos obtenidos en el ejercicio en el que sean exigibles, los que deriven de cualquiera de las opciones a que se refiere el artículo 15 del Código Fiscal de la Federación.
+En los casos de contratos de arrendamiento financiero, se considerarán ingresos obtenidos en el ejercicio en el que sean exigibles, los que deriven de cualquiera de las opciones a que se refiere el artículo [15](../../cff/markdown/articulo-15.md) del Código Fiscal de la Federación.
 
 IV. Ingresos derivados de deudas no cubiertas por el contribuyente, en el mes en el que se consume el plazo de prescripción o en el mes en el que se cumpla el plazo a que se refiere el párrafo segundo de la fracción XV del artículo [27](articulo-27.md) de esta Ley.
 

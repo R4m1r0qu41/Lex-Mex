@@ -760,6 +760,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:67:reference:4215-4217:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:67",
+    "source_span": "32",
+    "start_char": 4215,
+    "end_char": 4217,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
+    "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:32",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfzee:article:68:reference:55-57:67:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfzee:article:68",
     "source_span": "67",

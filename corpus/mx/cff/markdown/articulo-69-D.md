@@ -21,4 +21,4 @@ El contribuyente que opte por el acuerdo conclusivo lo tramitará a través de l
 
 Recibida la solicitud, la Procuraduría de la Defensa del Contribuyente requerirá a la autoridad revisora para que, en un plazo de veinte días, contado a partir del requerimiento, manifieste si acepta o no los términos en que se plantea el acuerdo conclusivo; los fundamentos y motivos por los cuales no se acepta, o bien, exprese los términos en que procedería la adopción de dicho acuerdo.
 
-En caso de que la autoridad revisora no atienda el requerimiento a que se refiere el párrafo anterior procederá la imposición de la multa prevista en el artículo 28, fracción I, numeral 1, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente.
+En caso de que la autoridad revisora no atienda el requerimiento a que se refiere el párrafo anterior procederá la imposición de la multa prevista en el artículo [28](../../lopdc/markdown/articulo-28.md), fracción I, numeral 1, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente.

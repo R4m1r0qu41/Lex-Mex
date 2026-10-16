@@ -17,7 +17,7 @@ source_sha256: 102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842
 
 # Artículo 11
 
-Las dependencias y entidades en la realización de los actos a que se refiere esta Ley, deberán aceptar el uso de mensajes de datos y la presentación de documentos electrónicos cuando las mismas ofrezcan esta posibilidad, siempre que los particulares por sí o, en su caso, a través de las personas autorizadas por los mismos en términos del artículo 19 de la Ley Federal de Procedimiento Administrativo, manifiesten expresamente su conformidad para que dichos actos se efectúen, desde su inicio hasta su conclusión, a través de medios de comunicación electrónica.
+Las dependencias y entidades en la realización de los actos a que se refiere esta Ley, deberán aceptar el uso de mensajes de datos y la presentación de documentos electrónicos cuando las mismas ofrezcan esta posibilidad, siempre que los particulares por sí o, en su caso, a través de las personas autorizadas por los mismos en términos del artículo [19](../../lfpa/markdown/articulo-19.md) de la Ley Federal de Procedimiento Administrativo, manifiesten expresamente su conformidad para que dichos actos se efectúen, desde su inicio hasta su conclusión, a través de medios de comunicación electrónica.
 
 La manifestación a que se refiere el párrafo anterior deberá señalar adicionalmente:
 

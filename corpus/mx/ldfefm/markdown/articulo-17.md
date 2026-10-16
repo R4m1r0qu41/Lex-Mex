@@ -23,4 +23,4 @@ Sin perjuicio de lo anterior, las Transferencias federales etiquetadas que, al 3
 
 Los reintegros deberán incluir los rendimientos financieros generados.
 
-Para los efectos de este artículo, se entenderá que las Entidades Federativas han devengado o comprometido las Transferencias federales etiquetadas, en los términos previstos en el artículo 4, fracciones XIV y XV de la Ley General de Contabilidad Gubernamental.
+Para los efectos de este artículo, se entenderá que las Entidades Federativas han devengado o comprometido las Transferencias federales etiquetadas, en los términos previstos en el artículo [4](../../lgcg/markdown/articulo-4.md), fracciones XIV y XV de la Ley General de Contabilidad Gubernamental.

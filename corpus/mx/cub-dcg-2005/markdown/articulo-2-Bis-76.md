@@ -61,4 +61,4 @@ EIEi = Exposición al Incumplimiento Estimada de la i-ésima posición. Cuando l
 
 Para efectos de lo dispuesto por el presente artículo, por otros instrumentos asimilables deberá (130)
 
-entenderse a los fideicomisos de garantía o de administración o ambos, celebrados al amparo del artículo 382 de la Ley General de Títulos y Operaciones de Crédito, así como a las instrucciones irrevocables o contratos de mandato de garantía o ambos, referidos en el artículo 2596 del Código Civil Federal; ambos instrumentos contenidos en el numeral 4 del inciso b) de la fracción II del Anexo 24 de las presentes disposiciones.
+entenderse a los fideicomisos de garantía o de administración o ambos, celebrados al amparo del artículo [382](../../lgtoc/markdown/articulo-382.md) de la Ley General de Títulos y Operaciones de Crédito, así como a las instrucciones irrevocables o contratos de mandato de garantía o ambos, referidos en el artículo [2596](../../ccf/markdown/articulo-2596.md) del Código Civil Federal; ambos instrumentos contenidos en el numeral 4 del inciso b) de la fracción II del Anexo 24 de las presentes disposiciones.

@@ -17,7 +17,7 @@ source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 
 No estarán obligadas a comparecer en los términos previstos en los artículos anteriores y declararán por escrito las siguientes personas:
 
-I. Las previstas en el artículo 110 de la Constitución Política de los Estados Unidos Mexicanos;
+I. Las previstas en el artículo [110](../../cpeum/markdown/articulo-110.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Los extranjeros que gozaren en el país de inmunidad diplomática, de conformidad con los Tratados sobre la materia, y
 

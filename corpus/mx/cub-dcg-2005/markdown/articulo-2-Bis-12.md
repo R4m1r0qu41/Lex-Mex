@@ -24,7 +24,7 @@ El grupo I-A estará integrado por:
 
 II. Operaciones Sujetas a Riesgo de Crédito con o a cargo del Banco de México.
 
-(382) III. Operaciones Sujetas a Riesgo de Crédito con o a cargo de las dependencias que conforman la Administración Pública Federal centralizada a la que se refiere el artículo 1 de la Ley Orgánica de la Administración Pública Federal.
+(382) III. Operaciones Sujetas a Riesgo de Crédito con o a cargo de las dependencias que conforman la Administración Pública Federal centralizada a la que se refiere el artículo [1](../../loapf/markdown/articulo-1o.md) de la Ley Orgánica de la Administración Pública Federal.
 
 IV. Operaciones Sujetas a Riesgo de Crédito con o a cargo del IPAB.
 

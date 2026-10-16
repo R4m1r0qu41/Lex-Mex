@@ -17,4 +17,4 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 # Artículo 56
 
-Atento a lo dispuesto por el párrafo cuarto del artículo [4](articulo-4o.md)o. de la Constitución Política de los Estados Unidos Mexicanos, se considerará víctima de los delitos contra el ambiente a toda persona habitante de la comunidad posiblemente afectada por el ilícito cuando se constituya como denunciante ante el Ministerio Público.
+Atento a lo dispuesto por el párrafo cuarto del artículo [4](../../cpeum/markdown/articulo-4o.md)o. de la Constitución Política de los Estados Unidos Mexicanos, se considerará víctima de los delitos contra el ambiente a toda persona habitante de la comunidad posiblemente afectada por el ilícito cuando se constituya como denunciante ante el Ministerio Público.

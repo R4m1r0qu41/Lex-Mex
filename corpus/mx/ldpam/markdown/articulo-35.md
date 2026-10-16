@@ -17,7 +17,7 @@ source_sha256: e9c60d3644c8edcb600667e79ef7e3d218c21369879b0495b441f09d25aa78db
 
 # Artículo 35
 
-El Consejo Directivo tendrá además de las atribuciones a que se refiere el artículo 58 de la [Ley](articulo-3o.md) Federal de las Entidades Paraestatales, las siguientes:
+El Consejo Directivo tendrá además de las atribuciones a que se refiere el artículo [58](../../lfep/markdown/articulo-58.md) de la [Ley](articulo-3o.md) Federal de las Entidades Paraestatales, las siguientes:
 
 I. Tomar las decisiones que considere necesarias para el buen despacho de los asuntos y las demás que con carácter indelegable establezca la Ley Federal de las Entidades Paraestatales;
 

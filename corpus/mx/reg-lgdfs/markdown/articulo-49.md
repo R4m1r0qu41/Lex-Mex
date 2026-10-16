@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 49
 
-Tratándose de los aprovechamientos forestales a que se refiere el artículo 75 de la [Ley](articulo-2.md), las solicitudes se acompañarán, además de lo previsto en el artículo [38](articulo-38.md) del presente Reglamento, de un documento técnico unificado que contendrá la información correspondiente a la manifestación de impacto ambiental, en su modalidad particular, prevista en el artículo 12 del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Evaluación del Impacto Ambiental, así como la información relativa al Programa de manejo forestal, de conformidad con el artículo [39](articulo-39.md) del presente Reglamento y demás disposiciones jurídicas aplicables.
+Tratándose de los aprovechamientos forestales a que se refiere el artículo 75 de la [Ley](articulo-2.md), las solicitudes se acompañarán, además de lo previsto en el artículo [38](articulo-38.md) del presente Reglamento, de un documento técnico unificado que contendrá la información correspondiente a la manifestación de impacto ambiental, en su modalidad particular, prevista en el artículo [12](../../reg-lgeepa-meia/markdown/articulo-12.md) del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en materia de Evaluación del Impacto Ambiental, así como la información relativa al Programa de manejo forestal, de conformidad con el artículo [39](articulo-39.md) del presente Reglamento y demás disposiciones jurídicas aplicables.
 
 La Secretaría emitirá la guía para la integración del documento técnico unificado a que se refiere el párrafo anterior.
 

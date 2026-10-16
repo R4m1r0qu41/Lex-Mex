@@ -15,7 +15,7 @@ source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 
 # Artículo 2
 
-En adición a lo establecido por el artículo 2 de la [Ley](articulo-2.md) de Aviación Civil, para los efectos de este Reglamento se entenderá por:
+En adición a lo establecido por el artículo [2](../../lac/markdown/articulo-2.md) de la [Ley](articulo-2.md) de Aviación Civil, para los efectos de este Reglamento se entenderá por:
 
 I. Animales domésticos: el animal que ha sido reproducido y criado bajo el control del ser humano, que convive con él y requiere de éste para su subsistencia y que no se trate de animales silvestres. Para efectos de este Reglamento, los animales domésticos se clasifican en:
 

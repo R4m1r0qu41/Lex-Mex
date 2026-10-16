@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 29
 
-Acreditarán buena salud las personas participantes que en el examen médico obtengan los parámetros o las cifras consideradas normales y que no se encuentren comprendidos en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+Acreditarán buena salud las personas participantes que en el examen médico obtengan los parámetros o las cifras consideradas normales y que no se encuentren comprendidos en el artículo [226](../../lissfam/markdown/articulo-226.md) de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
 
 Artículo reformado DOF 20-03-2026

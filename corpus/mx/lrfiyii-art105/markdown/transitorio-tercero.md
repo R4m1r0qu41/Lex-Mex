@@ -15,4 +15,4 @@ source_sha256: b99f96ee0d44bd781d14cfdc7f94358bd6d3f6ed17c3bd3aadcf5d149873edeb
 
 # TERCERO
 
-Se derogan los párrafos segundo a cuarto, inclusive, del artículo 12 de la Ley de Coordinación Fiscal, así como todas las disposiciones legales y reglamentarias que se opongan a esta ley.
+Se derogan los párrafos segundo a cuarto, inclusive, del artículo [12](../../lcf/markdown/articulo-12.md) de la Ley de Coordinación Fiscal, así como todas las disposiciones legales y reglamentarias que se opongan a esta ley.

@@ -17,4 +17,4 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 1486
 
-El testador que se encuentre en el caso del artículo que precede, podrá, luego que cese la violencia o disfrute de la libertad completa, revalidar su testamento con las mismas solemnidades que si lo otorgara de nuevo. De lo contrario será nula la revalidación.
+El testador que se encuentre en el caso del [artículo que precede](articulo-1485.md), podrá, luego que cese la violencia o disfrute de la libertad completa, revalidar su testamento con las mismas solemnidades que si lo otorgara de nuevo. De lo contrario será nula la revalidación.

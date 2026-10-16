@@ -35,6 +35,6 @@ VI. La autorización que otorgue la Comisión para la fusión de una [Instituci�
 
 El proceso de fusión a que se refiere este artículo, de ninguna manera modificará los términos y condiciones vigentes pactados en los contratos de seguro o en los contratos de fianza correspondientes. En todo caso, para su modificación será necesaria la manifestación de la voluntad de las partes interesadas en este sentido.
 
-La fusión de una Institución de Seguros o de una Institución de Fianzas que pertenezca a un grupo financiero, sea como fusionante o fusionada, se sujetará a lo dispuesto por este artículo y no le será aplicable lo previsto en el artículo 10 de la Ley para Regular las Agrupaciones Financieras.
+La fusión de una Institución de Seguros o de una Institución de Fianzas que pertenezca a un grupo financiero, sea como fusionante o fusionada, se sujetará a lo dispuesto por este artículo y no le será aplicable lo previsto en el artículo [10](../../lraf/markdown/articulo-10.md) de la Ley para Regular las Agrupaciones Financieras.
 
 La fusión entre una Institución, como fusionante, y una sociedad mercantil que no opere como Institución, como fusionada, requerirá de la autorización previa de la Comisión.

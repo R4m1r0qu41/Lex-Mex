@@ -21,7 +21,7 @@ I. Adquirir o enajenar [Activos Objeto de Inversión](articulo-2.md) de conformi
 
 II. Celebrar operaciones de reporto y préstamo sobre valores a los que les resulte aplicable la Ley del Mercado de Valores, así como con instrumentos financieros derivados; con instituciones de crédito, casas de bolsa y entidades financieras del exterior, pudiendo actuar, según sea el caso, como reportadas, reportadoras, prestatarias o prestamistas; Fracción reformada DOF 10-01-2014
 
-III. Adquirir las acciones que emitan, sin que para tal efecto sea aplicable la prohibición establecida por el artículo 134 de la Ley General de Sociedades Mercantiles. Lo anterior no será aplicable a los fondos de inversión de capitales o cerrados, a menos que coticen en bolsas, supuesto en el cual deberán llevar a cabo dicha recompra ajustándose a lo previsto por la Ley del Mercado de Valores; Fracción reformada DOF 10-01-2014
+III. Adquirir las acciones que emitan, sin que para tal efecto sea aplicable la prohibición establecida por el artículo [134](../../lgsm/markdown/articulo-134.md) de la Ley General de Sociedades Mercantiles. Lo anterior no será aplicable a los fondos de inversión de capitales o cerrados, a menos que coticen en bolsas, supuesto en el cual deberán llevar a cabo dicha recompra ajustándose a lo previsto por la Ley del Mercado de Valores; Fracción reformada DOF 10-01-2014
 
 IV. Comprar o vender acciones representativas del capital social de otros fondos de inversión sin perjuicio del régimen de inversión al que estén sujetos; Fracción reformada DOF 10-01-2014
 

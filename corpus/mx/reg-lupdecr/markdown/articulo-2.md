@@ -17,7 +17,7 @@ source_sha256: 9900df5fd57ee1fb485d421861b2fd4d8bff61f389275c834b954320c08c46ae
 
 # Artículo 2
 
-Para los efectos del presente Reglamento, además de las definiciones previstas en el artículo 3 de la [Ley](articulo-2.md) para el Uso y Protección de la Denominación y del Emblema de la Cruz Roja, se entenderá por:
+Para los efectos del presente Reglamento, además de las definiciones previstas en el artículo [3](../../lupdecr/markdown/articulo-3.md) de la [Ley](articulo-2.md) para el Uso y Protección de la Denominación y del Emblema de la Cruz Roja, se entenderá por:
 
 I. Ley: Ley para el Uso y Protección de la Denominación y del Emblema de la Cruz Roja;
 

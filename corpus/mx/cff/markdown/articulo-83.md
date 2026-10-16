@@ -37,7 +37,7 @@ VIII. (Se deroga). IX. Expedir comprobantes fiscales digitales por Internet asen
 
 X. No dictaminar sus estados financieros cuando de conformidad con lo previsto en el artículo [32-A](articulo-32-A.md) de este Código, esté obligado o hubiera optado por hacerlo. No presentar dicho dictamen dentro del término previsto por las leyes fiscales. Fracción reformada DOF 12-11-2021
 
-XI. Expedir comprobantes fiscales digitales por Internet que señalen corresponder a donativos deducibles sin contar con la autorización para recibir donativos deducibles a que se refieren los artículos 79, 82, 83 y 84 de la Ley del Impuesto sobre la Renta y 31 y 114 del Reglamento de dicha Ley, según sea el caso.
+XI. Expedir comprobantes fiscales digitales por Internet que señalen corresponder a donativos deducibles sin contar con la autorización para recibir donativos deducibles a que se refieren los artículos [79](../../lisr/markdown/articulo-79.md), [82](../../lisr/markdown/articulo-82.md), [83](../../lisr/markdown/articulo-83.md) y [84](../../lisr/markdown/articulo-84.md) de la Ley del Impuesto sobre la Renta y 31 y 114 del Reglamento de dicha Ley, según sea el caso.
 
 XII. No expedir o acompañar la documentación que ampare mercancías en transporte en territorio nacional.
 
@@ -45,7 +45,7 @@ XIII. No tener en operación o no registrar el valor de los actos o actividades 
 
 XIV. (Se deroga)
 
-XV. No identificar en la contabilidad las operaciones con partes relacionadas, en términos de lo dispuesto por los artículos 76, fracción IX y 110, fracción XI de la Ley del Impuesto sobre la Renta. Fracción reformada DOF 12-11-2021
+XV. No identificar en la contabilidad las operaciones con partes relacionadas, en términos de lo dispuesto por los artículos [76](../../lisr/markdown/articulo-76.md), fracción IX y [110](../../lisr/markdown/articulo-110.md), fracción XI de la Ley del Impuesto sobre la Renta. Fracción reformada DOF 12-11-2021
 
 XVI. (Se deroga).
 

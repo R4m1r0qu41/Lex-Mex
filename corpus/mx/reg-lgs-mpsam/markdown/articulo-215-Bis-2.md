@@ -21,6 +21,6 @@ Para efectos del presente Capítulo, además de las definiciones contenidas en l
 
 I. Emergencia Médica: A la urgencia médica, en términos de lo dispuesto por el artículo [72](articulo-72.md) de este Reglamento, que presenta una persona, como consecuencia de la comisión de un delito o de la violación a sus derechos humanos, y
 
-II. Víctima: La persona física que se encuentre en los supuestos del artículo 4, párrafos primero y segundo, de la Ley General de Víctimas.
+II. Víctima: La persona física que se encuentre en los supuestos del artículo [4](../../lgv/markdown/articulo-4.md), párrafos primero y segundo, de la Ley General de Víctimas.
 
 Artículo adicionado DOF 24-03-2014

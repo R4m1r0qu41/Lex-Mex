@@ -19,13 +19,13 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 Para los efectos de este Reglamento, en lo sucesivo se entenderá por:
 
-I. Apuesta: Monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los permitidos en el artículo 2 de la [Ley](articulo-3.md) Federal de Juegos y [Sorteos](articulo-3.md) y regulado por el presente reglamento con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada debe ser superior a ésta; Fracción reformada DOF 16-11-2023
+I. Apuesta: Monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los permitidos en el artículo [2](../../lfjs/markdown/articulo-2o.md) de la [Ley](articulo-3.md) Federal de Juegos y [Sorteos](articulo-3.md) y regulado por el presente reglamento con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada debe ser superior a ésta; Fracción reformada DOF 16-11-2023
 
 I. BIS. Azar: Casualidad a que se fía el resultado de un juego, el cual es completamente ajeno a la voluntad del jugador; Fracción adicionada DOF 19-10-2012
 
 II. Beneficiario: Persona física que sin tener necesariamente el carácter de titular de una acción o parte social de la sociedad permisionaria, recibe a través de cualquier figura jurídica, los frutos producidos por la explotación de un permiso otorgado en los términos de la Ley y este Reglamento y ejerce finalmente, directa o indirectamente, el control de la permisionaria, además de los derechos corporativos de accionista o titular de parte social, a través de quienes son los titulares, y tiene en los hechos la posibilidad de influir o tomar decisiones de la permisionaria o, en su caso, de recibir los beneficios;
 
-III. Boleto: Documento o registro electrónico autorizado que acredita al portador o titular el derecho de participar en un juego con apuesta o sorteo previsto en el artículo 2 de la Ley Federal de Juegos y Sorteos y garantiza sus derechos, según sea el caso, los cuales deberán estar impresos en el mismo documento o bien contenidos en el sistema en donde se resguarden los registros; Fracción reformada DOF 16-11-2023
+III. Boleto: Documento o registro electrónico autorizado que acredita al portador o titular el derecho de participar en un juego con apuesta o sorteo previsto en el artículo [2](../../lfjs/markdown/articulo-2o.md) de la Ley Federal de Juegos y Sorteos y garantiza sus derechos, según sea el caso, los cuales deberán estar impresos en el mismo documento o bien contenidos en el sistema en donde se resguarden los registros; Fracción reformada DOF 16-11-2023
 
 IV. Concentración: Procedimiento auxiliar de seguridad para los participantes, a cargo del organizador, que consiste en reunir previamente a la celebración de un sorteo los talones de los boletos participantes, en los términos fijados en el permiso correspondiente;
 
@@ -83,7 +83,7 @@ XXVII Bis. Derogada. Fracción adicionada DOF 23-10-2013. Derogada DOF 16-11-202
 
 XXVIII. Trampa: Ardid, estratagema, maquinación o truco con el que una o varias personas engañan, inducen o pretenden engañar a los participantes, al permisionario o al público en general, en el desarrollo o resultado de un juego con apuesta o sorteo;
 
-XXVIII BIS. UMA: Unidad de Medida y Actualización que señala la fracción III, del artículo 2 de la Ley para Determinar el Valor de la Unidad de Medida y Actualización; Fracción adicionada DOF 16-11-2023
+XXVIII BIS. UMA: Unidad de Medida y Actualización que señala la fracción III, del artículo [2](../../ldvuma/markdown/articulo-2.md) de la Ley para Determinar el Valor de la Unidad de Medida y Actualización; Fracción adicionada DOF 16-11-2023
 
 XXIX. Unidad de Gobierno: Unidad administrativa de la Secretaría de Gobernación, y Fracción reformada DOF 23-10-2013, 16-11-2023
 

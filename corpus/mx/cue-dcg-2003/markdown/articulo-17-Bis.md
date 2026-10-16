@@ -16,7 +16,7 @@ source_sha256: b040dd53cd38f57ceaacd736fd04475ba82c840d063c62229302627d09f3f363
 
 # Artículo 17 Bis
 
-Las solicitudes para obtener la autorización de oferta pública de adquisición voluntaria de certificados bursátiles fiduciarios de desarrollo, inmobiliarios, de inversión en energía e infraestructura o de proyectos de inversión, en adición a lo previsto en el artículo 96 de la Ley del Mercado de Valores, deberán presentarse ante la Comisión debidamente integradas conforme al anexo A-1 de estas disposiciones, acompañadas de la información siguiente:
+Las solicitudes para obtener la autorización de oferta pública de adquisición voluntaria de certificados bursátiles fiduciarios de desarrollo, inmobiliarios, de inversión en energía e infraestructura o de proyectos de inversión, en adición a lo previsto en el artículo [96](../../lmv/markdown/articulo-96.md) de la Ley del Mercado de Valores, deberán presentarse ante la Comisión debidamente integradas conforme al anexo A-1 de estas disposiciones, acompañadas de la información siguiente:
 
 I. Derogada.
 
@@ -24,7 +24,7 @@ II. En su caso, instrumento público o copia certificada que contenga el poder g
 
 III. En su caso, copia autentificada por el secretario del consejo de administración del acta de asamblea de accionistas o del acuerdo del consejo de administración del oferente, que determine llevar a cabo la oferta pública de compra.
 
-IV. Folleto informativo preliminar que contenga la información que se detalla en el anexo K de estas disposiciones, considerando para su elaboración, según sea el caso, lo que establece el artículo 97 de la Ley del Mercado de Valores. Dicho folleto informativo deberá prever el derecho a favor de las personas que hayan aceptado la oferta, de declinar su aceptación sin penalidad alguna, en caso de efectuarse modificaciones a la oferta que sean relevantes a juicio de la Comisión en términos de la fracción III del artículo 97 de dicho ordenamiento legal, o cuando se presente otra u otras ofertas competitivas bajo mejores condiciones. En ningún caso se podrá renunciar o prohibir este derecho.
+IV. Folleto informativo preliminar que contenga la información que se detalla en el anexo K de estas disposiciones, considerando para su elaboración, según sea el caso, lo que establece el artículo [97](../../lmv/markdown/articulo-97.md) de la Ley del Mercado de Valores. Dicho folleto informativo deberá prever el derecho a favor de las personas que hayan aceptado la oferta, de declinar su aceptación sin penalidad alguna, en caso de efectuarse modificaciones a la oferta que sean relevantes a juicio de la Comisión en términos de la fracción III del artículo 97 de dicho ordenamiento legal, o cuando se presente otra u otras ofertas competitivas bajo mejores condiciones. En ningún caso se podrá renunciar o prohibir este derecho.
 
 El referido folleto informativo podrá establecer que la contraprestación ofrecida sea total o parcialmente liquidable en efectivo o con valores. En este último caso, la contraprestación deberá ser precisa en cuanto al tipo de valores ofrecidos a cambio, así como el procedimiento para calcular el valor de intercambio.
 

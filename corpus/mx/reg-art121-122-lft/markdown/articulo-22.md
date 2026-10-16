@@ -17,4 +17,4 @@ source_sha256: 9be81cab513e8797c27eab1c8932b087599fe9ff39528fde9b661cdebf4257f0
 
 # Artículo 22
 
-Cuando los patrones interpongan algún medio de defensa en contra de las resoluciones o liquidaciones que aumenten la renta gravable, se podrá suspender el pago del reparto adicional, siempre que se garantice el interés de los trabajadores conforme al artículo 985 de la Ley Federal del Trabajo, aun cuando el Servicio de Administración Tributaria suspenda el cobro del crédito fiscal.
+Cuando los patrones interpongan algún medio de defensa en contra de las resoluciones o liquidaciones que aumenten la renta gravable, se podrá suspender el pago del reparto adicional, siempre que se garantice el interés de los trabajadores conforme al artículo [985](../../lft/markdown/articulo-985.md) de la Ley Federal del Trabajo, aun cuando el Servicio de Administración Tributaria suspenda el cobro del crédito fiscal.

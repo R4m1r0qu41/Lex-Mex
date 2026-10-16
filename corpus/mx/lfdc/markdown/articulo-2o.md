@@ -31,7 +31,7 @@ V. Derecho a obtener certificación y copia de las declaraciones presentadas por
 
 VI. Derecho a no aportar los documentos que ya se encuentran en poder de la autoridad fiscal actuante.
 
-VII. Derecho al carácter reservado de los datos, informes o antecedentes que de los contribuyentes y terceros con ellos relacionados, conozcan los servidores públicos de la administración tributaria, los cuales sólo podrán ser utilizados de conformidad con lo dispuesto por el artículo 69 del Código Fiscal de la Federación.
+VII. Derecho al carácter reservado de los datos, informes o antecedentes que de los contribuyentes y terceros con ellos relacionados, conozcan los servidores públicos de la administración tributaria, los cuales sólo podrán ser utilizados de conformidad con lo dispuesto por el artículo [69](../../cff/markdown/articulo-69.md) del Código Fiscal de la Federación.
 
 VIII. Derecho a ser tratado con el debido respeto y consideración por los servidores públicos de la administración tributaria.
 

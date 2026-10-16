@@ -37,6 +37,6 @@ VII. Sustanciar y resolver el procedimiento sancionador, así como imponer las s
 
 IX. Solicitar el auxilio de la fuerza pública federal o local, cuando las circunstancias así lo requieran, para el ejercicio de sus facultades; Fracción adicionada DOF 27-03-2026
 
-X. Realizar notificaciones de requerimientos o solicitudes de información vía electrónica, a que se refiere la fracción II del artículo 35 de la Ley Federal de Procedimiento Administrativo en los términos que al efecto se establezcan en las reglas de carácter general, y Fracción adicionada DOF 27-03-2026
+X. Realizar notificaciones de requerimientos o solicitudes de información vía electrónica, a que se refiere la fracción II del artículo [35](../../lfpa/markdown/articulo-35.md) de la Ley Federal de Procedimiento Administrativo en los términos que al efecto se establezcan en las reglas de carácter general, y Fracción adicionada DOF 27-03-2026
 
 XI. Requerir a quienes realizan Actividades Vulnerables el dictamen obtenido de la auditoría interna o externa, según sea el caso, y la documentación soporte que acredite la regularización de las inconsistencias identificadas en el dictamen anual de la auditoría, en la forma y términos que, para el efecto, se establezcan en las reglas de carácter general. Fracción adicionada DOF 27-03-2026

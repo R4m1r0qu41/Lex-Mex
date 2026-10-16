@@ -35,7 +35,7 @@ iv) Las actividades económicas que realiza, y
 
 v) Si es la primera vez que se encuentra en el territorio nacional de manera irregular, en caso de que no sea así, especificar el número de ocasiones.
 
-b) Imponer la multa prevista en los artículos 145 o 146 de la Ley, según corresponda. El monto de la multa se determinará conforme al artículo 73 de la Ley Federal de Procedimiento Administrativo, y
+b) Imponer la multa prevista en los artículos 145 o 146 de la Ley, según corresponda. El monto de la multa se determinará conforme al artículo [73](../../lfpa/markdown/articulo-73.md) de la Ley Federal de Procedimiento Administrativo, y
 
 c) Informar a la persona extranjera los requisitos que establece el artículo 135 de la Ley, mismos que deberá acreditar a la autoridad migratoria para que se le expida oficio de salida de la estación migratoria para regularizar su estancia en el territorio nacional, así como el plazo de diez días naturales para que acredite dichos requisitos.
 

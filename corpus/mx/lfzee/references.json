@@ -59,6 +59,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfzee:article:12:reference:2819-2821:41:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfzee:article:12",
+    "source_span": "41",
+    "start_char": 2819,
+    "end_char": 2821,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lpue",
+    "target_provision_id": "urn:lex-mx:federal:statute:lpue:article:41",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfzee:article:13:reference:71-72:8:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfzee:article:13",
     "source_span": "8",
@@ -183,6 +198,28 @@
         "text": "párrafo segundo",
         "start_char": 3555,
         "end_char": 3570
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfzee:article:2:reference:494-495:6:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfzee:article:2",
+    "source_span": "6",
+    "start_char": 494,
+    "end_char": 495,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgbn:article:6",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 497,
+        "end_char": 508
       }
     ],
     "basis": "express_cross_reference",
@@ -658,6 +695,21 @@
     "end_char": 546,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfzee",
     "target_provision_id": "urn:lex-mx:federal:statute:lfzee:article:47",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfzee:article:8:reference:583-584:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfzee:article:8",
+    "source_span": "9",
+    "start_char": 583,
+    "end_char": 584,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgbn:article:9",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

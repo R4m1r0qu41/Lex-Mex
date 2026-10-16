@@ -19,4 +19,4 @@ source_sha256: 04c25edb67f0a8b6704cd7d56b7a4bb9f455c77a060199962317bbdb7c889247
 
 Las [Entidades Federativas](articulo-2.md) deberán considerar en sus correspondientes [Presupuestos de Egresos](articulo-2.md), las previsiones de gasto necesarias para hacer frente a los compromisos de pago que se deriven de los contratos de Asociación Público-Privada celebrados o por celebrarse durante el siguiente ejercicio fiscal.
 
-Para el caso de Asociaciones Público Privadas con recursos federales, se observará lo dispuesto en el artículo 4, fracción IV de la Ley de Asociaciones Público Privadas.
+Para el caso de Asociaciones Público Privadas con recursos federales, se observará lo dispuesto en el artículo [4](../../lapp/markdown/articulo-4.md), fracción IV de la Ley de Asociaciones Público Privadas.

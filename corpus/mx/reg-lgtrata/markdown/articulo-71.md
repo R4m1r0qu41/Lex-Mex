@@ -17,6 +17,6 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 71
 
-El Fondo contará con un Comité Técnico, el cual estará, en términos del artículo 215, fracción I, del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, integrado por cinco servidores públicos de la Secretaría con nivel mínimo de Director General Adjunto. El funcionamiento y operación del Comité Técnico estará previsto en el contrato de fideicomiso respectivo y en las Reglas de Operación.
+El Fondo contará con un Comité Técnico, el cual estará, en términos del artículo [215](../../reg-lfprh/markdown/articulo-215.md), fracción I, del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, integrado por cinco servidores públicos de la Secretaría con nivel mínimo de Director General Adjunto. El funcionamiento y operación del Comité Técnico estará previsto en el contrato de fideicomiso respectivo y en las Reglas de Operación.
 
 La entrega de recursos a una víctima u ofendido se efectuará conforme a lo establecido en el presente Reglamento y las Reglas de Operación.

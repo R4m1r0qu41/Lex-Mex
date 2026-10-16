@@ -43,7 +43,7 @@ XI. Implementar un sistema de control de actividades y estrategias realizadas pa
 
 XII. Planear, coordinar y dirigir la operación de un Grupo Especial de agentes de la Policía de Investigación, destinados a la reacción e intervención inmediata para atender situaciones de emergencia o de gravedad, de conformidad con las instrucciones que emita el Procurador;
 
-XIII. Coordinar el servicio de seguridad a las personas, prestado por los agentes de la Policía de Investigación, en los términos de las instrucciones que al efecto emita el Procurador; XIV. Vigilar que se atiendan de inmediato las llamadas de emergencia de la comunidad y de denuncia anónima, con un número único de atención a la ciudadanía, de conformidad con lo establecido en el artículo 111 de la Ley General del Sistema Nacional de Seguridad Pública;
+XIII. Coordinar el servicio de seguridad a las personas, prestado por los agentes de la Policía de Investigación, en los términos de las instrucciones que al efecto emita el Procurador; XIV. Vigilar que se atiendan de inmediato las llamadas de emergencia de la comunidad y de denuncia anónima, con un número único de atención a la ciudadanía, de conformidad con lo establecido en el artículo [111](../../lgsnsp/markdown/articulo-111.md) de la Ley General del Sistema Nacional de Seguridad Pública;
 
 XV. Llevar el control de radio de la guardia de agentes y del personal de la Policía de Investigación en cuanto a los servicios que presta, así como canalizar a las instancias pertinentes la información respectiva;
 

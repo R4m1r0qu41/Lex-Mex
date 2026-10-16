@@ -1550,5 +1550,20 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmtr:transitory:vigesimo-primero:reference:524-528:17-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lmtr:transitory:vigesimo-primero",
+    "source_span": "17-A",
+    "start_char": 524,
+    "end_char": 528,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:17-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   }
 ]

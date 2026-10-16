@@ -39,7 +39,7 @@ VIII Bis.- Salvaguardar la soberanía y defender la integridad del territorio na
 
 VIII Ter.- Establecer acciones para garantizar que las operaciones aéreas en el territorio nacional no se realicen con fines ilícitos o atenten contra la seguridad nacional; Fracción adicionada DOF 03-05-2023
 
-VIII Quáter.- Participar, con la Secretaría de Infraestructura, Comunicaciones y Transportes, en las operaciones de búsqueda y salvamento aéreo, en términos de artículo 80 de la Ley de Aviación Civil; Fracción adicionada DOF 03-05-2023
+VIII Quáter.- Participar, con la Secretaría de Infraestructura, Comunicaciones y Transportes, en las operaciones de búsqueda y salvamento aéreo, en términos de artículo [80](../../lac/markdown/articulo-80.md) de la Ley de Aviación Civil; Fracción adicionada DOF 03-05-2023
 
 VIII Quinquies.- Establecer, en coordinación con la Secretaría de Infraestructura, Comunicaciones y Transportes, las zonas de vigilancia y protección del espacio aéreo; Fracción adicionada DOF 03-05-2023
 

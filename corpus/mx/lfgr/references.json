@@ -31,6 +31,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfgr:article:13:reference:1368-1369:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfgr:article:13",
+    "source_span": "8",
+    "start_char": 1368,
+    "end_char": 1369,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfdo",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfdo:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfgr:article:19:reference:7322-7325:103:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfgr:article:19",
     "source_span": "103",

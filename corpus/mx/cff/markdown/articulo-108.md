@@ -21,7 +21,7 @@ Comete el delito de defraudación fiscal quien con uso de engaños o aprovechami
 
 La omisión total o parcial de alguna contribución a que se refiere el párrafo anterior comprende, indistintamente, los pagos provisionales o definitivos o el impuesto del ejercicio en los términos de las disposiciones fiscales.
 
-El delito de defraudación fiscal y el delito previsto en el artículo 400 Bis del Código Penal Federal, se podrán perseguir simultáneamente. Se presume cometido el delito de defraudación fiscal cuando existan ingresos o recursos que provengan de operaciones con recursos de procedencia ilícita.
+El delito de defraudación fiscal y el delito previsto en el artículo [400 Bis](../../cpf/markdown/articulo-400-Bis.md) del Código Penal Federal, se podrán perseguir simultáneamente. Se presume cometido el delito de defraudación fiscal cuando existan ingresos o recursos que provengan de operaciones con recursos de procedencia ilícita.
 
 El delito de defraudación fiscal se sancionará con las penas siguientes:
 

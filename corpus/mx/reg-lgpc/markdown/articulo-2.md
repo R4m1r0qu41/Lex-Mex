@@ -17,7 +17,7 @@ source_sha256: 5018478a6ca9ea39f9ca88ffcb68dde9a33bd4adec59dc75d2431f894b621fc2
 
 # Artículo 2
 
-Para los efectos del presente Reglamento, además de las definiciones previstas en el artículo 2 de la [Ley](articulo-2.md) General de Protección Civil, se entenderá por:
+Para los efectos del presente Reglamento, además de las definiciones previstas en el artículo [2](../../lgpc/markdown/articulo-2.md) de la [Ley](articulo-2.md) General de Protección Civil, se entenderá por:
 
 I. Alerta: El aviso de la proximidad de un Fenómeno Antropogénico o Natural Perturbador, o el incremento del Riesgo asociado al mismo;
 

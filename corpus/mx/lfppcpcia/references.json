@@ -118,6 +118,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:article:53:reference:370-371:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:53",
+    "source_span": "4",
+    "start_char": 370,
+    "end_char": 371,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linpi",
+    "target_provision_id": "urn:lex-mx:federal:statute:linpi:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XXXIII",
+        "start_char": 341,
+        "end_char": 356
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfppcpcia:article:68:reference:29-46:67:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:68",
     "source_span": "artículo anterior",

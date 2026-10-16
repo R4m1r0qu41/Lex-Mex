@@ -45,4 +45,4 @@ XIII. Solicitar y, en su caso, obtener licencia cuando así lo requiera, para se
 
 XIV. Los demás que establezcan la Constitución y las leyes.
 
-2. En términos del artículo [4](articulo-4.md)o. de la Constitución, las senadoras y los senadores participan en la integración de los órganos del Senado bajo el principio de igualdad. Al efecto, los órganos responsables y los grupos parlamentarios cuidan que las propuestas para la integración de las instancias de trabajo legislativo y parlamentario reflejen, en la medida de lo posible, la proporcionalidad de género en la composición del Senado, además de la representatividad de los grupos parlamentarios.
+2. En términos del artículo 4o. de la Constitución, las senadoras y los senadores participan en la integración de los órganos del Senado bajo el principio de igualdad. Al efecto, los órganos responsables y los grupos parlamentarios cuidan que las propuestas para la integración de las instancias de trabajo legislativo y parlamentario reflejen, en la medida de lo posible, la proporcionalidad de género en la composición del Senado, además de la representatividad de los grupos parlamentarios.

@@ -21,6 +21,6 @@ Las faltas temporales de los liquidadores administrativos, serán cubiertas por 
 
 La designación de los liquidadores administrativos podrá ser revocada. Los liquidadores sustituidos permanecerán en el desempeño de su encargo hasta que hagan entrega a la persona designada para sustituirlos.
 
-Salvo el caso de instituciones de crédito, los liquidadores deberán garantizar su correcto desempeño en cada liquidación administrativa para la que sean designados, en los términos y por los montos aplicables a los visitadores, conciliadores o síndicos, conforme al artículo 327 de la Ley de Concursos Mercantiles.
+Salvo el caso de instituciones de crédito, los liquidadores deberán garantizar su correcto desempeño en cada liquidación administrativa para la que sean designados, en los términos y por los montos aplicables a los visitadores, conciliadores o síndicos, conforme al artículo [327](../../lcm/markdown/articulo-327.md) de la Ley de Concursos Mercantiles.
 
 La garantía a que se refiere el párrafo anterior no se cancelará sino hasta que hayan sido aprobadas las cuentas del liquidador, en su caso.

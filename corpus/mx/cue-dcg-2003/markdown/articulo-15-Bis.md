@@ -16,15 +16,15 @@ source_sha256: b040dd53cd38f57ceaacd736fd04475ba82c840d063c62229302627d09f3f363
 
 # Artículo 15 Bis
 
-Las emisoras que soliciten la cancelación de los títulos representativos de su capital social en el Registro, estarán exceptuadas de realizar la oferta pública de adquisición conforme a lo previsto por la fracción II del artículo 108 de la Ley del Mercado de Valores, siempre que se ubiquen en cualquiera de los supuestos siguientes:
+Las emisoras que soliciten la cancelación de los títulos representativos de su capital social en el Registro, estarán exceptuadas de realizar la oferta pública de adquisición conforme a lo previsto por la fracción II del artículo [108](../../lmv/markdown/articulo-108.md) de la Ley del Mercado de Valores, siempre que se ubiquen en cualquiera de los supuestos siguientes:
 
 I. Acrediten a la Comisión contar con el consentimiento de los accionistas que representen cuando menos el 95% del capital social de la sociedad, otorgado mediante acuerdo de asamblea y que el monto a ofrecer por las acciones colocadas entre el gran público inversionista sea menor a 300,000 unidades de inversión.
 
-Asimismo, dichas sociedades deberán constituir el fideicomiso a que hace referencia el último párrafo de la fracción II del artículo 108 de la Ley del Mercado de Valores, así como notificar la cancelación y constitución del citado fideicomiso a través del [SEDI](articulo-1.md). Lo antes previsto será aplicable a los certificados de participación ordinarios sobre acciones, así como a los títulos representativos de dos o más acciones de una o más series accionarias de la propia sociedad.
+Asimismo, dichas sociedades deberán constituir el fideicomiso a que hace referencia el último párrafo de la fracción II del artículo [108](../../lmv/markdown/articulo-108.md) de la Ley del Mercado de Valores, así como notificar la cancelación y constitución del citado fideicomiso a través del [SEDI](articulo-1.md). Lo antes previsto será aplicable a los certificados de participación ordinarios sobre acciones, así como a los títulos representativos de dos o más acciones de una o más series accionarias de la propia sociedad.
 
 II. Haber resultado fusionadas con otra sociedad anónima bursátil, siempre que la sociedad anónima bursátil fusionante acredite ante la Comisión cumplir con alguno de los requisitos siguientes:
 
-a) Haber realizado una oferta pública forzosa de adquisición sobre el 100% de las acciones representativas del capital social de la sociedad anónima bursátil fusionada, conforme a lo previsto en el artículo 98 de la Ley del Mercado de Valores.
+a) Haber realizado una oferta pública forzosa de adquisición sobre el 100% de las acciones representativas del capital social de la sociedad anónima bursátil fusionada, conforme a lo previsto en el artículo [98](../../lmv/markdown/articulo-98.md) de la Ley del Mercado de Valores.
 
 b) Haber obtenido la autorización prevista en el artículo 102, fracción VI de la misma Ley, mediante la cual se le otorgue la excepción para efectuar una oferta pública forzosa de adquisición.
 
@@ -40,8 +40,8 @@ La autorización que otorgue la Comisión para cancelar la inscripción de los v
 
 La Comisión deberá señalar en la autorización respectiva que esta surtirá efectos al término de la sesión de remates del día hábil anterior a la fecha señalada por la bolsa para iniciar la vigencia del listado en el sistema internacional de cotizaciones.
 
-El fideicomiso a que se refiere el artículo 108, fracción I, inciso c) de la Ley del Mercado de Valores, deberá constituirse en los siguientes eventos: i) tratándose de fusiones a que se refiere la fracción II anterior, en caso de que algún inversionista de la sociedad anónima bursátil fusionada no haya recibido las acciones que le correspondieren como consecuencia de la ejecución de los convenios de fusión; en todo momento, los recursos o acciones afectos deberán ser suficientes para responder a la misma razón de intercambio establecida en la fusión, y ii) tratándose de sociedades a que hace referencia la fracción III anterior, cuando la sociedad haya expedido títulos representativos de su capital social que no se encuentren depositados en alguna institución para el depósito de valores nacional o extranjera.
+El fideicomiso a que se refiere el artículo [108](../../lmv/markdown/articulo-108.md), fracción I, inciso c) de la Ley del Mercado de Valores, deberá constituirse en los siguientes eventos: i) tratándose de fusiones a que se refiere la fracción II anterior, en caso de que algún inversionista de la sociedad anónima bursátil fusionada no haya recibido las acciones que le correspondieren como consecuencia de la ejecución de los convenios de fusión; en todo momento, los recursos o acciones afectos deberán ser suficientes para responder a la misma razón de intercambio establecida en la fusión, y ii) tratándose de sociedades a que hace referencia la fracción III anterior, cuando la sociedad haya expedido títulos representativos de su capital social que no se encuentren depositados en alguna institución para el depósito de valores nacional o extranjera.
 
-En todo momento, los recursos afectos deberán ser suficientes para adquirir las acciones al precio calculado en términos del artículo 108, fracción I, inciso b) de la Ley del Mercado de valores.
+En todo momento, los recursos afectos deberán ser suficientes para adquirir las acciones al precio calculado en términos del artículo [108](../../lmv/markdown/articulo-108.md), fracción I, inciso b) de la Ley del Mercado de valores.
 
 Lo dispuesto en las fracciones I y II del presente artículo, no resultará aplicable a las sociedades de nacionalidad extranjera a que hace referencia el artículo [4](articulo-4.md)º de las presentes disposiciones.

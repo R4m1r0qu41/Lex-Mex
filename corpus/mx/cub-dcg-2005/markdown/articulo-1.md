@@ -314,7 +314,7 @@ no deberán tener una antigüedad mayor a 18 meses al momento del cómputo de ca
 
 (188) b) Actúa como patrocinador de un vehículo de papel bursatilizado o de un programa similar por el que se adquieran posiciones a terceros. En el contexto de tales programas, una Institución se considerará en términos generales un patrocinador y, a su vez, un originador si en la práctica o en lo esencial proporciona asesoría o gestiona un programa de bursatilización, coloca los valores respaldados por los activos subyacentes en el mercado o proporciona líneas de crédito por liquidez o mejoras crediticias.
 
-(188) LXXXVIII. Instituciones: a las instituciones de crédito a que se refiere el Artículo 2 de la Ley de Instituciones de Crédito.
+(188) LXXXVIII. Instituciones: a las instituciones de crédito a que se refiere el Artículo [2](../../lic/markdown/articulo-2o.md) de la Ley de Instituciones de Crédito.
 
 (188) LXXXIX. Instituciones Calificadoras: a las Instituciones Calificadoras de Valores incluidas en el Anexo 1-B de estas Disposiciones. También se considerará como Instituciones Calificadoras a aquellas que, atendiendo a los criterios contenidos en las presentes Disposiciones dé a conocer la Comisión en la red electrónica mundial denominada Internet en el sitio http://www.cnbv.gob.mx.
 
@@ -518,7 +518,7 @@ reconocidas por el usuario y que han sido comunicadas a la Institución por cual
 
 (188) CLIII. Rendimiento Excedente en Esquemas de Bursatilización: a la recaudación bruta de ingresos financieros y de otra índole percibidos por el Vehículo de Propósito Especial en Esquemas de Bursatilización, menos los intereses de los títulos bursatilizados, los gastos de administración y demás costos en los que incurra el citado vehículo.
 
-(188) CLIV. Reporte de Información Crediticia: cualquiera de los reportes de crédito emitidos por sociedades de información crediticia a que se refiere el artículo 36 Bis de la Ley para Regular las Sociedades de Información Crediticia, siguientes:
+(188) CLIV. Reporte de Información Crediticia: cualquiera de los reportes de crédito emitidos por sociedades de información crediticia a que se refiere el artículo [36 Bis](../../lrsic/markdown/articulo-36-Bis.md) de la Ley para Regular las Sociedades de Información Crediticia, siguientes:
 
 (188) a) Aquel emitido por una sociedad de información crediticia en el que se incluya la información contenida en las bases de datos de las demás sociedades de información crediticia, o (188) b) Los reportes de crédito individuales emitidos por la totalidad de las sociedades de información crediticia.
 

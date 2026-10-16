@@ -61,6 +61,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissste:article:121:reference:286-289:170:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lissste:article:121",
+    "source_span": "170",
+    "start_char": 286,
+    "end_char": 289,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lss",
+    "target_provision_id": "urn:lex-mx:federal:statute:lss:article:170",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lissste:article:128:reference:920-937:127:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lissste:article:128",
     "source_span": "artículo anterior",
@@ -672,6 +687,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissste:article:78:reference:1099-1102:501:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lissste:article:78",
+    "source_span": "501",
+    "start_char": 1099,
+    "end_char": 1102,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lft",
+    "target_provision_id": "urn:lex-mx:federal:statute:lft:article:501",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lissste:article:8:reference:468-485:7:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lissste:article:8",
     "source_span": "artículo anterior",
@@ -950,6 +980,28 @@
     "target_instrument_id": "urn:lex-mx:federal:statute:lissste",
     "target_provision_id": "urn:lex-mx:federal:statute:lissste:article:22",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno:reference:8751-8753:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lissste:transitory:trigesimo-noveno",
+    "source_span": "89",
+    "start_char": 8751,
+    "end_char": 8753,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 8727,
+        "end_char": 8737
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

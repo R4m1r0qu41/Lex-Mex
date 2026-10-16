@@ -23,9 +23,9 @@ I. Comisión de selección: la que se constituya en términos de esta Ley, para 
 
 II. Comisión Ejecutiva: el órgano técnico auxiliar de la [Secretaría Ejecutiva](articulo-3.md);
 
-III. Comité Coordinador: la instancia a la que hace referencia el artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, encargada de la coordinación y eficacia del [Sistema Nacional](articulo-3.md);
+III. Comité Coordinador: la instancia a la que hace referencia el artículo [113](../../cpeum/markdown/articulo-113.md) de la Constitución Política de los Estados Unidos Mexicanos, encargada de la coordinación y eficacia del [Sistema Nacional](articulo-3.md);
 
-IV. Comité de Participación Ciudadana: la instancia colegiada a que se refiere la fracción II del artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, el cual contará con las facultades que establece esta Ley;
+IV. Comité de Participación Ciudadana: la instancia colegiada a que se refiere la fracción II del artículo [113](../../cpeum/markdown/articulo-113.md) de la Constitución Política de los Estados Unidos Mexicanos, el cual contará con las facultades que establece esta Ley;
 
 V. Días: días hábiles;
 
@@ -35,7 +35,7 @@ VII. Órganos internos de control: los Órganos internos de control en los [Ente
 
 IX. Secretario Técnico: el servidor público a cargo de las funciones de dirección de la Secretaría Ejecutiva, así como las demás que le confiere la presente Ley;
 
-X. Servidores públicos: cualquier persona que se ubique en alguno de los supuestos establecidos en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos;
+X. Servidores públicos: cualquier persona que se ubique en alguno de los supuestos establecidos en el artículo [108](../../cpeum/markdown/articulo-108.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 XI. Sistema Nacional: el Sistema Nacional Anticorrupción;
 

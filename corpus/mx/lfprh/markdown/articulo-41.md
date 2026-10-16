@@ -49,7 +49,7 @@ g) Un capítulo específico que incorpore las previsiones de gasto que correspon
 
 h) Un capítulo específico que incorpore las previsiones de gasto que correspondan a compromisos derivados de proyectos de infraestructura productiva de largo plazo; i) Un capítulo específico que incluya las previsiones salariales y económicas a que se refiere el artículo [33](articulo-33.md), fracción II de esta Ley;
 
-j) Las previsiones de gasto que correspondan a la atención de la población indígena, en los términos del apartado B del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos; asimismo, las previsiones de gasto de los programas especiales cuyos recursos se encuentren previstos en distintos ramos y, en su caso, en los flujos de efectivo de las entidades;
+j) Las previsiones de gasto que correspondan a la atención de la población indígena, en los términos del apartado B del artículo [2](../../cpeum/markdown/articulo-2o.md) de la Constitución Política de los Estados Unidos Mexicanos; asimismo, las previsiones de gasto de los programas especiales cuyos recursos se encuentren previstos en distintos ramos y, en su caso, en los flujos de efectivo de las entidades;
 
 k) En su caso, las disposiciones generales que rijan en el ejercicio fiscal;
 
@@ -59,13 +59,13 @@ m) La información que permita distinguir el gasto regular de operación; el gas
 
 n) Se deroga Inciso reformado DOF 19-01-2012. Derogado DOF 11-08-2014
 
-ñ) Un capítulo específico que incorpore las erogaciones plurianuales para proyectos de inversión en infraestructura, aprobadas en términos del artículo 74, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos; Inciso derogado DOF 27-12-2006. Adicionado DOF 01-10-2007. Reformado DOF 19-01-2012
+ñ) Un capítulo específico que incorpore las erogaciones plurianuales para proyectos de inversión en infraestructura, aprobadas en términos del artículo [74](../../cpeum/markdown/articulo-74.md), fracción IV, de la Constitución Política de los Estados Unidos Mexicanos; Inciso derogado DOF 27-12-2006. Adicionado DOF 01-10-2007. Reformado DOF 19-01-2012
 
 o) Las previsiones de gasto que correspondan a las erogaciones para la Igualdad entre Mujeres y Hombres; Inciso adicionado DOF 19-01-2012
 
 p) Las previsiones de gasto que correspondan a las erogaciones para el Desarrollo de los Jóvenes; Inciso adicionado DOF 19-01-2012
 
-q) Las previsiones de gasto que correspondan al Programa Especial Concurrente para el Desarrollo Rural Sustentable, conforme a lo previsto en los artículos 16 y 69 de la Ley de Desarrollo Rural Sustentable; Inciso adicionado DOF 19-01-2012
+q) Las previsiones de gasto que correspondan al Programa Especial Concurrente para el Desarrollo Rural Sustentable, conforme a lo previsto en los artículos [16](../../ldrs/markdown/articulo-16.md) y [69](../../ldrs/markdown/articulo-69.md) de la Ley de Desarrollo Rural Sustentable; Inciso adicionado DOF 19-01-2012
 
 r) Las previsiones de gasto que correspondan al Programa de Ciencia, Tecnología e Innovación, conforme a lo previsto en el artículo 22 de la Ley de Ciencia y Tecnología; Inciso adicionado DOF 19-01-2012
 

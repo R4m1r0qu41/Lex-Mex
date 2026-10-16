@@ -21,7 +21,7 @@ El Centro Federal de Conciliación y Registro Laboral se constituirá y funciona
 
 Será un Organismo Público Descentralizado del Gobierno Federal, con domicilio en la Ciudad de México y contará con oficinas regionales conforme a los lineamientos que establezca el Órgano de Gobierno. Tendrá personalidad jurídica y patrimonio propios, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, igualdad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
 
-Será competente para substanciar el procedimiento de la conciliación que deberán agotar los trabajadores y patrones, antes de acudir a los [Tribunales](articulo-3o.-Ter.md), conforme lo establece el párrafo quinto de la fracción XX del artículo 123, apartado A, de la [Constitución](articulo-3o.-Ter.md) Política de los Estados Unidos Mexicanos.
+Será competente para substanciar el procedimiento de la conciliación que deberán agotar los trabajadores y patrones, antes de acudir a los [Tribunales](articulo-3o.-Ter.md), conforme lo establece el párrafo quinto de la fracción XX del artículo [123](../../cpeum/markdown/articulo-123.md), apartado A, de la [Constitución](articulo-3o.-Ter.md) Política de los Estados Unidos Mexicanos.
 
 Además, será competente para operar el registro de todos los contratos colectivos de trabajo, reglamentos interiores de trabajo y las organizaciones sindicales, así como todos los procesos administrativos relacionados.
 

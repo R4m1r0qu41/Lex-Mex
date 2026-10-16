@@ -25,6 +25,6 @@ Las solicitudes podrán presentarse, a elección del particular:
 
 I. En la ventanilla de gestión de trámites, o
 
-II. Por medios electrónicos, con su firma electrónica avanzada, utilizando el Sistema de Trámites Electrónicos de la Secretaría. En este caso, el interesado deberá manifestar expresamente su conformidad en términos del artículo 11 de la Ley de Firma Electrónica Avanzada.
+II. Por medios electrónicos, con su firma electrónica avanzada, utilizando el Sistema de Trámites Electrónicos de la Secretaría. En este caso, el interesado deberá manifestar expresamente su conformidad en términos del artículo [11](../../lfea/markdown/articulo-11.md) de la Ley de Firma Electrónica Avanzada.
 
 Las solicitudes a que se refiere este artículo presentadas en términos de la fracción II de este artículo deberán observar, en lo conducente, las disposiciones de la Ley de Firma Electrónica Avanzada y su Reglamento.

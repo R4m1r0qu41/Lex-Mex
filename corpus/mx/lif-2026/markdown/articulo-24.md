@@ -17,4 +17,4 @@ source_sha256: a305ca23bba43cddf2275067af29bb0ba35def7aedbbb0d3fc4557da9067a82c
 
 # Artículo 24
 
-Durante el ejercicio fiscal de 2026 la tasa de retención anual a que se refieren los artículos 54 y 135 de la Ley del Impuesto sobre la Renta será del 0.90 por ciento.
+Durante el ejercicio fiscal de 2026 la tasa de retención anual a que se refieren los artículos [54](../../lisr/markdown/articulo-54.md) y [135](../../lisr/markdown/articulo-135.md) de la Ley del Impuesto sobre la Renta será del 0.90 por ciento.

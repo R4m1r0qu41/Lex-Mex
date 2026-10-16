@@ -30,7 +30,7 @@ La constancia referida, deberá señalar en forma expresa, los datos de la asamb
 
 Cuando la promovente sea representada por alguna persona que la haya representado en Inscripciones anteriores, bastará con presentar copia simple del instrumento público en el que se contenga el poder general o especial a que hace referencia el primer párrafo de este inciso, acompañada de la autentificación del secretario del consejo de administración o, en su caso, del comité técnico del fideicomiso.
 
-Tratándose de instituciones de crédito bastará con que se ajusten a lo previsto por el artículo 90 de la Ley de Instituciones de Crédito.
+Tratándose de instituciones de crédito bastará con que se ajusten a lo previsto por el artículo [90](../../lic/markdown/articulo-90.md) de la Ley de Instituciones de Crédito.
 
 c) Instrumento público o copia certificada ante fedatario público de la escritura constitutiva de la emisora, así como de las modificaciones a los estatutos sociales, cada uno con datos de inscripción en el Registro Público de Comercio o constancia de trámite en el citado Registro o, en su caso, la protocolización de la asamblea general de accionistas en la que se haya aprobado la compulsa de los estatutos sociales de la emisora con los datos del Registro Público de Comercio de dicho instrumento o constancia de trámite en el citado Registro.
 
@@ -38,7 +38,7 @@ d) Proyecto de acta de asamblea general de accionistas o del acuerdo del consejo
 
 El instrumento público o copia certificada del acta de asamblea con los datos de inscripción en el Registro Público de Comercio o constancia de trámite en el citado Registro, cuando así proceda o, en su caso, copia autentificada del acuerdo de consejo de administración o del comité técnico, deberá entregarse a más tardar el día de inicio de la oferta pública.
 
-Tratándose de sociedades anónimas promotoras de inversión bursátil, adicionalmente deberán incluirse las causas y efectos de la cancelación de la inscripción de las acciones en el Registro, en términos del artículo 108, fracción I de la Ley del Mercado de Valores.
+Tratándose de sociedades anónimas promotoras de inversión bursátil, adicionalmente deberán incluirse las causas y efectos de la cancelación de la inscripción de las acciones en el Registro, en términos del artículo [108](../../lmv/markdown/articulo-108.md), fracción I de la Ley del Mercado de Valores.
 
 e) Proyecto del título de los valores a ser Inscritos.
 
@@ -76,7 +76,7 @@ en energía e infraestructura o de proyectos de inversión, se presentarán Esta
 
 g) Documento a que hacen referencia los artículos [84](articulo-84.md), [84 Bis](articulo-84-Bis.md) y [87](articulo-87.md) de las presentes disposiciones, suscrito por el auditor externo y por el licenciado en derecho respectivamente.
 
-h) Opinión legal a que se refiere el artículo 87, fracción II de la Ley del Mercado de Valores, expedida por licenciado en derecho que reúna los requisitos de independencia previstos por el artículo [87](articulo-87.md) de estas disposiciones.
+h) Opinión legal a que se refiere el artículo [87](../../lmv/markdown/articulo-87.md), fracción II de la Ley del Mercado de Valores, expedida por licenciado en derecho que reúna los requisitos de independencia previstos por el artículo [87](articulo-87.md) de estas disposiciones.
 
 i) Derogado.
 
@@ -108,9 +108,9 @@ Tratándose de sociedades anónimas que cuenten con un comité que ejerza funcio
 
 “Finalmente, los suscritos ratificamos la opinión rendida a la asamblea general de accionistas relativa al informe que el director general en términos de la Ley del Mercado de Valores presentó a dicha asamblea, la cual se incluye en el prospecto y manifestamos que es la misma que se rindió ante la asamblea general de accionistas, de conformidad con dicho precepto legal”
 
-2. El comisario, tratándose de acciones o títulos de crédito que las representen, por lo que respecta a la opinión a que hace referencia el artículo 166, fracción IV de la Ley General de Sociedades Mercantiles, cuando se trate de sociedades anónimas que, acorde a su régimen legal, carezcan de comité que ejerza las funciones en materia de auditoría que rinda, conforme a la Ley del Mercado de Valores, la opinión equivalente, al calce de la leyenda siguiente:
+2. El comisario, tratándose de acciones o títulos de crédito que las representen, por lo que respecta a la opinión a que hace referencia el artículo [166](../../lgsm/markdown/articulo-166.md), fracción IV de la Ley General de Sociedades Mercantiles, cuando se trate de sociedades anónimas que, acorde a su régimen legal, carezcan de comité que ejerza las funciones en materia de auditoría que rinda, conforme a la Ley del Mercado de Valores, la opinión equivalente, al calce de la leyenda siguiente:
 
-“El suscrito ratifica la opinión que se incluye en el prospecto y manifiesta bajo protesta de decir verdad que es la misma que rindió ante la asamblea de accionistas, de conformidad con el artículo 166 de la Ley General de Sociedades Mercantiles.”
+“El suscrito ratifica la opinión que se incluye en el prospecto y manifiesta bajo protesta de decir verdad que es la misma que rindió ante la asamblea de accionistas, de conformidad con el artículo [166](../../lgsm/markdown/articulo-166.md) de la Ley General de Sociedades Mercantiles.”
 
 3. El director general, el director de finanzas y el director jurídico, o sus equivalentes, de la emisora, al calce de la leyenda siguiente:
 
@@ -176,7 +176,7 @@ El prospecto de colocación que se utilice para difusión al público respecto d
 
 Tratándose del suplemento informativo que se utilice para difusión al público en general, deberá estar suscrito en la hoja final por las personas a que hacen referencia los numerales 3., 4., y, en su caso, 5., a 10., y 12., anteriores.
 
-Con la autorización de la Comisión y, en caso de mantener valores colocados previamente, podrá incorporarse por referencia, en forma total o parcial en el prospecto de colocación, la información contenida en el reporte anual o reportes que la emisora, avales, garantes o cualquier tercero del cual exista dependencia parcial de los valores que haya proporcionado a la bolsa y al público en general, de conformidad con lo previsto en las fracciones II a V del artículo 104 de la Ley del Mercado de Valores y en las presentes disposiciones, siempre que se señale la página electrónica en la red mundial denominada Internet en que dichos reportes podrán consultarse durante la vigencia de la emisión.
+Con la autorización de la Comisión y, en caso de mantener valores colocados previamente, podrá incorporarse por referencia, en forma total o parcial en el prospecto de colocación, la información contenida en el reporte anual o reportes que la emisora, avales, garantes o cualquier tercero del cual exista dependencia parcial de los valores que haya proporcionado a la bolsa y al público en general, de conformidad con lo previsto en las fracciones II a V del artículo [104](../../lmv/markdown/articulo-104.md) de la Ley del Mercado de Valores y en las presentes disposiciones, siempre que se señale la página electrónica en la red mundial denominada Internet en que dichos reportes podrán consultarse durante la vigencia de la emisión.
 
 Para el caso de prospectos de colocación elaborados con motivo de ofertas públicas restringidas se podrá incorporar por referencia, en forma total o parcial, la información de avales, garantes o cualquier tercero del cual exista dependencia parcial de los valores, que sean extranjeros, siempre que dicho emisor extranjero o sus valores se encuentren inscritos, autorizados o regulados para su venta al público en general por las Comisiones de Valores u organismos equivalentes de los Estados que sean miembros designados del Consejo de la Organización Internacional de Comisiones de Valores o el organismo que lo sustituya. El prospecto de colocación respectivo deberá señalar la página electrónica en la red mundial denominada Internet en que dicha información podrá consultarse durante la vigencia de la emisión. En caso de que dicha información no esté disponible en idioma español, el prospecto de colocación deberá incluir un factor de riesgo al respecto.
 

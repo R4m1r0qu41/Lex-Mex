@@ -27,7 +27,7 @@ III.- A los que tengan de cinco a diez años de servicios, hasta cuarenta y cinc
 
 IV.- A los que tengan de diez años de servicio en adelante, hasta sesenta días con goce de sueldo integro y hasta sesenta días más con medio sueldo.
 
-En los casos previstos en las fracciones anteriores, si al vencer las licencias con sueldo y medio sueldo continúa la incapacidad, se prorrogará al trabajador la licencia, ya sin goce de sueldo, hasta totalizar en conjunto cincuenta y dos semanas, de acuerdo con el artículo 22 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+En los casos previstos en las fracciones anteriores, si al vencer las licencias con sueldo y medio sueldo continúa la incapacidad, se prorrogará al trabajador la licencia, ya sin goce de sueldo, hasta totalizar en conjunto cincuenta y dos semanas, de acuerdo con el artículo [22](../../lissste/markdown/articulo-22.md) de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
 Para los efectos de las fracciones anteriores, los cómputos deberán hacerse por servicios continuados, o cuando la interrupción en su prestación no sea mayor de seis meses.
 

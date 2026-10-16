@@ -25,6 +25,6 @@ Dicho recurso podrá efectuarse por correo certificado o mensajería, con acuse 
 
 En los recursos de revisión de solicitudes de acceso a la información, no se requerirá acreditar la identidad del interesado y la representación podrá hacerse en los términos establecidos por el artículo [84](articulo-84.md) del presente Reglamento. La presentación del recurso por medios electrónicos deberá realizarse por el interesado; en este caso no procederá la representación.
 
-En lo que respecta a datos personales la presentación del recurso de revisión deberá hacerse por el particular titular de los datos personales o su representante legal. Asimismo, la presentación de dicho recurso podrá ser remitida por medios electrónicos, siempre que el particular cuente con la certificación del medio de identificación electrónica a que se refiere el artículo 69-C de la Ley Federal de Procedimiento Administrativo.
+En lo que respecta a datos personales la presentación del recurso de revisión deberá hacerse por el particular titular de los datos personales o su representante legal. Asimismo, la presentación de dicho recurso podrá ser remitida por medios electrónicos, siempre que el particular cuente con la certificación del medio de identificación electrónica a que se refiere el artículo [69-C](../../lfpa/markdown/articulo-69-C.md) de la Ley Federal de Procedimiento Administrativo.
 
 El plazo a que se refiere el artículo 55 de la Ley comenzará a correr al día hábil siguiente a aquel en que el Instituto reciba el recurso.

@@ -17,7 +17,7 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 2
 
-Además de las definiciones referidas en el artículo 2 de la Ley Federal de Protección al Consumidor, para los efectos de este Reglamento se entiende por Ley, a la Ley Federal de Protección al Consumidor.
+Además de las definiciones referidas en el artículo [2](../../lfpc/markdown/articulo-2.md) de la Ley Federal de Protección al Consumidor, para los efectos de este Reglamento se entiende por Ley, a la Ley Federal de Protección al Consumidor.
 
 Cuando se haga referencia a productos se entenderá respecto a bienes muebles.
 

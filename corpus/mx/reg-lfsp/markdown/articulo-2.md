@@ -17,7 +17,7 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 # Artículo 2
 
-Para efectos de este Reglamento, además de las definiciones establecidas en el artículo 2 de la [Ley](articulo-2.md) Federal de Seguridad Privada, se entenderá por:
+Para efectos de este Reglamento, además de las definiciones establecidas en el artículo [2](../../lfsp/markdown/articulo-2.md) de la [Ley](articulo-2.md) Federal de Seguridad Privada, se entenderá por:
 
 I. Cédula de identificación personal: La identificación que se expedirá al personal operativo una vez que se encuentre debidamente inscrito en el [Registro Nacional](articulo-2.md) de Personal de Seguridad Pública, previo pago de los derechos correspondientes;
 

@@ -19,7 +19,7 @@ source_sha256: 04c25edb67f0a8b6704cd7d56b7a4bb9f455c77a060199962317bbdb7c889247
 
 Se podrá incurrir en un [Balance presupuestario de recursos disponibles](articulo-2.md) negativo cuando:
 
-I. Se presente una caída en el Producto Interno Bruto nacional en términos reales, y lo anterior origine una caída en las participaciones federales con respecto a lo aprobado en el [Presupuesto de Egresos](articulo-2.md) de la Federación, y ésta no logre compensarse con los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las [Entidades Federativas](articulo-2.md) en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+I. Se presente una caída en el Producto Interno Bruto nacional en términos reales, y lo anterior origine una caída en las participaciones federales con respecto a lo aprobado en el [Presupuesto de Egresos](articulo-2.md) de la Federación, y ésta no logre compensarse con los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las [Entidades Federativas](articulo-2.md) en los términos del artículo [19](../../lfprh/markdown/articulo-19.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
 
 II. Sea necesario cubrir el costo de la reconstrucción provocada por los desastres naturales declarados en los términos de la Ley General de Protección Civil, o
 

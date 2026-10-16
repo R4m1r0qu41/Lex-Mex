@@ -27,7 +27,7 @@ b) Generar materia prima para realizar las investigaciones a que se refieren las
 
 c) Producir semilla;
 
-II. Investigación para la salud, en términos del artículo 3 del Reglamento de la [Ley](articulo-3.md) General de Salud en Materia de Investigación para la Salud;
+II. Investigación para la salud, en términos del artículo [3](../../reg-lgs-investigacion/markdown/articulo-3o.md) del Reglamento de la [Ley](articulo-3.md) General de Salud en Materia de Investigación para la Salud;
 
 III. Investigación farmacológica a que se refiere el Capítulo II del Título Tercero del Reglamento de la Ley General de Salud en Materia de Investigación para la Salud;
 

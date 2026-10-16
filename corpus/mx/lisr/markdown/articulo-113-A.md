@@ -17,7 +17,7 @@ source_sha256: 803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786
 
 # Artículo 113-A
 
-Están obligados al pago del impuesto establecido en esta Sección, los contribuyentes personas físicas con actividades empresariales que enajenen bienes o presten servicios a través de Internet, mediante plataformas tecnológicas, aplicaciones informáticas y similares que presten los servicios a que se refiere la fracción II del artículo 18-B de la Ley del Impuesto al Valor Agregado, por los ingresos que generen a través de los citados medios por la realización de las actividades mencionadas, incluidos aquellos pagos que reciban por cualquier concepto adicional a través de los mismos.
+Están obligados al pago del impuesto establecido en esta Sección, los contribuyentes personas físicas con actividades empresariales que enajenen bienes o presten servicios a través de Internet, mediante plataformas tecnológicas, aplicaciones informáticas y similares que presten los servicios a que se refiere la fracción II del artículo [18-B](../../liva/markdown/articulo-18-B.md) de la Ley del Impuesto al Valor Agregado, por los ingresos que generen a través de los citados medios por la realización de las actividades mencionadas, incluidos aquellos pagos que reciban por cualquier concepto adicional a través de los mismos.
 
 El impuesto a que se refiere el párrafo anterior, se pagará mediante retención que efectuarán las personas morales residentes en México o residentes en el extranjero con o sin establecimiento permanente en el país, así como las entidades o figuras jurídicas extranjeras que proporcionen, de manera directa o indirecta, el uso de las citadas plataformas tecnológicas, aplicaciones informáticas y similares.
 

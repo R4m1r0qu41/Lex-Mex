@@ -23,4 +23,4 @@ II. La expedida conjuntamente por la citada Comisión y el Banco de México con 
 
 Lo previsto en la disposición segunda transitoria, párrafo primero de la Circular 10-263 continuará en vigor para efectos de lo previsto en el artículo [10](articulo-10.md) de las presentes disposiciones, hasta en tanto la Secretaría dé a conocer el capital social mínimo pagado aplicable a las casas de bolsa.
 
-Asimismo, se deroga el artículo [71](articulo-71.md) de las “Disposiciones de carácter general aplicables a las emisoras de valores y a otros participantes del mercado de valores”, publicadas en el Diario Oficial de la Federación el 19 de marzo de 2003.
+Asimismo, se deroga el artículo [71](../../cue-dcg-2003/markdown/articulo-71.md) de las “Disposiciones de carácter general aplicables a las emisoras de valores y a otros participantes del mercado de valores”, publicadas en el Diario Oficial de la Federación el 19 de marzo de 2003.

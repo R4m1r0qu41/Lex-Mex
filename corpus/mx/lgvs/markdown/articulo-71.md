@@ -17,7 +17,7 @@ source_sha256: b82b6148e235121951a94cb388fe59dbebe4212c8a6c85f26704873150827911
 
 # Artículo 71
 
-La [Secretaría](articulo-3o.md) podrá establecer limitaciones al aprovechamiento de poblaciones de la vida silvestre, incluyendo las vedas y su modificación o levantamiento, de acuerdo con lo previsto en el artículo 81 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, cuando a través de otras medidas no se pueda lograr la conservación o recuperación de las poblaciones.
+La [Secretaría](articulo-3o.md) podrá establecer limitaciones al aprovechamiento de poblaciones de la vida silvestre, incluyendo las vedas y su modificación o levantamiento, de acuerdo con lo previsto en el artículo [81](../../lgeepa/markdown/articulo-81.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, cuando a través de otras medidas no se pueda lograr la conservación o recuperación de las poblaciones.
 
 En casos de desastres naturales o derivados de actividades humanas, la Secretaría podrá establecer vedas temporales al aprovechamiento como medida preventiva y complementaria a otras medidas, con la finalidad de evaluar los daños ocasionados, permitir la recuperación de las poblaciones y evitar riesgos a la salud humana.
 

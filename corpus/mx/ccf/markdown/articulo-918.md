@@ -17,4 +17,4 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 918
 
-Si no pudiere hacerse la calificación conforme a la regla establecida en el artículo que precede, se reputará principal el objeto cuyo uso, perfección o adorno se haya conseguido por la unión del otro.
+Si no pudiere hacerse la calificación conforme a la regla establecida en el [artículo que precede](articulo-917.md), se reputará principal el objeto cuyo uso, perfección o adorno se haya conseguido por la unión del otro.

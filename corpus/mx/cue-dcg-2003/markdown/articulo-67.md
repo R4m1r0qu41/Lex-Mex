@@ -16,4 +16,4 @@ source_sha256: b040dd53cd38f57ceaacd736fd04475ba82c840d063c62229302627d09f3f363
 
 # Artículo 67
 
-Los títulos representativos de los valores a que hace referencia el artículo [65](articulo-65.md), primer párrafo de estas disposiciones, deberán contener la firma autógrafa del representante común designado, con la mención de que posee tal carácter. Cuando se trate de títulos emitidos de manera electrónica conforme al artículo 282 de la Ley del Mercado de Valores se deberá utilizar la firma electrónica avanzada.
+Los títulos representativos de los valores a que hace referencia el artículo [65](articulo-65.md), primer párrafo de estas disposiciones, deberán contener la firma autógrafa del representante común designado, con la mención de que posee tal carácter. Cuando se trate de títulos emitidos de manera electrónica conforme al artículo [282](../../lmv/markdown/articulo-282.md) de la Ley del Mercado de Valores se deberá utilizar la firma electrónica avanzada.

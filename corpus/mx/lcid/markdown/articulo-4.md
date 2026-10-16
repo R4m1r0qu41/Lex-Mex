@@ -45,4 +45,4 @@ XIII. Registro Nacional: Registro nacional de instituciones y expertos participa
 
 XIV. Secretaría: La Secretaría de Relaciones Exteriores.
 
-XV. Tratados Internacionales: Los instrumentos de Derecho Internacional Público a que se refiere la fracción I del artículo 2 de la Ley sobre la Celebración de Tratados.
+XV. Tratados Internacionales: Los instrumentos de Derecho Internacional Público a que se refiere la fracción I del artículo [2](../../lsct/markdown/articulo-2o.md) de la Ley sobre la Celebración de Tratados.

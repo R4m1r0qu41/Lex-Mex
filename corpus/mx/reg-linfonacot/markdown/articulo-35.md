@@ -17,4 +17,4 @@ source_sha256: 1462bbacad053d49c213e32c1859dd914c1415d2c37c6a22970bd87877a9c9bd
 
 # Artículo 35
 
-El Instituto contará con un Órgano Interno de Control, al frente del cual habrá un Titular designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, quien para el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.
+El Instituto contará con un Órgano Interno de Control, al frente del cual habrá un Titular designado en los términos del artículo [37](../../loapf/markdown/articulo-37.md), fracción XII, de la Ley Orgánica de la Administración Pública Federal, quien para el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.

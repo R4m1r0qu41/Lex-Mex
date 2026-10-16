@@ -25,4 +25,4 @@ II. Los recursos que le sean asignados anualmente en el Presupuesto de Egresos d
 
 III. Los demás bienes que, en su caso, le sean transferidos bajo cualquier otro título.
 
-Las relaciones de trabajo entre la Secretaría Ejecutiva y sus trabajadores, se rigen por el artículo 123, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos.
+Las relaciones de trabajo entre la Secretaría Ejecutiva y sus trabajadores, se rigen por el artículo [123](../../cpeum/markdown/articulo-123.md), Apartado B, de la Constitución Política de los Estados Unidos Mexicanos.

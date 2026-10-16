@@ -19,4 +19,4 @@ source_sha256: 102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842
 
 Las dependencias y entidades, así como los sujetos obligados deberán conservar en medios electrónicos, los mensajes de datos y los documentos electrónicos con firma electrónica avanzada derivados de los actos a que se refiere esta Ley, durante los plazos de conservación previstos en los ordenamientos aplicables, según la naturaleza de la información.
 
-Mediante disposiciones generales se establecerá lo relativo a la conservación de los mensajes de datos y de los documentos electrónicos con firma electrónica avanzada, para lo cual se tomarán en cuenta, entre otros requisitos, los previstos en la Norma Oficial Mexicana a que se refiere el artículo 49 del Código de Comercio.
+Mediante disposiciones generales se establecerá lo relativo a la conservación de los mensajes de datos y de los documentos electrónicos con firma electrónica avanzada, para lo cual se tomarán en cuenta, entre otros requisitos, los previstos en la Norma Oficial Mexicana a que se refiere el artículo [49](../../ccom/markdown/articulo-49.md) del Código de Comercio.

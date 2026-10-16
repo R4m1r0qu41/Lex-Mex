@@ -21,7 +21,7 @@ En los folios de las personas morales se inscribirán:
 
 I. Los instrumentos por los que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles y sus estatutos;
 
-II. Los instrumentos que contengan la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil y de sus reformas, previa autorización en los términos de los artículos 17 y 17 A de la Ley de Inversión Extranjera; y Fracción reformada DOF 24-12-1996
+II. Los instrumentos que contengan la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil y de sus reformas, previa autorización en los términos de los artículos [17](../../lie/markdown/articulo-17.md) y [17](../../lie/markdown/articulo-17.md) A de la Ley de Inversión Extranjera; y Fracción reformada DOF 24-12-1996
 
 III. Las fundaciones y asociaciones de beneficiencia privada.
 

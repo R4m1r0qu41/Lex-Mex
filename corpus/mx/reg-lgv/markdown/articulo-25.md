@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 25
 
-La Comisión Ejecutiva es un organismo descentralizado, no sectorizado, con personalidad jurídica y patrimonio propio, goza de autonomía técnica y de gestión el cual queda comprendido en el supuesto previsto en el artículo 5 de la Ley Federal de las Entidades Paraestatales.
+La Comisión Ejecutiva es un organismo descentralizado, no sectorizado, con personalidad jurídica y patrimonio propio, goza de autonomía técnica y de gestión el cual queda comprendido en el supuesto previsto en el artículo [5](../../lfep/markdown/articulo-5o.md) de la Ley Federal de las Entidades Paraestatales.
 
 La Comisión Ejecutiva, en términos de lo dispuesto por la Ley y el presente Reglamento, tiene por objeto:
 

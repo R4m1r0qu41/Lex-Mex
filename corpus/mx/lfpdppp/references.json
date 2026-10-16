@@ -311,5 +311,57 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-septimo:reference:195-197:25:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-septimo",
+    "source_span": "25",
+    "start_char": 195,
+    "end_char": 197,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtaip",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtaip:article:25",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XV",
+        "start_char": 199,
+        "end_char": 210
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:tercero:reference:14-16:71:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:tercero",
+    "source_span": "71",
+    "start_char": 14,
+    "end_char": 16,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtaip",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtaip:article:71",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:tercero:reference:19-21:72:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:tercero",
+    "source_span": "72",
+    "start_char": 19,
+    "end_char": 21,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtaip",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtaip:article:72",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   }
 ]

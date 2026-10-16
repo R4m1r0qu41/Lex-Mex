@@ -117,6 +117,116 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lepecfe:article:105:reference:1547-1549:41:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lepecfe:article:105",
+    "source_span": "41",
+    "start_char": 1547,
+    "end_char": 1549,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:41",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 1522,
+        "end_char": 1533
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 1685,
+        "end_char": 1696
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lepecfe:article:105:reference:4455-4458:107:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lepecfe:article:105",
+    "source_span": "107",
+    "start_char": 4455,
+    "end_char": 4458,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lepecfe:article:107:reference:870-873:107:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lepecfe:article:107",
+    "source_span": "107",
+    "start_char": 870,
+    "end_char": 873,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lepecfe:article:108:reference:3861-3864:107:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lepecfe:article:108",
+    "source_span": "107",
+    "start_char": 3861,
+    "end_char": 3864,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lepecfe:article:109:reference:135-137:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lepecfe:article:109",
+    "source_span": "32",
+    "start_char": 135,
+    "end_char": 137,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:32",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo tercero",
+        "start_char": 206,
+        "end_char": 221
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lepecfe:article:111:reference:476-478:10:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lepecfe:article:111",
+    "source_span": "10",
+    "start_char": 476,
+    "end_char": 478,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgdp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgdp:article:10",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lepecfe:article:111:reference:3423-3426:105:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lepecfe:article:111",
     "source_span": "105",
@@ -537,6 +647,72 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lepecfe:article:93:reference:748-750:42:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lepecfe:article:93",
+    "source_span": "42",
+    "start_char": 748,
+    "end_char": 750,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgbn:article:42",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 724,
+        "end_char": 734
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lepecfe:article:94:reference:203-204:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lepecfe:article:94",
+    "source_span": "3",
+    "start_char": 203,
+    "end_char": 204,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgbn:article:3",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones III y V",
+        "start_char": 205,
+        "end_char": 223
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lepecfe:article:94:reference:227-228:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lepecfe:article:94",
+    "source_span": "4",
+    "start_char": 227,
+    "end_char": 228,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgbn",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgbn:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo cuarto",
+        "start_char": 229,
+        "end_char": 243
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",

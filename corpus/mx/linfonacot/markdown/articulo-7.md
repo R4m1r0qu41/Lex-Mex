@@ -17,4 +17,4 @@ source_sha256: 78fb5069898e5e58096511208e3cfa308922eb1c5c68f68c4ecd80b20c6f422f
 
 # Artículo 7
 
-Las relaciones de trabajo entre el [Instituto](articulo-4.md) y su personal se regirán por la [Ley](articulo-4.md) Federal del Trabajo, reglamentaria del Apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+Las relaciones de trabajo entre el [Instituto](articulo-4.md) y su personal se regirán por la [Ley](articulo-4.md) Federal del Trabajo, reglamentaria del Apartado "A" del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos.

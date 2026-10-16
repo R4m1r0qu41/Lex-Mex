@@ -17,4 +17,4 @@ source_sha256: 390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32
 
 # Artículo 1o
 
-La presente Ley es reglamentaria del artículo 73, fracción XXI, párrafo primero, en materia de trata de personas, de la Constitución Política de los Estados Unidos Mexicanos, y es de orden público e interés social. LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
+La presente Ley es reglamentaria del artículo [73](../../cpeum/markdown/articulo-73.md), fracción XXI, párrafo primero, en materia de trata de personas, de la Constitución Política de los Estados Unidos Mexicanos, y es de orden público e interés social. LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS

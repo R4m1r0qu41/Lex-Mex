@@ -31,7 +31,7 @@ V. Emitir y enviar vía electrónica a los receptores de los servicios digitales
 
 VI. Designar ante el Servicio de Administración Tributaria cuando se lleve a cabo el registro a que se refiere la fracción I de este artículo un representante legal y proporcionar un domicilio en territorio nacional para efectos de notificación y vigilancia del cumplimiento de las obligaciones fiscales por las actividades a que se refiere el presente Capítulo.
 
-VII. Tramitar su firma electrónica avanzada, conforme a lo dispuesto por el artículo 19-A del Código Fiscal de la Federación.
+VII. Tramitar su firma electrónica avanzada, conforme a lo dispuesto por el artículo [19-A](../../cff/markdown/articulo-19-A.md) del Código Fiscal de la Federación.
 
 Las obligaciones establecidas en las fracciones I, III, IV, V, VI y VII de este artículo, deberán cumplirse de conformidad con las reglas de carácter general que para tal efecto emita el Servicio de Administración Tributaria.
 

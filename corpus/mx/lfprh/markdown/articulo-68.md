@@ -19,7 +19,7 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 Los ejecutores de gasto que establezcan percepciones extraordinarias en favor de los servidores públicos a su cargo, por concepto de estímulos al desempeño destacado o reconocimientos e incentivos similares, deberán sujetarse a lo siguiente:
 
-I. Los estímulos deberán otorgarse en los términos que dispongan el artículo 9 de la Ley de Planeación, la Ley del Servicio Profesional de Carrera en la Administración Pública Federal, la Ley de Premios, Estímulos y Recompensas Civiles, o en las demás leyes que prevean expresamente percepciones extraordinarias similares;
+I. Los estímulos deberán otorgarse en los términos que dispongan el artículo [9](../../lplan/markdown/articulo-9o.md) de la Ley de Planeación, la Ley del Servicio Profesional de Carrera en la Administración Pública Federal, la Ley de Premios, Estímulos y Recompensas Civiles, o en las demás leyes que prevean expresamente percepciones extraordinarias similares;
 
 II. Los recursos para cubrir los estímulos deberán estar previstos en sus respectivos presupuestos;
 

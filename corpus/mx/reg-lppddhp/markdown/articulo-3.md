@@ -17,7 +17,7 @@ source_sha256: 43b274e9565f7bfe9e8d404998a6baf17ac415d624a70cbcde9f1f3b639d56a7
 
 # Artículo 3
 
-Además de los términos que establece el artículo 2 de la [Ley](articulo-3.md) para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, se entenderá por:
+Además de los términos que establece el artículo [2](../../lppddhp/markdown/articulo-2.md) de la [Ley](articulo-3.md) para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, se entenderá por:
 
 I. Ley: Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas;
 

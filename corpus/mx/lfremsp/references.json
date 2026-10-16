@@ -60,6 +60,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:article:12:reference:934-936:42:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfremsp:article:12",
+    "source_span": "42",
+    "start_char": 934,
+    "end_char": 936,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 938,
+        "end_char": 948
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfremsp:article:13:reference:344-346:11:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfremsp:article:13",
     "source_span": "11",

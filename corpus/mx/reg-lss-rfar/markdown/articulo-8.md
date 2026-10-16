@@ -37,4 +37,4 @@ V. Determinar, con base en los estudios que realice el Instituto, el horizonte d
 
 VI. Fijar el porcentaje máximo que se podrá invertir en valores, títulos de crédito u otros derechos, incluyendo sus subyacentes, emitidos o garantizados por personas relacionadas entre sí.
 
-Para estos efectos, se considerará que se está en presencia de personas relacionadas entre sí, cuando estas se ubiquen en alguno de los supuestos señalados en el artículo 2, fracción XIX, de la Ley del Mercado de Valores.
+Para estos efectos, se considerará que se está en presencia de personas relacionadas entre sí, cuando estas se ubiquen en alguno de los supuestos señalados en el artículo [2](../../lmv/markdown/articulo-2.md), fracción XIX, de la Ley del Mercado de Valores.

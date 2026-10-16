@@ -35,4 +35,4 @@ a) Armas de fuego permitidas, y b) Explosivos permitidos, en este y en el inciso
 
 Las instituciones de seguridad deberán dotar a los agentes con el equipo de protección y vehículos con y sin blindaje, a fin de proteger su integridad y disminuir la necesidad del uso de armas de cualquier tipo.
 
-En todos los casos, las armas que se autoricen para los cuerpos de policía deberán apegarse a lo establecido en el párrafo tercero del artículo 24 de la Ley Federal de Armas de Fuego y Explosivos.
+En todos los casos, las armas que se autoricen para los cuerpos de policía deberán apegarse a lo establecido en el párrafo tercero del artículo [24](../../lfafe/markdown/articulo-24.md) de la Ley Federal de Armas de Fuego y Explosivos.

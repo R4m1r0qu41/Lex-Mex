@@ -17,7 +17,7 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 165
 
-El solicitante de las medidas precautorias o de aseguramiento será responsable del pago de los daños y perjuicios causados a la persona en contra de quien se hubieren ejecutado, en los términos del artículo 393 del Código Federal de Procedimientos Civiles, cuando:
+El solicitante de las medidas precautorias o de aseguramiento será responsable del pago de los daños y perjuicios causados a la persona en contra de quien se hubieren ejecutado, en los términos del artículo [393](../../cfpc/markdown/articulo-393.md) del Código Federal de Procedimientos Civiles, cuando:
 
 I. Se haya solicitado una medida y no se hubiera presentado la demanda dentro del término de [Ley](articulo-2o.md);
 

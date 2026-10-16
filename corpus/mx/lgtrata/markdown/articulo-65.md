@@ -17,7 +17,7 @@ source_sha256: 390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32
 
 # Artículo 65
 
-La protección de las víctimas, ofendidos y testigos de los delitos contenidos en la presente Ley comprenderá, además de lo previsto en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y de los demás contemplado en esta Ley, los siguientes rubros:
+La protección de las víctimas, ofendidos y testigos de los delitos contenidos en la presente Ley comprenderá, además de lo previsto en el artículo [20](../../cpeum/markdown/articulo-20.md) de la Constitución Política de los Estados Unidos Mexicanos y de los demás contemplado en esta Ley, los siguientes rubros:
 
 I. Se garantizará a las víctimas de los delitos previstos en la presente Ley, cuando sea necesario, alojamiento adecuado, atención médica de calidad, acceso a la educación, capacitación y oportunidades de empleo, hasta su total recuperación y resocialización.
 

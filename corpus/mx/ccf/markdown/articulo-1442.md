@@ -17,4 +17,4 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 1442
 
-Lo dispuesto en el artículo que precede se observará también en el legado de una fianza, ya sea hecho al fiador, ya al deudor principal.
+Lo dispuesto en el [artículo que precede](articulo-1441.md) se observará también en el legado de una fianza, ya sea hecho al fiador, ya al deudor principal.

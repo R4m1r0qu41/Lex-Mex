@@ -31,7 +31,7 @@ V. Las sociedades y asociaciones civiles, así como las sociedades cooperativas.
 
 VI. Las personas morales que tributen conforme a los artículos [72](articulo-72.md) y [73](articulo-73.md) de esta Ley.
 
-VII. Las asociaciones en participación a que se refiere el artículo 17-B del Código Fiscal de la Federación.
+VII. Las asociaciones en participación a que se refiere el artículo [17-B](../../cff/markdown/articulo-17-B.md) del Código Fiscal de la Federación.
 
 VIII. Las que llevan a cabo operaciones de maquila a que se refiere el artículo [182](articulo-182.md) de esta Ley.
 

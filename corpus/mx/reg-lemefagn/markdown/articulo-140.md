@@ -55,7 +55,7 @@ VII. Acumular el número o porcentaje de faltas justificadas o injustificadas qu
 
 VIII. Estar comprendido en alguna de las causales de baja señaladas en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos o en la Ley de la Guardia Nacional, en el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional y demás disposiciones aplicables; Fracción reformada DOF 20-03-2026
 
-IX. Presentar algún padecimiento de los establecidos en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Fracción reformada DOF 27-01-2012
+IX. Presentar algún padecimiento de los establecidos en el artículo [226](../../lissfam/markdown/articulo-226.md) de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Fracción reformada DOF 27-01-2012
 
 X. Por motivos de salud, al acumular más de treinta días por semestre que le impidan cumplir con sus obligaciones académicas y militares, dentro de la Institución Educativa, certificado por dos personas médicas militares en activo; Fracción adicionada DOF 27-01-2012. Reformada DOF 20-03-2026
 
@@ -97,7 +97,7 @@ XX. Llevar a cabo conductas de hostigamiento y acoso sexual, debidamente acredit
 
 XXI. Contar con sentencia ejecutoria en la que se le imponga la pena de prisión, sin importar si la sentencia fue dictada por una autoridad jurisdiccional militar, federal o local; Fracción adicionada DOF 05-08-2024
 
-XXII. Incurrir en alguna de las demás causales de baja previstas en el contrato de enganche o carta compromiso a que se refiere el artículo 150 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Fracción adicionada DOF 05-08-2024
+XXII. Incurrir en alguna de las demás causales de baja previstas en el contrato de enganche o carta compromiso a que se refiere el artículo [150](../../loefam/markdown/articulo-150.md) de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Fracción adicionada DOF 05-08-2024
 
 XXIII. Realizarse tatuajes durante su permanencia en la Institución Educativa, con las características siguientes:
 

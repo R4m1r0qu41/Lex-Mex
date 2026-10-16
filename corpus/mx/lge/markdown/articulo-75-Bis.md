@@ -23,6 +23,6 @@ I. Los criterios de sostenibilidad, progresividad, la ausencia de conflicto de i
 
 II. La regulación de la venta de alimentos y bebidas naturales y preparados, saludables, sostenibles, y de la región; así como el consumo de agua simple potable.
 
-III. La prohibición de la venta y publicidad de los alimentos y bebidas procesados y a granel que no favorezcan la salud de los educandos o la pongan en riesgo por su bajo valor nutricional de acuerdo con los criterios nutrimentales incluidos en el artículo 212 de la Ley General de Salud y las demás disposiciones en la materia.
+III. La prohibición de la venta y publicidad de los alimentos y bebidas procesados y a granel que no favorezcan la salud de los educandos o la pongan en riesgo por su bajo valor nutricional de acuerdo con los criterios nutrimentales incluidos en el artículo [212](../../lgs/markdown/articulo-212.md) de la Ley General de Salud y las demás disposiciones en la materia.
 
 Artículo adicionado DOF 20-12-2023

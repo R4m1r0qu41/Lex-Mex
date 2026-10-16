@@ -19,4 +19,4 @@ source_sha256: 05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d
 
 Cuando el acto reclamado sea la orden de deportación, expulsión o extradición, la suspensión tiene por efecto que no se ejecute y la persona interesada quede en el lugar donde se encuentre a disposición del órgano jurisdiccional de amparo, sólo en lo que se refiere a su libertad personal.
 
-Artículo reformado DOF 13-03-2025 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
+Artículo reformado DOF 13-03-2025 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS [103](../../cpeum/markdown/articulo-103.md) Y [107](../../cpeum/markdown/articulo-107.md) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS

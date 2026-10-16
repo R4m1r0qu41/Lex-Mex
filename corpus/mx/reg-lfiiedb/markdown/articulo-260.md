@@ -17,4 +17,4 @@ source_sha256: 85d60fd8e0d0d2dac1758f672c5b2200ee6e501eecd8c635b0ac89a93d930b97
 
 # Artículo 260
 
-Las garantías que los Contratistas, Desarrolladores o Proveedores estén obligados a otorgar a favor de los Interesados contratantes en términos de este Reglamento y los contratos de inversión estratégica, según corresponda, deberán otorgarse en términos de lo previsto en el artículo 79 del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria o, en su caso, por conducto de los fideicomisos de proyecto, según resulte aplicable.
+Las garantías que los Contratistas, Desarrolladores o Proveedores estén obligados a otorgar a favor de los Interesados contratantes en términos de este Reglamento y los contratos de inversión estratégica, según corresponda, deberán otorgarse en términos de lo previsto en el artículo [79](../../reg-lfprh/markdown/articulo-79.md) del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria o, en su caso, por conducto de los fideicomisos de proyecto, según resulte aplicable.

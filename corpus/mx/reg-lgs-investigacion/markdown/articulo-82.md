@@ -17,4 +17,4 @@ source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
 
 # Artículo 82
 
-Los microorganismos que se clasifiquen en el grupo de riesgo IV deberán manejarse en laboratorios de máxima seguridad microbiología, bajo la autorización y control de las autoridades sanitarias correspondientes a que alude el artículo [4](articulo-4o.md)o. de la Ley.
+Los microorganismos que se clasifiquen en el grupo de riesgo IV deberán manejarse en laboratorios de máxima seguridad microbiología, bajo la autorización y control de las autoridades sanitarias correspondientes a que alude el artículo 4o. de la Ley.

@@ -17,6 +17,6 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 81
 
-La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código.
+La omisión del registro, en el caso del [artículo que precede](articulo-80.md), no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código.
 
 Artículo reformado DOF 03-01-1979

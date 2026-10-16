@@ -17,4 +17,4 @@ source_sha256: 70f871ee9f8791063f9da9df9eab93b68efc1f2878f8024299bb5cd93b238658
 
 # Artículo 3o
 
-Los contribuyentes podrán acceder a los registros y documentos que formando parte de un expediente abierto a su nombre, obren en los archivos administrativos, siempre que tales expedientes correspondan a procedimientos terminados en la fecha de la solicitud, respetando en todo caso lo dispuesto por el artículo 69 del Código Fiscal de la Federación.
+Los contribuyentes podrán acceder a los registros y documentos que formando parte de un expediente abierto a su nombre, obren en los archivos administrativos, siempre que tales expedientes correspondan a procedimientos terminados en la fecha de la solicitud, respetando en todo caso lo dispuesto por el artículo [69](../../cff/markdown/articulo-69.md) del Código Fiscal de la Federación.

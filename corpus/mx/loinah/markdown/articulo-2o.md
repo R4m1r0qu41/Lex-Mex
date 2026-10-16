@@ -19,11 +19,11 @@ Son objetivos generales del Instituto Nacional de Antropología e Historia la in
 
 Para cumplir con sus objetivos, el Instituto Nacional de Antropología e Historia tendrá las siguientes funciones:
 
-I. En los términos del artículo 3o. de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, aplicar las leyes, reglamentos, decretos y acuerdos en las materias de su competencia.
+I. En los términos del artículo [3](../../lfmzaah/markdown/articulo-3o.md)o. de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, aplicar las leyes, reglamentos, decretos y acuerdos en las materias de su competencia.
 
 II. Efectuar investigaciones científicas que interesen a la Arqueología e Historia de México, a la Antropología y Etnografía de la población del país.
 
-III. En los términos del artículo 7o. de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, otorgar los permisos y dirigir las labores de restauración y conservación de los monumentos arqueológicos e históricos que efectúen las autoridades de los estados y municipios.
+III. En los términos del artículo [7](../../lfmzaah/markdown/articulo-7o.md)o. de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, otorgar los permisos y dirigir las labores de restauración y conservación de los monumentos arqueológicos e históricos que efectúen las autoridades de los estados y municipios.
 
 IV. Proponer a la autoridad competente, la expedición de reglamentos que contengan normas generales y técnicas para la conservación y restauración de zonas y monumentos arqueológicos, históricos y paleontológicos, que sean aplicados en forma coordinada con los gobiernos estatales y municipales. V. Proponer al Secretario de Cultura la celebración de acuerdos de coordinación con las autoridades federales, estatales y municipales, tendientes a la mejor protección y conservación del patrimonio histórico, arqueológico y paleontológico de la nación y del carácter típico y tradicional de las ciudades y poblaciones. Fracción reformada DOF 17-12-2015
 

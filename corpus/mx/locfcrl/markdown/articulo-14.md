@@ -17,4 +17,4 @@ source_sha256: 1b50289dd80607f83a22c917a3ead722edbf30ee45e8756b3d764f000e1ffc48
 
 # Artículo 14
 
-La [Junta de Gobierno](articulo-3.md) podrá acordar la realización de todas las operaciones inherentes al objeto del [Centro](articulo-3.md) con sujeción a las disposiciones legales correspondientes, y salvo aquellas facultades referidas en los artículos 58 de la [Ley](articulo-3.md) Federal de las Entidades Paraestatales y 12 de esta Ley, podrá delegar discrecionalmente sus facultades en el Director General.
+La [Junta de Gobierno](articulo-3.md) podrá acordar la realización de todas las operaciones inherentes al objeto del [Centro](articulo-3.md) con sujeción a las disposiciones legales correspondientes, y salvo aquellas facultades referidas en los artículos [58](../../lfep/markdown/articulo-58.md) de la [Ley](articulo-3.md) Federal de las Entidades Paraestatales y 12 de esta Ley, podrá delegar discrecionalmente sus facultades en el Director General.

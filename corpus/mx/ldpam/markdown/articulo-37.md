@@ -17,4 +17,4 @@ source_sha256: e9c60d3644c8edcb600667e79ef7e3d218c21369879b0495b441f09d25aa78db
 
 # Artículo 37
 
-El Director General tendrá las atribuciones a que se refieren los artículos 22 y 59 de la [Ley](articulo-3o.md) Federal de las Entidades Paraestatales.
+El Director General tendrá las atribuciones a que se refieren los artículos [22](../../lfep/markdown/articulo-22.md) y [59](../../lfep/markdown/articulo-59.md) de la [Ley](articulo-3o.md) Federal de las Entidades Paraestatales.

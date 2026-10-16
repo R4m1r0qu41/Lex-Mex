@@ -27,7 +27,7 @@ IV. Dar de alta las claves de acceso de los sujetos obligados que hayan sido aut
 
 V. Establecer el padrón de enlaces que las instituciones de seguridad pública designen como supervisores para el debido cumplimiento de lo dispuesto por esta Ley, en cada una de las unidades administrativas de las instituciones de seguridad pública;
 
-VI. Requerir a las instituciones de seguridad pública la información relacionada al Registro, bajo el apercibimiento de que, en caso de no actualizar y enviar la información, se estará a lo dispuesto en el artículo 138 de la Ley General del Sistema Nacional de Seguridad Pública;
+VI. Requerir a las instituciones de seguridad pública la información relacionada al Registro, bajo el apercibimiento de que, en caso de no actualizar y enviar la información, se estará a lo dispuesto en el artículo [138](../../lgsnsp/markdown/articulo-138.md) de la Ley General del Sistema Nacional de Seguridad Pública;
 
 VII. Emitir las disposiciones necesarias para la adecuada captura, ingreso, envío, recepción, manejo, consulta o actualización de la información, mismos que deberán ajustarse a lo dispuesto por la normatividad aplicable en materia de transparencia, acceso a la información pública y protección de datos personales;
 

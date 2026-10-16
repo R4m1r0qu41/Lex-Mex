@@ -17,4 +17,4 @@ source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 
 # Artículo 74
 
-El decreto de expropiación deberá ser refrendado en términos de lo establecido por el artículo 13 de la Ley Orgánica de la Administración Pública Federal.
+El decreto de expropiación deberá ser refrendado en términos de lo establecido por el artículo [13](../../loapf/markdown/articulo-13.md) de la Ley Orgánica de la Administración Pública Federal.

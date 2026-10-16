@@ -17,7 +17,7 @@ source_sha256: 8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939
 
 # Artículo 74
 
-Asimismo y en virtud de lo señalado en la fracción III del artículo 8 de la Ley para Regular las Agrupaciones Financieras, las Sociedades Financieras de Objeto Múltiple Reguladas podrán llevar a cabo operaciones que les son propias a través de oficinas y sucursales de atención al público de otras entidades financieras integrantes del grupo financiero al que, en su caso, pertenezcan.
+Asimismo y en virtud de lo señalado en la fracción III del artículo [8](../../lraf/markdown/articulo-8o.md) de la Ley para Regular las Agrupaciones Financieras, las Sociedades Financieras de Objeto Múltiple Reguladas podrán llevar a cabo operaciones que les son propias a través de oficinas y sucursales de atención al público de otras entidades financieras integrantes del grupo financiero al que, en su caso, pertenezcan.
 
 Adicionalmente, las Sociedades Financieras de Objeto Múltiple Reguladas podrán promocionar y permitir que en sus oficinas o sucursales se comercialicen productos, bienes y servicios de las entidades financieras integrantes del grupo financiero al que pertenezcan o a las empresas filiales del mismo, o del grupo financiero en el que participe la institución de banca múltiple con la que tengan [Vínculos Patrimoniales](articulo-1.md), excepto la captación de recursos del público a través de depósitos de dinero.
 

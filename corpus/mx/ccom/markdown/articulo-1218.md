@@ -17,4 +17,4 @@ source_sha256: b99bbf981434011b6351ef308922fea90f6f0f8777b113183cf1737840c5bbef
 
 # Artículo 1218
 
-El cesionario se considera como apoderado del cedente para los efectos del artículo que precede.
+El cesionario se considera como apoderado del cedente para los efectos del [artículo que precede](articulo-1217.md).

@@ -1,6 +1,21 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:3:reference:53-54:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:3",
+    "source_span": "4",
+    "start_char": 53,
+    "end_char": 54,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:4",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:30:reference:94-111:29:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:30",
     "source_span": "artículo anterior",
@@ -13,6 +28,28 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:35:reference:130-132:37:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:35",
+    "source_span": "37",
+    "start_char": 130,
+    "end_char": 132,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:37",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XII",
+        "start_char": 134,
+        "end_char": 146
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",

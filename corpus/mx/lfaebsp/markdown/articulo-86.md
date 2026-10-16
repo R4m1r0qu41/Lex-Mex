@@ -23,6 +23,6 @@ I.- Ser ciudadano mexicano por nacimiento, que no adquiera otra nacionalidad y e
 
 II.- Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa;
 
-III.- No encontrarse en alguno de los impedimentos que para ser miembro del Órgano de Gobierno que señalan las fracciones II, III, IV y V, del artículo 19 de la Ley Federal de las Entidades Paraestatales, y Fracción reformada DOF 09-08-2019
+III.- No encontrarse en alguno de los impedimentos que para ser miembro del Órgano de Gobierno que señalan las fracciones II, III, IV y V, del artículo [19](../../lfep/markdown/articulo-19.md) de la Ley Federal de las Entidades Paraestatales, y Fracción reformada DOF 09-08-2019
 
 IV.- No formar parte de las instituciones autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta.

@@ -17,4 +17,4 @@ source_sha256: c0f203a9c6ebb990db8a2a43559ecf19e904f7c0757d0f334f7f4fb044aa6a12
 
 # Artículo 49
 
-El programa institucional de la entidad paraestatal se elaborará para los términos y condiciones a que se refiere el artículo 22 de la Ley de Planeación y se revisará anualmente para introducir las modificaciones que las circunstancias le impongan.
+El programa institucional de la entidad paraestatal se elaborará para los términos y condiciones a que se refiere el artículo [22](../../lplan/markdown/articulo-22.md) de la Ley de Planeación y se revisará anualmente para introducir las modificaciones que las circunstancias le impongan.
