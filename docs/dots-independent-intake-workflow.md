@@ -14,7 +14,7 @@ workspaces; use the existing Rust pipeline for canonical output.
   Fourteen reviewed EC2/EC3 additions were committed separately.
 - Applied packet and source intake worktree retained for evidence:
   `/private/tmp/lex-mex-intake-20261008`, branch `feat/intake-ec2-20261008`.
-  Current integration evidence: `docs/ec2-ec3-integration-2026-10-09.md`.
+  Current integration evidence: `docs/ec2-ec3-integration-2026-10-09.md` (archived 2026-10-16 to the git-ignored `archive/`; recover from git history).
 - Reader: `/Users/jr/Dev/lex-mex-reader`, `feat/public-reader`, `4072dd53b`.
   Its four-instrument public release is distinct from the full intake corpus.
 - Design: [Lex-Mex Figma](https://www.figma.com/design/ar2bES9p6jeUBY0w3E4eDY).

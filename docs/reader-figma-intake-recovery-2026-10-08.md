@@ -54,7 +54,7 @@ PDF and extracted-text hashes were recomputed and matched all eight manifests.
 Independent source-heading counts and numeric sequences matched each candidate,
 including the two Bis articles in reg-lfmn. Initial identity, terminal article
 text and original transitory labels were inspected. Details and hashes are in
-[`ec2-intake-audit-2026-10-08.json`](ec2-intake-audit-2026-10-08.json).
+`ec2-intake-audit-2026-10-08.json` (archived 2026-10-16 to the git-ignored `archive/`; recover from git history).
 
 Counts remain unfrozen: 16 count-baseline warnings plus two reg-lfmn suffix
 warnings remain. All 472 provision temporal statuses are `unknown`; no temporal

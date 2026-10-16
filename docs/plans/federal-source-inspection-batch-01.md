@@ -12,8 +12,8 @@ to the 14 campaign holds remain excluded.
 
 Baseline: `12e0cc75253076d5ccb783fd1432dcdb48695bfb` on main.
 Repository instructions, source bytes, Rust types and accepted decisions outrank
-this plan. Navigation: `docs/federal-ingestion-integration-review-2026-10-15.md`
-and `docs/federal-ingestion-followup-evidence.json`. Frozen replay roots are
+this plan. Navigation: `docs/federal-ingestion-integration-review-2026-10-15.md` (archived 2026-10-16 to the git-ignored `archive/`; recover from git history)
+and `docs/federal-ingestion-followup-evidence.json` (archived 2026-10-16 to the git-ignored `archive/`; recover from git history). Frozen replay roots are
 `.work/federal-followup-all-v1/shard-3/laem/` and
 `.work/federal-followup-all-v1/shard-6/lamni/`. They are evidence, not canonical
 admission authority. Initial unrelated notes deletions and external-agent audit

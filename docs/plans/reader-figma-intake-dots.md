@@ -27,7 +27,7 @@ instruction commits. Corpus 257 at data checkpoint `ebe688df2`; instructions
 at `023ed7451`. Figma and Dots deliverables remain recorded. Full required
 gate passed on identical code/canonical content; staged bytes and diff checked.
 No push or deployment. LFJS remains held for a separate fixture-backed repair.
-Commit IDs: docs/ec2-ec3-integration-2026-10-09.md, Local commit record.
+Commit IDs: docs/ec2-ec3-integration-2026-10-09.md (archived 2026-10-16 to the git-ignored `archive/`; recover from git history), Local commit record.
 
 ## Milestones and verification
 1. Inventory: report actual corpus count, stored validation status, prepared queue.

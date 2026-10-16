@@ -78,7 +78,7 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
   — LAEM and LAMNI inspected and admitted locally with frozen counts; 232
   instruments locally, temporal review and broader reverse linking deferred.
 
-- [`docs/plans/federal-ingestion-failure-repair.md`](docs/plans/federal-ingestion-failure-repair.md)
+- `docs/plans/federal-ingestion-failure-repair.md` (archived 2026-10-16 to the git-ignored `archive/`; recover from git history)
   — Parser and follow-up source-ownership/publication repairs verified on all
   227 frozen cases; 14 holds preserved, no canonical admission.
 

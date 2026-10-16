@@ -34,7 +34,7 @@ edges. Relink-induced unrelated changes in existing corpora were restored; they
 require separate source review. LFJS stays held outside corpus because its five
 numeric original transitories were omitted. No parser/schema change, temporal
 model run or legal-review resolution is part of this integration. Evidence:
-`docs/ec2-ec3-integration-2026-10-09.md`.
+`docs/ec2-ec3-integration-2026-10-09.md` (archived 2026-10-16 to the git-ignored `archive/`; recover from git history).
 
 ## 2026-10-07 — Article dates: original commencement for unamended articles, reform commencement otherwise
 

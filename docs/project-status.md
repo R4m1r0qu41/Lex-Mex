@@ -59,7 +59,7 @@ integrated main. Existing canonical text and legal-review records were preserved
 Local commit series recorded in the integration report; no push, deployment or
 temporal model run. The public reader still uses
 its separate four-instrument release. See
-[`ec2-ec3-integration-2026-10-09.md`](ec2-ec3-integration-2026-10-09.md).
+`ec2-ec3-integration-2026-10-09.md` (archived 2026-10-16 to the git-ignored `archive/`; recover from git history).
 
 ## Historical project snapshot (2026-08-24)
 
