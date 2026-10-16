@@ -1,0 +1,514 @@
+{
+  "baseline_head": "667e33a2c99d7a3c4a7e927b2efd8c82222f8669",
+  "scope": "Read-only linking-code audit after landed six fixes; no operator-held decisions modified.",
+  "extraction_review": {
+    "status": "findings_for_parent_handoff",
+    "reviewer": "independent GPT-6.1-Sol",
+    "baseline_head": "667e33a2c99d7a3c4a7e927b2efd8c82222f8669",
+    "scope": "Bounded reference extraction/context/qualifier review, CLI alias setup. No held-decision inspection or bulk corpus scan.",
+    "reproduction": {
+      "command": "CARGO_TARGET_DIR=/private/tmp/lex-linker-independent-audit/target cargo run --offline --manifest-path /private/tmp/lex-linker-claude-audit-20261016/Cargo.toml --quiet",
+      "exit_code": 0,
+      "source": "use std::{collections::HashSet,fs};\nuse lex_core::Provision;\nfn main(){\n let all:Vec<Provision>=serde_json::from_str(&fs::read_to_string(\"/Users/jr/Dev/lex-mex/corpus/mx/lritf/provisions.json\").unwrap()).unwrap();\n let ext=\"urn:lex-mx:federal:constitution:cpeum\";\n let opts=lex_parse::ReferenceOptions{policy:lex_parse::InstrumentContextPolicy::SentenceEarliestMarker{internal_markers:vec![\"de esta ley\".into()],external_instruments:vec![(\"constitución política de los estados unidos mexicanos\".into(),ext.into())]},transitory_citations:true,same_article_fractions:true,relative_references:true,historical_targets:vec![]};\n for text in [\n \"Se aplicará el artículo 1. La Constitución Política de los Estados Unidos Mexicanos reconoce derechos.\",\n \"Se aplicará el artículo 1; la Constitución Política de los Estados Unidos Mexicanos reconoce derechos.\",\n \"Se aplicará el artículo 1, segundo párrafo de esta Ley.\",\n \"Se aplicará el artículo 1, 2o. párrafo de esta Ley.\",\n \"Se aplicará el artículo 1, párrafo 2 de esta Ley.\",\n \"Se aplicará el artículo 1, fracción II, 2o. párrafo de esta Ley.\",\n \"Se aplicarán los artículos 1 a 3 de esta Ley.\",\n \"Se aplicará la fracción II del artículo 1 de esta Ley.\",\n \"Se aplicará el inciso a) del artículo 1 de esta Ley.\",\n \"Se aplicará la fracción II, inciso a) del artículo 1 de esta Ley.\",\n \"Se aplicará el artículo 1 del preconstitución política de los estados unidos mexicanosismo.\",\n ] {\n let mut ps=all[..3].to_vec();ps[1].text=text.into();\n let mut targets:HashSet<_>=ps.iter().map(|p|p.id.clone()).collect();targets.insert(format!(\"{ext}:article:1\"));\n let refs=lex_parse::extract_references(&ps,None,&opts,&targets).unwrap();\n println!(\"INPUT: {text}\");\n for e in refs.iter().filter(|e|e.source_provision_id==ps[1].id){println!(\"{} -> {} {:?} QUALIFIERS={:?}\",e.source_span,e.target_provision_id,e.resolution_status,e.qualifiers.iter().map(|q|&q.text).collect::<Vec<_>>());}\n }\n\n let social=\"urn:lex-mx:federal:statute:lss\";\n let opts=lex_parse::ReferenceOptions{policy:lex_parse::InstrumentContextPolicy::SentenceEarliestMarker{internal_markers:vec![\"de esta ley\".into()],external_instruments:vec![(\"ley del seguro social\".into(),social.into())]},transitory_citations:true,same_article_fractions:true,relative_references:true,historical_targets:vec![]};\n for text in [\"Se aplicará el artículo 1 de la Ley del Seguro Social.\",\"Se aplicará el artículo 1 de la Ley del Seguro Socialista.\"] {\n let mut ps=all[..3].to_vec();ps[1].text=text.into();let mut targets:HashSet<_>=ps.iter().map(|p|p.id.clone()).collect();targets.insert(format!(\"{social}:article:1\"));\n let refs=lex_parse::extract_references(&ps,None,&opts,&targets).unwrap();println!(\"INPUT: {text}\");for e in refs.iter().filter(|e|e.source_provision_id==ps[1].id){println!(\"{} -> {} {:?} QUALIFIERS={:?}\",e.source_span,e.target_provision_id,e.resolution_status,e.qualifiers.iter().map(|q|&q.text).collect::<Vec<_>>());}\n }\n}\n",
+      "cargo_toml": "[package]\nname = \"lex-linker-independent-audit\"\nversion = \"0.1.0\"\nedition = \"2024\"\n[dependencies]\nlex-core = { path = \"/Users/jr/Dev/lex-mex/crates/lex-core\" }\nlex-parse = { path = \"/Users/jr/Dev/lex-mex/crates/lex-parse\" }\nserde_json = \"1\"\n",
+      "lock_sha256": "631c270b357f2b867918af4e2fbcc68b3da2fcece173864bf39cea8565ff93f0",
+      "source_fixture": "Read only first three LRITF provisions as typed fixture templates; replace article2 text per case; add CPEUM1 or LSS1 to known_targets. No corpus writes.",
+      "stdout": "INPUT: Se aplicará el artículo 1. La Constitución Política de los Estados Unidos Mexicanos reconoce derechos.\n1 -> urn:lex-mx:federal:statute:lritf:article:1 Resolved QUALIFIERS=[]\nINPUT: Se aplicará el artículo 1; la Constitución Política de los Estados Unidos Mexicanos reconoce derechos.\n1 -> urn:lex-mx:federal:constitution:cpeum:article:1 Resolved QUALIFIERS=[]\nINPUT: Se aplicará el artículo 1, segundo párrafo de esta Ley.\n1 -> urn:lex-mx:federal:statute:lritf:article:1 Resolved QUALIFIERS=[\"segundo párrafo\"]\nINPUT: Se aplicará el artículo 1, 2o. párrafo de esta Ley.\n1 -> urn:lex-mx:federal:statute:lritf:article:1 Resolved QUALIFIERS=[]\n2 -> urn:lex-mx:federal:statute:lritf:article:2 Resolved QUALIFIERS=[]\nINPUT: Se aplicará el artículo 1, párrafo 2 de esta Ley.\n1 -> urn:lex-mx:federal:statute:lritf:article:1 Resolved QUALIFIERS=[]\n2 -> urn:lex-mx:federal:statute:lritf:article:2 Resolved QUALIFIERS=[]\nINPUT: Se aplicará el artículo 1, fracción II, 2o. párrafo de esta Ley.\n1 -> urn:lex-mx:federal:statute:lritf:article:1 Resolved QUALIFIERS=[\"fracción II\"]\n2 -> urn:lex-mx:federal:statute:lritf:article:2 Resolved QUALIFIERS=[]\nINPUT: Se aplicarán los artículos 1 a 3 de esta Ley.\n1 -> urn:lex-mx:federal:statute:lritf:article:1 Resolved QUALIFIERS=[]\n1 a 3 -> urn:lex-mx:federal:statute:lritf:article:2 Resolved QUALIFIERS=[]\n3 -> urn:lex-mx:federal:statute:lritf:article:3 Resolved QUALIFIERS=[]\nINPUT: Se aplicará la fracción II del artículo 1 de esta Ley.\n1 -> urn:lex-mx:federal:statute:lritf:article:1 Resolved QUALIFIERS=[\"fracción II\"]\nINPUT: Se aplicará el inciso a) del artículo 1 de esta Ley.\n1 -> urn:lex-mx:federal:statute:lritf:article:1 Resolved QUALIFIERS=[]\nINPUT: Se aplicará la fracción II, inciso a) del artículo 1 de esta Ley.\n1 -> urn:lex-mx:federal:statute:lritf:article:1 Resolved QUALIFIERS=[]\nINPUT: Se aplicará el artículo 1 del preconstitución política de los estados unidos mexicanosismo.\n1 -> urn:lex-mx:federal:constitution:cpeum:article:1 Resolved QUALIFIERS=[]\nINPUT: Se aplicará el artículo 1 de la Ley del Seguro Social.\n1 -> urn:lex-mx:federal:statute:lss:article:1 Resolved QUALIFIERS=[]\nINPUT: Se aplicará el artículo 1 de la Ley del Seguro Socialista.\n1 -> urn:lex-mx:federal:statute:lss:article:1 Resolved QUALIFIERS=[]\n"
+    },
+    "findings": [
+      {
+        "id": "numeric_paragraph_becomes_article",
+        "severity": "P2",
+        "path": "crates/lex-parse/src/lib.rs",
+        "lines": [
+          835,
+          871
+        ],
+        "related_lines": [
+          195,
+          208,
+          897,
+          911
+        ],
+        "input": "Se aplicará el artículo 1, 2o. párrafo de esta Ley.",
+        "expected": "Exactly one article1 edge with 2o. párrafo paragraph qualifier; no article2 edge.",
+        "actual": [
+          "1 -> urn:lex-mx:federal:statute:lritf:article:1 Resolved QUALIFIERS=[]",
+          "2 -> urn:lex-mx:federal:statute:lritf:article:2 Resolved QUALIFIERS=[]"
+        ],
+        "variants": [
+          "Se aplicará el artículo 1, párrafo 2 de esta Ley.",
+          "Se aplicará el artículo 1, fracción II, 2o. párrafo de esta Ley."
+        ],
+        "mechanism": "accepted_numbers accepts paragraph numeral as another article because separator permits qualifier words; qualifier slicing then removes numeral from article1 qualifier span.",
+        "control": "segundo párrafo yields one correctly qualified article1 edge.",
+        "origin": "Number-candidate/separator loop predates six fixes:9fe52b08f4,2026-07-02.",
+        "recommended_test": "Numeric paragraph qualifiers after single article and compound fraction must not become article-list numerals; keep genuine article lists and numeric ordinal instrument context intact.",
+        "observed_committed_instance": true,
+        "corpus_evidence": {
+          "artifact": ".work/linker-claude-audit-20261016/actual-lgpp-paragraph.json",
+          "confirmation": "Parent-confirmed current stored canonical edges; no new reproduction run by reviewer.",
+          "source_provision_id": "urn:lex-mx:federal:statute:lgpp:article:95",
+          "text_excerpt": " con que debe contar, establecido en el artículo 10, párrafo 2, inciso c), de esta Ley.",
+          "source_text_sha256": "c46ac664c62a8bf239379a58687a1537a1c2b08947e34e82c108071a770c6889",
+          "stored_edges": [
+            {
+              "schema_version": "0.1.0",
+              "id": "urn:lex-mx:federal:statute:lgpp:article:95:reference:2383-2385:10:direct",
+              "source_provision_id": "urn:lex-mx:federal:statute:lgpp:article:95",
+              "source_span": "10",
+              "start_char": 2383,
+              "end_char": 2385,
+              "target_instrument_id": "urn:lex-mx:federal:statute:lgpp",
+              "target_provision_id": "urn:lex-mx:federal:statute:lgpp:article:10",
+              "qualifiers": [],
+              "basis": "express_cross_reference",
+              "confidence": 1.0,
+              "resolution_status": "resolved",
+              "reference_form": "direct"
+            },
+            {
+              "schema_version": "0.1.0",
+              "id": "urn:lex-mx:federal:statute:lgpp:article:95:reference:2395-2396:2:direct",
+              "source_provision_id": "urn:lex-mx:federal:statute:lgpp:article:95",
+              "source_span": "2",
+              "start_char": 2395,
+              "end_char": 2396,
+              "target_instrument_id": "urn:lex-mx:federal:statute:lgpp",
+              "target_provision_id": "urn:lex-mx:federal:statute:lgpp:article:2",
+              "qualifiers": [
+                {
+                  "qualifier_type": "subsection",
+                  "text": "inciso c",
+                  "start_char": 2398,
+                  "end_char": 2406
+                }
+              ],
+              "basis": "express_cross_reference",
+              "confidence": 1.0,
+              "resolution_status": "resolved",
+              "reference_form": "direct"
+            }
+          ],
+          "expected": "One LGPP article10 edge qualified by paragraph2 and incisoc; paragraph numeral2 must not be a separate article2 target.",
+          "actual": "Stored article10 edge at2383..2385 has no qualifiers; false resolved article2 edge at2395..2396 receives inciso c at2398..2406."
+        }
+      },
+      {
+        "id": "semicolon_clause_retargets_previous_citation",
+        "severity": "P2",
+        "path": "crates/lex-parse/src/lib.rs",
+        "lines": [
+          1489,
+          1495
+        ],
+        "related_lines": [
+          603,
+          614,
+          1520,
+          1527
+        ],
+        "input": "Se aplicará el artículo 1; la Constitución Política de los Estados Unidos Mexicanos reconoce derechos.",
+        "expected": "The external law named in independent following clause must not govern preceding article1 citation; preserve local article1 or conservatively leave ambiguous, never resolve CPEUM1 on this text.",
+        "actual": [
+          "1 -> urn:lex-mx:federal:constitution:cpeum:article:1 Resolved QUALIFIERS=[]"
+        ],
+        "mechanism": "instrument_context_boundary delegates qualifier_boundary, which stops at period/newline but not semicolon; earliest later instrument alias within90byte lookahead retargets preceding reference.",
+        "control": "Replacing semicolon with period resolves local LRITF1.",
+        "origin": "Boundary logic predates six fixes:92004dc2b2,2026-07-14; context candidate logic b1aefe6d05,2026-07-03.",
+        "recommended_test": "Independent semicolon clauses must not supply governing aliases or qualifiers to earlier citations; retain semicolon-separated article-list support."
+      },
+      {
+        "id": "configured_alias_matches_inside_longer_word",
+        "severity": "P2",
+        "path": "crates/lex-parse/src/lib.rs",
+        "lines": [
+          736,
+          744
+        ],
+        "input": "Se aplicará el artículo 1 de la Ley del Seguro Socialista.",
+        "expected": "Configured ley del seguro social marker must not match inside Socialista; unrecognized distinct title should stay unlinked rather than resolve LSS1. Synthetic title solely tests lexical boundary; no claim such law exists.",
+        "actual": [
+          "1 -> urn:lex-mx:federal:statute:lss:article:1 Resolved QUALIFIERS=[]"
+        ],
+        "mechanism": "Configured markers use raw lower.find without left/right word boundaries; CLI longest-first normalization prevents some title-prefix collisions but does not prevent suffix-word matches.",
+        "control": "Exact Ley del Seguro Social correctly resolves LSS1.",
+        "origin": "b1aefe6d05,2026-07-03,pre-existing.",
+        "recommended_test": "Exact configured marker and punctuation succeed; substring of longer alphabetic token does not. Preserve longest official-title precedence."
+      },
+      {
+        "id": "parenthesized_prequalifier_loses_scope",
+        "severity": "P3",
+        "path": "crates/lex-parse/src/lib.rs",
+        "lines": [
+          169,
+          178
+        ],
+        "related_lines": [
+          1402,
+          1431
+        ],
+        "input": "Se aplicará la fracción II, inciso a) del artículo 1 de esta Ley.",
+        "expected": "Article1 edge retains fractionII and incisoa qualifier scope with exact source spans; minimally retain incisoa instead of silently dropping every qualifier.",
+        "actual": [
+          "1 -> urn:lex-mx:federal:statute:lritf:article:1 Resolved QUALIFIERS=[]"
+        ],
+        "mechanism": "Pre-qualifier regex requires bare letter followed immediately by whitespace+del; standard closing parenthesis prevents match; function supports only one captured qualifier phrase.",
+        "control": "fracciónII del artículo1 correctly records fraction qualifier; incisoa) del artículo1 yields no qualifiers.",
+        "origin": "cc98fac6f6,2026-07-03,pre-existing.",
+        "recommended_test": "Parenthesized inciso before article and compound fraction+inciso retain supported qualifier hierarchy and exact offsets."
+      }
+    ],
+    "limits": [
+      "Numeric-paragraph finding is corpus-confirmed by parent evidence in LGPP article95. The other three findings remain synthetic minimal reproductions with no committed occurrence asserted.",
+      "No regression of the six prior fixes demonstrated.",
+      "Simple numeric1a3 range control produced correct1,2,3 targets. No additional UTF8 span corruption demonstrated in bounded review.",
+      "No main code/corpus/staging/commit changes; parent-owned untracked task plan preserved.",
+      "Do not invoke another provider; parent prepares Claude handoff."
+    ]
+  },
+  "export_review": {
+    "reviewed_commit": "667e33a2c99d7a3c4a7e927b2efd8c82222f8669",
+    "captured_at": "2026-10-16T18:16:28.035700Z",
+    "mode": "read_only_main; export output/private metadata repro only in private temp roots",
+    "scope": "New export injection, target anchors and relative-path consumers beyond prior six fixes. Reference extraction context/ranges excluded.",
+    "findings": [
+      {
+        "id": "EXPORT-01",
+        "severity": "P2",
+        "status": "confirmed_on_committed_corpus_export",
+        "title": "Repeated fraction labels emit duplicate anchors and ambiguous section-qualified links",
+        "locations": [
+          {
+            "path": "crates/lex-export/src/lib.rs",
+            "line": 52
+          },
+          {
+            "path": "crates/lex-export/src/lib.rs",
+            "line": 529
+          },
+          {
+            "path": "crates/lex-export/src/lib.rs",
+            "line": 614
+          }
+        ],
+        "source_provision_id": "urn:lex-mx:federal:statute:lftr:article:180-bis",
+        "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:20",
+        "expected": "LFTR Article180Bis expressly cites CPEUM20 ApartadoB fractionI; a specific fraction link must uniquely identify B.I, or fall back to the article when that scope is unavailable.",
+        "actual": {
+          "source_text_excerpt": "artículo20, ApartadoB, fracciónI (spacing preserved in generated evidence)",
+          "injected_link": "[[Corpus/CPEUM/articulo-20#^f-i|I]]",
+          "target_anchor": "f-i",
+          "target_anchor_definition_count": 3,
+          "target_anchor_definition_prefixes": [
+            "I. El proceso penal tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;",
+            "I. A que se presuma su inocencia mientras no se declare su responsabilidad mediante sentencia emitida por el juez de la causa;",
+            "I. Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución y, cuando lo solicite, ser informado del desarrollo del procedimiento penal; II. Coadyuvar con el Ministerio"
+          ]
+        },
+        "cause": "The target registry stores a set of roman numerals with no section or occurrence identity; rendering emits the same f-i anchor for each top-level I paragraph. The qualifier consumer treats membership as proof of a unique anchor.",
+        "fix_suggestion": "Build a shared registry of actually emitted unique anchors. Suppress ambiguous fraction-specific links and use the whole article until canonical qualifier scope can select a unique section-aware target; do not guess from occurrence order. If section-aware anchors are added, preserve that scope explicitly across parser/validation/export contracts.",
+        "evidence": [
+          "export-evidence/cpeum-articulo-20.md",
+          "export-evidence/lftr-articulo-180-Bis.md",
+          "export-evidence/canonical-edge-and-term.json"
+        ],
+        "repro_root": "/private/tmp/lex-export-audit-47dprcoy",
+        "scope_limit": "No claim about which duplicate Obsidian chooses at runtime; the exported destination cannot uniquely designate B.I. Source extraction context was not re-audited."
+      },
+      {
+        "id": "EXPORT-02",
+        "severity": "P2",
+        "status": "confirmed_on_committed_corpus_export",
+        "title": "Definition links advertise fraction anchors that are never emitted",
+        "locations": [
+          {
+            "path": "crates/lex-export/src/lib.rs",
+            "line": 84
+          },
+          {
+            "path": "crates/lex-export/src/lib.rs",
+            "line": 114
+          },
+          {
+            "path": "crates/lex-export/src/lib.rs",
+            "line": 529
+          }
+        ],
+        "source_provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+        "term_id": "urn:lex-mx:federal:statute:lfcsq:term:desvio",
+        "expected": "A Desvío term link in LFCSQ must target an existing uniquely identified definition block or a safe whole-note fallback.",
+        "actual": {
+          "injected_link": "[[Corpus/LFCSQ/articulo-2#^f-xii|Desvío]]",
+          "generated_target_anchor_count": 0,
+          "target_provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+          "target_fraction": "XII",
+          "target_definition_start_char": 2558,
+          "related_second_missing_anchor": "LFCSQ Polígono de Inspección fractionXXVI also receives f-xxvi links with zero anchor definitions."
+        },
+        "cause": "term_anchor blindly derives f-<fraction>, but with_block_anchors only recognizes fractions at paragraph starts. These valid canonical definitions begin inline after another definition in the same paragraph, so no matching block anchor is rendered.",
+        "fix_suggestion": "Generate TermTargets from the same actual anchor registry used by rendering. Either split rendered definition blocks at validated definition spans and emit real unique anchors, or fall back to a whole-note link when no anchor exists. Preserve canonical source text.",
+        "evidence": [
+          "export-evidence/lfcsq-articulo-2.md",
+          "export-evidence/canonical-edge-and-term.json"
+        ],
+        "repro_root": "/private/tmp/lex-export-audit-47dprcoy",
+        "scope_limit": "Metadata-only inventory identified142 fraction-term targets with usages lacking paragraph-leading anchors; only the named LFCSQ targets were independently rendered and checked here."
+      },
+      {
+        "id": "EXPORT-03",
+        "severity": "P2",
+        "status": "confirmed_synthetic_metadata_case",
+        "title": "Standard Markdown chooses local targets by display acronym rather than instrument identity",
+        "locations": [
+          {
+            "path": "crates/lex-export/src/lib.rs",
+            "line": 722
+          }
+        ],
+        "source_provision_id": "urn:lex-mx:federal:statute:lftr:article:180-bis",
+        "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:20",
+        "expected": "[20](../../cpeum/markdown/articulo-20.md)",
+        "actual": "[20](articulo-20.md)",
+        "cause": "The local-versus-cross-instrument branch compares short_name. Distinct instruments sharing an acronym resolve a genuine cross-instrument edge to the source instrument local article, even though target ID and slug remain distinct.",
+        "fix_suggestion": "Carry instrument identity in LinkTarget and compare that identity with corpus.instrument.id; use slug only to construct a cross-instrument relative path. Display short names must not control identity.",
+        "evidence": [
+          "export-evidence/shortname-collision-repro.json"
+        ],
+        "repro_root": "/private/tmp/lex-export-shortname-audit-bgdqbync",
+        "scope_limit": "Private synthetic change of only CPEUM.short_name to LFTR. All current467 committed instrument short names were unique in the metadata scan; no live current collision claimed."
+      }
+    ],
+    "reproduction_commands": [
+      {
+        "slug": "cpeum",
+        "command": [
+          "/Users/jr/Dev/lex-mex/target/debug/lex-mex",
+          "--root",
+          "/Users/jr/Dev/lex-mex",
+          "export",
+          "cpeum",
+          "--format",
+          "obsidian",
+          "--obsidian-vault",
+          "/private/tmp/lex-export-audit-47dprcoy/vault"
+        ],
+        "exit_code": 0,
+        "output": "published Obsidian vault /private/tmp/lex-export-audit-47dprcoy/vault\nexported Obsidian\n"
+      },
+      {
+        "slug": "lftr",
+        "command": [
+          "/Users/jr/Dev/lex-mex/target/debug/lex-mex",
+          "--root",
+          "/Users/jr/Dev/lex-mex",
+          "export",
+          "lftr",
+          "--format",
+          "obsidian",
+          "--obsidian-vault",
+          "/private/tmp/lex-export-audit-47dprcoy/vault"
+        ],
+        "exit_code": 0,
+        "output": "published Obsidian vault /private/tmp/lex-export-audit-47dprcoy/vault\nexported Obsidian\n"
+      },
+      {
+        "slug": "lfcsq",
+        "command": [
+          "/Users/jr/Dev/lex-mex/target/debug/lex-mex",
+          "--root",
+          "/Users/jr/Dev/lex-mex",
+          "export",
+          "lfcsq",
+          "--format",
+          "obsidian",
+          "--obsidian-vault",
+          "/private/tmp/lex-export-audit-47dprcoy/vault"
+        ],
+        "exit_code": 0,
+        "output": "published Obsidian vault /private/tmp/lex-export-audit-47dprcoy/vault\nexported Obsidian\n"
+      },
+      {
+        "root": "/private/tmp/lex-export-shortname-audit-bgdqbync",
+        "setup": "Synthetic metadata-only private change: distinct CPEUM target retains its ID and slug, short_name set equal to LFTR. All current committed short names are unique; no actual collision claimed.",
+        "command": [
+          "/Users/jr/Dev/lex-mex/target/debug/lex-mex",
+          "--root",
+          "/private/tmp/lex-export-shortname-audit-bgdqbync",
+          "export",
+          "lftr",
+          "--format",
+          "markdown"
+        ],
+        "exit_code": 0,
+        "output": "exported Markdown\n",
+        "source_id": "urn:lex-mx:federal:statute:lftr:article:180-bis",
+        "target_id": "urn:lex-mx:federal:constitution:cpeum:article:20",
+        "expected": "[20](../../cpeum/markdown/articulo-20.md)",
+        "actual": "[20](articulo-20.md)",
+        "actual_local_destination_exists": true,
+        "rendered_line": "El registro del número de una línea telefónica móvil en el Padrón Nacional de Usuarios de Telefonía Móvil presume, con independencia de lo previsto en las leyes aplicables, la existencia de la misma, su pertenencia a la persona que aparece en aquél como titular o propietaria, así como la validez de los actos jurídicos que se relacionan con el respectivo contrato de prestación de servicios en sus diferentes modalidades y que obran en el Padrón salvo prueba en contrario, de conformidad con lo establecido en el artículo [20](articulo-20.md), Apartado B, fracción I de la [Constitución](articulo-3.md) Política de los Estados Unidos Mexicanos y las demás disposiciones jurídicas aplicables.]"
+      }
+    ],
+    "rendered_artifacts": [
+      {
+        "path": "export-evidence/cpeum-articulo-20.md",
+        "sha256": "32f22ccd814f9542d154807dbb296b54c416da7650616143a725491a7082395b"
+      },
+      {
+        "path": "export-evidence/lftr-articulo-180-Bis.md",
+        "sha256": "735aac39a5c473140b0358342e19e39a7d975efa2e8306466ceadc83a0b86e22"
+      },
+      {
+        "path": "export-evidence/lfcsq-articulo-2.md",
+        "sha256": "bcd8e0aa5082f1b32ca1761cfa276612e25df584e4abd1b2133cc5b8841702cf"
+      }
+    ],
+    "main_code_or_corpus_changes": false,
+    "claude_invoked": false,
+    "commit_or_stage_performed": false
+  },
+  "actual_lgpp_paragraph": {
+    "source": "urn:lex-mx:federal:statute:lgpp:article:95",
+    "text_excerpt": " con que debe contar, establecido en el artículo 10, párrafo 2, inciso c), de esta Ley.",
+    "matches": [
+      {
+        "schema_version": "0.1.0",
+        "id": "urn:lex-mx:federal:statute:lgpp:article:95:reference:2383-2385:10:direct",
+        "source_provision_id": "urn:lex-mx:federal:statute:lgpp:article:95",
+        "source_span": "10",
+        "start_char": 2383,
+        "end_char": 2385,
+        "target_instrument_id": "urn:lex-mx:federal:statute:lgpp",
+        "target_provision_id": "urn:lex-mx:federal:statute:lgpp:article:10",
+        "qualifiers": [],
+        "basis": "express_cross_reference",
+        "confidence": 1.0,
+        "resolution_status": "resolved",
+        "reference_form": "direct"
+      },
+      {
+        "schema_version": "0.1.0",
+        "id": "urn:lex-mx:federal:statute:lgpp:article:95:reference:2395-2396:2:direct",
+        "source_provision_id": "urn:lex-mx:federal:statute:lgpp:article:95",
+        "source_span": "2",
+        "start_char": 2395,
+        "end_char": 2396,
+        "target_instrument_id": "urn:lex-mx:federal:statute:lgpp",
+        "target_provision_id": "urn:lex-mx:federal:statute:lgpp:article:2",
+        "qualifiers": [
+          {
+            "qualifier_type": "subsection",
+            "text": "inciso c",
+            "start_char": 2398,
+            "end_char": 2406
+          }
+        ],
+        "basis": "express_cross_reference",
+        "confidence": 1.0,
+        "resolution_status": "resolved",
+        "reference_form": "direct"
+      }
+    ],
+    "source_text_sha256": "c46ac664c62a8bf239379a58687a1537a1c2b08947e34e82c108071a770c6889"
+  },
+  "candidate_numeric_paragraph_source_shapes": [
+    {
+      "source": "urn:lex-mx:federal:regulation:reg-diputados:article:63",
+      "excerpt": "conformidad con lo dispuesto en el artículo 20, párrafo 2, inciso e) de la Ley, devuelva el dictamen a la comisión respectiva, en virtud de que éste no cumpl"
+    },
+    {
+      "source": "urn:lex-mx:federal:statute:lgpp:article:95",
+      "excerpt": "que debe contar, establecido en el artículo 10, párrafo 2, inciso c), de esta Ley."
+    },
+    {
+      "source": "urn:lex-mx:federal:statute:lgipe:article:65",
+      "excerpt": "onsejo General en los términos del artículo 44, párrafo 1, inciso f) de esta Ley, quien, en todo tiempo, fungirá a la vez como Vocal Ejecutivo; seis Consejer"
+    },
+    {
+      "source": "urn:lex-mx:federal:statute:lgipe:article:76",
+      "excerpt": "onsejo General en los términos del artículo 44, párrafo 1, inciso f), quien, en todo tiempo, fungirá a la vez como Vocal Ejecutivo distrital; seis Consejeros"
+    },
+    {
+      "source": "urn:lex-mx:federal:statute:lgipe:article:197",
+      "excerpt": " conformidad con lo previsto en el artículo 191 párrafo 1 inciso e), deberá reunir los mismos requisitos que la Ley General establezca para los directores ej"
+    },
+    {
+      "source": "urn:lex-mx:federal:statute:lgipe:article:259",
+      "excerpt": "e de las actas a que se refiere el artículo 261, párrafo 1, inciso b), de esta Ley. En caso de no haber representante en las mesas directivas de casilla, las "
+    },
+    {
+      "source": "urn:lex-mx:federal:statute:lgipe:article:373",
+      "excerpt": ". La cuenta a la que se refiere el artículo 368, párrafo 5 de esta ley servirá para el manejo de los recursos para obtener el apoyo ciudadano y para, en su ca"
+    },
+    {
+      "source": "urn:lex-mx:federal:statute:lgipe:article:456",
+      "excerpt": "raves, como las establecidas en el artículo 452, párrafo 1, incisos a) y b), y cuando además sean reiteradas, con la suspensión por parte de la Unidad Técnica"
+    },
+    {
+      "source": "urn:lex-mx:federal:regulation:reg-senado:article:71",
+      "excerpt": "aval de grupo, a que se refiere el artículo 164, párrafo 3, de este Reglamento.\n\n2. Cuando la Mesa recibe un asunto que debe ser incorporado en el Orden del D"
+    },
+    {
+      "source": "urn:lex-mx:federal:statute:lgsmime:article:21-bis",
+      "excerpt": "os términos de lo dispuesto por el artículo 295, párrafo 2 y demás correlativos del Capítulo Tercero del Título Cuarto del Libro Quinto del Código Federal de "
+    },
+    {
+      "source": "urn:lex-mx:federal:statute:lgsmime:transitory:segundo",
+      "excerpt": " tener los efectos señalados en el artículo 56, párrafo 1, incisos a), c), d), e) y g), de esta ley, ajustándose en lo conducente a la elección de Jefe de Go"
+    },
+    {
+      "source": "urn:lex-mx:federal:statute:lgmime:article:19",
+      "excerpt": "sión administrativa previsto en el artículo 3, párrafo 2, inciso a, de esta Ley, el cual se regirá en los términos señalados en el Libro Segundo, Título Pri"
+    },
+    {
+      "source": "urn:lex-mx:federal:statute:lgmime:article:22",
+      "excerpt": "de cumplir con lo dispuesto por el artículo 2, párrafo 7, de esta Ley, deben hacerlas constar por escrito, las cuales deben contener:\n\na) La fecha, el lugar"
+    }
+  ],
+  "native_test_summary": {
+    "parser_passed": 206,
+    "exporter_passed": 10,
+    "failures": 0,
+    "full_native_gate_run": false,
+    "receipts": [
+      {
+        "path": ".work/linker-claude-audit-20261016/tests/lex-export.exit",
+        "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+        "receipt": "0\n"
+      },
+      {
+        "path": ".work/linker-claude-audit-20261016/tests/lex-export.log",
+        "sha256": "1e27dd44b5d22dd16688888d3914e20eab6bd3de65695be19e08edca5a8446d2",
+        "receipt": null
+      },
+      {
+        "path": ".work/linker-claude-audit-20261016/tests/lex-parse.exit",
+        "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+        "receipt": "0\n"
+      },
+      {
+        "path": ".work/linker-claude-audit-20261016/tests/lex-parse.log",
+        "sha256": "f4acc9293a7c62658e91e3574ecd04a3b55110301320ffefc1593a950a3e3453",
+        "receipt": null
+      }
+    ]
+  },
+  "implementation_sha256": {
+    "crates/lex-parse/src/lib.rs": "c8aefb457a4337195f866f9badd8645df60ffa1bacd5d261cff372ac6b12a97c",
+    "crates/lex-export/src/lib.rs": "f8361e1138f356fbf7a4e56eb6245695116983c1b616fe3fc1dd6a874979b667",
+    "crates/lex-cli/src/main.rs": "be7fef24658f6e0b8d4bfe8c1fbcd99e38ab095d466fe72fe09f999e18422dd5",
+    "crates/lex-core/src/lib.rs": "7d017c4115e5ea58a8dab0136fa8c6d5b2fa2bb7dd651f727947c1114b4f9016"
+  },
+  "integration_review": {
+    "relative_later_clause_guard": "No concrete regression found; bounded static/test review, not exhaustive corpus rerun.",
+    "corpus_closure_repeal_gate": "Present before proposals; no new concrete bypass demonstrated.",
+    "21_held_instruments": "Out of scope; operator decisions preserved."
+  },
+  "findings_total": 7,
+  "actual_corpus_or_export_confirmed": 3,
+  "synthetic_findings": 4,
+  "code_or_corpus_changed": false,
+  "claude_invoked": false,
+  "commit_or_push": false
+}

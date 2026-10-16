@@ -70,6 +70,10 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Completed
 
+- [`docs/plans/linker-claude-audit-2026-10-16.md`](docs/plans/linker-claude-audit-2026-10-16.md)
+  — Seven additional extraction/export findings reproduced and handed to Claude;
+  three actual corpus/export cases, four synthetic cases.
+
 - [`docs/plans/parser-linker-audit-2026-10-16.md`](docs/plans/parser-linker-audit-2026-10-16.md)
   — Six defects repaired; 278 tests and 44 replay stages pass. LGDNNA source
   citation remains a separate JRH review before corpus-wide relinking.
