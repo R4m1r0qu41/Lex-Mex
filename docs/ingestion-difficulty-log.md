@@ -1095,7 +1095,7 @@ every retargeted and removed edge rather than a sample.
   whose new graph changes or drops a persisted `historical_target_unavailable`
   or approved-outdated edge, like persisted repeal notices.
 
-**Open operator/JRH question (lrsic):** LRSIC Article 2 fraction V cites "el
+**Resolved 2026-10-16 (lrsic): operator decided the fraction V citation resolves to the current `lraf` (it refers to the Financial Groups law); the stored graph was migrated with `link lrsic`, which replaces the persisted `lraf-1990` edge for Article 2 fraction V with `lraf` article 12 (plus two LGSM edges the title markers add). The four Transitory Quinto edges stay on the historical identity. Originally an open operator/JRH question (lrsic):** LRSIC Article 2 fraction V cites "el
 artículo 12 de la Ley para Regular las Agrupaciones Financieras". The stored
 graph (and the 2026-08-24 entry above) keeps it on `lraf-1990`. The fraction
 carries `Fracción reformada DOF 23-01-2004, 01-02-2008, 09-03-2018`, after the
