@@ -2,10 +2,10 @@
 
 - **Status date:** 2026-10-16
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed and pushed instruments:** 467 (`corpus/mx/*/instrument.json`); `main` at `25732f3ef`, matches `origin/main`. The 32 further `corpus/mx` directories are NOM standards, a separate boundary
+- **Committed and pushed instruments:** 467 (`corpus/mx/*/instrument.json`); local `main` is 5 commits ahead of `origin/main` (`7326c41aa`), unpushed. The 32 further `corpus/mx` directories are NOM standards, a separate boundary
 - **Federal structural first pass:** structurally complete. 452 of 453 current Cámara laws and regulations are in the corpus; the one gap is `egdf`, excluded by operator decision ([coverage audit](federal-coverage-audit-2026-10-16.md))
 - **Deferred:** three DCGs (`consar-cuf-dcg-2018`, `cusf-dcg-2014`, `pld-lic115-dcg-2009`), outside the Cámara universe
-- **Next checkpoint:** land the corpus-wide relink on `main` after operator approval; then review the 12 instruments held at their previous graphs (11 cite an article absent from the target corpus, `lrsic` is held by the historical-edge guard pending an operator/JRH question). Reader database still waits. `lfiiedb` modeling remains open
+- **Next checkpoint:** corpus-wide relink and the parser/linker repair are landed locally (unpushed). Federal laws and regulations are in maintenance mode. Open: Codex technical review; JRH on `lgdnna` Article 157 and `lrsic`; EGDF recording (operator reviewing); 21 held instruments (target-side `Bis`/`Quintus` parser gaps); DCGs. The derived SQLite database is decided ([decisions](decisions.md)) but not built: no dependency, code or database file exists. `lfiiedb` modeling remains open
 - **Legal and temporal review:** none run on the 2026-10-15 admissions; provisions are `not_analyzed`
 
 ## 2026-10-16 reverse-linking checkpoint
