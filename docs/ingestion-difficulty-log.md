@@ -1069,8 +1069,8 @@ both narrow** (fixtures: `del_year_contraction_resolves`,
 
 ### [cluster] corpus-wide-reverse-linking — closure review findings — 2026-10-16
 
-Review of the first `link --all` closure (305 graphs rewritten, 27,429 → 30,414
-references, 4,138 resolved cross-instrument edges) against `25732f3ef`, reading
+Review of the first `link --all` closure (304 graphs rewritten, 27,429 → 30,413
+references, 4,137 resolved cross-instrument edges) against `25732f3ef`, reading
 every retargeted and removed edge rather than a sample.
 
 **Fixed in the closure (fixtures in `lex-parse` and `lex-cli`):**

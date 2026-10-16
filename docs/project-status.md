@@ -10,7 +10,7 @@
 
 ## 2026-10-16 reverse-linking checkpoint
 
-`link --all` relinked the 467 committed instruments against unique official titles plus the curated alias table. 305 graphs were rewritten and still validate (27,429 → 30,414 references, 4,138 resolved cross-instrument edges); 150 were already closed. 12 were left on their previous graphs: 11 whose new graph pointed at an article the target corpus does not contain (one missing article rejects the whole graph), and `lrsic`, held by a guard that never lets a relink change a persisted historical or approved edge. No provision text or instrument record changed. A review of every retargeted and removed edge fixed three linker defects before landing (constitution self-citations, decree titles, and a head-noun over-match). `Ley de Amnistía` (`lamn`, `lamni`) stays unlinked. Detail: [corpus-wide reverse linking](plans/corpus-wide-reverse-linking.md) and the `corpus-wide-reverse-linking` entry in `docs/ingestion-difficulty-log.md`.
+`link --all` relinked the 467 committed instruments against unique official titles plus the curated alias table. 304 graphs were rewritten and still validate (27,429 → 30,413 references, 4,137 resolved cross-instrument edges); 150 were already closed. 13 were left on their previous graphs: `lgdnna`, held at the operator's request pending JRH review (Article 135 Ter cites an Article 157 the retained text lacks), 11 whose new graph pointed at an article the target corpus does not contain (one missing article rejects the whole graph), and `lrsic`, held by a guard that never lets a relink change a persisted historical or approved edge. No provision text or instrument record changed. A review of every retargeted and removed edge fixed three linker defects before landing (constitution self-citations, decree titles, and a head-noun over-match). `Ley de Amnistía` (`lamn`, `lamni`) stays unlinked. Detail: [corpus-wide reverse linking](plans/corpus-wide-reverse-linking.md) and the `corpus-wide-reverse-linking` entry in `docs/ingestion-difficulty-log.md`.
 - **Current legal reviewer:** JRH
 
 ## 2026-10-15 admission checkpoint
@@ -38,9 +38,9 @@ IFPE validation).
 | Articles | 64,586 |
 | Original transitory provisions | 3,470 |
 | Annexes | 30 |
-| Reference edges | 30,414 |
-| — resolved / historical-target-unavailable / approved outdated | 30,408 / 5 / 1 |
-| — resolved cross-instrument edges | 4,138 |
+| Reference edges | 30,413 |
+| — resolved / historical-target-unavailable / approved outdated | 30,407 / 5 / 1 |
+| — resolved cross-instrument edges | 4,137 |
 | Provisions `not_analyzed` / `machine_accepted` / `lawyer_verified` / `review_required` | 47,843 / 20,240 / 2 / 1 |
 | Provisions with temporal status `unknown` | 46,524 |
 | Generated Markdown files under `corpus/mx` (incl. NOMs) | 68,560 |

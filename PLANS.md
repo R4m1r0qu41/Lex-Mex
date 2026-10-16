@@ -53,7 +53,7 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 - [`docs/plans/corpus-wide-reverse-linking.md`](docs/plans/corpus-wide-reverse-linking.md)
   — Relink the committed federal corpus, then validate and republish Markdown.
-  Complete on a branch (305 graphs rewritten, 12 held); awaiting approval to
+  Complete on a branch (304 graphs rewritten, 13 held); awaiting approval to
   land. The reader database waits until this graph is accepted.
 - [`docs/plans/nested-public-reader.md`](docs/plans/nested-public-reader.md)
   — Publish discoverable text and a source-backed nested reader with shared MCP access.
