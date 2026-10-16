@@ -42,7 +42,7 @@ Held by the repair of 2026-10-16: such a citation is now kept as an unresolved e
 | `lgcs` | 5 Bis | The article was supressed [Artículo 5 Bis.- Suprimido] and the reference was made inconstitutional. 
 | `lgoaac` | 5 Bis | There is no 5 bis as such but there are 5 bis 1 to 5 bis 4, and 45 bis-1, 45 bis 2, all the way to 45 bis 17, it is unneven on the use of the hyphen. There is also 95 bis to 95 bis 1.
 | `reg-lagra-mcdets` | 80 | It is a typo in the refernce it is meant to reference article 8o ordinal 8, not 80
-| `reg-lfce` | 73 | This regulation is abrogated. Reglamento abrogado DOF 12-10-2007
+| `reg-lfce` | 73 | Dead end no such article. 
 
 ## Paths out
 
