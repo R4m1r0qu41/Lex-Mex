@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 103
 
-Para efectos del artículo 74, párrafo tercero de la [Ley](articulo-1.md), en el caso de la copropiedad en la que se agrupen las personas físicas para realizar gastos necesarios para el desarrollo de actividades agrícolas, silvícolas, ganaderas o pesqueras, comprobarán dichos gastos con la constancia que le entregue el contribuyente que solicitó los comprobantes a su nombre en la que se especifique el monto total del gasto común y de los impuestos que, en su caso, se hayan trasladado, y la parte proporcional que le corresponda al integrante de que se trate. Además, dicha constancia deberá contener lo siguiente:
+Para efectos del artículo [74](../../lisr/markdown/articulo-74.md), párrafo tercero de la [Ley](articulo-1.md), en el caso de la copropiedad en la que se agrupen las personas físicas para realizar gastos necesarios para el desarrollo de actividades agrícolas, silvícolas, ganaderas o pesqueras, comprobarán dichos gastos con la constancia que le entregue el contribuyente que solicitó los comprobantes a su nombre en la que se especifique el monto total del gasto común y de los impuestos que, en su caso, se hayan trasladado, y la parte proporcional que le corresponda al integrante de que se trate. Además, dicha constancia deberá contener lo siguiente:
 
 I. Nombre, clave del registro federal de contribuyentes o, en su caso, clave única de registro de población, de la persona que prestó el servicio, arrendó o enajenó el bien;
 

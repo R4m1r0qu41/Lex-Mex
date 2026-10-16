@@ -17,7 +17,7 @@ source_sha256: 2fcb89f7d62bcd28ba179647dee39dd5c28437ebc8bcdb13ce6924b36b20b9e6
 
 # Artículo 9 ter
 
-La opinión de procedencia del Instituto competente, a que se refiere la fracción IV del artículo 5o. TER de la Ley, deberá contener, cuando menos, lo siguiente:
+La opinión de procedencia del Instituto competente, a que se refiere la fracción IV del artículo [5](../../lfmzaah/markdown/articulo-5o.md)o. TER de la Ley, deberá contener, cuando menos, lo siguiente:
 
 I.- La fundamentación que sustente la procedencia de la declaratoria, y
 

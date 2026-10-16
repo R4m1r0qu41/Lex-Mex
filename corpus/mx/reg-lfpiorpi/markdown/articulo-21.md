@@ -17,4 +17,4 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 21
 
-Para efectos de lo dispuesto por el artículo 17, fracción I, de la Ley, se considera como venta de boletos, fichas o cualquier otro comprobante similar, a cualquier acto u operación por medio del cual se reciban recursos que permitan la realización de actividades vinculadas con la práctica de juegos con apuesta, concursos o sorteos.
+Para efectos de lo dispuesto por el artículo [17](../../lfpiorpi/markdown/articulo-17.md), fracción I, de la Ley, se considera como venta de boletos, fichas o cualquier otro comprobante similar, a cualquier acto u operación por medio del cual se reciban recursos que permitan la realización de actividades vinculadas con la práctica de juegos con apuesta, concursos o sorteos.

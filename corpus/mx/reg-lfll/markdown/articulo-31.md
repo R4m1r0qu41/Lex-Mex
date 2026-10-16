@@ -17,7 +17,7 @@ source_sha256: d295edfeef5d5f77b69a5817a13bc40ee26d72d93f187b00e57e8badb40363fe
 
 # Artículo 31
 
-Para efecto de lo dispuesto en el artículo 27 de la [Ley](articulo-2.md), se entenderá por:
+Para efecto de lo dispuesto en el artículo [27](../../lfll/markdown/articulo-27.md) de la [Ley](articulo-2.md), se entenderá por:
 
 I. Profesional de la edición.- Persona física o moral cuya ocupación habitual está relacionada con cualquiera de las fases de la producción de libros;
 

@@ -19,7 +19,7 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 Corresponde a la División de Gendarmería:
 
-I. Generar condiciones de seguridad pública, mediante el despliegue operativo que realice en cumplimiento de las atribuciones previstas en el artículo 8, fracciones I, II, III o XXX de la [Ley](articulo-2.md), en las situaciones siguientes:
+I. Generar condiciones de seguridad pública, mediante el despliegue operativo que realice en cumplimiento de las atribuciones previstas en el artículo [8](../../lpf/markdown/articulo-8.md), fracciones I, II, III o XXX de la [Ley](articulo-2.md), en las situaciones siguientes:
 
 a) Ante la presencia de la delincuencia organizada o al alto índice delictivo, que amenacen la vida, la libertad, la integridad o el patrimonio de los ciudadanos;
 

@@ -17,6 +17,6 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 36
 
-La Secretaría puede en lo conducente suspender, revocar, extinguir o declarar la caducidad de los efectos de las autorizaciones, o de las constancias de los avisos, y de los demás actos jurídicos previstos en los artículos 68 y 69 de la [Ley](articulo-2.md), aplicando los procedimientos previstos en los artículos [78](articulo-78.md) y [79](articulo-79.md) del presente Reglamento.
+La Secretaría puede en lo conducente suspender, revocar, extinguir o declarar la caducidad de los efectos de las autorizaciones, o de las constancias de los avisos, y de los demás actos jurídicos previstos en los artículos [68](../../lgdfs/markdown/articulo-68.md) y [69](../../lgdfs/markdown/articulo-69.md) de la [Ley](articulo-2.md), aplicando los procedimientos previstos en los artículos [78](articulo-78.md) y [79](articulo-79.md) del presente Reglamento.
 
 Artículo reformado DOF 20-11-2025

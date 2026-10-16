@@ -35,4 +35,4 @@ La vigencia de la autorización a que se refiere la fracción IV del párrafo an
 
 En ningún caso, el plazo de la autorización y de la prórroga, será mayor a aquél por el que el autorizado acredite la legal posesión de los medios que se utilizarán para conducir a la entrada o salida del territorio nacional las Mercancías.
 
-La Autoridad Aduanera cancelará la autorización, además de lo establecido en el artículo 144-A de la [Ley](articulo-1.md), cuando se dejen de cumplir los requisitos señalados para el otorgamiento de la autorización, o bien, incumplan con las obligaciones inherentes a la misma previstas en la Ley, este Reglamento y la autorización. Párrafo reformado DOF 23-02-2026
+La Autoridad Aduanera cancelará la autorización, además de lo establecido en el artículo [144-A](../../ladua/markdown/articulo-144-A.md) de la [Ley](articulo-1.md), cuando se dejen de cumplir los requisitos señalados para el otorgamiento de la autorización, o bien, incumplan con las obligaciones inherentes a la misma previstas en la Ley, este Reglamento y la autorización. Párrafo reformado DOF 23-02-2026

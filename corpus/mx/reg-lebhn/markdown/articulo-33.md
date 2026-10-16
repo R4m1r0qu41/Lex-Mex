@@ -17,4 +17,4 @@ source_sha256: 3a86c9bc8afe7162bbcc0c31a28250ca91cfbf2cb6a08deddae0653977ae3d3f
 
 # Artículo 33
 
-El Himno Nacional sólo podrá ser ejecutado total o parcialmente en los actos previstos en el artículo 42 de la Ley. Asimismo, podrá reproducirse para efectos comerciales en accesorios, conforme lo establece el artículo 33 Bis de la Ley, ya sea en medios físicos, electrónicos, digitales o de cualquier otra naturaleza, en los que se haga la difusión en forma sonora o escrita, total o parcialmente.
+El Himno Nacional sólo podrá ser ejecutado total o parcialmente en los actos previstos en el artículo [42](../../lebhn/markdown/articulo-42.md) de la Ley. Asimismo, podrá reproducirse para efectos comerciales en accesorios, conforme lo establece el artículo [33 Bis](../../lebhn/markdown/articulo-33-Bis.md) de la Ley, ya sea en medios físicos, electrónicos, digitales o de cualquier otra naturaleza, en los que se haga la difusión en forma sonora o escrita, total o parcialmente.

@@ -17,4 +17,4 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 # Artículo 25
 
-Cuando por consideraciones técnicas de eficiencia y seguridad sea necesario limitar la entrada de [Prestadores de Servicios](articulo-2.md), la Secretaría convocará a concurso para el otorgamiento de permisos, conforme al procedimiento del artículo 24 de la [Ley](articulo-2.md).
+Cuando por consideraciones técnicas de eficiencia y seguridad sea necesario limitar la entrada de [Prestadores de Servicios](articulo-2.md), la Secretaría convocará a concurso para el otorgamiento de permisos, conforme al procedimiento del artículo [24](../../lpue/markdown/articulo-24.md) de la [Ley](articulo-2.md).

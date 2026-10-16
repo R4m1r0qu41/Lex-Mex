@@ -17,7 +17,7 @@ source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 
 # Artículo 38
 
-El Sistema Nacional DIF debe integrar un registro de niñas, niños y adolescentes susceptibles de adopción con la información que genere, así como la que los Sistemas de las Entidades y los Sistemas Municipales le remitan, de conformidad con lo previsto en la fracción III del artículo 29 de la [Ley](articulo-2.md).
+El Sistema Nacional DIF debe integrar un registro de niñas, niños y adolescentes susceptibles de adopción con la información que genere, así como la que los Sistemas de las Entidades y los Sistemas Municipales le remitan, de conformidad con lo previsto en la fracción III del artículo [29](../../lgdnna/markdown/articulo-29.md) de la [Ley](articulo-2.md).
 
 El registro de niñas, niños y adolescentes susceptibles de adopción que lleve el Sistema Nacional DIF contendrá la información siguiente:
 
@@ -91,4 +91,4 @@ d) El informe de seguimiento post-adoptivo, y
 
 e) La información que, en su caso, exista sobre procedimientos previos de adopción que hayan causado baja y especificar la causa.
 
-El Sistema Nacional DIF, en términos de los convenios que al efecto suscriba, impulsará y, en su caso, coadyuvará en la homologación de los sistemas de información a que se refiere el artículo 29, fracción III de la Ley que generen los Sistemas de las Entidades y los Sistemas Municipales.
+El Sistema Nacional DIF, en términos de los convenios que al efecto suscriba, impulsará y, en su caso, coadyuvará en la homologación de los sistemas de información a que se refiere el artículo [29](../../lgdnna/markdown/articulo-29.md), fracción III de la Ley que generen los Sistemas de las Entidades y los Sistemas Municipales.

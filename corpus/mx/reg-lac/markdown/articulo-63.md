@@ -23,7 +23,7 @@ I. (Se deroga) Fracción derogada DOF 08-08-2000
 
 II. El certificado de aeronavegabilidad y certificado de matrícula vigentes;
 
-III. La póliza de seguro en los términos del artículo 74 de la [Ley](articulo-2.md);
+III. La póliza de seguro en los términos del artículo [74](../../lac/markdown/articulo-74.md) de la [Ley](articulo-2.md);
 
 IV. Los datos del área en donde se pretenda realizar la demostración y los aeródromos civiles involucrados en la misma, y
 

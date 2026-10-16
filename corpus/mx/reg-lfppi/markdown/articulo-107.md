@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 107
 
-Para efectos de la fracción VII del artículo 214 de la Ley, en la ubicación del establecimiento o negociación relacionada con la marca podrá señalarse un sitio de Internet, siempre y cuando se manifieste bajo protesta de decir verdad por escrito que no se cuenta con un establecimiento físico.
+Para efectos de la fracción VII del artículo [214](../../lfppi/markdown/articulo-214.md) de la Ley, en la ubicación del establecimiento o negociación relacionada con la marca podrá señalarse un sitio de Internet, siempre y cuando se manifieste bajo protesta de decir verdad por escrito que no se cuenta con un establecimiento físico.

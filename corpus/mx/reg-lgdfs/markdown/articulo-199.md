@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 199
 
-Cuando la Comisión, mediante el Sistema Permanente de Evaluación y Alerta Temprana a que se refiere el artículo 112 de la [Ley](articulo-2.md) o el aviso a que se refiere el artículo [197](articulo-197.md) del presente Reglamento, tenga conocimiento sobre la presencia de Plagas o Enfermedades forestales, deberá dentro de los quince días hábiles siguientes, generar el informe técnico fitosanitario, a efecto de que emita la notificación para el combate y control de Plagas y Enfermedades forestales, en la cual dictará las medidas de Saneamiento forestal pertinentes.
+Cuando la Comisión, mediante el Sistema Permanente de Evaluación y Alerta Temprana a que se refiere el artículo [112](../../lgdfs/markdown/articulo-112.md) de la [Ley](articulo-2.md) o el aviso a que se refiere el artículo [197](articulo-197.md) del presente Reglamento, tenga conocimiento sobre la presencia de Plagas o Enfermedades forestales, deberá dentro de los quince días hábiles siguientes, generar el informe técnico fitosanitario, a efecto de que emita la notificación para el combate y control de Plagas y Enfermedades forestales, en la cual dictará las medidas de Saneamiento forestal pertinentes.
 
 El informe técnico fitosanitario contendrá como mínimo los datos siguientes:
 

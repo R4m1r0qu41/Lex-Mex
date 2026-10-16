@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 31
 
-Para los efectos del artículo 27, décimo primero y décimo segundo párrafos del [Código](articulo-1.md), el Servicio de Administración Tributaria, en su caso, asignará una nueva clave del registro federal de contribuyentes en los supuestos de cambio de nombre, denominación o razón social, o como consecuencia de corrección de errores u omisiones que den lugar a dichos cambios.
+Para los efectos del artículo [27](../../cff/markdown/articulo-27.md), décimo primero y décimo segundo párrafos del [Código](articulo-1.md), el Servicio de Administración Tributaria, en su caso, asignará una nueva clave del registro federal de contribuyentes en los supuestos de cambio de nombre, denominación o razón social, o como consecuencia de corrección de errores u omisiones que den lugar a dichos cambios.

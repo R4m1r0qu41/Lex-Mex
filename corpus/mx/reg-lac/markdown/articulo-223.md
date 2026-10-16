@@ -17,7 +17,7 @@ source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 
 # Artículo 223
 
-La aplicación de la totalidad de las fases del plan de implementación del Sistema de gestión de los riesgos asociados a la fatiga a la que se hace referencia en el artículo 78 Septies de la [Ley](articulo-2.md), se llevará a cabo mediante visitas de inspección de las fases de implementación del Sistema de las personas proveedoras de servicio y operadoras aéreas.
+La aplicación de la totalidad de las fases del plan de implementación del Sistema de gestión de los riesgos asociados a la fatiga a la que se hace referencia en el artículo [78 Septies](../../lac/markdown/articulo-78-Septies.md) de la [Ley](articulo-2.md), se llevará a cabo mediante visitas de inspección de las fases de implementación del Sistema de las personas proveedoras de servicio y operadoras aéreas.
 
 La Agencia Federal de Aviación Civil expedirá la autorización a cada fase, una vez que ésta se haya concluido satisfactoriamente conforme a las normas oficiales mexicanas y las disposiciones técnico- administrativas correspondientes.
 

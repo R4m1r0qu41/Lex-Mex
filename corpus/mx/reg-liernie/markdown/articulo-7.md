@@ -17,7 +17,7 @@ source_sha256: 8e60a8ba9f27b47d26806dbae115c0803dd9ea6a3a02a1b359dc86516d40759e
 
 # Artículo 7
 
-Para efectos de lo dispuesto en los artículos 10, fracción I y 16 último párrafo de la [Ley](articulo-1.md), el aviso que los interesados deben dar a la Secretaría de Relaciones Exteriores contendrá:
+Para efectos de lo dispuesto en los artículos [10](../../lie/markdown/articulo-10.md), fracción I y [16](../../lie/markdown/articulo-16.md) último párrafo de la [Ley](articulo-1.md), el aviso que los interesados deben dar a la Secretaría de Relaciones Exteriores contendrá:
 
 I. La ubicación y descripción del inmueble;
 

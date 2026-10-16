@@ -17,4 +17,4 @@ source_sha256: 7e1c33029ca423d65491911d15e2f1b436ed269540148af1e4787570441ac0b6
 
 # Artículo 16
 
-Será considerada una conducta discriminatoria, en términos del artículo 9 de la Ley, la negativa de otorgar un seguro de salud o de vida fundada en la única razón de que una persona tenga una discapacidad. Las autoridades competentes deberán cerciorase del cumplimiento de esta obligación en términos de las disposiciones jurídicas aplicables.
+Será considerada una conducta discriminatoria, en términos del artículo [9](../../lgipd/markdown/articulo-9.md) de la Ley, la negativa de otorgar un seguro de salud o de vida fundada en la única razón de que una persona tenga una discapacidad. Las autoridades competentes deberán cerciorase del cumplimiento de esta obligación en términos de las disposiciones jurídicas aplicables.

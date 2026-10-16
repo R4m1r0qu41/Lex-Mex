@@ -17,6 +17,6 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 145
 
-Los pagos de los gastos de defunción a que se refiere el artículo 73 de la [Ley](articulo-2.md), que se otorguen a los beneficiarios con motivo del fallecimiento del personal civil federal, militar o pensionistas directos con cargo al Erario Federal, se sujetarán a las modalidades que se establezcan en las disposiciones generales que emitan para tal efecto la Secretaría y la Función Pública.
+Los pagos de los gastos de defunción a que se refiere el artículo [73](../../lfprh/markdown/articulo-73.md) de la [Ley](articulo-2.md), que se otorguen a los beneficiarios con motivo del fallecimiento del personal civil federal, militar o pensionistas directos con cargo al Erario Federal, se sujetarán a las modalidades que se establezcan en las disposiciones generales que emitan para tal efecto la Secretaría y la Función Pública.
 
 Los gastos de defunción de los miembros del servicio exterior mexicano, incluido el personal de carrera y asimilado, temporal o eventual que fallezca fuera del país, se efectuarán conforme lo dispuesto por la Ley del Servicio Exterior Mexicano.

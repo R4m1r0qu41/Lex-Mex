@@ -17,7 +17,7 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 15
 
-Quienes realicen las Actividades Vulnerables establecidas en el artículo 17 de la Ley podrán dar cumplimiento a la obligación de identificación de la persona Cliente o Usuaria establecida en la fracción I del artículo 18 de la Ley, a través de medidas simplificadas cuando quienes las realicen sean consideradas de bajo riesgo, conforme a la evaluación a la que se refiere el artículo 18, fracción VII, de la Ley.
+Quienes realicen las Actividades Vulnerables establecidas en el artículo 17 de la Ley podrán dar cumplimiento a la obligación de identificación de la persona Cliente o Usuaria establecida en la fracción I del artículo [18](../../lfpiorpi/markdown/articulo-18.md) de la Ley, a través de medidas simplificadas cuando quienes las realicen sean consideradas de bajo riesgo, conforme a la evaluación a la que se refiere el artículo [18](../../lfpiorpi/markdown/articulo-18.md), fracción VII, de la Ley.
 
 La Secretaría, mediante las reglas de carácter general, establecerá los términos y condiciones para la aplicación de lo referido en el párrafo anterior, consistentes en que quienes realicen dichas Actividades Vulnerables cumplan con la obligación de recabar la copia del documento de identificación oficial, a través del resguardo de los datos señalados en el referido documento.
 

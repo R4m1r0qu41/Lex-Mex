@@ -15,7 +15,7 @@ source_sha256: 910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f
 
 # Artículo 13
 
-Para efectos del artículo 11, fracción III, de la [Ley](articulo-2.md), el aviso sobre la imposibilidad para consultar el Tablero Electrónico o abrir los Documentos Electrónicos, se podrá efectuar por cualquiera de los medios siguientes:
+Para efectos del artículo [11](../../lfea/markdown/articulo-11.md), fracción III, de la [Ley](articulo-2.md), el aviso sobre la imposibilidad para consultar el Tablero Electrónico o abrir los Documentos Electrónicos, se podrá efectuar por cualquiera de los medios siguientes:
 
 I. Mediante su registro en el Tablero Electrónico;
 

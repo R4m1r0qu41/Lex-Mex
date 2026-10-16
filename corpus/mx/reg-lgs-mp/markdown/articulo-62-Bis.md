@@ -17,7 +17,7 @@ source_sha256: 0fb9b74e27b7abf66250404ef5ec1c68acdc460e9cff5b381f49224ec6f71003
 
 # Artículo 62 Bis
 
-El aviso a que se refiere el artículo 270 de la [Ley](articulo-2.md), deberá presentarse por cada marca de producto y conforme al formato oficial que al efecto publique la [Secretaría](articulo-2.md) en el Diario Oficial de la Federación, el cual deberá contener por lo menos los siguientes datos:
+El aviso a que se refiere el artículo [270](../../lgs/markdown/articulo-270.md) de la [Ley](articulo-2.md), deberá presentarse por cada marca de producto y conforme al formato oficial que al efecto publique la [Secretaría](articulo-2.md) en el Diario Oficial de la Federación, el cual deberá contener por lo menos los siguientes datos:
 
 I. Nombre y domicilio del fabricante;
 

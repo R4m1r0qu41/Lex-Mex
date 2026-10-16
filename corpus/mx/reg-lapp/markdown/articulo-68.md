@@ -27,16 +27,16 @@ III. En caso de proyectos con origen en una propuesta no solicitada:
 
 a) El nombre del promotor;
 
-b) Los términos y condiciones para el pago del certificado para el reembolso de los gastos por los estudios realizados a que se refiere el artículo 31, fracción I de la Ley; Inciso reformado DOF 20-02-2017
+b) Los términos y condiciones para el pago del certificado para el reembolso de los gastos por los estudios realizados a que se refiere el artículo [31](../../lapp/markdown/articulo-31.md), fracción I de la Ley; Inciso reformado DOF 20-02-2017
 
-c) La mención del premio que, en su caso, se haya establecido en términos del artículo 31, fracción V de la Ley, y Inciso reformado DOF 20-02-2017
+c) La mención del premio que, en su caso, se haya establecido en términos del artículo [31](../../lapp/markdown/articulo-31.md), fracción V de la Ley, y Inciso reformado DOF 20-02-2017
 
-d) La mención de que el Promotor emitió la declaración unilateral de voluntad a que se refiere el artículo 31, fracción II de la Ley; Inciso adicionado DOF 20-02-2017
+d) La mención de que el Promotor emitió la declaración unilateral de voluntad a que se refiere el artículo [31](../../lapp/markdown/articulo-31.md), fracción II de la Ley; Inciso adicionado DOF 20-02-2017
 
 IV. Los requisitos, términos y condiciones para realizar los actos del [Concurso](articulo-11.md) a través de medios electrónicos;
 
-V. Los términos y condiciones para realizar la revisión preliminar y registro de participantes a que alude el artículo 49 de la Ley;
+V. Los términos y condiciones para realizar la revisión preliminar y registro de participantes a que alude el artículo [49](../../lapp/markdown/articulo-49.md) de la Ley;
 
-VI. Las causas, en adición a las previstas en el artículo 57 de la Ley, por las que los concursantes quedarán descalificados, y
+VI. Las causas, en adición a las previstas en el artículo [57](../../lapp/markdown/articulo-57.md) de la Ley, por las que los concursantes quedarán descalificados, y
 
 VII. El nombre, domicilio y dirección de correo electrónico del testigo social.

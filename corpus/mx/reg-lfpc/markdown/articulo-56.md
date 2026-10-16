@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 56
 
-En aquellos casos en que el proveedor solicite modificar el modelo de contrato de adhesión que tenga registrado ante la Procuraduría, ésta procederá conforme a lo dispuesto por el artículo 87 de la Ley y, en caso de que lo autorice, se registrará como un nuevo contrato y se le asignará un número de registro diferente.
+En aquellos casos en que el proveedor solicite modificar el modelo de contrato de adhesión que tenga registrado ante la Procuraduría, ésta procederá conforme a lo dispuesto por el artículo [87](../../lfpc/markdown/articulo-87.md) de la Ley y, en caso de que lo autorice, se registrará como un nuevo contrato y se le asignará un número de registro diferente.

@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 139
 
-Para efectos del artículo 93, segundo párrafo de la [Ley](articulo-1.md), el interesado podrá realizar el desistimiento del régimen de exportación en todos los casos, excepto cuando existan discrepancias, inexactitudes o falsedades entre los datos contenidos en el Pedimento y las Mercancías a que el mismo se refiere.
+Para efectos del artículo [93](../../ladua/markdown/articulo-93.md), segundo párrafo de la [Ley](articulo-1.md), el interesado podrá realizar el desistimiento del régimen de exportación en todos los casos, excepto cuando existan discrepancias, inexactitudes o falsedades entre los datos contenidos en el Pedimento y las Mercancías a que el mismo se refiere.

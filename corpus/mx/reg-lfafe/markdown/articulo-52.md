@@ -17,4 +17,4 @@ source_sha256: 9fedca5f25e5e912e6a91ad595c8782841e8227ffe9538bfb55c8d0bd4d7d183
 
 # Artículo 52
 
-Los clubes de deportistas de caza y tiro, están obligados a dedicar talonarios de volantes para compras que sus asociados hagan de municiones, pólvora enlatada o en cuñetes y elementos constitutivos para recargar cartuchos, a fin de asegurar que sólo se adquiere hasta el límite que señala el artículo 50 de la Ley.
+Los clubes de deportistas de caza y tiro, están obligados a dedicar talonarios de volantes para compras que sus asociados hagan de municiones, pólvora enlatada o en cuñetes y elementos constitutivos para recargar cartuchos, a fin de asegurar que sólo se adquiere hasta el límite que señala el artículo [50](../../lfafe/markdown/articulo-50.md) de la Ley.

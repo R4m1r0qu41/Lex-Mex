@@ -17,9 +17,9 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 139
 
-La condición de estancia de residente permanente prevista en el artículo 52, fracción IX, de la Ley se otorgará a la persona extranjera que demuestre alguno de los siguientes supuestos:
+La condición de estancia de residente permanente prevista en el artículo [52](../../lmigra/markdown/articulo-52.md), fracción IX, de la Ley se otorgará a la persona extranjera que demuestre alguno de los siguientes supuestos:
 
-I. Tener reconocimiento de la condición de refugiado, otorgamiento de protección complementaria, asilo político o determinación de apátrida en términos de la legislación en la materia; II. Tener vínculo con mexicano o persona extranjera residente permanente, conforme a las hipótesis de unidad familiar en términos de lo previsto en el artículo 55 de la Ley;
+I. Tener reconocimiento de la condición de refugiado, otorgamiento de protección complementaria, asilo político o determinación de apátrida en términos de la legislación en la materia; II. Tener vínculo con mexicano o persona extranjera residente permanente, conforme a las hipótesis de unidad familiar en términos de lo previsto en el artículo [55](../../lmigra/markdown/articulo-55.md) de la Ley;
 
 III. Ser pensionado o jubilado con ingresos mensuales suficientes para su manutención durante su estancia en el territorio nacional;
 

@@ -17,7 +17,7 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 8o
 
-Las [Administradoras](articulo-2o.md) en términos del artículo 37 de la [Ley](articulo-2o.md), sólo podrán cobrar comisiones por cuota fija a los [Trabajadores](articulo-2o.md) y a los [Trabajadores no Afiliados](articulo-2o.md) por la prestación de cualquiera de los siguientes servicios:
+Las [Administradoras](articulo-2o.md) en términos del artículo [37](../../lsar/markdown/articulo-37.md) de la [Ley](articulo-2o.md), sólo podrán cobrar comisiones por cuota fija a los [Trabajadores](articulo-2o.md) y a los [Trabajadores no Afiliados](articulo-2o.md) por la prestación de cualquiera de los siguientes servicios:
 
 I. Expedición de estados de cuenta adicionales a los previstos en la Ley;
 

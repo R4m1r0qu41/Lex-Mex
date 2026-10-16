@@ -21,9 +21,9 @@ Para efectos de la clasificación económica, la Secretaría podrá determinar d
 
 En la determinación de los niveles de desagregación aplicables a los ramos, cuando menos se deberán observar las premisas siguientes:
 
-I. En la formulación, integración y presentación del proyecto de Presupuesto de Egresos, en los términos establecidos en el artículo 41, fracción III, inciso b) de la [Ley](articulo-2.md);
+I. En la formulación, integración y presentación del proyecto de Presupuesto de Egresos, en los términos establecidos en el artículo [41](../../lfprh/markdown/articulo-41.md), fracción III, inciso b) de la [Ley](articulo-2.md);
 
-II. En la comunicación que realice la Secretaría respecto de la distribución de los presupuestos aprobados de los ramos a que se refiere el artículo 44, párrafo primero de la Ley, el nivel de desagregación se determinará conforme al presupuesto aprobado;
+II. En la comunicación que realice la Secretaría respecto de la distribución de los presupuestos aprobados de los ramos a que se refiere el artículo [44](../../lfprh/markdown/articulo-44.md), párrafo primero de la Ley, el nivel de desagregación se determinará conforme al presupuesto aprobado;
 
 III. En las adecuaciones presupuestarias, la desagregación se determinará a nivel de capítulo o concepto y, en su caso, partidas específicas que determine la Secretaría por motivos de control presupuestario, y
 

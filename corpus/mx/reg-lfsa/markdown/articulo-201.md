@@ -17,4 +17,4 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 201
 
-Con fundamento en el artículo [47](articulo-47.md) y para los efectos del artículo 110 de la [Ley](articulo-2.md), las personas físicas o morales encargadas de los establecimientos a los que se refiere el artículo [105](articulo-105.md), fracción XII del referido ordenamiento, podrán ser autorizados dentro del territorio nacional por la Secretaría como Puntos de Verificación e Inspección Zoosanitarios para importación.
+Con fundamento en el artículo [47](articulo-47.md) y para los efectos del artículo [110](../../lfsa/markdown/articulo-110.md) de la [Ley](articulo-2.md), las personas físicas o morales encargadas de los establecimientos a los que se refiere el artículo [105](articulo-105.md), fracción XII del referido ordenamiento, podrán ser autorizados dentro del territorio nacional por la Secretaría como Puntos de Verificación e Inspección Zoosanitarios para importación.

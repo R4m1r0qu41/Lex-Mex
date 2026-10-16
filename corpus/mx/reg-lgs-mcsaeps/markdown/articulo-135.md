@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 135
 
-En los casos a que se refiere el artículo 203 de la Ley, el titular de la autorización deberá obtener previamente la autorización de la autoridad sanitaria correspondiente.
+En los casos a que se refiere el artículo [203](../../lgs/markdown/articulo-203.md) de la Ley, el titular de la autorización deberá obtener previamente la autorización de la autoridad sanitaria correspondiente.

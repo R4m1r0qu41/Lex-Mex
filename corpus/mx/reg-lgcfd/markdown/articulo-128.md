@@ -17,7 +17,7 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 # Artículo 128
 
-Para ser Mediador o Conciliador Independiente en los términos del artículo 79, fracción VI, de la Ley se deberán cumplir con los requisitos siguientes:
+Para ser Mediador o Conciliador Independiente en los términos del artículo [79](../../lgcfd/markdown/articulo-79.md), fracción VI, de la Ley se deberán cumplir con los requisitos siguientes:
 
 I. Contar con título de licenciado en derecho o abogado;
 

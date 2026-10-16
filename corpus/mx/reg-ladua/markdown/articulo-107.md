@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 107
 
-Para efectos del artículo 61, fracción III, párrafo tercero de la [Ley](articulo-1.md), los vehículos en los que se efectúen servicios internacionales para el transporte de carga, autorizados por la autoridad competente, podrán internarse a territorio mexicano sin pagar los Impuestos al Comercio Exterior, dentro de una franja de veinte kilómetros, paralela a la línea divisoria internacional, independientemente de la nacionalidad del conductor.
+Para efectos del artículo [61](../../ladua/markdown/articulo-61.md), fracción III, párrafo tercero de la [Ley](articulo-1.md), los vehículos en los que se efectúen servicios internacionales para el transporte de carga, autorizados por la autoridad competente, podrán internarse a territorio mexicano sin pagar los Impuestos al Comercio Exterior, dentro de una franja de veinte kilómetros, paralela a la línea divisoria internacional, independientemente de la nacionalidad del conductor.

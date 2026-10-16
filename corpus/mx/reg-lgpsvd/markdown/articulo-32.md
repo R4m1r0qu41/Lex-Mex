@@ -17,4 +17,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 32
 
-El Programa Anual para la ejecución del Programa Nacional, será elaborado por el Centro Nacional durante el primer bimestre de cada ejercicio fiscal y deberá contener al menos lo señalado en el artículo 21 de la Ley.
+El Programa Anual para la ejecución del Programa Nacional, será elaborado por el Centro Nacional durante el primer bimestre de cada ejercicio fiscal y deberá contener al menos lo señalado en el artículo [21](../../lgpsvd/markdown/articulo-21.md) de la Ley.

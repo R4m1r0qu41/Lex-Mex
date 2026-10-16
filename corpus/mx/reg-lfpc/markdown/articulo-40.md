@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 40
 
-El consumidor podrá exigir la bonificación o compensación mediante la presentación de la reclamación correspondiente, ante la Procuraduría, o bien, ante la autoridad judicial competente, sin perjuicio de lo establecido en el artículo 93 de la Ley.
+El consumidor podrá exigir la bonificación o compensación mediante la presentación de la reclamación correspondiente, ante la Procuraduría, o bien, ante la autoridad judicial competente, sin perjuicio de lo establecido en el artículo [93](../../lfpc/markdown/articulo-93.md) de la Ley.

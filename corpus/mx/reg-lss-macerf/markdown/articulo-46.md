@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 46
 
-Los patrones que presenten en una sola exhibición cinco o más movimientos de afiliación, deberán hacerlo a través de cualquiera de los medios no impresos especificados en el último párrafo del artículo 15 de la Ley.
+Los patrones que presenten en una sola exhibición cinco o más movimientos de afiliación, deberán hacerlo a través de cualquiera de los medios no impresos especificados en el último párrafo del artículo [15](../../lss/markdown/articulo-15.md) de la Ley.
 
 Tratándose de trabajadores eventuales del campo, los movimientos de afiliación, independientemente del número de trabajadores que comprendan, podrán hacerse en documento impreso o en medios magnéticos, cuando el patrón tenga registrados hasta treinta trabajadores. Cuando el patrón tenga registrados más de treinta trabajadores, los movimientos de afiliación deberán presentarse en medios magnéticos, digitales, electrónicos, ópticos, magneto ópticos o de cualquier otra naturaleza. Párrafo adicionado DOF 15-07-2005

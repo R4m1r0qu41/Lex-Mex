@@ -27,9 +27,9 @@ IV. La póliza de seguro a que se refiere el artículo [146](articulo-146.md) de
 
 V. El registro de las tarifas de los servicios que prestarán;
 
-VI. En su caso, el documento por el que se constituya el comité de operación y horarios a que se refiere el artículo 61 de la Ley, así como la aprobación de su reglamento interno;
+VI. En su caso, el documento por el que se constituya el comité de operación y horarios a que se refiere el artículo [61](../../laero/markdown/articulo-61.md) de la Ley, así como la aprobación de su reglamento interno;
 
-VII. El documento por el que se constituya el comité local de seguridad a que se refiere el artículo 73 de la Ley y el programa local de seguridad autorizado, y
+VII. El documento por el que se constituya el comité local de seguridad a que se refiere el artículo [73](../../laero/markdown/articulo-73.md) de la Ley y el programa local de seguridad autorizado, y
 
 VIII. La notificación a la Secretaría de los miembros del consejo de administración y del administrador aeroportuario.
 

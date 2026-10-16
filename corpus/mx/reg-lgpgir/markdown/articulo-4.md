@@ -17,4 +17,4 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 4
 
-Los convenios o acuerdos que suscriba la Federación con las entidades federativas, con la participación que corresponda a los municipios, en los términos previstos en los artículos 12 y 13 de la [Ley](articulo-2.md), no podrán tener por objeto funciones relacionadas con materias reguladas en tratados internacionales de los que México sea parte.
+Los convenios o acuerdos que suscriba la Federación con las entidades federativas, con la participación que corresponda a los municipios, en los términos previstos en los artículos [12](../../lgpgir/markdown/articulo-12.md) y [13](../../lgpgir/markdown/articulo-13.md) de la [Ley](articulo-2.md), no podrán tener por objeto funciones relacionadas con materias reguladas en tratados internacionales de los que México sea parte.

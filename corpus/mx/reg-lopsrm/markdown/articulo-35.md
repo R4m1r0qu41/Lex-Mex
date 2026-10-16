@@ -27,7 +27,7 @@ II. Las dependencias y entidades deberán incluir en un documento los comentario
 
 El documento señalado en el párrafo anterior, deberá difundirse en CompraNet previamente a la publicación de la convocatoria a la licitación pública correspondiente;
 
-III. Si la convocante lo estima conveniente, además de la difusión del Proyecto de convocatoria en CompraNet, podrá efectuar invitaciones para celebrar una reunión pública en la que los asistentes participen en la revisión del Proyecto de convocatoria y presenten sus comentarios, salvo que se trate de proyectos de convocatoria para las licitaciones públicas a que se refiere la fracción II del artículo 30 de la [Ley](articulo-2.md), y
+III. Si la convocante lo estima conveniente, además de la difusión del Proyecto de convocatoria en CompraNet, podrá efectuar invitaciones para celebrar una reunión pública en la que los asistentes participen en la revisión del Proyecto de convocatoria y presenten sus comentarios, salvo que se trate de proyectos de convocatoria para las licitaciones públicas a que se refiere la fracción II del artículo [30](../../lopsrm/markdown/articulo-30.md) de la [Ley](articulo-2.md), y
 
 IV. Tratándose de licitaciones públicas con la intervención de dos o más dependencias o entidades, los comentarios al Proyecto de convocatoria se recibirán en la dirección electrónica que determine la convocante.
 

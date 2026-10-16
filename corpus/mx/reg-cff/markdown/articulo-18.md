@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 18
 
-Para los efectos del artículo 22-A del [Código](articulo-1.md), los intereses a pagar se computarán por cada mes o fracción que transcurra y se efectuará la retención correspondiente, siguiendo el procedimiento que para tal efecto establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
+Para los efectos del artículo [22-A](../../cff/markdown/articulo-22-A.md) del [Código](articulo-1.md), los intereses a pagar se computarán por cada mes o fracción que transcurra y se efectuará la retención correspondiente, siguiendo el procedimiento que para tal efecto establezca el Servicio de Administración Tributaria mediante reglas de carácter general.

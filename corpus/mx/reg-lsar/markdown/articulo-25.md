@@ -17,4 +17,4 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 25
 
-Para determinar la existencia de una circunstancia atípica en el mercado a que se refiere el artículo 5 fracción XIII bis de la [Ley](articulo-2o.md), la Junta de Gobierno de la Comisión estará a lo dispuesto en el artículo [370](../../lmv/markdown/articulo-370.md) de la Ley del Mercado de Valores.
+Para determinar la existencia de una circunstancia atípica en el mercado a que se refiere el artículo [5](../../lsar/markdown/articulo-5o.md) fracción XIII bis de la [Ley](articulo-2o.md), la Junta de Gobierno de la Comisión estará a lo dispuesto en el artículo [370](../../lmv/markdown/articulo-370.md) de la Ley del Mercado de Valores.

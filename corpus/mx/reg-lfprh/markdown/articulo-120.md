@@ -17,7 +17,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 120
 
-Para constituir el pasivo circulante con cargo al ramo general correspondiente a adeudos de ejercicios fiscales anteriores, los ramos deberán cumplir con lo dispuesto en los artículos 53 y 54 de la [Ley](articulo-2.md), las disposiciones generales que al efecto emita la Secretaría y lo siguiente:
+Para constituir el pasivo circulante con cargo al ramo general correspondiente a adeudos de ejercicios fiscales anteriores, los ramos deberán cumplir con lo dispuesto en los artículos [53](../../lfprh/markdown/articulo-53.md) y [54](../../lfprh/markdown/articulo-54.md) de la [Ley](articulo-2.md), las disposiciones generales que al efecto emita la Secretaría y lo siguiente:
 
 I. Con base en el presupuesto autorizado del ejercicio fiscal anterior, contar con disponibilidad de recursos en el presupuesto comprometido de los programas presupuestarios, en los cuales quedan comprendidas las obligaciones de pago;
 

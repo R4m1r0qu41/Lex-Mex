@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 13
 
-La Comisión, prevista en el artículo 11 de la Ley, estará integrada por el titular de la Secretaría, quien la presidirá, así como por un representante de las dependencias y entidades de la Administración Pública Federal que a continuación se señalan:
+La Comisión, prevista en el artículo [11](../../lgt/markdown/articulo-11.md) de la Ley, estará integrada por el titular de la Secretaría, quien la presidirá, así como por un representante de las dependencias y entidades de la Administración Pública Federal que a continuación se señalan:
 
 I. Secretaría de Gobernación;
 

@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 184
 
-Para efecto de considerar las condiciones particulares del patrón o sujeto obligado, a que se refiere el artículo 304 B de la Ley, al momento de imponerse la sanción, se tomarán en cuenta, los antecedentes del patrón o sujeto obligado, respecto del cumplimiento de sus obligaciones para con el Instituto.
+Para efecto de considerar las condiciones particulares del patrón o sujeto obligado, a que se refiere el artículo [304](../../lss/markdown/articulo-304.md) B de la Ley, al momento de imponerse la sanción, se tomarán en cuenta, los antecedentes del patrón o sujeto obligado, respecto del cumplimiento de sus obligaciones para con el Instituto.

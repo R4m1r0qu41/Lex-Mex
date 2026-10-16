@@ -17,7 +17,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 283
 
-Para la integración de los informes a que se refieren los artículos 107, 110 y 111 de la [Ley](articulo-2.md), las dependencias, las entidades y los ejecutores de gasto señalados en el artículo 5, fracciones II y III de la Ley, se sujetarán a lo siguiente:
+Para la integración de los informes a que se refieren los artículos [107](../../lfprh/markdown/articulo-107.md), [110](../../lfprh/markdown/articulo-110.md) y [111](../../lfprh/markdown/articulo-111.md) de la [Ley](articulo-2.md), las dependencias, las entidades y los ejecutores de gasto señalados en el artículo [5](../../lfprh/markdown/articulo-5.md), fracciones II y III de la Ley, se sujetarán a lo siguiente:
 
 I. Enviarán a la Secretaría la información necesaria a través de los sistemas disponibles, a más tardar quince días naturales después de concluido el trimestre o mes que se reporte, según corresponda;
 

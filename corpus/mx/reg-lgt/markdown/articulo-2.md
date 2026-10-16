@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 2
 
-En la interpretación y aplicación de la Ley y del presente Reglamento, deberán observarse, además de las definiciones previstas en el artículo 3 de la Ley, las siguientes:
+En la interpretación y aplicación de la Ley y del presente Reglamento, deberán observarse, además de las definiciones previstas en el artículo [3](../../lgt/markdown/articulo-3.md) de la Ley, las siguientes:
 
 I. Atractivo Turístico: Las características naturales, culturales o artificiales de un Destino o Región Turísticos;
 

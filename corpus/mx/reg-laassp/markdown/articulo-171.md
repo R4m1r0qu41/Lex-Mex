@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 171
 
-Las documentales cuya existencia podrá verificar la Secretaría en la Plataforma, conforme al artículo 96, fracción IV de la [Ley](articulo-2.md), serán las relacionadas con los actos a que se refiere el artículo [95](articulo-95.md) de la misma, sin perjuicio de que puedan solicitarse a la convocante en copia certificada o autorizada para que las remita con su informe circunstanciado.
+Las documentales cuya existencia podrá verificar la Secretaría en la Plataforma, conforme al artículo [96](../../laassp/markdown/articulo-96.md), fracción IV de la [Ley](articulo-2.md), serán las relacionadas con los actos a que se refiere el artículo [95](articulo-95.md) de la misma, sin perjuicio de que puedan solicitarse a la convocante en copia certificada o autorizada para que las remita con su informe circunstanciado.

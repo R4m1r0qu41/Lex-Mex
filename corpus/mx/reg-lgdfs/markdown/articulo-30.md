@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 30
 
-Los documentos con los que la Secretaría tiene por acreditados los derechos de propiedad o posesión sobre predios, en aquellos casos en los que, conforme a lo dispuesto en los artículos 68 y 69 de la [Ley](articulo-2.md) o en el presente Reglamento, deba acreditarse ese derecho, son: Párrafo reformado DOF 20-11-2025
+Los documentos con los que la Secretaría tiene por acreditados los derechos de propiedad o posesión sobre predios, en aquellos casos en los que, conforme a lo dispuesto en los artículos [68](../../lgdfs/markdown/articulo-68.md) y [69](../../lgdfs/markdown/articulo-69.md) de la [Ley](articulo-2.md) o en el presente Reglamento, deba acreditarse ese derecho, son: Párrafo reformado DOF 20-11-2025
 
 I. Copia certificada del título que acredite el derecho de propiedad o posesión respecto del terreno o terrenos objeto de la solicitud inscrito en el registro público correspondiente; tratándose de ejidos y comunidades, bastará con que se presente copia simple de dicho título y, en su caso, el número de folio de inscripción correspondiente, y
 

@@ -17,4 +17,4 @@ source_sha256: 931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557
 
 # Artículo 49
 
-En el caso de que los operadores orgánicos realicen importaciones de productos orgánicos, éstos deberán acompañarse de su respectivo certificado orgánico o su equivalente en su país de origen, con la finalidad de que se garantice que los productos importados cumplen con lo establecido en el artículo 33 de la [Ley](articulo-2.md).
+En el caso de que los operadores orgánicos realicen importaciones de productos orgánicos, éstos deberán acompañarse de su respectivo certificado orgánico o su equivalente en su país de origen, con la finalidad de que se garantice que los productos importados cumplen con lo establecido en el artículo [33](../../lpo/markdown/articulo-33.md) de la [Ley](articulo-2.md).

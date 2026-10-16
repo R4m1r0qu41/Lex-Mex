@@ -17,9 +17,9 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 184
 
-Tratándose de contratos a precios unitarios o la parte de los contratos mixtos de la misma naturaleza que se celebren en moneda extranjera en términos de la fracción VI del artículo 31 de la [Ley](articulo-2.md), el mecanismo de ajuste de costos que prevean las dependencias y entidades en la convocatoria a la licitación pública y en el contrato se sujetará a las siguientes reglas:
+Tratándose de contratos a precios unitarios o la parte de los contratos mixtos de la misma naturaleza que se celebren en moneda extranjera en términos de la fracción VI del artículo [31](../../lopsrm/markdown/articulo-31.md) de la [Ley](articulo-2.md), el mecanismo de ajuste de costos que prevean las dependencias y entidades en la convocatoria a la licitación pública y en el contrato se sujetará a las siguientes reglas:
 
-I. El procedimiento de ajuste podrá ser seleccionado entre los que establece el artículo 57 de la Ley, o bien, el que determinen las dependencias y entidades;
+I. El procedimiento de ajuste podrá ser seleccionado entre los que establece el artículo [57](../../lopsrm/markdown/articulo-57.md) de la Ley, o bien, el que determinen las dependencias y entidades;
 
 II. Tratándose de insumos y mano de obra nacionales deberá reconocerse el diferencial que resulte entre el índice del insumo o salario correspondiente a la mano de obra nacional y el tipo de cambio de la moneda extranjera que corresponda;
 

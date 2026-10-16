@@ -17,9 +17,9 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 72
 
-Para los efectos del Inciso b) de la fracción I del artículo 188 de la [Ley](articulo-2o.md) se entiende por genérico:
+Para los efectos del Inciso b) de la fracción I del artículo [188](../../lfda/markdown/articulo-188.md) de la [Ley](articulo-2o.md) se entiende por genérico:
 
-I. Las palabras indicativas o que en el lenguaje común se emplean para designar tanto a las especies como al género en el cual se pretenda obtener la reserva, de conformidad con el artículo 173 de la Ley;
+I. Las palabras indicativas o que en el lenguaje común se emplean para designar tanto a las especies como al género en el cual se pretenda obtener la reserva, de conformidad con el artículo [173](../../lfda/markdown/articulo-173.md) de la Ley;
 
 II. Las palabras descriptivas del género en el cual se solicite la reserva;
 

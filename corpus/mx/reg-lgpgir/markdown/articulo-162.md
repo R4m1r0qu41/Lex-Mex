@@ -17,7 +17,7 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 162
 
-Para los efectos del artículo 111 de la [Ley](articulo-2.md), los convenios de restauración o compensación de daños darán por terminado el procedimiento administrativo.
+Para los efectos del artículo [111](../../lgpgir/markdown/articulo-111.md) de la [Ley](articulo-2.md), los convenios de restauración o compensación de daños darán por terminado el procedimiento administrativo.
 
 Si de la cuantificación del daño ambiental se determinará que la restauración del elemento afectado por las irregularidades causadas, sea de difícil o imposible reparación, se podrán compensar esos daños.
 

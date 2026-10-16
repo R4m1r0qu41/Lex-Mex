@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 33
 
-Para efectos del artículo 25, fracción III de la [Ley](articulo-1.md), los contribuyentes dedicados al transporte aéreo de pasajeros, podrán deducir de sus ingresos del ejercicio, los gastos estimados directamente relacionados con la prestación del servicio correspondiente a la transportación no utilizada por los que hubieren acumulado en el mismo ejercicio los ingresos obtenidos, sin incluir los gastos administrativos o financieros propios de la operación normal de la empresa.
+Para efectos del artículo [25](../../lisr/markdown/articulo-25.md), fracción III de la [Ley](articulo-1.md), los contribuyentes dedicados al transporte aéreo de pasajeros, podrán deducir de sus ingresos del ejercicio, los gastos estimados directamente relacionados con la prestación del servicio correspondiente a la transportación no utilizada por los que hubieren acumulado en el mismo ejercicio los ingresos obtenidos, sin incluir los gastos administrativos o financieros propios de la operación normal de la empresa.
 
 Si los gastos estimados deducidos en el ejercicio exceden de un 2% a los efectivamente erogados, ambos actualizados, sobre el excedente se calcularán los recargos que correspondan a partir del mes en que se presentó o debió presentarse la declaración del ejercicio en la que se dedujeron los gastos estimados. Estos recargos se enterarán conjuntamente con la declaración de que se trate.
 

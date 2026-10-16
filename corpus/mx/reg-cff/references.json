@@ -1,6 +1,192 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:10:reference:30-34:17-h:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:10",
+    "source_span": "17-H",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:17-h",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "sexto párrafo",
+        "start_char": 36,
+        "end_char": 49
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:10:reference:670-672:17:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:10",
+    "source_span": "17",
+    "start_char": 670,
+    "end_char": 672,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:17",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "sexto párrafo",
+        "start_char": 643,
+        "end_char": 656
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:100:reference:34-37:153:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:100",
+    "source_span": "153",
+    "start_char": 34,
+    "end_char": 37,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:153",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:100:reference:39-42:164:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:100",
+    "source_span": "164",
+    "start_char": 39,
+    "end_char": 42,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:164",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:100:reference:45-48:165:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:100",
+    "source_span": "165",
+    "start_char": 45,
+    "end_char": 48,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:165",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:100:reference:271-273:10:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:100",
+    "source_span": "10",
+    "start_char": 271,
+    "end_char": 273,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:10",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:101:reference:34-37:166:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:101",
+    "source_span": "166",
+    "start_char": 34,
+    "end_char": 37,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:166",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:101:reference:40-43:169:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:101",
+    "source_span": "169",
+    "start_char": 40,
+    "end_char": 43,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:169",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:101:reference:203-206:167:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:101",
+    "source_span": "167",
+    "start_char": 203,
+    "end_char": 206,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:167",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:102:reference:30-33:163:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:102",
+    "source_span": "163",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:163",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 35,
+        "end_char": 50
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:103:reference:30-33:174:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:103",
+    "source_span": "174",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:174",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-cff:article:103:reference:564-567:104:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:103",
     "source_span": "104",
@@ -106,6 +292,516 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:105:reference:65-68:181:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:105",
+    "source_span": "181",
+    "start_char": 65,
+    "end_char": 68,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:181",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:105:reference:71-74:182:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:105",
+    "source_span": "182",
+    "start_char": 71,
+    "end_char": 74,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:182",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:105:reference:690-693:182:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:105",
+    "source_span": "182",
+    "start_char": 690,
+    "end_char": 693,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:182",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:106:reference:30-33:183:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:106",
+    "source_span": "183",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:183",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 35,
+        "end_char": 50
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:107:reference:309-312:185:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:107",
+    "source_span": "185",
+    "start_char": 309,
+    "end_char": 312,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:185",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:107:reference:315-318:186:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:107",
+    "source_span": "186",
+    "start_char": 315,
+    "end_char": 318,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:186",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:108:reference:30-33:181:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:108",
+    "source_span": "181",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:181",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:11:reference:30-34:17-k:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:11",
+    "source_span": "17-K",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:17-k",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 36,
+        "end_char": 46
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:110:reference:34-37:180:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:110",
+    "source_span": "180",
+    "start_char": 34,
+    "end_char": 37,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:180",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 39,
+        "end_char": 53
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:110:reference:56-59:192:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:110",
+    "source_span": "192",
+    "start_char": 56,
+    "end_char": 59,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:192",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:110:reference:277-280:141:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:110",
+    "source_span": "141",
+    "start_char": 277,
+    "end_char": 280,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:141",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:111:reference:30-33:184:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:111",
+    "source_span": "184",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:184",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:111:reference:268-271:185:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:111",
+    "source_span": "185",
+    "start_char": 268,
+    "end_char": 271,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:185",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:111:reference:274-277:186:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:111",
+    "source_span": "186",
+    "start_char": 274,
+    "end_char": 277,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:186",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:112:reference:30-33:195:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:112",
+    "source_span": "195",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:195",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:113:reference:84-87:196:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:113",
+    "source_span": "196",
+    "start_char": 84,
+    "end_char": 87,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:196",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:12:reference:30-34:18-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:12",
+    "source_span": "18-A",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:18-a",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 36,
+        "end_char": 47
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:13:reference:30-32:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:13",
+    "source_span": "19",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:19",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer y quinto párrafos",
+        "start_char": 34,
+        "end_char": 58
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:14:reference:30-32:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:14",
+    "source_span": "20",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:20",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "séptimo párrafo",
+        "start_char": 34,
+        "end_char": 49
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:15:reference:62-64:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:15",
+    "source_span": "21",
+    "start_char": 62,
+    "end_char": 64,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:16:reference:34-36:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:16",
+    "source_span": "21",
+    "start_char": 34,
+    "end_char": 36,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:16:reference:39-43:22-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:16",
+    "source_span": "22-A",
+    "start_char": 39,
+    "end_char": 43,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:22-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:17:reference:30-32:22:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:17",
+    "source_span": "22",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:22",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:18:reference:30-34:22-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:18",
+    "source_span": "22-A",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:22-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:19:reference:30-32:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:19",
+    "source_span": "23",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:23",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:20:reference:30-32:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:20",
+    "source_span": "26",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción X",
+        "start_char": 34,
+        "end_char": 44
+      },
+      {
+        "qualifier_type": "paragraph",
+        "text": "cuarto párrafo",
+        "start_char": 46,
+        "end_char": 60
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso c",
+        "start_char": 62,
+        "end_char": 70
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:20:reference:293-295:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:20",
+    "source_span": "26",
+    "start_char": 293,
+    "end_char": 295,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XI",
+        "start_char": 297,
+        "end_char": 308
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:21:reference:58-60:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:21",
+    "source_span": "26",
+    "start_char": 58,
+    "end_char": 60,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XIV",
+        "start_char": 62,
+        "end_char": 74
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:22:reference:30-32:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:22",
+    "source_span": "27",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:27",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-cff:article:23:reference:21-38:22:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:23",
     "source_span": "artículo anterior",
@@ -136,6 +832,34 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:24:reference:442-444:14:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:24",
+    "source_span": "14",
+    "start_char": 442,
+    "end_char": 444,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:14",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 449,
+        "end_char": 459
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a",
+        "start_char": 461,
+        "end_char": 469
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-cff:article:24:reference:1611-1613:29:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:24",
     "source_span": "29",
@@ -143,6 +867,124 @@
     "end_char": 1613,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-cff",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:29",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:25:reference:30-32:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:25",
+    "source_span": "27",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:27",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:26:reference:30-32:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:26",
+    "source_span": "27",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:27",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "quinto párrafo",
+        "start_char": 34,
+        "end_char": 48
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:27:reference:30-32:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:27",
+    "source_span": "27",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:27",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "séptimo párrafo",
+        "start_char": 34,
+        "end_char": 49
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:28:reference:30-32:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:28",
+    "source_span": "27",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:27",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "octavo párrafo",
+        "start_char": 34,
+        "end_char": 48
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:28:reference:1438-1440:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:28",
+    "source_span": "27",
+    "start_char": 1438,
+    "end_char": 1440,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:27",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "cuarto párrafo",
+        "start_char": 1442,
+        "end_char": 1456
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:29:reference:30-32:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:29",
+    "source_span": "27",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:27",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -320,6 +1162,43 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:30:reference:539-541:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:30",
+    "source_span": "27",
+    "start_char": 539,
+    "end_char": 541,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:27",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 543,
+        "end_char": 557
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:30:reference:804-806:10:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:30",
+    "source_span": "10",
+    "start_char": 804,
+    "end_char": 806,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:10",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-cff:article:30:reference:2744-2746:29:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:30",
     "source_span": "29",
@@ -350,6 +1229,21 @@
         "end_char": 4794
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:30:reference:5259-5261:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:30",
+    "source_span": "11",
+    "start_char": 5259,
+    "end_char": 5261,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:11",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -416,6 +1310,100 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:30:reference:8259-8263:14-b:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:30",
+    "source_span": "14-B",
+    "start_char": 8259,
+    "end_char": 8263,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:14-b",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 8265,
+        "end_char": 8275
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a",
+        "start_char": 8277,
+        "end_char": 8285
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:31:reference:30-32:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:31",
+    "source_span": "27",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:27",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafos",
+        "start_char": 58,
+        "end_char": 74
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:32:reference:30-32:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:32",
+    "source_span": "27",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:27",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 41,
+        "end_char": 55
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:33:reference:30-32:28:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:33",
+    "source_span": "28",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:28",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y II",
+        "start_char": 34,
+        "end_char": 51
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-cff:article:33:reference:9013-9014:5:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:33",
     "source_span": "5",
@@ -424,6 +1412,110 @@
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:5",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:34:reference:30-32:28:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:34",
+    "source_span": "28",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:28",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 34,
+        "end_char": 46
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:34:reference:1000-1002:30:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:34",
+    "source_span": "30",
+    "start_char": 1000,
+    "end_char": 1002,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:30",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:35:reference:30-32:30:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:35",
+    "source_span": "30",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:30",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:36:reference:34-36:29:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:36",
+    "source_span": "29",
+    "start_char": 34,
+    "end_char": 36,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:29",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:36:reference:39-43:29-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:36",
+    "source_span": "29-A",
+    "start_char": 39,
+    "end_char": 43,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:29-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:37:reference:30-34:29-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:37",
+    "source_span": "29-A",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:29-a",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 36,
+        "end_char": 48
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -475,6 +1567,475 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:38:reference:49-51:29:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:38",
+    "source_span": "29",
+    "start_char": 49,
+    "end_char": 51,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:29",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:38:reference:54-58:29-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:38",
+    "source_span": "29-A",
+    "start_char": 54,
+    "end_char": 58,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:29-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:39:reference:30-32:29:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:39",
+    "source_span": "29",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:29",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 34,
+        "end_char": 49
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 51,
+        "end_char": 62
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:4:reference:30-31:6:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:4",
+    "source_span": "6",
+    "start_char": 30,
+    "end_char": 31,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:6",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "quinto párrafo",
+        "start_char": 33,
+        "end_char": 47
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:40:reference:30-34:29-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:40",
+    "source_span": "29-A",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:29-a",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 36,
+        "end_char": 46
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:40:reference:348-352:29-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:40",
+    "source_span": "29-A",
+    "start_char": 348,
+    "end_char": 352,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:29-a",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 354,
+        "end_char": 364
+      },
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 366,
+        "end_char": 381
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b",
+        "start_char": 383,
+        "end_char": 391
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:41:reference:30-32:31:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:41",
+    "source_span": "31",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:31",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 34,
+        "end_char": 48
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:42:reference:34-36:31:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:42",
+    "source_span": "31",
+    "start_char": 34,
+    "end_char": 36,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:31",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:42:reference:39-41:33:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:42",
+    "source_span": "33",
+    "start_char": 39,
+    "end_char": 41,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:33",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 43,
+        "end_char": 53
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso c",
+        "start_char": 55,
+        "end_char": 63
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:43:reference:30-32:31:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:43",
+    "source_span": "31",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:31",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 41,
+        "end_char": 55
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:44:reference:30-32:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:44",
+    "source_span": "32",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:32",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 34,
+        "end_char": 48
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:44:reference:280-282:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:44",
+    "source_span": "32",
+    "start_char": 280,
+    "end_char": 282,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:32",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "cuarto párrafo",
+        "start_char": 284,
+        "end_char": 298
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:46:reference:30-34:33-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:46",
+    "source_span": "33-A",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:33-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:47:reference:30-32:34:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:47",
+    "source_span": "34",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:34",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 34,
+        "end_char": 48
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:48:reference:48-50:42:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:48",
+    "source_span": "42",
+    "start_char": 48,
+    "end_char": 50,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:42",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 52,
+        "end_char": 66
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II, III o IX",
+        "start_char": 330,
+        "end_char": 353
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:49:reference:30-32:44:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:49",
+    "source_span": "44",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:44",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 34,
+        "end_char": 46
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:5:reference:30-31:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:5",
+    "source_span": "9",
+    "start_char": 30,
+    "end_char": 31,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:9",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 33,
+        "end_char": 43
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a",
+        "start_char": 45,
+        "end_char": 53
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:50:reference:30-32:46:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:50",
+    "source_span": "46",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:46",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 34,
+        "end_char": 45
+      },
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 47,
+        "end_char": 62
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:51:reference:30-32:48:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:51",
+    "source_span": "48",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:48",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones IV y IX",
+        "start_char": 34,
+        "end_char": 52
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:52:reference:30-32:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:52",
+    "source_span": "52",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 34,
+        "end_char": 44
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:52:reference:280-282:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:52",
+    "source_span": "52",
+    "start_char": 280,
+    "end_char": 282,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-cff:article:52:reference:1129-1131:29:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:52",
     "source_span": "29",
@@ -488,6 +2049,40 @@
         "text": "fracción V",
         "start_char": 1133,
         "end_char": 1143
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:52:reference:1998-2000:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:52",
+    "source_span": "52",
+    "start_char": 1998,
+    "end_char": 2000,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 2002,
+        "end_char": 2012
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a",
+        "start_char": 2014,
+        "end_char": 2022
+      },
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 2025,
+        "end_char": 2040
       }
     ],
     "basis": "express_cross_reference",
@@ -563,6 +2158,62 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:53:reference:809-811:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:53",
+    "source_span": "52",
+    "start_char": 809,
+    "end_char": 811,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 813,
+        "end_char": 823
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a",
+        "start_char": 825,
+        "end_char": 833
+      },
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 836,
+        "end_char": 851
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:53:reference:1852-1854:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:53",
+    "source_span": "52",
+    "start_char": 1852,
+    "end_char": 1854,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 1856,
+        "end_char": 1866
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-cff:article:53:reference:2303-2305:52:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:53",
     "source_span": "52",
@@ -578,6 +2229,43 @@
         "end_char": 2351
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:53:reference:2550-2552:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:53",
+    "source_span": "52",
+    "start_char": 2550,
+    "end_char": 2552,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 2554,
+        "end_char": 2564
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:54:reference:30-32:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:54",
+    "source_span": "52",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -651,6 +2339,71 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:54:reference:2156-2158:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:54",
+    "source_span": "52",
+    "start_char": 2156,
+    "end_char": 2158,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 2160,
+        "end_char": 2170
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:55:reference:30-32:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:55",
+    "source_span": "52",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:55:reference:303-307:52-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:55",
+    "source_span": "52-A",
+    "start_char": 303,
+    "end_char": 307,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52-a",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 309,
+        "end_char": 319
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos a",
+        "start_char": 321,
+        "end_char": 330
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-cff:article:55:reference:643-645:52:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:55",
     "source_span": "52",
@@ -670,6 +2423,28 @@
         "text": "fracción I",
         "start_char": 723,
         "end_char": 733
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:55:reference:1255-1257:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:55",
+    "source_span": "52",
+    "start_char": 1255,
+    "end_char": 1257,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 1259,
+        "end_char": 1269
       }
     ],
     "basis": "express_cross_reference",
@@ -797,6 +2572,40 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:55:reference:3513-3515:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:55",
+    "source_span": "52",
+    "start_char": 3513,
+    "end_char": 3515,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 3517,
+        "end_char": 3527
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a",
+        "start_char": 3529,
+        "end_char": 3537
+      },
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 3540,
+        "end_char": 3555
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-cff:article:55:reference:3715-3717:53:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:55",
     "source_span": "53",
@@ -841,6 +2650,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:56:reference:30-32:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:56",
+    "source_span": "52",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-cff:article:56:reference:375-377:55:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:56",
     "source_span": "55",
@@ -854,6 +2678,663 @@
         "text": "fracción II",
         "start_char": 350,
         "end_char": 361
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:57:reference:113-115:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:57",
+    "source_span": "52",
+    "start_char": 113,
+    "end_char": 115,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II y III",
+        "start_char": 117,
+        "end_char": 136
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:57:reference:600-602:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:57",
+    "source_span": "52",
+    "start_char": 600,
+    "end_char": 602,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 574,
+        "end_char": 586
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:58:reference:30-34:32-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:58",
+    "source_span": "32-A",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:32-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:59:reference:30-34:32-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:59",
+    "source_span": "32-A",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:32-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:59:reference:493-497:32-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:59",
+    "source_span": "32-A",
+    "start_char": 493,
+    "end_char": 497,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:32-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:59:reference:635-639:32-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:59",
+    "source_span": "32-A",
+    "start_char": 635,
+    "end_char": 639,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:32-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:59:reference:1039-1043:32-h:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:59",
+    "source_span": "32-H",
+    "start_char": 1039,
+    "end_char": 1043,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:32-h",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:59:reference:1087-1091:32-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:59",
+    "source_span": "32-A",
+    "start_char": 1087,
+    "end_char": 1091,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:32-a",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 1093,
+        "end_char": 1107
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:6:reference:30-31:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:6",
+    "source_span": "9",
+    "start_char": 30,
+    "end_char": 31,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:9",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 33,
+        "end_char": 44
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:60:reference:30-32:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:60",
+    "source_span": "52",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 34,
+        "end_char": 45
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:61:reference:30-34:53-b:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:61",
+    "source_span": "53-B",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:53-b",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 36,
+        "end_char": 50
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 52,
+        "end_char": 64
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b",
+        "start_char": 66,
+        "end_char": 74
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:62:reference:30-34:53-b:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:62",
+    "source_span": "53-B",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:53-b",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 36,
+        "end_char": 50
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 52,
+        "end_char": 64
+      },
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 66,
+        "end_char": 81
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 202,
+        "end_char": 213
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:63:reference:30-34:58-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:63",
+    "source_span": "58-A",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:58-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:64:reference:30-34:58-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:64",
+    "source_span": "58-A",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:58-a",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 36,
+        "end_char": 48
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:65:reference:30-32:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:65",
+    "source_span": "66",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:66",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 34,
+        "end_char": 48
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:65:reference:418-420:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:65",
+    "source_span": "66",
+    "start_char": 418,
+    "end_char": 420,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:66",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 422,
+        "end_char": 433
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:65:reference:592-596:66-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:65",
+    "source_span": "66-A",
+    "start_char": 592,
+    "end_char": 596,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:66-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:66:reference:30-32:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:66",
+    "source_span": "66",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:66",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 34,
+        "end_char": 48
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:66:reference:328-332:46-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:66",
+    "source_span": "46-A",
+    "start_char": 328,
+    "end_char": 332,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:46-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:66:reference:655-657:50:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:66",
+    "source_span": "50",
+    "start_char": 655,
+    "end_char": 657,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:50",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:66:reference:1054-1056:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:66",
+    "source_span": "66",
+    "start_char": 1054,
+    "end_char": 1056,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:66",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 1026,
+        "end_char": 1040
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:66:reference:1635-1637:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:66",
+    "source_span": "66",
+    "start_char": 1635,
+    "end_char": 1637,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:66",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 1639,
+        "end_char": 1653
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 1655,
+        "end_char": 1666
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:67:reference:30-32:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:67",
+    "source_span": "66",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:66",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 34,
+        "end_char": 48
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:67:reference:203-205:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:67",
+    "source_span": "66",
+    "start_char": 203,
+    "end_char": 205,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:66",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 207,
+        "end_char": 221
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 223,
+        "end_char": 234
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:67:reference:321-325:66-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:67",
+    "source_span": "66-A",
+    "start_char": 321,
+    "end_char": 325,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:66-a",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I",
+        "start_char": 327,
+        "end_char": 339
+      },
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 341,
+        "end_char": 355
+      },
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 362,
+        "end_char": 376
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:67:reference:570-572:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:67",
+    "source_span": "66",
+    "start_char": 570,
+    "end_char": 572,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:66",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 542,
+        "end_char": 556
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:68:reference:34-36:46:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:68",
+    "source_span": "46",
+    "start_char": 34,
+    "end_char": 36,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:46",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 38,
+        "end_char": 49
+      },
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 51,
+        "end_char": 66
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:68:reference:68-70:48:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:68",
+    "source_span": "48",
+    "start_char": 68,
+    "end_char": 70,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:48",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 72,
+        "end_char": 83
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:68:reference:86-88:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:68",
+    "source_span": "66",
+    "start_char": 86,
+    "end_char": 88,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:66",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 90,
+        "end_char": 104
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:69:reference:30-34:69-b:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:69",
+    "source_span": "69-B",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:69-b",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 36,
+        "end_char": 51
       }
     ],
     "basis": "express_cross_reference",
@@ -885,6 +3366,279 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:7:reference:30-32:12:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:7",
+    "source_span": "12",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:12",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:70:reference:30-34:69-b:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:70",
+    "source_span": "69-B",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:69-b",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 36,
+        "end_char": 50
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:71:reference:30-34:69-c:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:71",
+    "source_span": "69-C",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:69-c",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 36,
+        "end_char": 51
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:71:reference:280-284:53-b:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:71",
+    "source_span": "53-B",
+    "start_char": 280,
+    "end_char": 284,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:53-b",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:72:reference:30-34:69-f:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:72",
+    "source_span": "69-F",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:69-f",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:72:reference:174-178:53-b:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:72",
+    "source_span": "53-B",
+    "start_char": 174,
+    "end_char": 178,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:53-b",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:73:reference:30-32:70:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:73",
+    "source_span": "70",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:70",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 34,
+        "end_char": 49
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:73:reference:208-210:65:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:73",
+    "source_span": "65",
+    "start_char": 208,
+    "end_char": 210,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:65",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:74:reference:30-34:70-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:74",
+    "source_span": "70-A",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:70-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:75:reference:30-32:75:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:75",
+    "source_span": "75",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:75",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:76:reference:48-50:84:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:76",
+    "source_span": "84",
+    "start_char": 48,
+    "end_char": 50,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:84",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones IV",
+        "start_char": 52,
+        "end_char": 65
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos a",
+        "start_char": 67,
+        "end_char": 76
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:77:reference:30-33:141:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:77",
+    "source_span": "141",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:141",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:78:reference:30-33:141:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:78",
+    "source_span": "141",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:141",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 35,
+        "end_char": 45
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:8:reference:30-34:17-h:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:8",
+    "source_span": "17-H",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:17-h",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 36,
+        "end_char": 48
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:80:reference:1321-1325:17-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:80",
+    "source_span": "17-A",
+    "start_char": 1321,
+    "end_char": 1325,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:17-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-cff:article:80:reference:1465-1467:21:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:80",
     "source_span": "21",
@@ -893,6 +3647,116 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-cff",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:21",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:81:reference:30-33:141:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:81",
+    "source_span": "141",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:141",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 35,
+        "end_char": 46
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:82:reference:30-33:141:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:82",
+    "source_span": "141",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:141",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 35,
+        "end_char": 47
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:83:reference:30-33:141:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:83",
+    "source_span": "141",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:141",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 35,
+        "end_char": 46
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:84:reference:144-147:141:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:84",
+    "source_span": "141",
+    "start_char": 144,
+    "end_char": 147,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:141",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II y V",
+        "start_char": 149,
+        "end_char": 166
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:85:reference:30-33:141:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:85",
+    "source_span": "141",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:141",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 35,
+        "end_char": 45
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -915,6 +3779,204 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:85:reference:1371-1374:150:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:85",
+    "source_span": "150",
+    "start_char": 1371,
+    "end_char": 1374,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:150",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:86:reference:30-33:141:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:86",
+    "source_span": "141",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:141",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 35,
+        "end_char": 45
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:86:reference:769-771:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:86",
+    "source_span": "66",
+    "start_char": 769,
+    "end_char": 771,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:66",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 773,
+        "end_char": 784
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:86:reference:1940-1943:149:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:86",
+    "source_span": "149",
+    "start_char": 1940,
+    "end_char": 1943,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:149",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 1945,
+        "end_char": 1959
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:87:reference:480-483:141:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:87",
+    "source_span": "141",
+    "start_char": 480,
+    "end_char": 483,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:141",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:87:reference:849-852:141:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:87",
+    "source_span": "141",
+    "start_char": 849,
+    "end_char": 852,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:141",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "quinto párrafo",
+        "start_char": 854,
+        "end_char": 868
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:87:reference:1196-1199:141:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:87",
+    "source_span": "141",
+    "start_char": 1196,
+    "end_char": 1199,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:141",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:88:reference:140-143:141:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:88",
+    "source_span": "141",
+    "start_char": 140,
+    "end_char": 143,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:141",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:88:reference:499-502:141:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:88",
+    "source_span": "141",
+    "start_char": 499,
+    "end_char": 502,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:141",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 504,
+        "end_char": 519
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:9:reference:30-34:17-h:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:9",
+    "source_span": "17-H",
+    "start_char": 30,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:17-h",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción X",
+        "start_char": 36,
+        "end_char": 46
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso c",
+        "start_char": 48,
+        "end_char": 56
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-cff:article:90:reference:375-392:89:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:90",
     "source_span": "artículo anterior",
@@ -927,6 +3989,296 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:91:reference:30-33:141:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:91",
+    "source_span": "141",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:141",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 35,
+        "end_char": 49
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:91:reference:500-503:146:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:91",
+    "source_span": "146",
+    "start_char": 500,
+    "end_char": 503,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:146",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:92:reference:30-33:137:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:92",
+    "source_span": "137",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:137",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 35,
+        "end_char": 49
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:92:reference:1052-1056:17-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:92",
+    "source_span": "17-A",
+    "start_char": 1052,
+    "end_char": 1056,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:17-a",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:93:reference:30-33:145:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:93",
+    "source_span": "145",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:145",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:93:reference:260-263:141:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:93",
+    "source_span": "141",
+    "start_char": 260,
+    "end_char": 263,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:141",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:94:reference:30-33:150:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:94",
+    "source_span": "150",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:150",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:95:reference:68-71:150:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:95",
+    "source_span": "150",
+    "start_char": 68,
+    "end_char": 71,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:150",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:95:reference:413-416:150:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:95",
+    "source_span": "150",
+    "start_char": 413,
+    "end_char": 416,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:150",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y II",
+        "start_char": 418,
+        "end_char": 435
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:95:reference:648-651:150:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:95",
+    "source_span": "150",
+    "start_char": 648,
+    "end_char": 651,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:150",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:96:reference:55-60:146-c:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:96",
+    "source_span": "146-C",
+    "start_char": 55,
+    "end_char": 60,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:146-c",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:96:reference:282-287:146-c:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:96",
+    "source_span": "146-C",
+    "start_char": 282,
+    "end_char": 287,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:146-c",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 289,
+        "end_char": 299
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:97:reference:30-33:152:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:97",
+    "source_span": "152",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:152",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 35,
+        "end_char": 49
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:98:reference:30-33:157:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:98",
+    "source_span": "157",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:157",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:99:reference:34-37:153:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:99",
+    "source_span": "153",
+    "start_char": 34,
+    "end_char": 37,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:153",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:99:reference:39-42:164:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:99",
+    "source_span": "164",
+    "start_char": 39,
+    "end_char": 42,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:164",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:99:reference:45-48:165:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:99",
+    "source_span": "165",
+    "start_char": 45,
+    "end_char": 48,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:165",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",

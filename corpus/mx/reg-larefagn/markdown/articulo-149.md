@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 149
 
-Las Distinciones a que se refieren los artículos 73, 74 y 75 de la Ley, tendrán las características que determine la Secretaría.
+Las Distinciones a que se refieren los artículos [73](../../larefam/markdown/articulo-73.md), [74](../../larefam/markdown/articulo-74.md) y [75](../../larefam/markdown/articulo-75.md) de la Ley, tendrán las características que determine la Secretaría.
 
 Artículo reformado DOF 20-03-2026

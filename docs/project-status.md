@@ -10,7 +10,7 @@
 
 ## 2026-10-16 reverse-linking checkpoint
 
-`link --all` relinked the 467 committed instruments against unique official titles plus the curated alias table. Graphs were rewritten and still validate (27,429 → 30,436 references, 4,312 resolved cross-instrument edges). 8 are held on their previous graphs ([review list](held-instruments-review-2026-10-16.md)) under the parser/linker repair of 2026-10-16 (see [repair report](parser-linker-repair-2026-10-16.md)): `lgdnna` (operator request; Article 135 Ter cites an Article 157 the retained text lacks; JRH to decide), six whose explicit citation to a missing article of their own text is now kept as an unresolved edge instead of silently dropped (`cub-dcg-2005`, `cucb-dcg-2004`, `lgcs`, `oaac-dcg-2009`, `reg-lagra-mcdets`, `reg-lfce`, `socap-sofipo-dcg-2006` — `lgoaac` was a hyphenated-suffix parser defect and is released; the DCGs are unreviewed), 10 whose new graph pointed (`lbm` was a `tercer`/`Ter` parser defect and is released) at an article the target corpus does not contain (one missing article rejects the whole graph), and `lrsic`, held by a guard that never lets a relink change a persisted historical or approved edge. No provision text or instrument record changed. A review of every retargeted and removed edge fixed three linker defects before landing (constitution self-citations, decree titles, and a head-noun over-match). `Ley de Amnistía` (`lamn`, `lamni`) stays unlinked. Detail: [corpus-wide reverse linking](plans/corpus-wide-reverse-linking.md) and the `corpus-wide-reverse-linking` entry in `docs/ingestion-difficulty-log.md`.
+`link --all` relinked the 467 committed instruments against unique official titles plus the curated alias table. Graphs were rewritten and still validate (27,429 → 35,893 references, 9,769 resolved cross-instrument edges; 5,457 of them are regulation citations of a bare "la Ley" resolved to the parent law, see [parent-law mapping](parent-law-mapping-2026-10-16.md)). 8 are held on their previous graphs ([review list](held-instruments-review-2026-10-16.md)) under the parser/linker repair of 2026-10-16 (see [repair report](parser-linker-repair-2026-10-16.md)): `lgdnna` (operator request; Article 135 Ter cites an Article 157 the retained text lacks; JRH to decide), six whose explicit citation to a missing article of their own text is now kept as an unresolved edge instead of silently dropped (`cub-dcg-2005`, `cucb-dcg-2004`, `lgcs`, `oaac-dcg-2009`, `reg-lagra-mcdets`, `reg-lfce`, `socap-sofipo-dcg-2006` — `lgoaac` was a hyphenated-suffix parser defect and is released; the DCGs are unreviewed), 10 whose new graph pointed (`lbm` was a `tercer`/`Ter` parser defect and is released) at an article the target corpus does not contain (one missing article rejects the whole graph), and `lrsic`, held by a guard that never lets a relink change a persisted historical or approved edge. No provision text or instrument record changed. A review of every retargeted and removed edge fixed three linker defects before landing (constitution self-citations, decree titles, and a head-noun over-match). `Ley de Amnistía` (`lamn`, `lamni`) stays unlinked. Detail: [corpus-wide reverse linking](plans/corpus-wide-reverse-linking.md) and the `corpus-wide-reverse-linking` entry in `docs/ingestion-difficulty-log.md`.
 - **Current legal reviewer:** JRH
 
 ## 2026-10-15 admission checkpoint
@@ -38,9 +38,9 @@ IFPE validation).
 | Articles | 64,586 |
 | Original transitory provisions | 3,470 |
 | Annexes | 30 |
-| Reference edges | 30,436 |
-| — resolved / historical-target-unavailable / approved outdated | 30,415 / 4 / 17 |
-| — resolved cross-instrument edges | 4,312 |
+| Reference edges | 35,893 |
+| — resolved / historical-target-unavailable / approved outdated | 35,872 / 4 / 17 |
+| — resolved cross-instrument edges | 9,769 |
 | Provisions `not_analyzed` / `machine_accepted` / `lawyer_verified` / `review_required` | 47,843 / 20,240 / 2 / 1 |
 | Provisions with temporal status `unknown` | 46,524 |
 | Generated Markdown files under `corpus/mx` (incl. NOMs) | 68,560 |

@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 208
 
-Para efectos de los artículos 123 y 124, párrafo penúltimo de la [Ley](articulo-1.md), se considerará costo de adquisición:
+Para efectos de los artículos [123](../../lisr/markdown/articulo-123.md) y [124](../../lisr/markdown/articulo-124.md), párrafo penúltimo de la [Ley](articulo-1.md), se considerará costo de adquisición:
 
 I. Tratándose de bienes adquiridos en rifa o sorteo antes del 1 de enero de 1981, el que haya servido para efectos del impuesto federal sobre loterías, rifas, sorteos y juegos permitidos. Tratándose de bienes adquiridos en rifa o sorteo a partir de la fecha antes citada, el que haya servido para efectos del [Impuesto](articulo-1.md). Si para determinar la base de los mencionados impuestos se practicó avalúo, éste servirá como costo referido a la fecha de adquisición, y
 

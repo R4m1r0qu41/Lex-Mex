@@ -17,4 +17,4 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 72
 
-El contenido de los informes semestrales del Servicio Geológico a que se refiere la fracción X del artículo 27 de la Ley se ajustará a lo dispuesto en el artículo [71](articulo-71.md) del presente Reglamento.
+El contenido de los informes semestrales del Servicio Geológico a que se refiere la fracción X del artículo [27](../../lmin/markdown/articulo-27.md) de la Ley se ajustará a lo dispuesto en el artículo [71](articulo-71.md) del presente Reglamento.

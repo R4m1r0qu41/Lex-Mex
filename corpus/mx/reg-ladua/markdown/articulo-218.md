@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 218
 
-Para efectos de lo establecido en los artículos 160, fracción VI, y 162, fracción XIII de la [Ley](articulo-1.md), deberá designar a un mandatario aduanal, sólo en aquellos casos en que las necesidades de sus servicios lo requieran. El agente aduanal deberá acreditar ante la Autoridad Aduanera por lo menos a un mandatario por aduana, sin perjuicio de que uno de ellos podrá actuar indistintamente en cualquiera de las aduanas que aquél tenga autorizadas.
+Para efectos de lo establecido en los artículos [160](../../ladua/markdown/articulo-160.md), fracción VI, y [162](../../ladua/markdown/articulo-162.md), fracción XIII de la [Ley](articulo-1.md), deberá designar a un mandatario aduanal, sólo en aquellos casos en que las necesidades de sus servicios lo requieran. El agente aduanal deberá acreditar ante la Autoridad Aduanera por lo menos a un mandatario por aduana, sin perjuicio de que uno de ellos podrá actuar indistintamente en cualquiera de las aduanas que aquél tenga autorizadas.

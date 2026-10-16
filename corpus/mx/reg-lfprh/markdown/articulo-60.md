@@ -17,4 +17,4 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 60
 
-La Secretaría integrará al proyecto de Presupuesto de Egresos los proyectos de presupuesto que le remitan los Poderes Legislativo y Judicial y los entes autónomos en términos del artículo 30 de la [Ley](articulo-2.md). Asimismo, integrará las políticas de gasto que le remitan los Poderes Legislativo y Judicial y los entes autónomos para su inclusión en la exposición de motivos, en cumplimiento a lo dispuesto en el artículo 41, fracción I, inciso b) de la Ley.
+La Secretaría integrará al proyecto de Presupuesto de Egresos los proyectos de presupuesto que le remitan los Poderes Legislativo y Judicial y los entes autónomos en términos del artículo [30](../../lfprh/markdown/articulo-30.md) de la [Ley](articulo-2.md). Asimismo, integrará las políticas de gasto que le remitan los Poderes Legislativo y Judicial y los entes autónomos para su inclusión en la exposición de motivos, en cumplimiento a lo dispuesto en el artículo [41](../../lfprh/markdown/articulo-41.md), fracción I, inciso b) de la Ley.

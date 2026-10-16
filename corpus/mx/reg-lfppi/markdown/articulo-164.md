@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 164
 
-El Instituto comisionará a su personal para la práctica de diligencias de inspección o verificación de hechos a las que se refiere el artículo 358 de la Ley, previo pago de las tarifas que correspondan. El pago de las tarifas deberá realizarse por cada empresa, negociación o establecimiento físico, así como por cada búsqueda o ingreso en plataformas digitales, ya sea en establecimiento virtual o electrónico, dirección electrónica, perfil o cuenta digital o cualquier otro medio conocido o por conocerse.
+El Instituto comisionará a su personal para la práctica de diligencias de inspección o verificación de hechos a las que se refiere el artículo [358](../../lfppi/markdown/articulo-358.md) de la Ley, previo pago de las tarifas que correspondan. El pago de las tarifas deberá realizarse por cada empresa, negociación o establecimiento físico, así como por cada búsqueda o ingreso en plataformas digitales, ya sea en establecimiento virtual o electrónico, dirección electrónica, perfil o cuenta digital o cualquier otro medio conocido o por conocerse.

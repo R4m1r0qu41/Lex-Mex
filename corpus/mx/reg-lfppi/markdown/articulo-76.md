@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 76
 
-Quedan incluidos como retrasos razonables, para efectos del artículo 132 de la Ley, los plazos de dieciocho y de dos meses previstos en los artículos [107](articulo-107.md) y [109](articulo-109.md) del mismo ordenamiento, respectivamente; así como el tiempo que transcurra entre la finalización de dichos plazos y la emisión de la primera acción oficial en examen de fondo.
+Quedan incluidos como retrasos razonables, para efectos del artículo [132](../../lfppi/markdown/articulo-132.md) de la Ley, los plazos de dieciocho y de dos meses previstos en los artículos [107](articulo-107.md) y [109](articulo-109.md) del mismo ordenamiento, respectivamente; así como el tiempo que transcurra entre la finalización de dichos plazos y la emisión de la primera acción oficial en examen de fondo.

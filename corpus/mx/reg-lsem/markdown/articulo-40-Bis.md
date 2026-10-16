@@ -17,9 +17,9 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 40 Bis
 
-La antigüedad de los dieciséis años a los que se refiere el artículo 34 de la Ley, se acreditará con cualquiera de los siguientes documentos:
+La antigüedad de los dieciséis años a los que se refiere el artículo [34](../../lsem/markdown/articulo-34.md) de la Ley, se acreditará con cualquiera de los siguientes documentos:
 
-I. Constancia emitida por la Dirección General, en la que consten los dieciséis años de servicio en los supuestos del artículo 34 de la Ley, o
+I. Constancia emitida por la Dirección General, en la que consten los dieciséis años de servicio en los supuestos del artículo [34](../../lsem/markdown/articulo-34.md) de la Ley, o
 
 II. Hoja Única de Servicios o constancia emitida por una dependencia o entidad de la Administración Pública Federal en la que conste la fecha de inicio de su trabajo como servidor público y que, a la fecha de la presentación, sume al menos dieciséis años de servicio en el ámbito de las actividades diplomáticas.
 

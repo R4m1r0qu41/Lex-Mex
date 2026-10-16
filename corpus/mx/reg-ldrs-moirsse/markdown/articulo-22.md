@@ -17,6 +17,6 @@ source_sha256: 4da07bf61648a9d04725e2d49db4d867b7882c9bf2ed5d794bde76b64491cddf
 
 # Artículo 22
 
-La Comisión Intersecretarial, con la participación del Consejo Mexicano y los comités de los sistemas-producto correspondientes, dentro de los primeros treinta días hábiles de cada año, determinará las salvedades, adiciones y modalidades a los productos básicos y estratégicos, de conformidad con lo dispuesto en el artículo 179 de la Ley.
+La Comisión Intersecretarial, con la participación del Consejo Mexicano y los comités de los sistemas-producto correspondientes, dentro de los primeros treinta días hábiles de cada año, determinará las salvedades, adiciones y modalidades a los productos básicos y estratégicos, de conformidad con lo dispuesto en el artículo [179](../../ldrs/markdown/articulo-179.md) de la Ley.
 
 Para la determinación de dichas salvedades, adiciones y modalidades, la Comisión Intersecretarial, recibirá y evaluará las propuestas de los comités de los sistemas-producto correspondientes, dentro de los treinta días anteriores a la conclusión del año calendario.

@@ -17,6 +17,6 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 12
 
-Las reglas que emita la Secretaría de Economía en términos del artículo 9 de la [Ley](articulo-2.md), podrán establecer mecanismos, criterios o medidas tendientes a promover la participación de las [MIPYMES](articulo-2.md) en los procedimientos de contratación o su intervención en la ejecución de obras o servicios.
+Las reglas que emita la Secretaría de Economía en términos del artículo [9](../../lopsrm/markdown/articulo-9.md) de la [Ley](articulo-2.md), podrán establecer mecanismos, criterios o medidas tendientes a promover la participación de las [MIPYMES](articulo-2.md) en los procedimientos de contratación o su intervención en la ejecución de obras o servicios.
 
 Las MIPYMES podrán participar con ese carácter en los procedimientos de contratación o intervenir en la ejecución de obras y servicios cuando presenten a la dependencia o entidad convocante copia del documento expedido por autoridad competente que determine su estratificación como micro, pequeña o mediana empresa, o bien, un escrito en el cual manifiesten, bajo protesta de decir verdad, que cuentan con ese carácter, utilizando para tal fin el formato que al efecto proporcione la convocante.

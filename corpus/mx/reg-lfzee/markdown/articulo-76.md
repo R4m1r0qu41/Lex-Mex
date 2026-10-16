@@ -23,4 +23,4 @@ I. Las obligaciones previstas en la [Ley](articulo-4.md) y este Reglamento, y
 
 II. Las obligaciones establecidas en el Permiso.
 
-La [Autoridad Federal](articulo-4.md), para otorgar la prórroga del Permiso también deberá considerar los criterios a que se refiere el artículo 20, párrafo segundo de la Ley.
+La [Autoridad Federal](articulo-4.md), para otorgar la prórroga del Permiso también deberá considerar los criterios a que se refiere el artículo [20](../../lfzee/markdown/articulo-20.md), párrafo segundo de la Ley.

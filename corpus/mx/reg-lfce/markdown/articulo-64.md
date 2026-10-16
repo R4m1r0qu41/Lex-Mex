@@ -17,4 +17,4 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 64
 
-La Comisión hará uso de las medidas legales necesarias incluyendo el auxilio de autoridades administrativas federales para lograr la ejecución de las sanciones previstas en los artículos 35 y 37 de la Ley.
+La Comisión hará uso de las medidas legales necesarias incluyendo el auxilio de autoridades administrativas federales para lograr la ejecución de las sanciones previstas en los artículos [35](../../lfce/markdown/articulo-35.md) y [37](../../lfce/markdown/articulo-37.md) de la Ley.

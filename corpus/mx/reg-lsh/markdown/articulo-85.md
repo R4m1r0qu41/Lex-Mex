@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 85
 
-Las actividades a que se refiere el artículo 76 de la Ley, son actividades permisionadas y están sujetas a lo establecido en la Ley, en el presente reglamento y en la demás Normatividad aplicable.
+Las actividades a que se refiere el artículo [76](../../lsh/markdown/articulo-76.md) de la Ley, son actividades permisionadas y están sujetas a lo establecido en la Ley, en el presente reglamento y en la demás Normatividad aplicable.

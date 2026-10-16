@@ -19,7 +19,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 Para la atención de las solicitudes de regularización de situación migratoria presentadas en las oficinas de trámites del Instituto se observará el siguiente procedimiento:
 
-I. La persona extranjera deberá adjuntar a la solicitud de regularización los documentos previstos en el artículo 135 de la Ley y los demás aplicables, en términos de las disposiciones de carácter general que emita la Secretaría y serán publicadas en el Diario Oficial de la Federación;
+I. La persona extranjera deberá adjuntar a la solicitud de regularización los documentos previstos en el artículo [135](../../lmigra/markdown/articulo-135.md) de la Ley y los demás aplicables, en términos de las disposiciones de carácter general que emita la Secretaría y serán publicadas en el Diario Oficial de la Federación;
 
 II. La autoridad migratoria citará a comparecer a la persona extranjera y asentará en un acta las circunstancias del caso y los motivos para solicitar la regularización.
 
@@ -31,6 +31,6 @@ a) Si la resolución es positiva, la persona extranjera deberá presentarse ante
 
 b) Si la resolución es negativa, deberá fundarla y motivarla y otorgar un plazo no mayor a treinta días ni menor a veinte días naturales para que la persona extranjera salga del territorio nacional.
 
-El Instituto no podrá presentar a la persona extranjera que acuda ante alguna oficina de trámites para presentar una solicitud de regularización de su situación migratoria, a menos que haya incumplido con una orden de salida del territorio nacional expedida por el Instituto con anterioridad o haya presentado en una solicitud anterior información falsa o exhibido documentación apócrifa, alterada o legítima pero que haya sido obtenida de manera fraudulenta, conforme a los supuestos previstos en las fracciones V y VI del artículo 144 de la Ley.
+El Instituto no podrá presentar a la persona extranjera que acuda ante alguna oficina de trámites para presentar una solicitud de regularización de su situación migratoria, a menos que haya incumplido con una orden de salida del territorio nacional expedida por el Instituto con anterioridad o haya presentado en una solicitud anterior información falsa o exhibido documentación apócrifa, alterada o legítima pero que haya sido obtenida de manera fraudulenta, conforme a los supuestos previstos en las fracciones V y VI del artículo [144](../../lmigra/markdown/articulo-144.md) de la Ley.
 
 La persona extranjera que haya solicitado su regularización y le haya sido negada por el Instituto deberá salir del territorio nacional en el plazo concedido y no podrá solicitar regularización de nueva cuenta hasta que hayan transcurrido seis meses contados a partir de la notificación de la resolución.

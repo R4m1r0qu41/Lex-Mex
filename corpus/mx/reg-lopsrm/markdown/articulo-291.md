@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 291
 
-En cualquier tiempo las partes podrán manifestar su deseo de no continuar con el procedimiento de conciliación, señalando las razones que tengan para ello; en consecuencia, la autoridad que conozca del caso procederá a asentarlo en el acta correspondiente dando por concluido el procedimiento y dejando a salvo los derechos de las partes en términos del último párrafo del artículo 97 de la [Ley](articulo-2.md).
+En cualquier tiempo las partes podrán manifestar su deseo de no continuar con el procedimiento de conciliación, señalando las razones que tengan para ello; en consecuencia, la autoridad que conozca del caso procederá a asentarlo en el acta correspondiente dando por concluido el procedimiento y dejando a salvo los derechos de las partes en términos del último párrafo del artículo [97](../../lopsrm/markdown/articulo-97.md) de la [Ley](articulo-2.md).

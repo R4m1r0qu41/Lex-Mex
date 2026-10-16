@@ -17,7 +17,7 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 10-A
 
-Para efectos del artículo 2o.-A, fracción I, último párrafo de la Ley, se considera que no son alimentos preparados para su consumo en el lugar o establecimiento en que se enajenen, los siguientes:
+Para efectos del artículo [2](../../liva/markdown/articulo-2o.md)o.-A, fracción I, último párrafo de la Ley, se considera que no son alimentos preparados para su consumo en el lugar o establecimiento en que se enajenen, los siguientes:
 
 I. Alimentos envasados al vacío o congelados;
 
@@ -29,6 +29,6 @@ IV. Tortillas de maíz o de trigo, y
 
 V. Productos de panificación elaborados en panaderías resultado de un proceso de horneado, cocción o fritura, inclusive pasteles y galletas, aun cuando estos últimos productos no sean elaborados en una panadería.
 
-No será aplicable lo previsto en el presente artículo, cuando la enajenación de los bienes mencionados en las fracciones anteriores, se realice en restaurantes, fondas, cafeterías y demás establecimientos similares, por lo que en estos casos la tasa aplicable será la del 16% a que se refiere el artículo 2o.-A, fracción I, último párrafo de la Ley.
+No será aplicable lo previsto en el presente artículo, cuando la enajenación de los bienes mencionados en las fracciones anteriores, se realice en restaurantes, fondas, cafeterías y demás establecimientos similares, por lo que en estos casos la tasa aplicable será la del 16% a que se refiere el artículo [2](../../liva/markdown/articulo-2o.md)o.-A, fracción I, último párrafo de la Ley.
 
 Artículo adicionado DOF 25-09-2014

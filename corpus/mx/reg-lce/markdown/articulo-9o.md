@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 9o
 
-Para los efectos del artículo 6o. de la [Ley](articulo-1o.md), la [Comisión](articulo-1o.md) tendrá a su cargo emitir opinión sobre la conveniencia de adoptar las siguientes medidas, previamente a su expedición y durante su vigencia:
+Para los efectos del artículo [6](../../lce/markdown/articulo-6o.md)o. de la [Ley](articulo-1o.md), la [Comisión](articulo-1o.md) tendrá a su cargo emitir opinión sobre la conveniencia de adoptar las siguientes medidas, previamente a su expedición y durante su vigencia:
 
 I. El establecimiento, aumento, disminución o eliminación de aranceles o preferencias arancelarias a la exportación o importación de mercancías;
 
@@ -33,7 +33,7 @@ VI. El establecimiento, modificación o eliminación de reglas de origen;
 
 VII. La exigencia del cumplimiento de las normas oficiales mexicanas por las autoridades aduaneras en el punto de entrada de la mercancía al país;
 
-VIII. El establecimiento de medidas de regulación y restricción no arancelarias de emergencia, establecidas conforme lo previsto en el artículo 19 de la Ley;
+VIII. El establecimiento de medidas de regulación y restricción no arancelarias de emergencia, establecidas conforme lo previsto en el artículo [19](../../lce/markdown/articulo-19.md) de la Ley;
 
 IX. El establecimiento de medidas de salvaguarda; X. El establecimiento de medidas en materia aduanera que afecten el comercio exterior;
 

@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 110
 
-Cuando en las dependencias y entidades existan áreas que por sí mismas realicen contrataciones, los montos máximos a que hace referencia el artículo 55 de la [Ley](articulo-2.md), se determinarán en función del recurso total autorizado que la dependencia o entidad de que se trate, asigne a cada área para la adquisición y arrendamiento de bienes y la contratación de servicios.
+Cuando en las dependencias y entidades existan áreas que por sí mismas realicen contrataciones, los montos máximos a que hace referencia el artículo [55](../../laassp/markdown/articulo-55.md) de la [Ley](articulo-2.md), se determinarán en función del recurso total autorizado que la dependencia o entidad de que se trate, asigne a cada área para la adquisición y arrendamiento de bienes y la contratación de servicios.

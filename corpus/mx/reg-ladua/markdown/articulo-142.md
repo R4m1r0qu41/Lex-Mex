@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 142
 
-Para efectos de lo dispuesto por los artículos 94, último párrafo y 109, penúltimo párrafo de la [Ley](articulo-1.md), cuando en las Mercancías importadas se realice el proceso productivo y como resultado de éste se generen Desperdicios, si el contribuyente opta por destruirlos deberá cumplir los siguientes requisitos:
+Para efectos de lo dispuesto por los artículos [94](../../ladua/markdown/articulo-94.md), último párrafo y [109](../../ladua/markdown/articulo-109.md), penúltimo párrafo de la [Ley](articulo-1.md), cuando en las Mercancías importadas se realice el proceso productivo y como resultado de éste se generen Desperdicios, si el contribuyente opta por destruirlos deberá cumplir los siguientes requisitos:
 
 I. Presentar aviso a la Autoridad Aduanera, cuando menos treinta días antes de la destrucción.
 

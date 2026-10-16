@@ -17,7 +17,7 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 74
 
-El informe que presenten los generadores que, de acuerdo al artículo 57 de la [Ley](articulo-2.md), hayan optado por reciclar sus residuos dentro de sus propias instalaciones, describirá:
+El informe que presenten los generadores que, de acuerdo al artículo [57](../../lgpgir/markdown/articulo-57.md) de la [Ley](articulo-2.md), hayan optado por reciclar sus residuos dentro de sus propias instalaciones, describirá:
 
 I. Los residuos peligrosos que se pretendan reciclar, indicando tipo, características y estado en que se encuentren;
 

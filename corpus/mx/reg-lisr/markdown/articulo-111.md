@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 111
 
-Para efectos del artículo 76, fracción VIII de la [Ley](articulo-1.md), se entenderá que se cumple con la obligación de llevar un registro de las operaciones efectuadas con títulos valor emitidos en serie, cuando el contribuyente conserve los estados de cuenta en los que consten dichas operaciones, expedidos por las instituciones que integran el sistema financiero en términos de la Ley.
+Para efectos del artículo [76](../../lisr/markdown/articulo-76.md), fracción VIII de la [Ley](articulo-1.md), se entenderá que se cumple con la obligación de llevar un registro de las operaciones efectuadas con títulos valor emitidos en serie, cuando el contribuyente conserve los estados de cuenta en los que consten dichas operaciones, expedidos por las instituciones que integran el sistema financiero en términos de la Ley.

@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 145
 
-Con la finalidad de que el grupo arbitral esté compuesto siempre de un número impar de miembros, el [Instituto](articulo-2o.md) podrá, de acuerdo con lo establecido en el artículo 222 de la [Ley](articulo-2o.md), designar un árbitro cuando sea necesario.
+Con la finalidad de que el grupo arbitral esté compuesto siempre de un número impar de miembros, el [Instituto](articulo-2o.md) podrá, de acuerdo con lo establecido en el artículo [222](../../lfda/markdown/articulo-222.md) de la [Ley](articulo-2o.md), designar un árbitro cuando sea necesario.

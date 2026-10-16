@@ -17,4 +17,4 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 44
 
-Para efectos del artículo 33 de la [Ley](articulo-2.md), la Dependencia coordinadora de sector deberá comunicar a la Tesorería la designación del representante del Gobierno Federal y solicitar la expedición del certificado de tenencia en términos del [artículo anterior](articulo-43.md), cuando menos con cinco días hábiles de anticipación a la celebración de la asamblea de accionistas, de socios, de asociados o su equivalente de la persona moral de que se trate.
+Para efectos del artículo [33](../../ltf/markdown/articulo-33.md) de la [Ley](articulo-2.md), la Dependencia coordinadora de sector deberá comunicar a la Tesorería la designación del representante del Gobierno Federal y solicitar la expedición del certificado de tenencia en términos del [artículo anterior](articulo-43.md), cuando menos con cinco días hábiles de anticipación a la celebración de la asamblea de accionistas, de socios, de asociados o su equivalente de la persona moral de que se trate.

@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 69
 
-La determinación de registrar en el padrón público de testigos sociales a las personas físicas o morales que acrediten los requisitos establecidos en el artículo 38 de la [Ley](articulo-2.md), previa opinión del [Comité](articulo-2.md) de Testigos Sociales, así como de designar a las personas que fungirán como testigo social en cada procedimiento de contratación, corresponderá a la Secretaría. La Secretaría constituirá un Comité de Testigos Sociales como un órgano colegiado de apoyo y consulta.
+La determinación de registrar en el padrón público de testigos sociales a las personas físicas o morales que acrediten los requisitos establecidos en el artículo [38](../../laassp/markdown/articulo-38.md) de la [Ley](articulo-2.md), previa opinión del [Comité](articulo-2.md) de Testigos Sociales, así como de designar a las personas que fungirán como testigo social en cada procedimiento de contratación, corresponderá a la Secretaría. La Secretaría constituirá un Comité de Testigos Sociales como un órgano colegiado de apoyo y consulta.

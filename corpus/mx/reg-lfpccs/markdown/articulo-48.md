@@ -17,4 +17,4 @@ source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 
 # Artículo 48
 
-Para inscribirse al Catálogo de Mantenedores, además de cumplir con los requisitos contenidos en el artículo 24 de la [Ley](articulo-2.md), el interesado deberá cumplir con lo dispuesto por el artículo [15](articulo-15.md) del presente Reglamento.
+Para inscribirse al Catálogo de Mantenedores, además de cumplir con los requisitos contenidos en el artículo [24](../../lfpccs/markdown/articulo-24.md) de la [Ley](articulo-2.md), el interesado deberá cumplir con lo dispuesto por el artículo [15](articulo-15.md) del presente Reglamento.

@@ -17,9 +17,9 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 21
 
-Para los efectos del quinto párrafo del artículo 18 de la [Ley](articulo-2.md), se entenderá por estudios, planes y programas para el desarrollo de proyectos a cualquier propuesta conceptual formulada por escrito en términos de este artículo y que se refiera en su conjunto a un mismo proyecto de obra, asociada o no a proyectos de infraestructura.
+Para los efectos del quinto párrafo del artículo [18](../../lopsrm/markdown/articulo-18.md) de la [Ley](articulo-2.md), se entenderá por estudios, planes y programas para el desarrollo de proyectos a cualquier propuesta conceptual formulada por escrito en términos de este artículo y que se refiera en su conjunto a un mismo proyecto de obra, asociada o no a proyectos de infraestructura.
 
-Las personas, entidades federativas o municipios que pretendan promover y presentar estudios, planes y programas a consideración de las dependencias y entidades, en términos de lo dispuesto por el quinto párrafo del artículo 18 de la Ley, deberán elaborar una propuesta en la que se especifique y proporcione la siguiente información y documentación:
+Las personas, entidades federativas o municipios que pretendan promover y presentar estudios, planes y programas a consideración de las dependencias y entidades, en términos de lo dispuesto por el quinto párrafo del artículo [18](../../lopsrm/markdown/articulo-18.md) de la Ley, deberán elaborar una propuesta en la que se especifique y proporcione la siguiente información y documentación:
 
 I. Propuesta conceptual, comprendiendo por lo menos la descripción del proyecto propuesto, sus objetivos generales y específicos, la problemática que pretende resolver, las características técnicas generales y la calendarización física y financiera estimada;
 
@@ -37,9 +37,9 @@ VII. Escrito en el que las personas, entidades federativas o municipios cedan a 
 
 VIII. Un análisis sobre la rentabilidad social del proyecto, y IX. Los demás aspectos técnicos y económicos, así como la información adicional que, de acuerdo al sector específico de que se trate, resulten necesarios para analizar la factibilidad de las propuestas que se presenten.
 
-La información y documentación señalada en las fracciones anteriores será analizada por las dependencias y entidades conforme a lo dispuesto por el séptimo párrafo del artículo 18 de la Ley.
+La información y documentación señalada en las fracciones anteriores será analizada por las dependencias y entidades conforme a lo dispuesto por el séptimo párrafo del artículo [18](../../lopsrm/markdown/articulo-18.md) de la Ley.
 
-En caso de que la información o documentación señalada en las fracciones anteriores no se proporcione en términos de lo previsto en este artículo o se requiera alguna aclaración, las dependencias y entidades podrán requerir a los promoventes la información que resulte necesaria, otorgando para ello un plazo razonable, el cual suspenderá en igual término el plazo a que se refiere el párrafo octavo del artículo 18 de la Ley.
+En caso de que la información o documentación señalada en las fracciones anteriores no se proporcione en términos de lo previsto en este artículo o se requiera alguna aclaración, las dependencias y entidades podrán requerir a los promoventes la información que resulte necesaria, otorgando para ello un plazo razonable, el cual suspenderá en igual término el plazo a que se refiere el párrafo octavo del artículo [18](../../lopsrm/markdown/articulo-18.md) de la Ley.
 
 Si el requerimiento a que se refiere el párrafo anterior no se atiende dentro del plazo señalado por la dependencia o entidad correspondiente, ésta notificará al promovente el rechazo de la propuesta, sin perjuicio de que la propia dependencia o entidad pueda continuar con el estudio de la misma, complementando la información que considere pertinente.
 
@@ -47,6 +47,6 @@ La autorización de los estudios, planes y programas únicamente tendrá el efec
 
 Lo dispuesto en el párrafo anterior se aplicará sin perjuicio de que las dependencias y entidades, presenten el proyecto de obra correspondiente, para efectos de lo dispuesto en los artículos [32](../../lfprh/markdown/articulo-32.md), primer párrafo, [34](../../lfprh/markdown/articulo-34.md) y [50](../../lfprh/markdown/articulo-50.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
-Los estudios, planes y programas a que se refiere el presente artículo presentados por particulares, entidades federativas y municipios que reúnan las condiciones de factibilidad y los requerimientos para ser considerados en los programas anuales de obras y servicios de las dependencias y entidades, podrán incorporarse en los mismos para el ejercicio de que se trate, en términos del quinto párrafo del artículo 18 de la Ley, quedando sujetos a los procedimientos de contratación previstos en la misma.
+Los estudios, planes y programas a que se refiere el presente artículo presentados por particulares, entidades federativas y municipios que reúnan las condiciones de factibilidad y los requerimientos para ser considerados en los programas anuales de obras y servicios de las dependencias y entidades, podrán incorporarse en los mismos para el ejercicio de que se trate, en términos del quinto párrafo del artículo [18](../../lopsrm/markdown/articulo-18.md) de la Ley, quedando sujetos a los procedimientos de contratación previstos en la misma.
 
-Tratándose de estudios, planes y programas para la realización de obras asociadas a proyectos de infraestructura a que se refieren los párrafos sexto, séptimo, octavo y noveno del artículo 18 de la Ley, además de lo previsto en el presente artículo, se atenderá lo dispuesto en el Capítulo Noveno del Título Segundo de este Reglamento.
+Tratándose de estudios, planes y programas para la realización de obras asociadas a proyectos de infraestructura a que se refieren los párrafos sexto, séptimo, octavo y noveno del artículo [18](../../lopsrm/markdown/articulo-18.md) de la Ley, además de lo previsto en el presente artículo, se atenderá lo dispuesto en el Capítulo Noveno del Título Segundo de este Reglamento.

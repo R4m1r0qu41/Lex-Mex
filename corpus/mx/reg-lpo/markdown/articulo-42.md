@@ -17,4 +17,4 @@ source_sha256: 931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557
 
 # Artículo 42
 
-La Secretaría, con opinión del Consejo, dará a conocer el diseño y características del distintivo nacional que hace referencia el artículo 31 de la [Ley](articulo-2.md).
+La Secretaría, con opinión del Consejo, dará a conocer el diseño y características del distintivo nacional que hace referencia el artículo [31](../../lpo/markdown/articulo-31.md) de la [Ley](articulo-2.md).

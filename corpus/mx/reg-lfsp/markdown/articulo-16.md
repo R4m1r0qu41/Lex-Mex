@@ -17,4 +17,4 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 # Artículo 16
 
-Además de lo previsto en el artículo 17 de la [Ley](articulo-2.md), la autorización contendrá los datos generales del Prestador de Servicios, la fecha de expedición, la fecha de expiración de la misma y demás establecidos en otras disposiciones aplicables.
+Además de lo previsto en el artículo [17](../../lfsp/markdown/articulo-17.md) de la [Ley](articulo-2.md), la autorización contendrá los datos generales del Prestador de Servicios, la fecha de expedición, la fecha de expiración de la misma y demás establecidos en otras disposiciones aplicables.

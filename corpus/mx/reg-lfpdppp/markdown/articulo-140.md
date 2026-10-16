@@ -17,7 +17,7 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 140
 
-Para efectos del artículo 61 de la Ley, el Instituto iniciará el procedimiento de imposición de sanciones cuando de los procedimientos de protección de derechos o de verificación, se determinen presuntas infracciones a la Ley susceptibles de ser sancionadas conforme al artículo [64](articulo-64.md) de la misma. Desahogado el procedimiento respectivo, se emitirá la resolución correspondiente.
+Para efectos del artículo [61](../../lfpdppp/markdown/articulo-61.md) de la Ley, el Instituto iniciará el procedimiento de imposición de sanciones cuando de los procedimientos de protección de derechos o de verificación, se determinen presuntas infracciones a la Ley susceptibles de ser sancionadas conforme al artículo [64](articulo-64.md) de la misma. Desahogado el procedimiento respectivo, se emitirá la resolución correspondiente.
 
 El procedimiento iniciará con la notificación que se haga al presunto infractor, en el domicilio que el Instituto tenga registrado, derivado de los procedimientos de protección de derechos o de verificación.
 

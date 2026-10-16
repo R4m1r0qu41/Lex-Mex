@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 168
 
-Cuando los pagos a que se refiere el artículo 94 de la [Ley](articulo-1.md), se hagan en forma semanal, el retenedor podrá efectuar los enteros a que se refiere el artículo 96 de la Ley, considerando el número de pagos semanales que se hubieran efectuado en el periodo de que se trate.
+Cuando los pagos a que se refiere el artículo [94](../../lisr/markdown/articulo-94.md) de la [Ley](articulo-1.md), se hagan en forma semanal, el retenedor podrá efectuar los enteros a que se refiere el artículo [96](../../lisr/markdown/articulo-96.md) de la Ley, considerando el número de pagos semanales que se hubieran efectuado en el periodo de que se trate.

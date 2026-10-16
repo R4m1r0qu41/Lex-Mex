@@ -25,4 +25,4 @@ II. Establecerá las bases y requisitos en que se llevará a cabo la elección, 
 
 III. Los requisitos mediante los cuales se deberá acreditar el carácter de organismos nacionales.
 
-La convocatoria de integración del Consejo deberá ser publicada en las páginas de internet de las Secretarías de Estado que forman parte integrante del Consejo, las cuales señala el artículo 14 de la [Ley](articulo-2.md).
+La convocatoria de integración del Consejo deberá ser publicada en las páginas de internet de las Secretarías de Estado que forman parte integrante del Consejo, las cuales señala el artículo [14](../../lpo/markdown/articulo-14.md) de la [Ley](articulo-2.md).

@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 94
 
-Para efectos del artículo 61, fracción IV de la [Ley](articulo-1.md), las Mercancías extranjeras de rancho, son las Mercancías indispensables para satisfacer las necesidades básicas de los pasajeros y tripulación de los medios de transporte.
+Para efectos del artículo [61](../../ladua/markdown/articulo-61.md), fracción IV de la [Ley](articulo-1.md), las Mercancías extranjeras de rancho, son las Mercancías indispensables para satisfacer las necesidades básicas de los pasajeros y tripulación de los medios de transporte.
 
 El desembarque definitivo de las Mercancías a que se refiere el párrafo anterior, sólo se autorizará en los lugares donde haya aduana y quedará sujeto a las formalidades para la importación definitiva. Para estos fines, el capitán o el consignatario, presentará la solicitud respectiva, sin perjuicio de que lo realicen las empresas porteadoras o los representantes de éstas.
 

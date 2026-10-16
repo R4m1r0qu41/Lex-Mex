@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 38
 
-En el caso previsto en el artículo 328 de la Ley, se podrá acreditar la personalidad indicando el número de registro, si el poder se encuentra inscrito en el Registro General de Poderes del Instituto, siempre que dicho poder contenga facultades para pleitos y cobranzas.
+En el caso previsto en el artículo [328](../../lfppi/markdown/articulo-328.md) de la Ley, se podrá acreditar la personalidad indicando el número de registro, si el poder se encuentra inscrito en el Registro General de Poderes del Instituto, siempre que dicho poder contenga facultades para pleitos y cobranzas.

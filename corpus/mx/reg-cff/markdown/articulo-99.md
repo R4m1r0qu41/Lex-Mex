@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 99
 
-Para los efectos de los artículos 153, 164 y 165 del [Código](articulo-1.md), el interventor con cargo a la caja tendrá las siguientes facultades:
+Para los efectos de los artículos [153](../../cff/markdown/articulo-153.md), [164](../../cff/markdown/articulo-164.md) y [165](../../cff/markdown/articulo-165.md) del [Código](articulo-1.md), el interventor con cargo a la caja tendrá las siguientes facultades:
 
 I. Tener acceso a toda la información contable, fiscal y financiera de la negociación intervenida, a fin de tener conocimiento del manejo de las operaciones que ella realice, pudiendo requerir todo tipo de información que esté relacionada con la negociación intervenida, actualizada a la fecha del inicio de la intervención, señalando para ello un plazo de hasta cinco días;
 

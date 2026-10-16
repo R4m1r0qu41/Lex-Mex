@@ -17,6 +17,6 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 138 BIS
 
-Cuando al practicar las visitas de inspección, la Comisión llegue a conocer de hechos u omisiones que pudieran constituir un incumplimiento a las disposiciones jurídicas que rigen a los Sistemas de Ahorro para el Retiro, tiene un plazo de 4 meses, a partir de la fecha en que finalice el levantamiento del acta de conclusión, para iniciar el procedimiento sancionador previsto en el artículo 99 de la [Ley](articulo-2o.md).
+Cuando al practicar las visitas de inspección, la Comisión llegue a conocer de hechos u omisiones que pudieran constituir un incumplimiento a las disposiciones jurídicas que rigen a los Sistemas de Ahorro para el Retiro, tiene un plazo de 4 meses, a partir de la fecha en que finalice el levantamiento del acta de conclusión, para iniciar el procedimiento sancionador previsto en el artículo [99](../../lsar/markdown/articulo-99.md) de la [Ley](articulo-2o.md).
 
 Artículo adicionado DOF 25-02-2020. Reformado DOF 27-09-2024

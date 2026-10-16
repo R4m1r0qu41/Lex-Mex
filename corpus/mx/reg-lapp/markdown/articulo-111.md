@@ -17,9 +17,9 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 111
 
-En términos del artículo 99 de la Ley, el monto de cobertura de las garantías que el desarrollador otorgue no deberá exceder, en su conjunto, los límites siguientes: Párrafo reformado DOF 31-10-2014
+En términos del artículo [99](../../lapp/markdown/articulo-99.md) de la Ley, el monto de cobertura de las garantías que el desarrollador otorgue no deberá exceder, en su conjunto, los límites siguientes: Párrafo reformado DOF 31-10-2014
 
-I. Durante la etapa de construcción de la infraestructura del proyecto, del equivalente al quince por ciento del valor de las obras de que se trate, según éste se haya estimado en los estudios mencionados en el artículo 14 de la Ley, y
+I. Durante la etapa de construcción de la infraestructura del proyecto, del equivalente al quince por ciento del valor de las obras de que se trate, según éste se haya estimado en los estudios mencionados en el artículo [14](../../lapp/markdown/articulo-14.md) de la Ley, y
 
 II. Durante la etapa de prestación de los servicios, del equivalente al diez por ciento de la contraprestación anual por los servicios mismos, según lo señalado en el régimen financiero del proyecto pactado en el contrato.
 

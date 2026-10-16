@@ -17,9 +17,9 @@ source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 
 # Artículo 17
 
-Los establecimientos de carácter privado, en los términos del Artículo 44 de la Ley, prestarán los siguientes servicios:
+Los establecimientos de carácter privado, en los términos del Artículo [44](../../lgs/markdown/articulo-44.md) de la Ley, prestarán los siguientes servicios:
 
-I.- Colaborar en la prestación de los servicios básicos de salud a que se refiere el Artículo 27 de la Ley, con especial énfasis en la educación para la salud, prevención y control de enfermedades transmisibles de atención prioritaria, planificación familiar y disponibilidad de insumos para la salud;
+I.- Colaborar en la prestación de los servicios básicos de salud a que se refiere el Artículo [27](../../lgs/markdown/articulo-27.md) de la Ley, con especial énfasis en la educación para la salud, prevención y control de enfermedades transmisibles de atención prioritaria, planificación familiar y disponibilidad de insumos para la salud;
 
 II.- Proporcionar servicios de urgencias en los términos de la Ley y este Reglamento;
 

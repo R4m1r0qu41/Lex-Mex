@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 235-B
 
-Para los efectos del artículo 167-I, fracción I de la [Ley](articulo-1.md), las Autoridades Aduaneras considerarán la aduana de adscripción de la agencia aduanal, aquella que tenga autorizada el agente aduanal que coincida con el domicilio fiscal de la misma. En caso de no coincidir, la agencia aduanal podrá elegir de entre las autorizadas la aduana de adscripción.
+Para los efectos del artículo [167-I](../../ladua/markdown/articulo-167-I.md), fracción I de la [Ley](articulo-1.md), las Autoridades Aduaneras considerarán la aduana de adscripción de la agencia aduanal, aquella que tenga autorizada el agente aduanal que coincida con el domicilio fiscal de la misma. En caso de no coincidir, la agencia aduanal podrá elegir de entre las autorizadas la aduana de adscripción.
 
 Artículo adicionado DOF 23-02-2026

@@ -17,6 +17,6 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 31 bis
 
-Para efectos de lo dispuesto en el artículo 92 bis de la [Ley](articulo-2o.md), se entenderá por obras de las artes plásticas, todas aquellas creaciones artísticas de carácter plástico y visual, fijadas sobre una superficie plana o tridimensional, entre las que se encuentran las ramas pictórica, escultórica y de dibujo.
+Para efectos de lo dispuesto en el artículo [92 bis](../../lfda/markdown/articulo-92-bis.md) de la [Ley](articulo-2o.md), se entenderá por obras de las artes plásticas, todas aquellas creaciones artísticas de carácter plástico y visual, fijadas sobre una superficie plana o tridimensional, entre las que se encuentran las ramas pictórica, escultórica y de dibujo.
 
 Artículo adicionado DOF 14-09-2005

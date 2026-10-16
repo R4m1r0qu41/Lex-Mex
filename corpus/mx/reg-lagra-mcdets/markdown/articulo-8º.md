@@ -17,7 +17,7 @@ source_sha256: 70dc1863cee2a88911e43cefb51d1c2007e550a2a46f9e11d5569c1525667cfd
 
 # Artículo 8º
 
-En las [Asambleas](articulo-2º.md) a que se refiere el artículo 56 de la [Ley](articulo-2º.md), la [Procuraduría](articulo-2º.md) vigilará que se cumpla con las siguientes formalidades:
+En las [Asambleas](articulo-2º.md) a que se refiere el artículo [56](../../lagra/markdown/articulo-56.md) de la [Ley](articulo-2º.md), la [Procuraduría](articulo-2º.md) vigilará que se cumpla con las siguientes formalidades:
 
 I. En cuanto a los plazos que transcurren entre la expedición de la convocatoria y la celebración de la Asamblea:
 

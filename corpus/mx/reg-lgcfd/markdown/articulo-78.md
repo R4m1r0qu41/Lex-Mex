@@ -17,7 +17,7 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 # Artículo 78
 
-Para lo relativo al seguro de vida y gastos médicos, así como incentivos económicos señalados en el artículo 105 de la Ley, la CONADE evaluará y dictaminará la viabilidad de las solicitudes de apoyo, considerando como criterios de resolución el cumplimiento de los requisitos establecidos en este artículo y los demás ordenamientos jurídicos aplicables, sujetándose a su disponibilidad presupuestaria.
+Para lo relativo al seguro de vida y gastos médicos, así como incentivos económicos señalados en el artículo [105](../../lgcfd/markdown/articulo-105.md) de la Ley, la CONADE evaluará y dictaminará la viabilidad de las solicitudes de apoyo, considerando como criterios de resolución el cumplimiento de los requisitos establecidos en este artículo y los demás ordenamientos jurídicos aplicables, sujetándose a su disponibilidad presupuestaria.
 
 El procedimiento para otorgar los seguros de vida y gastos médicos, así como los incentivos se sujetará a lo siguiente:
 

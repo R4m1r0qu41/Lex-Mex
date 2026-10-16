@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 78
 
-Para los efectos del artículo 141, fracción I del [Código](articulo-1.md), las cartas de crédito que se presenten como garantía del interés fiscal deberán ser emitidas por las instituciones de crédito registradas para tal efecto ante el Servicio de Administración Tributaria.
+Para los efectos del artículo [141](../../cff/markdown/articulo-141.md), fracción I del [Código](articulo-1.md), las cartas de crédito que se presenten como garantía del interés fiscal deberán ser emitidas por las instituciones de crédito registradas para tal efecto ante el Servicio de Administración Tributaria.
 
 Las modificaciones a las cartas de crédito a que se refiere el párrafo anterior por ampliación o disminución del monto máximo disponible o por prórroga de la fecha de vencimiento, se deberán realizar conforme al procedimiento que establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
 

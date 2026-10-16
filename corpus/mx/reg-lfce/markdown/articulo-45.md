@@ -17,4 +17,4 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 45
 
-El probable responsable podrá presentar su contestación y ofrecer los medios de prueba que considere pertinente, en una o más ocasiones, pero en todo caso deberá hacerlo dentro del plazo a que se refiere la fracción II del artículo 33 de la Ley, sin posibilidad de que se prorrogue el mismo.
+El probable responsable podrá presentar su contestación y ofrecer los medios de prueba que considere pertinente, en una o más ocasiones, pero en todo caso deberá hacerlo dentro del plazo a que se refiere la fracción II del artículo [33](../../lfce/markdown/articulo-33.md) de la Ley, sin posibilidad de que se prorrogue el mismo.

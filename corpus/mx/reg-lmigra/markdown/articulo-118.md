@@ -17,6 +17,6 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 118
 
-La solicitud de visa de visitante con fines de adopción y de residente temporal estudiante, previstas en el artículo 40, fracciones III y V, de la Ley, en ningún caso podrán presentarse directamente ante el Instituto. Para los demás tipos de visas únicamente podrá presentarse la solicitud por unidad familiar, por oferta de empleo o por razones humanitarias. En este último caso, la visa que se expedirá será la de visitante sin permiso para realizar actividades remuneradas.
+La solicitud de visa de visitante con fines de adopción y de residente temporal estudiante, previstas en el artículo [40](../../lmigra/markdown/articulo-40.md), fracciones III y V, de la Ley, en ningún caso podrán presentarse directamente ante el Instituto. Para los demás tipos de visas únicamente podrá presentarse la solicitud por unidad familiar, por oferta de empleo o por razones humanitarias. En este último caso, la visa que se expedirá será la de visitante sin permiso para realizar actividades remuneradas.
 
 Una vez obtenida la visa y autorizado el ingreso al territorio nacional, únicamente se gestionará ante la autoridad migratoria el documento migratorio que acredite su situación migratoria regular.

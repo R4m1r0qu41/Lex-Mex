@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 9
 
-Las políticas, bases y lineamientos en materia de obras y servicios a que se refiere el penúltimo párrafo del artículo 1 de la [Ley](articulo-2.md), sólo deberán prever lo siguiente:
+Las políticas, bases y lineamientos en materia de obras y servicios a que se refiere el penúltimo párrafo del artículo [1](../../lopsrm/markdown/articulo-1.md) de la [Ley](articulo-2.md), sólo deberán prever lo siguiente:
 
 I. Las áreas de la dependencia o entidad que aplicarán las disposiciones previstas en la Ley y el presente Reglamento;
 

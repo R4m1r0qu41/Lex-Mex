@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 54
 
-Están exentos de la presentación de la Manifestación de Impacto Social del Sector Energético, a que se refiere el artículo 136 de la Ley, los Proyectos de Infraestructura para la generación de energía eléctrica a través de autoconsumo modalidad aislado, siempre que su capacidad de generación no exceda de 20 MW.
+Están exentos de la presentación de la Manifestación de Impacto Social del Sector Energético, a que se refiere el artículo [136](../../lse/markdown/articulo-136.md) de la Ley, los Proyectos de Infraestructura para la generación de energía eléctrica a través de autoconsumo modalidad aislado, siempre que su capacidad de generación no exceda de 20 MW.

@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 149
 
-Conforme a lo establecido en el artículo 96 de la [Ley](articulo-2.md), los titulares de las autorizaciones de Cambio de uso de suelo en Terrenos forestales deberán presentar:
+Conforme a lo establecido en el artículo [96](../../lgdfs/markdown/articulo-96.md) de la [Ley](articulo-2.md), los titulares de las autorizaciones de Cambio de uso de suelo en Terrenos forestales deberán presentar:
 
 I. Dentro de los primeros treinta días hábiles posteriores al inicio de ejecución de la autorización, un aviso en el cual informen sobre el inicio de la ejecución del Cambio de uso de suelos que les fue autorizado, con relación a lo establecido en la fracción VIII del artículo [141](articulo-141.md) de este Reglamento, y
 

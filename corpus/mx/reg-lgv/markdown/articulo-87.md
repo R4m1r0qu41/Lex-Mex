@@ -19,4 +19,4 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 La Comisión Ejecutiva deberá emitir la resolución definitiva en un plazo no mayor a veinte días hábiles contados a partir de la recepción de la solicitud, misma que se notificará a la víctima en un plazo no mayor a cinco días hábiles posteriores a su emisión. En caso de que la Comisión Ejecutiva resuelva favorablemente la solicitud, deberá notificar la resolución, en el plazo señalado en el párrafo anterior, al Titular de la unidad responsable del fondo, a fin de que efectúe el trámite de pago correspondiente.
 
-En contra de la resolución de la Comisión Ejecutiva, la víctima puede interponer el juicio de amparo conforme a lo previsto en el artículo 144 de la Ley.
+En contra de la resolución de la Comisión Ejecutiva, la víctima puede interponer el juicio de amparo conforme a lo previsto en el artículo [144](../../lgv/markdown/articulo-144.md) de la Ley.

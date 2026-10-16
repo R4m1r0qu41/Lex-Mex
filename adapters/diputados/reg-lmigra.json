@@ -14,5 +14,6 @@
   "expected_transitories": null,
   "allow_article_gaps": false,
   "formal_publication_urls": {},
-  "separate_enactment": true
+  "separate_enactment": true,
+  "parent_instrument_id": "urn:lex-mx:federal:statute:lmigra"
 }

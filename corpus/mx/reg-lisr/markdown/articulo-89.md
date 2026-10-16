@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 89
 
-Para efectos del artículo 48, párrafo penúltimo de la [Ley](articulo-1.md), cuando la persona que pague los intereses, cubra el [Impuesto](articulo-1.md) que al establecimiento en el extranjero de instituciones de crédito del país le corresponda, el importe de dicho Impuesto se considerará ingreso por interés de los comprendidos en dicho artículo y será deducible para el contribuyente que lo pagó, conforme a lo dispuesto en los artículos 25 y 103 de la Ley, según corresponda.
+Para efectos del artículo [48](../../lisr/markdown/articulo-48.md), párrafo penúltimo de la [Ley](articulo-1.md), cuando la persona que pague los intereses, cubra el [Impuesto](articulo-1.md) que al establecimiento en el extranjero de instituciones de crédito del país le corresponda, el importe de dicho Impuesto se considerará ingreso por interés de los comprendidos en dicho artículo y será deducible para el contribuyente que lo pagó, conforme a lo dispuesto en los artículos [25](../../lisr/markdown/articulo-25.md) y [103](../../lisr/markdown/articulo-103.md) de la Ley, según corresponda.

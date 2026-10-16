@@ -19,7 +19,7 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 Las definiciones del artículo 12 de la Ley serán aplicables a este Reglamento. Adicionalmente, para los efectos del mismo, se entenderá por:
 
-I. Agente: Persona que presta sus servicios para auxiliar a la dependencia o entidad dentro del procedimiento de concurso, en términos del tercer párrafo del artículo 38 de la Ley; II. Cartera: La cartera de programas y proyectos de inversión que integra la [Secretaría](articulo-11.md) en términos del artículo [34](../../lfprh/markdown/articulo-34.md), fracción III, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y 46 de su Reglamento;
+I. Agente: Persona que presta sus servicios para auxiliar a la dependencia o entidad dentro del procedimiento de concurso, en términos del tercer párrafo del artículo [38](../../lapp/markdown/articulo-38.md) de la Ley; II. Cartera: La cartera de programas y proyectos de inversión que integra la [Secretaría](articulo-11.md) en términos del artículo [34](../../lfprh/markdown/articulo-34.md), fracción III, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y 46 de su Reglamento;
 
 III. Comisión: Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación;
 
@@ -31,7 +31,7 @@ VI. Entidades Federales: Las entidades paraestatales de la Administración Públ
 
 VII. Función Pública: La Secretaría de la Función Pública;
 
-VIII. Inversión Inicial: En relación con cada proyecto, el monto total de las aportaciones, en numerario y distintas a numerario, tanto del sector público como del sector privado, con y sin financiamiento, necesarias para que el proyecto inicie operaciones, calculado conforme a los estudios a que se refieren los artículos 14, fracción VII, de la Ley y 27 de este Reglamento. Estas cantidades no incluirán el valor que se atribuya a las autorizaciones mencionadas en la fracción II del artículo 12 de la Ley;
+VIII. Inversión Inicial: En relación con cada proyecto, el monto total de las aportaciones, en numerario y distintas a numerario, tanto del sector público como del sector privado, con y sin financiamiento, necesarias para que el proyecto inicie operaciones, calculado conforme a los estudios a que se refieren los artículos 14, fracción VII, de la Ley y 27 de este Reglamento. Estas cantidades no incluirán el valor que se atribuya a las autorizaciones mencionadas en la fracción II del artículo [12](../../lapp/markdown/articulo-12.md) de la Ley;
 
 IX. Medios Electrónicos: Dispositivos tecnológicos para el procesamiento, transmisión, impresión, despliegue, conservación y, en su caso, modificación de información;
 

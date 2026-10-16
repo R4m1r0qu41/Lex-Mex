@@ -25,6 +25,6 @@ II. La antigüedad mínima en el grado que debe contar el personal convocado con
 
 III. Situación escalafonaria;
 
-IV. La buena conducta a que se refiere el artículo 17 de la Ley, la cual se acreditará con el promedio aritmético de los conceptos de conducta militar y civil que se encuentran asentados en las hojas de actuación o memoriales de servicios, de los dos años anteriores al Concurso de Selección o del que se formule en caso de ser convocado con un año de antigüedad en el grado conforme a las disposiciones jurídicas aplicables, y Fracción reformada DOF 11-03-2016
+IV. La buena conducta a que se refiere el artículo [17](../../laam/markdown/articulo-17.md) de la Ley, la cual se acreditará con el promedio aritmético de los conceptos de conducta militar y civil que se encuentran asentados en las hojas de actuación o memoriales de servicios, de los dos años anteriores al Concurso de Selección o del que se formule en caso de ser convocado con un año de antigüedad en el grado conforme a las disposiciones jurídicas aplicables, y Fracción reformada DOF 11-03-2016
 
 V. Que no se encuentre en situación de grado tope. Fracción reformada DOF 22-09-2010

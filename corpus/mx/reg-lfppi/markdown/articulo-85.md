@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 85
 
-Para efectos de lo dispuesto en la fracción XXIII del artículo 173 de la Ley, la persona solicitante deberá presentar anexo a su solicitud el original de la constancia de autorización de la asamblea general comunitaria respectiva, en los términos de la legislación correspondiente.
+Para efectos de lo dispuesto en la fracción XXIII del artículo [173](../../lfppi/markdown/articulo-173.md) de la Ley, la persona solicitante deberá presentar anexo a su solicitud el original de la constancia de autorización de la asamblea general comunitaria respectiva, en los términos de la legislación correspondiente.

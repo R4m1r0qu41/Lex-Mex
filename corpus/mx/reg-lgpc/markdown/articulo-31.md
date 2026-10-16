@@ -19,11 +19,11 @@ source_sha256: 5018478a6ca9ea39f9ca88ffcb68dde9a33bd4adec59dc75d2431f894b621fc2
 
 Se consideran Donativos los siguientes:
 
-I. En efectivo, las aportaciones en dinero efectuadas en los términos del artículo 71 de la [Ley](articulo-2.md), y
+I. En efectivo, las aportaciones en dinero efectuadas en los términos del artículo [71](../../lgpc/markdown/articulo-71.md) de la [Ley](articulo-2.md), y
 
 II. En especie, comprenderá:
 
-a) Los bienes distintos al dinero que se establezcan por las autoridades de Protección Civil en las convocatorias para la recepción de Donativos a que se refiere el artículo 68 de la Ley.
+a) Los bienes distintos al dinero que se establezcan por las autoridades de Protección Civil en las convocatorias para la recepción de Donativos a que se refiere el artículo [68](../../lgpc/markdown/articulo-68.md) de la Ley.
 
 Los medicamentos, material de curación, equipo médico, alimentos y agua deberán ser nuevos, no estar abiertos ni caducos o con fecha de vencimiento menor a seis meses al momento de ser entregados.
 

@@ -17,7 +17,7 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 201
 
-Para imponer las sanciones que correspondan por las infracciones a que se refiere el artículo [199](articulo-199.md) de este Reglamento, la autoridad sanitaria fundará y motivará la resolución de conformidad con lo establecido por el artículo 418 de la Ley. Al efecto calificará la sanción correspondiente atendiendo a la gravedad de la infracción según dependa de los supuestos que se mencionan al respecto.
+Para imponer las sanciones que correspondan por las infracciones a que se refiere el artículo [199](articulo-199.md) de este Reglamento, la autoridad sanitaria fundará y motivará la resolución de conformidad con lo establecido por el artículo [418](../../lgs/markdown/articulo-418.md) de la Ley. Al efecto calificará la sanción correspondiente atendiendo a la gravedad de la infracción según dependa de los supuestos que se mencionan al respecto.
 
 I. Supuestos:
 
@@ -37,12 +37,12 @@ g) Que la acción u omisión implique riesgo sanitario que involucre el desarrol
 
 II. Sanciones:
 
-a) En caso de que se realicen los supuestos de los incisos a), b), c) o d) se impondrá la sanción a que se refiere el artículo 421 de la Ley; b) En el caso del inciso e) se impondrá la sanción a que se refiere el artículo 420 de la Ley;
+a) En caso de que se realicen los supuestos de los incisos a), b), c) o d) se impondrá la sanción a que se refiere el artículo [421](../../lgs/markdown/articulo-421.md) de la Ley; b) En el caso del inciso e) se impondrá la sanción a que se refiere el artículo [420](../../lgs/markdown/articulo-420.md) de la Ley;
 
-c) En el caso del inciso f) se impondrá la sanción prevista en el artículo 419 de la Ley, y
+c) En el caso del inciso f) se impondrá la sanción prevista en el artículo [419](../../lgs/markdown/articulo-419.md) de la Ley, y
 
 d) En el caso del inciso g) se impondrá multa equivalente hasta por quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo a la magnitud del riesgo y la actividad, servicio o proceso de productos afectados.
 
-Cuando exista reincidencia, se procederá de conformidad con lo que previene el artículo 423 de la Ley.
+Cuando exista reincidencia, se procederá de conformidad con lo que previene el artículo [423](../../lgs/markdown/articulo-423.md) de la Ley.
 
 En los casos en que el infractor actúe con dolo o mala fe, la autoridad sanitaria dará conocimiento del asunto a las autoridades competentes, para todos los efectos legales a que haya lugar.

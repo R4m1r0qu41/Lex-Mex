@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 159
 
-Para los efectos del artículo 80 de la [Ley](articulo-1o.md) se considerará representante legal acreditado la persona física que cuente con la autorización de la [Secretaría](articulo-1o.md) para tener acceso a la información confidencial, previo cumplimiento de los siguientes requisitos:
+Para los efectos del artículo [80](../../lce/markdown/articulo-80.md) de la [Ley](articulo-1o.md) se considerará representante legal acreditado la persona física que cuente con la autorización de la [Secretaría](articulo-1o.md) para tener acceso a la información confidencial, previo cumplimiento de los siguientes requisitos:
 
 I. Presentar ante la Secretaría una solicitud por escrito en la que manifieste la necesidad de revisar la información confidencial;
 

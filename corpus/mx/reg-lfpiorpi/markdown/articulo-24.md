@@ -17,6 +17,6 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 24
 
-Se tendrá por realizado el acto u operación, para efectos del artículo 17, fracción IV, de la Ley, cuando se pongan a disposición de la persona Cliente o Usuaria los recursos derivados del mutuo, préstamo o crédito otorgado.
+Se tendrá por realizado el acto u operación, para efectos del artículo [17](../../lfpiorpi/markdown/articulo-17.md), fracción IV, de la Ley, cuando se pongan a disposición de la persona Cliente o Usuaria los recursos derivados del mutuo, préstamo o crédito otorgado.
 
 Artículo reformado DOF 27-03-2026

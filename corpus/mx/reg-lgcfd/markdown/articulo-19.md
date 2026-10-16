@@ -17,7 +17,7 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 # Artículo 19
 
-El [Programa](articulo-2.md) deberá contener, además de lo dispuesto por el artículo 9 de la Ley, lo siguiente:
+El [Programa](articulo-2.md) deberá contener, además de lo dispuesto por el artículo [9](../../lgcfd/markdown/articulo-9.md) de la Ley, lo siguiente:
 
 I. La política nacional en materia de Cultura Física y Deporte;
 

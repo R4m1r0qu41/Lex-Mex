@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 18
 
-La Secretaría inscribirá en el Registro, además de lo dispuesto en los artículos 42 y 50 de la [Ley](articulo-2.md), lo siguiente:
+La Secretaría inscribirá en el Registro, además de lo dispuesto en los artículos [42](../../lgdfs/markdown/articulo-42.md) y [50](../../lgdfs/markdown/articulo-50.md) de la [Ley](articulo-2.md), lo siguiente:
 
 I. Unidades de manejo forestal,
 
@@ -25,7 +25,7 @@ II. Los programas regionales forestales de las Unidades de manejo forestal o de 
 
 III. Los árboles históricos y notables del país, y
 
-IV. Las resoluciones definitivas en las que la [Procuraduría](articulo-2.md) haya impuesto la clausura, suspensión temporal, total o parcial de los trámites y actos administrativos de autoridad previstos en los artículos 68 y 69 de la Ley. Fracción reformada DOF 20-11-2025
+IV. Las resoluciones definitivas en las que la [Procuraduría](articulo-2.md) haya impuesto la clausura, suspensión temporal, total o parcial de los trámites y actos administrativos de autoridad previstos en los artículos [68](../../lgdfs/markdown/articulo-68.md) y [69](../../lgdfs/markdown/articulo-69.md) de la Ley. Fracción reformada DOF 20-11-2025
 
 Tratándose de lo previsto en la fracción III del presente artículo, se considerará árbol histórico aquel árbol que esté ligado con acontecimientos históricos de ámbito regional, local o nacional, o que por su localización constituya un ejemplar emblemático ligado a la tradición de la cultura popular. Asimismo, se considera como árbol notable aquel que, por sus características extraordinarias, de porte, singularidad o valor científico, represente un patrimonio natural de incalculable valor y belleza.
 

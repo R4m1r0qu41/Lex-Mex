@@ -17,4 +17,4 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 73
 
-Los ascensos serán conferidos, siempre y cuando, además de observarse lo especificado con anterioridad, se dé plena satisfacción a todas y cada una de las circunstancias contenidas en el artículo 8 de la Ley.
+Los ascensos serán conferidos, siempre y cuando, además de observarse lo especificado con anterioridad, se dé plena satisfacción a todas y cada una de las circunstancias contenidas en el artículo [8](../../larefam/markdown/articulo-8.md) de la Ley.

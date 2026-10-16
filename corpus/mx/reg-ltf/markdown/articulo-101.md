@@ -17,7 +17,7 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 101
 
-Para efectos del artículo 53, fracción VI de la [Ley](articulo-2.md), la Tesorería se sujetará al procedimiento siguiente:
+Para efectos del artículo [53](../../ltf/markdown/articulo-53.md), fracción VI de la [Ley](articulo-2.md), la Tesorería se sujetará al procedimiento siguiente:
 
 I. Se dictará el acuerdo de inicio del procedimiento para determinar el monto a resarcir, mismo que, deberá estar fundado y motivado y señalar:
 

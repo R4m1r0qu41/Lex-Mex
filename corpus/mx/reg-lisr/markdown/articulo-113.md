@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 113
 
-Para efectos del artículo 76, fracción XVI de la [Ley](articulo-1.md), en el caso de que las cantidades en un mismo ejercicio se reciban en dos o más pagos, los contribuyentes presentarán la información dentro de los quince días posteriores a la entrega de la última cantidad por la que se superen los seiscientos mil pesos en efectivo, en moneda nacional o extranjera.
+Para efectos del artículo [76](../../lisr/markdown/articulo-76.md), fracción XVI de la [Ley](articulo-1.md), en el caso de que las cantidades en un mismo ejercicio se reciban en dos o más pagos, los contribuyentes presentarán la información dentro de los quince días posteriores a la entrega de la última cantidad por la que se superen los seiscientos mil pesos en efectivo, en moneda nacional o extranjera.

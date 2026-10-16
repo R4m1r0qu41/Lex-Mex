@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 39
 
-La bonificación o compensación es el derecho que tiene el consumidor de recibir un pago extraordinario en los supuestos establecidos en los artículos 37, 41, 50, 60, 61, 82, 92 y 92 BIS de la Ley, en términos del artículo 92 TER de la misma, así como aquélla a la que se refiere el artículo 73 QUINTUS de la Ley.
+La bonificación o compensación es el derecho que tiene el consumidor de recibir un pago extraordinario en los supuestos establecidos en los artículos [37](../../lfpc/markdown/articulo-37.md), [41](../../lfpc/markdown/articulo-41.md), [50](../../lfpc/markdown/articulo-50.md), [60](../../lfpc/markdown/articulo-60.md), [61](../../lfpc/markdown/articulo-61.md), [82](../../lfpc/markdown/articulo-82.md), [92](../../lfpc/markdown/articulo-92.md) y [92 BIS](../../lfpc/markdown/articulo-92-BIS.md) de la Ley, en términos del artículo 92 TER de la misma, así como aquélla a la que se refiere el artículo 73 QUINTUS de la Ley.

@@ -17,9 +17,9 @@ source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 
 # Artículo 43
 
-Las bases de datos sobre niñas, niños y adolescentes migrantes a que se refieren los artículos 99 y 100 de la [Ley](articulo-2.md) se integrarán al Sistema Nacional de Información por el Sistema Nacional DIF.
+Las bases de datos sobre niñas, niños y adolescentes migrantes a que se refieren los artículos [99](../../lgdnna/markdown/articulo-99.md) y [100](../../lgdnna/markdown/articulo-100.md) de la [Ley](articulo-2.md) se integrarán al Sistema Nacional de Información por el Sistema Nacional DIF.
 
-El Sistema Nacional DIF administrará las bases de datos de niñas, niños y adolescentes migrantes extranjeros a que se refiere este artículo, las cuales deberán contener, además de la información prevista en los artículos 99 y 100 de la Ley, la siguiente:
+El Sistema Nacional DIF administrará las bases de datos de niñas, niños y adolescentes migrantes extranjeros a que se refiere este artículo, las cuales deberán contener, además de la información prevista en los artículos [99](../../lgdnna/markdown/articulo-99.md) y [100](../../lgdnna/markdown/articulo-100.md) de la Ley, la siguiente:
 
 I. Nombre completo;
 

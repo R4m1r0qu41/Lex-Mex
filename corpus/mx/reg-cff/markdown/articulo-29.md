@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 29
 
-Para los efectos del artículo 27 del [Código](articulo-1.md), las personas físicas o morales presentarán, en su caso, los avisos siguientes:
+Para los efectos del artículo [27](../../cff/markdown/articulo-27.md) del [Código](articulo-1.md), las personas físicas o morales presentarán, en su caso, los avisos siguientes:
 
 I. Cambio de denominación o razón social;
 

@@ -17,7 +17,7 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 55
 
-La garantía de seriedad a que se refiere el artículo 31, fracción IV, párrafo segundo, de la Ley se ajustará a lo siguiente:
+La garantía de seriedad a que se refiere el artículo [31](../../lapp/markdown/articulo-31.md), fracción IV, párrafo segundo, de la Ley se ajustará a lo siguiente:
 
 I. Se constituirá mediante alguna de las formas mencionadas en el artículo [150](articulo-150.md) de este Reglamento;
 

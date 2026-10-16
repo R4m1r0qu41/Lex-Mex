@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 66
 
-Las notificaciones efectuadas en los supuestos a que se refiere el artículo 104, tercer párrafo de la Ley, surtirán sus efectos de conformidad con lo establecido por las disposiciones relativas del Código Federal de Procedimientos Civiles.
+Las notificaciones efectuadas en los supuestos a que se refiere el artículo [104](../../lfpc/markdown/articulo-104.md), tercer párrafo de la Ley, surtirán sus efectos de conformidad con lo establecido por las disposiciones relativas del Código Federal de Procedimientos Civiles.

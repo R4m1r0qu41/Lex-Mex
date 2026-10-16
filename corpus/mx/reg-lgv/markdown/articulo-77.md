@@ -17,6 +17,6 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 77
 
-Para que la víctima sea considerada beneficiaria de los recursos del Fondo debe cumplir con los requisitos establecidos en los artículos 131, 148 y 149 de la Ley, así como lo que se determinen en los lineamientos que al efecto emita la Comisión Ejecutiva.
+Para que la víctima sea considerada beneficiaria de los recursos del Fondo debe cumplir con los requisitos establecidos en los artículos [131](../../lgv/markdown/articulo-131.md), [148](../../lgv/markdown/articulo-148.md) y [149](../../lgv/markdown/articulo-149.md) de la Ley, así como lo que se determinen en los lineamientos que al efecto emita la Comisión Ejecutiva.
 
-Para efectos de la fracción IV del artículo 149 de la Ley, la opinión favorable de la Comisión Ejecutiva a la solicitud presentada por la víctima, se tendrá por acreditada con el dictamen que establece el artículo 148 del mismo ordenamiento.
+Para efectos de la fracción IV del artículo [149](../../lgv/markdown/articulo-149.md) de la Ley, la opinión favorable de la Comisión Ejecutiva a la solicitud presentada por la víctima, se tendrá por acreditada con el dictamen que establece el artículo 148 del mismo ordenamiento.

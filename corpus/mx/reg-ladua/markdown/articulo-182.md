@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 182
 
-Para efectos de lo dispuesto en el artículo 121, fracción IV de la [Ley](articulo-1.md), la Autoridad Aduanera podrá autorizar el establecimiento de depósitos fiscales para someter Mercancías al proceso de ensamble y fabricación de vehículos, a empresas de la industria automotriz terminal, siempre que los interesados se encuentren al corriente en el cumplimiento de sus obligaciones fiscales y cumplan con los siguientes requisitos:
+Para efectos de lo dispuesto en el artículo [121](../../ladua/markdown/articulo-121.md), fracción IV de la [Ley](articulo-1.md), la Autoridad Aduanera podrá autorizar el establecimiento de depósitos fiscales para someter Mercancías al proceso de ensamble y fabricación de vehículos, a empresas de la industria automotriz terminal, siempre que los interesados se encuentren al corriente en el cumplimiento de sus obligaciones fiscales y cumplan con los siguientes requisitos:
 
 I. Sean propietarios o poseedores de las instalaciones por las que se pretende obtener autorización;
 
@@ -33,4 +33,4 @@ La vigencia de la autorización será de hasta diez años y podrá prorrogarse a
 
 En ningún caso, el plazo de la autorización y de la prórroga, será mayor a aquél por el que el autorizado tenga la legal posesión de las instalaciones por las que se pretende obtener autorización.
 
-La Autoridad Aduanera cancelará la autorización conforme al procedimiento previsto en el artículo 144-A de la Ley, a quienes dejen de cumplir los requisitos previstos para el otorgamiento de la autorización y las obligaciones inherentes a la autorización. Párrafo reformado DOF 23-02-2026
+La Autoridad Aduanera cancelará la autorización conforme al procedimiento previsto en el artículo [144-A](../../ladua/markdown/articulo-144-A.md) de la Ley, a quienes dejen de cumplir los requisitos previstos para el otorgamiento de la autorización y las obligaciones inherentes a la autorización. Párrafo reformado DOF 23-02-2026

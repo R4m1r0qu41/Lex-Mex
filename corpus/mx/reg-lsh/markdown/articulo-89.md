@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 89
 
-El producto que resulte de la mezcla de Petrolíferos en las interfaces operativas inherentes al Transporte por medio de Ductos y que se reciba en los Sistemas de Almacenamiento vinculados a Ductos, no es considerado producto Alterado o Adulterado para efectos del artículo 111 de la Ley, el presente reglamento y demás Normatividad aplicable.
+El producto que resulte de la mezcla de Petrolíferos en las interfaces operativas inherentes al Transporte por medio de Ductos y que se reciba en los Sistemas de Almacenamiento vinculados a Ductos, no es considerado producto Alterado o Adulterado para efectos del artículo [111](../../lsh/markdown/articulo-111.md) de la Ley, el presente reglamento y demás Normatividad aplicable.

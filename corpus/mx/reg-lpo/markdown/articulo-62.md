@@ -21,7 +21,7 @@ El Sistema de Control Nacional se integra con la siguiente información: I. El i
 
 II. El padrón;
 
-III. La lista nacional a que se refiere el apartado B de la fracción X del artículo 6 de la [Ley](articulo-2.md);
+III. La lista nacional a que se refiere el apartado B de la fracción X del artículo [6](../../lpo/markdown/articulo-6.md) de la [Ley](articulo-2.md);
 
 IV. Las Disposiciones aplicables que emitan la Secretaría u otras dependencias de la Administración Pública Federal relativa a la producción orgánica, y
 

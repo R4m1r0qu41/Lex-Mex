@@ -171,6 +171,36 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:25:reference:581-588:159-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:25",
+    "source_span": "159 Bis",
+    "start_char": 581,
+    "end_char": 588,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:159-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:28:reference:116-125:159-bis-4:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:28",
+    "source_span": "159 Bis 4",
+    "start_char": 116,
+    "end_char": 125,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:159-bis-4",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:reference:356-357:3:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
     "source_span": "3",
@@ -184,6 +214,28 @@
         "text": "fracción XI",
         "start_char": 361,
         "end_char": 372
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:9:reference:141-148:111-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:9",
+    "source_span": "111 Bis",
+    "start_char": 141,
+    "end_char": 148,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:111-bis",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 112,
+        "end_char": 127
       }
     ],
     "basis": "express_cross_reference",

@@ -23,4 +23,4 @@ I. Que el informe de comprobación contiene datos falsos o no se ajusta a lo rea
 
 II. Que los lotes mineros no colindantes objeto del agrupamiento no constituyen una unidad minera o minerometalúrgica, desde el punto de vista técnico y administrativo.
 
-En los casos anteriores, la Secretaría iniciará el procedimiento de cancelación de la concesión o de aquéllas incorporadas al agrupamiento, en los términos del artículo 45, párrafo final de la Ley.
+En los casos anteriores, la Secretaría iniciará el procedimiento de cancelación de la concesión o de aquéllas incorporadas al agrupamiento, en los términos del artículo [45](../../lmin/markdown/articulo-45.md), párrafo final de la Ley.

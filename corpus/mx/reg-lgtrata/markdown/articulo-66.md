@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 66
 
-El Fondo se integrará en los términos previstos en el artículo 81 de la Ley.
+El Fondo se integrará en los términos previstos en el artículo [81](../../lgtrata/markdown/articulo-81.md) de la Ley.

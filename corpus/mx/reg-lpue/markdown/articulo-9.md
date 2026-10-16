@@ -19,7 +19,7 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 Las [Obras Mayores](articulo-2.md) a cargo de un [Administrador](articulo-2.md) Portuario requerirán la autorización de la Secretaría.
 
-Para efectos del párrafo anterior, la Secretaría podrá requerir un dictamen técnico por un profesionista o institución especializada en la materia, con cargo al interesado y emitirá la resolución en términos del artículo 28 de la [Ley](articulo-2.md).
+Para efectos del párrafo anterior, la Secretaría podrá requerir un dictamen técnico por un profesionista o institución especializada en la materia, con cargo al interesado y emitirá la resolución en términos del artículo [28](../../lpue/markdown/articulo-28.md) de la [Ley](articulo-2.md).
 
 La autorización de las obras podrá negarse cuando las especificaciones técnicas no garanticen la estabilidad y seguridad de dichas obras.
 

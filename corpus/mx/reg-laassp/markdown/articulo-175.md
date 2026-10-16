@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 175
 
-De conformidad con lo dispuesto en el artículo 100 de la [Ley](articulo-2.md), la suspensión del acto impugnado en la inconformidad y la de los que de éste deriven se deberá solicitar en el escrito inicial de inconformidad.
+De conformidad con lo dispuesto en el artículo [100](../../laassp/markdown/articulo-100.md) de la [Ley](articulo-2.md), la suspensión del acto impugnado en la inconformidad y la de los que de éste deriven se deberá solicitar en el escrito inicial de inconformidad.

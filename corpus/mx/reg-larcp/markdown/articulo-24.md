@@ -17,7 +17,7 @@ source_sha256: 298ec78a8d6666f73ce8ccdd8a31ae0a06c18174139eacc0fe80d3a00d3f4b89
 
 # Artículo 24
 
-Para que la [Dirección General](articulo-2o.md) resuelva sobre la declaratoria de procedencia prevista en el artículo 17 de la [Ley](articulo-2o.md), las asociaciones religiosas que bajo cualquier título pretendan adquirir en propiedad bienes inmuebles, deberán informar lo siguiente:
+Para que la [Dirección General](articulo-2o.md) resuelva sobre la declaratoria de procedencia prevista en el artículo [17](../../larcp/markdown/articulo-17.md) de la [Ley](articulo-2o.md), las asociaciones religiosas que bajo cualquier título pretendan adquirir en propiedad bienes inmuebles, deberán informar lo siguiente:
 
 I. Ubicación y características del inmueble;
 

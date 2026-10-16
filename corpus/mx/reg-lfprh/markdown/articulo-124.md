@@ -23,4 +23,4 @@ I. Ajustarse al número de plazas autorizadas en sus presupuestos aprobados;
 
 II. Tratándose de personal que desempeñe otro o más cargos en las dependencias y entidades, verificar que éstos sean compatibles observando lo dispuesto en el artículo [138](articulo-138.md) de este Reglamento; III. Que la correspondiente asignación de remuneraciones se sujete en su caso a los catálogos, tabuladores y otros instrumentos que expidan la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, y
 
-IV. Llevar un registro del personal con base en el nombramiento, filiación y las normas que dicten la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, de conformidad con el artículo 70 de la [Ley](articulo-2.md).
+IV. Llevar un registro del personal con base en el nombramiento, filiación y las normas que dicten la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, de conformidad con el artículo [70](../../lfprh/markdown/articulo-70.md) de la [Ley](articulo-2.md).

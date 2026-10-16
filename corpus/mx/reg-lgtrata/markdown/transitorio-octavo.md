@@ -15,4 +15,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # OCTAVO
 
-La Procuraduría contará con un plazo no mayor a noventa días hábiles a partir de la entrada en vigor del presente Reglamento para revisar y, en su caso, adecuar el Programa de Protección a Víctimas y Testigos, a fin de dar cumplimiento al artículo 83 de la Ley.
+La Procuraduría contará con un plazo no mayor a noventa días hábiles a partir de la entrada en vigor del presente Reglamento para revisar y, en su caso, adecuar el Programa de Protección a Víctimas y Testigos, a fin de dar cumplimiento al artículo [83](../../lgtrata/markdown/articulo-83.md) de la Ley.

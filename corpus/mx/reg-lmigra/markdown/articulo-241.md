@@ -21,9 +21,9 @@ La persona extranjera alojada en una estación migratoria que pretenda obtener o
 
 I. Pasaporte o documento de identidad y viaje que sea válido conforme al derecho internacional, o bien, documento oficial expedido por autoridad de su país de origen, que contenga, cuando menos, nombre de la persona extranjera, nacionalidad, fecha de nacimiento y fotografía;
 
-II. Comprobante del pago de derechos por la recepción y estudio de la solicitud de regularización de situación migratoria, de acuerdo a la cuota prevista en la Ley Federal de Derechos, salvo para el caso de razones humanitarias; III. Comprobante del pago de la multa que le haya determinado la autoridad migratoria conforme a lo previsto en los artículos 145 o 146 de la Ley;
+II. Comprobante del pago de derechos por la recepción y estudio de la solicitud de regularización de situación migratoria, de acuerdo a la cuota prevista en la Ley Federal de Derechos, salvo para el caso de razones humanitarias; III. Comprobante del pago de la multa que le haya determinado la autoridad migratoria conforme a lo previsto en los artículos [145](../../lmigra/markdown/articulo-145.md) o [146](../../lmigra/markdown/articulo-146.md) de la Ley;
 
-IV. Para los supuestos previstos en el artículo 133 de la Ley, debe presentar:
+IV. Para los supuestos previstos en el artículo [133](../../lmigra/markdown/articulo-133.md) de la Ley, debe presentar:
 
 a) Documento que acredite vínculo con mexicano o persona extranjera residente temporal o permanente, e identificación oficial vigente del mexicano, o tarjeta de residencia temporal o permanente de la persona extranjera;
 
@@ -33,7 +33,7 @@ c) En caso de razones humanitarias, documental pública expedida por autoridad c
 
 d) Los demás documentos previstos en las disposiciones administrativas de carácter general que emita la Secretaría y que serán publicadas en el Diario Oficial de la Federación.
 
-V. Para los supuestos previstos en el artículo 134 de la Ley, debe presentar:
+V. Para los supuestos previstos en el artículo [134](../../lmigra/markdown/articulo-134.md) de la Ley, debe presentar:
 
 a) Documento migratorio, y
 

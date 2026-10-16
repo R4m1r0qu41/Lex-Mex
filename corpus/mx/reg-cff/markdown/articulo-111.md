@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 111
 
-Para los efectos del artículo 184 del [Código](articulo-1.md), en caso de incumplimiento del postor ganador, se comunicará al postor que haya hecho la segunda, tercera más altas y así sucesivamente, que podrá realizar el depósito de su postura en los plazos señalados en los artículos 185 o 186 del Código, según corresponda.
+Para los efectos del artículo [184](../../cff/markdown/articulo-184.md) del [Código](articulo-1.md), en caso de incumplimiento del postor ganador, se comunicará al postor que haya hecho la segunda, tercera más altas y así sucesivamente, que podrá realizar el depósito de su postura en los plazos señalados en los artículos [185](../../cff/markdown/articulo-185.md) o [186](../../cff/markdown/articulo-186.md) del Código, según corresponda.

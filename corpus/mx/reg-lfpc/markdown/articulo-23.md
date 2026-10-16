@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 23
 
-Para efectos de lo dispuesto por el artículo 16 de la Ley, la petición del consumidor y la respuesta a éste, respecto de la información solicitada, podrán hacerse por cualquier medio comprobable y legalmente aceptado. Una vez que el consumidor hubiere solicitado la corrección de la información por ser inexacta o errónea, podrá interponer la reclamación respectiva ante la Procuraduría si el proveedor no la corrige dentro del plazo señalado por la Ley.
+Para efectos de lo dispuesto por el artículo [16](../../lfpc/markdown/articulo-16.md) de la Ley, la petición del consumidor y la respuesta a éste, respecto de la información solicitada, podrán hacerse por cualquier medio comprobable y legalmente aceptado. Una vez que el consumidor hubiere solicitado la corrección de la información por ser inexacta o errónea, podrá interponer la reclamación respectiva ante la Procuraduría si el proveedor no la corrige dentro del plazo señalado por la Ley.

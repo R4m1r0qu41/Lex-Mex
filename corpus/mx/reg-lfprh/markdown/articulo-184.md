@@ -27,4 +27,4 @@ III. Entidades federativas o sus municipios, y Fracción reformada DOF 04-09-200
 
 IV. Organismos e instituciones internacionales, en el marco de los tratados o acuerdos internacionales que suscriba el Gobierno Federal.
 
-Tratándose de asociaciones no lucrativas y fideicomisos constituidos por particulares, invariablemente deberán sujetarse a los requisitos previstos en el artículo 80, fracciones III y IV de la Ley.
+Tratándose de asociaciones no lucrativas y fideicomisos constituidos por particulares, invariablemente deberán sujetarse a los requisitos previstos en el artículo [80](../../lfprh/markdown/articulo-80.md), fracciones III y IV de la Ley.

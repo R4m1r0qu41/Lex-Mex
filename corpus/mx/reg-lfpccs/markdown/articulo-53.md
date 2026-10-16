@@ -17,6 +17,6 @@ source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 
 # Artículo 53
 
-El SNICS, para comprobar que el solicitante cumple con lo establecido en la fracción II del artículo 24 de la [Ley](articulo-2.md), realizará las visitas de inspección correspondientes.
+El SNICS, para comprobar que el solicitante cumple con lo establecido en la fracción II del artículo [24](../../lfpccs/markdown/articulo-24.md) de la [Ley](articulo-2.md), realizará las visitas de inspección correspondientes.
 
 Dichas visitas, también se realizarán cuando el interesado solicite la renovación de su aprobación como Mantenedor.

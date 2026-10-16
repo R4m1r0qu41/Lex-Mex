@@ -23,7 +23,7 @@ I. Nombre, denominación o razón social del promovente y, en su caso, nombre de
 
 II. Domicilio para oír y recibir notificaciones, así como el nombre de la persona o personas autorizadas para recibirlas;
 
-III. Dirección de correo electrónico para recibir notificaciones, en caso de que el promovente desee ser notificado por este medio; IV. Tipo del OGM, de conformidad con las fracciones del artículo 91 de la Ley, y las razones que dan motivo a la petición;
+III. Dirección de correo electrónico para recibir notificaciones, en caso de que el promovente desee ser notificado por este medio; IV. Tipo del OGM, de conformidad con las fracciones del artículo [91](../../lbogm/markdown/articulo-91.md) de la Ley, y las razones que dan motivo a la petición;
 
 V. Señalar el órgano de Salud, al que se dirige la solicitud;
 

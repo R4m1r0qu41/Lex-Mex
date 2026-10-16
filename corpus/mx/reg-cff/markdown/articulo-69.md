@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 69
 
-Para los efectos del artículo 69-B, segundo párrafo del [Código](articulo-1.md), la notificación se realizará en el siguiente orden:
+Para los efectos del artículo [69-B](../../cff/markdown/articulo-69-B.md), segundo párrafo del [Código](articulo-1.md), la notificación se realizará en el siguiente orden:
 
 I. A través del buzón tributario;
 

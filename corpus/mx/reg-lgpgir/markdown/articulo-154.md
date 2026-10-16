@@ -17,7 +17,7 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 154
 
-La Secretaría, por conducto de la [Procuraduría](articulo-2.md), realizará los actos de inspección y vigilancia a que se refiere el artículo 101 de la [Ley](articulo-2.md), así como los relativos al cumplimiento de las disposiciones contenidas en el presente ordenamiento y las que del mismo se deriven, e impondrá las medidas de seguridad, correctivas o de urgente aplicación y sanciones que resulten procedentes.
+La Secretaría, por conducto de la [Procuraduría](articulo-2.md), realizará los actos de inspección y vigilancia a que se refiere el artículo [101](../../lgpgir/markdown/articulo-101.md) de la [Ley](articulo-2.md), así como los relativos al cumplimiento de las disposiciones contenidas en el presente ordenamiento y las que del mismo se deriven, e impondrá las medidas de seguridad, correctivas o de urgente aplicación y sanciones que resulten procedentes.
 
 La Procuraduría podrá realizar verificaciones documentales para confrontar la información contenida en los planes de manejo, las autorizaciones expedidas por la Secretaría y los informes anuales que rindan los generadores y los prestadores de servicios de manejo de residuos peligrosos, para tal fin, revisará la información que obre en los archivos de la Secretaría.
 

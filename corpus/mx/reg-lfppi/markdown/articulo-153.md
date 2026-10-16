@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 153
 
-El Instituto podrá verificar, en cualquier tiempo, a través del ejercicio de sus facultades de inspección y vigilancia, la obligación de la persona distribuidora o comercializadora de cumplir con los requisitos establecidos en las fracciones III, IV y V del artículo 298 de la Ley.
+El Instituto podrá verificar, en cualquier tiempo, a través del ejercicio de sus facultades de inspección y vigilancia, la obligación de la persona distribuidora o comercializadora de cumplir con los requisitos establecidos en las fracciones III, IV y V del artículo [298](../../lfppi/markdown/articulo-298.md) de la Ley.

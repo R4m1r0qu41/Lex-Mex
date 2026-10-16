@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 71
 
-Para dar cumplimiento al artículo 81 de la Ley, el Instituto solicitará a los comandantes de los aeródromos lo siguiente:
+Para dar cumplimiento al artículo [81](../../lmigra/markdown/articulo-81.md) de la Ley, el Instituto solicitará a los comandantes de los aeródromos lo siguiente:
 
 I. Información oportuna por escrito o medios electrónicos sobre el arribo y salida de toda aeronave, siempre que proceda del extranjero o se dirija a otro país;
 

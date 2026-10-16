@@ -25,7 +25,7 @@ a) El interesado deberá presentar la solicitud y requisitos que correspondan;
 
 b) El Instituto verificará el cumplimiento de requisitos y los antecedentes de la persona extranjera y del solicitante;
 
-c) En esta etapa, el trámite se negará si el solicitante o la persona extranjera para el que se requiere visa se ubica en alguno de los supuestos previstos en el artículo 43 de la Ley. En caso contrario, el Instituto notificará al solicitante que la persona extranjera puede gestionar una cita para la entrevista consular, y
+c) En esta etapa, el trámite se negará si el solicitante o la persona extranjera para el que se requiere visa se ubica en alguno de los supuestos previstos en el artículo [43](../../lmigra/markdown/articulo-43.md) de la Ley. En caso contrario, el Instituto notificará al solicitante que la persona extranjera puede gestionar una cita para la entrevista consular, y
 
 d) El Instituto deberá notificar a la oficina consular la autorización correspondiente y proveer los elementos necesarios para realizar la entrevista consular.
 

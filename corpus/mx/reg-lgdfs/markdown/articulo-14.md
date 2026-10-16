@@ -17,9 +17,9 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 14
 
-Para la elaboración y actualización del Inventario Nacional Forestal y de Suelos, la Comisión aplicará los criterios previstos en el artículo 48 de la [Ley](articulo-2.md) y se realizará conforme a la metodología y procedimientos que emita la Secretaría, con la participación que corresponda a la Comisión, conforme a lo siguiente:
+Para la elaboración y actualización del Inventario Nacional Forestal y de Suelos, la Comisión aplicará los criterios previstos en el artículo [48](../../lgdfs/markdown/articulo-48.md) de la [Ley](articulo-2.md) y se realizará conforme a la metodología y procedimientos que emita la Secretaría, con la participación que corresponda a la Comisión, conforme a lo siguiente:
 
-I. El diseño debe ser detallado para cumplir con los resultados y productos establecidos en los artículos 39 y 40 de la Ley y el artículo [1](articulo-1.md) del presente Reglamento;
+I. El diseño debe ser detallado para cumplir con los resultados y productos establecidos en los artículos [39](../../lgdfs/markdown/articulo-39.md) y [40](../../lgdfs/markdown/articulo-40.md) de la Ley y el artículo [1](articulo-1.md) del presente Reglamento;
 
 II. La definición de los propósitos y objetivos del Inventario Nacional Forestal y de Suelos;
 

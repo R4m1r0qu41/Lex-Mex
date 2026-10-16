@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 79
 
-El cambio de identidad y de residencia a que se refiere el antepenúltimo párrafo del artículo [82](articulo-82.md) y el segundo párrafo de la fracción III del artículo 90 de la Ley, se llevará a cabo con cargo a los recursos del programa establecido en el artículo 83 de la Ley.
+El cambio de identidad y de residencia a que se refiere el antepenúltimo párrafo del artículo [82](articulo-82.md) y el segundo párrafo de la fracción III del artículo [90](../../lgtrata/markdown/articulo-90.md) de la Ley, se llevará a cabo con cargo a los recursos del programa establecido en el artículo [83](../../lgtrata/markdown/articulo-83.md) de la Ley.

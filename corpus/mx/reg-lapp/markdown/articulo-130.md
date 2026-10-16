@@ -17,7 +17,7 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 130
 
-La [Función Pública](articulo-11.md) tomará conocimiento e investigará los hechos presumiblemente constitutivos de infracciones a que se refiere el artículo 130 de la Ley, entre otros, a través de cualquiera de los medios siguientes:
+La [Función Pública](articulo-11.md) tomará conocimiento e investigará los hechos presumiblemente constitutivos de infracciones a que se refiere el artículo [130](../../lapp/markdown/articulo-130.md) de la Ley, entre otros, a través de cualquiera de los medios siguientes:
 
 I. CompraNet, con base en la información ingresada por las dependencias y entidades federales en términos del artículo [15](articulo-15.md) de este Reglamento;
 

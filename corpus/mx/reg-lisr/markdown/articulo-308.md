@@ -17,11 +17,11 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 308
 
-Para efectos del artículo 195 de la [Ley](articulo-1.md), las sociedades cooperativas de producción podrán cambiar la opción a que se refiere el artículo 194 de la Ley, siempre que se cumpla con lo siguiente:
+Para efectos del artículo [195](../../lisr/markdown/articulo-195.md) de la [Ley](articulo-1.md), las sociedades cooperativas de producción podrán cambiar la opción a que se refiere el artículo [194](../../lisr/markdown/articulo-194.md) de la Ley, siempre que se cumpla con lo siguiente:
 
 I. Presenten aviso ante las autoridades fiscales en el que manifiesten el cambio de opción, dentro del mes siguiente a aquél en que ocurra dicho supuesto, en términos que señale el [SAT](articulo-1.md) mediante reglas de carácter general, y
 
-II. Paguen el [Impuesto](articulo-1.md) diferido aplicando al monto de la utilidad distribuida al socio de que se trate la tarifa a que se refiere el artículo 152 de la Ley, correspondiente a los ejercicios siguientes a la fecha en que se determinó la misma, a más tardar el 17 del mes inmediato siguiente a aquél en que se presente el aviso a que se refiere la fracción anterior.
+II. Paguen el [Impuesto](articulo-1.md) diferido aplicando al monto de la utilidad distribuida al socio de que se trate la tarifa a que se refiere el artículo [152](../../lisr/markdown/articulo-152.md) de la Ley, correspondiente a los ejercicios siguientes a la fecha en que se determinó la misma, a más tardar el 17 del mes inmediato siguiente a aquél en que se presente el aviso a que se refiere la fracción anterior.
 
 Para efectos de esta fracción las primeras utilidades que se distribuyan son las primeras utilidades que se generaron.
 

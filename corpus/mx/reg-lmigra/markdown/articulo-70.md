@@ -17,4 +17,4 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 70
 
-En términos de lo dispuesto por el artículo 81 de la Ley, la Policía Federal sólo actuará a solicitud expresa del Instituto, sin que ello implique que puedan realizar de forma independiente funciones de control, verificación y revisión migratoria. En estas actuaciones, las autoridades deberán respetar los principios establecidos en el artículo 22 de la Ley.
+En términos de lo dispuesto por el artículo [81](../../lmigra/markdown/articulo-81.md) de la Ley, la Policía Federal sólo actuará a solicitud expresa del Instituto, sin que ello implique que puedan realizar de forma independiente funciones de control, verificación y revisión migratoria. En estas actuaciones, las autoridades deberán respetar los principios establecidos en el artículo [22](../../lmigra/markdown/articulo-22.md) de la Ley.

@@ -19,7 +19,7 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 El programa de ordenamiento ecológico general del territorio tendrá por objeto:
 
-I. Llevar a cabo la regionalización ecológica del territorio nacional y de las zonas sobre las que la nación ejerce su soberanía y jurisdicción, identificando áreas de atención prioritaria y áreas de aptitud sectorial, conforme a las disposiciones contenidas en el presente Reglamento y tomando en consideración los criterios que se establecen en el artículo 20 de la Ley; y
+I. Llevar a cabo la regionalización ecológica del territorio nacional y de las zonas sobre las que la nación ejerce su soberanía y jurisdicción, identificando áreas de atención prioritaria y áreas de aptitud sectorial, conforme a las disposiciones contenidas en el presente Reglamento y tomando en consideración los criterios que se establecen en el artículo [20](../../lgeepa/markdown/articulo-20.md) de la Ley; y
 
 II. Establecer los lineamientos y estrategias ecológicas necesarias para:
 

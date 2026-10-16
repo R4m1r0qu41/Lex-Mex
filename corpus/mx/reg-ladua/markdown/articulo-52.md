@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 52
 
-Para efectos del artículo 29, fracción II de la [Ley](articulo-1.md), los plazos de abandono de las Mercancías se suspenderán, cuando en ejercicio de sus facultades, una autoridad distinta de la Autoridad Aduanera impida su movilización quedando sujeta a su mandato, con independencia de las atribuciones que correspondan a las Autoridades Aduaneras.
+Para efectos del artículo [29](../../ladua/markdown/articulo-29.md), fracción II de la [Ley](articulo-1.md), los plazos de abandono de las Mercancías se suspenderán, cuando en ejercicio de sus facultades, una autoridad distinta de la Autoridad Aduanera impida su movilización quedando sujeta a su mandato, con independencia de las atribuciones que correspondan a las Autoridades Aduaneras.
 
 Dicha suspensión quedará sin efectos, una vez que la autoridad comunique por escrito a la Autoridad Aduanera y al interesado su liberación, supuesto en el que continuarán los plazos para que proceda el abandono en favor del Fisco Federal.

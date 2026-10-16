@@ -15,7 +15,7 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 # Artículo 109
 
-Para ser autorizado como agente naviero el interesado deberá acreditar los requisitos previstos en el artículo 23 de la [Ley](articulo-10.md), cumpliendo ante la [Dirección General](articulo-10.md) con lo que enseguida se indica:
+Para ser autorizado como agente naviero el interesado deberá acreditar los requisitos previstos en el artículo [23](../../lncm/markdown/articulo-23.md) de la [Ley](articulo-10.md), cumpliendo ante la [Dirección General](articulo-10.md) con lo que enseguida se indica:
 
 A. Presentar solicitud en la que precise lo siguiente:
 
@@ -45,7 +45,7 @@ I. Copia certificada del acta de nacimiento o carta de naturalización, si es pe
 
 II. Comprobante de domicilio, que pruebe su residencia mediante el pago de servicios correspondientes al mismo;
 
-III. Contrato por escrito donde conste que el naviero u Operador le otorga la representación y funciones como agente naviero consignatario, con las funciones que prevé el artículo 24 de la Ley. Dicho instrumento deberá constar ante fedatario público. Cuando el contrato haya sido celebrado en el extranjero se exhibirá debidamente apostillado o legalizado y traducido al español, cuando esté redactado en idioma distinto a éste;
+III. Contrato por escrito donde conste que el naviero u Operador le otorga la representación y funciones como agente naviero consignatario, con las funciones que prevé el artículo [24](../../lncm/markdown/articulo-24.md) de la Ley. Dicho instrumento deberá constar ante fedatario público. Cuando el contrato haya sido celebrado en el extranjero se exhibirá debidamente apostillado o legalizado y traducido al español, cuando esté redactado en idioma distinto a éste;
 
 IV. Constancia que demuestre su experiencia en el Comercio Marítimo por cuando menos tres años, expedida por alguna empresa o agencia naviera autorizada, y
 

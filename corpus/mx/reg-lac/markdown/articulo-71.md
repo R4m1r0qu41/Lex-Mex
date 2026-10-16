@@ -17,6 +17,6 @@ source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 
 # Artículo 71
 
-Para los efectos de los artículos 61 a 63 de la [Ley](articulo-2.md), toda persona concesionaria, asignataria o permisionaria que transporte personas pasajeras o carga, cuya aeronave se haya accidentado, debe presentar ante la Agencia Federal de Aviación Civil copia completa del manifiesto de carga y personas pasajeras del vuelo siniestrado e informar sobre las acciones que efectúe respecto al pago de las indemnizaciones correspondientes.
+Para los efectos de los artículos [61](../../lac/markdown/articulo-61.md) a [63](../../lac/markdown/articulo-63.md) de la [Ley](articulo-2.md), toda persona concesionaria, asignataria o permisionaria que transporte personas pasajeras o carga, cuya aeronave se haya accidentado, debe presentar ante la Agencia Federal de Aviación Civil copia completa del manifiesto de carga y personas pasajeras del vuelo siniestrado e informar sobre las acciones que efectúe respecto al pago de las indemnizaciones correspondientes.
 
 Artículo reformado DOF 31-05-2023

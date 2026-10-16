@@ -17,7 +17,7 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 46
 
-Para efectos del artículo 24, fracción I de la Ley, se considera introducción al país de bienes: Párrafo reformado DOF 25-09-2014
+Para efectos del artículo [24](../../liva/markdown/articulo-24.md), fracción I de la Ley, se considera introducción al país de bienes: Párrafo reformado DOF 25-09-2014
 
 I. El retorno a México de bienes tangibles exportados definitivamente, cuando se efectúe en los términos de la legislación aduanera, y
 

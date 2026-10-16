@@ -17,7 +17,7 @@ source_sha256: 9900df5fd57ee1fb485d421861b2fd4d8bff61f389275c834b954320c08c46ae
 
 # Artículo 7
 
-Las personas civiles y los establecimientos o bienes de carácter civil podrán solicitar la autorización para la utilización del emblema o denominación de la Cruz Roja a título protector a que se refiere el artículo 8 de la [Ley](articulo-2.md), mediante escrito de solicitud dirigido a la Dirección General de Sanidad de la Secretaría de la Defensa Nacional, que deberá cumplir con lo siguiente:
+Las personas civiles y los establecimientos o bienes de carácter civil podrán solicitar la autorización para la utilización del emblema o denominación de la Cruz Roja a título protector a que se refiere el artículo [8](../../lupdecr/markdown/articulo-8.md) de la [Ley](articulo-2.md), mediante escrito de solicitud dirigido a la Dirección General de Sanidad de la Secretaría de la Defensa Nacional, que deberá cumplir con lo siguiente:
 
 I. El escrito de solicitud debe contener la información siguiente:
 

@@ -17,4 +17,4 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 # Artículo 110
 
-La imposición de las sanciones administrativas por infracciones a la Ley y al presente Reglamento, corresponde a la CONADE, por conducto de la Coordinación de Normatividad y Asuntos Jurídicos, y se aplicarán en términos de los artículos 145 y 146 de la Ley.
+La imposición de las sanciones administrativas por infracciones a la Ley y al presente Reglamento, corresponde a la CONADE, por conducto de la Coordinación de Normatividad y Asuntos Jurídicos, y se aplicarán en términos de los artículos [145](../../lgcfd/markdown/articulo-145.md) y [146](../../lgcfd/markdown/articulo-146.md) de la Ley.

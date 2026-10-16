@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 44
 
-Para efectos del artículo 13 de la [Ley](articulo-1.md), las maniobras de transbordo a que se refiere el artículo [43](articulo-43.md) de este Reglamento, se sujetarán al procedimiento que establezca el [SAT](articulo-1.md) mediante Reglas, cumpliendo con lo siguiente:
+Para efectos del artículo [13](../../ladua/markdown/articulo-13.md) de la [Ley](articulo-1.md), las maniobras de transbordo a que se refiere el artículo [43](articulo-43.md) de este Reglamento, se sujetarán al procedimiento que establezca el [SAT](articulo-1.md) mediante Reglas, cumpliendo con lo siguiente:
 
 I. Se deberá presentar aviso al administrador de la aduana;
 

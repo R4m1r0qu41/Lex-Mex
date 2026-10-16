@@ -17,6 +17,6 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 235
 
-Para efectos del artículo 139 de la [Ley](articulo-1.md), quienes entreguen premios derivados de la celebración de loterías, rifas, sorteos, juegos con apuesta y concursos de toda clase, podrán no expedir el comprobante fiscal a que se refiere la fracción I del precepto citado, cuando el monto individual del premio no exceda la cantidad de $10,000.00 y siempre que las personas a quienes les efectúen los pagos no soliciten dicho comprobante fiscal.
+Para efectos del artículo [139](../../lisr/markdown/articulo-139.md) de la [Ley](articulo-1.md), quienes entreguen premios derivados de la celebración de loterías, rifas, sorteos, juegos con apuesta y concursos de toda clase, podrán no expedir el comprobante fiscal a que se refiere la fracción I del precepto citado, cuando el monto individual del premio no exceda la cantidad de $10,000.00 y siempre que las personas a quienes les efectúen los pagos no soliciten dicho comprobante fiscal.
 
 En los casos en los que se solicite el comprobante fiscal, quien efectúe el pago del premio deberá solicitar, copia de la identificación oficial, así como de la clave del registro federal de contribuyentes o de la clave única de registro de población de la persona que obtuvo dicho premio.

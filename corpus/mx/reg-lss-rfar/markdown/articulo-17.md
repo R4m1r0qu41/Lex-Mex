@@ -17,10 +17,10 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 # Artículo 17
 
-El reintegro de los recursos a la Reserva de Operación para Contingencias y Financiamiento, por concepto de fondos no ejercidos en su totalidad en el programa prioritario de inversión o los utilizados para apoyar o financiar a las Reservas Operativas, conforme a lo dispuesto en los artículos 277 C y 283 de la Ley, deberá incluir los costos financieros correspondientes, los cuales consistirán en el rendimiento obtenido en la inversión de la Reserva de Operación para Contingencias y Financiamiento, durante el periodo que duró el apoyo o financiamiento.
+El reintegro de los recursos a la Reserva de Operación para Contingencias y Financiamiento, por concepto de fondos no ejercidos en su totalidad en el programa prioritario de inversión o los utilizados para apoyar o financiar a las Reservas Operativas, conforme a lo dispuesto en los artículos [277](../../lss/markdown/articulo-277.md) C y [283](../../lss/markdown/articulo-283.md) de la Ley, deberá incluir los costos financieros correspondientes, los cuales consistirán en el rendimiento obtenido en la inversión de la Reserva de Operación para Contingencias y Financiamiento, durante el periodo que duró el apoyo o financiamiento.
 
 En caso de que no exista saldo en la Reserva de Operación para Contingencias y Financiamiento, el cálculo de los intereses se efectuará considerando el rendimiento obtenido en la inversión de las Reservas Operativas, durante el periodo que duró el financiamiento.
 
-Los costos financieros así calculados, deberán incorporarse de forma mensual si el flujo de efectivo así lo permite, para incrementar la Reserva de Operación para Contingencias y Financiamiento, sin rebasar en ningún caso el plazo de tres años establecido en el propio artículo 283 de la Ley.
+Los costos financieros así calculados, deberán incorporarse de forma mensual si el flujo de efectivo así lo permite, para incrementar la Reserva de Operación para Contingencias y Financiamiento, sin rebasar en ningún caso el plazo de tres años establecido en el propio artículo [283](../../lss/markdown/articulo-283.md) de la Ley.
 
 El Instituto deberá informar al menos de manera trimestral a la Secretaría de Hacienda y Crédito Público, de las disposiciones y reintegros que se efectúen de la Reserva de Operación para Contingencias y Financiamiento.

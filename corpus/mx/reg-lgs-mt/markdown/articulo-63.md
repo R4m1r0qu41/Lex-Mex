@@ -17,6 +17,6 @@ source_sha256: 9ff708994e8bad54142e90da50dd0ffe7c58b739b77d89c5c31a5162abfb1429
 
 # Artículo 63
 
-Es responsabilidad del Director del [Establecimiento de Salud](articulo-2.md), supervisar que el responsable sanitario actualice la información requerida en términos del artículo 338 de la [Ley](articulo-2.md).
+Es responsabilidad del Director del [Establecimiento de Salud](articulo-2.md), supervisar que el responsable sanitario actualice la información requerida en términos del artículo [338](../../lgs/markdown/articulo-338.md) de la [Ley](articulo-2.md).
 
 El [CENATRA](articulo-2.md) deberá notificar a la [COFEPRIS](articulo-2.md), el incumplimiento del contenido del presente Capítulo, a fin de que dicha autoridad proceda en términos de las disposiciones jurídicas aplicables.

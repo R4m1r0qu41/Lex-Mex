@@ -17,7 +17,7 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 10
 
-Para el caso de la práctica monopólica relativa a que se refiere la fracción VII del artículo 10 de la Ley se considerarán los siguientes elementos:
+Para el caso de la práctica monopólica relativa a que se refiere la fracción VII del artículo [10](../../lfce/markdown/articulo-10.md) de la Ley se considerarán los siguientes elementos:
 
 I. La distribución del costo medio total y del costo medio variable entre subproductos o coproductos deberá tomar en cuenta las características técnicas de los procesos de producción, distribución o comercialización, así como los principios de contabilidad generalmente aceptados o las normas de información financiera;
 

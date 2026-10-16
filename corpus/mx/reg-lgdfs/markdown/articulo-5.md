@@ -17,9 +17,9 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 5
 
-La Comisión dará seguimiento a la Estrategia Nacional de Reducción de Emisiones por Deforestación y Degradación forestal, verificando que se cumplan con las Salvaguardas señaladas en el [artículo anterior](articulo-4.md), así como con lo dispuesto en el artículo 8 de la [Ley](articulo-2.md).
+La Comisión dará seguimiento a la Estrategia Nacional de Reducción de Emisiones por Deforestación y Degradación forestal, verificando que se cumplan con las Salvaguardas señaladas en el [artículo anterior](articulo-4.md), así como con lo dispuesto en el artículo [8](../../lgdfs/markdown/articulo-8.md) de la [Ley](articulo-2.md).
 
-Los componentes del Marco de Implementación y Cumplimiento de Salvaguardas previstos en el párrafo segundo del artículo 8 de la Ley, se implementarán de acuerdo con lo siguiente:
+Los componentes del Marco de Implementación y Cumplimiento de Salvaguardas previstos en el párrafo segundo del artículo [8](../../lgdfs/markdown/articulo-8.md) de la Ley, se implementarán de acuerdo con lo siguiente:
 
 I. Respecto de los mecanismos culturalmente adecuados de resolución de conflictos: a) Se preverá que en caso de que algún instrumento o política forestal genere o pueda generar conflictos o contravenir derechos individuales o colectivos, la Comisión deberá informar a los posibles afectados sus derechos y los mecanismos administrativos y jurisdiccionales existentes para hacerlos valer, así como la posibilidad de acceder a mecanismos alternativos de solución de controversias, culturalmente adecuados, en particular, sistemas tradicionales de resolución de conflictos, negociación, arbitraje, mediación o cualquier otra que acuerden las partes involucradas, sin contravenir la legislación aplicable;
 

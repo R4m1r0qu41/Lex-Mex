@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 74
 
-Para los efectos del artículo 70-A del [Código](articulo-1.md), para la reducción de las multas por infracción a las disposiciones legales y la aplicación de la tasa de recargos por prórroga causados, se considerarán los tres ejercicios inmediatos anteriores a la fecha en que fue determinada la sanción.
+Para los efectos del artículo [70-A](../../cff/markdown/articulo-70-A.md) del [Código](articulo-1.md), para la reducción de las multas por infracción a las disposiciones legales y la aplicación de la tasa de recargos por prórroga causados, se considerarán los tres ejercicios inmediatos anteriores a la fecha en que fue determinada la sanción.

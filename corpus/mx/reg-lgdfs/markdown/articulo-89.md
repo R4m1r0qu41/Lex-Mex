@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 89
 
-El aviso de colecta y uso de Recursos biológicos forestales por parte de las entidades públicas de los gobiernos federal, de las entidades federativas, municipales o demarcaciones territoriales de la Ciudad de México o por el dueño del recurso, a que se refiere el artículo 86, párrafo tercero de la [Ley](articulo-2.md), deberá presentarse ante la Secretaría, en el formato que para tal efecto expida esta, el cual contendrá, por lo menos, lo siguiente:
+El aviso de colecta y uso de Recursos biológicos forestales por parte de las entidades públicas de los gobiernos federal, de las entidades federativas, municipales o demarcaciones territoriales de la Ciudad de México o por el dueño del recurso, a que se refiere el artículo [86](../../lgdfs/markdown/articulo-86.md), párrafo tercero de la [Ley](articulo-2.md), deberá presentarse ante la Secretaría, en el formato que para tal efecto expida esta, el cual contendrá, por lo menos, lo siguiente:
 
 I. Denominación de la entidad pública o, en su caso, nombre o denominación o razón social y domicilio del dueño del recurso;
 

@@ -21,7 +21,7 @@ El [Sobre cerrado](articulo-2.md) que contenga la proposición de los licitantes
 
 El acto de presentación y apertura de proposiciones será presidido por el titular del [Área responsable de la contratación](articulo-2.md) o por el servidor público que éste designe, quien será el único facultado para tomar todas las decisiones durante la realización del acto, en los términos de la [Ley](articulo-2.md) y este Reglamento.
 
-Cuando la convocante determine efectuar, previamente al acto de presentación y apertura de proposiciones, la revisión preliminar a que se refiere el penúltimo párrafo del artículo 36 de la Ley, deberá realizar tal actividad por lo menos treinta minutos antes de la hora señalada para el inicio de dicho acto.
+Cuando la convocante determine efectuar, previamente al acto de presentación y apertura de proposiciones, la revisión preliminar a que se refiere el penúltimo párrafo del artículo [36](../../lopsrm/markdown/articulo-36.md) de la Ley, deberá realizar tal actividad por lo menos treinta minutos antes de la hora señalada para el inicio de dicho acto.
 
 A partir de la hora señalada para el inicio del acto de presentación y apertura de proposiciones, el servidor público que lo presida no deberá permitir el acceso a ningún licitante ni observador, o servidor público ajeno al acto. Una vez iniciado el acto, se procederá a registrar a los asistentes, salvo aquéllos que ya se hubieren registrado en los términos del párrafo anterior, en cuyo caso se pasará lista a los mismos.
 
@@ -29,6 +29,6 @@ Los licitantes presentes deberán entregar su proposición en Sobre cerrado al s
 
 El servidor público que presida el acto de presentación y apertura de proposiciones tomará las previsiones necesarias para recibir simultáneamente las proposiciones de los licitantes que presentaron su proposición en el propio acto y de las entregadas a través de CompraNet; asimismo, determinará si la apertura de los sobres iniciará con los que fueron recibidos en el acto o por los entregados a través de CompraNet. El acto no podrá concluir hasta en tanto se hayan abierto todos los sobres recibidos.
 
-Para los efectos de la fracción II del artículo 37 de la Ley, tratándose de contratos sobre la base de precios unitarios se rubricará el catálogo de conceptos; para los contratos a precio alzado, se rubricará el presupuesto de obra, y por lo que hace a los contratos mixtos, deberán rubricarse ambos documentos.
+Para los efectos de la fracción II del artículo [37](../../lopsrm/markdown/articulo-37.md) de la Ley, tratándose de contratos sobre la base de precios unitarios se rubricará el catálogo de conceptos; para los contratos a precio alzado, se rubricará el presupuesto de obra, y por lo que hace a los contratos mixtos, deberán rubricarse ambos documentos.
 
 En el acta respectiva al acto de presentación y apertura de proposiciones se asentarán las manifestaciones que, en su caso, emitan los licitantes con relación a dicho acto.

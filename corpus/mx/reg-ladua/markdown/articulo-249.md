@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 249
 
-Cuando se impongan sanciones sin sustanciar el procedimiento en términos del último párrafo del artículo 152 de la [Ley](articulo-1.md), aplicará el beneficio que dispone el artículo 199, fracción V de la Ley.
+Cuando se impongan sanciones sin sustanciar el procedimiento en términos del último párrafo del artículo [152](../../ladua/markdown/articulo-152.md) de la [Ley](articulo-1.md), aplicará el beneficio que dispone el artículo [199](../../ladua/markdown/articulo-199.md), fracción V de la Ley.

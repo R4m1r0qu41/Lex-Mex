@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 149
 
-Cuando la dependencia o entidad determine la terminación anticipada derivada de la suspensión a que se refiere el último párrafo del artículo 80 de la [Ley](articulo-2.md), ésta surtirá efectos a los quince días naturales contados a partir del día siguiente al de su notificación.
+Cuando la dependencia o entidad determine la terminación anticipada derivada de la suspensión a que se refiere el último párrafo del artículo [80](../../laassp/markdown/articulo-80.md) de la [Ley](articulo-2.md), ésta surtirá efectos a los quince días naturales contados a partir del día siguiente al de su notificación.

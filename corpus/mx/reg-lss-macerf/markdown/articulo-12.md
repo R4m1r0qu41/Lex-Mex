@@ -23,4 +23,4 @@ I. Empiece a utilizar los servicios de uno o varios trabajadores;
 
 II. Se constituya como sociedad cooperativa;
 
-III. Inicie vigencia su convenio de incorporación celebrado con el Instituto, y REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN IV. Inicie vigencia el Decreto de incorporación que expida el Ejecutivo Federal en términos de la fracción III del artículo 12 de la Ley.
+III. Inicie vigencia su convenio de incorporación celebrado con el Instituto, y REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN IV. Inicie vigencia el Decreto de incorporación que expida el Ejecutivo Federal en términos de la fracción III del artículo [12](../../lss/markdown/articulo-12.md) de la Ley.

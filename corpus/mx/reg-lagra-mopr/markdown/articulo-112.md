@@ -23,7 +23,7 @@ I. La Secretaría solicitará a la Secretaría de la Función Pública, que en u
 
 II. Si la respuesta de la Secretaría de la Función Pública fuera positiva, la Secretaría cuidará que la utilización prevista en la solicitud de que se trate no sea contraria a la vocación de las tierras y se abstendrá de realizar el procedimiento de enajenación correspondiente, y
 
-III. Si transcurrido el plazo señalado en la fracción I del presente artículo no se recibe respuesta o ésta es negativa, la Secretaría cumpliendo lo previsto en el artículo 161 de la Ley, podrá enajenar los terrenos nacionales en los siguientes términos:
+III. Si transcurrido el plazo señalado en la fracción I del presente artículo no se recibe respuesta o ésta es negativa, la Secretaría cumpliendo lo previsto en el artículo [161](../../lagra/markdown/articulo-161.md) de la Ley, podrá enajenar los terrenos nacionales en los siguientes términos:
 
 a) A título oneroso y fuera de subasta, o
 

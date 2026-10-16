@@ -17,7 +17,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 79
 
-Sin perjuicio de las disposiciones generales que expida la [Tesorería](articulo-2.md) en términos del artículo 55, primer párrafo de la [Ley](articulo-2.md), las garantías que deban constituirse a favor de las dependencias y entidades por actos y contratos que celebren, deberán sujetarse a lo siguiente:
+Sin perjuicio de las disposiciones generales que expida la [Tesorería](articulo-2.md) en términos del artículo [55](../../lfprh/markdown/articulo-55.md), primer párrafo de la [Ley](articulo-2.md), las garantías que deban constituirse a favor de las dependencias y entidades por actos y contratos que celebren, deberán sujetarse a lo siguiente:
 
 l. Satisfacer los requisitos legales establecidos, según el objeto o concepto que les dé origen, y que su importe cubra suficientemente el acto u obligación que deba garantizarse;
 

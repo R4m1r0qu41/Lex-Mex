@@ -17,4 +17,4 @@ source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 
 # Artículo 33
 
-Para solicitar la inscripción de una variedad vegetal al Catálogo Nacional de Variedades Vegetales, además de cumplir con lo establecido en el artículo 22 de la [Ley](articulo-2.md), deberá cumplir con lo dispuesto por el artículo [15](articulo-15.md) del presente Reglamento.
+Para solicitar la inscripción de una variedad vegetal al Catálogo Nacional de Variedades Vegetales, además de cumplir con lo establecido en el artículo [22](../../lfpccs/markdown/articulo-22.md) de la [Ley](articulo-2.md), deberá cumplir con lo dispuesto por el artículo [15](articulo-15.md) del presente Reglamento.

@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 102
 
-Para los efectos del cuarto párrafo del artículo 59 de la [Ley](articulo-2.md), cuando la modificación a los contratos implique aumento o reducción por una diferencia superior al veinticinco por ciento del importe original establecido en los mismos o del plazo de ejecución, el [Área responsable de la ejecución de los trabajos](articulo-2.md) junto con el contratista, deberán revisar los indirectos y el financiamiento originalmente pactados y determinar la procedencia de ajustarlos a las nuevas condiciones en caso de que éstas se presenten.
+Para los efectos del cuarto párrafo del artículo [59](../../lopsrm/markdown/articulo-59.md) de la [Ley](articulo-2.md), cuando la modificación a los contratos implique aumento o reducción por una diferencia superior al veinticinco por ciento del importe original establecido en los mismos o del plazo de ejecución, el [Área responsable de la ejecución de los trabajos](articulo-2.md) junto con el contratista, deberán revisar los indirectos y el financiamiento originalmente pactados y determinar la procedencia de ajustarlos a las nuevas condiciones en caso de que éstas se presenten.
 
 Será necesario solicitar de manera justificada la autorización de la Secretaría de la Función Pública, en los siguientes casos:
 

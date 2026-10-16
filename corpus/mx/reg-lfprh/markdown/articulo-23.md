@@ -61,7 +61,7 @@ III. La agrupación por sectores:
 
 a) Coordinados por las dependencias, conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Federal;
 
-b) Coordinados por la Secretaría, respecto de las entidades no agrupadas en un sector determinado, en términos del artículo 7 de la Ley;
+b) Coordinados por la Secretaría, respecto de las entidades no agrupadas en un sector determinado, en términos del artículo [7](../../lfprh/markdown/articulo-7.md) de la Ley;
 
 c) Coordinados por entidades, por disposición de ley.
 

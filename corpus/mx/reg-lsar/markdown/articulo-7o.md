@@ -17,4 +17,4 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 7o
 
-La evaluación periódica del nivel de comisiones a que se refiere el artículo 37 B de la [Ley](articulo-2o.md) se realizará cada año, en la misma sesión en que la Junta de Gobierno resuelva sobre la solicitud de comisiones presentadas por las [Administradoras](articulo-2o.md).
+La evaluación periódica del nivel de comisiones a que se refiere el artículo [37](../../lsar/markdown/articulo-37.md) B de la [Ley](articulo-2o.md) se realizará cada año, en la misma sesión en que la Junta de Gobierno resuelva sobre la solicitud de comisiones presentadas por las [Administradoras](articulo-2o.md).

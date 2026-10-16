@@ -19,7 +19,7 @@ source_sha256: 9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3
 
 Para la administración de bienes, el SAE podrá:
 
-I. Cobrar los derechos a que hace referencia el artículo 1, fracción VII de la [Ley](articulo-1.md), por si mismo o a través de terceros especializados.
+I. Cobrar los derechos a que hace referencia el artículo [1](../../lfaebsp/markdown/articulo-1o.md), fracción VII de la [Ley](articulo-1.md), por si mismo o a través de terceros especializados.
 
 En los casos en que el cobro que se pretenda realizar sea resultado de un procedimiento judicial en el que se dictó sentencia mediante la cual se adjudicaron los bienes, siempre y cuando la misma no haya causado ejecutoria, y se presente una propuesta de pago, el monto del mismo, en caso de aceptarse, se considerará como recuperación de cartera, salvo que la adjudicación se haya realizado a favor de un tercero; Fracción reformada DOF 29-11-2006
 

@@ -31,7 +31,7 @@ V. Diseñar, coordinar y operar los sistemas de recolección, clasificación, re
 
 VI. Gestionar ante las autoridades competentes, la aprobación de los protocolos para la búsqueda, obtención y preservación de indicios y pruebas; VII. Plantear a su superior jerárquico, políticas y mejores prácticas para operar los sistemas de recopilación, clasificación, registro y explotación de información que en materia de seguridad pública se genere en su materia;
 
-VIII. Proponer se solicite información a que se refiere la fracción XXVIII del artículo 8 de la [Ley](articulo-2.md), para los fines de su materia;
+VIII. Proponer se solicite información a que se refiere la fracción XXVIII del artículo [8](../../lpf/markdown/articulo-8.md) de la [Ley](articulo-2.md), para los fines de su materia;
 
 IX. Preparar propuestas de métodos y procedimientos sistemáticos operativos de análisis y clasificación de información táctica que permita investigar para prevenir y, en el ámbito de su competencia, combatir las figuras a que se refiere la fracción I del presente artículo;
 

@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 243
 
-Para efectos del artículo 147, fracción IV de la [Ley](articulo-1.md), los comprobantes de las deducciones reúnen los requisitos fiscales, cuando han sido expedidos de conformidad con el Código Fiscal de la Federación y su Reglamento y con el artículo [199](articulo-199.md) de este Reglamento, según sea el caso. Igualmente será aplicable para efectos de la citada fracción lo dispuesto en el artículo [41](articulo-41.md) de este Reglamento.
+Para efectos del artículo [147](../../lisr/markdown/articulo-147.md), fracción IV de la [Ley](articulo-1.md), los comprobantes de las deducciones reúnen los requisitos fiscales, cuando han sido expedidos de conformidad con el Código Fiscal de la Federación y su Reglamento y con el artículo [199](articulo-199.md) de este Reglamento, según sea el caso. Igualmente será aplicable para efectos de la citada fracción lo dispuesto en el artículo [41](articulo-41.md) de este Reglamento.

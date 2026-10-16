@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 113
 
-Los excedentes del producto del remate o adjudicación, a que se refiere el artículo 196 del [Código](articulo-1.md), no serán susceptibles de actualización ni de pago de intereses, siempre y cuando se entreguen en los plazos que para tal efecto establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
+Los excedentes del producto del remate o adjudicación, a que se refiere el artículo [196](../../cff/markdown/articulo-196.md) del [Código](articulo-1.md), no serán susceptibles de actualización ni de pago de intereses, siempre y cuando se entreguen en los plazos que para tal efecto establezca el Servicio de Administración Tributaria mediante reglas de carácter general.

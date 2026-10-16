@@ -17,7 +17,7 @@ source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 
 La persona permisionaria de servicio de transporte aéreo nacional e internacional no regular bajo la modalidad de fletamento, requiere contar con autorización de la Agencia Federal de Aviación Civil para realizar los vuelos o paquetes de vuelos, por lo que debe presentar solicitud por escrito, acompañada de: Párrafo reformado DOF 31-05-2023
 
-I. Los contratos de fletamento a que hace referencia el artículo 59 de la [Ley](articulo-2.md);
+I. Los contratos de fletamento a que hace referencia el artículo [59](../../lac/markdown/articulo-59.md) de la [Ley](articulo-2.md);
 
 II. Los puntos de origen y destino de los vuelos, y
 

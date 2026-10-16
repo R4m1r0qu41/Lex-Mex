@@ -17,4 +17,4 @@ source_sha256: 43b274e9565f7bfe9e8d404998a6baf17ac415d624a70cbcde9f1f3b639d56a7
 
 # Artículo 47
 
-Las resoluciones que emita la Junta de Gobierno serán obligatorias para las autoridades federales, cuya intervención sea necesaria para satisfacer las Medidas de Prevención, Medidas Preventivas, Medidas de Protección y Medidas Urgentes de Protección, en términos del artículo 4 de la [Ley](articulo-3.md) y con base en las facultades, atribuciones y capacidades institucionales.
+Las resoluciones que emita la Junta de Gobierno serán obligatorias para las autoridades federales, cuya intervención sea necesaria para satisfacer las Medidas de Prevención, Medidas Preventivas, Medidas de Protección y Medidas Urgentes de Protección, en términos del artículo [4](../../lppddhp/markdown/articulo-4.md) de la [Ley](articulo-3.md) y con base en las facultades, atribuciones y capacidades institucionales.

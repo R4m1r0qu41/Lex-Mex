@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 47
 
-En las licitaciones públicas se aceptarán proposiciones conjuntas. Para ello, las dependencias y entidades incluirán en la convocatoria a la licitación pública los requisitos necesarios para la presentación de dichas proposiciones, de conformidad con lo dispuesto en el segundo, tercero y cuarto párrafos del artículo 36 de la [Ley](articulo-2.md). Al efecto, los interesados podrán agruparse para presentar una proposición, cumpliendo los siguientes aspectos:
+En las licitaciones públicas se aceptarán proposiciones conjuntas. Para ello, las dependencias y entidades incluirán en la convocatoria a la licitación pública los requisitos necesarios para la presentación de dichas proposiciones, de conformidad con lo dispuesto en el segundo, tercero y cuarto párrafos del artículo [36](../../lopsrm/markdown/articulo-36.md) de la [Ley](articulo-2.md). Al efecto, los interesados podrán agruparse para presentar una proposición, cumpliendo los siguientes aspectos:
 
 I. Cualquiera de los integrantes de la agrupación podrá presentar el escrito mediante el cual manifieste su interés en participar en la junta de aclaraciones y en el procedimiento de contratación;
 

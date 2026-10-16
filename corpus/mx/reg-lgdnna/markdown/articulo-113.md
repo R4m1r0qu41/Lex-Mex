@@ -17,4 +17,4 @@ source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 
 # Artículo 113
 
-La Secretaría de Gobernación, a través de las direcciones generales de Radio, Televisión y Cinematografía y de Medios Impresos, según su ámbito competencia, aplicarán las infracciones administrativas establecidas en el artículo 148, fracciones III, IV, V, VI y VII de la [Ley](articulo-2.md).
+La Secretaría de Gobernación, a través de las direcciones generales de Radio, Televisión y Cinematografía y de Medios Impresos, según su ámbito competencia, aplicarán las infracciones administrativas establecidas en el artículo [148](../../lgdnna/markdown/articulo-148.md), fracciones III, IV, V, VI y VII de la [Ley](articulo-2.md).

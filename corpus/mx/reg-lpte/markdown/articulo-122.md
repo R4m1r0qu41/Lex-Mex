@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 122
 
-Tratándose del procedimiento administrativo de sanción al que hace referencia el artículo 91 de la Ley, la Secretaría, la CNE y la CONUEE, en el ámbito de sus competencias, deben observar lo previsto en la Ley, el Reglamento, y de forma supletoria la Ley Federal de Procedimiento Administrativo.
+Tratándose del procedimiento administrativo de sanción al que hace referencia el artículo [91](../../lpte/markdown/articulo-91.md) de la Ley, la Secretaría, la CNE y la CONUEE, en el ámbito de sus competencias, deben observar lo previsto en la Ley, el Reglamento, y de forma supletoria la Ley Federal de Procedimiento Administrativo.

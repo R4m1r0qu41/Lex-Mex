@@ -35,7 +35,7 @@ VII. A los méritos demostrados en el desempeño de sus funciones;
 
 VIII. A la aptitud de mando y liderazgo;
 
-IX. A la evaluación del expediente a que se refiere la fracción IX del artículo 26 de la [Ley](articulo-2.md);
+IX. A la evaluación del expediente a que se refiere la fracción IX del artículo [26](../../lgn/markdown/articulo-26.md) de la [Ley](articulo-2.md);
 
 X. A la capacidad física, y
 

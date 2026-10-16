@@ -19,4 +19,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 Las penas convencionales serán determinadas en función del importe de los trabajos que no se hayan ejecutado o prestado oportunamente, conforme al programa de ejecución convenido, considerando para el cálculo de las mismas el avance físico de los trabajos conforme a la fecha de corte para el pago de estimaciones pactada en el contrato. Las penas convencionales se aplicarán considerando los ajustes de costos, sin incluir el impuesto al valor agregado.
 
-Sin perjuicio de lo dispuesto en el primer párrafo del artículo 55 de la [Ley](articulo-2.md), en ningún caso se aceptará la estipulación de penas convencionales a cargo de las dependencias y entidades.
+Sin perjuicio de lo dispuesto en el primer párrafo del artículo [55](../../lopsrm/markdown/articulo-55.md) de la [Ley](articulo-2.md), en ningún caso se aceptará la estipulación de penas convencionales a cargo de las dependencias y entidades.

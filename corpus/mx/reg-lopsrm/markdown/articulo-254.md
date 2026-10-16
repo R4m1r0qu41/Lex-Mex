@@ -21,7 +21,7 @@ Las proposiciones de servicios podrán contener los siguientes documentos, los q
 
 A. Tratándose de la propuesta técnica: I. Currículo de los profesionales técnicos, identificando a los que se encargarán de la ejecución de los trabajos, quienes deben tener experiencia en trabajos similares.
 
-Para efectos del último párrafo del artículo 30 de la [Ley](articulo-2.md), se podrá considerar como mano de obra al personal profesional, especialista y técnico de las diversas especialidades asociadas con los servicios relacionados con la obra pública;
+Para efectos del último párrafo del artículo [30](../../lopsrm/markdown/articulo-30.md) de la [Ley](articulo-2.md), se podrá considerar como mano de obra al personal profesional, especialista y técnico de las diversas especialidades asociadas con los servicios relacionados con la obra pública;
 
 II. Señalamiento de los servicios que el licitante haya realizado y que guarden similitud con los que se licitan o de aquéllos que se estén ejecutando a la fecha de la licitación pública, anotando el nombre del contratante, descripción de los servicios, importes ejercidos y por ejercer, y las fechas previstas de sus terminaciones, en su caso;
 

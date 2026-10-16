@@ -17,7 +17,7 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 26
 
-No es necesario notificar en los términos de los artículos 20 y 21 de la Ley, cuando la transacción se ubique en alguno de los siguientes supuestos:
+No es necesario notificar en los términos de los artículos [20](../../lfce/markdown/articulo-20.md) y [21](../../lfce/markdown/articulo-21.md) de la Ley, cuando la transacción se ubique en alguno de los siguientes supuestos:
 
 I. Los actos jurídicos sobre acciones o partes sociales de sociedades extranjeras, cuando los agentes económicos involucrados en dichos actos no adquieran el control de sociedades mexicanas, ni acumulen en territorio nacional acciones, partes sociales, participación en fideicomisos o activos en general, adicionales a los que, directa o indirectamente, posean antes de la transacción, y
 
@@ -33,4 +33,4 @@ c) Descripción de la estructura del capital social de los agentes económicos i
 
 d) Descripción sucinta de la transacción, de las razones por las que se realiza la transacción, y que se acredite fehacientemente que la concentración se ubica en el supuesto de este inciso.
 
-Si la transacción de la que se da aviso no actualiza los supuestos previstos en este artículo, o el aviso no se presenta dentro del plazo o los involucrados omitieron notificar una concentración o aviso previamente, se perderá el beneficio que el mismo concede y la Comisión debe dictar el acuerdo de cierre del expediente y los agentes económicos deben notificar la concentración de conformidad con los artículos 20 y 21 de la Ley, sin perjuicio de las sanciones que procedan de conformidad con la Ley.
+Si la transacción de la que se da aviso no actualiza los supuestos previstos en este artículo, o el aviso no se presenta dentro del plazo o los involucrados omitieron notificar una concentración o aviso previamente, se perderá el beneficio que el mismo concede y la Comisión debe dictar el acuerdo de cierre del expediente y los agentes económicos deben notificar la concentración de conformidad con los artículos [20](../../lfce/markdown/articulo-20.md) y [21](../../lfce/markdown/articulo-21.md) de la Ley, sin perjuicio de las sanciones que procedan de conformidad con la Ley.

@@ -19,4 +19,4 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 La licencia ilimitada deberá ser solicitada por escrito del integrante, se presentará al [Comandante](articulo-2.md) observando la cadena de mando.
 
-El Comandante resolverá sobre su otorgamiento dentro del plazo de quince días naturales, debiendo tomarse en cuenta lo señalado en el artículo 35, fracción II de la [Ley](articulo-2.md), En caso de que no se notifique la resolución correspondiente dentro del plazo señalado, se entenderá negado su otorgamiento.
+El Comandante resolverá sobre su otorgamiento dentro del plazo de quince días naturales, debiendo tomarse en cuenta lo señalado en el artículo [35](../../lgn/markdown/articulo-35.md), fracción II de la [Ley](articulo-2.md), En caso de que no se notifique la resolución correspondiente dentro del plazo señalado, se entenderá negado su otorgamiento.

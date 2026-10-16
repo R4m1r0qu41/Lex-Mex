@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 72
 
-Para efectos del artículo 137 de la Ley, la Comisión Ejecutiva constituirá, de conformidad con las disposiciones establecidas en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, en una Institución de Banca de Desarrollo, un fideicomiso público de administración y pago, sin estructura orgánica ni comité técnico, el cual no será considerado como una entidad paraestatal de la Administración Pública Federal.
+Para efectos del artículo [137](../../lgv/markdown/articulo-137.md) de la Ley, la Comisión Ejecutiva constituirá, de conformidad con las disposiciones establecidas en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, en una Institución de Banca de Desarrollo, un fideicomiso público de administración y pago, sin estructura orgánica ni comité técnico, el cual no será considerado como una entidad paraestatal de la Administración Pública Federal.
 
 El fin del Fondo es servir como mecanismo financiero para el pago de las ayudas, la asistencia y la reparación integral de las víctimas, incluyendo la compensación en el caso de víctimas de violaciones a los derechos humanos cometidas por autoridades federales y la compensación subsidiaria para víctimas de delitos del orden federal, con cargo al patrimonio fideicomitido.
 

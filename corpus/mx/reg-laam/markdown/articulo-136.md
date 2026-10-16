@@ -17,6 +17,6 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 # Artículo 136
 
-El recurso de inconformidad a que se refiere el artículo 52 de la Ley se regirá conforme al Reglamento de la Junta Naval.
+El recurso de inconformidad a que se refiere el artículo [52](../../laam/markdown/articulo-52.md) de la Ley se regirá conforme al Reglamento de la Junta Naval.
 
 Artículo reformado DOF 22-09-2010, 11-03-2016

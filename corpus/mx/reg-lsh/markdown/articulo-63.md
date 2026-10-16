@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 63
 
-Una vez recibida la petición del Fondo Mexicano del Petróleo a que se refiere el artículo 57 de la Ley, la Secretaría debe determinar los términos, condiciones y los alcances de los servicios de Comercialización, y coordinarse con la Secretaría de Hacienda y Crédito Público para la determinación del margen o precio aceptable por el pago de dichos servicios a Petróleos Mexicanos o empresas filiales, que se deben observar en el proceso de contratación que desarrolle la Secretaría.
+Una vez recibida la petición del Fondo Mexicano del Petróleo a que se refiere el artículo [57](../../lsh/markdown/articulo-57.md) de la Ley, la Secretaría debe determinar los términos, condiciones y los alcances de los servicios de Comercialización, y coordinarse con la Secretaría de Hacienda y Crédito Público para la determinación del margen o precio aceptable por el pago de dichos servicios a Petróleos Mexicanos o empresas filiales, que se deben observar en el proceso de contratación que desarrolle la Secretaría.

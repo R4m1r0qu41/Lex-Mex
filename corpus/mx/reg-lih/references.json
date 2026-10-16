@@ -247,6 +247,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lih:article:13:reference:39-41:34:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lih:article:13",
+    "source_span": "34",
+    "start_char": 39,
+    "end_char": 41,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lih",
+    "target_provision_id": "urn:lex-mx:federal:statute:lih:article:34",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo tercero",
+        "start_char": 43,
+        "end_char": 58
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lih:article:13:reference:148-149:5:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lih:article:13",
     "source_span": "5",
@@ -409,6 +431,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lih:article:18:reference:97-99:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lih:article:18",
+    "source_span": "23",
+    "start_char": 97,
+    "end_char": 99,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lih",
+    "target_provision_id": "urn:lex-mx:federal:statute:lih:article:23",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lih:article:19:reference:60-61:6:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lih:article:19",
     "source_span": "6",
@@ -461,6 +498,80 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lih:article:21:reference:477-479:63:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lih:article:21",
+    "source_span": "63",
+    "start_char": 477,
+    "end_char": 479,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lih",
+    "target_provision_id": "urn:lex-mx:federal:statute:lih:article:63",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lih:article:22:reference:44-46:37:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lih:article:22",
+    "source_span": "37",
+    "start_char": 44,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lih",
+    "target_provision_id": "urn:lex-mx:federal:statute:lih:article:37",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción X",
+        "start_char": 60,
+        "end_char": 70
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lih:article:27:reference:132-134:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lih:article:27",
+    "source_span": "20",
+    "start_char": 132,
+    "end_char": 134,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lih",
+    "target_provision_id": "urn:lex-mx:federal:statute:lih:article:20",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lih:article:32:reference:103-105:47:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lih:article:32",
+    "source_span": "47",
+    "start_char": 103,
+    "end_char": 105,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lih",
+    "target_provision_id": "urn:lex-mx:federal:statute:lih:article:47",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y II",
+        "start_char": 72,
+        "end_char": 89
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lih:article:34:reference:639-656:33:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lih:article:34",
     "source_span": "artículo anterior",
@@ -476,6 +587,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lih:article:35:reference:28-30:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lih:article:35",
+    "source_span": "32",
+    "start_char": 28,
+    "end_char": 30,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lih",
+    "target_provision_id": "urn:lex-mx:federal:statute:lih:article:32",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 44,
+        "end_char": 58
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lih:article:35:reference:460-462:57:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lih:article:35",
     "source_span": "57",
@@ -483,6 +616,43 @@
     "end_char": 462,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:57",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lih:article:36:reference:30-32:64:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lih:article:36",
+    "source_span": "64",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lih",
+    "target_provision_id": "urn:lex-mx:federal:statute:lih:article:64",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo y tercer párrafos",
+        "start_char": 43,
+        "end_char": 68
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lih:article:4:reference:46-47:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lih:article:4",
+    "source_span": "5",
+    "start_char": 46,
+    "end_char": 47,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lih",
+    "target_provision_id": "urn:lex-mx:federal:statute:lih:article:5",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -616,6 +786,28 @@
         "text": "fracción II",
         "start_char": 100,
         "end_char": 111
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lih:article:9:reference:170-172:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lih:article:9",
+    "source_span": "26",
+    "start_char": 170,
+    "end_char": 172,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lih",
+    "target_provision_id": "urn:lex-mx:federal:statute:lih:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 141,
+        "end_char": 156
       }
     ],
     "basis": "express_cross_reference",

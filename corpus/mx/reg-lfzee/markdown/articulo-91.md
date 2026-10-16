@@ -23,4 +23,4 @@ I. Razones que motivan la intervención, y
 
 II. La imposición de las medidas precautorias que la Autoridad Federal estime pertinentes ejecutar para salvaguardar la operación de la [Zona](articulo-4.md).
 
-El procedimiento de intervención se llevará a cabo en los términos del artículo 26 de la [Ley](articulo-4.md).
+El procedimiento de intervención se llevará a cabo en los términos del artículo [26](../../lfzee/markdown/articulo-26.md) de la [Ley](articulo-4.md).

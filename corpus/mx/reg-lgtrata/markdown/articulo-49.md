@@ -17,6 +17,6 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 49
 
-El Modelo de Asistencia y Protección a Víctimas, Ofendidos y Testigos será emitido por la Secretaría, previa opinión de la Comisión, de conformidad con el artículo 90 de la Ley.
+El Modelo de Asistencia y Protección a Víctimas, Ofendidos y Testigos será emitido por la Secretaría, previa opinión de la Comisión, de conformidad con el artículo [90](../../lgtrata/markdown/articulo-90.md) de la Ley.
 
 Una vez aprobado el Modelo de Asistencia y Protección a Víctimas, Ofendidos y Testigos, la Dirección General de Estrategias para la Atención de Derechos Humanos de la Secretaría, se encargará de su ejecución y de vigilar su cumplimiento, en materia de [Albergues](articulo-2.md), Casas de Medio Camino y Refugios.

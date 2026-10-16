@@ -17,7 +17,7 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 # Artículo 5
 
-Para efectos de la aplicación e interpretación de las modalidades previstas en el artículo 15 de la [Ley](articulo-2.md), se entenderá, de manera enunciativa más no limitativa, lo siguiente:
+Para efectos de la aplicación e interpretación de las modalidades previstas en el artículo [15](../../lfsp/markdown/articulo-15.md) de la [Ley](articulo-2.md), se entenderá, de manera enunciativa más no limitativa, lo siguiente:
 
 I. La SEGURIDAD PRIVADA EN LOS BIENES, contempla el cuidado, resguardo, protección, vigilancia y custodia de bienes muebles e inmuebles. En el caso de bienes inmuebles, los servicios que se presten incluirán a las personas que se encuentren en los inmuebles;
 

@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 181
 
-La solicitud mediante la cual se inicie el reclamo del pago de daños y perjuicios ante el Instituto deberá contener, en lo conducente, los requisitos señalados en los artículos 330 y 331 de la Ley. La contestación al incidente deberá contener, en lo conducente, los requisitos señalados en el artículo 339 del mismo ordenamiento.
+La solicitud mediante la cual se inicie el reclamo del pago de daños y perjuicios ante el Instituto deberá contener, en lo conducente, los requisitos señalados en los artículos [330](../../lfppi/markdown/articulo-330.md) y [331](../../lfppi/markdown/articulo-331.md) de la Ley. La contestación al incidente deberá contener, en lo conducente, los requisitos señalados en el artículo 339 del mismo ordenamiento.

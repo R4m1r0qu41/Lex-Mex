@@ -17,7 +17,7 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 # Artículo 60
 
-El COVED conforme a lo dispuesto por el artículo 59 de la Ley, estará facultado para expedir la constancia que corresponda acerca del respeto a los principios de legalidad, transparencia, equidad e igualdad de oportunidades observados en cada elección de los órganos de gobierno y de representación de las Asociaciones Deportivas Nacionales, una vez terminado el proceso electoral respectivo.
+El COVED conforme a lo dispuesto por el artículo [59](../../lgcfd/markdown/articulo-59.md) de la Ley, estará facultado para expedir la constancia que corresponda acerca del respeto a los principios de legalidad, transparencia, equidad e igualdad de oportunidades observados en cada elección de los órganos de gobierno y de representación de las Asociaciones Deportivas Nacionales, una vez terminado el proceso electoral respectivo.
 
 Para expedir la constancia respectiva la Asociación Deportiva Nacional deberá solicitarla por escrito dentro de los cinco días hábiles siguientes a la terminación del proceso electoral respectivo, enviando una copia o ejemplar de:
 

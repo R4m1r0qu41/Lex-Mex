@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 44
 
-Conforme a lo previsto en el artículo 89 de la Ley, las dependencias y entidades de la Administración Pública Federal integrantes de la Comisión llevarán a cabo las acciones necesarias tendientes a garantizar la prevención, Asistencia y Protección a víctimas, ofendidos o testigos de los delitos previstos en la Ley.
+Conforme a lo previsto en el artículo [89](../../lgtrata/markdown/articulo-89.md) de la Ley, las dependencias y entidades de la Administración Pública Federal integrantes de la Comisión llevarán a cabo las acciones necesarias tendientes a garantizar la prevención, Asistencia y Protección a víctimas, ofendidos o testigos de los delitos previstos en la Ley.

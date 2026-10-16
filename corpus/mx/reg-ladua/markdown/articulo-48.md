@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 48
 
-Para efectos de los artículos 14, 14-A y 15, fracción III, de la [Ley](articulo-1.md), la entrada o salida de Mercancías de los lugares destinados a su depósito ante la aduana se comprobará con la constancia que acredite su recibo o su entrega, respectivamente, por el recinto fiscal o fiscalizado, así como con su registro en el sistema electrónico de control de inventarios.
+Para efectos de los artículos [14](../../ladua/markdown/articulo-14.md), [14-A](../../ladua/markdown/articulo-14-A.md) y [15](../../ladua/markdown/articulo-15.md), fracción III, de la [Ley](articulo-1.md), la entrada o salida de Mercancías de los lugares destinados a su depósito ante la aduana se comprobará con la constancia que acredite su recibo o su entrega, respectivamente, por el recinto fiscal o fiscalizado, así como con su registro en el sistema electrónico de control de inventarios.
 
 Artículo reformado DOF 23-02-2026

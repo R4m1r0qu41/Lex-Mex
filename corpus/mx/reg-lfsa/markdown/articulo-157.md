@@ -17,4 +17,4 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 157
 
-Para el caso de los productos biológicos autógenos elaborados a partir de aislamientos locales o regionales, la Secretaría dictaminará los casos y condiciones bajo las cuales ésta autorizará su producción, distribución y aplicación, conforme a los artículos 6, fracciones XIV y LI y 92 de la [Ley](articulo-2.md).
+Para el caso de los productos biológicos autógenos elaborados a partir de aislamientos locales o regionales, la Secretaría dictaminará los casos y condiciones bajo las cuales ésta autorizará su producción, distribución y aplicación, conforme a los artículos [6](../../lfsa/markdown/articulo-6.md), fracciones XIV y LI y [92](../../lfsa/markdown/articulo-92.md) de la [Ley](articulo-2.md).

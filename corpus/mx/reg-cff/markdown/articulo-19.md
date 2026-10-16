@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 19
 
-Para los efectos del artículo 23 del [Código](articulo-1.md), cuando el contribuyente no efectúe la compensación total de contribuciones podrá continuar compensando el remanente del saldo a favor en pagos futuros o solicitar su devolución.
+Para los efectos del artículo [23](../../cff/markdown/articulo-23.md) del [Código](articulo-1.md), cuando el contribuyente no efectúe la compensación total de contribuciones podrá continuar compensando el remanente del saldo a favor en pagos futuros o solicitar su devolución.

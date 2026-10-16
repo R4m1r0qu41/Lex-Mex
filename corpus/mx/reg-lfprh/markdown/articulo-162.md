@@ -17,7 +17,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 162
 
-La Secretaría designará a un agente financiero para que intervenga en los créditos externos sólo cuando se contraten para financiar total o parcialmente programas o proyectos de inversión de las dependencias, y dichos créditos hayan sido sometidos a consideración del Comité de Crédito Externo, de conformidad con lo dispuesto en el artículo 36 de la [Ley](articulo-2.md).
+La Secretaría designará a un agente financiero para que intervenga en los créditos externos sólo cuando se contraten para financiar total o parcialmente programas o proyectos de inversión de las dependencias, y dichos créditos hayan sido sometidos a consideración del Comité de Crédito Externo, de conformidad con lo dispuesto en el artículo [36](../../lfprh/markdown/articulo-36.md) de la [Ley](articulo-2.md).
 
 Las dependencias, con base en su presupuesto aprobado o modificado autorizado, a través del agente financiero designado por la Secretaría, podrán utilizar el sistema de desembolsos establecido con los organismos financieros internacionales, conforme a lo que determine la propia Secretaría.
 

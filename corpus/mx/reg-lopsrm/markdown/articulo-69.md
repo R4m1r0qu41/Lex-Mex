@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 69
 
-La convocatoria a la licitación pública deberá contener una relación de las causas de desechamiento de proposiciones, las cuales deberán estar vinculadas a los criterios de evaluación que para cada caso se establezcan, de conformidad con lo dispuesto en las fracciones XXII y XXIII del artículo 31 de la [Ley](articulo-2.md).
+La convocatoria a la licitación pública deberá contener una relación de las causas de desechamiento de proposiciones, las cuales deberán estar vinculadas a los criterios de evaluación que para cada caso se establezcan, de conformidad con lo dispuesto en las fracciones XXII y XXIII del artículo [31](../../lopsrm/markdown/articulo-31.md) de la [Ley](articulo-2.md).
 
 Se consideran causas para el desechamiento de las proposiciones, las siguientes:
 
@@ -25,7 +25,7 @@ I. La falta de información o documentos que imposibiliten determinar su solvenc
 
 II. El incumplimiento de las condiciones legales, técnicas y económicas respecto de las cuales se haya establecido expresamente en la convocatoria a la licitación pública que afectarían la solvencia de la proposición; III. Se acredite fehacientemente con la documentación idónea que la información o documentación proporcionada por los licitantes es falsa;
 
-IV. La ubicación del licitante en alguno de los supuestos señalados en los artículos 31, fracción XXIII, 51 y 78, penúltimo párrafo de la Ley;
+IV. La ubicación del licitante en alguno de los supuestos señalados en los artículos [31](../../lopsrm/markdown/articulo-31.md), fracción XXIII, [51](../../lopsrm/markdown/articulo-51.md) y [78](../../lopsrm/markdown/articulo-78.md), penúltimo párrafo de la Ley;
 
 V. La falta de presentación de los escritos o manifiestos a que se refiere la fracción VIII del artículo [34](articulo-34.md) de este Reglamento, y
 

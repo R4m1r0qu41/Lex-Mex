@@ -17,7 +17,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 151
 
-La Subcomisión de Asuntos Disciplinarios, previa o posteriormente a la admisión del Informe de presunta irregularidad, prevista en la fracción III del artículo 60 de la Ley, podrá determinar la suspensión temporal del Miembro del Servicio Exterior que se encuentra sujeto al procedimiento disciplinario, si a su juicio así conviene para la conducción o continuación de las investigaciones.
+La Subcomisión de Asuntos Disciplinarios, previa o posteriormente a la admisión del Informe de presunta irregularidad, prevista en la fracción III del artículo [60](../../lsem/markdown/articulo-60.md) de la Ley, podrá determinar la suspensión temporal del Miembro del Servicio Exterior que se encuentra sujeto al procedimiento disciplinario, si a su juicio así conviene para la conducción o continuación de las investigaciones.
 
 Para la procedencia de dicha suspensión, la Subcomisión de Asuntos Disciplinarios deberá notificar personalmente al presunto infractor sobre su intención de suspenderlo temporalmente. El presunto infractor podrá presentar argumentos escritos en contra de dicha intención dentro de los cinco días hábiles posteriores a la notificación establecida en este artículo. La suspensión temporal no prejuzga sobre la responsabilidad que se le atribuye. La Subcomisión de Asuntos Disciplinarios tendrá un plazo máximo de quince días hábiles para dar contestación a los argumentos.
 

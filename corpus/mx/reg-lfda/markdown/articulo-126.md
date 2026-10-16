@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 126
 
-Lo dispuesto por los artículos 198 y 200, segundo párrafo, de la [Ley](articulo-2o.md), en relación con el principio de reciprocidad, será aplicable sin perjuicio de lo establecido por los artículos [7](articulo-7o.md) y [8](articulo-8o.md) de la propia Ley.
+Lo dispuesto por los artículos [198](../../lfda/markdown/articulo-198.md) y [200](../../lfda/markdown/articulo-200.md), segundo párrafo, de la [Ley](articulo-2o.md), en relación con el principio de reciprocidad, será aplicable sin perjuicio de lo establecido por los artículos [7](articulo-7o.md) y [8](articulo-8o.md) de la propia Ley.

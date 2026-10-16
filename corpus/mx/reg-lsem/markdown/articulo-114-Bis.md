@@ -17,6 +17,6 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 114 Bis
 
-Para los efectos de lo dispuesto por el artículo 50, párrafo tercero de la Ley, la enfermedad grave o el fallecimiento, según sea el caso, deberá acreditarse mediante certificado médico expedido en términos de las disposiciones administrativas que para tal efecto emita la Dirección General, o con el acta de defunción.
+Para los efectos de lo dispuesto por el artículo [50](../../lsem/markdown/articulo-50.md), párrafo tercero de la Ley, la enfermedad grave o el fallecimiento, según sea el caso, deberá acreditarse mediante certificado médico expedido en términos de las disposiciones administrativas que para tal efecto emita la Dirección General, o con el acta de defunción.
 
 Artículo adicionado DOF 02-11-2018

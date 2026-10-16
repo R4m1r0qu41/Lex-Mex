@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 56
 
-Los informes a que se refiere la fracción VIII del [artículo anterior](articulo-55.md), deberán inscribirse en el Registro en términos del artículo 50, fracción XIII de la [Ley](articulo-2.md), y contendrán lo siguiente:
+Los informes a que se refiere la fracción VIII del [artículo anterior](articulo-55.md), deberán inscribirse en el Registro en términos del artículo [50](../../lgdfs/markdown/articulo-50.md), fracción XIII de la [Ley](articulo-2.md), y contendrán lo siguiente:
 
 I. El nombre o denominación o razón social y domicilio del [Titular del aprovechamiento](articulo-2.md) y número de oficio de autorización;
 

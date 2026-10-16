@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 46
 
-Para los efectos de la fracción II del artículo 31 de la [Ley](articulo-1o.md), se aplicarán las siguientes reglas:
+Para los efectos de la fracción II del artículo [31](../../lce/markdown/articulo-31.md) de la [Ley](articulo-1o.md), se aplicarán las siguientes reglas:
 
 I. El costo de producción incluirá el costo de los materiales y componentes directos, el costo de la mano de obra directa y los gastos indirectos de fabricación. A su vez, los gastos indirectos de fabricación deberán incluir:
 

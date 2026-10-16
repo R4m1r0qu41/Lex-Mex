@@ -17,4 +17,4 @@ source_sha256: c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a
 
 # Artículo 22
 
-Para efectos de los artículos 48 y 49 de la Ley, el Instituto programará los pagos del haber de retiro, compensación y pensión, conforme al calendario que establezca la Secretaría de Hacienda y Crédito Público.
+Para efectos de los artículos [48](../../lissfam/markdown/articulo-48.md) y [49](../../lissfam/markdown/articulo-49.md) de la Ley, el Instituto programará los pagos del haber de retiro, compensación y pensión, conforme al calendario que establezca la Secretaría de Hacienda y Crédito Público.

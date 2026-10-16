@@ -33,7 +33,7 @@ VI. Elaborar y suscribir, conjuntamente con el Presidente, las actas correspondi
 
 VII. Dar el seguimiento a los acuerdos que se adopten en las sesiones de la Comisión;
 
-VIII. Dar seguimiento a los trabajos y acuerdos que efectúen la Subcomisión Consultiva de la Comisión, así como de los grupos de trabajo creados por esta en temas específicos; REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS IX. Solicitar a las autoridades competentes la información necesaria para auxiliar al Presidente en la integración del proyecto de informe anual a que se refiere el artículo 93 de la Ley, así como para la actualización de la base de datos señalada en el Capítulo IV de este Título;
+VIII. Dar seguimiento a los trabajos y acuerdos que efectúen la Subcomisión Consultiva de la Comisión, así como de los grupos de trabajo creados por esta en temas específicos; REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS IX. Solicitar a las autoridades competentes la información necesaria para auxiliar al Presidente en la integración del proyecto de informe anual a que se refiere el artículo [93](../../lgtrata/markdown/articulo-93.md) de la Ley, así como para la actualización de la base de datos señalada en el Capítulo IV de este Título;
 
 X. Realizar la difusión, por cualquier medio, de las actividades, eventos, informes y acciones que haya realizado la Comisión para la prevención de los delitos en materia de trata de personas;
 

@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 188
 
-La autoridad sanitaria podrá revocar las autorizaciones que haya otorgado, en los casos previstos en el artículo 380 de la Ley.
+La autoridad sanitaria podrá revocar las autorizaciones que haya otorgado, en los casos previstos en el artículo [380](../../lgs/markdown/articulo-380.md) de la Ley.

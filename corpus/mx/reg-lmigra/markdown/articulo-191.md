@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 191
 
-Los acuerdos interinstitucionales que celebre la Secretaría, en coordinación con la Secretaría de Relaciones Exteriores, en materia de retorno asistido, a que se refiere el artículo 116 de la Ley, deberán contener cuando menos lo siguiente:
+Los acuerdos interinstitucionales que celebre la Secretaría, en coordinación con la Secretaría de Relaciones Exteriores, en materia de retorno asistido, a que se refiere el artículo [116](../../lmigra/markdown/articulo-116.md) de la Ley, deberán contener cuando menos lo siguiente:
 
 I. Las obligaciones que adquieren las Partes que los suscriban;
 

@@ -17,4 +17,4 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 115
 
-Para efectos del artículo 95, inciso b), de la [Ley](articulo-2.md), se entenderá por ejercicio de caza deportiva el momento en el que se abata o se intente abatir al ejemplar.
+Para efectos del artículo [95](../../lgvs/markdown/articulo-95.md), inciso b), de la [Ley](articulo-2.md), se entenderá por ejercicio de caza deportiva el momento en el que se abata o se intente abatir al ejemplar.

@@ -35,4 +35,4 @@ Los plazos señalados en las fracciones que anteceden se ampliarán hasta en die
 
 Las UMA registradas serán incorporadas de oficio por la Secretaría al SUMA. Los particulares podrán consultar su registro en la página electrónica de la Secretaría.
 
-La Secretaría negará el registro de la UMA de fauna silvestre cuando se actualice alguno de los supuestos previstos en el artículo 47 Bis 3 de la [Ley](articulo-2.md). Párrafo adicionado DOF 09-05-2014
+La Secretaría negará el registro de la UMA de fauna silvestre cuando se actualice alguno de los supuestos previstos en el artículo [47 Bis 3](../../lgvs/markdown/articulo-47-Bis-3.md) de la [Ley](articulo-2.md). Párrafo adicionado DOF 09-05-2014

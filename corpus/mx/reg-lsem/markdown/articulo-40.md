@@ -17,9 +17,9 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 40
 
-El ingreso lateral, entendido éste como la observancia y aplicación del artículo 34 de la Ley, se hará a través de concursos que serán anunciados, cuando resulte posible su realización, en la misma fecha que el concurso general de ingreso a que se refiere el artículo 28 de la Ley y se desarrollarán en los siguientes términos:
+El ingreso lateral, entendido éste como la observancia y aplicación del artículo [34](../../lsem/markdown/articulo-34.md) de la Ley, se hará a través de concursos que serán anunciados, cuando resulte posible su realización, en la misma fecha que el concurso general de ingreso a que se refiere el artículo [28](../../lsem/markdown/articulo-28.md) de la Ley y se desarrollarán en los siguientes términos:
 
-I. Los aspirantes deberán inscribirse al concurso general de ingreso, señalando su intención de participar en el concurso de ingreso por artículo 34 de la Ley y participarán únicamente en las etapas que señala dicho artículo;
+I. Los aspirantes deberán inscribirse al concurso general de ingreso, señalando su intención de participar en el concurso de ingreso por artículo [34](../../lsem/markdown/articulo-34.md) de la Ley y participarán únicamente en las etapas que señala dicho artículo;
 
 II. Los participantes en los concursos por artículo 34 de la Ley deberán presentar a la Subcomisión de Evaluación, informes de desempeño elaborados por quien o quienes hayan fungido como sus superiores jerárquicos durante los últimos dos años. Dichos informes deberán reflejar criterios iguales o similares a los aplicados al [Personal de Carrera](articulo-2.md) en la evaluación de sus expedientes;
 

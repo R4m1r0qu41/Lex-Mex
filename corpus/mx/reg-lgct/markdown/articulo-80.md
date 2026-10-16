@@ -17,4 +17,4 @@ source_sha256: 4afbc3d9466d845cfcfb8c2a64a1b7b5cf4efcbc31fe8b58afba418bb9600c52
 
 # Artículo 80
 
-Las violaciones a los preceptos de la Ley, este Reglamento y demás disposiciones que emanen de ella, serán sancionadas administrativamente por la [COFEPRIS](articulo-2.md), en los términos establecidos en los artículos 46, 48, 49, 51 y 52 de la Ley, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+Las violaciones a los preceptos de la Ley, este Reglamento y demás disposiciones que emanen de ella, serán sancionadas administrativamente por la [COFEPRIS](articulo-2.md), en los términos establecidos en los artículos [46](../../lgct/markdown/articulo-46.md), [48](../../lgct/markdown/articulo-48.md), [49](../../lgct/markdown/articulo-49.md), [51](../../lgct/markdown/articulo-51.md) y [52](../../lgct/markdown/articulo-52.md) de la Ley, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.

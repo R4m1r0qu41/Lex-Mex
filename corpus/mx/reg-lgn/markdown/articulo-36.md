@@ -41,7 +41,7 @@ XI. Supervisar la actualización de las bases de datos de la Institución y del 
 
 XII. Establecer los mecanismos para la participación y comunicación con organismos y autoridades nacionales e internacionales, relacionados con las atribuciones de su competencia;
 
-XIII. Incorporar huellas dactilares, fotografías, videos y otros elementos que sirvan para identificar a una persona, a las bases de datos de la Institución y del Sistema Nacional de Información en Seguridad Pública, en términos de la fracción XXIV del artículo 9 de la [Ley](articulo-2.md);
+XIII. Incorporar huellas dactilares, fotografías, videos y otros elementos que sirvan para identificar a una persona, a las bases de datos de la Institución y del Sistema Nacional de Información en Seguridad Pública, en términos de la fracción XXIV del artículo [9](../../lgn/markdown/articulo-9.md) de la [Ley](articulo-2.md);
 
 XIV. Supervisar que las opiniones cumplan con las formalidades científicas y técnicas aplicables y se ajusten a la normativa vigente;
 

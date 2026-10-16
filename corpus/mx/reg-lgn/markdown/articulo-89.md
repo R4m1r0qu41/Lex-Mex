@@ -21,6 +21,6 @@ Para ser promovido a Agente, Agente Mayor y Suboficial, será necesario que el i
 
 I. Tener una antigüedad mínima de un año en el grado que se ostente y haber servido durante el mismo tiempo encuadrado en unidades de la [Institución](articulo-2.md);
 
-II. Aprobar el curso respectivo en la institución de educación o capacitación policial que corresponda conforme a lo dispuesto en los artículos 39 y 40 de la [Ley](articulo-2.md), y
+II. Aprobar el curso respectivo en la institución de educación o capacitación policial que corresponda conforme a lo dispuesto en los artículos [39](../../lgn/markdown/articulo-39.md) y [40](../../lgn/markdown/articulo-40.md) de la [Ley](articulo-2.md), y
 
 III. Reunir los requisitos señalados en las fracciones III, IV, VI, VII y X del artículo 85 del [Reglamento](articulo-2.md).

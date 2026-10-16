@@ -17,6 +17,6 @@ source_sha256: 5018478a6ca9ea39f9ca88ffcb68dde9a33bd4adec59dc75d2431f894b621fc2
 
 # Artículo 8
 
-El registro de Grupos Voluntarios a que se refiere el artículo 51 de la [Ley](articulo-2.md), constituye uno de los elementos para lograr la coordinación entre el gobierno y la sociedad, que permita fomentar la participación social referida en la Ley.
+El registro de Grupos Voluntarios a que se refiere el artículo [51](../../lgpc/markdown/articulo-51.md) de la [Ley](articulo-2.md), constituye uno de los elementos para lograr la coordinación entre el gobierno y la sociedad, que permita fomentar la participación social referida en la Ley.
 
 Un Grupo Voluntario tendrá el carácter de nacional cuando pueda atender Emergencias en cualquier parte del país y el carácter de regional cuando atienda a dos o más entidades federativas colindantes.

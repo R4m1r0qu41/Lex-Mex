@@ -17,7 +17,7 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 7
 
-Para los efectos del artículo 3, fracción X de la Ley, se consideran fuentes de acceso público:
+Para los efectos del artículo [3](../../lfpdppp/markdown/articulo-3.md), fracción X de la Ley, se consideran fuentes de acceso público:
 
 I. Los medios remotos o locales de comunicación electrónica, óptica y de otra tecnología, siempre que el sitio donde se encuentren los datos personales esté concebido para facilitar información al público y esté abierto a la consulta general;
 
@@ -31,6 +31,6 @@ Para que los supuestos enumerados en el presente artículo sean considerados fue
 
 No se considerará una fuente de acceso público cuando la información contenida en la misma sea o tenga una procedencia ilícita.
 
-El tratamiento de datos personales obtenidos a través de fuentes de acceso público, respetará la expectativa razonable de privacidad, a que se refiere el tercer párrafo del artículo 7 de la Ley.
+El tratamiento de datos personales obtenidos a través de fuentes de acceso público, respetará la expectativa razonable de privacidad, a que se refiere el tercer párrafo del artículo [7](../../lfpdppp/markdown/articulo-7.md) de la Ley.
 
 Grupos sin personalidad jurídica

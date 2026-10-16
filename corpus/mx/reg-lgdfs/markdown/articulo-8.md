@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 8
 
-Para efectos del artículo 37 de la [Ley](articulo-2.md), el Sistema Nacional de Información y Gestión Forestal se integrará de:
+Para efectos del artículo [37](../../lgdfs/markdown/articulo-37.md) de la [Ley](articulo-2.md), el Sistema Nacional de Información y Gestión Forestal se integrará de:
 
 I. El componente de información forestal, y
 

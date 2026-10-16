@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 189-A
 
-Para los efectos de los artículos 125, fracciones II y III y 127, fracción I y segundo párrafo de la [Ley](articulo-1.md), las personas morales que cuenten con el registro a que se refiere el artículo [189](articulo-189.md) del presente Reglamento, podrán efectuar la consolidación de carga por vía terrestre de Mercancías cuya exportación o retorno al extranjero hubiera sido tramitada por diversos agentes aduanales, agencias aduanales o apoderados aduanales y exportadores, siempre que se cumpla con lo siguiente:
+Para los efectos de los artículos [125](../../ladua/markdown/articulo-125.md), fracciones II y III y [127](../../ladua/markdown/articulo-127.md), fracción I y segundo párrafo de la [Ley](articulo-1.md), las personas morales que cuenten con el registro a que se refiere el artículo [189](articulo-189.md) del presente Reglamento, podrán efectuar la consolidación de carga por vía terrestre de Mercancías cuya exportación o retorno al extranjero hubiera sido tramitada por diversos agentes aduanales, agencias aduanales o apoderados aduanales y exportadores, siempre que se cumpla con lo siguiente:
 
 I. Declarar en el Pedimento de exportación o de retorno, el aviso de tránsito cuya Mercancía se va a consolidar en términos del presente artículo;
 

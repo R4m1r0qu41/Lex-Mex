@@ -17,7 +17,7 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 60
 
-Los interesados en realizar exportaciones de ejemplares, partes y derivados de la vida silvestre que requieran de autorización conforme al artículo 53 de la [Ley](articulo-2.md), deberán solicitarlo a la Secretaría proporcionando la información señalada en el artículo [12](articulo-12.md) de este Reglamento, así como la siguiente información específica:
+Los interesados en realizar exportaciones de ejemplares, partes y derivados de la vida silvestre que requieran de autorización conforme al artículo [53](../../lgvs/markdown/articulo-53.md) de la [Ley](articulo-2.md), deberán solicitarlo a la Secretaría proporcionando la información señalada en el artículo [12](articulo-12.md) de este Reglamento, así como la siguiente información específica:
 
 I. El carácter de la exportación: definitiva o temporal;
 

@@ -25,6 +25,6 @@ I. Proceder al registro, aprobando el plan de manejo en los términos y condicio
 
 II. Otorgar el registro condicionado a la modificación del plan de manejo, para lo cual señalará los criterios técnicos para efectuar dicha modificación, o
 
-III. Negar el registro de la [UMA](articulo-2.md) cuando se actualicen los supuestos previstos en el artículo 41 de la [Ley](articulo-2.md). Fracción reformada DOF 09-05-2014
+III. Negar el registro de la [UMA](articulo-2.md) cuando se actualicen los supuestos previstos en el artículo [41](../../lgvs/markdown/articulo-41.md) de la [Ley](articulo-2.md). Fracción reformada DOF 09-05-2014
 
 En el supuesto de la fracción II del presente artículo, los interesados contarán con un plazo máximo de sesenta días naturales a partir de la notificación correspondiente, para presentar las adecuaciones correspondientes sin necesidad de iniciar nuevamente el trámite para la integración de los predios al [SUMA](articulo-2.md). En caso de no presentar las adecuaciones en el plazo establecido, la Secretaría revocará el registro, sin perjuicio de efectuar el trámite nuevamente.

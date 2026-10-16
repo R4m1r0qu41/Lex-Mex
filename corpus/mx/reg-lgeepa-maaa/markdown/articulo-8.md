@@ -17,7 +17,7 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 8
 
-Para los efectos de la fracción I del artículo 38 BIS de la Ley, las Auditorías Ambientales se realizarán conforme a los Términos de Referencia señalados en este Reglamento y a través de un Auditor Ambiental que cuente con su acreditación y aprobación vigentes y libres de cualquier tipo de sanción o restricción.
+Para los efectos de la fracción I del artículo [38 BIS](../../lgeepa/markdown/articulo-38-BIS.md) de la Ley, las Auditorías Ambientales se realizarán conforme a los Términos de Referencia señalados en este Reglamento y a través de un Auditor Ambiental que cuente con su acreditación y aprobación vigentes y libres de cualquier tipo de sanción o restricción.
 
 Los Términos de Referencia para la realización de Auditorías Ambientales describirán:
 

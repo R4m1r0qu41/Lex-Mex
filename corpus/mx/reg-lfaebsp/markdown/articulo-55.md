@@ -17,7 +17,7 @@ source_sha256: 9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3
 
 # Artículo 55
 
-Para la venta de bienes mediante el procedimiento de adjudicación directa, el SAE emitirá, previo avalúo, un dictamen previo, a fin de acreditar, bajo su responsabilidad, que dicho procedimiento asegura las mejores condiciones para el Estado, conforme a lo establecido en el artículo 31 de la [Ley](articulo-1.md), el cual deberá contener como mínimo lo siguiente: Párrafo reformado DOF 29-11-2006
+Para la venta de bienes mediante el procedimiento de adjudicación directa, el SAE emitirá, previo avalúo, un dictamen previo, a fin de acreditar, bajo su responsabilidad, que dicho procedimiento asegura las mejores condiciones para el Estado, conforme a lo establecido en el artículo [31](../../lfaebsp/markdown/articulo-31.md) de la [Ley](articulo-1.md), el cual deberá contener como mínimo lo siguiente: Párrafo reformado DOF 29-11-2006
 
 I. Descripción de los bienes a enajenar;
 

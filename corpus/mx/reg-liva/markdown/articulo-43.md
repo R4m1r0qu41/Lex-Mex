@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 43
 
-Para los efectos del artículo 18 de la Ley, los contribuyentes que en un mismo contrato ofrezcan diversos servicios turísticos por una cuota individual preestablecida y por un tiempo determinado, deberán separar el valor de los servicios que se presten en el país, de los que se proporcionen en el extranjero.
+Para los efectos del artículo [18](../../liva/markdown/articulo-18.md) de la Ley, los contribuyentes que en un mismo contrato ofrezcan diversos servicios turísticos por una cuota individual preestablecida y por un tiempo determinado, deberán separar el valor de los servicios que se presten en el país, de los que se proporcionen en el extranjero.

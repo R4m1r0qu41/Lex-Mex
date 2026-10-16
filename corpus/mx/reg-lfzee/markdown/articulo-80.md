@@ -17,7 +17,7 @@ source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 
 # Artículo 80
 
-La [Autoridad Federal](articulo-4.md) podrá, a solicitud del interesado, aprobar la cesión total o parcial de los derechos y obligaciones señalados en el [Permiso](articulo-4.md), siempre que se cumpla con las condiciones establecidas en el artículo 23 de la [Ley](articulo-4.md).
+La [Autoridad Federal](articulo-4.md) podrá, a solicitud del interesado, aprobar la cesión total o parcial de los derechos y obligaciones señalados en el [Permiso](articulo-4.md), siempre que se cumpla con las condiciones establecidas en el artículo [23](../../lfzee/markdown/articulo-23.md) de la [Ley](articulo-4.md).
 
 El escrito que el [Administrador Integral](articulo-4.md) presente a la Autoridad Federal para solicitarle la aprobación de la cesión total o parcial de los derechos y obligaciones establecidos en su Permiso, deberá contener, así como adjuntar los documentos, según corresponda, siguientes:
 

@@ -17,7 +17,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 143
 
-Cuando un Miembro del Servicio Exterior se ubique en alguna de las hipótesis previstas en las fracciones IV a VIII del artículo 53-BIS de la Ley, la Comisión de Personal, dictará un acuerdo de inicio de procedimiento de baja y notificará al servidor público que tiene un término de quince días hábiles, contado a partir del día siguiente a aquél en que se practicó dicha notificación, para manifestar por escrito lo que a su derecho convenga, debiéndose correr traslado con copia certificada de los documentos que sustenten el supuesto de baja.
+Cuando un Miembro del Servicio Exterior se ubique en alguna de las hipótesis previstas en las fracciones IV a VIII del artículo [53-BIS](../../lsem/markdown/articulo-53-BIS.md) de la Ley, la Comisión de Personal, dictará un acuerdo de inicio de procedimiento de baja y notificará al servidor público que tiene un término de quince días hábiles, contado a partir del día siguiente a aquél en que se practicó dicha notificación, para manifestar por escrito lo que a su derecho convenga, debiéndose correr traslado con copia certificada de los documentos que sustenten el supuesto de baja.
 
 En caso de que el Miembro del Servicio Exterior, al momento de desahogar la vista otorgada, ofrezca pruebas para sustentar su dicho, la Comisión de Personal deberá acordar sobre su admisibilidad y señalará fecha y hora para su desahogo, en caso de que éstas no se desahoguen por su propia y especial naturaleza, para lo cual se tomará en consideración el lugar de adscripción del servidor público.
 

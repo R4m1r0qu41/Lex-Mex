@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 127
 
-La sociedad formulará anualmente su presupuesto de gastos, cuyo monto no excederá de los porcentajes que, de conformidad con la fracción XI del artículo 205 de la [Ley](articulo-2o.md), se establezcan en sus estatutos.
+La sociedad formulará anualmente su presupuesto de gastos, cuyo monto no excederá de los porcentajes que, de conformidad con la fracción XI del artículo [205](../../lfda/markdown/articulo-205.md) de la [Ley](articulo-2o.md), se establezcan en sus estatutos.

@@ -17,4 +17,4 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 72
 
-Para efectos del artículo 46 de la [Ley](articulo-2.md), el control de las garantías no fiscales que acepte la Tesorería o el Auxiliar, se realizará mediante su registro en el sistema electrónico de información pública que al efecto administre la Tesorería.
+Para efectos del artículo [46](../../ltf/markdown/articulo-46.md) de la [Ley](articulo-2.md), el control de las garantías no fiscales que acepte la Tesorería o el Auxiliar, se realizará mediante su registro en el sistema electrónico de información pública que al efecto administre la Tesorería.

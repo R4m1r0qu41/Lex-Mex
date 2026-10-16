@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 74
 
-La Autoridad Aduanera durante el Reconocimiento Aduanero o durante el ejercicio de las facultades de comprobación podrá ordenar y practicar la toma de muestras, inclusive de aquellas Mercancías que se encuentren inscritas en el registro a que se refiere el segundo párrafo del artículo 45 de la [Ley](articulo-1.md), lo cual podrá llevarse a cabo con el apoyo de terceros especializados.
+La Autoridad Aduanera durante el Reconocimiento Aduanero o durante el ejercicio de las facultades de comprobación podrá ordenar y practicar la toma de muestras, inclusive de aquellas Mercancías que se encuentren inscritas en el registro a que se refiere el segundo párrafo del artículo [45](../../ladua/markdown/articulo-45.md) de la [Ley](articulo-1.md), lo cual podrá llevarse a cabo con el apoyo de terceros especializados.
 
 Artículo reformado DOF 23-02-2026

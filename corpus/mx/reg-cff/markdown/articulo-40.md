@@ -17,6 +17,6 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 40
 
-Para los efectos del artículo 29-A, fracción V del [Código](articulo-1.md), los bienes o las mercancías de que se trate, deberán describirse detalladamente considerando sus características esenciales como marca, modelo, número de serie, especificaciones técnicas o comerciales, entre otras, a fin de distinguirlas de otras similares.
+Para los efectos del artículo [29-A](../../cff/markdown/articulo-29-A.md), fracción V del [Código](articulo-1.md), los bienes o las mercancías de que se trate, deberán describirse detalladamente considerando sus características esenciales como marca, modelo, número de serie, especificaciones técnicas o comerciales, entre otras, a fin de distinguirlas de otras similares.
 
-Para los efectos del artículo 29-A, fracción V, segundo párrafo, inciso b) del Código, los comprobantes fiscales digitales por Internet que amparen donativos deducibles deberán señalar cantidad, valor y descripción de los bienes donados o, en su caso, el monto del donativo.
+Para los efectos del artículo [29-A](../../cff/markdown/articulo-29-A.md), fracción V, segundo párrafo, inciso b) del Código, los comprobantes fiscales digitales por Internet que amparen donativos deducibles deberán señalar cantidad, valor y descripción de los bienes donados o, en su caso, el monto del donativo.

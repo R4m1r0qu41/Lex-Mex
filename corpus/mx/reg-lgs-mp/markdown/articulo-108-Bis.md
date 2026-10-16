@@ -17,7 +17,7 @@ source_sha256: 0fb9b74e27b7abf66250404ef5ec1c68acdc460e9cff5b381f49224ec6f71003
 
 # Artículo 108 Bis
 
-En caso de que los fabricantes, distribuidores, comercializadores o comerciantes se resistan o impidan la ejecución de la acción de aseguramiento de los productos almacenados prevista en los artículos 414 y 414 Bis de la [Ley](articulo-2.md), la autoridad sanitaria solicitará el apoyo de la fuerza pública.
+En caso de que los fabricantes, distribuidores, comercializadores o comerciantes se resistan o impidan la ejecución de la acción de aseguramiento de los productos almacenados prevista en los artículos [414](../../lgs/markdown/articulo-414.md) y [414 Bis](../../lgs/markdown/articulo-414-Bis.md) de la [Ley](articulo-2.md), la autoridad sanitaria solicitará el apoyo de la fuerza pública.
 
 Artículo adicionado DOF 19-01-2012
 

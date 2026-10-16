@@ -17,4 +17,4 @@ source_sha256: 931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557
 
 # Artículo 41
 
-Para la integración de los requisitos y procedimientos para la evaluación de los materiales, sustancias, insumos, métodos e ingredientes, así como la conformación de la lista que señalan los artículos 28 y 29 de la [Ley](articulo-2.md), se tomarán en cuenta las disposiciones contenidas en los acuerdos internacionales celebrados por nuestro país.
+Para la integración de los requisitos y procedimientos para la evaluación de los materiales, sustancias, insumos, métodos e ingredientes, así como la conformación de la lista que señalan los artículos [28](../../lpo/markdown/articulo-28.md) y [29](../../lpo/markdown/articulo-29.md) de la [Ley](articulo-2.md), se tomarán en cuenta las disposiciones contenidas en los acuerdos internacionales celebrados por nuestro país.

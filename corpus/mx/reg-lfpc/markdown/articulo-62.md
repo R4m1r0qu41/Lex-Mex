@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 62
 
-En caso de incumplimiento del artículo 18 BIS de la Ley, la Procuraduría podrá, de oficio, iniciar el procedimiento por infracciones a la Ley establecido en el artículo 123 de la misma.
+En caso de incumplimiento del artículo [18 BIS](../../lfpc/markdown/articulo-18-BIS.md) de la Ley, la Procuraduría podrá, de oficio, iniciar el procedimiento por infracciones a la Ley establecido en el artículo 123 de la misma.

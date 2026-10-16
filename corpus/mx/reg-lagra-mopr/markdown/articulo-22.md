@@ -17,4 +17,4 @@ source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 
 # Artículo 22
 
-Si de la investigación correspondiente se comprueba la existencia de excedentes sobre tierras ejidales o de sociedades propietarias de tierras, el denunciado deberá comparecer directamente ante la Secretaría, de conformidad con los artículos 47, segundo párrafo y 132 de la Ley, respectivamente.
+Si de la investigación correspondiente se comprueba la existencia de excedentes sobre tierras ejidales o de sociedades propietarias de tierras, el denunciado deberá comparecer directamente ante la Secretaría, de conformidad con los artículos [47](../../lagra/markdown/articulo-47.md), segundo párrafo y [132](../../lagra/markdown/articulo-132.md) de la Ley, respectivamente.

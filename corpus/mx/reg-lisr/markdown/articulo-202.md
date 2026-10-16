@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 202
 
-Para efectos del artículo 120, párrafo primero, fracción III, inciso b) de la [Ley](articulo-1.md), las personas físicas que no hubieran obtenido ingresos acumulables en cualquiera de los cuatro ejercicios previos a aquél en que se realice la enajenación, podrán determinar la tasa en términos del artículo 120, párrafo segundo de la Ley, respecto de los ejercicios en los cuales no obtuvieron ingresos.
+Para efectos del artículo [120](../../lisr/markdown/articulo-120.md), párrafo primero, fracción III, inciso b) de la [Ley](articulo-1.md), las personas físicas que no hubieran obtenido ingresos acumulables en cualquiera de los cuatro ejercicios previos a aquél en que se realice la enajenación, podrán determinar la tasa en términos del artículo [120](../../lisr/markdown/articulo-120.md), párrafo segundo de la Ley, respecto de los ejercicios en los cuales no obtuvieron ingresos.

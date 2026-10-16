@@ -17,6 +17,6 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 91
 
-Para los efectos del artículo 141, tercer párrafo del [Código](articulo-1.md), las [Autoridades Fiscales](articulo-1.md) podrán dispensar de la garantía del interés fiscal a los ejecutores de gasto en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+Para los efectos del artículo [141](../../cff/markdown/articulo-141.md), tercer párrafo del [Código](articulo-1.md), las [Autoridades Fiscales](articulo-1.md) podrán dispensar de la garantía del interés fiscal a los ejecutores de gasto en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
-Cuando los contribuyentes a que se refiere el párrafo anterior interpongan medios de defensa en contra de la resolución que determine un crédito fiscal, se suspenderá el procedimiento administrativo de ejecución, así como el plazo a que se refiere el artículo 146 del Código.
+Cuando los contribuyentes a que se refiere el párrafo anterior interpongan medios de defensa en contra de la resolución que determine un crédito fiscal, se suspenderá el procedimiento administrativo de ejecución, así como el plazo a que se refiere el artículo [146](../../cff/markdown/articulo-146.md) del Código.

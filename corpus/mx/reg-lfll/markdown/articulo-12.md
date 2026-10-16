@@ -17,4 +17,4 @@ source_sha256: d295edfeef5d5f77b69a5817a13bc40ee26d72d93f187b00e57e8badb40363fe
 
 # Artículo 12
 
-El [Consejo](articulo-2.md) es un órgano consultivo de la [Secretaría](articulo-2.md) y espacio de concertación y asesoría entre todas las instancias públicas, sociales y privadas vinculadas al libro y a la lectura, integrado en términos del artículo 14 de la [Ley](articulo-2.md).
+El [Consejo](articulo-2.md) es un órgano consultivo de la [Secretaría](articulo-2.md) y espacio de concertación y asesoría entre todas las instancias públicas, sociales y privadas vinculadas al libro y a la lectura, integrado en términos del artículo [14](../../lfll/markdown/articulo-14.md) de la [Ley](articulo-2.md).

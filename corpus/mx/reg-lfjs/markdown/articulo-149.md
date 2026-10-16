@@ -19,4 +19,4 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 Serán sancionadas con revocación del permiso y, en su caso, clausura del establecimiento, las infracciones a la [Ley](articulo-3.md), al presente Reglamento y a los términos y condiciones del permiso que sean graves o se cometan de manera frecuente.
 
-Para efectos del artículo 17 de la Ley y del presente artículo, se considera que las infracciones son frecuentes cuando se cometen en dos o más ocasiones en un periodo de un año.
+Para efectos del artículo [17](../../lfjs/markdown/articulo-17.md) de la Ley y del presente artículo, se considera que las infracciones son frecuentes cuando se cometen en dos o más ocasiones en un periodo de un año.

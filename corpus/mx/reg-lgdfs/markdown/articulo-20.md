@@ -17,4 +17,4 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 20
 
-La Secretaría realizará de oficio las inscripciones a que se refieren los artículos 42 y 50 de la [Ley](articulo-2.md), excepto los datos para la identificación de los Prestadores de Servicios forestales y auditores técnicos forestales, la cual se realizará a petición del interesado conforme a lo previsto en los artículos [155](articulo-155.md) y [173](articulo-173.md) del presente Reglamento.
+La Secretaría realizará de oficio las inscripciones a que se refieren los artículos [42](../../lgdfs/markdown/articulo-42.md) y [50](../../lgdfs/markdown/articulo-50.md) de la [Ley](articulo-2.md), excepto los datos para la identificación de los Prestadores de Servicios forestales y auditores técnicos forestales, la cual se realizará a petición del interesado conforme a lo previsto en los artículos [155](articulo-155.md) y [173](articulo-173.md) del presente Reglamento.

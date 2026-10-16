@@ -17,7 +17,7 @@ source_sha256: 066103556290f57dca17504bd178aeb645dff97b3a5e05bf4925e9353204e064
 
 # Artículo 14
 
-Para efectos de lo dispuesto en el artículo 16, fracción I de la Ley, la Secretaría promoverá que la investigación que realicen los Institutos Nacionales de Salud y demás organismos descentralizados agrupados en el sector coordinado por ésta, en materia de la condición del espectro autista, se oriente a fortalecer, entre otros aspectos, los siguientes:
+Para efectos de lo dispuesto en el artículo [16](../../lgappcea/markdown/articulo-16.md), fracción I de la Ley, la Secretaría promoverá que la investigación que realicen los Institutos Nacionales de Salud y demás organismos descentralizados agrupados en el sector coordinado por ésta, en materia de la condición del espectro autista, se oriente a fortalecer, entre otros aspectos, los siguientes:
 
 I. Los procesos de atención médica y psicosocial;
 

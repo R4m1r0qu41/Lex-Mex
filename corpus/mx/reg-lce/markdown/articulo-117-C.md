@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 117-C
 
-El procedimiento a que se refiere el artículo 89 C de la [Ley](articulo-1o.md), se substanciará de la siguiente forma:
+El procedimiento a que se refiere el artículo [89](../../lce/markdown/articulo-89.md) C de la [Ley](articulo-1o.md), se substanciará de la siguiente forma:
 
 I. La solicitud deberá presentarse por escrito ante la unidad administrativa competente de la [Secretaría](articulo-1o.md), por el particular interesado o por quien actúe en su representación, acompañada de los documentos que lo acrediten, y reunir los requisitos siguientes: A. Enunciar la resolución de que se trate y la descripción del aspecto o aspectos que solicita se aclaren o precisen;
 

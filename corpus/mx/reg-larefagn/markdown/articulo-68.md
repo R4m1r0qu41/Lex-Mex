@@ -17,4 +17,4 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 68
 
-De conformidad con lo previsto en el artículo 16 de la Ley, el número de ascensos en cada especialidad y jerarquía será determinado, tomando como base las vacantes existentes y las disposiciones presupuestales aplicables.
+De conformidad con lo previsto en el artículo [16](../../larefam/markdown/articulo-16.md) de la Ley, el número de ascensos en cada especialidad y jerarquía será determinado, tomando como base las vacantes existentes y las disposiciones presupuestales aplicables.

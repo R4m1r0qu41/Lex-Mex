@@ -39,7 +39,7 @@ d) La declaración de que no se duplicarán funciones, fines y estructuras orgá
 
 e) La instrucción del fideicomitente al fiduciario para que transparente y rinda cuentas sobre el manejo de los recursos presupuestarios que se hubieren aportado al fideicomiso, o análogo; proporcione los informes que permitan su vigilancia y fiscalización, así como las facilidades para realizar auditorías y visitas de inspección por parte de las instancias fiscalizadoras federales. Asimismo, que el titular de la unidad administrativa encargada de coordinar la operación, o con cargo a cuyo presupuesto se hayan otorgado los recursos será responsable de facilitar dicha fiscalización; Inciso reformado DOF 05-09-2007
 
-f) La declaración de que el propósito del fideicomiso cumple con lo dispuesto en el artículo 9 de la [Ley](articulo-2.md); Inciso adicionado DOF 05-09-2007
+f) La declaración de que el propósito del fideicomiso cumple con lo dispuesto en el artículo [9](../../lfprh/markdown/articulo-9.md) de la [Ley](articulo-2.md); Inciso adicionado DOF 05-09-2007
 
 g) La facultad expresa del fideicomitente para revocar el fideicomiso, sin perjuicio de los derechos que correspondan, en su caso, a terceros, salvo que se trate de fideicomisos constituidos por mandato de ley, decreto o que la naturaleza de sus fines no lo permitan; Inciso adicionado DOF 05-09-2007. Reformado DOF 25-04-2014
 
@@ -59,7 +59,7 @@ a) El requerimiento presupuestario autorizado en su presupuesto para el ejercici
 
 b) El proyecto de contrato;
 
-c) La justificación de la unidad responsable de la dependencia o entidad con cargo a cuyo presupuesto se aporten los recursos presupuestarios al fideicomiso o que coordine su operación, relativa a que el propósito del fideicomiso que se pretenda constituir cumple con lo dispuesto en el artículo 9 de la Ley, y de que no duplica funciones, fines y estructuras orgánicas existentes en la Administración Pública Federal;
+c) La justificación de la unidad responsable de la dependencia o entidad con cargo a cuyo presupuesto se aporten los recursos presupuestarios al fideicomiso o que coordine su operación, relativa a que el propósito del fideicomiso que se pretenda constituir cumple con lo dispuesto en el artículo [9](../../lfprh/markdown/articulo-9.md) de la Ley, y de que no duplica funciones, fines y estructuras orgánicas existentes en la Administración Pública Federal;
 
 La autorización a que se refiere la presente fracción se emitirá para efectos de suficiencia o disponibilidad presupuestaria. Párrafo adicionado DOF 04-09-2009 Inciso adicionado DOF 05-09-2007
 

@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 112
 
-Para efectos de los artículos 76, fracción XV y 82, fracción VII de la [Ley](articulo-1.md), los contribuyentes deberán informar el monto de las contraprestaciones o donativos recibidos, según se trate en efectivo en moneda nacional o extranjera, así como en piezas de oro o plata, si al incluir los impuestos correspondientes, supera la cantidad establecida en dichos artículos.
+Para efectos de los artículos [76](../../lisr/markdown/articulo-76.md), fracción XV y [82](../../lisr/markdown/articulo-82.md), fracción VII de la [Ley](articulo-1.md), los contribuyentes deberán informar el monto de las contraprestaciones o donativos recibidos, según se trate en efectivo en moneda nacional o extranjera, así como en piezas de oro o plata, si al incluir los impuestos correspondientes, supera la cantidad establecida en dichos artículos.
 
 El informe a que se refiere el párrafo anterior, también se presentará cuando se efectúe respecto de una misma operación uno o varios pagos o donativos en efectivo en moneda nacional o extranjera, o bien, en piezas de oro o plata, y que la suma de ellos supere los cien mil pesos, remitiéndose dicho informe a más tardar el día diecisiete del mes inmediato posterior a aquél en el que se rebase el monto señalado.
 

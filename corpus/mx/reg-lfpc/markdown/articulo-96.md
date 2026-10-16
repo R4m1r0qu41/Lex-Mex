@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 96
 
-La clausura parcial procederá cuando se den los supuestos a que se refiere la fracción III del artículo 128 TER de la Ley.
+La clausura parcial procederá cuando se den los supuestos a que se refiere la fracción III del artículo [128 TER](../../lfpc/markdown/articulo-128-TER.md) de la Ley.

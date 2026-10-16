@@ -17,14 +17,14 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 279
 
-Los residentes en el extranjero que tengan como actividad preponderante la integración de paquetes turísticos, los cuales sean promocionados y comercializados por ellos mismos o por conducto de agencias de viajes minoristas, así como ofrecer y vender al público consumidor paquetes turísticos integrados por una operadora mayorista, servicios de otros prestadores de servicios turísticos o relacionados con ellos o que, a solicitud expresa de los clientes, integren dos o más servicios turísticos o relacionados con éstos en un solo producto, no se consideran comprendidos dentro del supuesto del artículo 159, fracción I de la [Ley](articulo-1.md), por los paquetes turísticos que enajenen en el extranjero, cuando los inmuebles se encuentren ubicados en territorio nacional e incluyan el hospedaje.
+Los residentes en el extranjero que tengan como actividad preponderante la integración de paquetes turísticos, los cuales sean promocionados y comercializados por ellos mismos o por conducto de agencias de viajes minoristas, así como ofrecer y vender al público consumidor paquetes turísticos integrados por una operadora mayorista, servicios de otros prestadores de servicios turísticos o relacionados con ellos o que, a solicitud expresa de los clientes, integren dos o más servicios turísticos o relacionados con éstos en un solo producto, no se consideran comprendidos dentro del supuesto del artículo [159](../../lisr/markdown/articulo-159.md), fracción I de la [Ley](articulo-1.md), por los paquetes turísticos que enajenen en el extranjero, cuando los inmuebles se encuentren ubicados en territorio nacional e incluyan el hospedaje.
 
-Se considerará que los residentes en el extranjero a que se refiere este artículo, no se encuentran dentro del supuesto del artículo 159, fracción I de la Ley, siempre que se cumpla con lo siguiente:
+Se considerará que los residentes en el extranjero a que se refiere este artículo, no se encuentran dentro del supuesto del artículo [159](../../lisr/markdown/articulo-159.md), fracción I de la Ley, siempre que se cumpla con lo siguiente:
 
 I. Que el servicio de hospedaje se preste directamente por un residente en territorio nacional o por un residente en el extranjero con establecimiento permanente en México;
 
 II. Que el residente en el extranjero que comercialice el servicio de hospedaje en territorio nacional, no sea titular de un derecho real o personal sobre el inmueble destinado al hospedaje en términos de este artículo;
 
-III. Que el residente en el extranjero no esté en alguno de los supuestos previstos en el artículo 159, fracciones II, III y IV de la Ley, y
+III. Que el residente en el extranjero no esté en alguno de los supuestos previstos en el artículo [159](../../lisr/markdown/articulo-159.md), fracciones II, III y IV de la Ley, y
 
 IV. Que el hospedaje que forme parte de los paquetes integrados por los residentes en el extranjero, no incluya ningún derecho accesorio de cualquier tipo o alguna obligación adicional o accesoria al contrato de hospedaje, como el derecho a votar, a elegir directivos, a intercambiar puntos vacacionales o lugares de recreación, la obligación de pagar cuotas de mantenimiento, entre otros.

@@ -17,7 +17,7 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 18
 
-Para los efectos del artículo 10 de la Ley, la conducta se acreditará:
+Para los efectos del artículo [10](../../larefam/markdown/articulo-10.md) de la Ley, la conducta se acreditará:
 
 I. Para las personas que ostenten la jerarquía de Soldado de las armas, de los servicios y de guardia nacional, Cabo y Sargento Segundo de los servicios o especialidades que carecen de escuela de formación, mediante el Acta de Consejo de Honor que se elabore para el efecto y, en su caso, con el Memorial de Servicios; Fracción reformada DOF 20-03-2026
 

@@ -23,13 +23,13 @@ Cuando la Secretaría determine con base en la estimación del cierre anual de l
 
 I. El techo de endeudamiento neto del Gobierno federal aprobado en la Ley de Ingresos, y
 
-II. El equilibrio presupuestario a que se refiere el artículo 17 de la Ley.
+II. El equilibrio presupuestario a que se refiere el artículo [17](../../lfprh/markdown/articulo-17.md) de la Ley.
 
 La estimación del cierre anual de las finanzas públicas debe incluir el gasto programable del Gobierno federal que permita cumplir con la meta del balance presupuestario, el ahorro o economía presupuestaria en el costo financiero de la deuda del Gobierno federal en términos netos de acuerdo con el artículo [283](articulo-283.md) A de este reglamento, y las fuentes de financiamiento de las ampliaciones de gasto del Gobierno federal con respecto al monto aprobado en el Presupuesto de Egresos que permitan realizar las aportaciones al Fondo de Estabilización de los Ingresos Presupuestarios.
 
 En caso de que la aportación patrimonial se realice mediante un título de crédito, la Secretaría, a través de la unidad administrativa competente en términos de su reglamento interior, debe emitir a favor del Fondo de Estabilización de los Ingresos Presupuestarios un título de crédito del Gobierno federal, el cual debe estar suscrito conjuntamente con la [Tesorería](articulo-2.md) de la Federación, en el ámbito de sus respectivas competencias, y cuyo vencimiento no debe ser mayor a seis meses.
 
-Las aportaciones que se realicen al Fondo de Estabilización de los Ingresos Presupuestarios de acuerdo con lo que establece el artículo 21 Bis, fracción V Bis, de la Ley, debe llevarse a cabo con posterioridad a las aportaciones que se realicen de conformidad con los artículos 19, fracción IV, inciso c); 19 Bis, fracción II; 23, último párrafo, y 87, fracción I, de la Ley, hasta por el monto que permita llegar al límite de la reserva del fondo.
+Las aportaciones que se realicen al Fondo de Estabilización de los Ingresos Presupuestarios de acuerdo con lo que establece el artículo [21 Bis](../../lfprh/markdown/articulo-21-Bis.md), fracción V Bis, de la Ley, debe llevarse a cabo con posterioridad a las aportaciones que se realicen de conformidad con los artículos [19](../../lfprh/markdown/articulo-19.md), fracción IV, inciso c); [19 Bis](../../lfprh/markdown/articulo-19-Bis.md), fracción II; [23](../../lfprh/markdown/articulo-23.md), último párrafo, y [87](../../lfprh/markdown/articulo-87.md), fracción I, de la Ley, hasta por el monto que permita llegar al límite de la reserva del fondo.
 
 Los registros presupuestarios y contables correspondientes a las aportaciones que se hagan al Fondo de Estabilización de los Ingresos Presupuestarios se deben realizar en términos de las disposiciones aplicables.
 

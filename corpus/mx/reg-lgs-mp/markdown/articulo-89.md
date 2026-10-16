@@ -17,6 +17,6 @@ source_sha256: 0fb9b74e27b7abf66250404ef5ec1c68acdc460e9cff5b381f49224ec6f71003
 
 # Artículo 89
 
-La [Secretaría](articulo-2.md) publicará periódicamente convocatorias para la autorización de los terceros a que se refiere el artículo 391 bis de la [Ley](articulo-2.md), los que podrán ser personas físicas o morales.
+La [Secretaría](articulo-2.md) publicará periódicamente convocatorias para la autorización de los terceros a que se refiere el artículo [391 bis](../../lgs/markdown/articulo-391-bis.md) de la [Ley](articulo-2.md), los que podrán ser personas físicas o morales.
 
 Asimismo, la Secretaría formará comités técnicos integrados por expertos en los campos específicos, representantes de cámaras y asociaciones y, en su caso, de las entidades de acreditación, que tendrán como propósito conocer técnicamente de las solicitudes para el otorgamiento de autorizaciones de terceros.

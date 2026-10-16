@@ -37,7 +37,7 @@ IX. Omitir la presentación del Plan Maestro de la Zona para aprobación de la A
 
 X. Realizar actos que impliquen la transferencia o cesión del control de la sociedad titular del Permiso, en contravención a lo dispuesto en la Ley y las demás disposiciones jurídicas aplicables;
 
-XI. Incumplir la suspensión u omitir las acciones para subsanar las circunstancias que motivaron dicha medida, que hubiere ordenado la Autoridad Federal en términos del artículo 49 de la Ley;
+XI. Incumplir la suspensión u omitir las acciones para subsanar las circunstancias que motivaron dicha medida, que hubiere ordenado la Autoridad Federal en términos del artículo [49](../../lfzee/markdown/articulo-49.md) de la Ley;
 
 XII. Realizar actos y omisiones injustificadas que impidan o intenten impedir a los [Inversionistas](articulo-4.md) la realización de Actividades Económicas Productivas en la Zona;
 

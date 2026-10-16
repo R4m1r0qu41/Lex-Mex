@@ -17,4 +17,4 @@ source_sha256: 7e1c33029ca423d65491911d15e2f1b436ed269540148af1e4787570441ac0b6
 
 # Artículo 25
 
-Para la elaboración y actualización de los programas que deriven de los artículos 12, fracción I de la Ley y 41 de la Ley General de Educación, la Secretaría de Educación Pública podrá consultar al Consejo, a efecto de fortalecer en aquellos, los principios a que se refiere el artículo 5 de la Ley.
+Para la elaboración y actualización de los programas que deriven de los artículos [12](../../lgipd/markdown/articulo-12.md), fracción I de la Ley y 41 de la Ley General de Educación, la Secretaría de Educación Pública podrá consultar al Consejo, a efecto de fortalecer en aquellos, los principios a que se refiere el artículo [5](../../lgipd/markdown/articulo-5.md) de la Ley.

@@ -17,4 +17,4 @@ source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 
 # Artículo 57
 
-La [Procuraduría Federal](articulo-2.md), podrá suscribir convenios de coordinación y colaboración con las [Procuradurías de Protección Locales](articulo-2.md) a efecto de ejercer la atribución prevista en el artículo 112 de la [Ley](articulo-2.md).
+La [Procuraduría Federal](articulo-2.md), podrá suscribir convenios de coordinación y colaboración con las [Procuradurías de Protección Locales](articulo-2.md) a efecto de ejercer la atribución prevista en el artículo [112](../../lgdnna/markdown/articulo-112.md) de la [Ley](articulo-2.md).

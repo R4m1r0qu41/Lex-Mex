@@ -19,6 +19,6 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 El Programa será elaborado de manera sexenal y desarrollará las acciones que señala la Ley, observando el Plan Nacional de Desarrollo y las disposiciones de la Ley de Planeación.
 
-El Diagnóstico Nacional a que se refiere el artículo 42, fracción XII, de la Ley se deberá de llevar a cabo de manera sexenal, durante el año en que termina su encargo el Ejecutivo Federal.
+El Diagnóstico Nacional a que se refiere el artículo [42](../../lgamvlv/markdown/articulo-42.md), fracción XII, de la Ley se deberá de llevar a cabo de manera sexenal, durante el año en que termina su encargo el Ejecutivo Federal.
 
 Artículo reformado DOF 25-11-2013

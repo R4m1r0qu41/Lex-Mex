@@ -17,7 +17,7 @@ source_sha256: 8e60a8ba9f27b47d26806dbae115c0803dd9ea6a3a02a1b359dc86516d40759e
 
 # Artículo 9
 
-Las solicitudes que presenten las instituciones de crédito, a través de su delegado fiduciario, para obtener el permiso a que hace referencia el artículo 11 de la [Ley](articulo-1.md), deben contener:
+Las solicitudes que presenten las instituciones de crédito, a través de su delegado fiduciario, para obtener el permiso a que hace referencia el artículo [11](../../lie/markdown/articulo-11.md) de la [Ley](articulo-1.md), deben contener:
 
 I. Nombre y nacionalidad de los fideicomitentes;
 

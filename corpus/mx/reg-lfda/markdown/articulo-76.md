@@ -17,7 +17,7 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 76
 
-Para la obtención de una reserva de derechos, se podrá solicitar al [Instituto](articulo-2o.md) un dictamen previo sobre su procedencia, de acuerdo con lo dispuesto en el artículo 188 de la [Ley](articulo-2o.md).
+Para la obtención de una reserva de derechos, se podrá solicitar al [Instituto](articulo-2o.md) un dictamen previo sobre su procedencia, de acuerdo con lo dispuesto en el artículo [188](../../lfda/markdown/articulo-188.md) de la [Ley](articulo-2o.md).
 
 Hecha la solicitud, el Instituto expedirá el dictamen correspondiente en un plazo de quince días. Tratándose de promociones publicitarias y personajes, el plazo se extenderá por treinta días más.
 

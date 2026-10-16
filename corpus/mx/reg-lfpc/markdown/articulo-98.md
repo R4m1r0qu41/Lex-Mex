@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 98
 
-En el caso de lo dispuesto por las fracciones IV, V y VI del artículo 128 TER de la Ley, la autoridad competente podrá ordenar clausura parcial o total, atendiendo al número y a la gravedad de las infracciones a la Ley.
+En el caso de lo dispuesto por las fracciones IV, V y VI del artículo [128 TER](../../lfpc/markdown/articulo-128-TER.md) de la Ley, la autoridad competente podrá ordenar clausura parcial o total, atendiendo al número y a la gravedad de las infracciones a la Ley.

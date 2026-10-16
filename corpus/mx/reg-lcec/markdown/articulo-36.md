@@ -17,4 +17,4 @@ source_sha256: 76a5d189cd607e352b2cc39a92c4ad2d46f6d4628cd6e300030d92cf2191a88c
 
 # Artículo 36
 
-La información contenida en el SIEM puede ser utilizada, además de lo previsto en el artículo 29 de la [Ley](articulo-2.md), para la promoción de negocios, elaboración de estadísticas o de información de valor agregado.
+La información contenida en el SIEM puede ser utilizada, además de lo previsto en el artículo [29](../../lcec/markdown/articulo-29.md) de la [Ley](articulo-2.md), para la promoción de negocios, elaboración de estadísticas o de información de valor agregado.

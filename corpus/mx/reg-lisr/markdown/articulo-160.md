@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 160
 
-Para efectos del artículo 93, párrafo penúltimo de la [Ley](articulo-1.md), cuando las prestaciones de previsión social excedan de los límites establecidos en dicha disposición, el excedente se considerará como ingreso acumulable del contribuyente.
+Para efectos del artículo [93](../../lisr/markdown/articulo-93.md), párrafo penúltimo de la [Ley](articulo-1.md), cuando las prestaciones de previsión social excedan de los límites establecidos en dicha disposición, el excedente se considerará como ingreso acumulable del contribuyente.

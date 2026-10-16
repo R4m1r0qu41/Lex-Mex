@@ -27,6 +27,6 @@ III. Ceder, hipotecar, gravar o transferir las Autorizaciones, los derechos en e
 
 IV. Ceder o transferir los derechos de uso o arrendamiento de los inmuebles dentro de la Zona, a personas que no cuenten con Autorización;
 
-V. Incumplir la suspensión u omitir las acciones para subsanar las circunstancias que motivaron dicha medida, que hubiere ordenado la [Autoridad Federal](articulo-4.md) en términos del artículo 49 de la Ley, y
+V. Incumplir la suspensión u omitir las acciones para subsanar las circunstancias que motivaron dicha medida, que hubiere ordenado la [Autoridad Federal](articulo-4.md) en términos del artículo [49](../../lfzee/markdown/articulo-49.md) de la Ley, y
 
 VI. Incumplir las obligaciones establecidas en las disposiciones jurídicas aplicables o en la Autorización. La Autoridad Federal podrá cancelar la Autorización de manera inmediata únicamente en los supuestos previstos en las fracciones I, III y IV de este artículo. En los demás supuestos, la Autoridad Federal sólo podrá cancelar la Autorización cuando previamente hubiese sancionado en términos de esta Ley, al respectivo Inversionista, por lo menos en una ocasión previa dentro de un período de tres años.

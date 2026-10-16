@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 84
 
-El conciliador de la Procuraduría podrá, de oficio o a petición del consumidor, requerir la elaboración del dictamen a que se refiere el artículo 114 de la Ley en cualquier etapa del procedimiento conciliatorio. El acuerdo por el cual el conciliador solicite la elaboración del dictamen deberá estar debidamente fundado y motivado.
+El conciliador de la Procuraduría podrá, de oficio o a petición del consumidor, requerir la elaboración del dictamen a que se refiere el artículo [114](../../lfpc/markdown/articulo-114.md) de la Ley en cualquier etapa del procedimiento conciliatorio. El acuerdo por el cual el conciliador solicite la elaboración del dictamen deberá estar debidamente fundado y motivado.

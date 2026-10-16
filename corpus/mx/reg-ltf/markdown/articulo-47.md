@@ -17,7 +17,7 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 47
 
-Para efectos del artículo 36 de la [Ley](articulo-2.md), los intereses se causarán conforme a la tasa anual de interés que resulte del promedio aritmético de las tasas de rendimiento equivalentes a las tasas de descuento de los Certificados de la Tesorería de la Federación a noventa y un días en colocación primaria que dé a conocer el Banco de México dentro del período que dure la falta de Entero.
+Para efectos del artículo [36](../../ltf/markdown/articulo-36.md) de la [Ley](articulo-2.md), los intereses se causarán conforme a la tasa anual de interés que resulte del promedio aritmético de las tasas de rendimiento equivalentes a las tasas de descuento de los Certificados de la Tesorería de la Federación a noventa y un días en colocación primaria que dé a conocer el Banco de México dentro del período que dure la falta de Entero.
 
 Si durante el período que comprende la falta de Entero el Banco de México no da a conocer la tasa de interés a que se refiere el párrafo anterior, se utilizará la que resulte del promedio aritmético de las tasas de rendimiento equivalentes a las tasas de descuento de los Certificados de la Tesorería de la Federación a noventa y un días en colocación primaria, que haya dado a conocer el Banco de México en el mes inmediato anterior al de la fecha en que se originó la falta de Entero.
 

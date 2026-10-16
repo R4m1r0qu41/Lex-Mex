@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 8
 
-Las disposiciones, procedimientos y requisitos que emita la Secretaría de la Función Pública de conformidad con el artículo 12 de la [Ley](articulo-2.md), se difundirán a través de CompraNet y se aplicarán, con apoyo de los agentes financieros designados como tales por la Secretaría, por las dependencias y entidades responsables de ejercer recursos otorgados al Gobierno Federal o con su garantía por organismos financieros regionales o multilaterales.
+Las disposiciones, procedimientos y requisitos que emita la Secretaría de la Función Pública de conformidad con el artículo [12](../../lopsrm/markdown/articulo-12.md) de la [Ley](articulo-2.md), se difundirán a través de CompraNet y se aplicarán, con apoyo de los agentes financieros designados como tales por la Secretaría, por las dependencias y entidades responsables de ejercer recursos otorgados al Gobierno Federal o con su garantía por organismos financieros regionales o multilaterales.

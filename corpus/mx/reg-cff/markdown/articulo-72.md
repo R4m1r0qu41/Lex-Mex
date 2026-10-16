@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 72
 
-Para los efectos del artículo 69-F del [Código](articulo-1.md), el procedimiento de acuerdo conclusivo suspenderá los plazos previstos en la revisión electrónica a que se refiere el artículo 53-B del Código, para lo cual el contribuyente deberá manifestar en la solicitud correspondiente, su conformidad con la suspensión del citado plazo.
+Para los efectos del artículo [69-F](../../cff/markdown/articulo-69-F.md) del [Código](articulo-1.md), el procedimiento de acuerdo conclusivo suspenderá los plazos previstos en la revisión electrónica a que se refiere el artículo [53-B](../../cff/markdown/articulo-53-B.md) del Código, para lo cual el contribuyente deberá manifestar en la solicitud correspondiente, su conformidad con la suspensión del citado plazo.

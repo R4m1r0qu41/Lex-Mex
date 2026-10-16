@@ -1,6 +1,103 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:16:reference:48-49:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:16",
+    "source_span": "9",
+    "start_char": 48,
+    "end_char": 49,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:9",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:17:reference:30-32:14:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:17",
+    "source_span": "14",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:14",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:2:reference:28-29:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:2",
+    "source_span": "1",
+    "start_char": 28,
+    "end_char": 29,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:24:reference:97-99:18:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:24",
+    "source_span": "18",
+    "start_char": 97,
+    "end_char": 99,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:18",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:24:reference:883-885:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:24",
+    "source_span": "19",
+    "start_char": 883,
+    "end_char": 885,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:19",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 887,
+        "end_char": 898
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:29:reference:22-24:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:29",
+    "source_span": "20",
+    "start_char": 22,
+    "end_char": 24,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:20",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:3:reference:53-54:4:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:3",
     "source_span": "4",
@@ -28,6 +125,21 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:32:reference:92-94:28:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:32",
+    "source_span": "28",
+    "start_char": 92,
+    "end_char": 94,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:28",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -65,5 +177,64 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:4:reference:46-47:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:4",
+    "source_span": "2",
+    "start_char": 46,
+    "end_char": 47,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:2",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 17,
+        "end_char": 32
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:6:reference:148-149:6:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:6",
+    "source_span": "6",
+    "start_char": 148,
+    "end_char": 149,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:6",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:8:reference:77-78:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:8",
+    "source_span": "9",
+    "start_char": 77,
+    "end_char": 78,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:9",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y II",
+        "start_char": 46,
+        "end_char": 63
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   }
 ]

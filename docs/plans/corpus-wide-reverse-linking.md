@@ -36,8 +36,8 @@ Local `main` at `25732f3ef` (`chore: remove misplaced nota-viabilidad comites ba
 | Relinked and validated | 304 |
 | Unchanged | 150 |
 | Held at previous graph | 21 (see below) |
-| References | 27,429 → 30,436 |
-| Resolved cross-instrument edges | 4,312 |
+| References | 27,429 → 35,893 |
+| Resolved cross-instrument edges | 9,769 |
 | Retargeted edges (all reviewed) | 44 |
 | Removed internal edges (all reviewed) | 54 (13 re-spanned to the full suffix, 41 false links to another named law) |
 | Removed cross-instrument edges | 0 |

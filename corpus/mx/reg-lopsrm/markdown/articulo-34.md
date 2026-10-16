@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 34
 
-Las dependencias y entidades, al elaborar su convocatoria a la licitación pública, deberán considerar además de los requisitos previstos en el artículo 31 de la [Ley](articulo-2.md), lo siguiente:
+Las dependencias y entidades, al elaborar su convocatoria a la licitación pública, deberán considerar además de los requisitos previstos en el artículo [31](../../lopsrm/markdown/articulo-31.md) de la [Ley](articulo-2.md), lo siguiente:
 
 I. La presentación de proposiciones por parte de los licitantes debe ser completa, uniforme y ordenada, en atención a las características, complejidad y magnitud de los trabajos a realizar, y hacerse preferentemente en formato basado en los instructivos expedidos por las dependencias o entidades. En caso de que el licitante presente otro formato, éste debe cumplir con cada uno de los requisitos exigidos por las convocantes; Fracción reformada DOF 27-09-2022
 
@@ -43,4 +43,4 @@ X. La indicación de que el licitante adjudicado deberá presentar para llevar a
 
 El modelo de contrato que se incorpore en la convocatoria a la licitación pública, será aquél que haya aprobado la Secretaría y se encuentra publicado en CompraNet. Párrafo adicionado DOF 02-06-2022
 
-El [Proyecto de convocatoria](articulo-2.md) que las dependencias y entidades difundan a través de CompraNet, de acuerdo a lo dispuesto por el artículo 31 de la Ley, se sujetará en lo general a los términos establecidos en este artículo.
+El [Proyecto de convocatoria](articulo-2.md) que las dependencias y entidades difundan a través de CompraNet, de acuerdo a lo dispuesto por el artículo [31](../../lopsrm/markdown/articulo-31.md) de la Ley, se sujetará en lo general a los términos establecidos en este artículo.

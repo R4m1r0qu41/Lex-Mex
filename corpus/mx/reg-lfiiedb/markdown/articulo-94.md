@@ -17,4 +17,4 @@ source_sha256: 85d60fd8e0d0d2dac1758f672c5b2200ee6e501eecd8c635b0ac89a93d930b97
 
 # Artículo 94
 
-En términos del artículo 45 de la Ley, son Proyectos susceptibles de ser beneficiarios de las Acciones de Fomento, aquellos Proyectos que cumplan los requisitos establecidos por la Ley.
+En términos del artículo [45](../../lfiiedb/markdown/articulo-45.md) de la Ley, son Proyectos susceptibles de ser beneficiarios de las Acciones de Fomento, aquellos Proyectos que cumplan los requisitos establecidos por la Ley.

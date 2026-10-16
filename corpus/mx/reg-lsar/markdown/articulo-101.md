@@ -17,4 +17,4 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 101
 
-El periodo de vigencia del registro de actuario autorizado para dictaminar planes de pensiones conforme a lo establecido en el artículo 82 de la [Ley](articulo-2o.md), así como el correspondiente a sus revalidaciones, será de tres años.
+El periodo de vigencia del registro de actuario autorizado para dictaminar planes de pensiones conforme a lo establecido en el artículo [82](../../lsar/markdown/articulo-82.md) de la [Ley](articulo-2o.md), así como el correspondiente a sus revalidaciones, será de tres años.

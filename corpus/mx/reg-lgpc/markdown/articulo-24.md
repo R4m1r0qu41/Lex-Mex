@@ -17,4 +17,4 @@ source_sha256: 5018478a6ca9ea39f9ca88ffcb68dde9a33bd4adec59dc75d2431f894b621fc2
 
 # Artículo 24
 
-Para los efectos de lo dispuesto por el artículo 21 de la [Ley](articulo-2.md), los casos que requieren de una intervención especializada para la atención de una Emergencia o Desastre, son los originados por los Fenómenos Geológicos, Hidrometeorológicos, Químico-Tecnológico, Sanitario-Ecológico y Socio- Organizativos.
+Para los efectos de lo dispuesto por el artículo [21](../../lgpc/markdown/articulo-21.md) de la [Ley](articulo-2.md), los casos que requieren de una intervención especializada para la atención de una Emergencia o Desastre, son los originados por los Fenómenos Geológicos, Hidrometeorológicos, Químico-Tecnológico, Sanitario-Ecológico y Socio- Organizativos.

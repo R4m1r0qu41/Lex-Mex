@@ -17,7 +17,7 @@ source_sha256: 9ff708994e8bad54142e90da50dd0ffe7c58b739b77d89c5c31a5162abfb1429
 
 # Artículo 27
 
-Para realizar Trasplantes entre vivos, cuando el Receptor, el Donador o ambos, sean extranjeros, además de cumplir con lo señalado en el artículo 333 de la [Ley](articulo-2.md), se estará a lo siguiente:
+Para realizar Trasplantes entre vivos, cuando el Receptor, el Donador o ambos, sean extranjeros, además de cumplir con lo señalado en el artículo [333](../../lgs/markdown/articulo-333.md) de la [Ley](articulo-2.md), se estará a lo siguiente:
 
 I. En los casos en que no exista parentesco entre el Donador y el Receptor:
 

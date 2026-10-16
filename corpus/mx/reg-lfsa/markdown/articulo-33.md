@@ -17,4 +17,4 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 33
 
-Para efectos de la determinación conjunta de los puntos de ingreso a que se refiere el artículo 37 de la [Ley](articulo-2.md), se deberán tomar en cuenta los siguientes criterios: infraestructura, materiales, equipos, personal, condiciones para la inspección y certificación del cumplimiento de disposiciones de sanidad animal y de reducción de riesgos de contaminación aplicables, así como el riesgo zoosanitario asociado.
+Para efectos de la determinación conjunta de los puntos de ingreso a que se refiere el artículo [37](../../lfsa/markdown/articulo-37.md) de la [Ley](articulo-2.md), se deberán tomar en cuenta los siguientes criterios: infraestructura, materiales, equipos, personal, condiciones para la inspección y certificación del cumplimiento de disposiciones de sanidad animal y de reducción de riesgos de contaminación aplicables, así como el riesgo zoosanitario asociado.

@@ -17,6 +17,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 170
 
-Los afectados que hagan uso del derecho a que se refiere el artículo 115 de la "Ley", deberán presentar título o documento que compruebe fehacientemente su propiedad.
+Los afectados que hagan uso del derecho a que se refiere el artículo [115](../../lan/markdown/articulo-115.md) de la "Ley", deberán presentar título o documento que compruebe fehacientemente su propiedad.
 
 "La Comisión" llevará a cabo los estudios para determinar la parte proporcional de superficie que quede disponible para compensar al afectado. Los trabajos correspondientes serán con cargo a los beneficiarios.

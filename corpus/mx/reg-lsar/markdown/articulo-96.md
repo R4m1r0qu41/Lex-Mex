@@ -17,4 +17,4 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 96
 
-Los [Trabajadores Estatales o Municipales](articulo-2o.md), que tengan abierta una Cuenta individual en términos del artículo 74 quinquies de la [Ley](articulo-2o.md), podrán a su vez, tener una Cuenta Individual en la que se depositen los recursos provenientes de los regímenes previstos en los artículos 74, 74 bis y 74 ter de la Ley.
+Los [Trabajadores Estatales o Municipales](articulo-2o.md), que tengan abierta una Cuenta individual en términos del artículo [74 quinquies](../../lsar/markdown/articulo-74-quinquies.md) de la [Ley](articulo-2o.md), podrán a su vez, tener una Cuenta Individual en la que se depositen los recursos provenientes de los regímenes previstos en los artículos [74](../../lsar/markdown/articulo-74.md), [74 bis](../../lsar/markdown/articulo-74-bis.md) y [74 ter](../../lsar/markdown/articulo-74-ter.md) de la Ley.

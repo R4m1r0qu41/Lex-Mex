@@ -17,7 +17,7 @@ source_sha256: 70dc1863cee2a88911e43cefb51d1c2007e550a2a46f9e11d5569c1525667cfd
 
 # Artículo 19
 
-La [Asamblea](articulo-2º.md) podrá realizar, en los términos del artículo 56 de la [Ley](articulo-2º.md), las siguientes acciones sobre las tierras no formalmente parceladas:
+La [Asamblea](articulo-2º.md) podrá realizar, en los términos del artículo [56](../../lagra/markdown/articulo-56.md) de la [Ley](articulo-2º.md), las siguientes acciones sobre las tierras no formalmente parceladas:
 
 I. Destinarlas al asentamiento humano, al uso común o al parcelamiento;
 

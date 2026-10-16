@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 174
 
-La persona Permisionaria puede suspender los servicios o actividades en términos del artículo 119, fracción XII de la Ley y de la Normatividad que al efecto emitan la Secretaría o la Comisión, en el ámbito de sus competencias. Sin perjuicio de lo anterior, dicha persona Permisionaria no incurre en responsabilidad por suspensión del servicio o actividad, cuando esta se origine por caso fortuito o fuerza mayor.
+La persona Permisionaria puede suspender los servicios o actividades en términos del artículo [119](../../lsh/markdown/articulo-119.md), fracción XII de la Ley y de la Normatividad que al efecto emitan la Secretaría o la Comisión, en el ámbito de sus competencias. Sin perjuicio de lo anterior, dicha persona Permisionaria no incurre en responsabilidad por suspensión del servicio o actividad, cuando esta se origine por caso fortuito o fuerza mayor.

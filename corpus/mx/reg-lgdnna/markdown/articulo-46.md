@@ -17,4 +17,4 @@ source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 
 # Artículo 46
 
-La [Procuraduría Federal](articulo-2.md) coordinará, de conformidad con los convenios que al efecto se suscriban, las medidas para prevenir, atender y sancionar los casos en que los derechos de las niñas, niños o adolescentes se vean afectados, en particular por cualquiera de los supuestos previstos en el artículo 47 de la [Ley](articulo-2.md).
+La [Procuraduría Federal](articulo-2.md) coordinará, de conformidad con los convenios que al efecto se suscriban, las medidas para prevenir, atender y sancionar los casos en que los derechos de las niñas, niños o adolescentes se vean afectados, en particular por cualquiera de los supuestos previstos en el artículo [47](../../lgdnna/markdown/articulo-47.md) de la [Ley](articulo-2.md).

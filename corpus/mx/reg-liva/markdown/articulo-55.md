@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 55
 
-Para los efectos de lo dispuesto en el artículo 28 de la Ley, el impuesto que se pague en la importación de bienes tangibles, se enterará utilizando la forma por medio de la cual se efectúe el pago del impuesto general de importación, aun cuando no se deba pagar este último gravamen.
+Para los efectos de lo dispuesto en el artículo [28](../../liva/markdown/articulo-28.md) de la Ley, el impuesto que se pague en la importación de bienes tangibles, se enterará utilizando la forma por medio de la cual se efectúe el pago del impuesto general de importación, aun cuando no se deba pagar este último gravamen.

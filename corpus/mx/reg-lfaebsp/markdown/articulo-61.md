@@ -17,7 +17,7 @@ source_sha256: 9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3
 
 # Artículo 61
 
-Además de los supuestos previstos en el artículo 70 de la [Ley](articulo-1.md), el SAE podrá llevar a cabo la destrucción de bienes o encomendar a terceros especializados su destrucción, cuando:
+Además de los supuestos previstos en el artículo [70](../../lfaebsp/markdown/articulo-70.md) de la [Ley](articulo-1.md), el SAE podrá llevar a cabo la destrucción de bienes o encomendar a terceros especializados su destrucción, cuando:
 
 I. Los bienes sean incosteables, incluso para su venta;
 
@@ -27,7 +27,7 @@ III. Habiéndose agotado todos los procedimientos de enajenación, no exista per
 
 IV. La autoridad judicial o administrativa así lo determine, mediante la resolución correspondiente; Fracción reformada DOF 29-11-2006
 
-V. Haya transcurrido el plazo a que se refiere el segundo párrafo del artículo 6 ter de la Ley, sin que hayan sido enajenados los bienes provenientes de comercio exterior transferidos al SAE, y Fracción reformada DOF 29-11-2006
+V. Haya transcurrido el plazo a que se refiere el segundo párrafo del artículo [6 ter](../../lfaebsp/markdown/articulo-6-ter.md) de la Ley, sin que hayan sido enajenados los bienes provenientes de comercio exterior transferidos al SAE, y Fracción reformada DOF 29-11-2006
 
 VI. En los demás casos que determine la Junta de Gobierno. Fracción adicionada DOF 29-11-2006
 

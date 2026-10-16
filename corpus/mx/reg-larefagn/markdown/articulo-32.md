@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 32
 
-De conformidad con el artículo 8, fracción V, de la Ley, los cursos de formación, aplicación, capacitación, actualización, especialización, perfeccionamiento o los de carácter superior y demás que sean considerados como determinantes en materia de educación militar para obtener el grado inmediato superior, son los que para cada arma, servicio o guardia nacional especifica el Plan General de Educación Militar.
+De conformidad con el artículo [8](../../larefam/markdown/articulo-8.md), fracción V, de la Ley, los cursos de formación, aplicación, capacitación, actualización, especialización, perfeccionamiento o los de carácter superior y demás que sean considerados como determinantes en materia de educación militar para obtener el grado inmediato superior, son los que para cada arma, servicio o guardia nacional especifica el Plan General de Educación Militar.
 
 Artículo reformado DOF 20-03-2026

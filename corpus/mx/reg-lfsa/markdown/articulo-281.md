@@ -17,7 +17,7 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 281
 
-La Secretaría establecerá los procedimientos para la autorización de organismos auxiliares de sanidad animal, en términos del artículo 143 de la [Ley](articulo-2.md). Para obtener la autorización como organismo auxiliar de sanidad animal se deberá presentar solicitud por escrito, adjuntando la siguiente documentación:
+La Secretaría establecerá los procedimientos para la autorización de organismos auxiliares de sanidad animal, en términos del artículo [143](../../lfsa/markdown/articulo-143.md) de la [Ley](articulo-2.md). Para obtener la autorización como organismo auxiliar de sanidad animal se deberá presentar solicitud por escrito, adjuntando la siguiente documentación:
 
 I. Acta constitutiva o de asamblea protocolizada del Consejo Directivo, en su caso, que demuestre representación equitativa de las organizaciones de productores de la entidad;
 

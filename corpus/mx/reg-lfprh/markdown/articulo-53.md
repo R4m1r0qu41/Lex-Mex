@@ -17,6 +17,6 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 53
 
-Los programas y proyectos de inversión podrán contar con el dictamen favorable a que se refiere el artículo 34, fracción II de la [Ley](articulo-2.md), sobre el análisis de factibilidad técnica, económica y ambiental y, en su caso, sobre el proyecto ejecutivo de obra pública, cuando así lo determinen los lineamientos que al efecto emita la Secretaría. Dicho dictamen se deberá obtener antes de la emisión de los oficios de inversión correspondientes, o en los casos en que éstos no se requieran, antes de iniciar el procedimiento de contratación de que se trate, en los términos que establezcan los citados lineamientos.
+Los programas y proyectos de inversión podrán contar con el dictamen favorable a que se refiere el artículo [34](../../lfprh/markdown/articulo-34.md), fracción II de la [Ley](articulo-2.md), sobre el análisis de factibilidad técnica, económica y ambiental y, en su caso, sobre el proyecto ejecutivo de obra pública, cuando así lo determinen los lineamientos que al efecto emita la Secretaría. Dicho dictamen se deberá obtener antes de la emisión de los oficios de inversión correspondientes, o en los casos en que éstos no se requieran, antes de iniciar el procedimiento de contratación de que se trate, en los términos que establezcan los citados lineamientos.
 
 Artículo reformado DOF 05-09-2007, 04-09-2009, 25-04-2014, 08-08-2025

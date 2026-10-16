@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 104
 
-La visa de visitante sin permiso para realizar actividades remuneradas a que se refiere la fracción I del artículo 40 de la Ley, se expedirá a las personas extranjeras que deseen permanecer hasta ciento ochenta días naturales en el territorio nacional. El solicitante deberá demostrar alguno de los siguientes supuestos:
+La visa de visitante sin permiso para realizar actividades remuneradas a que se refiere la fracción I del artículo [40](../../lmigra/markdown/articulo-40.md) de la Ley, se expedirá a las personas extranjeras que deseen permanecer hasta ciento ochenta días naturales en el territorio nacional. El solicitante deberá demostrar alguno de los siguientes supuestos:
 
 I. Que existen elementos que lo motivan a regresar a su país;
 

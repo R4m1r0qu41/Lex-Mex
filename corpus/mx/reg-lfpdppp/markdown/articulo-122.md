@@ -17,6 +17,6 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 122
 
-Dictado el acuerdo que tenga por desahogadas todas las pruebas, se pondrán las actuaciones a disposición de las partes, para que éstos, en caso de quererlo, formulen alegatos en un plazo de cinco días, contados a partir de la notificación del acuerdo a que se refiere este artículo. Al término de dicho plazo, se cerrará la instrucción y el Instituto emitirá su resolución en el plazo establecido en el artículo 47 de la Ley.
+Dictado el acuerdo que tenga por desahogadas todas las pruebas, se pondrán las actuaciones a disposición de las partes, para que éstos, en caso de quererlo, formulen alegatos en un plazo de cinco días, contados a partir de la notificación del acuerdo a que se refiere este artículo. Al término de dicho plazo, se cerrará la instrucción y el Instituto emitirá su resolución en el plazo establecido en el artículo [47](../../lfpdppp/markdown/articulo-47.md) de la Ley.
 
 Tercero interesado

@@ -17,4 +17,4 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 69
 
-Para efectos del artículo 45 de la [Ley](articulo-2.md), la calificación de las garantías no fiscales consiste en la revisión que realicen la Tesorería o el Auxiliar de la información y datos contenidos en la garantía de que se trate, a fin de determinar si cumple o no con los requisitos para ser aceptada.
+Para efectos del artículo [45](../../ltf/markdown/articulo-45.md) de la [Ley](articulo-2.md), la calificación de las garantías no fiscales consiste en la revisión que realicen la Tesorería o el Auxiliar de la información y datos contenidos en la garantía de que se trate, a fin de determinar si cumple o no con los requisitos para ser aceptada.

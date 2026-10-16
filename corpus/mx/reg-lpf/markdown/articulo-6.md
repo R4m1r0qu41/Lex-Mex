@@ -31,7 +31,7 @@ VI. Solicitar a la autoridad judicial correspondiente, por escrito y a través d
 
 VII. Solicitar a la autoridad judicial correspondiente, por escrito y a través de cualquier medio, incluso aquéllos que los adelantos electrónicos y tecnológicos permitan, conforme a las disposiciones aplicables, la autorización para la intervención de comunicaciones privadas de conformidad con el Capítulo XI de la [Ley](articulo-2.md);
 
-VIII. Presenciar, de manera trimestral, ante la autoridad judicial competente la destrucción de la información resultado de las intervenciones a que se refiere el artículo 53 de la Ley.
+VIII. Presenciar, de manera trimestral, ante la autoridad judicial competente la destrucción de la información resultado de las intervenciones a que se refiere el artículo [53](../../lpf/markdown/articulo-53.md) de la Ley.
 
 Esta facultad podrá ser delegada al Jefe de la División de Inteligencia previo acuerdo publicado en el Diario Oficial de la Federación;
 
@@ -99,6 +99,6 @@ XLI. Autorizar los cambios de adscripción de los Integrantes, de acuerdo a las 
 
 XLII. Las demás que le confieran este Reglamento y otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.
 
-Para efectos del ejercicio de las atribuciones conferidas en las fracciones XXVIII y XXIX del artículo 8 de la Ley, el Comisionado General integrará un cuaderno de investigación, del cual se derivará la solicitud que formulará a la autoridad judicial correspondiente, y para el cumplimiento de la orden respectiva, podrá apoyarse en las unidades administrativas de la Institución de conformidad con las disposiciones establecidas en este Reglamento. La información contenida en el cuaderno de investigación será de carácter reservado.
+Para efectos del ejercicio de las atribuciones conferidas en las fracciones XXVIII y XXIX del artículo [8](../../lpf/markdown/articulo-8.md) de la Ley, el Comisionado General integrará un cuaderno de investigación, del cual se derivará la solicitud que formulará a la autoridad judicial correspondiente, y para el cumplimiento de la orden respectiva, podrá apoyarse en las unidades administrativas de la Institución de conformidad con las disposiciones establecidas en este Reglamento. La información contenida en el cuaderno de investigación será de carácter reservado.
 
 Son indelegables las atribuciones y funciones citadas en las fracciones I, III, V, VI, VII, XV, XXIV, XXV, XXVII, XXVIII y XXX del presente artículo.

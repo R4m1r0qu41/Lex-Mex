@@ -17,6 +17,6 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 31
 
-Se entenderá por valor mensual, para efectos del artículo 17, fracción XV, de la Ley, al monto de la renta o precio por el uso o goce temporal del bien inmueble arrendado en un mes calendario.
+Se entenderá por valor mensual, para efectos del artículo [17](../../lfpiorpi/markdown/articulo-17.md), fracción XV, de la Ley, al monto de la renta o precio por el uso o goce temporal del bien inmueble arrendado en un mes calendario.
 
 En caso de que el pago de la renta o precio del arrendamiento se pacte en una periodicidad distinta a la mensual, quien realice la Actividad Vulnerable deberá efectuar el cálculo correspondiente para efectos de determinar el valor mensual referido en el párrafo anterior.

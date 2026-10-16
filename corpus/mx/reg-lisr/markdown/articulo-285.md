@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 285
 
-Para efectos del artículo 161, párrafo octavo de la [Ley](articulo-1.md), y tratándose de enajenaciones de acciones entre partes relacionadas, el informe que el contador público inscrito emita en el dictamen sobre el valor contable de las acciones que se enajenan, deberá incluir lo siguiente:
+Para efectos del artículo [161](../../lisr/markdown/articulo-161.md), párrafo octavo de la [Ley](articulo-1.md), y tratándose de enajenaciones de acciones entre partes relacionadas, el informe que el contador público inscrito emita en el dictamen sobre el valor contable de las acciones que se enajenan, deberá incluir lo siguiente:
 
 I. En el caso de que se hubiera considerado el capital contable actualizado, se deberá citar en forma detallada el monto del capital contable histórico de la sociedad emisora de las acciones enajenadas y su respectiva actualización a la fecha de enajenación;
 

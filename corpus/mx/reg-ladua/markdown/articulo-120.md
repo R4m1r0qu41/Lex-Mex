@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 120
 
-Para efectos de lo dispuesto en el artículo 65, fracción lll de la [Ley](articulo-1.md), no se adicionarán al precio pagado por las Mercancías importadas, los derechos de reproducción de las Mercancías en territorio nacional.
+Para efectos de lo dispuesto en el artículo [65](../../ladua/markdown/articulo-65.md), fracción lll de la [Ley](articulo-1.md), no se adicionarán al precio pagado por las Mercancías importadas, los derechos de reproducción de las Mercancías en territorio nacional.

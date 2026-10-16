@@ -17,4 +17,4 @@ source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 
 # Artículo 83
 
-Para los efectos del artículo 334 de la Ley, se levantará acta pormenorizada con descripción del órgano o tejido de que se trate y los datos necesarios para su identificación. Además, se hará constar si se ordena la incineración o si se conserva o remite para efectos de investigación o docencia. El acta se complementará con la constancia de incineración, declaración de conservación o recibo en caso de remisión.
+Para los efectos del artículo [334](../../lgs/markdown/articulo-334.md) de la Ley, se levantará acta pormenorizada con descripción del órgano o tejido de que se trate y los datos necesarios para su identificación. Además, se hará constar si se ordena la incineración o si se conserva o remite para efectos de investigación o docencia. El acta se complementará con la constancia de incineración, declaración de conservación o recibo en caso de remisión.

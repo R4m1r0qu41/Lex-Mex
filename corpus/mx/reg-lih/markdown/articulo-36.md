@@ -17,6 +17,6 @@ source_sha256: c9996a72239837b24f45f4a49c4f117b1fe2b3b9faf2c3eb0e5ce00d8a991d53
 
 # Artículo 36
 
-Para los efectos del artículo 64, primero, segundo y tercer párrafos de la Ley, el cómputo de días de duración de las actividades a que se refiere la Ley del Sector Hidrocarburos, se debe considerar la totalidad de días naturales comprendidos entre el inicio y la terminación de las actividades.
+Para los efectos del artículo [64](../../lih/markdown/articulo-64.md), primero, segundo y tercer párrafos de la Ley, el cómputo de días de duración de las actividades a que se refiere la Ley del Sector Hidrocarburos, se debe considerar la totalidad de días naturales comprendidos entre el inicio y la terminación de las actividades.
 
 Artículo reformado DOF 03-10-2025

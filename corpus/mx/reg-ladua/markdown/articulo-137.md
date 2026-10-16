@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 137
 
-Para efectos del artículo 89 de la [Ley](articulo-1.md), la rectificación de los datos contenidos en los Pedimentos deberá realizarse mediante la presentación de un Pedimento de rectificación, el cual se deberá transmitir al [Sistema Electrónico Aduanero](articulo-1.md), señalando el número del Pedimento que se rectifica.
+Para efectos del artículo [89](../../ladua/markdown/articulo-89.md) de la [Ley](articulo-1.md), la rectificación de los datos contenidos en los Pedimentos deberá realizarse mediante la presentación de un Pedimento de rectificación, el cual se deberá transmitir al [Sistema Electrónico Aduanero](articulo-1.md), señalando el número del Pedimento que se rectifica.
 
 Para los efectos del párrafo anterior, se deberá cubrir el pago de los derechos previstos en la Ley Federal de Derechos.
 

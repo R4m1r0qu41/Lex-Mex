@@ -17,7 +17,7 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 # Artículo 45
 
-La [Dirección General](articulo-2.md), en términos del artículo 29 de la [Ley](articulo-2.md), verificará, autorizará y revalidará a los centros de capacitación privados que prestan servicios de capacitación y adiestramiento en materia de seguridad privada, integrando el padrón correspondiente.
+La [Dirección General](articulo-2.md), en términos del artículo [29](../../lfsp/markdown/articulo-29.md) de la [Ley](articulo-2.md), verificará, autorizará y revalidará a los centros de capacitación privados que prestan servicios de capacitación y adiestramiento en materia de seguridad privada, integrando el padrón correspondiente.
 
 Son requisitos para otorgar la autorización de centros de capacitación privada los siguientes:
 

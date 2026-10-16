@@ -17,4 +17,4 @@ source_sha256: fa76340e597a2214f73b039f2a89465f9c1037f7d1630a852689124478621873
 
 # Artículo 4o
 
-Los servidores públicos que se designen en los términos del artículo 33 de la [Ley](articulo-2o.md), para ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria, no deberán encontrarse inhabilitados para desempeñar un empleo, cargo o comisión en el servicio publico, y deberán tener la experiencia necesaria para el adecuado cumplimiento de la función que se les encomienda.
+Los servidores públicos que se designen en los términos del artículo [33](../../lfep/markdown/articulo-33.md) de la [Ley](articulo-2o.md), para ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria, no deberán encontrarse inhabilitados para desempeñar un empleo, cargo o comisión en el servicio publico, y deberán tener la experiencia necesaria para el adecuado cumplimiento de la función que se les encomienda.

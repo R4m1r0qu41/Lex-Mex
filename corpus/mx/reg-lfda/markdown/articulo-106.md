@@ -31,6 +31,6 @@ V. Proponer al Secretario la designación y remoción de los directores de área
 
 VI. Proponer la celebración de convenios y contratos que sean necesarios para el cumplimiento de las funciones del Instituto y, en su caso, elaborar los proyectos respectivos;
 
-VII. Proponer y publicar las tarifas para el pago de regalías a que se refiere el artículo 212 de la [Ley](articulo-2o.md), y
+VII. Proponer y publicar las tarifas para el pago de regalías a que se refiere el artículo [212](../../lfda/markdown/articulo-212.md) de la [Ley](articulo-2o.md), y
 
 VIII. Las demás que le confieran este ordenamiento y otras disposiciones legales.

@@ -17,7 +17,7 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 97
 
-Para efectos del artículo 53, fracción IX de la [Ley](articulo-2.md) se estará a lo siguiente:
+Para efectos del artículo [53](../../ltf/markdown/articulo-53.md), fracción IX de la [Ley](articulo-2.md) se estará a lo siguiente:
 
 I. Tratándose de servidores públicos:
 

@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 113
 
-Para efectos del artículo 69, párrafo último, de la Ley, se entiende por autodeclaración en la Evaluación de la Conformidad, la manifestación voluntaria y de buena fe que realizan los sujetos obligados respecto del cumplimiento de una Norma Oficial Mexicana o Estándar, sin la necesidad de acudir a un Organismo de Evaluación de la Conformidad. La autodeclaración no aplica para instrumentos sujetos a Control Metrológico Legal.
+Para efectos del artículo [69](../../lic-calidad/markdown/articulo-69.md), párrafo último, de la Ley, se entiende por autodeclaración en la Evaluación de la Conformidad, la manifestación voluntaria y de buena fe que realizan los sujetos obligados respecto del cumplimiento de una Norma Oficial Mexicana o Estándar, sin la necesidad de acudir a un Organismo de Evaluación de la Conformidad. La autodeclaración no aplica para instrumentos sujetos a Control Metrológico Legal.

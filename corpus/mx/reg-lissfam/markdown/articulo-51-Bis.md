@@ -17,6 +17,6 @@ source_sha256: c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a
 
 # Artículo 51 Bis
 
-Los créditos hipotecarios mancomunados a que se refiere el segundo párrafo de la fracción IV del artículo 108 de la Ley, se otorgarán de conformidad con las condiciones y requisitos establecidos en los convenios que se suscriban entre este Instituto y el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, la Comisión Nacional de Vivienda o cualquier otra institución de seguridad social que otorgue esta prestación.
+Los créditos hipotecarios mancomunados a que se refiere el segundo párrafo de la fracción IV del artículo [108](../../lissfam/markdown/articulo-108.md) de la Ley, se otorgarán de conformidad con las condiciones y requisitos establecidos en los convenios que se suscriban entre este Instituto y el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, la Comisión Nacional de Vivienda o cualquier otra institución de seguridad social que otorgue esta prestación.
 
 Artículo adicionado DOF 11-10-2018

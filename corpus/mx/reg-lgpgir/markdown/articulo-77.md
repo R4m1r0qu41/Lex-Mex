@@ -31,8 +31,8 @@ III. Obligación solidaria asumida por tercero que compruebe su idoneidad y solv
 
 IV. Prenda o hipoteca, o
 
-V. Títulos valor o cartera de créditos del interesado, en caso de que se demuestre la imposibilidad de exhibir alguna otra garantía financiera, los cuales se aceptarán al valor que para cada caso fije la Secretaría conforme a los criterios establecidos en el artículo 82 de la Ley.
+V. Títulos valor o cartera de créditos del interesado, en caso de que se demuestre la imposibilidad de exhibir alguna otra garantía financiera, los cuales se aceptarán al valor que para cada caso fije la Secretaría conforme a los criterios establecidos en el artículo [82](../../lgpgir/markdown/articulo-82.md) de la Ley.
 
 31 La Secretaría vigilará que las garantías sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación. En ningún caso se podrá dispensar el otorgamiento de la garantía. Sin perjuicio de lo que establezcan otras disposiciones legales.
 
-La Secretaría establecerá las metodologías para la fijación de los montos de los seguros y garantías, conforme a lo dispuesto en el artículo 82 de la Ley, mediante Acuerdo que publicará en el Diario Oficial de la Federación.
+La Secretaría establecerá las metodologías para la fijación de los montos de los seguros y garantías, conforme a lo dispuesto en el artículo [82](../../lgpgir/markdown/articulo-82.md) de la Ley, mediante Acuerdo que publicará en el Diario Oficial de la Federación.

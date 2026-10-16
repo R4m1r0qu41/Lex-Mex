@@ -17,4 +17,4 @@ source_sha256: 50d888e53a7b0990f6d19dbab03d263e01ca7d4a4365a0c2663e03caf9f2715c
 
 # Artículo 57
 
-Para la imposición de las sanciones a que se refiere el artículo 31 de la [Ley](articulo-2.md), se observarán las disposiciones aplicables de la Ley Federal de Procedimiento Administrativo.
+Para la imposición de las sanciones a que se refiere el artículo [31](../../lffaosc/markdown/articulo-31.md) de la [Ley](articulo-2.md), se observarán las disposiciones aplicables de la Ley Federal de Procedimiento Administrativo.

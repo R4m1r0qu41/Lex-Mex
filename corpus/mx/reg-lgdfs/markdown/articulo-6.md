@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 6
 
-El instrumento de información a que se refiere el artículo 24 de la [Ley](articulo-2.md) se establecerá mediante Acuerdo que expidan conjuntamente la Secretaría y la Secretaría de Agricultura y Desarrollo Rural, el cual se publicará en el Diario Oficial de la Federación. Dicho Acuerdo contendrá por lo menos lo siguiente:
+El instrumento de información a que se refiere el artículo [24](../../lgdfs/markdown/articulo-24.md) de la [Ley](articulo-2.md) se establecerá mediante Acuerdo que expidan conjuntamente la Secretaría y la Secretaría de Agricultura y Desarrollo Rural, el cual se publicará en el Diario Oficial de la Federación. Dicho Acuerdo contendrá por lo menos lo siguiente:
 
 I. Los sistemas de información, bases de datos y datos georeferenciados que permitan identificar si los predios que sean susceptibles de apoyos y estímulos económicos para la realización de actividades agropecuarias se encuentran dentro de Terrenos forestales. Dichos sistemas, bases y datos podrán integrarse en plataformas o cualquier medio digital que ambas dependencias determinen, y
 

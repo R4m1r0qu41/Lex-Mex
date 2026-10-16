@@ -17,6 +17,6 @@ source_sha256: c9996a72239837b24f45f4a49c4f117b1fe2b3b9faf2c3eb0e5ce00d8a991d53
 
 # Artículo 13
 
-En el supuesto señalado en el artículo 34, párrafo tercero de la Ley, la Secretaría de Energía entregará a la Secretaría lo señalado en el artículo [5](articulo-5.md) de este Reglamento, así como la propuesta de términos de asociación y del acuerdo de operación conjunta.
+En el supuesto señalado en el artículo [34](../../lih/markdown/articulo-34.md), párrafo tercero de la Ley, la Secretaría de Energía entregará a la Secretaría lo señalado en el artículo [5](articulo-5.md) de este Reglamento, así como la propuesta de términos de asociación y del acuerdo de operación conjunta.
 
 En estos casos, será aplicable lo señalado en los párrafos segundo y tercero del [artículo anterior](articulo-12.md).

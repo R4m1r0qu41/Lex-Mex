@@ -23,7 +23,7 @@ I. La solicitud deberá presentarse mediante el formato correspondiente ante la 
 
 III. La oficina de atención a trámites no requerirá entrevistar a la persona extranjera o solicitar requisitos incluida la multa, puesto que dichos elementos se acreditaron en la estación migratoria.
 
-En caso de duda o irregularidad, podrá requerir a la persona extranjera información complementaria a través de una prevención debidamente fundada y motivada en términos de lo señalado en el artículo 130 de la Ley.
+En caso de duda o irregularidad, podrá requerir a la persona extranjera información complementaria a través de una prevención debidamente fundada y motivada en términos de lo señalado en el artículo [130](../../lmigra/markdown/articulo-130.md) de la Ley.
 
 La autoridad migratoria podrá allegarse de los medios de prueba que estime conveniente para mejor proveer. En caso de duda sobre la legitimidad de los datos o documentos presentados, podrá solicitar la opinión de las autoridades competentes, o bien, solicitar una visita de verificación migratoria, y
 

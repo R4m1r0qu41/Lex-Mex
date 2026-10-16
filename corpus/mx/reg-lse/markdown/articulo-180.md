@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 180
 
-La Secretaría debe establecer a través de disposiciones administrativas de carácter general, los instrumentos, mecanismos y requisitos de transición energética y descarbonización que se establecen en el artículo 147 de la Ley.
+La Secretaría debe establecer a través de disposiciones administrativas de carácter general, los instrumentos, mecanismos y requisitos de transición energética y descarbonización que se establecen en el artículo [147](../../lse/markdown/articulo-147.md) de la Ley.

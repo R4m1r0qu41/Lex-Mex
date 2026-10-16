@@ -49,4 +49,4 @@ XV. El señalamiento de si la donación se hace a favor de alguna persona o inst
 
 XVI. Las demás circunstancias de modo, lugar y tiempo que considere pertinentes el donante, así como cualquier otra que condicione la donación.
 
-Tratándose de donación entre personas en las que no exista algún tipo de parentesco, se deberá exhibir además, el consentimiento expreso otorgado ante notario público, en términos de lo dispuesto por el artículo 333, fracción VI, inciso b), de la [Ley](articulo-2.md).
+Tratándose de donación entre personas en las que no exista algún tipo de parentesco, se deberá exhibir además, el consentimiento expreso otorgado ante notario público, en términos de lo dispuesto por el artículo [333](../../lgs/markdown/articulo-333.md), fracción VI, inciso b), de la [Ley](articulo-2.md).

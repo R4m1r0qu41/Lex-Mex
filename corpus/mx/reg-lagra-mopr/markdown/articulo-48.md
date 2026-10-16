@@ -17,4 +17,4 @@ source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 
 # Artículo 48
 
-[La Secretaría](articulo-2o.md) solicitará a la autoridad estatal de que se trate, la enajenación correspondiente. El expediente que al efecto remita la Secretaría, deberá contener la resolución y los trabajos técnicos de fraccionamiento del excedente, para que se aplique el procedimiento previsto en el artículo 124 de la Ley.
+[La Secretaría](articulo-2o.md) solicitará a la autoridad estatal de que se trate, la enajenación correspondiente. El expediente que al efecto remita la Secretaría, deberá contener la resolución y los trabajos técnicos de fraccionamiento del excedente, para que se aplique el procedimiento previsto en el artículo [124](../../lagra/markdown/articulo-124.md) de la Ley.

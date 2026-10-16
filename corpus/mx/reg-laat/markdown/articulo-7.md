@@ -17,7 +17,7 @@ source_sha256: c1c2979863552f79416de98fc49cc4898abefac47eb223de3c163a49b793273b
 
 # Artículo 7
 
-Para efectos del artículo 12 de la [Ley](articulo-2.md), queda prohibido para los propietarios y responsables de [Comedores](articulo-2.md), [Restaurantes o Establecimientos de Consumo de Alimentos](articulo-2.md); los [Proveedores de Despensa](articulo-2.md) y las [Emisoras de Vales](articulo-2.md), que se encuentren dentro de un esquema de ayuda alimentaria implementado por un patrón para sus Trabajadores, además de lo establecido en dicho artículo, lo siguiente:
+Para efectos del artículo [12](../../laat/markdown/articulo-12.md) de la [Ley](articulo-2.md), queda prohibido para los propietarios y responsables de [Comedores](articulo-2.md), [Restaurantes o Establecimientos de Consumo de Alimentos](articulo-2.md); los [Proveedores de Despensa](articulo-2.md) y las [Emisoras de Vales](articulo-2.md), que se encuentren dentro de un esquema de ayuda alimentaria implementado por un patrón para sus Trabajadores, además de lo establecido en dicho artículo, lo siguiente:
 
 I. Recibir Vales de [Comida](articulo-2.md) o Despensa fuera de su periodo de vigencia. En el caso de los Vales de Comida, su vigencia será de sesenta días naturales contados a partir de la fecha de su emisión;
 

@@ -17,7 +17,7 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 19
 
-Para la apertura de las cuentas bancarias a que se refiere el artículo 18, cuarto párrafo de la [Ley](articulo-2.md), las Dependencias y Entidades deberán suscribir los contratos respectivos por conducto del servidor público que cuente con facultades para ello. Dichas cuentas bancarias deberán contener las características siguientes:
+Para la apertura de las cuentas bancarias a que se refiere el artículo [18](../../ltf/markdown/articulo-18.md), cuarto párrafo de la [Ley](articulo-2.md), las Dependencias y Entidades deberán suscribir los contratos respectivos por conducto del servidor público que cuente con facultades para ello. Dichas cuentas bancarias deberán contener las características siguientes:
 
 I. Tratándose de Dependencias, tener por objeto exclusivamente la recepción de recursos públicos federales o el pago con los mismos.
 

@@ -15,4 +15,4 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 # Artículo 240
 
-Los permisos temporales de Navegación a que se refiere el artículo 40 de la [Ley](articulo-10.md), que se otorguen a Embarcaciones extranjeras cuando no las haya de Bandera Mexicana disponible, tendrán una vigencia de tres meses. Los interesados podrán solicitar la prórroga de estos permisos, siempre y cuando persistan las mismas circunstancias que dieron origen a su otorgamiento, debiendo presentar únicamente los certificados, contratos y seguros que hayan perdido vigencia.
+Los permisos temporales de Navegación a que se refiere el artículo [40](../../lncm/markdown/articulo-40.md) de la [Ley](articulo-10.md), que se otorguen a Embarcaciones extranjeras cuando no las haya de Bandera Mexicana disponible, tendrán una vigencia de tres meses. Los interesados podrán solicitar la prórroga de estos permisos, siempre y cuando persistan las mismas circunstancias que dieron origen a su otorgamiento, debiendo presentar únicamente los certificados, contratos y seguros que hayan perdido vigencia.

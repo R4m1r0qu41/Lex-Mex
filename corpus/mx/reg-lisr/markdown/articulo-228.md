@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 228
 
-Las instituciones de crédito o casas de bolsa que intervengan en la enajenación de los títulos a que se refiere el artículo 8 de la [Ley](articulo-1.md), efectuarán la retención del [Impuesto](articulo-1.md) señalada en el artículo 135 de la Ley, en cuyo caso, quienes paguen los ingresos no estarán obligadas a efectuar la retención.
+Las instituciones de crédito o casas de bolsa que intervengan en la enajenación de los títulos a que se refiere el artículo [8](../../lisr/markdown/articulo-8.md) de la [Ley](articulo-1.md), efectuarán la retención del [Impuesto](articulo-1.md) señalada en el artículo [135](../../lisr/markdown/articulo-135.md) de la Ley, en cuyo caso, quienes paguen los ingresos no estarán obligadas a efectuar la retención.
 
 Los intermediarios financieros a que se refiere el párrafo anterior, no estarán obligados a efectuar la retención antes referida, cuando los títulos mencionados se depositen en una institución de crédito o casa de bolsa, distinta de la que intervino en su adquisición o en una institución para el depósito de valores a que se refiere la Ley del Mercado de Valores, para su custodia y administración, siempre que estas instituciones o casas de bolsa efectúen la retención del Impuesto por los ingresos que se deriven de dichos títulos, en cuyo caso, quienes paguen los ingresos no estarán obligados a efectuar la retención.
 
@@ -39,9 +39,9 @@ VI. El emisor de los títulos, y
 
 VII. El número de serie y cupón. Las personas que proporcionen la información necesaria en términos de este artículo, no estarán obligadas a retener el Impuesto correspondiente, siempre y cuando la transmitan al momento en que se realiza la transferencia de los títulos para su custodia y administración.
 
-En el supuesto de que una institución de crédito o casa de bolsa, no intervenga en la adquisición de los títulos a que se refiere el artículo 8 de la Ley, el enajenante de los títulos deberá acumular a sus demás ingresos la ganancia obtenida.
+En el supuesto de que una institución de crédito o casa de bolsa, no intervenga en la adquisición de los títulos a que se refiere el artículo [8](../../lisr/markdown/articulo-8.md) de la Ley, el enajenante de los títulos deberá acumular a sus demás ingresos la ganancia obtenida.
 
-Las instituciones de crédito y las casas de bolsa que celebren operaciones de reporto con los títulos a que se refiere el artículo 8 de la Ley, efectuarán la retención que corresponda en términos de las disposiciones fiscales, por los premios que se paguen. No se efectuará la retención mencionada cuando el reportador sea una institución de crédito o casa de bolsa del país.
+Las instituciones de crédito y las casas de bolsa que celebren operaciones de reporto con los títulos a que se refiere el artículo [8](../../lisr/markdown/articulo-8.md) de la Ley, efectuarán la retención que corresponda en términos de las disposiciones fiscales, por los premios que se paguen. No se efectuará la retención mencionada cuando el reportador sea una institución de crédito o casa de bolsa del país.
 
 En los casos en donde la enajenación de los títulos a que se refiere el párrafo primero de este artículo se realice en un plazo distinto al anual, la retención se podrá calcular aplicando al precio de adquisición del título de que se trate, el factor que resulte de multiplicar el número de días transcurridos entre la fecha de adquisición y la de su enajenación o redención, por el cociente que resulte de dividir la tasa impositiva aplicable entre 365. Este cociente se calculará hasta el millonésimo.
 

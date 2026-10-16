@@ -17,7 +17,7 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 100
 
-Para ser registrado como actuario autorizado para dictaminar planes de pensiones ante la Comisión en términos de lo dispuesto por el artículo 82 de la [Ley](articulo-2o.md), se requiere:
+Para ser registrado como actuario autorizado para dictaminar planes de pensiones ante la Comisión en términos de lo dispuesto por el artículo [82](../../lsar/markdown/articulo-82.md) de la [Ley](articulo-2o.md), se requiere:
 
 I. Presentar la solicitud correspondiente ante la Comisión;
 

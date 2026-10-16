@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 71
 
-El aviso para el aprovechamiento de Recursos forestales no maderables a que se refiere el artículo 84 de la [Ley](articulo-2.md), deberá presentarse ante la Secretaría mediante formato que contenga el nombre o denominación o razón social y domicilio del propietario o poseedor del predio o [Conjunto de predios](articulo-2.md) y, en su caso, número de oficio de la autorización en materia de impacto ambiental.
+El aviso para el aprovechamiento de Recursos forestales no maderables a que se refiere el artículo [84](../../lgdfs/markdown/articulo-84.md) de la [Ley](articulo-2.md), deberá presentarse ante la Secretaría mediante formato que contenga el nombre o denominación o razón social y domicilio del propietario o poseedor del predio o [Conjunto de predios](articulo-2.md) y, en su caso, número de oficio de la autorización en materia de impacto ambiental.
 
 Asimismo, con el aviso a que se refiere el presente artículo deberá presentarse lo siguiente:
 

@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 48
 
-Para los efectos de lo dispuesto en el artículo 42, último párrafo del [Código](articulo-1.md), las [Autoridades Fiscales](articulo-1.md) informarán al contribuyente, a su representante legal, y tratándose de personas morales también a sus órganos de dirección, de los hechos u omisiones que se vayan conociendo en el desarrollo de las facultades previstas en las fracciones II, III o IX del citado precepto.
+Para los efectos de lo dispuesto en el artículo [42](../../cff/markdown/articulo-42.md), último párrafo del [Código](articulo-1.md), las [Autoridades Fiscales](articulo-1.md) informarán al contribuyente, a su representante legal, y tratándose de personas morales también a sus órganos de dirección, de los hechos u omisiones que se vayan conociendo en el desarrollo de las facultades previstas en las fracciones II, III o IX del citado precepto.

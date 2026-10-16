@@ -51,6 +51,6 @@ VIII. El orden del día de las sesiones ordinarias contendrá un apartado corres
 
 IX. En la última sesión de cada ejercicio fiscal se presentará a consideración del Comité el calendario de sesiones ordinarias del siguiente ejercicio.
 
-En la primera sesión ordinaria del ejercicio fiscal se analizará, previo a su difusión en CompraNet y en la página de Internet de la dependencia o entidad, el programa anual de obras y servicios autorizado y se determinará la ubicación de la dependencia o entidad en los rangos de los montos máximos a que alude el artículo 43 de la [Ley](articulo-2.md), a partir del presupuesto autorizado a la dependencia o entidad para obras y servicios, y
+En la primera sesión ordinaria del ejercicio fiscal se analizará, previo a su difusión en CompraNet y en la página de Internet de la dependencia o entidad, el programa anual de obras y servicios autorizado y se determinará la ubicación de la dependencia o entidad en los rangos de los montos máximos a que alude el artículo [43](../../lopsrm/markdown/articulo-43.md) de la [Ley](articulo-2.md), a partir del presupuesto autorizado a la dependencia o entidad para obras y servicios, y
 
 X. El contenido de la información y documentación que se someta a la consideración del Comité serán de la exclusiva responsabilidad del área que las formule.

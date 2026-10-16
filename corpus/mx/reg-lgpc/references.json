@@ -16,6 +16,36 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:102:reference:125-127:58:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:102",
+    "source_span": "58",
+    "start_char": 125,
+    "end_char": 127,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:58",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:109:reference:43-45:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:109",
+    "source_span": "21",
+    "start_char": 43,
+    "end_char": 45,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:113:reference:208-225:112:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:113",
     "source_span": "artículo anterior",
@@ -28,6 +58,28 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:114:reference:165-167:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:114",
+    "source_span": "19",
+    "start_char": 165,
+    "end_char": 167,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:19",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XXII",
+        "start_char": 169,
+        "end_char": 182
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -121,6 +173,73 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:23:reference:185-187:50:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:23",
+    "source_span": "50",
+    "start_char": 185,
+    "end_char": 187,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:50",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:24:reference:49-51:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:24",
+    "source_span": "21",
+    "start_char": 49,
+    "end_char": 51,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:26:reference:47-49:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:26",
+    "source_span": "21",
+    "start_char": 47,
+    "end_char": 49,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:27:reference:877-879:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:27",
+    "source_span": "21",
+    "start_char": 877,
+    "end_char": 879,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:21",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 849,
+        "end_char": 863
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:28:reference:50-67:27:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:28",
     "source_span": "artículo anterior",
@@ -136,6 +255,184 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:31:reference:124-126:71:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:31",
+    "source_span": "71",
+    "start_char": 124,
+    "end_char": 126,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:71",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:31:reference:345-347:68:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:31",
+    "source_span": "68",
+    "start_char": 345,
+    "end_char": 347,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:68",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:47:reference:478-480:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:47",
+    "source_span": "20",
+    "start_char": 478,
+    "end_char": 480,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:20",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49:reference:348-350:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49",
+    "source_span": "19",
+    "start_char": 348,
+    "end_char": 350,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:19",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XXI",
+        "start_char": 352,
+        "end_char": 364
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49:reference:828-830:29:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49",
+    "source_span": "29",
+    "start_char": 828,
+    "end_char": 830,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:29",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 832,
+        "end_char": 844
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49:reference:1089-1091:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:49",
+    "source_span": "19",
+    "start_char": 1089,
+    "end_char": 1091,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:19",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones XIX y XXV",
+        "start_char": 1093,
+        "end_char": 1113
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:5:reference:52-54:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:5",
+    "source_span": "19",
+    "start_char": 52,
+    "end_char": 54,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:53:reference:221-223:34:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:53",
+    "source_span": "34",
+    "start_char": 221,
+    "end_char": 223,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:34",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 225,
+        "end_char": 235
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:55:reference:74-76:33:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:55",
+    "source_span": "33",
+    "start_char": 74,
+    "end_char": 76,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:33",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:56:reference:314-316:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:56",
+    "source_span": "20",
+    "start_char": 314,
+    "end_char": 316,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:20",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:60:reference:370-387:59:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:60",
     "source_span": "artículo anterior",
@@ -148,6 +445,71 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:7:reference:1743-1745:63:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:7",
+    "source_span": "63",
+    "start_char": 1743,
+    "end_char": 1745,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:63",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:71:reference:572-574:43:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:71",
+    "source_span": "43",
+    "start_char": 572,
+    "end_char": 574,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:43",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 576,
+        "end_char": 587
+      },
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 660,
+        "end_char": 674
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:71:reference:688-690:41:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:71",
+    "source_span": "41",
+    "start_char": 688,
+    "end_char": 690,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:41",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 660,
+        "end_char": 674
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -173,6 +535,36 @@
     "end_char": 337,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgpc",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:111",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:8:reference:63-65:51:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:8",
+    "source_span": "51",
+    "start_char": 63,
+    "end_char": 65,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:51",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:81:reference:197-199:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:81",
+    "source_span": "11",
+    "start_char": 197,
+    "end_char": 199,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:11",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -241,6 +633,36 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:86:reference:590-592:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:86",
+    "source_span": "11",
+    "start_char": 590,
+    "end_char": 592,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:11",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:9:reference:142-144:51:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:9",
+    "source_span": "51",
+    "start_char": 142,
+    "end_char": 144,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:51",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:90:reference:127-129:80:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:90",
     "source_span": "80",
@@ -248,6 +670,36 @@
     "end_char": 129,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgpc",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:80",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:91:reference:144-146:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:91",
+    "source_span": "11",
+    "start_char": 144,
+    "end_char": 146,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:11",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:99:reference:203-205:63:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:99",
+    "source_span": "63",
+    "start_char": 203,
+    "end_char": 205,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgpc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgpc:article:63",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

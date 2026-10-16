@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 13
 
-Para efectos de lo dispuesto en el artículo 32 de la Ley, las autoridades e instituciones de asistencia pública que se subroguen en los servicios que presten las autoridades obligadas en materia de desarrollo social, de salud y de educación, son las siguientes:
+Para efectos de lo dispuesto en el artículo [32](../../lgv/markdown/articulo-32.md) de la Ley, las autoridades e instituciones de asistencia pública que se subroguen en los servicios que presten las autoridades obligadas en materia de desarrollo social, de salud y de educación, son las siguientes:
 
 I. El Sistema Nacional para el Desarrollo Integral de la Familia;
 

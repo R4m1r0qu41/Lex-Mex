@@ -17,7 +17,7 @@ source_sha256: 2e108436f6d845ebce30713fd69eacf1a741bfcea24f4b64837c2e9366e87b4d
 
 # Artículo 4
 
-Los acuerdos, convenios y demás instrumentos de coordinación y de concertación previstos en los artículos 4, 12, fracción IV, 18, fracción VII, 26, 20, fracciones II y III, 29, 34, 38, 40 y 42 de la [Ley](articulo-2.md); deberán prever al menos lo siguiente:
+Los acuerdos, convenios y demás instrumentos de coordinación y de concertación previstos en los artículos [4](../../lgcdc/markdown/articulo-4.md), [12](../../lgcdc/markdown/articulo-12.md), fracción IV, [18](../../lgcdc/markdown/articulo-18.md), fracción VII, [26](../../lgcdc/markdown/articulo-26.md), [20](../../lgcdc/markdown/articulo-20.md), fracciones II y III, [29](../../lgcdc/markdown/articulo-29.md), [34](../../lgcdc/markdown/articulo-34.md), [38](../../lgcdc/markdown/articulo-38.md), [40](../../lgcdc/markdown/articulo-40.md) y [42](../../lgcdc/markdown/articulo-42.md) de la [Ley](articulo-2.md); deberán prever al menos lo siguiente:
 
 I. Establecer con precisión su objeto, así como las obligaciones asumidas por las partes, debiendo ser congruente con los objetivos de los instrumentos de planeación nacional del desarrollo y demás disposiciones jurídicas aplicables;
 
@@ -31,7 +31,7 @@ V. Prever los anexos técnicos necesarios en los que se detallen las obligacione
 
 VI. Establecer una instancia de coordinación, seguimiento y evaluación de las obligaciones adquiridas por las partes;
 
-VII. Tener una o más de las finalidades señaladas en el artículo 18 de la Ley, así como pormenorizar los medios para lograrlos, y
+VII. Tener una o más de las finalidades señaladas en el artículo [18](../../lgcdc/markdown/articulo-18.md) de la Ley, así como pormenorizar los medios para lograrlos, y
 
 VIII. Incluir las demás estipulaciones que las partes consideren necesarias.
 

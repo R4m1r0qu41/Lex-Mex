@@ -17,4 +17,4 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 228
 
-Cuando la [Procuraduría](articulo-2.md) imponga las sanciones previstas en las fracciones III y IV del artículo 156 de la [Ley](articulo-2.md), remitirá a la Secretaría o a la Comisión, copia certificada de la resolución definitiva en la que se determinó la sanción para que lleve a cabo la suspensión o revocación respectiva de manera inmediata.
+Cuando la [Procuraduría](articulo-2.md) imponga las sanciones previstas en las fracciones III y IV del artículo [156](../../lgdfs/markdown/articulo-156.md) de la [Ley](articulo-2.md), remitirá a la Secretaría o a la Comisión, copia certificada de la resolución definitiva en la que se determinó la sanción para que lleve a cabo la suspensión o revocación respectiva de manera inmediata.

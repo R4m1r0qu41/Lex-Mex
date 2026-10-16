@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 137
 
-Para efectos del artículo 80, párrafos penúltimo y último de la [Ley](articulo-1.md), las personas morales con fines no lucrativos que se encuentren dentro de los supuestos a que se refieren dichos párrafos, considerarán como deducciones para determinar el [Impuesto](articulo-1.md) a su cargo por los ingresos provenientes de las actividades mencionadas, las que sean estrictamente indispensables para los fines de la actividad y que cumplan con los requisitos establecidos por el Título II de la Ley. Las deducciones a que se refiere este párrafo se determinarán como sigue:
+Para efectos del artículo [80](../../lisr/markdown/articulo-80.md), párrafos penúltimo y último de la [Ley](articulo-1.md), las personas morales con fines no lucrativos que se encuentren dentro de los supuestos a que se refieren dichos párrafos, considerarán como deducciones para determinar el [Impuesto](articulo-1.md) a su cargo por los ingresos provenientes de las actividades mencionadas, las que sean estrictamente indispensables para los fines de la actividad y que cumplan con los requisitos establecidos por el Título II de la Ley. Las deducciones a que se refiere este párrafo se determinarán como sigue:
 
 I. Tratándose de gastos e inversiones que sean atribuibles exclusivamente a las mencionadas actividades, éstos se deducirán en términos del Título II de la Ley;
 

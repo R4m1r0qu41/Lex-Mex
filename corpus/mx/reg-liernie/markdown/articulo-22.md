@@ -17,7 +17,7 @@ source_sha256: 8e60a8ba9f27b47d26806dbae115c0803dd9ea6a3a02a1b359dc86516d40759e
 
 # Artículo 22
 
-Para efectos de lo dispuesto en el artículo 19 de la [Ley](articulo-1.md), se requiere autorización de la Secretaría para la constitución o modificación de toda clase de fideicomisos de inversión neutra, así como para la transmisión de acciones a los mismos, independientemente de la actividad que realice la sociedad que pretenda fideicomitir sus acciones. Para obtener esta autorización, las instituciones fiduciarias, en el primer caso, y las sociedades fideicomitentes, en el segundo, deben presentar, en original y copia simple:
+Para efectos de lo dispuesto en el artículo [19](../../lie/markdown/articulo-19.md) de la [Ley](articulo-1.md), se requiere autorización de la Secretaría para la constitución o modificación de toda clase de fideicomisos de inversión neutra, así como para la transmisión de acciones a los mismos, independientemente de la actividad que realice la sociedad que pretenda fideicomitir sus acciones. Para obtener esta autorización, las instituciones fiduciarias, en el primer caso, y las sociedades fideicomitentes, en el segundo, deben presentar, en original y copia simple:
 
 I. Solicitud por escrito en la cual se especifiquen los datos generales de identificación de la institución fiduciaria y, en su caso, la actividad económica y estructura accionaria de la sociedad que pretenda transmitir sus acciones al patrimonio del fideicomiso;
 

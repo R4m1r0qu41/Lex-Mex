@@ -19,7 +19,7 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 Corresponde a la División de Inteligencia:
 
-I. Establecer, coordinar y dirigir un centro de inteligencia que, conforme a las atribuciones de la [Institución](articulo-2.md), le permita cumplir con los fines previstos en el artículo 5 de la [Ley](articulo-2.md);
+I. Establecer, coordinar y dirigir un centro de inteligencia que, conforme a las atribuciones de la [Institución](articulo-2.md), le permita cumplir con los fines previstos en el artículo [5](../../lpf/markdown/articulo-5.md) de la [Ley](articulo-2.md);
 
 II. Ordenar la realización de operativos de la Institución, en el ámbito de su competencia;
 
@@ -93,7 +93,7 @@ XXXIX. Establecer políticas para el manejo de fuentes en la sociedad que permit
 
 XL. Solicitar al Comisionado General, cuando se considere necesario, que requiera a la autoridad jurisdiccional, la autorización de intervención de comunicaciones en términos de las disposiciones aplicables;
 
-XLI. Rendir, previo acuerdo con el Comisionado General, los informes sobre los resultados de las intervenciones de comunicaciones privadas ante la autoridad judicial a que se refiere el artículo 52 de la Ley.
+XLI. Rendir, previo acuerdo con el Comisionado General, los informes sobre los resultados de las intervenciones de comunicaciones privadas ante la autoridad judicial a que se refiere el artículo [52](../../lpf/markdown/articulo-52.md) de la Ley.
 
 Dicho informe será del conocimiento del Ministerio Público correspondiente, en términos de las disposiciones aplicables;
 

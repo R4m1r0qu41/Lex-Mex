@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 167
 
-La solicitud de medidas provisionales a que se refieren los artículos 344 y 345 de la Ley, deberá cumplir, en lo conducente, con las mismas formalidades establecidas para la solicitud de declaración administrativa previstas en el Título Sexto y Séptimo del mismo ordenamiento.
+La solicitud de medidas provisionales a que se refieren los artículos [344](../../lfppi/markdown/articulo-344.md) y [345](../../lfppi/markdown/articulo-345.md) de la Ley, deberá cumplir, en lo conducente, con las mismas formalidades establecidas para la solicitud de declaración administrativa previstas en el Título Sexto y Séptimo del mismo ordenamiento.

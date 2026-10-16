@@ -17,6 +17,6 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 153
 
-En los casos en que a juicio de la Secretaría resulte necesaria la intervención de la Federación en la remediación de un sitio abandonado contaminado con residuos peligrosos y previo el estudio justificativo correspondiente, elaborará y propondrá al Titular del Ejecutivo Federal la declaratoria a que se refiere el artículo 73 de la [Ley](articulo-2.md).
+En los casos en que a juicio de la Secretaría resulte necesaria la intervención de la Federación en la remediación de un sitio abandonado contaminado con residuos peligrosos y previo el estudio justificativo correspondiente, elaborará y propondrá al Titular del Ejecutivo Federal la declaratoria a que se refiere el artículo [73](../../lgpgir/markdown/articulo-73.md) de la [Ley](articulo-2.md).
 
 Cuando las autoridades estatales o municipales soliciten la expedición de la declaratoria de remediación elaborarán a su costa los estudios técnicos justificativos respectivos y los presentarán ante la Secretaría para su evaluación.

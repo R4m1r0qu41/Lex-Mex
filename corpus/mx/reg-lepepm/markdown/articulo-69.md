@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 69
 
-Para efectos del artículo 28, fracción VIII de la Ley, la Persona Comisaria debe participar en las sesiones del Consejo de Administración, salvo que dicha participación pueda comprometer o afectar su imparcialidad e independencia en el ejercicio de su función evaluadora o en los casos en que ello implique un conflicto de interés.
+Para efectos del artículo [28](../../lepepm/markdown/articulo-28.md), fracción VIII de la Ley, la Persona Comisaria debe participar en las sesiones del Consejo de Administración, salvo que dicha participación pueda comprometer o afectar su imparcialidad e independencia en el ejercicio de su función evaluadora o en los casos en que ello implique un conflicto de interés.

@@ -1,6 +1,28 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:11:reference:2408-2410:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:11",
+    "source_span": "19",
+    "start_char": 2408,
+    "end_char": 2410,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:19",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 2412,
+        "end_char": 2427
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:14:reference:238-240:12:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:14",
     "source_span": "12",
@@ -8,6 +30,21 @@
     "end_char": 240,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lepepm",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:12",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:14:reference:540-542:39:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:14",
+    "source_span": "39",
+    "start_char": 540,
+    "end_char": 542,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:39",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -38,6 +75,65 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:16:reference:46-48:24:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:16",
+    "source_span": "24",
+    "start_char": 46,
+    "end_char": 48,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:24",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 50,
+        "end_char": 61
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:17:reference:75-78:125:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:17",
+    "source_span": "125",
+    "start_char": 75,
+    "end_char": 78,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:125",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:19:reference:250-252:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:19",
+    "source_span": "26",
+    "start_char": 250,
+    "end_char": 252,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo tercero",
+        "start_char": 254,
+        "end_char": 269
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:19:reference:310-312:22:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:19",
     "source_span": "22",
@@ -45,6 +141,288 @@
     "end_char": 312,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lepepm",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:22",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:2:reference:123-125:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:2",
+    "source_span": "26",
+    "start_char": 123,
+    "end_char": 125,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:26",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:2:reference:424-427:125:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:2",
+    "source_span": "125",
+    "start_char": 424,
+    "end_char": 427,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:125",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:2:reference:547-549:18:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:2",
+    "source_span": "18",
+    "start_char": 547,
+    "end_char": 549,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:18",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I",
+        "start_char": 551,
+        "end_char": 563
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:2:reference:705-707:18:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:2",
+    "source_span": "18",
+    "start_char": 705,
+    "end_char": 707,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:18",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 709,
+        "end_char": 720
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:22:reference:237-239:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:22",
+    "source_span": "26",
+    "start_char": 237,
+    "end_char": 239,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo tercero",
+        "start_char": 241,
+        "end_char": 256
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:23:reference:292-294:42:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:23",
+    "source_span": "42",
+    "start_char": 292,
+    "end_char": 294,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:42",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:24:reference:784-786:43:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:24",
+    "source_span": "43",
+    "start_char": 784,
+    "end_char": 786,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:43",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 788,
+        "end_char": 803
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:25:reference:756-758:58:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:25",
+    "source_span": "58",
+    "start_char": 756,
+    "end_char": 758,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:58",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:26:reference:105-107:60:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:26",
+    "source_span": "60",
+    "start_char": 105,
+    "end_char": 107,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:60",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:27:reference:132-134:61:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:27",
+    "source_span": "61",
+    "start_char": 132,
+    "end_char": 134,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:61",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:29:reference:44-46:70:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:29",
+    "source_span": "70",
+    "start_char": 44,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:70",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:30:reference:30-32:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:30",
+    "source_span": "16",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 34,
+        "end_char": 46
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:30:reference:49-52:114:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:30",
+    "source_span": "114",
+    "start_char": 49,
+    "end_char": 52,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:114",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:31:reference:137-139:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:31",
+    "source_span": "66",
+    "start_char": 137,
+    "end_char": 139,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:66",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:32:reference:91-93:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:32",
+    "source_span": "16",
+    "start_char": 91,
+    "end_char": 93,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XXXVII",
+        "start_char": 95,
+        "end_char": 110
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:32:reference:177-179:76:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:32",
+    "source_span": "76",
+    "start_char": 177,
+    "end_char": 179,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:76",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -75,6 +453,164 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:33:reference:44-46:77:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:33",
+    "source_span": "77",
+    "start_char": 44,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:77",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:35:reference:44-46:80:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:35",
+    "source_span": "80",
+    "start_char": 44,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:80",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 48,
+        "end_char": 63
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:35:reference:743-745:79:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:35",
+    "source_span": "79",
+    "start_char": 743,
+    "end_char": 745,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:79",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:36:reference:43-45:81:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:36",
+    "source_span": "81",
+    "start_char": 43,
+    "end_char": 45,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:81",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 47,
+        "end_char": 58
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:37:reference:44-46:86:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:37",
+    "source_span": "86",
+    "start_char": 44,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:86",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 48,
+        "end_char": 59
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso c",
+        "start_char": 61,
+        "end_char": 69
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:37:reference:468-470:86:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:37",
+    "source_span": "86",
+    "start_char": 468,
+    "end_char": 470,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:86",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 472,
+        "end_char": 483
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso c",
+        "start_char": 485,
+        "end_char": 493
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:38:reference:30-32:79:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:38",
+    "source_span": "79",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:79",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 34,
+        "end_char": 45
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso d",
+        "start_char": 47,
+        "end_char": 55
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:38:reference:517-519:25:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:38",
     "source_span": "25",
@@ -82,6 +618,73 @@
     "end_char": 519,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgra",
     "target_provision_id": "urn:lex-mx:federal:statute:lgra:article:25",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:39:reference:44-46:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:39",
+    "source_span": "89",
+    "start_char": 44,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:89",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:4:reference:238-240:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:4",
+    "source_span": "23",
+    "start_char": 238,
+    "end_char": 240,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:23",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:4:reference:1114-1116:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:4",
+    "source_span": "23",
+    "start_char": 1114,
+    "end_char": 1116,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:23",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 1118,
+        "end_char": 1132
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:4:reference:1427-1429:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:4",
+    "source_span": "23",
+    "start_char": 1427,
+    "end_char": 1429,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:23",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -105,6 +708,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:40:reference:30-32:84:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:40",
+    "source_span": "84",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:84",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 34,
+        "end_char": 44
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:46:reference:246-248:45:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:46",
     "source_span": "45",
@@ -112,6 +737,21 @@
     "end_char": 248,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lepepm",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:45",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:5:reference:86-88:18:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:5",
+    "source_span": "18",
+    "start_char": 86,
+    "end_char": 88,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:18",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -128,6 +768,28 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lepepm",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:42",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:51:reference:931-933:84:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:51",
+    "source_span": "84",
+    "start_char": 931,
+    "end_char": 933,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:84",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 935,
+        "end_char": 946
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -209,6 +871,58 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:61:reference:46-48:93:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:61",
+    "source_span": "93",
+    "start_char": 46,
+    "end_char": 48,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:93",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:62:reference:262-264:94:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:62",
+    "source_span": "94",
+    "start_char": 262,
+    "end_char": 264,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:94",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 234,
+        "end_char": 248
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:63:reference:252-255:100:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:63",
+    "source_span": "100",
+    "start_char": 252,
+    "end_char": 255,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:100",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:64:reference:236-239:133:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:64",
     "source_span": "133",
@@ -253,6 +967,168 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:65:reference:67-70:107:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:65",
+    "source_span": "107",
+    "start_char": 67,
+    "end_char": 70,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:107",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 72,
+        "end_char": 82
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:66:reference:50-52:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:66",
+    "source_span": "16",
+    "start_char": 50,
+    "end_char": 52,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 54,
+        "end_char": 65
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:66:reference:67-69:49:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:66",
+    "source_span": "49",
+    "start_char": 67,
+    "end_char": 69,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:49",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 71,
+        "end_char": 82
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:66:reference:85-87:50:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:66",
+    "source_span": "50",
+    "start_char": 85,
+    "end_char": 87,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:50",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 89,
+        "end_char": 100
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:67:reference:47-50:125:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:67",
+    "source_span": "125",
+    "start_char": 47,
+    "end_char": 50,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:125",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:68:reference:30-33:125:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:68",
+    "source_span": "125",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:125",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo tercero",
+        "start_char": 35,
+        "end_char": 50
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:69:reference:26-28:28:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:69",
+    "source_span": "28",
+    "start_char": 26,
+    "end_char": 28,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:28",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VIII",
+        "start_char": 30,
+        "end_char": 43
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:7:reference:245-248:121:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:7",
+    "source_span": "121",
+    "start_char": 245,
+    "end_char": 248,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:121",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:7:reference:939-940:4:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:7",
     "source_span": "4",
@@ -260,6 +1136,197 @@
     "end_char": 940,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lepepm",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:4",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:7:reference:1083-1085:25:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:7",
+    "source_span": "25",
+    "start_char": 1083,
+    "end_char": 1085,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:25",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 1086,
+        "end_char": 1101
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:70:reference:44-47:125:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:70",
+    "source_span": "125",
+    "start_char": 44,
+    "end_char": 47,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:125",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 49,
+        "end_char": 59
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:71:reference:61-64:125:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:71",
+    "source_span": "125",
+    "start_char": 61,
+    "end_char": 64,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:125",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 66,
+        "end_char": 76
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:72:reference:168-170:50:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:72",
+    "source_span": "50",
+    "start_char": 168,
+    "end_char": 170,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:50",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XIV",
+        "start_char": 172,
+        "end_char": 184
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:73:reference:46-48:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:73",
+    "source_span": "11",
+    "start_char": 46,
+    "end_char": 48,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:11",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 50,
+        "end_char": 64
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:73:reference:67-69:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:73",
+    "source_span": "16",
+    "start_char": 67,
+    "end_char": 69,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones VIII y XXIX",
+        "start_char": 71,
+        "end_char": 93
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:74:reference:30-32:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:74",
+    "source_span": "11",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:11",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 34,
+        "end_char": 48
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:74:reference:51-53:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:74",
+    "source_span": "16",
+    "start_char": 51,
+    "end_char": 53,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones VIII, XXIX, XXX y XXXI",
+        "start_char": 55,
+        "end_char": 88
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:75:reference:44-46:65:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:75",
+    "source_span": "65",
+    "start_char": 44,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:65",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -290,6 +1357,43 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:77:reference:44-46:14:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:77",
+    "source_span": "14",
+    "start_char": 44,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:14",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:78:reference:26-28:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:78",
+    "source_span": "16",
+    "start_char": 26,
+    "end_char": 28,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XXXV",
+        "start_char": 30,
+        "end_char": 43
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:78:reference:133-134:2:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:78",
     "source_span": "2",
@@ -303,6 +1407,87 @@
         "text": "fracciones III y XI",
         "start_char": 136,
         "end_char": 155
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:79:reference:25-27:31:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:79",
+    "source_span": "31",
+    "start_char": 25,
+    "end_char": 27,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:31",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:80:reference:44-46:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:80",
+    "source_span": "16",
+    "start_char": 44,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XXV",
+        "start_char": 48,
+        "end_char": 60
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:81:reference:44-46:91:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:81",
+    "source_span": "91",
+    "start_char": 44,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:91",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 48,
+        "end_char": 62
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:9:reference:130-132:33:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:9",
+    "source_span": "33",
+    "start_char": 130,
+    "end_char": 132,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lepepm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lepepm:article:33",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 205,
+        "end_char": 219
       }
     ],
     "basis": "express_cross_reference",

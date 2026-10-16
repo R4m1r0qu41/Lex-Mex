@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 203
 
-Para efectos del artículo 120, párrafo último de la [Ley](articulo-1.md), cuando se pacte el pago en parcialidades se procederá como sigue:
+Para efectos del artículo [120](../../lisr/markdown/articulo-120.md), párrafo último de la [Ley](articulo-1.md), cuando se pacte el pago en parcialidades se procederá como sigue:
 
 I. Se determinará la ganancia obtenida en la enajenación y se calculará el pago provisional, aplicando la tarifa del artículo 152 de la Ley a la parte de la ganancia acumulable;
 

@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 97
 
-Para los efectos del artículo 152, primer párrafo del [Código](articulo-1.md), la identificación del ejecutor debe hacerse constar en el acta que se levante con motivo de la diligencia, para lo cual se deberá incluir en dicha acta, lo siguiente:
+Para los efectos del artículo [152](../../cff/markdown/articulo-152.md), primer párrafo del [Código](articulo-1.md), la identificación del ejecutor debe hacerse constar en el acta que se levante con motivo de la diligencia, para lo cual se deberá incluir en dicha acta, lo siguiente:
 
 I. El nombre completo del ejecutor, así como el número, la vigencia y la fecha de expedición de la credencial o constancia de identificación del ejecutor;
 

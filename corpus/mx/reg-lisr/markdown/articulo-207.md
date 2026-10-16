@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 207
 
-Cuando el contribuyente disminuya la parte de la pérdida a que se refiere el artículo 122, fracción I de la [Ley](articulo-1.md), de los demás ingresos, excepto de los ingresos a que se refiere el Título IV, Capítulos I y II de la Ley, que deba acumular en la declaración anual correspondiente al mismo año en que se sufra la pérdida de que se trate, deberá hacerlo después de efectuar, en su caso, las deducciones correspondientes al del Título IV, Capítulo III de la Ley.
+Cuando el contribuyente disminuya la parte de la pérdida a que se refiere el artículo [122](../../lisr/markdown/articulo-122.md), fracción I de la [Ley](articulo-1.md), de los demás ingresos, excepto de los ingresos a que se refiere el Título IV, Capítulos I y II de la Ley, que deba acumular en la declaración anual correspondiente al mismo año en que se sufra la pérdida de que se trate, deberá hacerlo después de efectuar, en su caso, las deducciones correspondientes al del Título IV, Capítulo III de la Ley.

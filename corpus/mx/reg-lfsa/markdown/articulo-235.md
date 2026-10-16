@@ -17,7 +17,7 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 235
 
-Los servicios veterinarios señalados en el artículo 112 de la [Ley](articulo-2.md), serán proporcionados por:
+Los servicios veterinarios señalados en el artículo [112](../../lfsa/markdown/articulo-112.md) de la [Ley](articulo-2.md), serán proporcionados por:
 
 I. Los médicos veterinarios responsables autorizados, profesional autorizado y laboratorios autorizados quienes prestarán servicios en coadyuvancia y responsiva ante la Secretaría, y
 

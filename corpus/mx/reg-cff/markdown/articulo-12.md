@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 12
 
-Para los efectos del artículo 18-A, fracción II del [Código](articulo-1.md), los residentes en el extranjero que de conformidad con la legislación del país en el que sean residentes no estén obligados a contar con un número de identificación fiscal, no lo señalarán en las promociones que presenten ante las [Autoridades Fiscales](articulo-1.md).
+Para los efectos del artículo [18-A](../../cff/markdown/articulo-18-A.md), fracción II del [Código](articulo-1.md), los residentes en el extranjero que de conformidad con la legislación del país en el que sean residentes no estén obligados a contar con un número de identificación fiscal, no lo señalarán en las promociones que presenten ante las [Autoridades Fiscales](articulo-1.md).

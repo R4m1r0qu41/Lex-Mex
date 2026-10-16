@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 114
 
-Para efectos de lo establecido en el artículo 65, fracción I, inciso a) de la [Ley](articulo-1.md), se entiende por:
+Para efectos de lo establecido en el artículo [65](../../ladua/markdown/articulo-65.md), fracción I, inciso a) de la [Ley](articulo-1.md), se entiende por:
 
 I. Comisiones: Las retribuciones por venta pagadas directa o indirectamente a una persona física o moral que actúe por cuenta del vendedor, por los servicios que le presta en la venta de las Mercancías objeto de valoración;
 

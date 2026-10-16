@@ -17,7 +17,7 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 80
 
-En [Concursos](articulo-11.md) de proyectos que tengan su origen en propuestas no solicitadas, el premio a que se refiere el artículo 31, fracción V, de la Ley se ajustará a lo siguiente:
+En [Concursos](articulo-11.md) de proyectos que tengan su origen en propuestas no solicitadas, el premio a que se refiere el artículo [31](../../lapp/markdown/articulo-31.md), fracción V, de la Ley se ajustará a lo siguiente:
 
 I. A la oferta económica del promotor se otorgará el premio que se indique en las bases, sin que pueda exceder de los límites siguientes:
 

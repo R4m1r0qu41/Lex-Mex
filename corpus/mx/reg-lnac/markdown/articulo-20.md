@@ -17,7 +17,7 @@ source_sha256: bd9ba59ab5016fd7d8737d382113a20e450b188e586925c31a1ef7c2af3f0065
 
 # Artículo 20
 
-Quienes en su minoría de edad fueron extranjeros adoptados o descendientes hasta el segundo grado, sujetos a la patria potestad de mexicanos que no fueron naturalizados mexicanos en términos de lo dispuesto por el artículo 20, fracción III de la Ley, podrán hacerlo dentro del año siguiente contado a partir de su mayoría de edad, conforme a la legislación mexicana. Para tal efecto, deberán además de cumplir con los requisitos mencionados en el artículo [16](articulo-16.md) del presente Reglamento, con excepción de la residencia de cinco años señalada en la fracción III, los siguientes:
+Quienes en su minoría de edad fueron extranjeros adoptados o descendientes hasta el segundo grado, sujetos a la patria potestad de mexicanos que no fueron naturalizados mexicanos en términos de lo dispuesto por el artículo [20](../../lnac/markdown/articulo-20.md), fracción III de la Ley, podrán hacerlo dentro del año siguiente contado a partir de su mayoría de edad, conforme a la legislación mexicana. Para tal efecto, deberán además de cumplir con los requisitos mencionados en el artículo [16](articulo-16.md) del presente Reglamento, con excepción de la residencia de cinco años señalada en la fracción III, los siguientes:
 
 I.- Para probar la nacionalidad del adoptante, o de quienes ejercieron la patria potestad, el interesado deberá presentar alguno de los siguientes documentos:
 

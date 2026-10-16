@@ -17,4 +17,4 @@ source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 
 # Artículo 17
 
-Cuando derivado de su actividad registral, el Registro detecte que alguna persona se encuentra en los supuestos descritos en los artículos 47, 129 o 130 de la Ley, lo hará del conocimiento de la Secretaría, para los efectos legales correspondientes.
+Cuando derivado de su actividad registral, el Registro detecte que alguna persona se encuentra en los supuestos descritos en los artículos [47](../../lagra/markdown/articulo-47.md), [129](../../lagra/markdown/articulo-129.md) o [130](../../lagra/markdown/articulo-130.md) de la Ley, lo hará del conocimiento de la Secretaría, para los efectos legales correspondientes.

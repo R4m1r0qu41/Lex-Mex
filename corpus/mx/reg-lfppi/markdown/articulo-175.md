@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 175
 
-Para efectos de la destrucción de bienes a la que se refiere el artículo 366 de la Ley, el Instituto podrá solicitar a la parte interesada las facilidades necesarias para llevar a cabo la destrucción de la mercancía asegurada, así como para el manejo de los materiales que la compongan.
+Para efectos de la destrucción de bienes a la que se refiere el artículo [366](../../lfppi/markdown/articulo-366.md) de la Ley, el Instituto podrá solicitar a la parte interesada las facilidades necesarias para llevar a cabo la destrucción de la mercancía asegurada, así como para el manejo de los materiales que la compongan.

@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 182
 
-Para la emisión del dictamen técnico al que se refiere el artículo 405 de la Ley, el Instituto podrá tomar en cuenta los registros marcarios que considere necesarios, independientemente de los señalados por la autoridad requirente.
+Para la emisión del dictamen técnico al que se refiere el artículo [405](../../lfppi/markdown/articulo-405.md) de la Ley, el Instituto podrá tomar en cuenta los registros marcarios que considere necesarios, independientemente de los señalados por la autoridad requirente.

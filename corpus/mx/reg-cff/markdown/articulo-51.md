@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 51
 
-Para los efectos del artículo 48, fracciones IV y IX del [Código](articulo-1.md), la [Autoridad Fiscal](articulo-1.md), previamente a la determinación del crédito fiscal, emitirá el oficio de observaciones y continuará con el procedimiento establecido por el citado artículo.
+Para los efectos del artículo [48](../../cff/markdown/articulo-48.md), fracciones IV y IX del [Código](articulo-1.md), la [Autoridad Fiscal](articulo-1.md), previamente a la determinación del crédito fiscal, emitirá el oficio de observaciones y continuará con el procedimiento establecido por el citado artículo.

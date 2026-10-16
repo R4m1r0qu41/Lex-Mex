@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 157
 
-Con independencia de lo dispuesto en el párrafo primero del artículo 88 de la [Ley](articulo-2.md), las dependencias y entidades deberán verificar la calidad de los bienes que hubieren adquirido o arrendado y, de ser necesario, de aquéllos que utilizarán para la prestación de un servicio. En caso de que no cuenten con el personal especializado o los elementos necesarios para efectuar la verificación, deberán contratar a las personas físicas o morales acreditadas para llevarla a cabo.
+Con independencia de lo dispuesto en el párrafo primero del artículo [88](../../laassp/markdown/articulo-88.md) de la [Ley](articulo-2.md), las dependencias y entidades deberán verificar la calidad de los bienes que hubieren adquirido o arrendado y, de ser necesario, de aquéllos que utilizarán para la prestación de un servicio. En caso de que no cuenten con el personal especializado o los elementos necesarios para efectuar la verificación, deberán contratar a las personas físicas o morales acreditadas para llevarla a cabo.

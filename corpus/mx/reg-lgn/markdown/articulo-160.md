@@ -17,4 +17,4 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 # Artículo 160
 
-Los correctivos disciplinarios y sanciones previstos en el artículo 63 de la [Ley](articulo-2.md) que se impongan a los integrantes, deberán registrarse en la base de datos de personal de la [Institución](articulo-2.md), así como del sistema de información de la [Secretaría](articulo-2.md).
+Los correctivos disciplinarios y sanciones previstos en el artículo [63](../../lgn/markdown/articulo-63.md) de la [Ley](articulo-2.md) que se impongan a los integrantes, deberán registrarse en la base de datos de personal de la [Institución](articulo-2.md), así como del sistema de información de la [Secretaría](articulo-2.md).

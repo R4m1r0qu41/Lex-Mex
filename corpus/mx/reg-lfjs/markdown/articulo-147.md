@@ -17,7 +17,7 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 # Artículo 147
 
-De conformidad con el artículo 17 de la [Ley](articulo-3.md), las violaciones a la misma, al presente Reglamento o a los permisos que expida la [Secretaría](articulo-3.md), serán sancionadas con:
+De conformidad con el artículo [17](../../lfjs/markdown/articulo-17.md) de la [Ley](articulo-3.md), las violaciones a la misma, al presente Reglamento o a los permisos que expida la [Secretaría](articulo-3.md), serán sancionadas con:
 
 I. Multa;
 

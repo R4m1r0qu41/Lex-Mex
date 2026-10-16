@@ -17,6 +17,6 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 269
 
-Para efectos del artículo 151, fracción VII de la [Ley](articulo-1.md), se entenderá que se cumple con el requisito establecido en dicha fracción, cuando la escuela de que se trate, obligue a todos sus alumnos a pagar el servicio de transporte escolar.
+Para efectos del artículo [151](../../lisr/markdown/articulo-151.md), fracción VII de la [Ley](articulo-1.md), se entenderá que se cumple con el requisito establecido en dicha fracción, cuando la escuela de que se trate, obligue a todos sus alumnos a pagar el servicio de transporte escolar.
 
 Las escuelas que estén en este supuesto, deberán comprobar que destinaron el ingreso correspondiente a la prestación del servicio de transporte.

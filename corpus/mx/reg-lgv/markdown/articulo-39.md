@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 39
 
-La Comisión Ejecutiva cuenta con los comités previstos en el artículo 93 de la Ley, los cuales ejercen, conforme al ámbito de competencia que establezca el Estatuto Orgánico, las facultades generales siguientes:
+La Comisión Ejecutiva cuenta con los comités previstos en el artículo [93](../../lgv/markdown/articulo-93.md) de la Ley, los cuales ejercen, conforme al ámbito de competencia que establezca el Estatuto Orgánico, las facultades generales siguientes:
 
 I. Diseñar e impulsar medidas que contribuyan a garantizar la reparación integral, efectiva y eficaz de las víctimas que hayan sufrido un daño como consecuencia de la comisión de delito o de la violación a sus derechos humanos;
 
@@ -31,7 +31,7 @@ V. Solicitar a las autoridades o instituciones privadas la información que requ
 
 VI. Coadyuvar en la elaboración del proyecto de Programa de Atención Integral a Víctimas;
 
-VII. Coadyuvar en la elaboración de medidas, lineamientos o directrices a que se refiere la fracción XXI, del artículo 88 de la Ley;
+VII. Coadyuvar en la elaboración de medidas, lineamientos o directrices a que se refiere la fracción XXI, del artículo [88](../../lgv/markdown/articulo-88.md) de la Ley;
 
 VIII. Entregar en tiempo y forma la información y documentación necesaria para la integración del informe anual que debe presentar la Comisión Ejecutiva ante el Sistema;
 

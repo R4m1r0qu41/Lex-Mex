@@ -17,7 +17,7 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 131
 
-En situación de emergencia fitosanitaria, la Secretaría en coordinación con las instancias señaladas en el artículo 47 de la [Ley](articulo-2.md), aplicará las Medidas Fitosanitarias pertinentes en áreas cultivadas, urbanas, marginales y agostaderos donde la Plaga está presente a efecto de:
+En situación de emergencia fitosanitaria, la Secretaría en coordinación con las instancias señaladas en el artículo [47](../../lfsv/markdown/articulo-47.md) de la [Ley](articulo-2.md), aplicará las Medidas Fitosanitarias pertinentes en áreas cultivadas, urbanas, marginales y agostaderos donde la Plaga está presente a efecto de:
 
 I. Determinar el nivel de incidencia y distribución espacial y temporal de la Plaga, mediante sistemas de detección basados en el monitoreo, muestreo y trampeo, a fin de delimitar su presencia;
 

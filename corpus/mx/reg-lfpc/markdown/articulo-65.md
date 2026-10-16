@@ -17,13 +17,13 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 65
 
-Para efectos de lo dispuesto en el artículo 101 de la Ley, son reclamaciones notoriamente improcedentes, las siguientes:
+Para efectos de lo dispuesto en el artículo [101](../../lfpc/markdown/articulo-101.md) de la Ley, son reclamaciones notoriamente improcedentes, las siguientes:
 
 I. Las que promuevan los proveedores;
 
-II. Las que incumplan con los requisitos señalados en el artículo 99 de la Ley;
+II. Las que incumplan con los requisitos señalados en el artículo [99](../../lfpc/markdown/articulo-99.md) de la Ley;
 
-III. Cuando el servicio objeto de la reclamación esté comprendido en alguna de las excepciones del artículo 5 de la Ley;
+III. Cuando el servicio objeto de la reclamación esté comprendido en alguna de las excepciones del artículo [5](../../lfpc/markdown/articulo-5.md) de la Ley;
 
 IV. Las presentadas en forma extemporánea;
 

@@ -17,7 +17,7 @@ source_sha256: 9ff708994e8bad54142e90da50dd0ffe7c58b739b77d89c5c31a5162abfb1429
 
 # Artículo 51
 
-Para la obtención de la autorización a que se refiere el artículo 315 de la [Ley](articulo-2.md), los [Establecimientos de Salud](articulo-2.md) que realizan actos de Trasplantes de Órganos, Tejidos y células deberán contar con:
+Para la obtención de la autorización a que se refiere el artículo [315](../../lgs/markdown/articulo-315.md) de la [Ley](articulo-2.md), los [Establecimientos de Salud](articulo-2.md) que realizan actos de Trasplantes de Órganos, Tejidos y células deberán contar con:
 
 I. La especialidad médica o quirúrgica correlativa a los Trasplantes a realizar, con independencia de otras actividades de atención médica que presten; II. Laboratorio de patología clínica;
 

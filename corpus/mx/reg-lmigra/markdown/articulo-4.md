@@ -17,4 +17,4 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 4
 
-La Secretaría formulará y dirigirá la política migratoria con base en los principios establecidos en el artículo 2 de la Ley.
+La Secretaría formulará y dirigirá la política migratoria con base en los principios establecidos en el artículo [2](../../lmigra/markdown/articulo-2.md) de la Ley.

@@ -17,7 +17,7 @@ source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 
 # Artículo 30
 
-El Registro Nacional deberá concentrar la información establecida en el artículo 38 de la Ley, la que deberá ser actualizada cada seis meses, para lo cual deberá celebrar convenios de coordinación con los Registros Estatales, a efecto de que éstos proporcionen dicha información.
+El Registro Nacional deberá concentrar la información establecida en el artículo [38](../../lgpsacdii/markdown/articulo-38.md) de la Ley, la que deberá ser actualizada cada seis meses, para lo cual deberá celebrar convenios de coordinación con los Registros Estatales, a efecto de que éstos proporcionen dicha información.
 
 Para efectos de la integración del Registro Nacional, dichos convenios deberán sujetarse a lo siguiente:
 

@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 100
 
-Para efectos de los artículos 72, párrafo segundo, fracción IV y 73, párrafo sexto de la [Ley](articulo-1.md), las liquidaciones que emitan los coordinados deberán contener lo siguiente:
+Para efectos de los artículos [72](../../lisr/markdown/articulo-72.md), párrafo segundo, fracción IV y [73](../../lisr/markdown/articulo-73.md), párrafo sexto de la [Ley](articulo-1.md), las liquidaciones que emitan los coordinados deberán contener lo siguiente:
 
 I. Nombre o denominación o razón social, domicilio fiscal y clave del registro federal de contribuyentes del coordinado, así como el número de folio consecutivo. Los datos a que se refiere esta fracción deberán estar impresos en la liquidación;
 

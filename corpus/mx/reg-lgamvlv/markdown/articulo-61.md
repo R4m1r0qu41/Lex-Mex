@@ -19,7 +19,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 El Consejo Nacional para Prevenir la Discriminación, en su calidad de Integrante del Sistema, tendrá las siguientes atribuciones:
 
-I. Participar coordinadamente en la elaboración del Programa, y en el diseño de las acciones en materia de no discriminación de las mujeres, a que se refieren las fracciones II, III, IV, XII y XIII del artículo 38 de la Ley;
+I. Participar coordinadamente en la elaboración del Programa, y en el diseño de las acciones en materia de no discriminación de las mujeres, a que se refieren las fracciones II, III, IV, XII y XIII del artículo [38](../../lgamvlv/markdown/articulo-38.md) de la Ley;
 
 II. Colaborar en la armonización del Programa a que se refiere el artículo [48](articulo-48.md) de este Reglamento, por medio de su participación activa en el Sistema, y con las opiniones jurídicas o de políticas públicas en materia de no discriminación;
 

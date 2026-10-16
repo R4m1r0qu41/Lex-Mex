@@ -17,4 +17,4 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 # Artículo 63
 
-En caso de que el Prestador del Servicio no dé cumplimiento a las resoluciones que impongan alguna de las sanciones anteriores, se procederá a hacer efectiva la fianza a que se refieren los artículos 26, fracción III y 19 de la [Ley](articulo-2.md).
+En caso de que el Prestador del Servicio no dé cumplimiento a las resoluciones que impongan alguna de las sanciones anteriores, se procederá a hacer efectiva la fianza a que se refieren los artículos [26](../../lfsp/markdown/articulo-26.md), fracción III y [19](../../lfsp/markdown/articulo-19.md) de la [Ley](articulo-2.md).

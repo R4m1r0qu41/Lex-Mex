@@ -19,7 +19,7 @@ Las dependencias pueden ocupar temporalmente puestos con servidores públicos de
 
 I. Por determinación del Comité Técnico de Profesionalización cuando:
 
-a) Un servidor público de carrera titular disfrute de una licencia sin goce de sueldo concedida en los términos del artículo 61 de la Ley, hasta por la vigencia de dicha licencia;
+a) Un servidor público de carrera titular disfrute de una licencia sin goce de sueldo concedida en los términos del artículo [61](../../lspcapf/markdown/articulo-61.md) de la Ley, hasta por la vigencia de dicha licencia;
 
 b) Por necesidades del servicio se requiera cubrir un puesto al estar incapacitado su titular, hasta por la vigencia de la licencia médica;
 
@@ -27,7 +27,7 @@ c) Al determinarse la suspensión del nombramiento de un servidor público de ca
 
 d) Se imponga la suspensión de un servidor público de carrera conforme a lo previsto en la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables, hasta por el tiempo que dure la suspensión, y Inciso adicionado DOF 04-01-2024
 
-II. Por determinación de la persona titular de la dependencia o la de la Unidad de Administración y Finanzas o su equivalente, con motivo de las causas excepcionales que establece el artículo 34 de la Ley, sin perjuicio de lo previsto en el artículo [92](articulo-92.md) de este reglamento. Fracción reformada DOF 04-01-2024
+II. Por determinación de la persona titular de la dependencia o la de la Unidad de Administración y Finanzas o su equivalente, con motivo de las causas excepcionales que establece el artículo [34](../../lspcapf/markdown/articulo-34.md) de la Ley, sin perjuicio de lo previsto en el artículo [92](articulo-92.md) de este reglamento. Fracción reformada DOF 04-01-2024
 
 Para efectos del párrafo anterior, se debe comunicar a la Secretaría la autorización y justificación correspondientes, así como sujetar a concurso el puesto de que se trate, conforme al Programa Anual de Planeación del Sistema. Párrafo reformado DOF 04-01-2024
 

@@ -17,4 +17,4 @@ source_sha256: 4da07bf61648a9d04725e2d49db4d867b7882c9bf2ed5d794bde76b64491cddf
 
 # Artículo 3
 
-Para la interpretación de este Reglamento se atenderá a las definiciones previstas en el artículo 3 de la Ley y, en su aplicación, intervendrán las dependencias de la Administración Pública Federal, en los términos de la Ley, de conformidad con sus respectivos ámbitos de competencia.
+Para la interpretación de este Reglamento se atenderá a las definiciones previstas en el artículo [3](../../ldrs/markdown/articulo-3o.md) de la Ley y, en su aplicación, intervendrán las dependencias de la Administración Pública Federal, en los términos de la Ley, de conformidad con sus respectivos ámbitos de competencia.

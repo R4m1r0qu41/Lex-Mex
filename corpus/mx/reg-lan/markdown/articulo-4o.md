@@ -17,9 +17,9 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 4o
 
-Para efectos de las fracciones VIII del artículo [3](articulo-3o.md)o., y IV, del artículo 113 de la "Ley", por lo que se refiere a la delimitación, demarcación y administración de las riberas o zonas federales contiguas a los cauces de las corrientes y a los vasos o depósitos de propiedad nacional, se estará a lo siguiente:
+Para efectos de las fracciones VIII del artículo [3](articulo-3o.md)o., y IV, del artículo [113](../../lan/markdown/articulo-113.md) de la "Ley", por lo que se refiere a la delimitación, demarcación y administración de las riberas o zonas federales contiguas a los cauces de las corrientes y a los vasos o depósitos de propiedad nacional, se estará a lo siguiente:
 
-I. El nivel de aguas máximas ordinarias a que se refiere la fracción VIII, del artículo 3o., de la "Ley", se entiende como el que resulta de la corriente ocasionada por la creciente máxima ordinaria dentro de un cauce sin que en éste se produzca desbordamiento. La creciente máxima ordinaria estará asociada a un periodo de retorno de cinco años.
+I. El nivel de aguas máximas ordinarias a que se refiere la fracción VIII, del artículo [3](../../lan/markdown/articulo-3.md)o., de la "Ley", se entiende como el que resulta de la corriente ocasionada por la creciente máxima ordinaria dentro de un cauce sin que en éste se produzca desbordamiento. La creciente máxima ordinaria estará asociada a un periodo de retorno de cinco años.
 
 Para el caso de corrientes que presenten flujo nulo durante uno o más años de su periodo de registro, "La Comisión" determinará el periodo de retorno equivalente que tome en cuenta esta situación. Para el caso de estas corrientes y de las cuencas sin registro hidrométrico, la creciente máxima ordinaria se obtendrá a partir de tormentas máximas ordinarias, a las que se asociará el periodo de retorno correspondiente y el cálculo del escurrimiento respectivo se hará con las normas oficiales mexicanas que expida "La Comisión".
 
@@ -41,6 +41,6 @@ c) Los trabajos técnicos de delimitación y los planos correspondientes estará
 
 V. En los vasos de lagos y lagunas que no estén conectados con el mar, el nivel de aguas máximas ordinarias se determinará considerando la corriente ocasionada por la creciente máxima ordinaria de sus fuentes alimentadoras, conforme al presente artículo;
 
-VI. En las regiones deltáicas, cuando por efecto del desbordamiento de las corrientes se unan las aguas de inundación con las contenidas en lagos o lagunas de formación natural, los vasos de estos últimos se delimitarán por la curva de nivel correspondiente a la intersección de la superficie natural del terreno con las aguas en reposo, una vez que las corrientes retornan a sus cauces, definidos conforme a la fracción III, del artículo 3o., de la "Ley", y
+VI. En las regiones deltáicas, cuando por efecto del desbordamiento de las corrientes se unan las aguas de inundación con las contenidas en lagos o lagunas de formación natural, los vasos de estos últimos se delimitarán por la curva de nivel correspondiente a la intersección de la superficie natural del terreno con las aguas en reposo, una vez que las corrientes retornan a sus cauces, definidos conforme a la fracción III, del artículo [3](../../lan/markdown/articulo-3.md)o., de la "Ley", y
 
 VII. Los lagos, lagunas y esteros, cuando estén comunicados con el mar, la zona federal marítimo- terrestre se precisará conforme a la Ley General de Bienes Nacionales y el vaso, los cauces y las aguas se regularán por la "Ley" y este "Reglamento".

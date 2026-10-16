@@ -17,4 +17,4 @@ source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 
 # Artículo 55
 
-Las visitas de verificación administrativa a que se refiere el artículo 61 de la Ley, se realizarán de oficio o a petición de parte, en caso de queja o denuncia.
+Las visitas de verificación administrativa a que se refiere el artículo [61](../../lgpsacdii/markdown/articulo-61.md) de la Ley, se realizarán de oficio o a petición de parte, en caso de queja o denuncia.

@@ -17,6 +17,6 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 73
 
-El [SENASICA](articulo-2.md) resolverá las solicitudes para la expedición del [Certificado Fitosanitario Internacional para la Exportación](articulo-2.md), una vez cumplido lo previsto en el artículo 27 de la [Ley](articulo-2.md) y dentro de un plazo de cinco días hábiles contado a partir de la presentación de la solicitud correspondiente.
+El [SENASICA](articulo-2.md) resolverá las solicitudes para la expedición del [Certificado Fitosanitario Internacional para la Exportación](articulo-2.md), una vez cumplido lo previsto en el artículo [27](../../lfsv/markdown/articulo-27.md) de la [Ley](articulo-2.md) y dentro de un plazo de cinco días hábiles contado a partir de la presentación de la solicitud correspondiente.
 
 La Secretaría resolverá a petición de parte la procedencia de emitir el Certificado Fitosanitario Internacional para la Exportación, para aquellas mercancías de las cuales la Secretaría no cuente con información del requisito fitosanitario del país de destino.

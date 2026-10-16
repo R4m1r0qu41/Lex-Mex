@@ -19,14 +19,14 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 Tratándose de contribuyentes que perciban ingresos derivados de la realización de actividades empresariales exclusivamente por concepto de comisiones, podrán optar, con el consentimiento del comitente, porque éste les efectúe la retención del [Impuesto](articulo-1.md) en términos del Título IV, Capítulo I de la [Ley](articulo-1.md), en cuyo caso no les serán aplicables las disposiciones de dicho Título, Capítulo II. Cuando se ejerza la opción antes señalada, previamente al primer pago que se les efectúe, el comisionista deberá comunicarlo por escrito al comitente, el cual cumplirá con lo siguiente:
 
-I. Efectuar la retención de conformidad con el procedimiento establecido en el artículo 96 de la Ley y demás disposiciones jurídicas aplicables;
+I. Efectuar la retención de conformidad con el procedimiento establecido en el artículo [96](../../lisr/markdown/articulo-96.md) de la Ley y demás disposiciones jurídicas aplicables;
 
-II. Calcular el Impuesto anual de conformidad con el artículo 97 de la Ley, y
+II. Calcular el Impuesto anual de conformidad con el artículo [97](../../lisr/markdown/articulo-97.md) de la Ley, y
 
-III. Proporcionar los comprobantes fiscales a que se refiere el artículo 99, fracción III de la Ley, cuando así lo solicite el comisionista.
+III. Proporcionar los comprobantes fiscales a que se refiere el artículo [99](../../lisr/markdown/articulo-99.md), fracción III de la Ley, cuando así lo solicite el comisionista.
 
-Los comisionistas presentarán su declaración anual acumulando a sus ingresos comprendidos en el Título IV, Capítulo I de la Ley, los obtenidos conforme a este artículo, salvo que en el año de calendario de que se trate obtengan únicamente estos últimos ingresos, no provengan simultáneamente de dos o más comitentes, ni excedan de la cantidad a que se refiere el artículo 98, fracción III, inciso e) de la Ley y el comitente cumpla con la obligación señalada en la fracción II de este artículo.
+Los comisionistas presentarán su declaración anual acumulando a sus ingresos comprendidos en el Título IV, Capítulo I de la Ley, los obtenidos conforme a este artículo, salvo que en el año de calendario de que se trate obtengan únicamente estos últimos ingresos, no provengan simultáneamente de dos o más comitentes, ni excedan de la cantidad a que se refiere el artículo [98](../../lisr/markdown/articulo-98.md), fracción III, inciso e) de la Ley y el comitente cumpla con la obligación señalada en la fracción II de este artículo.
 
-Los comisionistas deberán solicitar los comprobantes fiscales a que se refiere el artículo 99, fracción III de la Ley y proporcionarlos al comitente dentro del mes siguiente a aquél en el que se inicie la prestación del servicio, o en su caso, al comitente que vaya a efectuar el cálculo del Impuesto definitivo o conservarlas cuando presenten su declaración anual. No se solicitará el comprobante fiscal al comitente que haga la liquidación del año.
+Los comisionistas deberán solicitar los comprobantes fiscales a que se refiere el artículo [99](../../lisr/markdown/articulo-99.md), fracción III de la Ley y proporcionarlos al comitente dentro del mes siguiente a aquél en el que se inicie la prestación del servicio, o en su caso, al comitente que vaya a efectuar el cálculo del Impuesto definitivo o conservarlas cuando presenten su declaración anual. No se solicitará el comprobante fiscal al comitente que haga la liquidación del año.
 
 La opción a que se refiere este artículo podrá ejercerse por cada uno de los comitentes y considerando todos los ingresos que se obtengan en el año de calendario de dicho comitente por concepto de comisiones. Dicha opción se entenderá ejercida hasta en tanto el contribuyente manifieste por escrito al comitente de que se trate que pagará el Impuesto por los ingresos de referencia en términos del Título IV, Capítulo II de la Ley.

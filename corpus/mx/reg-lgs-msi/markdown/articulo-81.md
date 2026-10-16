@@ -17,4 +17,4 @@ source_sha256: 44746db892329cfe37f9f1642d6e385f18c3ecade102b2742aa5c7bf67168dc7
 
 # Artículo 81
 
-La violación de las disposiciones contenidas en los artículos [34](articulo-34.md), [36](articulo-36.md) y [39](articulo-39.md) de este Reglamento se sancionará en los términos del artículo 419 de la Ley.
+La violación de las disposiciones contenidas en los artículos [34](articulo-34.md), [36](articulo-36.md) y [39](articulo-39.md) de este Reglamento se sancionará en los términos del artículo [419](../../lgs/markdown/articulo-419.md) de la Ley.

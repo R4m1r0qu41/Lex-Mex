@@ -19,4 +19,4 @@ Para la operación del sistema de compensación, en un plazo de noventa días na
 
 I. Inscribirse, y
 
-II. Registrar todos los créditos y adeudos líquidos y exigibles a su favor y a su cargo en términos de lo dispuesto en el artículo 42 de la Ley.
+II. Registrar todos los créditos y adeudos líquidos y exigibles a su favor y a su cargo en términos de lo dispuesto en el artículo [42](../../ltf/markdown/articulo-42.md) de la Ley.

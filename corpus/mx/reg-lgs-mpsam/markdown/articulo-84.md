@@ -17,6 +17,6 @@ source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 
 # Artículo 84
 
-Toda medida diagnóstica, preventiva, terapéutica, rehabilitatoria o paliativa que tenga carácter experimental se sujetará a lo que se establece en los artículos 100, 101, 102 y 103 de la Ley y las demás disposiciones aplicables.
+Toda medida diagnóstica, preventiva, terapéutica, rehabilitatoria o paliativa que tenga carácter experimental se sujetará a lo que se establece en los artículos [100](../../lgs/markdown/articulo-100.md), [101](../../lgs/markdown/articulo-101.md), [102](../../lgs/markdown/articulo-102.md) y [103](../../lgs/markdown/articulo-103.md) de la Ley y las demás disposiciones aplicables.
 
 Artículo reformado DOF 01-11-2013

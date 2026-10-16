@@ -17,7 +17,7 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 74
 
-Para efectos del artículo 65 de la [Ley](articulo-2.md), la Secretaría establecerá un programa de protección, el cual deberá contener lo siguiente:
+Para efectos del artículo [65](../../lgvs/markdown/articulo-65.md) de la [Ley](articulo-2.md), la Secretaría establecerá un programa de protección, el cual deberá contener lo siguiente:
 
 I. Los objetivos específicos del área de refugio;
 

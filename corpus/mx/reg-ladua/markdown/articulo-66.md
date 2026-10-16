@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 66
 
-Para efectos del artículo 36, tercer párrafo, de la [Ley](articulo-1.md), el código de aceptación que genere el [Sistema Electrónico Aduanero](articulo-1.md) no implica que la Autoridad Aduanera se pronuncie sobre la veracidad de lo declarado en el Pedimento ni limita las facultades de comprobación de la Autoridad Aduanera.
+Para efectos del artículo [36](../../ladua/markdown/articulo-36.md), tercer párrafo, de la [Ley](articulo-1.md), el código de aceptación que genere el [Sistema Electrónico Aduanero](articulo-1.md) no implica que la Autoridad Aduanera se pronuncie sobre la veracidad de lo declarado en el Pedimento ni limita las facultades de comprobación de la Autoridad Aduanera.
 
 Artículo reformado DOF 23-02-2026

@@ -17,4 +17,4 @@ source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 
 # Artículo 107
 
-El Instituto Nacional de Migración establecerá, mediante disposiciones administrativas de carácter general que se publicarán en el Diario Oficial de la Federación, un mecanismo que permita identificar las situaciones o los lugares en donde exista peligro para la vida, seguridad o libertad de las niñas, niños o adolescentes migrantes, en términos del artículo 96 de la [Ley](articulo-2.md).
+El Instituto Nacional de Migración establecerá, mediante disposiciones administrativas de carácter general que se publicarán en el Diario Oficial de la Federación, un mecanismo que permita identificar las situaciones o los lugares en donde exista peligro para la vida, seguridad o libertad de las niñas, niños o adolescentes migrantes, en términos del artículo [96](../../lgdnna/markdown/articulo-96.md) de la [Ley](articulo-2.md).

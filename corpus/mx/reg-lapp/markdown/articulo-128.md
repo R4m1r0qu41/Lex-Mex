@@ -17,4 +17,4 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 128
 
-La conservación de la documentación e información electrónica a que alude el artículo 127 de la Ley se hará de conformidad con las disposiciones aplicables en materia de archivos.
+La conservación de la documentación e información electrónica a que alude el artículo [127](../../lapp/markdown/articulo-127.md) de la Ley se hará de conformidad con las disposiciones aplicables en materia de archivos.

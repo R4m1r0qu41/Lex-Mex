@@ -17,11 +17,11 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 310
 
-Para efectos del artículo 192, fracción III de la [Ley](articulo-1.md), se entenderá que se cumple con el requisito de inversión que establece dicha fracción, cuando a más tardar al 31 de diciembre del cuarto año de operaciones del fideicomiso de que se trate, cuando menos el ochenta por ciento de su patrimonio se encuentre invertido en acciones de sociedades mexicanas residentes en México no listadas en bolsas al momento de la inversión o en otorgarles financiamiento.
+Para efectos del artículo [192](../../lisr/markdown/articulo-192.md), fracción III de la [Ley](articulo-1.md), se entenderá que se cumple con el requisito de inversión que establece dicha fracción, cuando a más tardar al 31 de diciembre del cuarto año de operaciones del fideicomiso de que se trate, cuando menos el ochenta por ciento de su patrimonio se encuentre invertido en acciones de sociedades mexicanas residentes en México no listadas en bolsas al momento de la inversión o en otorgarles financiamiento.
 
 La institución fiduciaria deberá mantener el porcentaje de inversión previsto en el párrafo anterior, durante cada año de operación y subsecuentes al cuarto año. Dicha institución también determinará el porcentaje de inversión al 31 de diciembre del ejercicio fiscal que corresponda, conforme al párrafo cuarto de este artículo.
 
-En el caso de que el patrimonio del fideicomiso no se invierta conforme al primer párrafo de este artículo a más tardar al 31 de diciembre del cuarto año de operaciones de dicho fideicomiso, se considerará que éste no se ubica en el supuesto previsto en el artículo 192, fracción III de la Ley.
+En el caso de que el patrimonio del fideicomiso no se invierta conforme al primer párrafo de este artículo a más tardar al 31 de diciembre del cuarto año de operaciones de dicho fideicomiso, se considerará que éste no se ubica en el supuesto previsto en el artículo [192](../../lisr/markdown/articulo-192.md), fracción III de la Ley.
 
 Para efectos de la determinación del porcentaje de inversión, la institución fiduciaria estará a lo siguiente:
 

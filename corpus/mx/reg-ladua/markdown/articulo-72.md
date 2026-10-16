@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 72
 
-Para efectos del artículo 45, primer párrafo de la [Ley](articulo-1.md), la muestra deberá estar contenida en un recipiente debidamente empacado y sellado, con el nombre y firma de cualquiera de las siguientes personas: el importador, exportador, representante legal o sus auxiliares, agente aduanal, mandatario, empleado o dependiente autorizado. Asimismo, deberá anexar promoción que contenga lo siguiente:
+Para efectos del artículo [45](../../ladua/markdown/articulo-45.md), primer párrafo de la [Ley](articulo-1.md), la muestra deberá estar contenida en un recipiente debidamente empacado y sellado, con el nombre y firma de cualquiera de las siguientes personas: el importador, exportador, representante legal o sus auxiliares, agente aduanal, mandatario, empleado o dependiente autorizado. Asimismo, deberá anexar promoción que contenga lo siguiente:
 
 I. La fecha y el lugar donde se realizó la toma de muestra;
 

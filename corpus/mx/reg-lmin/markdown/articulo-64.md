@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 64
 
-Para los efectos del artículo 31 de la Ley, se tendrá por suspendida temporalmente la obligación de ejecutar las obras y trabajos de exploración y de explotación cuando se acredite a la Secretaría, respecto de la concesión o concesiones mineras correspondientes, cualquiera de las causas siguientes:
+Para los efectos del artículo [31](../../lmin/markdown/articulo-31.md) de la Ley, se tendrá por suspendida temporalmente la obligación de ejecutar las obras y trabajos de exploración y de explotación cuando se acredite a la Secretaría, respecto de la concesión o concesiones mineras correspondientes, cualquiera de las causas siguientes:
 
 I. La imposibilidad técnica o incosteabilidad económica de llevar a cabo las obras y trabajos de exploración o explotación, mediante declaración por escrito;
 

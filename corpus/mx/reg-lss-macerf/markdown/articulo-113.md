@@ -39,4 +39,4 @@ Igualmente será rechazada la cédula de determinación presentada en documento 
 
 El patrón determinará las cuotas obrero patronales mediante el programa informático autorizado por el Instituto, cuando tenga cinco o más trabajadores.
 
-Los patrones que tengan menos de cinco trabajadores, podrán optar por cumplir dicha obligación utilizando la propuesta de cédula de determinación elaborada y entregada por el Instituto conforme al artículo 39 A de la Ley.
+Los patrones que tengan menos de cinco trabajadores, podrán optar por cumplir dicha obligación utilizando la propuesta de cédula de determinación elaborada y entregada por el Instituto conforme al artículo [39](../../lss/markdown/articulo-39.md) A de la Ley.

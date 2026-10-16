@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 86
 
-La Secretaría puede definir criterios adicionales para reconocer el otorgamiento de los Certificados de Energías Limpias a las tecnologías limpias referidas en el artículo 3 fracción XXVI de la Ley, así como cualquier otra que esta determine.
+La Secretaría puede definir criterios adicionales para reconocer el otorgamiento de los Certificados de Energías Limpias a las tecnologías limpias referidas en el artículo [3](../../lpte/markdown/articulo-3.md) fracción XXVI de la Ley, así como cualquier otra que esta determine.

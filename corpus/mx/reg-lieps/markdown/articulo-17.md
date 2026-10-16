@@ -17,7 +17,7 @@ source_sha256: cb15a70b51a87cff0f6d329d5e8a97617d71c955e46da65921037a77a83ca5f4
 
 # Artículo 17
 
-Para los efectos del artículo 19, fracción XVIII de la Ley, los contribuyentes podrán optar por destruir los envases vacíos de bebidas alcohólicas, de manera semanal, debiendo realizar la destrucción el mismo día de cada semana.
+Para los efectos del artículo [19](../../lieps/markdown/articulo-19.md), fracción XVIII de la Ley, los contribuyentes podrán optar por destruir los envases vacíos de bebidas alcohólicas, de manera semanal, debiendo realizar la destrucción el mismo día de cada semana.
 
 Los contribuyentes que opten por lo dispuesto en este artículo, deberán raspar la etiqueta, la contraetiqueta y el marbete, que estén adheridos a los envases vacíos que se vayan a destruir, en el momento en que se cierren las operaciones del día, registrando el número de folio de los marbetes que se raspen.
 

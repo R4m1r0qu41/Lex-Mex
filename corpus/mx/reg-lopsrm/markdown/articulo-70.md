@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 70
 
-Las dependencias y entidades que realicen la cancelación de una licitación pública en términos del párrafo segundo del artículo 40 de la [Ley](articulo-2.md), deberán notificar por escrito a los licitantes y al órgano interno de control, dentro de los diez días hábiles siguientes a la cancelación, las razones justificadas que funden y motiven dicha determinación y cubrirán los gastos no recuperables que, en su caso, procedan, siempre que sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación pública correspondiente.
+Las dependencias y entidades que realicen la cancelación de una licitación pública en términos del párrafo segundo del artículo [40](../../lopsrm/markdown/articulo-40.md) de la [Ley](articulo-2.md), deberán notificar por escrito a los licitantes y al órgano interno de control, dentro de los diez días hábiles siguientes a la cancelación, las razones justificadas que funden y motiven dicha determinación y cubrirán los gastos no recuperables que, en su caso, procedan, siempre que sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación pública correspondiente.
 
 El pago de los gastos no recuperables se limitará a los siguientes conceptos:
 

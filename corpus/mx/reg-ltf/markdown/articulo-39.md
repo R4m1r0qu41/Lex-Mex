@@ -19,4 +19,4 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 La custodia de valores o documentos que representen inversiones financieras del Gobierno Federal corresponde a las Dependencias coordinadoras de sector a partir de su emisión hasta su entrega a la Tesorería o a la institución para el depósito de valores autorizada conforme a la [Ley](articulo-2.md) del Mercado de Valores.
 
-La custodia de los valores o documentos a que se refiere esta Sección se realizará por la Tesorería una vez que los reciba, en términos del artículo 16 de la Ley.
+La custodia de los valores o documentos a que se refiere esta Sección se realizará por la Tesorería una vez que los reciba, en términos del artículo [16](../../ltf/markdown/articulo-16.md) de la Ley.

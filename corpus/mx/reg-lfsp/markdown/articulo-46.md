@@ -17,4 +17,4 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 # Artículo 46
 
-La autorización, revalidación y verificación de los centros de capacitación privados estará sujeta, a los mismos plazos, términos y condiciones señalados por la [Ley](articulo-2.md) y el presente Reglamento para los Prestadores de Servicios, específicamente lo previsto en los artículos 18, 19, 20, 22, 23, 36, 37 y 38 de la Ley.
+La autorización, revalidación y verificación de los centros de capacitación privados estará sujeta, a los mismos plazos, términos y condiciones señalados por la [Ley](articulo-2.md) y el presente Reglamento para los Prestadores de Servicios, específicamente lo previsto en los artículos [18](../../lfsp/markdown/articulo-18.md), [19](../../lfsp/markdown/articulo-19.md), [20](../../lfsp/markdown/articulo-20.md), [22](../../lfsp/markdown/articulo-22.md), [23](../../lfsp/markdown/articulo-23.md), [36](../../lfsp/markdown/articulo-36.md), [37](../../lfsp/markdown/articulo-37.md) y [38](../../lfsp/markdown/articulo-38.md) de la Ley.

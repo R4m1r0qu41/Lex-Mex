@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 134
 
-Para efectos de los artículos 40 C y 40 D de la Ley, se requerirá autorización previa del Instituto para el pago en parcialidades o diferido en el caso de los patrones siguientes:
+Para efectos de los artículos [40](../../lss/markdown/articulo-40.md) C y [40](../../lss/markdown/articulo-40.md) D de la Ley, se requerirá autorización previa del Instituto para el pago en parcialidades o diferido en el caso de los patrones siguientes:
 
 I. Las sociedades controladoras y controladas, a que se refiere la Ley del Impuesto sobre la Renta;
 

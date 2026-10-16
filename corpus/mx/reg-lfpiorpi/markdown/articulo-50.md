@@ -29,4 +29,4 @@ IV. El establecimiento de los criterios y, en su caso, formatos mediante los cua
 
 V. Los términos y condiciones para el manejo y reserva que se le dará a la referida información y documentación.
 
-La UIF no podrá proporcionar información o documentación, ni garantizar el acceso a sus bases de datos, cuando no se haya suscrito el convenio de coordinación referido en el presente artículo, en los términos a que se refiere el artículo 43 de la Ley.
+La UIF no podrá proporcionar información o documentación, ni garantizar el acceso a sus bases de datos, cuando no se haya suscrito el convenio de coordinación referido en el presente artículo, en los términos a que se refiere el artículo [43](../../lfpiorpi/markdown/articulo-43.md) de la Ley.

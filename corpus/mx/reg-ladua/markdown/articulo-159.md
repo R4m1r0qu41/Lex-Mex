@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 159
 
-Para efectos del artículo 106, fracción IV, inciso b) de la [Ley](articulo-1.md), se podrán importar los menajes de casa de residente temporal y residente temporal estudiante, siempre que se cumplan los siguientes requisitos:
+Para efectos del artículo [106](../../ladua/markdown/articulo-106.md), fracción IV, inciso b) de la [Ley](articulo-1.md), se podrán importar los menajes de casa de residente temporal y residente temporal estudiante, siempre que se cumplan los siguientes requisitos:
 
 I. Acreditar la condición de estancia, conforme a la legislación aplicable;
 

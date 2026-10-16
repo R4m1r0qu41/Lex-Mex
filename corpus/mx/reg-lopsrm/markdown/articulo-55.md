@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 55
 
-Para el debido ejercicio de las funciones señaladas en la fracción IV del artículo 27 Bis de la [Ley](articulo-2.md), los testigos sociales deberán:
+Para el debido ejercicio de las funciones señaladas en la fracción IV del artículo [27 Bis](../../lopsrm/markdown/articulo-27-Bis.md) de la [Ley](articulo-2.md), los testigos sociales deberán:
 
 I. Conducirse de manera objetiva, independiente, imparcial, honesta y ética;
 

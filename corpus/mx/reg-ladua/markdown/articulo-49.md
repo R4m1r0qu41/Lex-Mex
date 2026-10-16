@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 49
 
-La toma de muestras y el examen de Mercancías a que se refiere el artículo 25 de la [Ley](articulo-1.md), procederá previa solicitud justificada del interesado, en cuyo caso, el encargado del recinto fiscal o fiscalizado vigilará la operación.
+La toma de muestras y el examen de Mercancías a que se refiere el artículo [25](../../ladua/markdown/articulo-25.md) de la [Ley](articulo-1.md), procederá previa solicitud justificada del interesado, en cuyo caso, el encargado del recinto fiscal o fiscalizado vigilará la operación.
 
 En estos casos, para la salida de las muestras del recinto fiscal o fiscalizado, no se requerirá presentar Pedimento, siempre que las muestras autorizadas sean incluidas en el Pedimento que corresponda al resto de las Mercancías de comercio exterior de que se trate, conforme a las Reglas que al efecto emita el [SAT](articulo-1.md).

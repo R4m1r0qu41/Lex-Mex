@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 23
 
-El Consejo de Administración, a propuesta debidamente justificada y presentada por al menos dos de sus integrantes, puede establecer los comités que considere necesarios para el desarrollo eficiente de las actividades de Petróleos Mexicanos, con independencia de los previstos en el artículo 42 de la Ley.
+El Consejo de Administración, a propuesta debidamente justificada y presentada por al menos dos de sus integrantes, puede establecer los comités que considere necesarios para el desarrollo eficiente de las actividades de Petróleos Mexicanos, con independencia de los previstos en el artículo [42](../../lepepm/markdown/articulo-42.md) de la Ley.

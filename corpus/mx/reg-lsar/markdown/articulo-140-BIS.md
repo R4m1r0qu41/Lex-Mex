@@ -19,7 +19,7 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 Cuando la Comisión solicite de los Participantes en los Sistemas de Ahorro para el Retiro y demás personas y entidades sujetas a la inspección y vigilancia de la Comisión, informes, datos o documentos o solicite la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de vigilancia, fuera de una visita de inspección, se estará a lo siguiente:
 
-I. La solicitud se notificará de conformidad con lo establecido en el artículo 111 de la [Ley](articulo-2o.md);
+I. La solicitud se notificará de conformidad con lo establecido en el artículo [111](../../lsar/markdown/articulo-111.md) de la [Ley](articulo-2o.md);
 
 II. La solicitud señalará el lugar y el plazo en el cual se deben proporcionar los informes, datos o documentos;
 

@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 39
 
-Para efectos del artículo 20, fracciones III y IV, de la Ley, las ZVP deben de ser integradas en la “Publicación de Información Aeronáutica” como una MMR en coordinación con la AFAC y SENEAM, a solicitud del Centro, y difundidas mediante un aviso emitido por medio de telecomunicaciones aeronáuticas, de conformidad con las disposiciones jurídicas aplicables.
+Para efectos del artículo [20](../../lpeam/markdown/articulo-20.md), fracciones III y IV, de la Ley, las ZVP deben de ser integradas en la “Publicación de Información Aeronáutica” como una MMR en coordinación con la AFAC y SENEAM, a solicitud del Centro, y difundidas mediante un aviso emitido por medio de telecomunicaciones aeronáuticas, de conformidad con las disposiciones jurídicas aplicables.

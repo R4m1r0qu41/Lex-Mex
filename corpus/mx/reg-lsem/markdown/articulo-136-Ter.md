@@ -17,7 +17,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 136 Ter
 
-Para los efectos establecidos en el artículo 55-BIS de la Ley, tanto las aportaciones de los Miembros del Servicio Exterior, así como las del Gobierno Federal para financiar el fondo para el apoyo económico complementario se depositarán, individualizarán e invertirán en un Fondo de Previsión Social contratado por la Secretaría con una administradora de fondos de ahorro para el retiro, de conformidad con lo siguiente:
+Para los efectos establecidos en el artículo [55-BIS](../../lsem/markdown/articulo-55-BIS.md) de la Ley, tanto las aportaciones de los Miembros del Servicio Exterior, así como las del Gobierno Federal para financiar el fondo para el apoyo económico complementario se depositarán, individualizarán e invertirán en un Fondo de Previsión Social contratado por la Secretaría con una administradora de fondos de ahorro para el retiro, de conformidad con lo siguiente:
 
 I. Para la supervisión y control interno del funcionamiento del Fondo, se creará un Comité Técnico, que será el órgano colegiado máximo de vigilancia del Fondo y órgano de apoyo de la Secretaría para la toma de decisiones en lo que respecta a la administración de los recursos con los que se prestará el apoyo económico complementario;
 

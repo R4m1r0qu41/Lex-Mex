@@ -23,4 +23,4 @@ I. El liquidador designado informará mensualmente a las Secretarías Hacienda y
 
 II. El liquidador someterá al dictamen del auditor designado por la Secretaría de la Contraloría General de la Federación, los estados financieros inicial y final de liquidación, y, cuando proceda, los anuales intermedios, y
 
-III. La dependencia coordinadora del sector al que corresponda lo empresa, intervendrá en el proceso en los términos del artículo 39 de la [Ley](articulo-2o.md).
+III. La dependencia coordinadora del sector al que corresponda lo empresa, intervendrá en el proceso en los términos del artículo [39](../../lfep/markdown/articulo-39.md) de la [Ley](articulo-2o.md).

@@ -17,4 +17,4 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 97
 
-Para efectos de lo dispuesto en el artículo 80 de la Ley, el Instituto establecerá los procedimientos correspondientes, previa opinión de las autoridades competentes.
+Para efectos de lo dispuesto en el artículo [80](../../lmigra/markdown/articulo-80.md) de la Ley, el Instituto establecerá los procedimientos correspondientes, previa opinión de las autoridades competentes.

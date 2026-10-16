@@ -17,6 +17,6 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 13
 
-Quienes por su ocupación, profesión, actividad, giro u objeto social sean susceptibles de realizar una Actividad Vulnerable de las establecidas en el artículo 17 de la Ley, podrán enviar al SAT la información a que se refiere el [artículo anterior](articulo-12-Bis.md), de manera anticipada a la realización de dichas actividades a través de los medios y formatos que para tal efecto determine y expida la UIF, mediante publicación en el Diario Oficial de la Federación.
+Quienes por su ocupación, profesión, actividad, giro u objeto social sean susceptibles de realizar una Actividad Vulnerable de las establecidas en el artículo [17](../../lfpiorpi/markdown/articulo-17.md) de la Ley, podrán enviar al SAT la información a que se refiere el [artículo anterior](articulo-12-Bis.md), de manera anticipada a la realización de dichas actividades a través de los medios y formatos que para tal efecto determine y expida la UIF, mediante publicación en el Diario Oficial de la Federación.
 
 Artículo reformado DOF 27-03-2026

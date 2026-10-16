@@ -23,4 +23,4 @@ El personal administrativo de la [Institución](articulo-2.md), que no pertenezc
 
 El personal que integre las unidades administrativas a que se refiere el artículo 18, fracciones III, IV, V, VI y VII del Reglamento podrá ser trabajador de confianza o [Integrante de Carrera](articulo-2.md). En este último caso deberá cumplir con los requisitos de antigüedad y jerarquía correspondientes.
 
-La observancia de los deberes contenidos en los artículos 60 de la Ley y 159 del Reglamento, es un requisito de permanencia en la Institución.
+La observancia de los deberes contenidos en los artículos [60](../../lgn/markdown/articulo-60.md) de la Ley y 159 del Reglamento, es un requisito de permanencia en la Institución.

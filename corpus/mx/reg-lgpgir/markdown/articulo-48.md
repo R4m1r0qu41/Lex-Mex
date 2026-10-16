@@ -17,7 +17,7 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 48
 
-Para obtener autorización, en términos del artículo 50 de la [Ley](articulo-2.md), con excepción de la importación y exportación de residuos peligrosos que se sujetarán a lo previsto en el Título Quinto de este [Reglamento](articulo-2.md), los interesados deberán presentar solicitud, mediante formato que expida la Secretaría, la cual contendrá la siguiente información:
+Para obtener autorización, en términos del artículo [50](../../lgpgir/markdown/articulo-50.md) de la [Ley](articulo-2.md), con excepción de la importación y exportación de residuos peligrosos que se sujetarán a lo previsto en el Título Quinto de este [Reglamento](articulo-2.md), los interesados deberán presentar solicitud, mediante formato que expida la Secretaría, la cual contendrá la siguiente información:
 
 I. Datos generales de la persona, que incluyan nombre, denominación o razón social, domicilio, teléfono, fax, el domicilio o dirección electrónica para recibir notificaciones y ubicación de las instalaciones expresada en coordenadas geográficas. En este apartado, el solicitante señalará
 

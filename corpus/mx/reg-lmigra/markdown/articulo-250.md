@@ -17,4 +17,4 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 250
 
-Se impondrá multa de cien a mil días de salario mínimo general vigente en el Distrito Federal, al propietario de las aeronaves y embarcaciones de carácter privado que efectúen transporte internacional de pasajeros y no transmitan electrónicamente la información a que hace referencia el artículo 46 de la Ley.
+Se impondrá multa de cien a mil días de salario mínimo general vigente en el Distrito Federal, al propietario de las aeronaves y embarcaciones de carácter privado que efectúen transporte internacional de pasajeros y no transmitan electrónicamente la información a que hace referencia el artículo [46](../../lmigra/markdown/articulo-46.md) de la Ley.

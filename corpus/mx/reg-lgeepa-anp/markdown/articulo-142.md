@@ -17,10 +17,10 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 142
 
-Las violaciones a los preceptos de este Reglamento, así como las que del mismo deriven, serán sancionadas administrativamente por la Secretaría, por conducto de la Procuraduría Federal de Protección al Ambiente, con una o más de las sanciones previstas en el artículo 171 de la Ley.
+Las violaciones a los preceptos de este Reglamento, así como las que del mismo deriven, serán sancionadas administrativamente por la Secretaría, por conducto de la Procuraduría Federal de Protección al Ambiente, con una o más de las sanciones previstas en el artículo [171](../../lgeepa/markdown/articulo-171.md) de la Ley.
 
 Cuando haya vencido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda del monto máximo permitido, en la fracción I del artículo referido en el párrafo anterior.
 
 En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del doble del máximo permitido.
 
-Para efectos del presente artículo, la reincidencia se entenderá en los mismos términos del último párrafo del artículo 171 de la Ley.
+Para efectos del presente artículo, la reincidencia se entenderá en los mismos términos del último párrafo del artículo [171](../../lgeepa/markdown/articulo-171.md) de la Ley.

@@ -35,11 +35,11 @@ VII. La Procuraduría: La Procuraduría Agraria;
 
 VIII. La Secretaría: La Secretaría de la Reforma Agraria;
 
-IX. Núcleo agrario: Los núcleos de población a que se refiere el artículo 9o. de la Ley, constituido mediante:
+IX. Núcleo agrario: Los núcleos de población a que se refiere el artículo [9](../../lagra/markdown/articulo-9o.md)o. de la Ley, constituido mediante:
 
 a) Resolución Presidencial; b) Sentencia de Tribunales Agrarios, o
 
-c) Acuerdo de voluntades, de conformidad con lo establecido en los artículos 90 y 91 de la Ley;
+c) Acuerdo de voluntades, de conformidad con lo establecido en los artículos [90](../../lagra/markdown/articulo-90.md) y [91](../../lagra/markdown/articulo-91.md) de la Ley;
 
 X. Propiedad rural: El derecho que se tiene sobre los predios rústicos, esto es, aquéllos que se encuentran ubicados fuera de la zona urbana de la ciudad en territorio nacional, independientemente del régimen de propiedad al que pertenezcan, y
 
@@ -49,4 +49,4 @@ a) Resolución Presidencial;
 
 b) Sentencia de Tribunales Agrarios, o
 
-c) Acuerdo de Asamblea del núcleo agrario, de conformidad con el artículo 56 de la Ley.
+c) Acuerdo de Asamblea del núcleo agrario, de conformidad con el artículo [56](../../lagra/markdown/articulo-56.md) de la Ley.

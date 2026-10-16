@@ -17,4 +17,4 @@ source_sha256: 7e1c33029ca423d65491911d15e2f1b436ed269540148af1e4787570441ac0b6
 
 # Artículo 18
 
-La Clasificación Nacional de [Discapacidades](articulo-2.md) a que se refiere el artículo 10 de la Ley, será emitida por la Secretaría de Salud, en coordinación con el Consejo, mediante Acuerdo que se publicará en el Diario Oficial de la Federación. Las modificaciones al Acuerdo a que se refiere el párrafo anterior, deberán publicarse en el Diario Oficial de la Federación.
+La Clasificación Nacional de [Discapacidades](articulo-2.md) a que se refiere el artículo [10](../../lgipd/markdown/articulo-10.md) de la Ley, será emitida por la Secretaría de Salud, en coordinación con el Consejo, mediante Acuerdo que se publicará en el Diario Oficial de la Federación. Las modificaciones al Acuerdo a que se refiere el párrafo anterior, deberán publicarse en el Diario Oficial de la Federación.

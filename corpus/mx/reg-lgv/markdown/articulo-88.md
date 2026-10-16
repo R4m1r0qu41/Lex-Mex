@@ -17,4 +17,4 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 88
 
-Para cubrir la ayuda inmediata prevista en los artículos 30, último párrafo y 37, de la Ley, además de lo previsto en los incisos a) y b) de la fracción I, del artículo [82](articulo-82.md) del presente Reglamento, se debe incluir la comprobación de gastos mediante documentación que cubra los requisitos fiscales y declaración bajo protesta de decir verdad, en la que se incluya una narración sucinta de los hechos.
+Para cubrir la ayuda inmediata prevista en los artículos [30](../../lgv/markdown/articulo-30.md), último párrafo y [37](../../lgv/markdown/articulo-37.md), de la Ley, además de lo previsto en los incisos a) y b) de la fracción I, del artículo [82](articulo-82.md) del presente Reglamento, se debe incluir la comprobación de gastos mediante documentación que cubra los requisitos fiscales y declaración bajo protesta de decir verdad, en la que se incluya una narración sucinta de los hechos.

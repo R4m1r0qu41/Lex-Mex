@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 224
 
-Para efectos del artículo 133 de la [Ley](articulo-1.md), las instituciones de seguros, en lugar de efectuar la retención en los términos del citado precepto, podrán efectuarla aplicando una tasa del 20% sobre los intereses reales.
+Para efectos del artículo [133](../../lisr/markdown/articulo-133.md) de la [Ley](articulo-1.md), las instituciones de seguros, en lugar de efectuar la retención en los términos del citado precepto, podrán efectuarla aplicando una tasa del 20% sobre los intereses reales.

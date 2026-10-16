@@ -21,7 +21,7 @@ Tratándose de solicitudes de corrección administrativa a las coordenadas del p
 
 I. La Secretaría, dentro de los quince días siguientes a la recepción de los trabajos periciales, determinará, en los casos en que resulte posible alguna afectación de derechos, si es necesaria la realización de una visita de inspección y, en caso de serlo, notificará esta situación al particular dentro del mismo plazo, haciéndole saber el costo de la visita, de conformidad con la Ley Federal de Derechos, y le fijará un plazo de cinco días, contado a partir de la fecha del recibo del oficio relativo, para que acredite el pago de la misma. Si no se acredita el pago, la Secretaría tendrá al interesado por desistido de su solicitud;
 
-II. Dentro de los siguientes quince días a la acreditación del pago anterior, la Secretaría efectuará la visita de inspección con arreglo a lo dispuesto por el artículo 53 de la Ley;
+II. Dentro de los siguientes quince días a la acreditación del pago anterior, la Secretaría efectuará la visita de inspección con arreglo a lo dispuesto por el artículo [53](../../lmin/markdown/articulo-53.md) de la Ley;
 
 III. Una vez realizada la visita o concluidos los plazos a que se refieren las fracciones anteriores, sin que se hubiere determinado la realización de la visita, o bien, sin que se haya realizado la misma, según corresponda, la Secretaría deberá proceder al desahogo de las pruebas ofrecidas, dentro de los quince días siguientes, prorrogables a treinta en razón de la naturaleza de las mismas;
 

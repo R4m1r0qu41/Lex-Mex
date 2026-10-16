@@ -17,4 +17,4 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 42
 
-La entrega a la Tesorería de los valores o documentos representativos de inversiones financieras del Gobierno Federal en personas morales a que se refiere el artículo 32 de la [Ley](articulo-2.md), se formalizará mediante acta suscrita por los servidores públicos competentes de las Dependencias coordinadoras de sector y de la Tesorería.
+La entrega a la Tesorería de los valores o documentos representativos de inversiones financieras del Gobierno Federal en personas morales a que se refiere el artículo [32](../../ltf/markdown/articulo-32.md) de la [Ley](articulo-2.md), se formalizará mediante acta suscrita por los servidores públicos competentes de las Dependencias coordinadoras de sector y de la Tesorería.

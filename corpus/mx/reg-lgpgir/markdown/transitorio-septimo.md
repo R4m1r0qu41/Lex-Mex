@@ -15,7 +15,7 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # SÉPTIMO
 
-Cuando se trate de los generadores que se encuentren registrados ante la Secretaría antes de la entrada en vigor del presente [Reglamento](articulo-2.md), la categorización de generadores de residuos peligrosos a que se refiere el artículo 44 de la [Ley](articulo-2.md), se realizará tomando en consideración exclusivamente los volúmenes de residuos peligrosos generados durante los años 2004 y 2005. La categorización se llevará a cabo conforme al siguiente procedimiento:
+Cuando se trate de los generadores que se encuentren registrados ante la Secretaría antes de la entrada en vigor del presente [Reglamento](articulo-2.md), la categorización de generadores de residuos peligrosos a que se refiere el artículo [44](../../lgpgir/markdown/articulo-44.md) de la [Ley](articulo-2.md), se realizará tomando en consideración exclusivamente los volúmenes de residuos peligrosos generados durante los años 2004 y 2005. La categorización se llevará a cabo conforme al siguiente procedimiento:
 
 I. Los generadores, presentarán ante la Secretaría, dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Reglamento, una declaración en la cual autodeterminarán la categoría en la cual estiman deben quedar registrados, y
 

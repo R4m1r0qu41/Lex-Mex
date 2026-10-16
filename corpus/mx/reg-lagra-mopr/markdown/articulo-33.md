@@ -17,6 +17,6 @@ source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 
 # Artículo 33
 
-Si el ejidatario no hubiera enajenado el excedente, la Secretaría estará facultada para llevar a cabo su identificación, fraccionamiento y enajenación en los términos del artículo 47 de la Ley.
+Si el ejidatario no hubiera enajenado el excedente, la Secretaría estará facultada para llevar a cabo su identificación, fraccionamiento y enajenación en los términos del artículo [47](../../lagra/markdown/articulo-47.md) de la Ley.
 
 Para los efectos del párrafo anterior, la Secretaría solicitará al Registro que realice los trabajos técnicos, topográficos y cartográficos, ajustados a las normas técnicas emitidas por dicho Órgano Desconcentrado, para identificar y deslindar el excedente, procurando que las tierras a fraccionar sean las de menor explotación, de menor clase y que se identifiquen a partir de un lindero.

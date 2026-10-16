@@ -17,4 +17,4 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 158
 
-La asesoría técnica y el apoyo financiero a que se refiere el artículo 103 de la [Ley](articulo-2.md), se otorgará a los interesados a través de los programas en materia forestal, de conformidad con lo dispuesto en el presupuesto autorizado, así como las reglas de operación y demás disposiciones jurídicas aplicables.
+La asesoría técnica y el apoyo financiero a que se refiere el artículo [103](../../lgdfs/markdown/articulo-103.md) de la [Ley](articulo-2.md), se otorgará a los interesados a través de los programas en materia forestal, de conformidad con lo dispuesto en el presupuesto autorizado, así como las reglas de operación y demás disposiciones jurídicas aplicables.

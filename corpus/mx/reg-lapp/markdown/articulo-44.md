@@ -23,7 +23,7 @@ Dicho estudio preliminar tendrá un apartado por cada uno de los aspectos previs
 
 a) Las características, niveles de desempeño y calidad para la prestación de los servicios e infraestructura de que se trate, y
 
-b) Los demás elementos de los que se desprenda que el proyecto es técnicamente viable y se encuentra dentro de los supuestos señalados en los acuerdos que, en su caso, la dependencia o entidad haya expedido conforme con el artículo 26, párrafo segundo, de la Ley;
+b) Los demás elementos de los que se desprenda que el proyecto es técnicamente viable y se encuentra dentro de los supuestos señalados en los acuerdos que, en su caso, la dependencia o entidad haya expedido conforme con el artículo [26](../../lapp/markdown/articulo-26.md), párrafo segundo, de la Ley;
 
 II. La descripción de las autorizaciones a que se refiere el inciso b), contendrá una relación de las autorizaciones –federales, de las entidades federativas y municipales- así como los requisitos para su otorgamiento, necesarias para el desarrollo del proyecto, con las menciones que el propio inciso indica;
 

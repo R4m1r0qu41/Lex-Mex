@@ -17,7 +17,7 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 # Artículo 59
 
-El procedimiento para resolver las controversias a que se refiere el artículo 59 de la Ley, se sujetará al trámite siguiente:
+El procedimiento para resolver las controversias a que se refiere el artículo [59](../../lgcfd/markdown/articulo-59.md) de la Ley, se sujetará al trámite siguiente:
 
 I. La controversia deberá presentarse mediante escrito libre ante el COVED, dentro de los cinco días hábiles siguientes al que surta efectos la notificación o se tenga conocimiento del acto, omisión, decisión, acuerdo o resolución controvertido relacionado con el desarrollo de cualquiera de las fases de los procesos de elección de los órganos de gobierno y representación de las asociaciones deportivas nacionales; II. En el escrito se debe precisar:
 

@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 104
 
-Para los efectos de lo dispuesto en el séptimo párrafo del artículo 59 de la [Ley](articulo-2.md), los contratistas podrán promover la solicitud de reconocimiento ante las dependencias o entidades correspondientes, cuando se trate del aumento en el costo de los insumos de los trabajos no ejecutados conforme al programa de ejecución convenido, o bien las dependencias o entidades promoverán la reducción de dichos costos, conforme a lo siguiente según corresponda:
+Para los efectos de lo dispuesto en el séptimo párrafo del artículo [59](../../lopsrm/markdown/articulo-59.md) de la [Ley](articulo-2.md), los contratistas podrán promover la solicitud de reconocimiento ante las dependencias o entidades correspondientes, cuando se trate del aumento en el costo de los insumos de los trabajos no ejecutados conforme al programa de ejecución convenido, o bien las dependencias o entidades promoverán la reducción de dichos costos, conforme a lo siguiente según corresponda:
 
 I. Las dependencias y entidades solicitarán a la Secretaría de la Función Pública, la emisión de disposiciones para determinar si existen circunstancias económicas de tipo general a las que se atribuya directamente el aumento o reducción en los costos de los insumos de los trabajos no ejecutados conforme al programa de ejecución convenido por causas no imputables al contratista. Al efecto, las dependencias y entidades presentarán la información que permita a la Secretaría de la Función Pública emitir las disposiciones correspondientes, previa opinión de la Secretaría y de la Secretaría de Economía;
 

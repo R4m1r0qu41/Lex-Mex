@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 26
 
-La Procuraduría podrá requerir a los colegios, sociedades o asociaciones de profesionistas, la documentación e información que soporte con evidencia científica, objetiva y fehaciente las cualidades o propiedades del bien, producto o servicio objeto del aval, aprobación, reconocimiento o certificación del producto o servicio de que se trate, conforme a lo establecido en los términos del artículo 13 de la Ley.
+La Procuraduría podrá requerir a los colegios, sociedades o asociaciones de profesionistas, la documentación e información que soporte con evidencia científica, objetiva y fehaciente las cualidades o propiedades del bien, producto o servicio objeto del aval, aprobación, reconocimiento o certificación del producto o servicio de que se trate, conforme a lo establecido en los términos del artículo [13](../../lfpc/markdown/articulo-13.md) de la Ley.

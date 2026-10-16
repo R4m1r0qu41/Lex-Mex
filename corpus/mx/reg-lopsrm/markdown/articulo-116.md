@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 116
 
-Cuando la supervisión sea realizada por terceros, las dependencias y entidades observarán, además de los lineamientos a que se refiere el segundo párrafo del artículo 53 de la [Ley](articulo-2.md), las siguientes previsiones:
+Cuando la supervisión sea realizada por terceros, las dependencias y entidades observarán, además de los lineamientos a que se refiere el segundo párrafo del artículo [53](../../lopsrm/markdown/articulo-53.md) de la [Ley](articulo-2.md), las siguientes previsiones:
 
 I. Las funciones señaladas en el [artículo anterior](articulo-115.md), así como las que adicionalmente prevean las dependencias y entidades para cada caso particular, deberán ser congruentes con los términos de referencia respectivos y asentarse en el contrato que se suscriba, y
 

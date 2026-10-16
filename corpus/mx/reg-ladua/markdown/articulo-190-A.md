@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 190-A
 
-Para obtener el registro de empresas transportistas a que se refiere el artículo 135-A, sexto párrafo, de la [Ley](articulo-1.md), se deberá estar a lo establecido en el artículo [189](articulo-189.md) de este Reglamento.
+Para obtener el registro de empresas transportistas a que se refiere el artículo [135-A](../../ladua/markdown/articulo-135-A.md), sexto párrafo, de la [Ley](articulo-1.md), se deberá estar a lo establecido en el artículo [189](articulo-189.md) de este Reglamento.
 
 Artículo adicionado DOF 23-02-2026

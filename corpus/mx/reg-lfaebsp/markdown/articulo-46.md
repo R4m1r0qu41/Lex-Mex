@@ -17,4 +17,4 @@ source_sha256: 9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3
 
 # Artículo 46
 
-La garantía de seriedad a que se refiere el artículo 45, fracción X de la [Ley](articulo-1.md) se constituirá y, en su caso, se devolverá, de conformidad con las disposiciones establecidas por la Ley del Servicio de Tesorería de la Federación, en la forma y términos que se determinen en la convocatoria y en sus bases respectivas.
+La garantía de seriedad a que se refiere el artículo [45](../../lfaebsp/markdown/articulo-45.md), fracción X de la [Ley](articulo-1.md) se constituirá y, en su caso, se devolverá, de conformidad con las disposiciones establecidas por la Ley del Servicio de Tesorería de la Federación, en la forma y términos que se determinen en la convocatoria y en sus bases respectivas.

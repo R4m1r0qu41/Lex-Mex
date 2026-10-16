@@ -27,4 +27,4 @@ III. En el caso de ejidos y comunidades se deberá presentar original o copia ce
 
 IV. Cuando se trate de Terrenos nacionales forestales, la autoridad competente otorgará dicho consentimiento de conformidad con las disposiciones jurídicas aplicables;
 
-V. En su caso, documentos con los que se acredite el respaldo o apoyo de instituciones científicas o académicas interesadas en el proyecto, y VI. En su caso, copia certificada del convenio a que se refiere el artículo 87, párrafo segundo de la Ley.
+V. En su caso, documentos con los que se acredite el respaldo o apoyo de instituciones científicas o académicas interesadas en el proyecto, y VI. En su caso, copia certificada del convenio a que se refiere el artículo [87](../../lgdfs/markdown/articulo-87.md), párrafo segundo de la Ley.

@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 215
 
-Para efectos de lo establecido en el artículo 160, fracción I de la [Ley](articulo-1.md), el agente aduanal acreditará que está al corriente de sus obligaciones fiscales, mediante la constancia de cumplimiento de las obligaciones fiscales referida en el último párrafo del artículo [32-D](../../cff/markdown/articulo-32-D.md) del Código Fiscal de la Federación.
+Para efectos de lo establecido en el artículo [160](../../ladua/markdown/articulo-160.md), fracción I de la [Ley](articulo-1.md), el agente aduanal acreditará que está al corriente de sus obligaciones fiscales, mediante la constancia de cumplimiento de las obligaciones fiscales referida en el último párrafo del artículo [32-D](../../cff/markdown/articulo-32-D.md) del Código Fiscal de la Federación.

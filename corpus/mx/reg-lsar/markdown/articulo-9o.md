@@ -17,7 +17,7 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 9o
 
-Para determinar la dispersión máxima permitida entre la comisión mínima y la máxima a que se refiere el séptimo párrafo del artículo 37 de la [Ley](articulo-2o.md), la Junta de Gobierno de la Comisión observará los siguientes elementos:
+Para determinar la dispersión máxima permitida entre la comisión mínima y la máxima a que se refiere el séptimo párrafo del artículo [37](../../lsar/markdown/articulo-37.md) de la [Ley](articulo-2o.md), la Junta de Gobierno de la Comisión observará los siguientes elementos:
 
 I. El volumen de los activos manejados por cada [Administradora](articulo-2o.md);
 

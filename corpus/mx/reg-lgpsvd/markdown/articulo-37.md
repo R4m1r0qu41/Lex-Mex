@@ -19,4 +19,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 El Centro Nacional, en coordinación con la Subsecretaría, podrá suscribir convenios para incorporar la Participación Ciudadana y Comunitaria al diagnóstico, planeación, ejecución, monitoreo, evaluación y supervisión de las políticas de prevención social de la Violencia y la delincuencia.
 
-El contenido y requisitos para la suscripción de dichos convenios se establecerán en los lineamientos que para tales efectos emita el Centro Nacional de conformidad con el artículo 26 de la Ley.
+El contenido y requisitos para la suscripción de dichos convenios se establecerán en los lineamientos que para tales efectos emita el Centro Nacional de conformidad con el artículo [26](../../lgpsvd/markdown/articulo-26.md) de la Ley.

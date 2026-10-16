@@ -19,4 +19,4 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 Los certificados fitosanitarios de exportación de Materias primas, Productos y subproductos forestales expedidos por los países de origen, en términos de los instrumentos jurídicos internacionales de los que México sea parte, serán reconocidos para acreditar su estado fitosanitario.
 
-Los certificados a que se refiere el párrafo anterior deberán hacer constar el cumplimiento de las [Medidas fitosanitarias](articulo-2.md) exigidas por las normas oficiales mexicanas o, en su caso, las Hojas de requisitos fitosanitarios a que se refiere el artículo 68, fracción V de la [Ley](articulo-2.md).
+Los certificados a que se refiere el párrafo anterior deberán hacer constar el cumplimiento de las [Medidas fitosanitarias](articulo-2.md) exigidas por las normas oficiales mexicanas o, en su caso, las Hojas de requisitos fitosanitarios a que se refiere el artículo [68](../../lgdfs/markdown/articulo-68.md), fracción V de la [Ley](articulo-2.md).

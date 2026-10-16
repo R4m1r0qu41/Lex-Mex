@@ -17,7 +17,7 @@ source_sha256: 50d888e53a7b0990f6d19dbab03d263e01ca7d4a4365a0c2663e03caf9f2715c
 
 # Artículo 21
 
-A efecto de dar cumplimiento al artículo 12 de la [Ley](articulo-2.md), la [Secretaría](articulo-2.md) podrá llevar a cabo las siguientes acciones:
+A efecto de dar cumplimiento al artículo [12](../../lffaosc/markdown/articulo-12.md) de la [Ley](articulo-2.md), la [Secretaría](articulo-2.md) podrá llevar a cabo las siguientes acciones:
 
 I. Emitir conjuntamente con las Dependencias y Entidades los lineamientos y estrategias para la coordinación de las [Actividades](articulo-2.md);
 

@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 111
 
-Para reconocer la prioridad a que se refiere el artículo 218 de la Ley, al momento de presentar la solicitud de registro de marca, la persona solicitante deberá satisfacer los requisitos siguientes: I.- Señalar el país de origen, el número de la solicitud de registro y la fecha de presentación de la solicitud en el país de origen, cuya fecha de presentación se reclame como fecha de prioridad, y II.- Exhibir el comprobante de pago de la tarifa correspondiente.
+Para reconocer la prioridad a que se refiere el artículo [218](../../lfppi/markdown/articulo-218.md) de la Ley, al momento de presentar la solicitud de registro de marca, la persona solicitante deberá satisfacer los requisitos siguientes: I.- Señalar el país de origen, el número de la solicitud de registro y la fecha de presentación de la solicitud en el país de origen, cuya fecha de presentación se reclame como fecha de prioridad, y II.- Exhibir el comprobante de pago de la tarifa correspondiente.

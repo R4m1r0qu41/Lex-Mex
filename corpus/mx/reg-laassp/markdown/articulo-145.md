@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 145
 
-Concluido el procedimiento de rescisión de un contrato se formulará y notificará el finiquito correspondiente, dentro de los veinte días naturales siguientes a la fecha en que se notifique la rescisión, a efecto de hacer constar los pagos que deban efectuarse y demás circunstancias del caso. Al efecto, deberá considerarse lo dispuesto en la fracción III del artículo [151](articulo-151.md) del presente Reglamento, ello sin perjuicio de lo dispuesto en la fracción III del artículo 90 de la [Ley](articulo-2.md).
+Concluido el procedimiento de rescisión de un contrato se formulará y notificará el finiquito correspondiente, dentro de los veinte días naturales siguientes a la fecha en que se notifique la rescisión, a efecto de hacer constar los pagos que deban efectuarse y demás circunstancias del caso. Al efecto, deberá considerarse lo dispuesto en la fracción III del artículo [151](articulo-151.md) del presente Reglamento, ello sin perjuicio de lo dispuesto en la fracción III del artículo [90](../../laassp/markdown/articulo-90.md) de la [Ley](articulo-2.md).

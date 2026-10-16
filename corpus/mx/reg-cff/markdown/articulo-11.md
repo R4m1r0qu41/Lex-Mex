@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 11
 
-Para los efectos del artículo 17-K, fracción I del [Código](articulo-1.md), en caso de que el contribuyente ingrese a su buzón tributario para consultar los documentos digitales pendientes de notificar en día u hora inhábil, generando el acuse de recibo electrónico, la notificación se tendrá por practicada al día hábil siguiente.
+Para los efectos del artículo [17-K](../../cff/markdown/articulo-17-K.md), fracción I del [Código](articulo-1.md), en caso de que el contribuyente ingrese a su buzón tributario para consultar los documentos digitales pendientes de notificar en día u hora inhábil, generando el acuse de recibo electrónico, la notificación se tendrá por practicada al día hábil siguiente.

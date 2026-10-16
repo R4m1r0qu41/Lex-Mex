@@ -35,4 +35,4 @@ VII. Declaración de las partes de que se entregan los planos correspondientes a
 
 VIII. Constancia de que el contratista entregó a la residencia o a la supervisión los documentos derivados de la realización de los trabajos.
 
-En el acto de entrega física de los trabajos el contratista exhibirá la garantía prevista en el artículo 66 de la [Ley](articulo-2.md).
+En el acto de entrega física de los trabajos el contratista exhibirá la garantía prevista en el artículo [66](../../lopsrm/markdown/articulo-66.md) de la [Ley](articulo-2.md).

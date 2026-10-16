@@ -17,4 +17,4 @@ source_sha256: 3ff22c0d4dda5724ded6314ddc83e072cab81433b14dd9c6056e67eb5f4f8dd1
 
 # Artículo 8
 
-La información de un vehículo inscrito en el Registro permanecerá en éste, aún en los casos en que la autoridad competente o los sujetos obligados informen o den aviso de su retorno al extranjero, de su destrucción o de su baja por pérdida total, lo anterior sin perjuicio de los avisos a que se refiere el artículo 23 de la [Ley](articulo-2.md).
+La información de un vehículo inscrito en el Registro permanecerá en éste, aún en los casos en que la autoridad competente o los sujetos obligados informen o den aviso de su retorno al extranjero, de su destrucción o de su baja por pérdida total, lo anterior sin perjuicio de los avisos a que se refiere el artículo [23](../../lrpv/markdown/articulo-23.md) de la [Ley](articulo-2.md).

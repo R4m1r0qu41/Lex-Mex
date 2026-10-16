@@ -23,4 +23,4 @@ I. El monto de los gastos efectivamente realizados por el promotor, comprobados,
 
 II. El equivalente al cuatro por ciento del monto de la [Inversión Inicial](articulo-11.md) del proyecto, o del equivalente a diez millones de Unidades de Inversión, lo que resulte menor.
 
-El tercero que determine los gastos podrá ser contratado en términos del artículo 20 de la Ley, y sus honorarios serán cubiertos, por partes iguales, por el promotor y por la dependencia o entidad interesada.
+El tercero que determine los gastos podrá ser contratado en términos del artículo [20](../../lapp/markdown/articulo-20.md) de la Ley, y sus honorarios serán cubiertos, por partes iguales, por el promotor y por la dependencia o entidad interesada.

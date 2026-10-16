@@ -17,7 +17,7 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 # Artículo 20
 
-La CONADE podrá celebrar los convenios a que se refiere el artículo 42 de la Ley, con las dependencias o entidades estatales, del Distrito Federal, de las delegaciones y de los municipios, que tengan competencia en materia de Cultura Física y Deporte, cuando dichas dependencias o entidades:
+La CONADE podrá celebrar los convenios a que se refiere el artículo [42](../../lgcfd/markdown/articulo-42.md) de la Ley, con las dependencias o entidades estatales, del Distrito Federal, de las delegaciones y de los municipios, que tengan competencia en materia de Cultura Física y Deporte, cuando dichas dependencias o entidades:
 
 I. Estén registradas en el RENADE, y sean las responsables de la Cultura Física y Deporte en la entidad federativa, delegación o municipio del que se trate;
 

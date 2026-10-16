@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 235
 
-Las disposiciones de carácter general que emitan las dependencias en términos del párrafo sexto del artículo 18 de la [Ley](articulo-2.md), establecerán los requisitos técnicos y económicos que deberán reunir los estudios, planes y programas que presente cualquier persona, las entidades federativas o los municipios, de conformidad con el quinto párrafo del citado artículo.
+Las disposiciones de carácter general que emitan las dependencias en términos del párrafo sexto del artículo [18](../../lopsrm/markdown/articulo-18.md) de la [Ley](articulo-2.md), establecerán los requisitos técnicos y económicos que deberán reunir los estudios, planes y programas que presente cualquier persona, las entidades federativas o los municipios, de conformidad con el quinto párrafo del citado artículo.
 
 Las disposiciones señaladas en el párrafo anterior podrán establecer requisitos distintos a los técnicos y a los indicados en el artículo [21](articulo-21.md) de este Reglamento, siempre y cuando resulten indispensables para demostrar la viabilidad de los estudios, planes y programas presentados.
 

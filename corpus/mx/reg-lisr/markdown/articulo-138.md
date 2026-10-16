@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 138
 
-Para efectos del artículo 82, fracción IV de la [Ley](articulo-1.md), se estará a lo siguiente:
+Para efectos del artículo [82](../../lisr/markdown/articulo-82.md), fracción IV de la [Ley](articulo-1.md), se estará a lo siguiente:
 
 A. Los donativos y sus rendimientos deberán destinarse única y exclusivamente a los fines propios del objeto social autorizado de las donatarias. En ningún caso podrán dichas donatarias destinar más del 5% de los donativos y, en su caso, de los rendimientos que perciban para cubrir sus gastos de administración.
 
@@ -27,7 +27,7 @@ B. Las personas morales y fideicomisos autorizados para recibir donativos deduci
 
 I. Destinen los rendimientos que obtengan por las inversiones a que se refiere este apartado, así como las utilidades o ganancias obtenidas por la enajenación de los títulos e instrumentos financieros de que se trate, exclusivamente a los fines propios de su objeto social, en términos de las disposiciones fiscales, y
 
-II. Las acciones, los títulos de crédito, las operaciones financieras derivadas o sus subyacentes, no hayan sido emitidos por personas consideradas partes relacionadas en términos del artículo 179, párrafo quinto de la Ley, tanto residentes en México como en el extranjero. Para estos efectos, se considera que la adquisición de acciones u otros títulos de crédito no se realizan entre partes relacionadas cuando se adquieran títulos de un portafolio de inversión, cuyo objeto sea replicar el rendimiento referido a un indicador, diseñado, definido y publicado por la bolsa de valores concesionada conforme a la Ley del Mercado de Valores y siempre que dichos títulos se encuentren colocados entre el gran público inversionista;
+II. Las acciones, los títulos de crédito, las operaciones financieras derivadas o sus subyacentes, no hayan sido emitidos por personas consideradas partes relacionadas en términos del artículo [179](../../lisr/markdown/articulo-179.md), párrafo quinto de la Ley, tanto residentes en México como en el extranjero. Para estos efectos, se considera que la adquisición de acciones u otros títulos de crédito no se realizan entre partes relacionadas cuando se adquieran títulos de un portafolio de inversión, cuyo objeto sea replicar el rendimiento referido a un indicador, diseñado, definido y publicado por la bolsa de valores concesionada conforme a la Ley del Mercado de Valores y siempre que dichos títulos se encuentren colocados entre el gran público inversionista;
 
 C. Las personas morales con fines no lucrativos y los fideicomisos que cuenten con autorización para recibir donativos deducibles considerarán que destinan sus activos a fines distintos a su objeto social cuando directamente o a través de la figura del fideicomiso o por conducto de terceros:
 
@@ -37,7 +37,7 @@ II. Adquieran acciones fuera de los mercados a que se refiere el artículo [16-C
 
 III. Adquieran certificados de aportación patrimonial emitidos por las sociedades nacionales de crédito; las partes sociales o participaciones en asociaciones civiles y los certificados de participación ordinarios emitidos con base en fideicomisos sobre acciones que sean autorizados conforme a la legislación aplicable en materia de inversión extranjera, y
 
-IV. Adquieran acciones emitidas por personas consideradas partes relacionadas en términos del artículo 179, párrafo quinto de la Ley, tanto residentes en México como en el extranjero;
+IV. Adquieran acciones emitidas por personas consideradas partes relacionadas en términos del artículo [179](../../lisr/markdown/articulo-179.md), párrafo quinto de la Ley, tanto residentes en México como en el extranjero;
 
 D. Las instituciones de enseñanza autorizadas para recibir donativos en los términos de la Ley, únicamente podrán a su vez donarlos a otras instituciones de enseñanza que cuenten con la autorización antes mencionada. En el caso a que se refiere este apartado, las instituciones de enseñanza que efectúen donativos a otras instituciones de enseñanza, no deberán considerar el monto de dichos donativos para determinar el porcentaje que podrán destinar a cubrir sus gastos de administración, y
 

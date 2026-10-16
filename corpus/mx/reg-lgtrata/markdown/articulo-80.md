@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 80
 
-La Secretaría fijará los lineamientos generales establecidos en la fracción VII del artículo 113 de la Ley, a fin de establecer los indicadores que permitan evaluar las acciones y programas implementados por el Gobierno Federal, las entidades federativas, municipios y la sociedad.
+La Secretaría fijará los lineamientos generales establecidos en la fracción VII del artículo [113](../../lgtrata/markdown/articulo-113.md) de la Ley, a fin de establecer los indicadores que permitan evaluar las acciones y programas implementados por el Gobierno Federal, las entidades federativas, municipios y la sociedad.

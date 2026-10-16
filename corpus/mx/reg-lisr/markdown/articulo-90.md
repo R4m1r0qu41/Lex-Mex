@@ -17,6 +17,6 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 90
 
-Para efectos del artículo 54, fracción I, inciso f) de la [Ley](articulo-1.md), las misiones diplomáticas de estados extranjeros deberán exhibir ante la institución financiera que efectúe el pago de los intereses, la constancia emitida por la autoridad competente para certificar que el gobierno correspondiente le otorga un trato de reciprocidad a las misiones diplomáticas del Gobierno Mexicano y las condiciones y características de este tratamiento.
+Para efectos del artículo [54](../../lisr/markdown/articulo-54.md), fracción I, inciso f) de la [Ley](articulo-1.md), las misiones diplomáticas de estados extranjeros deberán exhibir ante la institución financiera que efectúe el pago de los intereses, la constancia emitida por la autoridad competente para certificar que el gobierno correspondiente le otorga un trato de reciprocidad a las misiones diplomáticas del Gobierno Mexicano y las condiciones y características de este tratamiento.
 
 Para obtener la certificación a que se refiere el párrafo anterior, las misiones diplomáticas de estados extranjeros deberán presentar ante la autoridad competente, un escrito solicitando la constancia de reciprocidad en materia del [Impuesto](articulo-1.md) y, en su caso, sus límites en cuanto al monto, tipo y demás datos relacionados con los impuestos a que estén sujetos los intereses percibidos por las misiones diplomáticas mexicanas.

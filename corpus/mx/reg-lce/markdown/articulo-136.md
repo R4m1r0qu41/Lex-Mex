@@ -17,6 +17,6 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 136
 
-Para los efectos del artículo 50 de la [Ley](articulo-1o.md), se considerarán organizaciones legalmente constituidas las cámaras, asociaciones, confederaciones, consejos o cualquiera otra agrupación de productores constituida conforme a las leyes mexicanas, que tengan por objeto la representación de los intereses de las personas físicas o morales dedicadas a la producción de las mercancías idénticas, similares o, en el caso de medidas de salvaguarda, directamente competidoras con las de importación.
+Para los efectos del artículo [50](../../lce/markdown/articulo-50.md) de la [Ley](articulo-1o.md), se considerarán organizaciones legalmente constituidas las cámaras, asociaciones, confederaciones, consejos o cualquiera otra agrupación de productores constituida conforme a las leyes mexicanas, que tengan por objeto la representación de los intereses de las personas físicas o morales dedicadas a la producción de las mercancías idénticas, similares o, en el caso de medidas de salvaguarda, directamente competidoras con las de importación.
 
 Artículo reformado DOF 22-05-2014

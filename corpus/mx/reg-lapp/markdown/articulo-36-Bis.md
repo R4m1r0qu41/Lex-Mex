@@ -21,7 +21,7 @@ La [Secretaría](articulo-11.md) someterá a la consideración de la [Comisión]
 
 I. El dictamen de viabilidad a que se refiere el artículo [30](articulo-30.md) de este Reglamento;
 
-II. La ficha técnica sobre los análisis a que se refieren las fracciones I a IX del artículo 14 de la Ley, y
+II. La ficha técnica sobre los análisis a que se refieren las fracciones I a IX del artículo [14](../../lapp/markdown/articulo-14.md) de la Ley, y
 
 III. El acuerdo de la Comisión mediante el cual se autoriza el proyecto.
 

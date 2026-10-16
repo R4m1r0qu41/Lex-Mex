@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 142
 
-Para efectos del artículo 294 de la Ley, se aplicará, en lo que resulte conducente, el procedimiento de declaración administrativa de infracción, físico o en línea, previsto en el Título Sexto del ordenamiento citado.
+Para efectos del artículo [294](../../lfppi/markdown/articulo-294.md) de la Ley, se aplicará, en lo que resulte conducente, el procedimiento de declaración administrativa de infracción, físico o en línea, previsto en el Título Sexto del ordenamiento citado.

@@ -51,7 +51,7 @@ XVI. Elaborar y Preparar: Conjunto de acciones tendientes a la obtención de Der
 
 XVII. Emplear o Usar: Utilizar Materia Prima, Derivados Farmacológicos y Medicamentos de Cannabis;
 
-XVIII. Establecimientos: Los que refiere el artículo 257 de la Ley;
+XVIII. Establecimientos: Los que refiere el artículo [257](../../lgs/markdown/articulo-257.md) de la Ley;
 
 XIX. Exportación: Salida de Derivados Farmacológicos y Medicamentos de Cannabis, del territorio nacional, bajo el régimen de exportación definitiva, en términos de la Ley Aduanera y su Reglamento;
 
@@ -69,7 +69,7 @@ XXV. Libros de Control: Compilación de registros gráficos obtenidos por cualqu
 
 XXVI. Materia Prima: Semillas, plántulas, material vegetal propagativo, tallos, hojas o inflorescencias de la Cannabis, necesarios para la elaboración de Derivados Farmacológicos o Medicamentos;
 
-XXVII. Medicamentos: Substancias o mezclas de substancias previstas en el artículo 221, fracción I de la Ley;
+XXVII. Medicamentos: Substancias o mezclas de substancias previstas en el artículo [221](../../lgs/markdown/articulo-221.md), fracción I de la Ley;
 
 XXVIII. Prescripción Médica: Acto mediante el cual un profesional de la salud, autorizado en términos de lo previsto en la Ley y este Reglamento, indica la utilización de Derivados Farmacológicos y Medicamentos de Cannabis;
 

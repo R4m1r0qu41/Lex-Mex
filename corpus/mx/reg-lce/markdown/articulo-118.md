@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 118
 
-La solicitud de parte interesada por la que se inicie una investigación administrativa en materia de salvaguarda, además de presentarse por escrito y de cumplir con los requisitos previstos en los artículos 50 y 51 de la [Ley](articulo-1o.md), se presentará con el formulario que expida la [Secretaría](articulo-1o.md), la que contendrá lo siguiente:
+La solicitud de parte interesada por la que se inicie una investigación administrativa en materia de salvaguarda, además de presentarse por escrito y de cumplir con los requisitos previstos en los artículos [50](../../lce/markdown/articulo-50.md) y [51](../../lce/markdown/articulo-51.md) de la [Ley](articulo-1o.md), se presentará con el formulario que expida la [Secretaría](articulo-1o.md), la que contendrá lo siguiente:
 
 I. La autoridad administrativa competente ante la cual se promueva;
 

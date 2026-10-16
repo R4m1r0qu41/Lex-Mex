@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 123
 
-Los productos que se vendan o el establecimiento en donde se presten servicios a los que se aplique una marca registrada, bajo licencia o franquicia, deberán indicar, además de lo señalado en el artículo 242 de la Ley, los siguientes datos: I.- El nombre y domicilio de la persona titular de la marca registrada; II.- El nombre y domicilio de la persona licenciataria de la marca o de la persona franquiciataria, y III.- Que el uso se efectúa bajo licencia de la marca registrada.
+Los productos que se vendan o el establecimiento en donde se presten servicios a los que se aplique una marca registrada, bajo licencia o franquicia, deberán indicar, además de lo señalado en el artículo [242](../../lfppi/markdown/articulo-242.md) de la Ley, los siguientes datos: I.- El nombre y domicilio de la persona titular de la marca registrada; II.- El nombre y domicilio de la persona licenciataria de la marca o de la persona franquiciataria, y III.- Que el uso se efectúa bajo licencia de la marca registrada.

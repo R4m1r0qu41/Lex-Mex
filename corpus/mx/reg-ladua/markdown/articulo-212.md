@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 212
 
-La convocatoria a la que se refiere el artículo 159, segundo párrafo, de la [Ley](articulo-1.md), se realizará mediante publicación en el Diario Oficial de la Federación en atención a las necesidades detectadas por las Autoridades Aduaneras con motivo del análisis de las operaciones de comercio exterior, de lo cual se dará parte al [Consejo Aduanero](articulo-1.md) a que se refiere el artículo 159 bis de la Ley.
+La convocatoria a la que se refiere el artículo [159](../../ladua/markdown/articulo-159.md), segundo párrafo, de la [Ley](articulo-1.md), se realizará mediante publicación en el Diario Oficial de la Federación en atención a las necesidades detectadas por las Autoridades Aduaneras con motivo del análisis de las operaciones de comercio exterior, de lo cual se dará parte al [Consejo Aduanero](articulo-1.md) a que se refiere el artículo [159 bis](../../ladua/markdown/articulo-159-bis.md) de la Ley.
 
 Artículo reformado DOF 23-02-2026

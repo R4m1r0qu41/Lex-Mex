@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 8
 
-La aplicación de las medidas de apremio contenidas en el artículo 25 de la Ley se realizará conforme a las disposiciones establecidas en la Ley y el presente Reglamento.
+La aplicación de las medidas de apremio contenidas en el artículo [25](../../lfpc/markdown/articulo-25.md) de la Ley se realizará conforme a las disposiciones establecidas en la Ley y el presente Reglamento.

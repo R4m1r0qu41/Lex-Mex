@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 283
 
-A partir de la información que obtenga la Secretaría de la Función Pública en ejercicio de sus facultades de verificación a que se refiere el artículo 75 de la [Ley](articulo-2.md), podrá iniciar, en cualquier tiempo, intervenciones de oficio, las cuales en ningún caso procederán a petición de parte.
+A partir de la información que obtenga la Secretaría de la Función Pública en ejercicio de sus facultades de verificación a que se refiere el artículo [75](../../lopsrm/markdown/articulo-75.md) de la [Ley](articulo-2.md), podrá iniciar, en cualquier tiempo, intervenciones de oficio, las cuales en ningún caso procederán a petición de parte.

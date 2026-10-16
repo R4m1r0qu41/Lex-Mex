@@ -17,7 +17,7 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 82
 
-Cuando el importador no haya seleccionado su opción en el plazo establecido en el artículo 30 de la [Ley](articulo-2.md) y la Secretaría opte por realizar la destrucción de las [Mercancías Reguladas](articulo-2.md), se podrán aplicar algunas de las alternativas siguientes:
+Cuando el importador no haya seleccionado su opción en el plazo establecido en el artículo [30](../../lfsv/markdown/articulo-30.md) de la [Ley](articulo-2.md) y la Secretaría opte por realizar la destrucción de las [Mercancías Reguladas](articulo-2.md), se podrán aplicar algunas de las alternativas siguientes:
 
 I. La incineración, consistente en que las Mercancías Reguladas deben ser quemadas en incineradores, hornos o por otro medio que garantice que sean consumidas por el fuego;
 

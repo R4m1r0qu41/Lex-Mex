@@ -17,4 +17,4 @@ source_sha256: 4da07bf61648a9d04725e2d49db4d867b7882c9bf2ed5d794bde76b64491cddf
 
 # Artículo 42
 
-El Servicio Nacional de Capacitación y Asistencia Técnica Rural Integral estará dirigido por un consejo interno, cuya integración, organización y funcionamiento se regulará de conformidad con lo dispuesto por el artículo 48 de la Ley y los Lineamientos Generales de Operación que emita la Comisión Intersecretarial para dicho Servicio.
+El Servicio Nacional de Capacitación y Asistencia Técnica Rural Integral estará dirigido por un consejo interno, cuya integración, organización y funcionamiento se regulará de conformidad con lo dispuesto por el artículo [48](../../ldrs/markdown/articulo-48.md) de la Ley y los Lineamientos Generales de Operación que emita la Comisión Intersecretarial para dicho Servicio.

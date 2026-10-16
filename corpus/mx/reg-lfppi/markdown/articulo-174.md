@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 174
 
-Para efectos de lo establecido en la fracción II del artículo 349 de la Ley, al momento de levantar las medidas provisionales solicitadas, el Instituto decidirá el destino de la garantía otorgada.
+Para efectos de lo establecido en la fracción II del artículo [349](../../lfppi/markdown/articulo-349.md) de la Ley, al momento de levantar las medidas provisionales solicitadas, el Instituto decidirá el destino de la garantía otorgada.

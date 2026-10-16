@@ -17,4 +17,4 @@ source_sha256: 066103556290f57dca17504bd178aeb645dff97b3a5e05bf4925e9353204e064
 
 # Artículo 7
 
-La Secretaría incorporará en el Sistema Nacional de Información Básica en Materia de Salud, las variables que correspondan a la atención médica que reciben las Personas con la Condición del Espectro Autista por parte de los integrantes del Sistema Nacional de Salud; la infraestructura utilizada para tal fin, así como el padrón a que se refiere la fracción VII del artículo 16 de la Ley.
+La Secretaría incorporará en el Sistema Nacional de Información Básica en Materia de Salud, las variables que correspondan a la atención médica que reciben las Personas con la Condición del Espectro Autista por parte de los integrantes del Sistema Nacional de Salud; la infraestructura utilizada para tal fin, así como el padrón a que se refiere la fracción VII del artículo [16](../../lgappcea/markdown/articulo-16.md) de la Ley.

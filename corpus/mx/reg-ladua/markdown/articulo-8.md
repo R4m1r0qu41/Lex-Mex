@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 8
 
-Para efectos de lo dispuesto en el artículo 9o. de la [Ley](articulo-1.md), la obligación de declarar a las Autoridades Aduaneras el ingreso o salida del territorio nacional, cantidades de dinero en efectivo, cheques nacionales o extranjeros incluidos los cheques de viajero, órdenes de pago o cualquier otro documento por cobrar, o una combinación de ellos, será aplicable a:
+Para efectos de lo dispuesto en el artículo [9](../../ladua/markdown/articulo-9o.md)o. de la [Ley](articulo-1.md), la obligación de declarar a las Autoridades Aduaneras el ingreso o salida del territorio nacional, cantidades de dinero en efectivo, cheques nacionales o extranjeros incluidos los cheques de viajero, órdenes de pago o cualquier otro documento por cobrar, o una combinación de ellos, será aplicable a:
 
 I. Las personas físicas que actúen por cuenta propia o de terceros;
 

@@ -17,4 +17,4 @@ source_sha256: 9fedca5f25e5e912e6a91ad595c8782841e8227ffe9538bfb55c8d0bd4d7d183
 
 # Artículo 65
 
-La intervención del representante de la Secretaría a que se contrae el artículo 57 de la Ley, tendrá por objeto comprobar que los efectos importados o por exportar, corresponden a los anotados en el permiso respectivo.
+La intervención del representante de la Secretaría a que se contrae el artículo [57](../../lfafe/markdown/articulo-57.md) de la Ley, tendrá por objeto comprobar que los efectos importados o por exportar, corresponden a los anotados en el permiso respectivo.

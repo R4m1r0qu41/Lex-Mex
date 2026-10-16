@@ -25,7 +25,7 @@ II. Se busque el mayor beneficio social posible;
 
 III. No vulnere la soberanía nacional;
 
-IV. Cuenten con la opinión de alguno de los comités previstos en el artículo 20 de la [Ley](articulo-2.md);
+IV. Cuenten con la opinión de alguno de los comités previstos en el artículo [20](../../lgpc/markdown/articulo-20.md) de la [Ley](articulo-2.md);
 
 V. Su ejecución se realice conforme a una agenda de cooperación no objetada por la Secretaría de Relaciones Exteriores, y
 

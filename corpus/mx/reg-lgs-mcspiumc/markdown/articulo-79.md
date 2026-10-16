@@ -27,4 +27,4 @@ III. [Libros de Control](articulo-3.md);
 
 IV. Registro federal de contribuyentes, y
 
-V. Permiso de adquisición en plaza, en términos del artículo 236 de la [Ley](articulo-3.md) y 197 del Reglamento de Insumos para la Salud.
+V. Permiso de adquisición en plaza, en términos del artículo [236](../../lgs/markdown/articulo-236.md) de la [Ley](articulo-3.md) y 197 del Reglamento de Insumos para la Salud.

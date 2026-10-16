@@ -17,11 +17,11 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 18
 
-El registro para efectos estadísticos señalado en el artículo 14, párrafo tercero de la Ley se integrará con la información contenida en los análisis a que se refieren las fracciones I a IX del párrafo primero y los incisos a) al j) del párrafo tercero de dicho artículo. Párrafo reformado DOF 20-02-2017
+El registro para efectos estadísticos señalado en el artículo [14](../../lapp/markdown/articulo-14.md), párrafo tercero de la Ley se integrará con la información contenida en los análisis a que se refieren las fracciones I a IX del párrafo primero y los incisos a) al j) del párrafo tercero de dicho artículo. Párrafo reformado DOF 20-02-2017
 
 El registro es exclusivamente para efectos estadísticos y no representa requisito alguno para realizar cualquier actividad de las previstas en la Ley o en otra disposición.
 
-Los indicadores a que se refiere el artículo 14, párrafo tercero, inciso h) de la Ley, son:
+Los indicadores a que se refiere el artículo [14](../../lapp/markdown/articulo-14.md), párrafo tercero, inciso h) de la Ley, son:
 
 I. Rentabilidad social: el valor presente neto y la tasa interna de retorno de la evaluación socioeconómica, y
 

@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 54
 
-Para efectos del artículo 15, fracción I de la [Ley](articulo-1.md), tratándose del primer año de operación, el monto de la garantía del interés fiscal se determinará de la siguiente forma:
+Para efectos del artículo [15](../../ladua/markdown/articulo-15.md), fracción I de la [Ley](articulo-1.md), tratándose del primer año de operación, el monto de la garantía del interés fiscal se determinará de la siguiente forma:
 
 I. En caso de que el recinto hubiera estado ocupado con anterioridad, se tomará como base el monto registrado durante el último año de operación de dicho recinto, o
 

@@ -17,4 +17,4 @@ source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 
 # Artículo 75
 
-La investigación y docencia clínicas en materia de trasplantes sólo podrá hacerse en los términos del artículo 346 de la Ley, cuando la información que se busque no pueda obtenerse por otro método, y deberá estar fundamentada en la experimentación previa realizada en animales, en laboratorios o en otros hechos científicos.
+La investigación y docencia clínicas en materia de trasplantes sólo podrá hacerse en los términos del artículo [346](../../lgs/markdown/articulo-346.md) de la Ley, cuando la información que se busque no pueda obtenerse por otro método, y deberá estar fundamentada en la experimentación previa realizada en animales, en laboratorios o en otros hechos científicos.

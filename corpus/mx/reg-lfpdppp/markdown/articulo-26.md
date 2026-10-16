@@ -17,6 +17,6 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 26
 
-El aviso de privacidad deberá contener los elementos a que se refieren los artículos 8, 15, 16, 33 y 36 de la Ley, así como los que se establezcan en los lineamientos a que se refiere el artículo 43, fracción III de la Ley.
+El aviso de privacidad deberá contener los elementos a que se refieren los artículos [8](../../lfpdppp/markdown/articulo-8.md), [15](../../lfpdppp/markdown/articulo-15.md), [16](../../lfpdppp/markdown/articulo-16.md), [33](../../lfpdppp/markdown/articulo-33.md) y [36](../../lfpdppp/markdown/articulo-36.md) de la Ley, así como los que se establezcan en los lineamientos a que se refiere el artículo [43](../../lfpdppp/markdown/articulo-43.md), fracción III de la Ley.
 
 Aviso de privacidad para la obtención directa de los datos personales

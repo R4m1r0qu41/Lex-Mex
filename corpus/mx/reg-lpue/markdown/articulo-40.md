@@ -17,7 +17,7 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 # Artículo 40
 
-El programa maestro de desarrollo portuario que presente el [Administrador](articulo-2.md) Portuario a la Secretaría, deberá incluir, además de lo previsto en el artículo 41 de la [Ley](articulo-2.md), lo siguiente:
+El programa maestro de desarrollo portuario que presente el [Administrador](articulo-2.md) Portuario a la Secretaría, deberá incluir, además de lo previsto en el artículo [41](../../lpue/markdown/articulo-41.md) de la [Ley](articulo-2.md), lo siguiente:
 
 I. El diagnóstico de la situación del Puerto que contemple expectativas de crecimiento y desarrollo, así como su vinculación con la economía regional y nacional;
 
@@ -25,7 +25,7 @@ II. La descripción de las áreas para operaciones portuarias con la determinaci
 
 III. Los programas de construcción, expansión y modernización de la infraestructura y del equipamiento con el análisis financiero que lo soporte;
 
-IV. Los servicios y las áreas en los que, en términos del artículo 46 de la Ley, deba admitirse a todos aquellos [Prestadores de Servicios](articulo-2.md) que satisfagan los requisitos que establezca este Reglamento y las reglas de operación respectivos;
+IV. Los servicios y las áreas en los que, en términos del artículo [46](../../lpue/markdown/articulo-46.md) de la Ley, deba admitirse a todos aquellos [Prestadores de Servicios](articulo-2.md) que satisfagan los requisitos que establezca este Reglamento y las reglas de operación respectivos;
 
 V. Las medidas y previsiones necesarias para garantizar una eficiente explotación de los espacios portuarios, su desarrollo futuro, la conexión de los diferentes modos de transporte y el compromiso de satisfacer la demanda prevista;
 

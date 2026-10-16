@@ -23,8 +23,8 @@ I. Ley: a la Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
 II. Procuradurías de Protección Locales: a las procuradurías de protección de niñas, niños y adolescentes de cada entidad federativa, creadas en términos de sus respectivas leyes;
 
-III. Procuraduría Federal: a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes adscrita al Sistema Nacional DIF, en términos del primer párrafo del artículo 121 de la Ley;
+III. Procuraduría Federal: a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes adscrita al Sistema Nacional DIF, en términos del primer párrafo del artículo [121](../../lgdnna/markdown/articulo-121.md) de la Ley;
 
-IV. Secretaría Ejecutiva: al órgano administrativo desconcentrado de la Secretaría de Gobernación encargado de la coordinación operativa del Sistema Nacional de Protección Integral, en términos del artículo 130 de la Ley, y
+IV. Secretaría Ejecutiva: al órgano administrativo desconcentrado de la Secretaría de Gobernación encargado de la coordinación operativa del Sistema Nacional de Protección Integral, en términos del artículo [130](../../lgdnna/markdown/articulo-130.md) de la Ley, y
 
 V. Visitas de Supervisión: al acto jurídico administrativo por medio del cual la [Procuraduría Federal](articulo-2.md) supervisa el desempeño de los Centros de Asistencia Social.

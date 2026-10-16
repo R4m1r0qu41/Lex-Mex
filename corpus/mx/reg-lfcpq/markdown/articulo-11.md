@@ -17,4 +17,4 @@ source_sha256: 3c0720d560455df51ca882a37390cd0fe017d1987853b8358e37d5195f718055
 
 # Artículo 11
 
-Las dependencias ingresarán a la base de datos la información contenida en los informes anuales y en los avisos a que se refieren los artículos 7, 8, 9, 15 y 17 de la Ley.
+Las dependencias ingresarán a la base de datos la información contenida en los informes anuales y en los avisos a que se refieren los artículos [7](../../lfcpq/markdown/articulo-7.md), [8](../../lfcpq/markdown/articulo-8.md), [9](../../lfcpq/markdown/articulo-9.md), [15](../../lfcpq/markdown/articulo-15.md) y [17](../../lfcpq/markdown/articulo-17.md) de la Ley.

@@ -17,6 +17,6 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 122 Bis
 
-Para los efectos de lo dispuesto por el artículo 47, fracción VII BIS de la Ley, la discapacidad deberá ser permanente y acreditarse mediante el certificado médico emitido en términos de las disposiciones administrativas que para tal efecto emita la Dirección General.
+Para los efectos de lo dispuesto por el artículo [47](../../lsem/markdown/articulo-47.md), fracción VII BIS de la Ley, la discapacidad deberá ser permanente y acreditarse mediante el certificado médico emitido en términos de las disposiciones administrativas que para tal efecto emita la Dirección General.
 
 Artículo adicionado DOF 02-11-2018

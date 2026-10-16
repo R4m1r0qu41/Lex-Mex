@@ -43,7 +43,7 @@ IX. Impacto ambiental significativo o relevante: Aquel que resulta de la acción
 
 X. Impacto ambiental residual: El impacto que persiste después de la aplicación de medidas de mitigación;
 
-XI. Informe preventivo: Documento mediante el cual se dan a conocer los datos generales de una obra o actividad para efectos de determinar si se encuentra en los supuestos señalados por el artículo 31 de la Ley o requiere ser evaluada a través de una manifestación de impacto ambiental;
+XI. Informe preventivo: Documento mediante el cual se dan a conocer los datos generales de una obra o actividad para efectos de determinar si se encuentra en los supuestos señalados por el artículo [31](../../lgeepa/markdown/articulo-31.md) de la Ley o requiere ser evaluada a través de una manifestación de impacto ambiental;
 
 XII. Ley: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 

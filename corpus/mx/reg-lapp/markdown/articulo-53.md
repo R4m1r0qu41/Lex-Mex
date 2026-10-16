@@ -19,9 +19,9 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 La declaración unilateral de voluntad del promotor mencionada en el artículo 31, fracción II, de la Ley deberá contener las menciones siguientes:
 
-I. Las relativas a las obligaciones señaladas en el propio artículo 31, fracción II, de la Ley.
+I. Las relativas a las obligaciones señaladas en el propio artículo [31](../../lapp/markdown/articulo-31.md), fracción II, de la Ley.
 
-En relación con la obligación aludida en el inciso a) de la mencionada fracción, procederá la entrega de toda información técnica necesaria para la presentación de las ofertas técnicas. En ningún caso el promotor estará obligado a informar sobre su oferta económica. Respecto a la obligación señalada en el inciso b) de la misma fracción II del artículo 31 de la Ley, se tendrán las opciones del artículo [54](articulo-54.md) inmediato siguiente de este Reglamento;
+En relación con la obligación aludida en el inciso a) de la mencionada fracción, procederá la entrega de toda información técnica necesaria para la presentación de las ofertas técnicas. En ningún caso el promotor estará obligado a informar sobre su oferta económica. Respecto a la obligación señalada en el inciso b) de la misma fracción II del artículo [31](../../lapp/markdown/articulo-31.md) de la Ley, se tendrán las opciones del artículo [54](articulo-54.md) inmediato siguiente de este Reglamento;
 
 II. La referente a que el promotor perderá a favor de la convocante todos sus derechos sobre los estudios presentados, en el evento de que el [Concurso](articulo-11.md) no se convoque por causas imputables al propio promotor, e incluso si el proyecto llega a concursarse con posterioridad;
 

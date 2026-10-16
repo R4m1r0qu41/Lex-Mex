@@ -19,7 +19,7 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 La solicitud que tramiten ante la Secretaría los titulares de una concesión, permiso, contrato de cesión parcial de derechos o de prestación de Servicios Portuarios para que dicha Dependencia establezca las bases de regulación tarifaria por el uso de infraestructura y la prestación de Servicios Portuarios o modificaciones a dichas bases, deberán presentar lo siguiente:
 
-I. El título de concesión o de permiso deberá estar vigente. Tratándose de los contratos de cesión parcial de derechos y de prestación de Servicios Portuarios deberán estar registrados conforme a lo establecido en el artículo 51, fracción V de la [Ley](articulo-2.md);
+I. El título de concesión o de permiso deberá estar vigente. Tratándose de los contratos de cesión parcial de derechos y de prestación de Servicios Portuarios deberán estar registrados conforme a lo establecido en el artículo [51](../../lpue/markdown/articulo-51.md), fracción V de la [Ley](articulo-2.md);
 
 II. La propuesta tarifaria y reglas de aplicación;
 

@@ -17,4 +17,4 @@ source_sha256: c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a
 
 # Artículo 87
 
-En términos del artículo 195 de la Ley, la [Dirección](articulo-2.md) deberá rectificar su resolución definitiva para que una vez que haya quedado acreditado que la incapacidad o fallecimiento fue a consecuencia de los actos previstos en el artículo 168 de la Ley, se envíe dicha resolución al Instituto para que éste determine la procedencia, naturaleza y monto del beneficio correspondiente.
+En términos del artículo [195](../../lissfam/markdown/articulo-195.md) de la Ley, la [Dirección](articulo-2.md) deberá rectificar su resolución definitiva para que una vez que haya quedado acreditado que la incapacidad o fallecimiento fue a consecuencia de los actos previstos en el artículo [168](../../lissfam/markdown/articulo-168.md) de la Ley, se envíe dicha resolución al Instituto para que éste determine la procedencia, naturaleza y monto del beneficio correspondiente.

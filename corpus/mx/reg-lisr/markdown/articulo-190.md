@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 190
 
-Cuando el ingreso percibido en forma esporádica a que se refiere el artículo 107 de la [Ley](articulo-1.md) derive de pagos efectuados por una persona moral, el contribuyente que realice el pago provisional a que se refiere dicho artículo, podrá acreditar contra éste la retención efectuada en términos del artículo 106, párrafo último de la Ley.
+Cuando el ingreso percibido en forma esporádica a que se refiere el artículo 107 de la [Ley](articulo-1.md) derive de pagos efectuados por una persona moral, el contribuyente que realice el pago provisional a que se refiere dicho artículo, podrá acreditar contra éste la retención efectuada en términos del artículo [106](../../lisr/markdown/articulo-106.md), párrafo último de la Ley.

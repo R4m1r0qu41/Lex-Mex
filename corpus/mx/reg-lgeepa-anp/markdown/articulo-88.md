@@ -29,7 +29,7 @@ V. Aprovechamiento forestal;
 
 VI. Aprovechamiento de recursos pesqueros;
 
-VII. Obras que, en materia de impacto ambiental, requieran de autorización en los términos del artículo 28 de la Ley;
+VII. Obras que, en materia de impacto ambiental, requieran de autorización en los términos del artículo [28](../../lgeepa/markdown/articulo-28.md) de la Ley;
 
 VIII. Uso y aprovechamiento de aguas nacionales;
 

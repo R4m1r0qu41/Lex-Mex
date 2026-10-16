@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 14
 
-Para los efectos del artículo 3o., último párrafo de la Ley, podrán tener el mismo tratamiento que el establecimiento en el país, definido como tal en los términos del último párrafo del artículo [16](../../cff/markdown/articulo-16.md) del Código Fiscal de la Federación, los locales que utilicen las personas físicas en el territorio nacional para prestar servicios personales independientes.
+Para los efectos del artículo [3](../../liva/markdown/articulo-3o.md)o., último párrafo de la Ley, podrán tener el mismo tratamiento que el establecimiento en el país, definido como tal en los términos del último párrafo del artículo [16](../../cff/markdown/articulo-16.md) del Código Fiscal de la Federación, los locales que utilicen las personas físicas en el territorio nacional para prestar servicios personales independientes.

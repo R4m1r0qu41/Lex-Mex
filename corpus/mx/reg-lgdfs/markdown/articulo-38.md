@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 38
 
-La autorización para el aprovechamiento de Recursos forestales maderables en Terrenos forestales que otorgue la Secretaría, en las modalidades previstas en el artículo 73 de la [Ley](articulo-2.md), comprenderá la del Programa de manejo correspondiente.
+La autorización para el aprovechamiento de Recursos forestales maderables en Terrenos forestales que otorgue la Secretaría, en las modalidades previstas en el artículo [73](../../lgdfs/markdown/articulo-73.md) de la [Ley](articulo-2.md), comprenderá la del Programa de manejo correspondiente.
 
 Las personas interesadas en obtener autorización de aprovechamiento de Recursos forestales maderables presentarán ante la Secretaría una solicitud que contenga:
 

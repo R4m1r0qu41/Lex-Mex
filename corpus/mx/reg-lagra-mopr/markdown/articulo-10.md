@@ -17,4 +17,4 @@ source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 
 # Artículo 10
 
-[La Secretaría](articulo-2o.md), la Procuraduría y el Registro, dentro del ámbito de sus competencias, deberán vigilar que no se rebasen los límites establecidos a la propiedad rural, en los términos de los artículos 47, 117 a 120, 126, 129 y 130 de la Ley.
+[La Secretaría](articulo-2o.md), la Procuraduría y el Registro, dentro del ámbito de sus competencias, deberán vigilar que no se rebasen los límites establecidos a la propiedad rural, en los términos de los artículos [47](../../lagra/markdown/articulo-47.md), [117](../../lagra/markdown/articulo-117.md) a [120](../../lagra/markdown/articulo-120.md), [126](../../lagra/markdown/articulo-126.md), [129](../../lagra/markdown/articulo-129.md) y [130](../../lagra/markdown/articulo-130.md) de la Ley.

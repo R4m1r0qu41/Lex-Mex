@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 130
 
-Para efectos de los artículos 72 y 73 de la [Ley](articulo-1.md), podrá utilizarse el valor de transacción de Mercancías idénticas o similares producidas en el mismo país, por una persona diferente de la que produjo las Mercancías objeto de valoración, únicamente cuando no existan Mercancías idénticas o similares producidas por la misma persona.
+Para efectos de los artículos [72](../../ladua/markdown/articulo-72.md) y [73](../../ladua/markdown/articulo-73.md) de la [Ley](articulo-1.md), podrá utilizarse el valor de transacción de Mercancías idénticas o similares producidas en el mismo país, por una persona diferente de la que produjo las Mercancías objeto de valoración, únicamente cuando no existan Mercancías idénticas o similares producidas por la misma persona.

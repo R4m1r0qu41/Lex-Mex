@@ -17,6 +17,6 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 168
 
-En términos de lo dispuesto por el artículo 35 de la Ley, las personas extranjeras que requieran cumplir con requisitos u obtener alguna autorización para realizar actividades reguladas en otras disposiciones jurídicas distintas a las migratorias deberán sujetarse en todo momento a dichas disposiciones.
+En términos de lo dispuesto por el artículo [35](../../lmigra/markdown/articulo-35.md) de la Ley, las personas extranjeras que requieran cumplir con requisitos u obtener alguna autorización para realizar actividades reguladas en otras disposiciones jurídicas distintas a las migratorias deberán sujetarse en todo momento a dichas disposiciones.
 
 En el caso de que las personas extranjeras incumplan con las disposiciones legales aplicables o carezcan de la autorización referida, la autoridad competente resolverá y solicitará al Instituto que se inicie el procedimiento administrativo migratorio correspondiente.

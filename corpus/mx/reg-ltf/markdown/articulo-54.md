@@ -17,4 +17,4 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 54
 
-La Tesorería podrá realizar la función de pago para cubrir, por cuenta y orden de terceros que constituyan depósitos a que se refiere el artículo 29 de la [Ley](articulo-2.md), las obligaciones que les corresponda cumplir, siempre y cuando existan recursos suficientes de dichos terceros para tal fin.
+La Tesorería podrá realizar la función de pago para cubrir, por cuenta y orden de terceros que constituyan depósitos a que se refiere el artículo [29](../../ltf/markdown/articulo-29.md) de la [Ley](articulo-2.md), las obligaciones que les corresponda cumplir, siempre y cuando existan recursos suficientes de dichos terceros para tal fin.

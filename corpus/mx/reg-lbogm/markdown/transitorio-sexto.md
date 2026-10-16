@@ -15,7 +15,7 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # SEXTO
 
-En tanto se expidan los Acuerdos a que se refiere el artículo 78 de la Ley, los formatos oficiales deberán contener lo siguiente:
+En tanto se expidan los Acuerdos a que se refiere el artículo [78](../../lbogm/markdown/articulo-78.md) de la Ley, los formatos oficiales deberán contener lo siguiente:
 
 I. Nombre, denominación o razón social de quien promueve, y documento que acredite su personalidad jurídica. Cuando exista más de un responsable de la comisión interna de bioseguridad, deberán asentarse los nombres de todos los responsables;
 
@@ -33,4 +33,4 @@ VIII. El medio a través del cual deberá de realizarse la comunicación a que s
 
 IX. El registro de personas acreditadas, si cuenta con él. En este caso, no deberá presentar la información a que se refieren las fracciones I a IV.
 
-El aviso deberá ser presentado en los casos establecidos en los artículos 79 y 80 de la Ley.
+El aviso deberá ser presentado en los casos establecidos en los artículos [79](../../lbogm/markdown/articulo-79.md) y [80](../../lbogm/markdown/articulo-80.md) de la Ley.

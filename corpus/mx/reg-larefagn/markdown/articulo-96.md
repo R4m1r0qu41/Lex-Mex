@@ -17,7 +17,7 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 96
 
-Para los efectos de los artículos 32 y 33 de la Ley, la Secretaría desarrollará las siguientes actividades:
+Para los efectos de los artículos [32](../../larefam/markdown/articulo-32.md) y [33](../../larefam/markdown/articulo-33.md) de la Ley, la Secretaría desarrollará las siguientes actividades:
 
 I. Integrará los resultados de las áreas objetiva y de análisis y consulta, con los resultados del examen médico y pruebas de capacidad física para conformar una relación final de los participantes;
 

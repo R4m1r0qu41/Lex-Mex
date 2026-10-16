@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 246
 
-La Secretaría es la responsable de los procedimientos de Consulta Previa a que se refiere el artículo 151 de la Ley. Lo anterior, sin perjuicio de que la Secretaría determine que puedan participar otras dependencias o entidades federales, estatales, municipales o demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias y debe considerar la naturaleza del proyecto a consultar.
+La Secretaría es la responsable de los procedimientos de Consulta Previa a que se refiere el artículo [151](../../lsh/markdown/articulo-151.md) de la Ley. Lo anterior, sin perjuicio de que la Secretaría determine que puedan participar otras dependencias o entidades federales, estatales, municipales o demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias y debe considerar la naturaleza del proyecto a consultar.

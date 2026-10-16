@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 62
 
-La contratación de la Comercialización a que se refiere el artículo 57 de la Ley se debe desarrollar por la Secretaría conforme a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y su reglamento.
+La contratación de la Comercialización a que se refiere el artículo [57](../../lsh/markdown/articulo-57.md) de la Ley se debe desarrollar por la Secretaría conforme a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y su reglamento.

@@ -17,6 +17,6 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 28
 
-La Secretaría de Gobernación, a través del Comisionado Nacional de Seguridad, en coordinación con la Comisión Nacional, la Secretaría Ejecutiva y los Mecanismos para el adelanto de las mujeres, establecerán y operarán el sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres, previsto en la fracción II del artículo 17 de la Ley.
+La Secretaría de Gobernación, a través del Comisionado Nacional de Seguridad, en coordinación con la Comisión Nacional, la Secretaría Ejecutiva y los Mecanismos para el adelanto de las mujeres, establecerán y operarán el sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres, previsto en la fracción II del artículo [17](../../lgamvlv/markdown/articulo-17.md) de la Ley.
 
 Artículo reformado DOF 25-11-2013

@@ -17,7 +17,7 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 9
 
-Los órganos técnicos consultivos operarán conforme a los acuerdos que emita la Secretaría de conformidad con lo dispuesto en el artículo 16 de la [Ley](articulo-2.md), los que incluirán:
+Los órganos técnicos consultivos operarán conforme a los acuerdos que emita la Secretaría de conformidad con lo dispuesto en el artículo [16](../../lgvs/markdown/articulo-16.md) de la [Ley](articulo-2.md), los que incluirán:
 
 I. Los criterios y mecanismos para la designación, rotación y remoción de miembros en los distintos cargos y las atribuciones que correspondan a cada cargo, así como el señalamiento de que el ejercicio de los cargos será a título honorífico;
 

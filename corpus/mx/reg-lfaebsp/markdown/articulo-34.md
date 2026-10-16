@@ -17,7 +17,7 @@ source_sha256: 9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3
 
 # Artículo 34
 
-El SAE, al momento de solicitar la práctica del avalúo, determinará el tipo de valor conforme al cual se fijará el precio base de venta de los bienes, de conformidad con lo establecido en las fracciones I a IV del artículo 37 de la [Ley](articulo-1.md), para lo cual deberá considerar, entre otros aspectos, los siguientes:
+El SAE, al momento de solicitar la práctica del avalúo, determinará el tipo de valor conforme al cual se fijará el precio base de venta de los bienes, de conformidad con lo establecido en las fracciones I a IV del artículo [37](../../lfaebsp/markdown/articulo-37.md) de la [Ley](articulo-1.md), para lo cual deberá considerar, entre otros aspectos, los siguientes:
 
 I. Si se trata de venta de bienes por lote;
 

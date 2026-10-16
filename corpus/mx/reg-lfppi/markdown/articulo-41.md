@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 41
 
-Con independencia de lo que establezca el acuerdo al que se refiere el último párrafo de los artículos 42 y 74 de la Ley, la persona solicitante estará obligada a exhibir la traducción de la prioridad reclamada cuando ésta se encuentre en un idioma diferente al español.
+Con independencia de lo que establezca el acuerdo al que se refiere el último párrafo de los artículos [42](../../lfppi/markdown/articulo-42.md) y [74](../../lfppi/markdown/articulo-74.md) de la Ley, la persona solicitante estará obligada a exhibir la traducción de la prioridad reclamada cuando ésta se encuentre en un idioma diferente al español.

@@ -29,7 +29,7 @@ III. Para el transporte de correo, el contrato con las características que señ
 
 IV. Para el servicio bajo la modalidad de renta a terceros, un contrato factura en el que consten las responsabilidades de la persona permisionaria y de la persona que rente la aeronave, y Fracción reformada DOF 31-05-2023
 
-V. Para los servicios aéreos especializados y de fletamento a que se refiere el artículo 59 de la [Ley](articulo-2.md), un contrato-factura.
+V. Para los servicios aéreos especializados y de fletamento a que se refiere el artículo [59](../../lac/markdown/articulo-59.md) de la [Ley](articulo-2.md), un contrato-factura.
 
 El período de validez del boleto o billete de pasaje, así como del contrato-factura se prorroga automáticamente cuando por causas de fuerza mayor o caso fortuito el vuelo se cancele o no se realice conforme al horario estipulado, por un período igual al que duren los efectos de aquellas causas, sin cargo adicional. En la modalidad de fletamento, el fletador debe informar a las personas usuarias sobre la nueva fecha y hora de salida o debe reembolsar a la persona pasajera lo que hubiere pagado. Párrafo reformado DOF 29-06-2020, 31-05-2023
 

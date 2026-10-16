@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 157
 
-Para efectos de lo dispuesto en el artículo 106, fracción III, inciso d) de la [Ley](articulo-1.md), se entenderá por vehículos de prueba, aquellos que se utilicen únicamente en la realización de exámenes para medir el buen funcionamiento de vehículos similares o el diagnóstico de cada una de sus partes y/o refacciones o aquellos que, por la naturaleza de las pruebas a realizar, sea necesario conducirlos en las carreteras públicas, sin que puedan destinarse a un uso distinto.
+Para efectos de lo dispuesto en el artículo [106](../../ladua/markdown/articulo-106.md), fracción III, inciso d) de la [Ley](articulo-1.md), se entenderá por vehículos de prueba, aquellos que se utilicen únicamente en la realización de exámenes para medir el buen funcionamiento de vehículos similares o el diagnóstico de cada una de sus partes y/o refacciones o aquellos que, por la naturaleza de las pruebas a realizar, sea necesario conducirlos en las carreteras públicas, sin que puedan destinarse a un uso distinto.
 
 Artículo reformado DOF 23-02-2026

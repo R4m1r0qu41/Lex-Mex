@@ -17,9 +17,9 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 60
 
-El padrón a que se refiere el artículo 73, párrafo cuarto de la [Ley](articulo-2.md) se integrará con la información que proporcionen:
+El padrón a que se refiere el artículo [73](../../lgdfs/markdown/articulo-73.md), párrafo cuarto de la [Ley](articulo-2.md) se integrará con la información que proporcionen:
 
-I. La Comisión, respecto de los predios que cuenten con los certificados a que se refieren los artículos 107 y 110 de la Ley;
+I. La Comisión, respecto de los predios que cuenten con los certificados a que se refieren los artículos [107](../../lgdfs/markdown/articulo-107.md) y [110](../../lgdfs/markdown/articulo-110.md) de la Ley;
 
 II. La [Procuraduría](articulo-2.md), sobre los predios que, dentro de los cinco años anteriores a la fecha en que se integre el Padrón, cuenten con sanción impuesta en resolución firme, y
 

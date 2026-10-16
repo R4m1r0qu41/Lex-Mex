@@ -23,4 +23,4 @@ I. La transacción implique una reestructuración corporativa en la que los agen
 
 II. La transacción implique la participación del adquirente por primera vez en el mercado relevante. Para estos efectos, la estructura del mercado relevante no debe modificarse y sólo implicará la sustitución de agentes económicos. Los involucrados en la concentración no deben participar en mercados relacionados a la concentración ni ser competidores potenciales del mercado relevante o mercados relacionados, o III. Cuando el titular de acciones o partes sociales tenga el control de una sociedad e incremente su participación relativa en el capital social de dicha sociedad.
 
-Cuando la concentración pretendida no se ubique en alguno de los supuestos de este artículo, el Secretario Ejecutivo emitirá, de plano, el acuerdo que corresponda en términos del artículo 21 de la Ley.
+Cuando la concentración pretendida no se ubique en alguno de los supuestos de este artículo, el Secretario Ejecutivo emitirá, de plano, el acuerdo que corresponda en términos del artículo [21](../../lfce/markdown/articulo-21.md) de la Ley.

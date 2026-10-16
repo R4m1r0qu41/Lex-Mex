@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 161
 
-Además de los requisitos previstos en el artículo 330 y 339 de la Ley, se podrá incluir el Registro Federal de Contribuyentes y la Clave Única de Registro de Población de la persona solicitante, el de la persona titular afectada o, en su caso, el de la presunta persona infractora.
+Además de los requisitos previstos en el artículo [330](../../lfppi/markdown/articulo-330.md) y [339](../../lfppi/markdown/articulo-339.md) de la Ley, se podrá incluir el Registro Federal de Contribuyentes y la Clave Única de Registro de Población de la persona solicitante, el de la persona titular afectada o, en su caso, el de la presunta persona infractora.

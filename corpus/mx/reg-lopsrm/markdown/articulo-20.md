@@ -17,9 +17,9 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 20
 
-Para los efectos del primer párrafo del artículo 18 de la [Ley](articulo-2.md), la Oficialía Mayor o equivalente de las dependencias y entidades será responsable de concentrar y proporcionar a las unidades administrativas que lo soliciten, la información correspondiente a los estudios o proyectos contratados por las mismas.
+Para los efectos del primer párrafo del artículo [18](../../lopsrm/markdown/articulo-18.md) de la [Ley](articulo-2.md), la Oficialía Mayor o equivalente de las dependencias y entidades será responsable de concentrar y proporcionar a las unidades administrativas que lo soliciten, la información correspondiente a los estudios o proyectos contratados por las mismas.
 
-Las entidades deberán remitir a su coordinadora de sector la información a que se refiere el tercer párrafo del artículo 18 de la Ley, en un plazo máximo de veinte días naturales, contados a partir de la fecha de firma del contrato, tratándose de la información relativa al objeto del mismo, o a partir de la fecha de conclusión del servicio, tratándose de la información referente al resultado de los estudios o proyectos contratados.
+Las entidades deberán remitir a su coordinadora de sector la información a que se refiere el tercer párrafo del artículo [18](../../lopsrm/markdown/articulo-18.md) de la Ley, en un plazo máximo de veinte días naturales, contados a partir de la fecha de firma del contrato, tratándose de la información relativa al objeto del mismo, o a partir de la fecha de conclusión del servicio, tratándose de la información referente al resultado de los estudios o proyectos contratados.
 
 Concluido el estudio o proyecto, el titular del [Área requirente](articulo-2.md) deberá emitir en un plazo máximo de veinte días naturales, contados a partir de la fecha en que se hayan recibido satisfactoriamente los entregables pactados en el contrato, un informe al titular de la dependencia o entidad en el que, con base en dichos entregables, se indiquen los resultados obtenidos y la forma en que contribuyeron al logro del objetivo para el cual se realizó la contratación. Una copia de este informe se deberá remitir al órgano interno de control.
 

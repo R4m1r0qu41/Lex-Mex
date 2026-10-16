@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 18
 
-Una vez que la Secretaría dé a conocer a las dependencias y entidades su calendario de presupuesto autorizado éstas, en términos del artículo 24 de la [Ley](articulo-2.md), podrán realizar los procedimientos de contratación respectivos.
+Una vez que la Secretaría dé a conocer a las dependencias y entidades su calendario de presupuesto autorizado éstas, en términos del artículo [24](../../lopsrm/markdown/articulo-24.md) de la [Ley](articulo-2.md), podrán realizar los procedimientos de contratación respectivos.

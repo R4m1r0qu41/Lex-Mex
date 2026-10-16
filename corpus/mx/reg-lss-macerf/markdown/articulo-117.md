@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 117
 
-Para los efectos de lo dispuesto en el artículo 40 A de la Ley, cuando la actualización o los recargos determinados por el patrón sean inferiores a los que calcule el Instituto, éste deberá aceptar el pago, sin perjuicio de ejercer sus facultades para determinar y cobrar las diferencias correspondientes.
+Para los efectos de lo dispuesto en el artículo [40](../../lss/markdown/articulo-40.md) A de la Ley, cuando la actualización o los recargos determinados por el patrón sean inferiores a los que calcule el Instituto, éste deberá aceptar el pago, sin perjuicio de ejercer sus facultades para determinar y cobrar las diferencias correspondientes.

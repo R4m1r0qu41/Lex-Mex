@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 134
 
-Cuando el titular de una autorización pretenda que se modifiquen los términos, condiciones o requisitos bajo los cuales se haya otorgado una autorización sanitaria y que no se trate de alguno de los supuestos comprendidos en el artículo 202 de la Ley, deberá comunicarlo a la Secretaría para que, de conformidad con lo señalado en este Reglamento, determine si subsiste la autorización o deba solicitarse otra.
+Cuando el titular de una autorización pretenda que se modifiquen los términos, condiciones o requisitos bajo los cuales se haya otorgado una autorización sanitaria y que no se trate de alguno de los supuestos comprendidos en el artículo [202](../../lgs/markdown/articulo-202.md) de la Ley, deberá comunicarlo a la Secretaría para que, de conformidad con lo señalado en este Reglamento, determine si subsiste la autorización o deba solicitarse otra.

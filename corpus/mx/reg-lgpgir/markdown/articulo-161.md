@@ -17,7 +17,7 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 161
 
-En el caso a que se refiere el artículo 111 de la [Ley](articulo-2.md), la autoridad correspondiente, por sí o a solicitud del infractor, podrá otorgar a éste la opción de conmutar el monto de la multa por la realización de inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor, la inversión planteada no tenga relación directa con los hechos que motivaron las infracciones y la autoridad justifique plenamente su decisión.
+En el caso a que se refiere el artículo [111](../../lgpgir/markdown/articulo-111.md) de la [Ley](articulo-2.md), la autoridad correspondiente, por sí o a solicitud del infractor, podrá otorgar a éste la opción de conmutar el monto de la multa por la realización de inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor, la inversión planteada no tenga relación directa con los hechos que motivaron las infracciones y la autoridad justifique plenamente su decisión.
 
 La solicitud de conmutación de multa deberá presentarse por escrito y deberá contener un programa calendarizado y el monto de la inversión propuesta debidamente justificada, la autoridad tendrá la facultad de otorgar un plazo que no excederá de treinta días naturales para la presentación del citado programa de inversión, en caso de no haberlo acompañado con la solicitud.
 

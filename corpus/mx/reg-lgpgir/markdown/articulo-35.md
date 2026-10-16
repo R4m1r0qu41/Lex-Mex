@@ -21,7 +21,7 @@ Los residuos peligrosos se identificarán de acuerdo a lo siguiente:
 
 I. Los que sean considerados como tales, de conformidad con lo previsto en la [Ley](articulo-2.md);
 
-II. Los clasificados en las normas oficiales mexicanas a que hace referencia el artículo 16 de la Ley, mediante:
+II. Los clasificados en las normas oficiales mexicanas a que hace referencia el artículo [16](../../lgpgir/markdown/articulo-16.md) de la Ley, mediante:
 
 a) Listados de los residuos por características de peligrosidad: corrosividad, reactividad, explosividad, toxicidad e inflamabilidad o que contengan agentes infecciosos que les confieran peligrosidad; agrupados por fuente específica y no especifica; por ser productos usados, caducos, fuera de especificación o retirados del comercio y que se desechen; o por tipo de residuo sujeto a condiciones particulares de manejo. La Secretaría considerará la toxicidad crónica, aguda y ambiental que les confieran peligrosidad a dichos residuos, y
 

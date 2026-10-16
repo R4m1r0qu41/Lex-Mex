@@ -17,7 +17,7 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 64
 
-Para los efectos del artículo 51 de la [Ley](articulo-2.md), la Secretaría otorgará consentimiento para la transferencia de autorizaciones cuando ésta se solicite con motivo de actos traslativos de dominio de empresas o instalaciones, escisión o fusión de sociedades.
+Para los efectos del artículo [51](../../lgpgir/markdown/articulo-51.md) de la [Ley](articulo-2.md), la Secretaría otorgará consentimiento para la transferencia de autorizaciones cuando ésta se solicite con motivo de actos traslativos de dominio de empresas o instalaciones, escisión o fusión de sociedades.
 
 Para el caso de actos traslativos de dominio, en la solicitud correspondiente se deberá proporcionar el documento protocolizado ante fedatario público que contenga dichos actos, el instrumento público que acredite la personalidad jurídica de quien será el representante legal, así como su declaración bajo protesta de decir verdad de que subsisten las condiciones consideradas para el otorgamiento de la autorización que se pretenda transferir y de que el adquirente no se encuentre sujeto a procedimientos administrativos, civiles o penales derivados de la Ley.
 

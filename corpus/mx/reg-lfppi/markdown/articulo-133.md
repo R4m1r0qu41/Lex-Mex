@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 133
 
-Para efectos de la fracción I del artículo 271 de la Ley, el Instituto podrá declarar la coexistencia de nombres idénticos o semejantes en grado de confusión al declarar la protección de una denominación de origen o una indicación geográfica, cuando derivado del examen de la solicitud se desprenda la homonimia entre zonas geográficas o, en su caso, cuando los factores naturales y culturales que incidan en el producto así lo determinen.
+Para efectos de la fracción I del artículo [271](../../lfppi/markdown/articulo-271.md) de la Ley, el Instituto podrá declarar la coexistencia de nombres idénticos o semejantes en grado de confusión al declarar la protección de una denominación de origen o una indicación geográfica, cuando derivado del examen de la solicitud se desprenda la homonimia entre zonas geográficas o, en su caso, cuando los factores naturales y culturales que incidan en el producto así lo determinen.

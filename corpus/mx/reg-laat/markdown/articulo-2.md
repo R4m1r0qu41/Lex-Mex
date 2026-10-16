@@ -17,7 +17,7 @@ source_sha256: c1c2979863552f79416de98fc49cc4898abefac47eb223de3c163a49b793273b
 
 # Artículo 2
 
-Para los efectos del presente Reglamento, además de las definiciones previstas en el artículo 2o. de la [Ley](articulo-2.md), se entenderá por:
+Para los efectos del presente Reglamento, además de las definiciones previstas en el artículo [2](../../laat/markdown/articulo-2o.md)o. de la [Ley](articulo-2.md), se entenderá por:
 
 I. Ámbito Ocupacional: Es aquél comprendido en el marco de las relaciones laborales regidas por el artículo [123](../../cpeum/markdown/articulo-123.md), Apartado A de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo;
 
@@ -37,4 +37,4 @@ a) Celebrando un contrato con el patrón para tales efectos, o
 
 b) Mediante Vales de Comida, que dicho proveedor pueda aceptar en función de un contrato celebrado con las Emisoras de Vales, y
 
-IX. Vale de Comida o Despensa: Contraseña emitida por una Emisora de Vales, ya sea en formato impreso o en tarjeta plástica que cuente con una banda magnética o algún otro mecanismo tecnológico que permita identificarla en las terminales de los establecimientos afiliados al sistema de consumo de la Emisora de la tarjeta, y que cumpla con los requisitos establecidos en el artículo 11 de la Ley, por medio del cual el Trabajador puede canjear Comidas o despensas respectivamente, en dichos establecimientos dentro del territorio nacional.
+IX. Vale de Comida o Despensa: Contraseña emitida por una Emisora de Vales, ya sea en formato impreso o en tarjeta plástica que cuente con una banda magnética o algún otro mecanismo tecnológico que permita identificarla en las terminales de los establecimientos afiliados al sistema de consumo de la Emisora de la tarjeta, y que cumpla con los requisitos establecidos en el artículo [11](../../laat/markdown/articulo-11.md) de la Ley, por medio del cual el Trabajador puede canjear Comidas o despensas respectivamente, en dichos establecimientos dentro del territorio nacional.

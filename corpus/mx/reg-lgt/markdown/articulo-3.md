@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 3
 
-La Secretaría tiene, además de las atribuciones conferidas en el artículo 4 de la Ley, las siguientes:
+La Secretaría tiene, además de las atribuciones conferidas en el artículo [4](../../lgt/markdown/articulo-4.md) de la Ley, las siguientes:
 
 I. Vigilar el cumplimiento de la Ley, del presente Reglamento y de las demás disposiciones jurídicas cuyo ámbito de aplicación tenga efectos en el sector turístico;
 

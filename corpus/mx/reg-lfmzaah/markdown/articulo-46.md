@@ -19,4 +19,4 @@ source_sha256: 2fcb89f7d62bcd28ba179647dee39dd5c28437ebc8bcdb13ce6924b36b20b9e6
 
 Toda obra que se realice en monumentos arqueológicos, artísticos o históricos contraviniendo las disposiciones de la Ley o de este Reglamento será suspendida por el Instituto competente mediante la imposición de sellos oficiales que impidan su continuación.
 
-A quien viole los sellos impuestos, se le aplicará la sanción prevista en el artículo 55 de la Ley.
+A quien viole los sellos impuestos, se le aplicará la sanción prevista en el artículo [55](../../lfmzaah/markdown/articulo-55.md) de la Ley.

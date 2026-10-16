@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 206
 
-La deducción de la pérdida a que se refiere el artículo 121, párrafo último de la [Ley](articulo-1.md), tratándose de acciones y partes sociales procederá en términos del artículo 28, fracción XVII de la Ley.
+La deducción de la pérdida a que se refiere el artículo [121](../../lisr/markdown/articulo-121.md), párrafo último de la [Ley](articulo-1.md), tratándose de acciones y partes sociales procederá en términos del artículo [28](../../lisr/markdown/articulo-28.md), fracción XVII de la Ley.

@@ -21,7 +21,7 @@ Deberán inscribirse en el RENADE:
 
 I. Las asociaciones y sociedades deportivas previstas en las Secciones Primera, Segunda y Tercera del Capítulo II del Título Segundo de la Ley;
 
-II. Los entes de promoción deportiva, previstos en el artículo 48 de la Ley;
+II. Los entes de promoción deportiva, previstos en el artículo [48](../../lgcfd/markdown/articulo-48.md) de la Ley;
 
 III. Los [Deportistas](articulo-2.md), incluyendo los de alto rendimiento;
 

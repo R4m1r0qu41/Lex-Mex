@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 4
 
-Para efectos del artículo 4, segundo párrafo, de la Ley, se consideran como familiares de la víctima directa que tienen una relación inmediata con ella:
+Para efectos del artículo [4](../../lgv/markdown/articulo-4.md), segundo párrafo, de la Ley, se consideran como familiares de la víctima directa que tienen una relación inmediata con ella:
 
 I. Quienes tengan parentesco por consanguinidad o afinidad, en la línea recta, ascendente y descendente, sin limitación de grado;
 

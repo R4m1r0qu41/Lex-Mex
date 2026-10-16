@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 139
 
-Para efectos del artículo 284 de la Ley, quedarán incluidos los resultados de las investigaciones y elementos de prueba que el Instituto se haya allegado de manera unilateral.
+Para efectos del artículo [284](../../lfppi/markdown/articulo-284.md) de la Ley, quedarán incluidos los resultados de las investigaciones y elementos de prueba que el Instituto se haya allegado de manera unilateral.

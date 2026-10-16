@@ -17,7 +17,7 @@ source_sha256: 4afbc3d9466d845cfcfb8c2a64a1b7b5cf4efcbc31fe8b58afba418bb9600c52
 
 # Artículo 50 Bis
 
-En los puntos de venta y demás lugares en los que se comercialicen, vendan, distribuyan, suministren o expendan productos de tabaco queda prohibida la exhibición directa o indirecta de dichos productos en términos del artículo [2](articulo-2.md), fracciones VI Bis y VI Ter, de este Reglamento, lo cual es conforme al artículo 23 de la Ley.
+En los puntos de venta y demás lugares en los que se comercialicen, vendan, distribuyan, suministren o expendan productos de tabaco queda prohibida la exhibición directa o indirecta de dichos productos en términos del artículo [2](articulo-2.md), fracciones VI Bis y VI Ter, de este Reglamento, lo cual es conforme al artículo [23](../../lgct/markdown/articulo-23.md) de la Ley.
 
 Para la comercialización de los productos de tabaco deberá realizarse a través de una lista textual y escrita de estos productos con sus precios, sin logotipos, sellos o marcas. Dicha lista de comercialización deberá cumplir con los requisitos y características que establezca la Secretaría mediante disposiciones generales que al efecto emita, y deberá publicarse en el Diario Oficial de la Federación.
 

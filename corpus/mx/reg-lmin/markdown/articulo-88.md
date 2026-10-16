@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 88
 
-Para la inscripción de los actos y contratos a que alude el artículo 46 de la Ley, se llevarán los libros de:
+Para la inscripción de los actos y contratos a que alude el artículo [46](../../lmin/markdown/articulo-46.md) de la Ley, se llevarán los libros de:
 
 I. Concesiones Mineras;
 

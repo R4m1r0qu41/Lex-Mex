@@ -17,6 +17,6 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 33 Bis
 
-Los servidores públicos a los que se refiere el párrafo segundo del artículo 16 de la Ley, deberán remitir por medios electrónicos, ópticos o en cualquier otra tecnología, su plan de actividades diplomáticas, incluyendo su itinerario oficial, al [Jefe o Titular de Representación](articulo-2.md) competente en el lugar de su comisión, preferentemente previo a su arribo, a efecto de que éstos realicen las observaciones y comentarios correspondientes con la suficiente anticipación para su atención.
+Los servidores públicos a los que se refiere el párrafo segundo del artículo [16](../../lsem/markdown/articulo-16.md) de la Ley, deberán remitir por medios electrónicos, ópticos o en cualquier otra tecnología, su plan de actividades diplomáticas, incluyendo su itinerario oficial, al [Jefe o Titular de Representación](articulo-2.md) competente en el lugar de su comisión, preferentemente previo a su arribo, a efecto de que éstos realicen las observaciones y comentarios correspondientes con la suficiente anticipación para su atención.
 
 Artículo adicionado DOF 02-11-2018

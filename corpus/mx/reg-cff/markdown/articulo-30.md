@@ -23,7 +23,7 @@ I. El aviso de cambio de régimen de capital, se presentará por las personas mo
 
 II. El aviso de corrección o cambio de nombre, se presentará por las personas físicas que cambien o corrijan su nombre o apellidos en los términos de las disposiciones legales aplicables;
 
-III. El aviso de cambio de domicilio fiscal, se presentará en el plazo establecido en el artículo 27, primer párrafo del [Código](articulo-1.md), a partir de que el contribuyente o el retenedor establezcan su domicilio en lugar distinto al que manifestaron en el registro federal de contribuyentes o cuando deba considerarse un nuevo domicilio fiscal en los términos del artículo 10 del Código.
+III. El aviso de cambio de domicilio fiscal, se presentará en el plazo establecido en el artículo [27](../../cff/markdown/articulo-27.md), primer párrafo del [Código](articulo-1.md), a partir de que el contribuyente o el retenedor establezcan su domicilio en lugar distinto al que manifestaron en el registro federal de contribuyentes o cuando deba considerarse un nuevo domicilio fiscal en los términos del artículo [10](../../cff/markdown/articulo-10.md) del Código.
 
 El aviso a que se refiere esta fracción, también se presentará cuando deban actualizarse datos relativos al domicilio fiscal derivados del cambio de nomenclatura o numeración oficial;
 
@@ -53,7 +53,7 @@ Los contribuyentes que ejerzan la opción de no acumular los ingresos que les co
 
 VI. No será necesario presentar el aviso a que se refiere el artículo [29](articulo-29.md), fracción VIII de este Reglamento, cuando los locales o establecimientos a que el mismo se refiere estén ubicados en el domicilio fiscal manifestado por el contribuyente para efectos del registro federal de contribuyentes;
 
-VII. En los casos en que dé inicio el ejercicio de liquidación, el aviso de inicio de liquidación se presentará dentro del mes siguiente a la fecha en que se presente la declaración del ejercicio que concluyó anticipadamente, en los términos del artículo 11 del Código;
+VII. En los casos en que dé inicio el ejercicio de liquidación, el aviso de inicio de liquidación se presentará dentro del mes siguiente a la fecha en que se presente la declaración del ejercicio que concluyó anticipadamente, en los términos del artículo [11](../../cff/markdown/articulo-11.md) del Código;
 
 VIII. El aviso de apertura de sucesión se presentará por el representante legal de la sucesión en el caso de que fallezca una persona obligada a presentar declaraciones periódicas por cuenta propia. La presentación de este aviso deberá realizarse después de aceptar el cargo y previamente a la del aviso de cancelación en el registro federal de contribuyentes por liquidación de la sucesión.
 
@@ -71,7 +71,7 @@ El aviso a que se refiere esta fracción también deberá presentarse por las pe
 
 El cómputo del plazo para la presentación del aviso a que se refiere esta fracción inicia una vez que se ha presentado la última declaración a que estén obligados los contribuyentes;
 
-XIII. El aviso de cancelación en el registro federal de contribuyentes por fusión de sociedades, se presentará por la sociedad fusionante cuando ésta sea la que subsista y con ello se tendrá por presentado el aviso de fusión a que se refiere el artículo 14-B, fracción I, inciso a) del Código.
+XIII. El aviso de cancelación en el registro federal de contribuyentes por fusión de sociedades, se presentará por la sociedad fusionante cuando ésta sea la que subsista y con ello se tendrá por presentado el aviso de fusión a que se refiere el artículo [14-B](../../cff/markdown/articulo-14-B.md), fracción I, inciso a) del Código.
 
 El aviso a que se refiere esta fracción deberá presentarse una vez que se lleve a cabo la fusión y deberá contener la clave del registro federal de contribuyentes, así como la denominación o razón social de las sociedades que se fusionan y la fecha en la que se realizó la fusión;
 

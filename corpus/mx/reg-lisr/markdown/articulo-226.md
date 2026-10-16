@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 226
 
-Para efectos del artículo 134 de la [Ley](articulo-1.md), en los casos de contratos celebrados por dos o más personas con integrantes del sistema financiero, éstas deberán precisar en el texto del documento que al efecto expidan, quién será la persona o personas que percibirán los rendimientos.
+Para efectos del artículo [134](../../lisr/markdown/articulo-134.md) de la [Ley](articulo-1.md), en los casos de contratos celebrados por dos o más personas con integrantes del sistema financiero, éstas deberán precisar en el texto del documento que al efecto expidan, quién será la persona o personas que percibirán los rendimientos.
 
 Los contribuyentes que contraten con dichas instituciones tendrán, a su vez, la obligación de manifestarles quién o quiénes percibirán los rendimientos.
 

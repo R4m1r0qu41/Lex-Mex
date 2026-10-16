@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 208
 
-Corresponde a la Secretaría coordinar las acciones tendientes al cumplimiento del artículo 128, tercer párrafo de la Ley y en lo que corresponda, se debe estar a lo dispuesto en la Ley de Planeación y Transición Energética, su reglamento y demás Normatividad en la materia, que para tal efecto emita la Secretaría.
+Corresponde a la Secretaría coordinar las acciones tendientes al cumplimiento del artículo [128](../../lsh/markdown/articulo-128.md), tercer párrafo de la Ley y en lo que corresponda, se debe estar a lo dispuesto en la Ley de Planeación y Transición Energética, su reglamento y demás Normatividad en la materia, que para tal efecto emita la Secretaría.

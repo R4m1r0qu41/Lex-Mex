@@ -17,7 +17,7 @@ source_sha256: 931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557
 
 # Artículo 8
 
-Formarán parte del Consejo, de conformidad con el artículo 14 de la [Ley](articulo-2.md), los siguientes integrantes:
+Formarán parte del Consejo, de conformidad con el artículo [14](../../lpo/markdown/articulo-14.md) de la [Ley](articulo-2.md), los siguientes integrantes:
 
 I. El titular de la Secretaría quien lo presidirá, y dos representantes de la misma, uno de los cuales fungirá como Secretario Técnico;
 

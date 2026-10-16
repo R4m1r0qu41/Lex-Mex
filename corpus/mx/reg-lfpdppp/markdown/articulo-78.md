@@ -17,6 +17,6 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 78
 
-Para la elaboración, emisión y publicación de la regulación a que se refiere el artículo 40 de la Ley, la dependencia y el Instituto establecerán los mecanismos de coordinación correspondientes.
+Para la elaboración, emisión y publicación de la regulación a que se refiere el artículo [40](../../lfpdppp/markdown/articulo-40.md) de la Ley, la dependencia y el Instituto establecerán los mecanismos de coordinación correspondientes.
 
 En todos los casos, la dependencia y el Instituto, en el ámbito de sus atribuciones, determinarán las disposiciones que normen el tratamiento de datos personales en el sector o actividad que corresponda.

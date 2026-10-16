@@ -17,7 +17,7 @@ source_sha256: 8e60a8ba9f27b47d26806dbae115c0803dd9ea6a3a02a1b359dc86516d40759e
 
 # Artículo 21
 
-Para obtener la autorización para establecerse en territorio nacional y para realizar habitualmente actos de comercio a que se refiere el artículo 17 de la [Ley](articulo-1.md), las personas morales extranjeras deben presentar solicitud por escrito, en original y dos copias simples, en la que se señalen los datos generales de identificación del solicitante, así como la descripción de la actividad económica que pretenda desarrollar en el país.
+Para obtener la autorización para establecerse en territorio nacional y para realizar habitualmente actos de comercio a que se refiere el artículo [17](../../lie/markdown/articulo-17.md) de la [Ley](articulo-1.md), las personas morales extranjeras deben presentar solicitud por escrito, en original y dos copias simples, en la que se señalen los datos generales de identificación del solicitante, así como la descripción de la actividad económica que pretenda desarrollar en el país.
 
 Esta solicitud debe acompañarse, en original y copia simple, de:
 

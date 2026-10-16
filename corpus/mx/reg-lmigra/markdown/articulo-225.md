@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 225
 
-El establecimiento de estaciones migratorias y la habilitación de estancias provisionales deberán ajustarse a lo establecido en los artículos 106 y 107 de la Ley, garantizando en todo momento condiciones de seguridad y el respeto a los derechos humanos.
+El establecimiento de estaciones migratorias y la habilitación de estancias provisionales deberán ajustarse a lo establecido en los artículos [106](../../lmigra/markdown/articulo-106.md) y [107](../../lmigra/markdown/articulo-107.md) de la Ley, garantizando en todo momento condiciones de seguridad y el respeto a los derechos humanos.
 
 En ningún caso se podrán habilitar como estancias provisionales a los centros de encarcelamiento, de reclusión preventiva o de ejecución de sentencias, o cualquier otro inmueble que no cumpla con las características ni preste los servicios descritos en la Ley. Asimismo, en ningún caso dichas estancias provisionales o estaciones migratorias podrán fungir como centros de reclusión preventiva o de ejecución de sentencia o cualquier otro análogo.
 

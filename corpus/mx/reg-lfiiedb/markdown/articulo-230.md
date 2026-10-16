@@ -17,4 +17,4 @@ source_sha256: 85d60fd8e0d0d2dac1758f672c5b2200ee6e501eecd8c635b0ac89a93d930b97
 
 # Artículo 230
 
-Durante la vigencia original de un contrato de inversión estratégica, sólo podrán realizarse modificaciones en los supuestos marcados en el artículo 125 de la Ley. El contrato, deberá prever los supuestos de riesgos extraordinarios, que impliquen ajustes bajo criterios de equidad y en beneficio del interés público.
+Durante la vigencia original de un contrato de inversión estratégica, sólo podrán realizarse modificaciones en los supuestos marcados en el artículo [125](../../lfiiedb/markdown/articulo-125.md) de la Ley. El contrato, deberá prever los supuestos de riesgos extraordinarios, que impliquen ajustes bajo criterios de equidad y en beneficio del interés público.

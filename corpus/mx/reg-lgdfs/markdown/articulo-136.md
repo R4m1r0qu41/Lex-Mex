@@ -17,6 +17,6 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 136
 
-La Comisión resolverá sobre el otorgamiento de la constancia a que se refiere el artículo 71 de la [Ley](articulo-2.md), dentro de los cinco días hábiles siguientes a la fecha de la visita. En caso de que la Comisión no resuelva en el plazo señalado, la constancia se entenderá otorgada.
+La Comisión resolverá sobre el otorgamiento de la constancia a que se refiere el artículo [71](../../lgdfs/markdown/articulo-71.md) de la [Ley](articulo-2.md), dentro de los cinco días hábiles siguientes a la fecha de la visita. En caso de que la Comisión no resuelva en el plazo señalado, la constancia se entenderá otorgada.
 
 Una vez otorgada la constancia, los interesados podrán solicitar remisiones forestales para amparar la legal procedencia del recurso conforme al artículo [104](articulo-104.md), fracción I del presente Reglamento.

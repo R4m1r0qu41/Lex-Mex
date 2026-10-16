@@ -17,7 +17,7 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 # Artículo 35
 
-Es obligación de los Prestadores de Servicios autorizados en la modalidad establecida en la fracción VII del artículo 15 de la [Ley](articulo-2.md), presentar ante la [Dirección General](articulo-2.md), los datos personales de los compradores y de los usuarios de los servicios relativos a la modalidad citada.
+Es obligación de los Prestadores de Servicios autorizados en la modalidad establecida en la fracción VII del artículo [15](../../lfsp/markdown/articulo-15.md) de la [Ley](articulo-2.md), presentar ante la [Dirección General](articulo-2.md), los datos personales de los compradores y de los usuarios de los servicios relativos a la modalidad citada.
 
 Por datos personales deberá entenderse:
 
@@ -39,4 +39,4 @@ b) El número de registro de la autorización o permiso que los acredite como pr
 
 Los datos a que se refiere este artículo deberán entregarse en formato libre y de manera semestral, cuyo plazo empezará a correr al día hábil siguiente al que sea otorgada la autorización o revalidación del prestador de servicios.
 
-La Dirección General será responsable de la confidencialidad, guarda, custodia y reserva de los datos a que se refiere el presente Capítulo, de acuerdo con las normas establecidas en el artículo 14 de la Ley, lo anterior sin perjuicio de que los Prestadores de Servicios mantengan en estricta confidencialidad la información.
+La Dirección General será responsable de la confidencialidad, guarda, custodia y reserva de los datos a que se refiere el presente Capítulo, de acuerdo con las normas establecidas en el artículo [14](../../lfsp/markdown/articulo-14.md) de la Ley, lo anterior sin perjuicio de que los Prestadores de Servicios mantengan en estricta confidencialidad la información.

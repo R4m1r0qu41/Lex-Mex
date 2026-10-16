@@ -27,6 +27,6 @@ II. Obras musicales que requieran un periodo más largo de difusión;
 
 III. Aportaciones incidentales a una obra de mayor amplitud, tales como prólogos, presentaciones, introducciones, prolegómenos y otras de la misma clase;
 
-IV. Obras literarias o artísticas, incluidas las musicales, que se incorporen como parte de los programas de medios electrónicos a que se refiere el artículo 111 de la Ley, y
+IV. Obras literarias o artísticas, incluidas las musicales, que se incorporen como parte de los programas de medios electrónicos a que se refiere el artículo [111](../../lfda/markdown/articulo-111.md) de la Ley, y
 
 V. Las demás que por su naturaleza, magnitud de la inversión, número de ejemplares o que el número de artistas intérpretes o ejecutantes que participen en su representación o ejecución no permitan recuperar la inversión en ese plazo.

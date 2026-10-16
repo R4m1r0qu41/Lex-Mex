@@ -17,6 +17,6 @@ source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 
 # Artículo 218
 
-Las autoridades sanitarias competentes expedirán las autorizaciones respectivas, cuando el solicitante hubiere satisfecho los requisitos que señalen las normas oficiales mexicanas aplicables y cubierto, en su caso, los derechos que establezca la legislación fiscal, de conformidad con lo expuesto por el artículo 371 de la Ley.
+Las autoridades sanitarias competentes expedirán las autorizaciones respectivas, cuando el solicitante hubiere satisfecho los requisitos que señalen las normas oficiales mexicanas aplicables y cubierto, en su caso, los derechos que establezca la legislación fiscal, de conformidad con lo expuesto por el artículo [371](../../lgs/markdown/articulo-371.md) de la Ley.
 
 Artículo reformado DOF 01-11-2013

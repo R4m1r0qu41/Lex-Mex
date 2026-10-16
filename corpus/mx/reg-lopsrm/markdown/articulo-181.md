@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 181
 
-El procedimiento que establece la fracción II del artículo 57 de la [Ley](articulo-2.md) se desarrollará de la misma forma enunciada en el [artículo anterior](articulo-180.md), con la salvedad de que solamente se analizará un grupo de precios que representen cuando menos el ochenta por ciento del importe total faltante del contrato, conforme al programa de ejecución convenido.
+El procedimiento que establece la fracción II del artículo [57](../../lopsrm/markdown/articulo-57.md) de la [Ley](articulo-2.md) se desarrollará de la misma forma enunciada en el [artículo anterior](articulo-180.md), con la salvedad de que solamente se analizará un grupo de precios que representen cuando menos el ochenta por ciento del importe total faltante del contrato, conforme al programa de ejecución convenido.

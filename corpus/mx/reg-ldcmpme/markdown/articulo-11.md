@@ -17,7 +17,7 @@ source_sha256: 478ff012a0c6ad39c7b826a81d91c5eac3decac66b10fd725138c02c2586b165
 
 # Artículo 11
 
-Los convenios a que se refiere el artículo 12, fracción III de la Ley, deberán prever:
+Los convenios a que se refiere el artículo [12](../../ldcmpme/markdown/articulo-12.md), fracción III de la Ley, deberán prever:
 
 I. Las bases de coordinación del Sector Público para el desarrollo de la competitividad de las MIPYMES;
 

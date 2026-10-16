@@ -17,7 +17,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 58
 
-Con independencia del grado de cumplimiento de las metas de desarrollo profesional establecidas en la evaluación a la que se refieren los artículos 40 y 40-Bis de la Ley, se considerará como insatisfactorio el desempeño del personal que incurra en una o más de las siguientes conductas:
+Con independencia del grado de cumplimiento de las metas de desarrollo profesional establecidas en la evaluación a la que se refieren los artículos [40](../../lsem/markdown/articulo-40.md) y [40-Bis](../../lsem/markdown/articulo-40-BIS.md) de la Ley, se considerará como insatisfactorio el desempeño del personal que incurra en una o más de las siguientes conductas:
 
 I. Bajo rendimiento continuo respecto de las funciones y tareas que se le encomiendan;
 

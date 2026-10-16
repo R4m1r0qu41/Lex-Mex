@@ -17,9 +17,9 @@ source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 
 # Artículo 138 Bis 2
 
-Para los efectos de este Capítulo, además de las definiciones previstas en el artículo 166 Bis 1 de la Ley, se entiende por:
+Para los efectos de este Capítulo, además de las definiciones previstas en el artículo [166 Bis 1](../../lgs/markdown/articulo-166-Bis-1.md) de la Ley, se entiende por:
 
-I.- DIRECTRICES ANTICIPADAS: El documento a que se refiere el artículo 166 Bis 4 de la Ley;
+I.- DIRECTRICES ANTICIPADAS: El documento a que se refiere el artículo [166 Bis 4](../../lgs/markdown/articulo-166-Bis-4.md) de la Ley;
 
 II.- DOLOR: Es la experiencia sensorial de sufrimiento físico y emocional, de intensidad variable, que puede presentarse acompañada de daño real o potencial de tejido del paciente;
 

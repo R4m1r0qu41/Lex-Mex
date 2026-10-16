@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 77
 
-Para efectos del artículo 6o., último párrafo de la [Ley](articulo-1.md), los contribuyentes, responsables solidarios y terceros con ellos relacionados, deberán poner a disposición de la Autoridad Aduanera cuando lo requiera, la documentación relacionada con las operaciones de comercio exterior, incluso para cotejo o compulsa con la información transmitida en Documento Electrónico o Digital.
+Para efectos del artículo [6](../../ladua/markdown/articulo-6o.md)o., último párrafo de la [Ley](articulo-1.md), los contribuyentes, responsables solidarios y terceros con ellos relacionados, deberán poner a disposición de la Autoridad Aduanera cuando lo requiera, la documentación relacionada con las operaciones de comercio exterior, incluso para cotejo o compulsa con la información transmitida en Documento Electrónico o Digital.

@@ -17,7 +17,7 @@ source_sha256: 9fedca5f25e5e912e6a91ad595c8782841e8227ffe9538bfb55c8d0bd4d7d183
 
 # Artículo 25
 
-Los requisitos para la expedición de las licencias particulares a que se refiere el artículo 26 de la Ley, deberán comprobarse en la siguiente forma:
+Los requisitos para la expedición de las licencias particulares a que se refiere el artículo [26](../../lfafe/markdown/articulo-26.md) de la Ley, deberán comprobarse en la siguiente forma:
 
 1o.- El modo honesto de vivir, con certificado de la primera autoridad administrativa del lugar, y en el Distrito Federal, con el certificado del Delegado respectivo.
 

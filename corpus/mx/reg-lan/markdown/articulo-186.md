@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 186
 
-Para el caso previsto en el último párrafo del artículo 120 de la "Ley", "La Comisión" llevará a cabo las siguientes acciones:
+Para el caso previsto en el último párrafo del artículo [120](../../lan/markdown/articulo-120.md) de la "Ley", "La Comisión" llevará a cabo las siguientes acciones:
 
 I. Levantará acta detallada de la diligencia, siguiendo para ello el procedimiento señalado en este "Reglamento", y
 

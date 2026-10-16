@@ -17,7 +17,7 @@ source_sha256: 478ff012a0c6ad39c7b826a81d91c5eac3decac66b10fd725138c02c2586b165
 
 # Artículo 9
 
-Los elementos contenidos en el artículo 9 de la Ley se desarrollarán conforme a lo siguiente:
+Los elementos contenidos en el artículo [9](../../ldcmpme/markdown/articulo-9.md) de la Ley se desarrollarán conforme a lo siguiente:
 
 I. La definición de los sectores prioritarios para el desarrollo económico se realizará tanto a nivel nacional, como por actividad y región, previa consulta pública con los gobiernos de las entidades federativas y los Sectores;
 

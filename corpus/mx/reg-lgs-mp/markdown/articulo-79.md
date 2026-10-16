@@ -33,7 +33,7 @@ VI. Servicios y procedimientos de embellecimiento;
 
 VII. Plaguicidas, excepto cuando se trate de información técnica;
 
-VIII. Nutrientes vegetales cuando, de conformidad con las normas oficiales mexicanas, tengan características tóxicas; Fracción reformada DOF 14-02-2014 IX. Sustancias tóxicas o peligrosas, cuando se trate de productos sujetos a control sanitario en términos del artículo 278 de la [Ley](articulo-2.md), y Fracción reformada DOF 14-02-2014
+VIII. Nutrientes vegetales cuando, de conformidad con las normas oficiales mexicanas, tengan características tóxicas; Fracción reformada DOF 14-02-2014 IX. Sustancias tóxicas o peligrosas, cuando se trate de productos sujetos a control sanitario en términos del artículo [278](../../lgs/markdown/articulo-278.md) de la [Ley](articulo-2.md), y Fracción reformada DOF 14-02-2014
 
 X. Alimentos y bebidas no alcohólicas que se difundan por televisión abierta, televisión restringida, salas de exhibición cinematográfica, internet y demás plataformas digitales, cuando dichos productos no se ajusten a los lineamientos referidos en el segundo párrafo del artículo [22 Bis](articulo-22-Bis.md) del presente Reglamento. Fracción adicionada DOF 14-02-2014. Reformada DOF 08-09-2022
 

@@ -17,9 +17,9 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 136 Sexies
 
-De conformidad con lo establecido en el artículo 55-BIS de la Ley, se transferirán a la Tesorería de la Federación los recursos correspondientes en los siguientes supuestos:
+De conformidad con lo establecido en el artículo [55-BIS](../../lsem/markdown/articulo-55-BIS.md) de la Ley, se transferirán a la Tesorería de la Federación los recursos correspondientes en los siguientes supuestos:
 
-I. Cuando el Miembro del Servicio Exterior de carrera cause baja por cualquiera de las razones que se establecen en las fracciones I, IV, V, VI y VIII del artículo 53-BIS de la Ley. En este caso, se transferirán únicamente las aportaciones realizadas por el Gobierno Federal, y
+I. Cuando el Miembro del Servicio Exterior de carrera cause baja por cualquiera de las razones que se establecen en las fracciones I, IV, V, VI y VIII del artículo [53-BIS](../../lsem/markdown/articulo-53-BIS.md) de la Ley. En este caso, se transferirán únicamente las aportaciones realizadas por el Gobierno Federal, y
 
 II. Cuando el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado emita una negativa de pensión. En este caso, se transferirán únicamente las aportaciones realizadas por el Gobierno Federal.
 

@@ -37,7 +37,7 @@ a) Descarguen líquidos hasta un máximo de 100 litros por segundo, incluyendo l
 
 b) En su tratamiento no realicen actividades consideradas altamente riesgosas, y
 
-c) No le resulte aplicable algún otro supuesto del artículo 28 de la Ley; Fracción reformada DOF 26-04-2012
+c) No le resulte aplicable algún otro supuesto del artículo [28](../../lgeepa/markdown/articulo-28.md) de la Ley; Fracción reformada DOF 26-04-2012
 
 VII. Depósito o relleno con materiales para ganar terreno al mar o a otros cuerpos de aguas nacionales;
 
@@ -63,7 +63,7 @@ a) La instalación de hilos, cables o fibra óptica para la transmisión de señ
 
 b) Las obras de mantenimiento y rehabilitación cuando se realicen en la franja del derecho de vía correspondiente, y Subinciso reformado DOF 26-04-2012
 
-c) Las carreteras que se construyan, sobre caminos ya existentes, para un tránsito promedio diario de hasta un máximo de 500 vehículos, en las cuales la velocidad no exceda de 70 kilómetros por hora, el ancho de calzada y de corona no exceda los 6 metros y no tenga acotamientos, quedando exceptuadas aquellas a las que les resulte aplicable algún otro supuesto del artículo 28 de la Ley. Subinciso adicionado DOF 26-04-2012. Fe de erratas DOF 27-04-2012
+c) Las carreteras que se construyan, sobre caminos ya existentes, para un tránsito promedio diario de hasta un máximo de 500 vehículos, en las cuales la velocidad no exceda de 70 kilómetros por hora, el ancho de calzada y de corona no exceda los 6 metros y no tenga acotamientos, quedando exceptuadas aquellas a las que les resulte aplicable algún otro supuesto del artículo [28](../../lgeepa/markdown/articulo-28.md) de la Ley. Subinciso adicionado DOF 26-04-2012. Fe de erratas DOF 27-04-2012
 
 C) OLEODUCTOS, GASODUCTOS, CARBODUCTOS Y POLIDUCTOS:
 
@@ -193,7 +193,7 @@ R) OBRAS Y ACTIVIDADES EN HUMEDALES, MANGLARES, LAGUNAS, RÍOS, LAGOS Y ESTEROS 
 
 I. Cualquier tipo de obra civil, con excepción de la construcción de viviendas unifamiliares para las comunidades asentadas en estos ecosistemas, y
 
-II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley, y que de acuerdo con la Ley General de Pesca y Acuacultura Sustentables y su reglamento no requieren de la presentación de una manifestación de impacto ambiental, así como de las de navegación, autoconsumo o subsistencia de las comunidades asentadas en estos ecosistemas. Fracción reformada DOF 31-10-2014
+II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo [28](../../lgeepa/markdown/articulo-28.md) de la Ley, y que de acuerdo con la Ley General de Pesca y Acuacultura Sustentables y su reglamento no requieren de la presentación de una manifestación de impacto ambiental, así como de las de navegación, autoconsumo o subsistencia de las comunidades asentadas en estos ecosistemas. Fracción reformada DOF 31-10-2014
 
 S) OBRAS EN ÁREAS NATURALES PROTEGIDAS:
 

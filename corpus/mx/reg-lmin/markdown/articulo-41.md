@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 41
 
-Conforme a lo dispuesto por el primer párrafo del artículo 20 de la Ley, las solicitudes para realizar obras y trabajos de exploración y de explotación de carbón en todas sus variedades, en terrenos amparados por asignaciones o por contratos para la exploración y extracción de hidrocarburos, en términos de la Ley de Hidrocarburos y demás disposiciones jurídicas aplicables, deberán contener: Párrafo reformado DOF 31-10-2014
+Conforme a lo dispuesto por el primer párrafo del artículo [20](../../lmin/markdown/articulo-20.md) de la Ley, las solicitudes para realizar obras y trabajos de exploración y de explotación de carbón en todas sus variedades, en terrenos amparados por asignaciones o por contratos para la exploración y extracción de hidrocarburos, en términos de la Ley de Hidrocarburos y demás disposiciones jurídicas aplicables, deberán contener: Párrafo reformado DOF 31-10-2014
 
 I. Nombre del concesionario o de quien lleve a cabo las obras y trabajos de exploración o de explotación mediante contrato;
 

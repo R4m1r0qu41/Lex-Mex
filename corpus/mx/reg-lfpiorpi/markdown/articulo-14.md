@@ -17,6 +17,6 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 14
 
-Para efectos del artículo 18, fracción III, de la Ley, en las reglas de carácter general también se establecerán los casos de excepción para cumplir con la obligación de identificar al Beneficiario Controlador, dependiendo del tipo de persona Cliente o Usuaria de que se trate.
+Para efectos del artículo [18](../../lfpiorpi/markdown/articulo-18.md), fracción III, de la Ley, en las reglas de carácter general también se establecerán los casos de excepción para cumplir con la obligación de identificar al Beneficiario Controlador, dependiendo del tipo de persona Cliente o Usuaria de que se trate.
 
 Artículo reformado DOF 27-03-2026 REGLAMENTO DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA

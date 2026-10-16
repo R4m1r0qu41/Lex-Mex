@@ -21,7 +21,7 @@ Si durante la vigencia del contrato existe la necesidad de modificar el monto o 
 
 En cualquier momento se podrán modificar las especificaciones del proyecto cuando, derivado de un avance tecnológico, de ingeniería, científico o de cualquier otra naturaleza, se justifique que la variación de dichas especificaciones representan la obtención de mejores condiciones para el Estado.
 
-Para los efectos del artículo 59 de la [Ley](articulo-2.md), las modificaciones que se aprueben mediante la celebración de los convenios se considerarán parte del contrato y por lo tanto obligatorias para quienes los suscriban.
+Para los efectos del artículo [59](../../lopsrm/markdown/articulo-59.md) de la [Ley](articulo-2.md), las modificaciones que se aprueben mediante la celebración de los convenios se considerarán parte del contrato y por lo tanto obligatorias para quienes los suscriban.
 
 El conjunto de los programas de ejecución que se deriven de las modificaciones a los contratos, integrará el programa de ejecución convenido en el contrato, con el cual se medirá el avance físico de los trabajos.
 

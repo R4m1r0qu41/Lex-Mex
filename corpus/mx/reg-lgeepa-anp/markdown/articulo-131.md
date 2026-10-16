@@ -27,6 +27,6 @@ III. Básico: cuando los predios presenten al menos tres de los aspectos señala
 
 La Comisión realizará la ponderación en términos del [artículo anterior](articulo-130.md), y asignará a cada certificado expedido el nivel de certificación que le corresponda, e incluirá el dictamen que emitió para determinar dicho nivel en el expediente respectivo de cada predio destinado voluntariamente a la conservación.
 
-Durante el mes de junio de cada año, la Comisión publicará en su página web un listado que contendrán los datos a que se refiere el artículo 77 BIS, fracción II, de la Ley y el nivel establecido a los certificados que hubiera expedido.
+Durante el mes de junio de cada año, la Comisión publicará en su página web un listado que contendrán los datos a que se refiere el artículo [77 BIS](../../lgeepa/markdown/articulo-77-BIS.md), fracción II, de la Ley y el nivel establecido a los certificados que hubiera expedido.
 
 Artículo reformado DOF 21-05-2014

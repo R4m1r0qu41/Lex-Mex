@@ -21,7 +21,7 @@ Los titulares de las Coordinaciones Estatales tienen las atribuciones siguientes
 
 I. Mantener oportunamente informado al Titular de la Coordinación Territorial al que se encuentren adscritos, de la situación de la seguridad pública en su entidad federativa a través de un diagnóstico permanente;
 
-II. Diagnosticar permanentemente la situación de la seguridad pública, en los espacios federales que se encuentren en su territorio, a que alude el artículo 9, fracción II de la [Ley](articulo-2.md);
+II. Diagnosticar permanentemente la situación de la seguridad pública, en los espacios federales que se encuentren en su territorio, a que alude el artículo [9](../../lgn/markdown/articulo-9.md), fracción II de la [Ley](articulo-2.md);
 
 III. Establecer los sistemas de información que se requieran para apoyar las tareas y actividades de las Coordinaciones de Unidad de Nivel Batallón;
 

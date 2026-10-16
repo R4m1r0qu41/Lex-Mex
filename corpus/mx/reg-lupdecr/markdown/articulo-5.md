@@ -17,7 +17,7 @@ source_sha256: 9900df5fd57ee1fb485d421861b2fd4d8bff61f389275c834b954320c08c46ae
 
 # Artículo 5
 
-Para efectos de lo dispuesto en el artículo 8 de la [Ley](articulo-2.md), se entiende por:
+Para efectos de lo dispuesto en el artículo [8](../../lupdecr/markdown/articulo-8.md) de la [Ley](articulo-2.md), se entiende por:
 
 I. Heridos y Enfermos: Aquellas personas, sean militares o civiles, que debido a una lesión, enfermedad u otros trastornos o incapacidades de orden físico o mental, tengan necesidad de asistencia o cuidados médicos, así como las mujeres embarazadas, los recién nacidos, las personas con discapacidad y otras personas necesitadas de asistencia o cuidados médicos inmediatos, y que no participen o hayan dejado de participar en las hostilidades;
 

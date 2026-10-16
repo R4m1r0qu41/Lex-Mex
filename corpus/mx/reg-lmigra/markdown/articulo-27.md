@@ -25,7 +25,7 @@ II. Cumplir las instrucciones de rotación y cambios de adscripción;
 
 III. Aprobar los programas de formación, capacitación y profesionalización; Fracción reformada DOF 23-05-2014
 
-IV. Obtener la certificación de conformidad con lo establecido en el artículo 23 de la Ley; Fracción reformada DOF 23-05-2014
+IV. Obtener la certificación de conformidad con lo establecido en el artículo [23](../../lmigra/markdown/articulo-23.md) de la Ley; Fracción reformada DOF 23-05-2014
 
 V. No estar impedido para prestar sus servicios, en los términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás disposiciones jurídicas aplicables;
 

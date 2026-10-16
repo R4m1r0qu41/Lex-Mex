@@ -21,6 +21,6 @@ El costo por financiamiento permanecerá constante durante la ejecución de los 
 
 I. Cuando varíe la tasa de interés;
 
-II. Cuando no se entreguen los anticipos durante el primer trimestre de cada ejercicio subsecuente al del inicio de los trabajos, conforme a lo dispuesto por el segundo párrafo de la fracción V del artículo 50 de la [Ley](articulo-2.md), y
+II. Cuando no se entreguen los anticipos durante el primer trimestre de cada ejercicio subsecuente al del inicio de los trabajos, conforme a lo dispuesto por el segundo párrafo de la fracción V del artículo [50](../../lopsrm/markdown/articulo-50.md) de la [Ley](articulo-2.md), y
 
 III. Cuando resulte procedente ajustarlo conforme a lo dispuesto en los artículos 59, párrafo cuarto de la Ley y 102 del presente Reglamento.

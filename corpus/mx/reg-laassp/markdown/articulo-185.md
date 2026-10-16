@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 185
 
-En la intervención de oficio, es improcedente la ampliación a que se refiere el penúltimo párrafo del artículo 101 de la [Ley](articulo-2.md).
+En la intervención de oficio, es improcedente la ampliación a que se refiere el penúltimo párrafo del artículo [101](../../laassp/markdown/articulo-101.md) de la [Ley](articulo-2.md).

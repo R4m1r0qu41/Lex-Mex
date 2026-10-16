@@ -17,7 +17,7 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 32
 
-Los siguientes residuos provenientes de los procesos metalúrgicos, en los términos de la fracción III del artículo 7 de la [Ley](articulo-2.md), son de competencia federal:
+Los siguientes residuos provenientes de los procesos metalúrgicos, en los términos de la fracción III del artículo [7](../../lgpgir/markdown/articulo-7.md) de la [Ley](articulo-2.md), son de competencia federal:
 
 9 I. Fabricación y transformación de hierro y acero;
 

@@ -17,4 +17,4 @@ source_sha256: 9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3
 
 # Artículo 31
 
-Cuando la autoridad competente ordene la devolución de bienes que hayan sido enajenados o por cualquier otra circunstancia exista imposibilidad de devolverlos, el SAE pagará a quien tenga derecho a ello, el valor de los bienes con cargo al fondo previsto en el artículo 89 de la [Ley](articulo-1.md).
+Cuando la autoridad competente ordene la devolución de bienes que hayan sido enajenados o por cualquier otra circunstancia exista imposibilidad de devolverlos, el SAE pagará a quien tenga derecho a ello, el valor de los bienes con cargo al fondo previsto en el artículo [89](../../lfaebsp/markdown/articulo-89.md) de la [Ley](articulo-1.md).

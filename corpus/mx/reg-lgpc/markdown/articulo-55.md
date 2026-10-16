@@ -17,7 +17,7 @@ source_sha256: 5018478a6ca9ea39f9ca88ffcb68dde9a33bd4adec59dc75d2431f894b621fc2
 
 # Artículo 55
 
-Los esquemas de coordinación del Comité Nacional referidos en el artículo 33 de la [Ley](articulo-2.md) se realizarán principalmente a través de acuerdos, convenios y bases de coordinación y colaboración, y se llevarán a cabo en los siguientes términos: I. Procurar la complementariedad, subsidiaridad y distribución estratégica de las acciones entre sus miembros;
+Los esquemas de coordinación del Comité Nacional referidos en el artículo [33](../../lgpc/markdown/articulo-33.md) de la [Ley](articulo-2.md) se realizarán principalmente a través de acuerdos, convenios y bases de coordinación y colaboración, y se llevarán a cabo en los siguientes términos: I. Procurar la complementariedad, subsidiaridad y distribución estratégica de las acciones entre sus miembros;
 
 II. Actuar mediante procedimientos y diligencias documentados, entrenados, planificados y apoyados con la mejor evidencia disponible;
 

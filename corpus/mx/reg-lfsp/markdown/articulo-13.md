@@ -17,4 +17,4 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 # Artículo 13
 
-De los requisitos establecidos en la [Ley](articulo-2.md) y el Reglamento, en tratándose de solicitudes relacionadas con la modalidad prevista en el artículo 15, fracción VII de la Ley, serán exigibles los compatibles con los servicios que se pretende prestar por virtud de la autorización, revalidación o modificación en dicha modalidad.
+De los requisitos establecidos en la [Ley](articulo-2.md) y el Reglamento, en tratándose de solicitudes relacionadas con la modalidad prevista en el artículo [15](../../lfsp/markdown/articulo-15.md), fracción VII de la Ley, serán exigibles los compatibles con los servicios que se pretende prestar por virtud de la autorización, revalidación o modificación en dicha modalidad.

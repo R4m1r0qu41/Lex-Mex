@@ -17,7 +17,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 13
 
-Las acciones correspondientes a la prevención de la violencia en el ámbito familiar, laboral, docente, institucional y en la comunidad, que realice la Federación, se regirán además de los principios establecidos en el artículo 4 de la Ley, por los siguientes: Párrafo reformado DOF 25-11-2013
+Las acciones correspondientes a la prevención de la violencia en el ámbito familiar, laboral, docente, institucional y en la comunidad, que realice la Federación, se regirán además de los principios establecidos en el artículo [4](../../lgamvlv/markdown/articulo-4.md) de la Ley, por los siguientes: Párrafo reformado DOF 25-11-2013
 
 I. Derogada. Fracción derogada DOF 25-11-2013
 

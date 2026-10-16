@@ -17,4 +17,4 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 # Artículo 6
 
-La [Dirección General](articulo-2.md) para otorgar la autorización a que se refiere el artículo 3 del Reglamento, el Prestador de Servicios deberá cumplir con el artículo 16 de la [Ley](articulo-2.md).
+La [Dirección General](articulo-2.md) para otorgar la autorización a que se refiere el artículo 3 del Reglamento, el Prestador de Servicios deberá cumplir con el artículo [16](../../lfsp/markdown/articulo-16.md) de la [Ley](articulo-2.md).

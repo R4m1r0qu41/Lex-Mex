@@ -17,6 +17,6 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 139
 
-Se les aplicará el régimen de personas morales con fines no lucrativos a que se refiere el Título III de la [Ley](articulo-1.md), a aquellas personas morales señaladas en el artículo 82, párrafo penúltimo de la Ley.
+Se les aplicará el régimen de personas morales con fines no lucrativos a que se refiere el Título III de la [Ley](articulo-1.md), a aquellas personas morales señaladas en el artículo [82](../../lisr/markdown/articulo-82.md), párrafo penúltimo de la Ley.
 
 Lo dispuesto en el párrafo anterior, será aplicable a las asociaciones, sociedades civiles, instituciones u organizaciones que se constituyan y funcionen exclusivamente para la realización de obras o servicios públicos que corresponda efectuar a la Federación, las entidades federativas o los municipios, autorizadas para recibir donativos deducibles en términos de la Ley y de este Reglamento.

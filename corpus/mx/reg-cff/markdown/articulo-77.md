@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 77
 
-Para los efectos del artículo 141 del [Código](articulo-1.md), la garantía del interés fiscal se otorgará a favor de la Tesorería de la Federación, del organismo descentralizado que sea competente para cobrar coactivamente créditos fiscales, así como de las tesorerías o de las dependencias de las entidades federativas o municipios que realicen esas funciones aun cuando tengan otra denominación, según corresponda.
+Para los efectos del artículo [141](../../cff/markdown/articulo-141.md) del [Código](articulo-1.md), la garantía del interés fiscal se otorgará a favor de la Tesorería de la Federación, del organismo descentralizado que sea competente para cobrar coactivamente créditos fiscales, así como de las tesorerías o de las dependencias de las entidades federativas o municipios que realicen esas funciones aun cuando tengan otra denominación, según corresponda.
 
 Cuando la garantía del interés fiscal consista en fianza, carta de crédito o billete de depósito, se otorgará a favor de la Tesorería de la Federación o del organismo descentralizado competente para cobrar coactivamente créditos fiscales, según sea el caso.
 

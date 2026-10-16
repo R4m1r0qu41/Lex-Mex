@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 94
 
-Los supuestos a que se refiere el artículo 128 TER, fracciones III y IV de la Ley, se podrán acreditar cuando las conductas respectivas consistan, entre otras, en el notorio incremento de precios; el acaparamiento, almacenamiento u ocultamiento de bienes o productos, o la negación de la prestación de los servicios.
+Los supuestos a que se refiere el artículo [128 TER](../../lfpc/markdown/articulo-128-TER.md), fracciones III y IV de la Ley, se podrán acreditar cuando las conductas respectivas consistan, entre otras, en el notorio incremento de precios; el acaparamiento, almacenamiento u ocultamiento de bienes o productos, o la negación de la prestación de los servicios.

@@ -25,4 +25,4 @@ II. Impuesto: El impuesto al valor agregado;
 
 III. Actos o Actividades por los que se deba pagar el Impuesto: Aquéllos a los que se les apliquen las tasas del 16% y 0% a las que se refiere la Ley, y Fracción reformada DOF 25-09-2014
 
-IV. Disposiciones que establece la Ley en materia de acreditamiento: Los artículos 4o., 5o., 5o.-A, 5o.-B, 5o.-C, 5o.-D, 5o.-E y 5o.-F de la Ley. Fracción reformada DOF 25-09-2014
+IV. Disposiciones que establece la Ley en materia de acreditamiento: Los artículos [4](../../liva/markdown/articulo-4o.md)o., 5o., 5o.-A, 5o.-B, 5o.-C, 5o.-D, 5o.-E y 5o.-F de la Ley. Fracción reformada DOF 25-09-2014

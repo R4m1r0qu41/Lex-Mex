@@ -23,4 +23,4 @@ Cuando con posterioridad a la adjudicación del contrato se presenten circunstan
 
 El pago de los montos de los incrementos o reducciones a que se refiere el párrafo anterior se realizará de manera independiente al pago de las amortizaciones programadas.
 
-Las cantidades derivadas de las variaciones que se reconozcan en términos del presente artículo no se considerarán como una modificación al monto o plazo del contrato en términos del artículo 59 de la [Ley](articulo-2.md), por lo que no se requerirá celebrar convenio modificatorio.
+Las cantidades derivadas de las variaciones que se reconozcan en términos del presente artículo no se considerarán como una modificación al monto o plazo del contrato en términos del artículo [59](../../lopsrm/markdown/articulo-59.md) de la [Ley](articulo-2.md), por lo que no se requerirá celebrar convenio modificatorio.

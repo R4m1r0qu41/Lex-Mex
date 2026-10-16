@@ -21,4 +21,4 @@ El testigo social será designado por la [Función Pública](articulo-11.md), co
 
 La convocante deberá solicitar la designación a la Función Pública, a más tardar veinte días hábiles antes de la fecha prevista para la publicación de la convocatoria. Para ello, deberá comunicarle una descripción breve del proyecto; así como las fechas de convocatoria, entrega de propuestas y demás relevantes del concurso.
 
-La convocante contratará al testigo social mediante adjudicación directa, en términos del artículo 20 de la Ley. Párrafo reformado DOF 31-10-2014
+La convocante contratará al testigo social mediante adjudicación directa, en términos del artículo [20](../../lapp/markdown/articulo-20.md) de la Ley. Párrafo reformado DOF 31-10-2014

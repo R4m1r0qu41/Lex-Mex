@@ -17,7 +17,7 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 98
 
-Los interesados en realizar aprovechamiento de ejemplares de la vida silvestre en predios federales, de conformidad a lo prescrito en el tercer párrafo del artículo 89 de la [Ley](articulo-2.md), presentarán la solicitud a que se refiere el artículo [91](articulo-91.md) del presente Reglamento. La Secretaría podrá autorizar el aprovechamiento en los términos del capítulo anterior, de acuerdo con las siguientes reglas particulares:
+Los interesados en realizar aprovechamiento de ejemplares de la vida silvestre en predios federales, de conformidad a lo prescrito en el tercer párrafo del artículo [89](../../lgvs/markdown/articulo-89.md) de la [Ley](articulo-2.md), presentarán la solicitud a que se refiere el artículo [91](articulo-91.md) del presente Reglamento. La Secretaría podrá autorizar el aprovechamiento en los términos del capítulo anterior, de acuerdo con las siguientes reglas particulares:
 
 I. El aprovechamiento en predios federales obliga al que lo realice a establecer esquemas de manejo para la conservación de dichos predios, para lo cual el solicitante podrá adherirse a los planes de manejo tipo que al efecto expida la Secretaría o, en su defecto, someter a aprobación de dicha dependencia un plan de manejo específico en los términos que establece la Ley y el presente Reglamento, y
 

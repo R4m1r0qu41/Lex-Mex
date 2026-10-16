@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 235-H
 
-Para efectos de lo dispuesto en el artículo 167-J, fracción V, con relación al diverso 165, fracción II, inciso b) de la [Ley](articulo-1.md), también se considerará que la agencia aduanal fue omisa en transmitir o presentar el permiso vigente, o bien, el documento que compruebe el cumplimiento de las regulaciones y restricciones no arancelarias, cuando éste no ampare la Mercancía presentada a Reconocimiento Aduanero.
+Para efectos de lo dispuesto en el artículo [167-J](../../ladua/markdown/articulo-167-J.md), fracción V, con relación al diverso 165, fracción II, inciso b) de la [Ley](articulo-1.md), también se considerará que la agencia aduanal fue omisa en transmitir o presentar el permiso vigente, o bien, el documento que compruebe el cumplimiento de las regulaciones y restricciones no arancelarias, cuando éste no ampare la Mercancía presentada a Reconocimiento Aduanero.
 
 Artículo adicionado DOF 23-02-2026

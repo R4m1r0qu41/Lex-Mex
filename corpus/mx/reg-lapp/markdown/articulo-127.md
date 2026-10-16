@@ -23,6 +23,6 @@ II. La opinión de la dependencia o entidad federal sobre la propuesta recibida;
 
 III. En el evento de que se proceda a convocar a [Concurso](articulo-11.md), los documentos a que se refiere el artículo [49](articulo-49.md) de este Reglamento;
 
-IV. De adquirirse los estudios en términos del artículo 32 de la Ley, los documentos relativos a la determinación de los montos a cubrir al promotor, y
+IV. De adquirirse los estudios en términos del artículo [32](../../lapp/markdown/articulo-32.md) de la Ley, los documentos relativos a la determinación de los montos a cubrir al promotor, y
 
 V. Los demás documentos que la dependencia o entidad considere relevantes para demostrar que todas las actuaciones se ajustaron a las disposiciones de la Ley, de este Reglamento y demás aplicables.

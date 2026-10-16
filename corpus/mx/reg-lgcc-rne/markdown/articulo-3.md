@@ -15,7 +15,7 @@ source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 
 # Artículo 3
 
-Para los efectos del artículo 87, segundo párrafo de la Ley se identifican como sectores y subsectores en los que se agrupan los Establecimientos Sujetos a Reporte, los siguientes:
+Para los efectos del artículo [87](../../lgcc/markdown/articulo-87.md), segundo párrafo de la Ley se identifican como sectores y subsectores en los que se agrupan los Establecimientos Sujetos a Reporte, los siguientes:
 
 I. Sector Energía:
 

@@ -17,7 +17,7 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 28
 
-Para los efectos del artículo 9o., fracción II de la Ley, se considera que también son casas habitación los asilos y orfanatorios.
+Para los efectos del artículo [9](../../liva/markdown/articulo-9o.md)o., fracción II de la Ley, se considera que también son casas habitación los asilos y orfanatorios.
 
 Tratándose de construcciones nuevas, se atenderá al destino para el cual se construyó, considerando las especificaciones del inmueble y las licencias o permisos de construcción.
 

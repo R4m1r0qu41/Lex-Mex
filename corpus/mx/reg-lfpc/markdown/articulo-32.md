@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 32
 
-El registro y cancelación de los modelos de contratos de adhesión en materia inmobiliaria a que se refiere el artículo 73 de la Ley, se regirá por los capítulos VIII, X y demás disposiciones relativas de la Ley, así como por lo previsto en el Capítulo VII de este Reglamento.
+El registro y cancelación de los modelos de contratos de adhesión en materia inmobiliaria a que se refiere el artículo [73](../../lfpc/markdown/articulo-73.md) de la Ley, se regirá por los capítulos VIII, X y demás disposiciones relativas de la Ley, así como por lo previsto en el Capítulo VII de este Reglamento.

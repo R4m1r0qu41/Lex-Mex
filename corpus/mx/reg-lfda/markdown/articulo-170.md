@@ -17,7 +17,7 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 170
 
-El [Instituto](articulo-2o.md) analizará y valorará las propuestas de conformidad con lo dispuesto en el párrafo segundo del artículo 212 de la [Ley](articulo-2o.md).
+El [Instituto](articulo-2o.md) analizará y valorará las propuestas de conformidad con lo dispuesto en el párrafo segundo del artículo [212](../../lfda/markdown/articulo-212.md) de la [Ley](articulo-2o.md).
 
 Si las propuestas fueran conciliables, el Instituto, de oficio, ajustará las posiciones de las partes y propondrá, provisionalmente, la tarifa que a su juicio proceda, mediante su publicación en el [Diario Oficial](articulo-2o.md).
 

@@ -17,4 +17,4 @@ source_sha256: c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a
 
 # Artículo 91
 
-El recurso de reconsideración a que se refiere el artículo 198 de la Ley, será procedente cuando impugne la improcedencia, naturaleza y monto del beneficio y se tramitará a través de un escrito con las formalidades previstas en la Ley Federal de Procedimiento Administrativo.
+El recurso de reconsideración a que se refiere el artículo [198](../../lissfam/markdown/articulo-198.md) de la Ley, será procedente cuando impugne la improcedencia, naturaleza y monto del beneficio y se tramitará a través de un escrito con las formalidades previstas en la Ley Federal de Procedimiento Administrativo.

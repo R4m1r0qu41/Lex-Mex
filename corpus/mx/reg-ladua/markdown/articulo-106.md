@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 106
 
-Para efectos del artículo 61, fracción III, primer párrafo de la [Ley](articulo-1.md), se consideran como equipo propio e indispensable de los vehículos destinados a servicios internacionales para el transporte de carga o de personas, los instrumentos accesorios o de auxilio, así como aquellas partes y equipos integrados al medio de transporte, necesarios para su funcionamiento y para garantizar la seguridad de las personas y de las Mercancías que transportan, inclusive:
+Para efectos del artículo [61](../../ladua/markdown/articulo-61.md), fracción III, primer párrafo de la [Ley](articulo-1.md), se consideran como equipo propio e indispensable de los vehículos destinados a servicios internacionales para el transporte de carga o de personas, los instrumentos accesorios o de auxilio, así como aquellas partes y equipos integrados al medio de transporte, necesarios para su funcionamiento y para garantizar la seguridad de las personas y de las Mercancías que transportan, inclusive:
 
 I. En tráfico terrestre y ferroviario: autovías, furgones, plataformas, remolques y armones, así como útiles de cocina, de comedor y de dormitorio, y
 

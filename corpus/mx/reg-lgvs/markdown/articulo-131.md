@@ -21,7 +21,7 @@ La Secretaría integrará un padrón en el cual registrará las colecciones cien
 
 I. La documentación que ampare la legal procedencia de los ejemplares. En el caso de colecciones científicas o museográficas dicha documentación incluirá las constancias foliadas en las que se integren los datos sobre el movimiento del material biológico y las copias simples de las fichas de depósito respectivas, y
 
-II. El plan de manejo que contenga los elementos descritos en el artículo 78 Bis de la [Ley](articulo-2.md) y el inventario de ejemplares de especies silvestres que se manejen, en el cual se indicará el nombre común y científico de la especie, su descripción, el sexo, el tipo y número de marca, así como la siguiente:
+II. El plan de manejo que contenga los elementos descritos en el artículo [78 Bis](../../lgvs/markdown/articulo-78-Bis.md) de la [Ley](articulo-2.md) y el inventario de ejemplares de especies silvestres que se manejen, en el cual se indicará el nombre común y científico de la especie, su descripción, el sexo, el tipo y número de marca, así como la siguiente:
 
 a) La ubicación de predios o instalaciones, cuando se trate de zoológicos, espectáculos públicos fijos, circos establecidos de manera permanente y colecciones privadas;
 

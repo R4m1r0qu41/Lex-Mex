@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 110
 
-Para efectos de los artículos 64, 71 y 78-A de la [Ley](articulo-1.md), la Autoridad Aduanera, en ejercicio de facultades de comprobación, podrá rechazar el valor de las Mercancías declarado por el importador cuando se actualice alguno de los siguientes supuestos: Párrafo reformado DOF 23-02-2026
+Para efectos de los artículos [64](../../ladua/markdown/articulo-64.md), [71](../../ladua/markdown/articulo-71.md) y [78-A](../../ladua/markdown/articulo-78-A.md) de la [Ley](articulo-1.md), la Autoridad Aduanera, en ejercicio de facultades de comprobación, podrá rechazar el valor de las Mercancías declarado por el importador cuando se actualice alguno de los siguientes supuestos: Párrafo reformado DOF 23-02-2026
 
 I. Se oponga al ejercicio de las facultades de comprobación de las Autoridades Aduaneras o se detecte que el importador ha incurrido en alguna de las siguientes conductas: a) No llevar la contabilidad, no conservarla durante el plazo previsto en las disposiciones jurídicas aplicables, o no llevar ésta conforme a los principios y preceptos legales aplicables; no poner a disposición de la Autoridad Aduanera la contabilidad o la documentación que ampare las operaciones de comercio exterior o se advierta cualquier irregularidad en la contabilidad que imposibilite verificar el cumplimientos de las obligaciones fiscales en dichas operaciones;
 
@@ -35,4 +35,4 @@ b) Se detecte en su contabilidad cualquier pago no justificado a los proveedores
 
 c) Se conozca, derivado de una compulsa internacional, que el supuesto proveedor de la Mercancía no realizó la operación de venta al importador o niegue haber emitido el comprobante fiscal digital por Internet o documento equivalente presentado por el importador ante la Autoridad Aduanera o manifieste que éste presenta alteraciones que afecten el valor en aduana de la Mercancía, y Inciso reformado DOF 23-02-2026
 
-d) Se actualice el supuesto establecido en el artículo 151, fracción VII, de la Ley. Inciso reformado DOF 23-02-2026
+d) Se actualice el supuesto establecido en el artículo [151](../../ladua/markdown/articulo-151.md), fracción VII, de la Ley. Inciso reformado DOF 23-02-2026

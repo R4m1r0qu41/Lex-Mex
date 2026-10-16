@@ -17,4 +17,4 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 225
 
-Para efectos del artículo 154 de la [Ley](articulo-2.md), la [Procuraduría](articulo-2.md) realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones de la Ley, el presente Reglamento y las que de ellos emanen, conforme a lo previsto en el Título Sexto de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+Para efectos del artículo [154](../../lgdfs/markdown/articulo-154.md) de la [Ley](articulo-2.md), la [Procuraduría](articulo-2.md) realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones de la Ley, el presente Reglamento y las que de ellos emanen, conforme a lo previsto en el Título Sexto de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.

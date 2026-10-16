@@ -17,4 +17,4 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 # Artículo 63
 
-Las condiciones y remuneración del servicio de remolque se fijarán libremente entre los usuarios y [Prestadores de Servicios](articulo-2.md), mediante un contrato de carácter mercantil que al efecto celebren las partes en los términos de este Reglamento, con las excepciones que señala el artículo 60 de la [Ley](articulo-2.md).
+Las condiciones y remuneración del servicio de remolque se fijarán libremente entre los usuarios y [Prestadores de Servicios](articulo-2.md), mediante un contrato de carácter mercantil que al efecto celebren las partes en los términos de este Reglamento, con las excepciones que señala el artículo [60](../../lpue/markdown/articulo-60.md) de la [Ley](articulo-2.md).

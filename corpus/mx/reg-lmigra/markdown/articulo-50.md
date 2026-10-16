@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 50
 
-La autoridad migratoria, sin perjuicio de lo previsto en el artículo 42 de la Ley y este Reglamento, rechazará el ingreso al territorio nacional de cualquier persona extranjera que llegue en calidad de polizón a bordo de cualquier medio de transporte internacional, independientemente de las sanciones que en derecho correspondan. Lo anterior, sin perjuicio de lo dispuesto en los tratados y convenios internacionales de los cuales sea Parte el Estado mexicano y en las disposiciones jurídicas aplicables.
+La autoridad migratoria, sin perjuicio de lo previsto en el artículo [42](../../lmigra/markdown/articulo-42.md) de la Ley y este Reglamento, rechazará el ingreso al territorio nacional de cualquier persona extranjera que llegue en calidad de polizón a bordo de cualquier medio de transporte internacional, independientemente de las sanciones que en derecho correspondan. Lo anterior, sin perjuicio de lo dispuesto en los tratados y convenios internacionales de los cuales sea Parte el Estado mexicano y en las disposiciones jurídicas aplicables.
 
 El polizón extranjero que arribe al territorio nacional a bordo de una aeronave deberá permanecer dentro de las áreas restringidas del aeropuerto, bajo custodia y responsabilidad de la empresa transportadora, en tanto sea trasladado al país de procedencia o a aquél donde sea admisible por cuenta de la empresa que lo transportó.
 

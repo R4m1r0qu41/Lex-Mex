@@ -17,4 +17,4 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 150
 
-En el caso de que se ordene la intervención administrativa o gerencial de una [Administradora](articulo-2o.md) o de una Sociedad de Inversión, que tenga como consecuencia la revocación de su autorización, se procederá de conformidad con lo dispuesto en el artículo 56 de la [Ley](articulo-2o.md), así como con lo previsto para la disolución y liquidación de las Administradoras por el [artículo anterior](articulo-149.md).
+En el caso de que se ordene la intervención administrativa o gerencial de una [Administradora](articulo-2o.md) o de una Sociedad de Inversión, que tenga como consecuencia la revocación de su autorización, se procederá de conformidad con lo dispuesto en el artículo [56](../../lsar/markdown/articulo-56.md) de la [Ley](articulo-2o.md), así como con lo previsto para la disolución y liquidación de las Administradoras por el [artículo anterior](articulo-149.md).

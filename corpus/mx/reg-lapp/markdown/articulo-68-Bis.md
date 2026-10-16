@@ -17,6 +17,6 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 68 Bis
 
-Las bases del [Concurso](articulo-11.md) y los contratos que, en su caso, se celebren, deberán guardar congruencia con la información y resultados de los análisis a que se refiere el artículo 14, párrafo primero, fracciones I a IX de la Ley.
+Las bases del [Concurso](articulo-11.md) y los contratos que, en su caso, se celebren, deberán guardar congruencia con la información y resultados de los análisis a que se refiere el artículo [14](../../lapp/markdown/articulo-14.md), párrafo primero, fracciones I a IX de la Ley.
 
 Artículo adicionado DOF 31-10-2014

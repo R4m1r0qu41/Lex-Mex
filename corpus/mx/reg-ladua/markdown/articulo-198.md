@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 198
 
-Para efectos del artículo 62, fracción II, inciso b), segundo párrafo de la [Ley](articulo-1.md), los Residentes en Territorio Nacional que hubieran importado vehículos a la franja o región fronteriza y que deseen internarlos temporalmente al resto del país, deberán cumplir los siguientes requisitos:
+Para efectos del artículo [62](../../ladua/markdown/articulo-62.md), fracción II, inciso b), segundo párrafo de la [Ley](articulo-1.md), los Residentes en Territorio Nacional que hubieran importado vehículos a la franja o región fronteriza y que deseen internarlos temporalmente al resto del país, deberán cumplir los siguientes requisitos:
 
 I. Solicitar un permiso de internación temporal de vehículos en las aduanas fronterizas del territorio nacional;
 

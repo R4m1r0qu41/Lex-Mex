@@ -33,4 +33,4 @@ III. Coadyuvar con el responsable sanitario en proporcionar al Registro Nacional
 
 a) Los cirujanos de Trasplantes responsables de la Extracción, así como los Coordinadores Hospitalarios, y
 
-b) La fracción III del artículo 338 de la Ley.
+b) La fracción III del artículo [338](../../lgs/markdown/articulo-338.md) de la Ley.

@@ -17,4 +17,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 142
 
-Para efectos de la fracción III, del artículo 86 de la "Ley", "La Comisión" podrá publicar en el Diario Oficial de la Federación los parámetros y concentraciones máximas que por lo menos deberán observar las condiciones particulares de descarga de aguas residuales.
+Para efectos de la fracción III, del artículo [86](../../lan/markdown/articulo-86.md) de la "Ley", "La Comisión" podrá publicar en el Diario Oficial de la Federación los parámetros y concentraciones máximas que por lo menos deberán observar las condiciones particulares de descarga de aguas residuales.

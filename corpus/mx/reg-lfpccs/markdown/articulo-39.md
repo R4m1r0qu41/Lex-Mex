@@ -17,6 +17,6 @@ source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 
 # Artículo 39
 
-El SNICS para comprobar el cumplimiento de la fracción III del artículo 22 de la [Ley](articulo-2.md), podrá requerir al solicitante el establecimiento en campo o llevar a cabo un ensayo específico, que permita verificar las características de la variedad y sus condiciones de distinción, homogeneidad y estabilidad.
+El SNICS para comprobar el cumplimiento de la fracción III del artículo [22](../../lfpccs/markdown/articulo-22.md) de la [Ley](articulo-2.md), podrá requerir al solicitante el establecimiento en campo o llevar a cabo un ensayo específico, que permita verificar las características de la variedad y sus condiciones de distinción, homogeneidad y estabilidad.
 
 En caso de tratarse de variedades vegetales protegidas en términos de la Ley Federal de Variedades Vegetales, el solicitante quedará exento de presentar la descripción de la variedad señalada en el artículo [34](articulo-34.md), fracción I de este Reglamento.

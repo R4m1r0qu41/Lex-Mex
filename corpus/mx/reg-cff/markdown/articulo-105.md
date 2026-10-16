@@ -17,8 +17,8 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 105
 
-Para los efectos del artículo 176, en relación con los artículos 181 y 182 del [Código](articulo-1.md), los interesados en participar en la enajenación de bienes en subasta pública a través de medios electrónicos en los términos del presente ordenamiento deberán cumplir, además, con lo siguiente:
+Para los efectos del artículo 176, en relación con los artículos [181](../../cff/markdown/articulo-181.md) y [182](../../cff/markdown/articulo-182.md) del [Código](articulo-1.md), los interesados en participar en la enajenación de bienes en subasta pública a través de medios electrónicos en los términos del presente ordenamiento deberán cumplir, además, con lo siguiente:
 
 I. Obtener su clave de identificación de usuario, para lo cual deberán proporcionar los datos que al efecto determine el Servicio de Administración Tributaria mediante reglas de carácter general, y
 
-II. Enviar su postura señalando la cantidad que ofrezca de contado, dentro del plazo señalado en la convocatoria de remate. Se tendrá por cubierto el requisito de enviar los datos a que se refiere el artículo 182 del Código, cuando los postores hayan dado cumplimiento a lo señalado en el presente artículo.
+II. Enviar su postura señalando la cantidad que ofrezca de contado, dentro del plazo señalado en la convocatoria de remate. Se tendrá por cubierto el requisito de enviar los datos a que se refiere el artículo [182](../../cff/markdown/articulo-182.md) del Código, cuando los postores hayan dado cumplimiento a lo señalado en el presente artículo.

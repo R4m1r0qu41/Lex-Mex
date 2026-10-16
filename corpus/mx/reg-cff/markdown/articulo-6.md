@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 6
 
-Para los efectos del artículo 9, fracción II del [Código](articulo-1.md), se considera que una persona moral ha establecido en México la administración principal del negocio o su sede de dirección efectiva, cuando en territorio nacional esté el lugar en el que se encuentre la o las personas que tomen o ejecuten las decisiones de control, dirección, operación o administración de la persona moral y de las actividades que ella realiza.
+Para los efectos del artículo [9](../../cff/markdown/articulo-9o.md), fracción II del [Código](articulo-1.md), se considera que una persona moral ha establecido en México la administración principal del negocio o su sede de dirección efectiva, cuando en territorio nacional esté el lugar en el que se encuentre la o las personas que tomen o ejecuten las decisiones de control, dirección, operación o administración de la persona moral y de las actividades que ella realiza.

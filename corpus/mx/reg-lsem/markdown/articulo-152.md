@@ -17,7 +17,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 152
 
-El Secretario, una vez substanciado el procedimiento disciplinario, impondrá alguna de las sanciones previstas en el artículo 57 de la Ley en términos de lo dispuesto por el artículo [62](articulo-62.md) del mismo ordenamiento legal, pudiendo escuchar recomendaciones de la Comisión de Personal.
+El Secretario, una vez substanciado el procedimiento disciplinario, impondrá alguna de las sanciones previstas en el artículo [57](../../lsem/markdown/articulo-57.md) de la Ley en términos de lo dispuesto por el artículo [62](articulo-62.md) del mismo ordenamiento legal, pudiendo escuchar recomendaciones de la Comisión de Personal.
 
 La suspensión de los Miembros del Servicio Exterior como resultado de la aplicación de una sanción administrativa, no podrá ser menor de tres días ni mayor de un año. Párrafo reformado DOF 02-11-2018
 

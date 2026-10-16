@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 19
 
-La remuneración compensatoria por copia privada es aquella que corresponde al autor, al titular de derechos conexos o sus causahabientes por la copia o reproducción realizada en los términos del artículo 40 de la [Ley](articulo-2o.md).
+La remuneración compensatoria por copia privada es aquella que corresponde al autor, al titular de derechos conexos o sus causahabientes por la copia o reproducción realizada en los términos del artículo [40](../../lfda/markdown/articulo-40.md) de la [Ley](articulo-2o.md).

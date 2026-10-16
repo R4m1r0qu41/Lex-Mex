@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 38
 
-Para efectos del artículo 20, fracción VII, de la [Ley](articulo-1.md), las empresas de mensajería y paquetería que transporten Mercancías que ingresen o salgan del territorio nacional por cualquier medio de transporte, deberán transmitir a la Autoridad Aduanera, a través del [Sistema Electrónico Aduanero](articulo-1.md), el manifiesto de carga, el cual deberá contener: Párrafo reformado DOF 23-02-2026
+Para efectos del artículo [20](../../ladua/markdown/articulo-20.md), fracción VII, de la [Ley](articulo-1.md), las empresas de mensajería y paquetería que transporten Mercancías que ingresen o salgan del territorio nacional por cualquier medio de transporte, deberán transmitir a la Autoridad Aduanera, a través del [Sistema Electrónico Aduanero](articulo-1.md), el manifiesto de carga, el cual deberá contener: Párrafo reformado DOF 23-02-2026
 
 I. Número e información del conocimiento de embarque, lista de empaque, guía o demás documentos de transporte, según corresponda, de la Mercancía que despachará;
 

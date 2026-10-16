@@ -17,7 +17,7 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 34
 
-Para los efectos del artículo 17 de la [Ley](articulo-2.md), por sitio de generación debe entenderse tanto el predio en el que se desarrolle el proceso que da origen a los residuos como aquél en donde se encuentran las instalaciones, en términos de la fracción X del artículo [2](articulo-2.md) de este [Reglamento](articulo-2.md).
+Para los efectos del artículo [17](../../lgpgir/markdown/articulo-17.md) de la [Ley](articulo-2.md), por sitio de generación debe entenderse tanto el predio en el que se desarrolle el proceso que da origen a los residuos como aquél en donde se encuentran las instalaciones, en términos de la fracción X del artículo [2](articulo-2.md) de este [Reglamento](articulo-2.md).
 
 La disposición final de residuos provenientes de la industria metalúrgica se sujetará a lo previsto en las normas oficiales mexicanas que para tal efecto se expidan.
 

@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 172
 
-El total de percepciones a que se refiere el artículo 95, fracción II de la [Ley](articulo-1.md), será la cantidad obtenida por prima de antigüedad, retiro e indemnizaciones u otros pagos por separación, disminuida por la cantidad que resulte de aplicar lo dispuesto en el artículo 93, fracción XIII de la Ley.
+El total de percepciones a que se refiere el artículo [95](../../lisr/markdown/articulo-95.md), fracción II de la [Ley](articulo-1.md), será la cantidad obtenida por prima de antigüedad, retiro e indemnizaciones u otros pagos por separación, disminuida por la cantidad que resulte de aplicar lo dispuesto en el artículo [93](../../lisr/markdown/articulo-93.md), fracción XIII de la Ley.

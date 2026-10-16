@@ -17,7 +17,7 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 12
 
-Para efectos de lo dispuesto por el artículo 133 de la [Ley](articulo-2o.md), se considera comunicación directa al público de fonogramas:
+Para efectos de lo dispuesto por el artículo [133](../../lfda/markdown/articulo-133.md) de la [Ley](articulo-2o.md), se considera comunicación directa al público de fonogramas:
 
 I. La ejecución pública efectuada de tal manera que una pluralidad de personas pueda tener acceso a ellos, ya sea mediante reproducción fonomecánica o digital, recepción de transmisión o emisión, o cualquier otra manera;
 

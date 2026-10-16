@@ -98,6 +98,51 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:reference:101-102:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "source_span": "3",
+    "start_char": 101,
+    "end_char": 102,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:reference:2025-2027:87:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "source_span": "87",
+    "start_char": 2025,
+    "end_char": 2027,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:87",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2:reference:2030-2032:88:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
+    "source_span": "88",
+    "start_char": 2030,
+    "end_char": 2032,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:88",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20:reference:276-278:15:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:20",
     "source_span": "15",
@@ -166,6 +211,50 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:12",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:29:reference:66-68:90:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:29",
+    "source_span": "90",
+    "start_char": 66,
+    "end_char": 68,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:90",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 70,
+        "end_char": 85
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:3:reference:30-32:87:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:3",
+    "source_span": "87",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:87",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 34,
+        "end_char": 49
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -320,6 +409,62 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:5:reference:30-32:87:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:5",
+    "source_span": "87",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:87",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 34,
+        "end_char": 49
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 51,
+        "end_char": 61
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:6:reference:30-32:87:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:6",
+    "source_span": "87",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:87",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 34,
+        "end_char": 49
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 51,
+        "end_char": 62
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:6:reference:181-182:3:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:6",
     "source_span": "3",
@@ -373,6 +518,28 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:4",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7:reference:60-62:87:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:7",
+    "source_span": "87",
+    "start_char": 60,
+    "end_char": 62,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:87",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 64,
+        "end_char": 76
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

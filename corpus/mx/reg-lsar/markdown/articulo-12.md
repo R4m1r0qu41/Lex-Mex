@@ -17,7 +17,7 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 12
 
-Para efectos de lo dispuesto por el décimo quinto párrafo del artículo 37 de la [Ley](articulo-2o.md), en caso de la fusión de dos o más [Administradoras](articulo-2o.md) o de que se realice una cesión de cartera entre Administradoras, la Junta de Gobierno de la Comisión determinará los criterios para que prevalezcan las comisiones más bajas, observando los siguientes elementos por lo menos:
+Para efectos de lo dispuesto por el décimo quinto párrafo del artículo [37](../../lsar/markdown/articulo-37.md) de la [Ley](articulo-2o.md), en caso de la fusión de dos o más [Administradoras](articulo-2o.md) o de que se realice una cesión de cartera entre Administradoras, la Junta de Gobierno de la Comisión determinará los criterios para que prevalezcan las comisiones más bajas, observando los siguientes elementos por lo menos:
 
 I. El Rendimiento Neto de las Sociedades de Inversión de cada Administradora;
 

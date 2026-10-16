@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 81
 
-Para efectos de las comprobaciones a que se refiere el artículo 94 de la Ley y a falta de norma oficial mexicana aplicable, la Procuraduría deberá considerar en primer lugar lo previsto por las normas mexicanas correspondientes.
+Para efectos de las comprobaciones a que se refiere el artículo [94](../../lfpc/markdown/articulo-94.md) de la Ley y a falta de norma oficial mexicana aplicable, la Procuraduría deberá considerar en primer lugar lo previsto por las normas mexicanas correspondientes.

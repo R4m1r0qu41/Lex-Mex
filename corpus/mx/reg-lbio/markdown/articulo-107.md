@@ -17,4 +17,4 @@ source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
 
 # Artículo 107
 
-La SADER debe sancionar administrativamente los incumplimientos a las disposiciones de la Ley, el Reglamento, los títulos de los permisos respectivos y demás disposiciones aplicables en la materia, de conformidad con el artículo 40 de la Ley.
+La SADER debe sancionar administrativamente los incumplimientos a las disposiciones de la Ley, el Reglamento, los títulos de los permisos respectivos y demás disposiciones aplicables en la materia, de conformidad con el artículo [40](../../lbio/markdown/articulo-40.md) de la Ley.

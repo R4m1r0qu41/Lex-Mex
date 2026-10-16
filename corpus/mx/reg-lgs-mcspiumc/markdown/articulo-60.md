@@ -21,7 +21,7 @@ Para obtener el permiso previo de [Importación](articulo-3.md) de [Derivados Fa
 
 I. Licencia sanitaria;
 
-II. Aviso de responsable sanitario en términos del artículo 259 de la [Ley](articulo-3.md); III. [Libros de Control](articulo-3.md) autorizados e informar sus previsiones anuales;
+II. Aviso de responsable sanitario en términos del artículo [259](../../lgs/markdown/articulo-259.md) de la [Ley](articulo-3.md); III. [Libros de Control](articulo-3.md) autorizados e informar sus previsiones anuales;
 
 IV. Copia del [Protocolo de Investigación](articulo-3.md) autorizado por la [COFEPRIS](articulo-3.md), cuando la Importación sea para fines de investigación, y
 

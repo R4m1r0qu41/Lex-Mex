@@ -17,4 +17,4 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 94
 
-Los [Trabajadores Estatales o Municipales](articulo-2o.md), tendrán derecho a hacer retiros de la subcuenta de aportaciones voluntarias en los términos que establezca el prospecto de información de cada Sociedad de Inversión de conformidad con lo establecido por el artículo 79 de la [Ley](articulo-2o.md).
+Los [Trabajadores Estatales o Municipales](articulo-2o.md), tendrán derecho a hacer retiros de la subcuenta de aportaciones voluntarias en los términos que establezca el prospecto de información de cada Sociedad de Inversión de conformidad con lo establecido por el artículo [79](../../lsar/markdown/articulo-79.md) de la [Ley](articulo-2o.md).

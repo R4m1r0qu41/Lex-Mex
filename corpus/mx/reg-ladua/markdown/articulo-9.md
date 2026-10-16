@@ -17,11 +17,11 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 9
 
-Para efectos del artículo 10 de la [Ley](articulo-1.md), son lugares autorizados para realizar:
+Para efectos del artículo [10](../../ladua/markdown/articulo-10.md) de la [Ley](articulo-1.md), son lugares autorizados para realizar:
 
 I. La entrada o salida de Mercancías del territorio nacional: las aduanas, secciones aduaneras, aeropuertos internacionales, cruces fronterizos autorizados, puertos y terminales ferroviarias que cuenten con servicios aduanales, y
 
-II. Maniobras a que se refiere el primer párrafo del artículo 10 de la Ley:
+II. Maniobras a que se refiere el primer párrafo del artículo [10](../../ladua/markdown/articulo-10.md) de la Ley:
 
 a) En tráfico marítimo y fluvial: los muelles, atracaderos y sitios para la carga y descarga de Mercancías de importación o exportación que la autoridad competente señale de conformidad con las disposiciones jurídicas aplicables;
 

@@ -17,13 +17,13 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 303 Bis
 
-La Secretaría se coordinará con el Consejo Nacional de Evaluación de la Política de Desarrollo Social para que conjuntamente emitan el programa anual de evaluación a que se refiere el artículo 110 de la [Ley](articulo-2.md), en los términos de las disposiciones jurídicas aplicables.
+La Secretaría se coordinará con el Consejo Nacional de Evaluación de la Política de Desarrollo Social para que conjuntamente emitan el programa anual de evaluación a que se refiere el artículo [110](../../lfprh/markdown/articulo-110.md) de la [Ley](articulo-2.md), en los términos de las disposiciones jurídicas aplicables.
 
-Las dependencias y entidades deberán realizar las evaluaciones conforme al programa anual de evaluación a que se refiere el párrafo anterior. En la designación y contratación de los expertos, instituciones académicas y de investigación u organismos especializados de carácter nacional o internacional que elaboren la evaluación de resultados de los programas sujetos a reglas de operación a que se refiere el artículo 78 de la Ley, se deberá observar lo previsto en el programa anual de evaluación y demás disposiciones jurídicas aplicables.
+Las dependencias y entidades deberán realizar las evaluaciones conforme al programa anual de evaluación a que se refiere el párrafo anterior. En la designación y contratación de los expertos, instituciones académicas y de investigación u organismos especializados de carácter nacional o internacional que elaboren la evaluación de resultados de los programas sujetos a reglas de operación a que se refiere el artículo [78](../../lfprh/markdown/articulo-78.md) de la Ley, se deberá observar lo previsto en el programa anual de evaluación y demás disposiciones jurídicas aplicables.
 
-Las dependencias y entidades, en los términos del artículo 50 de la Ley, podrán realizar contrataciones para que las evaluaciones a que se refiere el párrafo anterior abarquen varios ejercicios fiscales.
+Las dependencias y entidades, en los términos del artículo [50](../../lfprh/markdown/articulo-50.md) de la Ley, podrán realizar contrataciones para que las evaluaciones a que se refiere el párrafo anterior abarquen varios ejercicios fiscales.
 
-El costo de las evaluaciones a que se refieren los artículos 78 y 110 de la Ley que, en su caso, se genere deberá cubrirse con cargo al presupuesto de la dependencia o entidad correspondiente.
+El costo de las evaluaciones a que se refieren los artículos [78](../../lfprh/markdown/articulo-78.md) y [110](../../lfprh/markdown/articulo-110.md) de la Ley que, en su caso, se genere deberá cubrirse con cargo al presupuesto de la dependencia o entidad correspondiente.
 
 Las dependencias y entidades deberán enviar las evaluaciones a la Cámara de Diputados, por conducto de la [Comisión](articulo-2.md) de Presupuesto y Cuenta Pública, a la Secretaría y al Consejo Nacional de Evaluación de la Política de Desarrollo Social, en los términos y plazos que establezca el programa anual de evaluación a que se refiere este artículo, y difundirlas a través de sus respectivas páginas de Internet.
 

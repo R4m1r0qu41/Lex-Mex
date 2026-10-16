@@ -17,7 +17,7 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 19
 
-La persona que haya obtenido la habilitación para ejercer como corredor público deberá, dentro de los noventa días siguientes a la fecha de expedición, cumplir con los requisitos que se establecen en el artículo 12 de la Ley. Dicho plazo será prorrogable, previa solicitud y por causa fundada, a juicio de la Secretaría. Cumplidos dichos requisitos, la Secretaría ordenará la publicación de la habilitación dentro de los treinta días siguientes, en el Diario Oficial de la Federación o en el periódico o gaceta de la entidad federativa de que se trate.
+La persona que haya obtenido la habilitación para ejercer como corredor público deberá, dentro de los noventa días siguientes a la fecha de expedición, cumplir con los requisitos que se establecen en el artículo [12](../../lfcp/markdown/articulo-12.md) de la Ley. Dicho plazo será prorrogable, previa solicitud y por causa fundada, a juicio de la Secretaría. Cumplidos dichos requisitos, la Secretaría ordenará la publicación de la habilitación dentro de los treinta días siguientes, en el Diario Oficial de la Federación o en el periódico o gaceta de la entidad federativa de que se trate.
 
 Se entenderá que el corredor ha establecido su oficina en la plaza en la que fue habilitado cuando así lo manifieste a la Secretaría, bajo protesta de decir verdad, señalando el domicilio en que se ubique.
 

@@ -17,4 +17,4 @@ source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 
 # Artículo 59
 
-La disposición de cadáveres para efectos de investigación o docencia sólo podrá hacerse previa la certificación de la pérdida de la vida de acuerdo con lo prescrito en el artículo 317 de la Ley.
+La disposición de cadáveres para efectos de investigación o docencia sólo podrá hacerse previa la certificación de la pérdida de la vida de acuerdo con lo prescrito en el artículo [317](../../lgs/markdown/articulo-317.md) de la Ley.

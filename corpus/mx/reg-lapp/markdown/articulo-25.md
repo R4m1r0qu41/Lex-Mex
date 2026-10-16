@@ -33,7 +33,7 @@ La Secretaría de Medio Ambiente y Recursos Naturales analizará la información
 
 La opinión favorable no supone autorización en materia de impacto ambiental, ni exime de la obligación de elaborar la manifestación de impacto ambiental correspondiente en los términos previstos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
 
-II. El relativo a asentamientos humanos y desarrollo urbano, respecto del cual se solicitará la opinión de la Secretaría de Desarrollo Agrario, Territorial y Urbano y, en su caso, de las autoridades estatales y municipales, sobre los aspectos a que se refiere el artículo 15, fracción II de la Ley. Párrafo reformado DOF 20-02-2017
+II. El relativo a asentamientos humanos y desarrollo urbano, respecto del cual se solicitará la opinión de la Secretaría de Desarrollo Agrario, Territorial y Urbano y, en su caso, de las autoridades estatales y municipales, sobre los aspectos a que se refiere el artículo [15](../../lapp/markdown/articulo-15.md), fracción II de la Ley. Párrafo reformado DOF 20-02-2017
 
 La solicitud a la Secretaría de Desarrollo Agrario, Territorial y Urbano deberá contener: Párrafo reformado DOF 20-02-2017
 
@@ -47,4 +47,4 @@ La Secretaría de Desarrollo Agrario, Territorial y Urbano analizará la informa
 
 La opinión de la citada Secretaría enumerará las autorizaciones necesarias para el desarrollo del proyecto, y señalará si se cumple con los aspectos mínimos indispensable sobre su viabilidad en tales materias. La opinión favorable no supone autorización alguna, ni exime de la obligación de tramitar las que resulten necesarias de conformidad con las disposiciones aplicables.
 
-El análisis sobre el impacto ambiental, asentamientos humanos y desarrollo urbano previsto en el artículo 14, fracción V de la Ley se considerará completo con las opiniones mencionadas en las dos fracciones del presente artículo. El proyecto se considerará viable con la opinión favorable en los aspectos citados.
+El análisis sobre el impacto ambiental, asentamientos humanos y desarrollo urbano previsto en el artículo [14](../../lapp/markdown/articulo-14.md), fracción V de la Ley se considerará completo con las opiniones mencionadas en las dos fracciones del presente artículo. El proyecto se considerará viable con la opinión favorable en los aspectos citados.

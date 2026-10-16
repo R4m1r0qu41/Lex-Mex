@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 141-A
 
-Los importadores de las Mercancías que hayan sufrido algún daño irreparable y que, conforme al artículo 94, segundo párrafo, de la [Ley](articulo-1.md), se consideren como retornadas deberán solicitar la autorización correspondiente ante las Autoridades Aduaneras para su destrucción, siguiendo el procedimiento que para tales efectos se establezca mediante Reglas.
+Los importadores de las Mercancías que hayan sufrido algún daño irreparable y que, conforme al artículo [94](../../ladua/markdown/articulo-94.md), segundo párrafo, de la [Ley](articulo-1.md), se consideren como retornadas deberán solicitar la autorización correspondiente ante las Autoridades Aduaneras para su destrucción, siguiendo el procedimiento que para tales efectos se establezca mediante Reglas.
 
 Artículo adicionado DOF 23-02-2026

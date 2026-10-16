@@ -17,7 +17,7 @@ source_sha256: 76a5d189cd607e352b2cc39a92c4ad2d46f6d4628cd6e300030d92cf2191a88c
 
 # Artículo 10
 
-Para obtener la autorización a que se refiere el artículo 7, fracción VII de la [Ley](articulo-2.md), las Cámaras deberán presentar solicitud por escrito ante la Secretaría y cumplir con los requisitos siguientes:
+Para obtener la autorización a que se refiere el artículo [7](../../lcec/markdown/articulo-7.md), fracción VII de la [Ley](articulo-2.md), las Cámaras deberán presentar solicitud por escrito ante la Secretaría y cumplir con los requisitos siguientes:
 
 I. Contar, con un sistema informático que cumpla con los parámetros técnicos que la Secretaría establezca mediante Acuerdo publicado en el [DOF](articulo-2.md), el cual permitirá determinar el cumplimiento de las normas de origen establecidas para los productos que se autoricen certificar a la Cámara;
 

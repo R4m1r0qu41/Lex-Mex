@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 155
 
-Para efectos del artículo 93, fracción XIX, inciso a) de la [Ley](articulo-1.md), los contribuyentes deberán acreditar ante el fedatario público que formalice la operación, que el inmueble objeto de la operación es la casa habitación del contribuyente, con cualquiera de los documentos comprobatorios que se mencionan a continuación, siempre que el domicilio consignado en dicha documentación coincida plenamente o, en su caso, con alguno de los elementos fundamentales del domicilio del bien inmueble enajenado utilizados en el instrumento correspondiente y el fedatario público haga constar esta situación cuando formalice la operación:
+Para efectos del artículo [93](../../lisr/markdown/articulo-93.md), fracción XIX, inciso a) de la [Ley](articulo-1.md), los contribuyentes deberán acreditar ante el fedatario público que formalice la operación, que el inmueble objeto de la operación es la casa habitación del contribuyente, con cualquiera de los documentos comprobatorios que se mencionan a continuación, siempre que el domicilio consignado en dicha documentación coincida plenamente o, en su caso, con alguno de los elementos fundamentales del domicilio del bien inmueble enajenado utilizados en el instrumento correspondiente y el fedatario público haga constar esta situación cuando formalice la operación:
 
 I. La credencial para votar, expedida por el Instituto Nacional Electoral;
 

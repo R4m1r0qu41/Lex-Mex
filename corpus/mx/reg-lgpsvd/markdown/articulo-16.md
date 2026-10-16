@@ -17,4 +17,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 16
 
-Los medios de prevención en el ámbito situacional a que se refiere el artículo 9 de la Ley, estarán previstos en las prioridades temáticas, lista de acciones y medidas complementarias que el Centro Nacional establecerá en el Programa Anual previsto en el artículo 21 de la Ley.
+Los medios de prevención en el ámbito situacional a que se refiere el artículo [9](../../lgpsvd/markdown/articulo-9.md) de la Ley, estarán previstos en las prioridades temáticas, lista de acciones y medidas complementarias que el Centro Nacional establecerá en el Programa Anual previsto en el artículo [21](../../lgpsvd/markdown/articulo-21.md) de la Ley.

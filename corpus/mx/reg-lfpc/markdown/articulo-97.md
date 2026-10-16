@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 97
 
-La clausura será total cuando se den los supuestos a que se refieren las fracciones I, II, VII, VIII, IX, X y XI del artículo 128 TER de la Ley.
+La clausura será total cuando se den los supuestos a que se refieren las fracciones I, II, VII, VIII, IX, X y XI del artículo [128 TER](../../lfpc/markdown/articulo-128-TER.md) de la Ley.

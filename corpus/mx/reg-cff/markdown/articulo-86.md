@@ -17,11 +17,11 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 86
 
-Para los efectos del artículo 141, fracción V del [Código](articulo-1.md), los contribuyentes que hayan optado por corregir su situación fiscal, que espontáneamente paguen sus créditos fiscales a plazo y elijan ofrecer como garantía del crédito fiscal el embargo en la vía administrativa de la negociación, deberán presentar una solicitud acompañada de la copia del documento por el que ejercieron la opción de pago a plazo del crédito fiscal de que se trate.
+Para los efectos del artículo [141](../../cff/markdown/articulo-141.md), fracción V del [Código](articulo-1.md), los contribuyentes que hayan optado por corregir su situación fiscal, que espontáneamente paguen sus créditos fiscales a plazo y elijan ofrecer como garantía del crédito fiscal el embargo en la vía administrativa de la negociación, deberán presentar una solicitud acompañada de la copia del documento por el que ejercieron la opción de pago a plazo del crédito fiscal de que se trate.
 
 En la solicitud a que se refiere el párrafo anterior se deberá señalar, bajo protesta de decir verdad, lo siguiente:
 
-I. El monto de las contribuciones actualizadas por las que se optó por pagar a plazo, indicando si se trata de pago diferido o en parcialidades, excluyendo de dicho monto el 20% a que se refiere el artículo 66, fracción II del Código;
+I. El monto de las contribuciones actualizadas por las que se optó por pagar a plazo, indicando si se trata de pago diferido o en parcialidades, excluyendo de dicho monto el 20% a que se refiere el artículo [66](../../cff/markdown/articulo-66.md), fracción II del Código;
 
 II. La contribución a la que corresponda el crédito fiscal de que se trate y el periodo de causación;
 
@@ -37,4 +37,4 @@ b) Piezas de oro o de plata que hubieren tenido el carácter de moneda nacional 
 
 c) Cualquier bien intangible, aun cuando se trate de inversiones o bienes que no estén afectos a las actividades por las cuales se generó el crédito fiscal, especificando las características de las inversiones que permitan su identificación, y
 
-VI. Los gravámenes o adeudos de los señalados en el artículo 149, primer párrafo del Código que reporte la negociación, indicando el importe del adeudo y sus accesorios reclamados, así como el nombre y el domicilio de sus acreedores.
+VI. Los gravámenes o adeudos de los señalados en el artículo [149](../../cff/markdown/articulo-149.md), primer párrafo del Código que reporte la negociación, indicando el importe del adeudo y sus accesorios reclamados, así como el nombre y el domicilio de sus acreedores.

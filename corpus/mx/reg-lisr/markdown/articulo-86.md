@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 86
 
-Para efectos del artículo 44 de la [Ley](articulo-1.md), los contribuyentes podrán no considerar como deudas las reservas complementarias para los fondos a que se refiere el artículo 29 de la Ley, siempre que dichas reservas tampoco se consideren como créditos para efectos del artículo 44 de la Ley.
+Para efectos del artículo [44](../../lisr/markdown/articulo-44.md) de la [Ley](articulo-1.md), los contribuyentes podrán no considerar como deudas las reservas complementarias para los fondos a que se refiere el artículo [29](../../lisr/markdown/articulo-29.md) de la Ley, siempre que dichas reservas tampoco se consideren como créditos para efectos del artículo [44](../../lisr/markdown/articulo-44.md) de la Ley.

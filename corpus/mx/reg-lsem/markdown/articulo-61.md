@@ -17,7 +17,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 61
 
-Los Jefes de Misión, además de las obligaciones consignadas en el artículo 43 de la Ley, deberán: Párrafo reformado DOF 02-11-2018
+Los Jefes de Misión, además de las obligaciones consignadas en el artículo [43](../../lsem/markdown/articulo-43.md) de la Ley, deberán: Párrafo reformado DOF 02-11-2018
 
 I. Defender dignamente el nombre y la imagen de México;
 

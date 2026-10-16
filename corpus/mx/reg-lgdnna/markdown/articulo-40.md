@@ -21,7 +21,7 @@ El sistema a que se refiere este Capítulo tiene por objeto:
 
 I. Permitir el acceso oportuno y efectivo de los responsables de los procedimientos de adopción a la información de las niñas, niños y adolescentes susceptibles de adopción;
 
-II. Generar información estadística para elaborar indicadores de cumplimiento con perspectiva en los principios rectores a que se refiere el artículo 6 de la [Ley](articulo-2.md);
+II. Generar información estadística para elaborar indicadores de cumplimiento con perspectiva en los principios rectores a que se refiere el artículo [6](../../lgdnna/markdown/articulo-6.md) de la [Ley](articulo-2.md);
 
 III. Prevenir adopciones irregulares o con fines ilícitos;
 

@@ -17,7 +17,7 @@ source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 
 # Artículo 49
 
-La [Procuraduría Federal](articulo-2.md), en términos de los convenios que al efecto suscriba, coordinará con las [Procuradurías de Protección Locales](articulo-2.md) y las autoridades federales, estatales y municipales que corresponda, el cumplimiento de las medidas de protección especial para su debida adopción, ejecución y seguimiento en términos de los artículos 116, fracción IV y 121, último párrafo de la [Ley](articulo-2.md). Estas medidas pueden consistir en:
+La [Procuraduría Federal](articulo-2.md), en términos de los convenios que al efecto suscriba, coordinará con las [Procuradurías de Protección Locales](articulo-2.md) y las autoridades federales, estatales y municipales que corresponda, el cumplimiento de las medidas de protección especial para su debida adopción, ejecución y seguimiento en términos de los artículos [116](../../lgdnna/markdown/articulo-116.md), fracción IV y [121](../../lgdnna/markdown/articulo-121.md), último párrafo de la [Ley](articulo-2.md). Estas medidas pueden consistir en:
 
 I. La inclusión de la niña, niño o adolescente y su familia, en forma conjunta o separada, en programas de asistencia social, de salud y educativos, así como actividades deportivas, culturales, artísticas o cualquier otra actividad recreativa al que puedan incorporarse por sus características;
 

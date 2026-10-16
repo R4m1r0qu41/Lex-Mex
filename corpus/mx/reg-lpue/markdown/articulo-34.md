@@ -17,7 +17,7 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 # Artículo 34
 
-Cuando la Secretaría establezca en los títulos de concesión respectivos la obligación del [Administrador](articulo-2.md) Portuario de contratar con terceros, en los términos del artículo 53 de la [Ley](articulo-2.md), se procederá de la forma siguiente:
+Cuando la Secretaría establezca en los títulos de concesión respectivos la obligación del [Administrador](articulo-2.md) Portuario de contratar con terceros, en los términos del artículo [53](../../lpue/markdown/articulo-53.md) de la [Ley](articulo-2.md), se procederá de la forma siguiente:
 
 I. Se publicará en el Diario Oficial de la Federación, en un periódico de amplia circulación nacional y en otro de la entidad federativa en donde se ubique la administración portuaria integral la convocatoria, la cual contendrá:
 
@@ -33,4 +33,4 @@ III. Las ofertas se recibirán y abrirán en presencia de los concursantes, los 
 
 IV. En un plazo de treinta días naturales la administración portuaria integral emitirá su fallo, del que se informará a todos los concursantes, y
 
-V. El contrato correspondiente deberá cumplir con lo establecido en el artículo 51 de la Ley y su firma e inicio de operaciones deberá efectuarse dentro de los siguientes sesenta días naturales posteriores a la fecha del fallo.
+V. El contrato correspondiente deberá cumplir con lo establecido en el artículo [51](../../lpue/markdown/articulo-51.md) de la Ley y su firma e inicio de operaciones deberá efectuarse dentro de los siguientes sesenta días naturales posteriores a la fecha del fallo.

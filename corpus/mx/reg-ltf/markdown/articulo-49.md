@@ -17,7 +17,7 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 49
 
-Para efectos del artículo 38 de la [Ley](articulo-2.md), corresponde a la Tesorería efectuar los pagos siguientes:
+Para efectos del artículo [38](../../ltf/markdown/articulo-38.md) de la [Ley](articulo-2.md), corresponde a la Tesorería efectuar los pagos siguientes:
 
 I. Por obligaciones del Gobierno Federal con cargo al Presupuesto de Egresos de la Federación y las que no lo impactan, inclusive el pago de los recursos presupuestarios a los Poderes Legislativo y Judicial y órganos constitucionales autónomos de la Federación, y
 

@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 14
 
-De conformidad con lo dispuesto en el artículo 19 de la [Ley](articulo-1.md), se podrá autorizar el despacho aduanero de las Mercancías en lugar distinto del autorizado en función de lo dispuesto en el artículo 10 de la Ley, o en día u hora inhábil, siempre que existan causas debidamente justificadas para ello.
+De conformidad con lo dispuesto en el artículo [19](../../ladua/markdown/articulo-19.md) de la [Ley](articulo-1.md), se podrá autorizar el despacho aduanero de las Mercancías en lugar distinto del autorizado en función de lo dispuesto en el artículo [10](../../ladua/markdown/articulo-10.md) de la Ley, o en día u hora inhábil, siempre que existan causas debidamente justificadas para ello.

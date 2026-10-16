@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 99
 
-En los términos del artículo 68 de la [Ley](articulo-1o.md), la [Secretaría](articulo-1o.md) llevará a cabo una revisión con motivo de un cambio de las circunstancias por las que se determinó:
+En los términos del artículo [68](../../lce/markdown/articulo-68.md) de la [Ley](articulo-1o.md), la [Secretaría](articulo-1o.md) llevará a cabo una revisión con motivo de un cambio de las circunstancias por las que se determinó:
 
 I. La cuota compensatoria definitiva; o
 

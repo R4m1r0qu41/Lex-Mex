@@ -17,4 +17,4 @@ source_sha256: c1c2979863552f79416de98fc49cc4898abefac47eb223de3c163a49b793273b
 
 # Artículo 5
 
-Los [Restaurantes o Establecimientos de Consumo de Alimentos](articulo-2.md) que hayan sido contratados para otorgar ayuda alimentaria al Trabajador, a través de las modalidades previstas en los incisos b) y c) de la fracción I del artículo 7o. de la [Ley](articulo-2.md), deberán cumplir con lo dispuesto en las fracciones I y II del [artículo anterior](articulo-4.md) y demás disposiciones jurídicas aplicables.
+Los [Restaurantes o Establecimientos de Consumo de Alimentos](articulo-2.md) que hayan sido contratados para otorgar ayuda alimentaria al Trabajador, a través de las modalidades previstas en los incisos b) y c) de la fracción I del artículo [7](../../laat/markdown/articulo-7o.md)o. de la [Ley](articulo-2.md), deberán cumplir con lo dispuesto en las fracciones I y II del [artículo anterior](articulo-4.md) y demás disposiciones jurídicas aplicables.

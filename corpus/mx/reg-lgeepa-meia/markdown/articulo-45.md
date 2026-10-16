@@ -25,4 +25,4 @@ II. Autorizar total o parcialmente la realización de la obra o actividad de man
 
 En este caso la Secretaría podrá sujetar la realización de la obra o actividad a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación que tengan por objeto evitar, atenuar o compensar los impactos ambientales adversos susceptibles de ser producidos en la construcción, operación normal, etapa de abandono, término de vida útil del proyecto, o en caso de accidente, o
 
-III. Negar la autorización en los términos de la fracción III del Artículo 35 de la Ley.
+III. Negar la autorización en los términos de la fracción III del Artículo [35](../../lgeepa/markdown/articulo-35.md) de la Ley.

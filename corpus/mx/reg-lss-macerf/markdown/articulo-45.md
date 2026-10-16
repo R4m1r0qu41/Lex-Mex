@@ -19,4 +19,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 Los patrones deberán inscribir a sus trabajadores ante el Instituto en los términos que señala la Ley. Asimismo, podrán hacerlo el día hábil anterior al inicio de la relación laboral; en este caso, el reconocimiento de derechos o semanas para determinar el otorgamiento de las prestaciones en dinero y en especie se contabilizará a partir de la fecha que como inicio de la relación laboral se señale en el aviso respectivo.
 
-Los patrones comunicarán al Instituto los salarios de sus trabajadores sin exceder los límites establecidos en el artículo 28 de la Ley.
+Los patrones comunicarán al Instituto los salarios de sus trabajadores sin exceder los límites establecidos en el artículo [28](../../lss/markdown/articulo-28.md) de la Ley.

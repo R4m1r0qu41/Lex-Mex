@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 96
 
-Tratándose de los sujetos a que se refiere el artículo 146-C del [Código](articulo-1.md), cuya liquidación o extinción no esté a cargo del Servicio de Administración y Enajenación de Bienes, el liquidador designado para tal efecto deberá informar que existe el dictamen a que se refiere el artículo 146-C, fracción I del Código.
+Tratándose de los sujetos a que se refiere el artículo [146-C](../../cff/markdown/articulo-146-C.md) del [Código](articulo-1.md), cuya liquidación o extinción no esté a cargo del Servicio de Administración y Enajenación de Bienes, el liquidador designado para tal efecto deberá informar que existe el dictamen a que se refiere el artículo [146-C](../../cff/markdown/articulo-146-C.md), fracción I del Código.

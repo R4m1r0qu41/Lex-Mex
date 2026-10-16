@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 85
 
-Para los efectos del artículo 141, fracción V del [Código](articulo-1.md), el embargo en la vía administrativa se sujetará a las siguientes reglas:
+Para los efectos del artículo [141](../../cff/markdown/articulo-141.md), fracción V del [Código](articulo-1.md), el embargo en la vía administrativa se sujetará a las siguientes reglas:
 
 I. Se practicará a solicitud del contribuyente, quien deberá presentar los documentos y cumplir con los requisitos que dé a conocer el Servicio de Administración Tributaria mediante reglas de carácter general;
 
@@ -27,4 +27,4 @@ III. Tratándose de personas físicas, el depositario de los bienes será el con
 
 IV. Deberá inscribirse en el registro público que corresponda el embargo de los bienes que estén sujetos a esta formalidad, y
 
-V. Antes de la práctica de la diligencia de embargo en la vía administrativa, deberán cubrirse los gastos de ejecución y gastos extraordinarios que puedan ser determinados en términos del artículo 150 del Código. El pago así efectuado tendrá el carácter de definitivo y en ningún caso procederá su devolución una vez practicada la diligencia.
+V. Antes de la práctica de la diligencia de embargo en la vía administrativa, deberán cubrirse los gastos de ejecución y gastos extraordinarios que puedan ser determinados en términos del artículo [150](../../cff/markdown/articulo-150.md) del Código. El pago así efectuado tendrá el carácter de definitivo y en ningún caso procederá su devolución una vez practicada la diligencia.

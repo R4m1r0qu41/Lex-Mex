@@ -17,4 +17,4 @@ source_sha256: d295edfeef5d5f77b69a5817a13bc40ee26d72d93f187b00e57e8badb40363fe
 
 # Artículo 29
 
-El [Consejo](articulo-2.md) deberá cancelar la inscripción del precio único de venta al público una vez que se cumplan los dieciocho meses a que se refiere el artículo 26 de la [Ley](articulo-2.md).
+El [Consejo](articulo-2.md) deberá cancelar la inscripción del precio único de venta al público una vez que se cumplan los dieciocho meses a que se refiere el artículo [26](../../lfll/markdown/articulo-26.md) de la [Ley](articulo-2.md).

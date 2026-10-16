@@ -17,6 +17,6 @@ source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
 
 # Artículo 74 BIS 1
 
-Para efectos de este Reglamento, se considera tercero autorizado a la persona física o moral autorizada por la Secretaría para emitir los dictámenes a que hace referencia el párrafo segundo del artículo 102 de la Ley.
+Para efectos de este Reglamento, se considera tercero autorizado a la persona física o moral autorizada por la Secretaría para emitir los dictámenes a que hace referencia el párrafo segundo del artículo [102](../../lgs/markdown/articulo-102.md) de la Ley.
 
 Artículo adicionado DOF 02-04-2014

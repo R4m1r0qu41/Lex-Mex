@@ -15,7 +15,7 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 # Artículo 19
 
-Para efectos de lo previsto en el penúltimo párrafo del artículo 40 de la [Ley](articulo-10.md), respecto de los permisos temporales de Navegación de cabotaje, la clasificación de Embarcaciones y Artefactos Navales extranjeros como de extraordinaria especialización por sus características técnicas, las cuales se señalan en el artículo [10](articulo-10.md), fracción I, inciso e), de la propia Ley, se aplicarán únicamente para aquéllas de quinientas [UAB](articulo-10.md) o mayores, que se encuentren en cualquiera de los siguientes casos:
+Para efectos de lo previsto en el penúltimo párrafo del artículo [40](../../lncm/markdown/articulo-40.md) de la [Ley](articulo-10.md), respecto de los permisos temporales de Navegación de cabotaje, la clasificación de Embarcaciones y Artefactos Navales extranjeros como de extraordinaria especialización por sus características técnicas, las cuales se señalan en el artículo [10](articulo-10.md), fracción I, inciso e), de la propia Ley, se aplicarán únicamente para aquéllas de quinientas [UAB](articulo-10.md) o mayores, que se encuentren en cualquiera de los siguientes casos:
 
 I. Las que participen en la industria petrolera mexicana en las actividades tales como:
 

@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 154
 
-Para efectos del artículo 93, fracción XIX, inciso a) de la [Ley](articulo-1.md), se considera que la casa habitación del contribuyente comprende además la superficie del terreno que no exceda de tres veces el área cubierta por las construcciones que integran la casa habitación.
+Para efectos del artículo [93](../../lisr/markdown/articulo-93.md), fracción XIX, inciso a) de la [Ley](articulo-1.md), se considera que la casa habitación del contribuyente comprende además la superficie del terreno que no exceda de tres veces el área cubierta por las construcciones que integran la casa habitación.

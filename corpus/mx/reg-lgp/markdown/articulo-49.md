@@ -17,4 +17,4 @@ source_sha256: d1b105c503cd9d4e593d9e349b440a77cffc4bf1f3507fe1d1659ab97c8befd8
 
 # Artículo 49
 
-El Registro Nacional de Población determinará los datos y elementos que deberá contener la Cédula de Identidad Ciudadana, además de los señalados por el artículo 107 de la Ley.
+El Registro Nacional de Población determinará los datos y elementos que deberá contener la Cédula de Identidad Ciudadana, además de los señalados por el artículo [107](../../lgp/markdown/articulo-107.md) de la Ley.

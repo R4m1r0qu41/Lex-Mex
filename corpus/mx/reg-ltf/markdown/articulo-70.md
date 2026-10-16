@@ -19,7 +19,7 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 Para la calificación y aceptación de las garantías no fiscales cuyo beneficiario sea el Gobierno Federal, la Tesorería o el Auxiliar deben observar lo siguiente:
 
-I. Solicitar al deudor u obligado principal el otorgamiento de la garantía que corresponda en alguna de las formas establecidas en el artículo 48 de la [Ley](articulo-2.md);
+I. Solicitar al deudor u obligado principal el otorgamiento de la garantía que corresponda en alguna de las formas establecidas en el artículo [48](../../ltf/markdown/articulo-48.md) de la [Ley](articulo-2.md);
 
 II. Calificar la garantía otorgada para lo cual verificarán que:
 

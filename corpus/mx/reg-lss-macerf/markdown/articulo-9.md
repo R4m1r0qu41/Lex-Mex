@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 9
 
-Los registros a que se refiere la fracción II, del artículo 15 de la Ley, deberán contener, además de los datos establecidos en el mismo, los siguientes:
+Los registros a que se refiere la fracción II, del artículo [15](../../lss/markdown/articulo-15.md) de la Ley, deberán contener, además de los datos establecidos en el mismo, los siguientes:
 
 I. Nombre, denominación o razón social completo del patrón, número de su registro ante el Instituto y del Registro Federal de Contribuyentes;
 
@@ -27,4 +27,4 @@ III. Lapso que comprende y periodicidad establecida para el pago de los salarios
 
 V. Unidades de tiempo laborado.
 
-Los patrones a que se refiere la fracción VI del artículo 15 de la Ley, además están obligados a llevar sus registros por cada una de sus obras.
+Los patrones a que se refiere la fracción VI del artículo [15](../../lss/markdown/articulo-15.md) de la Ley, además están obligados a llevar sus registros por cada una de sus obras.

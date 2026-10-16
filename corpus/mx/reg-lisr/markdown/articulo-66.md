@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 66
 
-Los contribuyentes que constituyan las reservas a que se refiere el artículo 29 de la [Ley](articulo-1.md), dentro de los tres meses siguientes a cada aniversario de que se constituyó el plan de pensiones o jubilaciones de personal de que se trate, deberán formular y conservar a disposición de las autoridades fiscales la documentación que a continuación se señala:
+Los contribuyentes que constituyan las reservas a que se refiere el artículo [29](../../lisr/markdown/articulo-29.md) de la [Ley](articulo-1.md), dentro de los tres meses siguientes a cada aniversario de que se constituyó el plan de pensiones o jubilaciones de personal de que se trate, deberán formular y conservar a disposición de las autoridades fiscales la documentación que a continuación se señala:
 
 I. El balance actuarial del plan de pensiones o jubilaciones de que se trate;
 

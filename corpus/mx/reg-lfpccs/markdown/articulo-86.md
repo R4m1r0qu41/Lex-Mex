@@ -17,4 +17,4 @@ source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 
 # Artículo 86
 
-En el caso de semillas importadas se deberá declarar la categoría de semilla equivalente al momento de la puesta en circulación, de conformidad con lo establecido en los artículos 33 y 35 de la [Ley](articulo-2.md).
+En el caso de semillas importadas se deberá declarar la categoría de semilla equivalente al momento de la puesta en circulación, de conformidad con lo establecido en los artículos [33](../../lfpccs/markdown/articulo-33.md) y [35](../../lfpccs/markdown/articulo-35.md) de la [Ley](articulo-2.md).

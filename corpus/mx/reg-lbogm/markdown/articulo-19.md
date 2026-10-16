@@ -31,7 +31,7 @@ c) Estado o estados donde se ubica cada uno de dichos polígonos.
 
 III. Referencia y consideraciones sobre los reportes de resultados de la liberación experimental y de la liberación en programa piloto que se hayan realizado, en términos de los permisos a que se refiere la fracción anterior;
 
-IV. Instrucciones o recomendaciones específicas de transporte, de conformidad con las NOM a que se refiere el artículo 76 de la Ley, de almacenamiento y, en su caso, manejo;
+IV. Instrucciones o recomendaciones específicas de transporte, de conformidad con las NOM a que se refiere el artículo [76](../../lbogm/markdown/articulo-76.md) de la Ley, de almacenamiento y, en su caso, manejo;
 
 V. Condiciones para su liberación y comercialización, en caso de ser necesarias;
 

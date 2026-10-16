@@ -21,7 +21,7 @@ La Dirección General de Seguridad en Carreteras e Instalaciones tiene las atrib
 
 I. Mantener informado al [Comandante](articulo-2.md) de la situación de la seguridad pública en el territorio nacional;
 
-II. Diagnosticar permanentemente la situación de la seguridad pública, en los espacios federales a que se refiere el artículo 9, fracción II de la [Ley](articulo-2.md);
+II. Diagnosticar permanentemente la situación de la seguridad pública, en los espacios federales a que se refiere el artículo [9](../../lgn/markdown/articulo-9.md), fracción II de la [Ley](articulo-2.md);
 
 III. Establecer los sistemas de información que se requieran para apoyar las tareas y actividades de las Coordinaciones Territoriales, Estatales, Regionales y de Unidad, así como de los integrantes bajo su adscripción;
 

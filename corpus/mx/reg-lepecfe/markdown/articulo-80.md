@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 80
 
-En términos del artículo 30 de la Ley, los acuerdos y actas del Consejo de Administración y de sus comités se deben difundir en la página de Internet de la Comisión Federal de Electricidad dentro de los diez días hábiles posteriores a su adopción o autorización y, en caso de que se requiera elaborar versiones públicas de dichos documentos, el plazo se extiende por diez días hábiles más.
+En términos del artículo [30](../../lepecfe/markdown/articulo-30.md) de la Ley, los acuerdos y actas del Consejo de Administración y de sus comités se deben difundir en la página de Internet de la Comisión Federal de Electricidad dentro de los diez días hábiles posteriores a su adopción o autorización y, en caso de que se requiera elaborar versiones públicas de dichos documentos, el plazo se extiende por diez días hábiles más.

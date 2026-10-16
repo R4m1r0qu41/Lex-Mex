@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 131
 
-El valor en aduana de las Mercancías importadas no podrá determinarse de conformidad con lo dispuesto en el artículo 74, fracción II de la [Ley](articulo-1.md), cuando el valor añadido por la transformación no se pueda determinar con base en datos objetivos y cuantificables que reflejen el costo de dicha operación.
+El valor en aduana de las Mercancías importadas no podrá determinarse de conformidad con lo dispuesto en el artículo [74](../../ladua/markdown/articulo-74.md), fracción II de la [Ley](articulo-1.md), cuando el valor añadido por la transformación no se pueda determinar con base en datos objetivos y cuantificables que reflejen el costo de dicha operación.

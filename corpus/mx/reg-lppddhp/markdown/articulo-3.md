@@ -21,6 +21,6 @@ Además de los términos que establece el artículo [2](../../lppddhp/markdown/a
 
 I. Ley: Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas;
 
-II. Beneficiario: El Periodista, la Persona Defensora de Derechos Humanos, así como las personas que enuncia el artículo 24 de la Ley, las cuales son susceptibles de protección a través de la implementación de Medidas;
+II. Beneficiario: El Periodista, la Persona Defensora de Derechos Humanos, así como las personas que enuncia el artículo [24](../../lppddhp/markdown/articulo-24.md) de la Ley, las cuales son susceptibles de protección a través de la implementación de Medidas;
 
 III. Sistemas de alerta temprana: Programas y planes de acción de la Federación y de las entidades federativas para que, en el ámbito de sus respectivas competencias, se eviten agresiones potenciales a Personas Defensoras de Derechos Humanos y Periodistas, y IV. Situación de riesgo inminente: Contexto que rodea a un riesgo que puede materializarse en un breve periodo de tiempo y causar graves daños. Para determinar dicho riesgo se deberá valorar, entre otras, la existencia de ciclos de amenazas y agresiones que demuestren la necesidad de actuar en forma inmediata, la continuidad y proximidad temporal de las amenazas y la irreparabilidad del daño.

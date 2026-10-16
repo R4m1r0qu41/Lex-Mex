@@ -19,4 +19,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 Los testigos sociales son las personas físicas o morales que cuentan con el registro correspondiente en el padrón público de testigos sociales, el cual está a cargo de la Secretaría de la Función Pública y disponible a través de CompraNet.
 
-Para efectos de lo previsto en el inciso f) de la fracción III del artículo 27 Bis de la [Ley](articulo-2.md), las personas físicas que podrán ser registradas en el padrón mencionado en el párrafo anterior serán aquéllas que acrediten contar, mediante la documentación correspondiente, con experiencia de cuando menos tres años en materia de contrataciones reguladas por la Ley.
+Para efectos de lo previsto en el inciso f) de la fracción III del artículo [27 Bis](../../lopsrm/markdown/articulo-27-Bis.md) de la [Ley](articulo-2.md), las personas físicas que podrán ser registradas en el padrón mencionado en el párrafo anterior serán aquéllas que acrediten contar, mediante la documentación correspondiente, con experiencia de cuando menos tres años en materia de contrataciones reguladas por la Ley.

@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 205
 
-Las infracciones no previstas en este Reglamento, serán sancionadas en los términos del Artículo 422 de la Ley.
+Las infracciones no previstas en este Reglamento, serán sancionadas en los términos del Artículo [422](../../lgs/markdown/articulo-422.md) de la Ley.

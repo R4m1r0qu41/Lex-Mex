@@ -17,7 +17,7 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 27
 
-El análisis sobre las estimaciones de inversión y aportaciones, previsto en el artículo 14, fracción VII, de la Ley se referirá a: I. Las estimaciones de la [Inversión Inicial](articulo-11.md), y
+El análisis sobre las estimaciones de inversión y aportaciones, previsto en el artículo [14](../../lapp/markdown/articulo-14.md), fracción VII, de la Ley se referirá a: I. Las estimaciones de la [Inversión Inicial](articulo-11.md), y
 
 II. Las estimaciones de aportaciones adicionales, en numerario y distintas a numerario, necesarias para mantener el proyecto en operación.
 

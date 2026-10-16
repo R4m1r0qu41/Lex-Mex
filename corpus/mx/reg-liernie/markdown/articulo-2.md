@@ -17,6 +17,6 @@ source_sha256: 8e60a8ba9f27b47d26806dbae115c0803dd9ea6a3a02a1b359dc86516d40759e
 
 # Artículo 2
 
-Para efectos del inciso r) de la fracción III del artículo 7o. de la [Ley](articulo-1.md), las acciones serie “T” a que se refiere dicho inciso representan exclusivamente el capital aportado en tierras agrícolas, ganaderas o forestales, o el destinado a la adquisición de las mismas, en términos de la Ley Agraria.
+Para efectos del inciso r) de la fracción III del artículo [7](../../lie/markdown/articulo-7o.md)o. de la [Ley](articulo-1.md), las acciones serie “T” a que se refiere dicho inciso representan exclusivamente el capital aportado en tierras agrícolas, ganaderas o forestales, o el destinado a la adquisición de las mismas, en términos de la Ley Agraria.
 
 Artículo reformado DOF 31-10-2014

@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 106
 
-Para efectos del artículo 75 de la [Ley](articulo-1.md), cuando los integrantes cumplan con sus obligaciones fiscales a través de una persona moral dedicada exclusivamente a actividades agrícolas, ganaderas, pesqueras o silvícolas, únicamente considerarán los ingresos que se obtengan por la actividad realizada a través de la persona moral de la cual sean integrantes.
+Para efectos del artículo [75](../../lisr/markdown/articulo-75.md) de la [Ley](articulo-1.md), cuando los integrantes cumplan con sus obligaciones fiscales a través de una persona moral dedicada exclusivamente a actividades agrícolas, ganaderas, pesqueras o silvícolas, únicamente considerarán los ingresos que se obtengan por la actividad realizada a través de la persona moral de la cual sean integrantes.
 
 Las personas morales que tributen conforme al Título II, Capítulo VIII de la Ley, no considerarán los ingresos que correspondan a sus integrantes que hubieran pagado en forma individual ni las deducciones que a ellos correspondan, debiendo entregar a las personas físicas y morales que paguen el [Impuesto](articulo-1.md) individualmente, la liquidación de los ingresos y gastos. Las personas morales deberán conservar copia de la liquidación y de los comprobantes de los gastos realizados en el ejercicio, durante el plazo a que se refiere el artículo [30](../../cff/markdown/articulo-30.md) del Código Fiscal de la Federación.
 

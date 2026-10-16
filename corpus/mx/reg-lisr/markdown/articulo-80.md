@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 80
 
-Los contribuyentes que realicen, las actividades a que se refiere el artículo 39, párrafos segundo y tercero de la [Ley](articulo-1.md), para determinar el costo de lo vendido deducible considerarán únicamente las partidas que conforme a lo establecido en dichos párrafos correspondan a cada actividad que desarrollen.
+Los contribuyentes que realicen, las actividades a que se refiere el artículo [39](../../lisr/markdown/articulo-39.md), párrafos segundo y tercero de la [Ley](articulo-1.md), para determinar el costo de lo vendido deducible considerarán únicamente las partidas que conforme a lo establecido en dichos párrafos correspondan a cada actividad que desarrollen.

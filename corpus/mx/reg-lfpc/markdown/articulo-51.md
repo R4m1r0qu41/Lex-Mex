@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 51
 
-Con relación a lo dispuesto en el artículo 86, segundo párrafo de la Ley, las normas oficiales mexicanas podrán ordenar que en los contratos de adhesión se incluya una cláusula por la que se determine el monto, el plazo y la forma del pago.
+Con relación a lo dispuesto en el artículo [86](../../lfpc/markdown/articulo-86.md), segundo párrafo de la Ley, las normas oficiales mexicanas podrán ordenar que en los contratos de adhesión se incluya una cláusula por la que se determine el monto, el plazo y la forma del pago.

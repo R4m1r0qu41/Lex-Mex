@@ -17,6 +17,6 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 11
 
-Para efectos de lo dispuesto en el sexto párrafo del artículo 37 de la [Ley](articulo-2o.md), el promedio de las comisiones se calculará sumando las comisiones vigentes y dividiendo el resultado entre el número de [Administradoras](articulo-2o.md) autorizadas a que se refieren los artículos 3o y 18 de la Ley.
+Para efectos de lo dispuesto en el sexto párrafo del artículo [37](../../lsar/markdown/articulo-37.md) de la [Ley](articulo-2o.md), el promedio de las comisiones se calculará sumando las comisiones vigentes y dividiendo el resultado entre el número de [Administradoras](articulo-2o.md) autorizadas a que se refieren los artículos [3](../../lsar/markdown/articulo-3o.md)o y [18](../../lsar/markdown/articulo-18.md) de la Ley.
 
 Cuando por una baja generalizada en las comisiones, el promedio de las mismas se reduzca, de conformidad con el artículo [37](articulo-37.md), las Administradoras no podrán solicitar un aumento por encima de dicho promedio.

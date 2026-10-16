@@ -104,5 +104,6 @@
       "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
       "note": "Operator: typo in the reference; it is meant to cite article 8o (ordinal 8), not 80."
     }
-  ]
+  ],
+  "parent_instrument_id": "urn:lex-mx:federal:statute:lagra"
 }

@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 164
 
-La Comisión, para la delimitación y, en su caso, la actualización de las Unidades de manejo forestal, además de lo establecido en el artículo 105 de la [Ley](articulo-2.md), considerará los criterios siguientes:
+La Comisión, para la delimitación y, en su caso, la actualización de las Unidades de manejo forestal, además de lo establecido en el artículo [105](../../lgdfs/markdown/articulo-105.md) de la [Ley](articulo-2.md), considerará los criterios siguientes:
 
 I. Cuencas, subcuencas y microcuencas y sus condiciones naturales, incluyendo los recursos, agua, suelo, vegetación, fauna silvestre y paisaje;
 

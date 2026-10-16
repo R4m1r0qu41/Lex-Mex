@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 120
 
-A las personas militares que reúnan lo previsto en el artículo 63 de la Ley, se les concederá la Condecoración de Servicios Distinguidos y las propuestas para su otorgamiento, serán elaboradas por las personas designadas como Mandos Superiores acompañadas de un concepto particular, en el que se indiquen los motivos por los que se propone a la persona militar para recibirla. Estas propuestas serán remitidas al Estado Mayor para que sean analizadas a fin de que la persona titular de la Secretaría determine la concesión de la Recompensa.
+A las personas militares que reúnan lo previsto en el artículo [63](../../larefam/markdown/articulo-63.md) de la Ley, se les concederá la Condecoración de Servicios Distinguidos y las propuestas para su otorgamiento, serán elaboradas por las personas designadas como Mandos Superiores acompañadas de un concepto particular, en el que se indiquen los motivos por los que se propone a la persona militar para recibirla. Estas propuestas serán remitidas al Estado Mayor para que sean analizadas a fin de que la persona titular de la Secretaría determine la concesión de la Recompensa.
 
 Artículo reformado DOF 20-03-2026

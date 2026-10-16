@@ -21,7 +21,7 @@ Corresponde a la División de Seguridad Regional:
 
 I. Mantener informado al Comisionado General de la situación de la seguridad pública en el territorio nacional, en el ámbito de competencia de la institución, a través del diagnóstico permanente, debiendo establecer los procedimientos correspondientes;
 
-II. Diagnosticar permanentemente la situación de la seguridad pública, en los espacios federales a que alude el artículo 8, fracción III, de la [Ley](articulo-2.md);
+II. Diagnosticar permanentemente la situación de la seguridad pública, en los espacios federales a que alude el artículo [8](../../lpf/markdown/articulo-8.md), fracción III, de la [Ley](articulo-2.md);
 
 III. Establecer los procedimientos para elaborar un diagnóstico del estado de la seguridad pública en el territorio nacional en el ámbito de su competencia y mantener oportuna e integralmente informado al Comisionado General sobre el particular;
 

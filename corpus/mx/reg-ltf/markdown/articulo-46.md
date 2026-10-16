@@ -17,7 +17,7 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 46
 
-Para efectos del artículo 35 de la [Ley](articulo-2.md), la Tesorería ejercerá las facultades que impliquen la titularidad de las acciones, partes sociales o los documentos que acrediten los derechos patrimoniales de los valores a que se refiere la presente Sección, previo dictamen favorable de la Dependencia coordinadora de sector, el cual se remitirá a la Tesorería en la comunicación a que se refiere el [artículo anterior](articulo-45.md).
+Para efectos del artículo [35](../../ltf/markdown/articulo-35.md) de la [Ley](articulo-2.md), la Tesorería ejercerá las facultades que impliquen la titularidad de las acciones, partes sociales o los documentos que acrediten los derechos patrimoniales de los valores a que se refiere la presente Sección, previo dictamen favorable de la Dependencia coordinadora de sector, el cual se remitirá a la Tesorería en la comunicación a que se refiere el [artículo anterior](articulo-45.md).
 
 El dictamen a que refiere este artículo se emitirá por el Oficial Mayor o su equivalente de la Dependencia coordinadora de sector o, en su caso, a través de la unidad administrativa de ésta que se establezca en su reglamento interior y deberá contener la viabilidad jurídica y financiera respecto de la toma de decisión sobre los derechos patrimoniales de que se trate.
 

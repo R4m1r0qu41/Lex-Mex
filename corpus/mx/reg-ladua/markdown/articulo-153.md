@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 153
 
-Para efectos de los artículos 106, fracción III, inciso a) y 116, fracción III de la [Ley](articulo-1.md), se entiende por convenciones y congresos internacionales a las conferencias, simposios, encuentros y eventos similares, que tengan como finalidad reunir en fechas preestablecidas a un determinado número de personas.
+Para efectos de los artículos [106](../../ladua/markdown/articulo-106.md), fracción III, inciso a) y [116](../../ladua/markdown/articulo-116.md), fracción III de la [Ley](articulo-1.md), se entiende por convenciones y congresos internacionales a las conferencias, simposios, encuentros y eventos similares, que tengan como finalidad reunir en fechas preestablecidas a un determinado número de personas.

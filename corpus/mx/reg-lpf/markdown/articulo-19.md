@@ -49,7 +49,7 @@ XV. Solicitar al Presidente del [Consejo Federal](articulo-2.md), mediante escri
 
 XVI. Intervenir ante el Pleno del Consejo Federal durante los procedimientos disciplinarios y de [Carrera Policial](articulo-2.md) y, en su caso, impugnar las resoluciones favorables a los Integrantes cuya acusación derive de las investigaciones realizadas por la Unidad;
 
-XVII. Interponer el recurso de reclamación a que se refiere el artículo 32 de la Ley, en los términos y plazos señalados;
+XVII. Interponer el recurso de reclamación a que se refiere el artículo [32](../../lpf/markdown/articulo-32.md) de la Ley, en los términos y plazos señalados;
 
 XVIII. Recibir y tramitar las peticiones y sugerencias de los particulares sobre el trámite y el mejoramiento de los servicios a cargo de la Institución;
 

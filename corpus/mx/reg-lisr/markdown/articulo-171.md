@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 171
 
-Cuando el trabajador convenga con el empleador en que el pago de la jubilación, pensión o haber de retiro, se cubra mediante pago único, no se pagará el [Impuesto](articulo-1.md) por éste, cuando el monto de dicho pago no exceda de noventa veces el salario mínimo general del área geográfica del trabajador elevados al año, a que se refiere el artículo 93, fracción XIII de la [Ley](articulo-1.md). Por el excedente se pagará el Impuesto en términos del artículo 95 de la Ley.
+Cuando el trabajador convenga con el empleador en que el pago de la jubilación, pensión o haber de retiro, se cubra mediante pago único, no se pagará el [Impuesto](articulo-1.md) por éste, cuando el monto de dicho pago no exceda de noventa veces el salario mínimo general del área geográfica del trabajador elevados al año, a que se refiere el artículo [93](../../lisr/markdown/articulo-93.md), fracción XIII de la [Ley](articulo-1.md). Por el excedente se pagará el Impuesto en términos del artículo [95](../../lisr/markdown/articulo-95.md) de la Ley.

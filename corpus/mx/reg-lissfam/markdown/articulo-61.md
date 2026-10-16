@@ -17,7 +17,7 @@ source_sha256: c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a
 
 # Artículo 61
 
-En los supuestos que establece el artículo 130 de la Ley, la persona interesada podrá solicitar al Instituto una prórroga de pago de su adeudo hasta por seis meses.
+En los supuestos que establece el artículo [130](../../lissfam/markdown/articulo-130.md) de la Ley, la persona interesada podrá solicitar al Instituto una prórroga de pago de su adeudo hasta por seis meses.
 
 El Instituto podrá realizar las investigaciones que considere convenientes para comprobar esta situación, con el fin de presentar un informe detallado a su Junta Directiva sobre la solicitud de la persona interesada y las causas alegadas. Previo acuerdo de la Junta Directiva, el Instituto notificará a la persona interesada la procedencia o improcedencia de su solicitud.
 

@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 159
 
-Cuando exista la solicitud patronal o invitación del Instituto a la corrección o medie alguno de los requerimientos señalados en el segundo párrafo de la fracción XXVIII del artículo 251 de la Ley, el periodo a dictaminar será por los últimos dos ejercicios.
+Cuando exista la solicitud patronal o invitación del Instituto a la corrección o medie alguno de los requerimientos señalados en el segundo párrafo de la fracción XXVIII del artículo [251](../../lss/markdown/articulo-251.md) de la Ley, el periodo a dictaminar será por los últimos dos ejercicios.
 
 Cuando esté notificada una orden de visita domiciliaria, pero no iniciada la revisión documental a juicio del Instituto, se le podrá autorizar dictaminarse por los últimos tres ejercicios.
 

@@ -17,7 +17,7 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 5o
 
-De conformidad con el artículo 10 de la Ley, las dependencias y entidades federales a cargo de áreas estratégicas podrán participar en proyectos de asociaciones público-privadas, únicamente cuando tales proyectos tengan por objeto, de manera exclusiva, actividades que conforme a la legislación específica pueda el sector privado participar libremente o mediante el otorgamiento de permisos, autorizaciones o concesiones.
+De conformidad con el artículo [10](../../lapp/markdown/articulo-10.md) de la Ley, las dependencias y entidades federales a cargo de áreas estratégicas podrán participar en proyectos de asociaciones público-privadas, únicamente cuando tales proyectos tengan por objeto, de manera exclusiva, actividades que conforme a la legislación específica pueda el sector privado participar libremente o mediante el otorgamiento de permisos, autorizaciones o concesiones.
 
 Las empresas productivas del Estado no podrán celebrar con particulares contratos de asociación público-privada para la realización de actividades de exploración y extracción de hidrocarburos.
 

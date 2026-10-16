@@ -23,7 +23,7 @@ I. Informar a las entidades federativas sobre la implementación de Medidas Prev
 
 II. Solicitar de manera oportuna a las entidades federativas, la ejecución de Medidas de Protección;
 
-III. Comunicar los acuerdos y resoluciones de la Junta de Gobierno a las entidades federativas en un plazo no mayor a setenta y dos horas para que lleve a cabo la implementación de las medidas correspondientes, excepto aquellos casos que se describen en el artículo 26 de la [Ley](articulo-3.md);
+III. Comunicar los acuerdos y resoluciones de la Junta de Gobierno a las entidades federativas en un plazo no mayor a setenta y dos horas para que lleve a cabo la implementación de las medidas correspondientes, excepto aquellos casos que se describen en el artículo [26](../../lppddhp/markdown/articulo-26.md) de la [Ley](articulo-3.md);
 
 IV. Coadyuvar con las entidades federativas en la implementación de las medidas, cuando lo instruya la Junta de Gobierno;
 

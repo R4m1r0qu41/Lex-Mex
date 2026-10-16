@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 52
 
-Para los efectos del artículo 52, fracción I del [Código](articulo-1.md), el contador público interesado en obtener la inscripción en el registro a que se refiere dicha fracción, deberá solicitarlo al Servicio de Administración Tributaria, acreditando, además de lo señalado en el propio artículo 52 del Código, lo siguiente:
+Para los efectos del artículo [52](../../cff/markdown/articulo-52.md), fracción I del [Código](articulo-1.md), el contador público interesado en obtener la inscripción en el registro a que se refiere dicha fracción, deberá solicitarlo al Servicio de Administración Tributaria, acreditando, además de lo señalado en el propio artículo [52](../../cff/markdown/articulo-52.md) del Código, lo siguiente:
 
 I. Estar inscrito en el registro federal de contribuyentes, con cualquiera de las claves y regímenes de tributación que a continuación se señalan: a) Asalariados obligados a presentar declaración anual conforme al Capítulo I del Título IV de la Ley del Impuesto sobre la Renta;
 
@@ -33,7 +33,7 @@ IV. Contar con cédula profesional de contador público o equivalente emitida po
 
 V. Tener constancia expedida con no más de dos meses de anticipación, emitida por colegio profesional o asociación de contadores públicos que tengan reconocimiento ante la Secretaría de Educación Pública o ante autoridad educativa estatal que lo acredite como miembro activo de los mismos, con una antigüedad mínima, con esa calidad, de tres años previos a la presentación de la solicitud de inscripción a que se refiere este artículo;
 
-VI. Contar con la certificación vigente a que se refiere el artículo 52, fracción I, inciso a), segundo párrafo del Código;
+VI. Contar con la certificación vigente a que se refiere el artículo [52](../../cff/markdown/articulo-52.md), fracción I, inciso a), segundo párrafo del Código;
 
 VII. Contar con experiencia mínima de tres años en la elaboración de dictámenes fiscales.
 

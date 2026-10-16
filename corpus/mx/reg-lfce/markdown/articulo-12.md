@@ -17,7 +17,7 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 12
 
-Para efectos de la fracción II del artículo 13 de la Ley, son elementos que pueden considerarse como barreras a la entrada, entre otros:
+Para efectos de la fracción II del artículo [13](../../lfce/markdown/articulo-13.md) de la Ley, son elementos que pueden considerarse como barreras a la entrada, entre otros:
 
 I. Los costos financieros o de desarrollar canales alternativos, el acceso limitado al financiamiento, a la tecnología o a canales de distribución eficientes;
 

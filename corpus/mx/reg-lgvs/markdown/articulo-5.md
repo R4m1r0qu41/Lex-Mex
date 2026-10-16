@@ -33,13 +33,13 @@ d) El alto grado de interés social, cultural, científico o económico existent
 
 III. El establecimiento de hábitats críticos para la conservación de la vida silvestre; Fracción reformada DOF 17-04-2014
 
-IV. La revocación de autorizaciones otorgadas para el aprovechamiento de especies silvestres en los términos previstos en el artículo 90, inciso b), de la Ley;
+IV. La revocación de autorizaciones otorgadas para el aprovechamiento de especies silvestres en los términos previstos en el artículo [90](../../lgvs/markdown/articulo-90.md), inciso b), de la Ley;
 
 V. La elaboración de los dictámenes que le solicite durante el procedimiento de revisión de decretos de vedas y acuerdos de restricciones al comercio internacional, de conformidad con las disposiciones aplicables;
 
-VI. El otorgamiento de reconocimientos a las [UMA](articulo-2.md) de conservación que se hayan distinguido por sus logros en las materias previstas en el artículo 44 de la Ley;
+VI. El otorgamiento de reconocimientos a las [UMA](articulo-2.md) de conservación que se hayan distinguido por sus logros en las materias previstas en el artículo [44](../../lgvs/markdown/articulo-44.md) de la Ley;
 
-VII. La determinación de tasas de aprovechamiento para especies migratorias, de amplia distribución y abundancia y por temporada, específicamente, conforme a lo previsto en los artículos 11 y 13 de la Ley, cuando las entidades federativas o los municipios hayan asumido la atribución de autorizar dichos aprovechamientos;
+VII. La determinación de tasas de aprovechamiento para especies migratorias, de amplia distribución y abundancia y por temporada, específicamente, conforme a lo previsto en los artículos [11](../../lgvs/markdown/articulo-11.md) y [13](../../lgvs/markdown/articulo-13.md) de la Ley, cuando las entidades federativas o los municipios hayan asumido la atribución de autorizar dichos aprovechamientos;
 
 VIII. El desarrollo de los términos de referencia para la elaboración específica de planes de manejo y estudios de poblaciones de especies en peligro de extinción, y
 

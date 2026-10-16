@@ -19,7 +19,7 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 Las solicitudes para la autorización de obras marítimas, portuarias o dragado deberán cumplir con los requisitos establecidos en las fracciones I a IV, VI, IX, X y XII a XVII del artículo [16](articulo-16.md) de este Reglamento.
 
-La Secretaría podrá requerir información adicional debidamente relacionada con la solicitud de autorización para obras marítimas o de dragado. Una vez que la solicitud se encuentre debidamente integrada, la Secretaría deberá dar respuesta a la solicitud en el plazo previsto en el artículo 28 de la [Ley](articulo-2.md).
+La Secretaría podrá requerir información adicional debidamente relacionada con la solicitud de autorización para obras marítimas o de dragado. Una vez que la solicitud se encuentre debidamente integrada, la Secretaría deberá dar respuesta a la solicitud en el plazo previsto en el artículo [28](../../lpue/markdown/articulo-28.md) de la [Ley](articulo-2.md).
 
 Las solicitudes podrán presentarse, a elección del particular:
 

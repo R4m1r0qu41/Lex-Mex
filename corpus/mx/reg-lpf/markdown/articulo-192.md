@@ -23,4 +23,4 @@ I. Sin perjuicio del servicio, que consiste en realizar normalmente sus activida
 
 II. Con perjuicio del servicio, en cuyo caso, el Integrante desempeñará sus actividades exclusivamente dentro de las instalaciones y no se le nombrará servicio alguno.
 
-La imposición de las correcciones disciplinarias se efectuará considerando los factores de graduación previstos para las sanciones en el artículo 21 de la [Ley](articulo-2.md).
+La imposición de las correcciones disciplinarias se efectuará considerando los factores de graduación previstos para las sanciones en el artículo [21](../../lpf/markdown/articulo-21.md) de la [Ley](articulo-2.md).

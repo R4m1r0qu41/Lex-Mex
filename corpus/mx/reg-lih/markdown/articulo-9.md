@@ -17,7 +17,7 @@ source_sha256: c9996a72239837b24f45f4a49c4f117b1fe2b3b9faf2c3eb0e5ce00d8a991d53
 
 # Artículo 9
 
-La Secretaría establecerá los valores mínimos y, en su caso, máximos que podrán tomar las variables de adjudicación a que hace referencia el segundo párrafo del artículo 26 de la Ley, buscando siempre maximizar los ingresos que perciba el Estado en el tiempo por la realización de las actividades de Exploración y Extracción de Hidrocarburos.
+La Secretaría establecerá los valores mínimos y, en su caso, máximos que podrán tomar las variables de adjudicación a que hace referencia el segundo párrafo del artículo [26](../../lih/markdown/articulo-26.md) de la Ley, buscando siempre maximizar los ingresos que perciba el Estado en el tiempo por la realización de las actividades de Exploración y Extracción de Hidrocarburos.
 
 Con base en la solicitud a que se refiere el artículo [5](articulo-5.md) de este Reglamento, la información con que se cuente y atendiendo al mecanismo de adjudicación que se fije, la Secretaría deberá establecer los términos para la determinación y divulgación de los valores a los que se refiere este artículo. Dichos términos se harán del conocimiento de la Secretaría de Energía a través de la resolución señalada en el artículo [6](articulo-6.md) de este Reglamento.
 

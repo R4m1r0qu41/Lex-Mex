@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 47
 
-Cuando el contribuyente cubra por cuenta del trabajador el [Impuesto](articulo-1.md) que corresponda al excedente de los límites establecidos para las prestaciones de previsión social, a que se refiere el artículo 27 de la [Ley](articulo-1.md), podrá deducir dicho excedente, siempre que se considere el importe del Impuesto referido como ingreso para el trabajador por el mismo concepto y se efectúen las retenciones correspondientes.
+Cuando el contribuyente cubra por cuenta del trabajador el [Impuesto](articulo-1.md) que corresponda al excedente de los límites establecidos para las prestaciones de previsión social, a que se refiere el artículo [27](../../lisr/markdown/articulo-27.md) de la [Ley](articulo-1.md), podrá deducir dicho excedente, siempre que se considere el importe del Impuesto referido como ingreso para el trabajador por el mismo concepto y se efectúen las retenciones correspondientes.

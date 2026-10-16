@@ -17,6 +17,6 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 248
 
-En los contratos de obras públicas asociadas a proyectos de infraestructura, las dependencias y entidades deberán convenir compromiso arbitral y prever mecanismos alternativos de solución de controversias en los términos del artículo 102 de la [Ley](articulo-2.md).
+En los contratos de obras públicas asociadas a proyectos de infraestructura, las dependencias y entidades deberán convenir compromiso arbitral y prever mecanismos alternativos de solución de controversias en los términos del artículo [102](../../lopsrm/markdown/articulo-102.md) de la [Ley](articulo-2.md).
 
 A las obras a que se refiere este Capítulo les serán aplicables, en lo conducente, las demás disposiciones de este Reglamento.

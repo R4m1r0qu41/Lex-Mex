@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 55
 
-Para efectos del artículo 28, fracción II de la [Ley](articulo-1.md), no se considerarán ingresos exentos los dividendos o utilidades percibidos de sociedades mercantiles, así como los que no se consideran ingresos de conformidad con el artículo 16, párrafo segundo de la Ley.
+Para efectos del artículo [28](../../lisr/markdown/articulo-28.md), fracción II de la [Ley](articulo-1.md), no se considerarán ingresos exentos los dividendos o utilidades percibidos de sociedades mercantiles, así como los que no se consideran ingresos de conformidad con el artículo [16](../../lisr/markdown/articulo-16.md), párrafo segundo de la Ley.

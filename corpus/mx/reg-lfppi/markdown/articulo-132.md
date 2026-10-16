@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 132
 
-Para efectos del artículo 270 de la Ley, la traducción o transliteración del nombre común o genérico también se considerará de libre utilización en todos los casos.
+Para efectos del artículo [270](../../lfppi/markdown/articulo-270.md) de la Ley, la traducción o transliteración del nombre común o genérico también se considerará de libre utilización en todos los casos.

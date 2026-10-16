@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 144
 
-Para efectos del artículo 90, párrafo primero de la [Ley](articulo-1.md), no se considerará ingreso acumulable el monto de las primas por seguros de gastos médicos que los patrones paguen en favor de sus trabajadores, siempre que se trate de seguros que, de haber sido pagadas las primas por el propio trabajador, serían deducibles para éste, en términos del artículo 151, fracción VI de la Ley, y que el comprobante fiscal que ampare el pago de dichas primas se expida a nombre del patrón.
+Para efectos del artículo [90](../../lisr/markdown/articulo-90.md), párrafo primero de la [Ley](articulo-1.md), no se considerará ingreso acumulable el monto de las primas por seguros de gastos médicos que los patrones paguen en favor de sus trabajadores, siempre que se trate de seguros que, de haber sido pagadas las primas por el propio trabajador, serían deducibles para éste, en términos del artículo [151](../../lisr/markdown/articulo-151.md), fracción VI de la Ley, y que el comprobante fiscal que ampare el pago de dichas primas se expida a nombre del patrón.

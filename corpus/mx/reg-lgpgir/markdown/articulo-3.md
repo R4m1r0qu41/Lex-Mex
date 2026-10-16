@@ -17,4 +17,4 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 3
 
-Cuando se trate de las causas de utilidad pública señaladas en el artículo 3 de la [Ley](articulo-2.md), el avalúo que se realice conforme a lo previsto en la Ley de Expropiación, se llevará a cabo una vez que se haya inscrito en los registros públicos de la propiedad correspondientes que el inmueble respectivo se encuentra contaminado. En la inscripción correspondiente se describirá el tipo de contaminante, el grado de contaminación y el costo que genere la remediación del inmueble.
+Cuando se trate de las causas de utilidad pública señaladas en el artículo [3](../../lgpgir/markdown/articulo-3.md) de la [Ley](articulo-2.md), el avalúo que se realice conforme a lo previsto en la Ley de Expropiación, se llevará a cabo una vez que se haya inscrito en los registros públicos de la propiedad correspondientes que el inmueble respectivo se encuentra contaminado. En la inscripción correspondiente se describirá el tipo de contaminante, el grado de contaminación y el costo que genere la remediación del inmueble.

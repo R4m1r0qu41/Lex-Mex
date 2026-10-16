@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 54
 
-A las disposiciones o cláusulas contenidas en los contratos que debiendo registrarse no hayan sido registrados y que contravengan los intereses o derechos de los consumidores, les será aplicable lo dispuesto por el artículo 87, segundo párrafo de la Ley.
+A las disposiciones o cláusulas contenidas en los contratos que debiendo registrarse no hayan sido registrados y que contravengan los intereses o derechos de los consumidores, les será aplicable lo dispuesto por el artículo [87](../../lfpc/markdown/articulo-87.md), segundo párrafo de la Ley.

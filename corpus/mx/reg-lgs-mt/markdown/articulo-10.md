@@ -17,7 +17,7 @@ source_sha256: 9ff708994e8bad54142e90da50dd0ffe7c58b739b77d89c5c31a5162abfb1429
 
 # Artículo 10
 
-El documento en el que se haga constar el consentimiento que otorguen las personas a que se refiere el párrafo primero del artículo 324 de la [Ley](articulo-2.md), será recabado por el [Coordinador Hospitalario](articulo-2.md), una vez que se certifique la pérdida de la vida.
+El documento en el que se haga constar el consentimiento que otorguen las personas a que se refiere el párrafo primero del artículo [324](../../lgs/markdown/articulo-324.md) de la [Ley](articulo-2.md), será recabado por el [Coordinador Hospitalario](articulo-2.md), una vez que se certifique la pérdida de la vida.
 
 El documento en el que se haga constar el consentimiento a que se refiere el párrafo anterior deberá contener, cuando menos, lo siguiente:
 

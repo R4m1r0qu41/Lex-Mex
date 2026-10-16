@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 47
 
-Para los efectos del artículo 34, último párrafo del [Código](articulo-1.md), el extracto de las principales resoluciones favorables a los contribuyentes, se publicará en la página de Internet del Servicio de Administración Tributaria. Los extractos publicados no generarán derechos para los contribuyentes.
+Para los efectos del artículo [34](../../cff/markdown/articulo-34.md), último párrafo del [Código](articulo-1.md), el extracto de las principales resoluciones favorables a los contribuyentes, se publicará en la página de Internet del Servicio de Administración Tributaria. Los extractos publicados no generarán derechos para los contribuyentes.

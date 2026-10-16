@@ -21,7 +21,7 @@ Corresponde al Presidente del [Consejo](articulo-2.md) el ejercicio de las sigui
 
 I. Representar al Consejo;
 
-II. Coordinar las funciones del Consejo, descritas en el artículo 29 de la [Ley](articulo-2.md);
+II. Coordinar las funciones del Consejo, descritas en el artículo [29](../../lffaosc/markdown/articulo-29.md) de la [Ley](articulo-2.md);
 
 III. Conducir las sesiones del Consejo y dirigir sus debates;
 

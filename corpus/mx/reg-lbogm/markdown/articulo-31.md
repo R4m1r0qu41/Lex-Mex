@@ -167,6 +167,6 @@ ii. Estudios sobre la estabilidad de los genes insertados, y
 
 iii. Estudios de equivalencia substancial, y
 
-II. En caso de solicitudes de autorización de un OGM para poder realizar su importación para las finalidades a que se refiere el artículo 91 de la Ley, la información y documentación que acredite que el OGM esté autorizado conforme la legislación del país de origen o, en su defecto, manifestación del interesado de la inexistencia de dicha situación y exposición de los elementos de consideración que sustenten el que SALUD pueda resolver la solicitud de autorización, y
+II. En caso de solicitudes de autorización de un OGM para poder realizar su importación para las finalidades a que se refiere el artículo [91](../../lbogm/markdown/articulo-91.md) de la Ley, la información y documentación que acredite que el OGM esté autorizado conforme la legislación del país de origen o, en su defecto, manifestación del interesado de la inexistencia de dicha situación y exposición de los elementos de consideración que sustenten el que SALUD pueda resolver la solicitud de autorización, y
 
 III. Los demás requisitos que determine SALUD en las NOM que deriven de la Ley.

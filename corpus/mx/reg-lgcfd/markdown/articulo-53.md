@@ -19,7 +19,7 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 A efecto de dar cumplimiento al [artículo anterior](articulo-52.md), el COM y el COPAME, según corresponda, respetando los ordenamientos jurídicos nacionales e internacionales que resulten aplicables, ejercerán las siguientes facultades:
 
-I. Realizar las gestiones necesarias para obtener los recursos económicos, públicos o privados, que permitan la asistencia de las delegaciones deportivas nacionales a los Eventos Deportivos señalados en los artículos 69 y 75 de la Ley, según corresponda, así como aplicarlos para su desarrollo;
+I. Realizar las gestiones necesarias para obtener los recursos económicos, públicos o privados, que permitan la asistencia de las delegaciones deportivas nacionales a los Eventos Deportivos señalados en los artículos [69](../../lgcfd/markdown/articulo-69.md) y [75](../../lgcfd/markdown/articulo-75.md) de la Ley, según corresponda, así como aplicarlos para su desarrollo;
 
 II. Designar a la jefatura de la delegación deportiva nacional y, en su caso, a los demás directivos y auxiliares técnicos que la integren;
 
@@ -27,8 +27,8 @@ III. Definir la ropa deportiva, accesorios y equipamiento que utilizará la dele
 
 IV. Seleccionar al [Deportista](articulo-2.md) que portará la Bandera Nacional para su correspondiente abanderamiento por el Titular del Ejecutivo Federal o su representante;
 
-V. Establecer el procedimiento para los exámenes previos de dopaje de los Deportistas mexicanos que participen en los Eventos Deportivos señalados en el artículo 69 de la Ley; VI. Reunirse de manera periódica y extraordinaria cuando se requiera para revisar, evaluar e informarse mutuamente del desarrollo de las acciones y recursos implementados, así como de los resultados obtenidos, con el fin de medir sus avances y efectividad;
+V. Establecer el procedimiento para los exámenes previos de dopaje de los Deportistas mexicanos que participen en los Eventos Deportivos señalados en el artículo [69](../../lgcfd/markdown/articulo-69.md) de la Ley; VI. Reunirse de manera periódica y extraordinaria cuando se requiera para revisar, evaluar e informarse mutuamente del desarrollo de las acciones y recursos implementados, así como de los resultados obtenidos, con el fin de medir sus avances y efectividad;
 
 VII. Realizar la evaluación final y difusión conjunta de los resultados y participación de la delegación deportiva nacional de que se trate, y
 
-VIII. Gestionar la autorización del uso de sus respectivos logotipos en los uniformes de los Deportistas que integran las delegaciones deportivas nacionales que participen en las competiciones señaladas en los artículos 69 y 75 de la Ley, según corresponda.
+VIII. Gestionar la autorización del uso de sus respectivos logotipos en los uniformes de los Deportistas que integran las delegaciones deportivas nacionales que participen en las competiciones señaladas en los artículos [69](../../lgcfd/markdown/articulo-69.md) y [75](../../lgcfd/markdown/articulo-75.md) de la Ley, según corresponda.

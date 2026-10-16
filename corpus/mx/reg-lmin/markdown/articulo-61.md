@@ -19,4 +19,4 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 Cuando el período por comprobar sea menor de un año, el monto que resulte de aplicar las cuotas a que se refiere el artículo [59](articulo-59.md) de este Reglamento deberá dividirse entre doce y multiplicarse por el número de meses que correspondan a la comprobación.
 
-Sólo se requerirán dichas comprobaciones parciales cuando el período por comprobar sea superior a sesenta días, debiéndose presentar el informe correspondiente a la Secretaría, en los términos de lo dispuesto en el último párrafo del artículo 28 de la Ley.
+Sólo se requerirán dichas comprobaciones parciales cuando el período por comprobar sea superior a sesenta días, debiéndose presentar el informe correspondiente a la Secretaría, en los términos de lo dispuesto en el último párrafo del artículo [28](../../lmin/markdown/articulo-28.md) de la Ley.

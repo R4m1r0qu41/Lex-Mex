@@ -31,4 +31,4 @@ VI.- Su aceptación para la realización de inspecciones por parte del Instituto
 
 VII.- A juicio del Instituto competente, deberá otorgar fianza que garantice a satisfacción el pago por los daños que pudiera sufrir el monumento.
 
-Los requisitos señalados en este artículo serán aplicables, en lo conducente, a las solicitudes de construcción y acondicionamiento de edificios para exhibición museográfica a que se refiere el artículo 7o. de la Ley.
+Los requisitos señalados en este artículo serán aplicables, en lo conducente, a las solicitudes de construcción y acondicionamiento de edificios para exhibición museográfica a que se refiere el artículo [7](../../lfmzaah/markdown/articulo-7o.md)o. de la Ley.

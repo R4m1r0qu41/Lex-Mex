@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 189
 
-Para obtener la inscripción en el registro de empresas transportistas de Mercancías en tránsito a que se refieren los artículos 129 y 133 de la [Ley](articulo-1.md), se deberá presentar solicitud mediante el formato que para tal efecto establezca el [SAT](articulo-1.md) mediante Reglas, el cual deberá contener la siguiente información: I. Nombre, razón o denominación social y registro federal de contribuyentes de la empresa transportista;
+Para obtener la inscripción en el registro de empresas transportistas de Mercancías en tránsito a que se refieren los artículos [129](../../ladua/markdown/articulo-129.md) y [133](../../ladua/markdown/articulo-133.md) de la [Ley](articulo-1.md), se deberá presentar solicitud mediante el formato que para tal efecto establezca el [SAT](articulo-1.md) mediante Reglas, el cual deberá contener la siguiente información: I. Nombre, razón o denominación social y registro federal de contribuyentes de la empresa transportista;
 
 II. Actividad preponderante del solicitante;
 

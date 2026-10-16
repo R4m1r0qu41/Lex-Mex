@@ -17,7 +17,7 @@ source_sha256: c9996a72239837b24f45f4a49c4f117b1fe2b3b9faf2c3eb0e5ce00d8a991d53
 
 # Artículo 4
 
-El reporte anual a que se refiere el artículo 5 de la Ley, debe contener información que atienda a la naturaleza de las Áreas en posesión del Estado que la Secretaría de Energía haya determinado otorgar de manera excepcional en Contratos para la Exploración y Extracción de Hidrocarburos. Párrafo reformado DOF 03-10-2025
+El reporte anual a que se refiere el artículo [5](../../lih/markdown/articulo-5.md) de la Ley, debe contener información que atienda a la naturaleza de las Áreas en posesión del Estado que la Secretaría de Energía haya determinado otorgar de manera excepcional en Contratos para la Exploración y Extracción de Hidrocarburos. Párrafo reformado DOF 03-10-2025
 
 Cuando la Secretaría de Energía determine licitar Áreas en posesión del Estado, debe remitir a la Secretaría, la información técnica de soporte sobre dichas Áreas a licitar. Párrafo reformado DOF 03-10-2025
 

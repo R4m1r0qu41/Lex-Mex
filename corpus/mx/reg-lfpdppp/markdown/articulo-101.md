@@ -17,6 +17,6 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 101
 
-El titular, en términos de lo dispuesto por el artículo 23 de la Ley, tiene derecho a obtener del responsable sus datos personales, así como información relativa a las condiciones y generalidades del tratamiento.
+El titular, en términos de lo dispuesto por el artículo [23](../../lfpdppp/markdown/articulo-23.md) de la Ley, tiene derecho a obtener del responsable sus datos personales, así como información relativa a las condiciones y generalidades del tratamiento.
 
 Medios para el cumplimiento del derecho de Acceso

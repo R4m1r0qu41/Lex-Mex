@@ -17,7 +17,7 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 93
 
-El ejercicio de los derechos ARCO será sencillo y gratuito, debiendo cubrir el titular únicamente los gastos de envío, reproducción y, en su caso, certificación de documentos, salvo la excepción prevista en el segundo párrafo del artículo 35 de la Ley.
+El ejercicio de los derechos ARCO será sencillo y gratuito, debiendo cubrir el titular únicamente los gastos de envío, reproducción y, en su caso, certificación de documentos, salvo la excepción prevista en el segundo párrafo del artículo [35](../../lfpdppp/markdown/articulo-35.md) de la Ley.
 
 Los costos de reproducción no podrán ser mayores a los costos de recuperación del material correspondiente.
 

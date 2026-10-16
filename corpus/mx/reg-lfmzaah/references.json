@@ -31,6 +31,43 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfmzaah:article:20:reference:384-386:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfmzaah:article:20",
+    "source_span": "26",
+    "start_char": 384,
+    "end_char": 386,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfmzaah",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfmzaah:article:26",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfmzaah:article:33:reference:167-169:36:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfmzaah:article:33",
+    "source_span": "36",
+    "start_char": 167,
+    "end_char": 169,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfmzaah",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfmzaah:article:36",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I, II y III",
+        "start_char": 133,
+        "end_char": 153
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfmzaah:article:36:reference:106-108:32:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfmzaah:article:36",
     "source_span": "32",
@@ -53,6 +90,21 @@
     "end_char": 113,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfmzaah",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfmzaah:article:33",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfmzaah:article:42:reference:1100-1101:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfmzaah:article:42",
+    "source_span": "7",
+    "start_char": 1100,
+    "end_char": 1101,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfmzaah",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfmzaah:article:7",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -91,6 +143,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfmzaah:article:46:reference:345-347:55:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfmzaah:article:46",
+    "source_span": "55",
+    "start_char": 345,
+    "end_char": 347,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfmzaah",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfmzaah:article:55",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfmzaah:article:49:reference:46-63:48:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfmzaah:article:49",
     "source_span": "artículo anterior",
@@ -114,6 +181,28 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfmzaah",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfmzaah:article:2",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfmzaah:article:9-ter:reference:97-98:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfmzaah:article:9-ter",
+    "source_span": "5",
+    "start_char": 97,
+    "end_char": 98,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfmzaah",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfmzaah:article:5",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 72,
+        "end_char": 83
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

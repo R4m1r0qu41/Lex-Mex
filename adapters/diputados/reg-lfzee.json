@@ -18,5 +18,6 @@
     "proposed_at": "2026-10-13T17:39:05Z"
   },
   "allow_article_gaps": false,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "parent_instrument_id": "urn:lex-mx:federal:statute:lfzee"
 }

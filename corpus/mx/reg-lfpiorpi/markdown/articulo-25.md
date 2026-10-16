@@ -17,6 +17,6 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 25
 
-Para efectos de lo dispuesto en la fracción X del artículo 17 de la Ley, se considerará que realizan las Actividades Vulnerables de servicios de traslado o custodia de dinero o valores, quienes presten el servicio al amparo de la autorización a que se refiere la Ley Federal de Seguridad Privada o las leyes de las entidades federativas correspondientes en la materia.
+Para efectos de lo dispuesto en la fracción X del artículo [17](../../lfpiorpi/markdown/articulo-17.md) de la Ley, se considerará que realizan las Actividades Vulnerables de servicios de traslado o custodia de dinero o valores, quienes presten el servicio al amparo de la autorización a que se refiere la Ley Federal de Seguridad Privada o las leyes de las entidades federativas correspondientes en la materia.
 
 Artículo reformado DOF 27-03-2026

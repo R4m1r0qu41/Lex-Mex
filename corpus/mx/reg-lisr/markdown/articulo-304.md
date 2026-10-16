@@ -17,9 +17,9 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 304
 
-Para efectos del artículo 185 de la [Ley](articulo-1.md), los contratos de seguros que tengan como base planes de pensiones relacionados con la edad, la jubilación o el retiro de personas, cuyas primas sean deducibles para efectos del [Impuesto](articulo-1.md), deberán ajustarse a lo dispuesto por la Ley sobre el Contrato de Seguro y a lo establecido por el presente artículo de conformidad con lo siguiente:
+Para efectos del artículo [185](../../lisr/markdown/articulo-185.md) de la [Ley](articulo-1.md), los contratos de seguros que tengan como base planes de pensiones relacionados con la edad, la jubilación o el retiro de personas, cuyas primas sean deducibles para efectos del [Impuesto](articulo-1.md), deberán ajustarse a lo dispuesto por la Ley sobre el Contrato de Seguro y a lo establecido por el presente artículo de conformidad con lo siguiente:
 
-I. Los contratos deberán contener el texto íntegro del artículo 185 de la Ley y sólo podrán ser celebrados con las instituciones de seguros facultadas para practicar en seguros la operación de vida, en términos de la Ley de Instituciones de Seguros y de Fianzas, debiendo contar los mismos con el registro de la Comisión Nacional de Seguros y Fianzas.
+I. Los contratos deberán contener el texto íntegro del artículo [185](../../lisr/markdown/articulo-185.md) de la Ley y sólo podrán ser celebrados con las instituciones de seguros facultadas para practicar en seguros la operación de vida, en términos de la Ley de Instituciones de Seguros y de Fianzas, debiendo contar los mismos con el registro de la Comisión Nacional de Seguros y Fianzas.
 
 En la denominación de estos contratos se deberá especificar que se trata de aquellos que tienen como base pagar un plan que se asemeja a pensiones bajo la modalidad de jubilación o retiro, según sea el caso;
 
@@ -37,8 +37,8 @@ VIII. En los planes de pensiones que se establezcan en el contrato de seguro, se
 
 IX. A solicitud del asegurado, los planes de pensiones contenidos en el contrato de seguro podrán cancelarse, siempre y cuando las anualidades no se encuentren en curso de pago;
 
-X. En el caso de rescate, pago de dividendos o indemnizaciones, los mismos serán acumulables en términos de lo dispuesto por el artículo 185 de la Ley, y
+X. En el caso de rescate, pago de dividendos o indemnizaciones, los mismos serán acumulables en términos de lo dispuesto por el artículo [185](../../lisr/markdown/articulo-185.md) de la Ley, y
 
 XI. Los planes de pensiones contenidos en el contrato de seguro, no podrán otorgar préstamos con garantía de las reservas matemáticas y en administración.
 
-Las cantidades que los contratantes, asegurados o beneficiarios reciban por concepto de indemnizaciones, dividendos o préstamos que deriven de los contratos de seguros a que se refiere este artículo, no podrán considerarse como pago de jubilaciones, pensiones o haberes de retiro en términos del artículo 93, fracción IV de la Ley.
+Las cantidades que los contratantes, asegurados o beneficiarios reciban por concepto de indemnizaciones, dividendos o préstamos que deriven de los contratos de seguros a que se refiere este artículo, no podrán considerarse como pago de jubilaciones, pensiones o haberes de retiro en términos del artículo [93](../../lisr/markdown/articulo-93.md), fracción IV de la Ley.

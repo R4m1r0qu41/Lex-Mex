@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 109
 
-Para ser apoderado, en los términos del artículo 196 de la [Ley](articulo-2o.md), se requiere presentar solicitud para obtener autorización del [Instituto](articulo-2o.md), la que se otorgará cuando el solicitante no haya sido sentenciado por delito doloso del orden patrimonial. Presentada la solicitud, el Instituto contará con un plazo de quince días para admitirla o desecharla.
+Para ser apoderado, en los términos del artículo [196](../../lfda/markdown/articulo-196.md) de la [Ley](articulo-2o.md), se requiere presentar solicitud para obtener autorización del [Instituto](articulo-2o.md), la que se otorgará cuando el solicitante no haya sido sentenciado por delito doloso del orden patrimonial. Presentada la solicitud, el Instituto contará con un plazo de quince días para admitirla o desecharla.

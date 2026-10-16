@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 49
 
-Para los efectos del artículo 44, fracción III del [Código](articulo-1.md), para hacer constar que los visitadores se identificaron, en las actas que se levanten se deberá señalar, lo siguiente:
+Para los efectos del artículo [44](../../cff/markdown/articulo-44.md), fracción III del [Código](articulo-1.md), para hacer constar que los visitadores se identificaron, en las actas que se levanten se deberá señalar, lo siguiente:
 
 I. El nombre completo de la persona que practica la visita, así como el número, la vigencia y la fecha de expedición de las credenciales o constancias de identificación de los visitadores;
 

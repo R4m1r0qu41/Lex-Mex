@@ -17,6 +17,6 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 103
 
-De conformidad con lo dispuesto por el artículo 24 de la Ley, el titular podrá solicitar en todo momento al responsable que rectifique sus datos personales que resulten ser inexactos o incompletos.
+De conformidad con lo dispuesto por el artículo [24](../../lfpdppp/markdown/articulo-24.md) de la Ley, el titular podrá solicitar en todo momento al responsable que rectifique sus datos personales que resulten ser inexactos o incompletos.
 
 Requisitos para el ejercicio del derecho de rectificación

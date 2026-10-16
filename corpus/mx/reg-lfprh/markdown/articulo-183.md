@@ -17,7 +17,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 183
 
-Las dependencias y entidades, en términos de los artículos 10 y 80 de la [Ley](articulo-2.md), podrán otorgar donativos en dinero, siempre y cuando cumplan con lo siguiente:
+Las dependencias y entidades, en términos de los artículos [10](../../lfprh/markdown/articulo-10.md) y [80](../../lfprh/markdown/articulo-80.md) de la [Ley](articulo-2.md), podrán otorgar donativos en dinero, siempre y cuando cumplan con lo siguiente:
 
 I. Las dependencias y entidades apoyadas no podrán incrementar la asignación original aprobada en sus presupuestos dentro del ramo, en el rubro de donativos, y
 

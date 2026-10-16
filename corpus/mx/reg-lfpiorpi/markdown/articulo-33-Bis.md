@@ -17,7 +17,7 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 33 Bis
 
-Para efectos de lo previsto en el artículo 27, fracción IX, de la Ley, el convenio celebrado conforme al [artículo anterior](articulo-33.md) no podrá tener una vigencia superior a diez años a partir de su suscripción.
+Para efectos de lo previsto en el artículo [27](../../lfpiorpi/markdown/articulo-27.md), fracción IX, de la Ley, el convenio celebrado conforme al [artículo anterior](articulo-33.md) no podrá tener una vigencia superior a diez años a partir de su suscripción.
 
 Para renovar por un plazo igual o menor a diez años el convenio, será necesario que el SAT corrobore el debido cumplimiento de sus obligaciones conforme a las reglas de carácter general y que la UIF determine que la calidad de los Avisos presentados por la Entidad Colegiada que pretenda la renovación de su convenio cumple íntegramente con lo establecido en los formatos oficiales, instructivos y guías para la presentación de Avisos emitidos en términos de las reglas de carácter general.
 

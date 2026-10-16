@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 135
 
-Las instituciones de crédito y casas de bolsa del sistema financiero, autorizadas para operar cuentas aduaneras, además de las obligaciones previstas en el artículo 87 de la [Ley](articulo-1.md), tendrán las siguientes:
+Las instituciones de crédito y casas de bolsa del sistema financiero, autorizadas para operar cuentas aduaneras, además de las obligaciones previstas en el artículo [87](../../ladua/markdown/articulo-87.md) de la [Ley](articulo-1.md), tendrán las siguientes:
 
 I. Invertir en títulos valores, incluidos los gubernamentales, los depósitos realizados en las cuentas aduaneras;
 
@@ -27,4 +27,4 @@ III. Abonar a la cuenta del importador las cantidades que manifieste en la forma
 
 Cuando exista error en el llenado de la forma oficial a que se refiere la fracción anterior, el contribuyente podrá presentar una declaración complementaria ante la Autoridad Aduanera por cada operación, anexando copia de la declaración que se rectifica.
 
-En caso de que el contribuyente no presente ante la aduana la forma oficial aprobada por el SAT, conjuntamente con el Pedimento de exportación, podrá solicitar la autorización de retiro del depósito ante la Autoridad Aduanera, siempre que dicha solicitud se presente antes del vencimiento del plazo establecido en el artículo 86 de la Ley.
+En caso de que el contribuyente no presente ante la aduana la forma oficial aprobada por el SAT, conjuntamente con el Pedimento de exportación, podrá solicitar la autorización de retiro del depósito ante la Autoridad Aduanera, siempre que dicha solicitud se presente antes del vencimiento del plazo establecido en el artículo [86](../../ladua/markdown/articulo-86.md) de la Ley.

@@ -19,8 +19,8 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 Para convocar a [Concurso](articulo-11.md), la dependencia o entidad federal interesada deberá:
 
-I. Cumplir con lo dispuesto en el artículo [37](articulo-37.md) de este Reglamento; II. Expedir el certificado para el reembolso de los gastos por los estudios realizados, previsto en el artículo 31, fracción I de la Ley; Fracción reformada DOF 20-02-2017
+I. Cumplir con lo dispuesto en el artículo [37](articulo-37.md) de este Reglamento; II. Expedir el certificado para el reembolso de los gastos por los estudios realizados, previsto en el artículo [31](../../lapp/markdown/articulo-31.md), fracción I de la Ley; Fracción reformada DOF 20-02-2017
 
-III. Contar con la declaración unilateral de voluntad del promotor, a que alude la fracción II del artículo 31 de la Ley, y
+III. Contar con la declaración unilateral de voluntad del promotor, a que alude la fracción II del artículo [31](../../lapp/markdown/articulo-31.md) de la Ley, y
 
-IV. Contar con la garantía de seriedad a que se refiere el artículo 31, fracción IV, párrafo segundo, de la Ley.
+IV. Contar con la garantía de seriedad a que se refiere el artículo [31](../../lapp/markdown/articulo-31.md), fracción IV, párrafo segundo, de la Ley.

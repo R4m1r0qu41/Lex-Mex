@@ -17,6 +17,6 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 26
 
-El análisis de rentabilidad social a que se refiere el artículo 14, párrafo primero, fracción VI de la Ley, se realizará de conformidad con los lineamientos para la elaboración y presentación de análisis costo y beneficio de programas y proyectos de inversión que expida la [Secretaría](articulo-11.md).
+El análisis de rentabilidad social a que se refiere el artículo [14](../../lapp/markdown/articulo-14.md), párrafo primero, fracción VI de la Ley, se realizará de conformidad con los lineamientos para la elaboración y presentación de análisis costo y beneficio de programas y proyectos de inversión que expida la [Secretaría](articulo-11.md).
 
 Artículo reformado DOF 31-10-2014

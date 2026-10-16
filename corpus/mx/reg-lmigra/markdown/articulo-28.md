@@ -21,4 +21,4 @@ Son causas de separación del cargo de los servidores públicos del Instituto, s
 
 I. El incumplimiento de cualquiera de los requisitos de permanencia a que hace referencia el [artículo anterior](articulo-27.md), y Fracción reformada DOF 23-05-2014
 
-II. No obtener la certificación a que hace referencia el artículo 23 de la Ley. Fracción reformada DOF 23-05-2014
+II. No obtener la certificación a que hace referencia el artículo [23](../../lmigra/markdown/articulo-23.md) de la Ley. Fracción reformada DOF 23-05-2014

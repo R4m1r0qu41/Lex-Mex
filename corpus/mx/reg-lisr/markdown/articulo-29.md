@@ -17,13 +17,13 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 29
 
-Para efectos del artículo 24, fracción IV de la [Ley](articulo-1.md), la información que deberá constar en el acta de asamblea que levante la sociedad emisora de las acciones que recibe el solicitante con motivo de la suscripción y pago de capital, será la siguiente:
+Para efectos del artículo [24](../../lisr/markdown/articulo-24.md), fracción IV de la [Ley](articulo-1.md), la información que deberá constar en el acta de asamblea que levante la sociedad emisora de las acciones que recibe el solicitante con motivo de la suscripción y pago de capital, será la siguiente:
 
-I. Número de las acciones de las cuales era propietario el solicitante, señalando el costo promedio por acción, así como el monto original ajustado que corresponda a las mismas determinado conforme al artículo 22 de la Ley;
+I. Número de las acciones de las cuales era propietario el solicitante, señalando el costo promedio por acción, así como el monto original ajustado que corresponda a las mismas determinado conforme al artículo [22](../../lisr/markdown/articulo-22.md) de la Ley;
 
 II. Número de las acciones adquiridas por el solicitante por la enajenación de las acciones de las cuales era propietario, y
 
-III. Número de las acciones representativas del capital social de la sociedad adquirente, que reciba cada suscriptor como consecuencia de la suscripción y pago del capital, y el costo comprobado de adquisición de las mismas para efectos de los artículos 22 y 23 de la Ley.
+III. Número de las acciones representativas del capital social de la sociedad adquirente, que reciba cada suscriptor como consecuencia de la suscripción y pago del capital, y el costo comprobado de adquisición de las mismas para efectos de los artículos [22](../../lisr/markdown/articulo-22.md) y [23](../../lisr/markdown/articulo-23.md) de la Ley.
 
 Para efectos del párrafo anterior, el costo comprobado de adquisición de las acciones que recibe el solicitante, será el que resulte de dividir el monto original ajustado a que se refiere la fracción I de este artículo, entre el número de acciones recibidas, considerándose que la fecha de adquisición de las mismas, es la fecha de enajenación de las acciones de las que era propietario el solicitante.
 

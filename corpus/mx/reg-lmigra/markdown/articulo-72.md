@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 72
 
-Para dar cumplimiento al artículo 81 de la Ley, las capitanías de puerto, como autoridades dependientes de la Secretaría de Comunicaciones y Transportes que cuentan con la jurisdicción y atribuciones que señalan la Ley de Navegación y Comercio Marítimos y su Reglamento, deberán remitir al Instituto el aviso electrónico de arribo de embarcaciones de recreo y deportivas particulares, cuando procedan del exterior y antes de su salida del territorio nacional, a efecto que la autoridad migratoria realice la inspección correspondiente.
+Para dar cumplimiento al artículo [81](../../lmigra/markdown/articulo-81.md) de la Ley, las capitanías de puerto, como autoridades dependientes de la Secretaría de Comunicaciones y Transportes que cuentan con la jurisdicción y atribuciones que señalan la Ley de Navegación y Comercio Marítimos y su Reglamento, deberán remitir al Instituto el aviso electrónico de arribo de embarcaciones de recreo y deportivas particulares, cuando procedan del exterior y antes de su salida del territorio nacional, a efecto que la autoridad migratoria realice la inspección correspondiente.
 
 Los delegados honorarios de marinas, como las personas facultadas por la autoridad marítima para desempeñar las funciones que se señalan en la Ley de Navegación y Comercio Marítimos, deberán remitir al Instituto el aviso electrónico de arribo y salida de embarcaciones de recreo y deportivas particulares que utilicen sus servicios.
 

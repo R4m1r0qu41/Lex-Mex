@@ -17,9 +17,9 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 29
 
-El informe trimestral a que se refiere la fracción VII del artículo 25 de la [Ley](articulo-2.md), se suscribirá y presentará por el presidente del [Comité](articulo-2.md) en la sesión ordinaria inmediata posterior a la conclusión del trimestre de que se trate, el cual contendrá los siguientes aspectos:
+El informe trimestral a que se refiere la fracción VII del artículo [25](../../lopsrm/markdown/articulo-25.md) de la [Ley](articulo-2.md), se suscribirá y presentará por el presidente del [Comité](articulo-2.md) en la sesión ordinaria inmediata posterior a la conclusión del trimestre de que se trate, el cual contendrá los siguientes aspectos:
 
-I. Una síntesis sobre la conclusión y los resultados generales de las contrataciones realizadas con fundamento en los artículos 42 y 43 de la Ley, así como de las derivadas de licitaciones públicas;
+I. Una síntesis sobre la conclusión y los resultados generales de las contrataciones realizadas con fundamento en los artículos [42](../../lopsrm/markdown/articulo-42.md) y [43](../../lopsrm/markdown/articulo-43.md) de la Ley, así como de las derivadas de licitaciones públicas;
 
 II. Un reporte del avance físico y financiero de cada uno de los contratos formalizados, que contenga además: número de contrato; tipo de obra; lugar en el que se realiza; monto contratado incluyendo convenios modificatorios; monto estimado a la terminación de los trabajos; fecha de terminación estipulada originalmente en el contrato, y fecha estimada de conclusión de los trabajos;
 

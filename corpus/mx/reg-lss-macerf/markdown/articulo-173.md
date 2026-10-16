@@ -27,6 +27,6 @@ a).- Que se haya concluido y presentado el dictamen correspondiente;
 
 b).- Que los avisos afiliatorios y las modificaciones salariales derivados del referido dictamen se hubieran presentado por el patrón en los formatos o medios electrónicos dispuestos para ello, y
 
-c).- Que las cuotas obrero patronales a cargo del patrón, derivadas del dictamen, se hubiesen liquidado en su totalidad o se haya agotado el plazo de doce meses establecido en el artículo [149](articulo-149.md) de este Reglamento, de conformidad con el artículo 40 C de la Ley.
+c).- Que las cuotas obrero patronales a cargo del patrón, derivadas del dictamen, se hubiesen liquidado en su totalidad o se haya agotado el plazo de doce meses establecido en el artículo [149](articulo-149.md) de este Reglamento, de conformidad con el artículo [40](../../lss/markdown/articulo-40.md) C de la Ley.
 
 Lo establecido en esta fracción no es aplicable bajo ninguna circunstancia a los créditos que se deriven del Seguro de Retiro, Cesantía en Edad Avanzada y Vejez; capitales constitutivos, recargos documentados, visitas domiciliarias y en general, resoluciones derivadas de cualquier medio de defensa ejercido por el patrón.

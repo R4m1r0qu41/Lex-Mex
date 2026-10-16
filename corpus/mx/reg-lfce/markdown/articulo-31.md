@@ -23,10 +23,10 @@ I. Los hechos denunciados no constituyan violaciones a la Ley;
 
 II. Sea notorio que el denunciado no tiene poder sustancial en el mercado relevante o mercados relacionados, en el caso de denuncias por prácticas monopólicas relativas o concentraciones prohibidas;
 
-III. El agente económico denunciado y los hechos y condiciones en el mercado relevante que se indiquen, hayan sido materia de una resolución en términos de los artículos 21, 21 bis o 33 de la Ley, excepto en los casos de información falsa o incumplimiento de condiciones;
+III. El agente económico denunciado y los hechos y condiciones en el mercado relevante que se indiquen, hayan sido materia de una resolución en términos de los artículos [21](../../lfce/markdown/articulo-21.md), 21 bis o [33](../../lfce/markdown/articulo-33.md) de la Ley, excepto en los casos de información falsa o incumplimiento de condiciones;
 
 IV. Esté pendiente un procedimiento ante la Comisión referente a los mismos hechos y condiciones en el mercado relevante, después de realizado el emplazamiento al probable responsable;
 
-V. Los hechos denunciados se refieran a una concentración notificada en términos del artículo 20 de la Ley, que no haya sido resuelta por la Comisión. Sin embargo, los agentes económicos pueden coadyuvar con la Comisión al presentar datos y documentos que consideren pertinentes para que ésta los tome en consideración al emitir su resolución. El denunciante no tendrá acceso a la documentación relativa a dicha concentración ni puede impugnar el procedimiento, sin embargo, se le debe notificar el acuerdo que tenga por glosada la información al expediente de concentración, y
+V. Los hechos denunciados se refieran a una concentración notificada en términos del artículo [20](../../lfce/markdown/articulo-20.md) de la Ley, que no haya sido resuelta por la Comisión. Sin embargo, los agentes económicos pueden coadyuvar con la Comisión al presentar datos y documentos que consideren pertinentes para que ésta los tome en consideración al emitir su resolución. El denunciante no tendrá acceso a la documentación relativa a dicha concentración ni puede impugnar el procedimiento, sin embargo, se le debe notificar el acuerdo que tenga por glosada la información al expediente de concentración, y
 
 VI. Los hechos denunciados no sean de realización inminente.

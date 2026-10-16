@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 221
 
-Los exámenes referidos en el artículo 162, fracción XIV de la [Ley](articulo-1.md), consistirán en evaluar los conocimientos y experiencia de los agentes aduanales en materia de comercio exterior y aduanal.
+Los exámenes referidos en el artículo [162](../../ladua/markdown/articulo-162.md), fracción XIV de la [Ley](articulo-1.md), consistirán en evaluar los conocimientos y experiencia de los agentes aduanales en materia de comercio exterior y aduanal.
 
 El [SAT](articulo-1.md) determinará en Reglas los lineamientos mediante los que regulará la aplicación de los exámenes, así como la acreditación de las instituciones académicas o especializadas en evaluación.

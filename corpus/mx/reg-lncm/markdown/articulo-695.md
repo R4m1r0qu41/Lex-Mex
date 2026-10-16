@@ -15,4 +15,4 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 # Artículo 695
 
-Cualquier otra infracción al Reglamento no prevista expresamente en este Título del Reglamento, se sancionará en los términos de los artículos 326, 327 y 328 de la [Ley](articulo-10.md), según corresponda.
+Cualquier otra infracción al Reglamento no prevista expresamente en este Título del Reglamento, se sancionará en los términos de los artículos [326](../../lncm/markdown/articulo-326.md), [327](../../lncm/markdown/articulo-327.md) y [328](../../lncm/markdown/articulo-328.md) de la [Ley](articulo-10.md), según corresponda.

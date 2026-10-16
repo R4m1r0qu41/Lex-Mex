@@ -17,4 +17,4 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 143
 
-Para la aplicación del primer párrafo del artículo 133 de la Ley, la Secretaría podrá emitir disposiciones administrativas generales de carácter temporal, que serán publicadas en el Diario Oficial de la Federación, para establecer los supuestos, requisitos y procedimientos aplicables para que el Instituto regularice la situación migratoria de las personas extranjeras que se encuentren en el territorio nacional y manifiesten su interés de residir de forma temporal o permanente en el mismo.
+Para la aplicación del primer párrafo del artículo [133](../../lmigra/markdown/articulo-133.md) de la Ley, la Secretaría podrá emitir disposiciones administrativas generales de carácter temporal, que serán publicadas en el Diario Oficial de la Federación, para establecer los supuestos, requisitos y procedimientos aplicables para que el Instituto regularice la situación migratoria de las personas extranjeras que se encuentren en el territorio nacional y manifiesten su interés de residir de forma temporal o permanente en el mismo.

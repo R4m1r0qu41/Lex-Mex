@@ -17,8 +17,8 @@ source_sha256: c1c2979863552f79416de98fc49cc4898abefac47eb223de3c163a49b793273b
 
 # Artículo 4
 
-Los patrones que otorguen ayuda alimentaria a sus Trabajadores, a través de la modalidad prevista en el inciso a) de la fracción I del artículo 7o. de la [Ley](articulo-2.md), deberán:
+Los patrones que otorguen ayuda alimentaria a sus Trabajadores, a través de la modalidad prevista en el inciso a) de la fracción I del artículo [7](../../laat/markdown/articulo-7o.md)o. de la [Ley](articulo-2.md), deberán:
 
 I. Cumplir con las características de una Dieta Correcta; II. Observar las condiciones y medidas de seguridad y salud en el trabajo previstas en la Ley Federal del Trabajo, el Reglamento Federal de Seguridad y Salud en el Trabajo, las Normas expedidas por la Secretaría y demás disposiciones aplicables, y
 
-III. Cumplir con las normas a que se refiere el artículo 9 de la Ley.
+III. Cumplir con las normas a que se refiere el artículo [9](../../laat/markdown/articulo-9o.md) de la Ley.

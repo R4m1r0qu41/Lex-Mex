@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 92
 
-La clausura sólo se aplicará como sanción temporal por la comisión de las infracciones particularmente graves a que se refiere el artículo 128 TER de la Ley.
+La clausura sólo se aplicará como sanción temporal por la comisión de las infracciones particularmente graves a que se refiere el artículo [128 TER](../../lfpc/markdown/articulo-128-TER.md) de la Ley.

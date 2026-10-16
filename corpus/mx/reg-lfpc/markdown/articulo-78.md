@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 78
 
-La destrucción de las muestras, en los casos a que se refiere la fracción V del artículo 97 TER de la Ley, podrá efectuarse por la unidad administrativa de la Procuraduría que esté desahogando el procedimiento administrativo correspondiente o, en su caso, por aquélla que tuviere a su cargo las muestras con motivo del análisis que hubiera practicado sobre las mismas.
+La destrucción de las muestras, en los casos a que se refiere la fracción V del artículo [97 TER](../../lfpc/markdown/articulo-97-TER.md) de la Ley, podrá efectuarse por la unidad administrativa de la Procuraduría que esté desahogando el procedimiento administrativo correspondiente o, en su caso, por aquélla que tuviere a su cargo las muestras con motivo del análisis que hubiera practicado sobre las mismas.

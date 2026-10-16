@@ -21,4 +21,4 @@ La Asesoría Jurídica Federal será la unidad administrativa encargada de brind
 
 La Asesoría Jurídica Federal estará compuesta por una Junta Directiva, un Director General y las áreas administrativas a las que se integrarán los asesores jurídicos y el personal técnico y administrativo, en los términos que establezcan las bases de organización y funcionamiento emitidas por la propia Junta Directiva, las cuales se sujetarán al Estatuto Orgánico.
 
-Las áreas administrativas de la Asesoría Jurídica Federal se organizarán conforme a las materias que señala el artículo 167, fracción II, de la Ley.
+Las áreas administrativas de la Asesoría Jurídica Federal se organizarán conforme a las materias que señala el artículo [167](../../lgv/markdown/articulo-167.md), fracción II, de la Ley.

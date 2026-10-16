@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 57
 
-Se revocará el título de obtentor cuando se esté en cualquiera de los supuestos establecidos por el artículo 40 de la Ley. La declaración de revocación producirá la extinción de los derechos de aprovechamiento y explotación de la variedad vegetal, a partir de su notificación.
+Se revocará el título de obtentor cuando se esté en cualquiera de los supuestos establecidos por el artículo [40](../../lfvv/markdown/articulo-40.md) de la Ley. La declaración de revocación producirá la extinción de los derechos de aprovechamiento y explotación de la variedad vegetal, a partir de su notificación.

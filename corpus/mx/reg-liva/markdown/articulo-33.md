@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 33
 
-Para los efectos del artículo 14 de la Ley, tratándose de las cuotas que aporten los propietarios de inmuebles sujetos al régimen de propiedad en condominio o a cualquier otra modalidad en la que se realicen gastos comunes, que se destinen para la constitución o el incremento de los fondos con los cuales se solventan dichos gastos, el impuesto se causa sólo por la parte que se destine a cubrir las contraprestaciones de la persona que tenga a su cargo la administración del inmueble.
+Para los efectos del artículo [14](../../liva/markdown/articulo-14.md) de la Ley, tratándose de las cuotas que aporten los propietarios de inmuebles sujetos al régimen de propiedad en condominio o a cualquier otra modalidad en la que se realicen gastos comunes, que se destinen para la constitución o el incremento de los fondos con los cuales se solventan dichos gastos, el impuesto se causa sólo por la parte que se destine a cubrir las contraprestaciones de la persona que tenga a su cargo la administración del inmueble.

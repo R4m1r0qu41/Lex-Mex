@@ -17,4 +17,4 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 105
 
-La visa de visitante con permiso para realizar actividades remuneradas a que se refiere la fracción II del artículo 40 de la Ley, se expedirá a favor de las personas extranjeras que deseen permanecer hasta ciento ochenta días naturales en el territorio nacional. La solicitud para esta visa deberá presentarse ante el Instituto en términos del artículo [115](articulo-115.md) de este Reglamento.
+La visa de visitante con permiso para realizar actividades remuneradas a que se refiere la fracción II del artículo [40](../../lmigra/markdown/articulo-40.md) de la Ley, se expedirá a favor de las personas extranjeras que deseen permanecer hasta ciento ochenta días naturales en el territorio nacional. La solicitud para esta visa deberá presentarse ante el Instituto en términos del artículo [115](articulo-115.md) de este Reglamento.

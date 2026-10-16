@@ -17,4 +17,4 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 86
 
-Los esquemas de autorregulación notificados en términos del último párrafo del artículo 44 de la Ley formarán parte de un registro, que será administrado por el Instituto y en el que se incluirán aquéllos que cumplan con los requisitos que establezcan los parámetros previstos en el artículo 43, fracción V de la Ley.
+Los esquemas de autorregulación notificados en términos del último párrafo del artículo 44 de la Ley formarán parte de un registro, que será administrado por el Instituto y en el que se incluirán aquéllos que cumplan con los requisitos que establezcan los parámetros previstos en el artículo [43](../../lfpdppp/markdown/articulo-43.md), fracción V de la Ley.

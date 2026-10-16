@@ -17,7 +17,7 @@ source_sha256: bd9ba59ab5016fd7d8737d382113a20e450b188e586925c31a1ef7c2af3f0065
 
 # Artículo 14
 
-Para efectos de lo dispuesto en los artículos 20 y 21 de la Ley, el interesado deberá acreditar la residencia en territorio nacional con cualquiera de los siguientes documentos:
+Para efectos de lo dispuesto en los artículos [20](../../lnac/markdown/articulo-20.md) y [21](../../lnac/markdown/articulo-21.md) de la Ley, el interesado deberá acreditar la residencia en territorio nacional con cualquiera de los siguientes documentos:
 
 I. Con la tarjeta expedida por la Secretaría de Gobernación que acredite la condición de estancia de residente temporal, o
 

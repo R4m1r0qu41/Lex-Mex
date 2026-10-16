@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 41
 
-Para los efectos del artículo 15, fracción XIV de la Ley, los servicios profesionales de medicina por los que no se está obligado al pago del impuesto, son los de médico, médico veterinario o cirujano dentista, siempre que cumplan con los requisitos que establece la Ley.
+Para los efectos del artículo [15](../../liva/markdown/articulo-15.md), fracción XIV de la Ley, los servicios profesionales de medicina por los que no se está obligado al pago del impuesto, son los de médico, médico veterinario o cirujano dentista, siempre que cumplan con los requisitos que establece la Ley.

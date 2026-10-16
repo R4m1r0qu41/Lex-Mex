@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 57
 
-La cancelación del registro de un modelo de contrato de adhesión a que se refiere el artículo 90 BIS de la Ley, procederá una vez que la resolución emitida en el procedimiento por infracciones a la Ley haya quedado firme, ya sea por no haber sido impugnada o por haberse agotado los medios de impugnación correspondientes.
+La cancelación del registro de un modelo de contrato de adhesión a que se refiere el artículo [90 BIS](../../lfpc/markdown/articulo-90-BIS.md) de la Ley, procederá una vez que la resolución emitida en el procedimiento por infracciones a la Ley haya quedado firme, ya sea por no haber sido impugnada o por haberse agotado los medios de impugnación correspondientes.

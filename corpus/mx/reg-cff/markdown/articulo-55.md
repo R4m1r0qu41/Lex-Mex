@@ -17,11 +17,11 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 55
 
-Para los efectos del artículo 52, antepenúltimo párrafo del [Código](articulo-1.md), el Servicio de Administración Tributaria, previa audiencia, aplicará al contador público inscrito las sanciones siguientes:
+Para los efectos del artículo [52](../../cff/markdown/articulo-52.md), antepenúltimo párrafo del [Código](articulo-1.md), el Servicio de Administración Tributaria, previa audiencia, aplicará al contador público inscrito las sanciones siguientes:
 
 I. Amonestación, cuando:
 
-a) No proporcione o presente incompleta la información a que se refiere el artículo 52-A, fracción I, incisos a) y c) del Código.
+a) No proporcione o presente incompleta la información a que se refiere el artículo [52-A](../../cff/markdown/articulo-52-A.md), fracción I, incisos a) y c) del Código.
 
 La sanción a que se refiere este inciso se aplicará por cada dictamen formulado en contravención a las disposiciones jurídicas aplicables, independientemente del ejercicio fiscal de que se trate y las sanciones correspondientes se acumularán;
 
@@ -31,7 +31,7 @@ c) No hubiera integrado en el dictamen la información que para efectos del proc
 
 La sanción a que se refiere este inciso, se aplicará por cada dictamen en el que no se hubiera integrado la información que corresponda, independientemente del ejercicio fiscal de que se trate y las sanciones correspondientes se acumularán, y
 
-II. Suspensión de la inscripción a que se refiere el artículo 52, fracción I del Código:
+II. Suspensión de la inscripción a que se refiere el artículo [52](../../cff/markdown/articulo-52.md), fracción I del Código:
 
 a) De uno a tres años cuando el contador público inscrito: 1. Formule el dictamen en contravención a los artículos 52 del Código, 57 de este Reglamento, al Reglamento de la Ley del Impuesto sobre la Renta, o a las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria;
 
@@ -53,6 +53,6 @@ c) Se dicte en su contra auto de sujeción a proceso por la comisión de delitos
 
 d) No cumpla con lo establecido en el artículo [53](articulo-53.md), segundo párrafo de este Reglamento. En este caso la suspensión durará hasta que se obtenga el refrendo o recertificación a que se refiere el citado artículo;
 
-e) Emita dictamen sin contar con la certificación, a que se refiere el artículo 52, fracción I, inciso a), segundo párrafo del Código, la suspensión durará hasta que se obtenga la certificación, o en su caso, refrendo o recertificación correspondiente, a que se refiere el artículo [53](articulo-53.md), segundo párrafo de este Reglamento, y
+e) Emita dictamen sin contar con la certificación, a que se refiere el artículo [52](../../cff/markdown/articulo-52.md), fracción I, inciso a), segundo párrafo del Código, la suspensión durará hasta que se obtenga la certificación, o en su caso, refrendo o recertificación correspondiente, a que se refiere el artículo [53](articulo-53.md), segundo párrafo de este Reglamento, y
 
 f) No cumpla con lo establecido en el artículo [53](articulo-53.md), fracción II de este Reglamento. En este caso, la suspensión será de seis meses a tres años.

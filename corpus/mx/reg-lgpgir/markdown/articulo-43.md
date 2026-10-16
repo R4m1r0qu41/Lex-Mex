@@ -41,4 +41,4 @@ III. Una vez incorporados los datos, la Secretaría automáticamente, por el mis
 
 En caso de que para el interesado no fuere posible anexar electrónicamente los documentos señalados en la fracción II del presente artículo, podrá enviarla a la dirección electrónica que para tal efecto se habilite o presentará copia de los mismos en las oficinas de la Secretaría y realizará la incorporación de la información señalada en la fracción I directamente en la Dependencia.
 
-En tanto se suscriben los convenios a que se refieren los artículos 12 y 13 de la Ley, los microgeneradores de residuos se registrarán ante la Secretaría conforme al procedimiento previsto en el presente artículo.
+En tanto se suscriben los convenios a que se refieren los artículos [12](../../lgpgir/markdown/articulo-12.md) y [13](../../lgpgir/markdown/articulo-13.md) de la Ley, los microgeneradores de residuos se registrarán ante la Secretaría conforme al procedimiento previsto en el presente artículo.

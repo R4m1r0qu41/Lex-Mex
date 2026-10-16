@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 62
 
-Para los efectos del segundo párrafo del artículo 40 de la [Ley](articulo-1o.md), se estará a lo siguiente:
+Para los efectos del segundo párrafo del artículo [40](../../lce/markdown/articulo-40.md) de la [Ley](articulo-1o.md), se estará a lo siguiente:
 
 I. Los productores que puedan considerarse representativos de la producción nacional y tener calidad de solicitantes, deberán probar que la vinculación no tiene ni tendrá efectos restrictivos sobre la competencia, o en el caso de que ellos mismos realicen parte de las importaciones investigadas, deberán demostrar que sus importaciones no son la causa de la distorsión de los precios internos o la causa del daño alegado, y
 

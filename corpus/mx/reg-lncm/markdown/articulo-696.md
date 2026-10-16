@@ -15,4 +15,4 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 # Artículo 696
 
-Para la imposición de las sanciones, se considerará aplicable el salario mínimo vigente en el Distrito Federal en el momento de cometerse la infracción y se seguirá el procedimiento a que se refiere el artículo 323 de la [Ley](articulo-10.md).
+Para la imposición de las sanciones, se considerará aplicable el salario mínimo vigente en el Distrito Federal en el momento de cometerse la infracción y se seguirá el procedimiento a que se refiere el artículo [323](../../lncm/markdown/articulo-323.md) de la [Ley](articulo-10.md).

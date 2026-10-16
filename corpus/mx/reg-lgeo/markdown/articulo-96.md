@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 96
 
-La Secretaría debe sancionar administrativamente, los incumplimientos a la Ley, el Reglamento, los términos y condiciones de los Permisos de Exploración, Permisos para Usos Diversos o Concesiones correspondientes, y demás disposiciones normativas en materia de geotermia, en términos de los artículos 63 y 64 de la Ley.
+La Secretaría debe sancionar administrativamente, los incumplimientos a la Ley, el Reglamento, los términos y condiciones de los Permisos de Exploración, Permisos para Usos Diversos o Concesiones correspondientes, y demás disposiciones normativas en materia de geotermia, en términos de los artículos [63](../../lgeo/markdown/articulo-63.md) y [64](../../lgeo/markdown/articulo-64.md) de la Ley.

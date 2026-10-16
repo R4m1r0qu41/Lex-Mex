@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 134-A
 
-La carta de crédito a que se refiere el artículo 86-A, último párrafo de la [Ley](articulo-1.md), se deberá transmitir en Documento Electrónico o Digital en términos del artículo 36-A de la Ley, conforme lo dispuesto en las Reglas.
+La carta de crédito a que se refiere el artículo [86-A](../../ladua/markdown/articulo-86-A.md), último párrafo de la [Ley](articulo-1.md), se deberá transmitir en Documento Electrónico o Digital en términos del artículo [36-A](../../ladua/markdown/articulo-36-A.md) de la Ley, conforme lo dispuesto en las Reglas.
 
 Artículo adicionado DOF 23-02-2026

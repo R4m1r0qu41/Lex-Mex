@@ -19,7 +19,7 @@ source_sha256: 2cc4bd6de7ab80102fae680a7017a0876b062f7999f7e33916b853cc8296cb19
 
 Los profesionales interesados en obtener el código de barras para los recetarios especiales de prescripción de [Medicamentos](articulo-3.md) de [Cannabis](articulo-3.md), presentarán solicitud en el formato que para tal efecto emita la [COFEPRIS](articulo-3.md), acompañada de la documentación siguiente:
 
-I. Copia certificada de la cédula profesional que los acredite como profesionales en alguna de las ramas a que se refiere el artículo 240 de la [Ley](articulo-3.md); II. Copia de identificación oficial, y
+I. Copia certificada de la cédula profesional que los acredite como profesionales en alguna de las ramas a que se refiere el artículo [240](../../lgs/markdown/articulo-240.md) de la [Ley](articulo-3.md); II. Copia de identificación oficial, y
 
 III. Escrito en el que se especifique la designación de los profesionales responsables de la prescripción; en original y dos copias, en papel membretado, y firmado por el director de la institución cuando se trate de instituciones hospitalarias.
 

@@ -17,7 +17,7 @@ source_sha256: 9ff708994e8bad54142e90da50dd0ffe7c58b739b77d89c5c31a5162abfb1429
 
 # Artículo 26
 
-La resolución a que se refiere el artículo 333, fracción VI, inciso a), de la [Ley](articulo-2.md), deberá contener lo siguiente:
+La resolución a que se refiere el artículo [333](../../lgs/markdown/articulo-333.md), fracción VI, inciso a), de la [Ley](articulo-2.md), deberá contener lo siguiente:
 
 I. El resumen clínico del caso, incluyendo estudios de evaluación médica, clínica y psicológica del Receptor;
 

@@ -33,7 +33,7 @@ III. La identificación del número de tripulantes y personal operativo de la Em
 
 IV. Si son mexicanas, el Certificado de Matrícula.
 
-C. Con relación a los servicios mencionados en el artículo 42 de la [Ley](articulo-10.md), en adición a los anteriores y según sea el caso:
+C. Con relación a los servicios mencionados en el artículo [42](../../lncm/markdown/articulo-42.md) de la [Ley](articulo-10.md), en adición a los anteriores y según sea el caso:
 
 I. Ruta indicando los puertos o puntos entre los cuales se prestarán dichos servicios; II. La descripción del sistema de trabajo en las labores de rescate, con indicación de las medidas de protección del medio marino, cuando los servicios sean de seguridad, salvamento o auxilio a la Navegación;
 

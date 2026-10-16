@@ -17,4 +17,4 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 # Artículo 130
 
-Para permanecer en la [Institución](articulo-2.md), los [Integrantes](articulo-2.md) deberán cumplir los requisitos previstos en el artículo 17, apartado B, de la [Ley](articulo-2.md).
+Para permanecer en la [Institución](articulo-2.md), los [Integrantes](articulo-2.md) deberán cumplir los requisitos previstos en el artículo [17](../../lpf/markdown/articulo-17.md), apartado B, de la [Ley](articulo-2.md).

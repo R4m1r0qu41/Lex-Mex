@@ -19,7 +19,7 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 Las solicitudes para la prórroga o ampliación de concesiones deberán hacerse por escrito ante la Secretaría con las razones que las justifiquen. Se anexará, en su caso, el programa maestro de desarrollo portuario autorizado para la prórroga o las modificaciones a dicho programa maestro como resultado de la ampliación.
 
-Tratándose de prórrogas, la Secretaría, previo a su resolución, deberá realizar el trámite ante la Secretaría de Hacienda y Crédito Público previsto en el artículo 23 Bis de la [Ley](articulo-2.md).
+Tratándose de prórrogas, la Secretaría, previo a su resolución, deberá realizar el trámite ante la Secretaría de Hacienda y Crédito Público previsto en el artículo [23 Bis](../../lpue/markdown/articulo-23-BIS.md) de la [Ley](articulo-2.md).
 
 La Secretaría podrá requerir a los solicitantes información adicional o complementaria que sea indispensable o las aclaraciones que considere necesarias, en relación con la solicitud de prórroga o ampliación.
 

@@ -17,4 +17,4 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 52
 
-Es obligación de la tripulación y pasajeros que ingresan al país por vía área, marítima o terrestre declarar y cumplir con las disposiciones aplicables a las mercancías relacionadas con animales que transporten consigo, en su equipaje o dentro del menaje de casa y que estén incluidas en el artículo 24 de la [Ley](articulo-2.md). En caso contrario se harán acreedores a las multas según lo dispuesto en el artículo 169 de la Ley.
+Es obligación de la tripulación y pasajeros que ingresan al país por vía área, marítima o terrestre declarar y cumplir con las disposiciones aplicables a las mercancías relacionadas con animales que transporten consigo, en su equipaje o dentro del menaje de casa y que estén incluidas en el artículo [24](../../lfsa/markdown/articulo-24.md) de la [Ley](articulo-2.md). En caso contrario se harán acreedores a las multas según lo dispuesto en el artículo [169](../../lfsa/markdown/articulo-169.md) de la Ley.

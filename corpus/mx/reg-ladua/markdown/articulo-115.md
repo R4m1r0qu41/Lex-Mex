@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 115
 
-Para efectos de lo dispuesto en el artículo 65, fracción I, inciso b) de la [Ley](articulo-1.md), se considerará que los envases o embalajes forman un todo con las Mercancías, cuando se importen y se clasifiquen junto con las mismas, sean del tipo de los normalmente vendidos con ellas y no sean susceptibles de utilizarse en dos o más ocasiones.
+Para efectos de lo dispuesto en el artículo [65](../../ladua/markdown/articulo-65.md), fracción I, inciso b) de la [Ley](articulo-1.md), se considerará que los envases o embalajes forman un todo con las Mercancías, cuando se importen y se clasifiquen junto con las mismas, sean del tipo de los normalmente vendidos con ellas y no sean susceptibles de utilizarse en dos o más ocasiones.

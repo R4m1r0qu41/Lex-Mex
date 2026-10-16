@@ -82,6 +82,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:23:reference:97-100:291:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:23",
+    "source_span": "291",
+    "start_char": 97,
+    "end_char": 100,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lss",
+    "target_provision_id": "urn:lex-mx:federal:statute:lss:article:291",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 68,
+        "end_char": 83
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3:reference:360-361:2:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:3",
     "source_span": "2",

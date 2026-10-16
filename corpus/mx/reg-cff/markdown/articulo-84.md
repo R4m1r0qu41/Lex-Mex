@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 84
 
-Para que un tercero asuma la obligación de garantizar el interés fiscal por cuenta de otro en alguna de las formas a que se refiere el artículo 141, fracciones II y V del [Código](articulo-1.md), deberá cumplir con los requisitos que para cada garantía se establecen en este Reglamento.
+Para que un tercero asuma la obligación de garantizar el interés fiscal por cuenta de otro en alguna de las formas a que se refiere el artículo [141](../../cff/markdown/articulo-141.md), fracciones II y V del [Código](articulo-1.md), deberá cumplir con los requisitos que para cada garantía se establecen en este Reglamento.

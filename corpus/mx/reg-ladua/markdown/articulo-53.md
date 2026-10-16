@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 53
 
-Las concesiones a que se refiere el artículo 14, tercer párrafo de la [Ley](articulo-1.md), se otorgarán mediante licitación, conforme a lo siguiente:
+Las concesiones a que se refiere el artículo [14](../../ladua/markdown/articulo-14.md), tercer párrafo de la [Ley](articulo-1.md), se otorgarán mediante licitación, conforme a lo siguiente:
 
 I. La Autoridad Aduanera expedirá la convocatoria pública correspondiente para que, en un plazo de hasta dos meses, se presenten proposiciones en sobres cerrados, que serán abiertos el día que señale dicha convocatoria y en presencia de todos los participantes que hayan asistido; Fracción reformada DOF 23-02-2026
 

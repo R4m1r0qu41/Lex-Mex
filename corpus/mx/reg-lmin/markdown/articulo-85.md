@@ -31,6 +31,6 @@ V. Sean satisfechas las condiciones y requisitos que determinan la Ley y este Re
 
 VI. Se cumplan los elementos constitutivos del acto, contrato o convenio, de conformidad con las disposiciones aplicables, y
 
-VII. Se compruebe que los titulares de las concesiones involucradas, estén al corriente en el cumplimiento de las obligaciones previstas en las fracciones I y II del artículo 27 de la Ley.
+VII. Se compruebe que los titulares de las concesiones involucradas, estén al corriente en el cumplimiento de las obligaciones previstas en las fracciones I y II del artículo [27](../../lmin/markdown/articulo-27.md) de la Ley.
 
 En caso contrario se negará la inscripción, excepto cuando se trate de deficiencias y omisiones susceptibles de subsanarse, en cuyo supuesto se le concederá al solicitante un plazo de diez días para que las subsane, y en caso de no hacerlo dentro de dicho plazo, se procederá a negar la inscripción.

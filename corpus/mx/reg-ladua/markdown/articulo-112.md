@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 112
 
-Para efectos del artículo 64, último párrafo de la [Ley](articulo-1.md), se considera como pago indirecto, entre otros, el cumplimiento total o parcial por parte del comprador de una deuda a cargo del vendedor.
+Para efectos del artículo [64](../../ladua/markdown/articulo-64.md), último párrafo de la [Ley](articulo-1.md), se considera como pago indirecto, entre otros, el cumplimiento total o parcial por parte del comprador de una deuda a cargo del vendedor.

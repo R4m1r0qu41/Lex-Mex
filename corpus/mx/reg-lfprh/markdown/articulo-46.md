@@ -21,7 +21,7 @@ La [Cartera](articulo-2.md) se integrará con los conceptos señalados en las fr
 
 Se deberá solicitar el registro en la Cartera de: I. Los programas y proyectos de inversión que ejecuten las dependencias y entidades;
 
-II. Los proyectos de infraestructura productiva de largo plazo a los que se refiere el artículo 32 de la [Ley](articulo-2.md);
+II. Los proyectos de infraestructura productiva de largo plazo a los que se refiere el artículo [32](../../lfprh/markdown/articulo-32.md) de la [Ley](articulo-2.md);
 
 III. (Se deroga) Fracción derogada DOF 05-11-2012
 

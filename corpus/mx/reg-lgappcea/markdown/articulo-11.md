@@ -17,6 +17,6 @@ source_sha256: 066103556290f57dca17504bd178aeb645dff97b3a5e05bf4925e9353204e064
 
 # Artículo 11
 
-Las dependencias y entidades de la Administración Pública Federal que integran el Sistema Nacional de Salud, deben elaborar los certificados de evaluación y de Diagnóstico, así como la ficha personal, referidos, respectivamente, en las fracciones IV y VI del artículo 10 de la Ley, conforme a los lineamientos que determine la Secretaría mediante acuerdo que emita y publique en el Diario Oficial de la Federación.
+Las dependencias y entidades de la Administración Pública Federal que integran el Sistema Nacional de Salud, deben elaborar los certificados de evaluación y de Diagnóstico, así como la ficha personal, referidos, respectivamente, en las fracciones IV y VI del artículo [10](../../lgappcea/markdown/articulo-10.md) de la Ley, conforme a los lineamientos que determine la Secretaría mediante acuerdo que emita y publique en el Diario Oficial de la Federación.
 
 La ficha personal referida, debe contener la información médica, psicológica, psiquiátrica y educativa que determinen la Secretaría y la Secretaría de Educación Pública. La ficha personal se entregará a la Persona con la Condición del Espectro Autista o, cuando ésta sea menor de edad, a sus padres, tutores o a la persona que legalmente la represente.

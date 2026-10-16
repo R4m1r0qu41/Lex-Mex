@@ -17,7 +17,7 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 57
 
-En el [Registro](articulo-2o.md) se podrán inscribir, además de lo previsto en el artículo 163 de la [Ley](articulo-2o.md):
+En el [Registro](articulo-2o.md) se podrán inscribir, además de lo previsto en el artículo [163](../../lfda/markdown/articulo-163.md) de la [Ley](articulo-2o.md):
 
 I. Los poderes otorgados conforme a la Ley y a este Reglamento;
 

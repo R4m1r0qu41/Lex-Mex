@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 88
 
-En los supuestos previstos en el artículo 66 de la Ley, se debe formalizar previamente por escrito la colaboración de las partes para la realización de las actividades de Evaluación de la Conformidad o del análisis e interpretación de la información técnica o científica. En estos casos, la Autoridad Normalizadora debe emitir el resultado de la Evaluación de la Conformidad, con base en los informes que rinda la entidad auxiliar.
+En los supuestos previstos en el artículo [66](../../lic-calidad/markdown/articulo-66.md) de la Ley, se debe formalizar previamente por escrito la colaboración de las partes para la realización de las actividades de Evaluación de la Conformidad o del análisis e interpretación de la información técnica o científica. En estos casos, la Autoridad Normalizadora debe emitir el resultado de la Evaluación de la Conformidad, con base en los informes que rinda la entidad auxiliar.

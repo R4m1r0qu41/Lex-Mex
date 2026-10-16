@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 71
 
-Para efectos del artículo 45 de la [Ley](articulo-1.md), se consideran Mercancías que requieren instalaciones o equipos especiales, aquéllas cuya apertura del envase o empaque que las contenga y la exposición a las condiciones ambientales, les ocasione daño o inutilización para los fines que fueron concebidas.
+Para efectos del artículo [45](../../ladua/markdown/articulo-45.md) de la [Ley](articulo-1.md), se consideran Mercancías que requieren instalaciones o equipos especiales, aquéllas cuya apertura del envase o empaque que las contenga y la exposición a las condiciones ambientales, les ocasione daño o inutilización para los fines que fueron concebidas.

@@ -17,4 +17,4 @@ source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 
 # Artículo 60
 
-Los bienes ejidales y comunales sólo podrán ser expropiados por alguna o algunas de las causas de utilidad pública a que se refieren los artículos 93 de la Ley, 1o. de la Ley de Expropiación y en los demás casos previstos en las leyes especiales.
+Los bienes ejidales y comunales sólo podrán ser expropiados por alguna o algunas de las causas de utilidad pública a que se refieren los artículos [93](../../lagra/markdown/articulo-93.md) de la Ley, 1o. de la Ley de Expropiación y en los demás casos previstos en las leyes especiales.

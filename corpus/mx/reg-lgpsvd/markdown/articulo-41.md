@@ -17,4 +17,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 41
 
-Las directrices y mecanismos a que se refiere la fracción XXIV del artículo 15 de la Ley, estarán previstos en los lineamientos que emitirá el Centro Nacional en términos de la fracción XVII del mismo artículo.
+Las directrices y mecanismos a que se refiere la fracción XXIV del artículo [15](../../lgpsvd/markdown/articulo-15.md) de la Ley, estarán previstos en los lineamientos que emitirá el Centro Nacional en términos de la fracción XVII del mismo artículo.

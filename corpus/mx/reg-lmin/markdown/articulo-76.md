@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 76
 
-En el supuesto previsto por el artículo 40, fracción II de la Ley, la Secretaría iniciará de oficio el procedimiento para declarar la nulidad del título de concesión o asignación, cuando constate que el referido título fue expedido en favor de persona no capacitada por la Ley para obtenerlo, conforme a lo siguiente:
+En el supuesto previsto por el artículo [40](../../lmin/markdown/articulo-40.md), fracción II de la Ley, la Secretaría iniciará de oficio el procedimiento para declarar la nulidad del título de concesión o asignación, cuando constate que el referido título fue expedido en favor de persona no capacitada por la Ley para obtenerlo, conforme a lo siguiente:
 
 I. La Secretaría notificará al titular de la concesión minera de que se trate, las razones que dan lugar a la nulidad correspondiente, a fin de que dicho titular, en un plazo de sesenta días hábiles, contado a partir de la fecha de recepción del oficio de notificación, manifieste lo que a su derecho convenga y ofrezca las pruebas que estime pertinentes;
 

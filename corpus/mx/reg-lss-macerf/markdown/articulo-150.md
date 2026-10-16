@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 150
 
-Las cédulas de liquidación emitidas por el Instituto que deriven de gastos por inscripciones improcedentes y por la atención a las personas no derechohabientes, se sujetarán, en lo conducente, al procedimiento de notificación previsto en el artículo 40 de la Ley.
+Las cédulas de liquidación emitidas por el Instituto que deriven de gastos por inscripciones improcedentes y por la atención a las personas no derechohabientes, se sujetarán, en lo conducente, al procedimiento de notificación previsto en el artículo [40](../../lss/markdown/articulo-40.md) de la Ley.

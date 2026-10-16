@@ -17,4 +17,4 @@ source_sha256: 76a5d189cd607e352b2cc39a92c4ad2d46f6d4628cd6e300030d92cf2191a88c
 
 # Artículo 31
 
-La salvedad prevista en el artículo 23, fracción I de la [Ley](articulo-2.md), hace hincapié a los periodos que en forma independiente deberán acatar las personas que ocupen los puestos de directivos o consejeros, sin que ello implique una excepción a la permanencia de los consejeros en su cargo.
+La salvedad prevista en el artículo [23](../../lcec/markdown/articulo-23.md), fracción I de la [Ley](articulo-2.md), hace hincapié a los periodos que en forma independiente deberán acatar las personas que ocupen los puestos de directivos o consejeros, sin que ello implique una excepción a la permanencia de los consejeros en su cargo.

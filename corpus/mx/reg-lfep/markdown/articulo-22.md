@@ -23,4 +23,4 @@ Para la ejecución de los programas a que se refiere el párrafo anterior, las e
 
 Igualmente los órganos de gobierno emitirán los criterios y políticas de operación que las entidades deban observar, tomando en cuenta la situación financiera de las mismas y los objetivos y metas a alcanzar.
 
-Será obligación del presidente del órgano de gobierno, verificar que en los criterios de operación que se definan, se observe lo dispuesto por tanto en los párrafos anteriores, como en los artículos 47 y 48 de la [Ley](articulo-2o.md).
+Será obligación del presidente del órgano de gobierno, verificar que en los criterios de operación que se definan, se observe lo dispuesto por tanto en los párrafos anteriores, como en los artículos [47](../../lfep/markdown/articulo-47.md) y [48](../../lfep/markdown/articulo-48.md) de la [Ley](articulo-2o.md).

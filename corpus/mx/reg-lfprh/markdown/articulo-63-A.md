@@ -17,7 +17,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 63-A
 
-La Secretaría, a través de la unidad administrativa responsable de la política y del control presupuestario, establecerá el mecanismo presupuestario y las reglas para la operación del fondo específico a que se refiere el artículo 43, segundo párrafo, de la [Ley](articulo-2.md).
+La Secretaría, a través de la unidad administrativa responsable de la política y del control presupuestario, establecerá el mecanismo presupuestario y las reglas para la operación del fondo específico a que se refiere el artículo [43](../../lfprh/markdown/articulo-43.md), segundo párrafo, de la [Ley](articulo-2.md).
 
 El mecanismo presupuestario deberá considerar las características específicas, temporalidad y naturaleza de las erogaciones, que se realizan durante el periodo de transición.
 
@@ -27,6 +27,6 @@ La información de dicho fondo deberá ponerse a disposición del público en ge
 
 Lo anterior sin perjuicio de la información que se deba proporcionar a las autoridades competentes en materia de control, vigilancia y fiscalización de los recursos federales previstos en el fondo.
 
-Asimismo, la unidad administrativa que coordine la operación del fondo deberá reportar trimestralmente a la Secretaría la información de dicho fondo en los términos previstos en el artículo 107, fracción I, de la Ley y en el mecanismo presupuestario a que se refiere el primer párrafo de este artículo.
+Asimismo, la unidad administrativa que coordine la operación del fondo deberá reportar trimestralmente a la Secretaría la información de dicho fondo en los términos previstos en el artículo [107](../../lfprh/markdown/articulo-107.md), fracción I, de la Ley y en el mecanismo presupuestario a que se refiere el primer párrafo de este artículo.
 
 Artículo adicionado DOF 04-09-2009

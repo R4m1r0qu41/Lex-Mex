@@ -21,4 +21,4 @@ La Secretaría competente hará la revisión de la solicitud integrada, dentro d
 
 Transcurrido el plazo correspondiente sin que se haya desahogado la prevención, se desechará el trámite.
 
-Para efectos de lo previsto en el artículo 44 de la Ley, se entiende que la solicitud integrada fue recibida y la información está completa, en los casos en que una vez presentada no se haga prevención o hecha ésta sea atendida por el promovente, sin perjuicio de las atribuciones que le confiere el artículo 34, fracción II de la Ley a la Secretaría competente.
+Para efectos de lo previsto en el artículo [44](../../lbogm/markdown/articulo-44.md) de la Ley, se entiende que la solicitud integrada fue recibida y la información está completa, en los casos en que una vez presentada no se haga prevención o hecha ésta sea atendida por el promovente, sin perjuicio de las atribuciones que le confiere el artículo 34, fracción II de la Ley a la Secretaría competente.

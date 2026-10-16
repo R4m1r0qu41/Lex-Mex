@@ -17,6 +17,6 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 68
 
-Toda transferencia de datos personales, sea ésta nacional o internacional, se encuentra sujeta al consentimiento de su titular, salvo las excepciones previstas en el artículo 37 de la Ley; deberá ser informada a este último mediante el aviso de privacidad y limitarse a la finalidad que la justifique.
+Toda transferencia de datos personales, sea ésta nacional o internacional, se encuentra sujeta al consentimiento de su titular, salvo las excepciones previstas en el artículo [37](../../lfpdppp/markdown/articulo-37.md) de la Ley; deberá ser informada a este último mediante el aviso de privacidad y limitarse a la finalidad que la justifique.
 
 Prueba del cumplimiento de las obligaciones en materia de transferencias

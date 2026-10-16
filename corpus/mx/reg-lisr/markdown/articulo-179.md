@@ -17,10 +17,10 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 179
 
-Para efectos del artículo 97, párrafo quinto de la [Ley](articulo-1.md), el retenedor podrá compensar los saldos a favor de un trabajador contra las cantidades retenidas a otro trabajador, siempre que cumpla con los siguientes requisitos:
+Para efectos del artículo [97](../../lisr/markdown/articulo-97.md), párrafo quinto de la [Ley](articulo-1.md), el retenedor podrá compensar los saldos a favor de un trabajador contra las cantidades retenidas a otro trabajador, siempre que cumpla con los siguientes requisitos:
 
 I. Que se trate de trabajadores que presten sus servicios a un mismo patrón y no estén obligados a presentar declaración anual, y
 
 II. Que cuente con el comprobante fiscal que ampare que entregó la cantidad compensada al trabajador con saldo a favor.
 
-Cuando la compensación de los saldos a favor de un trabajador sólo se efectúe en forma parcial y éste solicite la devolución correspondiente, el retenedor deberá señalar la compensación respectiva en el comprobante fiscal a que se refiere el artículo 99, fracción III de la Ley.
+Cuando la compensación de los saldos a favor de un trabajador sólo se efectúe en forma parcial y éste solicite la devolución correspondiente, el retenedor deberá señalar la compensación respectiva en el comprobante fiscal a que se refiere el artículo [99](../../lisr/markdown/articulo-99.md), fracción III de la Ley.

@@ -19,4 +19,4 @@ source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 
 Si de la investigación realizada se desprende que el denunciado no es titular de superficies mayores a las permitidas por la Ley, se archivará el asunto como concluido.
 
-En caso contrario, la Procuraduría emitirá opinión fundada y motivada, en la que se deberá precisar cuál es la superficie que presumiblemente excede de los límites establecidos por la Ley; asimismo, deberá ordenar que el expediente se remita a la autoridad estatal correspondiente, para que ésta aplique el procedimiento previsto en el artículo 124 de la Ley, de lo cual se notificará tanto al denunciante como al denunciado.
+En caso contrario, la Procuraduría emitirá opinión fundada y motivada, en la que se deberá precisar cuál es la superficie que presumiblemente excede de los límites establecidos por la Ley; asimismo, deberá ordenar que el expediente se remita a la autoridad estatal correspondiente, para que ésta aplique el procedimiento previsto en el artículo [124](../../lagra/markdown/articulo-124.md) de la Ley, de lo cual se notificará tanto al denunciante como al denunciado.

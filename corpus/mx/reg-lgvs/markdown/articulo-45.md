@@ -17,4 +17,4 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 45
 
-La Secretaría podrá elaborar planes de manejo tipo por especies o grupos de especies, considerando las características que establece el artículo 40 de la [Ley](articulo-2.md), mismos que hará públicos a través de la página electrónica de la Secretaría u otros medios a su alcance.
+La Secretaría podrá elaborar planes de manejo tipo por especies o grupos de especies, considerando las características que establece el artículo [40](../../lgvs/markdown/articulo-40.md) de la [Ley](articulo-2.md), mismos que hará públicos a través de la página electrónica de la Secretaría u otros medios a su alcance.

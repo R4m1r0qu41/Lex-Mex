@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 10
 
-En los términos del artículo 56 bis de la Ley, el Consejo Nacional de Áreas Naturales Protegidas, estará integrado por:
+En los términos del artículo [56 bis](../../lgeepa/markdown/articulo-56-BIS.md) de la Ley, el Consejo Nacional de Áreas Naturales Protegidas, estará integrado por:
 
 I. Un Presidente, que será designado por el titular de la Secretaría de una terna sugerida por el propio órgano colegiado, misma que se integrará de entre sus miembros;
 

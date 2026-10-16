@@ -17,7 +17,7 @@ source_sha256: 4afbc3d9466d845cfcfb8c2a64a1b7b5cf4efcbc31fe8b58afba418bb9600c52
 
 # Artículo 40
 
-Queda prohibido realizar toda forma de publicidad, promoción y patrocinio de los productos elaborados con tabaco, en forma directa o indirecta, a través de cualquier medio de comunicación y difusión en términos del artículo 23 de la Ley, por lo que quedan comprendidas, en otras acciones, las siguientes:
+Queda prohibido realizar toda forma de publicidad, promoción y patrocinio de los productos elaborados con tabaco, en forma directa o indirecta, a través de cualquier medio de comunicación y difusión en términos del artículo [23](../../lgct/markdown/articulo-23.md) de la Ley, por lo que quedan comprendidas, en otras acciones, las siguientes:
 
 I. Promover productos del tabaco, marcas o fabricantes de éstos, para venderlo o alentar su consumo, a través de medios de comunicación impresos, entre otros, revistas, diarios, periódicos, folletos, volantes, boletines, cartas, vallas publicitarias, carteles, letreros;
 

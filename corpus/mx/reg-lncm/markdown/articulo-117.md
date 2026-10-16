@@ -15,7 +15,7 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 # Artículo 117
 
-Con relación al artículo 35 de la [Ley](articulo-10.md), el agente naviero podrá garantizar su responsabilidad solidaria, una vez que quede debidamente acreditado ante la [Capitanía de Puerto](articulo-10.md) competente, lo siguiente:
+Con relación al artículo [35](../../lncm/markdown/articulo-35.md) de la [Ley](articulo-10.md), el agente naviero podrá garantizar su responsabilidad solidaria, una vez que quede debidamente acreditado ante la [Capitanía de Puerto](articulo-10.md) competente, lo siguiente:
 
 I. Una declaración bajo protesta de decir verdad dirigida al Capitán de Puerto, por parte del Propietario, el naviero, el Operador o el asegurador de la Embarcación en donde expresamente se responsabilice de la tripulación en los términos del citado artículo de la Ley, la que deberá ser ratificada en un plazo de diez días hábiles. Si la declaración está realizada en el extranjero, deberá ser otorgada ante fedatario público y ser apostillada o legalizada, según sea el caso, y
 

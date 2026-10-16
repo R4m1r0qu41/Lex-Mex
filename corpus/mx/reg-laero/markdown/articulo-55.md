@@ -41,4 +41,4 @@ XII. Los demás que determine y publique la Secretaría en el Diario Oficial de 
 
 Dentro de los servicios aeroportuarios se considera el arrendamiento y uso de la infraestructura, así como el derecho de acceso a ésta para la prestación de servicios complementarios y los señalados en las fracciones VII y XI.
 
-Los servicios aeroportuarios serán gratuitos para las aeronaves de Estado militares y aquellas que realicen funciones de seguridad nacional, en términos de lo dispuesto por los artículos 48, fracción I y 53 párrafo segundo de la Ley.
+Los servicios aeroportuarios serán gratuitos para las aeronaves de Estado militares y aquellas que realicen funciones de seguridad nacional, en términos de lo dispuesto por los artículos [48](../../laero/markdown/articulo-48.md), fracción I y [53](../../laero/markdown/articulo-53.md) párrafo segundo de la Ley.

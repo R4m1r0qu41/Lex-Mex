@@ -1,6 +1,28 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:11:reference:367-368:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:11",
+    "source_span": "8",
+    "start_char": 367,
+    "end_char": 368,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrpv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrpv:article:8",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y III",
+        "start_char": 370,
+        "end_char": 388
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:12:reference:321-338:11:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:12",
     "source_span": "artículo anterior",
@@ -69,6 +91,28 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lrpv",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:13",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:16:reference:781-783:25:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:16",
+    "source_span": "25",
+    "start_char": 781,
+    "end_char": 783,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrpv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrpv:article:25",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 756,
+        "end_char": 767
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -151,6 +195,43 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:20:reference:103-105:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:20",
+    "source_span": "15",
+    "start_char": 103,
+    "end_char": 105,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrpv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrpv:article:15",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:23:reference:591-593:25:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:23",
+    "source_span": "25",
+    "start_char": 591,
+    "end_char": 593,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrpv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrpv:article:25",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 565,
+        "end_char": 577
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:26:reference:213-230:25:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:26",
     "source_span": "artículo anterior",
@@ -218,6 +299,88 @@
     "end_char": 686,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lrpv",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:25",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:34:reference:500-501:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:34",
+    "source_span": "7",
+    "start_char": 500,
+    "end_char": 501,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrpv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrpv:article:7",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:36:reference:527-529:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:36",
+    "source_span": "23",
+    "start_char": 527,
+    "end_char": 529,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrpv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrpv:article:23",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 501,
+        "end_char": 513
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:8:reference:316-318:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:8",
+    "source_span": "23",
+    "start_char": 316,
+    "end_char": 318,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrpv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrpv:article:23",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:9:reference:108-109:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:9",
+    "source_span": "4",
+    "start_char": 108,
+    "end_char": 109,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrpv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrpv:article:4",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:cuarto:reference:294-296:13:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:cuarto",
+    "source_span": "13",
+    "start_char": 294,
+    "end_char": 296,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrpv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrpv:article:13",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

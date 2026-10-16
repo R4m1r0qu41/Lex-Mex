@@ -17,4 +17,4 @@ source_sha256: 85d60fd8e0d0d2dac1758f672c5b2200ee6e501eecd8c635b0ac89a93d930b97
 
 # Artículo 4
 
-A falta de disposición expresa en este Reglamento, serán aplicables de manera supletoria los ordenamientos señalados en el artículo 8 de la Ley y sus respectivas disposiciones reglamentarias.
+A falta de disposición expresa en este Reglamento, serán aplicables de manera supletoria los ordenamientos señalados en el artículo [8](../../lfiiedb/markdown/articulo-8.md) de la Ley y sus respectivas disposiciones reglamentarias.

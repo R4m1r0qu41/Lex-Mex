@@ -17,6 +17,6 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 141
 
-El importe del anticipo se pondrá a disposición del contratista contra la entrega de la garantía prevista en la fracción I del artículo 48 de la [Ley](articulo-2.md).
+El importe del anticipo se pondrá a disposición del contratista contra la entrega de la garantía prevista en la fracción I del artículo [48](../../lopsrm/markdown/articulo-48.md) de la [Ley](articulo-2.md).
 
-Cuando el contratista no ejerza el anticipo otorgado en la forma pactada en el contrato y conforme al programa a que se refiere el párrafo tercero del artículo [138](articulo-138.md) de este Reglamento, las dependencias y entidades no podrán exigirle cargo alguno, salvo en el supuesto a que se refiere el último párrafo del artículo 50 de la Ley.
+Cuando el contratista no ejerza el anticipo otorgado en la forma pactada en el contrato y conforme al programa a que se refiere el párrafo tercero del artículo [138](articulo-138.md) de este Reglamento, las dependencias y entidades no podrán exigirle cargo alguno, salvo en el supuesto a que se refiere el último párrafo del artículo [50](../../lopsrm/markdown/articulo-50.md) de la Ley.

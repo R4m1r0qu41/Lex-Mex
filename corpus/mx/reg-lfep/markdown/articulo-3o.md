@@ -17,4 +17,4 @@ source_sha256: fa76340e597a2214f73b039f2a89465f9c1037f7d1630a852689124478621873
 
 # Artículo 3o
 
-La relación de las entidades paraestatales a que se refiere el artículo 12 de la [Ley](articulo-2o.md), será publicada anualmente por la Secretaría de Programación y Presupuesto, en el Diario Oficial de la Federación, dentro de los primero 15 días del mes de agosto.
+La relación de las entidades paraestatales a que se refiere el artículo [12](../../lfep/markdown/articulo-12.md) de la [Ley](articulo-2o.md), será publicada anualmente por la Secretaría de Programación y Presupuesto, en el Diario Oficial de la Federación, dentro de los primero 15 días del mes de agosto.

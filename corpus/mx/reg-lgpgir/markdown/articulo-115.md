@@ -21,6 +21,6 @@ Para el caso de importación de residuos peligrosos, al manifiesto señalado en 
 
 I. Copia de la autorización de reutilización o de reciclaje otorgada a favor del solicitante, y
 
-II. Póliza de seguro vigente o garantía, por parte del solicitante de la autorización de importación, en los términos del artículo 89 de la [Ley](articulo-2.md).
+II. Póliza de seguro vigente o garantía, por parte del solicitante de la autorización de importación, en los términos del artículo [89](../../lgpgir/markdown/articulo-89.md) de la [Ley](articulo-2.md).
 
 Para autorizar solicitudes subsecuentes para la importación del mismo tipo de residuos peligrosos y hacia la misma instalación de destino, solamente anexará a su manifiesto, el documento a que se refiere la fracción II del presente artículo, así como copia de la constancia con la cual acredite haber entregado el reporte del uso de la autorización anterior.

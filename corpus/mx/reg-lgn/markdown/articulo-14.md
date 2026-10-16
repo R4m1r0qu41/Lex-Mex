@@ -17,6 +17,6 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 # Artículo 14
 
-La [Institución](articulo-2.md) para el cumplimiento de sus funciones y atribuciones, así como para el desarrollo de sus operaciones en cuanto a dirección y disciplina, contará con los niveles de mando señalados en el artículo 12 de la [Ley](articulo-2.md).
+La [Institución](articulo-2.md) para el cumplimiento de sus funciones y atribuciones, así como para el desarrollo de sus operaciones en cuanto a dirección y disciplina, contará con los niveles de mando señalados en el artículo [12](../../lgn/markdown/articulo-12.md) de la [Ley](articulo-2.md).
 
 Los Mandos Operativos serán ejercidos por el [Comandante](articulo-2.md) y los Coordinadores Territoriales, Estatales y de Unidad.

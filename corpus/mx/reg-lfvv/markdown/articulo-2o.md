@@ -35,7 +35,7 @@ VII.- Obtentor: Persona física o moral que mediante un proceso de mejoramiento 
 
 VIII.- Proceso de mejoramiento: Técnica o conjunto de técnicas y procedimientos que permiten desarrollar una variedad vegetal y que hacen posible su protección por ser nueva, distinta, estable y homogénea;
 
-IX.- Registro: El Registro Nacional de Variedades Vegetales a que se refiere el artículo 33 de la Ley;
+IX.- Registro: El Registro Nacional de Variedades Vegetales a que se refiere el artículo [33](../../lfvv/markdown/articulo-33.md) de la Ley;
 
 X.- Secretaría: La Secretaría de Agricultura, Ganadería y Desarrollo Rural; XI.- SNICS: El Servicio Nacional de Inspección y Certificación de Semillas, órgano desconcentrado de la Secretaría;
 

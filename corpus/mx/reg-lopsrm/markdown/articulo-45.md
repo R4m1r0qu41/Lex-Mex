@@ -53,7 +53,7 @@ B. Tratándose de obras cuyas condiciones de pago sean a precio alzado:
 
 I. Listado de insumos que intervienen en la integración de la proposición, agrupado por los materiales más significativos y equipo de instalación permanente, mano de obra, maquinaria y equipo de construcción, con la descripción de cada uno de ellos; tratándose de proyectos integrales, el licitante señalará las normas de calidad y especificaciones técnicas a que se sujetará de conformidad con las establecidas en la convocatoria a la licitación pública.
 
-Para los efectos de la aplicación del séptimo párrafo del artículo 59 de la [Ley](articulo-2.md), en el caso de que se actualicen los supuestos señalados en el mismo se deberá requerir que el listado de insumos mencionado en el párrafo anterior contenga la cantidad y costo directo de cada insumo, así como su incremento proyectado durante la realización de los trabajos, por lo que dicha información no deberá utilizarse para llevar a cabo la evaluación de las proposiciones;
+Para los efectos de la aplicación del séptimo párrafo del artículo [59](../../lopsrm/markdown/articulo-59.md) de la [Ley](articulo-2.md), en el caso de que se actualicen los supuestos señalados en el mismo se deberá requerir que el listado de insumos mencionado en el párrafo anterior contenga la cantidad y costo directo de cada insumo, así como su incremento proyectado durante la realización de los trabajos, por lo que dicha información no deberá utilizarse para llevar a cabo la evaluación de las proposiciones;
 
 II. Red de actividades, calendarizada e indicando la duración de cada actividad a ejecutar, o bien, la ruta crítica;
 

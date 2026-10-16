@@ -21,6 +21,6 @@ Son causas de modificación de las listas a que se refiere el [artículo anterio
 
 I. La resolución de una autorización o permiso;
 
-II. Cambio de la situación jurídica en que se encuentren los OGMs, a que se refieren las fracciones I y II del artículo 103 de la Ley, y
+II. Cambio de la situación jurídica en que se encuentren los OGMs, a que se refieren las fracciones I y II del artículo [103](../../lbogm/markdown/articulo-103.md) de la Ley, y
 
-III. Los cambios de los casos a que se refiere el artículo 104, fracción II y último párrafo, de la Ley.
+III. Los cambios de los casos a que se refiere el artículo [104](../../lbogm/markdown/articulo-104.md), fracción II y último párrafo, de la Ley.

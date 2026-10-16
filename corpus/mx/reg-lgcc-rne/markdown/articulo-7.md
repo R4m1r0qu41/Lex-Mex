@@ -15,7 +15,7 @@ source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 
 # Artículo 7
 
-Las metodologías y procedimientos que, conforme al artículo 87, fracción III de la Ley, aplicarán los Establecimientos Sujetos a Reporte para la medición, cálculo, o estimación de sus Emisiones Directas e Indirectas de Gases o Compuestos de Efecto Invernadero, se basarán en la aplicación de metodologías de:
+Las metodologías y procedimientos que, conforme al artículo [87](../../lgcc/markdown/articulo-87.md), fracción III de la Ley, aplicarán los Establecimientos Sujetos a Reporte para la medición, cálculo, o estimación de sus Emisiones Directas e Indirectas de Gases o Compuestos de Efecto Invernadero, se basarán en la aplicación de metodologías de:
 
 I. Cálculo mediante factores de Emisión, cuando las actividades a reportar correspondan o involucren, de manera enunciativa y no limitativa, a:
 

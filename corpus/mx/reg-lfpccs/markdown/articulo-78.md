@@ -25,6 +25,6 @@ II. Comprobar el origen a través de las etiquetas de categoría básica o regis
 
 III. Presentar comprobante de pago correspondiente conforme la normatividad aplicable;
 
-IV. Cumplir con los factores y niveles de calidad de semilla conforme a las Reglas establecidas en términos del artículo 3, fracción XVI de la [Ley](articulo-2.md), según la categoría a obtener, y
+IV. Cumplir con los factores y niveles de calidad de semilla conforme a las Reglas establecidas en términos del artículo [3](../../lfpccs/markdown/articulo-3.md), fracción XVI de la [Ley](articulo-2.md), según la categoría a obtener, y
 
 V. En caso de variedades protegidas, presentar autorización por escrito del obtentor.

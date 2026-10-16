@@ -19,7 +19,7 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 La Dirección General de Inteligencia tiene las atribuciones siguientes:
 
-I. Establecer, coordinar y dirigir un centro de inteligencia que, conforme a las atribuciones de la [Institución](articulo-2.md), le permita cumplir con las obligaciones previstas en el artículo 9, fracciones III, V, VI y VII de la [Ley](articulo-2.md);
+I. Establecer, coordinar y dirigir un centro de inteligencia que, conforme a las atribuciones de la [Institución](articulo-2.md), le permita cumplir con las obligaciones previstas en el artículo [9](../../lgn/markdown/articulo-9.md), fracciones III, V, VI y VII de la [Ley](articulo-2.md);
 
 II. Ordenar la realización de operativos de la Institución, en el ámbito de su competencia;
 

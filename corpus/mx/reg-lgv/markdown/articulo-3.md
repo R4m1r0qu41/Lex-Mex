@@ -17,13 +17,13 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 3
 
-Para los efectos del presente Reglamento, sin perjuicio de las definiciones señaladas en los artículos 4 y 6 de la Ley, se entiende por:
+Para los efectos del presente Reglamento, sin perjuicio de las definiciones señaladas en los artículos [4](../../lgv/markdown/articulo-4.md) y [6](../../lgv/markdown/articulo-6.md) de la Ley, se entiende por:
 
 I. Autoridades de primer contacto: Todas aquellas dependencias y entidades de la Administración Pública Federal, así como la Procuraduría General de la República que den atención, asistencia y protección a la víctima o reciban la declaración de la víctima, una vez ocurrido el hecho victimizante;
 
 II. Comisionado Presidente: El Presidente de la Comisión Ejecutiva;
 
-III. Comités: Los Comités a que se refiere el artículo 93 de la Ley;
+III. Comités: Los Comités a que se refiere el artículo [93](../../lgv/markdown/articulo-93.md) de la Ley;
 
 IV. Estatuto Orgánico: El Estatuto Orgánico de la Comisión Ejecutiva;
 

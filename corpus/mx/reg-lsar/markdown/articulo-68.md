@@ -85,7 +85,7 @@ d) Iniciar de oficio los procesos de unificación y [Separación de Cuentas](art
 
 XVII. Coadyuvar para la devolución de los pagos indebidos o en exceso;
 
-XVIII. Prestar servicios a dependencias o entidades públicas estatales o municipales que tengan fondos de previsión social basados en Cuentas Individuales, destinados a la integración de las bases de datos de los trabajadores beneficiarios de dichos fondos de previsión social y cualquier otro servicio necesario para que la administración de las Cuentas Individuales se lleve conforme a lo dispuesto en los artículos 74 quáter y 74 quinquies de la Ley;
+XVIII. Prestar servicios a dependencias o entidades públicas estatales o municipales que tengan fondos de previsión social basados en Cuentas Individuales, destinados a la integración de las bases de datos de los trabajadores beneficiarios de dichos fondos de previsión social y cualquier otro servicio necesario para que la administración de las Cuentas Individuales se lleve conforme a lo dispuesto en los artículos [74 quáter](../../lsar/markdown/articulo-74-quáter.md) y [74 quinquies](../../lsar/markdown/articulo-74-quinquies.md) de la Ley;
 
 XIX. Someter la previsión de ingresos y egresos a la consideración de la Comisión en forma previa a la aprobación de su plan de trabajo anual y quinquenal;
 

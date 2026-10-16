@@ -17,7 +17,7 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 120
 
-Se considerará que el supuesto previsto en el artículo 119, fracción I, de la Ley se actualiza cuando los actos de las autoridades competentes tienen lugar con posterioridad:
+Se considerará que el supuesto previsto en el artículo [119](../../lapp/markdown/articulo-119.md), fracción I, de la Ley se actualiza cuando los actos de las autoridades competentes tienen lugar con posterioridad:
 
 I. A la presentación de las ofertas económicas, en el caso de proyectos adjudicados mediante concurso, o mediante invitación a cuando menos tres personas, y
 

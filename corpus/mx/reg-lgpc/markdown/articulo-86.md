@@ -19,7 +19,7 @@ source_sha256: 5018478a6ca9ea39f9ca88ffcb68dde9a33bd4adec59dc75d2431f894b621fc2
 
 El sistema electrónico a que se refiere el artículo [80](articulo-80.md) del presente Reglamento, contará con un apartado de inscripción del registro, la cual se dividirá en una sección de acceso para particulares y otra para enlaces y suplentes de las dependencias públicas. En dicho apartado se deberá solicitar la inscripción de los datos, conforme al siguiente procedimiento:
 
-I. Se deberá ingresar al sistema electrónico de conformidad con la categoría que le corresponda y cubrir los requisitos técnicos que le sean señalados para cada actividad a la que pretende registrarse, en términos del artículo 11 de la [Ley](articulo-2.md).
+I. Se deberá ingresar al sistema electrónico de conformidad con la categoría que le corresponda y cubrir los requisitos técnicos que le sean señalados para cada actividad a la que pretende registrarse, en términos del artículo [11](../../lgpc/markdown/articulo-11.md) de la [Ley](articulo-2.md).
 
 Será responsabilidad del sujeto obligado proporcionar correctamente la información solicitada;
 

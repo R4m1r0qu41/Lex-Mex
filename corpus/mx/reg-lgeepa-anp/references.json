@@ -1,6 +1,21 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10:reference:29-35:56-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:10",
+    "source_span": "56 bis",
+    "start_char": 29,
+    "end_char": 35,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:56-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:100:reference:73-75:88:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:100",
     "source_span": "88",
@@ -36,6 +51,28 @@
         "text": "fracción XI",
         "start_char": 39,
         "end_char": 50
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:116:reference:49-51:59:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:116",
+    "source_span": "59",
+    "start_char": 49,
+    "end_char": 51,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:59",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 21,
+        "end_char": 35
       }
     ],
     "basis": "express_cross_reference",
@@ -119,6 +156,36 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:126:reference:101-107:55-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:126",
+    "source_span": "55 BIS",
+    "start_char": 101,
+    "end_char": 107,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:55-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:126:reference:290-296:77-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:126",
+    "source_span": "77 BIS",
+    "start_char": 290,
+    "end_char": 296,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:77-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:127:reference:30-47:126:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:127",
     "source_span": "artículo anterior",
@@ -131,6 +198,21 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:127:reference:1770-1776:47-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:127",
+    "source_span": "47 BIS",
+    "start_char": 1770,
+    "end_char": 1776,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:47-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -183,6 +265,34 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:130:reference:2048-2054:77-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:130",
+    "source_span": "77 BIS",
+    "start_char": 2048,
+    "end_char": 2054,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:77-bis",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 2056,
+        "end_char": 2066
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso h",
+        "start_char": 2068,
+        "end_char": 2076
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -243,6 +353,28 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:131:reference:911-917:77-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:131",
+    "source_span": "77 BIS",
+    "start_char": 911,
+    "end_char": 917,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:77-bis",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 919,
+        "end_char": 930
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -410,6 +542,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135-bis:reference:459-465:77-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135-bis",
+    "source_span": "77 BIS",
+    "start_char": 459,
+    "end_char": 465,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:77-bis",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 467,
+        "end_char": 477
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135-bis:reference:1279-1282:128:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:135-bis",
     "source_span": "128",
@@ -418,6 +572,73 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:141:reference:368-371:170:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:141",
+    "source_span": "170",
+    "start_char": 368,
+    "end_char": 371,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:170",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:141:reference:843-850:170-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:141",
+    "source_span": "170 BIS",
+    "start_char": 843,
+    "end_char": 850,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:170-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:142:reference:268-271:171:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:142",
+    "source_span": "171",
+    "start_char": 268,
+    "end_char": 271,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:171",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:142:reference:945-948:171:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:142",
+    "source_span": "171",
+    "start_char": 945,
+    "end_char": 948,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:171",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 917,
+        "end_char": 931
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -467,6 +688,36 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:37:reference:128-130:76:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:37",
+    "source_span": "76",
+    "start_char": 128,
+    "end_char": 130,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:76",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:39:reference:496-502:77-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:39",
+    "source_span": "77 BIS",
+    "start_char": 496,
+    "end_char": 502,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:77-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -530,6 +781,133 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:47:reference:647-649:58:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:47",
+    "source_span": "58",
+    "start_char": 647,
+    "end_char": 649,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:58",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:48:reference:121-123:60:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:48",
+    "source_span": "60",
+    "start_char": 121,
+    "end_char": 123,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:60",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:66:reference:46-48:78:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:66",
+    "source_span": "78",
+    "start_char": 46,
+    "end_char": 48,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:78",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:68:reference:42-48:78-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:68",
+    "source_span": "78 bis",
+    "start_char": 42,
+    "end_char": 48,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:78-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:68:reference:2026-2032:78-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:68",
+    "source_span": "78 Bis",
+    "start_char": 2026,
+    "end_char": 2032,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:78-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:72:reference:138-140:65:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:72",
+    "source_span": "65",
+    "start_char": 138,
+    "end_char": 140,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:65",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:74:reference:98-100:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:74",
+    "source_span": "66",
+    "start_char": 98,
+    "end_char": 100,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:66",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:75:reference:73-75:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:75",
+    "source_span": "66",
+    "start_char": 73,
+    "end_char": 75,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:66",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 47,
+        "end_char": 59
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:81:reference:2536-2538:94:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:81",
     "source_span": "94",
@@ -537,6 +915,21 @@
     "end_char": 2538,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:94",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:88:reference:861-863:28:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:88",
+    "source_span": "28",
+    "start_char": 861,
+    "end_char": 863,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:28",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

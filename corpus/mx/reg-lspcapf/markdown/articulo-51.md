@@ -15,7 +15,7 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 # Artículo 51
 
-Para efectos de los convenios de intercambio previstos en el artículo 43 de la Ley, se debe atender a lo siguiente: Párrafo reformado DOF 04-01-2024
+Para efectos de los convenios de intercambio previstos en el artículo [43](../../lspcapf/markdown/articulo-43.md) de la Ley, se debe atender a lo siguiente: Párrafo reformado DOF 04-01-2024
 
 I. Que el servidor público de carrera titular lo solicite y manifieste por escrito su conformidad con los términos y condiciones del intercambio;
 

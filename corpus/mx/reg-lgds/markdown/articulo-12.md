@@ -45,7 +45,7 @@ k) Infraestructura social básica;
 
 l) Fomento del sector social de la economía, y
 
-m) Los demás aspectos a que se refiere el artículo 19 de la Ley.
+m) Los demás aspectos a que se refiere el artículo [19](../../lgds/markdown/articulo-19.md) de la Ley.
 
 La aplicación de este precepto será sin perjuicio de las atribuciones que competan a otras dependencias y entidades de la Administración Pública Federal.
 

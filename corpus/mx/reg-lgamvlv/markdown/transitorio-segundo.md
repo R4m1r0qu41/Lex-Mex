@@ -15,4 +15,4 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # SEGUNDO
 
-Los programas y la implementación de las acciones que se deriven del presente Reglamento, podrán contar con una previa suficiencia presupuestaria autorizada por la Secretaría de Hacienda y Crédito Público, en los términos que señalan los artículos 39 y sexto transitorio de la Ley.
+Los programas y la implementación de las acciones que se deriven del presente Reglamento, podrán contar con una previa suficiencia presupuestaria autorizada por la Secretaría de Hacienda y Crédito Público, en los términos que señalan los artículos [39](../../lgamvlv/markdown/articulo-39.md) y sexto transitorio de la Ley.

@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 71
 
-Para efectos del artículo 173, fracción III, de la [Ley](articulo-2o.md), no son objeto de reserva las características físicas y psicológicas reales de una persona determinada.
+Para efectos del artículo [173](../../lfda/markdown/articulo-173.md), fracción III, de la [Ley](articulo-2o.md), no son objeto de reserva las características físicas y psicológicas reales de una persona determinada.

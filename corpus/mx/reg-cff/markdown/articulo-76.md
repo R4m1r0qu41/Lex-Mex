@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 76
 
-Para los efectos de lo dispuesto en el artículo 84, fracciones IV, incisos a) y b), y VI del [Código](articulo-1.md), para computar el plazo de la clausura preventiva de establecimientos, será desde el día en que se coloquen los sellos, independientemente de que se trate de un día incompleto.
+Para los efectos de lo dispuesto en el artículo [84](../../cff/markdown/articulo-84.md), fracciones IV, incisos a) y b), y VI del [Código](articulo-1.md), para computar el plazo de la clausura preventiva de establecimientos, será desde el día en que se coloquen los sellos, independientemente de que se trate de un día incompleto.

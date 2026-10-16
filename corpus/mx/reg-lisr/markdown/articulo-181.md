@@ -17,6 +17,6 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 181
 
-El escrito a que se refiere el artículo 97, párrafo último, inciso c) de la [Ley](articulo-1.md), deberá presentarse a más tardar el 31 de diciembre del ejercicio por el que se va a presentar la declaración.
+El escrito a que se refiere el artículo [97](../../lisr/markdown/articulo-97.md), párrafo último, inciso c) de la [Ley](articulo-1.md), deberá presentarse a más tardar el 31 de diciembre del ejercicio por el que se va a presentar la declaración.
 
-Los retenedores no harán el cálculo del [Impuesto](articulo-1.md) anual respecto de aquellos trabajadores obligados a presentar declaración anual, en términos del artículo 98, fracción III, incisos a) y c) de la Ley, siempre que éstos les presenten el escrito respectivo en el plazo mencionado en el párrafo anterior.
+Los retenedores no harán el cálculo del [Impuesto](articulo-1.md) anual respecto de aquellos trabajadores obligados a presentar declaración anual, en términos del artículo [98](../../lisr/markdown/articulo-98.md), fracción III, incisos a) y c) de la Ley, siempre que éstos les presenten el escrito respectivo en el plazo mencionado en el párrafo anterior.

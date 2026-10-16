@@ -17,7 +17,7 @@ source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 
 # Artículo 14
 
-La [Secretaría Ejecutiva](articulo-2.md) debe emitir la convocatoria pública a que se refiere el artículo 127, segundo párrafo de la [Ley](articulo-2.md), la cual se publicará en el Diario Oficial de la Federación y en los medios físicos y electrónicos que determine dicha Secretaría Ejecutiva para su mayor difusión.
+La [Secretaría Ejecutiva](articulo-2.md) debe emitir la convocatoria pública a que se refiere el artículo [127](../../lgdnna/markdown/articulo-127.md), segundo párrafo de la [Ley](articulo-2.md), la cual se publicará en el Diario Oficial de la Federación y en los medios físicos y electrónicos que determine dicha Secretaría Ejecutiva para su mayor difusión.
 
 La Secretaría Ejecutiva emitirá la convocatoria con al menos sesenta días naturales previos a la fecha en que concluya la designación del representante de la sociedad civil que se pretende elegir.
 

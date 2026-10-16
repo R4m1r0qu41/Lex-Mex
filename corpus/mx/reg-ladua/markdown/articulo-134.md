@@ -19,7 +19,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 Quienes ejerzan la opción establecida en el artículo 86 de la [Ley](articulo-1.md) deberán cumplir con lo siguiente:
 
-l. Acreditar el impuesto al valor agregado, cuando haya transcurrido el plazo a que se refiere el artículo 86 de la Ley, incluida la prórroga del mismo;
+l. Acreditar el impuesto al valor agregado, cuando haya transcurrido el plazo a que se refiere el artículo [86](../../ladua/markdown/articulo-86.md) de la Ley, incluida la prórroga del mismo;
 
 II. Pagar las contribuciones al presentar el Pedimento de importación, excepto el derecho de trámite aduanero y, en su caso, las cuotas compensatorias correspondientes con la constancia de depósito expedida por la institución de crédito o casa de bolsa autorizada. Si la cantidad consignada en la constancia es inferior al monto de las contribuciones causadas y, en su caso, de las cuotas compensatorias, deberán cubrir la diferencia conforme a los medios de pago autorizados por el [SAT](articulo-1.md), y
 

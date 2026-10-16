@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 95
 
-Se podrán incorporar al Seguro de Salud para la Familia, todas aquellas personas que no sean sujetas a un régimen obligatorio en algún sistema de seguridad social. Para efectos de este seguro, además del sujeto de aseguramiento, deberá asegurarse cuando menos una de las personas a que se refieren las fracciones III a IX del artículo 84 de la Ley, sin considerar los requisitos de convivencia, dependencia económica y comprobación de estudios, o un familiar adicional.
+Se podrán incorporar al Seguro de Salud para la Familia, todas aquellas personas que no sean sujetas a un régimen obligatorio en algún sistema de seguridad social. Para efectos de este seguro, además del sujeto de aseguramiento, deberá asegurarse cuando menos una de las personas a que se refieren las fracciones III a IX del artículo [84](../../lss/markdown/articulo-84.md) de la Ley, sin considerar los requisitos de convivencia, dependencia económica y comprobación de estudios, o un familiar adicional.

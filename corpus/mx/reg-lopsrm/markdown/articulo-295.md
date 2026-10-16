@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 295
 
-El servidor público facultado para determinar la conveniencia de incluir la cláusula arbitral o firmar el convenio correspondiente, en los términos del artículo 99 de la [Ley](articulo-2.md), deberá tener nivel jerárquico de director general en las dependencias o equivalente en las entidades.
+El servidor público facultado para determinar la conveniencia de incluir la cláusula arbitral o firmar el convenio correspondiente, en los términos del artículo [99](../../lopsrm/markdown/articulo-99.md) de la [Ley](articulo-2.md), deberá tener nivel jerárquico de director general en las dependencias o equivalente en las entidades.

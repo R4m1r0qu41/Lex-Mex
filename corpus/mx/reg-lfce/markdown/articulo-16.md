@@ -17,7 +17,7 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 16
 
-Para efectos de la fracción V del artículo 18 de la Ley, se considerará que una concentración logrará una mayor eficiencia del mercado e incidirá favorablemente en el proceso de competencia y libre concurrencia, cuando los agentes económicos demuestren que las aportaciones al bienestar del consumidor que se derivarán de dicha concentración superarán de forma permanente sus efectos anticompetitivos.
+Para efectos de la fracción V del artículo [18](../../lfce/markdown/articulo-18.md) de la Ley, se considerará que una concentración logrará una mayor eficiencia del mercado e incidirá favorablemente en el proceso de competencia y libre concurrencia, cuando los agentes económicos demuestren que las aportaciones al bienestar del consumidor que se derivarán de dicha concentración superarán de forma permanente sus efectos anticompetitivos.
 
 Para demostrar lo anterior, los agentes económicos pueden acreditar, entre otras, las siguientes ganancias en eficiencia:
 

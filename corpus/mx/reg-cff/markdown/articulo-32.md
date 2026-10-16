@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 32
 
-Para los efectos del artículo 27, décimo tercer párrafo del [Código](articulo-1.md), se considerará como establecimiento de las personas físicas que realicen actividades agrícolas, ganaderas, silvícolas o de pesca, los lugares que a continuación se especifican:
+Para los efectos del artículo [27](../../cff/markdown/articulo-27.md), décimo tercer párrafo del [Código](articulo-1.md), se considerará como establecimiento de las personas físicas que realicen actividades agrícolas, ganaderas, silvícolas o de pesca, los lugares que a continuación se especifican:
 
 I. Tratándose de actividades agrícolas o silvícolas, el predio donde realice la actividad, identificándolo por su ubicación y, en su caso, su nombre; II. Tratándose de actividades ganaderas, el rancho, establo o granja, identificándolo por su ubicación y, en su caso, su nombre, y en el supuesto de apicultura, el lugar en donde se almacene el producto extraído de las colmenas, y
 

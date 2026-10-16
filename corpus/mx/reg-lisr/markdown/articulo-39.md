@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 39
 
-Para efectos del artículo 27, fracción I de la [Ley](articulo-1.md), no se consideran estrictamente indispensables para los fines de la actividad empresarial de las casas de bolsa, los pagos que éstas hagan para cubrir quebrantos que deriven de operaciones con títulos de crédito emitidos por otra sociedad.
+Para efectos del artículo [27](../../lisr/markdown/articulo-27.md), fracción I de la [Ley](articulo-1.md), no se consideran estrictamente indispensables para los fines de la actividad empresarial de las casas de bolsa, los pagos que éstas hagan para cubrir quebrantos que deriven de operaciones con títulos de crédito emitidos por otra sociedad.

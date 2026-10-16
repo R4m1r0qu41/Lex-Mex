@@ -17,7 +17,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 11-D
 
-En términos del artículo 17 de la [Ley](articulo-2.md), se podrá rebasar el límite máximo del gasto corriente estructural cuando:
+En términos del artículo [17](../../lfprh/markdown/articulo-17.md) de la [Ley](articulo-2.md), se podrá rebasar el límite máximo del gasto corriente estructural cuando:
 
 I. Derogado. Fracción derogada DOF 27-09-2024
 

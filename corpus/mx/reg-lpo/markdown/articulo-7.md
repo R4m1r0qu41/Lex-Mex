@@ -17,7 +17,7 @@ source_sha256: 931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557
 
 # Artículo 7
 
-La designación de representantes ante el Consejo, a los que se refiere el artículo 13 de la [Ley](articulo-2.md), se hará de conformidad con lo siguiente:
+La designación de representantes ante el Consejo, a los que se refiere el artículo [13](../../lpo/markdown/articulo-13.md) de la [Ley](articulo-2.md), se hará de conformidad con lo siguiente:
 
 I. La representación de las organizaciones de procesadores orgánicos, de comercializadores y de los organismos de certificación orgánica recaerá en las personas que resulten elegidas de entre sus propios integrantes; II. La representación de los consumidores recaerá en la persona que designe la Procuraduría Federal del Consumidor, y
 

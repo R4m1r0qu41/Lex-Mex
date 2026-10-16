@@ -17,7 +17,7 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 61
 
-El interesado en la importación de mercancías señaladas en el artículo 24 de la [Ley](articulo-2.md), deberá de solicitar a la Secretaría, el certificado zoosanitario para importación, el cual contendrá la siguiente información:
+El interesado en la importación de mercancías señaladas en el artículo [24](../../lfsa/markdown/articulo-24.md) de la [Ley](articulo-2.md), deberá de solicitar a la Secretaría, el certificado zoosanitario para importación, el cual contendrá la siguiente información:
 
 I. Nombre del proveedor, éste debe ser el que esté indicado en las certificaciones zoosanitarias internacionales;
 

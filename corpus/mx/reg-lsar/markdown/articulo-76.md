@@ -17,7 +17,7 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 76
 
-Las [Administradoras](articulo-2o.md) de acuerdo al artículo 74 quáter de la [Ley](articulo-2o.md), podrán prestar a las empresas privadas o a las dependencias y entidades públicas, los siguientes servicios:
+Las [Administradoras](articulo-2o.md) de acuerdo al artículo [74 quáter](../../lsar/markdown/articulo-74-quáter.md) de la [Ley](articulo-2o.md), podrán prestar a las empresas privadas o a las dependencias y entidades públicas, los siguientes servicios:
 
 I. Realizar el registro individualizado de los recursos del Fondo de Previsión Social;
 

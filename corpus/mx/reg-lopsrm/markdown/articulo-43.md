@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 43
 
-El registro único de contratistas señalado en el artículo 74 Bis de la [Ley](articulo-2.md), que forma parte de CompraNet, se integrará con la información que proporcionen los contratistas, así como con aquélla que incorporen los sujetos a que se refieren las fracciones I a VI del artículo 1 de la Ley, derivada de los procedimientos de contratación que lleven a cabo conforme a la Ley.
+El registro único de contratistas señalado en el artículo [74 Bis](../../lopsrm/markdown/articulo-74-Bis.md) de la [Ley](articulo-2.md), que forma parte de CompraNet, se integrará con la información que proporcionen los contratistas, así como con aquélla que incorporen los sujetos a que se refieren las fracciones I a VI del artículo [1](../../lopsrm/markdown/articulo-1.md) de la Ley, derivada de los procedimientos de contratación que lleven a cabo conforme a la Ley.
 
 Los contratistas solicitarán su inscripción en el registro único de contratistas a las dependencias y entidades, las cuales, previa validación de la información presentada por el contratista a través de la documentación respectiva que proporcione, llevarán a cabo la inscripción correspondiente. Las dependencias y entidades podrán inscribir en dicho registro a los contratistas cuando adviertan que éstos no se encuentran inscritos; asimismo, la Secretaría de la Función Pública podrá incluir en el citado registro la información con la que cuente y que sea materia del mismo.
 
@@ -29,7 +29,7 @@ I. Nombre o razón social, nacionalidad y domicilio del contratista;
 
 II. Información relativa al número de escritura constitutiva, sus reformas y datos de su inscripción en el Registro Público correspondiente;
 
-III. Relación de socios, conforme a lo dispuesto en el segundo párrafo de la fracción VI del artículo 51 de la Ley y el artículo [73](../../lgsm/markdown/articulo-73.md) de la Ley General de Sociedades Mercantiles;
+III. Relación de socios, conforme a lo dispuesto en el segundo párrafo de la fracción VI del artículo [51](../../lopsrm/markdown/articulo-51.md) de la Ley y el artículo [73](../../lgsm/markdown/articulo-73.md) de la Ley General de Sociedades Mercantiles;
 
 IV. Nombre de los representantes legales del contratista, así como la información relativa a los documentos públicos que los acrediten como tales y sus datos de inscripción en el Registro Público de Comercio;
 
@@ -51,4 +51,4 @@ c) Atender las solicitudes y consultas relacionadas con el registro, y
 
 d) Definir estándares y procedimientos de calidad y seguridad de la información contenida en el registro, que garanticen su inalterabilidad y conservación.
 
-Los antecedentes que obren en el registro único de contratistas serán los que las dependencias y entidades deben considerar para determinar la reducción de montos de la garantía de cumplimiento a que hace referencia el segundo párrafo del artículo 48 de la Ley, atendiendo a los lineamientos que al efecto emita la Secretaría de la Función Pública.
+Los antecedentes que obren en el registro único de contratistas serán los que las dependencias y entidades deben considerar para determinar la reducción de montos de la garantía de cumplimiento a que hace referencia el segundo párrafo del artículo [48](../../lopsrm/markdown/articulo-48.md) de la Ley, atendiendo a los lineamientos que al efecto emita la Secretaría de la Función Pública.

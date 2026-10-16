@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 156
 
-El procedimiento para sancionar administrativamente las infracciones en materia de derechos de autor podrá iniciarse de oficio o a petición de parte en los casos señalados en el artículo 229 de la [Ley](articulo-2o.md).
+El procedimiento para sancionar administrativamente las infracciones en materia de derechos de autor podrá iniciarse de oficio o a petición de parte en los casos señalados en el artículo [229](../../lfda/markdown/articulo-229.md) de la [Ley](articulo-2o.md).

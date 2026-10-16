@@ -17,4 +17,4 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 217
 
-Las personas extranjeras que se ubiquen en los supuestos del artículo 134 de la Ley y no acrediten satisfacer los requisitos establecidos en el artículo 135 de la Ley, recibirán una orden de salida definitiva del territorio nacional.
+Las personas extranjeras que se ubiquen en los supuestos del artículo [134](../../lmigra/markdown/articulo-134.md) de la Ley y no acrediten satisfacer los requisitos establecidos en el artículo [135](../../lmigra/markdown/articulo-135.md) de la Ley, recibirán una orden de salida definitiva del territorio nacional.

@@ -17,6 +17,6 @@ source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 
 # Artículo 95 Bis 4
 
-Únicamente podrán realizar procedimientos de cirugía estética o cosmética, los médicos con título profesional y cédula de especialidad, otorgada por una autoridad competente, en una rama quirúrgica de la medicina, en términos de los artículos 78 y 81 de la Ley. Los médicos en formación podrán realizar dichos procedimientos, acompañados y supervisados por un especialista en la materia.
+Únicamente podrán realizar procedimientos de cirugía estética o cosmética, los médicos con título profesional y cédula de especialidad, otorgada por una autoridad competente, en una rama quirúrgica de la medicina, en términos de los artículos [78](../../lgs/markdown/articulo-78.md) y [81](../../lgs/markdown/articulo-81.md) de la Ley. Los médicos en formación podrán realizar dichos procedimientos, acompañados y supervisados por un especialista en la materia.
 
 Artículo adicionado DOF 04-12-2009

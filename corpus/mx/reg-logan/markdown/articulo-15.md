@@ -17,6 +17,6 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 15
 
-Para los efectos del artículo 8o. de la Ley, un vientre bovino equivale a: una yegua, tres cerdas, seis cabras, cinco borregas, cien gallinas o cinco colmenas de abejas.
+Para los efectos del artículo [8](../../log/markdown/articulo-8o.md)o. de la Ley, un vientre bovino equivale a: una yegua, tres cerdas, seis cabras, cinco borregas, cien gallinas o cinco colmenas de abejas.
 
 Para las especies no incluidas en el párrafo anterior la equivalencia será determinada por la Secretaría mediante acuerdo de su Titular que se publicará en el Diario Oficial de la Federación.

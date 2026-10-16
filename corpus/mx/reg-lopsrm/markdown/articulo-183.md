@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 183
 
-Tratándose del procedimiento señalado en la fracción III del artículo 57 de la [Ley](articulo-2.md), el ajuste por los incrementos o decrementos de los insumos correspondientes a los materiales, mano de obra, maquinaria y equipo de construcción que integran los costos directos de los precios unitarios se determinará de conformidad con lo siguiente:
+Tratándose del procedimiento señalado en la fracción III del artículo [57](../../lopsrm/markdown/articulo-57.md) de la [Ley](articulo-2.md), el ajuste por los incrementos o decrementos de los insumos correspondientes a los materiales, mano de obra, maquinaria y equipo de construcción que integran los costos directos de los precios unitarios se determinará de conformidad con lo siguiente:
 
 I. Se establecerá el porcentaje de participación de los materiales, la mano de obra y la maquinaria y equipo de construcción de todos los precios unitarios que intervienen en cada tipo de trabajos;
 

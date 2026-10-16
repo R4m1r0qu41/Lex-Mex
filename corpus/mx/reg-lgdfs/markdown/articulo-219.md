@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 219
 
-La [Procuraduría](articulo-2.md), cuando así lo determine, podrá realizar la investigación técnica a que se refiere el artículo 154 de la [Ley](articulo-2.md), antes de iniciar las acciones de inspección y vigilancia en materia forestal.
+La [Procuraduría](articulo-2.md), cuando así lo determine, podrá realizar la investigación técnica a que se refiere el artículo [154](../../lgdfs/markdown/articulo-154.md) de la [Ley](articulo-2.md), antes de iniciar las acciones de inspección y vigilancia en materia forestal.
 
 Para la investigación técnica a que se refiere el párrafo anterior, la Procuraduría podrá llevar a cabo verificaciones documentales para confrontar la información contenida en los Programas de manejo forestal, estudios técnicos justificativos, manifestaciones de impacto ambiental, las autorizaciones expedidas por la Secretaría o la Comisión o los informes que se rindan conforme a la Ley, el presente Reglamento y las disposiciones jurídicas que de ellos emanen.
 

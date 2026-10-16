@@ -39,4 +39,4 @@ b) El importe del convenio con número y letra, así como el resultado de la sum
 
 c) La obligación, por parte del contratista, de ampliar la garantía en los mismos términos a los establecidos para el contrato original, y
 
-d) Un catálogo de conceptos valorizado, indicando las cantidades y los precios unitarios que lo conforman, determinando cuál es su origen en los términos del artículo 59 de la [Ley](articulo-2.md).
+d) Un catálogo de conceptos valorizado, indicando las cantidades y los precios unitarios que lo conforman, determinando cuál es su origen en los términos del artículo [59](../../lopsrm/markdown/articulo-59.md) de la [Ley](articulo-2.md).

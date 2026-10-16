@@ -17,4 +17,4 @@ source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 
 # Artículo 57
 
-Para el establecimiento de los beneficios e incentivos a que se refiere el artículo 13 de la [Ley](articulo-4.md), la [Secretaría](articulo-4.md) considerará, entre otros elementos, la valoración, en términos monetarios, de los costos y beneficios asociados directa e indirectamente a la ejecución y operación de la [Zona](articulo-4.md), y la conveniencia de los beneficios e incentivos respecto a su temporalidad y modalidades.
+Para el establecimiento de los beneficios e incentivos a que se refiere el artículo [13](../../lfzee/markdown/articulo-13.md) de la [Ley](articulo-4.md), la [Secretaría](articulo-4.md) considerará, entre otros elementos, la valoración, en términos monetarios, de los costos y beneficios asociados directa e indirectamente a la ejecución y operación de la [Zona](articulo-4.md), y la conveniencia de los beneficios e incentivos respecto a su temporalidad y modalidades.

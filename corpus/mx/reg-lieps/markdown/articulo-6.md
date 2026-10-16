@@ -17,4 +17,4 @@ source_sha256: cb15a70b51a87cff0f6d329d5e8a97617d71c955e46da65921037a77a83ca5f4
 
 # Artículo 6
 
-Para los efectos del artículo 7o., penúltimo párrafo de la Ley, se consideran transmisiones de propiedad realizadas por las empresas por las que no se está obligado al pago del impuesto, los obsequios que efectúen, siempre que sean deducibles en los términos de la Ley del Impuesto sobre la Renta.
+Para los efectos del artículo [7](../../lieps/markdown/articulo-7o.md)o., penúltimo párrafo de la Ley, se consideran transmisiones de propiedad realizadas por las empresas por las que no se está obligado al pago del impuesto, los obsequios que efectúen, siempre que sean deducibles en los términos de la Ley del Impuesto sobre la Renta.

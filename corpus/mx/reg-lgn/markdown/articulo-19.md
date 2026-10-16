@@ -19,7 +19,7 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 La representación, trámite y resolución de los asuntos que competen a la [Institución](articulo-2.md) corresponde originalmente al [Comandante](articulo-2.md), quien sin perjuicio de su ejercicio directo podrá delegar, mediante acuerdos que deberán ser publicados en el Diario Oficial de la Federación, sus facultades en servidores públicos subalternos, salvo aquéllas que las disposiciones aplicables señalen como indelegables.
 
-El Comandante tendrá, además de las atribuciones previstas en el artículo 15 de la [Ley](articulo-2.md), las siguientes:
+El Comandante tendrá, además de las atribuciones previstas en el artículo [15](../../lgn/markdown/articulo-15.md) de la [Ley](articulo-2.md), las siguientes:
 
 I. Dictar y supervisar las medidas tendientes a salvaguardar la vida, integridad, seguridad, bienes y derechos de las personas, así como preservar las libertades; contribuir a la generación y preservación del orden público y la paz social; salvaguardar los bienes y recursos de la Nación;
 
@@ -27,11 +27,11 @@ II. Ordenar y supervisar las líneas de investigación para obtener, analizar, e
 
 III. Ordenar y supervisar las acciones y operaciones para la prevención de los delitos en términos de las disposiciones jurídicas aplicables;
 
-IV. Establecer acciones y esquemas de coordinación y colaboración con las entidades federativas y municipios, que permitan llevar a cabo los despliegues operativos que contribuyan a los fines de la Institución conforme a lo establecido en el artículo 6, fracción IV de la Ley;
+IV. Establecer acciones y esquemas de coordinación y colaboración con las entidades federativas y municipios, que permitan llevar a cabo los despliegues operativos que contribuyan a los fines de la Institución conforme a lo establecido en el artículo [6](../../lgn/markdown/articulo-6.md), fracción IV de la Ley;
 
 V. Proponer, a solicitud de las entidades federativas y municipios, la celebración de convenios de colaboración con la Institución, para la atención de las tareas de seguridad pública de competencia local. Dichos convenios podrán ser suscritos por el Comandante previa delegación de facultades; Fracción reformada DOF 11-12-2020
 
-VI. Implementar las acciones para la efectiva coordinación y cumplimiento de las responsabilidades de la Institución, cuando así proceda conforme a lo establecido en el artículo 90 de la Ley; VII. Requerir a las unidades administrativas de la Institución informes que contribuyan a la elaboración del informe anual de la Institución, para efectos del artículo 15, fracción XV de la Ley;
+VI. Implementar las acciones para la efectiva coordinación y cumplimiento de las responsabilidades de la Institución, cuando así proceda conforme a lo establecido en el artículo [90](../../lgn/markdown/articulo-90.md) de la Ley; VII. Requerir a las unidades administrativas de la Institución informes que contribuyan a la elaboración del informe anual de la Institución, para efectos del artículo [15](../../lgn/markdown/articulo-15.md), fracción XV de la Ley;
 
 VIII. Determinar los mecanismos de cooperación con las Instituciones de Seguridad Pública o personas que presten servicios de seguridad privada en términos de la Ley, a fin de proporcionar auxilio a la Institución;
 
@@ -65,7 +65,7 @@ XXIII. Aprobar las políticas de control y los dispositivos de vigilancia en la 
 
 XXIV. Resolver, previa consulta con el Secretario, las controversias internas que se susciten sobre la competencia de las unidades administrativas de la Institución, con motivo de la interpretación o aplicación del [Reglamento](articulo-2.md) y sobre las situaciones no previstas en el mismo;
 
-XXV. Proponer la ubicación de la sede oficial de la Institución, de las coordinaciones, de las instalaciones en los lugares establecidos en la fracción II del artículo 9 de la Ley, incluidos puertos, fronteras y aeropuertos, y la de los puntos fijos de verificación e inspección, así como la circunscripción territorial respectiva, de conformidad con las disposiciones jurídicas aplicables; Fracción reformada DOF 11-12-2020
+XXV. Proponer la ubicación de la sede oficial de la Institución, de las coordinaciones, de las instalaciones en los lugares establecidos en la fracción II del artículo [9](../../lgn/markdown/articulo-9.md) de la Ley, incluidos puertos, fronteras y aeropuertos, y la de los puntos fijos de verificación e inspección, así como la circunscripción territorial respectiva, de conformidad con las disposiciones jurídicas aplicables; Fracción reformada DOF 11-12-2020
 
 XXVI. Autorizar los sistemas y procedimientos de control y evaluación de las unidades que conforman la Institución; Fracción reformada DOF 11-12-2020
 
@@ -101,12 +101,12 @@ XLII. Las demás que le confieran el Reglamento y otras disposiciones jurídicas
 
 Son indelegables las atribuciones señaladas en las fracciones V, VIII, X, XI, XII, XIII, XV, XVI, XXIII, XXV, XXVI, XXVII, XXVIII, XXX, XXXI, XXXII, XXXIV, XXXVII, XXXIX y XL del presente artículo. Párrafo reformado DOF 11-12-2020
 
-Para efectos del ejercicio de las atribuciones conferidas en la fracción XXVI del artículo 9 y 100 de la Ley, el Comandante integrará un cuaderno de investigación, del cual se derivará la solicitud que formulará a la autoridad judicial correspondiente, y para el cumplimiento de la orden respectiva, podrá apoyarse en las unidades administrativas de la Institución de conformidad con las disposiciones establecidas en el Reglamento. La información contenida en el cuaderno de investigación será de carácter reservado.
+Para efectos del ejercicio de las atribuciones conferidas en la fracción XXVI del artículo [9](../../lgn/markdown/articulo-9.md) y 100 de la Ley, el Comandante integrará un cuaderno de investigación, del cual se derivará la solicitud que formulará a la autoridad judicial correspondiente, y para el cumplimiento de la orden respectiva, podrá apoyarse en las unidades administrativas de la Institución de conformidad con las disposiciones establecidas en el Reglamento. La información contenida en el cuaderno de investigación será de carácter reservado.
 
 El Comandante contará con unidades de apoyo necesarias, incluidas una Ayudantía y un Enlace Jurídico, para el desarrollo de sus funciones, mismas que se organizarán y funcionarán de acuerdo con las disposiciones administrativas que emita el propio Comandante.
 
-Cuando el Comandante emita manuales, acuerdos, circulares, memoranda, instructivos, bases y demás normas y disposiciones administrativas para el buen funcionamiento de la Institución, bastará con que lo haya acordado con el Secretario, para dar cumplimiento con lo previsto en la fracción VII del artículo 15 de la Ley. Párrafo adicionado DOF 11-12-2020
+Cuando el Comandante emita manuales, acuerdos, circulares, memoranda, instructivos, bases y demás normas y disposiciones administrativas para el buen funcionamiento de la Institución, bastará con que lo haya acordado con el Secretario, para dar cumplimiento con lo previsto en la fracción VII del artículo [15](../../lgn/markdown/articulo-15.md) de la Ley. Párrafo adicionado DOF 11-12-2020
 
-El Secretario podrá delegar en el Comandante cualquiera de las facultades previstas en el artículo 13 de la Ley, mediante acuerdo que deberá ser publicado en el Diario Oficial de la Federación, salvo aquellas que por disposición expresa de ley sean indelegables. Párrafo adicionado DOF 11-12-2020
+El Secretario podrá delegar en el Comandante cualquiera de las facultades previstas en el artículo [13](../../lgn/markdown/articulo-13.md) de la Ley, mediante acuerdo que deberá ser publicado en el Diario Oficial de la Federación, salvo aquellas que por disposición expresa de ley sean indelegables. Párrafo adicionado DOF 11-12-2020
 
 Capítulo III De la Jefatura General de Coordinación Policial

@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 105
 
-Para efectos del artículo 61, fracción XV de la [Ley](articulo-1.md), las personas con discapacidad que pretendan realizar la importación definitiva de vehículos especiales o adaptados de manera permanente a sus necesidades y las demás Mercancías que les permitan suplir o disminuir su discapacidad, así como las que realicen las personas morales con fines no lucrativos autorizadas para recibir donativos deducibles de conformidad con la Ley del Impuesto sobre la Renta, que tengan como actividad la atención de personas con discapacidad, deberán cumplir con los siguientes requisitos:
+Para efectos del artículo [61](../../ladua/markdown/articulo-61.md), fracción XV de la [Ley](articulo-1.md), las personas con discapacidad que pretendan realizar la importación definitiva de vehículos especiales o adaptados de manera permanente a sus necesidades y las demás Mercancías que les permitan suplir o disminuir su discapacidad, así como las que realicen las personas morales con fines no lucrativos autorizadas para recibir donativos deducibles de conformidad con la Ley del Impuesto sobre la Renta, que tengan como actividad la atención de personas con discapacidad, deberán cumplir con los siguientes requisitos:
 
 I. Título de propiedad que acredite la legal posesión del vehículo;
 
@@ -35,4 +35,4 @@ V. Los demás que establezca el [SAT](articulo-1.md) mediante Reglas.
 
 Para efectos de la Ley y de este Reglamento, se entiende por Mercancías que permiten suplir o disminuir la discapacidad de una persona, las prótesis, órtesis o cualquier otra ayuda técnica que se adapte a su cuerpo.
 
-Para efectos del artículo 63 de la Ley, no se considerará que los vehículos a que se refiere este artículo se destinan a propósitos distintos a los que motivaron el beneficio de la exención, por el hecho de que la persona con discapacidad no se encuentre a bordo del vehículo, siempre que se conserve en el vehículo la copia del Pedimento de importación definitiva y no se hubiera retirado del vehículo el dispositivo que se hubiera instalado de manera permanente para el uso personal o transporte de personas con discapacidad.
+Para efectos del artículo [63](../../ladua/markdown/articulo-63.md) de la Ley, no se considerará que los vehículos a que se refiere este artículo se destinan a propósitos distintos a los que motivaron el beneficio de la exención, por el hecho de que la persona con discapacidad no se encuentre a bordo del vehículo, siempre que se conserve en el vehículo la copia del Pedimento de importación definitiva y no se hubiera retirado del vehículo el dispositivo que se hubiera instalado de manera permanente para el uso personal o transporte de personas con discapacidad.

@@ -17,7 +17,7 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 2o
 
-Para los efectos de este Reglamento, además de las definiciones señaladas por el artículo 3 de la [Ley](articulo-2o.md), se entenderá por:
+Para los efectos de este Reglamento, además de las definiciones señaladas por el artículo [3](../../lsar/markdown/articulo-3o.md) de la [Ley](articulo-2o.md), se entenderá por:
 
 I. Administradora, a las administradoras de fondos para el retiro, así como a las instituciones públicas que realicen funciones similares; a estas últimas les resultarán aplicables las disposiciones de las Administradoras, en lo que no se oponga a su naturaleza;
 
@@ -63,7 +63,7 @@ XXII. Separación de Cuentas, al proceso que lleven a cabo las Administradoras c
 
 XXIII. Solicitud de Traspaso, el documento que el Trabajador o el [Trabajador no Afiliado](articulo-2o.md) presenta ante la [Administradora Receptora](articulo-2o.md), a efecto de que ésta lleve a cabo el proceso de Traspaso de su Cuenta Individual; el formato de dicho documento se elaborará de conformidad con las reglas generales que al efecto emita la Comisión;
 
-XXIV. Subcuenta de Ahorro a Largo Plazo, aquélla donde se depositen los recursos destinados a la pensión de los Trabajadores no Afiliados de conformidad con el artículo 74 ter de la Ley;
+XXIV. Subcuenta de Ahorro a Largo Plazo, aquélla donde se depositen los recursos destinados a la pensión de los Trabajadores no Afiliados de conformidad con el artículo [74 ter](../../lsar/markdown/articulo-74-ter.md) de la Ley;
 
 XXV. Subcuenta del Fondo de la Vivienda, aquélla donde se depositen las Aportaciones al FOVISSSTE y los intereses que éstas generen de conformidad con lo previsto en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
@@ -73,10 +73,10 @@ XXVII. Subcuenta de RCV ISSSTE, a la subcuenta del seguro de retiro, cesantía e
 
 XXVIII. Subcuenta de Vivienda, aquélla donde se depositen las Aportaciones al INFONAVIT y los intereses que éstas generen de conformidad con lo previsto en la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
-XXIX. Trabajadores, los trabajadores titulares de una Cuenta Individual a que se refieren los artículos 74 y 74 bis de la Ley;
+XXIX. Trabajadores, los trabajadores titulares de una Cuenta Individual a que se refieren los artículos [74](../../lsar/markdown/articulo-74.md) y [74 bis](../../lsar/markdown/articulo-74-bis.md) de la Ley;
 
-XXX. Trabajadores Estatales o Municipales, los trabajadores que presten sus servicios a dependencias o entidades públicas estatales o municipales que inviertan recursos de Fondos de Previsión Social basados en Cuentas Individuales en Sociedades de Inversión en términos del artículo 74 quinquies de la Ley;
+XXX. Trabajadores Estatales o Municipales, los trabajadores que presten sus servicios a dependencias o entidades públicas estatales o municipales que inviertan recursos de Fondos de Previsión Social basados en Cuentas Individuales en Sociedades de Inversión en términos del artículo [74 quinquies](../../lsar/markdown/articulo-74-quinquies.md) de la Ley;
 
-XXXI. Trabajadores no Afiliados, los trabajadores titulares de una Cuenta Individual a que se refiere el artículo 74 ter de la Ley;
+XXXI. Trabajadores no Afiliados, los trabajadores titulares de una Cuenta Individual a que se refiere el artículo [74 ter](../../lsar/markdown/articulo-74-ter.md) de la Ley;
 
 XXXII. Traspaso, es el proceso que se lleva a cabo entre la Administradora Receptora y la [Administradora Transferente](articulo-2o.md), mediante el cual el Trabajador o el Trabajador no Afiliado ejerce su derecho de elegir que institución administrará su Cuenta Individual, de conformidad con la Ley, el presente Reglamento y las reglas generales que emita la Comisión, y XXXIII. Traspaso Indebido, al Traspaso de la Cuenta Individual del Trabajador o del Trabajador no Afiliado que se realice sin el consentimiento de éste; o cuando se haya obtenido el consentimiento mediante dolo, mala fe o cualquier otra conducta similar, así como cuando el Traspaso se lleve a cabo mediante la utilización de documentos falsos o alterados o mediante la falsificación de documentos o firmas, o mediante la entrega de alguna contraprestación o beneficio.

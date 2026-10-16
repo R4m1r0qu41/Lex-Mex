@@ -17,6 +17,6 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 25
 
-Los servidores públicos sujetos a promoción, deberán aprobar los programas de formación, capacitación y profesionalización que se determinen, así como contar con la certificación de conformidad con lo establecido en el artículo 23 de la Ley.
+Los servidores públicos sujetos a promoción, deberán aprobar los programas de formación, capacitación y profesionalización que se determinen, así como contar con la certificación de conformidad con lo establecido en el artículo [23](../../lmigra/markdown/articulo-23.md) de la Ley.
 
 Artículo reformado DOF 23-05-2014

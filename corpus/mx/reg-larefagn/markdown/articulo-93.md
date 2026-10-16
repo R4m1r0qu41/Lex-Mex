@@ -97,7 +97,7 @@ Para tal efecto, la Comisión de Evaluación analizará los conceptos y notas em
 
 C. Deficiencias:
 
-La Comisión de Evaluación otorgará 10 puntos negativos por cada ascenso fuera de promoción o sin la antigüedad en el grado, con excepción de los otorgados conforme al artículo 31 de la Ley; por cada renuncia a los cursos designados por la Secretaría; por cada renuncia a la promoción, así como por encontrarse a disposición por más de un mes o fracción, considerando los sucesos ocurridos en toda su carrera militar, asignando como máximo 50 puntos negativos.
+La Comisión de Evaluación otorgará 10 puntos negativos por cada ascenso fuera de promoción o sin la antigüedad en el grado, con excepción de los otorgados conforme al artículo [31](../../larefam/markdown/articulo-31.md) de la Ley; por cada renuncia a los cursos designados por la Secretaría; por cada renuncia a la promoción, así como por encontrarse a disposición por más de un mes o fracción, considerando los sucesos ocurridos en toda su carrera militar, asignando como máximo 50 puntos negativos.
 
 D. Comisiones ajenas y procesos penales:
 

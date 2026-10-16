@@ -17,4 +17,4 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 # Artículo 4
 
-Los locales, abiertos o cerrados, en que se realicen juegos prohibidos por la [Ley](articulo-3.md) y el presente Reglamento, o bien, sorteos o juegos con apuestas que carezcan del permiso correspondiente, serán inmediatamente clausurados por la [Secretaría](articulo-3.md), en términos del artículo 8 de la Ley, sin perjuicio de la imposición de las sanciones previstas en las disposiciones aplicables.
+Los locales, abiertos o cerrados, en que se realicen juegos prohibidos por la [Ley](articulo-3.md) y el presente Reglamento, o bien, sorteos o juegos con apuestas que carezcan del permiso correspondiente, serán inmediatamente clausurados por la [Secretaría](articulo-3.md), en términos del artículo [8](../../lfjs/markdown/articulo-8o.md) de la Ley, sin perjuicio de la imposición de las sanciones previstas en las disposiciones aplicables.

@@ -27,7 +27,7 @@ III. Integrar, en coordinación con la Oficialía Mayor, los listados del person
 
 IV. Auxiliar al Alto Mando y a la Comisión Coordinadora, en la integración de expedientes y elementos de juicio relativos al personal convocado; Fracción reformada DOF 22-09-2010
 
-V. Integrar la información del personal convocado a la promoción para ascenso por facultad del Mando Supremo, en base a los conceptos establecidos en el artículo 18 de la Ley; Fracción reformada DOF 22-09-2010
+V. Integrar la información del personal convocado a la promoción para ascenso por facultad del Mando Supremo, en base a los conceptos establecidos en el artículo [18](../../laam/markdown/articulo-18.md) de la Ley; Fracción reformada DOF 22-09-2010
 
 VI. Consolidar los resultados de la Promoción General;
 

@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 12-E
 
-Adicionalmente a los principios establecidos en el artículo 22 de la Ley, el Servicio Profesional de Carrera Migratoria se regirá por los siguientes principios:
+Adicionalmente a los principios establecidos en el artículo [22](../../lmigra/markdown/articulo-22.md) de la Ley, el Servicio Profesional de Carrera Migratoria se regirá por los siguientes principios:
 
 I. Calidad. Obtención de los resultados y metas programadas, a través de la aplicación de las mejores prácticas y mejora continua en los procesos;
 

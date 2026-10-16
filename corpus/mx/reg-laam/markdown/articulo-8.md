@@ -19,7 +19,7 @@ source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 
 La Promoción General, para su planeación y desarrollo, se realizará por:
 
-I. Los órganos asesores a los que se refiere el segundo párrafo del artículo 14 de la Ley; Fracción reformada DOF 22-09-2010, 11-03-2016
+I. Los órganos asesores a los que se refiere el segundo párrafo del artículo [14](../../laam/markdown/articulo-14.md) de la Ley; Fracción reformada DOF 22-09-2010, 11-03-2016
 
 II. Se deroga. Fracción derogada DOF 22-09-2010
 

@@ -27,6 +27,6 @@ III. Atender, coordinar y dar seguimiento a los programas sectoriales y especial
 
 IV. Elaborar los programas sectoriales y especiales que establece la Ley y demás instrumentos programáticos, con la participación de los sectores representados, así como coordinar las actividades para su difusión y promoción;
 
-V. Determinar los Lineamientos Generales de Operación y los integrantes de los Sistemas y Servicios a los que se refiere el artículo 22 de la Ley, y
+V. Determinar los Lineamientos Generales de Operación y los integrantes de los Sistemas y Servicios a los que se refiere el artículo [22](../../ldrs/markdown/articulo-22.md) de la Ley, y
 
 VI. Las demás que establezca la Ley y otras disposiciones aplicables.

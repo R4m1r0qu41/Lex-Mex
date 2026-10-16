@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 268
 
-Cuando una instancia de inconformidad sea sobreseída o resuelta como infundada y en la misma se determine que se promovió para retrasar o entorpecer la contratación, se sancionará al inconforme con inhabilitación en términos de la fracción IV del artículo 78 de la [Ley](articulo-2.md) y multa de acuerdo con el artículo 77 de la Ley.
+Cuando una instancia de inconformidad sea sobreseída o resuelta como infundada y en la misma se determine que se promovió para retrasar o entorpecer la contratación, se sancionará al inconforme con inhabilitación en términos de la fracción IV del artículo [78](../../lopsrm/markdown/articulo-78.md) de la [Ley](articulo-2.md) y multa de acuerdo con el artículo [77](../../lopsrm/markdown/articulo-77.md) de la Ley.

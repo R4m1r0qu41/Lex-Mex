@@ -17,7 +17,7 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 18
 
-La Tesorería podrá autorizar cuentas bancarias a las Dependencias y Entidades, en términos del artículo 18, cuarto párrafo de la [Ley](articulo-2.md), cuando:
+La Tesorería podrá autorizar cuentas bancarias a las Dependencias y Entidades, en términos del artículo [18](../../ltf/markdown/articulo-18.md), cuarto párrafo de la [Ley](articulo-2.md), cuando:
 
 I. La recaudación no pueda concentrarse o enterarse en la Cuenta Corriente o en una cuenta bancaria a nombre de la Tesorería;
 

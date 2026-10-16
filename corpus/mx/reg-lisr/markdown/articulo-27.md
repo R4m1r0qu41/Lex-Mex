@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 27
 
-Para efectos del artículo 24, párrafo primero de la [Ley](articulo-1.md), la sociedad emisora de las acciones no requiere estar constituida en México, siempre que las sociedades enajenante y adquirente estén constituidas en México, acrediten pertenecer a un mismo grupo y se cumplan los requisitos a que se refieren la Ley y este Reglamento.
+Para efectos del artículo [24](../../lisr/markdown/articulo-24.md), párrafo primero de la [Ley](articulo-1.md), la sociedad emisora de las acciones no requiere estar constituida en México, siempre que las sociedades enajenante y adquirente estén constituidas en México, acrediten pertenecer a un mismo grupo y se cumplan los requisitos a que se refieren la Ley y este Reglamento.

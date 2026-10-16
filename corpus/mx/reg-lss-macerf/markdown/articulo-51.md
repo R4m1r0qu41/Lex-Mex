@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 51
 
-Para efectos de la determinación de las percepciones base de cotización de los socios de las sociedades cooperativas, se aplicarán las reglas previstas en la fracción II del artículo 30 de la Ley.
+Para efectos de la determinación de las percepciones base de cotización de los socios de las sociedades cooperativas, se aplicarán las reglas previstas en la fracción II del artículo [30](../../lss/markdown/articulo-30.md) de la Ley.

@@ -17,4 +17,4 @@ source_sha256: 44746db892329cfe37f9f1642d6e385f18c3ecade102b2742aa5c7bf67168dc7
 
 # Artículo 82
 
-La violación de las disposiciones contenidas en los artículos [21](articulo-21.md), [30](articulo-30.md), [31](articulo-31.md) y [42](articulo-42.md) de este Reglamento se sancionará en los términos del artículo 420 de la Ley.
+La violación de las disposiciones contenidas en los artículos [21](articulo-21.md), [30](articulo-30.md), [31](articulo-31.md) y [42](articulo-42.md) de este Reglamento se sancionará en los términos del artículo [420](../../lgs/markdown/articulo-420.md) de la Ley.

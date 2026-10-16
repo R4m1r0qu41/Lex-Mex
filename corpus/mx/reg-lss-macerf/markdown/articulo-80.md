@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 80
 
-Para los sujetos a que se refieren las fracciones I, II, III y IV del artículo 13 de la Ley, la renovación del aseguramiento se efectuará dentro de los treinta días naturales anteriores a la fecha de vencimiento del mismo.
+Para los sujetos a que se refieren las fracciones I, II, III y IV del artículo [13](../../lss/markdown/articulo-13.md) de la Ley, la renovación del aseguramiento se efectuará dentro de los treinta días naturales anteriores a la fecha de vencimiento del mismo.
 
 El Instituto podrá autorizar extemporáneamente la renovación del aseguramiento, si se solicita dentro de un plazo de treinta días naturales posteriores al vencimiento del mismo, dicha renovación surtirá sus efectos a partir del día siguiente al de la conclusión del convenio anterior. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN De no realizarse la renovación en los plazos a que se refiere este artículo, la siguiente inscripción se considerará como inicial para todos los efectos legales.

@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 218
 
-Para reconocer el ajuste al costo por financiamiento, cuando exista un retraso en la entrega del anticipo en contratos que comprendan dos o más ejercicios, en los términos del segundo párrafo de la fracción V del artículo 50 de la [Ley](articulo-2.md), las dependencias y entidades deberán considerar lo siguiente:
+Para reconocer el ajuste al costo por financiamiento, cuando exista un retraso en la entrega del anticipo en contratos que comprendan dos o más ejercicios, en los términos del segundo párrafo de la fracción V del artículo [50](../../lopsrm/markdown/articulo-50.md) de la [Ley](articulo-2.md), las dependencias y entidades deberán considerar lo siguiente:
 
 I. Para su cálculo, en el análisis de costo por financiamiento presentado por el contratista, se deberá reubicar el importe del anticipo dentro del periodo en que realmente se entregue éste, y
 

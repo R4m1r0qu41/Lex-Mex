@@ -17,4 +17,4 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 8
 
-Los programas de desarrollo social previstos en el Presupuesto de Egresos de la Federación y aquéllos nuevos de la misma naturaleza, contendrán las acciones para hacer efectivos los derechos para el desarrollo social establecidos en el artículo 6 de la Ley.
+Los programas de desarrollo social previstos en el Presupuesto de Egresos de la Federación y aquéllos nuevos de la misma naturaleza, contendrán las acciones para hacer efectivos los derechos para el desarrollo social establecidos en el artículo [6](../../lgds/markdown/articulo-6.md) de la Ley.

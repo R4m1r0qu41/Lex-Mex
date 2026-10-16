@@ -17,7 +17,7 @@ source_sha256: 2e108436f6d845ebce30713fd69eacf1a741bfcea24f4b64837c2e9366e87b4d
 
 # Artículo 13
 
-La participación prevista en el artículo 17 de la [Ley](articulo-2.md), se realizará mediante la celebración de acuerdos de coordinación, en los términos de lo previsto en la Ley y en este Reglamento.
+La participación prevista en el artículo [17](../../lgcdc/markdown/articulo-17.md) de la [Ley](articulo-2.md), se realizará mediante la celebración de acuerdos de coordinación, en los términos de lo previsto en la Ley y en este Reglamento.
 
 Los mecanismos de coordinación se establecerán en los acuerdos mencionados en el párrafo anterior.
 

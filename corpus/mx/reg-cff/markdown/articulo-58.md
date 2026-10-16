@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 58
 
-Para los efectos del artículo 32-A del [Código](articulo-1.md), los contribuyentes que opten por dictaminar sus estados financieros deberán presentar, directamente o por conducto del contador público que haya elaborado el dictamen, a través de medios electrónicos y de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria, la siguiente información y documentación:
+Para los efectos del artículo [32-A](../../cff/markdown/articulo-32-A.md) del [Código](articulo-1.md), los contribuyentes que opten por dictaminar sus estados financieros deberán presentar, directamente o por conducto del contador público que haya elaborado el dictamen, a través de medios electrónicos y de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria, la siguiente información y documentación:
 
 I. Los datos generales e información del contribuyente, de su representante legal y del contador público inscrito que emita el dictamen y, en su caso, los de la oficina central de los residentes en el extranjero con establecimientos permanentes en México;
 

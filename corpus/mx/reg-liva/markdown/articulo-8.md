@@ -17,6 +17,6 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 8
 
-Para los efectos del artículo 2o.-A, fracción I, inciso e) de la Ley, se considera que una embarcación es destinada a la pesca comercial cuando en la matrícula o el registro de la misma, así se determine, salvo prueba en contrario.
+Para los efectos del artículo [2](../../liva/markdown/articulo-2o.md)o.-A, fracción I, inciso e) de la Ley, se considera que una embarcación es destinada a la pesca comercial cuando en la matrícula o el registro de la misma, así se determine, salvo prueba en contrario.
 
-Asimismo, para los efectos del artículo 25, fracción III de la Ley, tratándose de la importación de las citadas embarcaciones, éstas se consideran destinadas a la pesca comercial, cuando para los efectos del pago del impuesto general de importación se les considere como barcos pesqueros, barcos factoría o demás barcos para la preparación o la conservación de los productos de la pesca.
+Asimismo, para los efectos del artículo [25](../../liva/markdown/articulo-25.md), fracción III de la Ley, tratándose de la importación de las citadas embarcaciones, éstas se consideran destinadas a la pesca comercial, cuando para los efectos del pago del impuesto general de importación se les considere como barcos pesqueros, barcos factoría o demás barcos para la preparación o la conservación de los productos de la pesca.

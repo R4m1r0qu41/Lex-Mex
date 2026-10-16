@@ -17,7 +17,7 @@ source_sha256: bd9ba59ab5016fd7d8737d382113a20e450b188e586925c31a1ef7c2af3f0065
 
 # Artículo 18
 
-En el supuesto previsto en la fracción II del artículo 20 de la Ley, el interesado deberá además de cumplir con los requisitos mencionados en el artículo [16](articulo-16.md) del presente Reglamento, con excepción de la residencia de cinco años señalada en la fracción III, los siguientes:
+En el supuesto previsto en la fracción II del artículo [20](../../lnac/markdown/articulo-20.md) de la Ley, el interesado deberá además de cumplir con los requisitos mencionados en el artículo [16](articulo-16.md) del presente Reglamento, con excepción de la residencia de cinco años señalada en la fracción III, los siguientes:
 
 I.- Presentar copia certificada del acta de matrimonio o de la inserción del acta de matrimonio celebrado en el extranjero, expedida por la oficina del registro civil mexicano. En ambos casos, la fecha de celebración del matrimonio debe ser por lo menos de dos años anteriores a la presentación de la solicitud;
 

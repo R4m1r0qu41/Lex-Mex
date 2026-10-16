@@ -17,7 +17,7 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 21
 
-Para efectos de la fracción I del artículo 21 de la Ley, la notificación de concentración debe contener:
+Para efectos de la fracción I del artículo [21](../../lfce/markdown/articulo-21.md) de la Ley, la notificación de concentración debe contener:
 
 I. Nombre, denominación o razón social de los agentes económicos que notifican la concentración y de aquéllos que participan en ella directa e indirectamente;
 

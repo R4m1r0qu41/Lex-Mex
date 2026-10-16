@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 220
 
-Para efectos del artículo 162, fracción VII, tercer párrafo de la [Ley](articulo-1.md), como parte de la manifestación de valor de las Mercancías, el agente aduanal deberá conservar los documentos a que se refiere el artículo [81](articulo-81.md) de este Reglamento.
+Para efectos del artículo [162](../../ladua/markdown/articulo-162.md), fracción VII, tercer párrafo de la [Ley](articulo-1.md), como parte de la manifestación de valor de las Mercancías, el agente aduanal deberá conservar los documentos a que se refiere el artículo [81](articulo-81.md) de este Reglamento.
 
 Artículo reformado DOF 23-02-2026

@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 17
 
-Para los efectos del artículo 22 del [Código](articulo-1.md), tratándose de saldos a favor que el contribuyente otorgue como garantía del interés fiscal, la actualización y los intereses a cargo del fisco federal dejarán de generarse en el momento en que la [Autoridad Fiscal](articulo-1.md) la acepte.
+Para los efectos del artículo [22](../../cff/markdown/articulo-22.md) del [Código](articulo-1.md), tratándose de saldos a favor que el contribuyente otorgue como garantía del interés fiscal, la actualización y los intereses a cargo del fisco federal dejarán de generarse en el momento en que la [Autoridad Fiscal](articulo-1.md) la acepte.

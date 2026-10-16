@@ -17,6 +17,6 @@ source_sha256: 1462bbacad053d49c213e32c1859dd914c1415d2c37c6a22970bd87877a9c9bd
 
 # Artículo 17
 
-Para los efectos del artículo 14 de la Ley, el Titular de la Secretaría del Trabajo y Previsión Social determinará cuáles Confederaciones de patrones y trabajadores más representativas del país integrarán el Consejo Directivo.
+Para los efectos del artículo [14](../../linfonacot/markdown/articulo-14.md) de la Ley, el Titular de la Secretaría del Trabajo y Previsión Social determinará cuáles Confederaciones de patrones y trabajadores más representativas del país integrarán el Consejo Directivo.
 
 Los servidores públicos que participen en el Consejo Directivo y en los comités de apoyo realizarán sus funciones de forma honorífica.

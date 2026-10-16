@@ -25,7 +25,7 @@ Si la solicitud no satisface las condiciones y requisitos que establecen la Ley 
 
 La Secretaría podrá negar la concesión minera cuando ésta determine con base en el estudio técnico que realice en coordinación con la Secretaría de Energía, que no puede coexistir en la misma superficie la actividad minera con las actividades preferentes de exploración y extracción de petróleo y demás hidrocarburos, o con las de servicio público de transmisión y distribución de energía eléctrica u otorgarla excluyendo la superficie que comprendan dichas actividades preferentes, en la medida en que resulten incompatibles con la explotación minera.
 
-Con base en el estudio técnico a que se refiere el artículo 6 de la Ley, la Secretaría y la Secretaría de Energía podrán establecer de manera conjunta las reglas de convivencia entre las actividades mineras y las actividades estratégicas de exploración y extracción del petróleo y de los demás hidrocarburos y del servicio público de transmisión y distribución de energía eléctrica.
+Con base en el estudio técnico a que se refiere el artículo [6](../../lmin/markdown/articulo-6.md) de la Ley, la Secretaría y la Secretaría de Energía podrán establecer de manera conjunta las reglas de convivencia entre las actividades mineras y las actividades estratégicas de exploración y extracción del petróleo y de los demás hidrocarburos y del servicio público de transmisión y distribución de energía eléctrica.
 
 El otorgamiento de las concesiones y de las asignaciones mineras a que se refiere este artículo, no exime a sus titulares de la obligación de cumplir con las disposiciones en materia energética, ambiental, laboral, de asistencia social y de uso y manejo de explosivos, contenidas en las disposiciones jurídicas aplicables.
 

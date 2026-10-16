@@ -17,6 +17,6 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 89
 
-Para efectos del artículo 48 de la [Ley](articulo-2.md), las dependencias y entidades podrán seleccionar el tipo de garantía que más se ajuste a sus necesidades y que les permita tener la mayor certeza de que las obligaciones están debidamente respaldadas, y conforme a los modelos de formatos aprobados por la secretaría, y deben considerar en todos los casos las características, magnitud y complejidad de los trabajos a realizar.
+Para efectos del artículo [48](../../lopsrm/markdown/articulo-48.md) de la [Ley](articulo-2.md), las dependencias y entidades podrán seleccionar el tipo de garantía que más se ajuste a sus necesidades y que les permita tener la mayor certeza de que las obligaciones están debidamente respaldadas, y conforme a los modelos de formatos aprobados por la secretaría, y deben considerar en todos los casos las características, magnitud y complejidad de los trabajos a realizar.
 
 Artículo reformado DOF 27-09-2022

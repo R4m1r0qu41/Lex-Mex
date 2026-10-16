@@ -19,7 +19,7 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 El certificado para el reembolso de gastos por los estudios realizados deberá contener las menciones siguientes:
 
-I. Las previstas en el artículo 31, fracción I, de la Ley;
+I. Las previstas en el artículo [31](../../lapp/markdown/articulo-31.md), fracción I, de la Ley;
 
 II. La de que no podrá cederse, y que los derechos que ampara sólo podrán ejercerse por el promotor;
 

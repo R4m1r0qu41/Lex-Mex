@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 82
 
-La resolución preliminar a que se refiere el artículo 57 de la [Ley](articulo-1o.md), contendrá además de los datos señalados en los artículos [80](articulo-80.md) y [81](articulo-81.md), fracción II, de este Reglamento, los siguientes:
+La resolución preliminar a que se refiere el artículo [57](../../lce/markdown/articulo-57.md) de la [Ley](articulo-1o.md), contendrá además de los datos señalados en los artículos [80](articulo-80.md) y [81](articulo-81.md), fracción II, de este Reglamento, los siguientes:
 
 I. En el caso de que se haya determinado preliminarmente la existencia de prácticas desleales de comercio internacional:
 

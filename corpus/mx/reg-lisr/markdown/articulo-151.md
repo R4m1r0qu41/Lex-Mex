@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 151
 
-Para efectos del artículo 93, fracción XIV de la [Ley](articulo-1.md), en el caso de que la gratificación sea inferior al monto equivalente al salario mínimo general del área geográfica del trabajador elevado a treinta días, no se pagará el [Impuesto](articulo-1.md) hasta por el monto de la gratificación otorgada aun cuando se calcule sobre un salario superior al mínimo.
+Para efectos del artículo [93](../../lisr/markdown/articulo-93.md), fracción XIV de la [Ley](articulo-1.md), en el caso de que la gratificación sea inferior al monto equivalente al salario mínimo general del área geográfica del trabajador elevado a treinta días, no se pagará el [Impuesto](articulo-1.md) hasta por el monto de la gratificación otorgada aun cuando se calcule sobre un salario superior al mínimo.

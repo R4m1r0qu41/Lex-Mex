@@ -17,6 +17,6 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 163
 
-El periodo probatorio comprenderá desde el día siguiente de la publicación en el Diario Oficial de la Federación del inicio de la investigación administrativa, hasta el cierre de la audiencia pública a que se refiere el artículo 81 de la [Ley](articulo-1o.md).
+El periodo probatorio comprenderá desde el día siguiente de la publicación en el Diario Oficial de la Federación del inicio de la investigación administrativa, hasta el cierre de la audiencia pública a que se refiere el artículo [81](../../lce/markdown/articulo-81.md) de la [Ley](articulo-1o.md).
 
 Artículo reformado DOF 22-05-2014

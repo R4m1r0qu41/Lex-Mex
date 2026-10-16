@@ -17,7 +17,7 @@ source_sha256: d295edfeef5d5f77b69a5817a13bc40ee26d72d93f187b00e57e8badb40363fe
 
 # Artículo 30
 
-En aplicación de lo dispuesto por el artículo 26 de la [Ley](articulo-2.md), los vendedores de libros al menudeo podrán enajenar los libros a un precio distinto al precio único de venta al público, cuando se trate de ediciones o de importaciones efectuadas con más de dieciocho meses anteriores a la venta, o bien, cuando sean libros antiguos, usados, descatalogados, agotados o artesanales.
+En aplicación de lo dispuesto por el artículo [26](../../lfll/markdown/articulo-26.md) de la [Ley](articulo-2.md), los vendedores de libros al menudeo podrán enajenar los libros a un precio distinto al precio único de venta al público, cuando se trate de ediciones o de importaciones efectuadas con más de dieciocho meses anteriores a la venta, o bien, cuando sean libros antiguos, usados, descatalogados, agotados o artesanales.
 
 Para efecto de lo anterior, se entenderá por:
 

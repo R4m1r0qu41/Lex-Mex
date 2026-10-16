@@ -17,7 +17,7 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 # Artículo 79
 
-Para efectos del artículo 34, fracción I de la [Ley](articulo-2.md), la edad máxima para la conclusión del servicio de los Integrantes de Carrera, según su jerarquía, es la siguiente:
+Para efectos del artículo [34](../../lgn/markdown/articulo-34.md), fracción I de la [Ley](articulo-2.md), la edad máxima para la conclusión del servicio de los Integrantes de Carrera, según su jerarquía, es la siguiente:
 
 I. Escala Básica, 50 años;
 

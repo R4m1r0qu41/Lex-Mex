@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 115
 
-Los inventos, reformas o métodos que se presenten a la Secretaría para efectos del artículo 56, fracciones I y II de la Ley, deberán sustentarse en un procedimiento científico formal para su desarrollo, evitando proponer trabajos estructurados en forma artesanal que carezcan de este sustento.
+Los inventos, reformas o métodos que se presenten a la Secretaría para efectos del artículo [56](../../larefam/markdown/articulo-56.md), fracciones I y II de la Ley, deberán sustentarse en un procedimiento científico formal para su desarrollo, evitando proponer trabajos estructurados en forma artesanal que carezcan de este sustento.
 
 Artículo reformado DOF 20-03-2026

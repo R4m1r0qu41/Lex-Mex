@@ -17,13 +17,13 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 132
 
-Para efectos del artículo 79, fracción VI, incisos b), c), f), g), h) e i) de la [Ley](articulo-1.md), se entiende por:
+Para efectos del artículo [79](../../lisr/markdown/articulo-79.md), fracción VI, incisos b), c), f), g), h) e i) de la [Ley](articulo-1.md), se entiende por:
 
 I. Asistencia o rehabilitación médica, entre otros, la psicoterapia, la terapia familiar, el tratamiento o la rehabilitación de personas discapacitadas y la provisión de medicamentos, prótesis, órtesis e insumos sanitarios.
 
 La asistencia o rehabilitación médica deberá prestarse por personas que cuenten con título y cédula en la rama a que corresponda, conforme a las leyes aplicables;
 
-II. Asistencia jurídica, entre otras, la representación ante autoridades administrativas o jurisdiccionales, excepto las electorales siempre que tenga como beneficiarios a cualquiera de los señalados en el artículo 79, fracción VI de la Ley;
+II. Asistencia jurídica, entre otras, la representación ante autoridades administrativas o jurisdiccionales, excepto las electorales siempre que tenga como beneficiarios a cualquiera de los señalados en el artículo [79](../../lisr/markdown/articulo-79.md), fracción VI de la Ley;
 
 III. Orientación social, la asesoría dirigida al individuo o grupo de individuos en materias tales como la familia, la educación, la alimentación, el trabajo y la salud, con el fin de que todo miembro de la comunidad pueda desarrollarse, aprenda a dirigirse por sí mismo y contribuya con su esfuerzo a la tarea común o bienestar del grupo, con el máximo de sus posibilidades, así como la atención o prevención de la violencia intrafamiliar para la eliminación entre otros, de la explotación económica de los niños o del trabajo infantil peligroso;
 

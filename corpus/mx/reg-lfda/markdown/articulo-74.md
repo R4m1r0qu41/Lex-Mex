@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 74
 
-Para los efectos de la fracción II del artículo 231 de la ley, no constituirá infracción en materia de comercio la utilización de la imagen de una persona sin la autorización correspondiente, cuando se realice con fines informativos o periodísticos o en ejercicio del derecho de libertad de expresión.
+Para los efectos de la fracción II del artículo [231](../../lfda/markdown/articulo-231.md) de la ley, no constituirá infracción en materia de comercio la utilización de la imagen de una persona sin la autorización correspondiente, cuando se realice con fines informativos o periodísticos o en ejercicio del derecho de libertad de expresión.

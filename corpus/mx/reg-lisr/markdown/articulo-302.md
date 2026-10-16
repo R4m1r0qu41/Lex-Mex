@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 302
 
-Para efectos del artículo 180, párrafo segundo de la [Ley](articulo-1.md), el rango de precios, de montos de contraprestaciones o de márgenes de utilidad, se podrá ajustar mediante la aplicación del método intercuartil, el cual se describe a continuación:
+Para efectos del artículo [180](../../lisr/markdown/articulo-180.md), párrafo segundo de la [Ley](articulo-1.md), el rango de precios, de montos de contraprestaciones o de márgenes de utilidad, se podrá ajustar mediante la aplicación del método intercuartil, el cual se describe a continuación:
 
 I. Se deberán ordenar los precios, montos de contraprestaciones o de márgenes de utilidad en forma ascendente de acuerdo con su valor;
 

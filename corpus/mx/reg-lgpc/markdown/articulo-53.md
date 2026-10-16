@@ -17,4 +17,4 @@ source_sha256: 5018478a6ca9ea39f9ca88ffcb68dde9a33bd4adec59dc75d2431f894b621fc2
 
 # Artículo 53
 
-El Comité Nacional podrá integrar grupos de trabajo que coadyuven en el adecuado análisis de la situación de Emergencia o Desastre, y en la elaboración de las recomendaciones correspondientes a que se refiere el artículo 34, fracción I, de la [Ley](articulo-2.md).
+El Comité Nacional podrá integrar grupos de trabajo que coadyuven en el adecuado análisis de la situación de Emergencia o Desastre, y en la elaboración de las recomendaciones correspondientes a que se refiere el artículo [34](../../lgpc/markdown/articulo-34.md), fracción I, de la [Ley](articulo-2.md).

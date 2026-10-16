@@ -29,6 +29,6 @@ IV. Entidad federativa;
 
 V. Número de certificado;
 
-VI. Superficie excedente; VII. Copia del certificado de derechos parcelarios, en caso de que se hubiere expedido, o del acta de asamblea donde se acordó el parcelamiento, en términos de lo previsto por el artículo 56 de la ley, y
+VI. Superficie excedente; VII. Copia del certificado de derechos parcelarios, en caso de que se hubiere expedido, o del acta de asamblea donde se acordó el parcelamiento, en términos de lo previsto por el artículo [56](../../lagra/markdown/articulo-56.md) de la ley, y
 
 VIII. Plano interno.

@@ -17,7 +17,7 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 # Artículo 2
 
-Para los efectos de este Reglamento, además de las definiciones establecidas en los artículos 4 y 5 de la Ley, se entenderá por:
+Para los efectos de este Reglamento, además de las definiciones establecidas en los artículos [4](../../lgcfd/markdown/articulo-4.md) y [5](../../lgcfd/markdown/articulo-5.md) de la Ley, se entenderá por:
 
 I. Deportistas: las personas físicas que practiquen cualquier disciplina o especialidad deportiva;
 

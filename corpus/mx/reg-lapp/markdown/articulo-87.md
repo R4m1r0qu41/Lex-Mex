@@ -17,4 +17,4 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 87
 
-Para efectos del artículo 57, fracción II, de la Ley, se considera información privilegiada el conocimiento de todo hecho, acto o acontecimiento de cualquier naturaleza que influya o pueda influir en las propuestas del [Concurso](articulo-11.md), y que se haya obtenido mediante competencia desleal o de manera irregular.
+Para efectos del artículo [57](../../lapp/markdown/articulo-57.md), fracción II, de la Ley, se considera información privilegiada el conocimiento de todo hecho, acto o acontecimiento de cualquier naturaleza que influya o pueda influir en las propuestas del [Concurso](articulo-11.md), y que se haya obtenido mediante competencia desleal o de manera irregular.

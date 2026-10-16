@@ -23,7 +23,7 @@ I. De trabajos ejecutados;
 
 II. De pago de cantidades adicionales o conceptos no previstos en el catálogo original del contrato;
 
-III. De gastos no recuperables a que alude el artículo 62 de la [Ley](articulo-2.md), y
+III. De gastos no recuperables a que alude el artículo [62](../../lopsrm/markdown/articulo-62.md) de la [Ley](articulo-2.md), y
 
 IV. De los ajustes de costos.
 

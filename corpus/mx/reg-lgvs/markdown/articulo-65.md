@@ -17,7 +17,7 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 65
 
-Los interesados en realizar exportaciones o reexportaciones de ejemplares, partes o derivados de la vida silvestre, que requieran de permisos o certificados [CITES](articulo-2.md), conforme al artículo 55 de la [Ley](articulo-2.md) o de autorización en los términos del artículo 55 bis del mismo ordenamiento, deberán solicitarlo a la Secretaría, cumpliendo con los siguientes requisitos: Párrafo reformado DOF 17-04-2014
+Los interesados en realizar exportaciones o reexportaciones de ejemplares, partes o derivados de la vida silvestre, que requieran de permisos o certificados [CITES](articulo-2.md), conforme al artículo [55](../../lgvs/markdown/articulo-55.md) de la [Ley](articulo-2.md) o de autorización en los términos del artículo 55 bis del mismo ordenamiento, deberán solicitarlo a la Secretaría, cumpliendo con los siguientes requisitos: Párrafo reformado DOF 17-04-2014
 
 I. Indicar si la exportación es de forma definitiva o temporal;
 

@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 195
 
-Contra las resoluciones que emita el Instituto imponiendo una multa se podrán interponer los medios de defensa que señalan los artículos 294 y 295 de la Ley.
+Contra las resoluciones que emita el Instituto imponiendo una multa se podrán interponer los medios de defensa que señalan los artículos [294](../../lss/markdown/articulo-294.md) y [295](../../lss/markdown/articulo-295.md) de la Ley.

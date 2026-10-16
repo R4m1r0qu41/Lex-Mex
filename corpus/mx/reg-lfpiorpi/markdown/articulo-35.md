@@ -25,7 +25,7 @@ I. Datos generales de identificación de la Entidad Colegiada;
 
 II. Padrón de sus integrantes que, por su conducto, pretendan presentar Avisos;
 
-III. Datos generales de identificación del representante de la Entidad Colegiada a que se refiere el artículo 27, fracción IV, de la Ley, así como, en su caso, del órgano concentrador previsto en el penúltimo párrafo del referido artículo;
+III. Datos generales de identificación del representante de la Entidad Colegiada a que se refiere el artículo [27](../../lfpiorpi/markdown/articulo-27.md), fracción IV, de la Ley, así como, en su caso, del órgano concentrador previsto en el penúltimo párrafo del referido artículo;
 
 IV. Descripción de sus procedimientos, funciones y criterios que se establecerán para efectos de dar cumplimiento a las obligaciones establecidas en la Ley, este Reglamento, las reglas de carácter general y demás disposiciones que de estos emanen, y Fracción reformada DOF 27-03-2026
 

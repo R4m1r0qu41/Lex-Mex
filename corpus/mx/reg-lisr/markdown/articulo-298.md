@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 298
 
-Para efectos de los artículos 176 y 177 de la [Ley](articulo-1.md), no se considerarán ingresos sujetos a regímenes fiscales preferentes los generados directamente por residentes en México o por residentes en el extranjero con establecimiento permanente en el país, siempre que dichos ingresos sean acumulables para ellos en términos de los Títulos II o IV de la Ley, según corresponda.
+Para efectos de los artículos [176](../../lisr/markdown/articulo-176.md) y [177](../../lisr/markdown/articulo-177.md) de la [Ley](articulo-1.md), no se considerarán ingresos sujetos a regímenes fiscales preferentes los generados directamente por residentes en México o por residentes en el extranjero con establecimiento permanente en el país, siempre que dichos ingresos sean acumulables para ellos en términos de los Títulos II o IV de la Ley, según corresponda.

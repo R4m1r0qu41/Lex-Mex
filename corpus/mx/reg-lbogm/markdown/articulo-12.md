@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 12
 
-Dentro de los dos días hábiles siguientes a que la solicitud integrada sea admitida, la Secretaría competente remitirá al Registro copia de la misma para su inscripción y publicidad respectivas, en términos del artículo 33 de la Ley.
+Dentro de los dos días hábiles siguientes a que la solicitud integrada sea admitida, la Secretaría competente remitirá al Registro copia de la misma para su inscripción y publicidad respectivas, en términos del artículo [33](../../lbogm/markdown/articulo-33.md) de la Ley.

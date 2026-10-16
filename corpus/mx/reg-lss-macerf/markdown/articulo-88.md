@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 88
 
-Para los efectos del artículo 231 de la Ley, se considerará lo siguiente:
+Para los efectos del artículo [231](../../lss/markdown/articulo-231.md) de la Ley, se considerará lo siguiente:
 
 I. Individual:
 

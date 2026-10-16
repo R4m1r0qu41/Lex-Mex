@@ -17,7 +17,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 147
 
-Las dependencias que pretendan celebrar contratos plurianuales a que se refiere el artículo 50 de la [Ley](articulo-2.md) se sujetarán a lo siguiente:
+Las dependencias que pretendan celebrar contratos plurianuales a que se refiere el artículo [50](../../lfprh/markdown/articulo-50.md) de la [Ley](articulo-2.md) se sujetarán a lo siguiente:
 
 I. Deberán solicitar la autorización de la Secretaría dentro del periodo comprendido entre el primer día hábil de enero y el último día hábil de agosto, anexando los siguientes documentos: Párrafo reformado DOF 05-09-2007
 

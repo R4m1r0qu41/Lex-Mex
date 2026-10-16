@@ -17,7 +17,7 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 # Artículo 20
 
-La [Secretaría](articulo-3.md) podrá otorgar permisos para celebrar los juegos con apuestas y sorteos a que se refiere el artículo 2 de la [Ley](articulo-3.md) y el presente reglamento a los solicitantes conforme a lo siguiente: Párrafo reformado DOF 16-11-2023
+La [Secretaría](articulo-3.md) podrá otorgar permisos para celebrar los juegos con apuestas y sorteos a que se refiere el artículo [2](../../lfjs/markdown/articulo-2o.md) de la [Ley](articulo-3.md) y el presente reglamento a los solicitantes conforme a lo siguiente: Párrafo reformado DOF 16-11-2023
 
 I. Para la apertura y operación del cruce de apuestas en hipódromos, galgódromos, frontones, así como para la instalación de centros de apuestas remotas y de salas de sorteos de números o símbolos, sólo a sociedades mercantiles que estén debidamente constituidas conforme a las leyes de los Estados Unidos Mexicanos; Fracción reformada DOF 23-10-2013
 

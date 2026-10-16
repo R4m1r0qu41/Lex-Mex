@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 47
 
-El proveedor deberá presentar el aviso a que se refiere el primer párrafo del artículo 87 BIS de la Ley, ya sea por escrito o por vía electrónica, antes de que utilice el modelo de contrato correspondiente en sus operaciones con los consumidores.
+El proveedor deberá presentar el aviso a que se refiere el primer párrafo del artículo [87 BIS](../../lfpc/markdown/articulo-87-BIS.md) de la Ley, ya sea por escrito o por vía electrónica, antes de que utilice el modelo de contrato correspondiente en sus operaciones con los consumidores.

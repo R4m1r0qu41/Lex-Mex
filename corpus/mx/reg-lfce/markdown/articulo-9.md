@@ -17,9 +17,9 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 9
 
-Son indicios de la existencia de una práctica monopólica absoluta, las instrucciones o recomendaciones que emitan las cámaras empresariales o asociaciones a sus agremiados, con el objeto o efecto de realizar las conductas previstas en el artículo 9o. de la Ley.
+Son indicios de la existencia de una práctica monopólica absoluta, las instrucciones o recomendaciones que emitan las cámaras empresariales o asociaciones a sus agremiados, con el objeto o efecto de realizar las conductas previstas en el artículo [9](../../lfce/markdown/articulo-9.md)o. de la Ley.
 
-Son indicios de la realización de las conductas a que se refiere la fracción I del artículo 9o. de la Ley, entre otros, que:
+Son indicios de la realización de las conductas a que se refiere la fracción I del artículo [9](../../lfce/markdown/articulo-9.md)o. de la Ley, entre otros, que:
 
 I. El precio de venta ofrecido en territorio nacional por dos o más competidores de bienes o servicios susceptibles de intercambiarse internacionalmente, sean sensiblemente superiores o inferiores a su precio de referencia internacional, excepto cuando la diferencia se derive de la aplicación de disposiciones fiscales, gastos de transporte o de distribución, y
 

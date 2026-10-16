@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 155
 
-Además de los requisitos previstos en el artículo 316 de la Ley, la persona solicitante deberá indicar, en su caso, los términos sobre los cuales no se haya reservado el uso exclusivo.
+Además de los requisitos previstos en el artículo [316](../../lfppi/markdown/articulo-316.md) de la Ley, la persona solicitante deberá indicar, en su caso, los términos sobre los cuales no se haya reservado el uso exclusivo.

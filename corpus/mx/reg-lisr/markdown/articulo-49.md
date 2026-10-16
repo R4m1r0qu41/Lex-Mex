@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 49
 
-Las aportaciones que efectúen los contribuyentes a fondos de ahorro, en términos del artículo 27, fracción XI, párrafo quinto de la [Ley](articulo-1.md), serán deducibles cuando cumpla con lo previsto en la Ley y los siguientes requisitos de permanencia:
+Las aportaciones que efectúen los contribuyentes a fondos de ahorro, en términos del artículo [27](../../lisr/markdown/articulo-27.md), fracción XI, párrafo quinto de la [Ley](articulo-1.md), serán deducibles cuando cumpla con lo previsto en la Ley y los siguientes requisitos de permanencia:
 
 I. Que el plan establezca que el trabajador pueda retirar las aportaciones de que se trata, únicamente al término de la relación de trabajo o una vez por año;
 

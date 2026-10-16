@@ -17,4 +17,4 @@ source_sha256: d295edfeef5d5f77b69a5817a13bc40ee26d72d93f187b00e57e8badb40363fe
 
 # Artículo 32
 
-Los tribunales civiles del fuero federal serán los competentes para conocer de las controversias a que se refiere el artículo 27 de la [Ley](articulo-2.md). Sin perjuicio de lo anterior, las partes en dichas controversias podrán someterse al procedimiento arbitral establecido en el Título Cuarto del Libro Quinto del Código de Comercio.
+Los tribunales civiles del fuero federal serán los competentes para conocer de las controversias a que se refiere el artículo [27](../../lfll/markdown/articulo-27.md) de la [Ley](articulo-2.md). Sin perjuicio de lo anterior, las partes en dichas controversias podrán someterse al procedimiento arbitral establecido en el Título Cuarto del Libro Quinto del Código de Comercio.

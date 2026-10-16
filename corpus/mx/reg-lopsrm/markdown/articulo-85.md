@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 85
 
-Si con motivo de la transferencia de los derechos de cobro solicitada por el contratista se origina un retraso en el pago, no procederá el pago de los gastos financieros a que hace referencia el artículo 55 de la [Ley](articulo-2.md).
+Si con motivo de la transferencia de los derechos de cobro solicitada por el contratista se origina un retraso en el pago, no procederá el pago de los gastos financieros a que hace referencia el artículo [55](../../lopsrm/markdown/articulo-55.md) de la [Ley](articulo-2.md).

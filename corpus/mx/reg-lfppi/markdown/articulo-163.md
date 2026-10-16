@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 163
 
-Para efectos del artículo 331 de la Ley, la solicitud de declaración administrativa se desechará cuando la patente, registro, autorización o publicación que sea base de la acción no se encuentre vigente, o cuando la acción no se ejercite dentro de los plazos previstos en dicho ordenamiento.
+Para efectos del artículo [331](../../lfppi/markdown/articulo-331.md) de la Ley, la solicitud de declaración administrativa se desechará cuando la patente, registro, autorización o publicación que sea base de la acción no se encuentre vigente, o cuando la acción no se ejercite dentro de los plazos previstos en dicho ordenamiento.

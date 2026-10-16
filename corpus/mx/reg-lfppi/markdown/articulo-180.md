@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 180
 
-Para efectos de lo previsto en el artículo 393 de la Ley, el Instituto podrá coordinarse, a través de convenios, con otras autoridades exactoras de los niveles Federal, Estatal y Municipal.
+Para efectos de lo previsto en el artículo [393](../../lfppi/markdown/articulo-393.md) de la Ley, el Instituto podrá coordinarse, a través de convenios, con otras autoridades exactoras de los niveles Federal, Estatal y Municipal.

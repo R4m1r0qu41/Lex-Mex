@@ -17,7 +17,7 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 57
 
-Para efectos de los artículos 24, fracción XVI, y 33 bis 1 de la Ley, se estará a lo siguiente:
+Para efectos de los artículos [24](../../lfce/markdown/articulo-24.md), fracción XVI, y 33 bis 1 de la Ley, se estará a lo siguiente:
 
 I. La convocante de la licitación o concurso debe enviar a la oficialía de partes de la Comisión, con un mínimo de treinta días hábiles previos a la fecha de publicación de la convocatoria, la información a que hace referencia el penúltimo párrafo del artículo 33 bis 1 de la Ley;
 

@@ -19,7 +19,7 @@ source_sha256: 2cc4bd6de7ab80102fae680a7017a0876b062f7999f7e33916b853cc8296cb19
 
 El [Laboratorio de Control de Calidad](articulo-3.md) deberá cumplir con lo siguiente:
 
-I. Licencia sanitaria, de conformidad con el artículo 258 de la [Ley](articulo-3.md);
+I. Licencia sanitaria, de conformidad con el artículo [258](../../lgs/markdown/articulo-258.md) de la [Ley](articulo-3.md);
 
 II. [Libros de Control](articulo-3.md) de estándares y muestras;
 

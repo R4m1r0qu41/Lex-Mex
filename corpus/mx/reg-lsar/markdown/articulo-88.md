@@ -17,7 +17,7 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 88
 
-Las Cuentas Individuales de los [Trabajadores Estatales o Municipales](articulo-2o.md) se integrarán conforme al artículo 74 quinquies de la [Ley](articulo-2o.md), por las siguientes subcuentas:
+Las Cuentas Individuales de los [Trabajadores Estatales o Municipales](articulo-2o.md) se integrarán conforme al artículo [74 quinquies](../../lsar/markdown/articulo-74-quinquies.md) de la [Ley](articulo-2o.md), por las siguientes subcuentas:
 
 I. Subcuenta de Fondos de Previsión Social;
 

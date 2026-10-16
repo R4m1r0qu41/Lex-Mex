@@ -33,7 +33,7 @@ V. Manual del programa estatal de seguridad operacional: documento que emita la 
 
 VI. Nivel aceptable de rendimiento en materia de seguridad operacional: nivel mínimo de rendimiento en materia de seguridad operacional establecido por la Agencia Federal de Aviación Civil, expresado en términos de objetivos, metas e indicadores de rendimiento; Fracción reformada DOF 31-05-2023
 
-VII. Persona operadora aérea: la persona propietaria o poseedora de una aeronave de Estado, de las comprendidas en el artículo 5, fracción II, inciso a) de la Ley, así como de aeronaves para uso particular, mexicanas o extranjeras; Fracción reformada DOF 31-05-2023
+VII. Persona operadora aérea: la persona propietaria o poseedora de una aeronave de Estado, de las comprendidas en el artículo [5](../../lac/markdown/articulo-5.md), fracción II, inciso a) de la Ley, así como de aeronaves para uso particular, mexicanas o extranjeras; Fracción reformada DOF 31-05-2023
 
 VIII. Persona operadora de Sistema de Aeronave Pilotada a Distancia: persona física o moral que es propietaria o poseedora de un sistema de aeronave pilotada a distancia; Fracción reformada DOF 31-05-2023
 

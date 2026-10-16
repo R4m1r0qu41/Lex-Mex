@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 242
 
-Para efectos del artículo 147, fracción IV de la [Ley](articulo-1.md), las autoridades fiscales resolverán las solicitudes de autorización para liberar de la obligación de pagar erogaciones con cheque nominativo, tarjeta de crédito, de débito o de servicios, o a través de los monederos electrónicos que al efecto autorice el [SAT](articulo-1.md), cuando las erogaciones se efectúen en poblaciones o zonas rurales, sin servicios financieros, de conformidad con el artículo [42](articulo-42.md) de este Reglamento.
+Para efectos del artículo [147](../../lisr/markdown/articulo-147.md), fracción IV de la [Ley](articulo-1.md), las autoridades fiscales resolverán las solicitudes de autorización para liberar de la obligación de pagar erogaciones con cheque nominativo, tarjeta de crédito, de débito o de servicios, o a través de los monederos electrónicos que al efecto autorice el [SAT](articulo-1.md), cuando las erogaciones se efectúen en poblaciones o zonas rurales, sin servicios financieros, de conformidad con el artículo [42](articulo-42.md) de este Reglamento.

@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 35
 
-Previo al inicio de las pruebas de capacidad física, se practicará un examen médico al personal y, en caso de trastorno que ponga en riesgo la salud de la persona participante, no se le permitirá sustentarlas. En este caso, la persona participante quedará sujeta al artículo 25 de la Ley.
+Previo al inicio de las pruebas de capacidad física, se practicará un examen médico al personal y, en caso de trastorno que ponga en riesgo la salud de la persona participante, no se le permitirá sustentarlas. En este caso, la persona participante quedará sujeta al artículo [25](../../larefam/markdown/articulo-25.md) de la Ley.
 
 Artículo reformado DOF 20-03-2026

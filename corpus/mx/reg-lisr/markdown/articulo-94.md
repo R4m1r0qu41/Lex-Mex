@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 94
 
-Para efectos del artículo 55, fracción IV de la [Ley](articulo-1.md), se tendrá por cumplida tal obligación cuando las instituciones del sistema financiero opten por presentar de manera mensual la información correspondiente, en los términos que establezca el [SAT](articulo-1.md) mediante reglas de carácter general.
+Para efectos del artículo [55](../../lisr/markdown/articulo-55.md), fracción IV de la [Ley](articulo-1.md), se tendrá por cumplida tal obligación cuando las instituciones del sistema financiero opten por presentar de manera mensual la información correspondiente, en los términos que establezca el [SAT](articulo-1.md) mediante reglas de carácter general.

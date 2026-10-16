@@ -17,6 +17,6 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 36
 
-Para efectos del artículo 31, segundo párrafo de la [Ley](articulo-2.md), dentro de las operaciones de inversión de disponibilidades que realice la Tesorería se encuentra la compra y venta de títulos de deuda gubernamental, certificados de depósito bancario y cualquier otra que autorice el [Comité Técnico](articulo-2.md) en las políticas y directrices.
+Para efectos del artículo [31](../../ltf/markdown/articulo-31.md), segundo párrafo de la [Ley](articulo-2.md), dentro de las operaciones de inversión de disponibilidades que realice la Tesorería se encuentra la compra y venta de títulos de deuda gubernamental, certificados de depósito bancario y cualquier otra que autorice el [Comité Técnico](articulo-2.md) en las políticas y directrices.
 
 En los contratos y demás actos jurídicos que sean necesarios para llevar a cabo las operaciones de inversión de las disponibilidades, la Tesorería deberá ser la única beneficiaria y procurar obtener las mejores condiciones de mercado en beneficio del Erario Federal.

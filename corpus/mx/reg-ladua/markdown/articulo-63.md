@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 63
 
-Para efectos de lo dispuesto por el artículo 34 de la [Ley](articulo-1.md), los interesados deberán presentar solicitud de indemnización, anexando la siguiente documentación:
+Para efectos de lo dispuesto por el artículo [34](../../ladua/markdown/articulo-34.md) de la [Ley](articulo-1.md), los interesados deberán presentar solicitud de indemnización, anexando la siguiente documentación:
 
 I. El comprobante fiscal digital por Internet o documento equivalente, o bien, el documento de transporte, que ampare el valor de las Mercancías; Fracción reformada DOF 23-02-2026
 

@@ -25,4 +25,4 @@ II. Nuevo precio único de venta al público.
 
 La modificación surtirá efectos a partir de la fecha en que el Consejo inscriba el nuevo precio en el Registro, resultando aplicables al caso las disposiciones contenidas en los párrafos segundo, tercero y cuarto del artículo [18](articulo-18.md) del presente Reglamento. Una vez inscrito el nuevo precio único de venta al público en el Registro o transcurrido el plazo a que se refiere el segundo párrafo del artículo [18](articulo-18.md) del presente Reglamento sin que el Consejo hubiere realizado la inscripción o emitido la notificación correspondiente, el editor o importador, bajo su responsabilidad, deberá informar del nuevo precio a los distribuidores y a los vendedores del libro de que se trate, independientemente de que dicho precio pueda ser consultado en el Registro.
 
-La modificación no interrumpirá el plazo a que se refiere el artículo 26 de la [Ley](articulo-2.md).
+La modificación no interrumpirá el plazo a que se refiere el artículo [26](../../lfll/markdown/articulo-26.md) de la [Ley](articulo-2.md).

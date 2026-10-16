@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 249
 
-Para efectos del artículo 151, fracción III, inciso a) de la [Ley](articulo-1.md), se consideran como deducibles los donativos no onerosos ni remunerativos que se otorguen a instituciones de derechos humanos que tengan el carácter de organismos públicos autónomos, y tributen conforme al Título III de la Ley.
+Para efectos del artículo [151](../../lisr/markdown/articulo-151.md), fracción III, inciso a) de la [Ley](articulo-1.md), se consideran como deducibles los donativos no onerosos ni remunerativos que se otorguen a instituciones de derechos humanos que tengan el carácter de organismos públicos autónomos, y tributen conforme al Título III de la Ley.

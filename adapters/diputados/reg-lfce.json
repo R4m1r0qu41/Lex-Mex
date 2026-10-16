@@ -51,5 +51,6 @@
       "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
       "note": "Operator: checked the earlier, abrogated regulation; article 73 there concerns personal notifications. No other applicable article was found, so the reference is a dead end and stale."
     }
-  ]
+  ],
+  "parent_instrument_id": "urn:lex-mx:federal:statute:lfce"
 }

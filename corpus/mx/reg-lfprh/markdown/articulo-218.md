@@ -31,7 +31,7 @@ II. Un reporte de las aportaciones realizadas durante el ejercicio inmediato ant
 
 III. Un reporte de las metas alcanzadas en el ejercicio anterior, así como las metas de resultado del cumplimiento de la misión y fines, en lo posible cuantificables, previstas para el ejercicio fiscal correspondiente que justifiquen la necesidad de continuar con el fideicomiso, mandato o análogo. En caso de que aquéllas no sean cuantificables, deberá remitirse la justificación correspondiente.
 
-Quedan exceptuados de lo dispuesto por este artículo, los fideicomisos constituidos por entidades federativas o particulares a que se refiere el artículo 10 de la [Ley](articulo-2.md). Sin embargo, y para actualizar su información, las dependencias y entidades que les aporten recursos deberán reportar a la Secretaría a través del sistema de control y transparencia de fideicomisos, el saldo disponible de la subcuenta específica.
+Quedan exceptuados de lo dispuesto por este artículo, los fideicomisos constituidos por entidades federativas o particulares a que se refiere el artículo [10](../../lfprh/markdown/articulo-10.md) de la [Ley](articulo-2.md). Sin embargo, y para actualizar su información, las dependencias y entidades que les aporten recursos deberán reportar a la Secretaría a través del sistema de control y transparencia de fideicomisos, el saldo disponible de la subcuenta específica.
 
 Asimismo, quedan exceptuados de lo dispuesto por este artículo, los fideicomisos, mandatos y análogos que se utilicen para canalizar subsidios y que al cierre del ejercicio cuenten con saldo cero en su patrimonio.
 

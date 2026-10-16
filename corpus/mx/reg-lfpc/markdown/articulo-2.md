@@ -21,6 +21,6 @@ Además de las definiciones referidas en el artículo [2](../../lfpc/markdown/ar
 
 Cuando se haga referencia a productos se entenderá respecto a bienes muebles.
 
-Para los efectos del artículo 92, cuarto párrafo de la Ley, se entenderá por bien o producto nuevo aquél que sea de primer uso.
+Para los efectos del artículo [92](../../lfpc/markdown/articulo-92.md), cuarto párrafo de la Ley, se entenderá por bien o producto nuevo aquél que sea de primer uso.
 
-En el caso de un vehículo nuevo, éste se entenderá como el automotor de procedencia nacional o extranjera, destinado al transporte terrestre de personas o bienes que el proveedor comercializa por primera vez, con no más de 1,000 kilómetros recorridos. En la reclamación de vehículo nuevo, se tomará en cuenta el plazo y supuestos previstos en el artículo 105, fracción I de la Ley.
+En el caso de un vehículo nuevo, éste se entenderá como el automotor de procedencia nacional o extranjera, destinado al transporte terrestre de personas o bienes que el proveedor comercializa por primera vez, con no más de 1,000 kilómetros recorridos. En la reclamación de vehículo nuevo, se tomará en cuenta el plazo y supuestos previstos en el artículo [105](../../lfpc/markdown/articulo-105.md), fracción I de la Ley.

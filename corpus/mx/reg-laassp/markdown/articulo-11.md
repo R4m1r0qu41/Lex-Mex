@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 11
 
-Los procedimientos, requisitos y demás disposiciones que emita la Secretaría de conformidad con el artículo 12 de la [Ley](articulo-2.md), se difundirán a través de la Plataforma y se aplicarán, con apoyo de los agentes financieros designados como tales por Hacienda, por las dependencias y entidades responsables de ejercer recursos otorgados al Gobierno Federal o con su garantía por organismos financieros regionales o multilaterales.
+Los procedimientos, requisitos y demás disposiciones que emita la Secretaría de conformidad con el artículo [12](../../laassp/markdown/articulo-12.md) de la [Ley](articulo-2.md), se difundirán a través de la Plataforma y se aplicarán, con apoyo de los agentes financieros designados como tales por Hacienda, por las dependencias y entidades responsables de ejercer recursos otorgados al Gobierno Federal o con su garantía por organismos financieros regionales o multilaterales.

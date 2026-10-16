@@ -19,22 +19,22 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 La contratación de servicios en términos del artículo 20 de la Ley podrá realizarse para los trabajos siguientes:
 
-I. Aquéllos para determinar la viabilidad de un proyecto, cualesquiera otros estudios previos y el propio proyecto ejecutivo, previstos en el primer párrafo del citado artículo 20 de la Ley;
+I. Aquéllos para determinar la viabilidad de un proyecto, cualesquiera otros estudios previos y el propio proyecto ejecutivo, previstos en el primer párrafo del citado artículo [20](../../lapp/markdown/articulo-20.md) de la Ley;
 
-II. Los de evaluación de propuestas no solicitadas o realización de estudios complementarios, así como para determinar los montos a reembolsar, mencionados en los artículos 31, fracción III, y 33 de la Ley;
+II. Los de evaluación de propuestas no solicitadas o realización de estudios complementarios, así como para determinar los montos a reembolsar, mencionados en los artículos [31](../../lapp/markdown/articulo-31.md), fracción III, y [33](../../lapp/markdown/articulo-33.md) de la Ley;
 
-III. Los de los [Agentes](articulo-11.md) referidos en el artículo 38, párrafo tercero, de la Ley;
+III. Los de los [Agentes](articulo-11.md) referidos en el artículo [38](../../lapp/markdown/articulo-38.md), párrafo tercero, de la Ley;
 
-IV. Los de los testigos sociales mencionados en el artículo 43 de la Ley;
+IV. Los de los testigos sociales mencionados en el artículo [43](../../lapp/markdown/articulo-43.md) de la Ley;
 
-V. Aquellos para la adquisición de los inmuebles, bienes y derechos necesarios para la ejecución de un proyecto, previstos en el primer párrafo del artículo 20 de la Ley, así como los de los avalúos mencionados en el artículo 68 de la misma Ley;
+V. Aquellos para la adquisición de los inmuebles, bienes y derechos necesarios para la ejecución de un proyecto, previstos en el primer párrafo del artículo [20](../../lapp/markdown/articulo-20.md) de la Ley, así como los de los avalúos mencionados en el artículo 68 de la misma Ley;
 
-VI. Los de los interventores de proyectos a que se refiere el artículo 113 de la Ley;
+VI. Los de los interventores de proyectos a que se refiere el artículo [113](../../lapp/markdown/articulo-113.md) de la Ley;
 
-VII. Los de los expertos independientes para el dictamen relativo a la modificación de un proyecto, en términos del artículo 118, fracción II, inciso a), de la Ley;
+VII. Los de los expertos independientes para el dictamen relativo a la modificación de un proyecto, en términos del artículo [118](../../lapp/markdown/articulo-118.md), fracción II, inciso a), de la Ley;
 
-VIII. Los de control y supervisión referidos en el artículo 126 de la Ley;
+VIII. Los de control y supervisión referidos en el artículo [126](../../lapp/markdown/articulo-126.md) de la Ley;
 
-IX. Los de los integrantes del comité de expertos previsto en los artículos 134 y siguientes de la Ley, y
+IX. Los de los integrantes del comité de expertos previsto en los artículos [134](../../lapp/markdown/articulo-134.md) y siguientes de la Ley, y
 
-X. Los de arbitraje, mencionados en el artículo 139 de la Ley.
+X. Los de arbitraje, mencionados en el artículo [139](../../lapp/markdown/articulo-139.md) de la Ley.

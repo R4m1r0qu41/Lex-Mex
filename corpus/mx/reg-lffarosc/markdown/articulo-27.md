@@ -19,7 +19,7 @@ source_sha256: 50d888e53a7b0990f6d19dbab03d263e01ca7d4a4365a0c2663e03caf9f2715c
 
 La solicitud de inscripción se efectuará mediante el formato que expida la [Secretaría](articulo-2.md), el cual será publicado en el Diario Oficial de la Federación y estará disponible en la página electrónica de la Secretaría y de manera impresa en los módulos antes mencionados.
 
-Las Organizaciones, además de los requisitos establecidos en el artículo 18 de la [Ley](articulo-2.md), deberán presentar al momento de entregar su solicitud de inscripción, el original de los siguientes documentos:
+Las Organizaciones, además de los requisitos establecidos en el artículo [18](../../lffaosc/markdown/articulo-18.md) de la [Ley](articulo-2.md), deberán presentar al momento de entregar su solicitud de inscripción, el original de los siguientes documentos:
 
 I. Identificación oficial vigente del o los representantes legales de la Organización;
 

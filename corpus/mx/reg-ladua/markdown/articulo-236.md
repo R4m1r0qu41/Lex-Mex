@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 236
 
-Las personas morales que promuevan el despacho aduanero de Mercancías sin la intervención de un agente aduanal o agencia aduanal deberán acreditar ante las Autoridades Aduaneras a su representante legal para efectos de su actuación, quien deberá cumplir, además de lo previsto en el artículo 40 de la [Ley](articulo-1.md), con lo siguiente: Párrafo reformado DOF 23-02-2026
+Las personas morales que promuevan el despacho aduanero de Mercancías sin la intervención de un agente aduanal o agencia aduanal deberán acreditar ante las Autoridades Aduaneras a su representante legal para efectos de su actuación, quien deberá cumplir, además de lo previsto en el artículo [40](../../ladua/markdown/articulo-40.md) de la [Ley](articulo-1.md), con lo siguiente: Párrafo reformado DOF 23-02-2026
 
 I. Acreditar, mediante documento certificado, ser de nacionalidad mexicana;
 

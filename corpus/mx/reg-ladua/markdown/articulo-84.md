@@ -25,7 +25,7 @@ ll. Cuando los contribuyentes al fusionarse o escindirse, desaparezcan del regis
 
 lll. Cuando el contribuyente cambie su denominación o razón social y no actualice su situación en el Padrón de Importadores;
 
-IV. Por resolución firme, que determine que el contribuyente cometió cualquiera de las infracciones previstas en los artículos 176, 177 y 179 de la [Ley](articulo-1.md), y
+IV. Por resolución firme, que determine que el contribuyente cometió cualquiera de las infracciones previstas en los artículos [176](../../ladua/markdown/articulo-176.md), [177](../../ladua/markdown/articulo-177.md) y [179](../../ladua/markdown/articulo-179.md) de la [Ley](articulo-1.md), y
 
 V. Los demás que se establezcan mediante Reglas. Fracción reformada DOF 23-02-2026
 

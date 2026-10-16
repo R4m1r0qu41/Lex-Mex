@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 75
 
-Para los efectos del artículo 32, fracción VI de la Ley, se entiende que los contribuyentes efectúan retenciones de manera regular, cuando realicen dos o más en un mes.
+Para los efectos del artículo [32](../../liva/markdown/articulo-32.md), fracción VI de la Ley, se entiende que los contribuyentes efectúan retenciones de manera regular, cuando realicen dos o más en un mes.

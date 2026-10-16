@@ -17,9 +17,9 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 140
 
-Para efectos del artículo 93, párrafo tercero de la [Ley](articulo-1.md), para proceder a realizar el cambio de régimen de importación temporal a definitiva se observará lo siguiente:
+Para efectos del artículo [93](../../ladua/markdown/articulo-93.md), párrafo tercero de la [Ley](articulo-1.md), para proceder a realizar el cambio de régimen de importación temporal a definitiva se observará lo siguiente:
 
-I. Tramitar el Pedimento respectivo en los términos de los artículos 36 y 36-A de la Ley;
+I. Tramitar el Pedimento respectivo en los términos de los artículos [36](../../ladua/markdown/articulo-36.md) y [36-A](../../ladua/markdown/articulo-36-A.md) de la Ley;
 
 II. Las regulaciones y restricciones no arancelarias y prohibiciones aplicables serán las que rijan en la fecha de cambio de régimen;
 

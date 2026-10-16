@@ -17,4 +17,4 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 10
 
-A efecto de dar cumplimiento con lo dispuesto en el artículo 37 C de la [Ley](articulo-2o.md), las [Administradoras](articulo-2o.md) darán a conocer el monto aproximado de las comisiones a cobrar por el siguiente año calendario en el estado de cuenta del tercer cuatrimestre a que se refiere el artículo [47](articulo-47.md) del presente Reglamento, en términos de pesos y centavos por cada mil pesos en administración.
+A efecto de dar cumplimiento con lo dispuesto en el artículo [37](../../lsar/markdown/articulo-37.md) C de la [Ley](articulo-2o.md), las [Administradoras](articulo-2o.md) darán a conocer el monto aproximado de las comisiones a cobrar por el siguiente año calendario en el estado de cuenta del tercer cuatrimestre a que se refiere el artículo [47](articulo-47.md) del presente Reglamento, en términos de pesos y centavos por cada mil pesos en administración.

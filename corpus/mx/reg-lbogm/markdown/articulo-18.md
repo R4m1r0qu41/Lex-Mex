@@ -17,7 +17,7 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 18
 
-Conforme lo dispuesto en los artículos 46 y 53 de la Ley, los titulares del permiso de liberación experimental y liberación en programa piloto, deberán informar mediante un reporte a la Secretaría que expidió el permiso los resultados de las liberaciones realizadas en el momento que se establezca en los permisos correspondientes. El reporte contendrá lo siguiente:
+Conforme lo dispuesto en los artículos [46](../../lbogm/markdown/articulo-46.md) y [53](../../lbogm/markdown/articulo-53.md) de la Ley, los titulares del permiso de liberación experimental y liberación en programa piloto, deberán informar mediante un reporte a la Secretaría que expidió el permiso los resultados de las liberaciones realizadas en el momento que se establezca en los permisos correspondientes. El reporte contendrá lo siguiente:
 
 I. Lineamientos del protocolo propuesto para la liberación experimental o en programa piloto;
 

@@ -17,6 +17,6 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 168
 
-Para dar por terminados, parcial o totalmente, los derechos y obligaciones asumidos por las partes en un contrato, éstas deberán elaborar el finiquito de los trabajos correspondiente, salvo en los supuestos a que se refiere el tercer párrafo del artículo 64 de la [Ley](articulo-2.md). Deberá anexarse al finiquito el acta de recepción física de los trabajos.
+Para dar por terminados, parcial o totalmente, los derechos y obligaciones asumidos por las partes en un contrato, éstas deberán elaborar el finiquito de los trabajos correspondiente, salvo en los supuestos a que se refiere el tercer párrafo del artículo [64](../../lopsrm/markdown/articulo-64.md) de la [Ley](articulo-2.md). Deberá anexarse al finiquito el acta de recepción física de los trabajos.
 
-Una vez elaborado el finiquito de los trabajos, únicamente quedarán subsistentes las acciones que deriven del mismo, así como la garantía que se contempla en el artículo 66 de la Ley, por lo que no procederá reclamación alguna de pago formulada por el contratista con posterioridad a la formalización del finiquito o, en su caso, vencido el plazo señalado en el tercer párrafo del artículo 64 de la Ley.
+Una vez elaborado el finiquito de los trabajos, únicamente quedarán subsistentes las acciones que deriven del mismo, así como la garantía que se contempla en el artículo [66](../../lopsrm/markdown/articulo-66.md) de la Ley, por lo que no procederá reclamación alguna de pago formulada por el contratista con posterioridad a la formalización del finiquito o, en su caso, vencido el plazo señalado en el tercer párrafo del artículo [64](../../lopsrm/markdown/articulo-64.md) de la Ley.

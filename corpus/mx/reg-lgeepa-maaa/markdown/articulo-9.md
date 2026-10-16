@@ -17,6 +17,6 @@ source_sha256: d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789
 
 # Artículo 9
 
-Cuando una Empresa solicite la obtención de un Certificado y cuente con un Plan de Acción, derivado de su Auditoría Ambiental, las erogaciones por concepto de la ejecución del mismo podrán ser consideradas por parte de la Procuraduría o, en su caso, de la Agencia, según corresponda, como inversión equivalente conforme al último párrafo del artículo 173 de la Ley.
+Cuando una Empresa solicite la obtención de un Certificado y cuente con un Plan de Acción, derivado de su Auditoría Ambiental, las erogaciones por concepto de la ejecución del mismo podrán ser consideradas por parte de la Procuraduría o, en su caso, de la Agencia, según corresponda, como inversión equivalente conforme al último párrafo del artículo [173](../../lgeepa/markdown/articulo-173.md) de la Ley.
 
 Artículo reformado DOF 31-10-2014

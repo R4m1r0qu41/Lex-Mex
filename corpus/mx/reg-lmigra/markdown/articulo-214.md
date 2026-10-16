@@ -17,12 +17,12 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 214
 
-Para que el Instituto pueda entregar en custodia a una persona extranjera, en términos del artículo 101 de la Ley, deberá tomar en consideración lo siguiente:
+Para que el Instituto pueda entregar en custodia a una persona extranjera, en términos del artículo [101](../../lmigra/markdown/articulo-101.md) de la Ley, deberá tomar en consideración lo siguiente:
 
-I. Que la autoridad migratoria cuente con impedimento legal para resolver en definitiva la situación migratoria de una persona extranjera, de conformidad con los términos establecidos en los artículos 43 y 111 de la Ley;
+I. Que la autoridad migratoria cuente con impedimento legal para resolver en definitiva la situación migratoria de una persona extranjera, de conformidad con los términos establecidos en los artículos [43](../../lmigra/markdown/articulo-43.md) y [111](../../lmigra/markdown/articulo-111.md) de la Ley;
 
 II. Que la persona extranjera no cuente con alerta migratoria;
 
 III. Que no haya infringido en más de una ocasión la Ley, y
 
-IV. Que no se actualice alguno de los supuestos previstos en el artículo 43, fracción I, de la Ley.
+IV. Que no se actualice alguno de los supuestos previstos en el artículo [43](../../lmigra/markdown/articulo-43.md), fracción I, de la Ley.

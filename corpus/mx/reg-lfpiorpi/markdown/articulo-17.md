@@ -17,6 +17,6 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 17
 
-Los Avisos correspondientes a los actos u operaciones a que se refiere el artículo 17, fracción XII, Apartado A, inciso a), de la Ley, deberán presentarse, en todos los casos, a través del sistema electrónico por el que se informen o presenten las declaraciones y avisos a que se refieren las disposiciones fiscales federales, siguiendo los plazos y términos que tales disposiciones fiscales señalen, siempre y cuando contengan la información que señala el artículo 24 de la Ley.
+Los Avisos correspondientes a los actos u operaciones a que se refiere el artículo [17](../../lfpiorpi/markdown/articulo-17.md), fracción XII, Apartado A, inciso a), de la Ley, deberán presentarse, en todos los casos, a través del sistema electrónico por el que se informen o presenten las declaraciones y avisos a que se refieren las disposiciones fiscales federales, siguiendo los plazos y términos que tales disposiciones fiscales señalen, siempre y cuando contengan la información que señala el artículo [24](../../lfpiorpi/markdown/articulo-24.md) de la Ley.
 
 Artículo reformado DOF 27-03-2026

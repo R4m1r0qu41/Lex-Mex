@@ -15,7 +15,7 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 # Artículo 9
 
-Para efectos del artículo 70 de la Ley, los responsables de cada subsistema serán:
+Para efectos del artículo [70](../../lspcapf/markdown/articulo-70.md) de la Ley, los responsables de cada subsistema serán:
 
 I. La persona titular de la Unidad, en su carácter de responsable de la dirección y coordinación de los subsistemas, y Fracción reformada DOF 04-01-2024
 

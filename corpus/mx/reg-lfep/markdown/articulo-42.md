@@ -23,7 +23,7 @@ El Apartado de Administración se organizará conforme a lo siguiente:
 
 I. El estatuto orgánico, sus modificaciones, y demás información general de cada organismo descentralizado;
 
-II. Nombramientos, sustituciones, remociones, designaciones, poderes generales y revocaciones de cada organismo descentralizado, en términos de lo establecido en el artículo 25, fracciones II, III y IV, de la [Ley](articulo-2o.md), y
+II. Nombramientos, sustituciones, remociones, designaciones, poderes generales y revocaciones de cada organismo descentralizado, en términos de lo establecido en el artículo [25](../../lfep/markdown/articulo-25.md), fracciones II, III y IV, de la [Ley](articulo-2o.md), y
 
 III. Acuerdo o instrumento equivalente que señale las bases para la desincorporación de la entidad y, en su caso, del documento en el que conste que se ha concluido dicho proceso.
 

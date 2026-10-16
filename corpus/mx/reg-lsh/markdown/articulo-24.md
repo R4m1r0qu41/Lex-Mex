@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 24
 
-El procedimiento de revocación se debe llevar a cabo en términos de lo dispuesto en el artículo 19 de la Ley, y sin menoscabo de las sanciones legales y administrativas a que haya lugar, así como del resarcimiento de los daños y perjuicios causados.
+El procedimiento de revocación se debe llevar a cabo en términos de lo dispuesto en el artículo [19](../../lsh/markdown/articulo-19.md) de la Ley, y sin menoscabo de las sanciones legales y administrativas a que haya lugar, así como del resarcimiento de los daños y perjuicios causados.

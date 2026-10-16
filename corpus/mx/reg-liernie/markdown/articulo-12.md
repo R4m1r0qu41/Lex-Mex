@@ -17,4 +17,4 @@ source_sha256: 8e60a8ba9f27b47d26806dbae115c0803dd9ea6a3a02a1b359dc86516d40759e
 
 # Artículo 12
 
-Para efectos de lo dispuesto en el artículo 13 de la [Ley](articulo-1.md), los interesados, por conducto de las instituciones fiduciarias, deberán solicitar la prórroga de la duración de los fideicomisos ante la Secretaría de Relaciones Exteriores, dentro de los noventa días hábiles anteriores a la extinción del contrato. La prórroga se otorgará siempre que subsistan y se hayan cumplido las condiciones a que se refiere el [artículo anterior](articulo-11.md).
+Para efectos de lo dispuesto en el artículo [13](../../lie/markdown/articulo-13.md) de la [Ley](articulo-1.md), los interesados, por conducto de las instituciones fiduciarias, deberán solicitar la prórroga de la duración de los fideicomisos ante la Secretaría de Relaciones Exteriores, dentro de los noventa días hábiles anteriores a la extinción del contrato. La prórroga se otorgará siempre que subsistan y se hayan cumplido las condiciones a que se refiere el [artículo anterior](articulo-11.md).

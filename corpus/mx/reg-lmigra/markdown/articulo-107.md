@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 107
 
-La visa de residencia temporal a que se refiere la fracción IV del artículo 40 de la Ley, se expedirá a la persona extranjera que manifieste su intención de permanecer en el territorio nacional por un período mayor a ciento ochenta días y hasta de cuatro años. El solicitante deberá demostrar alguno de los siguientes supuestos:
+La visa de residencia temporal a que se refiere la fracción IV del artículo [40](../../lmigra/markdown/articulo-40.md) de la Ley, se expedirá a la persona extranjera que manifieste su intención de permanecer en el territorio nacional por un período mayor a ciento ochenta días y hasta de cuatro años. El solicitante deberá demostrar alguno de los siguientes supuestos:
 
 I. Que cuenta con solvencia económica suficiente para cubrir el monto de los gastos de alojamiento y manutención durante su estancia en el territorio nacional;
 

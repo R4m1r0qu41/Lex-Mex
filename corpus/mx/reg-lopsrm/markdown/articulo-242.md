@@ -21,8 +21,8 @@ Las dependencias y entidades determinarán las garantías que el [Inversionista 
 
 I. La garantía de cumplimiento se calculará de manera anual con base en el monto del presupuesto autorizado a la dependencia o entidad en el ejercicio de que se trate, para cubrir la ejecución de la obra, su puesta en marcha, mantenimiento y operación;
 
-II. No se requerirá presentar la garantía a que se refiere el artículo 66 de la [Ley](articulo-2.md) cuando el Inversionista contratista concluya la ejecución de la obra;
+II. No se requerirá presentar la garantía a que se refiere el artículo [66](../../lopsrm/markdown/articulo-66.md) de la [Ley](articulo-2.md) cuando el Inversionista contratista concluya la ejecución de la obra;
 
-III. Una vez concluido el contrato, el Inversionista contratista deberá garantizar la continuidad de la operación de la obra por el plazo establecido en el artículo 66 de la Ley, a partir de la fecha en que la dependencia o entidad la reciba. La garantía se constituirá por el equivalente al diez por ciento del monto autorizado en el último ejercicio, y
+III. Una vez concluido el contrato, el Inversionista contratista deberá garantizar la continuidad de la operación de la obra por el plazo establecido en el artículo [66](../../lopsrm/markdown/articulo-66.md) de la Ley, a partir de la fecha en que la dependencia o entidad la reciba. La garantía se constituirá por el equivalente al diez por ciento del monto autorizado en el último ejercicio, y
 
 IV. El Inversionista contratista deberá contratar los seguros, coberturas y garantías que prevean las partes en el propio contrato para hacer frente a riesgos que, de materializarse, impedirían la ejecución de la obra, su puesta en marcha, mantenimiento u operación.

@@ -19,7 +19,7 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 En cualquier momento, el titular podrá revocar su consentimiento para el tratamiento de sus datos personales, para lo cual el responsable deberá establecer mecanismos sencillos y gratuitos, que permitan al titular revocar su consentimiento al menos por el mismo medio por el que lo otorgó, siempre y cuando no lo impida una disposición legal.
 
-Los mecanismos o procedimientos que el responsable establezca para atender las solicitudes de revocación del consentimiento no podrán exceder los plazos previstos en el artículo 32 de la Ley.
+Los mecanismos o procedimientos que el responsable establezca para atender las solicitudes de revocación del consentimiento no podrán exceder los plazos previstos en el artículo [32](../../lfpdppp/markdown/articulo-32.md) de la Ley.
 
 Cuando el titular solicite la confirmación del cese del tratamiento de sus datos personales, el responsable deberá responder expresamente a dicha solicitud.
 

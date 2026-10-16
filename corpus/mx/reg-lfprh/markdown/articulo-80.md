@@ -31,4 +31,4 @@ Para identificar los niveles de liquidez, así como para operar la compensación
 
 La Secretaría podrá autorizar compensaciones para el pago de obligaciones fiscales de ejercicios anteriores y sus accesorios, siempre que las mismas se realicen durante el ejercicio fiscal que se encuentre vigente. Párrafo adicionado DOF 05-09-2007
 
-Los ingresos que se perciban por las operaciones a que se refiere este artículo no se considerarán para efecto del cálculo de los ingresos a que se refiere el artículo 19 de la [Ley](articulo-2.md). Párrafo adicionado DOF 05-09-2007
+Los ingresos que se perciban por las operaciones a que se refiere este artículo no se considerarán para efecto del cálculo de los ingresos a que se refiere el artículo [19](../../lfprh/markdown/articulo-19.md) de la [Ley](articulo-2.md). Párrafo adicionado DOF 05-09-2007

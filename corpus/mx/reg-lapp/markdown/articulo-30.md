@@ -17,9 +17,9 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 30
 
-Los análisis para determinar la viabilidad de un proyecto se considerarán completos, cuando incluyan todos y cada uno de los análisis señalados en el artículo 14, fracciones I a IX, de la Ley y, a su vez, tales análisis cumplan con los requisitos establecidos en dicho ordenamiento y en los artículos anteriores de la presente sección, sin necesitarse contenidos adicionales.
+Los análisis para determinar la viabilidad de un proyecto se considerarán completos, cuando incluyan todos y cada uno de los análisis señalados en el artículo [14](../../lapp/markdown/articulo-14.md), fracciones I a IX, de la Ley y, a su vez, tales análisis cumplan con los requisitos establecidos en dicho ordenamiento y en los artículos anteriores de la presente sección, sin necesitarse contenidos adicionales.
 
-En caso de proyectos referidos en el artículo 3 de la Ley, se requerirá, además, la aprobación del Foro Consultivo Científico y Tecnológico previsto en el artículo [13](articulo-13.md), fracción III, de la propia Ley.
+En caso de proyectos referidos en el artículo [3](../../lapp/markdown/articulo-3.md) de la Ley, se requerirá, además, la aprobación del Foro Consultivo Científico y Tecnológico previsto en el artículo [13](articulo-13.md), fracción III, de la propia Ley.
 
 Los proyectos se considerarán viables cuando así lo determine la dependencia o entidad federal interesada, mediante dictamen que elabore con base en los análisis antes mencionados.
 

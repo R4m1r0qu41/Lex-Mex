@@ -17,4 +17,4 @@ source_sha256: c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a
 
 # Artículo 78
 
-La dependencia económica será probada con la información testimonial a que se refiere el artículo 159 de la Ley, y para el caso que de ella no se desprenda fehacientemente tal comprobación, el Instituto solicitará a las Secretarías de origen se recabe la información oficial del hecho, en el que consten los elementos suficientes para tener o no por demostrada tal dependencia.
+La dependencia económica será probada con la información testimonial a que se refiere el artículo [159](../../lissfam/markdown/articulo-159.md) de la Ley, y para el caso que de ella no se desprenda fehacientemente tal comprobación, el Instituto solicitará a las Secretarías de origen se recabe la información oficial del hecho, en el que consten los elementos suficientes para tener o no por demostrada tal dependencia.

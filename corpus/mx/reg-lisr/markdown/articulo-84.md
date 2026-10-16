@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 84
 
-Para efectos del artículo 41, párrafo cuarto de la [Ley](articulo-1.md), los contribuyentes determinarán el margen de utilidad bruta con el que operan en el ejercicio de que se trate, por cada grupo de artículos homogéneos o por departamentos, considerando únicamente las mercancías que se encuentren en el área de ventas al público. La diferencia entre el precio de venta y el último precio de adquisición de las mercancías del ejercicio de que se trate, será el margen de utilidad bruta.
+Para efectos del artículo [41](../../lisr/markdown/articulo-41.md), párrafo cuarto de la [Ley](articulo-1.md), los contribuyentes determinarán el margen de utilidad bruta con el que operan en el ejercicio de que se trate, por cada grupo de artículos homogéneos o por departamentos, considerando únicamente las mercancías que se encuentren en el área de ventas al público. La diferencia entre el precio de venta y el último precio de adquisición de las mercancías del ejercicio de que se trate, será el margen de utilidad bruta.

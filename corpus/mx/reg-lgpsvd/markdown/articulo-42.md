@@ -17,7 +17,7 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 42
 
-Para el desarrollo de los mecanismos de financiamiento coordinado que, en su caso, proponga el Centro Nacional, derivado de los lineamientos que emita el Consejo Nacional, se considerará en todo momento que los proyectos de la sociedad civil, de los municipios o de las entidades federativas a que se refiere el artículo 29 de la Ley, justifiquen debidamente:
+Para el desarrollo de los mecanismos de financiamiento coordinado que, en su caso, proponga el Centro Nacional, derivado de los lineamientos que emita el Consejo Nacional, se considerará en todo momento que los proyectos de la sociedad civil, de los municipios o de las entidades federativas a que se refiere el artículo [29](../../lgpsvd/markdown/articulo-29.md) de la Ley, justifiquen debidamente:
 
 I. La incidencia directa que guardan con temas prioritarios de prevención social de la Violencia y la delincuencia;
 

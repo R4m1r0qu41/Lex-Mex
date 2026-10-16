@@ -17,7 +17,7 @@ source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 
 # Artículo 82
 
-Además de las obligaciones establecidas en el artículo 32 de la [Ley](articulo-2.md), el organismo de certificación tendrá las siguientes:
+Además de las obligaciones establecidas en el artículo [32](../../lfpccs/markdown/articulo-32.md) de la [Ley](articulo-2.md), el organismo de certificación tendrá las siguientes:
 
 I. Presentar ante el SNICS el pago correspondiente a la renovación anual;
 

@@ -53,7 +53,7 @@ V. La evaluación de los avances logrados en la ejecución en el ejercicio fisca
 
 VI. La Secretaría y las dependencias coordinadoras de sector que correspondan deberán identificar e integrar, en la elaboración de los anteproyectos las asignaciones federales de gasto, con enfoque de sistema nacional, en los rubros siguientes:
 
-a) Atención de la población indígena, incluyendo los recursos transferidos a las entidades federativas, así como las asignaciones de las entidades, para efectos de la integración que corresponda en términos del artículo 41, fracción II, inciso j) de la [Ley](articulo-2.md) y demás disposiciones aplicables;
+a) Atención de la población indígena, incluyendo los recursos transferidos a las entidades federativas, así como las asignaciones de las entidades, para efectos de la integración que corresponda en términos del artículo [41](../../lfprh/markdown/articulo-41.md), fracción II, inciso j) de la [Ley](articulo-2.md) y demás disposiciones aplicables;
 
 b) Gasto social, incluyendo los recursos transferidos a las entidades federativas, así como las asignaciones de las entidades, para efectos de la integración que corresponda en términos de la Ley General de Desarrollo Social y demás disposiciones aplicables;
 

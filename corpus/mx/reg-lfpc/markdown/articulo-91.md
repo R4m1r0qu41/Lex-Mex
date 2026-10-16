@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 91
 
-En la imposición de multas debe darse el mismo trato a quienes se coloquen en situación similar y sancionar con distinta medida a quienes tienen diferente capacidad económica, además de tomar en consideración, al individualizar la sanción, los supuestos contenidos en el artículo 132 de la Ley.
+En la imposición de multas debe darse el mismo trato a quienes se coloquen en situación similar y sancionar con distinta medida a quienes tienen diferente capacidad económica, además de tomar en consideración, al individualizar la sanción, los supuestos contenidos en el artículo [132](../../lfpc/markdown/articulo-132.md) de la Ley.

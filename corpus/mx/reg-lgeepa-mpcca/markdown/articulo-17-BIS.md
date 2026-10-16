@@ -17,7 +17,7 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 17 BIS
 
-Para los efectos del presente Reglamento, se consideran subsectores específicos pertenecientes a cada uno de los sectores industriales señalados en el artículo 111 Bis de la Ley, como fuentes fijas de jurisdicción Federal los siguientes:
+Para los efectos del presente Reglamento, se consideran subsectores específicos pertenecientes a cada uno de los sectores industriales señalados en el artículo [111 Bis](../../lgeepa/markdown/articulo-111-BIS.md) de la Ley, como fuentes fijas de jurisdicción Federal los siguientes:
 
 A) ACTIVIDADES DEL SECTOR HIDROCARBUROS Párrafo reformado DOF 31-10-2014
 

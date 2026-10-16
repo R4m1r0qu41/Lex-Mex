@@ -17,6 +17,6 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 121
 
-Para los efectos del penúltimo párrafo del artículo 45 de la Ley, el Instituto determinará, en su caso, el lugar o medio, fecha y hora para la celebración de la audiencia, la cual podrá posponerse sólo por causa justificada. En dicha audiencia se desahogarán las pruebas que por su naturaleza así lo requieran y se levantará el acta correspondiente.
+Para los efectos del penúltimo párrafo del artículo [45](../../lfpdppp/markdown/articulo-45.md) de la Ley, el Instituto determinará, en su caso, el lugar o medio, fecha y hora para la celebración de la audiencia, la cual podrá posponerse sólo por causa justificada. En dicha audiencia se desahogarán las pruebas que por su naturaleza así lo requieran y se levantará el acta correspondiente.
 
 Presentación de alegatos

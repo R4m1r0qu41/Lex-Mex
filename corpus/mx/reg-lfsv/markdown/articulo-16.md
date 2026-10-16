@@ -33,6 +33,6 @@ VI. Un representante de la Secretaría de Economía;
 
 VII. Un representante de la Secretaría de Salud, y
 
-VIII. Las vocalías, las cuales serán determinadas por los demás miembros de la Junta Directiva en función del número de representantes y personas conforme a lo establecido en el artículo 17 de la [Ley](articulo-2.md).
+VIII. Las vocalías, las cuales serán determinadas por los demás miembros de la Junta Directiva en función del número de representantes y personas conforme a lo establecido en el artículo [17](../../lfsv/markdown/articulo-17.md) de la [Ley](articulo-2.md).
 
 El presidente y el secretario técnico serán nombrados de entre los miembros de la Junta Directiva por dichos miembros y durarán en su cargo un periodo de tres años, pudiendo ser reelectos por el mismo periodo y por una sola ocasión. Los representantes de las Secretarías no podrán ejercer estos cargos.

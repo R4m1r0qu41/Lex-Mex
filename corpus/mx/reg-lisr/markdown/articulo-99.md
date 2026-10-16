@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 99
 
-Para efectos del artículo 73, párrafo último de la [Ley](articulo-1.md), los integrantes de los coordinados que se agrupen para realizar gastos comunes, comprobarán dichos gastos con la constancia que le entregue el contribuyente que solicitó los comprobantes a su nombre en la que se especifique el monto total del gasto común y de los impuestos que, en su caso, se hayan trasladado, y la parte proporcional que le corresponda al integrante de que se trate. Además, dicha constancia deberá contener lo siguiente:
+Para efectos del artículo [73](../../lisr/markdown/articulo-73.md), párrafo último de la [Ley](articulo-1.md), los integrantes de los coordinados que se agrupen para realizar gastos comunes, comprobarán dichos gastos con la constancia que le entregue el contribuyente que solicitó los comprobantes a su nombre en la que se especifique el monto total del gasto común y de los impuestos que, en su caso, se hayan trasladado, y la parte proporcional que le corresponda al integrante de que se trate. Además, dicha constancia deberá contener lo siguiente:
 
 I. Nombre, clave del registro federal de contribuyentes o, en su caso, clave única de registro de población, de la persona que prestó el servicio, arrendó o enajenó el bien;
 

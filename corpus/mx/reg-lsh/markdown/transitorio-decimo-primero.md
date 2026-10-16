@@ -15,4 +15,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Décimo Primero
 
-En cuanto la Secretaría o la Comisión, en el ámbito de sus competencias, emitan la Normatividad a la que deban sujetarse las personas Permisionarias que se encuentran en el supuesto de participación cruzada a que se refiere el artículo 118 de la Ley, la Comisión es la responsable de resolver los asuntos en esta materia conforme a la Normatividad emitida por la entonces Comisión Reguladora de Energía.
+En cuanto la Secretaría o la Comisión, en el ámbito de sus competencias, emitan la Normatividad a la que deban sujetarse las personas Permisionarias que se encuentran en el supuesto de participación cruzada a que se refiere el artículo [118](../../lsh/markdown/articulo-118.md) de la Ley, la Comisión es la responsable de resolver los asuntos en esta materia conforme a la Normatividad emitida por la entonces Comisión Reguladora de Energía.

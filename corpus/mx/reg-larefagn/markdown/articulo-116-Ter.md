@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 116 Ter
 
-Los proyectos de edición bibliográfica en beneficio del Ejército, Fuerza Aérea y Guardia Nacional que se presenten a la Secretaría para efectos del artículo 56, fracción III, de la Ley, deberán sustentarse en lineamientos y criterios vigentes para su desarrollo, evitando proponer ediciones bibliográficas que carezcan de este sustento.
+Los proyectos de edición bibliográfica en beneficio del Ejército, Fuerza Aérea y Guardia Nacional que se presenten a la Secretaría para efectos del artículo [56](../../larefam/markdown/articulo-56.md), fracción III, de la Ley, deberán sustentarse en lineamientos y criterios vigentes para su desarrollo, evitando proponer ediciones bibliográficas que carezcan de este sustento.
 
 Artículo adicionado DOF 20-03-2026

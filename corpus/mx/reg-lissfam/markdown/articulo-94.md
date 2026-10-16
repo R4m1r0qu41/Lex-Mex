@@ -17,6 +17,6 @@ source_sha256: c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a
 
 # Artículo 94
 
-La persona titular de la Comandancia, Coordinación o Jefatura del Organismo al que perteneciere la persona militar, verificará que una vez recabado el acuse de recibo de la notificación a que se refiere el artículo 204 de la Ley, se remita a la brevedad a la autoridad que corresponda, para la continuidad del trámite respectivo.
+La persona titular de la Comandancia, Coordinación o Jefatura del Organismo al que perteneciere la persona militar, verificará que una vez recabado el acuse de recibo de la notificación a que se refiere el artículo [204](../../lissfam/markdown/articulo-204.md) de la Ley, se remita a la brevedad a la autoridad que corresponda, para la continuidad del trámite respectivo.
 
 Artículo reformado DOF 20-03-2026

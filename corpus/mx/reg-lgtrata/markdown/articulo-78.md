@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 78
 
-Para acceder a los recursos del Fondo en el caso de las medidas contempladas en el artículo 90, fracciones I, II, III, y VIII, de la Ley, será necesario que la autoridad que brinde la Asistencia y Protección a la víctima, ofendido o testigo lo solicite directamente al Comité Técnico del Fondo, debiendo cumplir con los requisitos establecidos en las Reglas de Operación.
+Para acceder a los recursos del Fondo en el caso de las medidas contempladas en el artículo [90](../../lgtrata/markdown/articulo-90.md), fracciones I, II, III, y VIII, de la Ley, será necesario que la autoridad que brinde la Asistencia y Protección a la víctima, ofendido o testigo lo solicite directamente al Comité Técnico del Fondo, debiendo cumplir con los requisitos establecidos en las Reglas de Operación.

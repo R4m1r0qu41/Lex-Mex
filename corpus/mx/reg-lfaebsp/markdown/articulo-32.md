@@ -21,7 +21,7 @@ El SAE ordenará la práctica del avalúo de los bienes que le sean transferidos
 
 El SAE ordenará también la práctica de avalúo de los bienes, en el caso de no contar con uno vigente, para determinar el precio base de venta de los mismos, cuando la venta se realice mediante los procedimientos de adjudicación directa o remate y cuando se estime conveniente en los procedimientos de licitación pública o subasta. Párrafo reformado DOF 29-11-2006
 
-Se considera precio base de venta al fijado por los avalúos a que se refiere el párrafo segundo del artículo 36 de la [Ley](articulo-1.md). Párrafo reformado DOF 29-11-2006
+Se considera precio base de venta al fijado por los avalúos a que se refiere el párrafo segundo del artículo [36](../../lfaebsp/markdown/articulo-36.md) de la [Ley](articulo-1.md). Párrafo reformado DOF 29-11-2006
 
 El SAE deberá elegir entre los valuadores, al que ofrezca una tarifa competitiva dentro del mercado y el tipo de servicio idóneo a la situación de valoración que requiera.
 

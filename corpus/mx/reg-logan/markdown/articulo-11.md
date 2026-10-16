@@ -17,4 +17,4 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 11
 
-La Secretaría de Hacienda y Crédito Público, por conducto de las sociedades nacionales de crédito autorizadas para operar como banca de primer piso, deberá recaudar y podrá administrar en cuentas especiales los ingresos destinados a las funciones previstas por la fracción XIV del artículo 5o. de la Ley.
+La Secretaría de Hacienda y Crédito Público, por conducto de las sociedades nacionales de crédito autorizadas para operar como banca de primer piso, deberá recaudar y podrá administrar en cuentas especiales los ingresos destinados a las funciones previstas por la fracción XIV del artículo [5](../../log/markdown/articulo-5o.md)o. de la Ley.

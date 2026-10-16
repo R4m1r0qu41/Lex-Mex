@@ -17,4 +17,4 @@ source_sha256: c1c2979863552f79416de98fc49cc4898abefac47eb223de3c163a49b793273b
 
 # Artículo 8
 
-La difusión de la campaña nacional permanente prevista en el artículo 14 de la [Ley](articulo-2.md), deberá ser lo suficientemente amplia y concurrente en todos los medios de difusión a efecto de que se conozca a nivel nacional, entre los patrones y los Trabajadores, las distintas modalidades de ayuda alimentaria establecidas en la Ley.
+La difusión de la campaña nacional permanente prevista en el artículo [14](../../laat/markdown/articulo-14.md) de la [Ley](articulo-2.md), deberá ser lo suficientemente amplia y concurrente en todos los medios de difusión a efecto de que se conozca a nivel nacional, entre los patrones y los Trabajadores, las distintas modalidades de ayuda alimentaria establecidas en la Ley.

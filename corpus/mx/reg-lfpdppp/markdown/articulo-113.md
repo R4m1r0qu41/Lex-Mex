@@ -17,7 +17,7 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 113
 
-La solicitud para iniciar el procedimiento de protección de derechos deberá presentarse por el titular o su representante; ya sea mediante escrito libre, en los formatos que para tal efecto determine el Instituto o a través del sistema que éste establezca, en el plazo previsto en el artículo 45 de la Ley.
+La solicitud para iniciar el procedimiento de protección de derechos deberá presentarse por el titular o su representante; ya sea mediante escrito libre, en los formatos que para tal efecto determine el Instituto o a través del sistema que éste establezca, en el plazo previsto en el artículo [45](../../lfpdppp/markdown/articulo-45.md) de la Ley.
 
 Tanto el formato como el sistema deberán ser puestos a disposición por el Instituto en su sitio de Internet y en cada una de las oficinas habilitadas que éste determine.
 

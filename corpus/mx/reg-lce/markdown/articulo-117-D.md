@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 117-D
 
-El procedimiento a que se refiere el artículo 89 D de la [Ley](articulo-1o.md), se substanciará de la siguiente forma:
+El procedimiento a que se refiere el artículo [89](../../lce/markdown/articulo-89.md) D de la [Ley](articulo-1o.md), se substanciará de la siguiente forma:
 
 I. La solicitud deberá presentarse por escrito, ante la unidad administrativa competente de la [Secretaría](articulo-1o.md), por el particular interesado o por quien actúe en su representación, acompañada de los documentos que lo acrediten, cumplir con los requisitos previstos en la Ley, presentar debidamente requisitado el formulario respectivo que para tal efecto emita la Secretaría y consignar la firma autógrafa del interesado o de quien actúe en su representación;
 

@@ -21,8 +21,8 @@ La [Secretaría](articulo-2.md) promoverá, a través de los acuerdos de coordin
 
 I. La obligación de promover, respetar, proteger y garantizar los derechos culturales de las personas;
 
-II. La forma en la cual las personas con discapacidad ejercerán sus derechos culturales con base en los principios previstos en el artículo 14 de la [Ley](articulo-2.md);
+II. La forma en la cual las personas con discapacidad ejercerán sus derechos culturales con base en los principios previstos en el artículo [14](../../lgcdc/markdown/articulo-14.md) de la [Ley](articulo-2.md);
 
-III. El desarrollo de acciones para investigar, conservar, proteger, fomentar, formar, enriquecer y difundir el patrimonio cultural inmaterial, favoreciendo la dignificación y respeto de las manifestaciones de las culturas originarias, mediante las acciones previstas en el artículo 15 de la Ley, y
+III. El desarrollo de acciones para investigar, conservar, proteger, fomentar, formar, enriquecer y difundir el patrimonio cultural inmaterial, favoreciendo la dignificación y respeto de las manifestaciones de las culturas originarias, mediante las acciones previstas en el artículo [15](../../lgcdc/markdown/articulo-15.md) de la Ley, y
 
-IV. El resguardo del patrimonio cultural inmaterial e incentivar la participación de las organizaciones de la sociedad civil y pueblos originarios, conforme a lo señalado en el artículo 16 de la Ley.
+IV. El resguardo del patrimonio cultural inmaterial e incentivar la participación de las organizaciones de la sociedad civil y pueblos originarios, conforme a lo señalado en el artículo [16](../../lgcdc/markdown/articulo-16.md) de la Ley.

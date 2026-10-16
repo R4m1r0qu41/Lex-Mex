@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 117
 
-Las partidas no deducibles a que se refiere el artículo 77 de la [Ley](articulo-1.md), son aquéllas señaladas como no deducibles en la citada Ley.
+Las partidas no deducibles a que se refiere el artículo [77](../../lisr/markdown/articulo-77.md) de la [Ley](articulo-1.md), son aquéllas señaladas como no deducibles en la citada Ley.

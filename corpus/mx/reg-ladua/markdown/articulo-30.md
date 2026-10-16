@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 30
 
-Para efectos del artículo 7o. de la [Ley](articulo-1.md), las empresas aéreas que efectúen el transporte internacional de pasajeros, deberán transmitir a la Autoridad Aduanera mediante el [Sistema Electrónico Aduanero](articulo-1.md), la información de los pasajeros y de la tripulación que transporten, provenientes del extranjero con destino a territorio nacional, así como los que salgan del territorio nacional con destino al extranjero. Párrafo reformado DOF 23-02-2026
+Para efectos del artículo [7](../../ladua/markdown/articulo-7o.md)o. de la [Ley](articulo-1.md), las empresas aéreas que efectúen el transporte internacional de pasajeros, deberán transmitir a la Autoridad Aduanera mediante el [Sistema Electrónico Aduanero](articulo-1.md), la información de los pasajeros y de la tripulación que transporten, provenientes del extranjero con destino a territorio nacional, así como los que salgan del territorio nacional con destino al extranjero. Párrafo reformado DOF 23-02-2026
 
 La información a que se refiere el párrafo anterior, deberá contener los datos acerca de cada pasajero o tripulante, del documento que acredite la identidad de los mismos, del vuelo, del servicio prestado y los demás datos del medio de transporte, así como aquéllos que se exijan de conformidad con las Reglas que al efecto emita el [SAT](articulo-1.md).
 

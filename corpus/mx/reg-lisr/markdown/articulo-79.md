@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 79
 
-Los contribuyentes que, de conformidad con el artículo 39, párrafo primero de la [Ley](articulo-1.md), determinen el costo de las mercancías que enajenen, así como el de las que integren el inventario final del ejercicio, conforme al sistema de costeo absorbente sobre la base de costos predeterminados deberán:
+Los contribuyentes que, de conformidad con el artículo [39](../../lisr/markdown/articulo-39.md), párrafo primero de la [Ley](articulo-1.md), determinen el costo de las mercancías que enajenen, así como el de las que integren el inventario final del ejercicio, conforme al sistema de costeo absorbente sobre la base de costos predeterminados deberán:
 
 I. Aplicarlo a cada una de las mercancías que produzcan y para cada uno de los elementos que integran el costo de las mismas;
 

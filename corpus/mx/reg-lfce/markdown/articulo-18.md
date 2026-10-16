@@ -17,7 +17,7 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 18
 
-Los agentes económicos deben notificar la concentración a que se refiere el artículo 20 de la Ley, antes de que suceda cualquiera de los siguientes supuestos:
+Los agentes económicos deben notificar la concentración a que se refiere el artículo [20](../../lfce/markdown/articulo-20.md) de la Ley, antes de que suceda cualquiera de los siguientes supuestos:
 
 I. El acto jurídico se perfeccione de conformidad con la legislación aplicable o, en su caso, se cumpla la condición suspensiva a la que esté sujeto dicho acto;
 
@@ -29,6 +29,6 @@ IV. Tratándose de una sucesión de actos, se perfeccione el último de ellos, p
 
 Las concentraciones derivadas de actos jurídicos realizados en el extranjero, deberán notificarse antes de que surtan efectos jurídicos o materiales en territorio nacional.
 
-Los agentes económicos no pueden ejecutar la concentración dentro del plazo de diez días hábiles siguientes a la presentación de la notificación previsto en el artículo 20 de la Ley, ni después de recibida la orden de no ejecutar, hasta en tanto la Comisión emita resolución.
+Los agentes económicos no pueden ejecutar la concentración dentro del plazo de diez días hábiles siguientes a la presentación de la notificación previsto en el artículo [20](../../lfce/markdown/articulo-20.md) de la Ley, ni después de recibida la orden de no ejecutar, hasta en tanto la Comisión emita resolución.
 
 Los actos realizados en contravención a este artículo no producirán efectos jurídicos, sin perjuicio de la responsabilidad administrativa, civil y penal de los agentes económicos y de las personas que ordenaron o coadyuvaron en la ejecución.

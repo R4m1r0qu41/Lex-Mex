@@ -17,7 +17,7 @@ source_sha256: 9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3
 
 # Artículo 16
 
-Con excepción de los bienes señalados en los artículos 6 y 6 bis de la [Ley](articulo-1.md), el SAE podrá abstenerse de aceptar [Encargos](articulo-1.md), en los siguientes casos: Párrafo reformado DOF 29-11-2006
+Con excepción de los bienes señalados en los artículos [6](../../lfaebsp/markdown/articulo-6o.md) y [6 bis](../../lfaebsp/markdown/articulo-6-bis.md) de la [Ley](articulo-1.md), el SAE podrá abstenerse de aceptar [Encargos](articulo-1.md), en los siguientes casos: Párrafo reformado DOF 29-11-2006
 
 I.- Cuando se trate de bienes para administración, donación o destrucción, en cuyo caso, se justificarán los motivos de la abstención, y
 

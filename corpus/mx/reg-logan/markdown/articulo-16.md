@@ -17,7 +17,7 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 16
 
-Las organizaciones ganaderas para el cumplimiento de su objeto, en términos del artículo 5o. de la Ley, realizarán las siguientes actividades:
+Las organizaciones ganaderas para el cumplimiento de su objeto, en términos del artículo [5](../../log/markdown/articulo-5o.md)o. de la Ley, realizarán las siguientes actividades:
 
 I. Propugnar por la constitución de una sola organización ganadera general o especializada, por municipio o región ganadera;
 

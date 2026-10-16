@@ -17,7 +17,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 224
 
-De conformidad con lo dispuesto en el artículo 82 de la [Ley](articulo-2.md), las dependencias y entidades que suscriban convenios de coordinación para transferir recursos de sus presupuestos a las entidades federativas con el propósito de descentralizar o reasignar la ejecución de funciones, programas o proyectos federales y, en su caso, recursos humanos y materiales deberán:
+De conformidad con lo dispuesto en el artículo [82](../../lfprh/markdown/articulo-82.md) de la [Ley](articulo-2.md), las dependencias y entidades que suscriban convenios de coordinación para transferir recursos de sus presupuestos a las entidades federativas con el propósito de descentralizar o reasignar la ejecución de funciones, programas o proyectos federales y, en su caso, recursos humanos y materiales deberán:
 
 I. Una vez autorizada la aplicación de recursos y formalizado el convenio, ministrar los recursos conforme a los términos y el calendario previstos en el mismo, con cargo a sus presupuestos y de acuerdo con las disposiciones aplicables;
 

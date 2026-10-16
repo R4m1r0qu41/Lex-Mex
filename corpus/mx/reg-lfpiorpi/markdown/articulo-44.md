@@ -17,4 +17,4 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 44
 
-Quienes participen en la realización de los actos u operaciones referidos en el artículo 32 de la Ley, podrán dar o aceptar, para cubrir las obligaciones referidas en dicho artículo, instrumentos de pago o liquidación distintos a los señalados en dicho precepto.
+Quienes participen en la realización de los actos u operaciones referidos en el artículo [32](../../lfpiorpi/markdown/articulo-32.md) de la Ley, podrán dar o aceptar, para cubrir las obligaciones referidas en dicho artículo, instrumentos de pago o liquidación distintos a los señalados en dicho precepto.

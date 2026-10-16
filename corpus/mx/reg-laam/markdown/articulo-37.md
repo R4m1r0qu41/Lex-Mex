@@ -27,6 +27,6 @@ III. Aptitud y competencia profesional: Será la obtenida del total de las hojas
 
 IV. Conducta civil y militar: Se obtendrá del concepto de disciplina contenida en las hojas de actuación y en los registros oficiales correspondientes, y
 
-V. Antigüedad en el grado: Se acreditará con el despacho o documento oficial que se haya expedido para el grado que se ostenta, conforme al artículo 45 de la Ley.
+V. Antigüedad en el grado: Se acreditará con el despacho o documento oficial que se haya expedido para el grado que se ostenta, conforme al artículo [45](../../laam/markdown/articulo-45.md) de la Ley.
 
 Artículo reformado DOF 22-09-2010, 11-03-2016

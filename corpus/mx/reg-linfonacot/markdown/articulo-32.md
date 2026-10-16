@@ -17,7 +17,7 @@ source_sha256: 1462bbacad053d49c213e32c1859dd914c1415d2c37c6a22970bd87877a9c9bd
 
 # Artículo 32
 
-El ejercicio de las facultades y obligaciones del Director General previstas en el artículo 28 de la Ley, comprende, entre otras, las responsabilidades siguientes:
+El ejercicio de las facultades y obligaciones del Director General previstas en el artículo [28](../../linfonacot/markdown/articulo-28.md) de la Ley, comprende, entre otras, las responsabilidades siguientes:
 
 I. Dirigir el desarrollo y ejecución de los programas estratégico, institucional, operativo y financiero;
 

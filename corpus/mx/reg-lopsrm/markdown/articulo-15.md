@@ -33,4 +33,4 @@ VI. Los trabajos de conservación y mantenimiento de bienes inmuebles sujetos a 
 
 VII. Las obras que deban realizarse por requerimiento o afectación de otras dependencias o entidades, así como las correspondientes al desarrollo regional a través de los convenios que celebren el Ejecutivo Federal con los gobiernos estatales, cuando sea el caso, y
 
-VIII. Además de lo previsto en las fracciones anteriores, en las obras por administración directa, la disponibilidad del personal adscrito a las áreas de proyectos y construcción, así como los recursos, maquinaria y equipo de su propiedad, conforme a los términos señalados en el artículo 70 de la Ley. Reforma DOF 27-09-2022: Derogó del artículo los entonces párrafos segundo y tercero
+VIII. Además de lo previsto en las fracciones anteriores, en las obras por administración directa, la disponibilidad del personal adscrito a las áreas de proyectos y construcción, así como los recursos, maquinaria y equipo de su propiedad, conforme a los términos señalados en el artículo [70](../../lopsrm/markdown/articulo-70.md) de la Ley. Reforma DOF 27-09-2022: Derogó del artículo los entonces párrafos segundo y tercero

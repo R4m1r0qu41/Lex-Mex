@@ -17,7 +17,7 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 17
 
-Las condiciones que la Comisión podrá establecer a los agentes económicos, en términos de la fracción I del artículo 19 de la Ley, podrán consistir en:
+Las condiciones que la Comisión podrá establecer a los agentes económicos, en términos de la fracción I del artículo [19](../../lfce/markdown/articulo-19.md) de la Ley, podrán consistir en:
 
 I. Llevar a cabo una determinada conducta, o abstenerse de realizarla;
 

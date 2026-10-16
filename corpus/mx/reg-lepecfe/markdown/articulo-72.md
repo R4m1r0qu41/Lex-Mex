@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 72
 
-Para los efectos de lo previsto en el artículo 130 de la Ley, la evaluación anual a cargo de la Persona Comisaria debe realizarse conforme a las mejores prácticas en la materia, así como procurar que los resultados de la evaluación y los reportes que deriven de esta, sean comparables en el tiempo.
+Para los efectos de lo previsto en el artículo [130](../../lepecfe/markdown/articulo-130.md) de la Ley, la evaluación anual a cargo de la Persona Comisaria debe realizarse conforme a las mejores prácticas en la materia, así como procurar que los resultados de la evaluación y los reportes que deriven de esta, sean comparables en el tiempo.

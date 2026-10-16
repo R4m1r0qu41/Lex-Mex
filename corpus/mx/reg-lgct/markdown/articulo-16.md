@@ -17,4 +17,4 @@ source_sha256: 4afbc3d9466d845cfcfb8c2a64a1b7b5cf4efcbc31fe8b58afba418bb9600c52
 
 # Artículo 16
 
-Los permisos sanitarios previos de importación de productos del tabaco, previstos en el artículo 31 de la Ley, serán otorgados por la [COFEPRIS](articulo-2.md) de conformidad con lo establecido en la Ley y el presente Reglamento.
+Los permisos sanitarios previos de importación de productos del tabaco, previstos en el artículo [31](../../lgct/markdown/articulo-31.md) de la Ley, serán otorgados por la [COFEPRIS](articulo-2.md) de conformidad con lo establecido en la Ley y el presente Reglamento.

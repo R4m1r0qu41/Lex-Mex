@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 117
 
-Cuando corresponda al gobierno de México iniciar un mecanismo alternativo de solución de controversias en materia de prácticas desleales de comercio internacional conforme a los tratados o convenios comerciales internacionales a que se refiere el artículo 97 de la [Ley](articulo-1o.md) se observarán las siguientes reglas:
+Cuando corresponda al gobierno de México iniciar un mecanismo alternativo de solución de controversias en materia de prácticas desleales de comercio internacional conforme a los tratados o convenios comerciales internacionales a que se refiere el artículo [97](../../lce/markdown/articulo-97.md) de la [Ley](articulo-1o.md) se observarán las siguientes reglas:
 
 I. La parte interesada que opte por acudir a dichos mecanismos deberá presentar una solicitud por escrito que contenga los siguientes datos:
 

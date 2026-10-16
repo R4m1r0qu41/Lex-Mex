@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 35
 
-Para establecer o suprimir un lugar destinado al tránsito internacional de personas, de conformidad con lo establecido en el artículo 31 de la Ley, se observará lo siguiente:
+Para establecer o suprimir un lugar destinado al tránsito internacional de personas, de conformidad con lo establecido en el artículo [31](../../lmigra/markdown/articulo-31.md) de la Ley, se observará lo siguiente:
 
 I. La Secretaría solicitará la opinión de las Secretarías de Relaciones Exteriores; de Hacienda y Crédito Público; de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; de Comunicaciones y Transportes; de Salud, y en su caso de Marina, así como de aquéllas que juzgue conveniente.
 

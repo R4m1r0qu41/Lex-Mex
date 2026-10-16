@@ -17,6 +17,6 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 271
 
-Para efectos de lo dispuesto por el tercer párrafo del artículo 78 de la [Ley](articulo-2.md), el licitante o contratista acreditará que ha pagado la multa que se le impuso, presentando a la Secretaría de la Función Pública el documento comprobatorio del pago correspondiente, a fin de que se publique en CompraNet que la inhabilitación ha dejado de surtir efectos.
+Para efectos de lo dispuesto por el tercer párrafo del artículo [78](../../lopsrm/markdown/articulo-78.md) de la [Ley](articulo-2.md), el licitante o contratista acreditará que ha pagado la multa que se le impuso, presentando a la Secretaría de la Función Pública el documento comprobatorio del pago correspondiente, a fin de que se publique en CompraNet que la inhabilitación ha dejado de surtir efectos.
 
 En defecto de lo señalado en el párrafo anterior, los licitantes deberán agregar a sus proposiciones copia simple del documento comprobatorio de pago referido en el citado párrafo, el cual será tomado en consideración por la dependencia o entidad convocante durante la evaluación de las proposiciones.

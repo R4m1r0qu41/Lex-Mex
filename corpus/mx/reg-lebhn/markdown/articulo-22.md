@@ -17,4 +17,4 @@ source_sha256: 3a86c9bc8afe7162bbcc0c31a28250ca91cfbf2cb6a08deddae0653977ae3d3f
 
 # Artículo 22
 
-Las Autoridades podrán inscribir su denominación en la Bandera Nacional, siempre que ello contribuya al culto y respeto de dicho Símbolo Patrio, que no invada el Escudo Nacional y el ejemplar se apegue estrictamente a lo establecido en el artículo 3o. de la Ley.
+Las Autoridades podrán inscribir su denominación en la Bandera Nacional, siempre que ello contribuya al culto y respeto de dicho Símbolo Patrio, que no invada el Escudo Nacional y el ejemplar se apegue estrictamente a lo establecido en el artículo [3](../../lebhn/markdown/articulo-3o.md)o. de la Ley.

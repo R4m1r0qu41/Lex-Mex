@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 5
 
-Para efectos del artículo 3, fracción IV de la [Ley](articulo-1.md), se considera que no son actividades previas o auxiliares, las que sean iguales a las actividades del residente en el extranjero, salvo que dichas actividades también tengan la naturaleza de previas o auxiliares en el extranjero. No se considerarán actividades auxiliares las de dirección.
+Para efectos del artículo [3](../../lisr/markdown/articulo-3.md), fracción IV de la [Ley](articulo-1.md), se considera que no son actividades previas o auxiliares, las que sean iguales a las actividades del residente en el extranjero, salvo que dichas actividades también tengan la naturaleza de previas o auxiliares en el extranjero. No se considerarán actividades auxiliares las de dirección.

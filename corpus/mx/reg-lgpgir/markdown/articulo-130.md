@@ -23,7 +23,7 @@ I. Ejecutar medidas inmediatas para contener los materiales o residuos liberados
 
 II. Avisar de inmediato a la [Procuraduría](articulo-2.md) y a las autoridades competentes, que ocurrió el derrame, infiltración, descarga o vertido de materiales peligrosos o residuos peligrosos;
 
-III. Ejecutar las medidas que les hubieren impuesto las autoridades competentes conforme a lo previsto en el artículo 72 de la [Ley](articulo-2.md), y
+III. Ejecutar las medidas que les hubieren impuesto las autoridades competentes conforme a lo previsto en el artículo [72](../../lgpgir/markdown/articulo-72.md) de la [Ley](articulo-2.md), y
 
 IV. En su caso, iniciar los trabajos de caracterización del sitio contaminado y realizar las acciones de remediación correspondientes.
 

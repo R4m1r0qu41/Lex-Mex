@@ -17,7 +17,7 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 27
 
-En términos del artículo 17, fracción II de la Ley, cuando los datos personales sean obtenidos directamente del titular, el responsable deberá proporcionar de manera inmediata al menos la siguiente información:
+En términos del artículo [17](../../lfpdppp/markdown/articulo-17.md), fracción II de la Ley, cuando los datos personales sean obtenidos directamente del titular, el responsable deberá proporcionar de manera inmediata al menos la siguiente información:
 
 I. La identidad y domicilio del responsable;
 

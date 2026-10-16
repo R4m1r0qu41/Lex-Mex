@@ -31,7 +31,7 @@ Cuando por imposibilidad física o jurídica que sobrevenga al ofrecimiento y po
 
 Los medios de prueba documentales que no sean ofrecidos de conformidad con la fracción I del artículo [46](articulo-46.md) serán desechados.
 
-Las pruebas supervenientes podrán presentarse siempre que no se haya listado el asunto para resolución del Pleno, en los términos de la fracción VI del artículo 33 de la Ley.
+Las pruebas supervenientes podrán presentarse siempre que no se haya listado el asunto para resolución del Pleno, en los términos de la fracción VI del artículo [33](../../lfce/markdown/articulo-33.md) de la Ley.
 
 La Comisión notificará por lista a los interesados con una anticipación mínima de tres días el inicio de las actuaciones necesarias para el desahogo de las pruebas que hayan sido admitidas.
 

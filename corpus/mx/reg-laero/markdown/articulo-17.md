@@ -19,7 +19,7 @@ El interesado en obtener un permiso para administrar, explotar, operar y, en su 
 
 I. Por lo que respecta a su capacidad jurídica:
 
-a) Tratándose de persona física, acta de nacimiento e identificación oficial; en caso de persona moral, escritura constitutiva y sus modificaciones; b) Declaración escrita, bajo protesta de decir verdad, en la que el peticionario exprese que no se encuentra dentro de los supuestos del artículo 22 de la Ley. En caso de ser persona moral, deberán presentarla el director general o su equivalente, y los miembros del órgano de administración;
+a) Tratándose de persona física, acta de nacimiento e identificación oficial; en caso de persona moral, escritura constitutiva y sus modificaciones; b) Declaración escrita, bajo protesta de decir verdad, en la que el peticionario exprese que no se encuentra dentro de los supuestos del artículo [22](../../laero/markdown/articulo-22.md) de la Ley. En caso de ser persona moral, deberán presentarla el director general o su equivalente, y los miembros del órgano de administración;
 
 II. Los documentos que acrediten la posibilidad de uso de suelo de los terrenos para utilizarlos como aeródromo civil, y
 

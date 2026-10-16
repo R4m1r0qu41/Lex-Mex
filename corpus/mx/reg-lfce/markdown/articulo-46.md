@@ -17,7 +17,7 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 46
 
-Las pruebas deben ofrecerse con el escrito a que se refiere la fracción II del artículo 33 de la Ley, con la expresión clara del hecho o hechos que se tratan de demostrar. Correrá a cargo del oferente realizar los actos necesarios tendientes al oportuno desahogo de las pruebas, para ello la Comisión proveerá lo conducente. Al ofrecerse las pruebas debe acompañarse, según el caso, lo siguiente:
+Las pruebas deben ofrecerse con el escrito a que se refiere la fracción II del artículo [33](../../lfce/markdown/articulo-33.md) de la Ley, con la expresión clara del hecho o hechos que se tratan de demostrar. Correrá a cargo del oferente realizar los actos necesarios tendientes al oportuno desahogo de las pruebas, para ello la Comisión proveerá lo conducente. Al ofrecerse las pruebas debe acompañarse, según el caso, lo siguiente:
 
 I. Las documentales que se ofrezcan o en su caso, presentar la información suficiente que permita identificar si los documentos obran ante autoridad judicial o administrativa y comprobar, cuando sea procedente, que realizó la solicitud correspondiente para que le fuera proporcionada dicha documentación;
 

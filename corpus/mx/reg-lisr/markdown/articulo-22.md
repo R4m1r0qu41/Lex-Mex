@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 22
 
-Para efectos del artículo 19 de la [Ley](articulo-1.md), cuando el monto original de la inversión actualizado sea mayor que el ingreso obtenido por la enajenación de los bienes a que se refiere dicho artículo, la diferencia será la pérdida que los contribuyentes podrán deducir en términos de la Ley.
+Para efectos del artículo [19](../../lisr/markdown/articulo-19.md) de la [Ley](articulo-1.md), cuando el monto original de la inversión actualizado sea mayor que el ingreso obtenido por la enajenación de los bienes a que se refiere dicho artículo, la diferencia será la pérdida que los contribuyentes podrán deducir en términos de la Ley.

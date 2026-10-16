@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 260
 
-Las personas físicas que únicamente obtengan ingresos por la prestación de un servicio personal subordinado y que no se encuentren obligadas a presentar la declaración anual a que se refiere el artículo 150 de la [Ley](articulo-1.md), podrán presentarla siempre que en la misma derive un saldo a su favor como consecuencia de la aplicación de las deducciones previstas por el artículo 151, fracciones I o II de la Ley.
+Las personas físicas que únicamente obtengan ingresos por la prestación de un servicio personal subordinado y que no se encuentren obligadas a presentar la declaración anual a que se refiere el artículo [150](../../lisr/markdown/articulo-150.md) de la [Ley](articulo-1.md), podrán presentarla siempre que en la misma derive un saldo a su favor como consecuencia de la aplicación de las deducciones previstas por el artículo [151](../../lisr/markdown/articulo-151.md), fracciones I o II de la Ley.

@@ -17,11 +17,11 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 106
 
-Para efectos del artículo 60 de la [Ley](articulo-2.md), la Tesorería aplicará las multas que correspondan a los particulares, de conformidad con lo siguiente:
+Para efectos del artículo [60](../../ltf/markdown/articulo-60.md) de la [Ley](articulo-2.md), la Tesorería aplicará las multas que correspondan a los particulares, de conformidad con lo siguiente:
 
-I. Cuando con motivo de un acto de vigilancia la Tesorería identifique alguna de las conductas a que se refieren los artículos 56 y 57 de la Ley, notificará al particular de que se trate, el inicio del procedimiento para la imposición de la multa, concediendo un plazo de cinco días hábiles para que manifieste lo que a su derecho convenga y, en su caso, aporte las pruebas que considere convenientes.
+I. Cuando con motivo de un acto de vigilancia la Tesorería identifique alguna de las conductas a que se refieren los artículos [56](../../ltf/markdown/articulo-56.md) y [57](../../ltf/markdown/articulo-57.md) de la Ley, notificará al particular de que se trate, el inicio del procedimiento para la imposición de la multa, concediendo un plazo de cinco días hábiles para que manifieste lo que a su derecho convenga y, en su caso, aporte las pruebas que considere convenientes.
 
-Tratándose de las conductas previstas en el artículo 57, fracciones I y II de la Ley, el procedimiento a que se refiere el párrafo anterior deberá iniciarse si, habiéndose formulado apercibimiento, se incumple con el requerimiento a que se refiere el artículo 60, quinto párrafo de la Ley;
+Tratándose de las conductas previstas en el artículo [57](../../ltf/markdown/articulo-57.md), fracciones I y II de la Ley, el procedimiento a que se refiere el párrafo anterior deberá iniciarse si, habiéndose formulado apercibimiento, se incumple con el requerimiento a que se refiere el artículo [60](../../ltf/markdown/articulo-60.md), quinto párrafo de la Ley;
 
 II. Una vez fenecido el plazo para el ofrecimiento de las pruebas, se acordará sobre su admisibilidad. Sólo se podrán rechazar las pruebas que no fuesen ofrecidas conforme a derecho, no tengan relación con el fondo del asunto o sean innecesarias.
 
@@ -33,13 +33,13 @@ III. Cuando se estime necesario, se podrá solicitar a otras autoridades adminis
 
 IV. Una vez desahogadas las pruebas se otorgará un plazo de cinco días hábiles para que los particulares formulen alegatos por escrito. Transcurrido dicho plazo se procederá, dentro de los quince días hábiles siguientes, a dictar la resolución que corresponda, la cual deberá contener lo siguiente:
 
-a) El supuesto del artículo 60 de la Ley que se actualice;
+a) El supuesto del artículo [60](../../ltf/markdown/articulo-60.md) de la Ley que se actualice;
 
-b) En su caso, la fecha en que se notificó el apercibimiento y se incumplió el requerimiento formulado en términos del quinto párrafo del artículo 60 de la Ley;
+b) En su caso, la fecha en que se notificó el apercibimiento y se incumplió el requerimiento formulado en términos del quinto párrafo del artículo [60](../../ltf/markdown/articulo-60.md) de la Ley;
 
 c) Si existe reincidencia;
 
-d) Los montos mínimos y máximos de la multa, así como el monto aplicable al caso concreto, en unidades de inversión, así como, en su caso, la reducción de la multa a que se refiere el párrafo cuarto del artículo 60 de la Ley;
+d) Los montos mínimos y máximos de la multa, así como el monto aplicable al caso concreto, en unidades de inversión, así como, en su caso, la reducción de la multa a que se refiere el párrafo cuarto del artículo [60](../../ltf/markdown/articulo-60.md) de la Ley;
 
 e) Los elementos que se tomaron en cuenta para determinar la capacidad económica de la persona a quien se aplique la multa, y
 

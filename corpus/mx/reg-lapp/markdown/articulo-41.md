@@ -17,10 +17,10 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 41
 
-En términos del artículo 22 de la Ley, la afirmativa ficta señalada en el segundo párrafo de dicha disposición opera para las autorizaciones federales previas necesarias para iniciar la ejecución de un proyecto. No aplica para:
+En términos del artículo [22](../../lapp/markdown/articulo-22.md) de la Ley, la afirmativa ficta señalada en el segundo párrafo de dicha disposición opera para las autorizaciones federales previas necesarias para iniciar la ejecución de un proyecto. No aplica para:
 
 I. Las aprobaciones de aportaciones de recursos federales presupuestarios previstas en la sección segunda del presente capítulo;
 
-II. Las autorizaciones que requieran tramitarse con posterioridad al inicio, en términos del artículo 107 de la Ley, de la prestación de los servicios, y
+II. Las autorizaciones que requieran tramitarse con posterioridad al inicio, en términos del artículo [107](../../lapp/markdown/articulo-107.md) de la Ley, de la prestación de los servicios, y
 
 III. Los trámites de propuestas no solicitadas.

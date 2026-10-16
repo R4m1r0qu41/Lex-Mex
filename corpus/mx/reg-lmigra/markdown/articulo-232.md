@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 232
 
-A fin de dar cumplimiento a lo establecido en el artículo 109 de la Ley, cuando una persona extranjera sea puesta a disposición de la autoridad migratoria o sea presentada en la estación migratoria o en la estancia provisional, se procederá de la siguiente forma:
+A fin de dar cumplimiento a lo establecido en el artículo [109](../../lmigra/markdown/articulo-109.md) de la Ley, cuando una persona extranjera sea puesta a disposición de la autoridad migratoria o sea presentada en la estación migratoria o en la estancia provisional, se procederá de la siguiente forma:
 
 I. Se tomará la declaración de la persona extranjera haciéndola constar en acta administrativa levantada en presencia de dos testigos, en la que además se asentará que se le informaron los derechos que le asisten. Dicha acta deberá contener, además, los datos generales de la persona extranjera, la ruta seguida desde su país de origen hasta el ingreso al territorio nacional, los medios de transporte utilizados, información respecto a los medios utilizados para internarse en el territorio nacional, así como el destino que pretendía alcanzar;
 

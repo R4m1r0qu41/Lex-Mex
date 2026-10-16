@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 134
 
-La condición de estancia de visitante trabajador fronterizo, prevista en el artículo 52, fracción IV, de la Ley, se podrá autorizar a la persona extranjera que demuestre los siguientes supuestos:
+La condición de estancia de visitante trabajador fronterizo, prevista en el artículo [52](../../lmigra/markdown/articulo-52.md), fracción IV, de la Ley, se podrá autorizar a la persona extranjera que demuestre los siguientes supuestos:
 
 I. Ser nacional de un país que comparta límites territoriales con los Estados Unidos Mexicanos, y
 

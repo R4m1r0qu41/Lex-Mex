@@ -19,4 +19,4 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 La revalidación o la modificación de la autorización, será otorgada previo análisis de la solicitud y valoración de los elementos de comprobación que ofrezca el Prestador de Servicios, así como de los antecedentes existentes en los archivos de la [Dirección General](articulo-2.md).
 
-En el caso de la revalidación, además se deberá considerar lo previsto en el segundo párrafo del artículo 20 de la [Ley](articulo-2.md).
+En el caso de la revalidación, además se deberá considerar lo previsto en el segundo párrafo del artículo [20](../../lfsp/markdown/articulo-20.md) de la [Ley](articulo-2.md).

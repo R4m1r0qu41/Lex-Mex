@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 140
 
-La documentación a que se refiere el artículo 82, fracción VI de la [Ley](articulo-1.md), deberá estar a disposición del público en general para su consulta, en su domicilio fiscal, durante el horario normal de labores, así como a través del programa electrónico que para tal efecto esté a disposición de las personas morales con fines no lucrativos y los fideicomisos autorizados para recibir donativos deducibles, en la página de internet del [SAT](articulo-1.md), de conformidad con las reglas de carácter general que emita dicho órgano administrativo desconcentrado.
+La documentación a que se refiere el artículo [82](../../lisr/markdown/articulo-82.md), fracción VI de la [Ley](articulo-1.md), deberá estar a disposición del público en general para su consulta, en su domicilio fiscal, durante el horario normal de labores, así como a través del programa electrónico que para tal efecto esté a disposición de las personas morales con fines no lucrativos y los fideicomisos autorizados para recibir donativos deducibles, en la página de internet del [SAT](articulo-1.md), de conformidad con las reglas de carácter general que emita dicho órgano administrativo desconcentrado.
 
 La documentación relativa al cumplimiento de las obligaciones fiscales se integrará por las declaraciones correspondientes a los últimos tres años.
 

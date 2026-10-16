@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 127
 
-Para efectos de los artículos 69, segundo párrafo, fracción II y 75, fracción I de la [Ley](articulo-1.md), se considerarán Mercancías de la misma especie o clase aquellas importadas del mismo país que las Mercancías objeto de valoración o Mercancías importadas de otros países que pertenezcan a un grupo o gama de Mercancías producidas por una rama de producción determinada o por un sector de la misma y que comprenda Mercancías idénticas o similares.
+Para efectos de los artículos [69](../../ladua/markdown/articulo-69.md), segundo párrafo, fracción II y [75](../../ladua/markdown/articulo-75.md), fracción I de la [Ley](articulo-1.md), se considerarán Mercancías de la misma especie o clase aquellas importadas del mismo país que las Mercancías objeto de valoración o Mercancías importadas de otros países que pertenezcan a un grupo o gama de Mercancías producidas por una rama de producción determinada o por un sector de la misma y que comprenda Mercancías idénticas o similares.
 
 Para determinar si ciertas Mercancías son de la misma especie o clase que las Mercancías objeto de valoración, se examinarán las ventas que se hagan en territorio nacional del grupo o gama más restringido de Mercancías importadas de la misma especie o clase, que incluya las Mercancías objeto de valoración y a cuyo respecto pueda suministrarse la información necesaria.

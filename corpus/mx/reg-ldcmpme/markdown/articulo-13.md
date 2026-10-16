@@ -17,6 +17,6 @@ source_sha256: 478ff012a0c6ad39c7b826a81d91c5eac3decac66b10fd725138c02c2586b165
 
 # Artículo 13
 
-La Secretaría, con el fin de facilitar a las MIPYMES el acceso a los Programas, podrá suscribir convenios con personas físicas y morales de los Sectores, en términos de los artículos 11 y 14 de la Ley.
+La Secretaría, con el fin de facilitar a las MIPYMES el acceso a los Programas, podrá suscribir convenios con personas físicas y morales de los Sectores, en términos de los artículos [11](../../ldcmpme/markdown/articulo-11.md) y [14](../../ldcmpme/markdown/articulo-14.md) de la Ley.
 
-Dichos convenios podrán versar sobre todos los aspectos considerados en el artículo 14 de la Ley, para lo cual se observarán las disposiciones aplicables.
+Dichos convenios podrán versar sobre todos los aspectos considerados en el artículo [14](../../ldcmpme/markdown/articulo-14.md) de la Ley, para lo cual se observarán las disposiciones aplicables.

@@ -17,7 +17,7 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 # Artículo 36
 
-En atención a lo dispuesto por el artículo 24 de la [Ley](articulo-2.md), se deberá observar lo siguiente: I. Solicitar la opinión por escrito dirigido a la [Dirección General](articulo-2.md), en el que se precise el número de autorización con que cuenten, la modalidad del servicio, el ámbito territorial donde se portarán las armas de fuego, el domicilio para la guarda y custodia del armamento, así como anexando:
+En atención a lo dispuesto por el artículo [24](../../lfsp/markdown/articulo-24.md) de la [Ley](articulo-2.md), se deberá observar lo siguiente: I. Solicitar la opinión por escrito dirigido a la [Dirección General](articulo-2.md), en el que se precise el número de autorización con que cuenten, la modalidad del servicio, el ámbito territorial donde se portarán las armas de fuego, el domicilio para la guarda y custodia del armamento, así como anexando:
 
 a. La exposición de motivos en la que se justifique la necesidad de portar armas de fuego en la prestación de servicios de seguridad privada, exhibiendo las documentales que lo acrediten;
 

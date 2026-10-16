@@ -17,6 +17,6 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 # Artículo 111
 
-La CONADE conocerá de las infracciones previstas como muy graves en el artículo 151 de la Ley y, en su caso, aplicará las sanciones que correspondan, tomando en consideración los criterios establecidos en el artículo [114](articulo-114.md) de este Reglamento. Asimismo, conocerá de las infracciones previstas como leves y graves en este Reglamento y demás ordenamientos aplicables.
+La CONADE conocerá de las infracciones previstas como muy graves en el artículo [151](../../lgcfd/markdown/articulo-151.md) de la Ley y, en su caso, aplicará las sanciones que correspondan, tomando en consideración los criterios establecidos en el artículo [114](articulo-114.md) de este Reglamento. Asimismo, conocerá de las infracciones previstas como leves y graves en este Reglamento y demás ordenamientos aplicables.
 
 Para la aplicación de sanciones con motivo de otras infracciones a la Ley o al presente Reglamento, la CONADE valorará la gravedad de la falta cometida y las circunstancias que puedan agravar o atenuar la responsabilidad del infractor.

@@ -15,4 +15,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 82
 
-En caso de que el concesionario o permisionario pretenda interrumpir permanentemente en forma total los servicios aeroportuarios y complementarios, deberá presentar su solicitud para los efectos del artículo 26, fracción II, de la Ley.
+En caso de que el concesionario o permisionario pretenda interrumpir permanentemente en forma total los servicios aeroportuarios y complementarios, deberá presentar su solicitud para los efectos del artículo [26](../../laero/markdown/articulo-26.md), fracción II, de la Ley.

@@ -21,4 +21,4 @@ Para la práctica de notificaciones personales fuera del lugar de residencia de 
 
 Para los efectos señalados en el párrafo anterior, la autoridad que instruya la inconformidad también podrá auxiliarse de autoridades estatales o municipales, conforme a los convenios que para ello suscriba la Secretaría de la Función Pública.
 
-En el caso de que los licitantes no proporcionen la dirección de correo electrónico a que se refiere la fracción XIII del artículo 31 de la [Ley](articulo-2.md), la autoridad que instruye la inconformidad quedará eximida de la obligación de realizar el aviso a que hace referencia el último párrafo del artículo 87 de la Ley.
+En el caso de que los licitantes no proporcionen la dirección de correo electrónico a que se refiere la fracción XIII del artículo [31](../../lopsrm/markdown/articulo-31.md) de la [Ley](articulo-2.md), la autoridad que instruye la inconformidad quedará eximida de la obligación de realizar el aviso a que hace referencia el último párrafo del artículo [87](../../lopsrm/markdown/articulo-87.md) de la Ley.

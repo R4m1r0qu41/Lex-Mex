@@ -23,5 +23,6 @@
     "ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS"
   ],
   "allow_article_gaps": true,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "parent_instrument_id": "urn:lex-mx:federal:statute:lgs"
 }

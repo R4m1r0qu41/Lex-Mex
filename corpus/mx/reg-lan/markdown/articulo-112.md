@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 112
 
-Para efectos del artículo 76 de la "Ley", en cuanto a la promoción y fomento para el establecimiento de unidades de drenaje, "La Comisión":
+Para efectos del artículo [76](../../lan/markdown/articulo-76.md) de la "Ley", en cuanto a la promoción y fomento para el establecimiento de unidades de drenaje, "La Comisión":
 
 I. Aplicará, en lo conducente, lo dispuesto en la "Ley" y el presente "Reglamento" para la creación de unidades de riego o distritos de riego, para el otorgamiento de las concesiones o para la celebración de los actos y contratos que se requieran para que los usuarios asuman su administración;
 

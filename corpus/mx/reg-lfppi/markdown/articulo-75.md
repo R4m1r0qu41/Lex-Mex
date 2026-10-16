@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 75
 
-Para efectos del último párrafo del artículo 131 de la Ley, el cómputo de los días se realizará en días naturales.
+Para efectos del último párrafo del artículo [131](../../lfppi/markdown/articulo-131.md) de la Ley, el cómputo de los días se realizará en días naturales.

@@ -15,4 +15,4 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # SEGUNDO
 
-La [Secretaría](articulo-11.md) de Hacienda y Crédito Público contará con un plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Reglamento, para iniciar el registro para efectos estadísticos a que se refiere el artículo 14, párrafo tercero, de la Ley.
+La [Secretaría](articulo-11.md) de Hacienda y Crédito Público contará con un plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Reglamento, para iniciar el registro para efectos estadísticos a que se refiere el artículo [14](../../lapp/markdown/articulo-14.md), párrafo tercero, de la Ley.

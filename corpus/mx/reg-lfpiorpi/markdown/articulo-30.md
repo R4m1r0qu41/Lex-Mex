@@ -17,4 +17,4 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 30
 
-Para el cumplimiento de las obligaciones derivadas de la Ley, el presente Reglamento y demás disposiciones que de estos emanen, las fracciones arancelarias que identifiquen las mercancías señaladas en la fracción XIV del artículo 17 de la Ley, serán especificadas en el formato oficial que para la presentación de Avisos determine y expida la UIF mediante publicación en el Diario Oficial de la Federación.
+Para el cumplimiento de las obligaciones derivadas de la Ley, el presente Reglamento y demás disposiciones que de estos emanen, las fracciones arancelarias que identifiquen las mercancías señaladas en la fracción XIV del artículo [17](../../lfpiorpi/markdown/articulo-17.md) de la Ley, serán especificadas en el formato oficial que para la presentación de Avisos determine y expida la UIF mediante publicación en el Diario Oficial de la Federación.

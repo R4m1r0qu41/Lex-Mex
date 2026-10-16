@@ -17,7 +17,7 @@ source_sha256: 8e60a8ba9f27b47d26806dbae115c0803dd9ea6a3a02a1b359dc86516d40759e
 
 # Artículo 10
 
-Tratándose de personas físicas o morales extranjeras, la Secretaría de Relaciones Exteriores otorgará los permisos a que hace referencia el artículo 11 de la [Ley](articulo-1.md), cuando la solicitud cumpla con lo dispuesto en el [artículo anterior](articulo-9.md) y el inmueble objeto del fideicomiso se destine a: Párrafo reformado DOF 04-05-2009
+Tratándose de personas físicas o morales extranjeras, la Secretaría de Relaciones Exteriores otorgará los permisos a que hace referencia el artículo [11](../../lie/markdown/articulo-11.md) de la [Ley](articulo-1.md), cuando la solicitud cumpla con lo dispuesto en el [artículo anterior](articulo-9.md) y el inmueble objeto del fideicomiso se destine a: Párrafo reformado DOF 04-05-2009
 
 I. Parques y fraccionamientos industriales;
 

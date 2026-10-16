@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 81
 
-Para los efectos del artículo 141, fracción II del [Código](articulo-1.md), la prenda o hipoteca se constituirán conforme a lo siguiente:
+Para los efectos del artículo [141](../../cff/markdown/articulo-141.md), fracción II del [Código](articulo-1.md), la prenda o hipoteca se constituirán conforme a lo siguiente:
 
 I. La prenda se constituirá sobre bienes muebles por el 75% de su valor, siempre que estén libres de gravámenes hasta por ese porcentaje y deberá inscribirse en el registro que corresponda cuando los bienes en que recaiga o el propio contrato de prenda estén sujetos a esta formalidad.
 

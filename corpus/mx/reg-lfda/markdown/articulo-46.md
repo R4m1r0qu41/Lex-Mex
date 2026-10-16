@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 46
 
-Las obras hechas al servicio oficial de la Federación, las entidades federativas o los municipios, se entienden realizadas en los términos del artículo 83 de la [Ley](articulo-2o.md), salvo pacto expreso en contrario en cada caso.
+Las obras hechas al servicio oficial de la Federación, las entidades federativas o los municipios, se entienden realizadas en los términos del artículo [83](../../lfda/markdown/articulo-83.md) de la [Ley](articulo-2o.md), salvo pacto expreso en contrario en cada caso.

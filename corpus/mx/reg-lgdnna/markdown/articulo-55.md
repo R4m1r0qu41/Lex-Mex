@@ -17,7 +17,7 @@ source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 
 # Artículo 55
 
-Los Centros de Asistencia Social que brinden el Acogimiento Residencial deberán, además de cumplir con lo previsto en los artículos 108 a 110 de la [Ley](articulo-2.md), contar cuando menos, con los servicios siguientes:
+Los Centros de Asistencia Social que brinden el Acogimiento Residencial deberán, además de cumplir con lo previsto en los artículos [108](../../lgdnna/markdown/articulo-108.md) a [110](../../lgdnna/markdown/articulo-110.md) de la [Ley](articulo-2.md), contar cuando menos, con los servicios siguientes:
 
 I. Atención médica;
 

@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 145
 
-Para la celebración del convenio a que se refiere el artículo 15 B de la Ley se procederá de la manera siguiente:
+Para la celebración del convenio a que se refiere el artículo [15](../../lss/markdown/articulo-15.md) B de la Ley se procederá de la manera siguiente:
 
 I. En lo referente a la construcción, ampliación o remodelación de casa habitación, la superficie a construir se multiplicará por el número de veces el salario mínimo vigente de la región que corresponda, conforme a los índices que al efecto publique el Instituto, cuyo resultado será el importe de las cuotas obrero patronales a cubrir;
 

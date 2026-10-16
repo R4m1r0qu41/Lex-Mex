@@ -17,4 +17,4 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 # Artículo 38
 
-En los casos de ampliación de las superficies objeto de los contratos de cesión parcial de derechos, se aplicará el criterio previsto en el artículo 25 de la [Ley](articulo-2.md).
+En los casos de ampliación de las superficies objeto de los contratos de cesión parcial de derechos, se aplicará el criterio previsto en el artículo [25](../../lpue/markdown/articulo-25.md) de la [Ley](articulo-2.md).

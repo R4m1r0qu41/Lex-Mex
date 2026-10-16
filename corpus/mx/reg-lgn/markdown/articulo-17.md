@@ -17,7 +17,7 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 # Artículo 17
 
-Las ausencias del [Comandante](articulo-2.md), de los Coordinadores a que se refiere el artículo 12 de la [Ley](articulo-2.md), así como de los titulares de las demás unidades administrativas de la [Institución](articulo-2.md), se suplirán atendiendo a lo señalado en el artículo 14, último párrafo de la Ley, y a lo siguiente:
+Las ausencias del [Comandante](articulo-2.md), de los Coordinadores a que se refiere el artículo [12](../../lgn/markdown/articulo-12.md) de la [Ley](articulo-2.md), así como de los titulares de las demás unidades administrativas de la [Institución](articulo-2.md), se suplirán atendiendo a lo señalado en el artículo [14](../../lgn/markdown/articulo-14.md), último párrafo de la Ley, y a lo siguiente:
 
 I. El Comandante será suplido en sus ausencias temporales por el Titular de la Jefatura General de Coordinación Policial, y a falta de éste, por el Coordinador Territorial más cercano a la sede de la Comandancia de la Institución;
 

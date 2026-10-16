@@ -25,11 +25,11 @@ II. Transcurrido el plazo sin que se desahogue la prevención, se desechará el 
 
 III. Desahogado el requerimiento señalado en la fracción I de este artículo, la Secretaría continuará con el análisis del plan de manejo y, en su caso, podrá requerir al interesado para que complemente, rectifique o aclare la información contenida en el mismo concediéndole para tal efecto un término de quince días hábiles, el cual interrumpirá el término de resolución, transcurrido el plazo sin respuesta del interesado, la Secretaría negará el registro solicitado;
 
-IV. Cuando el interesado complemente, aclare o rectifique la información, la Secretaría continuará con el procedimiento, podrá llevar a cabo la constatación física de predios e instalaciones en los términos del artículo 78 Bis de la [Ley](articulo-2.md) y, en su caso, resolverá sobre la aprobación o no del plan de manejo respectivo, y
+IV. Cuando el interesado complemente, aclare o rectifique la información, la Secretaría continuará con el procedimiento, podrá llevar a cabo la constatación física de predios e instalaciones en los términos del artículo [78 Bis](../../lgvs/markdown/articulo-78-Bis.md) de la [Ley](articulo-2.md) y, en su caso, resolverá sobre la aprobación o no del plan de manejo respectivo, y
 
 V. Aprobado el plan de manejo otorgará al interesado el número de registro con el que quede incorporado en el padrón a que se refiere el [artículo anterior](articulo-131.md), indicándole, en su caso, las condicionantes y obligaciones de índole técnica que deberá cumplir para el manejo adecuado de las especies objeto del plan.
 
-En el caso de predios o instalaciones que manejan vida silvestre en forma confinada, como zoológicos, espectáculos públicos, fijos o itinerantes, circos y colecciones privadas, el registro que otorgue la Secretaría constituirá la autorización del plan de manejo que, conforme al artículo 78 de la Ley, requieren para su operación.
+En el caso de predios o instalaciones que manejan vida silvestre en forma confinada, como zoológicos, espectáculos públicos, fijos o itinerantes, circos y colecciones privadas, el registro que otorgue la Secretaría constituirá la autorización del plan de manejo que, conforme al artículo [78](../../lgvs/markdown/articulo-78.md) de la Ley, requieren para su operación.
 
 Transcurrido el plazo de resolución sin que la Secretaría haya otorgado el número de registro solicitado, dicho registro se entenderá negado y, consecuentemente no se considerarán aprobados o autorizados los planes de manejo correspondientes.
 

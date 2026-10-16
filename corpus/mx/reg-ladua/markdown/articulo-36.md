@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 36
 
-Para efectos del artículo 21, fracción VII de la [Ley](articulo-1.md), el Servicio Postal Mexicano deberá transmitir a la Autoridad Aduanera a través del [Sistema Electrónico Aduanero](articulo-1.md) mediante Documento Electrónico o Digital, la información relativa a los retornos.
+Para efectos del artículo [21](../../ladua/markdown/articulo-21.md), fracción VII de la [Ley](articulo-1.md), el Servicio Postal Mexicano deberá transmitir a la Autoridad Aduanera a través del [Sistema Electrónico Aduanero](articulo-1.md) mediante Documento Electrónico o Digital, la información relativa a los retornos.

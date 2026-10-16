@@ -29,4 +29,4 @@ c) La obligación de las autoridades que realicen actividades que pudieran impli
 
 II. La distribución de los recursos y responsabilidades que comprendan las políticas públicas de Gestión Integral de Riesgos, y
 
-III. Los modelos, procedimientos y beneficiarios de los Instrumentos Financieros de Gestión de Riesgos, sujetándose a las disposiciones administrativas a que se refiere el artículo 63 de la [Ley](articulo-2.md).
+III. Los modelos, procedimientos y beneficiarios de los Instrumentos Financieros de Gestión de Riesgos, sujetándose a las disposiciones administrativas a que se refiere el artículo [63](../../lgpc/markdown/articulo-63.md) de la [Ley](articulo-2.md).

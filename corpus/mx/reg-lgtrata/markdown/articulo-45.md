@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 45
 
-Para el logro de las obligaciones previstas en el artículo 89 de la Ley, las dependencias y entidades de la Administración Pública Federal diseñarán, implementarán y en su caso, modificarán los planes y programas en materia de trata de personas, con la finalidad de fortalecer la prevención y Asistencia y Protección de víctimas, ofendidos o testigos de los delitos previstos en la Ley.
+Para el logro de las obligaciones previstas en el artículo [89](../../lgtrata/markdown/articulo-89.md) de la Ley, las dependencias y entidades de la Administración Pública Federal diseñarán, implementarán y en su caso, modificarán los planes y programas en materia de trata de personas, con la finalidad de fortalecer la prevención y Asistencia y Protección de víctimas, ofendidos o testigos de los delitos previstos en la Ley.

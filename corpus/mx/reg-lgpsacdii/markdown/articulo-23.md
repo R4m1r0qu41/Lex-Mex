@@ -17,4 +17,4 @@ source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 
 # Artículo 23
 
-El Presidente del Consejo y los demás integrantes, a que se refiere el artículo 25 de la Ley, y en su caso, sus suplentes, contarán con voz y voto. Reforma DOF 10-05-2016: Derogó del artículo el entonces párrafo segundo
+El Presidente del Consejo y los demás integrantes, a que se refiere el artículo [25](../../lgpsacdii/markdown/articulo-25.md) de la Ley, y en su caso, sus suplentes, contarán con voz y voto. Reforma DOF 10-05-2016: Derogó del artículo el entonces párrafo segundo

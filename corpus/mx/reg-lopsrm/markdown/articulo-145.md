@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 145
 
-El contratista podrá solicitar, a partir de la determinación de la suspensión de los trabajos, el pago de los gastos no recuperables a que hace referencia la fracción I del artículo 62 de la [Ley](articulo-2.md) y que se generen durante la suspensión. La solicitud del contratista deberá presentarse en las fechas de corte para el pago de estimaciones estipuladas en el contrato.
+El contratista podrá solicitar, a partir de la determinación de la suspensión de los trabajos, el pago de los gastos no recuperables a que hace referencia la fracción I del artículo [62](../../lopsrm/markdown/articulo-62.md) de la [Ley](articulo-2.md) y que se generen durante la suspensión. La solicitud del contratista deberá presentarse en las fechas de corte para el pago de estimaciones estipuladas en el contrato.

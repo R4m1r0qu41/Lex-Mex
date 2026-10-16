@@ -57,7 +57,7 @@ XVIII. Supervisar, inspeccionar y evaluar el adiestramiento y las operaciones qu
 
 XIX. Mantener la constante actualización de situaciones tácticas y de posibles acontecimientos que requieran de apoyo a las corporaciones policiales de la Federación, de las entidades federativas o de los municipios;
 
-XX. Coordinar, supervisar y controlar, para fines de seguridad pública, las operaciones y servicios policiales en espacios urbanos y zonas federales, conforme al artículo 8, fracción III, de la [Ley](articulo-2.md);
+XX. Coordinar, supervisar y controlar, para fines de seguridad pública, las operaciones y servicios policiales en espacios urbanos y zonas federales, conforme al artículo [8](../../lpf/markdown/articulo-8.md), fracción III, de la [Ley](articulo-2.md);
 
 XXI. Desarrollar operaciones que inhiban acciones de riesgo inmediato para inmuebles ocupados por dependencias o entidades de carácter federal; a petición de las autoridades competentes;
 

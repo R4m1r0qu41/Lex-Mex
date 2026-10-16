@@ -17,4 +17,4 @@ source_sha256: c9996a72239837b24f45f4a49c4f117b1fe2b3b9faf2c3eb0e5ce00d8a991d53
 
 # Artículo 32
 
-La Secretaría podrá optar porque los lineamientos a que se refieren las fracciones I y II del artículo 47 de la Ley, sean los mismos que emita conforme al artículo 28, fracciones III y IV, de dicha Ley.
+La Secretaría podrá optar porque los lineamientos a que se refieren las fracciones I y II del artículo [47](../../lih/markdown/articulo-47.md) de la Ley, sean los mismos que emita conforme al artículo 28, fracciones III y IV, de dicha Ley.

@@ -17,4 +17,4 @@ source_sha256: 44746db892329cfe37f9f1642d6e385f18c3ecade102b2742aa5c7bf67168dc7
 
 # Artículo 84
 
-Las infracciones no previstas en este capítulo serán sancionadas en los términos del artículo 422 de la Ley.
+Las infracciones no previstas en este capítulo serán sancionadas en los términos del artículo [422](../../lgs/markdown/articulo-422.md) de la Ley.

@@ -17,4 +17,4 @@ source_sha256: 3ff22c0d4dda5724ded6314ddc83e072cab81433b14dd9c6056e67eb5f4f8dd1
 
 # Artículo 9
 
-El Secretariado Ejecutivo podrá tomar en consideración además de las opiniones a que se refiere el artículo 4 de la [Ley](articulo-2.md), las de organizaciones e instituciones públicas o privadas con interés en la materia.
+El Secretariado Ejecutivo podrá tomar en consideración además de las opiniones a que se refiere el artículo [4](../../lrpv/markdown/articulo-4.md) de la [Ley](articulo-2.md), las de organizaciones e instituciones públicas o privadas con interés en la materia.

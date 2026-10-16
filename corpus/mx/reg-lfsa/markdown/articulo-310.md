@@ -17,7 +17,7 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 310
 
-La Secretaría coordinará las acciones necesarias para conformar los comités de evaluación a que se refiere el artículo 149 de la [Ley](articulo-2.md). Dichos comités se integrarán por personal oficial de la Secretaría, o en su caso por profesionistas calificados y con experiencia en los campos de las ramas específicas.
+La Secretaría coordinará las acciones necesarias para conformar los comités de evaluación a que se refiere el artículo [149](../../lfsa/markdown/articulo-149.md) de la [Ley](articulo-2.md). Dichos comités se integrarán por personal oficial de la Secretaría, o en su caso por profesionistas calificados y con experiencia en los campos de las ramas específicas.
 
 Los comités de evaluación tendrán las siguientes funciones:
 

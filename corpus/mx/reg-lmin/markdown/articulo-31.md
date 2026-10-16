@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 31
 
-Las bases del concurso contendrán, además de lo establecido en la fracción II del artículo 13 BIS de la Ley, los siguientes requisitos e información:
+Las bases del concurso contendrán, además de lo establecido en la fracción II del artículo [13 BIS](../../lmin/markdown/articulo-13-BIS.md) de la Ley, los siguientes requisitos e información:
 
 I. Las fechas de inicio y finalización de la primera fase del concurso, y los lineamientos y procedimientos que se seguirán para el registro de participantes durante dicha fase, así como para la calificación de que los interesados acreditan los requisitos establecidos en los artículos [35](articulo-35.md) y, en su caso, 36 de este Reglamento;
 

@@ -17,9 +17,9 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 134
 
-Las solicitudes de informes, inspecciones y auditorías a que se refiere el artículo 207 de la [Ley](articulo-2o.md), se sujetarán a las formalidades siguientes:
+Las solicitudes de informes, inspecciones y auditorías a que se refiere el artículo [207](../../lfda/markdown/articulo-207.md) de la [Ley](articulo-2o.md), se sujetarán a las formalidades siguientes:
 
-I. Los informes requeridos por el [Instituto](articulo-2o.md) al órgano de administración de la sociedad, deberán rendirse en un plazo que no excederá de treinta días; en los supuestos previstos en el artículo 194 de la Ley, el plazo será de tres meses;
+I. Los informes requeridos por el [Instituto](articulo-2o.md) al órgano de administración de la sociedad, deberán rendirse en un plazo que no excederá de treinta días; en los supuestos previstos en el artículo [194](../../lfda/markdown/articulo-194.md) de la Ley, el plazo será de tres meses;
 
 II. El Instituto podrá realizar visitas de inspección para verificar el cumplimiento por parte de la sociedad de las obligaciones que establecen la Ley, este Reglamento y sus estatutos;
 

@@ -21,4 +21,4 @@ Para los efectos de este Capítulo, se establece la clasificación siguiente:
 
 I.- Fábricas de armas de fuego, armas de gas y de municiones, y
 
-II.- Fábricas de pólvoras, de explosivos, de artificios o de substancias químicas relacionadas con explosivos mencionados en la fracción V del artículo 41 de la Ley.
+II.- Fábricas de pólvoras, de explosivos, de artificios o de substancias químicas relacionadas con explosivos mencionados en la fracción V del artículo [41](../../lfafe/markdown/articulo-41.md) de la Ley.

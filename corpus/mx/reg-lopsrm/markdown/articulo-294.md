@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 294
 
-La única documentación que la Secretaría de la Función Pública o el órgano interno de control estarán obligados a conservar, en términos del penúltimo párrafo del artículo 74 de la [Ley](articulo-2.md), serán las actas que se levanten con motivo de las audiencias, así como en su caso, la de los convenios de conciliación.
+La única documentación que la Secretaría de la Función Pública o el órgano interno de control estarán obligados a conservar, en términos del penúltimo párrafo del artículo [74](../../lopsrm/markdown/articulo-74.md) de la [Ley](articulo-2.md), serán las actas que se levanten con motivo de las audiencias, así como en su caso, la de los convenios de conciliación.

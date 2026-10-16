@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 21
 
-Para efectos del artículo 20 de la [Ley](articulo-1.md), son obligaciones de los capitanes de las embarcaciones, sin perjuicio de las que tengan las empresas porteadoras o los representantes de éstas, mientras permanezcan en puerto:
+Para efectos del artículo [20](../../ladua/markdown/articulo-20.md) de la [Ley](articulo-1.md), son obligaciones de los capitanes de las embarcaciones, sin perjuicio de las que tengan las empresas porteadoras o los representantes de éstas, mientras permanezcan en puerto:
 
 I. Poner a disposición de la Autoridad Aduanera las Mercancías que se transporten para su inspección o verificación en el lugar que dicha autoridad señale;
 

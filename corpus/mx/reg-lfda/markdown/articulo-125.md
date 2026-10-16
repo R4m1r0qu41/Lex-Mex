@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 125
 
-Para efecto de lo dispuesto por el artículo 206 de la [Ley](articulo-2o.md), serán aplicables a la sociedad, en lo conducente, las disposiciones relativas a la sociedad anónima.
+Para efecto de lo dispuesto por el artículo [206](../../lfda/markdown/articulo-206.md) de la [Ley](articulo-2o.md), serán aplicables a la sociedad, en lo conducente, las disposiciones relativas a la sociedad anónima.

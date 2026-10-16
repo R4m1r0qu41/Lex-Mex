@@ -154,6 +154,10 @@ pub struct SourceConfig {
     pub outdated_reference_approvals: Vec<lex_core::OutdatedReferenceApproval>,
     #[serde(default)]
     pub legal_operator_reviews: Vec<lex_core::LegalOperatorReview>,
+    /// The parent law of a regulation. A bare `de la Ley` in the regulation
+    /// then resolves to it when the cited article exists.
+    #[serde(default)]
+    pub parent_instrument_id: Option<String>,
     /// Latest consolidated reform date when the official operational source
     /// index supplies it but the downloaded document does not print it.
     /// This is an adapter fact, never inferred from retrieval time.
@@ -298,6 +302,12 @@ pub fn load_config(path: &Path) -> Result<SourceConfig> {
                 approval.target_provision_id.clone()
             )),
             "duplicate outdated-reference approval"
+        );
+    }
+    if let Some(parent) = &config.parent_instrument_id {
+        anyhow::ensure!(
+            parent.starts_with("urn:lex-mx:federal:") && parent != &config.instrument_id,
+            "invalid parent instrument identifier"
         );
     }
     let mut reviews = std::collections::HashSet::new();

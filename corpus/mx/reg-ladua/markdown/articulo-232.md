@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 232
 
-No se considerará que se incurre en la causal de cancelación prevista en la fracción VI del artículo 165 de la [Ley](articulo-1.md), cuando el tercero actúe en asociación con el agente aduanal en los términos que la Ley, este Reglamento y las Reglas que expida el [SAT](articulo-1.md) lo permitan para facilitar la prestación de sus servicios.
+No se considerará que se incurre en la causal de cancelación prevista en la fracción VI del artículo [165](../../ladua/markdown/articulo-165.md) de la [Ley](articulo-1.md), cuando el tercero actúe en asociación con el agente aduanal en los términos que la Ley, este Reglamento y las Reglas que expida el [SAT](articulo-1.md) lo permitan para facilitar la prestación de sus servicios.

@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 173
 
-Quienes mediante pago único cubran jubilaciones, pensiones o haberes de retiro, a que se refiere el artículo 93, fracciones IV y V de la [Ley](articulo-1.md), efectuarán la retención a que se refiere el artículo 96 de la Ley, conforme a lo siguiente:
+Quienes mediante pago único cubran jubilaciones, pensiones o haberes de retiro, a que se refiere el artículo [93](../../lisr/markdown/articulo-93.md), fracciones IV y V de la [Ley](articulo-1.md), efectuarán la retención a que se refiere el artículo [96](../../lisr/markdown/articulo-96.md) de la Ley, conforme a lo siguiente:
 
 I. Aplicarán el procedimiento establecido en el artículo 96 de la Ley a la cantidad mensual que se hubiera percibido de no haber pago único, disminuida por un monto equivalente a quince veces el salario mínimo general del área geográfica del contribuyente, elevado al mes, y
 

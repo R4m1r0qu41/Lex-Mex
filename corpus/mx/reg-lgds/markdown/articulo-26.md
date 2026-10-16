@@ -17,4 +17,4 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 26
 
-En el proyecto de Decreto de Presupuesto de Egresos de la Federación correspondiente, se precisarán los recursos financieros destinados a los programas de desarrollo social prioritarios y de interés público a que se refiere el artículo 19 de la Ley.
+En el proyecto de Decreto de Presupuesto de Egresos de la Federación correspondiente, se precisarán los recursos financieros destinados a los programas de desarrollo social prioritarios y de interés público a que se refiere el artículo [19](../../lgds/markdown/articulo-19.md) de la Ley.

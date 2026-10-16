@@ -17,9 +17,9 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 Para los efectos de este Capítulo, la [Dirección General](articulo-10.md) otorgará:
 
-I. Permisos temporales de Navegación de cabotaje, para Embarcaciones extranjeras, cuando no existan de Bandera Mexicana, en los términos previstos por el artículo 40 de la [Ley](articulo-10.md);
+I. Permisos temporales de Navegación de cabotaje, para Embarcaciones extranjeras, cuando no existan de Bandera Mexicana, en los términos previstos por el artículo [40](../../lncm/markdown/articulo-40.md) de la [Ley](articulo-10.md);
 
-II. Permisos para la prestación de servicios en vías navegables, para la utilización de Embarcaciones en Navegación interior o de cabotaje, de los establecidos por el artículo 42 de la Ley, y
+II. Permisos para la prestación de servicios en vías navegables, para la utilización de Embarcaciones en Navegación interior o de cabotaje, de los establecidos por el artículo [42](../../lncm/markdown/articulo-42.md) de la Ley, y
 
 III. Autorizaciones de permanencia para artefactos navales extranjeros que pretendan operar en las zonas marinas mexicanas, de conformidad con lo establecido en el artículo [16](../../lfm/markdown/articulo-16.md) de la Ley Federal del Mar.
 

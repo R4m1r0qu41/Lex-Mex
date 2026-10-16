@@ -17,7 +17,7 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 190
 
-En los casos a los que se refiere el artículo 380 de la Ley, con excepción de lo previsto en la fracción XI, la autoridad sanitaria citará al interesado a una audiencia para que este ofrezca pruebas y alegue lo que a su derecho convenga.
+En los casos a los que se refiere el artículo [380](../../lgs/markdown/articulo-380.md) de la Ley, con excepción de lo previsto en la fracción XI, la autoridad sanitaria citará al interesado a una audiencia para que este ofrezca pruebas y alegue lo que a su derecho convenga.
 
 En el citatorio, se hará saber la causa que motive el procedimiento, el lugar, día y hora de celebración de la audiencia, el derecho que tiene para ofrecer pruebas y alegar lo que a su interés convenga, así como el apercibimiento de que si no comparece sin justa causa, la resolución se dictará tomando en cuenta sólo las constancias del expediente.
 

@@ -17,7 +17,7 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 105
 
-Conforme a lo ordenado en el artículo 67, fracción III, de la [Ley](articulo-2.md), los compuestos orgánicos persistentes, incluyendo a los bifenilos policlorados, así como los residuos que los contengan, no podrán disponerse finalmente en confinamientos controlados o en cualquier otro sitio si contienen concentraciones iguales o superiores a cincuenta partes por millón.
+Conforme a lo ordenado en el artículo [67](../../lgpgir/markdown/articulo-67.md), fracción III, de la [Ley](articulo-2.md), los compuestos orgánicos persistentes, incluyendo a los bifenilos policlorados, así como los residuos que los contengan, no podrán disponerse finalmente en confinamientos controlados o en cualquier otro sitio si contienen concentraciones iguales o superiores a cincuenta partes por millón.
 
 Los compuestos orgánicos persistentes incluyendo a los bifenilos policlorados, los organohalogenados como los organofluorados, así como los residuos que los contengan, sólo podrán descontaminarse, tratarse o eliminarse de acuerdo con las normas oficiales mexicanas correspondientes, entre otros, bajo cualquiera de los siguientes procesos:
 

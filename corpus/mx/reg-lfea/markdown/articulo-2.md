@@ -15,8 +15,8 @@ source_sha256: 910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f
 
 # Artículo 2
 
-Para los efectos del presente Reglamento, además de las definiciones establecidas en el artículo 2 de la [Ley](articulo-2.md), se entenderá por:
+Para los efectos del presente Reglamento, además de las definiciones establecidas en el artículo [2](../../lfea/markdown/articulo-2.md) de la [Ley](articulo-2.md), se entenderá por:
 
-I. Disposiciones Generales: las que se emitan en términos del artículo 5 de la Ley, y
+I. Disposiciones Generales: las que se emitan en términos del artículo [5](../../lfea/markdown/articulo-5.md) de la Ley, y
 
 II. Ley: la Ley de Firma Electrónica Avanzada.

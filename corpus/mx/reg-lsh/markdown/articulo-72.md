@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 72
 
-Para el cumplimiento del artículo 56, párrafo noveno de la Ley, la persona concesionaria minera debe presentar a la Secretaría la solicitud de autorización correspondiente y debe cumplir con los requerimientos establecidos en la Normatividad aplicable.
+Para el cumplimiento del artículo [56](../../lsh/markdown/articulo-56.md), párrafo noveno de la Ley, la persona concesionaria minera debe presentar a la Secretaría la solicitud de autorización correspondiente y debe cumplir con los requerimientos establecidos en la Normatividad aplicable.

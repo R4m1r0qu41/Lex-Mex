@@ -17,4 +17,4 @@ source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 
 # Artículo 16
 
-Los representantes de la sociedad civil serán electos por los integrantes del Sistema Nacional de Protección Integral a que se refieren los apartados A, B y C del artículo 127 de la [Ley](articulo-2.md).
+Los representantes de la sociedad civil serán electos por los integrantes del Sistema Nacional de Protección Integral a que se refieren los apartados A, B y C del artículo [127](../../lgdnna/markdown/articulo-127.md) de la [Ley](articulo-2.md).

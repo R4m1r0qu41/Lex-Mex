@@ -29,7 +29,7 @@ b. Se asignará puntuación por la antigüedad en el grado que tenga la persona 
 
 OPORTUNIDAD DE PUNTOS PARTICIPACIÓN ANTIGÜEDAD EN EL 1/A. 0 GRADO 2/A. 3 3/A. 6 4/A. o más 9 AÑOS (CASO DE UN GENERAL DE PUNTOS BRIGADA O DE ALA) TIEMPO DE 35 0 SERVICIOS 36 2 37 4 38 o más 6 Inciso con Tabla reformado DOF 20-03-2026
 
-c. Serán restados 20 puntos por cada ascenso que la persona participante haya obtenido fuera de promoción o sin tener la antigüedad en el grado que la Ley establece como requisito para cada jerarquía, con excepción de los otorgados conforme a lo establecido en el artículo 31 de la Ley. Inciso reformado DOF 20-03-2026
+c. Serán restados 20 puntos por cada ascenso que la persona participante haya obtenido fuera de promoción o sin tener la antigüedad en el grado que la Ley establece como requisito para cada jerarquía, con excepción de los otorgados conforme a lo establecido en el artículo [31](../../larefam/markdown/articulo-31.md) de la Ley. Inciso reformado DOF 20-03-2026
 
 B. Cargos y comisiones desempeñados:
 
@@ -41,7 +41,7 @@ La Comisión de Evaluación podrá determinar la puntuación para los cargos o c
 
 C. Preparación profesional:
 
-a. De conformidad con el artículo 8, fracción V de la Ley, se considerarán los cursos de formación, aplicación, capacitación, actualización, especialización, perfeccionamiento o superiores, los cuales se especifican en el Plan General de Educación Militar. b. También se tomarán en cuenta los cursos de capacitación, perfeccionamiento o superiores realizados en el país o en el extranjero, siempre y cuando en ambos casos se relacionen con el arma, servicio, guardia nacional o especialidad de quien los efectúe. Respecto a los cursos civiles, éstos deberán encontrarse registrados en la Dirección General de Educación Militar y Rectoría del Ejército, Fuerza Aérea y Guardia Nacional. Inciso reformado DOF 20-03-2026
+a. De conformidad con el artículo [8](../../larefam/markdown/articulo-8.md), fracción V de la Ley, se considerarán los cursos de formación, aplicación, capacitación, actualización, especialización, perfeccionamiento o superiores, los cuales se especifican en el Plan General de Educación Militar. b. También se tomarán en cuenta los cursos de capacitación, perfeccionamiento o superiores realizados en el país o en el extranjero, siempre y cuando en ambos casos se relacionen con el arma, servicio, guardia nacional o especialidad de quien los efectúe. Respecto a los cursos civiles, éstos deberán encontrarse registrados en la Dirección General de Educación Militar y Rectoría del Ejército, Fuerza Aérea y Guardia Nacional. Inciso reformado DOF 20-03-2026
 
 c. Asimismo, se otorgarán puntos adicionales al personal que acredite haber obtenido uno de los tres primeros lugares en cursos nacionales o en el extranjero.
 

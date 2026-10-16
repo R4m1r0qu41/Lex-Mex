@@ -17,7 +17,7 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 # Artículo 33
 
-Las prórrogas de contratos de cesión parcial de derechos y de prestación de servicios, en términos del último párrafo del artículo 51 de la [Ley](articulo-2.md), se sujetarán a lo siguiente:
+Las prórrogas de contratos de cesión parcial de derechos y de prestación de servicios, en términos del último párrafo del artículo [51](../../lpue/markdown/articulo-51.md) de la [Ley](articulo-2.md), se sujetarán a lo siguiente:
 
 I. El cesionario titular deberá estar al corriente en el cumplimiento de las obligaciones derivadas del contrato respectivo;
 
@@ -43,4 +43,4 @@ b) El programa de actividades que asegure la operación de la Terminal, Instalac
 
 El [Administrador](articulo-2.md) Portuario emitirá dictamen sobre la procedencia o improcedencia de la prórroga, mismo que dará a conocer al cesionario solicitante, en un plazo no mayor de noventa días naturales, contado a partir de la recepción de la solicitud debidamente requisitada.
 
-La prórroga correspondiente se enviará para su registro a la Secretaría, por conducto de la administración portuaria integral, en términos del artículo 51 de la Ley, acompañada del dictamen respectivo.
+La prórroga correspondiente se enviará para su registro a la Secretaría, por conducto de la administración portuaria integral, en términos del artículo [51](../../lpue/markdown/articulo-51.md) de la Ley, acompañada del dictamen respectivo.

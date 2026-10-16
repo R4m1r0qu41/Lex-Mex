@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 154
 
-De conformidad con el artículo 106, fracción III, inciso a) de la [Ley](articulo-1.md), podrán importarse temporalmente Mercancías para destinarse a convenciones y congresos internacionales, siempre que se cumplan los siguientes requisitos:
+De conformidad con el artículo [106](../../ladua/markdown/articulo-106.md), fracción III, inciso a) de la [Ley](articulo-1.md), podrán importarse temporalmente Mercancías para destinarse a convenciones y congresos internacionales, siempre que se cumplan los siguientes requisitos:
 
 I. Que la convención o congreso internacional se organice por residentes en el extranjero o Residentes en Territorio Nacional, siempre que en este último caso se trate de eventos en los que se verifique una participación mayoritaria de personas extranjeras, y
 

@@ -21,7 +21,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 Previamente, "La Comisión" tramitará el expediente respectivo y otorgará garantía de audiencia a los interesados en caso de revocación y caducidad.
 
-En los casos de las fracciones II y III, del artículo 27 de la "Ley", se seguirá el siguiente procedimiento:
+En los casos de las fracciones II y III, del artículo [27](../../lan/markdown/articulo-27.md) de la "Ley", se seguirá el siguiente procedimiento:
 
 I. Una vez que la causa de revocación o de caducidad sea conocida por "La Comisión", ésta la notificará al concesionario o asignatario, señalándole un plazo de quince días hábiles, contados a partir del día siguiente al de la notificación, a efecto de que alegue lo que a su derecho convenga y ofrezca las pruebas y defensas que tuviere. Si éste no responde en el término indicado, "La Comisión" dictará desde luego resolución;
 

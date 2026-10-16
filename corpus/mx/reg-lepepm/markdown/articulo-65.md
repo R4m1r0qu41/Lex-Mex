@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 65
 
-La propuesta global de financiamiento a que se refiere el artículo 107, fracción I de la Ley, debe entregarse a la Secretaría de Hacienda y Crédito Público a más tardar el quince de julio de cada año.
+La propuesta global de financiamiento a que se refiere el artículo [107](../../lepepm/markdown/articulo-107.md), fracción I de la Ley, debe entregarse a la Secretaría de Hacienda y Crédito Público a más tardar el quince de julio de cada año.

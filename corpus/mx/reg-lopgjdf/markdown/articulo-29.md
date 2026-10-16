@@ -61,7 +61,7 @@ XXI. Planear, coordinar e instrumentar, la realización de operativos con otras 
 
 XXII. Proponer al Procurador los criterios de organización y funcionamiento del Centro de Arraigo;
 
-XXIII. Contar con una base de datos que contenga el registro detallado de las armas y equipo asignado a cada policía de investigación, en términos del artículo 7o. de la Ley que Regula el Uso de la Fuerza de los Cuerpos de Seguridad Pública del Distrito Federal;
+XXIII. Contar con una base de datos que contenga el registro detallado de las armas y equipo asignado a cada policía de investigación, en términos del artículo [7](../../lopgjdf/markdown/articulo-7.md)o. de la Ley que Regula el Uso de la Fuerza de los Cuerpos de Seguridad Pública del Distrito Federal;
 
 XXIV. Promover la asistencia psico-emocional para los agentes de la Policía de Investigación que participa en acciones violentas, con motivo de combate al delito;
 

@@ -29,9 +29,9 @@ IV. De junio a julio: etapa de presupuesto;
 
 V. De junio a agosto: elaboración e integración del proyecto de Presupuesto de Egresos y elaboración de la exposición de motivos, proyecto de decreto, anexos, tomos y apartados específicos establecidos en la [Ley](articulo-2.md), así como del proyecto de Ley de Ingresos y de los Criterios Generales de Política Económica;
 
-VI. A más tardar el 8 de septiembre: envío del Ejecutivo Federal a la Cámara de Diputados del proyecto de Presupuesto de Egresos conforme al artículo 42, fracción III de la Ley, así como de los Criterios Generales de Política Económica, la iniciativa de Ley de Ingresos y, en su caso, las iniciativas de reformas legales relativas a las fuentes de ingresos para el siguiente ejercicio fiscal, salvo en el año en que inicie su encargo el Ejecutivo Federal, en que deberá presentarse conforme a lo dispuesto por el artículo [74](../../cpeum/markdown/articulo-74.md) fracción IV de la Constitución Política de los Estados Unidos Mexicanos;
+VI. A más tardar el 8 de septiembre: envío del Ejecutivo Federal a la Cámara de Diputados del proyecto de Presupuesto de Egresos conforme al artículo [42](../../lfprh/markdown/articulo-42.md), fracción III de la Ley, así como de los Criterios Generales de Política Económica, la iniciativa de Ley de Ingresos y, en su caso, las iniciativas de reformas legales relativas a las fuentes de ingresos para el siguiente ejercicio fiscal, salvo en el año en que inicie su encargo el Ejecutivo Federal, en que deberá presentarse conforme a lo dispuesto por el artículo [74](../../cpeum/markdown/articulo-74.md) fracción IV de la Constitución Política de los Estados Unidos Mexicanos;
 
-VII. A partir de la fecha de aprobación del Presupuesto de Egresos por la Cámara de Diputados, conforme al artículo 42, fracción VI de la Ley, durante los 20 días naturales siguientes, la publicación del Decreto de Presupuesto de Egresos y sus anexos en el Diario Oficial de la Federación;
+VII. A partir de la fecha de aprobación del Presupuesto de Egresos por la Cámara de Diputados, conforme al artículo [42](../../lfprh/markdown/articulo-42.md), fracción VI de la Ley, durante los 20 días naturales siguientes, la publicación del Decreto de Presupuesto de Egresos y sus anexos en el Diario Oficial de la Federación;
 
 VIII. A partir de la fecha de publicación del Decreto de Presupuesto de Egresos:
 
@@ -61,4 +61,4 @@ X. Dentro de los 20 días naturales posteriores a la comunicación de los calend
 
 La Secretaría establecerá para cada proceso de programación y presupuesto anual la forma, términos y plazos que aplicarán dentro de los periodos señalados en las fracciones de este artículo que faciliten el cumplimiento de las fechas expresamente establecidas en la Ley.
 
-En el año en que el Ejecutivo Federal termine su encargo, los periodos previstos en el calendario de actividades de este artículo se ajustarán por la Secretaría en términos del artículo 43 de la Ley.
+En el año en que el Ejecutivo Federal termine su encargo, los periodos previstos en el calendario de actividades de este artículo se ajustarán por la Secretaría en términos del artículo [43](../../lfprh/markdown/articulo-43.md) de la Ley.

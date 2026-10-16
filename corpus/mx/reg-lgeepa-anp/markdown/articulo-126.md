@@ -17,9 +17,9 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 126
 
-Los predios que podrán destinarse voluntariamente a la conservación serán los que señala el artículo 55 BIS de la Ley.
+Los predios que podrán destinarse voluntariamente a la conservación serán los que señala el artículo [55 BIS](../../lgeepa/markdown/articulo-55-BIS.md) de la Ley.
 
-Los pueblos indígenas, organizaciones sociales, personas morales, públicas o privadas y demás personas interesadas en obtener el certificado a que se refiere el artículo 77 BIS de la Ley, presentarán su solicitud ante las unidades administrativas de la Comisión, de acuerdo con la circunscripción territorial donde se ubique el predio que se pretenda certificar.
+Los pueblos indígenas, organizaciones sociales, personas morales, públicas o privadas y demás personas interesadas en obtener el certificado a que se refiere el artículo [77 BIS](../../lgeepa/markdown/articulo-77-BIS.md) de la Ley, presentarán su solicitud ante las unidades administrativas de la Comisión, de acuerdo con la circunscripción territorial donde se ubique el predio que se pretenda certificar.
 
 La solicitud que se presente ante la Comisión, contendrá:
 

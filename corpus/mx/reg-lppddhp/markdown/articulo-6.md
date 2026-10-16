@@ -17,7 +17,7 @@ source_sha256: 43b274e9565f7bfe9e8d404998a6baf17ac415d624a70cbcde9f1f3b639d56a7
 
 # Artículo 6
 
-En términos del artículo 5 de la [Ley](articulo-3.md), la Junta de Gobierno se integra de la siguiente forma:
+En términos del artículo [5](../../lppddhp/markdown/articulo-5.md) de la [Ley](articulo-3.md), la Junta de Gobierno se integra de la siguiente forma:
 
 I. Un representante de la Secretaría de Gobernación;
 

@@ -17,7 +17,7 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 126
 
-La Comisión contará con inspectores y visitadores que, de conformidad a lo previsto por el artículo 95 de la [Ley](articulo-2o.md), deberán reunir los siguientes requisitos:
+La Comisión contará con inspectores y visitadores que, de conformidad a lo previsto por el artículo [95](../../lsar/markdown/articulo-95.md) de la [Ley](articulo-2o.md), deberán reunir los siguientes requisitos:
 
 I. Tener experiencia en materia financiera, económica, contable, fiscal, jurídica, administrativa, informática o de auditoría;
 

@@ -17,7 +17,7 @@ source_sha256: c1c2979863552f79416de98fc49cc4898abefac47eb223de3c163a49b793273b
 
 # Artículo 3
 
-Para efectos del artículo 10 de la [Ley](articulo-2.md), los patrones que establezcan esquemas de ayuda alimentaria para sus Trabajadores a que se refiere la Ley y este Reglamento, deberán contar, según corresponda la modalidad, con los contratos celebrados por escrito con:
+Para efectos del artículo [10](../../laat/markdown/articulo-10.md) de la [Ley](articulo-2.md), los patrones que establezcan esquemas de ayuda alimentaria para sus Trabajadores a que se refiere la Ley y este Reglamento, deberán contar, según corresponda la modalidad, con los contratos celebrados por escrito con:
 
 I. Los proveedores de servicios de [Comedor](articulo-2.md);
 

@@ -17,4 +17,4 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 47
 
-Las prórrogas que se requieran para el análisis y evaluación de las propuestas, en términos del artículo 28 de la Ley, deberán notificarse por escrito al promotor, con anterioridad a que venza el plazo a ser prorrogado.
+Las prórrogas que se requieran para el análisis y evaluación de las propuestas, en términos del artículo [28](../../lapp/markdown/articulo-28.md) de la Ley, deberán notificarse por escrito al promotor, con anterioridad a que venza el plazo a ser prorrogado.

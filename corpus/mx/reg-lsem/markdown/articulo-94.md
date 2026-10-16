@@ -47,4 +47,4 @@ VIII. Por necesidades del servicio, a juicio de la Comisión de Personal, podrá
 
 En los casos de recomendaciones al Secretario a que se refiere el párrafo anterior, el Presidente de la Comisión de Personal deberá informar a los miembros de la misma, en la sesión inmediatamente posterior, que realizó tales recomendaciones de manera directa.
 
-El personal que se niegue a cumplir una orden de traslado causará baja del Servicio Exterior, en términos de lo dispuesto por el artículo 53-BIS, fracción IV de la Ley.
+El personal que se niegue a cumplir una orden de traslado causará baja del Servicio Exterior, en términos de lo dispuesto por el artículo [53-BIS](../../lsem/markdown/articulo-53-BIS.md), fracción IV de la Ley.

@@ -17,7 +17,7 @@ source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 
 # Artículo 96
 
-La [Autoridad Federal](articulo-4.md) podrá aplicar discrecionalmente la multa prevista en el artículo 47, fracción XI de la [Ley](articulo-4.md), en lugar de la revocación inmediata a que se refiere el artículo 29, segundo párrafo de la Ley, cuando concurran las circunstancias siguientes:
+La [Autoridad Federal](articulo-4.md) podrá aplicar discrecionalmente la multa prevista en el artículo [47](../../lfzee/markdown/articulo-47.md), fracción XI de la [Ley](articulo-4.md), en lugar de la revocación inmediata a que se refiere el artículo [29](../../lfzee/markdown/articulo-29.md), segundo párrafo de la Ley, cuando concurran las circunstancias siguientes:
 
 I. La conducta del [Administrador Integral](articulo-4.md) no representa un riesgo o perjuicio significativo y definitivo para el establecimiento u operación de la [Zona](articulo-4.md), y
 

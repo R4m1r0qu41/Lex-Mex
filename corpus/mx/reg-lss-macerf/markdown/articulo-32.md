@@ -19,13 +19,13 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 Los patrones revisarán anualmente su siniestralidad para determinar si permanecen en la misma prima, o si ésta se disminuye o aumenta, de acuerdo a las reglas siguientes:
 
-I. La siniestralidad se obtendrá con base en los casos de riesgos de trabajo terminados durante el periodo comprendido entre el primero de enero y el treinta y uno de diciembre del año de que se trate, atendiendo para tal efecto a lo establecido en el artículo 72 de la Ley;
+I. La siniestralidad se obtendrá con base en los casos de riesgos de trabajo terminados durante el periodo comprendido entre el primero de enero y el treinta y uno de diciembre del año de que se trate, atendiendo para tal efecto a lo establecido en el artículo [72](../../lss/markdown/articulo-72.md) de la Ley;
 
 II. Para la fijación de la prima se considerará el valor del grado de siniestralidad de la empresa al que se le sumará la prima mínima de riesgo, conforme a la fórmula que se establece en la Ley y en este Reglamento.
 
 El valor obtenido deberá expresarse en por ciento y se comparará con la prima en que la empresa cubre sus cuotas al momento de la revisión. Si el valor es el mismo, se continuará aplicando la misma prima.
 
-En caso de que sean diferentes procederá la nueva prima, aumentándola o disminuyéndola en una proporción no mayor al uno por ciento del salario base de cotización, con respecto a la prima REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN del año inmediato anterior con que la empresa venía cubriendo sus cuotas, en los términos del artículo 74 de la Ley;
+En caso de que sean diferentes procederá la nueva prima, aumentándola o disminuyéndola en una proporción no mayor al uno por ciento del salario base de cotización, con respecto a la prima REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN del año inmediato anterior con que la empresa venía cubriendo sus cuotas, en los términos del artículo [74](../../lss/markdown/articulo-74.md) de la Ley;
 
 III. La prima obtenida de conformidad con las fracciones anteriores, tendrá vigencia desde el primero de marzo del año siguiente a aquel en que concluyó el periodo computado y hasta el día último de febrero del año subsecuente;
 

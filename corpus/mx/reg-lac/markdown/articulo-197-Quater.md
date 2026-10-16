@@ -17,7 +17,7 @@ source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 
 # Artículo 197 Quater
 
-La Agencia Federal de Aviación Civil revocará la autorización o licencia de piloto de un sistema de aeronave pilotada a distancia, civiles o de Estado, excepto las militares, así como el certificado de aptitud psicofísica, por ser infracciones graves para la seguridad de las operaciones aéreas, de conformidad con lo establecido en el artículo 88 Bis 1, párrafo tercero de la [Ley](articulo-2.md), cuando se trate de las conductas siguientes: Párrafo reformado DOF 31-05-2023
+La Agencia Federal de Aviación Civil revocará la autorización o licencia de piloto de un sistema de aeronave pilotada a distancia, civiles o de Estado, excepto las militares, así como el certificado de aptitud psicofísica, por ser infracciones graves para la seguridad de las operaciones aéreas, de conformidad con lo establecido en el artículo [88 Bis 1](../../lac/markdown/articulo-88-Bis-1.md), párrafo tercero de la [Ley](articulo-2.md), cuando se trate de las conductas siguientes: Párrafo reformado DOF 31-05-2023
 
 I. Operar la aeronave en estado de ebriedad o bajo los efectos de estupefacientes, psicotrópicos o enervantes;
 

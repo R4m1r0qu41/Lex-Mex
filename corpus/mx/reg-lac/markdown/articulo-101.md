@@ -19,7 +19,7 @@ source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 
 El acto por el cual se constituya la hipoteca o un gravamen sobre aeronaves destinadas por las personas concesionarias, asignatarias o permisionarias mexicanas a la prestación de servicios de transporte aéreo, debe: Párrafo reformado DOF 31-05-2023
 
-I. Contar con la autorización previa de la Agencia Federal de Aviación Civil, en los términos de la fracción V de los artículos 15, fracción V y 15 Bis, fracción V, de la [Ley](articulo-2.md), y constar por escrito, e Fracción reformada DOF 31-05-2023
+I. Contar con la autorización previa de la Agencia Federal de Aviación Civil, en los términos de la fracción V de los artículos [15](../../lac/markdown/articulo-15.md), fracción V y [15 Bis](../../lac/markdown/articulo-15-Bis.md), fracción V, de la [Ley](articulo-2.md), y constar por escrito, e Fracción reformada DOF 31-05-2023
 
 II. Inscribirse en el Registro Aeronáutico Mexicano.
 

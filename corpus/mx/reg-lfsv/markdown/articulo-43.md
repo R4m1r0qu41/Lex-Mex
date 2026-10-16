@@ -17,6 +17,6 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 43
 
-La Movilización de [Mercancías Reguladas](articulo-2.md) dentro del territorio nacional, estará sujeta a la expedición del [Certificado Fitosanitario de Movilización Nacional](articulo-2.md), previo cumplimiento de lo señalado en los artículos 22 y 35 de la [Ley](articulo-2.md), el cual podrá ser expedido por el [SENASICA](articulo-2.md), los Organismos de Certificación o las Unidades de Verificación, previa Verificación del cumplimiento de los requisitos previstos en las Disposiciones Legales Aplicables.
+La Movilización de [Mercancías Reguladas](articulo-2.md) dentro del territorio nacional, estará sujeta a la expedición del [Certificado Fitosanitario de Movilización Nacional](articulo-2.md), previo cumplimiento de lo señalado en los artículos [22](../../lfsv/markdown/articulo-22.md) y [35](../../lfsv/markdown/articulo-35.md) de la [Ley](articulo-2.md), el cual podrá ser expedido por el [SENASICA](articulo-2.md), los Organismos de Certificación o las Unidades de Verificación, previa Verificación del cumplimiento de los requisitos previstos en las Disposiciones Legales Aplicables.
 
 Para la expedición del Certificado Fitosanitario de Movilización Nacional, el SENASICA, los Organismos de Certificación o las Unidades de Verificación podrán auxiliarse de Terceros Especialistas para la evaluación de la conformidad.

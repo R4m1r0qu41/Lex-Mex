@@ -17,6 +17,6 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 # Artículo 8
 
-Las participaciones a que se refiere el artículo 5 de la [Ley](articulo-3.md), serán determinadas por la [Secretaría](articulo-3.md), a partir de los lineamientos que ésta emita y conforme al tipo de permiso de que se trate.
+Las participaciones a que se refiere el artículo [5](../../lfjs/markdown/articulo-5o.md) de la [Ley](articulo-3.md), serán determinadas por la [Secretaría](articulo-3.md), a partir de los lineamientos que ésta emita y conforme al tipo de permiso de que se trate.
 
 Artículo reformado DOF 16-11-2023

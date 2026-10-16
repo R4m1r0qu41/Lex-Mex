@@ -117,7 +117,7 @@ h) Escuadra.
 
 La Unidad de Asuntos Internos, cuyo titular será nombrado por el [Presidente](articulo-2.md), contará con autonomía de gestión y tendrá las atribuciones que determine el [Reglamento](articulo-2.md).
 
-Los servicios técnicos y administrativos a que se refiere el artículo 21, fracción VII de la [Ley](articulo-2.md), estarán comprendidos dentro de las funciones de la Comandancia, de las Coordinaciones Territoriales, Estatales y de Batallón y de los organismos que por su naturaleza los requieran. Se expedirán los manuales de organización, de procedimientos y de servicio al público de la Institución, que sean necesarios para la conformación de la estructura y funciones que deberá desarrollar esta, así como las demás normas y disposiciones administrativas que sean necesarias para su buen funcionamiento. Párrafo reformado DOF 11-12-2020
+Los servicios técnicos y administrativos a que se refiere el artículo [21](../../lgn/markdown/articulo-21.md), fracción VII de la [Ley](articulo-2.md), estarán comprendidos dentro de las funciones de la Comandancia, de las Coordinaciones Territoriales, Estatales y de Batallón y de los organismos que por su naturaleza los requieran. Se expedirán los manuales de organización, de procedimientos y de servicio al público de la Institución, que sean necesarios para la conformación de la estructura y funciones que deberá desarrollar esta, así como las demás normas y disposiciones administrativas que sean necesarias para su buen funcionamiento. Párrafo reformado DOF 11-12-2020
 
 Asimismo, la Institución contará con los directores de área, subdirectores de área, jefes de departamento y demás personal que se requiera para el desarrollo de sus funciones, de conformidad con el presupuesto autorizado.
 

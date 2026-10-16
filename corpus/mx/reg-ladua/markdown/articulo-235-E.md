@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 235-E
 
-Para efectos del artículo 167-F, fracción II de la [Ley](articulo-1.md), cuando la agencia aduanal no haya dado aviso correspondiente del cambio de su domicilio, o de su dirección de correo electrónico o la de sus mandatarios autorizados, las Autoridades Aduaneras podrán seguir practicando las notificaciones en el domicilio o en la dirección de correo electrónico manifestados en tanto no se informe el cambio correspondiente, y éstas surtirán sus efectos en los términos legales, de conformidad con lo establecido en el Código Fiscal de la Federación.
+Para efectos del artículo [167-F](../../ladua/markdown/articulo-167-F.md), fracción II de la [Ley](articulo-1.md), cuando la agencia aduanal no haya dado aviso correspondiente del cambio de su domicilio, o de su dirección de correo electrónico o la de sus mandatarios autorizados, las Autoridades Aduaneras podrán seguir practicando las notificaciones en el domicilio o en la dirección de correo electrónico manifestados en tanto no se informe el cambio correspondiente, y éstas surtirán sus efectos en los términos legales, de conformidad con lo establecido en el Código Fiscal de la Federación.
 
 Artículo adicionado DOF 23-02-2026

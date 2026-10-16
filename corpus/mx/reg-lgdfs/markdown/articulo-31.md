@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 31
 
-Cuando se trate de la autorización prevista en el artículo 68, fracción I de la [Ley](articulo-2.md), para realizar las [Actividades del Sector Hidrocarburos](articulo-2.md), el uso, goce o afectación de los terrenos, bienes o derechos necesarios, se acreditará con los documentos que formalicen los actos siguientes: Párrafo reformado DOF 20-11-2025
+Cuando se trate de la autorización prevista en el artículo [68](../../lgdfs/markdown/articulo-68.md), fracción I de la [Ley](articulo-2.md), para realizar las [Actividades del Sector Hidrocarburos](articulo-2.md), el uso, goce o afectación de los terrenos, bienes o derechos necesarios, se acreditará con los documentos que formalicen los actos siguientes: Párrafo reformado DOF 20-11-2025
 
 I. Arrendamiento, servidumbre voluntaria, ocupación superficial, ocupación temporal, compraventa, permuta y cualquier otra que no contravenga la Ley, de conformidad con lo previsto en los artículos 100 y 101 de la Ley de Hidrocarburos;
 

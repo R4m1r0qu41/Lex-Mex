@@ -17,6 +17,6 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 16
 
-Para efectos del artículo 16 de la [Ley](articulo-1.md), no se considerarán ingresos acumulables los depósitos recibidos por el arrendador, cuando éstos tengan como finalidad exclusiva garantizar el cumplimiento de las obligaciones pactadas en el contrato de arrendamiento y sean devueltos al finalizar el contrato.
+Para efectos del artículo [16](../../lisr/markdown/articulo-16.md) de la [Ley](articulo-1.md), no se considerarán ingresos acumulables los depósitos recibidos por el arrendador, cuando éstos tengan como finalidad exclusiva garantizar el cumplimiento de las obligaciones pactadas en el contrato de arrendamiento y sean devueltos al finalizar el contrato.
 
 Cuando los depósitos se apliquen al cumplimiento de cualquier obligación derivada del contrato de arrendamiento, el monto aplicado será considerado como ingreso acumulable para el arrendador en el mes en que se apliquen.

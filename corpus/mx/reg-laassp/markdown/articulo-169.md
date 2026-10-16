@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 169
 
-Cuando el procedimiento de contratación se desarrolle por excepción de manera presencial, y la convocante omita registrar el mismo día en la Plataforma los actos señalados en la fracción III del artículo 95 de la [Ley](articulo-2.md), la inconformidad en contra de los mismos podrá presentarse dentro de los seis días hábiles siguientes a la fecha en que se celebre la junta pública en la que se dé a conocer el fallo o la asignación.
+Cuando el procedimiento de contratación se desarrolle por excepción de manera presencial, y la convocante omita registrar el mismo día en la Plataforma los actos señalados en la fracción III del artículo [95](../../laassp/markdown/articulo-95.md) de la [Ley](articulo-2.md), la inconformidad en contra de los mismos podrá presentarse dentro de los seis días hábiles siguientes a la fecha en que se celebre la junta pública en la que se dé a conocer el fallo o la asignación.

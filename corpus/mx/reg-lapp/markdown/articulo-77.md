@@ -27,4 +27,4 @@ III. Cualquier otro que la convocante señale en las bases, que deberá ser clar
 
 Los criterios de evaluación deberán dar preferencia, en igualdad de circunstancias, a las propuestas que empleen recursos humanos, bienes o servicios de procedencia nacional, observando en todo momento lo dispuesto por los tratados internacionales.
 
-Los criterios podrán incluir elementos que consideren prestaciones a cargo del desarrollador en términos del artículo 100 de la Ley.
+Los criterios podrán incluir elementos que consideren prestaciones a cargo del desarrollador en términos del artículo [100](../../lapp/markdown/articulo-100.md) de la Ley.

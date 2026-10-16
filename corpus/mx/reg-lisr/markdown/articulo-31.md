@@ -19,11 +19,11 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 Tratándose de devoluciones, descuentos o bonificaciones que se efectúen con posterioridad al segundo mes del cierre del ejercicio en el cual se acumuló el ingreso o se efectuó la deducción, los contribuyentes podrán:
 
-I. Restar para efectos del artículo 25, fracción I de la [Ley](articulo-1.md), el total de las devoluciones, descuentos o bonificaciones, de los ingresos acumulados en el ejercicio en el que se efectúen, en lugar de hacerlo en el ejercicio en el que se acumuló el ingreso del cual derivan, y
+I. Restar para efectos del artículo [25](../../lisr/markdown/articulo-25.md), fracción I de la [Ley](articulo-1.md), el total de las devoluciones, descuentos o bonificaciones, de los ingresos acumulados en el ejercicio en el que se efectúen, en lugar de hacerlo en el ejercicio en el que se acumuló el ingreso del cual derivan, y
 
-II. Restar para efectos del artículo 25, fracción II de la Ley, el total de las devoluciones, descuentos o bonificaciones referidas a sus adquisiciones, de las deducciones autorizadas del ejercicio en que aquéllas se lleven a cabo, en lugar de hacerlo en el ejercicio en que se efectuó la deducción de la cual derivan. La opción prevista en esta fracción, sólo se podrá ejercer cuando:
+II. Restar para efectos del artículo [25](../../lisr/markdown/articulo-25.md), fracción II de la Ley, el total de las devoluciones, descuentos o bonificaciones referidas a sus adquisiciones, de las deducciones autorizadas del ejercicio en que aquéllas se lleven a cabo, en lugar de hacerlo en el ejercicio en que se efectuó la deducción de la cual derivan. La opción prevista en esta fracción, sólo se podrá ejercer cuando:
 
-a) El monto de las devoluciones, descuentos o bonificaciones, en caso de aplicarse en el ejercicio en que se efectuó la adquisición, no modifique en más de un 10% el coeficiente de utilidad determinado conforme al artículo 14 de la Ley, que se esté utilizando para calcular los pagos provisionales del ejercicio en que se efectúe la devolución, el descuento o bonificación, o
+a) El monto de las devoluciones, descuentos o bonificaciones, en caso de aplicarse en el ejercicio en que se efectuó la adquisición, no modifique en más de un 10% el coeficiente de utilidad determinado conforme al artículo [14](../../lisr/markdown/articulo-14.md) de la Ley, que se esté utilizando para calcular los pagos provisionales del ejercicio en que se efectúe la devolución, el descuento o bonificación, o
 
 b) El monto de las devoluciones, descuentos o bonificaciones que se efectúen, de aplicarse en el ejercicio en que se realizaron las adquisiciones, no tenga como consecuencia determinar utilidad fiscal en lugar de la pérdida fiscal determinada.
 

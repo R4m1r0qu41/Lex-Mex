@@ -17,4 +17,4 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 160
 
-Únicamente los kits de diagnóstico que representen un riesgo zoosanitario requieren para su producción, importación, venta y distribución, el registro otorgado por la Secretaría, la cual determinará en cada caso los requerimientos documentales y de información conforme a los artículos 6, fracciones XIV y LI y 92 de la [Ley](articulo-2.md).
+Únicamente los kits de diagnóstico que representen un riesgo zoosanitario requieren para su producción, importación, venta y distribución, el registro otorgado por la Secretaría, la cual determinará en cada caso los requerimientos documentales y de información conforme a los artículos [6](../../lfsa/markdown/articulo-6.md), fracciones XIV y LI y [92](../../lfsa/markdown/articulo-92.md) de la [Ley](articulo-2.md).

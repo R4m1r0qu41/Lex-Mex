@@ -21,7 +21,7 @@ Los planes de operaciones de búsqueda y salvamento de aeronaves extraviadas o a
 
 Su aplicación y eficacia será vigilada por la [Secretaría](articulo-2.md), actuando de conformidad con las disposiciones técnico administrativas que ésta emita para tal efecto.
 
-Todas las acciones de búsqueda y salvamento realizadas hasta la localización o no de la aeronave y el rescate de sus ocupantes, deberán quedar debidamente documentados en un acta, ya que son de interés público. La clasificación, desclasificación y acceso a la información que genere o custodie la Secretaría en materia de búsqueda y salvamento, deberá ajustarse a lo previsto en artículo 81 Ter de la [Ley](articulo-2.md).
+Todas las acciones de búsqueda y salvamento realizadas hasta la localización o no de la aeronave y el rescate de sus ocupantes, deberán quedar debidamente documentados en un acta, ya que son de interés público. La clasificación, desclasificación y acceso a la información que genere o custodie la Secretaría en materia de búsqueda y salvamento, deberá ajustarse a lo previsto en artículo [81 Ter](../../lac/markdown/articulo-81-Ter.md) de la [Ley](articulo-2.md).
 
 Las brigadas de búsqueda y salvamento podrán estar conformadas por autoridades civiles o militares o por ambas, en el ámbito de sus atribuciones; así como por organizaciones privadas que se encuentren debidamente ubicadas y equipadas para llevar a cabo operaciones de búsqueda y salvamento, estas últimas estarán coordinadas por la Secretaría, de conformidad con los planes de operación de búsqueda y salvamento de cada terminal aérea.
 

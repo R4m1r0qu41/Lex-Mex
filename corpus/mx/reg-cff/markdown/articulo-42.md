@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 42
 
-Para los efectos de los artículos 31 y 33, fracción I, inciso c) del [Código](articulo-1.md), los contribuyentes podrán imprimir y, en su caso, llenar las formas oficiales aprobadas por el Servicio de Administración Tributaria, siempre que cumplan con los requisitos que se señalen para su impresión y presentación en las reglas de carácter general que para tal efecto emita.
+Para los efectos de los artículos [31](../../cff/markdown/articulo-31.md) y [33](../../cff/markdown/articulo-33.md), fracción I, inciso c) del [Código](articulo-1.md), los contribuyentes podrán imprimir y, en su caso, llenar las formas oficiales aprobadas por el Servicio de Administración Tributaria, siempre que cumplan con los requisitos que se señalen para su impresión y presentación en las reglas de carácter general que para tal efecto emita.

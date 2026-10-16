@@ -17,4 +17,4 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 # Artículo 68
 
-Las condiciones y remuneración del servicio de amarre y desamarre de cabos serán libremente fijadas por las partes, mediante un contrato de carácter mercantil que para tal efecto celebren, con la excepción que señala el artículo 60 de la [Ley](articulo-2.md).
+Las condiciones y remuneración del servicio de amarre y desamarre de cabos serán libremente fijadas por las partes, mediante un contrato de carácter mercantil que para tal efecto celebren, con la excepción que señala el artículo [60](../../lpue/markdown/articulo-60.md) de la [Ley](articulo-2.md).

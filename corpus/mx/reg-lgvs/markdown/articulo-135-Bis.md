@@ -17,7 +17,7 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 135 Bis
 
-Sin perjuicio de los padrones estatales de mascotas de especies silvestres y aves de presa que conforme al artículo 10, fracción IX de la [Ley](articulo-2.md), corresponde crear y administrar a las entidades federativas, la Secretaría expedirá la autorización para la posesión de ejemplares exóticos de fauna silvestre como mascota o animal de compañía.
+Sin perjuicio de los padrones estatales de mascotas de especies silvestres y aves de presa que conforme al artículo [10](../../lgvs/markdown/articulo-10.md), fracción IX de la [Ley](articulo-2.md), corresponde crear y administrar a las entidades federativas, la Secretaría expedirá la autorización para la posesión de ejemplares exóticos de fauna silvestre como mascota o animal de compañía.
 
 Los interesados presentarán una solicitud que contenga:
 

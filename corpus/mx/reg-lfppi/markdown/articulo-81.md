@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 81
 
-Además de la persona titular de la patente, cualquiera de las personas licenciatarias podrá solicitar la rehabilitación de la patente a que se refiere el artículo 161 de la Ley, salvo estipulación en contrario pactada en la licencia respectiva. La persona titular de un gravamen podrá solicitar la rehabilitación de la patente, en los plazos previstos en la Ley y en este Reglamento.
+Además de la persona titular de la patente, cualquiera de las personas licenciatarias podrá solicitar la rehabilitación de la patente a que se refiere el artículo [161](../../lfppi/markdown/articulo-161.md) de la Ley, salvo estipulación en contrario pactada en la licencia respectiva. La persona titular de un gravamen podrá solicitar la rehabilitación de la patente, en los plazos previstos en la Ley y en este Reglamento.

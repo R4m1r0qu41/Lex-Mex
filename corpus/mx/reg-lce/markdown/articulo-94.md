@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 94
 
-Además de lo dispuesto en los artículos 65 y 98 de la [Ley](articulo-1o.md), se podrá garantizar el pago de las cuotas compensatorias definitivas en los procedimientos de nuevo exportador, cobertura de producto, revisión y examen de vigencia de cuota compensatoria. La autoridad correspondiente podrá aceptar las garantías constituidas en la forma y términos previstos en el Código Fiscal de la Federación y su Reglamento.
+Además de lo dispuesto en los artículos [65](../../lce/markdown/articulo-65.md) y [98](../../lce/markdown/articulo-98.md) de la [Ley](articulo-1o.md), se podrá garantizar el pago de las cuotas compensatorias definitivas en los procedimientos de nuevo exportador, cobertura de producto, revisión y examen de vigencia de cuota compensatoria. La autoridad correspondiente podrá aceptar las garantías constituidas en la forma y términos previstos en el Código Fiscal de la Federación y su Reglamento.
 
 Se procederá a cancelar o modificar las garantías que se hubiesen constituido o, en su caso, a devolver, con los intereses correspondientes, las cantidades que se hubieren enterado o la diferencia respectiva, según se trate, cuando la [Secretaría](articulo-1o.md) elimine o modifique cuotas compensatorias.
 

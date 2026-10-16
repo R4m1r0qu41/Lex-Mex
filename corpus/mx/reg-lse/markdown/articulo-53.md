@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 53
 
-El autoconsumo aislado está sujeto a permiso de generación en los términos del presente reglamento, así como al cumplimiento de lo previsto en el artículo 31 de la Ley y las disposiciones administrativas de carácter general en materia de autoconsumo.
+El autoconsumo aislado está sujeto a permiso de generación en los términos del presente reglamento, así como al cumplimiento de lo previsto en el artículo [31](../../lse/markdown/articulo-31.md) de la Ley y las disposiciones administrativas de carácter general en materia de autoconsumo.

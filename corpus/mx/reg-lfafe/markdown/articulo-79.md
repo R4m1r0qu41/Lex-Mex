@@ -17,4 +17,4 @@ source_sha256: 9fedca5f25e5e912e6a91ad595c8782841e8227ffe9538bfb55c8d0bd4d7d183
 
 # Artículo 79
 
-Cuando la Secretaría lo estime conveniente, puede ejercitar su derecho para llevar a cabo periódicamente, a través de representantes autorizados, inspecciones del armamento de los Cuerpos de Policía, en los términos del artículo 29 de la Ley, así como el que forme parte de museos o colecciones.
+Cuando la Secretaría lo estime conveniente, puede ejercitar su derecho para llevar a cabo periódicamente, a través de representantes autorizados, inspecciones del armamento de los Cuerpos de Policía, en los términos del artículo [29](../../lfafe/markdown/articulo-29.md) de la Ley, así como el que forme parte de museos o colecciones.

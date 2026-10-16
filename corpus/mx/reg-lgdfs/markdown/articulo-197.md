@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 197
 
-Las personas a que se refiere el artículo 114, primer párrafo de la [Ley](articulo-2.md), deberán presentar ante la Comisión, por cualquier medio de comunicación, el aviso de detección de Plagas o Enfermedades forestales, dentro de las veinticuatro horas siguientes a la detección, en el que se deberá señalar lo siguiente:
+Las personas a que se refiere el artículo [114](../../lgdfs/markdown/articulo-114.md), primer párrafo de la [Ley](articulo-2.md), deberán presentar ante la Comisión, por cualquier medio de comunicación, el aviso de detección de Plagas o Enfermedades forestales, dentro de las veinticuatro horas siguientes a la detección, en el que se deberá señalar lo siguiente:
 
 I. Nombre o denominación o razón social, así como domicilio y teléfono de la persona que avisa;
 

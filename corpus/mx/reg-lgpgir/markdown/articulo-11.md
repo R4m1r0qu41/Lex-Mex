@@ -17,4 +17,4 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 11
 
-La determinación para clasificar a un residuo como de manejo especial, en términos del artículo 19, fracción IX, de la [Ley](articulo-2.md), se establecerá en la norma oficial mexicana correspondiente.
+La determinación para clasificar a un residuo como de manejo especial, en términos del artículo [19](../../lgpgir/markdown/articulo-19.md), fracción IX, de la [Ley](articulo-2.md), se establecerá en la norma oficial mexicana correspondiente.

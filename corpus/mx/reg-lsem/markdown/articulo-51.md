@@ -17,7 +17,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 51
 
-Los ascensos del [Personal de Carrera](articulo-2.md) de la rama diplomático-consular serán acordados por el Secretario, de conformidad con el artículo 37 de la Ley.
+Los ascensos del [Personal de Carrera](articulo-2.md) de la rama diplomático-consular serán acordados por el Secretario, de conformidad con el artículo [37](../../lsem/markdown/articulo-37.md) de la Ley.
 
 Para ese efecto, la Subcomisión de Evaluación revisará los expedientes de los concursantes que hayan aprobado los exámenes y someterá a consideración del Secretario, por conducto de la Comisión de Personal, la lista en orden de prelación de los concursantes que en cada uno de los rangos hayan obtenido las más altas calificaciones de expediente en el número determinado de plazas concursadas.
 

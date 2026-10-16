@@ -17,4 +17,4 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 94
 
-En la solicitud de acceso, para los efectos del artículo 29, fracción I de la Ley, se deberá indicar el domicilio o cualquier otro medio para que sea notificada la respuesta. En caso de no cumplir con este requisito, el responsable tendrá por no presentada la solicitud, dejando constancia de ello. Registro de solicitudes
+En la solicitud de acceso, para los efectos del artículo [29](../../lfpdppp/markdown/articulo-29.md), fracción I de la Ley, se deberá indicar el domicilio o cualquier otro medio para que sea notificada la respuesta. En caso de no cumplir con este requisito, el responsable tendrá por no presentada la solicitud, dejando constancia de ello. Registro de solicitudes

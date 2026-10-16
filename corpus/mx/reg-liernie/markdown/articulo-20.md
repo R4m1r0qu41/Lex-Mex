@@ -17,4 +17,4 @@ source_sha256: 8e60a8ba9f27b47d26806dbae115c0803dd9ea6a3a02a1b359dc86516d40759e
 
 # Artículo 20
 
-El aviso de modificación de cláusula de exclusión de extranjeros por la de admisión a que se refiere el segundo párrafo del artículo 16 de la [Ley](articulo-1.md), debe acompañarse de una copia del instrumento público que contenga la reforma estatutaria y que incluya el convenio a que se refiere el artículo [14](articulo-14.md) de este Reglamento. La sociedad de que se trate deberá manifestar en dicho aviso si es propietaria de bienes inmuebles en la zona restringida y los fines a los que están destinados.
+El aviso de modificación de cláusula de exclusión de extranjeros por la de admisión a que se refiere el segundo párrafo del artículo [16](../../lie/markdown/articulo-16.md) de la [Ley](articulo-1.md), debe acompañarse de una copia del instrumento público que contenga la reforma estatutaria y que incluya el convenio a que se refiere el artículo [14](articulo-14.md) de este Reglamento. La sociedad de que se trate deberá manifestar en dicho aviso si es propietaria de bienes inmuebles en la zona restringida y los fines a los que están destinados.

@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 29
 
-En la celebración de los acuerdos marco a que se refiere el artículo 24 de la [Ley](articulo-2.md), se atenderán los principios de economía, eficacia, eficiencia, imparcialidad, transparencia y honradez que aseguren las mejores condiciones para el Estado.
+En la celebración de los acuerdos marco a que se refiere el artículo [24](../../laassp/markdown/articulo-24.md) de la [Ley](articulo-2.md), se atenderán los principios de economía, eficacia, eficiencia, imparcialidad, transparencia y honradez que aseguren las mejores condiciones para el Estado.

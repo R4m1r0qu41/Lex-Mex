@@ -19,7 +19,7 @@ Los contratos que celebre el concesionario o permisionario de un aeródromo civi
 
 I. Denominación social o nombre, según corresponda, registro federal de contribuyentes y domicilio del prestador de los servicios aeroportuarios o complementarios;
 
-II. El nombre de los socios y administradores de la sociedad mercantil prestadora de los servicios, los que deberán acompañar una manifestación suscrita por cada uno, bajo protesta de decir verdad, de que no se encuentran en los supuestos del artículo 22 de la Ley;
+II. El nombre de los socios y administradores de la sociedad mercantil prestadora de los servicios, los que deberán acompañar una manifestación suscrita por cada uno, bajo protesta de decir verdad, de que no se encuentran en los supuestos del artículo [22](../../laero/markdown/articulo-22.md) de la Ley;
 
 III. La descripción de los servicios que prestarán; IV. Los términos y condiciones conforme a los cuales el prestador de servicios podrá utilizar las instalaciones del aeródromo, así como la delimitación y descripción de las áreas específicas que, en su caso, tenga asignadas;
 
@@ -27,7 +27,7 @@ V. Vigencia del contrato, la que en ningún caso podrá ser superior a la vigenc
 
 VI. La manifestación de que el prestador de servicios se sujetará, incondicionalmente, a lo dispuesto en la Ley, este Reglamento, así como al horario, las reglas de operación y normas de seguridad del aeródromo civil de que se trate y demás disposiciones aplicables;
 
-VII. La obligación solidaria prevista en el artículo 52 de la Ley;
+VII. La obligación solidaria prevista en el artículo [52](../../laero/markdown/articulo-52.md) de la Ley;
 
 VIII. En su caso, la copia de las licencias del personal técnico aeronáutico y los certificados de capacidad correspondientes y vigentes, o la acreditación de la capacitación técnica del personal;
 

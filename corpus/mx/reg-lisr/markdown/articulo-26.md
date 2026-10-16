@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 26
 
-Para efectos del artículo 24 de la [Ley](articulo-1.md), los contribuyentes que realicen reestructuraciones de sociedades constituidas en México pertenecientes a un mismo grupo, deberán presentar la solicitud de autorización a que se refiere dicho precepto ante la autoridad fiscal competente, previamente a que se lleve a cabo la reestructuración correspondiente.
+Para efectos del artículo [24](../../lisr/markdown/articulo-24.md) de la [Ley](articulo-1.md), los contribuyentes que realicen reestructuraciones de sociedades constituidas en México pertenecientes a un mismo grupo, deberán presentar la solicitud de autorización a que se refiere dicho precepto ante la autoridad fiscal competente, previamente a que se lleve a cabo la reestructuración correspondiente.

@@ -17,7 +17,7 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 110
 
-En términos del artículo 37 Bis de la [Ley](articulo-2.md), las personas físicas o morales que realicen Actividades o presten Servicios Fitosanitarios, sean propietarias, poseedoras, usufructuarias, beneficiarias o que tengan algún derecho, respecto de cualquier [Establecimiento](articulo-2.md) de los enunciados en el presente artículo, estarán obligadas a presentar el [Aviso de Inicio de Funcionamiento](articulo-2.md) y, en su caso, la Verificación y certificación:
+En términos del artículo [37 Bis](../../lfsv/markdown/articulo-37-bis.md) de la [Ley](articulo-2.md), las personas físicas o morales que realicen Actividades o presten Servicios Fitosanitarios, sean propietarias, poseedoras, usufructuarias, beneficiarias o que tengan algún derecho, respecto de cualquier [Establecimiento](articulo-2.md) de los enunciados en el presente artículo, estarán obligadas a presentar el [Aviso de Inicio de Funcionamiento](articulo-2.md) y, en su caso, la Verificación y certificación:
 
 I. Establecimientos para la producción de material propagativo de especies Vegetales que incluye: empresas, viveros, invernaderos, instalaciones, laboratorios, huertos donde se producen semillas o material propagativo, huertos madre, bancos de germoplasma, [Lote](articulo-2.md) fundación y productor de yemas;
 

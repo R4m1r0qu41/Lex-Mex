@@ -17,6 +17,6 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 67
 
-Para los efectos del artículo 66, tercer párrafo del [Código](articulo-1.md), al momento de presentar la solicitud de autorización no se pagará el 20% del monto total del crédito fiscal a que hace referencia el artículo 66, primer párrafo, fracción II del Código, por lo que no le será aplicable la disminución establecida en el artículo 66-A, fracciones I, primer párrafo y II, primer párrafo del Código.
+Para los efectos del artículo [66](../../cff/markdown/articulo-66.md), tercer párrafo del [Código](articulo-1.md), al momento de presentar la solicitud de autorización no se pagará el 20% del monto total del crédito fiscal a que hace referencia el artículo [66](../../cff/markdown/articulo-66.md), primer párrafo, fracción II del Código, por lo que no le será aplicable la disminución establecida en el artículo [66-A](../../cff/markdown/articulo-66-A.md), fracciones I, primer párrafo y II, primer párrafo del Código.
 
-La [Autoridad Fiscal](articulo-1.md) podrá autorizar un plazo menor al solicitado por el contribuyente en su solicitud de pago a plazos en parcialidades en términos del tercer párrafo del artículo 66 del Código, derivado del análisis del caso en particular.
+La [Autoridad Fiscal](articulo-1.md) podrá autorizar un plazo menor al solicitado por el contribuyente en su solicitud de pago a plazos en parcialidades en términos del tercer párrafo del artículo [66](../../cff/markdown/articulo-66.md) del Código, derivado del análisis del caso en particular.

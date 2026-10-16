@@ -17,7 +17,7 @@ source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 
 # Artículo 2
 
-Para los efectos del presente Reglamento, además de las definiciones contenidas en el artículo 5 de la Ley, se entiende por:
+Para los efectos del presente Reglamento, además de las definiciones contenidas en el artículo [5](../../lgamvlv/markdown/articulo-5.md) de la Ley, se entiende por:
 
 I. Banco Nacional: Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres;
 
@@ -35,6 +35,6 @@ VIII. Modelos: las medidas, programas, directrices, mecanismos y procedimientos 
 
 IX. Política Nacional Integral: las acciones y estrategias con Perspectiva de Género, Derechos Humanos de las Mujeres y mecanismos de coordinación que deberán observar la Federación, las entidades federativas y los municipios para prevenir, atender, sancionar y erradicar la Violencia contra las Mujeres, y
 
-X. Secretaría Ejecutiva: la Secretaría Ejecutiva del Sistema, que estará a cargo del Instituto Nacional de las Mujeres, en términos del artículo 36, fracción VIII, de la Ley.
+X. Secretaría Ejecutiva: la Secretaría Ejecutiva del Sistema, que estará a cargo del Instituto Nacional de las Mujeres, en términos del artículo [36](../../lgamvlv/markdown/articulo-36.md), fracción VIII, de la Ley.
 
 Artículo reformado DOF 25-11-2013

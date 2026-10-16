@@ -23,10 +23,10 @@ II. Las condiciones del servicio que se presta;
 
 III. Las responsabilidades de la persona concesionaria, asignataria o permisionaria;
 
-IV. Los derechos y obligaciones de la persona pasajera o usuaria del servicio, así como las políticas de compensación a las que se refieren las fracciones V y X del artículo 47 Bis de la [Ley](articulo-2.md);
+IV. Los derechos y obligaciones de la persona pasajera o usuaria del servicio, así como las políticas de compensación a las que se refieren las fracciones V y X del artículo [47 Bis](../../lac/markdown/articulo-47-Bis.md) de la [Ley](articulo-2.md);
 
 V. Las condiciones de operación y precio, así como las responsabilidades de la persona fletante y fletadora con respecto a la persona pasajera, sólo para los servicios de transporte aéreo bajo la modalidad de fletamento, y
 
-VI. Las medidas de seguridad operacional aplicables para las personas pasajeras con alguna discapacidad, de acuerdo con lo previsto en los artículos 47 Bis, fracción I y 47 Bis 1 de la Ley.
+VI. Las medidas de seguridad operacional aplicables para las personas pasajeras con alguna discapacidad, de acuerdo con lo previsto en los artículos [47 Bis](../../lac/markdown/articulo-47-Bis.md), fracción I y [47 Bis 1](../../lac/markdown/articulo-47-Bis-1.md) de la Ley.
 
 Artículo reformado DOF 29-06-2020, 31-05-2023

@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 17
 
-Para efectos del artículo 49 de la [Ley](articulo-2.md), en la Zonificación forestal se establecerán las categorías siguientes:
+Para efectos del artículo [49](../../lgdfs/markdown/articulo-49.md) de la [Ley](articulo-2.md), en la Zonificación forestal se establecerán las categorías siguientes:
 
 I. Zonas de conservación y [Aprovechamiento restringido](articulo-2.md) o prohibido:
 

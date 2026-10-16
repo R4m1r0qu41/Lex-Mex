@@ -19,7 +19,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 La Comisión Ejecutiva cubrirá con cargo al Fondo la compensación a las víctimas de violaciones a los derechos humanos cometidas por parte de autoridades federales, cuando la víctima reúna los requisitos previstos en las fracciones I y II del artículo [78](articulo-78.md) de este Reglamento, así como los siguientes:
 
-I. Cuente con una resolución de las señaladas en el artículo 65 de la Ley, y
+I. Cuente con una resolución de las señaladas en el artículo [65](../../lgv/markdown/articulo-65.md) de la Ley, y
 
 II. Declare bajo protesta de decir verdad que no ha recibido pago o indemnización alguna por concepto de la reparación del daño. En caso de que a la víctima se le haya cubierto parte de la reparación integral a través de otros mecanismos, el Fondo entregará, de manera complementaria, el monto no cubierto por el mecanismo respectivo.
 

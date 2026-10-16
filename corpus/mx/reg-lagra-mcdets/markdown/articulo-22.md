@@ -23,4 +23,4 @@ I. El plano de ejecución aprobado que forme parte de la Resolución Presidencia
 
 II. Plano elaborado por autoridad competente, a partir del cual el Tribunal Agrario emitió la resolución definitiva, respecto de la acción agraria de que se trate, y
 
-III. El que con ese carácter elabore el [Registro](articulo-2º.md), de conformidad con el artículo 56 de la [Ley](articulo-2º.md).
+III. El que con ese carácter elabore el [Registro](articulo-2º.md), de conformidad con el artículo [56](../../lagra/markdown/articulo-56.md) de la [Ley](articulo-2º.md).

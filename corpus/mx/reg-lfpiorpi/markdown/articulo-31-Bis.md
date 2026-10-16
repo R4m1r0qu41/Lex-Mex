@@ -17,6 +17,6 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 31 Bis
 
-Cuando se realicen operaciones que cumplan con lo previsto en los incisos a) y b) de la fracción XVI del artículo 17 de la Ley, sólo deberá presentarse el Aviso correspondiente en términos del inciso a) de la misma fracción mencionada.
+Cuando se realicen operaciones que cumplan con lo previsto en los incisos a) y b) de la fracción XVI del artículo [17](../../lfpiorpi/markdown/articulo-17.md) de la Ley, sólo deberá presentarse el Aviso correspondiente en términos del inciso a) de la misma fracción mencionada.
 
 Artículo adicionado DOF 27-03-2026

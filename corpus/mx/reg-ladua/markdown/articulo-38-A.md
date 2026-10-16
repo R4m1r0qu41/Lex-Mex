@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 38-A
 
-Las empresas de mensajería y paquetería autorizadas a que se refiere el artículo 88 bis de la [Ley](articulo-1.md), podrán realizar el despacho de las Mercancías que transporten, bajo el procedimiento simplificado, siempre que el valor de las mismas no exceda el monto que se establezca mediante Reglas.
+Las empresas de mensajería y paquetería autorizadas a que se refiere el artículo [88 bis](../../ladua/markdown/articulo-88-bis.md) de la [Ley](articulo-1.md), podrán realizar el despacho de las Mercancías que transporten, bajo el procedimiento simplificado, siempre que el valor de las mismas no exceda el monto que se establezca mediante Reglas.
 
 Artículo adicionado DOF 23-02-2026

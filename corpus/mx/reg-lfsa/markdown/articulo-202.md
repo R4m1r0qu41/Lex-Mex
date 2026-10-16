@@ -47,6 +47,6 @@ III. Materiales, y
 
 IV. Cámaras de refrigeración y congelamiento.
 
-La infraestructura, equipo y materiales deberán ser funcionales y suficientes para realizar la inspección de las mercancías reguladas, en los términos de las disposiciones de sanidad animal a que se refiere el artículo 105 de la Ley.
+La infraestructura, equipo y materiales deberán ser funcionales y suficientes para realizar la inspección de las mercancías reguladas, en los términos de las disposiciones de sanidad animal a que se refiere el artículo [105](../../lfsa/markdown/articulo-105.md) de la Ley.
 
 Los interesados deberán cumplir con los requisitos establecidos para la autorización, instalaciones, equipo y operación, que garanticen una adecuada inspección, manejo, toma de muestras, refrigeración y congelación de las mercancías reguladas para importación, que minimicen el riesgo de contaminación.

@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 33
 
-Para efectos del artículo 20, fracciones III y VII, de la [Ley](articulo-1.md), las empresas concesionarias de transporte ferroviario deberán transmitir a través del [Sistema Electrónico Aduanero](articulo-1.md), en los términos y condiciones que se establezcan mediante Reglas, lo siguiente: Párrafo reformado DOF 23-02-2026
+Para efectos del artículo [20](../../ladua/markdown/articulo-20.md), fracciones III y VII, de la [Ley](articulo-1.md), las empresas concesionarias de transporte ferroviario deberán transmitir a través del [Sistema Electrónico Aduanero](articulo-1.md), en los términos y condiciones que se establezcan mediante Reglas, lo siguiente: Párrafo reformado DOF 23-02-2026
 
 I. La información de las Mercancías que entren o salgan del territorio nacional;
 

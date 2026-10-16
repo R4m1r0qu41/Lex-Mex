@@ -17,4 +17,4 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 77
 
-La Secretaría, previo a la declaración de una veda, agotará los mecanismos de autogestión, de [UMA](articulo-2.md) y los métodos de conservación y aprovechamiento sustentable previstos en la [Ley](articulo-2.md) y en el presente Reglamento. Las vedas a que se refiere el artículo 71 de la Ley, se establecerán, modificarán o levantarán mediante acuerdo secretarial publicado en el Diario Oficial de la Federación.
+La Secretaría, previo a la declaración de una veda, agotará los mecanismos de autogestión, de [UMA](articulo-2.md) y los métodos de conservación y aprovechamiento sustentable previstos en la [Ley](articulo-2.md) y en el presente Reglamento. Las vedas a que se refiere el artículo [71](../../lgvs/markdown/articulo-71.md) de la Ley, se establecerán, modificarán o levantarán mediante acuerdo secretarial publicado en el Diario Oficial de la Federación.

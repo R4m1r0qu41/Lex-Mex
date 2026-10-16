@@ -17,4 +17,4 @@ source_sha256: 1462bbacad053d49c213e32c1859dd914c1415d2c37c6a22970bd87877a9c9bd
 
 # Artículo 6
 
-El Instituto definirá las políticas y lineamientos para la formulación de sus programas operativo y financiero anuales a que se refiere el artículo 6 de la Ley, de acuerdo con la normatividad en la materia que para tal efecto establezca la Secretaría de Hacienda y Crédito Público.
+El Instituto definirá las políticas y lineamientos para la formulación de sus programas operativo y financiero anuales a que se refiere el artículo [6](../../linfonacot/markdown/articulo-6.md) de la Ley, de acuerdo con la normatividad en la materia que para tal efecto establezca la Secretaría de Hacienda y Crédito Público.

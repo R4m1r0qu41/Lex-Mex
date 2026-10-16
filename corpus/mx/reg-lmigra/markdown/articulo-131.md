@@ -17,6 +17,6 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 131
 
-La condición de estancia de visitante con permiso para realizar actividades remuneradas prevista en el artículo 52, fracción II, de la Ley, se podrá autorizar a la persona extranjera que demuestre contar con una oferta de empleo en la que indique la ocupación que desarrollará, la temporalidad requerida, el lugar de trabajo y los datos de la constancia de inscripción del empleador.
+La condición de estancia de visitante con permiso para realizar actividades remuneradas prevista en el artículo [52](../../lmigra/markdown/articulo-52.md), fracción II, de la Ley, se podrá autorizar a la persona extranjera que demuestre contar con una oferta de empleo en la que indique la ocupación que desarrollará, la temporalidad requerida, el lugar de trabajo y los datos de la constancia de inscripción del empleador.
 
 Lo anterior, conforme al procedimiento y requisitos previstos en las disposiciones administrativas de carácter general que serán publicadas en el Diario Oficial de la Federación.

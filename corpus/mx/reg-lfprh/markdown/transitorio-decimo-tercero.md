@@ -15,4 +15,4 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # DÉCIMO TERCERO
 
-Los sistemas de control presupuestario que administra la Secretaría y los correspondientes a las dependencias y entidades deberán considerar la infraestructura para la aplicación integral de los componentes de las clasificaciones presupuestarias a fin de que se incluya la categoría entidad federativa de la estructura programática en los términos del artículo 27 de la [Ley](articulo-2.md), a más tardar en el ejercicio fiscal de 2008.
+Los sistemas de control presupuestario que administra la Secretaría y los correspondientes a las dependencias y entidades deberán considerar la infraestructura para la aplicación integral de los componentes de las clasificaciones presupuestarias a fin de que se incluya la categoría entidad federativa de la estructura programática en los términos del artículo [27](../../lfprh/markdown/articulo-27.md) de la [Ley](articulo-2.md), a más tardar en el ejercicio fiscal de 2008.

@@ -21,4 +21,4 @@ La excepción total o parcial para el servicio militar se deriva:
 
 I.- De incapacidad física;
 
-II.- De cualquier otra causa de las especificadas en la primera parte del artículo 10 de la Ley.
+II.- De cualquier otra causa de las especificadas en la primera parte del artículo [10](../../lsm/markdown/articulo-10.md) de la Ley.

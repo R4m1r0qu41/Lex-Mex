@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 55
 
-Para efectos de lo dispuesto en el artículo 15, fracción V de la [Ley](articulo-1.md), tratándose de importaciones que se realicen por tráfico aéreo o marítimo, el concesionario o autorizado deberá comunicar al consignatario o destinatario de las Mercancías, el ingreso de las mismas al recinto fiscalizado.
+Para efectos de lo dispuesto en el artículo [15](../../ladua/markdown/articulo-15.md), fracción V de la [Ley](articulo-1.md), tratándose de importaciones que se realicen por tráfico aéreo o marítimo, el concesionario o autorizado deberá comunicar al consignatario o destinatario de las Mercancías, el ingreso de las mismas al recinto fiscalizado.
 
 La comunicación realizada al importador, su representante legal, agente aduanal, agencia aduanal, consolidador o desconsolidador, se hará en el domicilio que dichas personas hayan registrado ante la aduana de despacho para oír y recibir notificaciones, y se entenderá efectuada al día siguiente al de la fecha en que conste la recepción del documento. Párrafo reformado DOF 23-02-2026
 

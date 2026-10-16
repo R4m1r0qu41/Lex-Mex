@@ -21,7 +21,7 @@ Los [Comités Internos de Trasplantes](articulo-2.md), además de las previstas 
 
 I. Realizar la selección de Donadores y Receptores para Trasplante, con excepción de los casos en los que la donación de Órganos, Tejidos o células se realice entre personas que tengan parentesco por consanguinidad, civil o de afinidad, en cuyo caso dicho Comité evaluará la viabilidad y factibilidad de realizar el Trasplante;
 
-II. Supervisar que los Trasplantes que se lleven a cabo en el [Establecimiento de Salud](articulo-2.md), además de cumplir con los principios a que hace referencia el artículo 327 de la Ley, se realicen con la máxima seguridad, de acuerdo con los principios de ética médica y de conformidad con los requisitos que establecen la Ley y este Reglamento;
+II. Supervisar que los Trasplantes que se lleven a cabo en el [Establecimiento de Salud](articulo-2.md), además de cumplir con los principios a que hace referencia el artículo [327](../../lgs/markdown/articulo-327.md) de la Ley, se realicen con la máxima seguridad, de acuerdo con los principios de ética médica y de conformidad con los requisitos que establecen la Ley y este Reglamento;
 
 III. Supervisar el desempeño del [Coordinador Hospitalario](articulo-2.md), así como del equipo quirúrgico y de los diversos profesionales de la salud que participan en el Trasplante;
 
@@ -39,13 +39,13 @@ IX. Evaluar los resultados de los [Programas de Trasplantes](articulo-2.md) con 
 
 XI. Coadyuvar con el responsable sanitario en proporcionar al Registro Nacional de Trasplantes, la información de su Establecimiento de Salud relativa a:
 
-a) La fracción II del artículo 338 de la Ley, dentro de las cuarenta y ocho horas posteriores a la designación;
+a) La fracción II del artículo [338](../../lgs/markdown/articulo-338.md) de la Ley, dentro de las cuarenta y ocho horas posteriores a la designación;
 
-b) La fracción III del artículo 338 de la Ley, dentro de las cuarenta y ocho horas posteriores al evento;
+b) La fracción III del artículo [338](../../lgs/markdown/articulo-338.md) de la Ley, dentro de las cuarenta y ocho horas posteriores al evento;
 
-c) La fracción IV del artículo 338 de la Ley, dentro de las setenta y dos horas posteriores al evento, y
+c) La fracción IV del artículo [338](../../lgs/markdown/articulo-338.md) de la Ley, dentro de las setenta y dos horas posteriores al evento, y
 
-d) La fracción V del artículo 338 de la Ley, dentro de las cuarenta y ocho horas posteriores a la resolución del Comité Interno de Trasplantes;
+d) La fracción V del artículo [338](../../lgs/markdown/articulo-338.md) de la Ley, dentro de las cuarenta y ocho horas posteriores a la resolución del Comité Interno de Trasplantes;
 
 XII. Elaborar el acta correspondiente a cada sesión que se lleve a cabo, la cual una vez firmada por los integrantes se integrará al libro de actas correspondiente. Tanto las actas como el libro deberán conservarse por un mínimo de cinco años. En el caso del libro de actas, los cinco años se computarán a partir de la fecha de la última acta registrada.
 

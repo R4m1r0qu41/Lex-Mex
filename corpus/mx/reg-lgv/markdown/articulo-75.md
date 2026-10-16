@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 75
 
-El titular de la unidad administrativa a cargo del Fondo a que se refiere el artículo 138 de la Ley, tiene las funciones y obligaciones siguientes:
+El titular de la unidad administrativa a cargo del Fondo a que se refiere el artículo [138](../../lgv/markdown/articulo-138.md) de la Ley, tiene las funciones y obligaciones siguientes:
 
 I. Ser el titular de la unidad responsable del fondo;
 
@@ -27,7 +27,7 @@ III. Rendir cuentas de manera mensual a la institución fiduciaria respecto del 
 
 IV. Efectuar, en términos de las resoluciones de procedencia que emita el Pleno de la Comisión Ejecutiva y los lineamientos que al efecto emita dicha Comisión, la entrega de los recursos correspondientes;
 
-V. Ejercer el derecho de repetir, en los términos de lo dispuesto en los artículos 37 y 71 de la Ley.
+V. Ejercer el derecho de repetir, en los términos de lo dispuesto en los artículos [37](../../lgv/markdown/articulo-37.md) y [71](../../lgv/markdown/articulo-71.md) de la Ley.
 
 Los recursos recuperados deberán transmitirse directamente al patrimonio del fondo;
 

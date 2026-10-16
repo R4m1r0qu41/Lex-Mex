@@ -17,11 +17,11 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 57
 
-El dictamen y el informe sobre la revisión de la situación fiscal del contribuyente a que se refiere el artículo 52, fracciones II y III del [Código](articulo-1.md), se elaborarán con base en el análisis efectuado a la información que determine el Servicio de Administración Tributaria mediante reglas de carácter general. Adicionalmente, el informe deberá contener lo siguiente:
+El dictamen y el informe sobre la revisión de la situación fiscal del contribuyente a que se refiere el artículo [52](../../cff/markdown/articulo-52.md), fracciones II y III del [Código](articulo-1.md), se elaborarán con base en el análisis efectuado a la información que determine el Servicio de Administración Tributaria mediante reglas de carácter general. Adicionalmente, el informe deberá contener lo siguiente:
 
 I. Los datos generales del contribuyente y del contador público inscrito y, en su caso, del representante legal;
 
-II. La declaración, bajo protesta de decir verdad, que el informe se emite con fundamento en la fracción III del artículo 52 del Código y demás disposiciones aplicables, y
+II. La declaración, bajo protesta de decir verdad, que el informe se emite con fundamento en la fracción III del artículo [52](../../cff/markdown/articulo-52.md) del Código y demás disposiciones aplicables, y
 
 III. Lo demás que determine el Servicio de Administración Tributaria mediante reglas de carácter general.
 

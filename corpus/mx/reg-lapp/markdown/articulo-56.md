@@ -17,6 +17,6 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 56
 
-Si el proyecto se considera procedente y la dependencia o entidad federal decide adquirir los estudios de la propuesta no solicitada, se estará a lo previsto en el artículo 32 de la Ley.
+Si el proyecto se considera procedente y la dependencia o entidad federal decide adquirir los estudios de la propuesta no solicitada, se estará a lo previsto en el artículo [32](../../lapp/markdown/articulo-32.md) de la Ley.
 
 El monto máximo de adquisición se determinará conforme a lo señalado en el artículo [51](articulo-51.md) de este Reglamento.

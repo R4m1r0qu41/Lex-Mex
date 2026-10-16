@@ -19,4 +19,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 La actualización a que se refiere el octavo párrafo del artículo 59 de la [Ley](articulo-2.md) deberá ser solicitada por el contratista por una sola ocasión.
 
-El promedio de los índices señalados en el artículo 59 de la Ley se aplicará al monto total del contrato, entendiéndose que con ello se actualiza el costo de los insumos de los trabajos.
+El promedio de los índices señalados en el artículo [59](../../lopsrm/markdown/articulo-59.md) de la Ley se aplicará al monto total del contrato, entendiéndose que con ello se actualiza el costo de los insumos de los trabajos.

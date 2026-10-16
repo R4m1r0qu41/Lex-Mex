@@ -17,7 +17,7 @@ source_sha256: 5018478a6ca9ea39f9ca88ffcb68dde9a33bd4adec59dc75d2431f894b621fc2
 
 # Artículo 5
 
-Además de las atribuciones previstas en el artículo 19 de la [Ley](articulo-2.md), a la Coordinación Nacional le corresponde las siguientes:
+Además de las atribuciones previstas en el artículo [19](../../lgpc/markdown/articulo-19.md) de la [Ley](articulo-2.md), a la Coordinación Nacional le corresponde las siguientes:
 
 I. Elaborar el proyecto del Programa Nacional para someterlo a consideración del Consejo Nacional;
 

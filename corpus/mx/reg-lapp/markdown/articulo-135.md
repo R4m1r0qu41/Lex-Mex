@@ -17,4 +17,4 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 135
 
-En el caso de rescisión del contrato, el plazo a que se refiere el artículo 132 de la Ley se contará a partir del día en que haya concluido, con resolución firme, el procedimiento de rescisión.
+En el caso de rescisión del contrato, el plazo a que se refiere el artículo [132](../../lapp/markdown/articulo-132.md) de la Ley se contará a partir del día en que haya concluido, con resolución firme, el procedimiento de rescisión.

@@ -21,7 +21,7 @@ El Modelo de Atención contendrá las siguientes acciones:
 
 I. Brindar servicios gratuitos de atención y apoyo, amplios e integrados que incluyan la ubicación accesible, líneas telefónicas de ayuda, centros de atención en crisis, apoyos al empleo y a la vivienda;
 
-II. Apoyar a las hijas e hijos, a efecto de brindarles los servicios establecidos en el artículo 56 de la Ley;
+II. Apoyar a las hijas e hijos, a efecto de brindarles los servicios establecidos en el artículo [56](../../lgamvlv/markdown/articulo-56.md) de la Ley;
 
 III. Favorecer la instalación y el manteamiento de casas de refugio;
 

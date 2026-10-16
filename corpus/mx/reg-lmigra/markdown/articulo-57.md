@@ -17,4 +17,4 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 57
 
-El Instituto, de forma exclusiva, revisará la documentación que presenten las personas extranjeras al momento de solicitar su internación regular al territorio nacional, para comprobar el cumplimiento de los requisitos establecidos en el artículo 37 de la Ley, así como la validez y vigencia de la misma, y determinar su admisión al territorio nacional o rechazo al país de procedencia o al país donde sean admisibles.
+El Instituto, de forma exclusiva, revisará la documentación que presenten las personas extranjeras al momento de solicitar su internación regular al territorio nacional, para comprobar el cumplimiento de los requisitos establecidos en el artículo [37](../../lmigra/markdown/articulo-37.md) de la Ley, así como la validez y vigencia de la misma, y determinar su admisión al territorio nacional o rechazo al país de procedencia o al país donde sean admisibles.

@@ -17,6 +17,6 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 22-B
 
-Para efectos de lo dispuesto por los artículos 5o., fracción IV y 5o.-E de la Ley, el Impuesto trasladado a los contribuyentes y que hubiesen retenido conforme al artículo 1o.-A de la Ley, podrá ser acreditado en la declaración de pago bimestral siguiente a la declaración en la que se haya efectuado el entero de la retención, siempre y cuando se cumplan los requisitos que establece la Ley para la procedencia del acreditamiento.
+Para efectos de lo dispuesto por los artículos [5](../../liva/markdown/articulo-5o.md)o., fracción IV y 5o.-E de la Ley, el Impuesto trasladado a los contribuyentes y que hubiesen retenido conforme al artículo [1](../../liva/markdown/articulo-1o.md)o.-A de la Ley, podrá ser acreditado en la declaración de pago bimestral siguiente a la declaración en la que se haya efectuado el entero de la retención, siempre y cuando se cumplan los requisitos que establece la Ley para la procedencia del acreditamiento.
 
 Artículo adicionado DOF 25-09-2014

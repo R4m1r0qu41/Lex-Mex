@@ -19,11 +19,11 @@ source_sha256: 5018478a6ca9ea39f9ca88ffcb68dde9a33bd4adec59dc75d2431f894b621fc2
 
 La Coordinación Nacional en su carácter de Coordinación Ejecutiva del Sistema Nacional deberá proporcionar a sus integrantes del Sistema Nacional cuando menos, lo siguiente:
 
-I. Informe detallado de los resultados y avances obtenidos de instrumentar el Subsistema de Información de Riesgos, Peligros y Vulnerabilidades a que se refiere el artículo 19, fracción XXI, de la [Ley](articulo-2.md), el cual se concibe como un sistema que compila, publica, divulga y conserva la información que resulte necesaria para mantener informada oportunamente a la población, además de prevenir y, en su caso, atender Emergencias o catástrofes originadas por Desastres naturales de conformidad con la Ley del Sistema Nacional de Información Estadística y Geográfica;
+I. Informe detallado de los resultados y avances obtenidos de instrumentar el Subsistema de Información de Riesgos, Peligros y Vulnerabilidades a que se refiere el artículo [19](../../lgpc/markdown/articulo-19.md), fracción XXI, de la [Ley](articulo-2.md), el cual se concibe como un sistema que compila, publica, divulga y conserva la información que resulte necesaria para mantener informada oportunamente a la población, además de prevenir y, en su caso, atender Emergencias o catástrofes originadas por Desastres naturales de conformidad con la Ley del Sistema Nacional de Información Estadística y Geográfica;
 
-II. Los convenios de coordinación, colaboración y concertación a que se refiere el artículo 29, fracción VII, de la Ley;
+II. Los convenios de coordinación, colaboración y concertación a que se refiere el artículo [29](../../lgpc/markdown/articulo-29.md), fracción VII, de la Ley;
 
-III. Los programas básicos de seguridad por regiones y entidades federativas, para hacer frente a agentes perturbadores recurrentes o imprevistos y la infraestructura y equipamiento de Protección Civil a que se refiere el artículo 19, fracciones XIX y XXV, de la Ley;
+III. Los programas básicos de seguridad por regiones y entidades federativas, para hacer frente a agentes perturbadores recurrentes o imprevistos y la infraestructura y equipamiento de Protección Civil a que se refiere el artículo [19](../../lgpc/markdown/articulo-19.md), fracciones XIX y XXV, de la Ley;
 
 IV. Los programas de Protección Civil homologados conforme al Plan Nacional de Desarrollo, al Programa Nacional, así como las etapas consideradas en la Gestión Integral de Riesgos y conforme lo establezca la normativa local en materia de planeación, y
 

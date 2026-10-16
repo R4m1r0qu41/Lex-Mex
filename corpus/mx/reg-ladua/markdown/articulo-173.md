@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 173
 
-Para efectos del artículo 108 de la [Ley](articulo-1.md), el cómputo del plazo de permanencia en territorio nacional de las Mercancías importadas temporalmente por las empresas con programa de manufactura, maquila y de servicios de exportación autorizados por la Secretaría de Economía, inicia cuando se activa el Mecanismo de Selección Automatizado y se cumplen los requisitos y las formalidades del despacho aduanero.
+Para efectos del artículo [108](../../ladua/markdown/articulo-108.md) de la [Ley](articulo-1.md), el cómputo del plazo de permanencia en territorio nacional de las Mercancías importadas temporalmente por las empresas con programa de manufactura, maquila y de servicios de exportación autorizados por la Secretaría de Economía, inicia cuando se activa el Mecanismo de Selección Automatizado y se cumplen los requisitos y las formalidades del despacho aduanero.
 
-Tratándose de las operaciones que se efectúen mediante Pedimento Consolidado conforme a los artículos 37 y 37-A de la Ley, el cómputo del plazo a que se refiere el párrafo anterior, inicia a partir de la fecha del cierre del Pedimento Consolidado ante el [Sistema Electrónico Aduanero](articulo-1.md).
+Tratándose de las operaciones que se efectúen mediante Pedimento Consolidado conforme a los artículos [37](../../ladua/markdown/articulo-37.md) y [37-A](../../ladua/markdown/articulo-37-A.md) de la Ley, el cómputo del plazo a que se refiere el párrafo anterior, inicia a partir de la fecha del cierre del Pedimento Consolidado ante el [Sistema Electrónico Aduanero](articulo-1.md).

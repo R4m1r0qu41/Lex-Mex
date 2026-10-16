@@ -39,7 +39,7 @@ X. Someter a la aprobación del superior jerárquico los estudios y proyectos, a
 
 XI. Participar en los procesos de modernización, actualización y adecuación del orden jurídico que rige el funcionamiento de la Institución;
 
-XII. Proponer a su Jefe de División, solicitar el auxilio de las autoridades y particulares a que se refiere el artículo 43 de la [Ley](articulo-2.md), fundando y motivando la solicitud y sólo por el tiempo estrictamente necesario para hacer frente a las situaciones de urgencia, desastre o cuando las personas se vean amenazadas por situaciones que impliquen violencia o riesgo inminente;
+XII. Proponer a su Jefe de División, solicitar el auxilio de las autoridades y particulares a que se refiere el artículo [43](../../lpf/markdown/articulo-43.md) de la [Ley](articulo-2.md), fundando y motivando la solicitud y sólo por el tiempo estrictamente necesario para hacer frente a las situaciones de urgencia, desastre o cuando las personas se vean amenazadas por situaciones que impliquen violencia o riesgo inminente;
 
 XIII. Coordinar con otros servidores públicos de la Institución las actividades que les hayan sido encomendadas;
 

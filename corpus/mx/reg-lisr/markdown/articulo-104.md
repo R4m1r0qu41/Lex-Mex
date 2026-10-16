@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 104
 
-Para efectos del artículo 74, párrafo noveno de la [Ley](articulo-1.md), las personas morales que no realicen actividades empresariales por cuenta de sus integrantes, deberán determinar sus pagos provisionales en términos del artículo 106 de la Ley, aplicando al resultado que se obtenga la tasa establecida en el artículo 9 de la Ley.
+Para efectos del artículo [74](../../lisr/markdown/articulo-74.md), párrafo noveno de la [Ley](articulo-1.md), las personas morales que no realicen actividades empresariales por cuenta de sus integrantes, deberán determinar sus pagos provisionales en términos del artículo [106](../../lisr/markdown/articulo-106.md) de la Ley, aplicando al resultado que se obtenga la tasa establecida en el artículo [9](../../lisr/markdown/articulo-9.md) de la Ley.

@@ -33,7 +33,7 @@ E. Copia simple de una identificación oficial con fotografía, y F. Copia de la
 
 II. Para la compensación:
 
-A. Para la persona militar que se encuentre en los supuestos previstos en las fracciones I, II y III del artículo 36 de la Ley: Párrafo reformado DOF 20-03-2026
+A. Para la persona militar que se encuentre en los supuestos previstos en las fracciones I, II y III del artículo [36](../../lissfam/markdown/articulo-36.md) de la Ley: Párrafo reformado DOF 20-03-2026
 
 1. Copia del oficio de baja del servicio activo y alta en situación de retiro;
 
@@ -43,7 +43,7 @@ A. Para la persona militar que se encuentre en los supuestos previstos en las fr
 
 4. Original del certificado del último pago emitido por la Unidad Ejecutora de Pagos correspondiente, excepto las personas militares que se encuentren gozando de licencia ilimitada. Numeral reformado DOF 20-03-2026
 
-B. Para las personas militares que se encuentren en los supuestos previstos en las fracciones IV y V del artículo 36 de la Ley: Párrafo reformado DOF 20-03-2026
+B. Para las personas militares que se encuentren en los supuestos previstos en las fracciones IV y V del artículo [36](../../lissfam/markdown/articulo-36.md) de la Ley: Párrafo reformado DOF 20-03-2026
 
 1. Escrito en el que se indique el lugar donde desea se radique su pago, y
 

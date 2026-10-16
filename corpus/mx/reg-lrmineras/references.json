@@ -76,6 +76,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrmineras:article:23:reference:70-71:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrmineras:article:23",
+    "source_span": "4",
+    "start_char": 70,
+    "end_char": 71,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrmnyut:article:4",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lrmineras:article:23:reference:220-221:2:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lrmineras:article:23",
     "source_span": "2",

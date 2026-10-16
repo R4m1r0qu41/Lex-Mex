@@ -17,6 +17,6 @@ source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 
 # Artículo 45
 
-Tratándose del supuesto a que se refiere la fracción III del segundo párrafo del artículo [41](articulo-41.md) de este Reglamento, la [Autoridad Competente](articulo-3.md) sólo podrá conocer de la solicitud respectiva, una vez que el subsidio correspondiente haya sido entregado a las personas interesadas en prestar el servicio en el Centro de Atención, a efecto de que puedan cumplir con la normativa del [Modelo de Atención](articulo-3.md), así como lo dispuesto en el artículo 50 de la Ley.
+Tratándose del supuesto a que se refiere la fracción III del segundo párrafo del artículo [41](articulo-41.md) de este Reglamento, la [Autoridad Competente](articulo-3.md) sólo podrá conocer de la solicitud respectiva, una vez que el subsidio correspondiente haya sido entregado a las personas interesadas en prestar el servicio en el Centro de Atención, a efecto de que puedan cumplir con la normativa del [Modelo de Atención](articulo-3.md), así como lo dispuesto en el artículo [50](../../lgpsacdii/markdown/articulo-50.md) de la Ley.
 
-Las causas de revocación a que se refiere el artículo 72 de la Ley, deberán establecerse en la normativa aplicable a cada Modelo de Atención.
+Las causas de revocación a que se refiere el artículo [72](../../lgpsacdii/markdown/articulo-72.md) de la Ley, deberán establecerse en la normativa aplicable a cada Modelo de Atención.

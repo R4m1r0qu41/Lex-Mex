@@ -17,4 +17,4 @@ source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 
 # Artículo 241
 
-Las autoridades sanitarias competentes, al aplicar las sanciones establecidas en este Reglamento, observarán las reglas señaladas en los artículos 416 y 418 de la Ley.
+Las autoridades sanitarias competentes, al aplicar las sanciones establecidas en este Reglamento, observarán las reglas señaladas en los artículos [416](../../lgs/markdown/articulo-416.md) y [418](../../lgs/markdown/articulo-418.md) de la Ley.

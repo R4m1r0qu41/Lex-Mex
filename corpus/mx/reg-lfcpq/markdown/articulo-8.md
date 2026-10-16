@@ -17,4 +17,4 @@ source_sha256: 3c0720d560455df51ca882a37390cd0fe017d1987853b8358e37d5195f718055
 
 # Artículo 8
 
-Para cumplir con lo dispuesto en el artículo 12 de la Ley, se podrá usar cualquier sistema de registro, siempre que contenga la información a que se refiere el citado precepto.
+Para cumplir con lo dispuesto en el artículo [12](../../lfcpq/markdown/articulo-12.md) de la Ley, se podrá usar cualquier sistema de registro, siempre que contenga la información a que se refiere el citado precepto.

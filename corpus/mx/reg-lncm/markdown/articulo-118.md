@@ -17,9 +17,9 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 En las actividades de los agentes navieros y sin perjuicio de los derechos y obligaciones entre las partes de un contrato de transporte marítimo de mercancías, se observará lo siguiente:
 
-I. De conformidad con el artículo 129 de la [Ley](articulo-10.md), el conocimiento de embarque podrá expedirse por el naviero; o bien, por el agente naviero general, si está autorizado para ello, y
+I. De conformidad con el artículo [129](../../lncm/markdown/articulo-129.md) de la [Ley](articulo-10.md), el conocimiento de embarque podrá expedirse por el naviero; o bien, por el agente naviero general, si está autorizado para ello, y
 
-II. De conformidad con el artículo 132 de la Ley, el cargador está obligado a manifestar al naviero o a su agente naviero general, de forma pormenorizada, los datos exactos de identificación de las mercancías y, en su caso, los detalles para su manipulación derivados de su naturaleza peligrosa, en los términos previstos en el [Código IMDG](articulo-10.md). La omisión de esta norma obliga a la indemnización prevista en el referido artículo de la Ley.
+II. De conformidad con el artículo [132](../../lncm/markdown/articulo-132.md) de la Ley, el cargador está obligado a manifestar al naviero o a su agente naviero general, de forma pormenorizada, los datos exactos de identificación de las mercancías y, en su caso, los detalles para su manipulación derivados de su naturaleza peligrosa, en los términos previstos en el [Código IMDG](articulo-10.md). La omisión de esta norma obliga a la indemnización prevista en el referido artículo de la Ley.
 
 Capítulo V Educación marítima mercante
 

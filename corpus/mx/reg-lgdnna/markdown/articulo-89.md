@@ -17,4 +17,4 @@ source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 
 # Artículo 89
 
-El Sistema Nacional DIF, en el ámbito de sus atribuciones, garantizará la protección de los derechos de niñas, niños y adolescentes sujetos al procedimiento de Adopción Internacional mediante el Informe de Adoptabilidad a que se refiere el artículo 31 de la [Ley](articulo-2.md).
+El Sistema Nacional DIF, en el ámbito de sus atribuciones, garantizará la protección de los derechos de niñas, niños y adolescentes sujetos al procedimiento de Adopción Internacional mediante el Informe de Adoptabilidad a que se refiere el artículo [31](../../lgdnna/markdown/articulo-31.md) de la [Ley](articulo-2.md).

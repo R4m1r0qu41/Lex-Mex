@@ -17,4 +17,4 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 Las Cuentas Individuales que hayan sido asignadas con anterioridad a la entrada en vigor del presente Reglamento, y que se encuentren inactivas permanecerán en la [Administradora](articulo-2o.md) a la que hayan sido asignadas. La Administradora que maneje estas Cuentas Individuales fungirá como prestadora de servicio.
 
-Las Cuentas Individuales que se encuentren activas y que hayan sido asignadas antes de la entrada en vigor del presente Reglamento, serán reasignadas de conformidad con lo establecido en el artículo 76 de la [Ley](articulo-2o.md) y el presente Reglamento.
+Las Cuentas Individuales que se encuentren activas y que hayan sido asignadas antes de la entrada en vigor del presente Reglamento, serán reasignadas de conformidad con lo establecido en el artículo [76](../../lsar/markdown/articulo-76.md) de la [Ley](articulo-2o.md) y el presente Reglamento.

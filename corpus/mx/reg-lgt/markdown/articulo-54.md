@@ -63,7 +63,7 @@ s) Mecanismos o modalidades de financiamiento por parte de los interesados o ben
 
 III. La Secretaría, con base en los documentos anteriores, elaborará el proyecto de Decreto y lo presentará al Comité de Evaluación;
 
-IV. El Comité de Evaluación analizará el proyecto de Decreto y lo devolverá a la Secretaría con su respectivo dictamen y el estudio de viabilidad en términos del artículo 33 de la Ley;
+IV. El Comité de Evaluación analizará el proyecto de Decreto y lo devolverá a la Secretaría con su respectivo dictamen y el estudio de viabilidad en términos del artículo [33](../../lgt/markdown/articulo-33.md) de la Ley;
 
 V. El Comité de Evaluación podrá solicitar la participación del Fondo, para que, en el ámbito de su competencia, recomiende los proyectos productivos y de inversión susceptibles de ser aprovechados en una zona determinada y, en su caso, definir la participación que tendrá en los mismos, y
 

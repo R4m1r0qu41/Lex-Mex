@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 116
 
-Para efectos del artículo 65, fracción I, inciso d) de la [Ley](articulo-1.md), se considerará como incrementable el cargo por concepto de seguro que se contrate sobre un porcentaje del precio de la Mercancía, cualquiera que sea el momento de pago de la prima.
+Para efectos del artículo [65](../../ladua/markdown/articulo-65.md), fracción I, inciso d) de la [Ley](articulo-1.md), se considerará como incrementable el cargo por concepto de seguro que se contrate sobre un porcentaje del precio de la Mercancía, cualquiera que sea el momento de pago de la prima.

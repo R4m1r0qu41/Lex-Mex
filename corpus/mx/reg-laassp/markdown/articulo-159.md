@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 159
 
-Para el supuesto previsto en la fracción II del artículo 90 de la [Ley](articulo-2.md), el plazo de tres años se computará a partir de la fecha en la que haya surtido efectos la notificación de la primera rescisión administrativa en dicho periodo.
+Para el supuesto previsto en la fracción II del artículo [90](../../laassp/markdown/articulo-90.md) de la [Ley](articulo-2.md), el plazo de tres años se computará a partir de la fecha en la que haya surtido efectos la notificación de la primera rescisión administrativa en dicho periodo.

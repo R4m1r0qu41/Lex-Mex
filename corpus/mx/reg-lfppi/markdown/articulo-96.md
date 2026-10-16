@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 96
 
-Para efectos del artículo 179 de la Ley, la persona solicitante de la marca colectiva deberá exhibir con la solicitud de registro, copia certificada del acta constitutiva de la sociedad o asociación, en la cual se establezca que se trata de una asociación o sociedad de personas productoras, fabricantes o comerciantes de productos, o prestadoras de servicios, legalmente constituida y cuyo objeto social sea la producción o fabricación del producto o la prestación del servicio solicitado.
+Para efectos del artículo [179](../../lfppi/markdown/articulo-179.md) de la Ley, la persona solicitante de la marca colectiva deberá exhibir con la solicitud de registro, copia certificada del acta constitutiva de la sociedad o asociación, en la cual se establezca que se trata de una asociación o sociedad de personas productoras, fabricantes o comerciantes de productos, o prestadoras de servicios, legalmente constituida y cuyo objeto social sea la producción o fabricación del producto o la prestación del servicio solicitado.

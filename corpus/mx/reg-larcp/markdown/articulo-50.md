@@ -17,4 +17,4 @@ source_sha256: 298ec78a8d6666f73ce8ccdd8a31ae0a06c18174139eacc0fe80d3a00d3f4b89
 
 # Artículo 50
 
-El recurso de revisión previsto en los artículos 33 al 36 de la [Ley](articulo-2o.md), se sustanciará conforme a la Ley Federal de Procedimiento Administrativo.
+El recurso de revisión previsto en los artículos [33](../../larcp/markdown/articulo-33.md) al [36](../../larcp/markdown/articulo-36.md) de la [Ley](articulo-2o.md), se sustanciará conforme a la Ley Federal de Procedimiento Administrativo.

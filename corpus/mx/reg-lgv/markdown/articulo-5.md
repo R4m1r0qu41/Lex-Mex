@@ -17,4 +17,4 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 5
 
-Los mecanismos, medidas y procedimientos establecidos en este Reglamento serán diseñados, aplicados y evaluados de conformidad con los principios establecidos en el artículo 5 de la Ley.
+Los mecanismos, medidas y procedimientos establecidos en este Reglamento serán diseñados, aplicados y evaluados de conformidad con los principios establecidos en el artículo [5](../../lgv/markdown/articulo-5.md) de la Ley.

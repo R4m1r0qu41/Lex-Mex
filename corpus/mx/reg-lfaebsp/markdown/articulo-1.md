@@ -21,7 +21,7 @@ El presente ordenamiento tiene por objeto establecer las normas reglamentarias d
 
 Adicionalmente a las definiciones contenidas en el artículo 2 de la Ley, excepto por lo que hace a la definición de Contraloría, para efectos de este Reglamento se entenderá por:
 
-I. Comité: El Comité de Donaciones a que se refiere el artículo 35 de la Ley;
+I. Comité: El Comité de Donaciones a que se refiere el artículo [35](../../lfaebsp/markdown/articulo-35.md) de la Ley;
 
 II. Costos de administración: La suma de todos los gastos, tanto directos como indirectos, que se requieren para la recepción, registro, custodia, defensa jurídica, regularización, conservación, mantenimiento, supervisión, cobranza y, en su caso, destrucción o enajenación de un bien, tales como los pagos que se generen por concepto de: honorarios; pago a terceros especializados; servicios de vigilancia; transporte; embalaje; almacenamiento; avalúos; contribuciones; seguros; papelería; energía eléctrica, que se vinculen estrictamente con el bien de que se trate, y los que, en su caso, disponga la Junta de Gobierno en los términos que determine en los Lineamientos que para tal efecto emita, así como los que se establezcan en otras disposiciones legales; Fracción reformada DOF 29-11-2006
 

@@ -19,7 +19,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 Las dependencias y entidades podrán realizar a través de sistemas electrónicos trámites presupuestarios y, en su caso, obtener las autorizaciones correspondientes.
 
-En las disposiciones generales que emita la Secretaría, en términos del artículo 13 de la [Ley](articulo-2.md), se observarán las siguientes bases:
+En las disposiciones generales que emita la Secretaría, en términos del artículo [13](../../lfprh/markdown/articulo-13.md) de la [Ley](articulo-2.md), se observarán las siguientes bases:
 
 I. Los trámites presupuestarios que podrán llevarse a cabo y las autorizaciones correspondientes que, en su caso, podrán emitirse a través de sistemas electrónicos serán aquéllos relacionados, entre otros, con los sistemas de control presupuestario referidos en el artículo [10](articulo-10.md) de este Reglamento;
 

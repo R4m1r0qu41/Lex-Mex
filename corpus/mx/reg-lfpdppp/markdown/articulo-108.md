@@ -17,6 +17,6 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 108
 
-En términos del artículo 3, fracción III de la Ley, el bloqueo tiene como propósito impedir el tratamiento, a excepción del almacenamiento, o posible acceso por persona alguna, salvo que alguna disposición legal prevea lo contrario.
+En términos del artículo [3](../../lfpdppp/markdown/articulo-3.md), fracción III de la Ley, el bloqueo tiene como propósito impedir el tratamiento, a excepción del almacenamiento, o posible acceso por persona alguna, salvo que alguna disposición legal prevea lo contrario.
 
 El periodo de bloqueo será hasta el plazo de prescripción legal o contractual correspondiente.

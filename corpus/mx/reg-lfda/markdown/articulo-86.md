@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 86
 
-El [Instituto](articulo-2o.md) es el encargado de otorgar en México el Número Internacional Normalizado del Libro y el Número Internacional Normalizado para Publicaciones Periódicas a que se refiere la fracción IV del Artículo 53 de la [Ley](articulo-2o.md).
+El [Instituto](articulo-2o.md) es el encargado de otorgar en México el Número Internacional Normalizado del Libro y el Número Internacional Normalizado para Publicaciones Periódicas a que se refiere la fracción IV del Artículo [53](../../lfda/markdown/articulo-53.md) de la [Ley](articulo-2o.md).

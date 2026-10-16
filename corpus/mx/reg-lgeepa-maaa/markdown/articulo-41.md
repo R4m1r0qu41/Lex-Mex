@@ -21,4 +21,4 @@ Cuando la ejecución de las acciones a que se refieren los incisos a) y b) de la
 
 La Procuraduría o, en su caso, la Agencia, según corresponda, pondrán a disposición de los directamente afectados, cuando así ellos lo soliciten, un resumen de los programas preventivos y correctivos, así como el Diagnóstico Básico, indicando la actividad desarrollada y la ubicación de las instalaciones en donde ésta se realiza. Párrafo reformado DOF 31-10-2014
 
-Para los efectos del artículo 38 BIS 1 de la Ley, se entenderá por directamente afectados a las personas físicas o morales en donde se realiza la obra o actividad respecto de las cuales se establecen los programas preventivos y correctivos derivados de las Auditorías Ambientales.
+Para los efectos del artículo [38 BIS 1](../../lgeepa/markdown/articulo-38-BIS-1.md) de la Ley, se entenderá por directamente afectados a las personas físicas o morales en donde se realiza la obra o actividad respecto de las cuales se establecen los programas preventivos y correctivos derivados de las Auditorías Ambientales.

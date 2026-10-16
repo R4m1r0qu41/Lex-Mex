@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 68
 
-Para efectos del artículo 42 de la [Ley](articulo-1o.md), la [Secretaría](articulo-1o.md) tomará en cuenta:
+Para efectos del artículo [42](../../lce/markdown/articulo-42.md) de la [Ley](articulo-1o.md), la [Secretaría](articulo-1o.md) tomará en cuenta:
 
 I. Si se observa una elevada tasa de crecimiento de las importaciones investigadas en el mercado nacional que indique la probabilidad fundada de que se produzca un aumento sustancial de dichas importaciones en el futuro inmediato a un nivel que pueda causar daño a la rama de producción nacional. Para tal efecto, la Secretaría considerará, entre otros elementos, si las importaciones investigadas concurren al mercado nacional para atender los mismos mercados o a los mismos consumidores actuales o potenciales de los productores nacionales y si utilizan los mismos canales de distribución; II. La capacidad libremente disponible del exportador o un aumento inminente y sustancial de la misma que indique la probabilidad de un aumento significativo de las exportaciones que sean objeto de discriminación de precios o de subvenciones al mercado mexicano, considerando la existencia de otros mercados de exportación que puedan absorber el posible aumento de las exportaciones;
 

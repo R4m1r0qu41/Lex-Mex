@@ -17,7 +17,7 @@ source_sha256: 2e108436f6d845ebce30713fd69eacf1a741bfcea24f4b64837c2e9366e87b4d
 
 # Artículo 14
 
-La [Secretaría](articulo-2.md) impulsará la coordinación de acciones entre los prestadores de servicios culturales de los sectores público, social y privado, sus trabajadores y usuarios de los mismos, así como de las autoridades o representantes de las comunidades de los pueblos indígenas a que se refiere el artículo 21 de la [Ley](articulo-2.md).
+La [Secretaría](articulo-2.md) impulsará la coordinación de acciones entre los prestadores de servicios culturales de los sectores público, social y privado, sus trabajadores y usuarios de los mismos, así como de las autoridades o representantes de las comunidades de los pueblos indígenas a que se refiere el artículo [21](../../lgcdc/markdown/articulo-21.md) de la [Ley](articulo-2.md).
 
 La coordinación de acciones prevista en el párrafo anterior tendrá por objeto que las personas mencionadas y las comunidades indígenas, cuenten con los elementos necesarios para el ejercicio del derecho a la cultura, el disfrute de los derechos culturales y el acceso a los bienes y servicios que presta el Estado en materia cultural.
 

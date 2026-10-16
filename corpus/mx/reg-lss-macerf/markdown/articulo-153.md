@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 153
 
-Para los efectos del artículo 16 de la Ley, se entenderá por contador público autorizado, la persona física que habiendo obtenido el título de contador público o grado académico equivalente en el área de contaduría pública, expedido por autoridad competente, se inscriba y mantenga vigente dicha inscripción, en el registro de contadores públicos que llevará el Instituto en cumplimiento a lo dispuesto en el artículo 251, fracción XXIX de la Ley.
+Para los efectos del artículo [16](../../lss/markdown/articulo-16.md) de la Ley, se entenderá por contador público autorizado, la persona física que habiendo obtenido el título de contador público o grado académico equivalente en el área de contaduría pública, expedido por autoridad competente, se inscriba y mantenga vigente dicha inscripción, en el registro de contadores públicos que llevará el Instituto en cumplimiento a lo dispuesto en el artículo [251](../../lss/markdown/articulo-251.md), fracción XXIX de la Ley.
 
 En dicho registro podrán inscribirse los contadores públicos, de nacionalidad mexicana que acrediten ser miembros de un colegio de profesionales de la contaduría pública, reconocido también por autoridad competente, y que demuestren ante el Instituto, conforme a lo dispuesto por la fracción III del artículo [154](articulo-154.md) de este Reglamento, que cuentan con los conocimientos suficientes para emitir dictámenes sobre el cumplimiento de las obligaciones derivadas de la Ley.

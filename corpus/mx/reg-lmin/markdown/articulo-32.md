@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 32
 
-Para efectos de los concursos previstos en el artículo 13 BIS de la Ley, se entiende por:
+Para efectos de los concursos previstos en el artículo [13 BIS](../../lmin/markdown/articulo-13-BIS.md) de la Ley, se entiende por:
 
 I. Contraprestación económica: la cantidad que los participantes deberán cubrir al Servicio Geológico, en los términos y condiciones que se determinen en las bases del concurso, y
 

@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 38
 
-Para los efectos de lo señalado en los artículos 29 y 29-A del [Código](articulo-1.md), en caso de fallecimiento del contribuyente, el representante legal de la sucesión, será el único autorizado para seguir emitiendo los comprobantes fiscales digitales por Internet que correspondan al autor de la sucesión.
+Para los efectos de lo señalado en los artículos [29](../../cff/markdown/articulo-29.md) y [29-A](../../cff/markdown/articulo-29-A.md) del [Código](articulo-1.md), en caso de fallecimiento del contribuyente, el representante legal de la sucesión, será el único autorizado para seguir emitiendo los comprobantes fiscales digitales por Internet que correspondan al autor de la sucesión.

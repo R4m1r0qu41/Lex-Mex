@@ -23,7 +23,7 @@ I. Los responsables sanitarios deberán mantener actualizados el registro de los
 
 II. El responsable sanitario del Establecimiento de Salud en el que se realizará un Trasplante, deberá registrar al paciente dentro de las cuarenta y ocho horas posteriores a que el [Comité Interno de Trasplantes](articulo-2.md) otorgue su aceptación como [Receptor Candidato](articulo-2.md) a recibir un Trasplante;
 
-III. El registro de un Receptor Candidato a recibir el Trasplante en el Registro Nacional de Trasplantes, en términos del artículo 338, fracción V, de la Ley, se hará únicamente por el Establecimiento de Salud público, social o privado en el que es atendido. En los casos de registro para recibir más de un Órgano, Tejido o célula, éste se hará en el o los Establecimientos de Salud en los que sea atendido, pudiéndose generar más de un registro por Receptor, pero sólo uno por cada Órgano, Tejido o célula de que se trate;
+III. El registro de un Receptor Candidato a recibir el Trasplante en el Registro Nacional de Trasplantes, en términos del artículo [338](../../lgs/markdown/articulo-338.md), fracción V, de la Ley, se hará únicamente por el Establecimiento de Salud público, social o privado en el que es atendido. En los casos de registro para recibir más de un Órgano, Tejido o célula, éste se hará en el o los Establecimientos de Salud en los que sea atendido, pudiéndose generar más de un registro por Receptor, pero sólo uno por cada Órgano, Tejido o célula de que se trate;
 
 IV. Los pacientes que se transfieran de un Establecimiento de Salud a otro, conservarán su antigüedad en el Registro Nacional de Trasplantes;
 
@@ -41,4 +41,4 @@ d) Los [Centros Estatales de Trasplantes o Consejos Estatales de Trasplantes](ar
 
 e) Las Coordinaciones Institucionales, y
 
-f) Los Establecimientos de Salud que cuenten con autorización en términos del artículo 315, de la Ley.
+f) Los Establecimientos de Salud que cuenten con autorización en términos del artículo [315](../../lgs/markdown/articulo-315.md), de la Ley.

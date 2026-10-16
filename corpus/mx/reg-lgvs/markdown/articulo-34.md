@@ -21,7 +21,7 @@ Los titulares de las [UMA](articulo-2.md) podrán fungir como responsables técn
 
 14 La designación de un tercero como responsable técnico será responsabilidad exclusiva del titular de la UMA. Párrafo reformado DOF 09-05-2014
 
-Los responsables técnicos señalados en los artículos 47 Bis 1 y 87 de la [Ley](articulo-2.md), acreditarán sus capacidades exhibiendo cualquiera de los documentos siguientes:
+Los responsables técnicos señalados en los artículos [47 Bis 1](../../lgvs/markdown/articulo-47-Bis-1.md) y [87](../../lgvs/markdown/articulo-87.md) de la [Ley](articulo-2.md), acreditarán sus capacidades exhibiendo cualquiera de los documentos siguientes:
 
 I. Título o cédula profesional en veterinaria, biología, ecología, oceanología, agronomía, o ciencias afines a éstas, el título respectivo podrá corresponder a cualquier grado académico reconocido por instituciones de educación media superior o superior, públicas o privadas, nacionales o internacionales;
 
@@ -29,4 +29,4 @@ II. Constancias expedidas por institución u organismo nacional o internacional 
 
 III. Tratándose de ejidos o comunidades rurales acta de asamblea en la que conste la experiencia mínima de dos años y que sea miembro del ejido o comunidad de que se trate. Párrafo con fracciones adicionado DOF 09-05-2014
 
-La responsabilidad solidaria de los responsables técnicos a que se refiere el artículo 40 de la Ley, persistirá hasta que cesen los efectos derivados de las medidas de manejo por ellos propuestas y aplicadas, así como de las actividades realizadas bajo su supervisión.
+La responsabilidad solidaria de los responsables técnicos a que se refiere el artículo [40](../../lgvs/markdown/articulo-40.md) de la Ley, persistirá hasta que cesen los efectos derivados de las medidas de manejo por ellos propuestas y aplicadas, así como de las actividades realizadas bajo su supervisión.

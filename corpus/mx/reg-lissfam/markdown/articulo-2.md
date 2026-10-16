@@ -17,13 +17,13 @@ source_sha256: c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a
 
 # Artículo 2
 
-Para efectos del presente Reglamento, además de las definiciones contenidas en el artículo 4 de la Ley, se entenderá por:
+Para efectos del presente Reglamento, además de las definiciones contenidas en el artículo [4](../../lissfam/markdown/articulo-4o.md) de la Ley, se entenderá por:
 
 I. Afiliación: Acto mediante el cual se registra ante el Instituto al personal militar en activo, retiro y sus derechohabientes;
 
 II. Cédula de Identificación: Documento que expide el Instituto a las personas derechohabientes para ejercer su derecho al servicio médico integral a que se refiere la Ley;
 
-III. Certificado médico de incapacidad: El que se expide por dos personas médicas militares o navales especialistas, en términos de lo dispuesto por el artículo 183 de la Ley, para determinar si la incapacidad física de la persona militar para desempeñar sus servicios, es total o parcial, y temporal o permanente;
+III. Certificado médico de incapacidad: El que se expide por dos personas médicas militares o navales especialistas, en términos de lo dispuesto por el artículo [183](../../lissfam/markdown/articulo-183.md) de la Ley, para determinar si la incapacidad física de la persona militar para desempeñar sus servicios, es total o parcial, y temporal o permanente;
 
 IV. Dictamen médico de relación de causalidad: El que se emite por dos personas médicas militares o navales especialistas, para determinar si los padecimientos que presenta la persona militar fueron contraídos en actos dentro del servicio, como consecuencia de ellos, o fuera de éstos; V. Dictamen pericial médico de imposibilidad para trabajar: El que se emite por dos personas médicas militares o navales especialistas designadas por la [Secretaría de origen](articulo-2.md), para determinar la imposibilidad para trabajar de las hijas, hijos, hermanas o hermanos de la persona militar, sea total o parcial, y temporal o permanente;
 
@@ -35,7 +35,7 @@ VIII. Hoja de Trabajo: Documento en el que la Secretaría de origen registra los
 
 IX. Incapacidad: Imposibilidad física o psíquica que impide a la persona militar prestar sus servicios, de manera total o parcial y temporal o permanente;
 
-X. Militar en situación de retiro: Calidad que adquiere la persona militar a partir del momento en que es separada del servicio activo por encontrarse en alguna de las causales previstas en el artículo 24 de la Ley, mediante orden expresa de su Secretaría de origen;
+X. Militar en situación de retiro: Calidad que adquiere la persona militar a partir del momento en que es separada del servicio activo por encontrarse en alguna de las causales previstas en el artículo [24](../../lissfam/markdown/articulo-24.md) de la Ley, mediante orden expresa de su Secretaría de origen;
 
 XI. Pensionista: Familiar que acredita su derecho a que se le otorgue una pensión por fallecimiento de la persona militar en los términos y condiciones fijados en la Ley;
 

@@ -17,4 +17,4 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 86
 
-El Comité Interdisciplinario Evaluador valorará y analizará los documentos y la información proporcionada por la víctima basándose en los principios rectores establecidos en el artículo 5 de la Ley.
+El Comité Interdisciplinario Evaluador valorará y analizará los documentos y la información proporcionada por la víctima basándose en los principios rectores establecidos en el artículo [5](../../lgv/markdown/articulo-5.md) de la Ley.

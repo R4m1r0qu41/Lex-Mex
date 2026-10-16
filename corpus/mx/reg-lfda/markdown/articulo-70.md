@@ -17,6 +17,6 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 70
 
-Las reservas podrán otorgarse en forma independiente sobre uno o varios de los géneros objeto de protección a que se refiere el artículo 173 de la [Ley](articulo-2o.md); en los casos de las publicaciones periódicas, será sin perjuicio de las atribuciones que en esta materia tiene la [Secretaría](articulo-2o.md) de Gobernación.
+Las reservas podrán otorgarse en forma independiente sobre uno o varios de los géneros objeto de protección a que se refiere el artículo [173](../../lfda/markdown/articulo-173.md) de la [Ley](articulo-2o.md); en los casos de las publicaciones periódicas, será sin perjuicio de las atribuciones que en esta materia tiene la [Secretaría](articulo-2o.md) de Gobernación.
 
 El [Instituto](articulo-2o.md) informará a la Secretaría de Gobernación de todas las resoluciones que emita relativas a reservas otorgadas sobre publicaciones periódicas y hará saber a los interesados que deberán cumplir con las disposiciones administrativas en la materia.

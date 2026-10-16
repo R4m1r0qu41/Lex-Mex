@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 168
 
-Para efectos del artículo 109, párrafo primero de la [Ley](articulo-1.md), las empresas con programa de manufactura, maquila y de servicios de exportación autorizados por la Secretaría de Economía, deberán presentar la información señalada anualmente y mediante la forma oficial aprobada por el [SAT](articulo-1.md).
+Para efectos del artículo [109](../../ladua/markdown/articulo-109.md), párrafo primero de la [Ley](articulo-1.md), las empresas con programa de manufactura, maquila y de servicios de exportación autorizados por la Secretaría de Economía, deberán presentar la información señalada anualmente y mediante la forma oficial aprobada por el [SAT](articulo-1.md).

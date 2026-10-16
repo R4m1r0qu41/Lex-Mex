@@ -17,10 +17,10 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 38
 
-Para efectos del artículo 27, fracción I de la [Ley](articulo-1.md), cuando los bienes donados sean aquéllos a que se refieren los artículos 19 o 22 de la Ley, se considerará como monto del donativo el monto original de la inversión actualizado o el costo promedio por acción del bien donado, según corresponda, calculado en términos de dichos artículos.
+Para efectos del artículo [27](../../lisr/markdown/articulo-27.md), fracción I de la [Ley](articulo-1.md), cuando los bienes donados sean aquéllos a que se refieren los artículos [19](../../lisr/markdown/articulo-19.md) o [22](../../lisr/markdown/articulo-22.md) de la Ley, se considerará como monto del donativo el monto original de la inversión actualizado o el costo promedio por acción del bien donado, según corresponda, calculado en términos de dichos artículos.
 
-Tratándose de bienes que hayan sido deducidos en términos del artículo 25, fracción II de la Ley, el donativo no será deducible.
+Tratándose de bienes que hayan sido deducidos en términos del artículo [25](../../lisr/markdown/articulo-25.md), fracción II de la Ley, el donativo no será deducible.
 
-En el caso de bienes de activo fijo, se considerará como monto del donativo la parte del monto original de la inversión actualizado no deducido en términos del artículo 31 de la Ley.
+En el caso de bienes de activo fijo, se considerará como monto del donativo la parte del monto original de la inversión actualizado no deducido en términos del artículo [31](../../lisr/markdown/articulo-31.md) de la Ley.
 
 Tratándose de bienes muebles distintos de los señalados en los párrafos anteriores, se considerará como monto del donativo el que resulte de actualizar la cantidad que se haya pagado para adquirir el bien por el periodo comprendido desde el mes en el que se adquirió y hasta el mes en el que se efectúe la donación.

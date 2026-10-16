@@ -17,6 +17,6 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 6o
 
-Para efecto de los cálculos previstos en el artículo 4, fracción IV, párrafo segundo de la Ley, la dependencia o entidad federal interesada tomará en cuenta la participación de las instancias públicas federales, estatales y municipales en la [Inversión Inicial](articulo-11.md) del proyecto, según los estudios de viabilidad a que se refiere el artículo [14](articulo-14.md) de la propia Ley.
+Para efecto de los cálculos previstos en el artículo [4](../../lapp/markdown/articulo-4.md), fracción IV, párrafo segundo de la Ley, la dependencia o entidad federal interesada tomará en cuenta la participación de las instancias públicas federales, estatales y municipales en la [Inversión Inicial](articulo-11.md) del proyecto, según los estudios de viabilidad a que se refiere el artículo [14](articulo-14.md) de la propia Ley.
 
 El presente Reglamento se aplicará a los proyectos realizados por las entidades federativas, municipios y los entes públicos de unos y otras, con cargo a recursos federales, de conformidad con lo dispuesto en el párrafo anterior.

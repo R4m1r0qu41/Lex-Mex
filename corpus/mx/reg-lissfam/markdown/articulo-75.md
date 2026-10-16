@@ -17,6 +17,6 @@ source_sha256: c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a
 
 # Artículo 75
 
-El otorgamiento de las becas a que se refieren los artículos 18 fracciones XXV, XXVI y XXVII y 138 Bis de la Ley, se sujetará a los requisitos y procedimientos del reglamento, que para tal efecto se expida.
+El otorgamiento de las becas a que se refieren los artículos [18](../../lissfam/markdown/articulo-18.md) fracciones XXV, XXVI y XXVII y [138 Bis](../../lissfam/markdown/articulo-138-Bis.md) de la Ley, se sujetará a los requisitos y procedimientos del reglamento, que para tal efecto se expida.
 
 Las personas interesadas en obtener una beca de manutención, escolar o especial, deberán solicitarla por conducto de la [Secretaría de origen](articulo-2.md) correspondiente, las cuales se otorgarán con cargo a los presupuestos aprobados de las secretarías de la Defensa Nacional y de Marina. Párrafo reformado DOF 20-03-2026

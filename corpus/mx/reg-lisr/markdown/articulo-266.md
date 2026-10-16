@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 266
 
-Para efectos del artículo 151, fracción II de la [Ley](articulo-1.md), en los casos de erogaciones para cubrir funerales a futuro, éstas serán deducibles hasta el año de calendario en que se utilicen los servicios funerarios respectivos.
+Para efectos del artículo [151](../../lisr/markdown/articulo-151.md), fracción II de la [Ley](articulo-1.md), en los casos de erogaciones para cubrir funerales a futuro, éstas serán deducibles hasta el año de calendario en que se utilicen los servicios funerarios respectivos.

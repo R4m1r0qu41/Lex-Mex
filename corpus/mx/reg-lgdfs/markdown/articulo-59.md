@@ -17,11 +17,11 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 59
 
-La autorización automática a que se refiere el artículo 73, párrafo tercero de la [Ley](articulo-2.md) se obtendrá conforme al procedimiento siguiente:
+La autorización automática a que se refiere el artículo [73](../../lgdfs/markdown/articulo-73.md), párrafo tercero de la [Ley](articulo-2.md) se obtendrá conforme al procedimiento siguiente:
 
-I. Los propietarios de los predios certificados y titulares elegibles para obtener la autorización automática inscritos en el Padrón a que se refiere el párrafo cuarto del artículo 73 de la Ley, presentarán una solicitud que contenga los mismos requisitos establecidos para el refrendo;
+I. Los propietarios de los predios certificados y titulares elegibles para obtener la autorización automática inscritos en el Padrón a que se refiere el párrafo cuarto del artículo [73](../../lgdfs/markdown/articulo-73.md) de la Ley, presentarán una solicitud que contenga los mismos requisitos establecidos para el refrendo;
 
-II. A la solicitud señalada en la fracción anterior, se anexará, en su caso, copia simple del certificado a que se refieren los artículos 107 y 110 de la Ley;
+II. A la solicitud señalada en la fracción anterior, se anexará, en su caso, copia simple del certificado a que se refieren los artículos [107](../../lgdfs/markdown/articulo-107.md) y [110](../../lgdfs/markdown/articulo-110.md) de la Ley;
 
 III. La Secretaría verificará si el solicitante se encuentra inscrito en el Padrón a que se refiere la fracción I del presente artículo;
 

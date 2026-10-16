@@ -17,7 +17,7 @@ source_sha256: 9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3
 
 # Artículo 66
 
-El informe anual a que se refiere el artículo 83 de la [Ley](articulo-1.md), deberá entregarse a las entidades transferentes dentro de los 60 días hábiles siguientes al cierre del ejercicio fiscal que se reporta y deberá contener, al menos, lo siguiente:
+El informe anual a que se refiere el artículo [83](../../lfaebsp/markdown/articulo-83.md) de la [Ley](articulo-1.md), deberá entregarse a las entidades transferentes dentro de los 60 días hábiles siguientes al cierre del ejercicio fiscal que se reporta y deberá contener, al menos, lo siguiente:
 
 I. Bienes transferidos;
 

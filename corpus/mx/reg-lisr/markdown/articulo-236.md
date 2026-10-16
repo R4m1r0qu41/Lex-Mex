@@ -19,4 +19,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 Los ingresos a que se refiere el Título IV, Capítulo IX de la [Ley](articulo-1.md), percibidos en copropiedad o sociedad conyugal, corresponderán a cada persona física en la proporción a que tenga derecho.
 
-En estos casos, los pagos provisionales a que se refiere el artículo 145 de la Ley y la presentación de las declaraciones deberán efectuarse por cada persona física por la parte de ingresos que le corresponda.
+En estos casos, los pagos provisionales a que se refiere el artículo [145](../../lisr/markdown/articulo-145.md) de la Ley y la presentación de las declaraciones deberán efectuarse por cada persona física por la parte de ingresos que le corresponda.

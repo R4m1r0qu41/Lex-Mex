@@ -15,4 +15,4 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 # Artículo 115
 
-La autorización concedida al agente naviero consignatario, le permitirá actuar con tal carácter respecto de otros navieros u Operadores que para el mismo puerto le otorguen la respectiva comisión o mandato, en cuyo caso para llevar a cabo su gestión, deberá previamente acreditar ante la [Capitanía de Puerto](articulo-10.md) el contrato por escrito donde conste su encargo, con las funciones que prevé el artículo 24 de la [Ley](articulo-10.md).
+La autorización concedida al agente naviero consignatario, le permitirá actuar con tal carácter respecto de otros navieros u Operadores que para el mismo puerto le otorguen la respectiva comisión o mandato, en cuyo caso para llevar a cabo su gestión, deberá previamente acreditar ante la [Capitanía de Puerto](articulo-10.md) el contrato por escrito donde conste su encargo, con las funciones que prevé el artículo [24](../../lncm/markdown/articulo-24.md) de la [Ley](articulo-10.md).

@@ -17,4 +17,4 @@ source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 
 # Artículo 133
 
-La violación de las disposiciones contenidas en los artículos [9](articulo-9o.md)o., 21, 22, 23, 29, 35 y 39 de este Reglamento se sancionará en los términos del artículo 421 de la Ley.
+La violación de las disposiciones contenidas en los artículos [9](articulo-9o.md)o., 21, 22, 23, 29, 35 y 39 de este Reglamento se sancionará en los términos del artículo [421](../../lgs/markdown/articulo-421.md) de la Ley.

@@ -23,4 +23,4 @@ I. Todas las muestras obtenidas durante las visitas de evaluación de la conform
 
 II. La Secretaría podrá revisar y analizar la documentación existente en las unidades de producción, para evaluar la implementación de sistemas que permitan obtener la trazabilidad de los animales y de los bienes de origen animal, así como el corroborar la implementación de sistemas de reducción de riesgos de contaminación, y
 
-III. Las acciones de inspección que involucren aspectos de control de riesgos sanitarios se realizarán de manera conjunta y coordinada con la Secretaría de Salud, de acuerdo a lo establecido en el artículo 1 de la [Ley](articulo-2.md).
+III. Las acciones de inspección que involucren aspectos de control de riesgos sanitarios se realizarán de manera conjunta y coordinada con la Secretaría de Salud, de acuerdo a lo establecido en el artículo [1](../../lfsa/markdown/articulo-1.md) de la [Ley](articulo-2.md).

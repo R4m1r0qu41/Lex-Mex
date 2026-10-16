@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 185
 
-Para efectos del artículo 121, fracción III de la [Ley](articulo-1.md), se podrá autorizar temporalmente el establecimiento de depósitos fiscales para locales destinados a exposiciones internacionales de Mercancías, siempre que se cumplan los siguientes requisitos:
+Para efectos del artículo [121](../../ladua/markdown/articulo-121.md), fracción III de la [Ley](articulo-1.md), se podrá autorizar temporalmente el establecimiento de depósitos fiscales para locales destinados a exposiciones internacionales de Mercancías, siempre que se cumplan los siguientes requisitos:
 
 I. Presentar solicitud, ante la Autoridad Aduanera, con quince días de anticipación a la celebración del evento;
 
@@ -33,6 +33,6 @@ VI. Las demás que establezca el [SAT](articulo-1.md) mediante Reglas.
 
 No será necesario solicitar autorización previa, cuando el expositor contrate los servicios de un almacén general de depósito autorizado por la Autoridad Aduanera para el control de las Mercancías de importación a que se refiere este artículo y, cuente con la correspondiente carta de cupo.
 
-Las Mercancías que se destinen al régimen de depósito fiscal para exposiciones internacionales, al término de éstas, podrán continuar bajo dicho régimen fiscal en un almacén general de depósito, siempre que se transmita un Pedimento para su retorno al extranjero y el almacén general de depósito transmita el respectivo Pedimento ante la Autoridad Aduanera y emita la carta de cupo a que se refiere el artículo 119 de la Ley. Ambos Pedimentos deberán tramitarse simultáneamente en la misma aduana sin que se requiera la presentación física de las Mercancías.
+Las Mercancías que se destinen al régimen de depósito fiscal para exposiciones internacionales, al término de éstas, podrán continuar bajo dicho régimen fiscal en un almacén general de depósito, siempre que se transmita un Pedimento para su retorno al extranjero y el almacén general de depósito transmita el respectivo Pedimento ante la Autoridad Aduanera y emita la carta de cupo a que se refiere el artículo [119](../../ladua/markdown/articulo-119.md) de la Ley. Ambos Pedimentos deberán tramitarse simultáneamente en la misma aduana sin que se requiera la presentación física de las Mercancías.
 
-Las Mercancías que se destinen al régimen de depósito fiscal en términos de este artículo, estarán a lo dispuesto en el párrafo séptimo del artículo 119 de la Ley. Párrafo reformado DOF 23-02-2026
+Las Mercancías que se destinen al régimen de depósito fiscal en términos de este artículo, estarán a lo dispuesto en el párrafo séptimo del artículo [119](../../ladua/markdown/articulo-119.md) de la Ley. Párrafo reformado DOF 23-02-2026

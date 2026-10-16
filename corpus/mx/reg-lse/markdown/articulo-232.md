@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 232
 
-Para efectos de lo previsto en el artículo 94 de la Ley, el padrón corresponde al Padrón Nacional de Peritos a cargo del Instituto de Administración y Avalúos de Bienes Nacionales, el cual se rige por la normatividad aplicable, por lo que las personas interesadas en formar parte del mismo, deben sujetarse a lo previsto en dicha normativa.
+Para efectos de lo previsto en el artículo [94](../../lse/markdown/articulo-94.md) de la Ley, el padrón corresponde al Padrón Nacional de Peritos a cargo del Instituto de Administración y Avalúos de Bienes Nacionales, el cual se rige por la normatividad aplicable, por lo que las personas interesadas en formar parte del mismo, deben sujetarse a lo previsto en dicha normativa.

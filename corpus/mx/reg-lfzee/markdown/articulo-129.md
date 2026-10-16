@@ -17,7 +17,7 @@ source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 
 # Artículo 129
 
-La resolución que emita la [Autoridad Federal](articulo-4.md) para ordenar la suspensión de las actividades o la ejecución de las obras por considerar que éstas actualizan los supuestos previstos en el artículo 49 de la [Ley](articulo-4.md), deberá contener lo siguiente:
+La resolución que emita la [Autoridad Federal](articulo-4.md) para ordenar la suspensión de las actividades o la ejecución de las obras por considerar que éstas actualizan los supuestos previstos en el artículo [49](../../lfzee/markdown/articulo-49.md) de la [Ley](articulo-4.md), deberá contener lo siguiente:
 
 I. El nombre o denominación o razón social del [Administrador Integral](articulo-4.md) o [Inversionista](articulo-4.md);
 

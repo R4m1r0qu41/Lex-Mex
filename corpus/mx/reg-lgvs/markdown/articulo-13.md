@@ -27,4 +27,4 @@ III. Desahogado el requerimiento señalado en la fracción I, de este artículo,
 
 IV. Transcurridos los plazos de resolución sin que la Secretaría haya emitido pronunciamiento alguno respecto a la solicitud, se entenderá resuelta en sentido afirmativo, excepto en los supuestos para los que este Reglamento señale expresamente que la respuesta debe entenderse en sentido negativo.
 
-La Secretaría negará la autorización de aprovechamiento cuando se actualice cualquiera de los supuestos previstos en el artículo 47 Bis 3 de la [Ley](articulo-2.md). Fracción reformada DOF 09-05-2014
+La Secretaría negará la autorización de aprovechamiento cuando se actualice cualquiera de los supuestos previstos en el artículo [47 Bis 3](../../lgvs/markdown/articulo-47-Bis-3.md) de la [Ley](articulo-2.md). Fracción reformada DOF 09-05-2014

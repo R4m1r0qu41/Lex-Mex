@@ -25,4 +25,4 @@ II. La situación escalafonaria;
 
 III. Que el personal no se encuentre en situación de grado tope, y
 
-IV. Que el personal convocado no se encuentre en algunas de las situaciones establecidas en el artículo 51 de la Ley.
+IV. Que el personal convocado no se encuentre en algunas de las situaciones establecidas en el artículo [51](../../laam/markdown/articulo-51.md) de la Ley.

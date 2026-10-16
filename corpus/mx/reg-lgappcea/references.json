@@ -23,6 +23,109 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:11:reference:268-270:10:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:11",
+    "source_span": "10",
+    "start_char": 268,
+    "end_char": 270,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:10",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones IV y VI",
+        "start_char": 236,
+        "end_char": 254
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:13:reference:368-370:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:13",
+    "source_span": "16",
+    "start_char": 368,
+    "end_char": 370,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I, II y IV",
+        "start_char": 333,
+        "end_char": 354
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:13:reference:2879-2881:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:13",
+    "source_span": "16",
+    "start_char": 2879,
+    "end_char": 2881,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 2853,
+        "end_char": 2865
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:14:reference:44-46:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:14",
+    "source_span": "16",
+    "start_char": 44,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 48,
+        "end_char": 58
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:2:reference:90-91:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:2",
+    "source_span": "3",
+    "start_char": 90,
+    "end_char": 91,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:21:reference:384-385:5:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:21",
     "source_span": "5",
@@ -45,6 +148,36 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:28:reference:63-65:14:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:28",
+    "source_span": "14",
+    "start_char": 63,
+    "end_char": 65,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:14",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:33:reference:211-213:17:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:33",
+    "source_span": "17",
+    "start_char": 211,
+    "end_char": 213,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:17",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:34:reference:36-53:33:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:34",
     "source_span": "artículo anterior",
@@ -57,6 +190,50 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:34:reference:122-124:17:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:34",
+    "source_span": "17",
+    "start_char": 122,
+    "end_char": 124,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:17",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I, II y III",
+        "start_char": 86,
+        "end_char": 108
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:7:reference:375-377:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:7",
+    "source_span": "16",
+    "start_char": 375,
+    "end_char": 377,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 349,
+        "end_char": 361
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",

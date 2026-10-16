@@ -19,7 +19,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 Las unidades administrativas de las dependencias y entidades que tengan a su cargo la aprobación de los proyectos para la realización de obras o servicios deberán aprobar las modificaciones que se realicen a dichos proyectos. Párrafo reformado DOF 27-09-2022
 
-Tratándose de proyectos de las obras de gran complejidad a que se refiere el cuarto párrafo del artículo 24 de la [Ley](articulo-2.md), el servidor público facultado para autorizar el proyecto ejecutivo emitirá el dictamen técnico que justifique el carácter de dichas obras y verificará los avances de los proyectos respectivos.
+Tratándose de proyectos de las obras de gran complejidad a que se refiere el cuarto párrafo del artículo [24](../../lopsrm/markdown/articulo-24.md) de la [Ley](articulo-2.md), el servidor público facultado para autorizar el proyecto ejecutivo emitirá el dictamen técnico que justifique el carácter de dichas obras y verificará los avances de los proyectos respectivos.
 
 Las dependencias y entidades al elaborar el proyecto y programa de realización de cada obra o servicio deberán prever los siguientes aspectos:
 

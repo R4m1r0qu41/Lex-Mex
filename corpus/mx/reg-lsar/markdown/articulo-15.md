@@ -17,4 +17,4 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 15
 
-Las [Administradoras](articulo-2o.md) podrán, de conformidad con lo establecido en los artículos 40 y 47 de la [Ley](articulo-2o.md), solicitar la autorización de la Comisión para constituir, organizar y operar Sociedades de Inversión que tengan por objeto la inversión exclusiva de aportaciones voluntarias, aportaciones voluntarias con perspectiva de inversión de largo plazo, de aportaciones complementarias de retiro, de aportaciones de ahorro a largo plazo, o de Fondos de Previsión Social.
+Las [Administradoras](articulo-2o.md) podrán, de conformidad con lo establecido en los artículos [40](../../lsar/markdown/articulo-40.md) y [47](../../lsar/markdown/articulo-47.md) de la [Ley](articulo-2o.md), solicitar la autorización de la Comisión para constituir, organizar y operar Sociedades de Inversión que tengan por objeto la inversión exclusiva de aportaciones voluntarias, aportaciones voluntarias con perspectiva de inversión de largo plazo, de aportaciones complementarias de retiro, de aportaciones de ahorro a largo plazo, o de Fondos de Previsión Social.

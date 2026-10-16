@@ -17,6 +17,6 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 53
 
-Para los efectos del artículo 86 BIS de la Ley, se entenderán como servicios adicionales, especiales o conexos, aquéllos ofrecidos por el proveedor, diferentes al básico o no previstos al inicialmente contratado, y por los que el consumidor deba emitir su consentimiento en forma previa y expresa, ya sea por escrito o por vía electrónica.
+Para los efectos del artículo [86 BIS](../../lfpc/markdown/articulo-86-BIS.md) de la Ley, se entenderán como servicios adicionales, especiales o conexos, aquéllos ofrecidos por el proveedor, diferentes al básico o no previstos al inicialmente contratado, y por los que el consumidor deba emitir su consentimiento en forma previa y expresa, ya sea por escrito o por vía electrónica.
 
 El proveedor no podrá proporcionar un servicio adicional, especial o conexo, basado en la circunstancia de que el consumidor no le hubiese efectuado manifestación alguna ante el ofrecimiento que aquél le hubiere hecho.

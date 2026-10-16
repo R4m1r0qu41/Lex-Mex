@@ -37,7 +37,7 @@ c) Los lineamientos para el uso y aprovechamiento de los recursos naturales del 
 
 Los interesados que requieran de la asistencia técnica de la Secretaría podrán acudir ante las unidades administrativas de la Comisión, para que se les apoye en el diseño de la estrategia de manejo del área a certificar.
 
-En las áreas privadas y sociales destinadas voluntariamente a la conservación, competencia de la Federación, los propietarios definirán libremente las zonas y subzonas para el manejo del predio, para lo cual podrán considerar lo previsto en el artículo 47 BIS de la Ley.
+En las áreas privadas y sociales destinadas voluntariamente a la conservación, competencia de la Federación, los propietarios definirán libremente las zonas y subzonas para el manejo del predio, para lo cual podrán considerar lo previsto en el artículo [47 BIS](../../lgeepa/markdown/articulo-47-BIS.md) de la Ley.
 
 Asimismo, decidirán libremente la denominación con la que el predio destinado voluntariamente a la conservación será reconocido como área natural protegida de competencia federal y podrán incluir en la misma la característica que destaque conforme a lo señalado en el artículo [133 QUÁTER](articulo-133-QUÁTER.md) del presente Reglamento.
 

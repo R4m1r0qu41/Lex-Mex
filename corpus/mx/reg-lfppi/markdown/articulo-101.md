@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 101
 
-Para efectos de lo dispuesto en el artículo 195 de la Ley, el pago de la tarifa por la declaratoria de notoriedad deberá exhibirse por cada clase en la que la marca sea declarada notoria.
+Para efectos de lo dispuesto en el artículo [195](../../lfppi/markdown/articulo-195.md) de la Ley, el pago de la tarifa por la declaratoria de notoriedad deberá exhibirse por cada clase en la que la marca sea declarada notoria.

@@ -21,7 +21,7 @@ Los proyectos viables en los que la Dependencia o [Entidad Federal](articulo-11.
 
 Los proyectos viables en los que la Dependencia o Entidad Federal pretenda participar exclusivamente con aportaciones distintas a numerario, no requerirán de las aprobaciones previstas en la Sección Segunda de este Capítulo. Párrafo reformado DOF 20-02-2017
 
-En los proyectos a que se refiere el párrafo anterior, la dependencia o entidad federal podrá solicitar una opinión vinculante de la Secretaría sobre el análisis a que se refiere el artículo 14, párrafo primero, fracción IX de la Ley.
+En los proyectos a que se refiere el párrafo anterior, la dependencia o entidad federal podrá solicitar una opinión vinculante de la Secretaría sobre el análisis a que se refiere el artículo [14](../../lapp/markdown/articulo-14.md), párrafo primero, fracción IX de la Ley.
 
 Artículo reformado DOF 31-10-2014
 

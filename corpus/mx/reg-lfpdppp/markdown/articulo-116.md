@@ -17,7 +17,7 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 116
 
-El promovente, en términos del artículo 46 de la Ley, deberá adjuntar a su solicitud de protección de derechos la información y documentos siguientes:
+El promovente, en términos del artículo [46](../../lfpdppp/markdown/articulo-46.md) de la Ley, deberá adjuntar a su solicitud de protección de derechos la información y documentos siguientes:
 
 I. Copia de la solicitud del ejercicio de derechos que corresponda, así como copia de los documentos anexos para cada una de las partes, de ser el caso;
 

@@ -17,7 +17,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 57
 
-Se entenderán como causas justificadas que impidan a un Miembro del Servicio Exterior ascender al rango de Primer Secretario o de Consejero en los tiempos establecidos en el artículo 40-BIS de la Ley, las siguientes:
+Se entenderán como causas justificadas que impidan a un Miembro del Servicio Exterior ascender al rango de Primer Secretario o de Consejero en los tiempos establecidos en el artículo [40-BIS](../../lsem/markdown/articulo-40-BIS.md) de la Ley, las siguientes:
 
 I. Si los exámenes de ascenso han sido aprobados y las evaluaciones del desempeño del Miembro del Servicio Exterior han resultado satisfactorias, pero no han existido plazas disponibles para su ascenso;
 

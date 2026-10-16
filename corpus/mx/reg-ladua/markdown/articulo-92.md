@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 92
 
-Para efectos del artículo 61, fracción IV de la [Ley](articulo-1.md), el abastecimiento de Mercancías de procedencia nacional a los medios de transporte que presten servicio internacional, se permitirá tomando en cuenta el número de tripulantes y pasajeros, así como el lugar inmediato de escala.
+Para efectos del artículo [61](../../ladua/markdown/articulo-61.md), fracción IV de la [Ley](articulo-1.md), el abastecimiento de Mercancías de procedencia nacional a los medios de transporte que presten servicio internacional, se permitirá tomando en cuenta el número de tripulantes y pasajeros, así como el lugar inmediato de escala.

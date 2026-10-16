@@ -17,13 +17,13 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 131
 
-Quienes reciban donativos de acuerdo a lo previsto por el artículo 27, fracción I de la [Ley](articulo-1.md) y los artículos [36](articulo-36.md) y [134](articulo-134.md) de este Reglamento, excepto la Federación, entidades federativas o municipios, sus organismos descentralizados que tributen conforme al Título III de la Ley deberán solicitar autorización ante el [SAT](articulo-1.md).
+Quienes reciban donativos de acuerdo a lo previsto por el artículo [27](../../lisr/markdown/articulo-27.md), fracción I de la [Ley](articulo-1.md) y los artículos [36](articulo-36.md) y [134](articulo-134.md) de este Reglamento, excepto la Federación, entidades federativas o municipios, sus organismos descentralizados que tributen conforme al Título III de la Ley deberán solicitar autorización ante el [SAT](articulo-1.md).
 
 Al presentar la solicitud de autorización a que se refiere el párrafo anterior, acompañarán la siguiente documentación:
 
 I. Escritura constitutiva y estatutos que la rigen y,
 
-II. Documento que acredite que se encuentran en el supuesto que establece el artículo 27, fracción I de la Ley.
+II. Documento que acredite que se encuentran en el supuesto que establece el artículo [27](../../lisr/markdown/articulo-27.md), fracción I de la Ley.
 
 Las instituciones de asistencia o de beneficencia presentarán la constancia que las acredita como tales, expedida por las autoridades competentes conforme a las leyes de la materia.
 

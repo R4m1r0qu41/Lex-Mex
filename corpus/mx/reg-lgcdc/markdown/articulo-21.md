@@ -17,7 +17,7 @@ source_sha256: 2e108436f6d845ebce30713fd69eacf1a741bfcea24f4b64837c2e9366e87b4d
 
 # Artículo 21
 
-La participación de los sectores privado y social, prevista en los artículos 37, 38, 39 y 40 de la [Ley](articulo-2.md), se concertará mediante convenios que tendrán por objeto:
+La participación de los sectores privado y social, prevista en los artículos [37](../../lgcdc/markdown/articulo-37.md), [38](../../lgcdc/markdown/articulo-38.md), [39](../../lgcdc/markdown/articulo-39.md) y [40](../../lgcdc/markdown/articulo-40.md) de la [Ley](articulo-2.md), se concertará mediante convenios que tendrán por objeto:
 
 I. Establecer una participación corresponsable entre autoridades y la sociedad, en la planeación y evaluación de la política pública en materia cultural;
 

@@ -21,7 +21,7 @@ I. Las Embarcaciones y Artefactos Navales mexicanos; II. Las Embarcaciones y Art
 
 a) Trate de matricularse y abanderarse como mexicanas y como requisito previo;
 
-b) Ejecuten cualquier actividad dentro de la jurisdicción federal referida en el artículo 4 de la [Ley](articulo-10.md);
+b) Ejecuten cualquier actividad dentro de la jurisdicción federal referida en el artículo [4](../../lncm/markdown/articulo-4.md) de la [Ley](articulo-10.md);
 
 c) Soliciten permiso a la [Dirección General](articulo-10.md) para realizar un servicio reservado a las Embarcaciones nacionales, o
 

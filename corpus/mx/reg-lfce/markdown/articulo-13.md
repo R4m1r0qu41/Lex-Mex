@@ -17,7 +17,7 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 13
 
-Para determinar si un agente económico tiene poder sustancial en el mercado relevante, de conformidad con la fracción VI del artículo 13 de la Ley, se deben considerar los criterios siguientes:
+Para determinar si un agente económico tiene poder sustancial en el mercado relevante, de conformidad con la fracción VI del artículo [13](../../lfce/markdown/articulo-13.md) de la Ley, se deben considerar los criterios siguientes:
 
 I. El grado de posicionamiento de los bienes o servicios en el mercado relevante;
 

@@ -21,6 +21,6 @@ La Secretaría por conducto de la unidad administrativa responsable de la polít
 
 Una vez que la unidad administrativa responsable de la política y del control presupuestario determine los importes que podrán ser cubiertos conforme al párrafo anterior, el ejecutor de gasto podrá solicitar a la Tesorería la liberación parcial o total de los recursos.
 
-La regularización del acuerdo de ministración se realizará en términos del artículo 46 de la [Ley](articulo-2.md).
+La regularización del acuerdo de ministración se realizará en términos del artículo [46](../../lfprh/markdown/articulo-46.md) de la [Ley](articulo-2.md).
 
 Artículo adicionado DOF 04-09-2009

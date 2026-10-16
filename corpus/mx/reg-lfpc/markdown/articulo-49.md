@@ -19,4 +19,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 El registro de un modelo de contrato será obligatorio cuando lo exija la Ley o una norma oficial mexicana; en caso contrario, los proveedores podrán solicitar el registro de su modelo de contrato de manera voluntaria.
 
-Para efectos del otorgamiento del registro de los contratos de adhesión a que se refiere el artículo 65 BIS de la Ley, la Procuraduría sólo registrará aquellos modelos en los que los bienes que se señalen como garantía prendaria cumplan con dicha calidad en los términos de la legislación aplicable.
+Para efectos del otorgamiento del registro de los contratos de adhesión a que se refiere el artículo [65 BIS](../../lfpc/markdown/articulo-65-Bis.md) de la Ley, la Procuraduría sólo registrará aquellos modelos en los que los bienes que se señalen como garantía prendaria cumplan con dicha calidad en los términos de la legislación aplicable.

@@ -17,7 +17,7 @@ source_sha256: 1462bbacad053d49c213e32c1859dd914c1415d2c37c6a22970bd87877a9c9bd
 
 # Artículo 4
 
-Para efectos del segundo párrafo del artículo 2 de la Ley, la operación del Instituto se ajustará al cumplimiento de las siguientes prácticas de buen gobierno:
+Para efectos del segundo párrafo del artículo [2](../../linfonacot/markdown/articulo-2.md) de la Ley, la operación del Instituto se ajustará al cumplimiento de las siguientes prácticas de buen gobierno:
 
 I. Honestidad y transparencia;
 

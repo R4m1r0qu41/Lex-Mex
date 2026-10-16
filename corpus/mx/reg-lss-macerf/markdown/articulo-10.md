@@ -19,7 +19,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 En caso de huelga, el patrón está obligado a comunicar al Instituto, el estallamiento de la misma por escrito, dentro de los ocho días hábiles siguientes, acompañando las constancias que así lo acrediten. De igual manera, el patrón deberá comunicar su terminación en un plazo no mayor a cinco días hábiles posteriores a la misma.
 
-El Instituto mantendrá vigentes los derechos de los asegurados durante el tiempo que dure el estado de huelga para efectos del otorgamiento de las prestaciones médicas, en términos de lo dispuesto por el artículo 109 de la Ley.
+El Instituto mantendrá vigentes los derechos de los asegurados durante el tiempo que dure el estado de huelga para efectos del otorgamiento de las prestaciones médicas, en términos de lo dispuesto por el artículo [109](../../lss/markdown/articulo-109.md) de la Ley.
 
 En caso de que el Instituto hubiese otorgado indebidamente prestaciones en dinero a los trabajadores durante el periodo de huelga, a consecuencia de la omisión en la presentación del aviso de estallamiento, el importe de aquellas deberá ser restituido al Instituto por el patrón.
 

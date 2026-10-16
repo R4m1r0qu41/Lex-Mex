@@ -19,4 +19,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 Los contratos para ejecutar obras públicas asociadas a proyectos de infraestructura deberán establecer las estipulaciones especiales que sean necesarias en función del origen de los recursos para la inversión, del programa de inversión, del programa de amortización, así como de las características y naturaleza de los bienes inmuebles involucrados, entre otros aspectos.
 
-El contrato de obras públicas asociadas a proyectos de infraestructura contendrá, de conformidad con las características y naturaleza de las obras, los elementos descritos en el artículo 46 de la [Ley](articulo-2.md) y atenderá lo dispuesto en el segundo párrafo del artículo [6](articulo-6.md) de este Reglamento.
+El contrato de obras públicas asociadas a proyectos de infraestructura contendrá, de conformidad con las características y naturaleza de las obras, los elementos descritos en el artículo [46](../../lopsrm/markdown/articulo-46.md) de la [Ley](articulo-2.md) y atenderá lo dispuesto en el segundo párrafo del artículo [6](articulo-6.md) de este Reglamento.

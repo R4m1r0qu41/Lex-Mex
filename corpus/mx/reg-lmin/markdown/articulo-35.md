@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 35
 
-Para efecto de lo dispuesto en el inciso b) de la fracción II del artículo 13 BIS de la Ley, los requisitos que deberán acreditar los participantes son los siguientes:
+Para efecto de lo dispuesto en el inciso b) de la fracción II del artículo [13 BIS](../../lmin/markdown/articulo-13-BIS.md) de la Ley, los requisitos que deberán acreditar los participantes son los siguientes:
 
 I. Capacidad jurídica:
 

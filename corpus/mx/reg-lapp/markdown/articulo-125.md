@@ -17,7 +17,7 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 125
 
-De conformidad con los artículos 123 y 124 de la Ley, a la terminación del contrato de asociación público-privada:
+De conformidad con los artículos [123](../../lapp/markdown/articulo-123.md) y [124](../../lapp/markdown/articulo-124.md) de la Ley, a la terminación del contrato de asociación público-privada:
 
 I. Los bienes sujetos al régimen de la Ley General de Bienes Nacionales revertirán a la dependencia o entidad federal contratante, o podrán transmitirse a la persona de derecho público que ésta señale;
 

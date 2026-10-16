@@ -17,6 +17,6 @@ source_sha256: 298ec78a8d6666f73ce8ccdd8a31ae0a06c18174139eacc0fe80d3a00d3f4b89
 
 # Artículo 25
 
-Las asociaciones religiosas deberán presentar ante la [Dirección General](articulo-2o.md) para su registro correspondiente, copia certificada del título que ampare la propiedad de los inmuebles adquiridos por las mismas, a fin de dar cumplimiento a lo dispuesto en el último párrafo del artículo 17 de la [Ley](articulo-2o.md). La autoridad deberá dar respuesta dentro de los treinta días hábiles siguientes.
+Las asociaciones religiosas deberán presentar ante la [Dirección General](articulo-2o.md) para su registro correspondiente, copia certificada del título que ampare la propiedad de los inmuebles adquiridos por las mismas, a fin de dar cumplimiento a lo dispuesto en el último párrafo del artículo [17](../../larcp/markdown/articulo-17.md) de la [Ley](articulo-2o.md). La autoridad deberá dar respuesta dentro de los treinta días hábiles siguientes.
 
 En caso de que se enajenen los bienes inmuebles propiedad de las asociaciones religiosas, éstas deberán dar el aviso respectivo a la Dirección General en un plazo de treinta días hábiles, contados a partir de la fecha en que se hubiere realizado el acto jurídico correspondiente.

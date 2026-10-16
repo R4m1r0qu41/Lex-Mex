@@ -17,7 +17,7 @@ source_sha256: 9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3
 
 # Artículo 13
 
-Para la transferencia de bienes, las entidades transferentes, a fin de dar cumplimiento a los requisitos establecidos en el artículo 3 de la [Ley](articulo-1.md), deberán:
+Para la transferencia de bienes, las entidades transferentes, a fin de dar cumplimiento a los requisitos establecidos en el artículo [3](../../lfaebsp/markdown/articulo-3o.md) de la [Ley](articulo-1.md), deberán:
 
 I. Señalar en la solicitud correspondiente:
 
@@ -39,7 +39,7 @@ b) El original o copia certificada del documento en el que conste el título de 
 
 Tratándose de bienes muebles, en los casos en que las entidades transferentes no cuenten con los documentos a que se refiere el párrafo anterior, deberán proporcionar la documentación con la que cuenten y manifestar por escrito las circunstancias por las que se carece de la documentación correspondiente y la posibilidad de disponer de los mismos, quedando a su cargo cualquier contingencia que se presente respecto a su transferencia.
 
-Para el caso de bienes a que hace referencia la fracción VII del artículo 1 de la Ley, que se encuentren integrados o compuestos por obligaciones, derechos o acciones, la entidad transferente deberá acreditar su legítimo derecho sobre los mismos; Inciso reformado DOF 29-11-2006
+Para el caso de bienes a que hace referencia la fracción VII del artículo [1](../../lfaebsp/markdown/articulo-1o.md) de la Ley, que se encuentren integrados o compuestos por obligaciones, derechos o acciones, la entidad transferente deberá acreditar su legítimo derecho sobre los mismos; Inciso reformado DOF 29-11-2006
 
 III. Cuando la naturaleza de los bienes lo permita, identificar de manera individual con sellos, marcas, cuños, fierros, señales u otros medios adecuados;
 

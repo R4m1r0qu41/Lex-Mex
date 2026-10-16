@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 55
 
-Para efectos de lo previsto en el artículo 94, fracción VII de la Ley, se considerará que los dibujos son siempre necesarios para la comprensión de los modelos de utilidad y diseños industriales cuyo registro se solicite.
+Para efectos de lo previsto en el artículo [94](../../lfppi/markdown/articulo-94.md), fracción VII de la Ley, se considerará que los dibujos son siempre necesarios para la comprensión de los modelos de utilidad y diseños industriales cuyo registro se solicite.

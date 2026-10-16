@@ -17,6 +17,6 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 114
 
-La Comisión podrá notificar, en términos del artículo 111 de la [Ley](articulo-2o.md), sus actos administrativos a través de correo electrónico.
+La Comisión podrá notificar, en términos del artículo [111](../../lsar/markdown/articulo-111.md) de la [Ley](articulo-2o.md), sus actos administrativos a través de correo electrónico.
 
 Asimismo, los Participantes en los Sistemas de Ahorro para el Retiro podrán atender los actos administrativos que les sean notificados y realizar cualquier tipo de promociones ante la Comisión, mediante documentos digitales enviados por correo electrónico. Los documentos digitales a que se refiere el presente artículo deberán tener asociada la firma electrónica avanzada de la persona facultada para emitir el documento digital.

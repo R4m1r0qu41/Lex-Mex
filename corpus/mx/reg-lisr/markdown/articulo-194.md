@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 194
 
-Los contribuyentes que perciban ingresos de los señalados en el Título IV, Capítulo III de la [Ley](articulo-1.md), podrán calcular el último pago provisional considerando en lugar de los ingresos y de las deducciones del periodo que corresponda, los del año calendario, aplicando la tarifa del artículo 152 de la Ley y acreditando los pagos provisionales efectuados en el ejercicio, así como las retenciones.
+Los contribuyentes que perciban ingresos de los señalados en el Título IV, Capítulo III de la [Ley](articulo-1.md), podrán calcular el último pago provisional considerando en lugar de los ingresos y de las deducciones del periodo que corresponda, los del año calendario, aplicando la tarifa del artículo [152](../../lisr/markdown/articulo-152.md) de la Ley y acreditando los pagos provisionales efectuados en el ejercicio, así como las retenciones.

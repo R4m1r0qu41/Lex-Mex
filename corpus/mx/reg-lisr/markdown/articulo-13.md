@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 13
 
-Para efectos del artículo 14, párrafo séptimo, inciso a) de la [Ley](articulo-1.md), los contribuyentes para determinar sus pagos provisionales, podrán no considerar los ingresos de fuente de riqueza ubicada en el extranjero cuando por los mismos se hubiere pagado el impuesto en el país donde se encuentre ubicada la fuente de riqueza, aun cuando no sean atribuibles a sus establecimientos ubicados en el extranjero.
+Para efectos del artículo [14](../../lisr/markdown/articulo-14.md), párrafo séptimo, inciso a) de la [Ley](articulo-1.md), los contribuyentes para determinar sus pagos provisionales, podrán no considerar los ingresos de fuente de riqueza ubicada en el extranjero cuando por los mismos se hubiere pagado el impuesto en el país donde se encuentre ubicada la fuente de riqueza, aun cuando no sean atribuibles a sus establecimientos ubicados en el extranjero.

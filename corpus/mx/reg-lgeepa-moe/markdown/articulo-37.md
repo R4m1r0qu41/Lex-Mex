@@ -17,4 +17,4 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 37
 
-Para la suscripción de los convenios de coordinación a que se refiere el artículo 20 BIS 2 de la Ley, la Secretaría deberá observar los criterios contenidos en el presente Reglamento y los instrumentos jurídicos que deriven del mismo.
+Para la suscripción de los convenios de coordinación a que se refiere el artículo [20 BIS 2](../../lgeepa/markdown/articulo-20-BIS-2.md) de la Ley, la Secretaría deberá observar los criterios contenidos en el presente Reglamento y los instrumentos jurídicos que deriven del mismo.

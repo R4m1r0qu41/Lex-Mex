@@ -21,4 +21,4 @@ Las inscripciones en el "Registro" se harán por cada título de concesión, asi
 
 En los distritos de riego, las asociaciones de usuarios que sean concesionarios de agua y de la infraestructura de riego respectiva, podrán inscribir en el "Registro" los padrones que estén integrados conforme a la "Ley" y estén debidamente actualizados por los propios concesionarios. Estas inscripciones se llevarán en forma separada a las que se refiere el párrafo anterior.
 
-El registro o inventario a que se refiere el artículo 32 de la "Ley", será sólo para efectos estadísticos.
+El registro o inventario a que se refiere el artículo [32](../../lan/markdown/articulo-32.md) de la "Ley", será sólo para efectos estadísticos.

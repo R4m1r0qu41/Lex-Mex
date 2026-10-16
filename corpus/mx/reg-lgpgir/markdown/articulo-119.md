@@ -29,6 +29,6 @@ IV. Formato de notificación de exportación y de movimiento de la Organización
 
 V. Carta de aceptación de los residuos peligrosos por parte de la empresa destinataria en el país importador, y
 
-VI. Póliza de seguro o garantía por parte del solicitante de la autorización de exportación, en los términos del artículo 89 de la [Ley](articulo-2.md).
+VI. Póliza de seguro o garantía por parte del solicitante de la autorización de exportación, en los términos del artículo [89](../../lgpgir/markdown/articulo-89.md) de la [Ley](articulo-2.md).
 
 Cuando el titular de una autorización de exportación presente solicitudes subsecuentes para la exportación del mismo tipo de residuos peligrosos y hacia el mismo destino, solamente anexará al manifiesto el documento a que se refiere la fracción VI del presente artículo, la constancia con la cual acredite haber entregado el reporte del uso de la autorización anterior. La actualización de la información presentada en la solicitud de primera vez será responsabilidad del solicitante.

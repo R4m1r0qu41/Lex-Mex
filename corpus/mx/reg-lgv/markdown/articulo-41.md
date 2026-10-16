@@ -23,7 +23,7 @@ El Registro ejercerá las atribuciones siguientes:
 
 I. Establecer, administrar, actualizar y resguardar el padrón de víctimas, que contiene la información de las víctimas a nivel nacional, de conformidad con lo dispuesto en la Ley y los lineamientos que emita la Comisión Ejecutiva;
 
-II. Celebrar los acuerdos de confidencialidad en términos del artículo 97 de la Ley;
+II. Celebrar los acuerdos de confidencialidad en términos del artículo [97](../../lgv/markdown/articulo-97.md) de la Ley;
 
 III. Integrar, disponer y publicar información estadística de conformidad con las disposiciones jurídicas aplicables;
 
@@ -33,11 +33,11 @@ V. Establecer, administrar, actualizar y resguardar el padrón de representantes
 
 VI. Solicitar información a las autoridades del Registro Civil o ministeriales sobre toda inhumación en fosa común o cremación de cadáveres de personas desconocidas;
 
-VII. Proponer al Pleno de la Comisión Ejecutiva, para su aprobación, el diseño del Formato, el cual deberá contener las características e información a que se refieren los artículos 98 y 99 de la Ley;
+VII. Proponer al Pleno de la Comisión Ejecutiva, para su aprobación, el diseño del Formato, el cual deberá contener las características e información a que se refieren los artículos [98](../../lgv/markdown/articulo-98.md) y [99](../../lgv/markdown/articulo-99.md) de la Ley;
 
 VIII. Supervisar y coordinar, de acuerdo con los lineamientos que para tal efecto expida la Comisión Ejecutiva, la sistematización de la información que sea proporcionada por los registros de las entidades federativas y las autoridades competentes;
 
-IX. Crear, operar y administrar la plataforma a que hace referencia el artículo 88, fracción XXVI, de la Ley, conforme a lo que establezca el Pleno de la Comisión Ejecutiva;
+IX. Crear, operar y administrar la plataforma a que hace referencia el artículo [88](../../lgv/markdown/articulo-88.md), fracción XXVI, de la Ley, conforme a lo que establezca el Pleno de la Comisión Ejecutiva;
 
 X. Brindar asesoría a las autoridades o instituciones para el correcto suministro, intercambio y sistematización de la información;
 

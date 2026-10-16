@@ -17,6 +17,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 163
 
-Para efectos del artículo 105 de la "Ley", la autorización que el concesionario solicite a "La Comisión" para otorgar en garantía los derechos sobre los bienes concesionados, se otorgará cuando se demuestre que la garantía sirva para respaldar créditos destinados a la construcción, operación, conservación, mantenimiento, rehabilitación, mejoramiento y ampliación de la misma infraestructura hidráulica concesionada, así como para eficientar la prestación de servicios, y no comprendan los comprometidos para los pagos que se tienen que hacer a "La Comisión".
+Para efectos del artículo [105](../../lan/markdown/articulo-105.md) de la "Ley", la autorización que el concesionario solicite a "La Comisión" para otorgar en garantía los derechos sobre los bienes concesionados, se otorgará cuando se demuestre que la garantía sirva para respaldar créditos destinados a la construcción, operación, conservación, mantenimiento, rehabilitación, mejoramiento y ampliación de la misma infraestructura hidráulica concesionada, así como para eficientar la prestación de servicios, y no comprendan los comprometidos para los pagos que se tienen que hacer a "La Comisión".
 
 En todo caso las garantías se ajustarán a lo dispuesto en las leyes aplicables.

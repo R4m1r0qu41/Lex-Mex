@@ -27,4 +27,4 @@ B. Las resoluciones que al efecto haya emitido la Secretaría; C. Las transcripc
 
 D. Los avisos publicados en el Diario Oficial de la Federación en relación con los procedimientos administrativos, incluyendo el de revisión, y
 
-E. Las actas levantadas en las sesiones de la [Comisión](articulo-1o.md) en las que se trate el establecimiento de medidas de salvaguarda y los proyectos de resolución final en materia de prácticas desleales de comercio internacional, así como los proyectos de resolución en los que la Secretaría acepte el compromiso de exportadores o gobiernos extranjeros a que se refiere el artículo 72 de la [Ley](articulo-1o.md).
+E. Las actas levantadas en las sesiones de la [Comisión](articulo-1o.md) en las que se trate el establecimiento de medidas de salvaguarda y los proyectos de resolución final en materia de prácticas desleales de comercio internacional, así como los proyectos de resolución en los que la Secretaría acepte el compromiso de exportadores o gobiernos extranjeros a que se refiere el artículo [72](../../lce/markdown/articulo-72.md) de la [Ley](articulo-1o.md).

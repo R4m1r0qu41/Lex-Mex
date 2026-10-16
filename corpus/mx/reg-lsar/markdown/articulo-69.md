@@ -17,4 +17,4 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 69
 
-Para dar cumplimiento a lo establecido en el artículo 58 de la [Ley](articulo-2o.md) y permitir el correcto desarrollo de los Sistemas de Ahorro para el Retiro, las Empresas Operadoras serán responsables de integrar la Base de Datos Nacional SAR con información veraz, confiable y actualizada.
+Para dar cumplimiento a lo establecido en el artículo [58](../../lsar/markdown/articulo-58.md) de la [Ley](articulo-2o.md) y permitir el correcto desarrollo de los Sistemas de Ahorro para el Retiro, las Empresas Operadoras serán responsables de integrar la Base de Datos Nacional SAR con información veraz, confiable y actualizada.

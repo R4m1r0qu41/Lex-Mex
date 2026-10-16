@@ -17,4 +17,4 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 5
 
-Los órganos de consulta que integre la Secretaría en las materias de su competencia, señalados en el artículo 36 de la [Ley](articulo-2.md), podrán establecerse mediante Acuerdo de su Titular que se publicará en el Diario Oficial de la Federación y en el cual se definirá su integración, estructura, organización y funcionamiento. La Secretaría podrá coordinar o consultar a órganos o sistemas constituidos de manera independiente.
+Los órganos de consulta que integre la Secretaría en las materias de su competencia, señalados en el artículo [36](../../lgpgir/markdown/articulo-36.md) de la [Ley](articulo-2.md), podrán establecerse mediante Acuerdo de su Titular que se publicará en el Diario Oficial de la Federación y en el cual se definirá su integración, estructura, organización y funcionamiento. La Secretaría podrá coordinar o consultar a órganos o sistemas constituidos de manera independiente.

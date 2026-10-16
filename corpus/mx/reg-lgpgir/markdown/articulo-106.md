@@ -17,7 +17,7 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 106
 
-Para los efectos del artículo 67, fracciones VII y VIII, de la [Ley](articulo-2.md), se entiende por:
+Para los efectos del artículo [67](../../lgpgir/markdown/articulo-67.md), fracciones VII y VIII, de la [Ley](articulo-2.md), se entiende por:
 
 I. Recubrimiento de suelos: la acción de colocar capas o películas de residuos peligrosos o mezcla de ellos, en la superficie externa de un suelo con el objeto de revestirlo, protegerlo, aislarlo, cubrirlo o taparlo, y
 

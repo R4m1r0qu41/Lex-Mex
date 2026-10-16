@@ -15,7 +15,7 @@ source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192
 
 # Artículo 6
 
-Para los efectos del artículo 87, segundo párrafo, fracción II de la Ley, el umbral a partir del cual los Establecimientos Sujetos a Reporte, identificados conforme a los artículos [3](articulo-3.md) y [4](articulo-4.md) del presente Reglamento, deben presentar la información de sus Emisiones Directas o Indirectas, será el que resulte de la suma anual de dichas Emisiones, siempre que tal resultado sea igual o superior a 25,000 Toneladas de Bióxido de Carbono Equivalente.
+Para los efectos del artículo [87](../../lgcc/markdown/articulo-87.md), segundo párrafo, fracción II de la Ley, el umbral a partir del cual los Establecimientos Sujetos a Reporte, identificados conforme a los artículos [3](articulo-3.md) y [4](articulo-4.md) del presente Reglamento, deben presentar la información de sus Emisiones Directas o Indirectas, será el que resulte de la suma anual de dichas Emisiones, siempre que tal resultado sea igual o superior a 25,000 Toneladas de Bióxido de Carbono Equivalente.
 
 La suma anual a la que se refiere el párrafo anterior resultará del cálculo de las Emisiones de cada una de las Fuentes Fijas y Móviles identificadas en dichos Establecimientos Sujetos a Reporte.
 

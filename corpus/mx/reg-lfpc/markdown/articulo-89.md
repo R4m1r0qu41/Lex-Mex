@@ -17,7 +17,7 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 89
 
-Para los efectos del artículo 132 de la Ley se entenderá que:
+Para los efectos del artículo [132](../../lfpc/markdown/articulo-132.md) de la Ley se entenderá que:
 
 I. Se acreditará la gravedad de una infracción cuando la conducta del infractor haya sido intencionalmente dirigida a producir consecuencias negativas, o tentativamente a querer producirlas, afectando con ellas a un consumidor o a un grupo específico y determinado de consumidores.
 

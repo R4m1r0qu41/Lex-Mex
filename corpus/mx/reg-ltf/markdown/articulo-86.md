@@ -21,7 +21,7 @@ El [Personal de Vigilancia de las Funciones de tesorería](articulo-2.md) tendr�
 
 I. Investigar y comprobar las irregularidades en que pudieran haber incurrido los Auxiliares, servidores públicos y personas físicas y morales que intervengan en las Funciones de tesorería, incluso tratándose de operaciones relacionadas con la adquisición de bienes o contratación de servicios, con proyectos de infraestructura o de inversión, asociaciones en participación o asociaciones público privadas;
 
-II. Analizar la información que tenga en su poder o aquélla que solicite en términos del artículo 53, fracción III de la [Ley](articulo-2.md), a fin de detectar casos en los que sea conveniente llevar a cabo su función de vigilancia y, en su caso, integrar su programa anual de trabajo;
+II. Analizar la información que tenga en su poder o aquélla que solicite en términos del artículo [53](../../ltf/markdown/articulo-53.md), fracción III de la [Ley](articulo-2.md), a fin de detectar casos en los que sea conveniente llevar a cabo su función de vigilancia y, en su caso, integrar su programa anual de trabajo;
 
 III. Requerir la comparecencia de los servidores públicos, Auxiliares y personas físicas o morales que intervengan en las Funciones de tesorería, para que proporcionen los datos e informes que tengan en su poder relacionados con la investigación o el acto de vigilancia que se esté practicando;
 
@@ -31,7 +31,7 @@ V. Aplicar las medidas de apremio e imponer las multas, en los casos previstos e
 
 VI. Instruir el procedimiento para fincar el monto a resarcir por el o los responsables cuando, finalizado el acto de vigilancia de seguimiento, no se haya realizado la Concentración o Entero de los recursos a la Tesorería; determinar en cantidad líquida el monto a resarcir, y remitir dichas resoluciones al Servicio de Administración Tributaria para el cobro de los créditos fiscales determinados;
 
-VII. Conocer, tramitar y resolver el recurso de revisión a que se refiere el artículo 54 de la Ley;
+VII. Conocer, tramitar y resolver el recurso de revisión a que se refiere el artículo [54](../../ltf/markdown/articulo-54.md) de la Ley;
 
 VIII. Suspender provisionalmente de la realización de Funciones de tesorería a los servidores públicos o al personal del Auxiliar cuando sea conveniente para iniciar o continuar los actos de vigilancia que debe llevar a cabo la Tesorería;
 

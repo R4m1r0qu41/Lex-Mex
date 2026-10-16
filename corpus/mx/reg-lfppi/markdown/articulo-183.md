@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 183
 
-El Instituto podrá solicitar a la autoridad competente, la ampliación del término previsto en el artículo 405 de la Ley, cuando los elementos aportados por dicha autoridad no sean claros, completos o concluyentes para emitir el dictamen técnico.
+El Instituto podrá solicitar a la autoridad competente, la ampliación del término previsto en el artículo [405](../../lfppi/markdown/articulo-405.md) de la Ley, cuando los elementos aportados por dicha autoridad no sean claros, completos o concluyentes para emitir el dictamen técnico.

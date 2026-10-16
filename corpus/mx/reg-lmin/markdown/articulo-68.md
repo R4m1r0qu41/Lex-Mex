@@ -17,7 +17,7 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 68
 
-Para los efectos de los artículos 37, fracción V y 38, fracción II de la Ley, se considera que el mineral del sector social, pequeños o medianos mineros está siendo adquirido o procesado en condiciones competitivas, cuando:
+Para los efectos de los artículos [37](../../lmin/markdown/articulo-37.md), fracción V y [38](../../lmin/markdown/articulo-38.md), fracción II de la Ley, se considera que el mineral del sector social, pequeños o medianos mineros está siendo adquirido o procesado en condiciones competitivas, cuando:
 
 I. Se liquiden los contenidos económica y comercialmente aprovechables;
 

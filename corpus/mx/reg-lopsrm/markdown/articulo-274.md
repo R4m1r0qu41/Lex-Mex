@@ -17,6 +17,6 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 274
 
-Al escrito inicial de las inconformidades a que se refiere la fracción I del artículo 83 de la [Ley](articulo-2.md), deberá acompañarse la manifestación a que se refiere el tercer párrafo del artículo 35 de la Ley, con el acuse de recibo o sello de la dependencia o entidad correspondiente, o bien, la constancia que se obtenga de su envío en forma electrónica, a través de CompraNet.
+Al escrito inicial de las inconformidades a que se refiere la fracción I del artículo [83](../../lopsrm/markdown/articulo-83.md) de la [Ley](articulo-2.md), deberá acompañarse la manifestación a que se refiere el tercer párrafo del artículo [35](../../lopsrm/markdown/articulo-35.md) de la Ley, con el acuse de recibo o sello de la dependencia o entidad correspondiente, o bien, la constancia que se obtenga de su envío en forma electrónica, a través de CompraNet.
 
-La omisión de exhibir el documento referido en el párrafo anterior será motivo de prevención en términos de lo dispuesto por el penúltimo párrafo del artículo 84 de la Ley.
+La omisión de exhibir el documento referido en el párrafo anterior será motivo de prevención en términos de lo dispuesto por el penúltimo párrafo del artículo [84](../../lopsrm/markdown/articulo-84.md) de la Ley.

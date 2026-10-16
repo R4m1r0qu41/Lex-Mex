@@ -19,4 +19,4 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 El servicio de lanchaje se prestará por personas físicas o morales mediante permiso de la Secretaría o contrato mercantil celebrado en los términos de este Reglamento con el [Administrador](articulo-2.md) Portuario.
 
-El prestador del servicio y el usuario fijarán contractualmente las condiciones de prestación y su precio, salvo lo previsto en el artículo 60 de la [Ley](articulo-2.md).
+El prestador del servicio y el usuario fijarán contractualmente las condiciones de prestación y su precio, salvo lo previsto en el artículo [60](../../lpue/markdown/articulo-60.md) de la [Ley](articulo-2.md).

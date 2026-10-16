@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 172
 
-Recibidas las propuestas a que se refiere el [artículo anterior](articulo-171.md) el [Instituto](articulo-2o.md) las analizará y, de conformidad con lo dispuesto en el párrafo tercero del artículo 212 de la [Ley](articulo-2o.md), publicará como definitiva la propuesta de tarifa que proceda.
+Recibidas las propuestas a que se refiere el [artículo anterior](articulo-171.md) el [Instituto](articulo-2o.md) las analizará y, de conformidad con lo dispuesto en el párrafo tercero del artículo [212](../../lfda/markdown/articulo-212.md) de la [Ley](articulo-2o.md), publicará como definitiva la propuesta de tarifa que proceda.

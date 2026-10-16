@@ -19,4 +19,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 Las definiciones que se incluyan en este Reglamento, se entienden referidas a la regulación, control y fomento sanitarios.
 
-Cuando en este Reglamento se haga referencia a normas técnicas, se entenderán las que se emiten de conformidad con lo dispuesto en el artículo 14 de la Ley; cuando la referencia se haga a normas serán las que se expiden por otras dependencias en los términos de las Leyes aplicables.
+Cuando en este Reglamento se haga referencia a normas técnicas, se entenderán las que se emiten de conformidad con lo dispuesto en el artículo [14](../../lgs/markdown/articulo-14.md) de la Ley; cuando la referencia se haga a normas serán las que se expiden por otras dependencias en los términos de las Leyes aplicables.

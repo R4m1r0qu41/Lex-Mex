@@ -25,4 +25,4 @@ II. La descripción general de los derechos que se transmiten, y
 
 III. La temporalidad de la transferencia.
 
-El aviso se presentará en los plazos y con los requisitos que establece el párrafo primero del artículo 89 de la [Ley](articulo-2.md).
+El aviso se presentará en los plazos y con los requisitos que establece el párrafo primero del artículo [89](../../lgvs/markdown/articulo-89.md) de la [Ley](articulo-2.md).

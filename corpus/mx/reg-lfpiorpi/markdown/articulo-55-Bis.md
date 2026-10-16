@@ -17,7 +17,7 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 55 Bis
 
-El reconocimiento expreso referido en el artículo 55 de la Ley se realizará por quien lleva a cabo la Actividad Vulnerable conforme a lo siguiente:
+El reconocimiento expreso referido en el artículo [55](../../lfpiorpi/markdown/articulo-55.md) de la Ley se realizará por quien lleva a cabo la Actividad Vulnerable conforme a lo siguiente:
 
 a) Presentar escrito libre ante el SAT firmado por quien realiza la Actividad Vulnerable o su representante legal, adjuntando la documentación que acredite dicha personalidad;
 
@@ -25,10 +25,10 @@ b) En el escrito deberá especificar de forma clara y precisa la totalidad de la
 
 d) Anexar la documentación que acredite el cumplimiento de la totalidad de las obligaciones objeto de infracción.
 
-Para los efectos del primer párrafo del artículo 55 de la Ley, se entenderá por plazo inicial del procedimiento de verificación el término de cinco días a que se refiere el artículo [68](../../lfpa/markdown/articulo-68.md) de la Ley Federal de Procedimiento Administrativo.
+Para los efectos del primer párrafo del artículo [55](../../lfpiorpi/markdown/articulo-55.md) de la Ley, se entenderá por plazo inicial del procedimiento de verificación el término de cinco días a que se refiere el artículo [68](../../lfpa/markdown/articulo-68.md) de la Ley Federal de Procedimiento Administrativo.
 
-En cuanto al segundo párrafo del artículo 55 de la Ley, se entenderá por plazo inicial del procedimiento sancionador el periodo establecido en el artículo [72](../../lfpa/markdown/articulo-72.md) de la Ley Federal de Procedimiento Administrativo.
+En cuanto al segundo párrafo del artículo [55](../../lfpiorpi/markdown/articulo-55.md) de la Ley, se entenderá por plazo inicial del procedimiento sancionador el periodo establecido en el artículo [72](../../lfpa/markdown/articulo-72.md) de la Ley Federal de Procedimiento Administrativo.
 
-Para obtener alguno de los beneficios previstos en el artículo 55 de la Ley, quien realice la Actividad Vulnerable deberá cumplir con lo previsto en las reglas de carácter general.
+Para obtener alguno de los beneficios previstos en el artículo [55](../../lfpiorpi/markdown/articulo-55.md) de la Ley, quien realice la Actividad Vulnerable deberá cumplir con lo previsto en las reglas de carácter general.
 
 Artículo adicionado DOF 27-03-2026

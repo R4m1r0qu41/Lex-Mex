@@ -17,4 +17,4 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 59
 
-Para efectos de lo establecido en el artículo 61 de la Ley y del artículo [86](../../lfpa/markdown/articulo-86.md) de la Ley Federal de Procedimiento Administrativo, tendrá el carácter de superior jerárquico de la autoridad que emitió el acto impugnado, aquella unidad administrativa que conforme al Reglamento Interior del SAT así se determine.
+Para efectos de lo establecido en el artículo [61](../../lfpiorpi/markdown/articulo-61.md) de la Ley y del artículo [86](../../lfpa/markdown/articulo-86.md) de la Ley Federal de Procedimiento Administrativo, tendrá el carácter de superior jerárquico de la autoridad que emitió el acto impugnado, aquella unidad administrativa que conforme al Reglamento Interior del SAT así se determine.

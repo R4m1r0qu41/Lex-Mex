@@ -17,7 +17,7 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 15
 
-El [CONACOFI](articulo-2.md) estará integrado por la Secretaría, así como por las secretarías de Medio Ambiente y Recursos Naturales; de Economía y de Salud, y por las organizaciones, instituciones y demás personas a que se refiere el artículo 17 de la [Ley](articulo-2.md).
+El [CONACOFI](articulo-2.md) estará integrado por la Secretaría, así como por las secretarías de Medio Ambiente y Recursos Naturales; de Economía y de Salud, y por las organizaciones, instituciones y demás personas a que se refiere el artículo [17](../../lfsv/markdown/articulo-17.md) de la [Ley](articulo-2.md).
 
 El CONACOFI contará con los órganos siguientes:
 

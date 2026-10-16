@@ -41,7 +41,7 @@ XI. Supervisar la actualización de las bases de datos criminalísticos y de per
 
 XII. Establecer los mecanismos para la participación y comunicación con organismos y autoridades nacionales e internacionales, relacionados con las atribuciones de su competencia;
 
-XIII. Incorporar huellas dactilares, fotografías, videos y otros elementos que sirvan para identificar a una persona, a las bases de datos de la Institución y de la [Secretaría](articulo-2.md), en términos de las fracciones XVII y XXV del artículo 8 de la [Ley](articulo-2.md);
+XIII. Incorporar huellas dactilares, fotografías, videos y otros elementos que sirvan para identificar a una persona, a las bases de datos de la Institución y de la [Secretaría](articulo-2.md), en términos de las fracciones XVII y XXV del artículo [8](../../lpf/markdown/articulo-8.md) de la [Ley](articulo-2.md);
 
 XIV. Supervisar que las opiniones cumplan con las formalidades científicas y técnicas aplicables y acaten la normativa vigente;
 

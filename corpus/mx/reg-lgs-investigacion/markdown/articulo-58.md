@@ -17,7 +17,7 @@ source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
 
 # Artículo 58
 
-Cuando se realicen investigaciones en grupos subordinados, los representantes del núcleo afectado o de las personas usuarias que participen en el Comité de Ética en Investigación, en términos de lo dispuesto por el párrafo segundo del artículo 41 Bis de la Ley, vigilarán: Párrafo reformado DOF 02-04-2014
+Cuando se realicen investigaciones en grupos subordinados, los representantes del núcleo afectado o de las personas usuarias que participen en el Comité de Ética en Investigación, en términos de lo dispuesto por el párrafo segundo del artículo [41 Bis](../../lgs/markdown/articulo-41-Bis.md) de la Ley, vigilarán: Párrafo reformado DOF 02-04-2014
 
 I. Que la participación, el rechazo de los sujetos a intervenir o retiro de su consentimiento durante el estudio, no afecte su situación escolar, laboral, militar o la relacionada con el proceso judicial al que estuvieran sujetos y las condiciones de cumplimiento de sentencia, en su caso;
 

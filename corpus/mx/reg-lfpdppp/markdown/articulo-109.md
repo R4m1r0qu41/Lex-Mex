@@ -17,7 +17,7 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 109
 
-En términos del artículo 27 de la Ley, el titular podrá, en todo momento, oponerse al tratamiento de sus datos personales o exigir que se cese en el mismo cuando:
+En términos del artículo [27](../../lfpdppp/markdown/articulo-27.md) de la Ley, el titular podrá, en todo momento, oponerse al tratamiento de sus datos personales o exigir que se cese en el mismo cuando:
 
 I. Exista causa legítima y su situación específica así lo requiera, lo cual debe justificar que aun siendo lícito el tratamiento, el mismo debe cesar para evitar que su persistencia cause un perjuicio al titular, o
 

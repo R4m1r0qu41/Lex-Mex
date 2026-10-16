@@ -17,6 +17,6 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 47
 
-Cada Miembro del Servicio Exterior de carrera que haya cumplido con los requisitos del artículo 38 de la Ley y cumpla con lo establecido en el Plan de Carrera para poderse presentar a un concurso de ascenso, de conformidad con el artículo 33 Quáter del Reglamento, deberá notificar al Presidente de la Comisión de Personal la decisión que tome respecto de su participación en el concurso de ascenso dentro de los quince días naturales siguientes a la publicación de la convocatoria.
+Cada Miembro del Servicio Exterior de carrera que haya cumplido con los requisitos del artículo [38](../../lsem/markdown/articulo-38.md) de la Ley y cumpla con lo establecido en el Plan de Carrera para poderse presentar a un concurso de ascenso, de conformidad con el artículo 33 Quáter del Reglamento, deberá notificar al Presidente de la Comisión de Personal la decisión que tome respecto de su participación en el concurso de ascenso dentro de los quince días naturales siguientes a la publicación de la convocatoria.
 
 Artículo reformado DOF 02-11-2018

@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 137
 
-Cualquier organización legalmente constituida, persona física o moral productora, que haya presentado la solicitud a que se refiere el artículo 50 de la [Ley](articulo-1o.md), podrá desistirse de la misma, conforme a lo siguiente:
+Cualquier organización legalmente constituida, persona física o moral productora, que haya presentado la solicitud a que se refiere el artículo [50](../../lce/markdown/articulo-50.md) de la [Ley](articulo-1o.md), podrá desistirse de la misma, conforme a lo siguiente:
 
 I. Si se efectúa antes de la publicación de la resolución de inicio de la investigación, la autoridad investigadora acordará la procedencia del desistimiento, y
 

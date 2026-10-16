@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 51
 
-El etiquetado de los productos deberá cumplir con lo que dispone el artículo 210 de la Ley, este Reglamento, las normas correspondientes y demás disposiciones aplicables.
+El etiquetado de los productos deberá cumplir con lo que dispone el artículo [210](../../lgs/markdown/articulo-210.md) de la Ley, este Reglamento, las normas correspondientes y demás disposiciones aplicables.

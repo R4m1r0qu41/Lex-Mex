@@ -17,6 +17,6 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 6
 
-La Secretaría, a través de la Comisión de Personal, estudiará las solicitudes de acreditación que le sean presentadas conforme al artículo 8 de la Ley y, de encontrarlas procedentes, emitirá su recomendación a la Subsecretaría correspondiente para gestionar la acreditación ante el gobierno receptor u organismo internacional de que se trate, en el rango diplomático o consular que determine la propia Secretaría a través de dicha Comisión.
+La Secretaría, a través de la Comisión de Personal, estudiará las solicitudes de acreditación que le sean presentadas conforme al artículo [8](../../lsem/markdown/articulo-8.md) de la Ley y, de encontrarlas procedentes, emitirá su recomendación a la Subsecretaría correspondiente para gestionar la acreditación ante el gobierno receptor u organismo internacional de que se trate, en el rango diplomático o consular que determine la propia Secretaría a través de dicha Comisión.
 
 Artículo reformado DOF 02-11-2018

@@ -29,6 +29,6 @@ La Comisión de Personal podrá apoyarse en cualquier formato electrónico para 
 
 El escalafón será de libre acceso para los Miembros del Servicio Exterior. La Dirección General elaborará y difundirá una versión pública, observando las disposiciones en materia de transparencia y resguardo de datos personales. La versión pública podrá contener un anexo relativo al [Personal Temporal](articulo-2.md).
 
-En el escalafón aparecerán también los embajadores eminentes y eméritos, los servidores públicos de la rama diplomático-consular que de conformidad con el artículo 18 de la Ley se encuentren comisionados fuera de la Secretaría y aquellos Miembros del Servicio Exterior de carrera que se encuentren en licencia o disponibilidad señaladas en los artículos 50 y 52 de la Ley.
+En el escalafón aparecerán también los embajadores eminentes y eméritos, los servidores públicos de la rama diplomático-consular que de conformidad con el artículo [18](../../lsem/markdown/articulo-18.md) de la Ley se encuentren comisionados fuera de la Secretaría y aquellos Miembros del Servicio Exterior de carrera que se encuentren en licencia o disponibilidad señaladas en los artículos [50](../../lsem/markdown/articulo-50.md) y [52](../../lsem/markdown/articulo-52.md) de la Ley.
 
 Artículo reformado DOF 02-11-2018

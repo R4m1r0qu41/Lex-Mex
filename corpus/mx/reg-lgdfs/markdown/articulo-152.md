@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 152
 
-El monto económico de la Compensación ambiental relativa al Cambio de uso de suelo en Terrenos forestales a que se refiere el artículo 98 de la [Ley](articulo-2.md), será determinado por la Secretaría o la [ASEA](articulo-2.md) considerando lo siguiente:
+El monto económico de la Compensación ambiental relativa al Cambio de uso de suelo en Terrenos forestales a que se refiere el artículo [98](../../lgdfs/markdown/articulo-98.md) de la [Ley](articulo-2.md), será determinado por la Secretaría o la [ASEA](articulo-2.md) considerando lo siguiente:
 
 I. Los costos de referencia para Reforestación o restauración y su mantenimiento, que para tal efecto establezca la Comisión. Los costos de referencia y la metodología para su estimación serán publicados en el Diario Oficial de la Federación y podrán ser actualizados de forma anual, y
 

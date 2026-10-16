@@ -13,5 +13,6 @@
   "expected_articles": null,
   "expected_transitories": null,
   "allow_article_gaps": false,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "parent_instrument_id": "urn:lex-mx:federal:statute:lpo"
 }

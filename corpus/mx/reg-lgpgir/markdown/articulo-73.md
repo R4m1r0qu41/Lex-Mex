@@ -27,4 +27,4 @@ III. La Secretaría contará con un plazo de veinte días hábiles, contados a p
 
 IV. Desahogado el requerimiento, se tendrá por presentada la Cedula de Operación Anual y, en consecuencia por rendido el informe, y
 
-V. En caso de que el generador no desahogue el requerimiento a que se refiere la fracción anterior, se tendrá por no presentada la Cédula de Operación Anual y, en consecuencia, por no rendido el informe a que se refiere el artículo 46 de la [Ley](articulo-2.md).
+V. En caso de que el generador no desahogue el requerimiento a que se refiere la fracción anterior, se tendrá por no presentada la Cédula de Operación Anual y, en consecuencia, por no rendido el informe a que se refiere el artículo [46](../../lgpgir/markdown/articulo-46.md) de la [Ley](articulo-2.md).

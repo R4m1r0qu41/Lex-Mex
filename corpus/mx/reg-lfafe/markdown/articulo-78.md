@@ -19,4 +19,4 @@ source_sha256: 9fedca5f25e5e912e6a91ad595c8782841e8227ffe9538bfb55c8d0bd4d7d183
 
 La Secretaría está facultada para exigir, cuando lo estime necesario, la presentación de las armas poseídas en el domicilio para la seguridad y legítima defensa de sus moradores y para deporte de tiro o cacería, o de charros, únicamente con el propósito de cerciorarse que sus características son las mismas que contiene el Registro Federal de Armas.
 
-Cuando no sean mostradas en el plazo fijado, se cancelará el registro y se tendrá por no hecha la manifestación, procediéndose en los términos del artículo 77 de la Ley.
+Cuando no sean mostradas en el plazo fijado, se cancelará el registro y se tendrá por no hecha la manifestación, procediéndose en los términos del artículo [77](../../lfafe/markdown/articulo-77.md) de la Ley.

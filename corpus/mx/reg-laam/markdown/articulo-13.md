@@ -25,7 +25,7 @@ II. Selección de personal;
 
 III. Comunicación del listado del personal convocado;
 
-IV. Recopilación, análisis e integración de la información de los criterios a que se refiere el artículo 18 de la Ley que será presentada al Mando Supremo, del personal que será ascendido por facultad de éste; Fracción reformada DOF 22-09-2010, 11-03-2016
+IV. Recopilación, análisis e integración de la información de los criterios a que se refiere el artículo [18](../../laam/markdown/articulo-18.md) de la Ley que será presentada al Mando Supremo, del personal que será ascendido por facultad de éste; Fracción reformada DOF 22-09-2010, 11-03-2016
 
 IV Bis. Aplicación de los exámenes que contempla el Concurso de Selección para el personal que será ascendido por facultad del Alto Mando, conforme a la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables; Fracción adicionada DOF 11-03-2016
 

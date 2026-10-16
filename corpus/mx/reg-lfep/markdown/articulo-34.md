@@ -19,4 +19,4 @@ source_sha256: fa76340e597a2214f73b039f2a89465f9c1037f7d1630a852689124478621873
 
 El órgano interno de control, tendrá acceso a todas las áreas y operaciones de la entidad y mantendrá independencia, objetividad e imparcialidad en los informes que emita.
 
-El órgano interno de control además de las tareas a que se refiere la fracción III del artículo 62 de la [Ley](articulo-2o.md), llevará a cabo o, en su caso, promoverá la realización de auditorías integrales que permitan verificar el desempeño general de las entidades, considerando para tal efecto sus objetivos, características específicas y recursos asignados, así como el contexto en el que desarrollan sus operaciones.
+El órgano interno de control además de las tareas a que se refiere la fracción III del artículo [62](../../lfep/markdown/articulo-62.md) de la [Ley](articulo-2o.md), llevará a cabo o, en su caso, promoverá la realización de auditorías integrales que permitan verificar el desempeño general de las entidades, considerando para tal efecto sus objetivos, características específicas y recursos asignados, así como el contexto en el que desarrollan sus operaciones.

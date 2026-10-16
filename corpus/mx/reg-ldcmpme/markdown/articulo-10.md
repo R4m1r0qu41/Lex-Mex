@@ -17,4 +17,4 @@ source_sha256: 478ff012a0c6ad39c7b826a81d91c5eac3decac66b10fd725138c02c2586b165
 
 # Artículo 10
 
-Para la formulación de los Programas establecidos en el artículo 11 de la Ley, la Secretaría considerará los programas sectoriales en lo relativo al desarrollo de la competitividad de las MIPYMES, y emitirá los lineamientos generales para la debida ejecución de las políticas y acciones de fomento, que incluirán, entre otros, objetivos generales y específicos, criterios, actividades y metas, así como los mecanismos para su evaluación.
+Para la formulación de los Programas establecidos en el artículo [11](../../ldcmpme/markdown/articulo-11.md) de la Ley, la Secretaría considerará los programas sectoriales en lo relativo al desarrollo de la competitividad de las MIPYMES, y emitirá los lineamientos generales para la debida ejecución de las políticas y acciones de fomento, que incluirán, entre otros, objetivos generales y específicos, criterios, actividades y metas, así como los mecanismos para su evaluación.

@@ -17,4 +17,4 @@ source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
 
 # Artículo 103
 
-La CONUEE debe someter a la opinión de la Secretaría las disposiciones reglamentarias para la evaluación y el otorgamiento del reconocimiento de excelencia de las instalaciones, edificaciones, empresas o productos que destaquen en el uso sustentable y eficiente de la energía al que hace referencia el artículo 77 y 78 de la Ley.
+La CONUEE debe someter a la opinión de la Secretaría las disposiciones reglamentarias para la evaluación y el otorgamiento del reconocimiento de excelencia de las instalaciones, edificaciones, empresas o productos que destaquen en el uso sustentable y eficiente de la energía al que hace referencia el artículo [77](../../lpte/markdown/articulo-77.md) y [78](../../lpte/markdown/articulo-78.md) de la Ley.

@@ -17,4 +17,4 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 141
 
-Las listas o estrados en que se realicen las notificaciones a que se refiere el artículo 125 de la [Ley](articulo-2.md), deberán ser fijadas en lugar visible y de fácil acceso al público para su consulta, además serán publicadas en la página electrónica de la [PROFEPA](articulo-2.md).
+Las listas o estrados en que se realicen las notificaciones a que se refiere el artículo [125](../../lgvs/markdown/articulo-125.md) de la [Ley](articulo-2.md), deberán ser fijadas en lugar visible y de fácil acceso al público para su consulta, además serán publicadas en la página electrónica de la [PROFEPA](articulo-2.md).

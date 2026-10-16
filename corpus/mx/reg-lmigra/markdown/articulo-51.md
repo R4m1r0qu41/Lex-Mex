@@ -17,4 +17,4 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 51
 
-La información que proporcionen al Instituto los mexicanos y personas extranjeras que ingresen o salgan del territorio nacional, en términos del artículo 16 de la Ley, podrá ser recabada y registrada por los medios que determine la Secretaría mediante disposiciones administrativas de carácter general que serán publicadas en el Diario Oficial de la Federación.
+La información que proporcionen al Instituto los mexicanos y personas extranjeras que ingresen o salgan del territorio nacional, en términos del artículo [16](../../lmigra/markdown/articulo-16.md) de la Ley, podrá ser recabada y registrada por los medios que determine la Secretaría mediante disposiciones administrativas de carácter general que serán publicadas en el Diario Oficial de la Federación.

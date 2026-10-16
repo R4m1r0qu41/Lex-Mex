@@ -17,7 +17,7 @@ source_sha256: 8e60a8ba9f27b47d26806dbae115c0803dd9ea6a3a02a1b359dc86516d40759e
 
 # Artículo 31
 
-Para los efectos de las inscripciones, renovaciones de inscripción, cancelaciones de inscripción, avisos, informes y anotaciones previstas por este Reglamento, el Registro se divide en tres secciones, en donde se inscribirán, según corresponda, las personas, las sociedades y los fideicomisos a que hace referencia el artículo 32 de la [Ley](articulo-1.md) y cuya denominación es:
+Para los efectos de las inscripciones, renovaciones de inscripción, cancelaciones de inscripción, avisos, informes y anotaciones previstas por este Reglamento, el Registro se divide en tres secciones, en donde se inscribirán, según corresponda, las personas, las sociedades y los fideicomisos a que hace referencia el artículo [32](../../lie/markdown/articulo-32.md) de la [Ley](articulo-1.md) y cuya denominación es:
 
 I. Sección Primera: De las personas físicas y personas morales extranjeras;
 

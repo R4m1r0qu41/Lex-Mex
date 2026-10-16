@@ -25,11 +25,11 @@ II. El formato a que se refiere la fracción anterior servirá a cada participan
 
 III. El servidor público que presida el acto deberá recibir las proposiciones para su posterior evaluación, por lo que no podrá desechar ninguna de ellas durante dicho acto.
 
-Para efectos de lo dispuesto en el artículo 51 de la [Ley](articulo-2.md), la recepción se entenderá realizada una vez que ésta se analice durante su evaluación, debiéndose indicar en el fallo si la proposición fue desechada por incumplir la mencionada disposición legal;
+Para efectos de lo dispuesto en el artículo [51](../../lopsrm/markdown/articulo-51.md) de la [Ley](articulo-2.md), la recepción se entenderá realizada una vez que ésta se analice durante su evaluación, debiéndose indicar en el fallo si la proposición fue desechada por incumplir la mencionada disposición legal;
 
 IV. Una vez recibidas todas las proposiciones, el servidor público que presida el acto dará lectura al importe total de cada proposición. El análisis detallado de las proposiciones se efectuará posteriormente por la convocante, al realizar la evaluación de las mismas;
 
-V. Aún y cuando existan denuncias o presunción de falsedad en relación con la información presentada por un licitante, su proposición no deberá desecharse. El servidor público que presida el acto, cuando tenga conocimiento del hecho, lo comunicará al órgano interno de control que corresponda, conforme a lo dispuesto por el último párrafo del artículo 78 de la Ley. Si al licitante de que se trate se le adjudica el contrato correspondiente y de manera previa a la formalización del mismo la autoridad competente determina la falsedad de su información, la convocante deberá abstenerse de suscribir el citado contrato;
+V. Aún y cuando existan denuncias o presunción de falsedad en relación con la información presentada por un licitante, su proposición no deberá desecharse. El servidor público que presida el acto, cuando tenga conocimiento del hecho, lo comunicará al órgano interno de control que corresponda, conforme a lo dispuesto por el último párrafo del artículo [78](../../lopsrm/markdown/articulo-78.md) de la Ley. Si al licitante de que se trate se le adjudica el contrato correspondiente y de manera previa a la formalización del mismo la autoridad competente determina la falsedad de su información, la convocante deberá abstenerse de suscribir el citado contrato;
 
 VI. Con objeto de acreditar su personalidad, los licitantes o sus representantes podrán exhibir un escrito en el que su firmante manifieste, bajo protesta de decir verdad, que cuenta con facultades suficientes para comprometerse por sí o por su representada, mismo que contendrá los datos siguientes:
 
@@ -47,11 +47,11 @@ VIII. No será motivo de desechamiento la falta de identificación o de acredita
 
 IX. Se requerirá a los licitantes que entreguen junto con el [Sobre cerrado](articulo-2.md) los escritos siguientes:
 
-a) La declaración bajo protesta de decir verdad de no encontrarse en alguno de los supuestos establecidos por los artículos 51 y 78 de la Ley;
+a) La declaración bajo protesta de decir verdad de no encontrarse en alguno de los supuestos establecidos por los artículos [51](../../lopsrm/markdown/articulo-51.md) y [78](../../lopsrm/markdown/articulo-78.md) de la Ley;
 
-b) En su caso, el que contenga la manifestación a que se refiere la fracción XV del artículo 31 de la Ley;
+b) En su caso, el que contenga la manifestación a que se refiere la fracción XV del artículo [31](../../lopsrm/markdown/articulo-31.md) de la Ley;
 
-c) La declaración de integridad, a que hace referencia la fracción XXXI del artículo 31 de la Ley;
+c) La declaración de integridad, a que hace referencia la fracción XXXI del artículo [31](../../lopsrm/markdown/articulo-31.md) de la Ley;
 
 d) En las licitaciones públicas de carácter nacional, el que contenga la manifestación prevista en el primer párrafo del artículo [36](articulo-36.md) de este Reglamento;
 
@@ -59,8 +59,8 @@ e) En su caso, las manifestaciones escritas a que se refieren las fracciones I, 
 
 f) En su caso, el documento expedido por autoridad competente o el escrito a que se refiere el segundo párrafo del artículo [12](articulo-12.md) de este Reglamento. Los licitantes que decidan agruparse para presentar una proposición conjunta, deberán presentar en forma individual los escritos señalados en esta fracción, y
 
-X. Los licitantes entregarán junto con el Sobre cerrado, copia simple por ambos lados de su identificación oficial vigente con fotografía, tratándose de personas físicas y, en el caso de personas morales, de la persona que firme la proposición. Asimismo, para efectos del segundo párrafo del artículo 38 de la Ley, deberán entregar el aviso de alta a que se refiere dicho párrafo.
+X. Los licitantes entregarán junto con el Sobre cerrado, copia simple por ambos lados de su identificación oficial vigente con fotografía, tratándose de personas físicas y, en el caso de personas morales, de la persona que firme la proposición. Asimismo, para efectos del segundo párrafo del artículo [38](../../lopsrm/markdown/articulo-38.md) de la Ley, deberán entregar el aviso de alta a que se refiere dicho párrafo.
 
-En el acto de presentación y apertura de proposiciones, la convocante podrá anticipar o diferir la fecha del fallo dentro de los plazos establecidos en la fracción III del artículo 37 de la Ley, lo cual quedará asentado en el acta correspondiente a este acto. También podrá hacerlo durante la evaluación de las proposiciones o de ser necesario, en cualquier otro momento, dentro de los plazos indicados, notificando a los licitantes la nueva fecha a través de CompraNet.
+En el acto de presentación y apertura de proposiciones, la convocante podrá anticipar o diferir la fecha del fallo dentro de los plazos establecidos en la fracción III del artículo [37](../../lopsrm/markdown/articulo-37.md) de la Ley, lo cual quedará asentado en el acta correspondiente a este acto. También podrá hacerlo durante la evaluación de las proposiciones o de ser necesario, en cualquier otro momento, dentro de los plazos indicados, notificando a los licitantes la nueva fecha a través de CompraNet.
 
 Cuando los licitantes omitan presentar en el acto de presentación y apertura de proposiciones documentos que no afecten su solvencia técnica o económica, o bien, documentos requeridos por la convocante, distintos a los escritos señalados en la fracción VIII del artículo [34](articulo-34.md) de este Reglamento, ésta solicitará a dichos licitantes que proporcionen la documentación en el plazo que la misma determine.

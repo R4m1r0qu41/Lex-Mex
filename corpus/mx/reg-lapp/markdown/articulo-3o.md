@@ -21,7 +21,7 @@ La participación de las dependencias y entidades federales en proyectos de asoc
 
 I. Con recursos federales presupuestarios;
 
-II. Con recursos del Fondo Nacional de Infraestructura u otros recursos públicos federales no presupuestarios, o III. Con aportaciones distintas a numerario, incluyendo el otorgamiento de las autorizaciones a que alude el artículo 12, fracciones II, III y IV, de la Ley.
+II. Con recursos del Fondo Nacional de Infraestructura u otros recursos públicos federales no presupuestarios, o III. Con aportaciones distintas a numerario, incluyendo el otorgamiento de las autorizaciones a que alude el artículo [12](../../lapp/markdown/articulo-12.md), fracciones II, III y IV, de la Ley.
 
 Para efectos de la inversión requerida por el proyecto de asociación público privada, se entenderá lo siguiente:
 

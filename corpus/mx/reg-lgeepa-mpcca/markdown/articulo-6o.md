@@ -33,7 +33,7 @@ VII.- Inmisión: La presencia de contaminantes en la atmósfera, a nivel de piso
 
 VIII.- Ley: La Ley General del Equilibrio Ecológico y la Protección al Ambiente; Fracción adicionada DOF 31-10-2014
 
-IX.- Licencia de Funcionamiento: La Licencia Ambiental Única o la autorización que expide la Secretaría para la operación y funcionamiento de las fuentes fijas de jurisdicción federal en términos de lo dispuesto en el artículo 111 Bis de la Ley. Esta definición comprende a la autorización a que se refiere el artículo [7](../../lansi/markdown/articulo-7o.md)o., fracción II, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción adicionada DOF 31-10-2014
+IX.- Licencia de Funcionamiento: La Licencia Ambiental Única o la autorización que expide la Secretaría para la operación y funcionamiento de las fuentes fijas de jurisdicción federal en términos de lo dispuesto en el artículo [111 Bis](../../lgeepa/markdown/articulo-111-BIS.md) de la Ley. Esta definición comprende a la autorización a que se refiere el artículo [7](../../lansi/markdown/articulo-7o.md)o., fracción II, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; Fracción adicionada DOF 31-10-2014
 
 X.- Normas técnicas ecológicas: Las normas oficiales mexicanas; Fracción adicionada DOF 31-10-2014
 

@@ -31,4 +31,4 @@ V. Cuando se trate de Terrenos nacionales forestales, la autoridad competente ot
 
 VI. En su caso, documentos con los que se acredite el respaldo o apoyo de instituciones científicas o académicas interesadas en el proyecto, y
 
-VII. En su caso, copia certificada del convenio correspondiente, cuando se trate de los casos previstos en el artículo 87, párrafo segundo de la Ley.
+VII. En su caso, copia certificada del convenio correspondiente, cuando se trate de los casos previstos en el artículo [87](../../lgdfs/markdown/articulo-87.md), párrafo segundo de la Ley.

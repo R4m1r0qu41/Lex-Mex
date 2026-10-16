@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 111
 
-Para efectos del artículo 64, tercer párrafo de la [Ley](articulo-1.md), se considerará que no existe venta de Mercancías para ser exportadas a territorio nacional por compra efectuada por el importador, tratándose de la importación de Mercancías objeto de un contrato de arrendamiento o arrendamiento financiero, incluso con opción de compra.
+Para efectos del artículo [64](../../ladua/markdown/articulo-64.md), tercer párrafo de la [Ley](articulo-1.md), se considerará que no existe venta de Mercancías para ser exportadas a territorio nacional por compra efectuada por el importador, tratándose de la importación de Mercancías objeto de un contrato de arrendamiento o arrendamiento financiero, incluso con opción de compra.

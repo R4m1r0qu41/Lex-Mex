@@ -17,4 +17,4 @@ source_sha256: b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0
 
 # Artículo 95
 
-Cuando la Secretaría ordene alguna de las medidas de seguridad señaladas en el artículo 62 de la Ley, debe indicar las acciones a ejecutar para cumplir con estas, así como los plazos para su atención. Asimismo, la Secretaría puede ordenar el retiro de las medidas de seguridad impuestas cuando determine que las obras o instalaciones ya no representan un peligro grave para las personas o sus bienes.
+Cuando la Secretaría ordene alguna de las medidas de seguridad señaladas en el artículo [62](../../lgeo/markdown/articulo-62.md) de la Ley, debe indicar las acciones a ejecutar para cumplir con estas, así como los plazos para su atención. Asimismo, la Secretaría puede ordenar el retiro de las medidas de seguridad impuestas cuando determine que las obras o instalaciones ya no representan un peligro grave para las personas o sus bienes.

@@ -17,6 +17,6 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 64
 
-Los Miembros del Servicio Exterior tienen el deber de guardar el sigilo profesional de conformidad con lo que establece el artículo 42 de la Ley. Su violación dará motivo a la aplicación de sanciones, de acuerdo con el artículo 58-BIS de la Ley.
+Los Miembros del Servicio Exterior tienen el deber de guardar el sigilo profesional de conformidad con lo que establece el artículo [42](../../lsem/markdown/articulo-42.md) de la Ley. Su violación dará motivo a la aplicación de sanciones, de acuerdo con el artículo [58-BIS](../../lsem/markdown/articulo-58-BIS.md) de la Ley.
 
 Artículo reformado DOF 02-11-2018

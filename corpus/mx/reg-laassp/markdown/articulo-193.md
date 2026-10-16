@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 193
 
-En cualquier tiempo las partes podrán manifestar su deseo de no continuar con el procedimiento de conciliación, señalando las razones justificadas que tengan para ello; en consecuencia, la autoridad que conozca del caso procederá a asentarlo en el acta correspondiente dando por concluido el procedimiento y dejando a salvo los derechos de las partes en términos del último párrafo del artículo 112 de la [Ley](articulo-2.md).
+En cualquier tiempo las partes podrán manifestar su deseo de no continuar con el procedimiento de conciliación, señalando las razones justificadas que tengan para ello; en consecuencia, la autoridad que conozca del caso procederá a asentarlo en el acta correspondiente dando por concluido el procedimiento y dejando a salvo los derechos de las partes en términos del último párrafo del artículo [112](../../laassp/markdown/articulo-112.md) de la [Ley](articulo-2.md).

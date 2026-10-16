@@ -15,6 +15,6 @@ source_sha256: 910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f
 
 # Artículo 22
 
-Cuando alguna Autoridad Certificadora diversa de las previstas en el artículo 23 de la [Ley](articulo-2.md), ya no desee tener ese carácter, deberá solicitarlo mediante Documento Electrónico enviado a la Dirección de Correo Electrónico que con ese propósito señale la Secretaría, con al menos sesenta días hábiles de anticipación, para el efecto de que ésta autorice la administración, por otra Autoridad Certificadora, de los Certificados Digitales emitidos y asegurar la continuidad en el uso de los mismos, así como para determinar, conforme a lo establecido en las [Disposiciones Generales](articulo-2.md), el destino que se dará a los registros y archivos correspondientes.
+Cuando alguna Autoridad Certificadora diversa de las previstas en el artículo [23](../../lfea/markdown/articulo-23.md) de la [Ley](articulo-2.md), ya no desee tener ese carácter, deberá solicitarlo mediante Documento Electrónico enviado a la Dirección de Correo Electrónico que con ese propósito señale la Secretaría, con al menos sesenta días hábiles de anticipación, para el efecto de que ésta autorice la administración, por otra Autoridad Certificadora, de los Certificados Digitales emitidos y asegurar la continuidad en el uso de los mismos, así como para determinar, conforme a lo establecido en las [Disposiciones Generales](articulo-2.md), el destino que se dará a los registros y archivos correspondientes.
 
 Capítulo V De las bases y convenios de colaboración o coordinación

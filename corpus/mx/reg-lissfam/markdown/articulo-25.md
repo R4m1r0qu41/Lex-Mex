@@ -17,6 +17,6 @@ source_sha256: c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a
 
 # Artículo 25
 
-El Instituto aplicará en el haber de retiro y pensión, los incrementos que se autoricen a los haberes de las personas militares en activo, en términos del artículo 23 de la Ley, a partir de que la Secretaría de Hacienda y Crédito Público comunique la aplicación de dicho incremento. Párrafo reformado DOF 20-03-2026
+El Instituto aplicará en el haber de retiro y pensión, los incrementos que se autoricen a los haberes de las personas militares en activo, en términos del artículo [23](../../lissfam/markdown/articulo-23.md) de la Ley, a partir de que la Secretaría de Hacienda y Crédito Público comunique la aplicación de dicho incremento. Párrafo reformado DOF 20-03-2026
 
 En caso de que la comunicación se emita con posterioridad a la fecha en que se aumente el haber del personal militar en activo, el pago se aplicará en forma retroactiva a partir de la fecha que la Secretaría de Hacienda y Crédito Público establezca para la aplicación de dicho incremento.

@@ -17,7 +17,7 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 88
 
-En los casos en que la Secretaría lo determine se establecerán las campañas a que se refiere el artículo 54 de la [Ley](articulo-2.md), pudiendo circunscribirse a una entidad federativa o a una región, ubicadas entre dos o más entidades federativas, para lo cual realizará las acciones siguientes:
+En los casos en que la Secretaría lo determine se establecerán las campañas a que se refiere el artículo [54](../../lfsa/markdown/articulo-54.md) de la [Ley](articulo-2.md), pudiendo circunscribirse a una entidad federativa o a una región, ubicadas entre dos o más entidades federativas, para lo cual realizará las acciones siguientes:
 
 I. La celebración de los instrumentos jurídicos que en cada caso amerite, entre la Secretaría, las entidades federativas, los organismos auxiliares y los particulares involucrados;
 

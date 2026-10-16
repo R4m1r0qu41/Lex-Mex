@@ -17,4 +17,4 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 107
 
-La aplicación de la multa a que se refiere el artículo 60, fracción I de la [Ley](articulo-2.md) se hará independientemente de que se exija la Concentración o Entero o el resarcimiento de recursos a la Tesorería.
+La aplicación de la multa a que se refiere el artículo [60](../../ltf/markdown/articulo-60.md), fracción I de la [Ley](articulo-2.md) se hará independientemente de que se exija la Concentración o Entero o el resarcimiento de recursos a la Tesorería.

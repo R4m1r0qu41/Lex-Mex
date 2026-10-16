@@ -17,6 +17,6 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 125
 
-Las industrias a que se refiere el artículo 94 de la [Ley](articulo-2.md), deberán contar con un seguro o garantía en los términos del artículo [89](articulo-89.md) de la misma.
+Las industrias a que se refiere el artículo [94](../../lgpgir/markdown/articulo-94.md) de la [Ley](articulo-2.md), deberán contar con un seguro o garantía en los términos del artículo [89](articulo-89.md) de la misma.
 
 Se reconocerá como válido el seguro del prestador de servicios que se contrate para el movimiento.

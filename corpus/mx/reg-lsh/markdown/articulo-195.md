@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 195
 
-La Secretaría debe resolver sobre la solicitud de autorización o modificación de participación cruzada, a la que se refiere el artículo 118 de la Ley, previa solicitud del análisis y propuesta de resolución que realice la Comisión y tomando en cuenta la planeación vinculante.
+La Secretaría debe resolver sobre la solicitud de autorización o modificación de participación cruzada, a la que se refiere el artículo [118](../../lsh/markdown/articulo-118.md) de la Ley, previa solicitud del análisis y propuesta de resolución que realice la Comisión y tomando en cuenta la planeación vinculante.

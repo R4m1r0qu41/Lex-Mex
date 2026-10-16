@@ -17,4 +17,4 @@ source_sha256: 44746db892329cfe37f9f1642d6e385f18c3ecade102b2742aa5c7bf67168dc7
 
 # Artículo 83
 
-La violación de las disposiciones contenidas en los artículos [28](articulo-28.md) y [50](articulo-50.md) de este Reglamento se sancionará en los términos del artículo 421 de la Ley.
+La violación de las disposiciones contenidas en los artículos [28](articulo-28.md) y [50](articulo-50.md) de este Reglamento se sancionará en los términos del artículo [421](../../lgs/markdown/articulo-421.md) de la Ley.

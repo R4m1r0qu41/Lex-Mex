@@ -17,6 +17,6 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 234
 
-Para efectos de los artículos 156, fracción VII, y 159 de la [Ley](articulo-2.md), las medidas de restauración que imponga la [Procuraduría](articulo-2.md) tendrán como objeto la rehabilitación de un Ecosistema forestal para recuperar, parcial o totalmente, sus funciones originales.
+Para efectos de los artículos [156](../../lgdfs/markdown/articulo-156.md), fracción VII, y [159](../../lgdfs/markdown/articulo-159.md) de la [Ley](articulo-2.md), las medidas de restauración que imponga la [Procuraduría](articulo-2.md) tendrán como objeto la rehabilitación de un Ecosistema forestal para recuperar, parcial o totalmente, sus funciones originales.
 
 Asimismo, la Procuraduría promoverá la integración de alianzas entre comerciantes y transportistas a fin de evitar el tráfico ilegal de Recursos forestales, Materias primas y Productos forestales.

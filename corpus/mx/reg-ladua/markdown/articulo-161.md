@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 161
 
-Para efectos de lo dispuesto en el artículo 106, fracciones V, inciso a) y VI, inciso d) de la [Ley](articulo-1.md), los Residentes en Territorio Nacional y en el extranjero podrán efectuar la importación temporal de embarcaciones y de los remolques necesarios para su transportación hasta por cinco o diez años, según corresponda, siempre que cumplan los siguientes requisitos: Párrafo reformado DOF 23-02-2026
+Para efectos de lo dispuesto en el artículo [106](../../ladua/markdown/articulo-106.md), fracciones V, inciso a) y VI, inciso d) de la [Ley](articulo-1.md), los Residentes en Territorio Nacional y en el extranjero podrán efectuar la importación temporal de embarcaciones y de los remolques necesarios para su transportación hasta por cinco o diez años, según corresponda, siempre que cumplan los siguientes requisitos: Párrafo reformado DOF 23-02-2026
 
 I. Presentar la forma oficial aprobada por el [SAT](articulo-1.md), ante la Autoridad Aduanera para efectuar el trámite de entrada al país de la embarcación, por conducto del propietario, o en su nombre, el capitán de la embarcación o su representante;
 

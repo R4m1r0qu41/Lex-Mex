@@ -17,7 +17,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 11
 
-La Comisión de Personal se integrará en términos del artículo 27 de la Ley; contará con siete miembros permanentes y, cuando sea procedente, uno adicional de carácter temporal, que será el representante de alguno de los rangos de las ramas diplomático-consular y técnico-administrativa, cuando se traten asuntos específicos del personal del rango al que representa. Párrafo reformado DOF 02-11-2018
+La Comisión de Personal se integrará en términos del artículo [27](../../lsem/markdown/articulo-27.md) de la Ley; contará con siete miembros permanentes y, cuando sea procedente, uno adicional de carácter temporal, que será el representante de alguno de los rangos de las ramas diplomático-consular y técnico-administrativa, cuando se traten asuntos específicos del personal del rango al que representa. Párrafo reformado DOF 02-11-2018
 
 Se considerarán temas de afectación específica de los Miembros del Servicio Exterior los relativos a: Párrafo reformado DOF 02-11-2018
 

@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 124
 
-Para efectos del artículo 68, fracción ll de la [Ley](articulo-1.md), las personas que sean agente, distribuidor o concesionario exclusivo de la otra, cualquiera que sea la denominación utilizada, no se considerarán como asociadas en negocios, salvo que adicionalmente se encuentren vinculadas dentro de alguno de los otros supuestos previstos en las demás fracciones de dicho artículo.
+Para efectos del artículo [68](../../ladua/markdown/articulo-68.md), fracción ll de la [Ley](articulo-1.md), las personas que sean agente, distribuidor o concesionario exclusivo de la otra, cualquiera que sea la denominación utilizada, no se considerarán como asociadas en negocios, salvo que adicionalmente se encuentren vinculadas dentro de alguno de los otros supuestos previstos en las demás fracciones de dicho artículo.

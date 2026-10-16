@@ -17,4 +17,4 @@ source_sha256: 9900df5fd57ee1fb485d421861b2fd4d8bff61f389275c834b954320c08c46ae
 
 # Artículo 10
 
-La autorización para el uso protector del emblema deberá ir acompañada del brazal y de la credencial de identidad a que se refiere el segundo párrafo del artículo 9 de la [Ley](articulo-2.md), mismos que serán elaborados por la Secretaría de la Defensa Nacional conforme a los lineamientos que emita para tales efectos.
+La autorización para el uso protector del emblema deberá ir acompañada del brazal y de la credencial de identidad a que se refiere el segundo párrafo del artículo [9](../../lupdecr/markdown/articulo-9.md) de la [Ley](articulo-2.md), mismos que serán elaborados por la Secretaría de la Defensa Nacional conforme a los lineamientos que emita para tales efectos.

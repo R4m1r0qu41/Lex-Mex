@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 268
 
-Para efectos del artículo 151, fracción VI de la [Ley](articulo-1.md), se consideran deducibles las primas pagadas por los seguros de salud, siempre que se trate de seguros cuya parte preventiva cubra únicamente los pagos y gastos a que se refieren los artículos 151, fracción I de la Ley y 264 de este Reglamento.
+Para efectos del artículo [151](../../lisr/markdown/articulo-151.md), fracción VI de la [Ley](articulo-1.md), se consideran deducibles las primas pagadas por los seguros de salud, siempre que se trate de seguros cuya parte preventiva cubra únicamente los pagos y gastos a que se refieren los artículos 151, fracción I de la Ley y 264 de este Reglamento.

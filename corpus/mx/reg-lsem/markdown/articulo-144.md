@@ -17,7 +17,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 144
 
-Para los efectos del artículo 58, fracción VIII de la Ley, y con independencia del contenido del artículo [92](articulo-92.md) de este Reglamento, se entenderá por:
+Para los efectos del artículo [58](../../lsem/markdown/articulo-58.md), fracción VIII de la Ley, y con independencia del contenido del artículo [92](articulo-92.md) de este Reglamento, se entenderá por:
 
 I. Morosidad. El retraso manifiesto en el cumplimiento de un encargo o comisión, o en el desarrollo de las labores que le hayan sido encomendadas en forma general o específica;
 

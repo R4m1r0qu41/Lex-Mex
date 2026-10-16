@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 9
 
-La responsabilidad en que incurran las Personas Consejeras y las Personas Consejeras Independientes, a que se refiere el artículo 33 de la Ley, es exigible por las vías jurisdiccionales establecidas en el último párrafo del citado precepto, con independencia del inicio o conclusión del procedimiento de remoción que sea aplicable.
+La responsabilidad en que incurran las Personas Consejeras y las Personas Consejeras Independientes, a que se refiere el artículo [33](../../lepepm/markdown/articulo-33.md) de la Ley, es exigible por las vías jurisdiccionales establecidas en el último párrafo del citado precepto, con independencia del inicio o conclusión del procedimiento de remoción que sea aplicable.

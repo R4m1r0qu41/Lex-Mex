@@ -17,7 +17,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 71
 
-La Comisión de Personal aprobará los mecanismos y criterios para la elaboración y presentación del informe de desempeño de los Miembros del Servicio Exterior, a que se refiere el artículo 45 de la Ley, bajo los criterios de legalidad, objetividad y equidad.
+La Comisión de Personal aprobará los mecanismos y criterios para la elaboración y presentación del informe de desempeño de los Miembros del Servicio Exterior, a que se refiere el artículo [45](../../lsem/markdown/articulo-45.md) de la Ley, bajo los criterios de legalidad, objetividad y equidad.
 
 A tal efecto, la Subcomisión de Evaluación someterá a la aprobación de la Comisión de Personal los medios para elaborar el informe de desempeño de los Miembros del Servicio Exterior sobre la base de objetivos previamente establecidos.
 

@@ -17,7 +17,7 @@ source_sha256: 9fedca5f25e5e912e6a91ad595c8782841e8227ffe9538bfb55c8d0bd4d7d183
 
 # Artículo 19
 
-Para los efectos del artículo 20 de la Ley, los clubes y asociaciones de deportistas de tiro y cacería, y de charros, iniciarán sus trámites presentando ante la Secretaría, una solicitud con los documentos siguientes:
+Para los efectos del artículo [20](../../lfafe/markdown/articulo-20.md) de la Ley, los clubes y asociaciones de deportistas de tiro y cacería, y de charros, iniciarán sus trámites presentando ante la Secretaría, una solicitud con los documentos siguientes:
 
 I.- Copia del acta constitutiva, certificada por Notario Público.
 
@@ -39,4 +39,4 @@ d).- Remitir mensualmente a la Secretaría, una relación de las armas en uso.
 
 e).- Cumplir con los demás requisitos que señale la Secretaría.
 
-Si la Secretaría resuelve favorablemente, realizará el registro que corresponda y lo comunicará a la de Gobernación para los efectos del propio artículo 20 de la Ley.
+Si la Secretaría resuelve favorablemente, realizará el registro que corresponda y lo comunicará a la de Gobernación para los efectos del propio artículo [20](../../lfafe/markdown/articulo-20.md) de la Ley.

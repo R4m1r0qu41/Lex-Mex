@@ -17,4 +17,4 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 42
 
-El Centro, para el establecimiento de las ZVP a las que se refiere el artículo 5, fracción XVIII, de la Ley, y de los procedimientos para el ingreso de aeronaves a las ADIZ, debe establecer coordinación con: I. La Secretaría de Relaciones Exteriores, la Secretaría de Marina, la AFAC y SENEAM respecto a las ADIZ, y II. La AFAC y SENEAM respecto a las ZVP. Lo anterior, para garantizar la seguridad de las operaciones, de la aviación civil y el Uso Flexible del Espacio Aéreo Mexicano.
+El Centro, para el establecimiento de las ZVP a las que se refiere el artículo [5](../../lpeam/markdown/articulo-5.md), fracción XVIII, de la Ley, y de los procedimientos para el ingreso de aeronaves a las ADIZ, debe establecer coordinación con: I. La Secretaría de Relaciones Exteriores, la Secretaría de Marina, la AFAC y SENEAM respecto a las ADIZ, y II. La AFAC y SENEAM respecto a las ZVP. Lo anterior, para garantizar la seguridad de las operaciones, de la aviación civil y el Uso Flexible del Espacio Aéreo Mexicano.

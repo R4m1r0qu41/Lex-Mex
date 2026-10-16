@@ -17,6 +17,6 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 95
 
-Las garantías que se otorguen para responder por las obligaciones previstas en el primer párrafo del artículo 66 de la [Ley](articulo-2.md) se sujetarán a los términos, plazo y condiciones establecidos en el contrato y son independientes a las penas convencionales a que se refiere el artículo [86](articulo-86.md) de este Reglamento.
+Las garantías que se otorguen para responder por las obligaciones previstas en el primer párrafo del artículo [66](../../lopsrm/markdown/articulo-66.md) de la [Ley](articulo-2.md) se sujetarán a los términos, plazo y condiciones establecidos en el contrato y son independientes a las penas convencionales a que se refiere el artículo [86](articulo-86.md) de este Reglamento.
 
 Las garantías señaladas en el párrafo anterior, se cancelarán una vez transcurridos doce meses, contados a partir de la fecha del acta de recepción física de los trabajos, siempre que durante ese periodo no haya surgido una responsabilidad a cargo del contratista.

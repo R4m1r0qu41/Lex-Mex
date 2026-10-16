@@ -17,6 +17,6 @@ source_sha256: 298ec78a8d6666f73ce8ccdd8a31ae0a06c18174139eacc0fe80d3a00d3f4b89
 
 # Artículo 21
 
-Corresponde sólo a las asociaciones religiosas el derecho a usar en forma exclusiva bienes propiedad de la Nación que se hayan destinado para fines religiosos antes del 29 de enero de 1992, de conformidad con lo previsto en el artículo decimoséptimo transitorio de la Constitución Política de los Estados Unidos Mexicanos y fracción VI del artículo 9o. de la [Ley](articulo-2o.md).
+Corresponde sólo a las asociaciones religiosas el derecho a usar en forma exclusiva bienes propiedad de la Nación que se hayan destinado para fines religiosos antes del 29 de enero de 1992, de conformidad con lo previsto en el artículo decimoséptimo transitorio de la Constitución Política de los Estados Unidos Mexicanos y fracción VI del artículo [9](../../larcp/markdown/articulo-9o.md)o. de la [Ley](articulo-2o.md).
 
 Salvo acreditación por parte de terceros de un mejor derecho, el uso de inmuebles propiedad de la Nación corresponde a la asociación religiosa que los haya declarado ante la [Secretaría](articulo-2o.md). La sola ocupación o utilización de dichos inmuebles por parte de los ministros de culto, asociados o cualquier otra persona, no creará derechos a favor de los mismos.

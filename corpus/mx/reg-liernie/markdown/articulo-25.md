@@ -17,7 +17,7 @@ source_sha256: 8e60a8ba9f27b47d26806dbae115c0803dd9ea6a3a02a1b359dc86516d40759e
 
 # Artículo 25
 
-Las sociedades financieras internacionales para el desarrollo, que pretendan realizar inversión neutra en sociedades mexicanas, en los términos de lo dispuesto en el artículo 22 de la [Ley](articulo-1.md), deberán estar reconocidas por la Comisión, para lo cual deben presentar:
+Las sociedades financieras internacionales para el desarrollo, que pretendan realizar inversión neutra en sociedades mexicanas, en los términos de lo dispuesto en el artículo [22](../../lie/markdown/articulo-22.md) de la [Ley](articulo-1.md), deberán estar reconocidas por la Comisión, para lo cual deben presentar:
 
 I. Cuestionario debidamente requisitado en original y una copia simple, que contenga los datos generales de identificación y corporativos de la solicitante;
 

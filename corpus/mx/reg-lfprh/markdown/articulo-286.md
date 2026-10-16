@@ -17,4 +17,4 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 286
 
-La Secretaría establecerá los términos que observarán las dependencias y entidades sobre los requerimientos de la información que se incorporará a los informes trimestrales, previstos en el artículo 107 de la [Ley](articulo-2.md), así como los términos de la información que se enviará al Congreso de la Unión en forma directa cuando así corresponda.
+La Secretaría establecerá los términos que observarán las dependencias y entidades sobre los requerimientos de la información que se incorporará a los informes trimestrales, previstos en el artículo [107](../../lfprh/markdown/articulo-107.md) de la [Ley](articulo-2.md), así como los términos de la información que se enviará al Congreso de la Unión en forma directa cuando así corresponda.

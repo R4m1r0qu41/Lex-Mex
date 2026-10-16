@@ -17,6 +17,6 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 81
 
-La explotación, uso o aprovechamiento de aguas nacionales, superficiales o del subsuelo para centros de población o asentamientos humanos, se efectuará mediante asignación para uso público urbano que otorgue "La Comisión", en los términos del artículo 44 de la "Ley".
+La explotación, uso o aprovechamiento de aguas nacionales, superficiales o del subsuelo para centros de población o asentamientos humanos, se efectuará mediante asignación para uso público urbano que otorgue "La Comisión", en los términos del artículo [44](../../lan/markdown/articulo-44.md) de la "Ley".
 
 "La Comisión" otorgará la asignación a los respectivos municipios o en su caso al Gobierno del Distrito Federal.

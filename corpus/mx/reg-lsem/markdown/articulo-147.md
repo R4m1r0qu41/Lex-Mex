@@ -17,8 +17,8 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 147
 
-La investigación de hechos a que se refiere el artículo 60, fracción I de la Ley, se realizará por conducto del Órgano Interno de Control en la Secretaría.
+La investigación de hechos a que se refiere el artículo [60](../../lsem/markdown/articulo-60.md), fracción I de la Ley, se realizará por conducto del Órgano Interno de Control en la Secretaría.
 
-Al concluir las diligencias de investigación, el Órgano Interno de Control en la Secretaría emitirá un Informe de resultados de la investigación administrativa, en el que detalle los hallazgos obtenidos, el cual se presentará ante el Pleno de la Subcomisión de Asuntos Disciplinarios para los efectos establecidos en la fracción II del artículo 60 de la Ley.
+Al concluir las diligencias de investigación, el Órgano Interno de Control en la Secretaría emitirá un Informe de resultados de la investigación administrativa, en el que detalle los hallazgos obtenidos, el cual se presentará ante el Pleno de la Subcomisión de Asuntos Disciplinarios para los efectos establecidos en la fracción II del artículo [60](../../lsem/markdown/articulo-60.md) de la Ley.
 
 Artículo reformado DOF 02-11-2018

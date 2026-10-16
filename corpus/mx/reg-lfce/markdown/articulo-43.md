@@ -29,4 +29,4 @@ III. La Comisión, en un término de quince días, prorrogables, tiene la obliga
 
 IV. La Comisión debe comunicar al interesado si la información es suficiente, el orden cronológico de su petición y, en su caso, el porcentaje de reducción de la multa que resultare aplicable. Asimismo, deberá informar al interesado si la información no es suficiente y por tanto la Comisión debe cancelar la solicitud, la clave y devolver la información.
 
-La información aportada bajo este procedimiento solo puede ser utilizada para la integración de la investigación y el desahogo del procedimiento administrativo previsto en el artículo 33 de la Ley.
+La información aportada bajo este procedimiento solo puede ser utilizada para la integración de la investigación y el desahogo del procedimiento administrativo previsto en el artículo [33](../../lfce/markdown/articulo-33.md) de la Ley.

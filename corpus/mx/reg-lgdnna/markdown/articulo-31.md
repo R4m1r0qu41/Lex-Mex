@@ -23,7 +23,7 @@ I. La realización de un diagnóstico respecto del cumplimiento de los derechos 
 
 II. Los mecanismos de cumplimiento de los derechos de niñas, niños y adolescentes;
 
-III. Los mecanismos que garanticen un enfoque en los principios rectores establecidos en el artículo 6 de la [Ley](articulo-2.md);
+III. Los mecanismos que garanticen un enfoque en los principios rectores establecidos en el artículo [6](../../lgdnna/markdown/articulo-6.md) de la [Ley](articulo-2.md);
 
 IV. Los mecanismos de inclusión y participación de los sectores público, privado y social, del Consejo Consultivo y demás órganos de participación, en términos de la Ley y el presente Reglamento, y
 

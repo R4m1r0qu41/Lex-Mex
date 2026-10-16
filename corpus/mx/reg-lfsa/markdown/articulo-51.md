@@ -17,6 +17,6 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 51
 
-Las empresas de mensajería o paquetería o de correos que reciban mercancías enlistadas en el artículo 24 de la [Ley](articulo-2.md), deberán informar a la Secretaría dentro de las veinticuatro horas de haber ingresado la mercancía al almacén y entregarán una copia de la documentación que la acompañe, a fin de verificar que cumplen con las disposiciones de sanidad animal aplicables para su importación.
+Las empresas de mensajería o paquetería o de correos que reciban mercancías enlistadas en el artículo [24](../../lfsa/markdown/articulo-24.md) de la [Ley](articulo-2.md), deberán informar a la Secretaría dentro de las veinticuatro horas de haber ingresado la mercancía al almacén y entregarán una copia de la documentación que la acompañe, a fin de verificar que cumplen con las disposiciones de sanidad animal aplicables para su importación.
 
 La Secretaría podrá solicitar informes a las empresas de mensajería, paquetería y de correos para constatar el aviso de entrega de las mercancías reguladas.

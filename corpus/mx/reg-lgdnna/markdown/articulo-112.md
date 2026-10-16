@@ -17,4 +17,4 @@ source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 
 # Artículo 112
 
-El Sistema Nacional DIF, por conducto de la [Procuraduría Federal](articulo-2.md), aplicará las sanciones a que se refiere el artículo 151, fracción IV de la [Ley](articulo-2.md), en términos de lo dispuesto en el Título Tercero de la Ley Federal de Procedimiento Administrativo.
+El Sistema Nacional DIF, por conducto de la [Procuraduría Federal](articulo-2.md), aplicará las sanciones a que se refiere el artículo [151](../../lgdnna/markdown/articulo-151.md), fracción IV de la [Ley](articulo-2.md), en términos de lo dispuesto en el Título Tercero de la Ley Federal de Procedimiento Administrativo.

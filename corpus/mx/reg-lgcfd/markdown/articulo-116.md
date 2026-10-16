@@ -17,7 +17,7 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 # Artículo 116
 
-La CONADE promoverá en el seno del SINADE, la homologación del procedimiento para la atención del recurso de inconformidad previsto en el artículo 149, fracción I, de la Ley, considerando:
+La CONADE promoverá en el seno del SINADE, la homologación del procedimiento para la atención del recurso de inconformidad previsto en el artículo [149](../../lgcfd/markdown/articulo-149.md), fracción I, de la Ley, considerando:
 
 I. Que el recurso se interponga mediante escrito debidamente firmado ante el organismo deportivo de que se trate, dentro de los diez días hábiles siguientes a que surta efectos la notificación de la sanción;
 

@@ -17,7 +17,7 @@ source_sha256: 3ff22c0d4dda5724ded6314ddc83e072cab81433b14dd9c6056e67eb5f4f8dd1
 
 # Artículo 11
 
-Quienes fabriquen o ensamblen vehículos en el territorio nacional destinados al mercado nacional o importen vehículos destinados a permanecer en territorio nacional, deberán solicitar su inscripción al Registro a más tardar al día hábil siguiente al de su facturación o asignación, según sea el caso, debiendo proporcionar la información a que se refiere el artículo 8, fracciones I y III de la [Ley](articulo-2.md).
+Quienes fabriquen o ensamblen vehículos en el territorio nacional destinados al mercado nacional o importen vehículos destinados a permanecer en territorio nacional, deberán solicitar su inscripción al Registro a más tardar al día hábil siguiente al de su facturación o asignación, según sea el caso, debiendo proporcionar la información a que se refiere el artículo [8](../../lrpv/markdown/articulo-8.md), fracciones I y III de la [Ley](articulo-2.md).
 
 En los casos de remolques y semirremolques, se deberá precisar además el número de ejes y, en el de motocicletas, el cilindraje.
 

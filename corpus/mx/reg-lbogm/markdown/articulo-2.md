@@ -25,7 +25,7 @@ II. México: Estados Unidos Mexicanos;
 
 III. NOM: Norma Oficial Mexicana;
 
-IV. OGM con finalidades de salud pública: Aquellos organismos cuya modificación genética tenga como objetivo generar mecanismos de prevención o control de enfermedades del ser humano, salvo aquellos a que se refiere el artículo 6, fracción III, de la Ley;
+IV. OGM con finalidades de salud pública: Aquellos organismos cuya modificación genética tenga como objetivo generar mecanismos de prevención o control de enfermedades del ser humano, salvo aquellos a que se refiere el artículo [6](../../lbogm/markdown/articulo-6.md), fracción III, de la Ley;
 
 V. Protocolo de Cartagena: El Protocolo de Cartagena sobre Seguridad de la Biotecnología del Convenio sobre la Diversidad Biológica;
 

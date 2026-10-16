@@ -17,4 +17,4 @@ source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 
 # Artículo 134
 
-Las infracciones no previstas en este capítulo serán sancionadas en los términos del artículo 422 de la Ley.
+Las infracciones no previstas en este capítulo serán sancionadas en los términos del artículo [422](../../lgs/markdown/articulo-422.md) de la Ley.

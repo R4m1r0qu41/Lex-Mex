@@ -19,7 +19,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 Para ingresar al Instituto, los aspirantes deberán de reunir los requisitos siguientes:
 
-I. Obtener la certificación de conformidad con lo establecido en el artículo 23 de la Ley; Fracción reformada DOF 23-05-2014
+I. Obtener la certificación de conformidad con lo establecido en el artículo [23](../../lmigra/markdown/articulo-23.md) de la Ley; Fracción reformada DOF 23-05-2014
 
 II. No haber sido sentenciado con pena privativa de libertad por delito doloso ni estar sujeto a proceso penal;
 

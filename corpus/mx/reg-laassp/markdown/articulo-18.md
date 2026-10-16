@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 18
 
-Una vez que Hacienda dé a conocer a las dependencias y entidades su calendario de presupuesto autorizado, éstas en términos del artículo 33 de la [Ley](articulo-2.md), podrán realizar los procedimientos de contratación respectivos.
+Una vez que Hacienda dé a conocer a las dependencias y entidades su calendario de presupuesto autorizado, éstas en términos del artículo [33](../../laassp/markdown/articulo-33.md) de la [Ley](articulo-2.md), podrán realizar los procedimientos de contratación respectivos.

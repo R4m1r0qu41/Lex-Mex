@@ -17,4 +17,4 @@ source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e
 
 # Artículo 4
 
-La Reserva General deberá constituirse, incrementarse o reconstituirse, a través de una aportación anual a estimarse en el informe financiero y actuarial a que se refiere el artículo 261 de la Ley.
+La Reserva General deberá constituirse, incrementarse o reconstituirse, a través de una aportación anual a estimarse en el informe financiero y actuarial a que se refiere el artículo [261](../../lss/markdown/articulo-261.md) de la Ley.

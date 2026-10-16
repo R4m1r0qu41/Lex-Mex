@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 207
 
-Para los efectos del artículo 145 de la [Ley](articulo-1.md), el Consejo Asesor del [SAT](articulo-1.md) y el de la [ANAM](articulo-1.md) estarán integrados, respectivamente, por:
+Para los efectos del artículo [145](../../ladua/markdown/articulo-145.md) de la [Ley](articulo-1.md), el Consejo Asesor del [SAT](articulo-1.md) y el de la [ANAM](articulo-1.md) estarán integrados, respectivamente, por:
 
 I. Un Presidente o una Presidenta, quien será la persona titular de una Administración General o su equivalente, quien de conformidad con sus Reglamentos Interiores tengan facultades normativas expresas en materia de destino de bienes;
 

@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 108
 
-Para efectos del artículo 27, fracción XX, párrafo segundo de la [Ley](articulo-1.md), tratándose de bienes básicos para la subsistencia humana en materia de alimentación, vestido, vivienda o salud, antes de proceder a su destrucción por haber perdido su valor, los contribuyentes deberán ofrecerlos en donación a las instituciones autorizadas para recibir donativos deducibles a que se refiere el citado precepto, de conformidad con las reglas de carácter general que al efecto emita el [SAT](articulo-1.md) y los requisitos siguientes:
+Para efectos del artículo [27](../../lisr/markdown/articulo-27.md), fracción XX, párrafo segundo de la [Ley](articulo-1.md), tratándose de bienes básicos para la subsistencia humana en materia de alimentación, vestido, vivienda o salud, antes de proceder a su destrucción por haber perdido su valor, los contribuyentes deberán ofrecerlos en donación a las instituciones autorizadas para recibir donativos deducibles a que se refiere el citado precepto, de conformidad con las reglas de carácter general que al efecto emita el [SAT](articulo-1.md) y los requisitos siguientes:
 
 I. Presentar un aviso a través de la página de Internet del SAT, cuando menos quince días antes de la fecha prevista para la primera destrucción.
 

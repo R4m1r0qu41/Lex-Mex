@@ -17,7 +17,7 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 96
 
-En el caso de que la información proporcionada en la solicitud sea insuficiente o errónea para atenderla, o bien, no se acompañen los documentos a que hacen referencia los artículos 29, fracción II y 31 de la Ley, el responsable podrá requerir al titular, por una vez y dentro de los cinco días siguientes a la recepción de la solicitud, que aporte los elementos o documentos necesarios para dar trámite a la misma. El titular contará con diez días para atender el requerimiento, contados a partir del día siguiente en que lo haya recibido. De no dar respuesta en dicho plazo, se tendrá por no presentada la solicitud correspondiente.
+En el caso de que la información proporcionada en la solicitud sea insuficiente o errónea para atenderla, o bien, no se acompañen los documentos a que hacen referencia los artículos [29](../../lfpdppp/markdown/articulo-29.md), fracción II y [31](../../lfpdppp/markdown/articulo-31.md) de la Ley, el responsable podrá requerir al titular, por una vez y dentro de los cinco días siguientes a la recepción de la solicitud, que aporte los elementos o documentos necesarios para dar trámite a la misma. El titular contará con diez días para atender el requerimiento, contados a partir del día siguiente en que lo haya recibido. De no dar respuesta en dicho plazo, se tendrá por no presentada la solicitud correspondiente.
 
 En caso de que el titular atienda el requerimiento de información, el plazo para que el responsable dé respuesta a la solicitud empezará a correr al día siguiente de que el titular haya atendido el requerimiento.
 

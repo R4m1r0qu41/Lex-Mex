@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 158
 
-Para efectos de lo dispuesto en el artículo 106, fracción IV, inciso a) de la [Ley](articulo-1.md), los interesados deberán realizar el trámite de importación temporal de vehículos, anexando:
+Para efectos de lo dispuesto en el artículo [106](../../ladua/markdown/articulo-106.md), fracción IV, inciso a) de la [Ley](articulo-1.md), los interesados deberán realizar el trámite de importación temporal de vehículos, anexando:
 
 I. La documentación que acredite su condición de estancia, conforme a la legislación aplicable;
 

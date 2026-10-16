@@ -25,4 +25,4 @@ II. Sujetos o vinculados a proceso, prófugos o cumpliendo sentencia condenatori
 
 III. Haber alcanzado la edad máxima para la conclusión del servicio que señala el [Reglamento](articulo-2.md), y
 
-IV. Encontrarse en trámite de conclusión del servicio en términos del artículo 34 de la [Ley](articulo-2.md).
+IV. Encontrarse en trámite de conclusión del servicio en términos del artículo [34](../../lgn/markdown/articulo-34.md) de la [Ley](articulo-2.md).

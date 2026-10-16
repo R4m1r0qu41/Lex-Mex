@@ -17,6 +17,6 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 18
 
-Los contribuyentes que celebren contratos de obra inmueble, en los que se obliguen a ejecutar dicha obra conforme a un plano, diseño y presupuesto, en los casos en que no estén obligados a presentar estimaciones por obra ejecutada o la periodicidad de su presentación sea mayor a tres meses, sin perjuicio de lo previsto en el artículo 17, párrafos segundo y tercero de la [Ley](articulo-1.md), podrán considerar como ingreso acumulable el avance mensual en la ejecución o fabricación de los bienes a que se refiere la obra.
+Los contribuyentes que celebren contratos de obra inmueble, en los que se obliguen a ejecutar dicha obra conforme a un plano, diseño y presupuesto, en los casos en que no estén obligados a presentar estimaciones por obra ejecutada o la periodicidad de su presentación sea mayor a tres meses, sin perjuicio de lo previsto en el artículo [17](../../lisr/markdown/articulo-17.md), párrafos segundo y tercero de la [Ley](articulo-1.md), podrán considerar como ingreso acumulable el avance mensual en la ejecución o fabricación de los bienes a que se refiere la obra.
 
 La opción prevista en este artículo sólo se podrá ejercer comprendiendo la totalidad de las obras a que se refiere el párrafo anterior, que en el ejercicio ejecute o fabrique el contribuyente.

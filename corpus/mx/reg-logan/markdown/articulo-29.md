@@ -31,7 +31,7 @@ V. Presentar las iniciativas que crean convenientes para el mejor desarrollo de 
 
 VI. Exigir de los miembros y dirigentes de la organización ganadera a la que pertenezca, el estricto cumplimiento de la Ley, este Reglamento, así como de los estatutos y los acuerdos tomados por las organizaciones de las que forme parte en los términos de este Reglamento;
 
-VII. Ser atendidos por el consejo directivo en todos los asuntos relacionados con la ganadería, quien los tramitará diligentemente ante las autoridades correspondientes e instituciones privadas, cuando el asunto lo requiera, de conformidad con el artículo 12 de la Ley;
+VII. Ser atendidos por el consejo directivo en todos los asuntos relacionados con la ganadería, quien los tramitará diligentemente ante las autoridades correspondientes e instituciones privadas, cuando el asunto lo requiera, de conformidad con el artículo [12](../../log/markdown/articulo-12.md) de la Ley;
 
 VIII. Separarse en cualquier tiempo de la organización ganadera, garantizando el cumplimiento de las obligaciones contraídas con la propia organización o con terceros en razón de su membresía; para el caso de asociaciones y uniones deberá contar con la aprobación de las dos terceras partes de sus asociados en asamblea general, que deberá ser convocada específicamente para tal efecto.
 

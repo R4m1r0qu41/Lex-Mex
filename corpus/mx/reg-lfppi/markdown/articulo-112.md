@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 112
 
-La publicación en la Gaceta de la solicitud de registro de una marca a que se refiere el artículo 221 de la Ley, contendrá el número de expediente que se le haya asignado, su fecha de presentación, el signo distintivo solicitado y la clase señalada en la solicitud.
+La publicación en la Gaceta de la solicitud de registro de una marca a que se refiere el artículo [221](../../lfppi/markdown/articulo-221.md) de la Ley, contendrá el número de expediente que se le haya asignado, su fecha de presentación, el signo distintivo solicitado y la clase señalada en la solicitud.

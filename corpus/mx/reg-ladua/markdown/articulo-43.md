@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 43
 
-Para efectos del artículo 13 de la [Ley](articulo-1.md), el transbordo consiste en la descarga de Mercancías de una aeronave o embarcación para ser cargadas en otra aeronave o embarcación, el cual se podrá efectuar:
+Para efectos del artículo [13](../../ladua/markdown/articulo-13.md) de la [Ley](articulo-1.md), el transbordo consiste en la descarga de Mercancías de una aeronave o embarcación para ser cargadas en otra aeronave o embarcación, el cual se podrá efectuar:
 
 I. En forma directa, al arribo de la embarcación o aeronave al primer puerto con servicios aduanales o aeropuerto internacional en territorio nacional, para su posterior carga en otra embarcación o aeronave con destino a otro puerto con servicios aduanales o aeropuerto internacional en territorio nacional o en el extranjero, sin que se requiera depositar dichas Mercancías ante la aduana, y
 

@@ -17,4 +17,4 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 9
 
-La Comisión de Personal emitirá los criterios generales que normarán los casos en los que el [Personal Temporal](articulo-2.md) o Asimilado debe asistir a cursos de capacitación al Instituto Matías Romero, antes de asumir su cargo en el extranjero, lo anterior, para efectos de lo previsto en el último párrafo del artículo 8 de la Ley.
+La Comisión de Personal emitirá los criterios generales que normarán los casos en los que el [Personal Temporal](articulo-2.md) o Asimilado debe asistir a cursos de capacitación al Instituto Matías Romero, antes de asumir su cargo en el extranjero, lo anterior, para efectos de lo previsto en el último párrafo del artículo [8](../../lsem/markdown/articulo-8.md) de la Ley.

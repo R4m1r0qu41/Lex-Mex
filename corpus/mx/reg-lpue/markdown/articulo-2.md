@@ -17,7 +17,7 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 # Artículo 2
 
-Para efectos de este Reglamento, además de las definiciones previstas en el artículo 2o. de la [Ley](articulo-2.md), se entenderá por:
+Para efectos de este Reglamento, además de las definiciones previstas en el artículo [2](../../lpue/markdown/articulo-2o.md)o. de la [Ley](articulo-2.md), se entenderá por:
 
 I. Acarreo: El traslado de bienes o mercancías dentro del Recinto Portuario en su porción terrestre;
 

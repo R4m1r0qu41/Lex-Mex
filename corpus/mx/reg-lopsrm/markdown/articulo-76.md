@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 76
 
-En los procedimientos de adjudicación directa, a efecto de garantizar lo dispuesto en el tercer párrafo del artículo 41 de la [Ley](articulo-2.md), la dependencia o entidad considerará la información contenida en el registro único de contratistas, en los términos que para tal efecto establezca la Secretaría de la Función Pública.
+En los procedimientos de adjudicación directa, a efecto de garantizar lo dispuesto en el tercer párrafo del artículo [41](../../lopsrm/markdown/articulo-41.md) de la [Ley](articulo-2.md), la dependencia o entidad considerará la información contenida en el registro único de contratistas, en los términos que para tal efecto establezca la Secretaría de la Función Pública.

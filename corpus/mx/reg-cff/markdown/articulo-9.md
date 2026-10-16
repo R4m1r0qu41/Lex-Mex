@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 9
 
-Para los efectos del artículo 17-H, fracción X, inciso c) del [Código](articulo-1.md), se entenderá que la [Autoridad Fiscal](articulo-1.md) actúa en el ejercicio de sus facultades de comprobación desde el momento en que realiza la primera gestión para la notificación del documento que ordene su práctica.
+Para los efectos del artículo [17-H](../../cff/markdown/articulo-17-H.md), fracción X, inciso c) del [Código](articulo-1.md), se entenderá que la [Autoridad Fiscal](articulo-1.md) actúa en el ejercicio de sus facultades de comprobación desde el momento en que realiza la primera gestión para la notificación del documento que ordene su práctica.

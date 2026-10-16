@@ -15,4 +15,4 @@ source_sha256: 910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f
 
 # Artículo 9
 
-La manifestación expresa de la conformidad que, en su caso, efectúen los particulares o sus representantes, en términos de lo previsto en el artículo 11 de la [Ley](articulo-2.md), se realizará preferentemente por Medios Electrónicos y utilizando la Firma Electrónica Avanzada en el Sistema de Trámites Electrónicos de la Dependencia o Entidad que corresponda.
+La manifestación expresa de la conformidad que, en su caso, efectúen los particulares o sus representantes, en términos de lo previsto en el artículo [11](../../lfea/markdown/articulo-11.md) de la [Ley](articulo-2.md), se realizará preferentemente por Medios Electrónicos y utilizando la Firma Electrónica Avanzada en el Sistema de Trámites Electrónicos de la Dependencia o Entidad que corresponda.

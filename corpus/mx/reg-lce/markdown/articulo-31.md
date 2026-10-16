@@ -17,6 +17,6 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 31
 
-Cuando la [Secretaría](articulo-1o.md) lo juzgue necesario, en los términos del segundo párrafo del artículo 24 de la [Ley](articulo-1o.md), podrá asignar un cupo a la exportación o importación por medio de procedimientos distintos a la licitación pública.
+Cuando la [Secretaría](articulo-1o.md) lo juzgue necesario, en los términos del segundo párrafo del artículo [24](../../lce/markdown/articulo-24.md) de la [Ley](articulo-1o.md), podrá asignar un cupo a la exportación o importación por medio de procedimientos distintos a la licitación pública.
 
 En los casos en que los cupos se asignen de manera directa o en el orden en que los importadores lleguen a la aduana, la Secretaría podrá establecer topes individuales máximos de valor, cantidad o volumen para determinada mercancía de exportación o importación.

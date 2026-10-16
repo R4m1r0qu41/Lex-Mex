@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 116
 
-Se tendrá por cumplida la obligación prevista por el artículo 76, fracción XIX de la [Ley](articulo-1.md), cuando en la primera sesión ordinaria de la asamblea general de accionistas siguiente a la emisión del dictamen formulado, se informe sobre el cumplimiento de las obligaciones fiscales a cargo del contribuyente, en el ejercicio fiscal al que corresponda el dictamen.
+Se tendrá por cumplida la obligación prevista por el artículo [76](../../lisr/markdown/articulo-76.md), fracción XIX de la [Ley](articulo-1.md), cuando en la primera sesión ordinaria de la asamblea general de accionistas siguiente a la emisión del dictamen formulado, se informe sobre el cumplimiento de las obligaciones fiscales a cargo del contribuyente, en el ejercicio fiscal al que corresponda el dictamen.

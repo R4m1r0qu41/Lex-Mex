@@ -17,4 +17,4 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 11
 
-Para efectos del artículo 9 de la [Ley](articulo-2.md), las tasas aplicables a las operaciones activas de las Funciones de tesorería previstas en la Ley, se determinarán o convendrán tomando en consideración las condiciones del mercado financiero. Tratándose de operaciones pasivas de las Funciones de tesorería, las tasas no podrán ser superiores a las tasas que la Tesorería obtenga por sus operaciones activas.
+Para efectos del artículo [9](../../ltf/markdown/articulo-9.md) de la [Ley](articulo-2.md), las tasas aplicables a las operaciones activas de las Funciones de tesorería previstas en la Ley, se determinarán o convendrán tomando en consideración las condiciones del mercado financiero. Tratándose de operaciones pasivas de las Funciones de tesorería, las tasas no podrán ser superiores a las tasas que la Tesorería obtenga por sus operaciones activas.

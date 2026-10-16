@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 227
 
-Para efectos del artículo 134, párrafo tercero de la [Ley](articulo-1.md), las instituciones que componen el sistema financiero determinarán el factor aplicable en proporción al número de días correspondientes a la inversión que genere los intereses, conforme a lo siguiente:
+Para efectos del artículo [134](../../lisr/markdown/articulo-134.md), párrafo tercero de la [Ley](articulo-1.md), las instituciones que componen el sistema financiero determinarán el factor aplicable en proporción al número de días correspondientes a la inversión que genere los intereses, conforme a lo siguiente:
 
 I. Se dividirá la estimativa diaria del Índice Nacional de Precios al Consumidor del último día de la inversión o del ejercicio, según corresponda, entre la estimativa diaria del citado Índice del día inmediato anterior al primer día de la inversión o del ejercicio, el más reciente. Las estimativas diarias del Índice Nacional de Precios al Consumidor a las que se refiere esta fracción, se calcularán conforme al artículo [233](articulo-233.md) de este Reglamento;
 

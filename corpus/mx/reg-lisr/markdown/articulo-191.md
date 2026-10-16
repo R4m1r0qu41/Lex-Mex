@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 191
 
-Para efectos del artículo 107 de la [Ley](articulo-1.md), cuando los contribuyentes dispongan de un local como establecimiento permanente para prestar servicios profesionales, los ingresos por dichos servicios no se considerarán obtenidos esporádicamente.
+Para efectos del artículo [107](../../lisr/markdown/articulo-107.md) de la [Ley](articulo-1.md), cuando los contribuyentes dispongan de un local como establecimiento permanente para prestar servicios profesionales, los ingresos por dichos servicios no se considerarán obtenidos esporádicamente.

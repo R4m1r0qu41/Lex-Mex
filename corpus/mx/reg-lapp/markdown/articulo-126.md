@@ -27,7 +27,7 @@ III. En relación con el procedimiento de contratación: Párrafo reformado DOF 
 
 b) Si la contratación se hizo mediante [Concurso](articulo-11.md), un ejemplar de la convocatoria, de las bases con sus anexos y sus modificaciones, de la propuesta ganadora y de las dos inmediatas siguientes, del dictamen del fallo y del propio fallo, de las actas levantadas, y demás documentos relevantes, tales como solicitudes de aclaraciones de los Concursantes, correcciones al fallo, informes de irregularidades detectadas y reembolso de gastos, y Inciso reformado DOF 20-02-2017
 
-c) Si la contratación se hizo mediante invitación a cuando menos tres personas o por adjudicación directa, el dictamen del titular de la Dependencia o [Entidad Federal](articulo-11.md) previsto en el artículo 65 de la Ley, así como los demás documentos relevantes; Inciso reformado DOF 20-02-2017
+c) Si la contratación se hizo mediante invitación a cuando menos tres personas o por adjudicación directa, el dictamen del titular de la Dependencia o [Entidad Federal](articulo-11.md) previsto en el artículo [65](../../lapp/markdown/articulo-65.md) de la Ley, así como los demás documentos relevantes; Inciso reformado DOF 20-02-2017
 
 IV. En el evento de adquisiciones de inmuebles, bienes y derechos por la dependencia o entidad contratante:
 
@@ -39,7 +39,7 @@ V. Los documentos sobre la personalidad jurídica y representación legal del de
 
 VI. Un ejemplar de las autorizaciones otorgadas para la ejecución de la obra y la prestación de los servicios, sus modificaciones, cesiones, afectaciones y demás actos relevantes;
 
-VII. Un ejemplar del contrato y sus anexos, modificaciones, cesiones y demás convenios celebrados, de las garantías otorgadas, así como de la autorización para el inicio de los servicios a que se refiere el artículo 107 de la Ley;
+VII. Un ejemplar del contrato y sus anexos, modificaciones, cesiones y demás convenios celebrados, de las garantías otorgadas, así como de la autorización para el inicio de los servicios a que se refiere el artículo [107](../../lapp/markdown/articulo-107.md) de la Ley;
 
 VIII. Los relativos a la intervención del proyecto, en su caso, tales como la notificación de la intervención, los documentos en que consten las actuaciones del o de los interventores, las actas de entrega-recepción al inicio y terminación de la intervención;
 

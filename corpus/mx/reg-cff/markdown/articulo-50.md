@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 50
 
-Para los efectos del artículo 46, fracción IV, segundo párrafo del [Código](articulo-1.md), el plazo de veinte días durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones, así como optar por corregir su situación fiscal, deberá computarse a partir del día siguiente a la fecha en que se levante la última acta parcial y hasta el día inmediato anterior a aquél en que se levante el acta final.
+Para los efectos del artículo [46](../../cff/markdown/articulo-46.md), fracción IV, segundo párrafo del [Código](articulo-1.md), el plazo de veinte días durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones, así como optar por corregir su situación fiscal, deberá computarse a partir del día siguiente a la fecha en que se levante la última acta parcial y hasta el día inmediato anterior a aquél en que se levante el acta final.

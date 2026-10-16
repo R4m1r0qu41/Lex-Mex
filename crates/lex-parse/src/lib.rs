@@ -268,6 +268,10 @@ pub struct ReferenceOptions {
     /// express citations remain canonical but deliberately do not become live
     /// links to a later same-title law.
     pub historical_targets: Vec<HistoricalTarget>,
+    /// A regulation's parent law. A bare `de la Ley` (or the quoted `“Ley”`)
+    /// that is not followed by a title names it; the edge is emitted only when
+    /// its target article exists.
+    pub parent_instrument: Option<String>,
 }
 
 /// A superseded law cited under a title a later law now holds. Text with a DOF
@@ -337,6 +341,8 @@ fn latest_dof_date(text: &str) -> Option<NaiveDate> {
 enum GroupTarget<'a> {
     Internal,
     External(&'a str),
+    /// The regulation's parent law named by a bare `Ley`.
+    Parent(&'a str),
     Skip,
 }
 
@@ -347,6 +353,7 @@ pub fn extract_internal_references(provisions: &[Provision]) -> Result<Vec<Refer
         same_article_fractions: true,
         relative_references: true,
         historical_targets: Vec::new(),
+        parent_instrument: None,
     };
     let target_ids: HashSet<String> = provisions.iter().map(|item| item.id.clone()).collect();
     extract_references(provisions, None, &options, &target_ids)
@@ -540,15 +547,19 @@ fn extract_relative_references(
                     "del presente ordenamiento".to_owned(),
                 ],
                 &[],
+                None,
             ),
             InstrumentContextPolicy::SentenceEarliestMarker { .. } => {
-                group_target(context, MARKER_LOOKAHEAD_CHARS, &options.policy)
+                group_target(context, MARKER_LOOKAHEAD_CHARS, &options.policy, None)
             }
         };
         let own_context = !attached
             || match target_context {
                 GroupTarget::Internal => true,
                 GroupTarget::External(id) => id == source.instrument_id,
+                // A relative position in the parent law cannot be inferred
+                // from this provision's neighbors.
+                GroupTarget::Parent(_) => false,
                 GroupTarget::Skip => bare_own_regulation_context(source.instrument_id, context),
             };
         if !own_context {
@@ -614,12 +625,21 @@ fn extract_reference_group(
         }
     });
     let max_marker_start = last_end.map_or(usize::MAX, |end| end + MARKER_LOOKAHEAD_CHARS);
-    let target_instrument_id =
-        match group_target(&group[..context_end], max_marker_start, &options.policy) {
-            GroupTarget::Internal => source.instrument_id,
-            GroupTarget::External(instrument_id) => instrument_id,
-            GroupTarget::Skip => return Vec::new(),
-        };
+    let mut via_parent_shorthand = false;
+    let target_instrument_id = match group_target(
+        &group[..context_end],
+        max_marker_start,
+        &options.policy,
+        options.parent_instrument.as_deref(),
+    ) {
+        GroupTarget::Internal => source.instrument_id,
+        GroupTarget::External(instrument_id) => instrument_id,
+        GroupTarget::Parent(instrument_id) => {
+            via_parent_shorthand = true;
+            instrument_id
+        }
+        GroupTarget::Skip => return Vec::new(),
+    };
     let (target_instrument_id, historical) = options.target_for(target_instrument_id, source.text);
     let mut references = direct_reference_edges(
         source,
@@ -641,6 +661,12 @@ fn extract_reference_group(
         known_targets,
         historical,
     ));
+    if via_parent_shorthand {
+        // A parent-shorthand citation is emitted only when its target
+        // exists; a miss (renumbered or repealed parent article) is not an
+        // edge and not a rejection.
+        references.retain(|edge| edge.resolution_status == ReferenceResolutionStatus::Resolved);
+    }
     let explicit_end = last_end.map_or(group.len(), |end| {
         end + instrument_context_boundary(&group[end..])
     });
@@ -674,9 +700,9 @@ fn explicit_internal_context(
     policy: &InstrumentContextPolicy,
     own_id: &str,
 ) -> bool {
-    match group_target(context, max_marker_start, policy) {
+    match group_target(context, max_marker_start, policy, None) {
         GroupTarget::External(id) => return id == own_id,
-        GroupTarget::Skip => return false,
+        GroupTarget::Parent(_) | GroupTarget::Skip => return false,
         GroupTarget::Internal => {}
     }
     let lower = context.to_lowercase();
@@ -705,6 +731,7 @@ fn group_target<'a>(
     context: &str,
     max_marker_start: usize,
     policy: &'a InstrumentContextPolicy,
+    parent: Option<&'a str>,
 ) -> GroupTarget<'a> {
     let lower = context.to_lowercase();
     match policy {
@@ -723,6 +750,7 @@ fn group_target<'a>(
             max_marker_start,
             internal_markers,
             external_instruments,
+            parent,
         ),
     }
 }
@@ -752,11 +780,76 @@ fn find_marker(lower: &str, marker: &str) -> Option<usize> {
         .map(|(position, _)| position)
 }
 
+/// Position of the first bare parent-law marker: `de la Ley` (or `del
+/// Código` when the parent is a code) not followed by a title, or the quoted
+/// shorthand `de la “Ley”` / `de la "Ley"`.
+fn bare_parent_marker(lower: &str, parent_id: &str) -> Option<usize> {
+    let markers: &[&str] = if parent_id.contains(":code:") {
+        &["del código", "del “código”", "del \"código\""]
+    } else {
+        &["de la ley", "de la “ley”", "de la \"ley\""]
+    };
+    markers
+        .iter()
+        .flat_map(|marker| {
+            lower
+                .match_indices(marker)
+                .map(|(position, _)| (position, *marker))
+        })
+        .filter(|(position, marker)| {
+            let before = lower[..*position].chars().next_back();
+            if before.is_some_and(char::is_alphanumeric) {
+                return false;
+            }
+            let quoted = marker.ends_with(['”', '"']);
+            quoted || bare_word_follows(&lower[position + marker.len()..])
+        })
+        .map(|(position, _)| position)
+        .min()
+}
+
+/// A bare `Ley` is followed by punctuation, the end of the text, or a plain
+/// connective, never by the words of a title (`de la Ley de Pesca`).
+fn bare_word_follows(rest: &str) -> bool {
+    let Some(first) = rest.chars().next() else {
+        return true;
+    };
+    if !first.is_whitespace() {
+        return !first.is_alphanumeric();
+    }
+    let rest = rest.trim_start();
+    let Some(next) = rest.chars().next() else {
+        return true;
+    };
+    if !next.is_alphabetic() {
+        return true;
+    }
+    let word: String = rest.chars().take_while(|c| c.is_alphabetic()).collect();
+    [
+        "y",
+        "o",
+        "e",
+        "en",
+        "conforme",
+        "vigente",
+        "aplicable",
+        "cuando",
+        "se",
+        "que",
+        "así",
+        "como",
+        "sus",
+        "su",
+    ]
+    .contains(&word.as_str())
+}
+
 fn sentence_target<'a>(
     lower: &str,
     max_marker_start: usize,
     internal_markers: &[String],
     external_instruments: &'a [(String, String)],
+    parent: Option<&'a str>,
 ) -> GroupTarget<'a> {
     let internal = internal_markers
         .iter()
@@ -770,6 +863,7 @@ fn sentence_target<'a>(
         })
         .filter(|(position, _)| *position <= max_marker_start)
         .min_by_key(|(position, _)| *position);
+    let parent_position = parent.and_then(|id| bare_parent_marker(lower, id));
     let generic = EXTERNAL_INSTRUMENT_MARKERS
         .iter()
         .filter_map(|marker| {
@@ -785,6 +879,8 @@ fn sentence_target<'a>(
             })
         })
         .filter(|(position, _)| *position <= max_marker_start)
+        // A bare parent-law marker is decided below, not skipped here.
+        .filter(|(position, _)| parent_position != Some(*position))
         // A configured instrument name inside the same phrase (for example
         // "de la ley para regular…") supersedes the generic law marker.
         .filter(|(position, length)| {
@@ -795,10 +891,26 @@ fn sentence_target<'a>(
         .map(|(position, _)| position)
         .min();
 
+    // The parent law governs a bare `Ley` (never one followed by a title)
+    // only when the citation window has no internal marker (`de este
+    // Reglamento`); a mixed citation is skipped, never guessed.
+    let parent_candidate = parent
+        .zip(parent_position)
+        .filter(|(_, position)| *position <= max_marker_start);
     let candidates = [
         internal.map(|position| (position, GroupTarget::Internal)),
         configured.map(|(position, id)| (position, GroupTarget::External(id))),
         generic.map(|position| (position, GroupTarget::Skip)),
+        parent_candidate.map(|(id, position)| {
+            (
+                position,
+                if internal.is_some() {
+                    GroupTarget::Skip
+                } else {
+                    GroupTarget::Parent(id)
+                },
+            )
+        }),
     ];
     candidates
         .into_iter()
@@ -820,10 +932,10 @@ fn extract_transitory_citations(
         let context = &source.text[citation_end..];
         let context = &context[..qualifier_boundary(context)];
         let target_instrument_id =
-            match group_target(context, MARKER_LOOKAHEAD_CHARS, &options.policy) {
+            match group_target(context, MARKER_LOOKAHEAD_CHARS, &options.policy, None) {
                 GroupTarget::Internal => source.instrument_id,
                 GroupTarget::External(instrument_id) => instrument_id,
-                GroupTarget::Skip => continue,
+                GroupTarget::Parent(_) | GroupTarget::Skip => continue,
             };
         let (target_instrument_id, historical_target_unavailable) =
             options.target_for(target_instrument_id, source.text);
@@ -2914,6 +3026,7 @@ mod tests {
             same_article_fractions: true,
             relative_references: true,
             historical_targets: Vec::new(),
+            parent_instrument: None,
         }
     }
 
@@ -2946,6 +3059,7 @@ mod tests {
             same_article_fractions: true,
             relative_references: true,
             historical_targets: Vec::new(),
+            parent_instrument: None,
         }
     }
 
@@ -3103,6 +3217,7 @@ mod tests {
                     successor_id: successor.to_owned(),
                     until: NaiveDate::from_ymd_opt(2014, 1, 10).unwrap(),
                 }],
+                parent_instrument: None,
             },
             &known_targets,
         )
@@ -3151,6 +3266,7 @@ mod tests {
                     successor_id: "urn:lex-mx:federal:statute:lraf".to_owned(),
                     until: NaiveDate::from_ymd_opt(2014, 1, 10).unwrap(),
                 }],
+                parent_instrument: None,
             },
             &known_targets,
         )
@@ -3226,6 +3342,7 @@ mod tests {
                 same_article_fractions: false,
                 relative_references: false,
                 historical_targets: Vec::new(),
+                parent_instrument: None,
             },
             &known_targets,
         )
@@ -3264,6 +3381,7 @@ mod tests {
                 same_article_fractions: false,
                 relative_references: false,
                 historical_targets: Vec::new(),
+                parent_instrument: None,
             },
             &known_targets,
         )
@@ -3298,6 +3416,7 @@ mod tests {
                 same_article_fractions: false,
                 relative_references: false,
                 historical_targets: Vec::new(),
+                parent_instrument: None,
             },
             &known_targets,
         )
@@ -3819,6 +3938,7 @@ mod tests {
             same_article_fractions: true,
             relative_references: true,
             historical_targets: vec![],
+            parent_instrument: None,
         };
         let targets = provisions.iter().map(|p| p.id.clone()).collect();
         let references = extract_references(&provisions, None, &options, &targets).unwrap();
@@ -3908,6 +4028,7 @@ mod tests {
             same_article_fractions: true,
             relative_references: true,
             historical_targets: vec![],
+            parent_instrument: None,
         };
         let targets = provisions.iter().map(|p| p.id.clone()).collect();
         // REG-LAN article 153: article 122 is the Ley de Aguas Nacionales' (the
@@ -3938,6 +4059,98 @@ mod tests {
         );
     }
 
+    const LAN: &str = "urn:lex-mx:federal:statute:lan";
+    const REG_LAN: &str = "urn:lex-mx:federal:regulation:reg-lan";
+
+    fn parent_edges(text: &str, known: &[&str]) -> Vec<lex_core::ReferenceEdge> {
+        let document = parse_diputados(
+            &format!("Artículo 1.- {text}"),
+            &DiputadosOptions {
+                instrument_id: REG_LAN.to_owned(),
+                header_lines: Vec::new(),
+                stop_markers: Vec::new(),
+                annex_markers: Vec::new(),
+                separate_enactment: false,
+                nested_instrument: None,
+            },
+            NaiveDate::from_ymd_opt(2002, 1, 15).unwrap(),
+        )
+        .unwrap();
+        extract_references(
+            &document.provisions,
+            None,
+            &ReferenceOptions {
+                policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                    internal_markers: ["de este reglamento", "del presente reglamento"]
+                        .iter()
+                        .map(|m| (*m).to_owned())
+                        .collect(),
+                    external_instruments: vec![(
+                        "ley federal de procedimiento administrativo".to_owned(),
+                        "urn:lex-mx:federal:statute:lfpa".to_owned(),
+                    )],
+                },
+                transitory_citations: true,
+                same_article_fractions: true,
+                relative_references: true,
+                historical_targets: Vec::new(),
+                parent_instrument: Some(LAN.to_owned()),
+            },
+            &known.iter().map(|id| (*id).to_owned()).collect(),
+        )
+        .unwrap()
+    }
+
+    #[test]
+    fn a_regulations_bare_ley_resolves_to_its_parent_only_when_the_article_exists() {
+        let known = [
+            "urn:lex-mx:federal:statute:lan:article:122",
+            "urn:lex-mx:federal:statute:lfpa:article:66",
+        ];
+        // REG-LAN article 153: article 122 is the Ley's, not LFPA's.
+        for text in [
+            "Se aplicará el artículo 122 de la “Ley” y en la Ley Federal de Procedimiento Administrativo.",
+            "Se aplicará el artículo 122 de la \"Ley\" y lo previsto en la Ley Federal de Procedimiento Administrativo.",
+            "Se aplicará lo dispuesto en el artículo 122 de la Ley, para los efectos de este artículo.",
+        ] {
+            let edges = parent_edges(text, &known);
+            assert_eq!(edges.len(), 1, "{text}: {edges:?}");
+            assert_eq!(edges[0].target_provision_id, known[0], "{text}");
+            assert_eq!(
+                edges[0].resolution_status,
+                ReferenceResolutionStatus::Resolved
+            );
+        }
+        // A missing parent article is neither an edge nor an unresolved edge.
+        assert!(parent_edges("Se aplicará el artículo 999 de la “Ley”.", &known).is_empty());
+        // A later-named law is still linked on its own citation.
+        let edges = parent_edges(
+            "Se aplicará el artículo 66 de la Ley Federal de Procedimiento Administrativo.",
+            &known,
+        );
+        assert_eq!(edges.len(), 1);
+        assert_eq!(edges[0].target_provision_id, known[1]);
+    }
+
+    #[test]
+    fn a_bare_ley_never_takes_a_titled_or_mixed_or_anaphoric_citation() {
+        let known = ["urn:lex-mx:federal:statute:lan:article:122"];
+        for text in [
+            // another law's title follows "de la Ley"
+            "Se aplicará el artículo 122 de la Ley de Pesca.",
+            // an internal marker shares the citation window
+            "Se aplicará el artículo 122 de la “Ley” y 122 de este Reglamento.",
+            // anaphoric reference stays skipped
+            "Se aplicará el artículo 122 de dicha Ley.",
+        ] {
+            let edges: Vec<_> = parent_edges(text, &known)
+                .into_iter()
+                .filter(|e| e.target_instrument_id == LAN)
+                .collect();
+            assert!(edges.is_empty(), "{text}: {edges:?}");
+        }
+    }
+
     #[test]
     fn relative_reference_is_not_retargeted_by_a_law_named_in_a_later_clause() {
         let date = NaiveDate::from_ymd_opt(2018, 3, 9).unwrap();
@@ -3964,6 +4177,7 @@ mod tests {
             same_article_fractions: true,
             relative_references: true,
             historical_targets: vec![],
+            parent_instrument: None,
         };
         let targets = provisions.iter().map(|p| p.id.clone()).collect();
         let references = extract_references(&provisions, None, &options, &targets).unwrap();
@@ -4254,6 +4468,7 @@ Ciudad de México, a 1 de octubre de 2025.
             same_article_fractions: true,
             relative_references: true,
             historical_targets: vec![],
+            parent_instrument: None,
         };
         let mut edges = extract_references(&doc.provisions, None, &opts, &HashSet::new()).unwrap();
         let stale = edges
@@ -4453,6 +4668,7 @@ Ciudad de México, a 1 de octubre de 2025.
             same_article_fractions: true,
             relative_references: true,
             historical_targets: vec![],
+            parent_instrument: None,
         };
         let mut edges = extract_references(&doc.provisions, None, &opts, &HashSet::new()).unwrap();
         let edge = edges
@@ -4561,6 +4777,7 @@ Ciudad de México, a 1 de octubre de 2025.
             same_article_fractions: false,
             relative_references: false,
             historical_targets: vec![],
+            parent_instrument: None,
         };
         for (citation, expected) in [("0 74", 0), ("74", 1)] {
             let raw = format!(
@@ -4620,6 +4837,7 @@ Ciudad de México, a 1 de octubre de 2025.
                 same_article_fractions: true,
                 relative_references: true,
                 historical_targets: Vec::new(),
+                parent_instrument: None,
             },
             &known.iter().map(|id| (*id).to_owned()).collect(),
         )

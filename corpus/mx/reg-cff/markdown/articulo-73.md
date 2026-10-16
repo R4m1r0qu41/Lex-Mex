@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 73
 
-Para los efectos del artículo 70, segundo párrafo del [Código](articulo-1.md), la actualización de las multas deberá realizarse a partir del día siguiente al vencimiento del plazo de treinta días a que se refiere el artículo 65 del Código.
+Para los efectos del artículo [70](../../cff/markdown/articulo-70.md), segundo párrafo del [Código](articulo-1.md), la actualización de las multas deberá realizarse a partir del día siguiente al vencimiento del plazo de treinta días a que se refiere el artículo [65](../../cff/markdown/articulo-65.md) del Código.

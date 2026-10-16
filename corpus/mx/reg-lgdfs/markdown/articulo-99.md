@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 99
 
-La legal procedencia de las Materias primas y productos forestales para efectos del artículo 91 de la [Ley](articulo-2.md), se acreditará con los documentos siguientes: I. Remisión forestal, cuando:
+La legal procedencia de las Materias primas y productos forestales para efectos del artículo [91](../../lgdfs/markdown/articulo-91.md) de la [Ley](articulo-2.md), se acreditará con los documentos siguientes: I. Remisión forestal, cuando:
 
 a) Se trasladen del lugar de su aprovechamiento al Centro de almacenamiento o de transformación u otro destino, o
 

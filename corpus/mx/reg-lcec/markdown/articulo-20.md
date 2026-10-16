@@ -17,4 +17,4 @@ source_sha256: 76a5d189cd607e352b2cc39a92c4ad2d46f6d4628cd6e300030d92cf2191a88c
 
 # Artículo 20
 
-Celebrada la asamblea de constitución que prevé el artículo 15 fracciones I y II en sus incisos a) de la [Ley](articulo-2.md), el instrumento que expida el fedatario público al efecto deberá ser enviado a la Secretaría con objeto de que ésta lleve a cabo el registro de su formación y publique su constitución en el [DOF](articulo-2.md).
+Celebrada la asamblea de constitución que prevé el artículo [15](../../lcec/markdown/articulo-15.md) fracciones I y II en sus incisos a) de la [Ley](articulo-2.md), el instrumento que expida el fedatario público al efecto deberá ser enviado a la Secretaría con objeto de que ésta lleve a cabo el registro de su formación y publique su constitución en el [DOF](articulo-2.md).

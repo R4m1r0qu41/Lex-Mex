@@ -17,10 +17,10 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 56
 
-En términos de lo previsto en el artículo 9, segundo párrafo de la Ley, sólo podrán crearse bases de datos que contengan datos personales sensibles cuando:
+En términos de lo previsto en el artículo [9](../../lfpdppp/markdown/articulo-9.md), segundo párrafo de la Ley, sólo podrán crearse bases de datos que contengan datos personales sensibles cuando:
 
 I. Obedezca a un mandato legal;
 
-II. Se justifique en términos del artículo 4 de la Ley, o
+II. Se justifique en términos del artículo [4](../../lfpdppp/markdown/articulo-4.md) de la Ley, o
 
 III. El responsable lo requiera para finalidades legítimas, concretas y acordes con las actividades o fines explícitos que persiga.

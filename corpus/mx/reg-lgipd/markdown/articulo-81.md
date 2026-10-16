@@ -19,7 +19,7 @@ source_sha256: 7e1c33029ca423d65491911d15e2f1b436ed269540148af1e4787570441ac0b6
 
 Corresponde al Consejo la elaboración del Programa, así como coordinar su ejecución, seguimiento y evaluación, sin perjuicio de las atribuciones que en estas materias correspondan a otras dependencias y entidades de la Administración Pública Federal competentes. El Programa se elaborará de conformidad con lo previsto en la Ley de Planeación, la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables.
 
-En el año en que el Ejecutivo Federal deba publicar el Plan Nacional de Desarrollo conforme a la Ley de Planeación, la obligación establecida en el artículo 34, fracción I de la Ley se suspenderá durante ese año, con el fin de que el Programa que se publique en el año inmediato siguiente contenga las nuevas directrices establecidas por el Plan Nacional de Desarrollo.
+En el año en que el Ejecutivo Federal deba publicar el Plan Nacional de Desarrollo conforme a la Ley de Planeación, la obligación establecida en el artículo [34](../../lgipd/markdown/articulo-34.md), fracción I de la Ley se suspenderá durante ese año, con el fin de que el Programa que se publique en el año inmediato siguiente contenga las nuevas directrices establecidas por el Plan Nacional de Desarrollo.
 
 El Programa será la base para la formulación de los anteproyectos de presupuesto anuales, de las dependencias y entidades de la Administración Pública Federal involucradas en la observancia del Programa. Asimismo, las entidades federativas y municipios podrán tomar como base para la formulación de sus anteproyectos de presupuesto anuales su participación en el Programa.
 

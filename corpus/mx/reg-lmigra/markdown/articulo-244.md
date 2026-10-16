@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 244
 
-Para efectos del penúltimo párrafo del artículo 144 de la Ley, la autoridad migratoria, a fin de determinar el período de restricción de ingreso al territorio nacional de personas extranjeras a quienes se haya resuelto su deportación, tomará en consideración las circunstancias especiales de cada caso, particularmente:
+Para efectos del penúltimo párrafo del artículo [144](../../lmigra/markdown/articulo-144.md) de la Ley, la autoridad migratoria, a fin de determinar el período de restricción de ingreso al territorio nacional de personas extranjeras a quienes se haya resuelto su deportación, tomará en consideración las circunstancias especiales de cada caso, particularmente:
 
 I. Si la persona extranjera ingresó al territorio nacional sin la autorización correspondiente de la Secretaría, el plazo de restricción será de uno a cinco años;
 

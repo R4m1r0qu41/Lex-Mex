@@ -25,6 +25,6 @@ II. Ninguna de las ofertas alcance el precio base de venta del bien, y
 
 III. En los demás casos que determine la Junta de Gobierno.
 
-Dicha resolución deberá fundarse y motivarse y ser notificada a los participantes, conforme al artículo 49, fracción IV, de la [Ley](articulo-1.md), en el mismo acto en que se dé a conocer el fallo.
+Dicha resolución deberá fundarse y motivarse y ser notificada a los participantes, conforme al artículo [49](../../lfaebsp/markdown/articulo-49.md), fracción IV, de la [Ley](articulo-1.md), en el mismo acto en que se dé a conocer el fallo.
 
 Se considerará desierta parcialmente una licitación pública cuando dicho procedimiento verse sobre diversas unidades o lotes de bienes y respecto de alguno de éstos se actualice alguna de las hipótesis contempladas en este artículo. Párrafo adicionado DOF 29-11-2006

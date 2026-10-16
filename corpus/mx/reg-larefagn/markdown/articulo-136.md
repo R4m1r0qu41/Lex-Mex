@@ -17,7 +17,7 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 136
 
-Para dar cumplimiento a lo estipulado en los artículos 60 y 61 de la Ley, los Diplomas correspondientes a esta Condecoración deberán apegarse a los siguientes lineamientos:
+Para dar cumplimiento a lo estipulado en los artículos [60](../../larefam/markdown/articulo-60.md) y [61](../../larefam/markdown/articulo-61.md) de la Ley, los Diplomas correspondientes a esta Condecoración deberán apegarse a los siguientes lineamientos:
 
 I. Serán firmados por la persona titular de la Presidencia de la República, los que se otorguen a la persona titular de la Secretaría, anteponiendo la frase: "EL PRESIDENTE O PRESIDENTA DE LOS ESTADOS UNIDOS MEXICANOS Y COMANDANTA O COMANDANTE SUPREMO DE LAS FUERZAS ARMADAS"; Fracción reformada DOF 20-03-2026
 

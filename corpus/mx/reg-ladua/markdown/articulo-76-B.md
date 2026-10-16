@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 76-B
 
-Para efectos de los artículos 25 y 45 de la [Ley](articulo-1.md), las Autoridades Aduaneras podrán implementar mecanismos que permitan llevar a cabo la toma de muestras de manera conjunta con terceros especializados, en los casos en que dicha autoridad y el importador, exportador, agente aduanal, agencia aduanal o representante legal acreditado, cuenten con elementos que acrediten:
+Para efectos de los artículos [25](../../ladua/markdown/articulo-25.md) y [45](../../ladua/markdown/articulo-45.md) de la [Ley](articulo-1.md), las Autoridades Aduaneras podrán implementar mecanismos que permitan llevar a cabo la toma de muestras de manera conjunta con terceros especializados, en los casos en que dicha autoridad y el importador, exportador, agente aduanal, agencia aduanal o representante legal acreditado, cuenten con elementos que acrediten:
 
 I. Que la toma de muestras pudiera alterar o modificar la naturaleza y características de las Mercancías.
 

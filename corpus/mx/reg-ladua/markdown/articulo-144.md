@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 144
 
-Para efectos del artículo 100, fracción II de la [Ley](articulo-1.md), las empresas que hayan realizado importaciones con un valor superior a $175,395,050.00 en el ejercicio inmediato anterior a aquél en que soliciten su inscripción en el registro del despacho de Mercancías de las empresas, presentarán su solicitud ante la Autoridad Aduanera debiendo cumplir con lo siguiente: Cantidad del párrafo actualizada por reglas generales de comercio exterior DOF 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 27-12-2025
+Para efectos del artículo [100](../../ladua/markdown/articulo-100.md), fracción II de la [Ley](articulo-1.md), las empresas que hayan realizado importaciones con un valor superior a $175,395,050.00 en el ejercicio inmediato anterior a aquél en que soliciten su inscripción en el registro del despacho de Mercancías de las empresas, presentarán su solicitud ante la Autoridad Aduanera debiendo cumplir con lo siguiente: Cantidad del párrafo actualizada por reglas generales de comercio exterior DOF 22-12-2017, 24-12-2020, 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 27-12-2025
 
 I. Realizar el pago del derecho que corresponda conforme a la Ley Federal de Derechos;
 

@@ -17,6 +17,6 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 10
 
-Quienes realicen las Actividades Vulnerables a las que se refiere el artículo 17 de la Ley deberán observar lo dispuesto en las reglas de carácter general, así como en las disposiciones que de ellas emanen, de conformidad con el artículo 6, fracción VII, de la Ley.
+Quienes realicen las Actividades Vulnerables a las que se refiere el artículo 17 de la Ley deberán observar lo dispuesto en las reglas de carácter general, así como en las disposiciones que de ellas emanen, de conformidad con el artículo [6](../../lfpiorpi/markdown/articulo-6.md), fracción VII, de la Ley.
 
 Artículo reformado DOF 27-03-2026

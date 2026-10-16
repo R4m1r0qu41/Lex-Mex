@@ -17,7 +17,7 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 80
 
-La Comisión supervisará la administración de los recursos de Fondos de Previsión Social a que se refiere el artículo 74 quáter de la [Ley](articulo-2o.md), conforme a lo siguiente:
+La Comisión supervisará la administración de los recursos de Fondos de Previsión Social a que se refiere el artículo [74 quáter](../../lsar/markdown/articulo-74-quáter.md) de la [Ley](articulo-2o.md), conforme a lo siguiente:
 
 I. Verificará la existencia del contrato celebrado entre la [Administradora](articulo-2o.md) y la persona que le confíe la administración del Fondo de Previsión Social, y
 

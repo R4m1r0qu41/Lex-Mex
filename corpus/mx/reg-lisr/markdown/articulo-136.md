@@ -17,10 +17,10 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 136
 
-Para efectos del artículo 82, fracción I, última oración de la [Ley](articulo-1.md), las personas morales y fideicomisos autorizados para recibir donativos deducibles en el extranjero conforme a los tratados internacionales, no deberán recibir más de una tercera parte de sus ingresos en cada año de calendario de la suma de los siguientes conceptos:
+Para efectos del artículo [82](../../lisr/markdown/articulo-82.md), fracción I, última oración de la [Ley](articulo-1.md), las personas morales y fideicomisos autorizados para recibir donativos deducibles en el extranjero conforme a los tratados internacionales, no deberán recibir más de una tercera parte de sus ingresos en cada año de calendario de la suma de los siguientes conceptos:
 
 I. Los ingresos totales obtenidos por concepto del otorgamiento del uso o goce temporal de bienes inmuebles, intereses, dividendos o regalías, y
 
 II. La utilidad que resulte de las actividades que, en su caso, realicen y que no estén substancialmente relacionadas con el desarrollo de su objeto social o fines.
 
-Lo dispuesto en este artículo no es aplicable a las personas morales a que se refiere el artículo 79, fracción X de la Ley.
+Lo dispuesto en este artículo no es aplicable a las personas morales a que se refiere el artículo [79](../../lisr/markdown/articulo-79.md), fracción X de la Ley.

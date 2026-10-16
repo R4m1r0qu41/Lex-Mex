@@ -17,12 +17,12 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 251
 
-Para efectos del artículo 151, fracción IV de la [Ley](articulo-1.md), se consideran también créditos hipotecarios aquellos fideicomisos en los que se cumplan los siguientes requisitos:
+Para efectos del artículo [151](../../lisr/markdown/articulo-151.md), fracción IV de la [Ley](articulo-1.md), se consideran también créditos hipotecarios aquellos fideicomisos en los que se cumplan los siguientes requisitos:
 
 I. Que como garantía fiduciaria del crédito del que derivan los intereses se haya dejado una casa habitación;
 
 II. Que el único objeto del fideicomiso sea dejar dicho inmueble en garantía del préstamo;
 
-III. Que el fideicomitente sea el contribuyente que deducirá los intereses en términos del artículo 151, fracción IV de la Ley, y
+III. Que el fideicomitente sea el contribuyente que deducirá los intereses en términos del artículo [151](../../lisr/markdown/articulo-151.md), fracción IV de la Ley, y
 
 IV. Que los fideicomisarios sean el mismo contribuyente y cualquier integrante del sistema financiero. Asimismo, se consideran créditos hipotecarios, aquéllos destinados únicamente a la construcción o la remodelación de casa habitación o al pago de los pasivos que se destinen exclusivamente a la adquisición, construcción o remodelación de casa habitación.

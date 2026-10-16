@@ -15,4 +15,4 @@ source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
 
 # Artículo 68
 
-En caso de que la Secretaría revoque, en términos del artículo 56 de la Ley, la autorización del contrato, el prestador de servicios no podrá continuar prestándolos y deberá desocupar las instalaciones que correspondan dentro del plazo que le fije la Secretaría, el cual no podrá ser inferior a treinta días hábiles ni superior a sesenta.
+En caso de que la Secretaría revoque, en términos del artículo [56](../../laero/markdown/articulo-56.md) de la Ley, la autorización del contrato, el prestador de servicios no podrá continuar prestándolos y deberá desocupar las instalaciones que correspondan dentro del plazo que le fije la Secretaría, el cual no podrá ser inferior a treinta días hábiles ni superior a sesenta.

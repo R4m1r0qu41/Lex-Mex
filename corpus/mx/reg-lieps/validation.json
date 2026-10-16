@@ -4,7 +4,7 @@
   "valid": true,
   "article_count": 19,
   "transitory_count": 2,
-  "reference_count": 0,
+  "reference_count": 16,
   "issues": [
     {
       "severity": "warning",

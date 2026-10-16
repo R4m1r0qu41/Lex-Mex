@@ -15,6 +15,6 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # QUINTO
 
-Las solicitudes de permisos presentadas con antelación a la entrada en vigor del presente Reglamento y aquéllas que se presenten en tanto no se emitan los acuerdos a que se refiere el artículo 86 de la Ley, deberán ser resueltas por la Secretaría competente previa consulta con las instituciones señaladas en el citado artículo.
+Las solicitudes de permisos presentadas con antelación a la entrada en vigor del presente Reglamento y aquéllas que se presenten en tanto no se emitan los acuerdos a que se refiere el artículo [86](../../lbogm/markdown/articulo-86.md) de la Ley, deberán ser resueltas por la Secretaría competente previa consulta con las instituciones señaladas en el citado artículo.
 
 Artículo reformado DOF 06-03-2009

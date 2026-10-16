@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 15
 
-El usuario final de buena fe no estará obligado al pago de daños y perjuicios por la utilización de señales de satélite codificadas portadoras de programas conforme al artículo 145, fracción I, de la [Ley](articulo-2o.md), siempre que no persiga fines de lucro.
+El usuario final de buena fe no estará obligado al pago de daños y perjuicios por la utilización de señales de satélite codificadas portadoras de programas conforme al artículo [145](../../lfda/markdown/articulo-145.md), fracción I, de la [Ley](articulo-2o.md), siempre que no persiga fines de lucro.

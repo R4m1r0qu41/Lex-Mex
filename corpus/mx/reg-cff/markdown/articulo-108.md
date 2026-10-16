@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 108
 
-Para los efectos del artículo 181 del [Código](articulo-1.md), la [Autoridad Fiscal](articulo-1.md) reintegrará a los postores, dentro de los dos días posteriores a la fecha en que se hubiere fincado el remate, el importe del depósito que como garantía hayan constituido, excepto el que corresponda al ganador que se tendrá como garantía del cumplimiento de su obligación de pago y, en su caso, como pago de parte del precio de venta.
+Para los efectos del artículo [181](../../cff/markdown/articulo-181.md) del [Código](articulo-1.md), la [Autoridad Fiscal](articulo-1.md) reintegrará a los postores, dentro de los dos días posteriores a la fecha en que se hubiere fincado el remate, el importe del depósito que como garantía hayan constituido, excepto el que corresponda al ganador que se tendrá como garantía del cumplimiento de su obligación de pago y, en su caso, como pago de parte del precio de venta.

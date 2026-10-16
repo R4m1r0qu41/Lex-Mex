@@ -45,4 +45,4 @@ El Traspaso será improcedente cuando el Trabajador ya se encuentre pensionado, 
 
 Asimismo, el proceso de Traspaso se llevará a cabo de conformidad con las reglas generales emitidas por la Comisión y demás normativa que resulte aplicable.
 
-A efecto de dar cumplimiento con lo previsto en el artículo 74 de la Ley, las Administradoras deberán establecer en sus correspondientes manuales operativos las medidas de control interno que les permitan cerciorase que el proceso de Traspaso de las Cuentas Individuales se realiza con apego a la libre decisión y voluntad del trabajador.
+A efecto de dar cumplimiento con lo previsto en el artículo [74](../../lsar/markdown/articulo-74.md) de la Ley, las Administradoras deberán establecer en sus correspondientes manuales operativos las medidas de control interno que les permitan cerciorase que el proceso de Traspaso de las Cuentas Individuales se realiza con apego a la libre decisión y voluntad del trabajador.

@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 112
 
-Para los efectos del artículo 195 del [Código](articulo-1.md), el embargado podrá recuperar sus bienes, si realiza el pago del crédito fiscal total o parcialmente hasta un día antes de haberse rematado, enajenado o adjudicado los bienes.
+Para los efectos del artículo [195](../../cff/markdown/articulo-195.md) del [Código](articulo-1.md), el embargado podrá recuperar sus bienes, si realiza el pago del crédito fiscal total o parcialmente hasta un día antes de haberse rematado, enajenado o adjudicado los bienes.

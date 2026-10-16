@@ -19,6 +19,6 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 Las víctimas de delitos del fuero federal pueden tener acceso a los recursos del fondo para obtener la compensación subsidiaria cuando, además de los requisitos señalados en el [artículo anterior](articulo-78.md), cumplan con lo siguiente:
 
-I. Cuenten con resolución firme y no hayan podido obtener la reparación del daño por parte del sentenciado, en términos del artículo 66 de la Ley, o bien, cuente con la determinación del Ministerio Público o resolución firme de autoridad judicial en términos del artículo 67 de la Ley, y
+I. Cuenten con resolución firme y no hayan podido obtener la reparación del daño por parte del sentenciado, en términos del artículo [66](../../lgv/markdown/articulo-66.md) de la Ley, o bien, cuente con la determinación del Ministerio Público o resolución firme de autoridad judicial en términos del artículo [67](../../lgv/markdown/articulo-67.md) de la Ley, y
 
 II. Cuenten con el dictamen de la resolución de procedencia del Pleno de la Comisión Ejecutiva para la compensación subsidiaria.

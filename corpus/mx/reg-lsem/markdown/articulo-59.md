@@ -17,6 +17,6 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 59
 
-La indemnización a que se refiere el último párrafo del artículo 40-BIS de la Ley, se integrará por tres meses del último sueldo que hubiera disfrutado el miembro del [Personal de Carrera](articulo-2.md), el cual se calculará con base en el nivel equivalente en territorio nacional y de conformidad con los niveles salariales previstos en el manual de percepciones de los servidores públicos de la Administración Pública Federal del ejercicio fiscal que corresponda. Adicionalmente, se otorgará la compensación por años de servicio prevista en el artículo 54, segundo párrafo, de la Ley.
+La indemnización a que se refiere el último párrafo del artículo [40-BIS](../../lsem/markdown/articulo-40-BIS.md) de la Ley, se integrará por tres meses del último sueldo que hubiera disfrutado el miembro del [Personal de Carrera](articulo-2.md), el cual se calculará con base en el nivel equivalente en territorio nacional y de conformidad con los niveles salariales previstos en el manual de percepciones de los servidores públicos de la Administración Pública Federal del ejercicio fiscal que corresponda. Adicionalmente, se otorgará la compensación por años de servicio prevista en el artículo [54](../../lsem/markdown/articulo-54.md), segundo párrafo, de la Ley.
 
 Artículo reformado DOF 02-11-2018

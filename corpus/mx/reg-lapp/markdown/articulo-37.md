@@ -27,7 +27,7 @@ b) El registro en la [Cartera](articulo-11.md);
 
 c) La autorización de la [Comisión](articulo-11.md), y
 
-d) La resolución de la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados, o bien, la manifestación de la [Secretaría](articulo-11.md) de que venció el plazo de treinta días naturales sin que dicha Comisión hubiere emitido resolución alguna, en términos del artículo 24, párrafo sexto de la Ley.
+d) La resolución de la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados, o bien, la manifestación de la [Secretaría](articulo-11.md) de que venció el plazo de treinta días naturales sin que dicha Comisión hubiere emitido resolución alguna, en términos del artículo [24](../../lapp/markdown/articulo-24.md), párrafo sexto de la Ley.
 
 Lo dispuesto en el párrafo anterior no será aplicable para los proyectos de Asociación Público Privada que hayan sido aprobados por la Cámara de Diputados en el anexo correspondiente del Presupuesto de Egresos;
 

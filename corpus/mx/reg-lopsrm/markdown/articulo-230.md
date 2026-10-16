@@ -21,7 +21,7 @@ El reconocimiento de los trabajos extraordinarios no considerados en los alcance
 
 I. Se emita un dictamen por el titular del [Área responsable de la ejecución de los trabajos](articulo-2.md) en la dependencia o entidad, en el cual se fundamente y motive técnicamente la necesidad de su realización;
 
-II. Que los trabajos se incluyan en un contrato a base de precios unitarios y tiempo determinado, y III. Que la formalización del contrato se realice por adjudicación directa al contratista que realizó los trabajos originalmente pactados, sujeto a las formalidades previstas para los procedimientos de excepción que establecen los artículos 41, 42 y 43 de la [Ley](articulo-2.md).
+II. Que los trabajos se incluyan en un contrato a base de precios unitarios y tiempo determinado, y III. Que la formalización del contrato se realice por adjudicación directa al contratista que realizó los trabajos originalmente pactados, sujeto a las formalidades previstas para los procedimientos de excepción que establecen los artículos [41](../../lopsrm/markdown/articulo-41.md), [42](../../lopsrm/markdown/articulo-42.md) y [43](../../lopsrm/markdown/articulo-43.md) de la [Ley](articulo-2.md).
 
 El pago de los trabajos extraordinarios quedará sujeto a la disponibilidad presupuestaria del ejercicio fiscal de que se trate.
 

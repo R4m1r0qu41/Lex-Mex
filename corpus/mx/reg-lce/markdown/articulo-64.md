@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 64
 
-Para efectos del artículo 41 de la [Ley](articulo-1o.md), la [Secretaría](articulo-1o.md) tomará en cuenta:
+Para efectos del artículo [41](../../lce/markdown/articulo-41.md) de la [Ley](articulo-1o.md), la [Secretaría](articulo-1o.md) tomará en cuenta:
 
 I. Con respecto al volumen de las importaciones investigadas, si ha habido un aumento considerable de las mismas en términos absolutos o en relación con la producción nacional o el consumo interno del país. La Secretaría evaluará si las importaciones investigadas concurren al mercado nacional para atender los mismos mercados o a los mismos consumidores actuales o potenciales de los productores nacionales y si utilizan los mismos canales de distribución;
 

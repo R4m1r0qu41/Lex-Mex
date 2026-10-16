@@ -25,7 +25,7 @@ II. Las Unidades Sanitarias y Medios de Transporte Sanitarios ostentarán el emb
 
 Esta obligación no será exigible cuando las Unidades Sanitarias y Medios de Transporte Sanitarios tengan una superficie que haga imposible la colocación del emblema.
 
-Cuando la visibilidad sea escasa, el emblema podrá estar alumbrado o iluminado y ser de materiales que lo hagan reconocible por medios técnicos de detección, de conformidad con lo estipulado en el artículo 9 de la [Ley](articulo-2.md) y en el Anexo I del Primer Protocolo Adicional a los Convenios de Ginebra de 1949.
+Cuando la visibilidad sea escasa, el emblema podrá estar alumbrado o iluminado y ser de materiales que lo hagan reconocible por medios técnicos de detección, de conformidad con lo estipulado en el artículo [9](../../lupdecr/markdown/articulo-9.md) de la [Ley](articulo-2.md) y en el Anexo I del Primer Protocolo Adicional a los Convenios de Ginebra de 1949.
 
 Las Unidades Sanitarias y Medios de Transporte Sanitarios podrán utilizar, además las [Señales Distintivas](articulo-2.md).
 

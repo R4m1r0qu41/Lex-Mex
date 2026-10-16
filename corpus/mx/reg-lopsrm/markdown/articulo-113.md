@@ -23,7 +23,7 @@ I. Supervisar, vigilar, controlar y revisar la ejecución de los trabajos;
 
 II. Tomar las decisiones técnicas correspondientes y necesarias para la correcta ejecución de los trabajos, debiendo resolver oportunamente las consultas, aclaraciones, dudas o solicitudes de autorización que presente el supervisor o el superintendente, con relación al cumplimiento de los derechos y obligaciones derivadas del contrato;
 
-III. Vigilar, previo al inicio de los trabajos, que se cumplan con las condiciones previstas en los artículos 19 y 20 de la [Ley](articulo-2.md);
+III. Vigilar, previo al inicio de los trabajos, que se cumplan con las condiciones previstas en los artículos [19](../../lopsrm/markdown/articulo-19.md) y [20](../../lopsrm/markdown/articulo-20.md) de la [Ley](articulo-2.md);
 
 IV. Verificar la disponibilidad de los recursos presupuestales necesarios para la suscripción de cualquier convenio modificatorio que implique la erogación de recursos; V. Dar apertura a la [Bitácora](articulo-2.md) en términos de lo previsto por la fracción III del artículo [123](articulo-123.md) de este Reglamento, así como por medio de ella, emitir las instrucciones pertinentes y recibir las solicitudes que le formule el superintendente. Cuando la Bitácora se lleve por medios convencionales, ésta quedará bajo su resguardo;
 

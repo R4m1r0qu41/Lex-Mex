@@ -17,4 +17,4 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 126
 
-Quienes transfieran a terceros los inmuebles que hubieran sido contaminados por materiales peligrosos, deberán informarlo a quienes les transmitan la propiedad o posesión de dichos bienes, en los términos previstos en el segundo párrafo del artículo 71 de la [Ley](articulo-2.md); dicho informe se hará constar en el instrumento en el cual se formalice la transmisión.
+Quienes transfieran a terceros los inmuebles que hubieran sido contaminados por materiales peligrosos, deberán informarlo a quienes les transmitan la propiedad o posesión de dichos bienes, en los términos previstos en el segundo párrafo del artículo [71](../../lgpgir/markdown/articulo-71.md) de la [Ley](articulo-2.md); dicho informe se hará constar en el instrumento en el cual se formalice la transmisión.

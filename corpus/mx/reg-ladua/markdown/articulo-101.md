@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 101
 
-Se autoriza la importación de los menajes de casa a que se refiere el artículo 61, fracción VII de la [Ley](articulo-1.md), siempre que al Pedimento correspondiente se acompañe una declaración certificada por el consulado mexicano del lugar en donde residió la persona que pretenda importar el menaje de casa y que contenga:
+Se autoriza la importación de los menajes de casa a que se refiere el artículo [61](../../ladua/markdown/articulo-61.md), fracción VII de la [Ley](articulo-1.md), siempre que al Pedimento correspondiente se acompañe una declaración certificada por el consulado mexicano del lugar en donde residió la persona que pretenda importar el menaje de casa y que contenga:
 
 I. El nombre del importador;
 
@@ -31,7 +31,7 @@ V. La descripción y cantidad de los bienes que integran el menaje de casa, y
 
 VI. Manifestar bajo protesta de decir verdad los datos del Pedimento de importación del menaje de casa anterior.
 
-Tratándose del segundo o posteriores menajes de casa que quieran importar los residentes permanentes al amparo del artículo 61, fracción VII de la Ley, deberán solicitar la autorización correspondiente ante la Autoridad Aduanera, dentro del año siguiente en que hayan efectuado la primera importación de menaje de casa.
+Tratándose del segundo o posteriores menajes de casa que quieran importar los residentes permanentes al amparo del artículo [61](../../ladua/markdown/articulo-61.md), fracción VII de la Ley, deberán solicitar la autorización correspondiente ante la Autoridad Aduanera, dentro del año siguiente en que hayan efectuado la primera importación de menaje de casa.
 
 Cuando haya transcurrido más de un año de la importación del primer menaje de casa, se autorizará la importación del siguiente menaje de casa en términos del primer párrafo del presente artículo, debiendo observar lo dispuesto en el segundo párrafo tratándose de posteriores importaciones de menaje de casa que quieran realizar dentro del año siguiente a que se haya efectuado la citada importación.
 

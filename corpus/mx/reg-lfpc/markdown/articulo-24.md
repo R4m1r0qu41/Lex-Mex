@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 24
 
-Para efectos del primer párrafo del artículo 32 de la Ley, el proveedor podrá acreditar la veracidad de la información a través de documentación emitida por organismos nacionales o internacionales de probada capacidad científica y técnica, cuando no existan regulaciones específicas aplicables en el territorio nacional.
+Para efectos del primer párrafo del artículo [32](../../lfpc/markdown/articulo-32.md) de la Ley, el proveedor podrá acreditar la veracidad de la información a través de documentación emitida por organismos nacionales o internacionales de probada capacidad científica y técnica, cuando no existan regulaciones específicas aplicables en el territorio nacional.

@@ -17,4 +17,4 @@ source_sha256: bd9ba59ab5016fd7d8737d382113a20e450b188e586925c31a1ef7c2af3f0065
 
 # Artículo 6
 
-Las renuncias y protestas a que se refiere el artículo 17 de la Ley, deberá realizarlas el interesado por escrito.
+Las renuncias y protestas a que se refiere el artículo [17](../../lnac/markdown/articulo-17.md) de la Ley, deberá realizarlas el interesado por escrito.

@@ -17,7 +17,7 @@ source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 
 # Artículo 15
 
-La denuncia por escrito que se presente en relación con alguno de los supuestos previstos en los artículos 47, 124, 129 y 130 de la Ley, deberá contener:
+La denuncia por escrito que se presente en relación con alguno de los supuestos previstos en los artículos [47](../../lagra/markdown/articulo-47.md), [124](../../lagra/markdown/articulo-124.md), [129](../../lagra/markdown/articulo-129.md) y [130](../../lagra/markdown/articulo-130.md) de la Ley, deberá contener:
 
 I. Nombre y domicilio del denunciante;
 

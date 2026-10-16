@@ -17,6 +17,6 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 38
 
-Las personas que integren la rama técnico-administrativa podrán aspirar a ser parte de la rama diplomático-consular, mediante la participación en el concurso de ingreso a dicha rama, de acuerdo a lo establecido en los artículos 27-TER, 27-QUÁTER y 28 de la Ley, así como a la convocatoria correspondiente.
+Las personas que integren la rama técnico-administrativa podrán aspirar a ser parte de la rama diplomático-consular, mediante la participación en el concurso de ingreso a dicha rama, de acuerdo a lo establecido en los artículos [27-TER](../../lsem/markdown/articulo-27-TER.md), [27-QUÁTER](../../lsem/markdown/articulo-27-QUÁTER.md) y [28](../../lsem/markdown/articulo-28.md) de la Ley, así como a la convocatoria correspondiente.
 
 Artículo reformado DOF 02-11-2018

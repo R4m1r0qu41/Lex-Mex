@@ -17,6 +17,6 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 97
 
-En términos del artículo 75 de la Ley, para efectos del contrato de asociación público- privada, se considerarán como montos de la inversión que los particulares realizan para adquirir los inmuebles, bienes y derechos, los previstos precisamente en el propio contrato, sin que puedan trasladarse a la dependencia o entidad contratante costos adicionales o precios mayores cubiertos en alguna adquisición.
+En términos del artículo [75](../../lapp/markdown/articulo-75.md) de la Ley, para efectos del contrato de asociación público- privada, se considerarán como montos de la inversión que los particulares realizan para adquirir los inmuebles, bienes y derechos, los previstos precisamente en el propio contrato, sin que puedan trasladarse a la dependencia o entidad contratante costos adicionales o precios mayores cubiertos en alguna adquisición.
 
 Sección Tercera De la Expropiación

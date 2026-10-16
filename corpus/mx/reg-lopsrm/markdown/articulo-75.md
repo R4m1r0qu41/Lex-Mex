@@ -17,11 +17,11 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 75
 
-Cuando en las dependencias y entidades existan áreas que por sí mismas realicen contrataciones, la ubicación en los rangos de los montos máximos a que hace referencia el artículo 43 de la [Ley](articulo-2.md) se determinará en función del recurso total autorizado que la dependencia o entidad de que se trate asigne a cada área para la realización de obras y servicios.
+Cuando en las dependencias y entidades existan áreas que por sí mismas realicen contrataciones, la ubicación en los rangos de los montos máximos a que hace referencia el artículo [43](../../lopsrm/markdown/articulo-43.md) de la [Ley](articulo-2.md) se determinará en función del recurso total autorizado que la dependencia o entidad de que se trate asigne a cada área para la realización de obras y servicios.
 
-Para efectos del primer párrafo del artículo 43 de la Ley, se considerará que existe fraccionamiento de las operaciones cuando se presenten las siguientes circunstancias:
+Para efectos del primer párrafo del artículo [43](../../lopsrm/markdown/articulo-43.md) de la Ley, se considerará que existe fraccionamiento de las operaciones cuando se presenten las siguientes circunstancias:
 
-I. Todas estén fundadas en el artículo 43 de la Ley y la suma de sus importes superen el monto máximo indicado en el Presupuesto de Egresos de la Federación para cada procedimiento de excepción; II. Los trabajos objeto de las contrataciones se refieran a la misma obra o proyecto. Lo anterior no resultará aplicable en los casos en que el [Área responsable de la contratación](articulo-2.md), justifique técnicamente la conveniencia de contratar por especialidad;
+I. Todas estén fundadas en el artículo [43](../../lopsrm/markdown/articulo-43.md) de la Ley y la suma de sus importes superen el monto máximo indicado en el Presupuesto de Egresos de la Federación para cada procedimiento de excepción; II. Los trabajos objeto de las contrataciones se refieran a la misma obra o proyecto. Lo anterior no resultará aplicable en los casos en que el [Área responsable de la contratación](articulo-2.md), justifique técnicamente la conveniencia de contratar por especialidad;
 
 III. El Área responsable de la contratación o el [Área requirente](articulo-2.md) pudieron prever las contrataciones de las obras o servicios en un solo procedimiento, sin que se haya realizado de esta forma;
 

@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 31
 
-Para efectos del artículo 32 de la Ley, en relación con el primer párrafo del artículo 13 de la Ley, se entenderá por monitoreo, el análisis que realiza la Procuraduría a la información y publicidad dirigida a los consumidores y difundida por los proveedores en los diversos medios de comunicación, los cuales son de libre acceso y se encuentran al alcance de cualquier persona, ello con la finalidad de constatar el debido cumplimiento de la Ley.
+Para efectos del artículo [32](../../lfpc/markdown/articulo-32.md) de la Ley, en relación con el primer párrafo del artículo [13](../../lfpc/markdown/articulo-13.md) de la Ley, se entenderá por monitoreo, el análisis que realiza la Procuraduría a la información y publicidad dirigida a los consumidores y difundida por los proveedores en los diversos medios de comunicación, los cuales son de libre acceso y se encuentran al alcance de cualquier persona, ello con la finalidad de constatar el debido cumplimiento de la Ley.

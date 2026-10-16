@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 17
 
-Las Especificaciones Técnicas a que se refieren el artículo [11](articulo-11.md), fracción XXIII y el artículo 153, párrafo cuarto de la Ley, deben ser congruentes con los objetivos de la Secretaría en materia de Accesibilidad, Calidad, Confiabilidad, Continuidad, Eficiencia, Seguridad y Sostenibilidad del Sistema Eléctrico Nacional y de fomento del sector eléctrico nacional. La aprobación de dichas especificaciones por parte de la Secretaría se debe realizar en coordinación con la CNE.
+Las Especificaciones Técnicas a que se refieren el artículo [11](articulo-11.md), fracción XXIII y el artículo [153](../../lse/markdown/articulo-153.md), párrafo cuarto de la Ley, deben ser congruentes con los objetivos de la Secretaría en materia de Accesibilidad, Calidad, Confiabilidad, Continuidad, Eficiencia, Seguridad y Sostenibilidad del Sistema Eléctrico Nacional y de fomento del sector eléctrico nacional. La aprobación de dichas especificaciones por parte de la Secretaría se debe realizar en coordinación con la CNE.

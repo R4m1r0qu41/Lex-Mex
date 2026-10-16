@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 213
 
-Para efectos del artículo 135 de la Ley, en los actos de Vigilancia del Mercado, Verificación y Vigilancia, la Secretaría puede celebrar convenios de colaboración y coordinación con las Autoridades Normalizadoras o autoridades competentes para el uso de las aplicaciones informáticas.
+Para efectos del artículo [135](../../lic-calidad/markdown/articulo-135.md) de la Ley, en los actos de Vigilancia del Mercado, Verificación y Vigilancia, la Secretaría puede celebrar convenios de colaboración y coordinación con las Autoridades Normalizadoras o autoridades competentes para el uso de las aplicaciones informáticas.

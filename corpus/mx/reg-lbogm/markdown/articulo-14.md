@@ -17,7 +17,7 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 14
 
-La Secretaría que deba emitir el dictamen o la opinión, respecto de los permisos de liberación, incluyendo su importación, a que se refiere el artículo 32 de la Ley, tendrá los plazos siguientes para entregarlo a la Secretaría competente:
+La Secretaría que deba emitir el dictamen o la opinión, respecto de los permisos de liberación, incluyendo su importación, a que se refiere el artículo [32](../../lbogm/markdown/articulo-32.md) de la Ley, tendrá los plazos siguientes para entregarlo a la Secretaría competente:
 
 I. Para el caso de liberación experimental al ambiente, hasta ochenta días hábiles;
 

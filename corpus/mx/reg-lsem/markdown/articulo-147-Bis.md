@@ -19,7 +19,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 Una vez recibido el Informe de resultados de la investigación administrativa, en próxima sesión, la Subcomisión de Asuntos Disciplinarios procederá al análisis de los hechos y de la información recabada.
 
-En caso de determinar la existencia de irregularidades, calificará la gravedad de la conducta en términos de lo dispuesto en los artículos 58 y 58-BIS de la Ley y emitirá el Informe de presunta irregularidad, el cual deberá contener:
+En caso de determinar la existencia de irregularidades, calificará la gravedad de la conducta en términos de lo dispuesto en los artículos [58](../../lsem/markdown/articulo-58.md) y [58-BIS](../../lsem/markdown/articulo-58-BIS.md) de la Ley y emitirá el Informe de presunta irregularidad, el cual deberá contener:
 
 I. El nombre del servidor público señalado como presunto infractor, el lugar de adscripción y el rango que ostentaba en el momento de los hechos;
 

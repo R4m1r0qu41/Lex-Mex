@@ -21,6 +21,6 @@ Las actividades en materia de contraloría social deberán ir encaminadas a: I. 
 
 II. Vigilar y evaluar el adecuado y oportuno desarrollo de los programas y acciones de fomento que realicen las diferentes Dependencias y Entidades, y
 
-III. Procurar la rendición de cuentas de las Organizaciones que realicen [Actividades](articulo-2.md) previstas en el artículo 5 de la [Ley](articulo-2.md).
+III. Procurar la rendición de cuentas de las Organizaciones que realicen [Actividades](articulo-2.md) previstas en el artículo [5](../../lffaosc/markdown/articulo-5.md) de la [Ley](articulo-2.md).
 
 Las Organizaciones podrán formular ante la [Secretaría](articulo-2.md) las opiniones, recomendaciones o evaluaciones que resulten de las actividades que se mencionan en el presente artículo, sin que éstas tengan carácter vinculatorio alguno.

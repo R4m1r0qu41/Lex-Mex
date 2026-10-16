@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 128
 
-Las personas extranjeras que deseen permanecer en el territorio nacional a la conclusión de su encargo oficial o aquellos que gocen de inmunidad en términos del artículo 5 de la Ley, y que requieran realizar actividades remuneradas o de otra índole que ameriten una condición de estancia, deberán acudir a la Secretaría de Relaciones Exteriores para realizar las renuncias de inmunidad que correspondan.
+Las personas extranjeras que deseen permanecer en el territorio nacional a la conclusión de su encargo oficial o aquellos que gocen de inmunidad en términos del artículo [5](../../lmigra/markdown/articulo-5.md) de la Ley, y que requieran realizar actividades remuneradas o de otra índole que ameriten una condición de estancia, deberán acudir a la Secretaría de Relaciones Exteriores para realizar las renuncias de inmunidad que correspondan.
 
 La Secretaría de Relaciones Exteriores informará por escrito al Instituto sobre las renuncias que procedan, debiendo canalizar a las personas extranjeras con la autoridad migratoria a efecto de que inicien el trámite que les permita obtener una condición de estancia. Las personas extranjeras interesadas deben presentar pasaporte ordinario y demás requisitos aplicables. Las disposiciones de este artículo serán aplicables igualmente para el caso de sus cónyuges y dependientes económicos, cuyas solicitudes serán atendidas en el mismo trámite.
 

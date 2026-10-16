@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 175
 
-Las personas obligadas a efectuar retenciones en términos del artículo 96 de la [Ley](articulo-1.md), cuando paguen en función de cantidad de trabajo realizado y no de días laborados, podrán optar por efectuar la retención de acuerdo con lo establecido en dicho artículo o de acuerdo con el siguiente procedimiento:
+Las personas obligadas a efectuar retenciones en términos del artículo [96](../../lisr/markdown/articulo-96.md) de la [Ley](articulo-1.md), cuando paguen en función de cantidad de trabajo realizado y no de días laborados, podrán optar por efectuar la retención de acuerdo con lo establecido en dicho artículo o de acuerdo con el siguiente procedimiento:
 
 I. Considerarán el número de días efectivamente trabajados para realizar el trabajo determinado;
 

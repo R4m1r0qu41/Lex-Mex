@@ -25,7 +25,7 @@ II. Comprobante que acredite el pago del precio de las bases;
 
 III. La comprobación del otorgamiento de la garantía de seriedad establecida en las bases;
 
-IV. Declaración por escrito de que no se encuentra comprendido en alguno de los impedimentos que se establecen en el artículo 32 de la [Ley](articulo-1.md);
+IV. Declaración por escrito de que no se encuentra comprendido en alguno de los impedimentos que se establecen en el artículo [32](../../lfaebsp/markdown/articulo-32.md) de la [Ley](articulo-1.md);
 
 V. Tratándose de persona física:
 

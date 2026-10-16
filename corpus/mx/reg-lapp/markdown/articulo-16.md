@@ -17,6 +17,6 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 16
 
-La información que la [Secretaría](articulo-11.md) debe enviar a la Cámara de Diputados del Congreso de la Unión, en cumplimiento del párrafo segundo del artículo 14 de la Ley, se presentará en el proyecto de [Presupuesto de Egresos](articulo-11.md), incluyendo lo dispuesto en el artículo [33](articulo-33.md) de este Reglamento.
+La información que la [Secretaría](articulo-11.md) debe enviar a la Cámara de Diputados del Congreso de la Unión, en cumplimiento del párrafo segundo del artículo [14](../../lapp/markdown/articulo-14.md) de la Ley, se presentará en el proyecto de [Presupuesto de Egresos](articulo-11.md), incluyendo lo dispuesto en el artículo [33](articulo-33.md) de este Reglamento.
 
 Artículo reformado DOF 20-02-2017

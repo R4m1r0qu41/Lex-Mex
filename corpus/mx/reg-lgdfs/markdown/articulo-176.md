@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 176
 
-El Sistema Permanente de Evaluación y Alerta Temprana de la condición fitosanitaria de los Terrenos forestales y temporalmente forestales a que se refiere el artículo 112 de la [Ley](articulo-2.md), se compone, por lo menos, de los siguientes elementos:
+El Sistema Permanente de Evaluación y Alerta Temprana de la condición fitosanitaria de los Terrenos forestales y temporalmente forestales a que se refiere el artículo [112](../../lgdfs/markdown/articulo-112.md) de la [Ley](articulo-2.md), se compone, por lo menos, de los siguientes elementos:
 
 I. El conocimiento del riesgo de Plagas o Enfermedades forestales. Para efectos del párrafo anterior, la Comisión podrá generar mapas de riesgo de los principales agentes causales de daño de Plagas o Enfermedades sobre los Recursos forestales;
 

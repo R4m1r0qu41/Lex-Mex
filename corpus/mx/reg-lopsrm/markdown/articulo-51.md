@@ -17,9 +17,9 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 51
 
-Para los efectos de lo dispuesto en la fracción II del artículo 27 Bis de la [Ley](articulo-2.md), la Secretaría de la Función Pública emitirá una convocatoria en CompraNet, con la finalidad de que los interesados presenten solicitud con los requisitos establecidos en la Ley y participen en el proceso de selección para su registro en el padrón público de testigos sociales.
+Para los efectos de lo dispuesto en la fracción II del artículo [27 Bis](../../lopsrm/markdown/articulo-27-Bis.md) de la [Ley](articulo-2.md), la Secretaría de la Función Pública emitirá una convocatoria en CompraNet, con la finalidad de que los interesados presenten solicitud con los requisitos establecidos en la Ley y participen en el proceso de selección para su registro en el padrón público de testigos sociales.
 
-Los interesados acreditarán los requisitos mencionados en el párrafo anterior con la documentación que en el mismo orden en que se describe en la fracción III del artículo 27 Bis de la Ley, se indica a continuación:
+Los interesados acreditarán los requisitos mencionados en el párrafo anterior con la documentación que en el mismo orden en que se describe en la fracción III del artículo [27 Bis](../../lopsrm/markdown/articulo-27-Bis.md) de la Ley, se indica a continuación:
 
 I. Copia certificada del acta de nacimiento o carta de naturalización y, en el caso de extranjeros, el documento migratorio emitido conforme a la legislación aplicable;
 
@@ -35,7 +35,7 @@ VI. Las constancias que acrediten el contenido del currículo;
 
 VII. Las constancias de haber participado en los cursos de capacitación en materia de contrataciones públicas objeto de la Ley y los Tratados correspondientes, que imparta la Secretaría de la Función Pública por sí o a través de terceros que ésta determine, y
 
-VIII. Escrito en el que manifieste, bajo protesta de decir verdad, que se abstendrá de participar en contrataciones en las que pueda existir conflicto de intereses, en términos del inciso h) de la fracción III del artículo 27 Bis de la Ley. Las personas físicas o morales extranjeras deberán presentar la documentación a que se refieren las fracciones I y II de este artículo debidamente legalizada o apostillada, por parte de la autoridad competente en el país de que se trate, misma que tendrá que presentarse redactada en español o acompañada de la traducción correspondiente.
+VIII. Escrito en el que manifieste, bajo protesta de decir verdad, que se abstendrá de participar en contrataciones en las que pueda existir conflicto de intereses, en términos del inciso h) de la fracción III del artículo [27 Bis](../../lopsrm/markdown/articulo-27-Bis.md) de la Ley. Las personas físicas o morales extranjeras deberán presentar la documentación a que se refieren las fracciones I y II de este artículo debidamente legalizada o apostillada, por parte de la autoridad competente en el país de que se trate, misma que tendrá que presentarse redactada en español o acompañada de la traducción correspondiente.
 
 En el caso de personas morales las constancias, escritos y documentos a que se refieren las fracciones III a VIII de este artículo se presentarán respecto de las personas físicas que las representarán en su calidad de testigo social. Cuando las personas morales sustituyan a las personas físicas que actúen en su nombre, deberán informarlo inmediatamente a la Secretaría de la Función Pública, así como proponer a quienes las sustituirán, presentando la documentación a que alude este párrafo.
 

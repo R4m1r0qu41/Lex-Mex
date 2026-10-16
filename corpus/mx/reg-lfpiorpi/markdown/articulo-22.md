@@ -17,7 +17,7 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 22
 
-Serán considerados instrumentos de almacenamiento de valor monetario, para efectos del artículo 17, fracción II, inciso c), de la Ley, además de los establecidos en la referida fracción, los siguientes:
+Serán considerados instrumentos de almacenamiento de valor monetario, para efectos del artículo [17](../../lfpiorpi/markdown/articulo-17.md), fracción II, inciso c), de la Ley, además de los establecidos en la referida fracción, los siguientes:
 
 I. Los vales o cupones, sean estos impresos o electrónicos, que puedan ser utilizados o canjeados para la adquisición de bienes o servicios.
 

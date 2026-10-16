@@ -17,6 +17,6 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 136 Bis
 
-El apoyo económico complementario a la pensión por vejez del régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado establecido en el artículo 55- BIS de la Ley, es único e intransferible. Los Miembros del Servicio Exterior de carrera podrán recibir el apoyo económico complementario una vez que cumplan con los requisitos establecidos en la Ley y mediante el procedimiento que establezcan las Disposiciones Administrativas de Carácter General del Apoyo Económico Complementario emitidas por la Secretaría.
+El apoyo económico complementario a la pensión por vejez del régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado establecido en el artículo [55](../../lsem/markdown/articulo-55.md)- BIS de la Ley, es único e intransferible. Los Miembros del Servicio Exterior de carrera podrán recibir el apoyo económico complementario una vez que cumplan con los requisitos establecidos en la Ley y mediante el procedimiento que establezcan las Disposiciones Administrativas de Carácter General del Apoyo Económico Complementario emitidas por la Secretaría.
 
 Artículo adicionado DOF 02-11-2018

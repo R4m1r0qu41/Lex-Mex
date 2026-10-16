@@ -17,6 +17,6 @@ source_sha256: 70dc1863cee2a88911e43cefb51d1c2007e550a2a46f9e11d5569c1525667cfd
 
 # Artículo 6º
 
-Para los efectos del artículo 28 y demás relativos de la [Ley](articulo-2º.md), se entenderá por fedatario público, además del notario público competente, el que ejerza dicha función de conformidad con la legislación aplicable.
+Para los efectos del artículo [28](../../lagra/markdown/articulo-28.md) y demás relativos de la [Ley](articulo-2º.md), se entenderá por fedatario público, además del notario público competente, el que ejerza dicha función de conformidad con la legislación aplicable.
 
 La [Procuraduría](articulo-2º.md) promoverá la celebración de acuerdos con los gobiernos de las entidades federativas, a fin de que éstas provean lo necesario para garantizar que el fedatario público esté presente en la [Asamblea](articulo-2º.md) cuando conforme a la Ley así proceda.

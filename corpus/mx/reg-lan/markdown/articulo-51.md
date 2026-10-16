@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 51
 
-Las servidumbres a que se refiere el artículo 28, fracción III, de la "Ley" son las que se pueden establecer sobre propiedades particulares conforme al Código Civil de la entidad federativa en la que se encuentre el bien o predio sirviente.
+Las servidumbres a que se refiere el artículo [28](../../lan/markdown/articulo-28.md), fracción III, de la "Ley" son las que se pueden establecer sobre propiedades particulares conforme al Código Civil de la entidad federativa en la que se encuentre el bien o predio sirviente.
 
 "La Comisión" podrá requerir el establecimiento de servidumbres sobre terrenos particulares, en los términos de la legislación aplicable.
 

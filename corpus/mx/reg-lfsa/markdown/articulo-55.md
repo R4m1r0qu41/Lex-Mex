@@ -17,7 +17,7 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 55
 
-Para llevar a cabo la verificación en origen a que se refiere el artículo 40 de la [Ley](articulo-2.md), el consentimiento mutuo deberá constar por escrito, el cual establecerá, entre otras cosas, las condiciones mínimas para los Puntos de Verificación e Inspección para animales.
+Para llevar a cabo la verificación en origen a que se refiere el artículo [40](../../lfsa/markdown/articulo-40.md) de la [Ley](articulo-2.md), el consentimiento mutuo deberá constar por escrito, el cual establecerá, entre otras cosas, las condiciones mínimas para los Puntos de Verificación e Inspección para animales.
 
 Las condiciones mínimas a que se refiere el párrafo anterior deberán ser las siguientes:
 
@@ -41,4 +41,4 @@ f) Rampas de carga y descarga, y
 
 g) Oficina para el personal oficial con los servicios necesarios.
 
-Las especificaciones de las instalaciones, equipo y procedimientos para la verificación e inspección, serán conforme a lo establecido en los artículos 27, fracciones V y VI, 40 y 41 de la Ley, así como las disposiciones de sanidad animal que se emitan para otorgar el servicio de acuerdo a la especie a inspeccionar.
+Las especificaciones de las instalaciones, equipo y procedimientos para la verificación e inspección, serán conforme a lo establecido en los artículos [27](../../lfsa/markdown/articulo-27.md), fracciones V y VI, [40](../../lfsa/markdown/articulo-40.md) y [41](../../lfsa/markdown/articulo-41.md) de la Ley, así como las disposiciones de sanidad animal que se emitan para otorgar el servicio de acuerdo a la especie a inspeccionar.

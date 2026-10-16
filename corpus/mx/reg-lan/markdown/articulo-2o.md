@@ -41,7 +41,7 @@ XI. Descarga: la acción de verter, infiltrar, depositar o inyectar aguas residu
 
 XII. Humedales: las zonas de transición entre los sistemas acuáticos y terrestres que constituyen áreas de inundación temporal o permanente, sujetas o no a la influencia de mareas, como pantanos, ciénagas y marismas, cuyos límites los constituyen el tipo de vegetación hidrófila de presencia permanente o estacional; las áreas en donde el suelo es predominantemente hídrico; y las áreas lacustres o de suelos permanentemente húmedos, originadas por la descarga natural de acuíferos;
 
-XIII. Infraestructura hidráulica federal: las obras de infraestructura hidráulica a que se refiere la fracción VII, del artículo 113 de la "Ley", así como las demás obras, instalaciones, construcciones y, en general, los inmuebles que estén destinados a la prestación de servicios hidráulicos a cargo de la Federación;
+XIII. Infraestructura hidráulica federal: las obras de infraestructura hidráulica a que se refiere la fracción VII, del artículo [113](../../lan/markdown/articulo-113.md) de la "Ley", así como las demás obras, instalaciones, construcciones y, en general, los inmuebles que estén destinados a la prestación de servicios hidráulicos a cargo de la Federación;
 
 XIV. Lago o Laguna: el vaso de propiedad federal de formación natural que es alimentado por corriente superficial o aguas subterráneas o pluviales, independientemente que dé o no origen a otra corriente, así como el vaso de formación artificial que se origina por la construcción de una presa;
 
@@ -51,7 +51,7 @@ XVI. Uso agrícola: la utilización de agua nacional destinada a la actividad de
 
 XVII. Uso agroindustrial: la utilización de agua nacional para la actividad de transformación industrial de los productos agrícolas y pecuarios;
 
-XVIII. Uso doméstico: para efectos del artículo 3o., fracción XI de la "Ley", la utilización de agua nacional destinada al uso particular de las personas y del hogar, riego de sus jardines y de sus árboles de ornato, incluyendo el abrevadero de sus animales domésticos que no constituya una actividad lucrativa;
+XVIII. Uso doméstico: para efectos del artículo [3](../../lan/markdown/articulo-3.md)o., fracción XI de la "Ley", la utilización de agua nacional destinada al uso particular de las personas y del hogar, riego de sus jardines y de sus árboles de ornato, incluyendo el abrevadero de sus animales domésticos que no constituya una actividad lucrativa;
 
 XIX. Uso en acuacultura: la utilización de agua nacional destinada al cultivo, reproducción y desarrollo de cualquier especie de la fauna y flora acuáticas;
 

@@ -17,7 +17,7 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 31
 
-Los animales deberán estar sujetos a un programa permanente de medicina preventiva supervisado por un médico veterinario, recibiendo atención inmediata en caso de que enfermen o sufran alguna lesión. Son elementos a considerarse como mínimo en el programa de medicina preventiva ordenado por el segundo párrafo del artículo 21 de la [Ley](articulo-2.md), los siguientes:
+Los animales deberán estar sujetos a un programa permanente de medicina preventiva supervisado por un médico veterinario, recibiendo atención inmediata en caso de que enfermen o sufran alguna lesión. Son elementos a considerarse como mínimo en el programa de medicina preventiva ordenado por el segundo párrafo del artículo [21](../../lfsa/markdown/articulo-21.md) de la [Ley](articulo-2.md), los siguientes:
 
 I. La prescripción, dosificación y administración de biológicos, químicos o fármacos con fines preventivos o terapéuticos para uso en animales, deberá realizarse siempre por un médico veterinario;
 

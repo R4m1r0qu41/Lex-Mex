@@ -17,4 +17,4 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 187
 
-La Secretaría, a través del Instituto, coordinará la operación y funcionamiento de los grupos de protección a migrantes a los que alude el artículo 71 de la Ley, en los cuales podrán participar de manera conjunta, servidores públicos de los niveles federal, estatal y municipal, con las organizaciones de la sociedad civil o con los particulares que cubran el perfil humanitario y de asistencia que establezca el Instituto.
+La Secretaría, a través del Instituto, coordinará la operación y funcionamiento de los grupos de protección a migrantes a los que alude el artículo [71](../../lmigra/markdown/articulo-71.md) de la Ley, en los cuales podrán participar de manera conjunta, servidores públicos de los niveles federal, estatal y municipal, con las organizaciones de la sociedad civil o con los particulares que cubran el perfil humanitario y de asistencia que establezca el Instituto.

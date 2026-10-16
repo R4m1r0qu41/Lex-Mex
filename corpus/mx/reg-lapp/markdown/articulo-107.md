@@ -17,9 +17,9 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 107
 
-Además de los elementos señalados en el artículo 92 de la Ley, el contrato de asociación público-privada deberá contener los términos y condiciones relativos a los aspectos siguientes:
+Además de los elementos señalados en el artículo [92](../../lapp/markdown/articulo-92.md) de la Ley, el contrato de asociación público-privada deberá contener los términos y condiciones relativos a los aspectos siguientes:
 
-I. El otorgamiento de la autorización de la dependencia o entidad federal contratante para el comienzo de la prestación de los servicios, a que se refiere el artículo 107 de la Ley;
+I. El otorgamiento de la autorización de la dependencia o entidad federal contratante para el comienzo de la prestación de los servicios, a que se refiere el artículo [107](../../lapp/markdown/articulo-107.md) de la Ley;
 
 II. La determinación de:
 

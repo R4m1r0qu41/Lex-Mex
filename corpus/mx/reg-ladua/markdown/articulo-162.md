@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 162
 
-Para efectos de lo dispuesto en el artículo 106, fracción V, inciso b) de la [Ley](articulo-1.md), el propietario, cónyuge, ascendiente o descendiente, siempre que se trate de residentes permanentes en el extranjero podrán efectuar la importación temporal de casas rodantes, siempre que cumplan los siguientes requisitos: Párrafo reformado DOF 23-02-2026
+Para efectos de lo dispuesto en el artículo [106](../../ladua/markdown/articulo-106.md), fracción V, inciso b) de la [Ley](articulo-1.md), el propietario, cónyuge, ascendiente o descendiente, siempre que se trate de residentes permanentes en el extranjero podrán efectuar la importación temporal de casas rodantes, siempre que cumplan los siguientes requisitos: Párrafo reformado DOF 23-02-2026
 
 I. Presentar la forma oficial aprobada por el [SAT](articulo-1.md), ante la Autoridad Aduanera para efectuar el trámite de entrada al país de casas rodantes;
 

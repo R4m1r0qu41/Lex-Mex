@@ -17,6 +17,6 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 100
 
-Las adecuaciones presupuestarias no comprendidas en el artículo 59 de la [Ley](articulo-2.md) se considerarán adecuaciones internas.
+Las adecuaciones presupuestarias no comprendidas en el artículo [59](../../lfprh/markdown/articulo-59.md) de la [Ley](articulo-2.md) se considerarán adecuaciones internas.
 
 Las entidades informarán sus adecuaciones presupuestarias internas a la Secretaría, a través de los medios que ésta determine, a nivel de los rubros de la carátula de flujo de efectivo a partir del primer día hábil de enero y hasta el último día hábil de diciembre. Aquéllas correspondientes al mes de diciembre, se podrán informar a más tardar el último día hábil de enero del siguiente ejercicio fiscal.

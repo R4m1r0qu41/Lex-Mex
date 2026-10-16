@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 45
 
-Para los efectos del artículo 86, fracción I de la Ley, el recurso de reconsideración tiene por objeto revocar, modificar o confirmar, total o parcialmente y, en definitiva, el fallo o la determinación que declare desierto, total o parcialmente, el concurso o la invitación restringida.
+Para los efectos del artículo [86](../../lepecfe/markdown/articulo-86.md), fracción I de la Ley, el recurso de reconsideración tiene por objeto revocar, modificar o confirmar, total o parcialmente y, en definitiva, el fallo o la determinación que declare desierto, total o parcialmente, el concurso o la invitación restringida.

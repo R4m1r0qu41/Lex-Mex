@@ -17,10 +17,10 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 117
 
-El límite señalado en el artículo 118, fracción II, incisos b) y c), de la Ley se calculará con el resultado de sumar:
+El límite señalado en el artículo [118](../../lapp/markdown/articulo-118.md), fracción II, incisos b) y c), de la Ley se calculará con el resultado de sumar:
 
 I. El equivalente al veinte por ciento del costo de la infraestructura, considerado en la estimación de la [Inversión Inicial](articulo-11.md) pactada en el contrato, y
 
 II. La estimación de las contraprestaciones por los servicios durante el primer año de su prestación, conforme a lo pactado en el contrato.
 
-Para el segundo y posteriores años de vigencia del contrato, las estimaciones citadas en las fracciones de este artículo se ajustarán, anualmente, con el Índice Nacional de Precios al Consumidor o con el indicador que lo sustituya. Dentro de este límite no computarán las modificaciones realizadas de conformidad con las fracciones III y V del artículo 117 de la Ley.
+Para el segundo y posteriores años de vigencia del contrato, las estimaciones citadas en las fracciones de este artículo se ajustarán, anualmente, con el Índice Nacional de Precios al Consumidor o con el indicador que lo sustituya. Dentro de este límite no computarán las modificaciones realizadas de conformidad con las fracciones III y V del artículo [117](../../lapp/markdown/articulo-117.md) de la Ley.

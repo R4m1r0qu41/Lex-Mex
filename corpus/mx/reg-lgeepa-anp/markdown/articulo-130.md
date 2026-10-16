@@ -37,7 +37,7 @@ VIII. La existencia de mayor diferencial de gradiente altitudinal en el predio d
 
 IX. La presencia de endemismos;
 
-X. El plazo para el cual se destinó el predio voluntariamente a la conservación que sea por lo menos del doble de la vigencia mínima que establece el artículo 77 BIS, fracción I, inciso h), de la Ley;
+X. El plazo para el cual se destinó el predio voluntariamente a la conservación que sea por lo menos del doble de la vigencia mínima que establece el artículo [77 BIS](../../lgeepa/markdown/articulo-77-BIS.md), fracción I, inciso h), de la Ley;
 
 XI. La efectividad de las acciones de manejo, determinada en función del ecosistema a conservar, a partir de la comparación entre el estado de conservación del predio al momento de la certificación y el estado que la Comisión observe en el predio una vez transcurrido al menos la mitad del plazo de vigencia del certificado, o
 

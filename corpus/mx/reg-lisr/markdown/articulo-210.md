@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 210
 
-Para efectos del artículo 124, párrafo tercero de la [Ley](articulo-1.md), no se disminuirá el costo de adquisición en función de los años transcurridos, respecto de los siguientes bienes:
+Para efectos del artículo [124](../../lisr/markdown/articulo-124.md), párrafo tercero de la [Ley](articulo-1.md), no se disminuirá el costo de adquisición en función de los años transcurridos, respecto de los siguientes bienes:
 
 I. Las obras de arte;
 

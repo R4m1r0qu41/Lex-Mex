@@ -17,8 +17,8 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 164
 
-Transcurrido el plazo a que se refiere el artículo 53 de la [Ley](articulo-1o.md), la [Secretaría](articulo-1o.md) dará oportunidad a los solicitantes y, en su caso, a sus coadyuvantes, para que dentro de los ocho días siguientes presenten sus contra argumentaciones o réplicas.
+Transcurrido el plazo a que se refiere el artículo [53](../../lce/markdown/articulo-53.md) de la [Ley](articulo-1o.md), la [Secretaría](articulo-1o.md) dará oportunidad a los solicitantes y, en su caso, a sus coadyuvantes, para que dentro de los ocho días siguientes presenten sus contra argumentaciones o réplicas.
 
-A partir de la publicación en el Diario Oficial de la Federación de la resolución preliminar a que se refiere el artículo 57 de la Ley, la Secretaría otorgará un plazo de veinte días, para que las partes interesadas presenten las argumentaciones y pruebas complementarias que estimen pertinentes.
+A partir de la publicación en el Diario Oficial de la Federación de la resolución preliminar a que se refiere el artículo [57](../../lce/markdown/articulo-57.md) de la Ley, la Secretaría otorgará un plazo de veinte días, para que las partes interesadas presenten las argumentaciones y pruebas complementarias que estimen pertinentes.
 
 Artículo reformado DOF 22-05-2014

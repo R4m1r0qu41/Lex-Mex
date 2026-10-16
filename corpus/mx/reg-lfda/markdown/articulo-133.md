@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 133
 
-El [Instituto](articulo-2o.md) podrá revocar la autorización de operación de sociedad de oficio o a petición de parte, en los casos previstos en el artículo 194 de la [Ley](articulo-2o.md).
+El [Instituto](articulo-2o.md) podrá revocar la autorización de operación de sociedad de oficio o a petición de parte, en los casos previstos en el artículo [194](../../lfda/markdown/articulo-194.md) de la [Ley](articulo-2o.md).

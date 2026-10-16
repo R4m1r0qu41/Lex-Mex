@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 59
 
-Para los efectos del artículo 29, fracción IV, inciso c) de la Ley, se considera que son exportados los servicios de publicidad, en la proporción en que dichos servicios sean aprovechados en el extranjero.
+Para los efectos del artículo [29](../../liva/markdown/articulo-29.md), fracción IV, inciso c) de la Ley, se considera que son exportados los servicios de publicidad, en la proporción en que dichos servicios sean aprovechados en el extranjero.

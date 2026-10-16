@@ -19,4 +19,4 @@ source_sha256: 3ff22c0d4dda5724ded6314ddc83e072cab81433b14dd9c6056e67eb5f4f8dd1
 
 Las autoridades administrativas federales deberán informar al Registro, dentro de los diez días hábiles siguientes a aquel en que surtan efectos, sus resoluciones de embargo, aseguramiento, adjudicación, confiscación o decomiso de vehículos; observando para ello las modalidades y mecanismos de suministro de datos que señale el Secretariado Ejecutivo.
 
-El Secretariado Ejecutivo podrá convenir con las autoridades federales y judiciales los términos a los que se sujetarán para dar cumplimiento a la fracción VII del artículo 23 de la [Ley](articulo-2.md).
+El Secretariado Ejecutivo podrá convenir con las autoridades federales y judiciales los términos a los que se sujetarán para dar cumplimiento a la fracción VII del artículo [23](../../lrpv/markdown/articulo-23.md) de la [Ley](articulo-2.md).

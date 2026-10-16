@@ -27,7 +27,7 @@ III.- La cédula de causante;
 
 IV.- El tipo de bienes que constituyen el objeto de sus operaciones;
 
-V.- Los avisos a que se refiere el artículo 26 de la Ley;
+V.- Los avisos a que se refiere el artículo [26](../../lfmzaah/markdown/articulo-26.md) de la Ley;
 
 VI.- Las plazas en las que opere;
 

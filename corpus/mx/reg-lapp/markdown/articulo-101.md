@@ -37,4 +37,4 @@ a) Un ejemplar de la publicación en el Diario Oficial de la Federación del dec
 
 b) Los comprobantes de pago de la indemnización y, en su caso, la aceptación para recibir los pagos en especie, y
 
-c) Un ejemplar del acta circunstanciada sobre la ocupación que se realice en términos del artículo 81, fracción VI, de la Ley, suscrita por los servidores públicos que en ella intervengan.
+c) Un ejemplar del acta circunstanciada sobre la ocupación que se realice en términos del artículo [81](../../lapp/markdown/articulo-81.md), fracción VI, de la Ley, suscrita por los servidores públicos que en ella intervengan.

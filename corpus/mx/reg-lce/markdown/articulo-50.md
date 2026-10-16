@@ -17,6 +17,6 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 50
 
-Cuando el exportador y el importador estén vinculados por alguna de las formas a que alude el artículo [61](articulo-61.md) de este Reglamento o existan arreglos compensatorios entre ambos, el precio de exportación se podrá calcular conforme a lo dispuesto por el artículo 35 de la [Ley](articulo-1o.md). Párrafo reformado DOF 22-05-2014
+Cuando el exportador y el importador estén vinculados por alguna de las formas a que alude el artículo [61](articulo-61.md) de este Reglamento o existan arreglos compensatorios entre ambos, el precio de exportación se podrá calcular conforme a lo dispuesto por el artículo [35](../../lce/markdown/articulo-35.md) de la [Ley](articulo-1o.md). Párrafo reformado DOF 22-05-2014
 
 En este caso, se deberán deducir todos los gastos incurridos entre la exportación y la reventa, incluidos los pagos por impuestos y aranceles en el país importador, así como los márgenes de utilidad por importación y distribución.

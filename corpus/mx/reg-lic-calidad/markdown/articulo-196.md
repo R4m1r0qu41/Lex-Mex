@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 196
 
-Para los efectos del artículo 114 de la Ley, el procedimiento para la designación de una entidad pública como Instituto Designado de Metrología, debe contener al menos: I. El método de evaluación de la competencia técnica; II. Los términos y condiciones para la vigilancia, y III. Condiciones para la modificación, suspensión o cancelación.
+Para los efectos del artículo [114](../../lic-calidad/markdown/articulo-114.md) de la Ley, el procedimiento para la designación de una entidad pública como Instituto Designado de Metrología, debe contener al menos: I. El método de evaluación de la competencia técnica; II. Los términos y condiciones para la vigilancia, y III. Condiciones para la modificación, suspensión o cancelación.

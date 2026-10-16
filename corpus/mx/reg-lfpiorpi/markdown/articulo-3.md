@@ -21,7 +21,7 @@ La UIF, además de las atribuciones que le confiere este Reglamento, el Reglamen
 
 I. Interpretar para efectos administrativos la Ley, el presente Reglamento, las reglas de carácter general y demás disposiciones que de estos emanen, excepto por lo que se refiere a las atribuciones que correspondan a la Unidad; Fracción reformada DOF 27-03-2026
 
-II. Requerir a quienes realicen las Actividades Vulnerables a que se refiere el artículo 17 de la Ley, la información, documentación, datos o imágenes necesarios para el ejercicio de sus atribuciones;
+II. Requerir a quienes realicen las Actividades Vulnerables a que se refiere el artículo [17](../../lfpiorpi/markdown/articulo-17.md) de la Ley, la información, documentación, datos o imágenes necesarios para el ejercicio de sus atribuciones;
 
 III. Determinar y expedir los formatos oficiales para la presentación de los Avisos e Informes; Fracción reformada DOF 27-03-2026
 
@@ -29,10 +29,10 @@ III Bis. Emitir el formato y determinar el medio conforme a los cuales las autor
 
 IV. Determinar y dar a conocer los medios de cumplimiento alternativos a los que se refiere el artículo [16](articulo-16.md) del presente Reglamento; Fracción reformada DOF 27-03-2026
 
-IV bis. Establecer mediante acuerdos publicados en el Diario Oficial de la Federación las excepciones a las que se hace referencia en los artículos 18, último párrafo, y 23, segundo párrafo, de la Ley; Fracción adicionada DOF 27-03-2026
+IV bis. Establecer mediante acuerdos publicados en el Diario Oficial de la Federación las excepciones a las que se hace referencia en los artículos [18](../../lfpiorpi/markdown/articulo-18.md), último párrafo, y [23](../../lfpiorpi/markdown/articulo-23.md), segundo párrafo, de la Ley; Fracción adicionada DOF 27-03-2026
 
 V. Participar en la suscripción, en conjunto con el SAT, de los convenios a que se refiere el artículo [32](articulo-32.md) del presente Reglamento; REGLAMENTO DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA Fracción reformada DOF 27-03-2026
 
 VI. Promover entre las Entidades Federativas la implementación coordinada de unidades especializadas en la recepción y análisis de información patrimonial, conforme a sus facultades, y Fracción adicionada DOF 27-03-2026
 
-VII. Resguardar los Avisos e Informes que presentan quienes realicen las Actividades Vulnerables establecidas en el artículo 17 de la Ley, por conducto del SAT. Fracción adicionada DOF 27-03-2026
+VII. Resguardar los Avisos e Informes que presentan quienes realicen las Actividades Vulnerables establecidas en el artículo [17](../../lfpiorpi/markdown/articulo-17.md) de la Ley, por conducto del SAT. Fracción adicionada DOF 27-03-2026

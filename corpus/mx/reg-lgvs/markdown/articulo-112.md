@@ -19,7 +19,7 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 El aprovechamiento mediante la caza deportiva se podrá ejercer dentro de la temporalidad establecida en la autorización de aprovechamiento correspondiente.
 
-35 En los casos en que, con base en el artículo 94 de la [Ley](articulo-2.md), hayan sido publicadas épocas hábiles, éstas servirán únicamente como referencia a los responsables técnicos de las [UMA](articulo-2.md) para que ellos, a su vez, propongan las temporalidades más adecuadas en las UMA a su cargo, con base en los ciclos biológicos y estudios o muestreos de poblaciones de las especies de interés.
+35 En los casos en que, con base en el artículo [94](../../lgvs/markdown/articulo-94.md) de la [Ley](articulo-2.md), hayan sido publicadas épocas hábiles, éstas servirán únicamente como referencia a los responsables técnicos de las [UMA](articulo-2.md) para que ellos, a su vez, propongan las temporalidades más adecuadas en las UMA a su cargo, con base en los ciclos biológicos y estudios o muestreos de poblaciones de las especies de interés.
 
 Los responsables técnicos podrán proponer temporalidades distintas a las publicadas, justificándolas en el plan de manejo, de acuerdo con las características de la región.
 

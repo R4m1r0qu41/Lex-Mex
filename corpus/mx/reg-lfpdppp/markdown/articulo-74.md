@@ -17,6 +17,6 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 74
 
-Sin perjuicio de lo dispuesto en el artículo 37 de la Ley, las transferencias internacionales de datos personales serán posibles cuando el receptor de los datos personales asuma las mismas obligaciones que corresponden al responsable que transfirió los datos personales.
+Sin perjuicio de lo dispuesto en el artículo [37](../../lfpdppp/markdown/articulo-37.md) de la Ley, las transferencias internacionales de datos personales serán posibles cuando el receptor de los datos personales asuma las mismas obligaciones que corresponden al responsable que transfirió los datos personales.
 
 Formalización de las transferencias internacionales

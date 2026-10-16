@@ -17,4 +17,4 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 # Artículo 39
 
-Los datos de identificación de la opinión que se emita, deberán ingresarse en el [Registro Nacional](articulo-2.md) en términos del artículo 12, fracción VIII de la [Ley](articulo-2.md).
+Los datos de identificación de la opinión que se emita, deberán ingresarse en el [Registro Nacional](articulo-2.md) en términos del artículo [12](../../lfsp/markdown/articulo-12.md), fracción VIII de la [Ley](articulo-2.md).

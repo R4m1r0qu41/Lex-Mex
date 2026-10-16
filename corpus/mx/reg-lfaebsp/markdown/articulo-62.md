@@ -17,7 +17,7 @@ source_sha256: 9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3
 
 # Artículo 62
 
-Para la destrucción de bienes, el SAE o el tercero especializado encomendado para esos efectos, deberá integrar el expediente a que se refiere el artículo 72 de la [Ley](articulo-1.md) y sujetarse a las reglas siguientes:
+Para la destrucción de bienes, el SAE o el tercero especializado encomendado para esos efectos, deberá integrar el expediente a que se refiere el artículo [72](../../lfaebsp/markdown/articulo-72.md) de la [Ley](articulo-1.md) y sujetarse a las reglas siguientes:
 
 I. Verificar si el o los bienes son objeto de prueba de un procedimiento judicial o administrativo, caso en el cual no procederá la destrucción, y
 

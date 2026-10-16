@@ -17,6 +17,6 @@ source_sha256: 3c0720d560455df51ca882a37390cd0fe017d1987853b8358e37d5195f718055
 
 # Artículo 10
 
-El Consejo y las dependencias acordarán y desarrollarán los criterios técnicos, así como las políticas de respaldo de información y manuales operativos y de procedimientos que aseguren la consistencia, integridad y el carácter confidencial de la información, para la integración de la base de datos prevista en el artículo 20 de la Ley.
+El Consejo y las dependencias acordarán y desarrollarán los criterios técnicos, así como las políticas de respaldo de información y manuales operativos y de procedimientos que aseguren la consistencia, integridad y el carácter confidencial de la información, para la integración de la base de datos prevista en el artículo [20](../../lfcpq/markdown/articulo-20.md) de la Ley.
 
 Asimismo, las dependencias deberán ingresar electrónicamente la información a la base de datos y establecer los mecanismos necesarios para asegurar la actualización, autenticidad, inalterabilidad y seguridad de la información que proporcionen al Consejo.

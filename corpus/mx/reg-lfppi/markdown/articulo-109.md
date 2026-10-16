@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 109
 
-Cuando una marca, aviso o nombre comercial incluya una denominación de origen o indicación geográfica protegida, la persona solicitante deberá declarar que no se reserva el derecho a su uso exclusivo. El uso de una denominación de origen o indicación geográfica protegida se sujetará en todo caso a lo dispuesto por el artículo 268 de la Ley.
+Cuando una marca, aviso o nombre comercial incluya una denominación de origen o indicación geográfica protegida, la persona solicitante deberá declarar que no se reserva el derecho a su uso exclusivo. El uso de una denominación de origen o indicación geográfica protegida se sujetará en todo caso a lo dispuesto por el artículo [268](../../lfppi/markdown/articulo-268.md) de la Ley.

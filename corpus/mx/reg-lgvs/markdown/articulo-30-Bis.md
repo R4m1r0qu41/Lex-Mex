@@ -17,7 +17,7 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 30 Bis
 
-La Secretaría formulará los términos de referencia a que se refiere el artículo 47 Bis de la [Ley](articulo-2.md) que servirán de base para la elaboración de los estudios de población considerando las especies o grupos de especies, sus características biológicas, ecológicas y los tipos de ecosistema en donde se desarrollan dichas características, así como sus rangos de distribución y cualquier otro aspecto indispensable que permita identificar su estatus poblacional.
+La Secretaría formulará los términos de referencia a que se refiere el artículo [47 Bis](../../lgvs/markdown/articulo-47-Bis.md) de la [Ley](articulo-2.md) que servirán de base para la elaboración de los estudios de población considerando las especies o grupos de especies, sus características biológicas, ecológicas y los tipos de ecosistema en donde se desarrollan dichas características, así como sus rangos de distribución y cualquier otro aspecto indispensable que permita identificar su estatus poblacional.
 
 Los términos de referencia se difundirán en el portal electrónico de la Secretaría y contendrá los criterios específicos por especie o grupos de especies para facilitar al interesado la elaboración del estudio poblacional que corresponda.
 

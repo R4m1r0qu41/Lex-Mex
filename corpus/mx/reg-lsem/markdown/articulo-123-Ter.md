@@ -17,7 +17,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 123 Ter
 
-Para efectos de lo establecido en el artículo 50 de la Ley, la enfermedad o condición de salud grave que deba ser comprobada, será acreditada a través de certificado médico que establezca la enfermedad de la que se trata y el periodo que comprende la incapacidad para prestar sus funciones, así como la fecha probable en que el servidor público podrá reincorporarse a su trabajo.
+Para efectos de lo establecido en el artículo [50](../../lsem/markdown/articulo-50.md) de la Ley, la enfermedad o condición de salud grave que deba ser comprobada, será acreditada a través de certificado médico que establezca la enfermedad de la que se trata y el periodo que comprende la incapacidad para prestar sus funciones, así como la fecha probable en que el servidor público podrá reincorporarse a su trabajo.
 
 La Dirección General establecerá disposiciones administrativas respecto a las características de forma y criterios de valoración de dicho documento.
 

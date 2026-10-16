@@ -17,4 +17,4 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 98
 
-Cuando el Instituto advierta que una persona que pretende ingresar al territorio nacional se ubica en alguno de los supuestos previstos en los artículos 43 u 80 de la Ley, lo informará de inmediato a las autoridades competentes y se procederá a efectuar una segunda revisión en términos del artículo 87 de la Ley y 60 de este Reglamento.
+Cuando el Instituto advierta que una persona que pretende ingresar al territorio nacional se ubica en alguno de los supuestos previstos en los artículos [43](../../lmigra/markdown/articulo-43.md) u 80 de la Ley, lo informará de inmediato a las autoridades competentes y se procederá a efectuar una segunda revisión en términos del artículo 87 de la Ley y 60 de este Reglamento.

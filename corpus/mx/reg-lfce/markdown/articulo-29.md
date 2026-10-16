@@ -17,7 +17,7 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 29
 
-El escrito de denuncia a que se refiere el artículo 32 de la Ley, debe contener:
+El escrito de denuncia a que se refiere el artículo [32](../../lfce/markdown/articulo-32.md) de la Ley, debe contener:
 
 I. Nombre, denominación o razón social del denunciante;
 

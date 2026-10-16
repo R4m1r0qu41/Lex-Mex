@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 141
 
-Los estudios técnicos justificativos a que se refiere el artículo 93 de la [Ley](articulo-2.md), deberán contener, por lo menos, lo siguiente:
+Los estudios técnicos justificativos a que se refiere el artículo [93](../../lgdfs/markdown/articulo-93.md) de la [Ley](articulo-2.md), deberán contener, por lo menos, lo siguiente:
 
 I. Descripción del o los usos que se pretendan dar al terreno;
 

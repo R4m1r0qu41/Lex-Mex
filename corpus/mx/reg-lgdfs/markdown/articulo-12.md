@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 12
 
-El componente de gestión forestal contiene, a través de medios electrónicos, los mecanismos para la realización de los trámites y actos de autoridad previstos en los artículos 68 y 69 de la [Ley](articulo-2.md), así como los trámites que correspondan a la Comisión y a la [ASEA](articulo-2.md) en materia forestal. Párrafo reformado DOF 20-11-2025
+El componente de gestión forestal contiene, a través de medios electrónicos, los mecanismos para la realización de los trámites y actos de autoridad previstos en los artículos [68](../../lgdfs/markdown/articulo-68.md) y [69](../../lgdfs/markdown/articulo-69.md) de la [Ley](articulo-2.md), así como los trámites que correspondan a la Comisión y a la [ASEA](articulo-2.md) en materia forestal. Párrafo reformado DOF 20-11-2025
 
 La Secretaría proporcionará a la Comisión, para la incorporación en el componente de información forestal, lo siguiente:
 

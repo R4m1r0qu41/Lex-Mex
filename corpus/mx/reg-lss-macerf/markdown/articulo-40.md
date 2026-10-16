@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 40
 
-Para efectos de lo dispuesto en el artículo 76 de la Ley, la revisión de la fórmula para el cálculo de la prima se hará con base en los estudios actuariales que realice el Instituto dentro de los primeros nueve meses del año que corresponda, en los términos y condiciones que para el efecto determine el Consejo Técnico.
+Para efectos de lo dispuesto en el artículo [76](../../lss/markdown/articulo-76.md) de la Ley, la revisión de la fórmula para el cálculo de la prima se hará con base en los estudios actuariales que realice el Instituto dentro de los primeros nueve meses del año que corresponda, en los términos y condiciones que para el efecto determine el Consejo Técnico.

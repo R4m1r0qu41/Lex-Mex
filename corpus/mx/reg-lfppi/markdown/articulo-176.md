@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 176
 
-El importe de la multa a que se refiere el artículo 388, fracción I de la Ley, se calculará conforme a la Unidad de Medida y Actualización, en la fecha en que se comete la conducta de que se trate. En el caso de infracciones continuas, será el que corresponda al día en que el Instituto tuvo conocimiento de la infracción.
+El importe de la multa a que se refiere el artículo [388](../../lfppi/markdown/articulo-388.md), fracción I de la Ley, se calculará conforme a la Unidad de Medida y Actualización, en la fecha en que se comete la conducta de que se trate. En el caso de infracciones continuas, será el que corresponda al día en que el Instituto tuvo conocimiento de la infracción.

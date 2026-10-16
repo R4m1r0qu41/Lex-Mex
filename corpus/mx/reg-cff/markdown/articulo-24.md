@@ -19,7 +19,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 Para los efectos del artículo [22](articulo-22.md) de este Reglamento, los contribuyentes que a continuación se señalan realizarán su inscripción en los siguientes términos:
 
-I. La inscripción y cancelación en el registro federal de contribuyentes por fusión de sociedades se presentará por la sociedad que surja con motivo de la fusión, con lo cual dicha sociedad tendrá por cumplida la obligación de presentar el aviso de fusión a que se refiere el artículo 14- B, fracción I, inciso a) del [Código](articulo-1.md) y el aviso de cancelación en el registro federal de contribuyentes por cuenta de la o las sociedades fusionadas;
+I. La inscripción y cancelación en el registro federal de contribuyentes por fusión de sociedades se presentará por la sociedad que surja con motivo de la fusión, con lo cual dicha sociedad tendrá por cumplida la obligación de presentar el aviso de fusión a que se refiere el artículo [14](../../cff/markdown/articulo-14.md)- B, fracción I, inciso a) del [Código](articulo-1.md) y el aviso de cancelación en el registro federal de contribuyentes por cuenta de la o las sociedades fusionadas;
 
 II. La inscripción y cancelación en el registro federal de contribuyentes por escisión total de sociedades se presentará por la sociedad escindida designada en el acuerdo de escisión, debiendo proporcionar la clave del registro federal de contribuyentes de la sociedad escindente, quien estará relevada de presentar el aviso de cancelación.
 

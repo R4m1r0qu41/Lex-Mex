@@ -17,4 +17,4 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 44
 
-Los ascensos del [Personal de Carrera](articulo-2.md) en la rama diplomático-consular hasta ministro, a que se refiere el artículo 37 de la Ley, serán siempre al rango inmediato superior.
+Los ascensos del [Personal de Carrera](articulo-2.md) en la rama diplomático-consular hasta ministro, a que se refiere el artículo [37](../../lsem/markdown/articulo-37.md) de la Ley, serán siempre al rango inmediato superior.

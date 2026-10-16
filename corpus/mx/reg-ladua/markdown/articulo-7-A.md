@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 7-A
 
-Las personas que obtengan la autorización a que se refiere el artículo 16-A de la [Ley](articulo-1.md), deberán cumplir con lo siguiente:
+Las personas que obtengan la autorización a que se refiere el artículo [16-A](../../ladua/markdown/articulo-16-A.md) de la [Ley](articulo-1.md), deberán cumplir con lo siguiente:
 
 I. Prestar el servicio en forma ininterrumpida, en los términos señalados en la autorización;
 

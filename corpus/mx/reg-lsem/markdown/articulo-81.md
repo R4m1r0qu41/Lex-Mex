@@ -17,7 +17,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 81
 
-A los Jefes de las Oficinas Consulares, además de las funciones consignadas en el artículo 44 de la Ley, les corresponde:
+A los Jefes de las Oficinas Consulares, además de las funciones consignadas en el artículo [44](../../lsem/markdown/articulo-44.md) de la Ley, les corresponde:
 
 I. Expedir pasaportes de acuerdo con las disposiciones del Reglamento correspondiente y demás normas aplicables;
 

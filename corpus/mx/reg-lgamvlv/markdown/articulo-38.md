@@ -25,7 +25,7 @@ El informe a que se refiere el párrafo anterior deberá publicarse en las pági
 
 En caso de que el Titular del Poder Ejecutivo de la entidad federativa correspondiente considere aceptar las conclusiones contenidas en el informe del grupo de trabajo, tendrá un plazo de quince días hábiles contados a partir del día en que las recibió para informar a la Secretaría de Gobernación, a través de la Comisión Nacional, su aceptación.
 
-Transcurrido el plazo señalado en el párrafo anterior, sin que la Comisión Nacional reciba dicha aceptación, o en su caso, reciba la negativa del Titular del Poder Ejecutivo de la entidad federativa correspondiente, la Secretaría de Gobernación, por conducto de la Comisión Nacional, en términos del artículo 25 de la Ley, emitirá la declaratoria de alerta de violencia de género, en un plazo no mayor a cinco días naturales contados a partir del vencimiento del plazo referido en el párrafo anterior.
+Transcurrido el plazo señalado en el párrafo anterior, sin que la Comisión Nacional reciba dicha aceptación, o en su caso, reciba la negativa del Titular del Poder Ejecutivo de la entidad federativa correspondiente, la Secretaría de Gobernación, por conducto de la Comisión Nacional, en términos del artículo [25](../../lgamvlv/markdown/articulo-25.md) de la Ley, emitirá la declaratoria de alerta de violencia de género, en un plazo no mayor a cinco días naturales contados a partir del vencimiento del plazo referido en el párrafo anterior.
 
 Para efectos del párrafo cuarto de este artículo, la Secretaría de Gobernación, a través de la Comisión Nacional, solicitará al Titular del Poder Ejecutivo de la entidad de que se trate, en un plazo de seis meses siguientes a la aceptación, la información necesaria sobre las acciones que están llevando a cabo para implementar las propuestas contenidas en las conclusiones del informe del grupo de trabajo. Dicha información deberá remitirse dentro de los cinco días siguientes de haber recibido la solicitud.
 
@@ -33,6 +33,6 @@ Una vez recibida la información a que se refiere el párrafo anterior, el grupo
 
 La Comisión Nacional, en coordinación con la Secretaría Ejecutiva, notificará el dictamen del grupo de trabajo a que se refiere el párrafo anterior a la organización solicitante.
 
-En caso de que el grupo de trabajo considere que no se implementaron las propuestas contenidas en las conclusiones del informe, la Secretaría de Gobernación, por conducto de la Comisión Nacional, en términos del artículo 25 de la Ley, emitirá la declaratoria de alerta de violencia de género, en un plazo no mayor a diez días naturales contados a partir de la fecha en que se reciba la notificación del dictamen.
+En caso de que el grupo de trabajo considere que no se implementaron las propuestas contenidas en las conclusiones del informe, la Secretaría de Gobernación, por conducto de la Comisión Nacional, en términos del artículo [25](../../lgamvlv/markdown/articulo-25.md) de la Ley, emitirá la declaratoria de alerta de violencia de género, en un plazo no mayor a diez días naturales contados a partir de la fecha en que se reciba la notificación del dictamen.
 
 Artículo reformado DOF 25-11-2013

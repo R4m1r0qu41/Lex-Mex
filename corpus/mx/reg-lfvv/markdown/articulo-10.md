@@ -17,4 +17,4 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 10
 
-La Secretaría, dentro de los noventa días naturales siguientes a que la variedad vegetal pase a ser del dominio público, emitirá la declaratoria correspondiente, la cual deberá publicarse en el Diario Oficial de la Federación. La protección de los derechos a que se refiere el artículo 4o., fracción II, de la Ley se extinguirá aun cuando no se haya publicado la declaratoria respectiva.
+La Secretaría, dentro de los noventa días naturales siguientes a que la variedad vegetal pase a ser del dominio público, emitirá la declaratoria correspondiente, la cual deberá publicarse en el Diario Oficial de la Federación. La protección de los derechos a que se refiere el artículo [4](../../lfvv/markdown/articulo-4o.md)o., fracción II, de la Ley se extinguirá aun cuando no se haya publicado la declaratoria respectiva.

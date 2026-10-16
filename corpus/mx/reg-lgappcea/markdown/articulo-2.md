@@ -17,7 +17,7 @@ source_sha256: 066103556290f57dca17504bd178aeb645dff97b3a5e05bf4925e9353204e064
 
 # Artículo 2
 
-Para efectos del presente Reglamento, además de las definiciones previstas en el artículo 3 de la Ley, se entiende por:
+Para efectos del presente Reglamento, además de las definiciones previstas en el artículo [3](../../lgappcea/markdown/articulo-3.md) de la Ley, se entiende por:
 
 I. Diagnóstico: El proceso de carácter deductivo, mediante el cual los profesionales de la salud, con base en sus conocimientos, experiencia clínica y conforme a las categorías reconocidas por la comunidad científica, caracterizan el comportamiento de una Persona con la Condición del Espectro Autista, identifican trastornos comórbidos y otros trastornos evolutivos, a fin de establecer un plan de intervención apropiado para la atención de dicha persona, y
 

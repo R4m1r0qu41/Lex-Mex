@@ -17,4 +17,4 @@ source_sha256: 85d60fd8e0d0d2dac1758f672c5b2200ee6e501eecd8c635b0ac89a93d930b97
 
 # Artículo 193
 
-Solo podrán iniciarse los procedimientos de contratación, cuando se cuente con la documentación soporte completa y los requisitos que establece la Ley y el presente Reglamento. En el caso de la excepción señalado en el artículo 85 de la Ley, las Dependencias y Entidades deberán presentar a la Secretaría la justificación fundada y motivada para su procedencia, de lo contrario, se aplicará lo previsto en la fracción IV del artículo 109 de la Ley.
+Solo podrán iniciarse los procedimientos de contratación, cuando se cuente con la documentación soporte completa y los requisitos que establece la Ley y el presente Reglamento. En el caso de la excepción señalado en el artículo [85](../../lfiiedb/markdown/articulo-85.md) de la Ley, las Dependencias y Entidades deberán presentar a la Secretaría la justificación fundada y motivada para su procedencia, de lo contrario, se aplicará lo previsto en la fracción IV del artículo [109](../../lfiiedb/markdown/articulo-109.md) de la Ley.

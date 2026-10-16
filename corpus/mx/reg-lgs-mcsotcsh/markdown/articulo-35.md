@@ -17,4 +17,4 @@ source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 
 # Artículo 35
 
-Cuando por virtud de los avances de la ciencia al trasplante sea inútil o no se esté en el caso del artículo 321 de la Ley; la Secretaría podrá declararlo así al publicar esa resolución en la Gaceta Sanitaria, los bancos de órganos y tejidos y las instituciones hospitalarias deberán abstenerse de realizar operaciones en relación con el trasplante materia de la resolución.
+Cuando por virtud de los avances de la ciencia al trasplante sea inútil o no se esté en el caso del artículo [321](../../lgs/markdown/articulo-321.md) de la Ley; la Secretaría podrá declararlo así al publicar esa resolución en la Gaceta Sanitaria, los bancos de órganos y tejidos y las instituciones hospitalarias deberán abstenerse de realizar operaciones en relación con el trasplante materia de la resolución.

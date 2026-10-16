@@ -15,6 +15,6 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 # Artículo 595
 
-El remolque maniobra será obligatorio para todas las Embarcaciones que al efecto determine la [Dirección General](articulo-10.md) de acuerdo a las características de cada puerto, en los términos del artículo 59 de la [Ley](articulo-10.md). En casos excepcionales, la Dirección General, previa opinión de la [Capitanía de Puerto](articulo-10.md), podrá determinar las Embarcaciones que estarán exentas de utilizar el servicio de remolque, tomando en cuenta las posiciones de atraque, las características técnicas del buque y las condiciones meteorológicas prevalecientes en el momento de las maniobras.
+El remolque maniobra será obligatorio para todas las Embarcaciones que al efecto determine la [Dirección General](articulo-10.md) de acuerdo a las características de cada puerto, en los términos del artículo [59](../../lncm/markdown/articulo-59.md) de la [Ley](articulo-10.md). En casos excepcionales, la Dirección General, previa opinión de la [Capitanía de Puerto](articulo-10.md), podrá determinar las Embarcaciones que estarán exentas de utilizar el servicio de remolque, tomando en cuenta las posiciones de atraque, las características técnicas del buque y las condiciones meteorológicas prevalecientes en el momento de las maniobras.
 
 La Dirección General o la Capitanía de Puerto determinará en cada puerto, aquéllas que deberán utilizar el servicio de remolque, tomando en cuenta los criterios antes señalados.

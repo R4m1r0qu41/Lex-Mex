@@ -27,6 +27,6 @@ III. ANAM, la Agencia Nacional de Aduanas de México; Fracción adicionada DOF 2
 
 IV. Mandatario, mandatario aduanal o mandatario autorizado, indistintamente, es la persona física designada por un agente aduanal o agencia aduanal para promover y tramitar el despacho aduanero en representación de estos, autorizada por la Autoridad Aduanera en términos de la Ley y demás disposiciones jurídicas aplicables, teniéndose para todos los efectos jurídicos como mandatarios acreditados legalmente; Fracción adicionada DOF 23-02-2026
 
-V. Consejo Aduanero, el órgano colegiado a que se refiere el artículo 159 bis de la Ley, y Fracción adicionada DOF 23-02-2026
+V. Consejo Aduanero, el órgano colegiado a que se refiere el artículo [159 bis](../../ladua/markdown/articulo-159-bis.md) de la Ley, y Fracción adicionada DOF 23-02-2026
 
 VI. Sistema Electrónico Aduanero, los diferentes procesos que se llevan a cabo electrónicamente a través de la ventanilla digital mexicana de comercio exterior, el sistema automatizado aduanero integral y los demás sistemas electrónicos que la Autoridad Aduanera determine utilizar para ejercer sus facultades. Fracción recorrida DOF 23-02-2026

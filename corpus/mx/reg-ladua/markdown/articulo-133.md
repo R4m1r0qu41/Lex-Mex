@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 133
 
-Para efectos de lo dispuesto en el artículo 77, primer párrafo de la [Ley](articulo-1.md), si para determinar un valor reconstruido la Autoridad Aduanera utiliza información distinta de la proporcionada por el productor, deberá informar al importador, cuando éste lo solicite, la fuente de dicha información, los datos utilizados y los cálculos efectuados sobre la base de dichos datos, salvo que se trate de información de carácter estrictamente confidencial.
+Para efectos de lo dispuesto en el artículo [77](../../ladua/markdown/articulo-77.md), primer párrafo de la [Ley](articulo-1.md), si para determinar un valor reconstruido la Autoridad Aduanera utiliza información distinta de la proporcionada por el productor, deberá informar al importador, cuando éste lo solicite, la fuente de dicha información, los datos utilizados y los cálculos efectuados sobre la base de dichos datos, salvo que se trate de información de carácter estrictamente confidencial.

@@ -35,7 +35,7 @@ III. El visitante sin permiso para realizar actividades remuneradas, visitante c
 
 a) Sea ofendido, víctima o testigo de un delito cometido en el territorio nacional, cuando dicha circunstancia sea reconocida por la autoridad competente;
 
-b) Sea niña, niño o adolescente no acompañado, en términos del artículo 74 de la Ley;
+b) Sea niña, niño o adolescente no acompañado, en términos del artículo [74](../../lmigra/markdown/articulo-74.md) de la Ley;
 
 c) Sea solicitante de asilo político, solicitante de la condición de refugiado, o bien, requiera seguir un procedimiento de determinación de apátrida;
 

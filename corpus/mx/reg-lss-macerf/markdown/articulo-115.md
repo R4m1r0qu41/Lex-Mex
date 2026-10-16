@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 115
 
-Cuando en los términos del artículo 224 de la Ley, el Instituto autorice a los sujetos señalados en el mismo, una periodicidad diferente en el pago de las cuotas, serán aplicables las reglas siguientes:
+Cuando en los términos del artículo [224](../../lss/markdown/articulo-224.md) de la Ley, el Instituto autorice a los sujetos señalados en el mismo, una periodicidad diferente en el pago de las cuotas, serán aplicables las reglas siguientes:
 
 I. Al efectuarse la inscripción o la renovación anual del aseguramiento, se deberá pagar la primera parcialidad de las cuotas, y
 

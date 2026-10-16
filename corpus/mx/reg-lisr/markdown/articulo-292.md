@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 292
 
-Para efectos del artículo 166 de la [Ley](articulo-1.md), tratándose de la retención respecto de los ingresos provenientes de la enajenación de títulos de crédito a que se refiere dicho artículo, el aviso que presente el depositario para quedar liberado de la obligación de pagar el [Impuesto](articulo-1.md) deberá contener, además de los requisitos a que se refiere el artículo [31](../../cff/markdown/articulo-31.md) del Código Fiscal de la Federación, los siguientes:
+Para efectos del artículo [166](../../lisr/markdown/articulo-166.md) de la [Ley](articulo-1.md), tratándose de la retención respecto de los ingresos provenientes de la enajenación de títulos de crédito a que se refiere dicho artículo, el aviso que presente el depositario para quedar liberado de la obligación de pagar el [Impuesto](articulo-1.md) deberá contener, además de los requisitos a que se refiere el artículo [31](../../cff/markdown/articulo-31.md) del Código Fiscal de la Federación, los siguientes:
 
 I. Nombre y residencia fiscal de la persona física o moral que no proporcionó los recursos;
 

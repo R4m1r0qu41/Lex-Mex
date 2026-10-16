@@ -17,7 +17,7 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 53
 
-Al adquirir ejemplares, partes o derivados de la vida silvestre, los particulares deberán exigir la documentación que ampare la legal procedencia de los mismos al momento de adquirirlos y conservarla durante su posesión. Para los efectos del segundo párrafo del artículo 51 de la [Ley](articulo-2.md), la documentación deberá contener:
+Al adquirir ejemplares, partes o derivados de la vida silvestre, los particulares deberán exigir la documentación que ampare la legal procedencia de los mismos al momento de adquirirlos y conservarla durante su posesión. Para los efectos del segundo párrafo del artículo [51](../../lgvs/markdown/articulo-51.md) de la [Ley](articulo-2.md), la documentación deberá contener:
 
 I. El número de registro de la [UMA](articulo-2.md) de procedencia o el de la autorización de aprovechamiento, en caso de predios federales, de las entidades federativas o de los municipios;
 

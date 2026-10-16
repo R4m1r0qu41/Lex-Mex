@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 157
 
-Para efectos del artículo 93, fracción XXV de la [Ley](articulo-1.md), no se pagará el [Impuesto](articulo-1.md) por la totalidad de las indemnizaciones que se paguen por daños en los casos en que el bien de que se trate no pueda tener valor de mercado, o por daños que sufran las personas en su integridad corporal.
+Para efectos del artículo [93](../../lisr/markdown/articulo-93.md), fracción XXV de la [Ley](articulo-1.md), no se pagará el [Impuesto](articulo-1.md) por la totalidad de las indemnizaciones que se paguen por daños en los casos en que el bien de que se trate no pueda tener valor de mercado, o por daños que sufran las personas en su integridad corporal.

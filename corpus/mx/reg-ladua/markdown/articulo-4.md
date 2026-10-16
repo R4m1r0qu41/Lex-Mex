@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 4
 
-Para efectos del artículo 3o., segundo párrafo de la [Ley](articulo-1.md), cuando las autoridades distintas de las aduaneras pongan a disposición de las Autoridades Aduaneras Mercancías relacionadas con la probable comisión de infracciones a la Ley, a fin de ejercer las facultades de comprobación, éstas procederán a la recepción de las Mercancías, previa entrega de las mismas en el recinto fiscal.
+Para efectos del artículo [3](../../ladua/markdown/articulo-3o.md)o., segundo párrafo de la [Ley](articulo-1.md), cuando las autoridades distintas de las aduaneras pongan a disposición de las Autoridades Aduaneras Mercancías relacionadas con la probable comisión de infracciones a la Ley, a fin de ejercer las facultades de comprobación, éstas procederán a la recepción de las Mercancías, previa entrega de las mismas en el recinto fiscal.
 
 La recepción a que se refiere el párrafo anterior, deberá contener:
 

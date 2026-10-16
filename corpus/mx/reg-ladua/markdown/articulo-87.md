@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 87
 
-Para efectos del artículo 59, fracción IV de la [Ley](articulo-1.md), así como el artículo [19](../../lieps/markdown/articulo-19.md), fracción XI de la Ley del Impuesto Especial sobre Producción y Servicios, quienes requieran exportar las Mercancías de los sectores correspondientes deberán estar inscritos en el Padrón de Exportadores Sectorial, para lo cual deberán solicitar su inscripción, debiendo cumplir con los siguientes requisitos:
+Para efectos del artículo [59](../../ladua/markdown/articulo-59.md), fracción IV de la [Ley](articulo-1.md), así como el artículo [19](../../lieps/markdown/articulo-19.md), fracción XI de la Ley del Impuesto Especial sobre Producción y Servicios, quienes requieran exportar las Mercancías de los sectores correspondientes deberán estar inscritos en el Padrón de Exportadores Sectorial, para lo cual deberán solicitar su inscripción, debiendo cumplir con los siguientes requisitos:
 
 I. Estar inscrito y activo en el registro federal de contribuyentes;
 
@@ -27,7 +27,7 @@ III. Presentar la constancia de cumplimiento de las obligaciones fiscales, previ
 
 IV. Los demás requisitos establecidos en las Reglas que al efecto emita el [SAT](articulo-1.md).
 
-No será necesario inscribirse en el Padrón de Exportadores Sectorial cuando se trate de las Mercancías destinadas para exposición y venta en establecimientos de depósito fiscal a que se refiere el artículo 121, fracción I de la Ley.
+No será necesario inscribirse en el Padrón de Exportadores Sectorial cuando se trate de las Mercancías destinadas para exposición y venta en establecimientos de depósito fiscal a que se refiere el artículo [121](../../ladua/markdown/articulo-121.md), fracción I de la Ley.
 
 La Autoridad Aduanera resolverá la solicitud a que se refiere el primer párrafo de este artículo, en un plazo de diez días, contado a partir del día siguiente al de la recepción de la solicitud.
 

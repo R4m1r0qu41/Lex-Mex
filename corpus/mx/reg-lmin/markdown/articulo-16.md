@@ -29,7 +29,7 @@ IV. Nombre de los principales minerales o sustancias motivo de las obras y traba
 
 V. Coordenadas de ubicación del punto de partida. De dicho punto se expresarán las referencias aproximadas a lugares conocidos y centros de población de la zona, y se anotará la ruta de acceso desde el poblado más cercano;
 
-VI. Lados, rumbos y distancias horizontales y, en su caso, la línea o líneas auxiliares del punto de partida a dicho perímetro, en los términos del artículo 12 de la Ley;
+VI. Lados, rumbos y distancias horizontales y, en su caso, la línea o líneas auxiliares del punto de partida a dicho perímetro, en los términos del artículo [12](../../lmin/markdown/articulo-12.md) de la Ley;
 
 VII. Nombre del lote, número de título o expediente y superficie de los perímetros interiores, de lotes mineros preexistentes de ser el caso;
 

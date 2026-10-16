@@ -17,6 +17,6 @@ source_sha256: c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a
 
 # Artículo 21
 
-Para efectos del artículo 43 de la Ley, se reanudará el trámite de beneficio de pensión una vez que las personas interesadas presenten al Instituto la sentencia ejecutoriada que defina su situación.
+Para efectos del artículo [43](../../lissfam/markdown/articulo-43.md) de la Ley, se reanudará el trámite de beneficio de pensión una vez que las personas interesadas presenten al Instituto la sentencia ejecutoriada que defina su situación.
 
 Artículo reformado DOF 20-03-2026

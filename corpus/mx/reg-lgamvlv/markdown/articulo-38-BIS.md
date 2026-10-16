@@ -23,13 +23,13 @@ I. Las acciones preventivas, de seguridad y justicia para enfrentar y abatir la 
 
 II. Las asignaciones de recursos presupuestales necesarios para hacer frente a la contingencia de alerta de violencia de género, por parte de la entidad federativa;
 
-III. Las medidas que deberán implementarse para dar cumplimiento a la reparación del daño previsto en el artículo 26 de la Ley;
+III. Las medidas que deberán implementarse para dar cumplimiento a la reparación del daño previsto en el artículo [26](../../lgamvlv/markdown/articulo-26.md) de la Ley;
 
 IV. El territorio que abarcará las acciones y medidas a implementar, y
 
 V. El motivo de la alerta de violencia de género.
 
-Una vez emitida la declaratoria de alerta de violencia de género, el grupo de trabajo se constituirá en el grupo interinstitucional y multidisciplinario a que se refiere la fracción I del artículo 23 de la Ley.
+Una vez emitida la declaratoria de alerta de violencia de género, el grupo de trabajo se constituirá en el grupo interinstitucional y multidisciplinario a que se refiere la fracción I del artículo [23](../../lgamvlv/markdown/articulo-23.md) de la Ley.
 
 No procederá la investigación de hechos relacionados con solicitudes previamente presentadas que ya hubieran dado lugar a informes por parte del grupo de trabajo. Las solicitudes que se presenten por los mismos hechos se acumularán al expediente inicial para que la Secretaría Ejecutiva lo haga del conocimiento del grupo de trabajo.
 

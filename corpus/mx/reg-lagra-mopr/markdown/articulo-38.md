@@ -19,4 +19,4 @@ source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 
 En el caso de que se declare desierta la subasta y de manifestar su acuerdo el denunciado, la Secretaría podrá autorizar que el excedente se enajene gratuitamente a quien designe el ejidatario, de entre los sujetos que gozan del derecho de preferencia, ejidatarios o avecindados en ese orden, siempre y cuando el adquirente no fuere titular de otros derechos parcelarios.
 
-[La Secretaría](articulo-2o.md) vigilará que el adquirente no rebase los límites establecidos en el artículo 47 de la Ley.
+[La Secretaría](articulo-2o.md) vigilará que el adquirente no rebase los límites establecidos en el artículo [47](../../lagra/markdown/articulo-47.md) de la Ley.

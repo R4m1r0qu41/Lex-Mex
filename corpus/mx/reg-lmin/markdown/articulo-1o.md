@@ -59,7 +59,7 @@ XIX. Servicio Geológico: el Servicio Geológico Mexicano;
 
 XX. Sociedad minera: una sociedad con capacidad legal para ser titular de concesiones mineras;
 
-XXI. Trabajos periciales: los trabajos efectuados por un perito minero para determinar el lote minero a que debe referirse una solicitud de concesión o de asignación minera según las características señaladas en el artículo 12 de la Ley;
+XXI. Trabajos periciales: los trabajos efectuados por un perito minero para determinar el lote minero a que debe referirse una solicitud de concesión o de asignación minera según las características señaladas en el artículo [12](../../lmin/markdown/articulo-12.md) de la Ley;
 
 XXII. Unidad Administrativa: las Agencias y Subdirecciones de Minería;
 

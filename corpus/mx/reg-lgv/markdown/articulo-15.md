@@ -19,6 +19,6 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 La Comisión Ejecutiva, en coordinación con la Secretaría de Educación Pública, pondrá a disposición de las víctimas y de sus dependientes económicos, de manera transparente, oportuna, homogénea y con calidad, becas en instituciones educativas para cursar los tipos educativos de educación básica, media superior y superior, de conformidad con el Modelo Integral de Atención a Víctimas y las disposiciones aplicables.
 
-La Secretaría de Educación Pública, en coordinación con las instancias competentes, elaborará las bases para el programa de becas permanente de conformidad con los artículos 51 y 116 de la Ley.
+La Secretaría de Educación Pública, en coordinación con las instancias competentes, elaborará las bases para el programa de becas permanente de conformidad con los artículos [51](../../lgv/markdown/articulo-51.md) y [116](../../lgv/markdown/articulo-116.md) de la Ley.
 
 Para efectos de lo dispuesto en el presente artículo, la Secretaría de Educación Pública y la Comisión Ejecutiva podrán suscribir convenios de colaboración con instituciones educativas públicas y privadas.

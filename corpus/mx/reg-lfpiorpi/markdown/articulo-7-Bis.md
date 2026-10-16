@@ -17,6 +17,6 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 7 Bis
 
-El Aviso de las 24 horas a que se refiere el artículo 18, fracción VI, segundo párrafo de la Ley, se presentará aunque el acto u operación no se haya celebrado y sólo se cuente con los datos que identifiquen a la persona que intentó llevar a cabo el acto u operación como Cliente o Usuaria.
+El Aviso de las 24 horas a que se refiere el artículo [18](../../lfpiorpi/markdown/articulo-18.md), fracción VI, segundo párrafo de la Ley, se presentará aunque el acto u operación no se haya celebrado y sólo se cuente con los datos que identifiquen a la persona que intentó llevar a cabo el acto u operación como Cliente o Usuaria.
 
 Artículo adicionado DOF 27-03-2026

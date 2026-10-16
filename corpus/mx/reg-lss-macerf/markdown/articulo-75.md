@@ -17,7 +17,7 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 75
 
-La incorporación voluntaria de los sujetos de aseguramiento, a que se refiere el artículo 13 de la Ley, podrá ser en forma individual o colectiva.
+La incorporación voluntaria de los sujetos de aseguramiento, a que se refiere el artículo [13](../../lss/markdown/articulo-13.md) de la Ley, podrá ser en forma individual o colectiva.
 
 La colectiva en favor de terceros, sólo podrá realizarse por una persona moral legalmente constituida con los que mantenga un interés jurídico. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN La incorporación a que se hace referencia en los párrafos anteriores se hará a solicitud expresa de los interesados, en los términos siguientes:
 

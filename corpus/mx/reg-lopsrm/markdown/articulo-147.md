@@ -21,7 +21,7 @@ En todos los casos de suspensión de los trabajos la dependencia o entidad deber
 
 I. El lugar, fecha y hora en que se levanta el acta;
 
-II. El nombre y firma del residente y del superintendente, así como del servidor público autorizado para ordenar la suspensión en los términos del artículo 60 de la [Ley](articulo-2.md);
+II. El nombre y firma del residente y del superintendente, así como del servidor público autorizado para ordenar la suspensión en los términos del artículo [60](../../lopsrm/markdown/articulo-60.md) de la [Ley](articulo-2.md);
 
 III. Los datos de identificación de los trabajos que se suspenderán. Si la suspensión es parcial sólo se identificará la parte correspondiente y las medidas que habrán de tomarse para su reanudación;
 

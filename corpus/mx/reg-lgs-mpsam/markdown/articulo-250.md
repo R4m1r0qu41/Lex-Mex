@@ -17,4 +17,4 @@ source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 
 # Artículo 250
 
-Las infracciones al presente Reglamento no previstas en este capítulo serán sancionadas con multa hasta por quinientas veces el salario mínimo general diario, vigente en la zona económica de que se trate, atendiendo las reglas de calificación que se establecen en el artículo 418 de la Ley.
+Las infracciones al presente Reglamento no previstas en este capítulo serán sancionadas con multa hasta por quinientas veces el salario mínimo general diario, vigente en la zona económica de que se trate, atendiendo las reglas de calificación que se establecen en el artículo [418](../../lgs/markdown/articulo-418.md) de la Ley.

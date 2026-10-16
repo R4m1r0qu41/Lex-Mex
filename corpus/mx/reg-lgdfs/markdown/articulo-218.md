@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 218
 
-Los estudios técnicos a que se refiere el artículo 132 de la [Ley](articulo-2.md), deberán contener por lo menos la información siguiente:
+Los estudios técnicos a que se refiere el artículo [132](../../lgdfs/markdown/articulo-132.md) de la [Ley](articulo-2.md), deberán contener por lo menos la información siguiente:
 
 I. Índice o contenido;
 

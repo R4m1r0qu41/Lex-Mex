@@ -23,7 +23,7 @@ I. La descripción de cada uno de los proyectos de Asociación Público Privada 
 
 II. Los montos asignados para la etapa de preparación de los proyectos de Asociación Público Privada; III. Los proyectos autorizados por la [Comisión](articulo-11.md) durante el periodo que se reporta y aquellos en proceso de revisión por la Secretaría en términos del artículo [36](articulo-36.md) de este Reglamento, incluyendo su descripción, monto total de inversión y Dependencia o [Entidad Federal](articulo-11.md) contratante, y
 
-IV. Las propuestas no solicitadas que las Dependencias y Entidades Federales hayan recibido durante el período que se reporta, y que éstas cumplen con los requisitos previstos en el artículo 27 de la Ley.
+IV. Las propuestas no solicitadas que las Dependencias y Entidades Federales hayan recibido durante el período que se reporta, y que éstas cumplen con los requisitos previstos en el artículo [27](../../lapp/markdown/articulo-27.md) de la Ley.
 
 La información a que se refiere este artículo se integrará con base en los registros ingresados en CompraNet, y demás elementos que las Dependencias y Entidades Federales remitan, en la cual no se podrá incluir información de naturaleza reservada o confidencial en términos de la Ley Federal de Transparencia y Acceso a la Información Pública y demás disposiciones jurídicas aplicables.
 

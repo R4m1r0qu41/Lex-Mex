@@ -19,7 +19,7 @@ source_sha256: fa76340e597a2214f73b039f2a89465f9c1037f7d1630a852689124478621873
 
 Cuando el nombramiento del titular de una entidad paraestatal corresponda al Ejecutivo Federal o a sus dependencias, la persona en quien recaiga dicho nombramiento, deberá:
 
-I. Reunir los requisitos a que se refieren las fracciones I y III del artículo 21 de la [Ley](articulo-2o.md);
+I. Reunir los requisitos a que se refieren las fracciones I y III del artículo [21](../../lfep/markdown/articulo-21.md) de la [Ley](articulo-2o.md);
 
 II. Tener una experiencia no menor de 5 años en el desempeño de cargos de alto nivel decisorio;
 

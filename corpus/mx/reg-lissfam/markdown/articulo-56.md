@@ -21,4 +21,4 @@ En caso de cancelación de hipoteca por incapacidad total y permanente de la per
 
 Para los casos de créditos hipotecarios otorgados en términos del artículo [51 Bis](articulo-51-Bis.md) del presente Reglamento, el seguro a que se refiere el primer párrafo únicamente aplicará respecto de la persona militar que se coloque en alguno de los supuestos señalados en dicho párrafo. Párrafo adicionado DOF 11-10-2018. Reformado DOF 20-03-2026
 
-Para hacer válido el seguro en los casos de incapacidad, deberá acreditarse mediante el certificado médico de incapacidad que se prevé en el artículo 111, párrafo segundo de la Ley, que la incapacidad ocurrió con fecha posterior a la firma de la escritura pública.
+Para hacer válido el seguro en los casos de incapacidad, deberá acreditarse mediante el certificado médico de incapacidad que se prevé en el artículo [111](../../lissfam/markdown/articulo-111.md), párrafo segundo de la Ley, que la incapacidad ocurrió con fecha posterior a la firma de la escritura pública.

@@ -31,7 +31,7 @@ La solicitud amparará terreno legalmente siempre que se presente el comprobante
 
 I. Si contiene los requisitos completos y se acompañan los documentos citados, hará constar en la solicitud que fue admitida para estudio y trámite y extenderá el certificado credencial al solicitante con vigencia de sesenta días hábiles, para que el perito minero ejecute los trabajos periciales en el terreno de ubicación del lote.
 
-Dicho certificado contendrá el apercibimiento de que la persona que impida u obstaculice la ejecución de los trabajos periciales, sin que cuente con derechos en materia minera sobre el lote objeto de la solicitud, será sancionada de acuerdo con lo establecido por el artículo 57, fracción II de la Ley;
+Dicho certificado contendrá el apercibimiento de que la persona que impida u obstaculice la ejecución de los trabajos periciales, sin que cuente con derechos en materia minera sobre el lote objeto de la solicitud, será sancionada de acuerdo con lo establecido por el artículo [57](../../lmin/markdown/articulo-57.md), fracción II de la Ley;
 
 II. Si del estudio de la solicitud la unidad administrativa concluye que a la misma le falta algún requisito que impida su tramitación, prevendrá por escrito al interesado en los términos señalados al efecto por la Ley Federal de Procedimiento Administrativo. De no desahogarse la prevención notificará al solicitante que se desechará su trámite;
 

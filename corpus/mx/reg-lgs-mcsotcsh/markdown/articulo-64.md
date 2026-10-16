@@ -17,4 +17,4 @@ source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 
 # Artículo 64
 
-Para el caso de que los cadáveres vayan a permanecer sin inhumarse o incinerarse, por más tiempo del señalado en el artículo 339 de la Ley, deberán conservarse de conformidad con los procedimientos a que se refiere el siguiente artículo.
+Para el caso de que los cadáveres vayan a permanecer sin inhumarse o incinerarse, por más tiempo del señalado en el artículo [339](../../lgs/markdown/articulo-339.md) de la Ley, deberán conservarse de conformidad con los procedimientos a que se refiere el siguiente artículo.

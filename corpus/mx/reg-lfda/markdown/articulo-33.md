@@ -17,4 +17,4 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 33
 
-La inscripción en el [Registro](articulo-2o.md) de una obra que contenga el retrato o fotografía de una persona, no implica la autorización que para su uso o explotación exige el artículo 87 de la [Ley](articulo-2o.md).
+La inscripción en el [Registro](articulo-2o.md) de una obra que contenga el retrato o fotografía de una persona, no implica la autorización que para su uso o explotación exige el artículo [87](../../lfda/markdown/articulo-87.md) de la [Ley](articulo-2o.md).

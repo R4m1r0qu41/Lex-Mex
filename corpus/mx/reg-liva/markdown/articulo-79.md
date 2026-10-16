@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 79
 
-Para los efectos del artículo 39 de la Ley, las cantidades acreditables que deben comprobarse en los términos de dicho artículo, serán las que correspondan a los meses en que el valor de los actos o actividades se determine presuntivamente, y siempre que la documentación en que consten éstas reúna los requisitos que establece la Ley, el Código Fiscal de la Federación y su Reglamento.
+Para los efectos del artículo [39](../../liva/markdown/articulo-39.md) de la Ley, las cantidades acreditables que deben comprobarse en los términos de dicho artículo, serán las que correspondan a los meses en que el valor de los actos o actividades se determine presuntivamente, y siempre que la documentación en que consten éstas reúna los requisitos que establece la Ley, el Código Fiscal de la Federación y su Reglamento.

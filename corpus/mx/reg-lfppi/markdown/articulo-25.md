@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 25
 
-Las notificaciones efectuadas a través de la Gaceta surtirán efectos en la fecha que en la propia Gaceta lo indique o, en caso de no indicarse, al día hábil siguiente de aquél en que ésta se ponga en circulación, en términos del artículo 18 de la Ley.
+Las notificaciones efectuadas a través de la Gaceta surtirán efectos en la fecha que en la propia Gaceta lo indique o, en caso de no indicarse, al día hábil siguiente de aquél en que ésta se ponga en circulación, en términos del artículo [18](../../lfppi/markdown/articulo-18.md) de la Ley.

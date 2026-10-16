@@ -16,6 +16,36 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:1:reference:192-193:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:1",
+    "source_span": "5",
+    "start_char": 192,
+    "end_char": 193,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:5",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:10:reference:149-151:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:10",
+    "source_span": "11",
+    "start_char": 149,
+    "end_char": 151,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:11",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liernie:article:10:reference:213-230:9:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:10",
     "source_span": "artículo anterior",
@@ -28,6 +58,21 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:12:reference:44-46:13:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:12",
+    "source_span": "13",
+    "start_char": 44,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:13",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -46,6 +91,50 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:2:reference:59-60:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:2",
+    "source_span": "7",
+    "start_char": 59,
+    "end_char": 60,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:7",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 33,
+        "end_char": 45
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:20:reference:133-135:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:20",
+    "source_span": "16",
+    "start_char": 133,
+    "end_char": 135,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 104,
+        "end_char": 119
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liernie:article:20:reference:292-294:14:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:20",
     "source_span": "14",
@@ -53,6 +142,66 @@
     "end_char": 294,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-liernie",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:14",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:21:reference:147-149:17:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:21",
+    "source_span": "17",
+    "start_char": 147,
+    "end_char": 149,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:17",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:22:reference:44-46:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:22",
+    "source_span": "19",
+    "start_char": 44,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:23:reference:44-46:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:23",
+    "source_span": "20",
+    "start_char": 44,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:20",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:25:reference:175-177:22:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:25",
+    "source_span": "22",
+    "start_char": 175,
+    "end_char": 177,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:22",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -267,6 +416,51 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:3:reference:57-58:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:3",
+    "source_span": "9",
+    "start_char": 57,
+    "end_char": 58,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:9",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:3:reference:658-659:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:3",
+    "source_span": "9",
+    "start_char": 658,
+    "end_char": 659,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:9",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:31:reference:327-329:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:31",
+    "source_span": "32",
+    "start_char": 327,
+    "end_char": 329,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:32",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liernie:article:35:reference:67-84:34:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:35",
     "source_span": "artículo anterior",
@@ -304,6 +498,66 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:4:reference:143-145:10:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:4",
+    "source_span": "10",
+    "start_char": 143,
+    "end_char": 145,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:10",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:4:reference:149-151:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:4",
+    "source_span": "11",
+    "start_char": 149,
+    "end_char": 151,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:11",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:4:reference:153-155:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:4",
+    "source_span": "15",
+    "start_char": 153,
+    "end_char": 155,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:15",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:4:reference:158-160:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:4",
+    "source_span": "16",
+    "start_char": 158,
+    "end_char": 160,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:16",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liernie:article:4:reference:369-371:17:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:4",
     "source_span": "17",
@@ -319,6 +573,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:4:reference:588-590:10:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:4",
+    "source_span": "10",
+    "start_char": 588,
+    "end_char": 590,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:10",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 559,
+        "end_char": 574
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liernie:article:4:reference:829-830:8:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:4",
     "source_span": "8",
@@ -327,6 +603,34 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-liernie",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:8",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:4:reference:1045-1047:10:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:4",
+    "source_span": "10",
+    "start_char": 1045,
+    "end_char": 1047,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:10",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 1017,
+        "end_char": 1031
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 1277,
+        "end_char": 1287
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -356,6 +660,78 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:40:reference:285-287:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:40",
+    "source_span": "32",
+    "start_char": 285,
+    "end_char": 287,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:32",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y II",
+        "start_char": 254,
+        "end_char": 271
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:42:reference:211-213:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:42",
+    "source_span": "32",
+    "start_char": 211,
+    "end_char": 213,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:32",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 185,
+        "end_char": 197
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:43:reference:65-67:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:43",
+    "source_span": "32",
+    "start_char": 65,
+    "end_char": 67,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:32",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y II",
+        "start_char": 34,
+        "end_char": 51
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 306,
+        "end_char": 318
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liernie:article:43:reference:332-334:38:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:43",
     "source_span": "38",
@@ -369,6 +745,34 @@
         "text": "fracción III",
         "start_char": 306,
         "end_char": 318
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:44:reference:44-46:34:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:44",
+    "source_span": "34",
+    "start_char": 44,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:34",
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b",
+        "start_char": 288,
+        "end_char": 296
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 304,
+        "end_char": 316
       }
     ],
     "basis": "express_cross_reference",
@@ -422,6 +826,36 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:44:reference:1182-1184:34:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:44",
+    "source_span": "34",
+    "start_char": 1182,
+    "end_char": 1184,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:34",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:49:reference:549-551:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:49",
+    "source_span": "32",
+    "start_char": 549,
+    "end_char": 551,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:32",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liernie:article:49:reference:704-706:38:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:49",
     "source_span": "38",
@@ -452,6 +886,65 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:7:reference:46-48:10:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:7",
+    "source_span": "10",
+    "start_char": 46,
+    "end_char": 48,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:10",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 50,
+        "end_char": 60
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:7:reference:63-65:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:7",
+    "source_span": "16",
+    "start_char": 63,
+    "end_char": 65,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 66,
+        "end_char": 80
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:8:reference:47-49:10:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:8",
+    "source_span": "10",
+    "start_char": 47,
+    "end_char": 49,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:10",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liernie:article:8:reference:960-962:21:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:8",
     "source_span": "21",
@@ -467,6 +960,21 @@
         "end_char": 946
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:8:reference:1073-1075:17:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:8",
+    "source_span": "17",
+    "start_char": 1073,
+    "end_char": 1075,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:17",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -496,6 +1004,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:9:reference:154-156:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:9",
+    "source_span": "11",
+    "start_char": 154,
+    "end_char": 156,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:11",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liernie:transitory:primero:reference:198-200:18:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:transitory:primero",
     "source_span": "18",
@@ -509,6 +1032,28 @@
         "text": "párrafo cuarto",
         "start_char": 170,
         "end_char": 184
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:transitory:sexto:reference:396-398:38:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:transitory:sexto",
+    "source_span": "38",
+    "start_char": 396,
+    "end_char": 398,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lie",
+    "target_provision_id": "urn:lex-mx:federal:statute:lie:article:38",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 371,
+        "end_char": 382
       }
     ],
     "basis": "express_cross_reference",

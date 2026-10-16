@@ -40,9 +40,9 @@ in-corpus successor instrument (`reg-lfmn`), never inferred.
 | Articles | 64,586 |
 | Original transitory provisions | 3,470 |
 | Annexes | 30 |
-| Reference edges | 30,436 |
-| — resolved / historical-target-unavailable / approved outdated | 30,415 / 4 / 17 |
-| — resolved cross-instrument edges | 4,312 |
+| Reference edges | 35,893 |
+| — resolved / historical-target-unavailable / approved outdated | 35,872 / 4 / 17 |
+| — resolved cross-instrument edges | 9,769 |
 | Provisions `not_analyzed` / `machine_accepted` / `lawyer_verified` / `review_required` | 47,843 / 20,240 / 2 / 1 |
 | Provisions with temporal status `unknown` | 46,524 |
 | Generated Markdown files under `corpus/mx` (incl. NOMs) | 68,560 |

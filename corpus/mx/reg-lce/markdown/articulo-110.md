@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 110
 
-Los compromisos a que se refiere el artículo 72 de la [Ley](articulo-1o.md), podrán ser presentados una vez que la [Secretaría](articulo-1o.md) haya determinado preliminarmente la existencia de la práctica desleal y hasta el cierre de la audiencia pública.
+Los compromisos a que se refiere el artículo [72](../../lce/markdown/articulo-72.md) de la [Ley](articulo-1o.md), podrán ser presentados una vez que la [Secretaría](articulo-1o.md) haya determinado preliminarmente la existencia de la práctica desleal y hasta el cierre de la audiencia pública.
 
 La Secretaría podrá requerir la información, datos, documentos y los medios de prueba que estime pertinentes al exportador o gobierno extranjero interesados, a efecto de evaluar el compromiso.
 

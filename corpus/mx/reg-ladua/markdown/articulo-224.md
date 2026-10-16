@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 224
 
-Para efectos de los artículos 164, fracción VII y 165, fracción VII, inciso a) de la [Ley](articulo-1.md), la omisión de los Impuestos al Comercio Exterior, así como demás contribuciones y cuotas compensatorias se determinará considerando los Impuestos al Comercio Exterior y demás contribuciones que se causarían de haber destinado las Mercancías al régimen de importación definitiva.
+Para efectos de los artículos [164](../../ladua/markdown/articulo-164.md), fracción VII y [165](../../ladua/markdown/articulo-165.md), fracción VII, inciso a) de la [Ley](articulo-1.md), la omisión de los Impuestos al Comercio Exterior, así como demás contribuciones y cuotas compensatorias se determinará considerando los Impuestos al Comercio Exterior y demás contribuciones que se causarían de haber destinado las Mercancías al régimen de importación definitiva.
 
 Artículo reformado DOF 23-02-2026

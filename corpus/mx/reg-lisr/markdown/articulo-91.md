@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 91
 
-Para efectos del artículo 54, fracción V, párrafo segundo, inciso a) de la [Ley](articulo-1.md), los fondos y cajas de ahorro de trabajadores o las personas morales constituidas únicamente con el objeto de administrar dichos fondos o cajas de ahorro, deberán presentar el aviso correspondiente ante las autoridades fiscales, en los términos que establezca el [SAT](articulo-1.md) mediante reglas.
+Para efectos del artículo [54](../../lisr/markdown/articulo-54.md), fracción V, párrafo segundo, inciso a) de la [Ley](articulo-1.md), los fondos y cajas de ahorro de trabajadores o las personas morales constituidas únicamente con el objeto de administrar dichos fondos o cajas de ahorro, deberán presentar el aviso correspondiente ante las autoridades fiscales, en los términos que establezca el [SAT](articulo-1.md) mediante reglas.

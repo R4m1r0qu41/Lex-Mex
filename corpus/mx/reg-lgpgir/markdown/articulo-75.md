@@ -21,7 +21,7 @@ La información y documentación que conforme a la [Ley](articulo-2.md) y el pre
 
 I. Las bitácoras de los grandes y pequeños generadores se conservarán durante cinco años;
 
-30 II. El generador y los prestadores de servicios de manejo conservarán el manifiesto durante un periodo de cinco años contados a partir de la fecha en que hayan suscrito cada uno de ellos. Se exceptúa de lo anterior a los prestadores de servicios de disposición final, quienes deberán conservar la copia que les corresponde del manifiesto por el término de responsabilidad establecido en el artículo 82 de la Ley;
+30 II. El generador y los prestadores de servicios de manejo conservarán el manifiesto durante un periodo de cinco años contados a partir de la fecha en que hayan suscrito cada uno de ellos. Se exceptúa de lo anterior a los prestadores de servicios de disposición final, quienes deberán conservar la copia que les corresponde del manifiesto por el término de responsabilidad establecido en el artículo [82](../../lgpgir/markdown/articulo-82.md) de la Ley;
 
 III. El generador debe conservar los registros de los resultados de cualquier prueba, análisis u otras determinaciones de residuos peligrosos durante cinco años, contados a partir de la fecha en que hubiere enviado los residuos al sitio de tratamiento o de disposición final, y
 

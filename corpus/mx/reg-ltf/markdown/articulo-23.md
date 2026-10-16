@@ -17,7 +17,7 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 23
 
-Para efectos del artículo 22 de la [Ley](articulo-2.md), los recursos federales que se reciban dentro del territorio nacional y en el extranjero provenientes de la aplicación de la Ley de Ingresos de la Federación se podrán concentrar en un día distinto al que se recauden, en los casos siguientes:
+Para efectos del artículo [22](../../ltf/markdown/articulo-22.md) de la [Ley](articulo-2.md), los recursos federales que se reciban dentro del territorio nacional y en el extranjero provenientes de la aplicación de la Ley de Ingresos de la Federación se podrán concentrar en un día distinto al que se recauden, en los casos siguientes:
 
 I. Los gobiernos de las Entidades Federativas adheridas al Sistema Nacional de Coordinación Fiscal, concentrarán los recursos en los plazos y conforme a las disposiciones contenidas en los convenios celebrados con dichos gobiernos;
 
@@ -29,4 +29,4 @@ La Tesorería podrá modificar el plazo señalado en el párrafo anterior cuando
 
 IV. Las autoridades y particulares que no sean Auxiliares y reciban recursos federales de manera eventual, concentrarán dichos recursos a más tardar el día hábil siguiente de recibirlos y deberán cumplir con las mismas obligaciones que los Auxiliares en materia de recaudación.
 
-En caso de incumplimiento en la Concentración oportuna y completa en los términos previstos en este artículo, el Auxiliar con base en lo dispuesto en el artículo 23 de la Ley, calculará y pagará la [Indemnización al Fisco Federal](articulo-2.md) y demás montos que correspondan.
+En caso de incumplimiento en la Concentración oportuna y completa en los términos previstos en este artículo, el Auxiliar con base en lo dispuesto en el artículo [23](../../ltf/markdown/articulo-23.md) de la Ley, calculará y pagará la [Indemnización al Fisco Federal](articulo-2.md) y demás montos que correspondan.

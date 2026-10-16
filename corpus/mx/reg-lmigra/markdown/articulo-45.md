@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 45
 
-Para los efectos del artículo 157 de la Ley, se considerará que la transmisión electrónica de la información relativa a los pasajeros, tripulantes y medios de transporte es:
+Para los efectos del artículo [157](../../lmigra/markdown/articulo-157.md) de la Ley, se considerará que la transmisión electrónica de la información relativa a los pasajeros, tripulantes y medios de transporte es:
 
 I. Incompleta, cuando alguno de los datos establecidos en las disposiciones administrativas de carácter general emitidas por la Secretaría que serán publicadas en el Diario Oficial de la Federación, no haya sido proporcionado, salvo en los casos en que el número o la fecha de expiración del documento de identidad y viaje no consten en éste o que los datos sean de llenado opcional de conformidad con lo dispuesto en las disposiciones administrativas antes referidas;
 

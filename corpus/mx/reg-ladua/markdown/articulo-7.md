@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 7
 
-Para efectos del artículo 16-B de la [Ley](articulo-1.md), los interesados deberán anexar a su solicitud de autorización para prestar los servicios de procesamiento electrónico de datos y servicios relacionados para llevar a cabo el control de la importación temporal de remolques, semiremolques y portacontenedores, el acta en la que conste la constitución de la persona moral de que se trate, conforme a las disposiciones jurídicas aplicables y su objeto social relacionado con la prestación del servicio cuya autorización solicita, así como los documentos bancarios o financieros y comerciales en los que conste su solvencia económica y los demás que establezca el [SAT](articulo-1.md) mediante Reglas.
+Para efectos del artículo [16-B](../../ladua/markdown/articulo-16-B.md) de la [Ley](articulo-1.md), los interesados deberán anexar a su solicitud de autorización para prestar los servicios de procesamiento electrónico de datos y servicios relacionados para llevar a cabo el control de la importación temporal de remolques, semiremolques y portacontenedores, el acta en la que conste la constitución de la persona moral de que se trate, conforme a las disposiciones jurídicas aplicables y su objeto social relacionado con la prestación del servicio cuya autorización solicita, así como los documentos bancarios o financieros y comerciales en los que conste su solvencia económica y los demás que establezca el [SAT](articulo-1.md) mediante Reglas.
 
 Las personas que obtengan la autorización a que se refiere el párrafo anterior, deberán cumplir con lo siguiente:
 

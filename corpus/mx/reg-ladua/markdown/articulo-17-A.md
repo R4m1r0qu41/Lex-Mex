@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 17-A
 
-Para efectos de lo dispuesto en el artículo 20, fracción VII, de la [Ley](articulo-1.md), las empresas de transporte marítimo y los agentes internacionales de carga que transporten Mercancías que ingresen o salgan del territorio nacional, deberán transmitir a las Autoridades Aduaneras, a través del [Sistema Electrónico Aduanero](articulo-1.md), el manifiesto de carga, en los términos, plazos y condiciones que se establezcan mediante Reglas, el cual deberá contener al menos:
+Para efectos de lo dispuesto en el artículo [20](../../ladua/markdown/articulo-20.md), fracción VII, de la [Ley](articulo-1.md), las empresas de transporte marítimo y los agentes internacionales de carga que transporten Mercancías que ingresen o salgan del territorio nacional, deberán transmitir a las Autoridades Aduaneras, a través del [Sistema Electrónico Aduanero](articulo-1.md), el manifiesto de carga, en los términos, plazos y condiciones que se establezcan mediante Reglas, el cual deberá contener al menos:
 
 I. Número e información del conocimiento de embarque, y del documento de transporte;
 

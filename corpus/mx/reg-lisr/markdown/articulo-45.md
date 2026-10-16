@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 45
 
-El monto de los intereses deducibles a que se refiere el artículo 27, fracción VII de la [Ley](articulo-1.md), se determinará conforme a lo siguiente:
+El monto de los intereses deducibles a que se refiere el artículo [27](../../lisr/markdown/articulo-27.md), fracción VII de la [Ley](articulo-1.md), se determinará conforme a lo siguiente:
 
 I. Se obtendrá la tasa mensual promedio, de cada tipo de moneda en que se hayan concertado los créditos, dividiendo los intereses devengados en el mes entre el total de capitales tomados en préstamo por el contribuyente en ese periodo. La tasa mensual promedio del ejercicio por cada tipo de moneda se obtendrá sumando las tasas mensuales promedio y dividiendo el resultado entre el número de meses comprendidos en dicho ejercicio;
 

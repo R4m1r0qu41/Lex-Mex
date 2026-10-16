@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 160
 
-Las concesiones para que, parcial o totalmente, se pueda operar, conservar, mantener, rehabilitar y ampliar la infraestructura hidráulica construida por el Gobierno Federal y la prestación de los servicios hidráulicos federales respectivos, a que se refiere la fracción II, del artículo 102 de la "Ley", se ajustarán a lo siguiente:
+Las concesiones para que, parcial o totalmente, se pueda operar, conservar, mantener, rehabilitar y ampliar la infraestructura hidráulica construida por el Gobierno Federal y la prestación de los servicios hidráulicos federales respectivos, a que se refiere la fracción II, del artículo [102](../../lan/markdown/articulo-102.md) de la "Ley", se ajustarán a lo siguiente:
 
 I. Se convocará a los usuarios de la infraestructura hidráulica para que una vez organizados en personas morales, puedan presentar posturas y participen en el concurso de la concesión respectiva;
 
@@ -37,4 +37,4 @@ IX. Una vez dictada la resolución, y cuando así proceda, "La Comisión" adjudi
 
 X. No se adjudicará la concesión cuando la o las proposiciones presentadas no cumplan con las bases del concurso. En este caso, se declarará desierto el concurso y se procederá a expedir una nueva convocatoria.
 
-No será aplicable lo dispuesto en este artículo a las concesiones a que se refiere el artículo 65 de la "Ley", a las cuales se les aplicará lo dispuesto en el artículo [97](articulo-97.md) de este "Reglamento".
+No será aplicable lo dispuesto en este artículo a las concesiones a que se refiere el artículo [65](../../lan/markdown/articulo-65.md) de la "Ley", a las cuales se les aplicará lo dispuesto en el artículo [97](articulo-97.md) de este "Reglamento".

@@ -17,4 +17,4 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 # Artículo 7
 
-La autorización para prestar servicios de seguridad privada se podrá otorgar respecto a una o más modalidades de las previstas en el artículo 15 de la [Ley](articulo-2.md), cuando el peticionario acredite plenamente que cumple con los requisitos establecidos en el artículo [25](articulo-25.md) del mismo ordenamiento legal.
+La autorización para prestar servicios de seguridad privada se podrá otorgar respecto a una o más modalidades de las previstas en el artículo [15](../../lfsp/markdown/articulo-15.md) de la [Ley](articulo-2.md), cuando el peticionario acredite plenamente que cumple con los requisitos establecidos en el artículo [25](articulo-25.md) del mismo ordenamiento legal.

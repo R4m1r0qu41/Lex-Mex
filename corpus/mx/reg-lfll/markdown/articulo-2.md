@@ -35,7 +35,7 @@ VII. ISBN.- Número internacional normalizado del libro;
 
 VIII. Ley.- Ley de Fomento para la Lectura y el Libro; IX. Lineamientos.- Los lineamientos que el Consejo emita para el funcionamiento del [Registro](articulo-2.md) del Precio Único de Venta al Público;
 
-X. Programa.- El Programa de Fomento para el Libro y la Lectura a que se refiere la fracción I del artículo 6 de la Ley;
+X. Programa.- El Programa de Fomento para el Libro y la Lectura a que se refiere la fracción I del artículo [6](../../lfll/markdown/articulo-6.md) de la Ley;
 
 XI. Registro.- El Registro del Precio Único de Venta al Público, y
 

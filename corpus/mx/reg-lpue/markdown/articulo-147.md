@@ -17,4 +17,4 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 # Artículo 147
 
-Las infracciones al presente Reglamento cuya sanción no esté determinada expresamente en la [Ley](articulo-2.md), serán sancionadas conforme al artículo 65, fracción XIII de la Ley.
+Las infracciones al presente Reglamento cuya sanción no esté determinada expresamente en la [Ley](articulo-2.md), serán sancionadas conforme al artículo [65](../../lpue/markdown/articulo-65.md), fracción XIII de la Ley.

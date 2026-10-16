@@ -21,4 +21,4 @@ El desembarque temporal de ropa para su lavado o desinfectado, así como de otro
 
 Las Mercancías al reembarcarse, deberán ser presentadas para su revisión ante la aduana correspondiente, exhibiendo la promoción que se haya presentado al momento del desembarque.
 
-Las contribuciones y, en su caso, las cuotas compensatorias, deberán ser pagadas por los capitanes, los propietarios de la embarcación o los consignatarios, cuando las Mercancías a que se refiere este artículo no sean reembarcadas dentro del plazo señalado en la promoción correspondiente, de conformidad con los artículos 20, segundo párrafo y 53, fracción III de la [Ley](articulo-1.md).
+Las contribuciones y, en su caso, las cuotas compensatorias, deberán ser pagadas por los capitanes, los propietarios de la embarcación o los consignatarios, cuando las Mercancías a que se refiere este artículo no sean reembarcadas dentro del plazo señalado en la promoción correspondiente, de conformidad con los artículos [20](../../ladua/markdown/articulo-20.md), segundo párrafo y [53](../../ladua/markdown/articulo-53.md), fracción III de la [Ley](articulo-1.md).

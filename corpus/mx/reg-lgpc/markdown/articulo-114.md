@@ -17,7 +17,7 @@ source_sha256: 5018478a6ca9ea39f9ca88ffcb68dde9a33bd4adec59dc75d2431f894b621fc2
 
 # Artículo 114
 
-La supervisión para la elaboración y actualización del Atlas Nacional de Riesgos y de los Atlas Estatales y Municipales de Riesgos a que hace referencia el artículo 19, fracción XXII, de la [Ley](articulo-2.md), será de carácter eminentemente preventiva.
+La supervisión para la elaboración y actualización del Atlas Nacional de Riesgos y de los Atlas Estatales y Municipales de Riesgos a que hace referencia el artículo [19](../../lgpc/markdown/articulo-19.md), fracción XXII, de la [Ley](articulo-2.md), será de carácter eminentemente preventiva.
 
 Antes de iniciar los trabajos para la elaboración del Atlas Nacional de Riesgos se deberá:
 

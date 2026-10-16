@@ -17,6 +17,6 @@ source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
 
 # Artículo 29
 
-Las personas corredoras públicas deberán observar lo dispuesto en el artículo 17, fracción XII, Apartado B, inciso a), de la Ley, cuando en la realización de avalúos sobre los bienes respectivos utilicen la fe pública.
+Las personas corredoras públicas deberán observar lo dispuesto en el artículo [17](../../lfpiorpi/markdown/articulo-17.md), fracción XII, Apartado B, inciso a), de la Ley, cuando en la realización de avalúos sobre los bienes respectivos utilicen la fe pública.
 
 Artículo reformado DOF 27-03-2026

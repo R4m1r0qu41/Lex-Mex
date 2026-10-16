@@ -17,7 +17,7 @@ source_sha256: 0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1
 
 # Artículo 23
 
-Una vez integrada la información y documentación de las solicitudes a que se refiere este Capítulo y efectuados los estudios correspondientes, la Secretaría señalará al solicitante, dentro de los plazos que señala el artículo 28 de la [Ley](articulo-2.md), si procede o no su solicitud. La Secretaría sólo podrá negar el permiso en los casos siguientes:
+Una vez integrada la información y documentación de las solicitudes a que se refiere este Capítulo y efectuados los estudios correspondientes, la Secretaría señalará al solicitante, dentro de los plazos que señala el artículo [28](../../lpue/markdown/articulo-28.md) de la [Ley](articulo-2.md), si procede o no su solicitud. La Secretaría sólo podrá negar el permiso en los casos siguientes:
 
 I. Cuando el solicitante no cumpla con la información y documentación señalados en este Capítulo;
 

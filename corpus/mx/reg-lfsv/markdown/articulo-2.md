@@ -17,7 +17,7 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 2
 
-Para efectos del presente Reglamento, además de las definiciones previstas en el artículo 5o. de la [Ley](articulo-2.md), se entenderá por:
+Para efectos del presente Reglamento, además de las definiciones previstas en el artículo [5](../../lfsv/markdown/articulo-5o.md)o. de la [Ley](articulo-2.md), se entenderá por:
 
 I. Análisis Epidemiológico: la acción mediante la cual se conjunta la información derivada del Análisis de Riesgo de Plagas y resultados de las Campañas Fitosanitarias, con la finalidad de evaluar las Medidas Fitosanitarias más eficientes;
 
@@ -59,7 +59,7 @@ XXI. Ley: la Ley Federal de Sanidad Vegetal;
 
 XXII. Lote: el conjunto de unidades de un solo Producto o Subproducto Vegetal, identificable por su composición homogénea y origen, que forma parte de un [Embarque](articulo-2.md);
 
-XXIII. Mercancía Regulada: las previstas en el artículo 23 de la Ley, así como aquéllas que puedan representar un Riesgo Fitosanitario;
+XXIII. Mercancía Regulada: las previstas en el artículo [23](../../lfsv/markdown/articulo-23.md) de la Ley, así como aquéllas que puedan representar un Riesgo Fitosanitario;
 
 XXIV. Órganos de Coadyuvancia: a los Organismos de Certificación, Unidades de Verificación, y Laboratorios de Pruebas;
 

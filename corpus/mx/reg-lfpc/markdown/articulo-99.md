@@ -17,7 +17,7 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 99
 
-La prohibición de la comercialización de bienes o productos y de servicios procederá en los términos del artículo 128 QUATER de la Ley.
+La prohibición de la comercialización de bienes o productos y de servicios procederá en los términos del artículo [128 QUATER](../../lfpc/markdown/articulo-128-QUATER.md) de la Ley.
 
 La autoridad que hubiere prohibido la comercialización de bienes o productos, podrá ordenar la destrucción de éstos, ya sea por sí o a costa del infractor. En este último caso, la Procuraduría apercibirá al infractor para que, dentro del término de diez días naturales acredite que procedió a la destrucción de los mismos.
 

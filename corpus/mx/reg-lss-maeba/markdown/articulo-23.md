@@ -17,7 +17,7 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 23
 
-Los procedimientos de enajenación de los bienes a que se refiere el segundo párrafo del artículo 291 de la Ley, regulados en el presente Reglamento, son los siguientes:
+Los procedimientos de enajenación de los bienes a que se refiere el segundo párrafo del artículo [291](../../lss/markdown/articulo-291.md) de la Ley, regulados en el presente Reglamento, son los siguientes:
 
 I. Subasta Pública, y
 

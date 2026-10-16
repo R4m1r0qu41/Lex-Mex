@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 235
 
-Para efectos del artículo 195 de la [Ley](articulo-1.md), se consideran actos realizados por el agente aduanal, los derivados de la tramitación de Pedimentos que firmen el propio agente aduanal o sus mandatarios acreditados legalmente para ello.
+Para efectos del artículo [195](../../ladua/markdown/articulo-195.md) de la [Ley](articulo-1.md), se consideran actos realizados por el agente aduanal, los derivados de la tramitación de Pedimentos que firmen el propio agente aduanal o sus mandatarios acreditados legalmente para ello.
 
 Artículo reformado DOF 23-02-2026

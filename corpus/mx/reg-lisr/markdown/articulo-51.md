@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 51
 
-Los planes relativos a seguros de técnicos o dirigentes a que se refiere el artículo 27, fracción XII, párrafo segundo de la [Ley](articulo-1.md), deberán ajustarse a lo siguiente:
+Los planes relativos a seguros de técnicos o dirigentes a que se refiere el artículo [27](../../lisr/markdown/articulo-27.md), fracción XII, párrafo segundo de la [Ley](articulo-1.md), deberán ajustarse a lo siguiente:
 
 I. Los contratos de seguros serán temporales a un plazo no mayor de veinte años y de prima nivelada;
 

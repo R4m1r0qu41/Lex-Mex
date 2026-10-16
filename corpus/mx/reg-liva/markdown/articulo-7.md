@@ -17,6 +17,6 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 7
 
-Para los efectos del artículo 2o.-A, fracción I, inciso b) de la Ley, se consideran medicinas de patente las especialidades farmacéuticas, los estupefacientes, las substancias psicotrópicas y los antígenos o vacunas, incluyendo las homeopáticas y las veterinarias.
+Para los efectos del artículo [2](../../liva/markdown/articulo-2o.md)o.-A, fracción I, inciso b) de la Ley, se consideran medicinas de patente las especialidades farmacéuticas, los estupefacientes, las substancias psicotrópicas y los antígenos o vacunas, incluyendo las homeopáticas y las veterinarias.
 
 Los medicamentos magistrales y oficinales a que se refiere la legislación sanitaria se consideran medicinas de patente, cuando sean equivalentes a las especialidades farmacéuticas.

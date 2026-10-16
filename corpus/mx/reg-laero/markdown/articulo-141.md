@@ -21,7 +21,7 @@ II. La unidad de tráfico conforme a la cual se determinará la tarifa por pasaj
 
 En los casos en que la tarifa máxima se fije por operación, las operaciones totales anuales incluirán todas las operaciones de los servicios de transporte aéreo regular y no regular, servicios privados y servicios oficiales.
 
-Se exceptúa de lo dispuesto en este artículo a las operaciones a que se refiere el segundo párrafo del artículo 53 de la Ley o los pasajeros o la carga que derive de éstas. Dichas operaciones sólo se considerarán para efectos de determinar los costos de operación del aeródromo.
+Se exceptúa de lo dispuesto en este artículo a las operaciones a que se refiere el segundo párrafo del artículo [53](../../laero/markdown/articulo-53.md) de la Ley o los pasajeros o la carga que derive de éstas. Dichas operaciones sólo se considerarán para efectos de determinar los costos de operación del aeródromo.
 
 La Secretaría, por sí o a solicitud del concesionario o permisionario, podrá reexpresar la tarifa a otra unidad de tráfico por pasajero u operación a unidades de carga-trabajo, para lo cual deberá proporcionar la información necesaria respecto de movimientos de carga, pasajeros y operación;
 

@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 101
 
-Para los efectos de los artículos 166 y 169 del [Código](articulo-1.md), durante la intervención en carácter de administración, el interventor administrador designado, además de las obligaciones previstas en el artículo 167 del Código, tendrá las siguientes:
+Para los efectos de los artículos [166](../../cff/markdown/articulo-166.md) y [169](../../cff/markdown/articulo-169.md) del [Código](articulo-1.md), durante la intervención en carácter de administración, el interventor administrador designado, además de las obligaciones previstas en el artículo [167](../../cff/markdown/articulo-167.md) del Código, tendrá las siguientes:
 
 I. Realizar el pago de sueldos, de créditos preferentes, de contribuciones y en general todas las acciones necesarias para la conservación y buena marcha del negocio;
 

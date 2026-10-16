@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 146
 
-La [Secretaría](articulo-1o.md) notificará a los visitados la realización de las visitas de verificación a que se refiere el artículo 83 de la [Ley](articulo-1o.md). La notificación deberá contener:
+La [Secretaría](articulo-1o.md) notificará a los visitados la realización de las visitas de verificación a que se refiere el artículo [83](../../lce/markdown/articulo-83.md) de la [Ley](articulo-1o.md). La notificación deberá contener:
 
 I. La autoridad competente que la emite;
 

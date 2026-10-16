@@ -17,7 +17,7 @@ source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 
 # Artículo 18
 
-El Sistema Nacional de Protección Integral, conforme al artículo 145 de la [Ley](articulo-2.md), contará con un Consejo Consultivo, el cual tendrá veinte integrantes que se elegirán de entre los sectores público, privado, académico y social, en términos de los lineamientos a que se refiere el artículo [20](articulo-20.md) de este Reglamento.
+El Sistema Nacional de Protección Integral, conforme al artículo [145](../../lgdnna/markdown/articulo-145.md) de la [Ley](articulo-2.md), contará con un Consejo Consultivo, el cual tendrá veinte integrantes que se elegirán de entre los sectores público, privado, académico y social, en términos de los lineamientos a que se refiere el artículo [20](articulo-20.md) de este Reglamento.
 
 Los integrantes del Consejo Consultivo durarán en su cargo tres años y podrán ser reelectos para un periodo adicional. Los integrantes del Consejo Consultivo serán elegidos por mayoría de votos de los integrantes del Sistema Nacional de Protección Integral conforme a lo siguiente:
 

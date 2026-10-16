@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 188
 
-De conformidad con lo dispuesto en el artículo [40](articulo-40.md), y en los párrafos terceros de los artículos 128 y 132 de la [Ley](articulo-1.md), el importador, exportador, agente aduanal, agencia aduanal o, en su caso, el transportista, o la persona física o moral que efectúe el tránsito internacional, deberá dar aviso a la Autoridad Aduanera del arribo extemporáneo de la Mercancía, remitiendo copia del mismo a la aduana de destino. Dicho aviso deberá contener la siguiente información: Párrafo reformado DOF 23-02-2026
+De conformidad con lo dispuesto en el artículo [40](articulo-40.md), y en los párrafos terceros de los artículos [128](../../ladua/markdown/articulo-128.md) y [132](../../ladua/markdown/articulo-132.md) de la [Ley](articulo-1.md), el importador, exportador, agente aduanal, agencia aduanal o, en su caso, el transportista, o la persona física o moral que efectúe el tránsito internacional, deberá dar aviso a la Autoridad Aduanera del arribo extemporáneo de la Mercancía, remitiendo copia del mismo a la aduana de destino. Dicho aviso deberá contener la siguiente información: Párrafo reformado DOF 23-02-2026
 
 I. Las causas que originaron el retraso;
 

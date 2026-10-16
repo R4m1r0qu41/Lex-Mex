@@ -17,4 +17,4 @@ source_sha256: aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3
 
 # Artículo 6
 
-La prohibición de cualquier práctica discriminatoria en la prestación de los bienes y servicios contenidos en los programas de desarrollo social, se entenderá en el marco de los principios señalados en el artículo 3 de la Ley y en lo que establezcan las disposiciones legales aplicables.
+La prohibición de cualquier práctica discriminatoria en la prestación de los bienes y servicios contenidos en los programas de desarrollo social, se entenderá en el marco de los principios señalados en el artículo [3](../../lgds/markdown/articulo-3.md) de la Ley y en lo que establezcan las disposiciones legales aplicables.

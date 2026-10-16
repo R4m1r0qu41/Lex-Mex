@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 72
 
-Las solicitudes para obtener la autorización de aprovechamientos de Recursos forestales no maderables a que se refiere el artículo 85 de la [Ley](articulo-2.md), se presentarán ante la Secretaría y contendrán el nombre o denominación o razón social y domicilio del interesado. En su caso, se señalará el número de oficio y fecha de la autorización en materia de impacto ambiental.
+Las solicitudes para obtener la autorización de aprovechamientos de Recursos forestales no maderables a que se refiere el artículo [85](../../lgdfs/markdown/articulo-85.md) de la [Ley](articulo-2.md), se presentarán ante la Secretaría y contendrán el nombre o denominación o razón social y domicilio del interesado. En su caso, se señalará el número de oficio y fecha de la autorización en materia de impacto ambiental.
 
 Asimismo, con la solicitud a que se refiere el presente artículo deberá presentarse lo siguiente:
 

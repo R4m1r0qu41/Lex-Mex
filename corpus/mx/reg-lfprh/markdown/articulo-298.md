@@ -25,7 +25,7 @@ El Comité Técnico de Información hará compatibles los requerimientos de info
 
 La información que se requiera a dependencias y entidades se sujetará a los plazos de entrega que se establezcan en el sistema.
 
-Las dependencias y entidades serán responsables del envío oportuno de la información y de que sea completa, veraz y congruente, atendiendo a las disposiciones de información y transparencia establecidas en el artículo 108 de la [Ley](articulo-2.md). La información que reporten las dependencias y entidades deberá ser congruente con la que se difunda en los distintos informes y foros de análisis, evaluación y control del presupuesto. Párrafo reformado DOF 25-04-2014
+Las dependencias y entidades serán responsables del envío oportuno de la información y de que sea completa, veraz y congruente, atendiendo a las disposiciones de información y transparencia establecidas en el artículo [108](../../lfprh/markdown/articulo-108.md) de la [Ley](articulo-2.md). La información que reporten las dependencias y entidades deberá ser congruente con la que se difunda en los distintos informes y foros de análisis, evaluación y control del presupuesto. Párrafo reformado DOF 25-04-2014
 
 El Comité Técnico de Información deberá actualizar el sistema integral de información de los ingresos y gasto público por la creación de dependencias, órganos administrativos desconcentrados o entidades, así como por cambios en la denominación o claves de las que ya se encuentren en dicho sistema, dentro de los primeros 30 días naturales siguientes en que ocurra la creación o modificación. Párrafo reformado DOF 25-04-2014
 

@@ -17,7 +17,7 @@ source_sha256: 50d888e53a7b0990f6d19dbab03d263e01ca7d4a4365a0c2663e03caf9f2715c
 
 # Artículo 3
 
-Para los efectos del artículo 3 de la [Ley](articulo-2.md), se entenderá que las Organizaciones:
+Para los efectos del artículo [3](../../lffaosc/markdown/articulo-3.md) de la [Ley](articulo-2.md), se entenderá que las Organizaciones:
 
 I. Persiguen fines de lucro, cuando su acta constitutiva o su estatuto no prohíba expresamente que los apoyos y estímulos que reciban y, en su caso, sus rendimientos, sean distribuidos entre sus asociados o, cuando a pesar de dicha prohibición, lleven a cabo tal distribución;
 

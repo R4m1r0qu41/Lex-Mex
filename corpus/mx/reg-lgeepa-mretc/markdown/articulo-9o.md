@@ -17,7 +17,7 @@ source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424
 
 Se consideran Establecimientos sujetos a reporte de competencia federal los siguientes:
 
-I. Los señalados en el segundo párrafo del artículo 111 Bis de la Ley, incluyendo a aquéllos que realizan Actividades del Sector Hidrocarburos;
+I. Los señalados en el segundo párrafo del artículo [111 Bis](../../lgeepa/markdown/articulo-111-BIS.md) de la Ley, incluyendo a aquéllos que realizan Actividades del Sector Hidrocarburos;
 
 II. Los generadores de residuos peligrosos en términos de las disposiciones aplicables, y
 

@@ -17,4 +17,4 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 La interposición del recurso de revocación no suspenderá los efectos de la resolución que recaiga en el proceso de selección. En caso de que se determine la revocación de la resolución, el servidor público de carrera continuará en el puesto hasta en tanto se resuelva en definitiva sobre el concurso de que se trate.
 
-La Secretaría establecerá los medios que permitan a su representante en los Comités Técnicos de Selección, mantenerse oportunamente informado sobre los recursos de revocación que se interpongan, para efectos de la certificación que debe realizar al desarrollo de los procesos de selección, en términos del artículo 74 de la Ley.
+La Secretaría establecerá los medios que permitan a su representante en los Comités Técnicos de Selección, mantenerse oportunamente informado sobre los recursos de revocación que se interpongan, para efectos de la certificación que debe realizar al desarrollo de los procesos de selección, en términos del artículo [74](../../lspcapf/markdown/articulo-74.md) de la Ley.

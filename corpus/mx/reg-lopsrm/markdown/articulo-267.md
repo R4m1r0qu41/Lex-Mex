@@ -17,8 +17,8 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 267
 
-Se sancionará en términos del artículo 77 de la [Ley](articulo-2.md), a los licitantes que injustificadamente y por causas imputables a los mismos se abstengan de firmar contratos según lo previsto por el segundo párrafo del artículo [47](articulo-47.md) de dicho ordenamiento.
+Se sancionará en términos del artículo [77](../../lopsrm/markdown/articulo-77.md) de la [Ley](articulo-2.md), a los licitantes que injustificadamente y por causas imputables a los mismos se abstengan de firmar contratos según lo previsto por el segundo párrafo del artículo [47](articulo-47.md) de dicho ordenamiento.
 
-Los licitantes que injustificadamente y por causas imputables a ellos no formalicen dos o más contratos con cualquier dependencia o entidad, dentro del plazo de dos años, serán sancionados en términos del artículo 77 de la Ley por lo que respecta al segundo y sucesivos contratos no firmados, y se les inhabilitará conforme a lo dispuesto por la fracción I del artículo 78 de la Ley.
+Los licitantes que injustificadamente y por causas imputables a ellos no formalicen dos o más contratos con cualquier dependencia o entidad, dentro del plazo de dos años, serán sancionados en términos del artículo 77 de la Ley por lo que respecta al segundo y sucesivos contratos no firmados, y se les inhabilitará conforme a lo dispuesto por la fracción I del artículo [78](../../lopsrm/markdown/articulo-78.md) de la Ley.
 
 Se presumirá que la falta de firma del contrato por parte del licitante a quien se le adjudicó éste le es imputable al mismo, salvo prueba en contrario que aporte durante el procedimiento administrativo sancionador con la que justifique dicha omisión.

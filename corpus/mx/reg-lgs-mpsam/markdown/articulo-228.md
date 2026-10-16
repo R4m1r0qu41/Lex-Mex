@@ -17,6 +17,6 @@ source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 
 # Artículo 228
 
-El personal que preste sus servicios en cualquier establecimiento para la atención médica, cuyas actividades pudieran propagar alguna de las enfermedades transmisibles a que se refiere el artículo 134 de la Ley, deberá contar con tarjeta de control sanitario expedida por la autoridad sanitaria competente, conforme a las normas oficiales mexicanas que al efecto dicte la Secretaría.
+El personal que preste sus servicios en cualquier establecimiento para la atención médica, cuyas actividades pudieran propagar alguna de las enfermedades transmisibles a que se refiere el artículo [134](../../lgs/markdown/articulo-134.md) de la Ley, deberá contar con tarjeta de control sanitario expedida por la autoridad sanitaria competente, conforme a las normas oficiales mexicanas que al efecto dicte la Secretaría.
 
 Artículo reformado DOF 01-11-2013

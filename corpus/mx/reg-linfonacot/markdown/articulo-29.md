@@ -17,4 +17,4 @@ source_sha256: 1462bbacad053d49c213e32c1859dd914c1415d2c37c6a22970bd87877a9c9bd
 
 # Artículo 29
 
-Respecto del artículo 20 de la Ley, la participación, en su caso, de profesionistas independientes y especialistas del sector de los trabajadores en los comités de apoyo del Instituto, deberá acreditarse y justificarse fehacientemente por el Director General al Consejo.
+Respecto del artículo [20](../../linfonacot/markdown/articulo-20.md) de la Ley, la participación, en su caso, de profesionistas independientes y especialistas del sector de los trabajadores en los comités de apoyo del Instituto, deberá acreditarse y justificarse fehacientemente por el Director General al Consejo.

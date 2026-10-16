@@ -15,4 +15,4 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 # Artículo 373
 
-Para efectos del artículo 25 de la [Ley](articulo-10.md), serán considerados como tripulantes, aquellas personas que presten un servicio directamente asociado al gobierno y operación náutica de la Embarcación o Artefacto Naval.
+Para efectos del artículo [25](../../lncm/markdown/articulo-25.md) de la [Ley](articulo-10.md), serán considerados como tripulantes, aquellas personas que presten un servicio directamente asociado al gobierno y operación náutica de la Embarcación o Artefacto Naval.

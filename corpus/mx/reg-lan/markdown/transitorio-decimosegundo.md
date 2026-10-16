@@ -15,4 +15,4 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # DECIMOSEGUNDO
 
-Las personas que se encuentren explotando, usando o aprovechando bienes a que se refiere el artículo 113 de la "Ley", cuentan con un plazo de seis meses para solicitar ante "La Comisión" la regularización de sus respectivos títulos.
+Las personas que se encuentren explotando, usando o aprovechando bienes a que se refiere el artículo [113](../../lan/markdown/articulo-113.md) de la "Ley", cuentan con un plazo de seis meses para solicitar ante "La Comisión" la regularización de sus respectivos títulos.

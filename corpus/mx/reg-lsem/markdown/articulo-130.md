@@ -17,6 +17,6 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 130
 
-Los viáticos a que se refiere el artículo 51 de la Ley, se otorgarán, de conformidad con la normativa emitida por la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, en el ámbito de sus respectivas competencias, a los Miembros del Servicio Exterior, según sea el caso, para sufragar los gastos que realicen fuera de su sede por concepto de hotel, alimentos, servicios, transporte, comunicaciones y otros relacionados con la comisión oficial que cumplan.
+Los viáticos a que se refiere el artículo [51](../../lsem/markdown/articulo-51.md) de la Ley, se otorgarán, de conformidad con la normativa emitida por la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, en el ámbito de sus respectivas competencias, a los Miembros del Servicio Exterior, según sea el caso, para sufragar los gastos que realicen fuera de su sede por concepto de hotel, alimentos, servicios, transporte, comunicaciones y otros relacionados con la comisión oficial que cumplan.
 
 Artículo reformado DOF 02-11-2018

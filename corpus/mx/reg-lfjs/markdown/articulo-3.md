@@ -43,7 +43,7 @@ IX. Evento: Acontecimiento en el que se llevan a cabo actividades relativas a la
 
 X. Inspectores: Servidores públicos a través de quienes la Secretaría ejerce sus facultades, en los términos de la Ley, el presente Reglamento y demás disposiciones aplicables;
 
-XI. Juegos con apuesta: Aquéllos señalados en el artículo 2 de la Ley y autorizados por la Secretaría; Fracción reformada DOF 16-11-2023
+XI. Juegos con apuesta: Aquéllos señalados en el artículo [2](../../lfjs/markdown/articulo-2o.md) de la Ley y autorizados por la Secretaría; Fracción reformada DOF 16-11-2023
 
 XII. Ley: Ley Federal de Juegos y Sorteos;
 
@@ -55,7 +55,7 @@ XIV. Órgano Técnico de Consulta: Asociaciones civiles legalmente constituidas,
 
 XV. Parimutuo: Modalidad de apuesta en juegos o participación en sorteos de símbolos o números en que las posturas de los apostadores o participantes se acumulan en un fondo para repartir su monto entre los ganadores, una vez descontado un porcentaje que retiene el permisionario y que ha sido establecido previamente en el reglamento interno del permisionario;
 
-XV BIS. Participación: Aquélla así denominada en el artículo 5 de la Ley, que consiste en un aprovechamiento que el permisionario debe cubrir ante la autoridad federal competente respecto de los productos obtenidos por éste, derivados de los permisos otorgados por la Secretaría para la realización de juegos con apuestas y sorteos; Fracción adicionada DOF 16-11-2023
+XV BIS. Participación: Aquélla así denominada en el artículo [5](../../lfjs/markdown/articulo-5o.md) de la Ley, que consiste en un aprovechamiento que el permisionario debe cubrir ante la autoridad federal competente respecto de los productos obtenidos por éste, derivados de los permisos otorgados por la Secretaría para la realización de juegos con apuestas y sorteos; Fracción adicionada DOF 16-11-2023
 
 XVI. Permisionario: Persona física o moral a quien la Secretaría otorga un permiso para llevar a cabo alguna actividad en materia de juegos con apuestas y sorteos permitida por la Ley y el presente Reglamento; XVII. Permiso: Acto administrativo emitido por la Secretaría, que permite a una persona física o moral realizar sorteos o juegos con apuestas, durante un periodo determinado y limitado en sus alcances a los términos y condiciones que determine la Secretaría, conforme a lo dispuesto por la Ley, este Reglamento y demás disposiciones aplicables;
 

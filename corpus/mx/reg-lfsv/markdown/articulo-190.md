@@ -17,6 +17,6 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 190
 
-La Secretaría procederá a la inmediata destrucción de los bienes, productos o mercancías cuando no sean aptos para ser aprovechados o consumidos, observando en todo caso lo previsto en el artículo 30 de la [Ley](articulo-2.md).
+La Secretaría procederá a la inmediata destrucción de los bienes, productos o mercancías cuando no sean aptos para ser aprovechados o consumidos, observando en todo caso lo previsto en el artículo [30](../../lfsv/markdown/articulo-30.md) de la [Ley](articulo-2.md).
 
 En estos supuestos, la unidad administrativa competente de la Secretaría, según corresponda, deberá recabar la opinión de las autoridades sanitarias, previos trámites legales y con la participación que, en su caso, corresponda a otras autoridades competentes, levantará acta circunstanciada en la cual se asentarán los datos relativos al proceso de destrucción.

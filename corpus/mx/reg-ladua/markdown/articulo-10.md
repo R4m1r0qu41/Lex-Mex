@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 10
 
-Para efectos del artículo 10 de la [Ley](articulo-1.md), tratándose de tráfico aéreo y marítimo son días y horas hábiles para la entrada o salida del territorio nacional de Mercancías, maniobras de carga, descarga, transbordo y almacenamiento de las mismas, el embarque o desembarque de pasajeros y la revisión de sus equipajes, los que establezcan las autoridades competentes en forma coordinada. Esta prevención es aplicable al tráfico aéreo nacional respecto de aeronaves que salgan de la franja o región fronteriza.
+Para efectos del artículo [10](../../ladua/markdown/articulo-10.md) de la [Ley](articulo-1.md), tratándose de tráfico aéreo y marítimo son días y horas hábiles para la entrada o salida del territorio nacional de Mercancías, maniobras de carga, descarga, transbordo y almacenamiento de las mismas, el embarque o desembarque de pasajeros y la revisión de sus equipajes, los que establezcan las autoridades competentes en forma coordinada. Esta prevención es aplicable al tráfico aéreo nacional respecto de aeronaves que salgan de la franja o región fronteriza.

@@ -39,9 +39,9 @@ V. Por tener documento migratorio con vencimiento no mayor a sesenta días natur
 
 VI. Por realizar actividades distintas a las autorizadas y con ello haya dejado de satisfacer los requisitos por los cuales se le otorgó determinada condición de estancia;
 
-VII. Por haber obtenido oficio de salida de la estación migratoria, conforme a los supuestos del artículo 136 de la Ley;
+VII. Por haber obtenido oficio de salida de la estación migratoria, conforme a los supuestos del artículo [136](../../lmigra/markdown/articulo-136.md) de la Ley;
 
-VIII. Por alcanzar el plazo de sesenta días hábiles en la estación migratoria y que se ubique en las hipótesis previstas en el artículo 111 de la Ley conforme a lo siguiente:
+VIII. Por alcanzar el plazo de sesenta días hábiles en la estación migratoria y que se ubique en las hipótesis previstas en el artículo [111](../../lmigra/markdown/articulo-111.md) de la Ley conforme a lo siguiente:
 
 a) Que no exista información fehaciente sobre su identidad y/o nacionalidad, o exista dificultad para la obtención de los documentos de identidad y viaje;
 

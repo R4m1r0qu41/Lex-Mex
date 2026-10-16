@@ -17,7 +17,7 @@ source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 
 # Artículo 11
 
-[El Registro](articulo-2o.md) a solicitud de los ejidatarios que se encuentren en el supuesto del artículo [30](articulo-30.md) de este Reglamento, podrá expedir los certificados de derechos parcelarios, para que los mismos estén en posibilidad de enajenar el excedente, tal y como lo dispone el artículo 47 de la Ley.
+[El Registro](articulo-2o.md) a solicitud de los ejidatarios que se encuentren en el supuesto del artículo [30](articulo-30.md) de este Reglamento, podrá expedir los certificados de derechos parcelarios, para que los mismos estén en posibilidad de enajenar el excedente, tal y como lo dispone el artículo [47](../../lagra/markdown/articulo-47.md) de la Ley.
 
 La solicitud a que se refiere el párrafo anterior, podrá presentarse en cualquier tiempo, mediante escrito libre, anexando la documentación siguiente:
 

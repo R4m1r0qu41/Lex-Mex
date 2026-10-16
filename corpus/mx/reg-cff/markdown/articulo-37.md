@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 37
 
-Para los efectos del artículo 29-A, fracción VII del [Código](articulo-1.md), los contribuyentes que expidan comprobantes fiscales digitales por Internet, para efectos del traslado de impuestos en forma expresa y por separado los desglosarán por tasa o cuota del impuesto en los siguientes supuestos:
+Para los efectos del artículo [29-A](../../cff/markdown/articulo-29-A.md), fracción VII del [Código](articulo-1.md), los contribuyentes que expidan comprobantes fiscales digitales por Internet, para efectos del traslado de impuestos en forma expresa y por separado los desglosarán por tasa o cuota del impuesto en los siguientes supuestos:
 
 I. Cuando la totalidad de las operaciones, actos o actividades que ampara el comprobante fiscal digital por Internet se encuentren sujetos a la misma tasa o cuota, el impuesto trasladado se incluirá en forma expresa y por separado en el comprobante fiscal digital por Internet señalando la tasa aplicable, incluso cuando se trate de la tasa del 0%;
 

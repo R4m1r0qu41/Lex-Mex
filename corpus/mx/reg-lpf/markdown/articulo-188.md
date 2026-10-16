@@ -21,4 +21,4 @@ La suspensión es la interrupción temporal de la relación administrativa exist
 
 El infractor no deberá prestar sus servicios y, en consecuencia, la Institución no le cubrirá sus percepciones, en virtud de lo cual el infractor deberá entregar su identificación, municiones, armamento, equipo, documentación y demás bienes de la Institución que se le hubieren ministrado bajo su resguardo para el cumplimiento de sus funciones.
 
-Esta sanción es distinta a la suspensión temporal como medida precautoria que, en su caso ordene el Presidente del [Consejo Federal](articulo-2.md), dentro de un procedimiento, a que se refiere el artículo 34 de la [Ley](articulo-2.md).
+Esta sanción es distinta a la suspensión temporal como medida precautoria que, en su caso ordene el Presidente del [Consejo Federal](articulo-2.md), dentro de un procedimiento, a que se refiere el artículo [34](../../lpf/markdown/articulo-34.md) de la [Ley](articulo-2.md).

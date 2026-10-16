@@ -19,7 +19,7 @@ source_sha256: 066103556290f57dca17504bd178aeb645dff97b3a5e05bf4925e9353204e064
 
 A los Institutos Nacionales de Salud y demás organismos descentralizados agrupados en el sector coordinado por la Secretaría les corresponde prestar, en el ámbito de sus funciones, servicios especializados a las Personas con la Condición del Espectro Autista, conforme a lo siguiente:
 
-I. Realizar las acciones a que se refieren las fracciones I, II y IV del artículo 16 de la Ley;
+I. Realizar las acciones a que se refieren las fracciones I, II y IV del artículo [16](../../lgappcea/markdown/articulo-16.md) de la Ley;
 
 II. Programar y realizar, con sujeción a las disposiciones jurídicas que los rigen, acciones de salud dirigidas a las Personas con la Condición del Espectro Autista, con énfasis en el desarrollo psicomotor, mediante la prevención, atención y rehabilitación, de acuerdo a lo siguiente:
 
@@ -37,4 +37,4 @@ c) Rehabilitación.- Llevar a cabo las acciones siguientes:
 
 4. Colaborar con los servicios de primer nivel de atención y especializados en el control y seguimiento de los pacientes, e involucrar a la familia de éstos en dicho control y seguimiento; III. Brindar servicio de hospitalización a aquellas Personas con la Condición del Espectro Autista cuya Comorbilidad o gravedad implique dicha necesidad, y
 
-IV. Realizar, bajo la coordinación de la Secretaría, campañas de información sobre las características propias de la condición del espectro autista en términos de la fracción III del artículo 16 de la Ley y observando los lineamientos generales para las campañas de comunicación social de las dependencias y entidades de la Administración Pública Federal que para tal efecto expida la Secretaría de Gobernación.
+IV. Realizar, bajo la coordinación de la Secretaría, campañas de información sobre las características propias de la condición del espectro autista en términos de la fracción III del artículo [16](../../lgappcea/markdown/articulo-16.md) de la Ley y observando los lineamientos generales para las campañas de comunicación social de las dependencias y entidades de la Administración Pública Federal que para tal efecto expida la Secretaría de Gobernación.

@@ -17,9 +17,9 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 88
 
-Para efectos de los artículos 45, párrafo penúltimo y 46, párrafo último de la [Ley](articulo-1.md), los contribuyentes cancelarán la parte del ajuste anual por inflación correspondiente al crédito o deuda de la operación cancelada, conforme a lo siguiente:
+Para efectos de los artículos [45](../../lisr/markdown/articulo-45.md), párrafo penúltimo y 46, párrafo último de la [Ley](articulo-1.md), los contribuyentes cancelarán la parte del ajuste anual por inflación correspondiente al crédito o deuda de la operación cancelada, conforme a lo siguiente:
 
-I. Si la cancelación de la operación que dio lugar a un crédito o a una deuda ocurre antes del cuarto mes del ejercicio siguiente a aquél en el que se concertó la operación de que se trate, los contribuyentes restarán del saldo promedio anual de los créditos o de las deudas del ejercicio en el que se acumuló el ingreso o se concertó la deuda que se cancelan, según corresponda, el saldo promedio del crédito o de la deuda del periodo en el que se consideró como crédito o como deuda conforme a lo dispuesto en los artículos 45 y 46 de la Ley.
+I. Si la cancelación de la operación que dio lugar a un crédito o a una deuda ocurre antes del cuarto mes del ejercicio siguiente a aquél en el que se concertó la operación de que se trate, los contribuyentes restarán del saldo promedio anual de los créditos o de las deudas del ejercicio en el que se acumuló el ingreso o se concertó la deuda que se cancelan, según corresponda, el saldo promedio del crédito o de la deuda del periodo en el que se consideró como crédito o como deuda conforme a lo dispuesto en los artículos [45](../../lisr/markdown/articulo-45.md) y [46](../../lisr/markdown/articulo-46.md) de la Ley.
 
 Asimismo, cuando los créditos o deudas sean cancelados en los primeros tres meses del ejercicio siguiente a que se refiere el párrafo anterior, no se considerarán en el saldo promedio anual de los créditos o de las deudas, según corresponda, del ejercicio en el que se cancele la operación de que se trate, y
 

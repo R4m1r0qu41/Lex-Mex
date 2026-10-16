@@ -21,7 +21,7 @@ Los criterios que expida el Procurador para la aplicación de sanciones deberán
 
 I. Las reglas de acumulación de sanciones;
 
-II. El mecanismo de graduación, considerando los elementos a que se refiere el artículo 132 de la Ley, así como para la cuantificación de los respectivos montos de multa, y
+II. El mecanismo de graduación, considerando los elementos a que se refiere el artículo [132](../../lfpc/markdown/articulo-132.md) de la Ley, así como para la cuantificación de los respectivos montos de multa, y
 
 III. En materia de clausuras, el mecanismo para la determinación de los días que correspondan a dicha sanción.
 

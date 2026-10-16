@@ -1,6 +1,65 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2:reference:94-95:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "source_span": "4",
+    "start_char": 94,
+    "end_char": 95,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2:reference:572-575:113:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "source_span": "113",
+    "start_char": 572,
+    "end_char": 575,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:113",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VIII",
+        "start_char": 577,
+        "end_char": 590
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2:reference:965-966:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "source_span": "4",
+    "start_char": 965,
+    "end_char": 966,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones XV y XVI",
+        "start_char": 968,
+        "end_char": 987
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2:reference:1936-1937:2:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
     "source_span": "2",
@@ -45,6 +104,87 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2:reference:2787-2788:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "source_span": "4",
+    "start_char": 2787,
+    "end_char": 2788,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XVII",
+        "start_char": 2790,
+        "end_char": 2803
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2:reference:3363-3365:88:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "source_span": "88",
+    "start_char": 3363,
+    "end_char": 3365,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:88",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 3367,
+        "end_char": 3377
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:23:reference:335-337:75:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:23",
+    "source_span": "75",
+    "start_char": 335,
+    "end_char": 337,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:75",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 306,
+        "end_char": 321
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:28:reference:401-403:78:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:28",
+    "source_span": "78",
+    "start_char": 401,
+    "end_char": 403,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:78",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:32:reference:400-402:73:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:32",
     "source_span": "73",
@@ -53,6 +193,95 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:73",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:40:reference:1664-1666:93:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:40",
+    "source_span": "93",
+    "start_char": 1664,
+    "end_char": 1666,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:93",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:44:reference:38-40:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:44",
+    "source_span": "89",
+    "start_char": 38,
+    "end_char": 40,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:89",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:45:reference:59-61:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:45",
+    "source_span": "89",
+    "start_char": 59,
+    "end_char": 61,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:89",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46:reference:33-35:90:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46",
+    "source_span": "90",
+    "start_char": 33,
+    "end_char": 35,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:90",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 37,
+        "end_char": 48
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46:reference:51-54:113:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46",
+    "source_span": "113",
+    "start_char": 51,
+    "end_char": 54,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:113",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VIII",
+        "start_char": 56,
+        "end_char": 69
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -90,6 +319,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:49:reference:164-166:90:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:49",
+    "source_span": "90",
+    "start_char": 164,
+    "end_char": 166,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:90",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:55:reference:423-425:22:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:55",
     "source_span": "22",
@@ -97,6 +341,21 @@
     "end_char": 425,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:22",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:66:reference:63-65:81:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:66",
+    "source_span": "81",
+    "start_char": 63,
+    "end_char": 65,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:81",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -127,6 +386,43 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:72:reference:434-436:81:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:72",
+    "source_span": "81",
+    "start_char": 434,
+    "end_char": 436,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:81",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 438,
+        "end_char": 452
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:72:reference:2052-2054:90:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:72",
+    "source_span": "90",
+    "start_char": 2052,
+    "end_char": 2054,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:90",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:74:reference:55-57:72:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:74",
     "source_span": "72",
@@ -135,6 +431,58 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:72",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:77:reference:101-103:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:77",
+    "source_span": "52",
+    "start_char": 101,
+    "end_char": 103,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:52",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:77:reference:106-108:81:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:77",
+    "source_span": "81",
+    "start_char": 106,
+    "end_char": 108,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:81",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:78:reference:92-94:90:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:78",
+    "source_span": "90",
+    "start_char": 92,
+    "end_char": 94,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:90",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I, II, III",
+        "start_char": 96,
+        "end_char": 117
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -170,6 +518,124 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:79:reference:150-152:90:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:79",
+    "source_span": "90",
+    "start_char": 150,
+    "end_char": 152,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:90",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 124,
+        "end_char": 136
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:79:reference:247-249:83:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:79",
+    "source_span": "83",
+    "start_char": 247,
+    "end_char": 249,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:83",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:80:reference:93-96:113:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:80",
+    "source_span": "113",
+    "start_char": 93,
+    "end_char": 96,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:113",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 67,
+        "end_char": 79
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:81:reference:82-84:92:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:81",
+    "source_span": "92",
+    "start_char": 82,
+    "end_char": 84,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:92",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:82:reference:239-242:113:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:82",
+    "source_span": "113",
+    "start_char": 239,
+    "end_char": 242,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:113",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XIII",
+        "start_char": 212,
+        "end_char": 225
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:83:reference:21-24:113:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:83",
+    "source_span": "113",
+    "start_char": 21,
+    "end_char": 24,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:113",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 26,
+        "end_char": 37
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgtrata:transitory:decimo-primero:reference:205-207:84:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:transitory:decimo-primero",
     "source_span": "84",
@@ -177,6 +643,36 @@
     "end_char": 207,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:84",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:transitory:octavo:reference:248-250:83:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:transitory:octavo",
+    "source_span": "83",
+    "start_char": 248,
+    "end_char": 250,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:83",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:transitory:tercero:reference:21-23:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:transitory:tercero",
+    "source_span": "89",
+    "start_char": 21,
+    "end_char": 23,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:89",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

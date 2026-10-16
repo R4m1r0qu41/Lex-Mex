@@ -17,6 +17,6 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 26
 
-Para efectuar el registro señalado en el artículo 78, segundo párrafo de la [Ley](articulo-2.md), los zoológicos, espectáculos públicos fijos o itinerantes, circos y colecciones privadas se sujetarán a lo dispuesto en los artículos [131](articulo-131.md) y [131 Bis](articulo-131-Bis.md) de este Reglamento.
+Para efectuar el registro señalado en el artículo [78](../../lgvs/markdown/articulo-78.md), segundo párrafo de la [Ley](articulo-2.md), los zoológicos, espectáculos públicos fijos o itinerantes, circos y colecciones privadas se sujetarán a lo dispuesto en los artículos [131](articulo-131.md) y [131 Bis](articulo-131-Bis.md) de este Reglamento.
 
 Artículo reformado DOF 09-05-2014

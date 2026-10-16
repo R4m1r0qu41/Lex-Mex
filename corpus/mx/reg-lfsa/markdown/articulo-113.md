@@ -17,4 +17,4 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 113
 
-Los convenios o acuerdos a los que se refiere el artículo 67 de la [Ley](articulo-2.md), serán en materia de coadyuvancia y coordinación para la inspección y verificación en los puntos de verificación Interna autorizados por la Secretaría, y en su caso en otras actividades vinculadas a la movilización.
+Los convenios o acuerdos a los que se refiere el artículo [67](../../lfsa/markdown/articulo-67.md) de la [Ley](articulo-2.md), serán en materia de coadyuvancia y coordinación para la inspección y verificación en los puntos de verificación Interna autorizados por la Secretaría, y en su caso en otras actividades vinculadas a la movilización.

@@ -19,4 +19,4 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 El [Personal Asimilado](articulo-2.md) se integrará por los agregados civiles, militares y aéreos o navales, y por técnicos procedentes de otras dependencias o entidades de la Administración Pública Federal, que sean acreditados por la Secretaría.
 
-El Personal Asimilado, antes de su acreditación, deberá cumplir con los requisitos señalados en las fracciones I y III a V del artículo 32 de la Ley.
+El Personal Asimilado, antes de su acreditación, deberá cumplir con los requisitos señalados en las fracciones I y III a V del artículo [32](../../lsem/markdown/articulo-32.md) de la Ley.

@@ -17,4 +17,4 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 116
 
-Para los efectos del primer párrafo del artículo 59 de la ley, los pueblos indígenas, las organizaciones sociales, públicas o privadas y demás personas interesadas, podrán promover ante la Secretaría el establecimiento de áreas naturales protegidas en predios de su propiedad o mediante contrato con terceros, para destinarlos a la preservación, protección y restauración de la biodiversidad.
+Para los efectos del primer párrafo del artículo [59](../../lgeepa/markdown/articulo-59.md) de la ley, los pueblos indígenas, las organizaciones sociales, públicas o privadas y demás personas interesadas, podrán promover ante la Secretaría el establecimiento de áreas naturales protegidas en predios de su propiedad o mediante contrato con terceros, para destinarlos a la preservación, protección y restauración de la biodiversidad.

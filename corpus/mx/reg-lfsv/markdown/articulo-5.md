@@ -17,7 +17,7 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 5
 
-Para efectos del artículo 19, penúltimo párrafo de la [Ley](articulo-2.md), todo trámite o servicio requerido a la Secretaría, se realizará a través de una solicitud, la cual deberá presentarse por el interesado en los formatos que para tal efecto publique la Secretaría en el Diario Oficial de la Federación, y cuando no existan dichos formatos, la solicitud se presentará mediante escrito libre, cumpliendo los requisitos que se señalan en las Disposiciones Legales Aplicables.
+Para efectos del artículo [19](../../lfsv/markdown/articulo-19.md), penúltimo párrafo de la [Ley](articulo-2.md), todo trámite o servicio requerido a la Secretaría, se realizará a través de una solicitud, la cual deberá presentarse por el interesado en los formatos que para tal efecto publique la Secretaría en el Diario Oficial de la Federación, y cuando no existan dichos formatos, la solicitud se presentará mediante escrito libre, cumpliendo los requisitos que se señalan en las Disposiciones Legales Aplicables.
 
 Los formatos y el escrito libre referidos en el párrafo anterior deberán contener, como mínimo, la información siguiente:
 

@@ -17,4 +17,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 27
 
-Los criterios para recabar la información a que se refiere la fracción III del artículo 15 de la Ley, serán determinados por el Centro Nacional de Información del Secretariado Ejecutivo en coordinación con el Centro Nacional.
+Los criterios para recabar la información a que se refiere la fracción III del artículo [15](../../lgpsvd/markdown/articulo-15.md) de la Ley, serán determinados por el Centro Nacional de Información del Secretariado Ejecutivo en coordinación con el Centro Nacional.

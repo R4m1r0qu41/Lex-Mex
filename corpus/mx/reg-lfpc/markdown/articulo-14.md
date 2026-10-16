@@ -17,7 +17,7 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 14
 
-El auxilio de la fuerza pública previsto en la fracción II del artículo 25 de la Ley, se solicitará para llevar a cabo la ejecución del acto administrativo ordenado por la Procuraduría, cuando:
+El auxilio de la fuerza pública previsto en la fracción II del artículo [25](../../lfpc/markdown/articulo-25.md) de la Ley, se solicitará para llevar a cabo la ejecución del acto administrativo ordenado por la Procuraduría, cuando:
 
 I. Existan acciones u omisiones que impidan llevar a cabo los actos ordenados por la Procuraduría, o
 

@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 83
 
-Los Prestadores de Servicios Turísticos están obligados a inscribirse en el Registro Nacional de Turismo, de conformidad con el artículo 48 de la Ley.
+Los Prestadores de Servicios Turísticos están obligados a inscribirse en el Registro Nacional de Turismo, de conformidad con el artículo [48](../../lgt/markdown/articulo-48.md) de la Ley.
 
 Para cumplir con lo señalado en el párrafo anterior, los Prestadores de Servicios Turísticos, obligados a la inscripción, son los señalados en el catálogo siguiente:
 

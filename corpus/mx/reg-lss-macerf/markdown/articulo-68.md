@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 68
 
-El Instituto podrá allegarse de los elementos de juicio necesarios para determinar si el padre y la madre que vivan en el domicilio del asegurado o pensionado, así como el concubinario son sus dependientes económicos, en términos del artículo 84 de la Ley.
+El Instituto podrá allegarse de los elementos de juicio necesarios para determinar si el padre y la madre que vivan en el domicilio del asegurado o pensionado, así como el concubinario son sus dependientes económicos, en términos del artículo [84](../../lss/markdown/articulo-84.md) de la Ley.
 
 Por lo que se refiere a los demás beneficiarios establecidos en dicho artículo, acreditado el parentesco, se presumirá cumplido el requisito de la dependencia económica.

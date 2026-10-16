@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 161
 
-Para efectos de los artículos 118, fracción V y 128 de la [Ley](articulo-1.md), los contribuyentes deberán informar el monto de las contraprestaciones recibidas en efectivo en moneda nacional o extranjera, así como en piezas de oro o plata, si al incluir los impuestos correspondientes, supera la cantidad establecida en dichos artículos.
+Para efectos de los artículos [118](../../lisr/markdown/articulo-118.md), fracción V y [128](../../lisr/markdown/articulo-128.md) de la [Ley](articulo-1.md), los contribuyentes deberán informar el monto de las contraprestaciones recibidas en efectivo en moneda nacional o extranjera, así como en piezas de oro o plata, si al incluir los impuestos correspondientes, supera la cantidad establecida en dichos artículos.
 
 El informe a que se refiere el párrafo anterior, también se presentará cuando se efectúe respecto de una misma operación uno o varios pagos en efectivo en moneda nacional o extranjera, o bien, en piezas de oro o plata, y que la suma de ellos supere los cien mil pesos, remitiéndose dicho informe a más tardar el día diecisiete del mes inmediato posterior a aquél en el que se rebase el monto señalado.
 

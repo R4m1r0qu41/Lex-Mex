@@ -17,4 +17,4 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 # Artículo 85
 
-Las [Administradoras](articulo-2o.md) podrán no constituir reserva especial en las Sociedades de Inversión que tengan por objeto exclusivo, la inversión de recursos provenientes de Fondos de Previsión Social, de conformidad con lo dispuesto por el segundo párrafo del artículo 28 de la [Ley](articulo-2o.md).
+Las [Administradoras](articulo-2o.md) podrán no constituir reserva especial en las Sociedades de Inversión que tengan por objeto exclusivo, la inversión de recursos provenientes de Fondos de Previsión Social, de conformidad con lo dispuesto por el segundo párrafo del artículo [28](../../lsar/markdown/articulo-28.md) de la [Ley](articulo-2o.md).

@@ -17,6 +17,6 @@ source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 
 # Artículo 95 Bis 2
 
-Cualquier cirugía estética o cosmética deberá efectuarse en establecimientos o unidades médicas que cuenten con licencia sanitaria vigente en términos de lo establecido en el artículo 198, fracción V de la Ley.
+Cualquier cirugía estética o cosmética deberá efectuarse en establecimientos o unidades médicas que cuenten con licencia sanitaria vigente en términos de lo establecido en el artículo [198](../../lgs/markdown/articulo-198.md), fracción V de la Ley.
 
 Artículo adicionado DOF 04-12-2009

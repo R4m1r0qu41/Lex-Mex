@@ -17,6 +17,6 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 275
 
-Tratándose de licitaciones públicas internacionales bajo la cobertura de tratados, conforme a lo dispuesto por el artículo 5 de la [Ley](articulo-2.md), el plazo para promover la inconformidad será de diez días hábiles.
+Tratándose de licitaciones públicas internacionales bajo la cobertura de tratados, conforme a lo dispuesto por el artículo [5](../../lopsrm/markdown/articulo-5.md) de la [Ley](articulo-2.md), el plazo para promover la inconformidad será de diez días hábiles.
 
 En los procedimientos de invitación a cuando menos tres personas en las que se celebre junta de aclaraciones, el plazo para promover la inconformidad comenzará a partir del día siguiente al de la celebración de la última junta. En caso de que no se realice la junta de aclaraciones, el plazo se computará a partir del día siguiente al de la recepción de la invitación.

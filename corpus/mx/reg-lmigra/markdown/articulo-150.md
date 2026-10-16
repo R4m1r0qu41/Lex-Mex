@@ -35,6 +35,6 @@ VII. Posteriormente, la persona extranjera podrá tramitar ante la Secretaría d
 
 VIII. En caso de que se determine el no reconocimiento de apátrida, la persona extranjera podrá solicitar la regularización de su situación migratoria.
 
-En caso de que el Instituto constate que la persona extranjera se ubica dentro de los supuestos del artículo 43 de la Ley, la Secretaría a través del Instituto, deberá emitir resolución debidamente fundada y motivada en la que niegue el otorgamiento de la residencia permanente y se ordene su salida del territorio nacional en un plazo no mayor a treinta días ni menor a quince días naturales.
+En caso de que el Instituto constate que la persona extranjera se ubica dentro de los supuestos del artículo [43](../../lmigra/markdown/articulo-43.md) de la Ley, la Secretaría a través del Instituto, deberá emitir resolución debidamente fundada y motivada en la que niegue el otorgamiento de la residencia permanente y se ordene su salida del territorio nacional en un plazo no mayor a treinta días ni menor a quince días naturales.
 
 Los apátridas que cuenten con documento que acrediten su residencia en otro Estado, deberán solicitar ingreso al territorio nacional en la condición de estancia que corresponda a las actividades que pretenda desarrollar.

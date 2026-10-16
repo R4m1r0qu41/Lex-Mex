@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 95
 
-Para efectos del artículo 55, fracción IV de la [Ley](articulo-1.md), también se entenderán como depósitos en efectivo, las cantidades en efectivo destinadas al pago de un crédito, préstamo o financiamiento otorgado por una institución del sistema financiero a una persona física o moral, que excedan del monto adeudado por tales conceptos.
+Para efectos del artículo [55](../../lisr/markdown/articulo-55.md), fracción IV de la [Ley](articulo-1.md), también se entenderán como depósitos en efectivo, las cantidades en efectivo destinadas al pago de un crédito, préstamo o financiamiento otorgado por una institución del sistema financiero a una persona física o moral, que excedan del monto adeudado por tales conceptos.

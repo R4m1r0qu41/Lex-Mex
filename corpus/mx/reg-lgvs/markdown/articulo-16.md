@@ -17,7 +17,7 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 16
 
-La Secretaría, de conformidad con el artículo 9, fracciones V y XVI, de la [Ley](articulo-2.md), podrá establecer medidas sanitarias complementarias a las establecidas por otras dependencias competentes de la Administración Pública Federal, cuando:
+La Secretaría, de conformidad con el artículo [9](../../lgvs/markdown/articulo-9o.md), fracciones V y XVI, de la [Ley](articulo-2.md), podrá establecer medidas sanitarias complementarias a las establecidas por otras dependencias competentes de la Administración Pública Federal, cuando:
 
 I. El control sanitario por parte de las otras dependencias pueda tener efectos sobre la vida silvestre;
 

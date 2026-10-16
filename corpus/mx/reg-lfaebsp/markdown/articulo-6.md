@@ -17,7 +17,7 @@ source_sha256: 9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3
 
 # Artículo 6
 
-Tratándose de bienes que hayan sido asegurados en procedimientos penales federales, de conformidad con lo previsto en la fracción XII, del artículo 78 de la [Ley](articulo-1.md), el SAE emitirá la correspondiente declaración de abandono a favor del Gobierno Federal, la cual contendrá: Párrafo reformado DOF 29-11-2006
+Tratándose de bienes que hayan sido asegurados en procedimientos penales federales, de conformidad con lo previsto en la fracción XII, del artículo [78](../../lfaebsp/markdown/articulo-78.md) de la [Ley](articulo-1.md), el SAE emitirá la correspondiente declaración de abandono a favor del Gobierno Federal, la cual contendrá: Párrafo reformado DOF 29-11-2006
 
 I. Autoridad que ordenó el aseguramiento del bien;
 

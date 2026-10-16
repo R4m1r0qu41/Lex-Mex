@@ -17,4 +17,4 @@ source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 
 # Artículo 48
 
-La Autorización a que hace referencia el artículo [41](articulo-41.md) del presente Reglamento, tendrá la vigencia que determine cada [Autoridad Competente](articulo-3.md), conforme a la Modalidad y [Modelo de Atención](articulo-3.md), de acuerdo a la normatividad de cada una de ellas, la cual no podrá ser menor un año, en términos del artículo 51 de la Ley.
+La Autorización a que hace referencia el artículo [41](articulo-41.md) del presente Reglamento, tendrá la vigencia que determine cada [Autoridad Competente](articulo-3.md), conforme a la Modalidad y [Modelo de Atención](articulo-3.md), de acuerdo a la normatividad de cada una de ellas, la cual no podrá ser menor un año, en términos del artículo [51](../../lgpsacdii/markdown/articulo-51.md) de la Ley.

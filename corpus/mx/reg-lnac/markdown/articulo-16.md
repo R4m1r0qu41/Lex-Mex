@@ -17,7 +17,7 @@ source_sha256: bd9ba59ab5016fd7d8737d382113a20e450b188e586925c31a1ef7c2af3f0065
 
 # Artículo 16
 
-Para naturalizarse mexicano en términos de lo previsto en el primer párrafo del artículo 20 de la Ley, el interesado deberá cumplir con los siguientes requisitos:
+Para naturalizarse mexicano en términos de lo previsto en el primer párrafo del artículo [20](../../lnac/markdown/articulo-20.md) de la Ley, el interesado deberá cumplir con los siguientes requisitos:
 
 I.- Ser mayor de edad y en uso de sus derechos civiles;
 
@@ -29,7 +29,7 @@ IV.- Entregar copia certificada del acta de nacimiento extranjera, debidamente l
 
 V.- Presentar original del pasaporte extranjero o, en su caso, del documento de identidad y viaje, vigentes;
 
-VI.- Presentar una carta, bajo protesta de decir verdad, señalando con claridad el número de salidas y entradas que ha realizado del y hacia el país en el término legal que corresponda, para el cómputo de ausencias, a que se refiere el artículo 21 de la Ley;
+VI.- Presentar una carta, bajo protesta de decir verdad, señalando con claridad el número de salidas y entradas que ha realizado del y hacia el país en el término legal que corresponda, para el cómputo de ausencias, a que se refiere el artículo [21](../../lnac/markdown/articulo-21.md) de la Ley;
 
 VII.- Entregar constancia o certificado de no antecedentes penales expedido por autoridad competente a nivel federal y local dependiendo del lugar de su residencia, en original;
 

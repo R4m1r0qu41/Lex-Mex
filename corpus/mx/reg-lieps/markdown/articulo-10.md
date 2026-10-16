@@ -17,4 +17,4 @@ source_sha256: cb15a70b51a87cff0f6d329d5e8a97617d71c955e46da65921037a77a83ca5f4
 
 # Artículo 10
 
-Para los efectos del artículo 15 de la Ley, el impuesto que se pague en la importación de bienes tangibles, se enterará utilizando la forma por medio de la cual se efectúe el pago del impuesto general de importación, aun cuando no se deba pagar este último gravamen.
+Para los efectos del artículo [15](../../lieps/markdown/articulo-15.md) de la Ley, el impuesto que se pague en la importación de bienes tangibles, se enterará utilizando la forma por medio de la cual se efectúe el pago del impuesto general de importación, aun cuando no se deba pagar este último gravamen.

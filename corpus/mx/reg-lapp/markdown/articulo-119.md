@@ -19,4 +19,4 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 Las disposiciones del artículo 118 de la Ley sólo serán aplicables a las modificaciones de los proyectos adjudicados mediante concurso, o mediante invitación a cuando menos tres personas, y en los supuestos que dicho artículo señala.
 
-Tales disposiciones no serán aplicables a las modificaciones establecidas en el artículo 117, fracciones III y V, de la Ley, ni en los contratos adjudicados de manera directa.
+Tales disposiciones no serán aplicables a las modificaciones establecidas en el artículo [117](../../lapp/markdown/articulo-117.md), fracciones III y V, de la Ley, ni en los contratos adjudicados de manera directa.

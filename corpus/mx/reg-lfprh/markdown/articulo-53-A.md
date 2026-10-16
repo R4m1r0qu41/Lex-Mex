@@ -17,7 +17,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 53-A
 
-Las erogaciones plurianuales para proyectos de inversión en infraestructura a que se refiere el último párrafo del artículo 32 de la [Ley](articulo-2.md), que las dependencias y entidades pretendan que la Secretaría incluya en un apartado específico del proyecto de Presupuesto de Egresos, deberán:
+Las erogaciones plurianuales para proyectos de inversión en infraestructura a que se refiere el último párrafo del artículo [32](../../lfprh/markdown/articulo-32.md) de la [Ley](articulo-2.md), que las dependencias y entidades pretendan que la Secretaría incluya en un apartado específico del proyecto de Presupuesto de Egresos, deberán:
 
 I. Contar con registro en la [Cartera](articulo-2.md);
 

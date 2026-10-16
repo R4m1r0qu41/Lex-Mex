@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 126
 
-Las cédulas de determinación por cuotas obrero patronales omitidas, derivadas del dictamen a que se refiere el artículo 16 de la Ley, deberán pagarse con la actualización y recargos correspondientes antes de la presentación del dictamen o conforme al artículo [149](articulo-149.md) de este Reglamento.
+Las cédulas de determinación por cuotas obrero patronales omitidas, derivadas del dictamen a que se refiere el artículo [16](../../lss/markdown/articulo-16.md) de la Ley, deberán pagarse con la actualización y recargos correspondientes antes de la presentación del dictamen o conforme al artículo [149](articulo-149.md) de este Reglamento.

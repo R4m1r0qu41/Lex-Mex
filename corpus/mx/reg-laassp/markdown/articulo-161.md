@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 161
 
-Cuando una instancia de inconformidad sea sobreseída o resuelta como infundada y, previo procedimiento administrativo sancionador se determine que se promovió para retrasar o entorpecer la contratación, se sancionará a la persona inconforme con inhabilitación de acuerdo a la fracción VII del artículo 90 de la [Ley](articulo-2.md) y multa en términos del párrafo primero del artículo 89 de la Ley.
+Cuando una instancia de inconformidad sea sobreseída o resuelta como infundada y, previo procedimiento administrativo sancionador se determine que se promovió para retrasar o entorpecer la contratación, se sancionará a la persona inconforme con inhabilitación de acuerdo a la fracción VII del artículo [90](../../laassp/markdown/articulo-90.md) de la [Ley](articulo-2.md) y multa en términos del párrafo primero del artículo [89](../../laassp/markdown/articulo-89.md) de la Ley.

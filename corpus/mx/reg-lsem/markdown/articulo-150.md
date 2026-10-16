@@ -21,7 +21,7 @@ Para el caso de irregularidades administrativas no graves, las facultades del Se
 
 Cuando se trate de irregularidades administrativas graves el plazo de prescripción será de siete años, contados en los mismos términos del párrafo anterior.
 
-La prescripción se interrumpirá con la admisión del Informe de presunta irregularidad, a que se refiere la fracción III del artículo 60 de la Ley. Si se dejare de actuar en los procedimientos disciplinarios originados con motivo de la admisión del Informe de presunta irregularidad y, como consecuencia de ello, se produjera la caducidad de la instancia, la prescripción se reanudará desde el día en que se admitió dicho Informe.
+La prescripción se interrumpirá con la admisión del Informe de presunta irregularidad, a que se refiere la fracción III del artículo [60](../../lsem/markdown/articulo-60.md) de la Ley. Si se dejare de actuar en los procedimientos disciplinarios originados con motivo de la admisión del Informe de presunta irregularidad y, como consecuencia de ello, se produjera la caducidad de la instancia, la prescripción se reanudará desde el día en que se admitió dicho Informe.
 
 En ningún caso, en los procedimientos disciplinarios podrá dejar de actuarse por más de un año sin causa justificada; en caso de actualizarse dicha inactividad, se decretará, a solicitud del presunto infractor, la caducidad de la instancia.
 

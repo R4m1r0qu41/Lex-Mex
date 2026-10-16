@@ -27,7 +27,7 @@ c) Comprobantes de pago o constancias de no adeudos de los últimos cinco años 
 
 d) El instrumento jurídico que desincorpore del régimen de dominio público el inmueble respectivo y autorice su venta, o bien el acuerdo del órgano de gobierno de los organismos descentralizados y el dictamen de no utilidad, cuando se trate de inmuebles propiedad de éstos que no sean utilizados directamente en el cumplimiento de su objeto;
 
-e) Manifestación de la entidad transferente, de que los bienes no son de los señalados en el último párrafo del artículo 5 de la [Ley](articulo-1.md);
+e) Manifestación de la entidad transferente, de que los bienes no son de los señalados en el último párrafo del artículo [5](../../lfaebsp/markdown/articulo-5o.md) de la [Ley](articulo-1.md);
 
 f) Certificado de libertad de gravámenes, y
 
@@ -41,9 +41,9 @@ b) Datos de su ubicación;
 
 c) Cuando existan, los avalúos y cuando procedan, las referencias de valor, y Inciso reformado DOF 29-11-2006
 
-d) Manifestación de la entidad transferente, de que los bienes no son de los señalados en el último párrafo del artículo 5 de la Ley.
+d) Manifestación de la entidad transferente, de que los bienes no son de los señalados en el último párrafo del artículo [5](../../lfaebsp/markdown/articulo-5o.md) de la Ley.
 
-III. Para el caso de los bienes a que hace referencia la fracción VII del artículo 1 de la Ley, así como aquéllos de los que deriven obligaciones, derechos de cobro o acciones:
+III. Para el caso de los bienes a que hace referencia la fracción VII del artículo [1](../../lfaebsp/markdown/articulo-1o.md) de la Ley, así como aquéllos de los que deriven obligaciones, derechos de cobro o acciones:
 
 a) Bases de datos;
 

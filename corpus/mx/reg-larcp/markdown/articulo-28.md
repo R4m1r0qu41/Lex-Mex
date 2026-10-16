@@ -17,7 +17,7 @@ source_sha256: 298ec78a8d6666f73ce8ccdd8a31ae0a06c18174139eacc0fe80d3a00d3f4b89
 
 # Artículo 28
 
-Las autoridades a que se refiere el artículo 25 de la [Ley](articulo-2o.md), no podrán asistir con carácter oficial a ningún acto religioso de culto público, ni participar en actividad que tenga motivos o propósitos similares.
+Las autoridades a que se refiere el artículo [25](../../larcp/markdown/articulo-25.md) de la [Ley](articulo-2o.md), no podrán asistir con carácter oficial a ningún acto religioso de culto público, ni participar en actividad que tenga motivos o propósitos similares.
 
 Se exceptúa de lo previsto en el párrafo anterior, al servidor público que asista a título personal a los actos religiosos de culto público o actividades que tengan motivos o propósitos similares.
 

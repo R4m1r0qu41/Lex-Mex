@@ -17,10 +17,10 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 3
 
-Para efectos de lo dispuesto en el artículo 45 de la [Ley](articulo-2.md), la Secretaría pondrá a disposición del Consejo, la información siguiente:
+Para efectos de lo dispuesto en el artículo [45](../../lgvs/markdown/articulo-45.md) de la [Ley](articulo-2.md), la Secretaría pondrá a disposición del Consejo, la información siguiente:
 
 I. Los planes de manejo de las [UMA](articulo-2.md) en vida libre que se propongan como candidatos al reconocimiento;
 
 II. Los informes anuales presentados por la UMA de que se trate, y
 
-III. Una ficha en la que detallará la forma en que se han distinguido las UMA conforme a cualquiera de los incisos a que se refiere el artículo 44 de la Ley.
+III. Una ficha en la que detallará la forma en que se han distinguido las UMA conforme a cualquiera de los incisos a que se refiere el artículo [44](../../lgvs/markdown/articulo-44.md) de la Ley.

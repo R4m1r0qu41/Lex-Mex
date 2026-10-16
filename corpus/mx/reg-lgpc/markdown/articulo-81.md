@@ -17,4 +17,4 @@ source_sha256: 5018478a6ca9ea39f9ca88ffcb68dde9a33bd4adec59dc75d2431f894b621fc2
 
 # Artículo 81
 
-El registro en el sistema electrónico será gratuito y podrán solicitarlo los particulares y dependencias públicas que en el territorio nacional ejercen las actividades a que se refiere el artículo 11 de la [Ley](articulo-2.md).
+El registro en el sistema electrónico será gratuito y podrán solicitarlo los particulares y dependencias públicas que en el territorio nacional ejercen las actividades a que se refiere el artículo [11](../../lgpc/markdown/articulo-11.md) de la [Ley](articulo-2.md).

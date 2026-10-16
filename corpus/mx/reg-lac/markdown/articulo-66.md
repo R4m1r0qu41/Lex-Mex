@@ -19,6 +19,6 @@ source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 
 Los seguros exigibles a las personas concesionarias, asignatarias, permisionarias y operadoras aéreas se deben contratar con una institución debidamente autorizada en los términos de la ley de la materia.
 
-El formato y contenido del contrato de seguro de cada modalidad de servicio, así como los montos mínimos de indemnización por evento y suma asegurada, de conformidad con los artículos 62 al 72 de la [Ley](articulo-2.md), se deben dar a conocer por la Agencia Federal de Aviación Civil mediante disposición administrativa que será publicada en el Diario Oficial de la Federación.
+El formato y contenido del contrato de seguro de cada modalidad de servicio, así como los montos mínimos de indemnización por evento y suma asegurada, de conformidad con los artículos [62](../../lac/markdown/articulo-62.md) al [72](../../lac/markdown/articulo-72.md) de la [Ley](articulo-2.md), se deben dar a conocer por la Agencia Federal de Aviación Civil mediante disposición administrativa que será publicada en el Diario Oficial de la Federación.
 
 Artículo reformado DOF 31-05-2023

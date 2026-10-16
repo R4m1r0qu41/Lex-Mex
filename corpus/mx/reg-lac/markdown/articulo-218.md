@@ -17,6 +17,6 @@ source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 
 # Artículo 218
 
-Los proveedores de servicio se asegurarán dentro de su organización, de que todos los titulares de licencias reguladas en la [Ley](articulo-2.md), que incurran en los supuestos previstos en la fracción I del artículo 90 de la Ley, sean identificados y retirados de cualquier función en que se ponga en riesgo la seguridad operacional.
+Los proveedores de servicio se asegurarán dentro de su organización, de que todos los titulares de licencias reguladas en la [Ley](articulo-2.md), que incurran en los supuestos previstos en la fracción I del artículo [90](../../lac/markdown/articulo-90.md) de la Ley, sean identificados y retirados de cualquier función en que se ponga en riesgo la seguridad operacional.
 
 Artículo adicionado DOF 21-01-2022

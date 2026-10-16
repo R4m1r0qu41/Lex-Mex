@@ -17,7 +17,7 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 10
 
-El premio a que se refiere el artículo 44, último párrafo, de la [Ley](articulo-2.md), se denominará “Premio Anual de la Vida Silvestre”. Serán candidatos las personas que destaquen por sus labores de conservación de la vida silvestre y su hábitat natural. El premio consistirá en un diploma.
+El premio a que se refiere el artículo [44](../../lgvs/markdown/articulo-44.md), último párrafo, de la [Ley](articulo-2.md), se denominará “Premio Anual de la Vida Silvestre”. Serán candidatos las personas que destaquen por sus labores de conservación de la vida silvestre y su hábitat natural. El premio consistirá en un diploma.
 
 La Secretaría publicará la convocatoria anualmente en el Diario Oficial de la Federación y en dos periódicos de circulación nacional, la cual contendrá las bases para el otorgamiento del premio señalado en el párrafo anterior.
 

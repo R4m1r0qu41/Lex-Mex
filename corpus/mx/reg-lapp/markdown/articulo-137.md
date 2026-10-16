@@ -17,4 +17,4 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 137
 
-Sólo podrán participar en el comité de expertos previsto en el artículo 134 de la Ley, quienes cuenten con los conocimientos, capacidad y recursos técnicos relacionados con las divergencias a dirimir, conforme a los requisitos que para sus integrantes se estipulen en el contrato de asociación público-privada.
+Sólo podrán participar en el comité de expertos previsto en el artículo [134](../../lapp/markdown/articulo-134.md) de la Ley, quienes cuenten con los conocimientos, capacidad y recursos técnicos relacionados con las divergencias a dirimir, conforme a los requisitos que para sus integrantes se estipulen en el contrato de asociación público-privada.

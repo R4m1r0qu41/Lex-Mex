@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 253
 
-Las instituciones que componen el sistema financiero y los organismos a que se refiere el [artículo anterior](articulo-252.md), que perciban intereses derivados de los créditos hipotecarios a que se refiere el artículo 151, fracción IV de la [Ley](articulo-1.md), deberán consignar en el comprobante fiscal que proporcionen a los contribuyentes que les cubran dichos intereses, correspondiente al último mes del ejercicio de que se trate o en constancia anual, la información siguiente:
+Las instituciones que componen el sistema financiero y los organismos a que se refiere el [artículo anterior](articulo-252.md), que perciban intereses derivados de los créditos hipotecarios a que se refiere el artículo [151](../../lisr/markdown/articulo-151.md), fracción IV de la [Ley](articulo-1.md), deberán consignar en el comprobante fiscal que proporcionen a los contribuyentes que les cubran dichos intereses, correspondiente al último mes del ejercicio de que se trate o en constancia anual, la información siguiente:
 
 I. Nombre, domicilio y clave en el registro federal de contribuyentes, del deudor hipotecario de que se trate;
 

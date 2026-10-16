@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 6-A
 
-Para los efectos de los artículos 6o. y 9o.-A de la [Ley](articulo-1.md), las personas físicas y morales que realicen trámites a través del [Sistema Electrónico Aduanero](articulo-1.md), estarán a lo siguiente:
+Para los efectos de los artículos [6](../../ladua/markdown/articulo-6o.md)o. y 9o.-A de la [Ley](articulo-1.md), las personas físicas y morales que realicen trámites a través del [Sistema Electrónico Aduanero](articulo-1.md), estarán a lo siguiente:
 
 I. Deberán contar con:
 

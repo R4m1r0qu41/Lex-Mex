@@ -17,6 +17,6 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 61
 
-Para efectos del artículo 28, fracción XX de la [Ley](articulo-1.md), se entiende que para que la erogación sea deducible en términos de dicha disposición, el pago de la misma deberá efectuarse con tarjeta de crédito, de débito o de servicios, o a través de los monederos electrónicos, expedida a nombre del contribuyente que desee efectuar la deducción, debiendo conservar la documentación que compruebe lo anterior.
+Para efectos del artículo [28](../../lisr/markdown/articulo-28.md), fracción XX de la [Ley](articulo-1.md), se entiende que para que la erogación sea deducible en términos de dicha disposición, el pago de la misma deberá efectuarse con tarjeta de crédito, de débito o de servicios, o a través de los monederos electrónicos, expedida a nombre del contribuyente que desee efectuar la deducción, debiendo conservar la documentación que compruebe lo anterior.
 
 Lo dispuesto en este artículo será aplicable sin perjuicio del cumplimiento de los demás requisitos que establecen las disposiciones fiscales.

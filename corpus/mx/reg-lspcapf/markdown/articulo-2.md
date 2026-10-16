@@ -15,11 +15,11 @@ source_sha256: b4a968d8e8c138ac2069f6afa0dc622178328df24f59cf58eddbab8efe4a7eff
 
 # Artículo 2
 
-Para efectos del presente reglamento, además de lo previsto en el artículo 3 de la Ley, se entiende por:
+Para efectos del presente reglamento, además de lo previsto en el artículo [3](../../lspcapf/markdown/articulo-3.md) de la Ley, se entiende por:
 
 I. Ascenso: la promoción de un servidor público de carrera a un mayor rango o grupo en la estructura jerárquica de la dependencia en la que labora o presta sus servicios;
 
-II. Capacidades profesionales: el conjunto de conocimientos, actitudes y habilidades del servidor público de carrera, las cuales se refieren a las competencias requeridas para el adecuado desempeño en un puesto, y serán objeto de evaluación y, en su caso, certificación; III. Convenio: el acto jurídico al que se refiere el artículo 43 de la Ley, que celebran las dependencias con las autoridades federales, las entidades federativas, los municipios, las demarcaciones territoriales de la Ciudad de México y los organismos públicos o privados para fortalecer el desarrollo profesional del servidor público de carrera;
+II. Capacidades profesionales: el conjunto de conocimientos, actitudes y habilidades del servidor público de carrera, las cuales se refieren a las competencias requeridas para el adecuado desempeño en un puesto, y serán objeto de evaluación y, en su caso, certificación; III. Convenio: el acto jurídico al que se refiere el artículo [43](../../lspcapf/markdown/articulo-43.md) de la Ley, que celebran las dependencias con las autoridades federales, las entidades federativas, los municipios, las demarcaciones territoriales de la Ciudad de México y los organismos públicos o privados para fortalecer el desarrollo profesional del servidor público de carrera;
 
 IV. Cuerpo de función: la clasificación de la rama de cargo o puesto con base en grupos de funciones vinculadas por sus actividades y capacidades profesionales y que es la base para permitir la movilidad vertical u horizontal de los servidores públicos de carrera mediante los procesos de profesionalización;
 
@@ -41,9 +41,9 @@ XII. Movimiento o trayectoria lateral: los cambios del servidor público de carr
 
 XIII. Persona servidora pública de libre designación: la persona física que ocupa un puesto de libre designación y que no adquiere los derechos del Servicio Profesional de Carrera, pero está sujeta a los procedimientos de evaluación del desempeño;
 
-XIV. Programa Anual de Planeación del Sistema: el documento que emiten los Comités Técnicos de Profesionalización conforme a lo dispuesto en las fracciones IV y VI del artículo 75 de la Ley, mediante el cual se proponen acciones y metas específicas en materia de ingreso, desarrollo, capacitación, evaluación y separación en las dependencias, y su elaboración debe atender lo dispuesto por la Secretaría;
+XIV. Programa Anual de Planeación del Sistema: el documento que emiten los Comités Técnicos de Profesionalización conforme a lo dispuesto en las fracciones IV y VI del artículo [75](../../lspcapf/markdown/articulo-75.md) de la Ley, mediante el cual se proponen acciones y metas específicas en materia de ingreso, desarrollo, capacitación, evaluación y separación en las dependencias, y su elaboración debe atender lo dispuesto por la Secretaría;
 
-XV. Programa Operativo Anual del Sistema: el documento que, en términos del artículo 64 de la Ley, elabora la Secretaría con el apoyo de las dependencias y funge como mecanismo de evaluación de la operación del Sistema, a efecto de contar con elementos suficientes para su perfeccionamiento;
+XV. Programa Operativo Anual del Sistema: el documento que, en términos del artículo [64](../../lspcapf/markdown/articulo-64.md) de la Ley, elabora la Secretaría con el apoyo de las dependencias y funge como mecanismo de evaluación de la operación del Sistema, a efecto de contar con elementos suficientes para su perfeccionamiento;
 
 XVI. Promoción: el mecanismo de movilidad para que un servidor público de carrera ocupe un cargo dentro del Sistema de mayor responsabilidad o jerarquía, derivado del desarrollo profesional o por reconocimiento de elementos de mérito;
 

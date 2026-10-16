@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 17
 
-En el supuesto de que, de la evaluación anual a que se refiere el artículo 125 de la Ley, realizada por la Persona Comisaria, esta detecte un posible caso de conflicto de interés, debe elaborar y remitir inmediatamente a la Secretaría Anticorrupción y Buen Gobierno el dictamen correspondiente.
+En el supuesto de que, de la evaluación anual a que se refiere el artículo [125](../../lepepm/markdown/articulo-125.md) de la Ley, realizada por la Persona Comisaria, esta detecte un posible caso de conflicto de interés, debe elaborar y remitir inmediatamente a la Secretaría Anticorrupción y Buen Gobierno el dictamen correspondiente.

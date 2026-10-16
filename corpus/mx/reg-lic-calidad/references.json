@@ -16,6 +16,80 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:102:reference:1355-1357:59:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:102",
+    "source_span": "59",
+    "start_char": 1355,
+    "end_char": 1357,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:59",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I, IV, VI, VII, VIII y IX",
+        "start_char": 1359,
+        "end_char": 1395
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:103:reference:30-33:160:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:103",
+    "source_span": "160",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:160",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:103:reference:36-39:161:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:103",
+    "source_span": "161",
+    "start_char": 36,
+    "end_char": 39,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:161",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107:reference:26-28:60:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107",
+    "source_span": "60",
+    "start_char": 26,
+    "end_char": 28,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:60",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 30,
+        "end_char": 41
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:109:reference:128-145:108:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:109",
     "source_span": "artículo anterior",
@@ -28,6 +102,131 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:110:reference:26-28:64:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:110",
+    "source_span": "64",
+    "start_char": 26,
+    "end_char": 28,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:64",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo último",
+        "start_char": 30,
+        "end_char": 44
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:111:reference:227-229:58:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:111",
+    "source_span": "58",
+    "start_char": 227,
+    "end_char": 229,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:58",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I, VI, VII y VIII",
+        "start_char": 231,
+        "end_char": 259
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:111:reference:263-265:59:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:111",
+    "source_span": "59",
+    "start_char": 263,
+    "end_char": 265,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:59",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IX",
+        "start_char": 267,
+        "end_char": 278
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:113:reference:26-28:69:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:113",
+    "source_span": "69",
+    "start_char": 26,
+    "end_char": 28,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:69",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo último",
+        "start_char": 30,
+        "end_char": 44
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:115:reference:586-589:139:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:115",
+    "source_span": "139",
+    "start_char": 586,
+    "end_char": 589,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:139",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 591,
+        "end_char": 603
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:118:reference:2392-2394:70:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:118",
+    "source_span": "70",
+    "start_char": 2392,
+    "end_char": 2394,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:70",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -270,6 +469,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:131:reference:182-184:81:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:131",
+    "source_span": "81",
+    "start_char": 182,
+    "end_char": 184,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:81",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:133:reference:130-133:132:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:133",
     "source_span": "132",
@@ -345,6 +559,36 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:143:reference:34-36:77:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:143",
+    "source_span": "77",
+    "start_char": 34,
+    "end_char": 36,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:77",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:143:reference:39-41:81:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:143",
+    "source_span": "81",
+    "start_char": 39,
+    "end_char": 41,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:81",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:148:reference:622-624:15:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:148",
     "source_span": "15",
@@ -352,6 +596,36 @@
     "end_char": 624,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lic-calidad",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:15",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:15:reference:186-188:12:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:15",
+    "source_span": "12",
+    "start_char": 186,
+    "end_char": 188,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:12",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:152:reference:26-28:88:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:152",
+    "source_span": "88",
+    "start_char": 26,
+    "end_char": 28,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:88",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -375,6 +649,43 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:16:reference:232-234:12:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:16",
+    "source_span": "12",
+    "start_char": 232,
+    "end_char": 234,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:12",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:160:reference:26-28:80:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:160",
+    "source_span": "80",
+    "start_char": 26,
+    "end_char": 28,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:80",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 30,
+        "end_char": 41
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:167:reference:1110-1113:165:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:167",
     "source_span": "165",
@@ -382,6 +693,66 @@
     "end_char": 1113,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lic-calidad",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:165",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:170:reference:30-32:79:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:170",
+    "source_span": "79",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:79",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:171:reference:308-310:92:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:171",
+    "source_span": "92",
+    "start_char": 308,
+    "end_char": 310,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:92",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:172:reference:26-28:93:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:172",
+    "source_span": "93",
+    "start_char": 26,
+    "end_char": 28,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:93",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:176:reference:26-28:94:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:176",
+    "source_span": "94",
+    "start_char": 26,
+    "end_char": 28,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:94",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -405,6 +776,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:178:reference:90-92:95:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:178",
+    "source_span": "95",
+    "start_char": 90,
+    "end_char": 92,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:95",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:179:reference:473-490:178:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:179",
     "source_span": "artículo anterior",
@@ -420,6 +806,43 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:182:reference:26-28:97:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:182",
+    "source_span": "97",
+    "start_char": 26,
+    "end_char": 28,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:97",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 30,
+        "end_char": 40
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:184:reference:26-29:101:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:184",
+    "source_span": "101",
+    "start_char": 26,
+    "end_char": 29,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:101",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:185:reference:130-147:184:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:185",
     "source_span": "artículo anterior",
@@ -432,6 +855,28 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:186:reference:26-29:102:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:186",
+    "source_span": "102",
+    "start_char": 26,
+    "end_char": 29,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:102",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo tercero",
+        "start_char": 31,
+        "end_char": 46
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -457,6 +902,36 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:189:reference:26-29:103:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:189",
+    "source_span": "103",
+    "start_char": 26,
+    "end_char": 29,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:103",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:reference:86-89:105:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195",
+    "source_span": "105",
+    "start_char": 86,
+    "end_char": 89,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:105",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:reference:1899-1902:187:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195",
     "source_span": "187",
@@ -464,6 +939,297 @@
     "end_char": 1902,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lic-calidad",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:187",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:reference:2144-2146:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195",
+    "source_span": "66",
+    "start_char": 2144,
+    "end_char": 2146,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:66",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:196:reference:30-33:114:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:196",
+    "source_span": "114",
+    "start_char": 30,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:114",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:198:reference:92-95:115:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:198",
+    "source_span": "115",
+    "start_char": 92,
+    "end_char": 95,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:115",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:199:reference:120-122:34:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:199",
+    "source_span": "34",
+    "start_char": 120,
+    "end_char": 122,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:34",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:199:reference:124-126:75:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:199",
+    "source_span": "75",
+    "start_char": 124,
+    "end_char": 126,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:75",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:199:reference:129-132:117:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:199",
+    "source_span": "117",
+    "start_char": 129,
+    "end_char": 132,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:117",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:2:reference:4423-4425:12:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:2",
+    "source_span": "12",
+    "start_char": 4423,
+    "end_char": 4425,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:12",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:201:reference:26-29:119:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:201",
+    "source_span": "119",
+    "start_char": 26,
+    "end_char": 29,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:119",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 31,
+        "end_char": 46
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:202:reference:26-29:119:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:202",
+    "source_span": "119",
+    "start_char": 26,
+    "end_char": 29,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:119",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo último",
+        "start_char": 31,
+        "end_char": 45
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:203:reference:147-149:69:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:203",
+    "source_span": "69",
+    "start_char": 147,
+    "end_char": 149,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:69",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:204:reference:63-66:124:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:204",
+    "source_span": "124",
+    "start_char": 63,
+    "end_char": 66,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:124",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:207:reference:26-29:125:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:207",
+    "source_span": "125",
+    "start_char": 26,
+    "end_char": 29,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:125",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:210:reference:26-29:128:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:210",
+    "source_span": "128",
+    "start_char": 26,
+    "end_char": 29,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:128",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:211:reference:601-604:132:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:211",
+    "source_span": "132",
+    "start_char": 601,
+    "end_char": 604,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:132",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:212:reference:30-32:44:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:212",
+    "source_span": "44",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:44",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:212:reference:35-38:131:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:212",
+    "source_span": "131",
+    "start_char": 35,
+    "end_char": 38,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:131",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 40,
+        "end_char": 51
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:213:reference:26-29:135:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:213",
+    "source_span": "135",
+    "start_char": 26,
+    "end_char": 29,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:135",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:215:reference:123-126:137:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:215",
+    "source_span": "137",
+    "start_char": 123,
+    "end_char": 126,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:137",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -502,6 +1268,36 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:224:reference:251-254:145:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:224",
+    "source_span": "145",
+    "start_char": 251,
+    "end_char": 254,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:145",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:226:reference:25-26:6:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:226",
+    "source_span": "6",
+    "start_char": 25,
+    "end_char": 26,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:6",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:228:reference:86-103:227:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:228",
     "source_span": "artículo anterior",
@@ -514,6 +1310,117 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:235:reference:93-96:146:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:235",
+    "source_span": "146",
+    "start_char": 93,
+    "end_char": 96,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:146",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 98,
+        "end_char": 109
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:237:reference:94-97:147:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:237",
+    "source_span": "147",
+    "start_char": 94,
+    "end_char": 97,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:147",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 99,
+        "end_char": 109
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:238:reference:94-97:147:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:238",
+    "source_span": "147",
+    "start_char": 94,
+    "end_char": 97,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:147",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II, III y IV",
+        "start_char": 99,
+        "end_char": 122
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:238:reference:126-129:149:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:238",
+    "source_span": "149",
+    "start_char": 126,
+    "end_char": 129,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:149",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:239:reference:52-55:148:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:239",
+    "source_span": "148",
+    "start_char": 52,
+    "end_char": 55,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:148",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:242:reference:47-50:157:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:242",
+    "source_span": "157",
+    "start_char": 47,
+    "end_char": 50,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:157",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -547,6 +1454,90 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:28:reference:69-71:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:28",
+    "source_span": "16",
+    "start_char": 69,
+    "end_char": 71,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 73,
+        "end_char": 88
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 90,
+        "end_char": 101
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:28:reference:474-476:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:28",
+    "source_span": "16",
+    "start_char": 474,
+    "end_char": 476,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 478,
+        "end_char": 493
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 495,
+        "end_char": 505
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:29:reference:53-55:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:29",
+    "source_span": "16",
+    "start_char": 53,
+    "end_char": 55,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 57,
+        "end_char": 72
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones IV y V",
+        "start_char": 74,
+        "end_char": 91
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:30:reference:59-76:29:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:30",
     "source_span": "artículo anterior",
@@ -559,6 +1550,34 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:30:reference:137-139:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:30",
+    "source_span": "16",
+    "start_char": 137,
+    "end_char": 139,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 141,
+        "end_char": 156
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I, II y III",
+        "start_char": 158,
+        "end_char": 180
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -577,6 +1596,128 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:32:reference:58-60:18:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:32",
+    "source_span": "18",
+    "start_char": 58,
+    "end_char": 60,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:34:reference:83-85:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:34",
+    "source_span": "19",
+    "start_char": 83,
+    "end_char": 85,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:35:reference:66-68:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:35",
+    "source_span": "23",
+    "start_char": 66,
+    "end_char": 68,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:23",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:42:reference:277-279:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:42",
+    "source_span": "16",
+    "start_char": 277,
+    "end_char": 279,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 248,
+        "end_char": 263
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:43:reference:496-498:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:43",
+    "source_span": "16",
+    "start_char": 496,
+    "end_char": 498,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 500,
+        "end_char": 515
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y II",
+        "start_char": 517,
+        "end_char": 534
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones III",
+        "start_char": 644,
+        "end_char": 658
+      },
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 668,
+        "end_char": 683
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:50:reference:117-119:18:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:50",
+    "source_span": "18",
+    "start_char": 117,
+    "end_char": 119,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:56:reference:600-602:52:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:56",
     "source_span": "52",
@@ -585,6 +1726,28 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lic-calidad",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:52",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:56:reference:888-890:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:56",
+    "source_span": "26",
+    "start_char": 888,
+    "end_char": 890,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 859,
+        "end_char": 874
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -622,6 +1785,73 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:59:reference:228-230:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:59",
+    "source_span": "26",
+    "start_char": 228,
+    "end_char": 230,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 232,
+        "end_char": 247
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:61:reference:652-654:28:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:61",
+    "source_span": "28",
+    "start_char": 652,
+    "end_char": 654,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:28",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:65:reference:98-100:34:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:65",
+    "source_span": "34",
+    "start_char": 98,
+    "end_char": 100,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:34",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:65:reference:1829-1831:53:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:65",
+    "source_span": "53",
+    "start_char": 1829,
+    "end_char": 1831,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:53",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:65:reference:2387-2389:15:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:65",
     "source_span": "15",
@@ -629,6 +1859,21 @@
     "end_char": 2389,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lic-calidad",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:15",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:68:reference:158-160:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:68",
+    "source_span": "32",
+    "start_char": 158,
+    "end_char": 160,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:32",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -652,6 +1897,50 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:7:reference:96-98:10:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:7",
+    "source_span": "10",
+    "start_char": 96,
+    "end_char": 98,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:10",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XV",
+        "start_char": 71,
+        "end_char": 82
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:71:reference:74-76:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:71",
+    "source_span": "32",
+    "start_char": 74,
+    "end_char": 76,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:32",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo último",
+        "start_char": 78,
+        "end_char": 92
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:71:reference:499-501:79:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:71",
     "source_span": "79",
@@ -667,6 +1956,73 @@
         "end_char": 485
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:72:reference:203-205:35:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:72",
+    "source_span": "35",
+    "start_char": 203,
+    "end_char": 205,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:72:reference:787-789:38:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:72",
+    "source_span": "38",
+    "start_char": 787,
+    "end_char": 789,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:38",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:73:reference:81-83:35:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:73",
+    "source_span": "35",
+    "start_char": 81,
+    "end_char": 83,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 85,
+        "end_char": 95
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:76:reference:91-93:41:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:76",
+    "source_span": "41",
+    "start_char": 91,
+    "end_char": 93,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:41",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -704,6 +2060,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:79:reference:178-180:42:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:79",
+    "source_span": "42",
+    "start_char": 178,
+    "end_char": 180,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:42",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:79:reference:235-237:71:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:79",
     "source_span": "71",
@@ -712,6 +2083,80 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lic-calidad",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:71",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:8:reference:80-82:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:8",
+    "source_span": "11",
+    "start_char": 80,
+    "end_char": 82,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:11",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:81:reference:271-273:54:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:81",
+    "source_span": "54",
+    "start_char": 271,
+    "end_char": 273,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:54",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II y III",
+        "start_char": 274,
+        "end_char": 293
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:81:reference:296-298:55:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:81",
+    "source_span": "55",
+    "start_char": 296,
+    "end_char": 298,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:55",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:84:reference:522-523:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:84",
+    "source_span": "4",
+    "start_char": 522,
+    "end_char": 523,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XVII",
+        "start_char": 525,
+        "end_char": 538
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -749,6 +2194,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:86:reference:123-125:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:86",
+    "source_span": "66",
+    "start_char": 123,
+    "end_char": 125,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:66",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:87:reference:274-276:97:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:87",
     "source_span": "97",
@@ -756,6 +2216,110 @@
     "end_char": 276,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lic-calidad",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:97",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:88:reference:42-44:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:88",
+    "source_span": "66",
+    "start_char": 42,
+    "end_char": 44,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:66",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:89:reference:88-90:49:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:89",
+    "source_span": "49",
+    "start_char": 88,
+    "end_char": 90,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:49",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:9:reference:49-51:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:9",
+    "source_span": "11",
+    "start_char": 49,
+    "end_char": 51,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:11",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 53,
+        "end_char": 68
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:91:reference:30-32:53:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:91",
+    "source_span": "53",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:53",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 34,
+        "end_char": 45
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:93:reference:69-71:54:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:93",
+    "source_span": "54",
+    "start_char": 69,
+    "end_char": 71,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:54",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:93:reference:2443-2445:54:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:93",
+    "source_span": "54",
+    "start_char": 2443,
+    "end_char": 2445,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:54",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -786,6 +2350,65 @@
     "end_char": 474,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lic-calidad",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:96",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:96:reference:315-317:55:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:96",
+    "source_span": "55",
+    "start_char": 315,
+    "end_char": 317,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:55",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 319,
+        "end_char": 330
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:96:reference:823-825:55:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:96",
+    "source_span": "55",
+    "start_char": 823,
+    "end_char": 825,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:55",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 827,
+        "end_char": 839
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:97:reference:61-63:45:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:97",
+    "source_span": "45",
+    "start_char": 61,
+    "end_char": 63,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:45",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

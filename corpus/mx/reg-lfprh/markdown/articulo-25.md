@@ -27,7 +27,7 @@ II. Objetivo, se refiere al resultado o alcance esperado asociado a un programa,
 
 III. Meta, es la expresión cuantitativa del nivel de cumplimiento esperado del objetivo en un periodo determinado, y debe expresarse conforme al indicador de desempeño, de manera clara, medible y precisa; Fracción reformada DOF 04-09-2009, 30-03-2016
 
-IV. Indicador de desempeño, es la expresión cuantitativa construida a partir de variables cuantitativas o cualitativas, que proporciona un medio sencillo y fiable para medir el cumplimiento de las metas establecidas, reflejar los cambios vinculados con las acciones del programa, dar seguimiento y evaluar sus resultados. Será de dos tipos, estratégico o de gestión y deberá ser expresado en términos de lo previsto en el artículo 27 de la [Ley](articulo-2.md), reflejando al menos lo siguiente: Párrafo reformado DOF 04-09-2009, 25-04-2014, 30-03-2016
+IV. Indicador de desempeño, es la expresión cuantitativa construida a partir de variables cuantitativas o cualitativas, que proporciona un medio sencillo y fiable para medir el cumplimiento de las metas establecidas, reflejar los cambios vinculados con las acciones del programa, dar seguimiento y evaluar sus resultados. Será de dos tipos, estratégico o de gestión y deberá ser expresado en términos de lo previsto en el artículo [27](../../lfprh/markdown/articulo-27.md) de la [Ley](articulo-2.md), reflejando al menos lo siguiente: Párrafo reformado DOF 04-09-2009, 25-04-2014, 30-03-2016
 
 a) Eficacia, que mide la relación entre los bienes y servicios producidos y el impacto que generan. Mide el grado de cumplimiento de los objetivos; Inciso reformado DOF 04-09-2009
 

@@ -17,4 +17,4 @@ source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 
 # Artículo 43
 
-El expediente que integre la Procuraduría, deberá remitirlo a la Secretaría, para los efectos establecidos en los artículos 132 y 133 de la Ley.
+El expediente que integre la Procuraduría, deberá remitirlo a la Secretaría, para los efectos establecidos en los artículos [132](../../lagra/markdown/articulo-132.md) y [133](../../lagra/markdown/articulo-133.md) de la Ley.

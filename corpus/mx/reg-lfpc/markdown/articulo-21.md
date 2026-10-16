@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 21
 
-El aseguramiento de los bienes previsto por los artículos 25 BIS, fracción II y 98 TER de la Ley, procederá cuando los mismos no cumplan con lo dispuesto en la Ley, en las normas oficiales mexicanas o en otras disposiciones jurídicas aplicables, cuyo cumplimiento corresponda verificar a la Procuraduría.
+El aseguramiento de los bienes previsto por los artículos [25 BIS](../../lfpc/markdown/articulo-25-BIS.md), fracción II y [98 TER](../../lfpc/markdown/articulo-98-TER.md) de la Ley, procederá cuando los mismos no cumplan con lo dispuesto en la Ley, en las normas oficiales mexicanas o en otras disposiciones jurídicas aplicables, cuyo cumplimiento corresponda verificar a la Procuraduría.

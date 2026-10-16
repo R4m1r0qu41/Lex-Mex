@@ -17,7 +17,7 @@ source_sha256: d295edfeef5d5f77b69a5817a13bc40ee26d72d93f187b00e57e8badb40363fe
 
 # Artículo 6
 
-Para efectos de lo dispuesto por la fracción III del artículo 20 de la [Ley](articulo-2.md), se entenderá por:
+Para efectos de lo dispuesto por la fracción III del artículo [20](../../lfll/markdown/articulo-20.md) de la [Ley](articulo-2.md), se entenderá por:
 
 I. Colectivo.- Grupo de individuos que, sin estar constituidos legalmente, realizan actividades encaminadas al fomento, producción, distribución y comercialización de los libros, y
 

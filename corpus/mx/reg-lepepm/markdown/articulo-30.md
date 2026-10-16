@@ -17,4 +17,4 @@ source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
 
 # Artículo 30
 
-Para efectos de los artículos 16, fracción VII y 114 de la Ley, Petróleos Mexicanos, a través de las personas representantes, personas consejeras o personas mandatarias en las empresas filiales, debe llevar a cabo las gestiones que se requieran ante las instancias de estas para que adopten las medidas establecidas en el Programa de Cumplimiento Legal.
+Para efectos de los artículos [16](../../lepepm/markdown/articulo-16.md), fracción VII y [114](../../lepepm/markdown/articulo-114.md) de la Ley, Petróleos Mexicanos, a través de las personas representantes, personas consejeras o personas mandatarias en las empresas filiales, debe llevar a cabo las gestiones que se requieran ante las instancias de estas para que adopten las medidas establecidas en el Programa de Cumplimiento Legal.

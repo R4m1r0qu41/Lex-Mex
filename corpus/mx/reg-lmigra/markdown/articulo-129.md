@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 129
 
-La condición de estancia de visitante sin permiso para realizar actividades remuneradas, prevista en el artículo 52, fracción I, de la Ley, se podrá autorizar a la persona extranjera que demuestre alguno de los siguientes supuestos:
+La condición de estancia de visitante sin permiso para realizar actividades remuneradas, prevista en el artículo [52](../../lmigra/markdown/articulo-52.md), fracción I, de la Ley, se podrá autorizar a la persona extranjera que demuestre alguno de los siguientes supuestos:
 
 I. Tener solvencia económica suficiente para cubrir el monto de los gastos de alojamiento y manutención durante su estancia en el territorio nacional, o
 

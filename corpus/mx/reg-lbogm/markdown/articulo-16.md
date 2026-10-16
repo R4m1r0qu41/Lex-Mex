@@ -71,7 +71,7 @@ c) Descripción de los polígonos donde se realizará la liberación y de las zo
 
 2. Descripción geográfica, y 3. Plano de ubicación señalando las principales vías de comunicación.
 
-III. Estudio de los posibles riesgos que la liberación de los OGMs pudiera generar al medio ambiente y a la diversidad biológica a los que se refiere el artículo 42, fracción III, de la Ley. Contendrá, además de lo dispuesto en el artículo 62 de la Ley, la información siguiente:
+III. Estudio de los posibles riesgos que la liberación de los OGMs pudiera generar al medio ambiente y a la diversidad biológica a los que se refiere el artículo [42](../../lbogm/markdown/articulo-42.md), fracción III, de la Ley. Contendrá, además de lo dispuesto en el artículo [62](../../lbogm/markdown/articulo-62.md) de la Ley, la información siguiente:
 
 a) Estabilidad de la modificación genética del OGM;
 

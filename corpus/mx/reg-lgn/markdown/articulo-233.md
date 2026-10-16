@@ -17,7 +17,7 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 # Artículo 233
 
-Para efecto de aplicar y resolver los procedimientos relativos a la permanencia de los Integrantes de Carrera a que se refiere el artículo 28, fracción III de la [Ley](articulo-2.md), el [Consejo de Carrera](articulo-2.md) iniciará por solicitud fundada y motivada del Titular de la Unidad de Asuntos Internos, dirigida a su [Presidente](articulo-2.md) y remitiendo para tal efecto el expediente del presunto infractor.
+Para efecto de aplicar y resolver los procedimientos relativos a la permanencia de los Integrantes de Carrera a que se refiere el artículo [28](../../lgn/markdown/articulo-28.md), fracción III de la [Ley](articulo-2.md), el [Consejo de Carrera](articulo-2.md) iniciará por solicitud fundada y motivada del Titular de la Unidad de Asuntos Internos, dirigida a su [Presidente](articulo-2.md) y remitiendo para tal efecto el expediente del presunto infractor.
 
 El Presidente del Consejo de Carrera resolverá si ha lugar a iniciar procedimiento contra el presunto infractor, en caso contrario devolverá el expediente a la Unidad de Asuntos Internos.
 

@@ -21,4 +21,4 @@ Las actividades de producción, calificación, beneficio, almacenamiento, distri
 
 I. En caso de variedades vegetales protegidas conforme a la [Ley](articulo-2.md) Federal de Variedades Vegetales, comprobar el consentimiento por escrito del titular del derecho de obtentor, que se pretendan explotar, producir, propagar, comercializar, y
 
-II. Tratándose de comercialización, cumplir con los requisitos señalados en el artículo 33 de la Ley.
+II. Tratándose de comercialización, cumplir con los requisitos señalados en el artículo [33](../../lfpccs/markdown/articulo-33.md) de la Ley.

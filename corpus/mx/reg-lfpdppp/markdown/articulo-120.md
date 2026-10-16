@@ -17,7 +17,7 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 # Artículo 120
 
-Admitida la solicitud y sin perjuicio de lo dispuesto por el artículo 54 de la Ley, el Instituto promoverá la conciliación entre las partes, de conformidad con el siguiente procedimiento:
+Admitida la solicitud y sin perjuicio de lo dispuesto por el artículo [54](../../lfpdppp/markdown/articulo-54.md) de la Ley, el Instituto promoverá la conciliación entre las partes, de conformidad con el siguiente procedimiento:
 
 I. En el acuerdo de admisión de la solicitud de protección de derechos, el Instituto requerirá a las partes que manifiesten, por cualquier medio, su voluntad de conciliar, en un plazo no mayor a diez días, contados a partir de la notificación de dicho acuerdo, mismo que contendrá un resumen de la solicitud de protección de datos personales y de la respuesta del responsable si la hubiere, señalando los elementos comunes y los puntos de controversia.
 
@@ -41,6 +41,6 @@ V. En caso de que en la audiencia se logre la conciliación, el acuerdo deberá 
 
 VI. El cumplimiento del acuerdo dará por concluido el procedimiento de protección de derechos, en caso contrario, el Instituto reanudará el procedimiento.
 
-El plazo al que se refiere el artículo 47 de la Ley será suspendido durante el periodo de cumplimiento del acuerdo de conciliación. El procedimiento establecido en el presente artículo no obsta para que, en términos del artículo 54 de la Ley, el Instituto pueda buscar la conciliación en cualquier momento del procedimiento de protección de derechos.
+El plazo al que se refiere el artículo 47 de la Ley será suspendido durante el periodo de cumplimiento del acuerdo de conciliación. El procedimiento establecido en el presente artículo no obsta para que, en términos del artículo [54](../../lfpdppp/markdown/articulo-54.md) de la Ley, el Instituto pueda buscar la conciliación en cualquier momento del procedimiento de protección de derechos.
 
 Audiencia

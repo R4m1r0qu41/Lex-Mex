@@ -17,6 +17,6 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 31 quáter
 
-El autor o sus derechohabientes, por conducto del [Instituto](articulo-2o.md), podrán requerir la información necesaria para asegurar el pago de las participaciones por la reventa de las obras de las artes plásticas, fotográficas o manuscritos originales de las obras literarias y artísticas a que hace referencia el artículo 92 bis de la [Ley](articulo-2o.md), a los subastadores, titulares de establecimientos mercantiles, comerciantes o agentes mercantiles, que hayan intervenido en la reventa, así como a las sociedades de gestión colectiva que hayan recibido las notificaciones correspondientes.
+El autor o sus derechohabientes, por conducto del [Instituto](articulo-2o.md), podrán requerir la información necesaria para asegurar el pago de las participaciones por la reventa de las obras de las artes plásticas, fotográficas o manuscritos originales de las obras literarias y artísticas a que hace referencia el artículo [92 bis](../../lfda/markdown/articulo-92-bis.md) de la [Ley](articulo-2o.md), a los subastadores, titulares de establecimientos mercantiles, comerciantes o agentes mercantiles, que hayan intervenido en la reventa, así como a las sociedades de gestión colectiva que hayan recibido las notificaciones correspondientes.
 
 Artículo adicionado DOF 14-09-2005

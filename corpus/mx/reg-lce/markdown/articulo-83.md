@@ -17,7 +17,7 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 83
 
-La resolución final a que se refiere el artículo 59 de la [Ley](articulo-1o.md), contendrá además de los datos señalados en el artículo [80](articulo-80.md) de este Reglamento, los siguientes:
+La resolución final a que se refiere el artículo [59](../../lce/markdown/articulo-59.md) de la [Ley](articulo-1o.md), contendrá además de los datos señalados en el artículo [80](articulo-80.md) de este Reglamento, los siguientes:
 
 I. En caso de que se confirme la existencia de prácticas desleales de comercio internacional:
 

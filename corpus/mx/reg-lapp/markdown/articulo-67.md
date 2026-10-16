@@ -17,7 +17,7 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 67
 
-Además de los elementos señalados en el artículo 45 de la Ley, las bases del [Concurso](articulo-11.md) deberán contener:
+Además de los elementos señalados en el artículo [45](../../lapp/markdown/articulo-45.md) de la Ley, las bases del [Concurso](articulo-11.md) deberán contener:
 
 I. Los requisitos, términos y condiciones para que cualquier interesado participe en el Concurso;
 
@@ -27,7 +27,7 @@ III. La referencia a la documentación que deberán presentar los participantes,
 
 IV. La indicación de que los concursantes deberán entregar, con su oferta técnica, copia del recibo de adquisición de las bases; V. La mención del lugar, fecha y hora para la realización de los actos y presentación de documentos en el Concurso;
 
-VI. Las características y requisitos estatutarios que deberá cumplir la sociedad con propósito específico a que se refiere el artículo 91 de la Ley, con la que se celebrará el contrato, así como los requisitos que deban cumplir sus administradores;
+VI. Las características y requisitos estatutarios que deberá cumplir la sociedad con propósito específico a que se refiere el artículo [91](../../lapp/markdown/articulo-91.md) de la Ley, con la que se celebrará el contrato, así como los requisitos que deban cumplir sus administradores;
 
 VII. Las páginas web en las que podrá consultarse la información relativa al Concurso, y
 

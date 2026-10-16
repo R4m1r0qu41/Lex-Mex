@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 5
 
-Las personas designadas como Personas Consejeras Independientes, conforme al artículo 17 de la Ley, deben manifestar por escrito su consentimiento a tal designación a la persona titular del Ejecutivo Federal, por conducto de la Consejería Jurídica del Ejecutivo Federal.
+Las personas designadas como Personas Consejeras Independientes, conforme al artículo [17](../../lepecfe/markdown/articulo-17.md) de la Ley, deben manifestar por escrito su consentimiento a tal designación a la persona titular del Ejecutivo Federal, por conducto de la Consejería Jurídica del Ejecutivo Federal.

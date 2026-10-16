@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 190
 
-Para efectos del artículo 14-D de la [Ley](articulo-1.md), la Autoridad Aduanera podrá, previa determinación del [Consejo Aduanero](articulo-1.md), habilitar un inmueble para la introducción de Mercancías bajo el régimen de recinto fiscalizado estratégico y otorgar la autorización para su administración, siempre que el citado inmueble se ubique dentro de la circunscripción de cualquier aduana en una zona estratégica de desarrollo en territorio nacional y se cumpla con los siguientes requisitos de conformidad con lo establecido mediante Reglas:
+Para efectos del artículo [14-D](../../ladua/markdown/articulo-14-D.md) de la [Ley](articulo-1.md), la Autoridad Aduanera podrá, previa determinación del [Consejo Aduanero](articulo-1.md), habilitar un inmueble para la introducción de Mercancías bajo el régimen de recinto fiscalizado estratégico y otorgar la autorización para su administración, siempre que el citado inmueble se ubique dentro de la circunscripción de cualquier aduana en una zona estratégica de desarrollo en territorio nacional y se cumpla con los siguientes requisitos de conformidad con lo establecido mediante Reglas:
 
 I. Contar con documento con el que se acredite el legal uso o goce del inmueble materia de la solicitud;
 
@@ -31,6 +31,6 @@ V. Contar con un sistema tecnológico que integre los sistemas electrónicos de 
 
 VI. Los demás que se establezcan mediante Reglas.
 
-Las personas autorizadas para destinar Mercancías al régimen de recinto fiscalizado estratégico y las personas autorizadas para administrar el recinto fiscalizado estratégico, en términos de los artículos 14-D y 135-A de la Ley y demás disposiciones aplicables, para efectos de control fiscal, deberán informar a la Autoridad Aduanera el arribo de las Mercancías al recinto fiscalizado estratégico dentro de los plazos y bajo las condiciones que se establezcan mediante Reglas.
+Las personas autorizadas para destinar Mercancías al régimen de recinto fiscalizado estratégico y las personas autorizadas para administrar el recinto fiscalizado estratégico, en términos de los artículos [14-D](../../ladua/markdown/articulo-14-D.md) y [135-A](../../ladua/markdown/articulo-135-A.md) de la Ley y demás disposiciones aplicables, para efectos de control fiscal, deberán informar a la Autoridad Aduanera el arribo de las Mercancías al recinto fiscalizado estratégico dentro de los plazos y bajo las condiciones que se establezcan mediante Reglas.
 
 Artículo reformado DOF 23-02-2026

@@ -17,7 +17,7 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 5o
 
-Para efectos del artículo 20 de la Ley, no se consideran prohibiciones: Aclaración al párrafo DOF 15-06-1993
+Para efectos del artículo [20](../../lfcp/markdown/articulo-20.md) de la Ley, no se consideran prohibiciones: Aclaración al párrafo DOF 15-06-1993
 
 I.- Desempeñar cargos docentes, de investigación o de dirección, en instituciones educativas, así como los que se desempeñen en instituciones de asistencia pública o privada, y los concejiles; Fracción reformada DOF 26-11-2012
 

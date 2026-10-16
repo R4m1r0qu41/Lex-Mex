@@ -31,6 +31,6 @@ V. Derogada. Fracción derogada DOF 08-06-2009
 
 VI. Derogada. Fracción derogada DOF 08-06-2009
 
-VII. Para los efectos del artículo 58 de la Ley, se entenderá por distinción, la notoria calidad y cantidad de la actividad docente, y por eficiencia, la virtud o capacidad en la realización de los actos educativos. Fracción reformada DOF 08-06-2009
+VII. Para los efectos del artículo [58](../../larefam/markdown/articulo-58.md) de la Ley, se entenderá por distinción, la notoria calidad y cantidad de la actividad docente, y por eficiencia, la virtud o capacidad en la realización de los actos educativos. Fracción reformada DOF 08-06-2009
 
 Esta Condecoración se concederá por una sola ocasión. Cuando las personas militares en activo o en retiro desempeñen por otra ocasión la función de directivos, instructores o docentes en la misma u otra Institución Educativa Militar, y cumplan nuevamente con los requisitos estipulados para obtenerla, en su lugar se les otorgará una Citación, para lo cual se empleará, en lo conducente, el procedimiento establecido en el presente artículo a efecto de elevar la propuesta correspondiente. Párrafo adicionado DOF 08-06-2009. Reformado DOF 20-03-2026

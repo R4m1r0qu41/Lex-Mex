@@ -19,7 +19,7 @@ source_sha256: 2fcb89f7d62bcd28ba179647dee39dd5c28437ebc8bcdb13ce6924b36b20b9e6
 
 Queda prohibida la exportación definitiva de los siguientes monumentos históricos de propiedad particular:
 
-I.- Los señalados en las fracción I, II y III del artículo 36 de la Ley;
+I.- Los señalados en las fracción I, II y III del artículo [36](../../lfmzaah/markdown/articulo-36.md) de la Ley;
 
 II.- Los que no sean sustituibles; y
 

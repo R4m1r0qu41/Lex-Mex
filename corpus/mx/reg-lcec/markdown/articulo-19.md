@@ -17,4 +17,4 @@ source_sha256: 76a5d189cd607e352b2cc39a92c4ad2d46f6d4628cd6e300030d92cf2191a88c
 
 # Artículo 19
 
-Respecto a la clasificación aludida en el artículo 14, fracción I en su inciso b de la [Ley](articulo-2.md), y cuando el Instituto Nacional de Estadística y Geografía clasifique al giro para el cual se solicita la constitución de una Cámara de Industria específica nacional en un clasificador cuyos subsectores no correspondan a dos dígitos, la Secretaría, atendiendo a las razones expuestas por dicho Instituto, podrá tener por acreditado tal requisito.
+Respecto a la clasificación aludida en el artículo [14](../../lcec/markdown/articulo-14.md), fracción I en su inciso b de la [Ley](articulo-2.md), y cuando el Instituto Nacional de Estadística y Geografía clasifique al giro para el cual se solicita la constitución de una Cámara de Industria específica nacional en un clasificador cuyos subsectores no correspondan a dos dígitos, la Secretaría, atendiendo a las razones expuestas por dicho Instituto, podrá tener por acreditado tal requisito.

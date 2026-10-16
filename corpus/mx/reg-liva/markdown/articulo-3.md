@@ -17,7 +17,7 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 3
 
-Para los efectos del artículo 1o.-A, último párrafo de la Ley, las personas morales obligadas a efectuar la retención del impuesto que se les traslade, lo harán en una cantidad menor, en los casos siguientes:
+Para los efectos del artículo [1](../../liva/markdown/articulo-1o.md)o.-A, último párrafo de la Ley, las personas morales obligadas a efectuar la retención del impuesto que se les traslade, lo harán en una cantidad menor, en los casos siguientes:
 
 I. La retención se hará por las dos terceras partes del impuesto que se les traslade y que haya sido efectivamente pagado, cuando el impuesto le sea trasladado por personas físicas por las operaciones siguientes:
 

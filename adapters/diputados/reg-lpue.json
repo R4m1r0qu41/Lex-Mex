@@ -19,5 +19,6 @@
     "proposed_at": "2026-07-12T08:04:47Z"
   },
   "allow_article_gaps": true,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "parent_instrument_id": "urn:lex-mx:federal:statute:lpue"
 }

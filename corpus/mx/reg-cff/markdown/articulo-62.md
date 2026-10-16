@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 62
 
-Para los efectos del artículo 53-B, primer párrafo, fracción III, segundo párrafo del [Código](articulo-1.md), el desahogo de pruebas periciales que se hayan ofrecido dentro del plazo de quince días a que se refiere la fracción II de dicho artículo, se deberá realizar dentro de los veinte días siguientes a su ofrecimiento.
+Para los efectos del artículo [53-B](../../cff/markdown/articulo-53-B.md), primer párrafo, fracción III, segundo párrafo del [Código](articulo-1.md), el desahogo de pruebas periciales que se hayan ofrecido dentro del plazo de quince días a que se refiere la fracción II de dicho artículo, se deberá realizar dentro de los veinte días siguientes a su ofrecimiento.

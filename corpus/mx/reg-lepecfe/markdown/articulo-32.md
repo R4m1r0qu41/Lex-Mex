@@ -17,4 +17,4 @@ source_sha256: 9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c
 
 # Artículo 32
 
-Para efectos de lo dispuesto en el artículo 70 de la Ley, la Comisión Federal de Electricidad, a través de las personas representantes, personas consejeras o personas mandatarias, en las empresas filiales, debe realizar las gestiones necesarias para que en sus consejos de administración se adopten las medidas conducentes para la alineación estratégica de sus actividades al Programa de Desarrollo de la Comisión Federal de Electricidad.
+Para efectos de lo dispuesto en el artículo [70](../../lepecfe/markdown/articulo-70.md) de la Ley, la Comisión Federal de Electricidad, a través de las personas representantes, personas consejeras o personas mandatarias, en las empresas filiales, debe realizar las gestiones necesarias para que en sus consejos de administración se adopten las medidas conducentes para la alineación estratégica de sus actividades al Programa de Desarrollo de la Comisión Federal de Electricidad.

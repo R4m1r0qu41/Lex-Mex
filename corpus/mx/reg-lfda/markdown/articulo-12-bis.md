@@ -17,7 +17,7 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 12 bis
 
-Para efectos de lo dispuesto en el artículo 131, fracción III, de la [Ley](articulo-2o.md), la autorización o prohibición de la distribución de fonogramas a través de señales o emisiones, comprende la puesta a disposición del público o comunicación pública de los fonogramas en cualquier forma, así como su acceso público por medio de la telecomunicación.
+Para efectos de lo dispuesto en el artículo [131](../../lfda/markdown/articulo-131.md), fracción III, de la [Ley](articulo-2o.md), la autorización o prohibición de la distribución de fonogramas a través de señales o emisiones, comprende la puesta a disposición del público o comunicación pública de los fonogramas en cualquier forma, así como su acceso público por medio de la telecomunicación.
 
 Quedan incluidas dentro de las formas de puesta a disposición del público o comunicación pública aquellas transmisiones por medios electrónicos, a través del espectro electromagnético y de redes de telecomunicaciones, alámbricas o inalámbricas.
 

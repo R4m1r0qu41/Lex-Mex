@@ -31,4 +31,4 @@ V. Cualquier otro objeto del que se puedan inferir elementos de prueba.
 
 La orden de suspensión o cese de los actos que presuntamente constituyan infracción en materia de comercio podrá recaer sobre la representación, recitación, ejecución pública, radiodifusión, transmisión, comunicación al público por redes de telecomunicaciones o cualquier otra forma de utilización o explotación de derechos de autor, derechos conexos, reservas de derechos, imagen de una persona, así como sobre todo acto que permita tener un dispositivo o sistema cuya finalidad sea desactivar los dispositivos electrónicos de protección de un programa de cómputo.
 
-El aseguramiento podrá recaer en mercancías, productos y cualesquiera otros bienes en los que se materialicen las infracciones previstas en el artículo 231 de la Ley.
+El aseguramiento podrá recaer en mercancías, productos y cualesquiera otros bienes en los que se materialicen las infracciones previstas en el artículo [231](../../lfda/markdown/articulo-231.md) de la Ley.

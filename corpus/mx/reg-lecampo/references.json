@@ -16,6 +16,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:3:reference:603-604:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:3",
+    "source_span": "7",
+    "start_char": 603,
+    "end_char": 604,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lec",
+    "target_provision_id": "urn:lex-mx:federal:statute:lec:article:7",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 608,
+        "end_char": 620
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:8:reference:744-761:7:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:8",
     "source_span": "artículo anterior",

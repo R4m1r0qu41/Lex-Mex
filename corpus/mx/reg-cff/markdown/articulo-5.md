@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 5
 
-Para los efectos del artículo 9, fracción I, inciso a) del [Código](articulo-1.md), se considera que las personas físicas no han establecido su casa habitación en México, cuando habiten temporalmente inmuebles con fines turísticos y su centro de intereses vitales no se encuentre en territorio nacional.
+Para los efectos del artículo [9](../../cff/markdown/articulo-9o.md), fracción I, inciso a) del [Código](articulo-1.md), se considera que las personas físicas no han establecido su casa habitación en México, cuando habiten temporalmente inmuebles con fines turísticos y su centro de intereses vitales no se encuentre en territorio nacional.

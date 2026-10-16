@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 223
 
-Para efectos del artículo 89, fracción I de la [Ley](articulo-1.md), los fondos de inversión en instrumentos de deuda o de renta variable, según corresponda, determinarán los intereses nominales que deban informar a sus accionistas personas físicas, conforme a lo siguiente:
+Para efectos del artículo [89](../../lisr/markdown/articulo-89.md), fracción I de la [Ley](articulo-1.md), los fondos de inversión en instrumentos de deuda o de renta variable, según corresponda, determinarán los intereses nominales que deban informar a sus accionistas personas físicas, conforme a lo siguiente:
 
 I. Dividirán el total de los intereses nominales devengados diarios a favor de los fondos de inversión, calculados conforme al artículo [220](articulo-220.md), fracción III del presente Reglamento, entre el número de acciones propiedad de sus accionistas personas físicas. Estos intereses serán netos de gastos y se calcularán al final de cada día;
 

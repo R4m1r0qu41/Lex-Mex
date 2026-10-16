@@ -17,7 +17,7 @@ source_sha256: 51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4
 
 # Artículo 69
 
-El recurso de reconsideración que establece el artículo 103 de la Ley se interpondrá, tramitará y resolverá en los mismos términos y plazos que establece la Ley Federal de Procedimiento Administrativo para el recurso de revisión.
+El recurso de reconsideración que establece el artículo [103](../../lgv/markdown/articulo-103.md) de la Ley se interpondrá, tramitará y resolverá en los mismos términos y plazos que establece la Ley Federal de Procedimiento Administrativo para el recurso de revisión.
 
 La víctima o su representante pueden interponer el recurso de reconsideración, contra las determinaciones siguientes:
 

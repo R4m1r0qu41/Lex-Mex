@@ -21,6 +21,6 @@ La Entidad Colegiada deberá proporcionar al representante a que se refiere la f
 
 I. El contenido de las políticas, criterios, medidas y procedimientos internos que la Entidad Colegiada haya desarrollado para el debido cumplimiento de la Ley, este Reglamento, las reglas de carácter general y las demás disposiciones que de estos emanen; Fracción reformada DOF 27-03-2026
 
-II. La difusión de la Ley, este Reglamento, las reglas de carácter general y de sus respectivas modificaciones, así como de las demás disposiciones que de estos emanen y demás información sobre técnicas, métodos y tendencias para prevenir, detectar y dar Aviso de los actos u operaciones referidos en el artículo 17 de la Ley, según corresponda, y Fracción reformada DOF 27-03-2026
+II. La difusión de la Ley, este Reglamento, las reglas de carácter general y de sus respectivas modificaciones, así como de las demás disposiciones que de estos emanen y demás información sobre técnicas, métodos y tendencias para prevenir, detectar y dar Aviso de los actos u operaciones referidos en el artículo [17](../../lfpiorpi/markdown/articulo-17.md) de la Ley, según corresponda, y Fracción reformada DOF 27-03-2026
 
 III. El desarrollo de procesos para la selección de personal, así como la adopción de programas anuales de capacitación dirigidos a quienes auxilien en la presentación de los Avisos de los integrantes de la Entidad Colegiada. Fracción adicionada DOF 27-03-2026

@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 85
 
-Para efectos de los artículos 8, párrafo cuarto y 44 de la [Ley](articulo-1.md), los contribuyentes para la cuantificación del cálculo anual por inflación, además de aplicar lo dispuesto en la fracción I del artículo 44 de la Ley, considerarán en la determinación del saldo promedio anual de sus deudas y del saldo promedio anual de sus créditos, lo siguiente:
+Para efectos de los artículos [8](../../lisr/markdown/articulo-8.md), párrafo cuarto y [44](../../lisr/markdown/articulo-44.md) de la [Ley](articulo-1.md), los contribuyentes para la cuantificación del cálculo anual por inflación, además de aplicar lo dispuesto en la fracción I del artículo [44](../../lisr/markdown/articulo-44.md) de la Ley, considerarán en la determinación del saldo promedio anual de sus deudas y del saldo promedio anual de sus créditos, lo siguiente:
 
 I. Quienes realicen el pago de la contraprestación por la cesión de derechos sobre los ingresos por otorgar el uso o goce temporal de inmuebles, para el cálculo del saldo promedio anual de sus créditos considerarán el valor total de la contraprestación, así como el plazo que se hubiera determinado en el contrato, y
 

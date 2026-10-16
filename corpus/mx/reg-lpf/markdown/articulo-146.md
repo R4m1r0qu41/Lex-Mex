@@ -17,7 +17,7 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 # Artículo 146
 
-Los [Integrantes](articulo-2.md) podrán ser separados de su cargo si no cumplen con los requisitos que esta ley señala para permanecer en la institución, o removidos por incurrir en responsabilidad en el desempeño de sus funciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la separación o la remoción, en términos de lo previsto por el artículo 22 de la [Ley](articulo-2.md).
+Los [Integrantes](articulo-2.md) podrán ser separados de su cargo si no cumplen con los requisitos que esta ley señala para permanecer en la institución, o removidos por incurrir en responsabilidad en el desempeño de sus funciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la separación o la remoción, en términos de lo previsto por el artículo [22](../../lpf/markdown/articulo-22.md) de la [Ley](articulo-2.md).
 
 Si la autoridad jurisdiccional resuelve que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, la [Institución](articulo-2.md) sólo estará obligada a pagar la indemnización y demás prestaciones señaladas en la resolución respectiva, sin que en ningún caso proceda su reincorporación o reinstalación.
 

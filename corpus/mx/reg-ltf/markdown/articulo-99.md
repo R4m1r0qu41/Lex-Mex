@@ -17,7 +17,7 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 99
 
-Para efectos del artículo 54 de la [Ley](articulo-2.md), si derivado de los actos de vigilancia se detecta alguna irregularidad que implique la falta de Concentración o Entero de recursos a la Tesorería y ésta no se solvente, concluido el acto de seguimiento correspondiente se procederá a:
+Para efectos del artículo [54](../../ltf/markdown/articulo-54.md) de la [Ley](articulo-2.md), si derivado de los actos de vigilancia se detecta alguna irregularidad que implique la falta de Concentración o Entero de recursos a la Tesorería y ésta no se solvente, concluido el acto de seguimiento correspondiente se procederá a:
 
 I. Determinar en cantidad líquida el monto a resarcir, con base en los recursos no concentrados o enterados a la Tesorería por parte del o de los probables responsables, y
 

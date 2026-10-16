@@ -17,4 +17,4 @@ source_sha256: 50d888e53a7b0990f6d19dbab03d263e01ca7d4a4365a0c2663e03caf9f2715c
 
 # Artículo 43
 
-La permanencia de los [Consejeros](articulo-2.md) propietarios representantes de las Organizaciones ante el [Consejo](articulo-2.md) será por tres años, renovándose por tercios cada año, de acuerdo a lo establecido en la fracción II del artículo 27 de la [Ley](articulo-2.md).
+La permanencia de los [Consejeros](articulo-2.md) propietarios representantes de las Organizaciones ante el [Consejo](articulo-2.md) será por tres años, renovándose por tercios cada año, de acuerdo a lo establecido en la fracción II del artículo [27](../../lffaosc/markdown/articulo-27.md) de la [Ley](articulo-2.md).

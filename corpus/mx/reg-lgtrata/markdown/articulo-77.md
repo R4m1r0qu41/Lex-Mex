@@ -17,7 +17,7 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 77
 
-Para acceder a los recursos del Fondo en el caso de reparación del daño en términos de los artículos 52 y 81 de la Ley, será necesario que la víctima u ofendido exhiba sentencia ejecutoriada del juzgador que condene al victimario por la comisión de los delitos en materia de trata de personas y a la reparación del daño.
+Para acceder a los recursos del Fondo en el caso de reparación del daño en términos de los artículos [52](../../lgtrata/markdown/articulo-52.md) y [81](../../lgtrata/markdown/articulo-81.md) de la Ley, será necesario que la víctima u ofendido exhiba sentencia ejecutoriada del juzgador que condene al victimario por la comisión de los delitos en materia de trata de personas y a la reparación del daño.
 
 Para efectos del párrafo anterior, el Comité Técnico del Fondo, por conducto de su Secretario Técnico podrá solicitar a la autoridad jurisdiccional:
 

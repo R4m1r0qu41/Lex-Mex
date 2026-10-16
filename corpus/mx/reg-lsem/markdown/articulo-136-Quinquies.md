@@ -17,7 +17,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 136 Quinquies
 
-Los Miembros del Servicio Exterior de carrera que se registren para recibir el apoyo económico complementario, deberán elegir una de las alternativas establecidas en el artículo 55-BIS de la Ley. Dicha elección, será definitiva y no podrá modificarse posteriormente. El apoyo económico complementario, no trasciende a los beneficiarios que, en su caso, el Miembro del Servicio Exterior, tuviera registrados.
+Los Miembros del Servicio Exterior de carrera que se registren para recibir el apoyo económico complementario, deberán elegir una de las alternativas establecidas en el artículo [55-BIS](../../lsem/markdown/articulo-55-BIS.md) de la Ley. Dicha elección, será definitiva y no podrá modificarse posteriormente. El apoyo económico complementario, no trasciende a los beneficiarios que, en su caso, el Miembro del Servicio Exterior, tuviera registrados.
 
 En caso de fallecimiento del Miembro del Servicio Exterior que estuviera en activo y que se hubiera registrado para acceder al apoyo económico complementario, los recursos aportados por dicho Miembro se entregarán a sus beneficiarios, en tanto que los recursos aportados por el Gobierno Federal serán transferidos a la Tesorería de la Federación.
 

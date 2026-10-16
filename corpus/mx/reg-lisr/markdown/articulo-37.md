@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 37
 
-Los monumentos artísticos o históricos en términos de la [Ley](articulo-1.md) Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, donados a la Federación, a las entidades federativas, a los municipios, así como a sus respectivos organismos públicos descentralizados que tributen conforme al Título III de la Ley, también se considerarán dentro de los donativos previstos en el artículo 27, fracción I de la Ley.
+Los monumentos artísticos o históricos en términos de la [Ley](articulo-1.md) Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, donados a la Federación, a las entidades federativas, a los municipios, así como a sus respectivos organismos públicos descentralizados que tributen conforme al Título III de la Ley, también se considerarán dentro de los donativos previstos en el artículo [27](../../lisr/markdown/articulo-27.md), fracción I de la Ley.

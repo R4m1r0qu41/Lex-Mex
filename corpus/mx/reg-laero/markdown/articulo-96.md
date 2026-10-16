@@ -19,4 +19,4 @@ Los transportistas y operadores aéreos que requieran se les asignen horarios de
 
 El administrador aeroportuario podrá desechar las solicitudes de los transportistas u operadores aéreos que tengan adeudos vencidos en el pago de las contraprestaciones por los servicios aeroportuarios y a la navegación aérea, que le han sido proporcionados en el aeródromo de que se trate.
 
-Los transportistas u operadores aéreos no podrán realizar el aterrizaje o despegue de aeronaves cuando por cualquier causa no cuenten con los servicios a la navegación aérea requeridos en el aeropuerto de origen o destino, sin perjuicio de lo señalado en el artículo 55 de la Ley.
+Los transportistas u operadores aéreos no podrán realizar el aterrizaje o despegue de aeronaves cuando por cualquier causa no cuenten con los servicios a la navegación aérea requeridos en el aeropuerto de origen o destino, sin perjuicio de lo señalado en el artículo [55](../../laero/markdown/articulo-55.md) de la Ley.

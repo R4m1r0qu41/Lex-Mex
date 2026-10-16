@@ -15,7 +15,7 @@ source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 
 # Artículo 38 Bis
 
-La persona pasajera, para efectos de lo establecido en los artículos 47 Bis, fracción III y 47 Bis 4 de la [Ley](articulo-2.md), deberá: Párrafo reformado DOF 31-05-2023
+La persona pasajera, para efectos de lo establecido en los artículos [47 Bis](../../lac/markdown/articulo-47-Bis.md), fracción III y [47 Bis 4](../../lac/markdown/articulo-47-Bis-4.md) de la [Ley](articulo-2.md), deberá: Párrafo reformado DOF 31-05-2023
 
 I. Brindar a la persona permisionaria o concesionaria, al momento de la compra de su boleto, la información siguiente: Párrafo reformado DOF 31-05-2023
 

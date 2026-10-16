@@ -74,6 +74,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:11:reference:192-194:12:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:11",
+    "source_span": "12",
+    "start_char": 192,
+    "end_char": 194,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:12",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 196,
+        "end_char": 207
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laero:article:11:reference:325-326:8:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:11",
     "source_span": "8",
@@ -148,6 +170,43 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:12:reference:76-78:12:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:12",
+    "source_span": "12",
+    "start_char": 76,
+    "end_char": 78,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:12",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 48,
+        "end_char": 62
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:12:reference:1968-1970:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:12",
+    "source_span": "11",
+    "start_char": 1968,
+    "end_char": 1970,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:11",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laero:article:13:reference:276-277:9:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:13",
     "source_span": "9",
@@ -156,6 +215,56 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:9",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:130:reference:482-484:62:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:130",
+    "source_span": "62",
+    "start_char": 482,
+    "end_char": 484,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:62",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I, II, VI, VII y VIII",
+        "start_char": 436,
+        "end_char": 468
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:131:reference:729-731:62:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:131",
+    "source_span": "62",
+    "start_char": 729,
+    "end_char": 731,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:62",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones III y V",
+        "start_char": 697,
+        "end_char": 715
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II, V, VI y VII",
+        "start_char": 840,
+        "end_char": 864
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -238,6 +347,50 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:14:reference:45-47:29:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:14",
+    "source_span": "29",
+    "start_char": 45,
+    "end_char": 47,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:29",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 17,
+        "end_char": 31
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:14:reference:728-730:29:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:14",
+    "source_span": "29",
+    "start_char": 728,
+    "end_char": 730,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:29",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 699,
+        "end_char": 714
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laero:article:140:reference:256-259:138:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:140",
     "source_span": "138",
@@ -260,6 +413,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:141:reference:1176-1178:53:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:141",
+    "source_span": "53",
+    "start_char": 1176,
+    "end_char": 1178,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:53",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 1147,
+        "end_char": 1162
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laero:article:143:reference:390-393:182:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:143",
     "source_span": "182",
@@ -267,6 +442,43 @@
     "end_char": 393,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:182",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:143:reference:953-955:53:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:143",
+    "source_span": "53",
+    "start_char": 953,
+    "end_char": 955,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:53",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 924,
+        "end_char": 939
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:15:reference:442-444:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:15",
+    "source_span": "23",
+    "start_char": 442,
+    "end_char": 444,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:23",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -348,6 +560,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:164:reference:30-32:73:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:164",
+    "source_span": "73",
+    "start_char": 30,
+    "end_char": 32,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:73",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laero:article:17:reference:225-226:8:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:17",
     "source_span": "8",
@@ -355,6 +582,21 @@
     "end_char": 226,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:17:reference:604-606:22:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:17",
+    "source_span": "22",
+    "start_char": 604,
+    "end_char": 606,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:22",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -468,6 +710,51 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:180:reference:367-369:22:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:180",
+    "source_span": "22",
+    "start_char": 367,
+    "end_char": 369,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:22",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:181:reference:162-164:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:181",
+    "source_span": "19",
+    "start_char": 162,
+    "end_char": 164,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:19:reference:39-41:59:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:19",
+    "source_span": "59",
+    "start_char": 39,
+    "end_char": 41,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:59",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laero:article:2:reference:387-388:5:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:2",
     "source_span": "5",
@@ -496,6 +783,49 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:21:reference:346-348:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:21",
+    "source_span": "11",
+    "start_char": 346,
+    "end_char": 348,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:11",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 350,
+        "end_char": 361
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso f",
+        "start_char": 363,
+        "end_char": 371
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:21:reference:537-539:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:21",
+    "source_span": "21",
+    "start_char": 537,
+    "end_char": 539,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laero:article:21:reference:1193-1194:8:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:21",
     "source_span": "8",
@@ -511,6 +841,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:21:reference:1489-1491:14:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:21",
+    "source_span": "14",
+    "start_char": 1489,
+    "end_char": 1491,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:14",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laero:article:22:reference:555-558:146:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:22",
     "source_span": "146",
@@ -518,6 +863,36 @@
     "end_char": 558,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:146",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:22:reference:765-767:61:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:22",
+    "source_span": "61",
+    "start_char": 765,
+    "end_char": 767,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:61",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:22:reference:930-932:73:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:22",
+    "source_span": "73",
+    "start_char": 930,
+    "end_char": 932,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:73",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -556,6 +931,36 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:27:reference:139-141:24:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:27",
+    "source_span": "24",
+    "start_char": 139,
+    "end_char": 141,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:24",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:27:reference:407-409:22:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:27",
+    "source_span": "22",
+    "start_char": 407,
+    "end_char": 409,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:22",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laero:article:28:reference:225-227:27:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:28",
     "source_span": "27",
@@ -571,6 +976,21 @@
         "end_char": 239
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:3:reference:83-84:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:3",
+    "source_span": "2",
+    "start_char": 83,
+    "end_char": 84,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -630,6 +1050,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:41:reference:137-139:39:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:41",
+    "source_span": "39",
+    "start_char": 137,
+    "end_char": 139,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:39",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 108,
+        "end_char": 123
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laero:article:41:reference:556-558:38:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:41",
     "source_span": "38",
@@ -660,6 +1102,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:51:reference:353-354:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:51",
+    "source_span": "9",
+    "start_char": 353,
+    "end_char": 354,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:9",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laero:article:53:reference:576-578:51:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:53",
     "source_span": "51",
@@ -682,6 +1139,65 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:55:reference:2262-2264:48:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:55",
+    "source_span": "48",
+    "start_char": 2262,
+    "end_char": 2264,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:48",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 2266,
+        "end_char": 2276
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:55:reference:2279-2281:53:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:55",
+    "source_span": "53",
+    "start_char": 2279,
+    "end_char": 2281,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:53",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 2282,
+        "end_char": 2297
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:58:reference:406-408:22:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:58",
+    "source_span": "22",
+    "start_char": 406,
+    "end_char": 408,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:22",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laero:article:65:reference:403-406:117:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:65",
     "source_span": "117",
@@ -697,6 +1213,36 @@
         "end_char": 389
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:66:reference:680-682:22:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:66",
+    "source_span": "22",
+    "start_char": 680,
+    "end_char": 682,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:22",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:66:reference:1407-1409:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:66",
+    "source_span": "52",
+    "start_char": 1407,
+    "end_char": 1409,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:52",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -727,6 +1273,58 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:58",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:68:reference:63-65:56:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:68",
+    "source_span": "56",
+    "start_char": 63,
+    "end_char": 65,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:56",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:69:reference:132-134:56:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:69",
+    "source_span": "56",
+    "start_char": 132,
+    "end_char": 134,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:56",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:7:reference:157-159:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:7",
+    "source_span": "11",
+    "start_char": 157,
+    "end_char": 159,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:11",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 161,
+        "end_char": 171
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -771,6 +1369,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:7:reference:574-576:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:7",
+    "source_span": "11",
+    "start_char": 574,
+    "end_char": 576,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:11",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 549,
+        "end_char": 560
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laero:article:73:reference:479-481:66:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:73",
     "source_span": "66",
@@ -779,6 +1399,73 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:66",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:74:reference:134-136:53:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:74",
+    "source_span": "53",
+    "start_char": 134,
+    "end_char": 136,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:53",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:75:reference:316-318:55:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:75",
+    "source_span": "55",
+    "start_char": 316,
+    "end_char": 318,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:55",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:79:reference:315-317:55:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:79",
+    "source_span": "55",
+    "start_char": 315,
+    "end_char": 317,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:55",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:82:reference:208-210:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:82",
+    "source_span": "26",
+    "start_char": 208,
+    "end_char": 210,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 212,
+        "end_char": 223
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -798,6 +1485,21 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:86:reference:514-516:77:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:86",
+    "source_span": "77",
+    "start_char": 514,
+    "end_char": 516,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:77",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -851,6 +1553,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:89:reference:464-466:77:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:89",
+    "source_span": "77",
+    "start_char": 464,
+    "end_char": 466,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:77",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 436,
+        "end_char": 450
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laero:article:89:reference:560-562:85:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:89",
     "source_span": "85",
@@ -859,6 +1583,28 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:85",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:89:reference:1182-1184:77:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:89",
+    "source_span": "77",
+    "start_char": 1182,
+    "end_char": 1184,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:77",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 1154,
+        "end_char": 1168
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -878,6 +1624,73 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:9:reference:475-477:22:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:9",
+    "source_span": "22",
+    "start_char": 475,
+    "end_char": 477,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:22",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 447,
+        "end_char": 461
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:9:reference:1313-1315:22:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:9",
+    "source_span": "22",
+    "start_char": 1313,
+    "end_char": 1315,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:22",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:93:reference:26-28:63:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:93",
+    "source_span": "63",
+    "start_char": 26,
+    "end_char": 28,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:63",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laero:article:96:reference:1282-1284:55:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:96",
+    "source_span": "55",
+    "start_char": 1282,
+    "end_char": 1284,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laero",
+    "target_provision_id": "urn:lex-mx:federal:statute:laero:article:55",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",

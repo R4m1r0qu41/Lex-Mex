@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 305
 
-En caso de negarse o impedir que se lleve a cabo alguno de los actos de verificación, revisión o inspección en los términos de la Ley y el presente reglamento, dicha situación se debe hacer constar en el acta circunstanciada que se levante para tales efectos, y ser sancionada en términos de lo previsto en el artículo 187 de la Ley.
+En caso de negarse o impedir que se lleve a cabo alguno de los actos de verificación, revisión o inspección en los términos de la Ley y el presente reglamento, dicha situación se debe hacer constar en el acta circunstanciada que se levante para tales efectos, y ser sancionada en términos de lo previsto en el artículo [187](../../lse/markdown/articulo-187.md) de la Ley.

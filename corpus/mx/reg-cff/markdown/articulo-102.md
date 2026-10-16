@@ -17,6 +17,6 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 102
 
-Para los efectos del artículo 163, segundo párrafo del [Código](articulo-1.md), en los casos en los que el deudor o su representante legal no se presenten en las oficinas de las [Autoridades Fiscales](articulo-1.md) a abrir las cerraduras de los bienes muebles a que se refiere dicho artículo o presentándose se niegue a abrir las cerraduras, la Autoridad Fiscal encomendará a un experto para que proceda a su apertura en presencia de dos testigos designados previamente por las propias autoridades.
+Para los efectos del artículo [163](../../cff/markdown/articulo-163.md), segundo párrafo del [Código](articulo-1.md), en los casos en los que el deudor o su representante legal no se presenten en las oficinas de las [Autoridades Fiscales](articulo-1.md) a abrir las cerraduras de los bienes muebles a que se refiere dicho artículo o presentándose se niegue a abrir las cerraduras, la Autoridad Fiscal encomendará a un experto para que proceda a su apertura en presencia de dos testigos designados previamente por las propias autoridades.
 
 El ejecutor levantará un acta haciendo constar el inventario completo del contenido de los bienes muebles a que se refiere el párrafo anterior, la cual deberá ser firmada por él, por los testigos y por el depositario designado, una copia de la misma se le notificara al deudor.

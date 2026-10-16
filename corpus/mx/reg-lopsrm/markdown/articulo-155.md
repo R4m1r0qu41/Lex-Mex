@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 155
 
-Sin perjuicio de lo previsto en el [artículo anterior](articulo-154.md), la dependencia o entidad podrá iniciar en cualquier momento el procedimiento de rescisión previsto en el artículo 61 de la [Ley](articulo-2.md), motivando la rescisión en alguna de las causales previstas en el artículo [157](articulo-157.md) de este Reglamento. Si es el contratista quien decide rescindir el contrato será necesario que acuda ante la autoridad judicial federal y obtenga la declaración correspondiente.
+Sin perjuicio de lo previsto en el [artículo anterior](articulo-154.md), la dependencia o entidad podrá iniciar en cualquier momento el procedimiento de rescisión previsto en el artículo [61](../../lopsrm/markdown/articulo-61.md) de la [Ley](articulo-2.md), motivando la rescisión en alguna de las causales previstas en el artículo [157](articulo-157.md) de este Reglamento. Si es el contratista quien decide rescindir el contrato será necesario que acuda ante la autoridad judicial federal y obtenga la declaración correspondiente.

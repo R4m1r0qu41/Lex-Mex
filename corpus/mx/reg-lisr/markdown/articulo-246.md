@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 246
 
-Para efectos de precisar las reparaciones y adaptaciones que se consideran inversiones deducibles en términos del artículo 149 de la [Ley](articulo-1.md), será aplicable lo dispuesto en el artículo [75](articulo-75.md) de este Reglamento.
+Para efectos de precisar las reparaciones y adaptaciones que se consideran inversiones deducibles en términos del artículo [149](../../lisr/markdown/articulo-149.md) de la [Ley](articulo-1.md), será aplicable lo dispuesto en el artículo [75](articulo-75.md) de este Reglamento.

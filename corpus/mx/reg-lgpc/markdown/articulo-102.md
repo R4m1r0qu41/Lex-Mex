@@ -17,4 +17,4 @@ source_sha256: 5018478a6ca9ea39f9ca88ffcb68dde9a33bd4adec59dc75d2431f894b621fc2
 
 # Artículo 102
 
-Los solicitantes de las declaratorias de Emergencia o de Desastre natural, además de cumplir con lo previsto por el artículo 58 de la [Ley](articulo-2.md), deberán hacer una valoración sustentada respecto de la dimensión, magnitud, localización geográfica específica, población involucrada en esas circunstancias y apoyos requeridos, a efecto de evitar retrasos en la autorización correspondiente, tanto de insumos para la atención de los Damnificados, como de recursos para la atención de los Desastres.
+Los solicitantes de las declaratorias de Emergencia o de Desastre natural, además de cumplir con lo previsto por el artículo [58](../../lgpc/markdown/articulo-58.md) de la [Ley](articulo-2.md), deberán hacer una valoración sustentada respecto de la dimensión, magnitud, localización geográfica específica, población involucrada en esas circunstancias y apoyos requeridos, a efecto de evitar retrasos en la autorización correspondiente, tanto de insumos para la atención de los Damnificados, como de recursos para la atención de los Desastres.

@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 7
 
-Para los efectos del artículo 12 del [Código](articulo-1.md), salvo disposición expresa establecida en dicho ordenamiento, el cómputo de los plazos comenzará a contarse a partir del día siguiente a aquél en que surta efectos la notificación del acto o resolución administrativa.
+Para los efectos del artículo [12](../../cff/markdown/articulo-12.md) del [Código](articulo-1.md), salvo disposición expresa establecida en dicho ordenamiento, el cómputo de los plazos comenzará a contarse a partir del día siguiente a aquél en que surta efectos la notificación del acto o resolución administrativa.
 
 El horario de recepción de documentos en la oficialía de partes de las unidades administrativas del Servicio de Administración Tributaria, será el que para tales efectos se establezca en las reglas de carácter general que emita dicho órgano desconcentrado.
 

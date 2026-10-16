@@ -17,13 +17,13 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 240
 
-El procedimiento para expedir oficio de salida de la estación migratoria a personas extranjeras alojadas que se ubiquen en alguno de los supuestos previstos en los artículos 133 o 134 de la Ley, debe atenderse de acuerdo a lo siguiente:
+El procedimiento para expedir oficio de salida de la estación migratoria a personas extranjeras alojadas que se ubiquen en alguno de los supuestos previstos en los artículos [133](../../lmigra/markdown/articulo-133.md) o [134](../../lmigra/markdown/articulo-134.md) de la Ley, debe atenderse de acuerdo a lo siguiente:
 
-I. La autoridad migratoria verificará, a través del oficio de puesta a disposición y a través de una entrevista, si la persona extranjera se ubica en alguno de los supuestos señalados en los artículos 133 o 134 de la Ley;
+I. La autoridad migratoria verificará, a través del oficio de puesta a disposición y a través de una entrevista, si la persona extranjera se ubica en alguno de los supuestos señalados en los artículos [133](../../lmigra/markdown/articulo-133.md) o [134](../../lmigra/markdown/articulo-134.md) de la Ley;
 
 II. La autoridad migratoria informará a la persona extranjera del derecho que le asiste para regularizar su estancia en el territorio nacional, en términos de la Ley;
 
-III. Si la persona extranjera se ubica en alguno de los supuestos previstos en los artículos 133 o 134 de la Ley y manifiesta su deseo de regularizar su estancia en el territorio nacional, la autoridad migratoria debe:
+III. Si la persona extranjera se ubica en alguno de los supuestos previstos en los artículos [133](../../lmigra/markdown/articulo-133.md) o [134](../../lmigra/markdown/articulo-134.md) de la Ley y manifiesta su deseo de regularizar su estancia en el territorio nacional, la autoridad migratoria debe:
 
 a) Llevar a cabo una comparecencia para conocer la siguiente información:
 
@@ -35,17 +35,17 @@ iv) Las actividades económicas que realiza, y
 
 v) Si es la primera vez que se encuentra en el territorio nacional de manera irregular, en caso de que no sea así, especificar el número de ocasiones.
 
-b) Imponer la multa prevista en los artículos 145 o 146 de la Ley, según corresponda. El monto de la multa se determinará conforme al artículo [73](../../lfpa/markdown/articulo-73.md) de la Ley Federal de Procedimiento Administrativo, y
+b) Imponer la multa prevista en los artículos [145](../../lmigra/markdown/articulo-145.md) o [146](../../lmigra/markdown/articulo-146.md) de la Ley, según corresponda. El monto de la multa se determinará conforme al artículo [73](../../lfpa/markdown/articulo-73.md) de la Ley Federal de Procedimiento Administrativo, y
 
-c) Informar a la persona extranjera los requisitos que establece el artículo 135 de la Ley, mismos que deberá acreditar a la autoridad migratoria para que se le expida oficio de salida de la estación migratoria para regularizar su estancia en el territorio nacional, así como el plazo de diez días naturales para que acredite dichos requisitos.
+c) Informar a la persona extranjera los requisitos que establece el artículo [135](../../lmigra/markdown/articulo-135.md) de la Ley, mismos que deberá acreditar a la autoridad migratoria para que se le expida oficio de salida de la estación migratoria para regularizar su estancia en el territorio nacional, así como el plazo de diez días naturales para que acredite dichos requisitos.
 
 IV. La autoridad asentará lo señalado en un acta circunstanciada, entregando copia de la misma a la persona extranjera;
 
-V. En caso de que la persona extranjera acredite los requisitos correspondientes y no se encuentre dentro de los supuestos previstos en los artículos 43 y 144 de la Ley, la autoridad migratoria expedirá dentro de las veinticuatro horas siguientes al cumplimiento de requisitos, oficio de salida de la estación migratoria para regularizar su estancia en el territorio nacional;
+V. En caso de que la persona extranjera acredite los requisitos correspondientes y no se encuentre dentro de los supuestos previstos en los artículos [43](../../lmigra/markdown/articulo-43.md) y [144](../../lmigra/markdown/articulo-144.md) de la Ley, la autoridad migratoria expedirá dentro de las veinticuatro horas siguientes al cumplimiento de requisitos, oficio de salida de la estación migratoria para regularizar su estancia en el territorio nacional;
 
 VI. En caso contrario, expedirá resolución debidamente fundada y motivada en la que se niegue el oficio de salida de la estación migratoria y se emitirá un oficio de salida del país;
 
-VII. El oficio de salida de la estación migratoria deberá relacionar los requisitos que acreditó la persona extranjera, incluido el pago de la multa por el monto que se haya determinado, salvo en caso de que la persona extranjera se encuentre en algún supuesto de exención previsto en el artículo 145 de la Ley, situación que deberá señalarse en el oficio;
+VII. El oficio de salida de la estación migratoria deberá relacionar los requisitos que acreditó la persona extranjera, incluido el pago de la multa por el monto que se haya determinado, salvo en caso de que la persona extranjera se encuentre en algún supuesto de exención previsto en el artículo [145](../../lmigra/markdown/articulo-145.md) de la Ley, situación que deberá señalarse en el oficio;
 
 VIII. El oficio de salida de la estación migratoria debe contener prevención para que la persona extranjera presente ante la oficina de trámites que corresponda a su domicilio el trámite de regularización de su situación migratoria, dentro de los siguientes veinte días naturales contados a partir de la fecha del oficio de salida, y
 

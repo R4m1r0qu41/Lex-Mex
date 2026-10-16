@@ -23,4 +23,4 @@ II. Emisiones y transferencias de sustancias y contaminantes, conforme a lo esta
 
 III. Localización geográfica del establecimiento sujeto a reporte.
 
-La información a que hace mención este artículo será integrada al Sistema Nacional de Información Ambiental y de Recursos Naturales, de conformidad con el artículo 159 Bis de la Ley.
+La información a que hace mención este artículo será integrada al Sistema Nacional de Información Ambiental y de Recursos Naturales, de conformidad con el artículo [159 Bis](../../lgeepa/markdown/articulo-159-BIS.md) de la Ley.

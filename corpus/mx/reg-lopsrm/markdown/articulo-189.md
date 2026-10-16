@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 189
 
-En los términos de lo previsto en el penúltimo párrafo del artículo 59 de la [Ley](articulo-2.md), el catálogo de conceptos de los trabajos únicamente podrá contener los siguientes precios unitarios:
+En los términos de lo previsto en el penúltimo párrafo del artículo [59](../../lopsrm/markdown/articulo-59.md) de la [Ley](articulo-2.md), el catálogo de conceptos de los trabajos únicamente podrá contener los siguientes precios unitarios:
 
 I. Precios unitarios originales, que son los consignados en el catálogo de conceptos del contrato y que sirvieron de base para su adjudicación, y
 

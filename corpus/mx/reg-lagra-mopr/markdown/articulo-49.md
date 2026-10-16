@@ -17,4 +17,4 @@ source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 
 # Artículo 49
 
-En la enajenación de tierras o acciones serie T, se estará a lo dispuesto en el artículo 124 de la Ley, así como a las disposiciones que sobre enajenación de acciones se establezcan en los estatutos sociales de la sociedad propietaria de tierras.
+En la enajenación de tierras o acciones serie T, se estará a lo dispuesto en el artículo [124](../../lagra/markdown/articulo-124.md) de la Ley, así como a las disposiciones que sobre enajenación de acciones se establezcan en los estatutos sociales de la sociedad propietaria de tierras.

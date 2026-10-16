@@ -17,4 +17,4 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 # Artículo 97
 
-El Ejecutivo Federal a través de la Secretaría, coordinará sus acciones con los gobiernos de las entidades federativas y de los municipios, en el ámbito de sus respectivas atribuciones, para registrar los fierros, marcas y tatuajes a que se refiere el artículo 13 de la Ley.
+El Ejecutivo Federal a través de la Secretaría, coordinará sus acciones con los gobiernos de las entidades federativas y de los municipios, en el ámbito de sus respectivas atribuciones, para registrar los fierros, marcas y tatuajes a que se refiere el artículo [13](../../log/markdown/articulo-13.md) de la Ley.

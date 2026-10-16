@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 115
 
-Para efectos del artículo 76, fracción XVII de la [Ley](articulo-1.md), los contribuyentes residentes en el país que tengan establecimientos en el extranjero, deberán llevar en dichos establecimientos cuando menos los libros de contabilidad y registros a que estén obligados los contribuyentes de conformidad con el Código Fiscal de la Federación y su Reglamento.
+Para efectos del artículo [76](../../lisr/markdown/articulo-76.md), fracción XVII de la [Ley](articulo-1.md), los contribuyentes residentes en el país que tengan establecimientos en el extranjero, deberán llevar en dichos establecimientos cuando menos los libros de contabilidad y registros a que estén obligados los contribuyentes de conformidad con el Código Fiscal de la Federación y su Reglamento.

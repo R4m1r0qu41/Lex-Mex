@@ -25,7 +25,7 @@ II. Dar a conocer a las personas participantes el proceso de evaluación; Fracci
 
 III. Excluir del Personal Potencial a las personas participantes que no reúnan los requisitos establecidos en la Ley y en el presente Reglamento o que hagan uso de medios fraudulentos durante la presentación de los exámenes y pruebas; Fracción reformada DOF 20-03-2026
 
-IV. Incluir en el Personal Potencial a quienes se encontraban excluidos en un primer momento para participar, cuando resulte procedente, de conformidad con el artículo 34 de la Ley; Fracción reformada DOF 20-03-2026
+IV. Incluir en el Personal Potencial a quienes se encontraban excluidos en un primer momento para participar, cuando resulte procedente, de conformidad con el artículo [34](../../larefam/markdown/articulo-34.md) de la Ley; Fracción reformada DOF 20-03-2026
 
 V. Capturar los datos e integrar los expedientes del personal participante, así como de los documentos que servirán de base para el proceso de análisis;
 

@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 95
 
-Para efectos del artículo 56, fracción I, inciso a) de la [Ley](articulo-1.md), en relación con lo dispuesto por el artículo [94](articulo-94.md), párrafo tercero de este Reglamento, la fecha de fondeo, amarre o atraque, será la que se registre en la capitanía del puerto a que arribe la embarcación.
+Para efectos del artículo [56](../../ladua/markdown/articulo-56.md), fracción I, inciso a) de la [Ley](articulo-1.md), en relación con lo dispuesto por el artículo [94](articulo-94.md), párrafo tercero de este Reglamento, la fecha de fondeo, amarre o atraque, será la que se registre en la capitanía del puerto a que arribe la embarcación.

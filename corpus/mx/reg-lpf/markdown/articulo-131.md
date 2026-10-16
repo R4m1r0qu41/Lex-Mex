@@ -17,7 +17,7 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 # Artículo 131
 
-Para los efectos del artículo 17, apartado B, fracción III, de la [Ley](articulo-2.md), la edad máxima para el retiro de los [Integrantes](articulo-2.md) de la [Institución](articulo-2.md), según su categoría y jerarquía, será la siguiente:
+Para los efectos del artículo [17](../../lpf/markdown/articulo-17.md), apartado B, fracción III, de la [Ley](articulo-2.md), la edad máxima para el retiro de los [Integrantes](articulo-2.md) de la [Institución](articulo-2.md), según su categoría y jerarquía, será la siguiente:
 
 A. Escala Básica, 45 años;
 

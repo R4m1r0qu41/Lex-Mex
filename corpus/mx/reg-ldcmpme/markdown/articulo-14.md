@@ -31,7 +31,7 @@ V. Promover y fomentar con las Entidades Federativas, los Municipios y las demar
 
 VI. Diseñar, coordinar y ejecutar el Sistema General de Información y Consulta para la Planeación sobre los Sectores Productivos y Cadenas Productivas;
 
-VII. Diseñar, instrumentar y operar, en el ámbito de su competencia, los esquemas de seguimiento e identificación de los resultados de los Programas previstos en el artículo 11 de la Ley, con la participación que corresponda a las dependencias y entidades de la Administración Pública Federal;
+VII. Diseñar, instrumentar y operar, en el ámbito de su competencia, los esquemas de seguimiento e identificación de los resultados de los Programas previstos en el artículo [11](../../ldcmpme/markdown/articulo-11.md) de la Ley, con la participación que corresponda a las dependencias y entidades de la Administración Pública Federal;
 
 VIII. Participar en el Consejo, los Grupos de Trabajo y aquéllos otros cuyas actividades incidan en el desarrollo de la competitividad de las MIPYMES; REGLAMENTO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA IX. Proponer y promover la revisión de trámites y del marco jurídico aplicable para establecer las condiciones que permitan la creación, desarrollo, consolidación, viabilidad, productividad y sustentabilidad de las MIPYMES;
 

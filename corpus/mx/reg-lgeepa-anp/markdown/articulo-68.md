@@ -17,7 +17,7 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 68
 
-En los casos a que se refiere el artículo 78 bis de la Ley, la Secretaría podrá promover ante el Ejecutivo Federal, la expedición de declaratorias para el establecimiento de zonas de restauración ecológica dentro de las áreas naturales protegidas.
+En los casos a que se refiere el artículo [78 bis](../../lgeepa/markdown/articulo-78-BIS.md) de la Ley, la Secretaría podrá promover ante el Ejecutivo Federal, la expedición de declaratorias para el establecimiento de zonas de restauración ecológica dentro de las áreas naturales protegidas.
 
 Los estudios que justifiquen la expedición de dichas declaratorias deberán contener:
 
@@ -77,4 +77,4 @@ g) Uso tradicional de la vida silvestre de la región, y
 
 V. Instituciones que han realizado proyectos de investigación en el área.
 
-Las declaratorias a que se refiere el presente artículo deberán contener, además de lo establecido en el artículo 78 Bis de la Ley, su vigencia.
+Las declaratorias a que se refiere el presente artículo deberán contener, además de lo establecido en el artículo [78 Bis](../../lgeepa/markdown/articulo-78-BIS.md) de la Ley, su vigencia.

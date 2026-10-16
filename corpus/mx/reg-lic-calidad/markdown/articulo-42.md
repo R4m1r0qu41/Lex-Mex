@@ -17,4 +17,4 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 42
 
-El Consejo Técnico se integra por: I. Una Coordinación Técnica, que estará a cargo de una persona servidora pública integrante de la Comisión que designe la persona titular de la misma, y II. Seis Consejerías Sectoriales, una por cada fracción del párrafo segundo del artículo 16 de la Ley.
+El Consejo Técnico se integra por: I. Una Coordinación Técnica, que estará a cargo de una persona servidora pública integrante de la Comisión que designe la persona titular de la misma, y II. Seis Consejerías Sectoriales, una por cada fracción del párrafo segundo del artículo [16](../../lic-calidad/markdown/articulo-16.md) de la Ley.

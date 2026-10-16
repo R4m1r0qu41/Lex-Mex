@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 134
 
-Para efectos de lo previsto en los artículos 274, 275 y 316 de la Ley, la persona solicitante deberá señalar los elementos descriptivos o genéricos comprendidos en el nombre de la denominación de origen o indicación geográfica, respecto de los cuales no se solicita su protección.
+Para efectos de lo previsto en los artículos [274](../../lfppi/markdown/articulo-274.md), [275](../../lfppi/markdown/articulo-275.md) y [316](../../lfppi/markdown/articulo-316.md) de la Ley, la persona solicitante deberá señalar los elementos descriptivos o genéricos comprendidos en el nombre de la denominación de origen o indicación geográfica, respecto de los cuales no se solicita su protección.

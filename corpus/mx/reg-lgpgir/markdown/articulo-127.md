@@ -17,7 +17,7 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 127
 
-Quienes transfieran o adquieran la propiedad de sitios contaminados con residuos peligrosos, conforme a lo previsto en el artículo 71 de la [Ley](articulo-2.md), deberán contar con autorización expresa de la Secretaría. Para tal efecto, presentarán la solicitud en el formato que al efecto se expida, la cual contendrá:
+Quienes transfieran o adquieran la propiedad de sitios contaminados con residuos peligrosos, conforme a lo previsto en el artículo [71](../../lgpgir/markdown/articulo-71.md) de la [Ley](articulo-2.md), deberán contar con autorización expresa de la Secretaría. Para tal efecto, presentarán la solicitud en el formato que al efecto se expida, la cual contendrá:
 
 48 I. Nombre, denominación o razón social y domicilio del enajenante y del adquirente;
 

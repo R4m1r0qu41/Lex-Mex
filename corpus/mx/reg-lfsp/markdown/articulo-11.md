@@ -17,4 +17,4 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 # Artículo 11
 
-Concluido el plazo previsto en el artículo 26 de la [Ley](articulo-2.md), la [Dirección General](articulo-2.md) analizará si la información y documentación exhibida por el solicitante o peticionario de la autorización cumple con lo dispuesto por dicho artículo, para lo cual emitirá la resolución correspondiente.
+Concluido el plazo previsto en el artículo [26](../../lfsp/markdown/articulo-26.md) de la [Ley](articulo-2.md), la [Dirección General](articulo-2.md) analizará si la información y documentación exhibida por el solicitante o peticionario de la autorización cumple con lo dispuesto por dicho artículo, para lo cual emitirá la resolución correspondiente.

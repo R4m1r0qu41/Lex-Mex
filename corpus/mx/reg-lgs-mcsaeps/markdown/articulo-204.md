@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 204
 
-En los casos de reincidencia, se estará a lo dispuesto por el artículo 423 de la Ley.
+En los casos de reincidencia, se estará a lo dispuesto por el artículo [423](../../lgs/markdown/articulo-423.md) de la Ley.

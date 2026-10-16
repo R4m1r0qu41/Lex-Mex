@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 3
 
-Para los efectos del presente Reglamento, además de las definiciones previstas en el artículo 3 de la Ley, se entenderá por:
+Para los efectos del presente Reglamento, además de las definiciones previstas en el artículo [3](../../lmigra/markdown/articulo-3.md) de la Ley, se entenderá por:
 
 I. Acta de internación: al documento en que consta el acto administrativo que emite la autoridad migratoria, derivado de una segunda revisión, y mediante el cual se autoriza la internación al territorio nacional de una persona que solicitó su ingreso al mismo, en los lugares destinados al tránsito internacional de personas;
 
@@ -45,11 +45,11 @@ XII. Entrevista Consular: a la conversación o serie de preguntas que el funcion
 
 XIII. Figura equivalente al concubinato: a la relación de un hombre y una mujer libres de matrimonio que viven en común, en forma constante y permanente por el tiempo que establezca la legislación del país que corresponda. No será necesario que la convivencia cumpla con un período, cuando hayan procreado hijos en común;
 
-XIV. Listas de control migratorio: a las bases de datos que contienen registros de información generados por las autoridades competentes en el ejercicio de sus atribuciones, integradas y administradas por el Instituto, para que en el ámbito de su competencia, ejerzan sus atribuciones en términos de lo dispuesto en los artículos 20 y 43 de la Ley;
+XIV. Listas de control migratorio: a las bases de datos que contienen registros de información generados por las autoridades competentes en el ejercicio de sus atribuciones, integradas y administradas por el Instituto, para que en el ámbito de su competencia, ejerzan sus atribuciones en términos de lo dispuesto en los artículos [20](../../lmigra/markdown/articulo-20.md) y [43](../../lmigra/markdown/articulo-43.md) de la Ley;
 
 XV. Navegación de altura: al tipo de navegación que realizan las embarcaciones por mar entre puertos o puntos localizados en territorio mexicano o en las zonas marinas mexicanas y puertos o puntos situados en el extranjero, así como entre puertos o puntos extranjeros;
 
-XVI. Oficio de salida de la estación migratoria: a la resolución que permite la salida de la persona extranjera de la estación migratoria, para iniciar trámites de regularización, dentro del plazo que otorgue la autoridad migratoria; o bien, en el supuesto del último párrafo del artículo 111 de la Ley;
+XVI. Oficio de salida de la estación migratoria: a la resolución que permite la salida de la persona extranjera de la estación migratoria, para iniciar trámites de regularización, dentro del plazo que otorgue la autoridad migratoria; o bien, en el supuesto del último párrafo del artículo [111](../../lmigra/markdown/articulo-111.md) de la Ley;
 
 XVII. Oficio de salida del país: a la resolución que expide la autoridad migratoria del lugar destinado al tránsito internacional de personas, que autoriza a la persona extranjera en situación migratoria irregular a abandonar territorio nacional dentro del plazo otorgado;
 

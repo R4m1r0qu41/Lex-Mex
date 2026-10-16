@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 225
 
-Para efectos del artículo 133, último párrafo de la [Ley](articulo-1.md), las sociedades de inversión especializadas de fondos para el retiro calcularán para cada uno de sus inversionistas, el interés real acumulable proveniente de la subcuenta de aportaciones voluntarias a que se refiere la Ley de los Sistemas de Ahorro para el Retiro, conforme a lo siguiente:
+Para efectos del artículo [133](../../lisr/markdown/articulo-133.md), último párrafo de la [Ley](articulo-1.md), las sociedades de inversión especializadas de fondos para el retiro calcularán para cada uno de sus inversionistas, el interés real acumulable proveniente de la subcuenta de aportaciones voluntarias a que se refiere la Ley de los Sistemas de Ahorro para el Retiro, conforme a lo siguiente:
 
 I. Determinarán diariamente y por separado:
 

@@ -17,6 +17,6 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 115 Bis
 
-Para efectos de lo dispuesto por el artículo 50, párrafo cuarto de la Ley, se deberá presentar ante la Dirección General, el original o copia certificada del acta de adopción o, en su caso, de la resolución judicial definitiva que autorice la adopción.
+Para efectos de lo dispuesto por el artículo [50](../../lsem/markdown/articulo-50.md), párrafo cuarto de la Ley, se deberá presentar ante la Dirección General, el original o copia certificada del acta de adopción o, en su caso, de la resolución judicial definitiva que autorice la adopción.
 
 Artículo adicionado DOF 02-11-2018

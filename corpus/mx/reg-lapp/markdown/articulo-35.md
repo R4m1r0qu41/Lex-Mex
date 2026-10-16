@@ -21,6 +21,6 @@ Las Dependencias y [Entidades Federales](articulo-11.md), además de cumplir con
 
 La Secretaría evaluará, en el ámbito presupuestario, los proyectos de Asociación Público Privada que reciba y, cuando así lo considere procedente en ejercicio de sus atribuciones, realizará la inscripción correspondiente.
 
-Los proyectos registrados en la Cartera, que requieran de los recursos señalados en el artículo [3](articulo-3o.md)o., fracción I de este Reglamento, serán presentados a la [Comisión](articulo-11.md) para los efectos previstos en el artículo 24 de la Ley.
+Los proyectos registrados en la Cartera, que requieran de los recursos señalados en el artículo [3](articulo-3o.md)o., fracción I de este Reglamento, serán presentados a la [Comisión](articulo-11.md) para los efectos previstos en el artículo [24](../../lapp/markdown/articulo-24.md) de la Ley.
 
 Artículo reformado DOF 20-02-2017

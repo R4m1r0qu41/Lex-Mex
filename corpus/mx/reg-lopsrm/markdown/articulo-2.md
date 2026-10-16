@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 2
 
-Para los efectos de este Reglamento se aplicarán las definiciones establecidas en el artículo 2 de la [Ley](articulo-2.md). Asimismo, se entenderá por:
+Para los efectos de este Reglamento se aplicarán las definiciones establecidas en el artículo [2](../../lopsrm/markdown/articulo-2.md) de la [Ley](articulo-2.md). Asimismo, se entenderá por:
 
 I. Amortización programada: la contraprestación periódica que la dependencia o entidad tiene obligación de cubrir al [Inversionista contratista](articulo-2.md) por la ejecución de obras públicas asociadas a proyectos de infraestructura, su puesta en marcha, mantenimiento y operación;
 
@@ -35,7 +35,7 @@ VIII. Bitácora: el instrumento técnico que constituye el medio de comunicació
 
 IX. Caso fortuito o fuerza mayor: el acontecimiento proveniente de la naturaleza o del hombre caracterizado por ser imprevisible, inevitable, irresistible, insuperable y ajeno a la voluntad de las partes; Fracción reformada DOF 27-09-2022
 
-X. Comité: el comité de obras públicas a que se refiere el artículo 25 de la Ley;
+X. Comité: el comité de obras públicas a que se refiere el artículo [25](../../lopsrm/markdown/articulo-25.md) de la Ley;
 
 XI. Especificaciones generales de construcción: el conjunto de condiciones generales que las dependencias y entidades tienen establecidas para la ejecución de obras, incluyendo las que deben aplicarse para la realización de estudios, proyectos, ejecución, equipamiento, puesta en servicio, mantenimiento y supervisión, que comprenden la forma de medición y la base de pago de los conceptos de trabajo;
 
@@ -57,7 +57,7 @@ XIX. Monto total ejercido: el importe correspondiente al costo total erogado con
 
 XX. Normas de calidad: los requisitos mínimos que establecen las dependencias y entidades, conforme a las especificaciones generales y particulares de construcción, para asegurar que los materiales y equipos de instalación permanente que se utilizan en cada obra son los adecuados;
 
-XXI. Obras: las señaladas en el artículo 3 de la Ley;
+XXI. Obras: las señaladas en el artículo [3](../../lopsrm/markdown/articulo-3.md) de la Ley;
 
 XXII. Obras de gran complejidad: aquéllas cuya ejecución o el sitio donde se vayan a realizar presenten dificultades técnicas o de seguridad para el desarrollo de los trabajos, así como las que señala el primer párrafo del artículo [6](articulo-6.md) de este Reglamento y en las cuales se considerará que el avance del desarrollo de los estudios y proyectos estará constituido por una propuesta conceptual;
 
@@ -69,7 +69,7 @@ XXV. Presupuesto de obra o de servicio: el recurso estimado que la dependencia o
 
 XXVI. Proyecto de convocatoria: el documento que contiene la versión preliminar de una convocatoria a la licitación pública, el cual es difundido con ese carácter en CompraNet por la dependencia o entidad;
 
-XXVII. Servicios: los mencionados en el artículo 4 de la Ley;
+XXVII. Servicios: los mencionados en el artículo [4](../../lopsrm/markdown/articulo-4.md) de la Ley;
 
 XXVIII. Sobre cerrado: cualquier medio que contenga la proposición del licitante, cuyo contenido sólo puede ser conocido en el acto de presentación y apertura de proposiciones en términos de la Ley; Fracción reformada DOF 27-09-2022
 

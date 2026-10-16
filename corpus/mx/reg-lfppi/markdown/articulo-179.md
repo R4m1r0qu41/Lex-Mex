@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 179
 
-La multa adicional a que se refiere el artículo 388, fracción II, de la Ley, se impondrá cuando persista la infracción administrativa después de que se notifique la resolución por la que aquélla se sancione y expire el plazo de quince días hábiles concedido por el Instituto para que la persona infractora demuestre haber cesado en la comisión de la infracción sancionada.
+La multa adicional a que se refiere el artículo [388](../../lfppi/markdown/articulo-388.md), fracción II, de la Ley, se impondrá cuando persista la infracción administrativa después de que se notifique la resolución por la que aquélla se sancione y expire el plazo de quince días hábiles concedido por el Instituto para que la persona infractora demuestre haber cesado en la comisión de la infracción sancionada.

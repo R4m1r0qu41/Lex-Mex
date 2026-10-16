@@ -19,9 +19,9 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 La oferta técnica deberá contener:
 
-I. La obligación de constituir una sociedad con propósito específico en términos del artículo 91 de la Ley, para el evento de que el concursante reciba la adjudicación del proyecto y no sea el desarrollador;
+I. La obligación de constituir una sociedad con propósito específico en términos del artículo [91](../../lapp/markdown/articulo-91.md) de la Ley, para el evento de que el concursante reciba la adjudicación del proyecto y no sea el desarrollador;
 
-II. En relación con la referida sociedad con propósito específico mencionada en el citado artículo 91 de la Ley, los datos siguientes:
+II. En relación con la referida sociedad con propósito específico mencionada en el citado artículo [91](../../lapp/markdown/articulo-91.md) de la Ley, los datos siguientes:
 
 a) Los socios y participación de cada uno de ellos en el capital de la sociedad, y
 
@@ -35,7 +35,7 @@ b) Las actividades, obligaciones y responsabilidades, debidamente diferenciadas,
 
 c) La obligación de que, de resultar ganador, cumplirá con los requisitos mencionados en el artículo [106](articulo-106.md) de este Reglamento;
 
-IV. La manifestación bajo protesta de decir verdad de quien firma la oferta de que él, sus representados, los socios o accionistas de sus representados, así como los administradores del concursante, no se encuentran en los supuestos del artículo 42 de la Ley;
+IV. La manifestación bajo protesta de decir verdad de quien firma la oferta de que él, sus representados, los socios o accionistas de sus representados, así como los administradores del concursante, no se encuentran en los supuestos del artículo [42](../../lapp/markdown/articulo-42.md) de la Ley;
 
 V. En caso de registro preliminar, la declaración a que alude el artículo [72](articulo-72.md), fracción II, de este Reglamento;
 

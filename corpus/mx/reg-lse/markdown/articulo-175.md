@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 175
 
-El Suministro Eléctrico provisto a través de pequeños sistemas eléctricos en régimen de micro-red, puede ser Suministro Básico cuando es prestado por la Empresa Pública del Estado o como venta a terceras personas si se constituye como una sola entidad legal, en términos del artículo 79 de la Ley. Se debe sancionar en términos de la Ley a quien haga uso indebido de la modalidad de pequeño sistema eléctrico en régimen de micro-red.
+El Suministro Eléctrico provisto a través de pequeños sistemas eléctricos en régimen de micro-red, puede ser Suministro Básico cuando es prestado por la Empresa Pública del Estado o como venta a terceras personas si se constituye como una sola entidad legal, en términos del artículo [79](../../lse/markdown/articulo-79.md) de la Ley. Se debe sancionar en términos de la Ley a quien haga uso indebido de la modalidad de pequeño sistema eléctrico en régimen de micro-red.

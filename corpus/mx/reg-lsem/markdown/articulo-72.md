@@ -17,4 +17,4 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 72
 
-El [Jefe o Titular de Representación](articulo-2.md) podrá delegar la atención y despacho de los asuntos que estime procedente en algún miembro de ésta, lo cual no lo eximirá de su responsabilidad conforme a la fracción IV del artículo 43 de la Ley, y notificará por escrito a la Secretaría el nombre del servidor público y las facultades delegadas.
+El [Jefe o Titular de Representación](articulo-2.md) podrá delegar la atención y despacho de los asuntos que estime procedente en algún miembro de ésta, lo cual no lo eximirá de su responsabilidad conforme a la fracción IV del artículo [43](../../lsem/markdown/articulo-43.md) de la Ley, y notificará por escrito a la Secretaría el nombre del servidor público y las facultades delegadas.

@@ -17,4 +17,4 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 106
 
-Con el objeto de que no proceda la cancelación de la concesión por la infracción que señala el artículo 55, fracción V de la Ley, y para los efectos del artículo [56](articulo-56.md), fracción III de la misma, el pago de la prima por descubrimiento se actualizará de igual manera que la prevista por las disposiciones fiscales para la actualización de las contribuciones y sus recargos por concepto de indemnización.
+Con el objeto de que no proceda la cancelación de la concesión por la infracción que señala el artículo [55](../../lmin/markdown/articulo-55.md), fracción V de la Ley, y para los efectos del artículo [56](articulo-56.md), fracción III de la misma, el pago de la prima por descubrimiento se actualizará de igual manera que la prevista por las disposiciones fiscales para la actualización de las contribuciones y sus recargos por concepto de indemnización.

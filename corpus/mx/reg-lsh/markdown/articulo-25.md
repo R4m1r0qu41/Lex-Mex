@@ -17,4 +17,4 @@ source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
 
 # Artículo 25
 
-Para efectos del artículo 18 de la Ley, se consideran causas justificadas los casos fortuitos o de fuerza mayor, así como los demás que se establezcan en el título de Asignación.
+Para efectos del artículo [18](../../lsh/markdown/articulo-18.md) de la Ley, se consideran causas justificadas los casos fortuitos o de fuerza mayor, así como los demás que se establezcan en el título de Asignación.

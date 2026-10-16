@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 167
 
-Para efectos de lo establecido en el artículo 108, cuarto párrafo de la [Ley](articulo-1.md), se considerará que los Residentes en Territorio Nacional que enajenen productos a las empresas con programa de manufactura, maquila y de servicios de exportación autorizados por la Secretaría de Economía cuentan con la constancia de exportación, cuando tramiten los Pedimentos a que se refiere el artículo 112 de la Ley.
+Para efectos de lo establecido en el artículo [108](../../ladua/markdown/articulo-108.md), cuarto párrafo de la [Ley](articulo-1.md), se considerará que los Residentes en Territorio Nacional que enajenen productos a las empresas con programa de manufactura, maquila y de servicios de exportación autorizados por la Secretaría de Economía cuentan con la constancia de exportación, cuando tramiten los Pedimentos a que se refiere el artículo [112](../../ladua/markdown/articulo-112.md) de la Ley.

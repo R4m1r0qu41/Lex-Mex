@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 49
 
-La venta de energía eléctrica y Productos Asociados generados por una Central Eléctrica en Generación Distribuida, debe estar conforme a lo previsto en las disposiciones administrativas de carácter general a que se refiere el artículo [47](articulo-47.md) del presente reglamento, así como a los modelos de contrato y metodologías de cálculo, criterios y bases para determinar y actualizar las contraprestaciones aplicables a que se refiere el artículo 27, primer párrafo de la Ley.
+La venta de energía eléctrica y Productos Asociados generados por una Central Eléctrica en Generación Distribuida, debe estar conforme a lo previsto en las disposiciones administrativas de carácter general a que se refiere el artículo [47](articulo-47.md) del presente reglamento, así como a los modelos de contrato y metodologías de cálculo, criterios y bases para determinar y actualizar las contraprestaciones aplicables a que se refiere el artículo [27](../../lse/markdown/articulo-27.md), primer párrafo de la Ley.

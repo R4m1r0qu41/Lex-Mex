@@ -17,4 +17,4 @@ source_sha256: 85d60fd8e0d0d2dac1758f672c5b2200ee6e501eecd8c635b0ac89a93d930b97
 
 # Artículo 253
 
-En términos de lo establecido en el artículo 36 de la Ley, los contratos de inversión estratégica deberán prever la supervisión técnica, financiera y operativa de los Proyectos Procedentes, pudiendo designarse, según resulte necesario o conveniente, supervisores, auditores, verificadores o cualquier otro mecanismo que garantice el cumplimiento de las obligaciones a cargo del Contratista, Desarrollador o Proveedor.
+En términos de lo establecido en el artículo [36](../../lfiiedb/markdown/articulo-36.md) de la Ley, los contratos de inversión estratégica deberán prever la supervisión técnica, financiera y operativa de los Proyectos Procedentes, pudiendo designarse, según resulte necesario o conveniente, supervisores, auditores, verificadores o cualquier otro mecanismo que garantice el cumplimiento de las obligaciones a cargo del Contratista, Desarrollador o Proveedor.

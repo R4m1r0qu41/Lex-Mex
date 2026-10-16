@@ -17,7 +17,7 @@ source_sha256: 1462bbacad053d49c213e32c1859dd914c1415d2c37c6a22970bd87877a9c9bd
 
 # Artículo 16
 
-En las operaciones a que se refiere el artículo 9 de la Ley, el Instituto podrá:
+En las operaciones a que se refiere el artículo [9](../../linfonacot/markdown/articulo-9.md) de la Ley, el Instituto podrá:
 
 I. Realizar la sustitución como acreedor de aquellos créditos y préstamos otorgados a los trabajadores directamente por los Distribuidores, instituciones financieras bancarias y no bancarias;
 

@@ -17,6 +17,6 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 53
 
-Las modificaciones al salario de los trabajadores a que se refiere el artículo 34 de la Ley, tratándose de salario fijo, surtirán efectos a partir de la fecha en que entre en vigor el cambio de salario.
+Las modificaciones al salario de los trabajadores a que se refiere el artículo [34](../../lss/markdown/articulo-34.md) de la Ley, tratándose de salario fijo, surtirán efectos a partir de la fecha en que entre en vigor el cambio de salario.
 
 Para el caso de los salarios variables, de la parte variable en el salario mixto y los derivados de revisiones contractuales, que afecten los salarios anteriores, se considerará como fecha de origen del cambio de salario el primer día del mes calendario siguiente al bimestre que sirvió de base para establecer dicha modificación.

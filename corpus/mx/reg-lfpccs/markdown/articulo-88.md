@@ -17,4 +17,4 @@ source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 
 # Artículo 88
 
-Tratándose de la comercialización de Semilla Categoría Declarada, sus características deberán cumplir con los factores y niveles establecidos en la Regla específica correspondiente, en términos del artículo 3, fracción IX de la [Ley](articulo-2.md).
+Tratándose de la comercialización de Semilla Categoría Declarada, sus características deberán cumplir con los factores y niveles establecidos en la Regla específica correspondiente, en términos del artículo [3](../../lfpccs/markdown/articulo-3.md), fracción IX de la [Ley](articulo-2.md).

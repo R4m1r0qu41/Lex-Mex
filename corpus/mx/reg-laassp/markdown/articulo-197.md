@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 197
 
-La persona servidora pública facultada para determinar la conveniencia de incluir la cláusula arbitral o firmar el convenio correspondiente, en los términos del artículo 115 de la [Ley](articulo-2.md), deberá tener nivel jerárquico de dirección general en las dependencias o equivalente en las entidades.
+La persona servidora pública facultada para determinar la conveniencia de incluir la cláusula arbitral o firmar el convenio correspondiente, en los términos del artículo [115](../../laassp/markdown/articulo-115.md) de la [Ley](articulo-2.md), deberá tener nivel jerárquico de dirección general en las dependencias o equivalente en las entidades.

@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 98
 
-Para efectos de los artículos 72 y 73 de la [Ley](articulo-1.md), se considera que los contribuyentes se dedican exclusivamente al autotransporte terrestre de carga o de pasajeros, cuando sus ingresos por dichas actividades representen cuando menos el 90% de sus ingresos totales, sin incluir los ingresos por las enajenaciones de activos fijos o activos fijos y terrenos de su propiedad que hubiesen estado afectos a su actividad.
+Para efectos de los artículos [72](../../lisr/markdown/articulo-72.md) y [73](../../lisr/markdown/articulo-73.md) de la [Ley](articulo-1.md), se considera que los contribuyentes se dedican exclusivamente al autotransporte terrestre de carga o de pasajeros, cuando sus ingresos por dichas actividades representen cuando menos el 90% de sus ingresos totales, sin incluir los ingresos por las enajenaciones de activos fijos o activos fijos y terrenos de su propiedad que hubiesen estado afectos a su actividad.

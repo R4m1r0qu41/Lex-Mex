@@ -17,4 +17,4 @@ source_sha256: 5018478a6ca9ea39f9ca88ffcb68dde9a33bd4adec59dc75d2431f894b621fc2
 
 # Artículo 9
 
-El registro de Grupos Voluntarios de carácter nacional o regional se hará ante la Secretaría, de conformidad con lo que establece el artículo 51 de la [Ley](articulo-2.md). Dicho registro, será gratuito y la solicitud se realizará a través de un sistema electrónico de captura y almacenamiento de datos, administrado a través de la página web de Protección Civil de la Secretaría que deberá proteger los datos personales en términos de las disposiciones jurídicas aplicables.
+El registro de Grupos Voluntarios de carácter nacional o regional se hará ante la Secretaría, de conformidad con lo que establece el artículo [51](../../lgpc/markdown/articulo-51.md) de la [Ley](articulo-2.md). Dicho registro, será gratuito y la solicitud se realizará a través de un sistema electrónico de captura y almacenamiento de datos, administrado a través de la página web de Protección Civil de la Secretaría que deberá proteger los datos personales en términos de las disposiciones jurídicas aplicables.

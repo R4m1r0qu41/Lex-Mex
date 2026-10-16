@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 236
 
-La promoción y presentación por parte de personas, entidades federativas o municipios de estudios, planes y programas para la realización de obras asociadas a proyectos de infraestructura a que se refieren los párrafos sexto, séptimo, octavo y noveno del artículo 18 de la [Ley](articulo-2.md), se regulará por lo dispuesto en el artículo [21](articulo-21.md) de este Reglamento.
+La promoción y presentación por parte de personas, entidades federativas o municipios de estudios, planes y programas para la realización de obras asociadas a proyectos de infraestructura a que se refieren los párrafos sexto, séptimo, octavo y noveno del artículo [18](../../lopsrm/markdown/articulo-18.md) de la [Ley](articulo-2.md), se regulará por lo dispuesto en el artículo [21](articulo-21.md) de este Reglamento.

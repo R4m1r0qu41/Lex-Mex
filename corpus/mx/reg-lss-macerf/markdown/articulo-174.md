@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 174
 
-Si como resultado del dictamen y de su revisión se determinaran irregularidades a cargo del patrón, éste conforme al último párrafo del artículo [50](articulo-50.md) de este Reglamento, deberá elaborar y presentar los avisos afiliatorios y modificaciones salariales a que está obligado en los términos de los artículos 15, 15 A y 15 B de la Ley.
+Si como resultado del dictamen y de su revisión se determinaran irregularidades a cargo del patrón, éste conforme al último párrafo del artículo [50](articulo-50.md) de este Reglamento, deberá elaborar y presentar los avisos afiliatorios y modificaciones salariales a que está obligado en los términos de los artículos [15](../../lss/markdown/articulo-15.md), [15](../../lss/markdown/articulo-15.md) A y [15](../../lss/markdown/articulo-15.md) B de la Ley.

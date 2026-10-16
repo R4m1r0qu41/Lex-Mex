@@ -17,9 +17,9 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 108
 
-Para efectos de los artículos 59 y 60 de la [Ley](articulo-2.md), se entiende que existe reincidencia cuando la misma persona física o moral o servidor público de que se trate incurra dos o más veces en la misma conducta u omisión sancionada dentro de los últimos cinco años.
+Para efectos de los artículos [59](../../ltf/markdown/articulo-59.md) y [60](../../ltf/markdown/articulo-60.md) de la [Ley](articulo-2.md), se entiende que existe reincidencia cuando la misma persona física o moral o servidor público de que se trate incurra dos o más veces en la misma conducta u omisión sancionada dentro de los últimos cinco años.
 
-Para efectos de determinar la gravedad de la conducta en términos del artículo 60 de la Ley, se considerarán graves las siguientes: I. Abstenerse de comparecer ante la Tesorería, en los casos en que el particular sea requerido durante un acto de vigilancia;
+Para efectos de determinar la gravedad de la conducta en términos del artículo [60](../../ltf/markdown/articulo-60.md) de la Ley, se considerarán graves las siguientes: I. Abstenerse de comparecer ante la Tesorería, en los casos en que el particular sea requerido durante un acto de vigilancia;
 
 II. Omitir la Concentración o Entero de recursos a la Tesorería por un monto superior a dos mil setecientas unidades de inversión, y
 

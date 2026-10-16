@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 209
 
-Para efectos del artículo 124, fracción I de la [Ley](articulo-1.md), cuando no pueda separarse del costo comprobado de adquisición, la parte que corresponde al terreno y la que se refiere a la construcción, los contribuyentes podrán considerar la proporción que se haya dado en el avalúo practicado a la fecha de la adquisición del bien de que se trate, o bien se podrán considerar las proporciones que aparezcan en los valores catastrales que correspondan a la fecha de adquisición.
+Para efectos del artículo [124](../../lisr/markdown/articulo-124.md), fracción I de la [Ley](articulo-1.md), cuando no pueda separarse del costo comprobado de adquisición, la parte que corresponde al terreno y la que se refiere a la construcción, los contribuyentes podrán considerar la proporción que se haya dado en el avalúo practicado a la fecha de la adquisición del bien de que se trate, o bien se podrán considerar las proporciones que aparezcan en los valores catastrales que correspondan a la fecha de adquisición.

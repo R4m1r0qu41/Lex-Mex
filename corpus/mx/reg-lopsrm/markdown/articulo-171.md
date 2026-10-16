@@ -17,6 +17,6 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 171
 
-Si del finiquito de los trabajos resulta que existen saldos a favor del contratista, la dependencia o entidad deberá liquidarlos dentro del plazo a que alude el segundo párrafo del artículo 54 de la [Ley](articulo-2.md).
+Si del finiquito de los trabajos resulta que existen saldos a favor del contratista, la dependencia o entidad deberá liquidarlos dentro del plazo a que alude el segundo párrafo del artículo [54](../../lopsrm/markdown/articulo-54.md) de la [Ley](articulo-2.md).
 
-Si del finiquito de los trabajos resulta que existen saldos a favor de la dependencia o entidad, el importe de los mismos se deducirá de las cantidades pendientes por cubrir por concepto de trabajos ejecutados y si ello no fuera suficiente, deberá exigirse su reintegro conforme a lo previsto por el artículo 55 de la Ley. En caso de no obtenerse el reintegro, la dependencia o entidad podrá hacer efectivas las garantías que se encuentren vigentes.
+Si del finiquito de los trabajos resulta que existen saldos a favor de la dependencia o entidad, el importe de los mismos se deducirá de las cantidades pendientes por cubrir por concepto de trabajos ejecutados y si ello no fuera suficiente, deberá exigirse su reintegro conforme a lo previsto por el artículo [55](../../lopsrm/markdown/articulo-55.md) de la Ley. En caso de no obtenerse el reintegro, la dependencia o entidad podrá hacer efectivas las garantías que se encuentren vigentes.

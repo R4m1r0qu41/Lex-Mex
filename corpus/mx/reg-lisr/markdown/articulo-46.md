@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 46
 
-Los gastos que se hagan por concepto de previsión social, de acuerdo con el artículo 27, fracción XI de la [Ley](articulo-1.md), deberán cumplir los siguientes requisitos:
+Los gastos que se hagan por concepto de previsión social, de acuerdo con el artículo [27](../../lisr/markdown/articulo-27.md), fracción XI de la [Ley](articulo-1.md), deberán cumplir los siguientes requisitos:
 
 I. Que se efectúen en territorio nacional, excepto los relacionados con aquellos trabajadores que presten sus servicios en el extranjero, los cuales deberán estar relacionados con la obtención de los ingresos del contribuyente, y
 

@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 19
 
-Para efectos del artículo 17, párrafos segundo y tercero de la [Ley](articulo-1.md), se considera autorizada o aprobada una estimación en la fecha en que el residente de supervisión o la persona facultada por el cliente para efectuar la supervisión del avance de la obra, firme de conformidad dicha estimación.
+Para efectos del artículo [17](../../lisr/markdown/articulo-17.md), párrafos segundo y tercero de la [Ley](articulo-1.md), se considera autorizada o aprobada una estimación en la fecha en que el residente de supervisión o la persona facultada por el cliente para efectuar la supervisión del avance de la obra, firme de conformidad dicha estimación.

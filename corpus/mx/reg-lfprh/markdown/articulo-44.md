@@ -17,7 +17,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 44
 
-El mecanismo de planeación a que se refiere el artículo 34, fracción I, de la [Ley](articulo-2.md) se compone de un programa de ejecución para los programas y proyectos de inversión en proceso de realización y de la planeación de los programas y proyectos de inversión que se realizarán para los tres ejercicios fiscales siguientes.
+El mecanismo de planeación a que se refiere el artículo [34](../../lfprh/markdown/articulo-34.md), fracción I, de la [Ley](articulo-2.md) se compone de un programa de ejecución para los programas y proyectos de inversión en proceso de realización y de la planeación de los programas y proyectos de inversión que se realizarán para los tres ejercicios fiscales siguientes.
 
 Las dependencias y entidades deberán elaborar y enviar anualmente a la Secretaría, el mecanismo de planeación a que se refiere el párrafo anterior conforme a los lineamientos que al efecto emita la propia Secretaría y a lo siguiente:
 

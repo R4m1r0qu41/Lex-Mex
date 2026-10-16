@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 6
 
-Para efectos del artículo 4 de la [Ley](articulo-1.md), los contribuyentes que deseen acreditar su residencia fiscal en otro país con el que México tenga celebrado un tratado para evitar la doble tributación, podrán hacerlo mediante la constancia de residencia a que se refiere el último párrafo de dicho artículo, o bien, con la documentación emitida por la autoridad competente del país de que se trate, con la que dichos contribuyentes acrediten haber presentado la declaración del [Impuesto](articulo-1.md) del último ejercicio.
+Para efectos del artículo [4](../../lisr/markdown/articulo-4.md) de la [Ley](articulo-1.md), los contribuyentes que deseen acreditar su residencia fiscal en otro país con el que México tenga celebrado un tratado para evitar la doble tributación, podrán hacerlo mediante la constancia de residencia a que se refiere el último párrafo de dicho artículo, o bien, con la documentación emitida por la autoridad competente del país de que se trate, con la que dichos contribuyentes acrediten haber presentado la declaración del [Impuesto](articulo-1.md) del último ejercicio.
 
 En el caso de que al momento de acreditar su residencia no haya vencido el plazo para presentar la declaración del último ejercicio, se aceptará la documentación emitida por la autoridad competente del país de que se trate con la que acrediten haber presentado la declaración del Impuesto del penúltimo ejercicio.
 

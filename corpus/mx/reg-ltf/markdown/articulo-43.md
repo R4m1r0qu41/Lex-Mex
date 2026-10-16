@@ -17,6 +17,6 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 43
 
-Para efectos del artículo 33, segundo párrafo de la [Ley](articulo-2.md), la Dependencia coordinadora de sector deberá designar a un servidor público que tendrá acceso al sistema electrónico de información a que se refiere el artículo 32 de la Ley.
+Para efectos del artículo [33](../../ltf/markdown/articulo-33.md), segundo párrafo de la [Ley](articulo-2.md), la Dependencia coordinadora de sector deberá designar a un servidor público que tendrá acceso al sistema electrónico de información a que se refiere el artículo [32](../../ltf/markdown/articulo-32.md) de la Ley.
 
 El servidor público designado en términos del párrafo anterior, podrá solicitar la expedición del certificado de tenencia en los plazos y términos señalados en esta Sección, el cual será remitido por la Tesorería en formato digital a través de dicho sistema.

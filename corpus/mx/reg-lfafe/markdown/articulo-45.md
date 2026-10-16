@@ -21,6 +21,6 @@ Para los efectos de este Capítulo, se establece la siguiente clasificación:
 
 I.- Compraventa de armas de fuego, armas de gas, municiones, pólvoras deportivas, fulminantes y demás artículos conectados con el ramo de armería.
 
-II.- Compraventa de pólvoras, explosivos, artificios y substancias químicas relacionadas con explosivos, señaladas en la fracción V del artículo 41 de la Ley.
+II.- Compraventa de pólvoras, explosivos, artificios y substancias químicas relacionadas con explosivos, señaladas en la fracción V del artículo [41](../../lfafe/markdown/articulo-41.md) de la Ley.
 
 III.- Compraventa de artificios pirotécnicos.

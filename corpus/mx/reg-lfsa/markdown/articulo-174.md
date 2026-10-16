@@ -27,4 +27,4 @@ IV. Cuando el producto contenga principios activos clasificados como prohibidos;
 
 V. En el caso de que el titular del registro o autorización no notifique cambio de domicilio ante la Secretaría, y
 
-VI. Cuando derivado de la verificación e inspección según lo establecido en el primer párrafo del artículo 94 de la [Ley](articulo-2.md), el titular del registro o autorización no compruebe que se mantiene vigente el origen de las formulaciones, así como las recomendaciones para su aplicación, uso y manejo indicadas en sus etiquetas.
+VI. Cuando derivado de la verificación e inspección según lo establecido en el primer párrafo del artículo [94](../../lfsa/markdown/articulo-94.md) de la [Ley](articulo-2.md), el titular del registro o autorización no compruebe que se mantiene vigente el origen de las formulaciones, así como las recomendaciones para su aplicación, uso y manejo indicadas en sus etiquetas.

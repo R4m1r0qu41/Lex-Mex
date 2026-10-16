@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 98
 
-Para efectos del artículo 61, fracción VI de la [Ley](articulo-1.md), el [SAT](articulo-1.md) señalará mediante Reglas, las Mercancías que integran el equipaje de los pasajeros en viajes internacionales.
+Para efectos del artículo [61](../../ladua/markdown/articulo-61.md), fracción VI de la [Ley](articulo-1.md), el [SAT](articulo-1.md) señalará mediante Reglas, las Mercancías que integran el equipaje de los pasajeros en viajes internacionales.
 
 Los capitanes, pilotos, conductores y tripulantes de los medios de transporte que efectúen el tráfico internacional de Mercancías, podrán traer del extranjero o llevar del territorio nacional, libres del pago de Impuestos al Comercio Exterior, sus ropas y efectos usados personales que señale el SAT mediante Reglas.
 

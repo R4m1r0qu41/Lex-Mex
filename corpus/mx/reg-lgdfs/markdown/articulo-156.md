@@ -23,6 +23,6 @@ I. Título o cédula profesional relativa a las ciencias forestales o constancia
 
 II. Constancia de capacidad técnica expedida por una institución certificadora u órgano certificador con validez oficial, o constancia de capacidad técnica expedida por institución u órgano nacional o extranjero con validez oficial.
 
-Además, los interesados deberán demostrar experiencia de al menos dos años, a través de la presentación de documentos que acrediten su trabajo con personas físicas o morales en actividades del sector forestal, en cumplimiento de lo establecido en el artículo 101 de la [Ley](articulo-2.md).
+Además, los interesados deberán demostrar experiencia de al menos dos años, a través de la presentación de documentos que acrediten su trabajo con personas físicas o morales en actividades del sector forestal, en cumplimiento de lo establecido en el artículo [101](../../lgdfs/markdown/articulo-101.md) de la [Ley](articulo-2.md).
 
 La Secretaría expedirá las normas oficiales mexicanas en las que se determinarán los procedimientos, modalidades y requisitos técnicos para la prestación de los Servicios forestales.

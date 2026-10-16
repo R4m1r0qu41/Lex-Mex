@@ -23,14 +23,14 @@ I. Aprobar los manuales de integración y funcionamiento de los subcomités que 
 
 II. Establecer su calendario de sesiones ordinarias del ejercicio inmediato posterior, que podrán ser quincenales, mensuales o bimestrales;
 
-III. Determinar la ubicación de la dependencia o entidad en los rangos de los montos máximos de contratación de conformidad con el artículo 43 de la Ley, a partir del presupuesto autorizado a la dependencia o entidad para obras y servicios;
+III. Determinar la ubicación de la dependencia o entidad en los rangos de los montos máximos de contratación de conformidad con el artículo [43](../../lopsrm/markdown/articulo-43.md) de la Ley, a partir del presupuesto autorizado a la dependencia o entidad para obras y servicios;
 
 IV. Revisar el programa anual de obras y servicios antes de su publicación en CompraNet y en la página de Internet de la dependencia o entidad, de acuerdo con el presupuesto aprobado para el ejercicio correspondiente, y
 
 V. Recibir por conducto del secretario técnico, las propuestas de modificación a las políticas, bases y lineamientos formuladas por las [Áreas requirentes](articulo-2.md) y por las responsables de la contratación, así como dictaminar sobre su procedencia y, en su caso, someterlas a la autorización del titular de la dependencia u órgano de gobierno correspondiente.
 
-El Comité no dictaminará los siguientes asuntos: I. La procedencia de la contratación en los casos de excepción a que se refiere el último párrafo del artículo 42 de la Ley;
+El Comité no dictaminará los siguientes asuntos: I. La procedencia de la contratación en los casos de excepción a que se refiere el último párrafo del artículo [42](../../lopsrm/markdown/articulo-42.md) de la Ley;
 
-II. Los procedimientos de contratación por monto que se fundamenten en el artículo 43 de la Ley, y
+II. Los procedimientos de contratación por monto que se fundamenten en el artículo [43](../../lopsrm/markdown/articulo-43.md) de la Ley, y
 
 III. Los asuntos cuyos procedimientos de contratación se hayan iniciado sin dictamen previo del Comité, incluso aquéllos en los que no se tenga obligación de contar con dicho dictamen.

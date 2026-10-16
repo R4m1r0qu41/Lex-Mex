@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 13
 
-El Inventario Nacional Forestal y de Suelos deberá contener, además de lo dispuesto en el artículo 46 de la [Ley](articulo-2.md), por cada entidad federativa, la información siguiente:
+El Inventario Nacional Forestal y de Suelos deberá contener, además de lo dispuesto en el artículo [46](../../lgdfs/markdown/articulo-46.md) de la [Ley](articulo-2.md), por cada entidad federativa, la información siguiente:
 
 I. Cuencas hidrográficas;
 

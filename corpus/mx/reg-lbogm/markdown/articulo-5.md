@@ -17,7 +17,7 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 5
 
-Quienes pretendan realizar las actividades previstas en el artículo 32 de la Ley, deberán presentar ante la Secretaría competente, una solicitud por escrito, en el formato que al efecto expidan las Secretarías competentes, acompañada de la información a que hacen referencia los artículos [16](articulo-16.md), [17](articulo-17.md) y [19](articulo-19.md) del presente Reglamento. Deberá presentarse una solicitud por cada OGM, en original y copia. Los datos que contendrá la solicitud serán los siguientes:
+Quienes pretendan realizar las actividades previstas en el artículo [32](../../lbogm/markdown/articulo-32.md) de la Ley, deberán presentar ante la Secretaría competente, una solicitud por escrito, en el formato que al efecto expidan las Secretarías competentes, acompañada de la información a que hacen referencia los artículos [16](articulo-16.md), [17](articulo-17.md) y [19](articulo-19.md) del presente Reglamento. Deberá presentarse una solicitud por cada OGM, en original y copia. Los datos que contendrá la solicitud serán los siguientes:
 
 I. Nombre, denominación o razón social del promovente y, en su caso, nombre del representante legal;
 

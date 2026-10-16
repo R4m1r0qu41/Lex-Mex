@@ -17,6 +17,6 @@ source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
 
 # Artículo 52
 
-La [Procuraduría Federal](articulo-2.md) al solicitar al agente del Ministerio Público de la Federación que dicte las medidas urgentes de protección especial a que se refiere el artículo 122, fracción VI de la [Ley](articulo-2.md), deberá manifestar los hechos y argumentos que justifiquen la necesidad de las mismas.
+La [Procuraduría Federal](articulo-2.md) al solicitar al agente del Ministerio Público de la Federación que dicte las medidas urgentes de protección especial a que se refiere el artículo [122](../../lgdnna/markdown/articulo-122.md), fracción VI de la [Ley](articulo-2.md), deberá manifestar los hechos y argumentos que justifiquen la necesidad de las mismas.
 
 La Procuraduría Federal llevará un registro, para efectos de control y seguimiento, de las solicitudes formuladas en términos del presente artículo.

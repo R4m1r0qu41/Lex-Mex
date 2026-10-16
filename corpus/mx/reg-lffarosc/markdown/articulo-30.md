@@ -21,7 +21,7 @@ Corresponde a los servidores públicos encargados de los módulos:
 
 I. Recibir las solicitudes de inscripción debidamente requisitadas y con la firma autógrafa del o los representantes legales de la organización;
 
-II. Revisar que la documentación que deba acompañarse a la solicitud de inscripción esté completa y, en caso de existir faltantes, notificar a la organización para que subsane la omisión en un plazo de 5 días hábiles, sin perjuicio del plazo establecido en el segundo párrafo del artículo 20 de la [Ley](articulo-2.md);
+II. Revisar que la documentación que deba acompañarse a la solicitud de inscripción esté completa y, en caso de existir faltantes, notificar a la organización para que subsane la omisión en un plazo de 5 días hábiles, sin perjuicio del plazo establecido en el segundo párrafo del artículo [20](../../lffaosc/markdown/articulo-20.md) de la [Ley](articulo-2.md);
 
 III. Entregar el acuse respectivo por cada solicitud de inscripción recibida;
 

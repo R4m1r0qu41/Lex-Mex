@@ -17,4 +17,4 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 129
 
-La compensación a que se refiere el artículo 51, párrafo segundo de la Ley, que corresponde a los encargados de negocios o de Representación Consular, se pagará únicamente cuando se ejerzan las funciones por un periodo mínimo de siete días naturales consecutivos.
+La compensación a que se refiere el artículo [51](../../lsem/markdown/articulo-51.md), párrafo segundo de la Ley, que corresponde a los encargados de negocios o de Representación Consular, se pagará únicamente cuando se ejerzan las funciones por un periodo mínimo de siete días naturales consecutivos.

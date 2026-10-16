@@ -17,4 +17,4 @@ source_sha256: 7e1c33029ca423d65491911d15e2f1b436ed269540148af1e4787570441ac0b6
 
 # Artículo 62
 
-La Secretaría de Desarrollo Social fomentará que la atención y los servicios que dicha Dependencia brinde a las personas con discapacidad y sus familias se den atendiendo a los principios que establece el artículo 5 de la Ley. Asimismo, deberá garantizar que dicha atención y servicios se den atendiendo al principio de igualdad y no discriminación, así como al principio de progresividad y máximo uso de los recursos disponibles en su realización.
+La Secretaría de Desarrollo Social fomentará que la atención y los servicios que dicha Dependencia brinde a las personas con discapacidad y sus familias se den atendiendo a los principios que establece el artículo [5](../../lgipd/markdown/articulo-5.md) de la Ley. Asimismo, deberá garantizar que dicha atención y servicios se den atendiendo al principio de igualdad y no discriminación, así como al principio de progresividad y máximo uso de los recursos disponibles en su realización.

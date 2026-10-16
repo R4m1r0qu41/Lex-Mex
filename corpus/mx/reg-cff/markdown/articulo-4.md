@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 4
 
-Para los efectos del artículo 6, quinto párrafo del [Código](articulo-1.md), las retenciones no deberán llevarse a cabo sobre las cantidades que se trasladen al retenedor por concepto de contribuciones en forma expresa y por separado de la contraprestación principal, salvo que conforme a las disposiciones fiscales aplicables, la retención deba realizarse sobre el monto de la contribución trasladada.
+Para los efectos del artículo [6](../../cff/markdown/articulo-6o.md), quinto párrafo del [Código](articulo-1.md), las retenciones no deberán llevarse a cabo sobre las cantidades que se trasladen al retenedor por concepto de contribuciones en forma expresa y por separado de la contraprestación principal, salvo que conforme a las disposiciones fiscales aplicables, la retención deba realizarse sobre el monto de la contribución trasladada.

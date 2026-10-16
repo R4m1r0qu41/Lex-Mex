@@ -27,7 +27,7 @@ III. La formulación del proyecto de Decreto de Presupuesto de Egresos, incluyen
 
 a) Gasto neto total, por gasto programable y no programable, para los ramos autónomos, administrativos, generales y entidades de control directo, identificando, cuando corresponda, unidades responsables;
 
-b) Monto total de las previsiones de gasto para la atención de los programas transversales a que hace referencia el artículo 41, fracción II, incisos j), o), p), q), r), s), t), u), y v) de la [Ley](articulo-2.md); Inciso reformado DOF 25-04-2014
+b) Monto total de las previsiones de gasto para la atención de los programas transversales a que hace referencia el artículo [41](../../lfprh/markdown/articulo-41.md), fracción II, incisos j), o), p), q), r), s), t), u), y v) de la [Ley](articulo-2.md); Inciso reformado DOF 25-04-2014
 
 c) Las provisiones salariales y económicas que correspondan para los ramos administrativos y generales, diferenciando las previsiones que correspondan a los incrementos salariales, creación de plazas y otras medidas económicas de índole laboral;
 
@@ -43,7 +43,7 @@ La Secretaría podrá determinar otros anexos que deban formar parte del proyect
 
 IV. La integración del proyecto de Presupuesto de Egresos se realizará a través de la exposición de motivos y los tomos, en los siguientes términos:
 
-a) Exposición de motivos, que contendrá cuando menos lo establecido en el artículo 41, fracción I de la Ley;
+a) Exposición de motivos, que contendrá cuando menos lo establecido en el artículo [41](../../lfprh/markdown/articulo-41.md), fracción I de la Ley;
 
 b) Tomo I. Información global y específica. La información global se presentará a fin de tener una visión integral y de conjunto del proyecto de Presupuesto de Egresos para el gasto neto total, por ramo y entidad de control directo y conforme a las combinaciones básicas de las clasificaciones presupuestarias. La información específica se presentará para proveer los respectivos requerimientos de información establecidos en la Ley;
 
@@ -63,6 +63,6 @@ i) Tomo VIII. Programas y Proyectos de Inversión; Inciso adicionado DOF 04-09-2
 
 j) Tomo IX. Analítico de [Plazas](articulo-2.md) y Remuneraciones; Inciso adicionado DOF 31-10-2014
 
-V. Anexo informativo, con la distribución del proyecto de Presupuesto de Egresos de los ramos y entidades de control directo por unidad responsable y al nivel de desagregación de capítulo y concepto de gasto, en cumplimiento a lo dispuesto en el artículo 41, fracción III, inciso b) de la Ley, y
+V. Anexo informativo, con la distribución del proyecto de Presupuesto de Egresos de los ramos y entidades de control directo por unidad responsable y al nivel de desagregación de capítulo y concepto de gasto, en cumplimiento a lo dispuesto en el artículo [41](../../lfprh/markdown/articulo-41.md), fracción III, inciso b) de la Ley, y
 
-VI. La demás información, en términos del artículo 41, fracción III, inciso c) de la Ley.
+VI. La demás información, en términos del artículo [41](../../lfprh/markdown/articulo-41.md), fracción III, inciso c) de la Ley.

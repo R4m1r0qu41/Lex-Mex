@@ -17,4 +17,4 @@ source_sha256: 85d60fd8e0d0d2dac1758f672c5b2200ee6e501eecd8c635b0ac89a93d930b97
 
 # Artículo 50
 
-Los contratos de largo plazo a los que se refiere el artículo 31 de la Ley, deberán garantizar la continuidad de los servicios, la sostenibilidad financiera y el cumplimiento de los objetivos establecidos en la Ley.
+Los contratos de largo plazo a los que se refiere el artículo [31](../../lfiiedb/markdown/articulo-31.md) de la Ley, deberán garantizar la continuidad de los servicios, la sostenibilidad financiera y el cumplimiento de los objetivos establecidos en la Ley.

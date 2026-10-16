@@ -15,6 +15,6 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # TERCERO
 
-Conforme al artículo 89 de la Ley, las autoridades mencionadas en dicho artículo contarán con un plazo de ciento veinte días hábiles a partir de la entrada en vigor del presente Reglamento, para dar cumplimiento al mismo e informarán a la Secretaría Técnica de la Comisión Intersecretarial para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos sobre la implementación de los programas y actividades encomendadas.
+Conforme al artículo [89](../../lgtrata/markdown/articulo-89.md) de la Ley, las autoridades mencionadas en dicho artículo contarán con un plazo de ciento veinte días hábiles a partir de la entrada en vigor del presente Reglamento, para dar cumplimiento al mismo e informarán a la Secretaría Técnica de la Comisión Intersecretarial para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos sobre la implementación de los programas y actividades encomendadas.
 
 La Secretaría Técnica de la Comisión Intersecretarial para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos en un plazo de noventa días hábiles implementará la página web a que se refiere el artículo [63](articulo-63.md) del presente Reglamento.

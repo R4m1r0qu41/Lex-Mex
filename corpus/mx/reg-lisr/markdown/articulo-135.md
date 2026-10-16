@@ -17,9 +17,9 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 135
 
-Para efectos del artículo 79, fracción XXV, incisos b) y h) de la [Ley](articulo-1.md), se entiende por:
+Para efectos del artículo [79](../../lisr/markdown/articulo-79.md), fracción XXV, incisos b) y h) de la [Ley](articulo-1.md), se entiende por:
 
-I. Apoyo en la defensa y promoción de los derechos humanos, a la capacitación, difusión, orientación y asistencia jurídica en materia de derechos humanos y sus garantías, incluyendo la equidad de género o de las prerrogativas inherentes a la naturaleza de la persona, establecidos en la Constitución Política de los Estados Unidos Mexicanos y en las disposiciones legales que de ella emanen, siempre que no impliquen o conlleven acciones de índole político, religioso, o destinadas a influir en la legislación, salvo en el supuesto a que se refiere el artículo 82, fracción III de la Ley, y dichas acciones no estén vinculadas con:
+I. Apoyo en la defensa y promoción de los derechos humanos, a la capacitación, difusión, orientación y asistencia jurídica en materia de derechos humanos y sus garantías, incluyendo la equidad de género o de las prerrogativas inherentes a la naturaleza de la persona, establecidos en la Constitución Política de los Estados Unidos Mexicanos y en las disposiciones legales que de ella emanen, siempre que no impliquen o conlleven acciones de índole político, religioso, o destinadas a influir en la legislación, salvo en el supuesto a que se refiere el artículo [82](../../lisr/markdown/articulo-82.md), fracción III de la Ley, y dichas acciones no estén vinculadas con:
 
 a) Actos o resoluciones de organismos y autoridades electorales;
 

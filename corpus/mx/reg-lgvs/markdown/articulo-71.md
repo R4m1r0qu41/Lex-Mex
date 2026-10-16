@@ -17,7 +17,7 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 71
 
-El Consejo deberá dar respuesta dentro de los quince días hábiles siguientes a la fecha en la cual la Secretaría solicite la opinión a que se refiere el artículo 16 de la [Ley](articulo-2.md). En caso de no tener respuesta dentro del plazo señalado, la Secretaría podrá continuar con el procedimiento para expedir el Acuerdo por el que se establezca un hábitat crítico.
+El Consejo deberá dar respuesta dentro de los quince días hábiles siguientes a la fecha en la cual la Secretaría solicite la opinión a que se refiere el artículo [16](../../lgvs/markdown/articulo-16.md) de la [Ley](articulo-2.md). En caso de no tener respuesta dentro del plazo señalado, la Secretaría podrá continuar con el procedimiento para expedir el Acuerdo por el que se establezca un hábitat crítico.
 
 25
 

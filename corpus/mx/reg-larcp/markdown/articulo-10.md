@@ -17,4 +17,4 @@ source_sha256: 298ec78a8d6666f73ce8ccdd8a31ae0a06c18174139eacc0fe80d3a00d3f4b89
 
 # Artículo 10
 
-Una vez integrada debidamente la solicitud de registro constitutivo, la [Dirección General](articulo-2o.md) mandará publicar un extracto de dicha solicitud en el Diario Oficial de la Federación, a fin de dar cumplimiento al último párrafo del artículo 7o. de la [Ley](articulo-2o.md).
+Una vez integrada debidamente la solicitud de registro constitutivo, la [Dirección General](articulo-2o.md) mandará publicar un extracto de dicha solicitud en el Diario Oficial de la Federación, a fin de dar cumplimiento al último párrafo del artículo [7](../../larcp/markdown/articulo-7o.md)o. de la [Ley](articulo-2o.md).

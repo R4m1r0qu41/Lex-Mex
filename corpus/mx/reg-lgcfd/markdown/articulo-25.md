@@ -17,7 +17,7 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 # Artículo 25
 
-Conforme a lo dispuesto por los artículos 30, fracciones III y XIII, 37 y 38, de la Ley, la CONADE se coordinará con los Estados, el Distrito Federal, las delegaciones y los municipios para integrar y actualizar el RENADE, de conformidad con los lineamientos que de acuerdo a sus atribuciones expida, debiéndose tomar en consideración lo siguiente:
+Conforme a lo dispuesto por los artículos [30](../../lgcfd/markdown/articulo-30.md), fracciones III y XIII, [37](../../lgcfd/markdown/articulo-37.md) y [38](../../lgcfd/markdown/articulo-38.md), de la Ley, la CONADE se coordinará con los Estados, el Distrito Federal, las delegaciones y los municipios para integrar y actualizar el RENADE, de conformidad con los lineamientos que de acuerdo a sus atribuciones expida, debiéndose tomar en consideración lo siguiente:
 
 I. Para registrarse en el RENADE, los Órganos Estatales y del Distrito Federal con competencia en materia de Cultura Física y Deporte, deberán entregar:
 

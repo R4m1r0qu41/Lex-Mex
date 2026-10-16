@@ -21,7 +21,7 @@ Para efectos de este [Reglamento](articulo-2.md), se entenderá por:
 
 I. Actos del Servicio: los que realizan los integrantes de la [Institución](articulo-2.md) en forma individual o colectiva, en cumplimiento de órdenes recibidas o en el desempeño de las funciones y atribuciones que les competen según su adscripción;
 
-II. Coordinador de Administración y Finanzas: al Titular de la Coordinación de Administración y Finanzas de la Institución prevista en el artículo 21, fracción VI de la [Ley](articulo-2.md);
+II. Coordinador de Administración y Finanzas: al Titular de la Coordinación de Administración y Finanzas de la Institución prevista en el artículo [21](../../lgn/markdown/articulo-21.md), fracción VI de la [Ley](articulo-2.md);
 
 III. Comandante: el Comandante Operativo de la Institución; IV. Concursante: el [Integrante de Carrera](articulo-2.md) que sustenta exámenes para cubrir una vacante en el grado inmediato superior;
 

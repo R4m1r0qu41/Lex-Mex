@@ -17,4 +17,4 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 27
 
-En términos de los artículos 28, fracción IV y 84 de la [Ley](articulo-2.md), la estructura conforme a la clasificación geográfica ubicará las asignaciones de los programas presupuestarios por entidad federativa y, en su caso, por regiones o municipios.
+En términos de los artículos [28](../../lfprh/markdown/articulo-28.md), fracción IV y [84](../../lfprh/markdown/articulo-84.md) de la [Ley](articulo-2.md), la estructura conforme a la clasificación geográfica ubicará las asignaciones de los programas presupuestarios por entidad federativa y, en su caso, por regiones o municipios.

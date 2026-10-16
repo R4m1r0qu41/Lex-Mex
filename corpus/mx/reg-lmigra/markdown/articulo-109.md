@@ -17,9 +17,9 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 109
 
-La visa de residente permanente a que se refiere la fracción VI del artículo 40 de la Ley, se expedirá a la persona extranjera que pretenda ingresar al territorio nacional con el propósito de residir de manera indefinida. El solicitante deberá demostrar alguno de los siguientes supuestos:
+La visa de residente permanente a que se refiere la fracción VI del artículo [40](../../lmigra/markdown/articulo-40.md) de la Ley, se expedirá a la persona extranjera que pretenda ingresar al territorio nacional con el propósito de residir de manera indefinida. El solicitante deberá demostrar alguno de los siguientes supuestos:
 
-I. Que se encuentra dentro de las hipótesis de unidad familiar por vínculo con mexicano o con residente permanente de acuerdo con lo dispuesto en los artículos 55 y 56 de la Ley;
+I. Que se encuentra dentro de las hipótesis de unidad familiar por vínculo con mexicano o con residente permanente de acuerdo con lo dispuesto en los artículos [55](../../lmigra/markdown/articulo-55.md) y [56](../../lmigra/markdown/articulo-56.md) de la Ley;
 
 II. Que es pensionado o jubilado, debiendo acreditar ingresos mensuales suficientes para cubrir sus gastos de manutención durante su estancia en el territorio nacional;
 

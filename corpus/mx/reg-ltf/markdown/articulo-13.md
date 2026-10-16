@@ -17,7 +17,7 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 13
 
-Para el uso de los equipos o sistemas automatizados a que se refiere el artículo 10 de la [Ley](articulo-2.md), el Auxiliar deberá designar a un administrador de usuarios, quien será responsable de:
+Para el uso de los equipos o sistemas automatizados a que se refiere el artículo [10](../../ltf/markdown/articulo-10.md) de la [Ley](articulo-2.md), el Auxiliar deberá designar a un administrador de usuarios, quien será responsable de:
 
 I. Designar a las personas que, en su calidad de usuarios, tendrán acceso a los equipos o sistema automatizados de que se trate, así como determinar sus perfiles;
 

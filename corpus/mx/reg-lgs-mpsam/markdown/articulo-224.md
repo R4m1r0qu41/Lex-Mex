@@ -33,6 +33,6 @@ VI.- La subrogación de servicios de atención médica por parte de establecimie
 
 VII.- Las demás actividades que se establezcan en este ordenamiento.
 
-Los permisos a que se refiere este artículo, sólo podrán ser expedidos por la Secretaría, con excepción del caso previsto en la fracción III, el que estará sujeto a lo dispuesto en el Artículo 125 de la Ley.
+Los permisos a que se refiere este artículo, sólo podrán ser expedidos por la Secretaría, con excepción del caso previsto en la fracción III, el que estará sujeto a lo dispuesto en el Artículo [125](../../lgs/markdown/articulo-125.md) de la Ley.
 
 Se otorgarán por tiempo indeterminado, los permisos a que se refieren las fracciones II y V de este artículo y con validez de dos años en los demás casos.

@@ -17,6 +17,6 @@ source_sha256: 1462bbacad053d49c213e32c1859dd914c1415d2c37c6a22970bd87877a9c9bd
 
 # Artículo 2
 
-En relación con el artículo 1 de la Ley, la autosuficiencia presupuestal del Instituto implica que no requerirá recursos del Gobierno Federal para cumplir con su objeto, salvo que se trate de recursos otorgados por éste para el cumplimiento de programas específicos.
+En relación con el artículo [1](../../linfonacot/markdown/articulo-1.md) de la Ley, la autosuficiencia presupuestal del Instituto implica que no requerirá recursos del Gobierno Federal para cumplir con su objeto, salvo que se trate de recursos otorgados por éste para el cumplimiento de programas específicos.
 
 El Instituto se sujetará a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su [Reglamento](articulo-3.md).

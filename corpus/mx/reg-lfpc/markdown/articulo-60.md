@@ -17,7 +17,7 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 60
 
-El Registro Público de Consumidores, al que hacen referencia los artículos 18 y 18 BIS de la Ley, tiene por objeto:
+El Registro Público de Consumidores, al que hacen referencia los artículos [18](../../lfpc/markdown/articulo-18.md) y [18 BIS](../../lfpc/markdown/articulo-18-BIS.md) de la Ley, tiene por objeto:
 
 I. Inscribir, los números telefónicos, correos electrónicos u otro medio electrónico, óptico o de cualquier otra tecnología de los consumidores que lo soliciten a la Procuraduría y que no deseen recibir publicidad de bienes, productos o servicios, y
 

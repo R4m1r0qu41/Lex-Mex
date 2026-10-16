@@ -25,4 +25,4 @@ I. Los mecanismos para convocar a las sesiones ordinarias y extraordinarias del 
 
 II. El contenido de las actas de las sesiones del Sistema Nacional de Protección Integral, y
 
-III. La forma en que se realizarán las invitaciones a que se refiere el artículo 127, último párrafo de la [Ley](articulo-2.md), así como la forma para seleccionar a las niñas, niños y adolescentes que participarán de forma permanente en las sesiones del Sistema Nacional de Protección Integral en términos de dicho artículo.
+III. La forma en que se realizarán las invitaciones a que se refiere el artículo [127](../../lgdnna/markdown/articulo-127.md), último párrafo de la [Ley](articulo-2.md), así como la forma para seleccionar a las niñas, niños y adolescentes que participarán de forma permanente en las sesiones del Sistema Nacional de Protección Integral en términos de dicho artículo.

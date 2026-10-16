@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 45
 
-La bonificación o compensación a que se refiere el artículo 95 de la Ley, deberá exigirse ante la autoridad judicial competente.
+La bonificación o compensación a que se refiere el artículo [95](../../lfpc/markdown/articulo-95.md) de la Ley, deberá exigirse ante la autoridad judicial competente.

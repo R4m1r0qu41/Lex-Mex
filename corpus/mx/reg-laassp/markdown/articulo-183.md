@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 183
 
-Cuando existan causas plenamente justificadas y acreditadas, la autoridad que conozca de la intervención de oficio, podrá ampliar hasta por un periodo igual al señalado en el párrafo segundo del artículo 108 de la [Ley](articulo-2.md), por una sola vez la substanciación del procedimiento.
+Cuando existan causas plenamente justificadas y acreditadas, la autoridad que conozca de la intervención de oficio, podrá ampliar hasta por un periodo igual al señalado en el párrafo segundo del artículo [108](../../laassp/markdown/articulo-108.md) de la [Ley](articulo-2.md), por una sola vez la substanciación del procedimiento.

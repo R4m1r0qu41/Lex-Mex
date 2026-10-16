@@ -17,4 +17,4 @@ source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
 
 # Artículo 24
 
-El [Comité](articulo-2.md) de Adquisiciones, Arrendamientos y Servicios de Procedimientos de Contratación Consolidados, previo al inicio del procedimiento de contratación consolidado, dictaminará sobre los supuestos de excepción a la licitación pública que le correspondan, en términos de la fracción II del artículo 31 de la [Ley](articulo-2.md). En los supuestos contemplados en el artículo 54, párrafo segundo, de la Ley, la dictaminación corresponderá al área requirente.
+El [Comité](articulo-2.md) de Adquisiciones, Arrendamientos y Servicios de Procedimientos de Contratación Consolidados, previo al inicio del procedimiento de contratación consolidado, dictaminará sobre los supuestos de excepción a la licitación pública que le correspondan, en términos de la fracción II del artículo [31](../../laassp/markdown/articulo-31.md) de la [Ley](articulo-2.md). En los supuestos contemplados en el artículo [54](../../laassp/markdown/articulo-54.md), párrafo segundo, de la Ley, la dictaminación corresponderá al área requirente.

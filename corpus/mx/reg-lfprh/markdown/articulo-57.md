@@ -17,7 +17,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 57
 
-Para efectos del artículo 41, fracción II, inciso f) de la [Ley](articulo-2.md), se entenderán por gastos obligatorios los siguientes:
+Para efectos del artículo [41](../../lfprh/markdown/articulo-41.md), fracción II, inciso f) de la [Ley](articulo-2.md), se entenderán por gastos obligatorios los siguientes:
 
 I. Gasto regularizable en servicios personales, el cual comprende las percepciones ordinarias de los servidores públicos, así como las erogaciones de seguridad social y fiscales inherentes a dichas percepciones;
 
@@ -29,10 +29,10 @@ IV. Obligaciones contractuales plurianuales cuya suspensión implique costos adi
 
 V. Pago de la deuda pública y los adeudos del ejercicio fiscal anterior; VI. Gasto corriente aprobado para el año anterior hasta por el equivalente a un 20 por ciento con base mensual;
 
-VII. Erogaciones para cubrir indemnizaciones y obligaciones que se deriven de resoluciones definitivas emitidas por autoridad competente hasta por el monto que corresponda ejercer en dicho año, que se determine conforme al artículo 47 de la Ley;
+VII. Erogaciones para cubrir indemnizaciones y obligaciones que se deriven de resoluciones definitivas emitidas por autoridad competente hasta por el monto que corresponda ejercer en dicho año, que se determine conforme al artículo [47](../../lfprh/markdown/articulo-47.md) de la Ley;
 
 VIII. Erogaciones por concepto de responsabilidad patrimonial del Estado, en términos del artículo [113](../../cpeum/markdown/articulo-113.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
-IX. Previsiones para el Fondo para la Prevención de Desastres, el Fondo de Desastres y el Fondo para Atender a la Población Rural Afectada por Contingencias Climatológicas a que se refiere el artículo 37 de la Ley, y
+IX. Previsiones para el Fondo para la Prevención de Desastres, el Fondo de Desastres y el Fondo para Atender a la Población Rural Afectada por Contingencias Climatológicas a que se refiere el artículo [37](../../lfprh/markdown/articulo-37.md) de la Ley, y
 
 X. Otras erogaciones determinadas en cantidad específica en las leyes.

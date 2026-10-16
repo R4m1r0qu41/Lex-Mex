@@ -17,7 +17,7 @@ source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
 
 # Artículo 10
 
-Para los fines señalados en el [artículo anterior](articulo-9o.md) y en los términos del artículo 99 de la Ley, la Secretaría deberá llevar y mantener actualizado en forma anual, un inventario de la investigación que se realiza en el sistema institucional de la Secretaría, el cual contemplará el registro de:
+Para los fines señalados en el [artículo anterior](articulo-9o.md) y en los términos del artículo [99](../../lgs/markdown/articulo-99.md) de la Ley, la Secretaría deberá llevar y mantener actualizado en forma anual, un inventario de la investigación que se realiza en el sistema institucional de la Secretaría, el cual contemplará el registro de:
 
 I. Los centros donde se realice investigación;
 

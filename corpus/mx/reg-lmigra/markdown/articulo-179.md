@@ -21,7 +21,7 @@ Si de la documentación que exhiba la persona extranjera se desprende que cuenta
 
 I. Si así lo desea la persona extranjera, se le podrá canalizar a alguna institución pública o privada especializada que pueda brindarle la atención que requiera;
 
-II. Si solicita cambiar de condición de estancia de visitante sin permiso para realizar actividades remuneradas, de visitante con permiso para realizar actividades remuneradas, de visitante con fines de adopción, de visitante regional o de visitante trabajador fronterizo a visitante por razones humanitarias en términos de lo previsto en los artículos 52, fracción V, inciso a), y 53 de la Ley, se procederá según lo dispuesto por el artículo [142](articulo-142.md) de este Reglamento;
+II. Si solicita cambiar de condición de estancia de visitante sin permiso para realizar actividades remuneradas, de visitante con permiso para realizar actividades remuneradas, de visitante con fines de adopción, de visitante regional o de visitante trabajador fronterizo a visitante por razones humanitarias en términos de lo previsto en los artículos [52](../../lmigra/markdown/articulo-52.md), fracción V, inciso a), y [53](../../lmigra/markdown/articulo-53.md) de la Ley, se procederá según lo dispuesto por el artículo [142](articulo-142.md) de este Reglamento;
 
 III. Se le informará del derecho que tiene de acudir ante el Agente del Ministerio Público a denunciar hechos posiblemente constitutivos de delito, y
 

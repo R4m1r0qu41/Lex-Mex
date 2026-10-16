@@ -35,6 +35,6 @@ La Secretaría levantará la suspensión dentro de los cinco días hábiles sigu
 
 IV. Cuando la Secretaría imponga medidas de sanidad, conservación y restauración ordenará la suspensión del Aprovechamiento forestal y la notificará al titular de la autorización del aprovechamiento, justificando la necesidad de las medidas y su vigencia, la cual no podrá exceder del plazo que la propia Secretaría establezca para la ejecución de las medidas impuestas.
 
-En caso de incumplimiento de las medidas por parte del Titular del aprovechamiento, la suspensión continuará vigente durante el procedimiento de revocación que inicie la Secretaría conforme a lo dispuesto en el artículo 63, fracción V de la [Ley](articulo-2.md), y
+En caso de incumplimiento de las medidas por parte del Titular del aprovechamiento, la suspensión continuará vigente durante el procedimiento de revocación que inicie la Secretaría conforme a lo dispuesto en el artículo [63](../../lgdfs/markdown/articulo-63.md), fracción V de la [Ley](articulo-2.md), y
 
 V. Cuando la Secretaría imponga medidas para evitar situaciones de riesgo a los Ecosistemas forestales, se procederá conforme a lo previsto en la fracción anterior.

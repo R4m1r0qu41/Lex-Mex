@@ -25,7 +25,7 @@ I. Copia de la credencial de elector o de documento oficial que acredite ser de 
 
 II. Aquél que contenga los datos registrales de inscripción en el Registro Agrario Nacional, comprendiendo folio, número de expediente, número de registro y fecha del registro, para el caso de ejidos y comunidades agrarias;
 
-III. Original o copia certificada de los instrumentos públicos en caso de las personas morales a que se refiere el artículo 11 de la Ley, en donde conste la constitución legal de la sociedad con objeto social de minero, el domicilio legal y, en su caso, la participación de inversionistas extranjeros conforme a lo señalado por el citado artículo 11 de la Ley;
+III. Original o copia certificada de los instrumentos públicos en caso de las personas morales a que se refiere el artículo [11](../../lmin/markdown/articulo-11.md) de la Ley, en donde conste la constitución legal de la sociedad con objeto social de minero, el domicilio legal y, en su caso, la participación de inversionistas extranjeros conforme a lo señalado por el citado artículo [11](../../lmin/markdown/articulo-11.md) de la Ley;
 
 IV. Aquél, con carácter oficial, donde se acredite el reconocimiento de pueblo o comunidad indígena, conforme a la normativa aplicable, tratándose de pueblos o comunidades indígenas, y
 

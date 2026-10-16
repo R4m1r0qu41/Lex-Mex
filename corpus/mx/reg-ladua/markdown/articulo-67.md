@@ -17,6 +17,6 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 67
 
-Para efectos de los artículos 36-A, fracción I, segundo párrafo, y 59-A de la [Ley](articulo-1.md), los obligados a proporcionar la identificación individual de las Mercancías materia de despacho aduanero, podrán transmitir en Documento Electrónico o Digital la información respectiva, debiendo manifestar en el Pedimento el acuse que al efecto genere el [Sistema Electrónico Aduanero](articulo-1.md).
+Para efectos de los artículos [36-A](../../ladua/markdown/articulo-36-A.md), fracción I, segundo párrafo, y [59-A](../../ladua/markdown/articulo-59-A.md) de la [Ley](articulo-1.md), los obligados a proporcionar la identificación individual de las Mercancías materia de despacho aduanero, podrán transmitir en Documento Electrónico o Digital la información respectiva, debiendo manifestar en el Pedimento el acuse que al efecto genere el [Sistema Electrónico Aduanero](articulo-1.md).
 
 Artículo reformado DOF 23-02-2026

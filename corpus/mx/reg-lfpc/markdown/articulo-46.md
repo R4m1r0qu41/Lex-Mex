@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 46
 
-Para efectos de la publicación de los modelos de contratos de adhesión a que se refiere el artículo 87 BIS de la Ley, se considerarán también los previstos en los artículos [63](articulo-63.md) y [73](articulo-73.md) de la misma.
+Para efectos de la publicación de los modelos de contratos de adhesión a que se refiere el artículo [87 BIS](../../lfpc/markdown/articulo-87-BIS.md) de la Ley, se considerarán también los previstos en los artículos [63](articulo-63.md) y [73](articulo-73.md) de la misma.

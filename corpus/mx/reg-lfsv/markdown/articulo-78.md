@@ -17,7 +17,7 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 78
 
-En caso de que el personal de la Secretaría detecte que alguna de las [Mercancías Reguladas](articulo-2.md) del artículo 23 de la [Ley](articulo-2.md), represente un Riesgo Fitosanitario para el país por la presencia de una Plaga de interés cuarentenario se realizará lo siguiente:
+En caso de que el personal de la Secretaría detecte que alguna de las [Mercancías Reguladas](articulo-2.md) del artículo [23](../../lfsv/markdown/articulo-23.md) de la [Ley](articulo-2.md), represente un Riesgo Fitosanitario para el país por la presencia de una Plaga de interés cuarentenario se realizará lo siguiente:
 
 I. En caso de que la Mercancía Regulada se encuentre en el Punto de Entrada se prohibirá su ingreso al territorio nacional;
 

@@ -23,4 +23,4 @@ I. Lugar, fecha y hora de la realización de la subasta;
 
 II. Valor mínimo de la enajenación, conforme al avalúo que emita el Comité Técnico de Valuación de la Secretaría, y
 
-III. El señalamiento de que el cónyuge, concubina o concubinario y los hijos del denunciado, tienen el derecho de preferencia para adquirir los excedentes de que se trate, con los límites establecidos en el artículo 47 de la Ley.
+III. El señalamiento de que el cónyuge, concubina o concubinario y los hijos del denunciado, tienen el derecho de preferencia para adquirir los excedentes de que se trate, con los límites establecidos en el artículo [47](../../lagra/markdown/articulo-47.md) de la Ley.

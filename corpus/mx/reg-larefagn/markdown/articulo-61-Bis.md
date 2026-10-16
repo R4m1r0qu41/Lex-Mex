@@ -17,6 +17,6 @@ source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 
 # Artículo 61 Bis
 
-Las personas con jerarquía de Mayores y Oficiales Médicos Cirujanos, ascenderán al grado inmediato en los términos previstos en las fracciones III Bis y III Ter del artículo 9 de la Ley.
+Las personas con jerarquía de Mayores y Oficiales Médicos Cirujanos, ascenderán al grado inmediato en los términos previstos en las fracciones III Bis y III Ter del artículo [9](../../larefam/markdown/articulo-9.md) de la Ley.
 
 Artículo adicionado DOF 20-03-2026

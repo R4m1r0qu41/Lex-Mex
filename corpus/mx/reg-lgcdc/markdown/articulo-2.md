@@ -21,11 +21,11 @@ Para efectos del presente Reglamento se entenderá por:
 
 I. Ley: la Ley General de Cultura y Derechos Culturales;
 
-II. Programa de Asignación de Vales: el programa de asignación de vales de cultura, para incrementar el acceso a la cultura de los sectores vulnerables, previsto en el artículo 8 de la [Ley](articulo-2.md);
+II. Programa de Asignación de Vales: el programa de asignación de vales de cultura, para incrementar el acceso a la cultura de los sectores vulnerables, previsto en el artículo [8](../../lgcdc/markdown/articulo-8.md) de la [Ley](articulo-2.md);
 
-III. Reunión Nacional: El mecanismo de coordinación, análisis y evaluación de las políticas públicas nacionales en materia de acceso a la cultura y disfrute de los bienes y servicios culturales que presta el Estado, así como para la promoción y respeto de los derechos culturales a nivel nacional, previsto en el artículo 30 de la Ley;
+III. Reunión Nacional: El mecanismo de coordinación, análisis y evaluación de las políticas públicas nacionales en materia de acceso a la cultura y disfrute de los bienes y servicios culturales que presta el Estado, así como para la promoción y respeto de los derechos culturales a nivel nacional, previsto en el artículo [30](../../lgcdc/markdown/articulo-30.md) de la Ley;
 
-IV. Sistema Nacional: el Sistema Nacional de Información Cultural, previsto en el artículo 27 de la Ley;
+IV. Sistema Nacional: el Sistema Nacional de Información Cultural, previsto en el artículo [27](../../lgcdc/markdown/articulo-27.md) de la Ley;
 
 V. Secretaría: la Secretaría de Cultura, y
 

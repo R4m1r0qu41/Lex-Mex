@@ -17,4 +17,4 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 96
 
-Las adquisiciones mencionadas en el primer párrafo del artículo [95](articulo-95.md) inmediato anterior de este Reglamento se ajustarán a los parámetros y factores que indiquen los avalúos previstos en el artículo 68 de la Ley. El pago de estos avalúos será cubierto por la dependencia o entidad interesada.
+Las adquisiciones mencionadas en el primer párrafo del artículo [95](articulo-95.md) inmediato anterior de este Reglamento se ajustarán a los parámetros y factores que indiquen los avalúos previstos en el artículo [68](../../lapp/markdown/articulo-68.md) de la Ley. El pago de estos avalúos será cubierto por la dependencia o entidad interesada.

@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 22
 
-Para los efectos del artículo 27 del [Código](articulo-1.md), las solicitudes de inscripción en el registro federal de contribuyentes serán las siguientes: I. Inscripción de personas morales residentes en México y de personas morales residentes en el extranjero con establecimiento permanente en México;
+Para los efectos del artículo [27](../../cff/markdown/articulo-27.md) del [Código](articulo-1.md), las solicitudes de inscripción en el registro federal de contribuyentes serán las siguientes: I. Inscripción de personas morales residentes en México y de personas morales residentes en el extranjero con establecimiento permanente en México;
 
 II. Inscripción y cancelación en el registro federal de contribuyentes por fusión de sociedades;
 

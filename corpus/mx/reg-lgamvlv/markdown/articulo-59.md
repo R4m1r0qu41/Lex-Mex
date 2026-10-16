@@ -33,4 +33,4 @@ VI. Participar en el diseño de nuevos modelos de prevención, atención y errad
 
 VII. Participar en la ejecución del Programa en el ámbito de su competencia, e
 
-VIII. Informar a las autoridades competentes sobre los hechos relacionados con violencia contra las mujeres de conformidad con lo establecido en el artículo 46, fracción XII de la Ley.
+VIII. Informar a las autoridades competentes sobre los hechos relacionados con violencia contra las mujeres de conformidad con lo establecido en el artículo [46](../../lgamvlv/markdown/articulo-46.md), fracción XII de la Ley.

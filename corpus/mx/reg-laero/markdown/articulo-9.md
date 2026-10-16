@@ -19,7 +19,7 @@ La solicitud a que se refiere el [artículo anterior](articulo-8.md) debe estar 
 
 I. Por lo que respecta a su capacidad jurídica:
 
-a) Una copia certificada de la escritura constitutiva de la sociedad mercantil, con sus modificaciones, inscritas en el Registro Público del Comercio, en la cual conste como objeto de la sociedad la administración, operación, explotación y, en su caso, construcción de aeropuertos, así como la obligación prevista en el último párrafo del artículo 22 de la Ley;
+a) Una copia certificada de la escritura constitutiva de la sociedad mercantil, con sus modificaciones, inscritas en el Registro Público del Comercio, en la cual conste como objeto de la sociedad la administración, operación, explotación y, en su caso, construcción de aeropuertos, así como la obligación prevista en el último párrafo del artículo [22](../../laero/markdown/articulo-22.md) de la Ley;
 
 b) Una relación, en la forma y términos que señale y publique la Secretaría en el Diario Oficial de la Federación, de los accionistas o tenedores de acciones que tengan, directa o indirectamente, más del 5% del capital social de la solicitante;
 
@@ -27,7 +27,7 @@ c) En caso de que exista inversión extranjera en el capital social de la solici
 
 d) Una copia certificada del testimonio notarial del poder para actos de dominio del representante legal, y
 
-e) La declaración escrita del director general o su equivalente y de los miembros del órgano de administración, en la que se expresen, bajo protesta de decir verdad, que no se encuentran dentro de los supuestos del artículo 22 de la Ley;
+e) La declaración escrita del director general o su equivalente y de los miembros del órgano de administración, en la que se expresen, bajo protesta de decir verdad, que no se encuentran dentro de los supuestos del artículo [22](../../laero/markdown/articulo-22.md) de la Ley;
 
 II. En cuanto a la capacidad técnica, a los requisitos de seguridad técnica y a las disposiciones en materia ambiental:
 

@@ -17,7 +17,7 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 33
 
-Para efectos del artículo 31, cuarto párrafo de la [Ley](articulo-2.md), los miembros del [Comité Técnico](articulo-2.md) serán suplidos conforme a lo siguiente:
+Para efectos del artículo [31](../../ltf/markdown/articulo-31.md), cuarto párrafo de la [Ley](articulo-2.md), los miembros del [Comité Técnico](articulo-2.md) serán suplidos conforme a lo siguiente:
 
 I. El Secretario de Hacienda y Crédito Público por el Titular de la Tesorería;
 

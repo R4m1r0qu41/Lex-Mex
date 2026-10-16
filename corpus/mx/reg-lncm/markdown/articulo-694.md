@@ -15,7 +15,7 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 # Artículo 694
 
-La [Dirección General](articulo-10.md), conforme al contenido de los artículos 8, fracción XXI; 185, fracción III; 327, y 328 de la [Ley](articulo-10.md), sancionará las violaciones a las disposiciones de Ley y reguladas en el presente Reglamento conforme a lo siguiente:
+La [Dirección General](articulo-10.md), conforme al contenido de los artículos [8](../../lncm/markdown/articulo-8.md), fracción XXI; [185](../../lncm/markdown/articulo-185.md), fracción III; [327](../../lncm/markdown/articulo-327.md), y [328](../../lncm/markdown/articulo-328.md) de la [Ley](articulo-10.md), sancionará las violaciones a las disposiciones de Ley y reguladas en el presente Reglamento conforme a lo siguiente:
 
 I. Con multa de mil a siete mil quinientos días de salario al [Piloto de Puerto](articulo-10.md) que:
 

@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 93
 
-Una vez que haya sido constituida y entregada a la dependencia o entidad la garantía a que alude el artículo 66 de la [Ley](articulo-2.md), la garantía de cumplimiento otorgada en el primer ejercicio, en caso de que no haya sido sustituida, o la garantía otorgada en el último ejercicio de ejecución de los trabajos, se podrán cancelar.
+Una vez que haya sido constituida y entregada a la dependencia o entidad la garantía a que alude el artículo [66](../../lopsrm/markdown/articulo-66.md) de la [Ley](articulo-2.md), la garantía de cumplimiento otorgada en el primer ejercicio, en caso de que no haya sido sustituida, o la garantía otorgada en el último ejercicio de ejecución de los trabajos, se podrán cancelar.

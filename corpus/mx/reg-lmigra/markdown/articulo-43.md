@@ -17,7 +17,7 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 43
 
-Las personas obligadas en términos del artículo 46 de la Ley, deberán transmitir electrónicamente al Instituto la información que contenga los datos que permitan identificar:
+Las personas obligadas en términos del artículo [46](../../lmigra/markdown/articulo-46.md) de la Ley, deberán transmitir electrónicamente al Instituto la información que contenga los datos que permitan identificar:
 
 I. A cada pasajero y tripulante;
 

@@ -17,4 +17,4 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 15
 
-La identificación de los agentes económicos a que se refiere la fracción II del artículo 18 de la Ley, debe referirse por lo menos a los principales agentes económicos que en su conjunto abastecen al mercado relevante.
+La identificación de los agentes económicos a que se refiere la fracción II del artículo [18](../../lfce/markdown/articulo-18.md) de la Ley, debe referirse por lo menos a los principales agentes económicos que en su conjunto abastecen al mercado relevante.

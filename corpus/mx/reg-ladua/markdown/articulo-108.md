@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 108
 
-Para efectos del artículo 61, fracción III, párrafo tercero de la [Ley](articulo-1.md), se permite la internación de vehículos extranjeros destinados a servicios internacionales para el transporte de personas hasta por un año dentro de la franja o región fronteriza para entradas y salidas múltiples, siempre que se cumplan los siguientes requisitos:
+Para efectos del artículo [61](../../ladua/markdown/articulo-61.md), fracción III, párrafo tercero de la [Ley](articulo-1.md), se permite la internación de vehículos extranjeros destinados a servicios internacionales para el transporte de personas hasta por un año dentro de la franja o región fronteriza para entradas y salidas múltiples, siempre que se cumplan los siguientes requisitos:
 
 I. Se trate de residentes en el extranjero sin establecimiento permanente en México;
 

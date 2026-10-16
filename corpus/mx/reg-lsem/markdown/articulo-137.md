@@ -17,7 +17,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 137
 
-El pago de los gastos de empaque, transporte y seguro del menaje de casa familiar de los Miembros del Servicio Exterior, para los efectos de la fracción III del artículo 47 de la Ley, será cubierto por la Secretaría y tendrá un límite de hasta 3,200 kilogramos o 30 metros cúbicos, según resulte conveniente al interesado. Párrafo reformado DOF 02-11-2018
+El pago de los gastos de empaque, transporte y seguro del menaje de casa familiar de los Miembros del Servicio Exterior, para los efectos de la fracción III del artículo [47](../../lsem/markdown/articulo-47.md) de la Ley, será cubierto por la Secretaría y tendrá un límite de hasta 3,200 kilogramos o 30 metros cúbicos, según resulte conveniente al interesado. Párrafo reformado DOF 02-11-2018
 
 El equivalente del peso o volumen a que se refiere el párrafo anterior, o parte del mismo, podrá ser utilizado para transportar un automóvil, sin perjuicio de lo dispuesto en la normatividad vigente para la importación de vehículos en el país de destino.
 

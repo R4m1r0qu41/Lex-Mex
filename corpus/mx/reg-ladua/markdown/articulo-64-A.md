@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 64-A
 
-La información o documentación a que se refiere el artículo 36-A de la [Ley](articulo-1.md), se entenderá como anexa al Pedimento y presentada ante la Autoridad Aduanera, cuando en el mismo se encuentren declarados y transmitidos los acuses de recepción generados por el [Sistema Electrónico Aduanero](articulo-1.md), para efectos de su presentación formal, sin perjuicio de las facultades de la autoridad competente para verificar su autenticidad, validez, congruencia y cumplimiento de las disposiciones jurídicas aplicables.
+La información o documentación a que se refiere el artículo [36-A](../../ladua/markdown/articulo-36-A.md) de la [Ley](articulo-1.md), se entenderá como anexa al Pedimento y presentada ante la Autoridad Aduanera, cuando en el mismo se encuentren declarados y transmitidos los acuses de recepción generados por el [Sistema Electrónico Aduanero](articulo-1.md), para efectos de su presentación formal, sin perjuicio de las facultades de la autoridad competente para verificar su autenticidad, validez, congruencia y cumplimiento de las disposiciones jurídicas aplicables.
 
 La Autoridad Aduanera en cualquier momento podrá requerir al contribuyente, a los responsables solidarios y a terceros con ellos relacionados para que exhiban para su cotejo, los Documentos Electrónicos o Digitales transmitidos, o bien, los originales de la documentación a que hacen referencia las disposiciones jurídicas aplicables.
 

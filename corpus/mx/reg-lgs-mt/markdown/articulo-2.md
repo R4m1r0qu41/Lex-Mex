@@ -17,7 +17,7 @@ source_sha256: 9ff708994e8bad54142e90da50dd0ffe7c58b739b77d89c5c31a5162abfb1429
 
 # Artículo 2
 
-Para efectos del presente Reglamento, además de las definiciones previstas en el artículo 314 de la [Ley](articulo-2.md), se entenderá por:
+Para efectos del presente Reglamento, además de las definiciones previstas en el artículo [314](../../lgs/markdown/articulo-314.md) de la [Ley](articulo-2.md), se entenderá por:
 
 I. CENATRA: El Centro Nacional de Trasplantes;
 
@@ -25,13 +25,13 @@ II. Centros Estatales de Trasplantes o Consejos Estatales de Trasplantes: Las es
 
 III. COFEPRIS: La Comisión Federal para la Protección contra Riesgos Sanitarios;
 
-IV. Comité Interno de Coordinación para la Donación: El Comité a que se refiere el segundo párrafo del artículo 316 de la Ley;
+IV. Comité Interno de Coordinación para la Donación: El Comité a que se refiere el segundo párrafo del artículo [316](../../lgs/markdown/articulo-316.md) de la Ley;
 
-V. Comité Interno de Trasplantes: El Comité a que se refiere el tercer párrafo del artículo 316 de la Ley;
+V. Comité Interno de Trasplantes: El Comité a que se refiere el tercer párrafo del artículo [316](../../lgs/markdown/articulo-316.md) de la Ley;
 
 VI. Compatibilidad: El grado de semejanza genética entre los individuos que se comprueba después de llevar a cabo los estudios correspondientes a grupo sanguíneo, inmunogenética, antropometría o aquéllos necesarios, atendiendo al Órgano, Tejido o célula de que se trate y al avance científico; que prevenga el riesgo de rechazo del Órgano, Tejido o células trasplantadas;
 
-VII. Coordinador Hospitalario: Al Coordinador Hospitalario de Donación de Órganos y Tejidos para Trasplantes al que se refiere la fracción XX del artículo 314 de la Ley;
+VII. Coordinador Hospitalario: Al Coordinador Hospitalario de Donación de Órganos y Tejidos para Trasplantes al que se refiere la fracción XX del artículo [314](../../lgs/markdown/articulo-314.md) de la Ley;
 
 VIII. Criterios Médicos: Los elementos clínicos, de laboratorio y de gabinete, definidos por los [Comités Internos de Trasplantes](articulo-2.md), que permitan seleccionar a los candidatos a recibir un Órgano, Tejido o célula;
 

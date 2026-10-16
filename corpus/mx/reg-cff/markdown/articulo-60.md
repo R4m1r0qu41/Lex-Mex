@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 60
 
-Para los efectos del artículo 52, fracción II del [Código](articulo-1.md), el contador público inscrito deberá cumplir con las normas de auditoría vigentes a la fecha de presentación del dictamen y estará impedido para formular dictámenes sobre los estados financieros de los contribuyentes, dictámenes de operaciones de enajenación de acciones, o cualquier otro dictamen que tenga repercusión fiscal, por afectar su independencia e imparcialidad, en los siguientes casos:
+Para los efectos del artículo [52](../../cff/markdown/articulo-52.md), fracción II del [Código](articulo-1.md), el contador público inscrito deberá cumplir con las normas de auditoría vigentes a la fecha de presentación del dictamen y estará impedido para formular dictámenes sobre los estados financieros de los contribuyentes, dictámenes de operaciones de enajenación de acciones, o cualquier otro dictamen que tenga repercusión fiscal, por afectar su independencia e imparcialidad, en los siguientes casos:
 
 I. Sea cónyuge, pariente civil, por consanguinidad en línea recta sin limitación de grado y en línea transversal hasta el cuarto grado y por afinidad hasta el segundo grado, del propietario o socio principal de la persona moral de que se trate o de algún director, administrador o empleado que tenga intervención importante en la administración de la misma;
 

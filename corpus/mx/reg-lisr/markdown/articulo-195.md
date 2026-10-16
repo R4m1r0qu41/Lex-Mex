@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 195
 
-Cuando en el año de calendario las deducciones a que se refiere el artículo 115 de la [Ley](articulo-1.md), sean superiores a los ingresos a que se refiere el Título IV, Capítulo III de la Ley, la diferencia podrá deducirse de los demás ingresos que el contribuyente deba acumular en la declaración anual correspondiente a ese mismo año, excepto de aquéllos a que se refiere el Título IV, Capítulos I y II de la Ley.
+Cuando en el año de calendario las deducciones a que se refiere el artículo [115](../../lisr/markdown/articulo-115.md) de la [Ley](articulo-1.md), sean superiores a los ingresos a que se refiere el Título IV, Capítulo III de la Ley, la diferencia podrá deducirse de los demás ingresos que el contribuyente deba acumular en la declaración anual correspondiente a ese mismo año, excepto de aquéllos a que se refiere el Título IV, Capítulos I y II de la Ley.

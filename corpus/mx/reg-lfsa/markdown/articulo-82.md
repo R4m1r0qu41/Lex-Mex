@@ -17,4 +17,4 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 82
 
-La Secretaría establecerá las campañas zoosanitarias que sean necesarias mediante disposiciones de sanidad animal en las que deberá observarse lo señalado en los artículos 55, 56 y 58 de la [Ley](articulo-2.md). En su caso llevará a cabo la conclusión de aquellas que lo ameriten.
+La Secretaría establecerá las campañas zoosanitarias que sean necesarias mediante disposiciones de sanidad animal en las que deberá observarse lo señalado en los artículos [55](../../lfsa/markdown/articulo-55.md), [56](../../lfsa/markdown/articulo-56.md) y [58](../../lfsa/markdown/articulo-58.md) de la [Ley](articulo-2.md). En su caso llevará a cabo la conclusión de aquellas que lo ameriten.

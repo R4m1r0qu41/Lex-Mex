@@ -17,4 +17,4 @@ source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 
 # Artículo 11
 
-Para determinar la participación de mercado a que se refiere la fracción I del artículo 13 de la Ley, se tomarán en cuenta indicadores de ventas, número de clientes, capacidad productiva o cualquier otro factor que la Comisión determine.
+Para determinar la participación de mercado a que se refiere la fracción I del artículo [13](../../lfce/markdown/articulo-13.md) de la Ley, se tomarán en cuenta indicadores de ventas, número de clientes, capacidad productiva o cualquier otro factor que la Comisión determine.

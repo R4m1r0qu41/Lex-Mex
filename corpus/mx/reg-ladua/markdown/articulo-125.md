@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 125
 
-Para efectos del artículo 68, fracción VIII de la [Ley](articulo-1.md), se considera que existe vinculación entre personas de la misma familia, si existe parentesco civil; por consanguinidad sin limitación de grado en línea recta, en la colateral o transversal dentro del cuarto grado; por afinidad en línea recta o transversal hasta el segundo grado, así como entre cónyuges.
+Para efectos del artículo [68](../../ladua/markdown/articulo-68.md), fracción VIII de la [Ley](articulo-1.md), se considera que existe vinculación entre personas de la misma familia, si existe parentesco civil; por consanguinidad sin limitación de grado en línea recta, en la colateral o transversal dentro del cuarto grado; por afinidad en línea recta o transversal hasta el segundo grado, así como entre cónyuges.

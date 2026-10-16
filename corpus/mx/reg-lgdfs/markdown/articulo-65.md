@@ -37,4 +37,4 @@ g) En caso de que las especies a plantar sean exóticas, las actividades para ev
 
 h) En su caso, datos de inscripción en el Registro del Prestador de Servicios forestales, responsable de la elaboración, ejecución y evaluación del aviso de Plantación forestal comercial a que se refiere este artículo, y
 
-III. La manifestación, bajo protesta de decir verdad, de la situación legal del predio o Conjunto de predios, y en su caso, sobre conflictos agrarios, así como que la Plantación forestal correspondiente no se establecerá en sustitución de la Vegetación forestal, de conformidad con el artículo 78 de la [Ley](articulo-2.md).
+III. La manifestación, bajo protesta de decir verdad, de la situación legal del predio o Conjunto de predios, y en su caso, sobre conflictos agrarios, así como que la Plantación forestal correspondiente no se establecerá en sustitución de la Vegetación forestal, de conformidad con el artículo [78](../../lgdfs/markdown/articulo-78.md) de la [Ley](articulo-2.md).

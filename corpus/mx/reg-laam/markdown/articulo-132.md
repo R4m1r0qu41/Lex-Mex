@@ -21,7 +21,7 @@ Son causas de exclusión de la persona participante, antes y durante el Concurso
 
 I. Dejar de cumplir con alguno de los requisitos que establece la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables para ser convocada; Fracción reformada DOF 11-03-2016, 02-04-2026
 
-II. Quedar incluida en alguno de los supuestos establecidos en el artículo 51 de la Ley; Fracción reformada DOF 02-04-2026
+II. Quedar incluida en alguno de los supuestos establecidos en el artículo [51](../../laam/markdown/articulo-51.md) de la Ley; Fracción reformada DOF 02-04-2026
 
 III. Quedar clasificada en la primera o segunda categoría de accidentes o enfermedades previstas en el artículo [226](../../lissfam/markdown/articulo-226.md) de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Fracción reformada DOF 11-03-2016, 06-03-2020, 02-04-2026
 

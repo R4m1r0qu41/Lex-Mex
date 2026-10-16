@@ -23,7 +23,7 @@ I. El anticipo se amortizará del importe de cada estimación de trabajos ejecut
 
 II. Cuando respecto de los contratos en los que se consideraron anticipos, se celebren convenios modificatorios que no prevén anticipos para ejecutar los trabajos que amparen, no se realizará amortización alguna ni afectación en el ajuste de costos.
 
-En el caso de que por el cambio del ejercicio presupuestario, los convenios modificatorios señalados en el párrafo anterior hayan sido considerados para actualizar la asignación presupuestaria del ejercicio siguiente de acuerdo con lo dispuesto en el tercer párrafo del artículo 23 de la [Ley](articulo-2.md), la amortización del anticipo se realizará aplicando el porcentaje establecido en el contrato considerando la asignación presupuestaria actualizada, y
+En el caso de que por el cambio del ejercicio presupuestario, los convenios modificatorios señalados en el párrafo anterior hayan sido considerados para actualizar la asignación presupuestaria del ejercicio siguiente de acuerdo con lo dispuesto en el tercer párrafo del artículo [23](../../lopsrm/markdown/articulo-23.md) de la [Ley](articulo-2.md), la amortización del anticipo se realizará aplicando el porcentaje establecido en el contrato considerando la asignación presupuestaria actualizada, y
 
 III. El procedimiento de amortización deberá realizarse conforme a lo siguiente:
 
@@ -49,7 +49,7 @@ El porcentaje de la amortización del anticipo en el siguiente ejercicio será e
 
 En el caso previsto en el presente numeral, el anticipo del siguiente ejercicio se entregará siempre y cuando el contratista acredite haber aplicado el anticipo del ejercicio anterior conforme al programa a que se refiere el tercer párrafo del artículo [138](articulo-138.md) de este Reglamento;
 
-c) En caso de que el anticipo se otorgue conforme a lo señalado en el primer párrafo de la fracción V del artículo 50 de la Ley, deberá procederse de la siguiente manera:
+c) En caso de que el anticipo se otorgue conforme a lo señalado en el primer párrafo de la fracción V del artículo [50](../../lopsrm/markdown/articulo-50.md) de la Ley, deberá procederse de la siguiente manera:
 
 1. El porcentaje de la amortización del anticipo en el primer ejercicio será el resultado de dividir el importe del anticipo concedido en el primer ejercicio conforme al programa de ejecución convenido, entre el importe total de los trabajos a ejercer en el primero y segundo ejercicios, conforme al programa de ejecución convenido;
 

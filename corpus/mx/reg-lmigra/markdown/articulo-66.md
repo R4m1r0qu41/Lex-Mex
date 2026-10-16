@@ -17,4 +17,4 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 66
 
-Los mexicanos y las personas extranjeras que pretendan salir del territorio nacional y que no se encuentren en alguno de los supuestos del artículo 48 de la Ley, deberán exhibir ante la autoridad migratoria el pasaporte o documento de identidad y viaje que sea válido conforme al derecho internacional. Además, en el caso de personas extranjeras, el documento migratorio que acredite su situación migratoria regular en el territorio nacional, salvo lo dispuesto en el artículo [54](articulo-54.md) de este Reglamento.
+Los mexicanos y las personas extranjeras que pretendan salir del territorio nacional y que no se encuentren en alguno de los supuestos del artículo [48](../../lmigra/markdown/articulo-48.md) de la Ley, deberán exhibir ante la autoridad migratoria el pasaporte o documento de identidad y viaje que sea válido conforme al derecho internacional. Además, en el caso de personas extranjeras, el documento migratorio que acredite su situación migratoria regular en el territorio nacional, salvo lo dispuesto en el artículo [54](articulo-54.md) de este Reglamento.

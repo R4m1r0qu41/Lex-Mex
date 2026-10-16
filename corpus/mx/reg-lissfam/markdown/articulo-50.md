@@ -17,4 +17,4 @@ source_sha256: c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a
 
 # Artículo 50
 
-La Junta Directiva autorizará el monto de los créditos hipotecarios que se otorguen con cargo al fondo de la vivienda militar, mismos que incluirán los gastos de escrituración, en términos de la fracción V del artículo 123 de la Ley.
+La Junta Directiva autorizará el monto de los créditos hipotecarios que se otorguen con cargo al fondo de la vivienda militar, mismos que incluirán los gastos de escrituración, en términos de la fracción V del artículo [123](../../lissfam/markdown/articulo-123.md) de la Ley.

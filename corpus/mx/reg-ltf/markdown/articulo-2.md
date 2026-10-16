@@ -17,13 +17,13 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 2
 
-Para efectos del presente Reglamento, además de las definiciones previstas en el artículo 2 de la [Ley](articulo-2.md), se entenderá por:
+Para efectos del presente Reglamento, además de las definiciones previstas en el artículo [2](../../ltf/markdown/articulo-2.md) de la [Ley](articulo-2.md), se entenderá por:
 
-I. Comité Técnico: el Comité Técnico de Inversión y Administración de la Liquidez a que se refiere el artículo 31 de la Ley;
+I. Comité Técnico: el Comité Técnico de Inversión y Administración de la Liquidez a que se refiere el artículo [31](../../ltf/markdown/articulo-31.md) de la Ley;
 
 II. Flujo de Efectivo: las entradas y salidas de efectivo en la Cuenta Corriente y en las cuentas bancarias a nombre de la Tesorería en el Banco de México y en las instituciones de crédito, que resulten de las operaciones de ingresos, egresos y deuda del Gobierno Federal, en un período determinado;
 
-III. Indemnización al Fisco Federal: los intereses o cargas financieras que deberá pagar el Auxiliar que haya concentrado extemporáneamente, de acuerdo con el artículo 23 de la Ley;
+III. Indemnización al Fisco Federal: los intereses o cargas financieras que deberá pagar el Auxiliar que haya concentrado extemporáneamente, de acuerdo con el artículo [23](../../ltf/markdown/articulo-23.md) de la Ley;
 
 IV. Ley: la Ley de Tesorería de la Federación;
 

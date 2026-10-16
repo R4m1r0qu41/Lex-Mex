@@ -17,7 +17,7 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 191
 
-Para el caso de las sanciones de suspensión temporal de la Aprobación o autorización, reconocimiento a terceros o permiso, prevista en el artículo 68 de la [Ley](articulo-2.md), el titular sancionado deberá entregar el documento respectivo a la autoridad competente, la cual devolverá al interesado una vez concluido el período de suspensión.
+Para el caso de las sanciones de suspensión temporal de la Aprobación o autorización, reconocimiento a terceros o permiso, prevista en el artículo [68](../../lfsv/markdown/articulo-68.md) de la [Ley](articulo-2.md), el titular sancionado deberá entregar el documento respectivo a la autoridad competente, la cual devolverá al interesado una vez concluido el período de suspensión.
 
 El período de suspensión no empezará a correr sino a partir del día natural siguiente al que se entregue el título correspondiente a la Secretaría, y en caso de no entregarlo, será a partir del día en que manifieste dicha imposibilidad, o haya fenecido el plazo para su entrega.
 

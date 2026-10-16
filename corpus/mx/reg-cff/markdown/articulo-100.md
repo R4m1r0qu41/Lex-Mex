@@ -17,9 +17,9 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 100
 
-Para los efectos de los artículos 153, 164 y 165 del [Código](articulo-1.md), el interventor con cargo a caja designado tendrá las siguientes obligaciones:
+Para los efectos de los artículos [153](../../cff/markdown/articulo-153.md), [164](../../cff/markdown/articulo-164.md) y [165](../../cff/markdown/articulo-165.md) del [Código](articulo-1.md), el interventor con cargo a caja designado tendrá las siguientes obligaciones:
 
-I. Estar presente en el local en donde se encuentre la administración principal del negocio o en el lugar que conforme al artículo 10 del Código se considere el domicilio fiscal del contribuyente intervenido, o en los establecimientos, locales, sucursales o cualquier lugar de negocio donde el contribuyente intervenido desarrolle sus actividades;
+I. Estar presente en el local en donde se encuentre la administración principal del negocio o en el lugar que conforme al artículo [10](../../cff/markdown/articulo-10.md) del Código se considere el domicilio fiscal del contribuyente intervenido, o en los establecimientos, locales, sucursales o cualquier lugar de negocio donde el contribuyente intervenido desarrolle sus actividades;
 
 II. Al inicio de la intervención:
 

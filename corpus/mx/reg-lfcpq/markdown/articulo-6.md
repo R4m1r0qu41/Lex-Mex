@@ -19,4 +19,4 @@ source_sha256: 3c0720d560455df51ca882a37390cd0fe017d1987853b8358e37d5195f718055
 
 Los informes anuales y avisos previstos en la Ley, se presentarán en los formatos oficiales que publiquen en el Diario Oficial de la Federación las Secretarías de Comercio y Fomento Industrial, de Comunicaciones y Transportes y de Salud, según corresponda.
 
-Para la integración de la base de datos a que se refiere el artículo 20 de la Ley, los formatos oficiales se limitarán a especificar únicamente la información que deberán proporcionar los particulares, a efecto de identificar a los sujetos, establecimientos y actividades reguladas, así como a los precursores químicos, productos químicos esenciales o máquinas.
+Para la integración de la base de datos a que se refiere el artículo [20](../../lfcpq/markdown/articulo-20.md) de la Ley, los formatos oficiales se limitarán a especificar únicamente la información que deberán proporcionar los particulares, a efecto de identificar a los sujetos, establecimientos y actividades reguladas, así como a los precursores químicos, productos químicos esenciales o máquinas.

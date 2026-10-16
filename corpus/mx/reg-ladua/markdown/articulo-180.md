@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 180
 
-Para efectos de lo dispuesto en el artículo 121, fracción I de la [Ley](articulo-1.md), la Autoridad Aduanera podrá autorizar el establecimiento de depósitos fiscales para la exposición y venta de Mercancías extranjeras y nacionales, siempre que los interesados cumplan lo previsto en la Ley y los siguientes requisitos:
+Para efectos de lo dispuesto en el artículo [121](../../ladua/markdown/articulo-121.md), fracción I de la [Ley](articulo-1.md), la Autoridad Aduanera podrá autorizar el establecimiento de depósitos fiscales para la exposición y venta de Mercancías extranjeras y nacionales, siempre que los interesados cumplan lo previsto en la Ley y los siguientes requisitos:
 
 I. Sean propietarios o poseedores de locales en aeropuertos internacionales, puertos marítimos de altura o en cruces fronterizos autorizados para la entrada y salida de personas del territorio nacional;
 

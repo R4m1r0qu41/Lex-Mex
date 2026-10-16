@@ -17,4 +17,4 @@ source_sha256: a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335
 
 # Artículo 20
 
-Las víctimas de la Violencia o de la delincuencia recibirán la atención, asistencia, protección, reparación del daño y apoyo, de conformidad con lo establecido en el artículo 11 de la Ley, la Ley General de Víctimas y demás disposiciones jurídicas aplicables.
+Las víctimas de la Violencia o de la delincuencia recibirán la atención, asistencia, protección, reparación del daño y apoyo, de conformidad con lo establecido en el artículo [11](../../lgpsvd/markdown/articulo-11.md) de la Ley, la Ley General de Víctimas y demás disposiciones jurídicas aplicables.

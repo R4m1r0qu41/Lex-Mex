@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 102
 
-Para efectos del artículo 67 de la "Ley", el padrón de usuarios de los distritos de riego será integrado por "La Comisión" en los términos del artículo [92](articulo-92.md) de este "Reglamento", bajo las consideraciones siguientes:
+Para efectos del artículo [67](../../lan/markdown/articulo-67.md) de la "Ley", el padrón de usuarios de los distritos de riego será integrado por "La Comisión" en los términos del artículo [92](articulo-92.md) de este "Reglamento", bajo las consideraciones siguientes:
 
 I. Para la inscripción en el padrón de los derechos de los usuarios integrantes de las asociaciones de usuarios, se estará tanto al reglamento de las mismas como al reglamento de los distritos de riego respectivos;
 

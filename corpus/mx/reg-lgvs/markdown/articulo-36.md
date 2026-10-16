@@ -17,7 +17,7 @@ source_sha256: 3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad
 
 # Artículo 36
 
-La Secretaría podrá iniciar de oficio el procedimiento para la revocación del registro en los casos a que se refiere el artículo 47 Bis 2, fracciones I, II y IV de la [Ley](articulo-2.md), conforme a lo siguiente:
+La Secretaría podrá iniciar de oficio el procedimiento para la revocación del registro en los casos a que se refiere el artículo [47 Bis 2](../../lgvs/markdown/articulo-47-Bis-2.md), fracciones I, II y IV de la [Ley](articulo-2.md), conforme a lo siguiente:
 
 I. Notificará al responsable técnico los actos o hechos detectados, que puedan actualizar las hipótesis señaladas en el párrafo anterior, otorgándole un plazo de quince días hábiles para que manifieste lo que a su derecho convenga y proporcione las pruebas que estime convenientes.
 
@@ -31,6 +31,6 @@ Concluida dicha audiencia, se otorgará un plazo de tres días hábiles para pre
 
 IV. Presentados los alegatos o transcurrido el plazo para ello sin que se presentaren, la Secretaría dictará la resolución que corresponda dentro de un plazo de quince días hábiles.
 
-Tratándose de la hipótesis prevista en la fracción III del artículo 47 Bis 2 de la Ley, la Secretaría, en ejecución de la resolución definitiva que en, su caso, haya expedido la [PROFEPA](articulo-2.md), revocará el registro del responsable técnico.
+Tratándose de la hipótesis prevista en la fracción III del artículo [47 Bis 2](../../lgvs/markdown/articulo-47-Bis-2.md) de la Ley, la Secretaría, en ejecución de la resolución definitiva que en, su caso, haya expedido la [PROFEPA](articulo-2.md), revocará el registro del responsable técnico.
 
 Artículo reformado DOF 09-05-2014

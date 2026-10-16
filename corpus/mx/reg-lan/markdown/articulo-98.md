@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 98
 
-El comité hidráulico del distrito de riego a que se refiere el artículo 66 de la "Ley", se organizará y operará conforme al reglamento de cada distrito y estará integrado por lo menos con los miembros siguientes:
+El comité hidráulico del distrito de riego a que se refiere el artículo [66](../../lan/markdown/articulo-66.md) de la "Ley", se organizará y operará conforme al reglamento de cada distrito y estará integrado por lo menos con los miembros siguientes:
 
 I. Un Presidente, que será el Ingeniero en Jefe del distrito de riego, designado por "La Comisión", y
 

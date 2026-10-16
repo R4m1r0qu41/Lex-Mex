@@ -2384,6 +2384,14 @@ fn extract_instrument_references(
     for (_, corpus) in siblings {
         known_targets.extend(corpus.provisions.iter().map(|item| item.id.clone()));
     }
+    if let Some(parent) = &context.config.parent_instrument_id {
+        anyhow::ensure!(
+            siblings
+                .iter()
+                .any(|(_, corpus)| &corpus.instrument.id == parent),
+            "parent instrument {parent} is not a committed corpus instrument"
+        );
+    }
     let configured_external = context.config.external_instruments.iter().map(|external| {
         (
             external.name_marker.to_lowercase(),
@@ -2423,6 +2431,7 @@ fn extract_instrument_references(
         same_article_fractions: true,
         relative_references: true,
         historical_targets,
+        parent_instrument: context.config.parent_instrument_id.clone(),
     };
     let mut references = extract_references(
         provisions,

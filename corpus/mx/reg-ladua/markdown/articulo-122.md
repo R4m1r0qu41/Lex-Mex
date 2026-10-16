@@ -17,4 +17,4 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 122
 
-Para efectos del artículo 66, fracción II, inciso a) de la [Ley](articulo-1.md), no se considerará como asistencia técnica el otorgamiento de licencias para permitir el uso de marcas y la explotación de patentes.
+Para efectos del artículo [66](../../ladua/markdown/articulo-66.md), fracción II, inciso a) de la [Ley](articulo-1.md), no se considerará como asistencia técnica el otorgamiento de licencias para permitir el uso de marcas y la explotación de patentes.

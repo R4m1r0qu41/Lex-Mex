@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 68
 
-En caso de que la persona solicitante transforme, según lo dispuesto en el artículo 103 de la Ley, una solicitud de patente en una de registro de modelo de utilidad o de diseño industrial o viceversa, la solicitud transformada conservará la fecha y hora de presentación de la solicitud inicial. Cuando se transforme una solicitud, el Instituto le comunicará a la persona solicitante el nuevo número de expediente que le corresponda.
+En caso de que la persona solicitante transforme, según lo dispuesto en el artículo [103](../../lfppi/markdown/articulo-103.md) de la Ley, una solicitud de patente en una de registro de modelo de utilidad o de diseño industrial o viceversa, la solicitud transformada conservará la fecha y hora de presentación de la solicitud inicial. Cuando se transforme una solicitud, el Instituto le comunicará a la persona solicitante el nuevo número de expediente que le corresponda.

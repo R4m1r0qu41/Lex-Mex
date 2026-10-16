@@ -17,4 +17,4 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 66
 
-Para efectos del artículo 43 de la [Ley](articulo-2.md), las participaciones federales incluirán los ajustes, anticipos y demás conceptos que correspondan conforme a la Ley de Coordinación Fiscal.
+Para efectos del artículo [43](../../ltf/markdown/articulo-43.md) de la [Ley](articulo-2.md), las participaciones federales incluirán los ajustes, anticipos y demás conceptos que correspondan conforme a la Ley de Coordinación Fiscal.

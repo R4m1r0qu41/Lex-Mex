@@ -17,4 +17,4 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # Artículo 30
 
-Los sistemas de manejo ambiental a que se refiere el artículo 34 de la [Ley](articulo-2.md) se integrarán, en lo conducente, a los sistemas de manejo ambiental previstos en el artículo [17 Bis](../../lgeepa/markdown/articulo-17-BIS.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+Los sistemas de manejo ambiental a que se refiere el artículo [34](../../lgpgir/markdown/articulo-34.md) de la [Ley](articulo-2.md) se integrarán, en lo conducente, a los sistemas de manejo ambiental previstos en el artículo [17 Bis](../../lgeepa/markdown/articulo-17-BIS.md) de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.

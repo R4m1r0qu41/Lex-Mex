@@ -17,7 +17,7 @@ source_sha256: 50d888e53a7b0990f6d19dbab03d263e01ca7d4a4365a0c2663e03caf9f2715c
 
 # Artículo 31
 
-Sin perjuicio de lo establecido en el artículo 16 de la [Ley](articulo-2.md), corresponde al [Registro](articulo-2.md):
+Sin perjuicio de lo establecido en el artículo [16](../../lffaosc/markdown/articulo-16.md) de la [Ley](articulo-2.md), corresponde al [Registro](articulo-2.md):
 
 I. Elaborar los lineamientos técnicos dirigidos a los servidores públicos encargados de su operación;
 

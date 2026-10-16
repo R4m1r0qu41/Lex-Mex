@@ -15,7 +15,7 @@ source_sha256: ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c
 
 # SEXTO
 
-En tanto la Secretaría establece y opera la base de datos a que se refiere el artículo [81](articulo-81.md) del presente [Reglamento](articulo-2.md), los generadores de residuos peligrosos, para cumplir con lo ordenado en el artículo 42 de la [Ley](articulo-2.md), podrán consultar a la Secretaría la información relacionada con la vigencia de las autorizaciones otorgadas a gestores para la prestación de los servicios de manejo de residuos peligrosos.
+En tanto la Secretaría establece y opera la base de datos a que se refiere el artículo [81](articulo-81.md) del presente [Reglamento](articulo-2.md), los generadores de residuos peligrosos, para cumplir con lo ordenado en el artículo [42](../../lgpgir/markdown/articulo-42.md) de la [Ley](articulo-2.md), podrán consultar a la Secretaría la información relacionada con la vigencia de las autorizaciones otorgadas a gestores para la prestación de los servicios de manejo de residuos peligrosos.
 
 La consulta se formulará mediante escrito en el que se señale:
 

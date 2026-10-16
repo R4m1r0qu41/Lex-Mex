@@ -17,4 +17,4 @@ source_sha256: 85d60fd8e0d0d2dac1758f672c5b2200ee6e501eecd8c635b0ac89a93d930b97
 
 # Artículo 93
 
-A solicitud de las Entidades Federativas y Municipios y con cargo a sus recursos propios, podrán ser considerados por el Consejo, aquellos sectores que hayan sido incluidos en sus respectivos Programas de Desarrollo, dicha solicitud, deberá contener un análisis respecto de las contribuciones de dicho sector a los objetivos del Plan Nacional de Desarrollo y su respectiva vinculación con los sectores previstos en el artículo 45 de la Ley.
+A solicitud de las Entidades Federativas y Municipios y con cargo a sus recursos propios, podrán ser considerados por el Consejo, aquellos sectores que hayan sido incluidos en sus respectivos Programas de Desarrollo, dicha solicitud, deberá contener un análisis respecto de las contribuciones de dicho sector a los objetivos del Plan Nacional de Desarrollo y su respectiva vinculación con los sectores previstos en el artículo [45](../../lfiiedb/markdown/articulo-45.md) de la Ley.

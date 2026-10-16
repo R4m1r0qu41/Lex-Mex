@@ -25,6 +25,6 @@ a) Si corresponde convocar a [Concurso](articulo-11.md), o
 
 b) Si tiene interés o no en adquirir los estudios que le hayan sido presentados, o
 
-II. No procedente, por encontrarse en alguno de los supuestos señalados en el artículo 34 de la Ley.
+II. No procedente, por encontrarse en alguno de los supuestos señalados en el artículo [34](../../lapp/markdown/articulo-34.md) de la Ley.
 
 Sección Tercera Del Concurso de los Proyectos

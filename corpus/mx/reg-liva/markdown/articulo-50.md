@@ -17,4 +17,4 @@ source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
 
 # Artículo 50
 
-Para los efectos de lo dispuesto en el artículo 24 de la Ley, los contribuyentes que importan bienes intangibles o servicios por los que deban pagar el impuesto, podrán efectuar el acreditamiento en los términos de la Ley en la misma declaración de pago mensual a que correspondan dichas importaciones.
+Para los efectos de lo dispuesto en el artículo [24](../../liva/markdown/articulo-24.md) de la Ley, los contribuyentes que importan bienes intangibles o servicios por los que deban pagar el impuesto, podrán efectuar el acreditamiento en los términos de la Ley en la misma declaración de pago mensual a que correspondan dichas importaciones.

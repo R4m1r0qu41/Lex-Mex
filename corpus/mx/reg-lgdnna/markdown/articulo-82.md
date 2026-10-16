@@ -21,7 +21,7 @@ La autorización a que se refiere el [artículo anterior](articulo-81.md) tendr�
 
 I. Presentar la solicitud de renovación con por lo menos quince días hábiles antes de que concluya la vigencia de la autorización;
 
-II. Los señalados en las fracciones IV, V y VI del artículo 32 de la [Ley](articulo-2.md);
+II. Los señalados en las fracciones IV, V y VI del artículo [32](../../lgdnna/markdown/articulo-32.md) de la [Ley](articulo-2.md);
 
 III. Estar inscrito en el registro de autorizaciones de profesionales en materia de trabajo social y psicología o carreras afines para intervenir en los procedimientos de adopción a que se refiere el artículo [44](articulo-44.md) de este Reglamento;
 

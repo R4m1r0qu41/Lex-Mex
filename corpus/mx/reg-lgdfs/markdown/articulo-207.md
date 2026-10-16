@@ -17,7 +17,7 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 207
 
-La Comisión podrá proponer a la Secretaría y a la Secretaría de Agricultura y Desarrollo Rural la estrategia para el Manejo del fuego y el impulso de alternativas de producción agropecuaria sin el uso del fuego a que se refiere el artículo 24, fracción VII de la [Ley](articulo-2.md), la cual considerará lo siguiente:
+La Comisión podrá proponer a la Secretaría y a la Secretaría de Agricultura y Desarrollo Rural la estrategia para el Manejo del fuego y el impulso de alternativas de producción agropecuaria sin el uso del fuego a que se refiere el artículo [24](../../lgdfs/markdown/articulo-24.md), fracción VII de la [Ley](articulo-2.md), la cual considerará lo siguiente:
 
 I. Los métodos para reducir el daño a los Recursos forestales por efecto de las quemas agropecuarias escapadas;
 

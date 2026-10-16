@@ -17,7 +17,7 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 67
 
-Cuando no se pueda efectuar al proveedor la notificación a que se refiere el artículo 104, fracción I de la Ley, por no corresponder su domicilio con el señalado por el consumidor o por el indicado en el comprobante de la operación respectiva, la Procuraduría requerirá al consumidor para que proporcione otro domicilio y, en su caso, solicitará dicha información a las autoridades competentes en términos de lo dispuesto por los artículos 4 y 13 de la Ley.
+Cuando no se pueda efectuar al proveedor la notificación a que se refiere el artículo [104](../../lfpc/markdown/articulo-104.md), fracción I de la Ley, por no corresponder su domicilio con el señalado por el consumidor o por el indicado en el comprobante de la operación respectiva, la Procuraduría requerirá al consumidor para que proporcione otro domicilio y, en su caso, solicitará dicha información a las autoridades competentes en términos de lo dispuesto por los artículos [4](../../lfpc/markdown/articulo-4.md) y [13](../../lfpc/markdown/articulo-13.md) de la Ley.
 
 La Procuraduría podrá concluir el procedimiento correspondiente por imposibilidad de su notificación, cuando:
 

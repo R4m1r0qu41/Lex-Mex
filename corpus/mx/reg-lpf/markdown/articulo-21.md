@@ -53,6 +53,6 @@ XVII. Establecer y operar métodos de comunicación y redes de información poli
 
 XVIII. Participar con otras instituciones o corporaciones policiales de las entidades federativas y municipales, a efecto de implementar acciones policiales y operativos conjuntos;
 
-XIX. Operar e integrar la información de las bases de datos a que se refieren la fracción XLIV, del artículo 8, de la Ley, y
+XIX. Operar e integrar la información de las bases de datos a que se refieren la fracción XLIV, del artículo [8](../../lpf/markdown/articulo-8.md), de la Ley, y
 
 XX. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.

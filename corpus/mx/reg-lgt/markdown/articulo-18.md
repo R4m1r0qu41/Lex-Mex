@@ -17,7 +17,7 @@ source_sha256: 6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b
 
 # Artículo 18
 
-El Consejo, previsto en el artículo 12 de la Ley, estará integrado de la siguiente forma:
+El Consejo, previsto en el artículo [12](../../lgt/markdown/articulo-12.md) de la Ley, estará integrado de la siguiente forma:
 
 I. El titular de la Secretaría, quien lo presidirá;
 

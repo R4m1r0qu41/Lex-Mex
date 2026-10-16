@@ -17,4 +17,4 @@ source_sha256: 667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041
 
 # Artículo 43
 
-Las comisiones internas de bioseguridad a las que se refiere el artículo 74, fracción III, de la Ley, estarán integradas por un mínimo de tres personas que cuenten con experiencia y conocimiento en las actividades de utilización confinada de OGMs.
+Las comisiones internas de bioseguridad a las que se refiere el artículo [74](../../lbogm/markdown/articulo-74.md), fracción III, de la Ley, estarán integradas por un mínimo de tres personas que cuenten con experiencia y conocimiento en las actividades de utilización confinada de OGMs.

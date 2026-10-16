@@ -17,7 +17,7 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 # Artículo 26
 
-La CONADE, a través de los convenios a que se refiere el artículo 42 de la Ley, promoverá el desarrollo del RENADE, a través de:
+La CONADE, a través de los convenios a que se refiere el artículo [42](../../lgcfd/markdown/articulo-42.md) de la Ley, promoverá el desarrollo del RENADE, a través de:
 
 I. La homogeneización de los procedimientos de captación de datos en los padrones, censos, inventarios y demás medios que se considere deban utilizarse para recopilar la información que utilizarán las dependencias y entidades de Cultura Física y Deporte de los Estados, del Distrito Federal, de las delegaciones y los municipios, y
 

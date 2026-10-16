@@ -23,7 +23,7 @@ I. Las dependencias y entidades de la Administración Pública Federal que conoz
 
 II. Se podrán expedir nuevas órdenes de protección hasta que cese el riesgo hacia la Víctima;
 
-III. La solicitud podrá realizarse en forma verbal o escrita por la Víctima o por cualquier persona que tenga conocimiento de un Estado de Riesgo o cualquier otra circunstancia que genere Violencia contra las Mujeres. También podrán ser representadas legalmente o cuando así lo requieran por su abogado, agente del Ministerio Público de la Federación o cualquier servidor público especialista en Perspectiva de Género. La valoración de las órdenes se hará de conformidad con el artículo 31 de la Ley;
+III. La solicitud podrá realizarse en forma verbal o escrita por la Víctima o por cualquier persona que tenga conocimiento de un Estado de Riesgo o cualquier otra circunstancia que genere Violencia contra las Mujeres. También podrán ser representadas legalmente o cuando así lo requieran por su abogado, agente del Ministerio Público de la Federación o cualquier servidor público especialista en Perspectiva de Género. La valoración de las órdenes se hará de conformidad con el artículo [31](../../lgamvlv/markdown/articulo-31.md) de la Ley;
 
 IV. Cuando la Víctima la solicite, no será necesaria la presentación de pruebas para acreditar los hechos de violencia, y
 

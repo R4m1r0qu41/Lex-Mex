@@ -17,7 +17,7 @@ source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
 
 # Artículo 26
 
-Para efectos del artículo 25, quinto párrafo de la [Ley](articulo-2.md), los intereses se calcularán conforme a la tasa ponderada de fondeo bancario dada a conocer diariamente por el Banco de México en su página de Internet durante el periodo que dure la falta de devolución. En caso de que por cualquier motivo se deje de publicar dicha tasa, se utilizará la tasa de interés obtenida por la Tesorería en su Cuenta Corriente en el Banco de México.
+Para efectos del artículo [25](../../ltf/markdown/articulo-25.md), quinto párrafo de la [Ley](articulo-2.md), los intereses se calcularán conforme a la tasa ponderada de fondeo bancario dada a conocer diariamente por el Banco de México en su página de Internet durante el periodo que dure la falta de devolución. En caso de que por cualquier motivo se deje de publicar dicha tasa, se utilizará la tasa de interés obtenida por la Tesorería en su Cuenta Corriente en el Banco de México.
 
 El monto de los intereses se determinará dividiendo la tasa anual a que se refiere el párrafo anterior entre trescientos sesenta, y el resultado hasta la centésima, se multiplicará por el número total de días transcurridos desde el día en que venció el plazo para realizar la devolución hasta el día hábil previo a aquél en que el monto a devolver se deposite en la cuenta bancaria señalada por el solicitante. El resultado obtenido se multiplicará por el importe no devuelto oportunamente.
 

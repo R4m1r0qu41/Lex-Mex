@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 10
 
-Se calculará hasta el diezmilésimo el coeficiente de utilidad a que se refiere el artículo 14, fracción I de la [Ley](articulo-1.md).
+Se calculará hasta el diezmilésimo el coeficiente de utilidad a que se refiere el artículo [14](../../lisr/markdown/articulo-14.md), fracción I de la [Ley](articulo-1.md).

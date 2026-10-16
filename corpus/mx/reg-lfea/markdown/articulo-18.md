@@ -27,4 +27,4 @@ Para los efectos de la emisión del dictamen, la Secretaría podrá, en término
 
 La Secretaría, dentro de los diez días hábiles siguientes, notificará al interesado el dictamen correspondiente.
 
-La Secretaría publicará y mantendrá actualizada en su Página Web, una relación de las Autoridades Certificadoras a que se refiere el artículo 24 de la Ley.
+La Secretaría publicará y mantendrá actualizada en su Página Web, una relación de las Autoridades Certificadoras a que se refiere el artículo [24](../../lfea/markdown/articulo-24.md) de la Ley.

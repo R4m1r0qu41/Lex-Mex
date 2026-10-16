@@ -17,4 +17,4 @@ source_sha256: 7e1c33029ca423d65491911d15e2f1b436ed269540148af1e4787570441ac0b6
 
 # Artículo 3
 
-El Programa y los demás programas de la Administración Pública Federal en materia de discapacidad deberán alinearse al Plan Nacional de Desarrollo y atender a las obligaciones contraídas en los tratados internacionales en los que el Estado mexicano es parte en dicha materia, a efecto de favorecer a la plena inclusión de las personas con discapacidad, con base en los principios que deben observar las políticas públicas señalados en el artículo 5 de la Ley.
+El Programa y los demás programas de la Administración Pública Federal en materia de discapacidad deberán alinearse al Plan Nacional de Desarrollo y atender a las obligaciones contraídas en los tratados internacionales en los que el Estado mexicano es parte en dicha materia, a efecto de favorecer a la plena inclusión de las personas con discapacidad, con base en los principios que deben observar las políticas públicas señalados en el artículo [5](../../lgipd/markdown/articulo-5.md) de la Ley.

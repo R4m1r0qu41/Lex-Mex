@@ -17,7 +17,7 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 231
 
-Para efectos del artículo 140 de la [Ley](articulo-1.md), los fondos de inversión de renta variable que en el ejercicio fiscal de que se trate, reciban dividendos por su cartera accionaria, deberán calcular el monto del dividendo que le corresponda a sus accionistas, de acuerdo a su inversión, conforme a lo siguiente:
+Para efectos del artículo [140](../../lisr/markdown/articulo-140.md) de la [Ley](articulo-1.md), los fondos de inversión de renta variable que en el ejercicio fiscal de que se trate, reciban dividendos por su cartera accionaria, deberán calcular el monto del dividendo que le corresponda a sus accionistas, de acuerdo a su inversión, conforme a lo siguiente:
 
 I. Calcularán los dividendos por acción, dividiendo los dividendos percibidos en el día de que se trate, entre el número de sus acciones en circulación al final de dicho día;
 
@@ -25,4 +25,4 @@ II. Determinarán los dividendos por accionista, multiplicando el resultado obte
 
 III. Calcularán los dividendos totales en el ejercicio a favor de cada accionista, sumando los dividendos por accionista, calculados conforme a la fracción anterior, correspondientes a cada uno de los días del ejercicio en el que dicho accionista haya tenido acciones de la sociedad de que se trate.
 
-Lo dispuesto en el primer párrafo de este artículo, también será aplicable para calcular el monto del dividendo que le corresponda a los accionistas personas morales. Aquellos fondos de inversión que hayan percibido dividendos y les proporcionen información sobre los mismos a sus accionistas personas físicas conforme a las fracciones I, II y III del presente artículo, determinarán el monto de los dividendos acumulables y el [Impuesto](articulo-1.md) acreditable para cada accionista persona física, aplicando el procedimiento que se establece en el artículo 140, párrafo primero de la Ley, en la proporción que corresponda a cada uno de sus accionistas personas físicas. Dicha información se consignará en la constancia a que se refiere dicho precepto.
+Lo dispuesto en el primer párrafo de este artículo, también será aplicable para calcular el monto del dividendo que le corresponda a los accionistas personas morales. Aquellos fondos de inversión que hayan percibido dividendos y les proporcionen información sobre los mismos a sus accionistas personas físicas conforme a las fracciones I, II y III del presente artículo, determinarán el monto de los dividendos acumulables y el [Impuesto](articulo-1.md) acreditable para cada accionista persona física, aplicando el procedimiento que se establece en el artículo [140](../../lisr/markdown/articulo-140.md), párrafo primero de la Ley, en la proporción que corresponda a cada uno de sus accionistas personas físicas. Dicha información se consignará en la constancia a que se refiere dicho precepto.

@@ -17,6 +17,6 @@ source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 
 # Artículo 138 Bis 9
 
-Sin menoscabo de lo previsto en el artículo 166 Bis 8 de la Ley, a los menores de edad se les proporcionará la información completa y veraz que por su edad, madurez y circunstancias especiales, requieran acerca de su enfermedad en situación terminal y los cuidados paliativos correspondientes.
+Sin menoscabo de lo previsto en el artículo [166 Bis 8](../../lgs/markdown/articulo-166-Bis-8.md) de la Ley, a los menores de edad se les proporcionará la información completa y veraz que por su edad, madurez y circunstancias especiales, requieran acerca de su enfermedad en situación terminal y los cuidados paliativos correspondientes.
 
 Artículo adicionado DOF 01-11-2013

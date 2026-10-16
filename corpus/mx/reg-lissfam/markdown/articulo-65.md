@@ -17,4 +17,4 @@ source_sha256: c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a
 
 # Artículo 65
 
-Los convenios relativos al servicio médico integral subrogado se celebrarán por el Instituto anualmente o plurianualmente, de conformidad con las disposiciones aplicables, a fin de establecer las bases y condiciones a las que se obligan las partes. El pago que se haga a las Instituciones con las que signe los convenios de subrogación para el servicio médico integral subrogado, no podrá ser mayor a la aportación que otorgue el Gobierno Federal para este fin, en términos del artículo 221 de la Ley.
+Los convenios relativos al servicio médico integral subrogado se celebrarán por el Instituto anualmente o plurianualmente, de conformidad con las disposiciones aplicables, a fin de establecer las bases y condiciones a las que se obligan las partes. El pago que se haga a las Instituciones con las que signe los convenios de subrogación para el servicio médico integral subrogado, no podrá ser mayor a la aportación que otorgue el Gobierno Federal para este fin, en términos del artículo [221](../../lissfam/markdown/articulo-221.md) de la Ley.

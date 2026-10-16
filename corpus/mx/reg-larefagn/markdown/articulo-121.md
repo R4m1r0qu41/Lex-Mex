@@ -35,4 +35,4 @@ VIII. No haber acumulado en los últimos 5 años más de 15 días de arresto, y
 
 IX. En el caso de las personas con la jerarquía de Generales, Jefes y Oficiales, no contar con conceptos particulares negativos en sus hojas de actuación. Fracción reformada DOF 20-03-2026
 
-Para los efectos del artículo 63 de la Ley, se considerará como sobrado celo, esmero y dedicación en el cumplimiento del deber, el desempeño de una comisión propia del servicio de manera tal que sobresalga su cumplimiento de la generalidad de las personas militares que participan en la misma. Párrafo reformado DOF 20-03-2026
+Para los efectos del artículo [63](../../larefam/markdown/articulo-63.md) de la Ley, se considerará como sobrado celo, esmero y dedicación en el cumplimiento del deber, el desempeño de una comisión propia del servicio de manera tal que sobresalga su cumplimiento de la generalidad de las personas militares que participan en la misma. Párrafo reformado DOF 20-03-2026

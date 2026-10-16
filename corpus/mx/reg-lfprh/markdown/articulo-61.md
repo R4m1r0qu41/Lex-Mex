@@ -47,4 +47,4 @@ VII. El nivel de desagregación por objeto de gasto se realizará conforme a lo 
 
 VIII. Los calendarios de presupuesto de las entidades se elaborarán a nivel de flujo de efectivo, considerando los respectivos rubros de ingresos y egresos conforme a las disposiciones aplicables y en los términos que determine la Secretaría, tomando en cuenta los criterios de equilibrio y fortalecimiento de la operación, y Fracción reformada DOF 25-04-2014
 
-IX. La Secretaría elaborará los calendarios de presupuesto de los Anexos Transversales a que se refieren los artículos 23 y 41 de la [Ley](articulo-2.md). Fracción adicionada DOF 25-04-2014
+IX. La Secretaría elaborará los calendarios de presupuesto de los Anexos Transversales a que se refieren los artículos [23](../../lfprh/markdown/articulo-23.md) y [41](../../lfprh/markdown/articulo-41.md) de la [Ley](articulo-2.md). Fracción adicionada DOF 25-04-2014

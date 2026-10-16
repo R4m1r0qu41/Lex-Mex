@@ -17,4 +17,4 @@ source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
 
 # Artículo 198
 
-Para efectos de lo previsto en el artículo 87 de la Ley, se entiende por suministro de energía, el aprovisionamiento de energía eléctrica de una Suministradora a una Usuaria Final con fines de carga de equipos de electromovilidad, en términos de las disposiciones administrativas de carácter general a que se refiere el [artículo anterior](articulo-197.md).
+Para efectos de lo previsto en el artículo [87](../../lse/markdown/articulo-87.md) de la Ley, se entiende por suministro de energía, el aprovisionamiento de energía eléctrica de una Suministradora a una Usuaria Final con fines de carga de equipos de electromovilidad, en términos de las disposiciones administrativas de carácter general a que se refiere el [artículo anterior](articulo-197.md).

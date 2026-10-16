@@ -17,4 +17,4 @@ source_sha256: cb15a70b51a87cff0f6d329d5e8a97617d71c955e46da65921037a77a83ca5f4
 
 # Artículo 16
 
-Para los efectos del artículo 19, fracción V de la Ley, los contribuyentes que transporten bebidas alcohólicas a granel deberán adherir precintos a los envases o recipientes, en todas las entradas y salidas por donde se puedan cargar o descargar dichas bebidas.
+Para los efectos del artículo [19](../../lieps/markdown/articulo-19.md), fracción V de la Ley, los contribuyentes que transporten bebidas alcohólicas a granel deberán adherir precintos a los envases o recipientes, en todas las entradas y salidas por donde se puedan cargar o descargar dichas bebidas.

@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 184
 
-Para efectos del artículo 121, fracción III de la [Ley](articulo-1.md), se consideran exposiciones internacionales aquellas demostraciones o exhibiciones privadas o públicas que organizan personas, cuya finalidad sea la venta de sus productos o servicios.
+Para efectos del artículo [121](../../ladua/markdown/articulo-121.md), fracción III de la [Ley](articulo-1.md), se consideran exposiciones internacionales aquellas demostraciones o exhibiciones privadas o públicas que organizan personas, cuya finalidad sea la venta de sus productos o servicios.
 
 Se podrán importar Mercancías para su distribución gratuita entre los asistentes o participantes de la exposición internacional, siempre que se identifiquen mediante sellos o marcas permanentes que las distingan individualmente como destinadas a dicha exposición.
 

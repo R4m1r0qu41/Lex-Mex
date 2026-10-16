@@ -23,6 +23,6 @@ I. Señalar el objeto de la liberación: repoblación, reintroducción, trasloca
 
 II. Contener el listado de especies a liberar, identificadas por nombre común y nombre científico hasta el grado de subespecie, cantidad de ejemplares, edades, proporción de sexos y la relación de marcas a utilizar.
 
-A la solicitud se anexará el proyecto a que se refieren los artículos 80 y 81 de la [Ley](articulo-2.md).
+A la solicitud se anexará el proyecto a que se refieren los artículos [80](../../lgvs/markdown/articulo-80.md) y [81](../../lgvs/markdown/articulo-81.md) de la [Ley](articulo-2.md).
 
 Las medidas de liberación que se encuentren en el plan de manejo aprobado, se entenderán autorizadas.

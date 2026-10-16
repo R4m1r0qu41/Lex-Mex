@@ -17,4 +17,4 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 49
 
-Cuando, en los términos del segundo párrafo del artículo 34 de la [Ley](articulo-1o.md), el valor normal se determine conforme al precio de mercado del país de origen, el precio de exportación deberá llevarse a la misma base.
+Cuando, en los términos del segundo párrafo del artículo [34](../../lce/markdown/articulo-34.md) de la [Ley](articulo-1o.md), el valor normal se determine conforme al precio de mercado del país de origen, el precio de exportación deberá llevarse a la misma base.

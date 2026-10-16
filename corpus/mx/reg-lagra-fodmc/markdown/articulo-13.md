@@ -15,4 +15,4 @@ source_sha256: 8f260ce1817a60db6bf98c15f8ddf05b57321d6b78c67eaf1e0b987f8bcc70b1
 
 # Artículo 13
 
-La terminación del régimen ejidal no implica la extinción de la [Unidad](articulo-3.md), por lo que deberá observarse lo dispuesto en el artículo 29 de la [Ley](articulo-3.md).
+La terminación del régimen ejidal no implica la extinción de la [Unidad](articulo-3.md), por lo que deberá observarse lo dispuesto en el artículo [29](../../lagra/markdown/articulo-29.md) de la [Ley](articulo-3.md).

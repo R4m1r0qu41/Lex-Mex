@@ -17,6 +17,6 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 102
 
-Para que proceda la reversión prevista en el artículo 86 de la Ley, los afectados deberán devolver las cantidades o bienes que recibieron por concepto de indemnización.
+Para que proceda la reversión prevista en el artículo [86](../../lapp/markdown/articulo-86.md) de la Ley, los afectados deberán devolver las cantidades o bienes que recibieron por concepto de indemnización.
 
 Las actualizaciones, intereses y cualquier rendimiento de tales cantidades quedarán a favor de los afectados, por concepto de daños y perjuicios que se les hubieren originado.

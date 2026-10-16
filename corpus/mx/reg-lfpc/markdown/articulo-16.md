@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 16
 
-La Procuraduría podrá imponer medidas precautorias con motivo del incumplimiento de las disposiciones de la Ley o de las normas oficiales mexicanas aplicables, en términos del artículo 25 BIS de la Ley. El acuerdo o el acta correspondiente en el que se imponga la medida precautoria deberá indicar la o las disposiciones que se consideren violadas o infringidas por el proveedor y los demás elementos pertinentes.
+La Procuraduría podrá imponer medidas precautorias con motivo del incumplimiento de las disposiciones de la Ley o de las normas oficiales mexicanas aplicables, en términos del artículo [25 BIS](../../lfpc/markdown/articulo-25-BIS.md) de la Ley. El acuerdo o el acta correspondiente en el que se imponga la medida precautoria deberá indicar la o las disposiciones que se consideren violadas o infringidas por el proveedor y los demás elementos pertinentes.

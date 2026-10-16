@@ -17,7 +17,7 @@ source_sha256: 50d888e53a7b0990f6d19dbab03d263e01ca7d4a4365a0c2663e03caf9f2715c
 
 # Artículo 40
 
-Para la selección de los consejeros propietarios y suplentes que representarán a las Organizaciones, la Comisión emitirá una Convocatoria en los términos de la fracción II del artículo 27 de la [Ley](articulo-2.md), la cual se publicará tanto en el Diario Oficial de la Federación, como en la página electrónica de la [Secretaría](articulo-2.md).
+Para la selección de los consejeros propietarios y suplentes que representarán a las Organizaciones, la Comisión emitirá una Convocatoria en los términos de la fracción II del artículo [27](../../lffaosc/markdown/articulo-27.md) de la [Ley](articulo-2.md), la cual se publicará tanto en el Diario Oficial de la Federación, como en la página electrónica de la [Secretaría](articulo-2.md).
 
 La Convocatoria deberá contener los requisitos de elegibilidad, los cuales se sujetarán a lo siguiente:
 

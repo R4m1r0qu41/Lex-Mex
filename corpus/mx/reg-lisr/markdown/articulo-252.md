@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 252
 
-Para efectos del artículo 151, fracción IV de la [Ley](articulo-1.md), los intereses reales efectivamente pagados en el ejercicio de que se trate, incluyendo los moratorios, derivados de créditos hipotecarios contratados con los organismos públicos federales y estatales, se podrán considerar deducibles en términos de dicho artículo.
+Para efectos del artículo [151](../../lisr/markdown/articulo-151.md), fracción IV de la [Ley](articulo-1.md), los intereses reales efectivamente pagados en el ejercicio de que se trate, incluyendo los moratorios, derivados de créditos hipotecarios contratados con los organismos públicos federales y estatales, se podrán considerar deducibles en términos de dicho artículo.

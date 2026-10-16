@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 82
 
-Para inscribirse en el Padrón de Importadores a que se refiere el artículo 59, fracción IV de la [Ley](articulo-1.md), los interesados deberán presentar ante la Autoridad Aduanera solicitud cumpliendo con los siguientes requisitos:
+Para inscribirse en el Padrón de Importadores a que se refiere el artículo [59](../../ladua/markdown/articulo-59.md), fracción IV de la [Ley](articulo-1.md), los interesados deberán presentar ante la Autoridad Aduanera solicitud cumpliendo con los siguientes requisitos:
 
 I. Estar inscrito y activo en el registro federal de contribuyentes;
 

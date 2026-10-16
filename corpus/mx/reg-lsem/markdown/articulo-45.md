@@ -17,7 +17,7 @@ source_sha256: b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844
 
 # Artículo 45
 
-El Secretario, por recomendación de la Comisión de Personal, convocará a concursos de ascenso a los rangos de Ministro, Consejero, Primer Secretario y Segundo Secretario en la rama diplomático-consular, y al de coordinador administrativo en la rama técnico-administrativa, de conformidad con los artículos 34, 37 y 38 de la Ley. La Secretaría convocará a concursos por lo menos cada dos años. Párrafo reformado DOF 02-11-2018
+El Secretario, por recomendación de la Comisión de Personal, convocará a concursos de ascenso a los rangos de Ministro, Consejero, Primer Secretario y Segundo Secretario en la rama diplomático-consular, y al de coordinador administrativo en la rama técnico-administrativa, de conformidad con los artículos [34](../../lsem/markdown/articulo-34.md), [37](../../lsem/markdown/articulo-37.md) y [38](../../lsem/markdown/articulo-38.md) de la Ley. La Secretaría convocará a concursos por lo menos cada dos años. Párrafo reformado DOF 02-11-2018
 
 La realización de los concursos estará sujeta a la disponibilidad de plazas vacantes.
 

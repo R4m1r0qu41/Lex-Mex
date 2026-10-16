@@ -17,7 +17,7 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 197
 
-De conformidad con lo establecido en el artículo 41, fracción II, inciso h) de la [Ley](articulo-2.md), el Presupuesto de Egresos comprenderá un apartado especial en el que se presenten los nuevos proyectos de infraestructura productiva de largo plazo y aquéllos que hayan sido autorizados con anterioridad.
+De conformidad con lo establecido en el artículo [41](../../lfprh/markdown/articulo-41.md), fracción II, inciso h) de la [Ley](articulo-2.md), el Presupuesto de Egresos comprenderá un apartado especial en el que se presenten los nuevos proyectos de infraestructura productiva de largo plazo y aquéllos que hayan sido autorizados con anterioridad.
 
 En dicho apartado se presentará información actualizada para cada proyecto sobre:
 

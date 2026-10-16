@@ -17,6 +17,6 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 139
 
-Al realizar la notificación y contestación mencionadas en el artículo 135 de la Ley, las partes convendrán las reglas conforme a las cuales actuará el comité de expertos, mismas que podrán encontrarse preestablecidas, como las de la Cámara Internacional de Comercio o alguna otra instancia nacional o internacional, o ser pactadas expresamente para la divergencia de que se trate.
+Al realizar la notificación y contestación mencionadas en el artículo [135](../../lapp/markdown/articulo-135.md) de la Ley, las partes convendrán las reglas conforme a las cuales actuará el comité de expertos, mismas que podrán encontrarse preestablecidas, como las de la Cámara Internacional de Comercio o alguna otra instancia nacional o internacional, o ser pactadas expresamente para la divergencia de que se trate.
 
-De no darse la contestación a que se refiere el último párrafo del artículo 135 de la Ley, se entenderá que no existe consentimiento para sujetarse al procedimiento ante el comité de expertos.
+De no darse la contestación a que se refiere el último párrafo del artículo [135](../../lapp/markdown/articulo-135.md) de la Ley, se entenderá que no existe consentimiento para sujetarse al procedimiento ante el comité de expertos.

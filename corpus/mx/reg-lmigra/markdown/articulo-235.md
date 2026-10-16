@@ -17,6 +17,6 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 235
 
-Para el caso de solicitantes del reconocimiento de la condición de refugiado y de conformidad con lo establecido en el artículo 111 de la Ley, el alojamiento podrá ampliarse, en tanto no se haya emitido resolución a su solicitud. Lo anterior, en términos de lo dispuesto por la Ley, la legislación en materia de refugiados y demás disposiciones jurídicas aplicables.
+Para el caso de solicitantes del reconocimiento de la condición de refugiado y de conformidad con lo establecido en el artículo [111](../../lmigra/markdown/articulo-111.md) de la Ley, el alojamiento podrá ampliarse, en tanto no se haya emitido resolución a su solicitud. Lo anterior, en términos de lo dispuesto por la Ley, la legislación en materia de refugiados y demás disposiciones jurídicas aplicables.
 
 Para tal fin, la autoridad migratoria emitirá un acuerdo de ampliación de término debidamente fundado y motivado, debiendo notificarlo personalmente a la persona extranjera.

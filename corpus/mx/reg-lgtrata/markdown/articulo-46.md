@@ -17,7 +17,7 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 46
 
-En cumplimiento de los artículos 90, fracción IV y 113, fracción VIII de la Ley, la Secretaría, a través de la Subsecretaría de Derechos Humanos, apoyará a las organizaciones de la sociedad civil en la creación y operación de [Albergues](articulo-2.md), Casas de Medio Camino y Refugios.
+En cumplimiento de los artículos [90](../../lgtrata/markdown/articulo-90.md), fracción IV y [113](../../lgtrata/markdown/articulo-113.md), fracción VIII de la Ley, la Secretaría, a través de la Subsecretaría de Derechos Humanos, apoyará a las organizaciones de la sociedad civil en la creación y operación de [Albergues](articulo-2.md), Casas de Medio Camino y Refugios.
 
 Para la operación de los Albergues, Casas de Medio Camino y Refugios a que se refiere el párrafo anterior, la Dirección General de Estrategias para la Atención de Derechos Humanos de la Secretaría, de acuerdo a la disponibilidad presupuestaria, podrá autorizar la entrega de recursos a las organizaciones de la sociedad civil con cargo al Fondo.
 

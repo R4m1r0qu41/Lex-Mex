@@ -17,7 +17,7 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 33
 
-Para los efectos del artículo 28, fracciones I y II del [Código](articulo-1.md), se estará a lo siguiente:
+Para los efectos del artículo [28](../../cff/markdown/articulo-28.md), fracciones I y II del [Código](articulo-1.md), se estará a lo siguiente:
 
 A. Los documentos e información que integran la contabilidad son:
 

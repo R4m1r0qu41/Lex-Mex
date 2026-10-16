@@ -17,4 +17,4 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 28
 
-En los casos en los que un extranjero con situación migratoria irregular afirme ante la instancia competente de atención a víctimas ser víctima de alguno de los delitos en materia de trata de personas y manifieste su intención de regularizar su situación migratoria, se hará del conocimiento del Instituto Nacional de Migración tal solicitud para que, de conformidad con lo establecido en el artículo 78 de la Ley, resuelva lo procedente en términos de las disposiciones jurídicas en materia migratoria.
+En los casos en los que un extranjero con situación migratoria irregular afirme ante la instancia competente de atención a víctimas ser víctima de alguno de los delitos en materia de trata de personas y manifieste su intención de regularizar su situación migratoria, se hará del conocimiento del Instituto Nacional de Migración tal solicitud para que, de conformidad con lo establecido en el artículo [78](../../lgtrata/markdown/articulo-78.md) de la Ley, resuelva lo procedente en términos de las disposiciones jurídicas en materia migratoria.

@@ -17,11 +17,11 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 137
 
-La condición de estancia de visitante por razones humanitarias prevista en el artículo 52, fracción V, de la Ley se podrá autorizar a la persona extranjera que demuestre alguno de los siguientes supuestos:
+La condición de estancia de visitante por razones humanitarias prevista en el artículo [52](../../lmigra/markdown/articulo-52.md), fracción V, de la Ley se podrá autorizar a la persona extranjera que demuestre alguno de los siguientes supuestos:
 
 I. Ser ofendido, víctima o testigo de un delito cometido en el territorio nacional, cuando dicha circunstancia sea reconocida por la autoridad competente;
 
-II. Ser niña, niño o adolescente no acompañado, en términos del artículo 74 de la Ley;
+II. Ser niña, niño o adolescente no acompañado, en términos del artículo [74](../../lmigra/markdown/articulo-74.md) de la Ley;
 
 III. Ser solicitante de asilo político o solicitante del reconocimiento de la condición de refugiado o de protección complementaria. También serán consideradas las personas extranjeras que no cuenten con documentos que permitan determinar su nacionalidad o residencia y que por ello deba seguirse un procedimiento de determinación de apátrida, o
 

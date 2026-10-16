@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 149
 
-Cuando las suspensiones se deriven de un caso fortuito o fuerza mayor no existirá responsabilidad alguna para las partes, debiendo únicamente suscribir un convenio donde se reconozca el plazo de la suspensión y las fechas de reinicio y terminación de los trabajos, sin modificar el plazo de ejecución establecido en el contrato. En caso de que los trabajos se dañen o se destruyan y requieran ser rehabilitados o repuestos, éstos deberán pagarse mediante la celebración de un convenio en los términos del artículo 59 de la [Ley](articulo-2.md), siempre que no se trate de deficiencias o incumplimientos anteriores imputables al contratista.
+Cuando las suspensiones se deriven de un caso fortuito o fuerza mayor no existirá responsabilidad alguna para las partes, debiendo únicamente suscribir un convenio donde se reconozca el plazo de la suspensión y las fechas de reinicio y terminación de los trabajos, sin modificar el plazo de ejecución establecido en el contrato. En caso de que los trabajos se dañen o se destruyan y requieran ser rehabilitados o repuestos, éstos deberán pagarse mediante la celebración de un convenio en los términos del artículo [59](../../lopsrm/markdown/articulo-59.md) de la [Ley](articulo-2.md), siempre que no se trate de deficiencias o incumplimientos anteriores imputables al contratista.
 
 Cuando las suspensiones se deriven de un caso fortuito o fuerza mayor sólo será procedente el pago de gastos no recuperables por los conceptos siguientes: I. La plantilla de veladores y personal de conservación y vigilancia de las instalaciones y obras, asignados durante la suspensión;
 

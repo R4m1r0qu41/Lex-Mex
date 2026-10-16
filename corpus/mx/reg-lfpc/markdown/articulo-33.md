@@ -17,4 +17,4 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 33
 
-El proveedor deberá comunicar al consumidor que tiene derecho a consultar la información a que se refiere el artículo 73 BIS de la Ley y, para tal efecto, la pondrá efectivamente a su disposición, previamente a que de cualquier manera asuma el compromiso de adquirir el inmueble correspondiente.
+El proveedor deberá comunicar al consumidor que tiene derecho a consultar la información a que se refiere el artículo [73 BIS](../../lfpc/markdown/articulo-73-BIS.md) de la Ley y, para tal efecto, la pondrá efectivamente a su disposición, previamente a que de cualquier manera asuma el compromiso de adquirir el inmueble correspondiente.

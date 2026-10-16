@@ -17,7 +17,7 @@ source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
 
 # Artículo 31 ter
 
-Para el cumplimiento de las obligaciones derivadas del artículo 92 bis de la [Ley](articulo-2o.md), se estará a lo siguiente:
+Para el cumplimiento de las obligaciones derivadas del artículo [92 bis](../../lfda/markdown/articulo-92-bis.md) de la [Ley](articulo-2o.md), se estará a lo siguiente:
 
 I. Los subastadores, titulares de establecimientos mercantiles, comerciantes o agentes mercantiles mantendrán en depósito la cantidad retenida hasta entregarla al autor, sus derechohabientes o a la sociedad de gestión colectiva correspondiente, o al momento de hacer la consignación respectiva ante autoridad competente.
 

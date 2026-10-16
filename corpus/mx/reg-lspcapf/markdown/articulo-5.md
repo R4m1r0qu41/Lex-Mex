@@ -21,7 +21,7 @@ I. Eventuales:
 
 a) Los de primer nivel de ingreso que se encuentran en su primer año de desempeño;
 
-b) Los nombrados con motivo de los casos excepcionales que establece el artículo 34 de la Ley;
+b) Los nombrados con motivo de los casos excepcionales que establece el artículo [34](../../lspcapf/markdown/articulo-34.md) de la Ley;
 
 c) Los que ocupen temporalmente un puesto del Sistema por virtud de un convenio, y
 
@@ -31,4 +31,4 @@ a) Los que ingresan al Sistema, mediante concurso público y abierto, con excepc
 
 b) Los que ingresan al Sistema, cuando han obtenido su nombramiento al acreditar cumplir los requisitos y las evaluaciones que se hayan establecido para ese propósito.
 
-Los servidores públicos de carrera eventuales a que se refiere la fracción I, inciso a, de este artículo, tienen los derechos a que se refiere el artículo 10 de la Ley, excepto los previstos en sus fracciones I, VII y VIII, los cuales adquirirán en caso de que se otorgue el nombramiento como titular. Párrafo adicionado DOF 04-01-2024
+Los servidores públicos de carrera eventuales a que se refiere la fracción I, inciso a, de este artículo, tienen los derechos a que se refiere el artículo [10](../../lspcapf/markdown/articulo-10.md) de la Ley, excepto los previstos en sus fracciones I, VII y VIII, los cuales adquirirán en caso de que se otorgue el nombramiento como titular. Párrafo adicionado DOF 04-01-2024

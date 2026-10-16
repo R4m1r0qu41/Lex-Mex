@@ -17,7 +17,7 @@ source_sha256: 23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614
 
 # Artículo 73
 
-El aseguramiento de bienes, con base en lo dispuesto por los artículos 42 y 45 de la Ley, se sujetará a lo siguiente:
+El aseguramiento de bienes, con base en lo dispuesto por los artículos [42](../../lfvv/markdown/articulo-42.md) y [45](../../lfvv/markdown/articulo-45.md) de la Ley, se sujetará a lo siguiente:
 
 I.- El responsable de aplicar la medida provisional señalará los bienes objeto del aseguramiento, levantará el inventario y designará a los depositarios;
 

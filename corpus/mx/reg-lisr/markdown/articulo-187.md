@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 187
 
-Para efectos de los artículos 101, fracción I y 102, párrafo tercero de la [Ley](articulo-1.md), se entenderá que los ingresos son efectivamente percibidos en el momento en el que se consuma la prescripción, conforme a la legislación aplicable al acto jurídico del que proviene el derecho del acreedor, no siendo necesaria la declaratoria de procedencia por parte de la autoridad correspondiente.
+Para efectos de los artículos [101](../../lisr/markdown/articulo-101.md), fracción I y [102](../../lisr/markdown/articulo-102.md), párrafo tercero de la [Ley](articulo-1.md), se entenderá que los ingresos son efectivamente percibidos en el momento en el que se consuma la prescripción, conforme a la legislación aplicable al acto jurídico del que proviene el derecho del acreedor, no siendo necesaria la declaratoria de procedencia por parte de la autoridad correspondiente.

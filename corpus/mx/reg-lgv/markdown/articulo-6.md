@@ -23,7 +23,7 @@ I. El procedimiento de atención, asistencia y protección a las víctimas;
 
 II. Las áreas y unidades administrativas de la Comisión Ejecutiva a cargo de la atención, asistencia y protección a las víctimas;
 
-III. Las acciones necesarias para la oportuna y eficaz reparación integral, y IV. El Modelo de Atención Integral en Salud con servicios subrogados, en términos del artículo 32 de la Ley.
+III. Las acciones necesarias para la oportuna y eficaz reparación integral, y IV. El Modelo de Atención Integral en Salud con servicios subrogados, en términos del artículo [32](../../lgv/markdown/articulo-32.md) de la Ley.
 
 La Comisión Ejecutiva, para la elaboración del Modelo Integral de Atención a Víctimas, deberá recabar la opinión de las dependencias y entidades de la Administración Pública Federal que por su ámbito de competencia, brinden atención, asistencia y protección a las víctimas, así como de la Procuraduría General de la República.
 

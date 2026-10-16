@@ -17,7 +17,7 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 91
 
-La garantía de cumplimiento de las obligaciones derivadas del contrato no podrá ser menor al diez por ciento del monto total autorizado al contrato en cada ejercicio, sin perjuicio de lo dispuesto en el artículo 48 de la [Ley](articulo-2.md). La garantía de cumplimiento se hará efectiva por el monto total de la obligación garantizada salvo que, por la naturaleza de las obras y servicios, en el contrato se haya estipulado la divisibilidad de la misma.
+La garantía de cumplimiento de las obligaciones derivadas del contrato no podrá ser menor al diez por ciento del monto total autorizado al contrato en cada ejercicio, sin perjuicio de lo dispuesto en el artículo [48](../../lopsrm/markdown/articulo-48.md) de la [Ley](articulo-2.md). La garantía de cumplimiento se hará efectiva por el monto total de la obligación garantizada salvo que, por la naturaleza de las obras y servicios, en el contrato se haya estipulado la divisibilidad de la misma.
 
 La garantía de cumplimiento deberá ser entregada a la dependencia o entidad dentro de los quince días naturales siguientes a la fecha en que el licitante a quien se le haya adjudicado el contrato reciba la notificación del fallo, pero invariablemente antes de la firma del contrato.
 

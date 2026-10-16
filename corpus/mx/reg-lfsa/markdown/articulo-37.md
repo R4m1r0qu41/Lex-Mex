@@ -17,4 +17,4 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 37
 
-Para los efectos del artículo 24 de la [Ley](articulo-2.md), la Secretaría identificará las mercancías que representen un riesgo zoosanitario y cuya importación está sujeta a la inspección y expedición del certificado zoosanitario para importación.
+Para los efectos del artículo [24](../../lfsa/markdown/articulo-24.md) de la [Ley](articulo-2.md), la Secretaría identificará las mercancías que representen un riesgo zoosanitario y cuya importación está sujeta a la inspección y expedición del certificado zoosanitario para importación.

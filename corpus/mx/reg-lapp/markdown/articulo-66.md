@@ -17,7 +17,7 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 # Artículo 66
 
-Además de los elementos señalados en el artículo 44 de la Ley, la convocatoria deberá contener:
+Además de los elementos señalados en el artículo [44](../../lapp/markdown/articulo-44.md) de la Ley, la convocatoria deberá contener:
 
 I. Las páginas web en las que podrán consultarse la propia convocatoria y demás datos del [Concurso](articulo-11.md), y
 

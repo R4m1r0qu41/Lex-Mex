@@ -17,9 +17,9 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 138
 
-La condición de estancia de residente temporal prevista en el artículo 52, fracción VII, de la Ley se podrá autorizar a la persona extranjera que demuestre alguno de los siguientes supuestos:
+La condición de estancia de residente temporal prevista en el artículo [52](../../lmigra/markdown/articulo-52.md), fracción VII, de la Ley se podrá autorizar a la persona extranjera que demuestre alguno de los siguientes supuestos:
 
-I. Tener vínculo con mexicano o persona extranjera residente temporal o permanente, conforme a las hipótesis de unidad familiar en términos de lo previsto en los artículos 55 y 56 de la Ley;
+I. Tener vínculo con mexicano o persona extranjera residente temporal o permanente, conforme a las hipótesis de unidad familiar en términos de lo previsto en los artículos [55](../../lmigra/markdown/articulo-55.md) y [56](../../lmigra/markdown/articulo-56.md) de la Ley;
 
 II. Tener oferta de empleo en la que se indique la ocupación, temporalidad requerida, lugar de trabajo y los datos de la constancia de inscripción del empleador; III. Tener comprobante de la inscripción en el Registro Federal de Contribuyentes, en caso de que pretenda realizar actividades remuneradas que no impliquen oferta de empleo, conforme a los datos y documentos previstos en las disposiciones administrativas de carácter general que emita la Secretaría y que serán publicadas en el Diario Oficial de la Federación;
 

@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 169
 
-Los procesos de transformación, elaboración o reparación de las Mercancías importadas temporalmente a que se refiere el tercer párrafo del artículo 112 de la [Ley](articulo-1.md), podrán realizarse por persona distinta a la empresa con programa de manufactura, maquila y de servicios de exportación autorizado por la Secretaría de Economía, siempre que se presente aviso al [SAT](articulo-1.md), en Documento Electrónico o Digital, en el que se señale y se acompañe la documentación siguiente: Párrafo reformado DOF 23-02-2026
+Los procesos de transformación, elaboración o reparación de las Mercancías importadas temporalmente a que se refiere el tercer párrafo del artículo [112](../../ladua/markdown/articulo-112.md) de la [Ley](articulo-1.md), podrán realizarse por persona distinta a la empresa con programa de manufactura, maquila y de servicios de exportación autorizado por la Secretaría de Economía, siempre que se presente aviso al [SAT](articulo-1.md), en Documento Electrónico o Digital, en el que se señale y se acompañe la documentación siguiente: Párrafo reformado DOF 23-02-2026
 
 I. La denominación o razón social, registro federal de contribuyentes y número del programa de la empresa que transfiere, así como el domicilio de la planta o bodega de origen donde se encuentran las Mercancías a transferir;
 
@@ -29,4 +29,4 @@ IV. Copia del oficio de autorización que al efecto expida la Secretaría de Eco
 
 V. La demás que determine el SAT mediante Reglas.
 
-La documentación señalada en el párrafo anterior, también deberá incluirse en el expediente electrónico que acredite la operación, de conformidad con el artículo 112, último párrafo, de la Ley. Párrafo adicionado DOF 23-02-2026
+La documentación señalada en el párrafo anterior, también deberá incluirse en el expediente electrónico que acredite la operación, de conformidad con el artículo [112](../../ladua/markdown/articulo-112.md), último párrafo, de la Ley. Párrafo adicionado DOF 23-02-2026

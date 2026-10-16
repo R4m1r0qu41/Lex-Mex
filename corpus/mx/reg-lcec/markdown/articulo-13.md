@@ -23,6 +23,6 @@ I. Copia certificada del acta constitutiva del Grupo Promotor, y
 
 II. Copia certificada del instrumento expedido por fedatario público por el que se faculte al representante del Grupo Promotor a actuar en nombre de éste.
 
-Asimismo, deberán acompañar los documentos que acrediten el cumplimiento de los requisitos previstos de manera específica en los artículos 13 o 14 de la [Ley](articulo-2.md).
+Asimismo, deberán acompañar los documentos que acrediten el cumplimiento de los requisitos previstos de manera específica en los artículos [13](../../lcec/markdown/articulo-13.md) o [14](../../lcec/markdown/articulo-14.md) de la [Ley](articulo-2.md).
 
 Para el caso de que la solicitud corresponda a una Cámara de Comercio, Servicios y Turismo adicionalmente deberán presentarse los documentos oficiales que acrediten que en la circunscripción propuesta se encuentra establecida una población superior a los doscientos mil habitantes y que existan por lo menos dos mil quinientos comerciantes.

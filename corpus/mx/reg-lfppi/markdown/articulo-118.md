@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 118
 
-Para los efectos del último párrafo del artículo 231 de la Ley, el Instituto analizará la solicitud de corrección y las constancias que integran el expediente. El Instituto podrá corregir errores evidentes o de forma en el título, de oficio o a petición de la persona interesada.
+Para los efectos del último párrafo del artículo [231](../../lfppi/markdown/articulo-231.md) de la Ley, el Instituto analizará la solicitud de corrección y las constancias que integran el expediente. El Instituto podrá corregir errores evidentes o de forma en el título, de oficio o a petición de la persona interesada.

@@ -37,7 +37,7 @@ b) Que el licitante tenga capacidad para pagar sus obligaciones, y
 
 c) El grado en que el licitante depende del endeudamiento y la rentabilidad de la empresa, y
 
-VII. En su caso, el grado de cumplimiento de los contratos celebrados por el licitante con dependencias o entidades, conforme a los parámetros establecidos en la convocatoria a la licitación pública, para efectos de lo dispuesto en el último párrafo del artículo 36 de la [Ley](articulo-2.md).
+VII. En su caso, el grado de cumplimiento de los contratos celebrados por el licitante con dependencias o entidades, conforme a los parámetros establecidos en la convocatoria a la licitación pública, para efectos de lo dispuesto en el último párrafo del artículo [36](../../lopsrm/markdown/articulo-36.md) de la [Ley](articulo-2.md).
 
 De conformidad con las condiciones de pago, se deberán verificar, además de lo previsto en el párrafo anterior, los siguientes aspectos:
 

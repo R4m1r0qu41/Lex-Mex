@@ -37,4 +37,4 @@ Donde: REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFI
 
 El significado de las demás variables, constantes y símbolos son señalados en los artículos [36](articulo-36.md) y [37](articulo-37.md) de este Reglamento.
 
-Una vez obtenido el grado de siniestralidad, se sumará el 0.005 que es la prima mínima de riesgo (M), para determinar la prima a cubrir por el seguro de riesgos de trabajo a que se refiere el artículo 72 de la Ley.
+Una vez obtenido el grado de siniestralidad, se sumará el 0.005 que es la prima mínima de riesgo (M), para determinar la prima a cubrir por el seguro de riesgos de trabajo a que se refiere el artículo [72](../../lss/markdown/articulo-72.md) de la Ley.

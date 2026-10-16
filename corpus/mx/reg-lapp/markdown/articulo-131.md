@@ -19,4 +19,4 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 Las denuncias e informes que se presenten a la [Función Pública](articulo-11.md) en términos del artículo [130](articulo-130.md) inmediato anterior de este Reglamento deberán acompañarse de toda la documentación y demás elementos probatorios con que se cuente para sustentar la presunta infracción.
 
-En el supuesto a que se refiere el artículo 130, fracción II, de la Ley, las dependencias y entidades federales remitirán a la Función Pública la documentación que acredite el monto de los daños y perjuicios causados con motivo de la presunta infracción, con el desglose y especificación de los conceptos de afectación de que se trate.
+En el supuesto a que se refiere el artículo [130](../../lapp/markdown/articulo-130.md), fracción II, de la Ley, las dependencias y entidades federales remitirán a la Función Pública la documentación que acredite el monto de los daños y perjuicios causados con motivo de la presunta infracción, con el desglose y especificación de los conceptos de afectación de que se trate.

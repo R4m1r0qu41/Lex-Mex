@@ -17,4 +17,4 @@ source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 
 # Artículo 5
 
-Los organismos de seguridad social que presten servicios para la atención, cuidado y desarrollo integral infantil, deberán observar lo dispuesto en la Ley y el presente Reglamento, además de cumplir con sus leyes específicas y régimen interno, las cuales tendrán preeminencia en términos del artículo 3 de la Ley.
+Los organismos de seguridad social que presten servicios para la atención, cuidado y desarrollo integral infantil, deberán observar lo dispuesto en la Ley y el presente Reglamento, además de cumplir con sus leyes específicas y régimen interno, las cuales tendrán preeminencia en términos del artículo [3](../../lgpsacdii/markdown/articulo-3.md) de la Ley.

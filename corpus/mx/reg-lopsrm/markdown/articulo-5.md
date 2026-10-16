@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 5
 
-Para efectos de lo previsto por el sexto párrafo del artículo 1 de la [Ley](articulo-2.md), los proyectos de infraestructura señalados en el mismo, se refieren a los proyectos de infraestructura productiva de largo plazo que contemplan el segundo párrafo del artículo [32](../../lfprh/markdown/articulo-32.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el artículo 18 de la Ley General de Deuda Pública.
+Para efectos de lo previsto por el sexto párrafo del artículo [1](../../lopsrm/markdown/articulo-1.md) de la [Ley](articulo-2.md), los proyectos de infraestructura señalados en el mismo, se refieren a los proyectos de infraestructura productiva de largo plazo que contemplan el segundo párrafo del artículo [32](../../lfprh/markdown/articulo-32.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el artículo 18 de la Ley General de Deuda Pública.

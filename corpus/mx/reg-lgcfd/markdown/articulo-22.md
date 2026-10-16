@@ -17,6 +17,6 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 # Artículo 22
 
-Con objeto de garantizar el acceso a los programas de desarrollo en materia de Deporte que consignan los artículos 2, fracción XI; 30, fracción XXVIII, y 41, fracción III, de la Ley, la CONADE promoverá anualmente un conjunto de Eventos Deportivos integrados en un sistema nacional de competencias, en el marco del SINADE, que permita identificar a los mejores [Deportistas](articulo-2.md) del país por medio de procesos selectivos interinstitucionales, delegacionales, municipales, distritales, estatales, regionales y nacional, según corresponda.
+Con objeto de garantizar el acceso a los programas de desarrollo en materia de Deporte que consignan los artículos [2](../../lgcfd/markdown/articulo-2.md), fracción XI; [30](../../lgcfd/markdown/articulo-30.md), fracción XXVIII, y [41](../../lgcfd/markdown/articulo-41.md), fracción III, de la Ley, la CONADE promoverá anualmente un conjunto de Eventos Deportivos integrados en un sistema nacional de competencias, en el marco del SINADE, que permita identificar a los mejores [Deportistas](articulo-2.md) del país por medio de procesos selectivos interinstitucionales, delegacionales, municipales, distritales, estatales, regionales y nacional, según corresponda.
 
 Los mecanismos, disciplinas, categorías, tiempos, formatos y procedimientos para la celebración de estos Eventos Deportivos serán emitidos por la CONADE a propuesta del SINADE.

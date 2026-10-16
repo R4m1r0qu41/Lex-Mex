@@ -17,4 +17,4 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 # Artículo 179
 
-En el procedimiento para la determinación de los ajustes de costos previsto en la fracción I del artículo 57 de la [Ley](articulo-2.md), para la determinación de los ajustes de costos se deberán precisar las cantidades que se encuentran pendientes de ejecutar, conforme al programa de ejecución convenido a partir del inicio del periodo en el cual se produzca el incremento en los costos.
+En el procedimiento para la determinación de los ajustes de costos previsto en la fracción I del artículo [57](../../lopsrm/markdown/articulo-57.md) de la [Ley](articulo-2.md), para la determinación de los ajustes de costos se deberán precisar las cantidades que se encuentran pendientes de ejecutar, conforme al programa de ejecución convenido a partir del inicio del periodo en el cual se produzca el incremento en los costos.

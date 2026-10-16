@@ -17,4 +17,4 @@ source_sha256: 9ff708994e8bad54142e90da50dd0ffe7c58b739b77d89c5c31a5162abfb1429
 
 # Artículo 50
 
-Los [Establecimientos de Salud](articulo-2.md) en términos del artículo 315 de la [Ley](articulo-2.md), sólo podrán efectuar los actos que expresamente determine la autorización sanitaria correspondiente, en los términos que establezcan la Ley, este Reglamento y demás disposiciones jurídicas aplicables.
+Los [Establecimientos de Salud](articulo-2.md) en términos del artículo [315](../../lgs/markdown/articulo-315.md) de la [Ley](articulo-2.md), sólo podrán efectuar los actos que expresamente determine la autorización sanitaria correspondiente, en los términos que establezcan la Ley, este Reglamento y demás disposiciones jurídicas aplicables.

@@ -17,7 +17,7 @@ source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c
 
 # Artículo 30
 
-Para los efectos del último párrafo del artículo 32 de la Ley, deberá entenderse como diagnóstico publicitario, a la herramienta preventiva mediante la cual se analiza la publicidad que someten a consulta los proveedores, previo a su difusión, por cualquier medio, emitiendo una opinión no vinculante, es decir, no constituyen ningún tipo de autorización, permiso o visto bueno para el cumplimiento de las disposiciones legales en materia de publicidad.
+Para los efectos del último párrafo del artículo [32](../../lfpc/markdown/articulo-32.md) de la Ley, deberá entenderse como diagnóstico publicitario, a la herramienta preventiva mediante la cual se analiza la publicidad que someten a consulta los proveedores, previo a su difusión, por cualquier medio, emitiendo una opinión no vinculante, es decir, no constituyen ningún tipo de autorización, permiso o visto bueno para el cumplimiento de las disposiciones legales en materia de publicidad.
 
 La solicitud podrá realizarse por escrito o por medios electrónicos, ópticos o de cualquier otra tecnología y deberá cumplir con los siguientes requisitos:
 

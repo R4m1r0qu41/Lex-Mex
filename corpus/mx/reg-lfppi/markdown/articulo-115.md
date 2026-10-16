@@ -17,4 +17,4 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 115
 
-El examen a que se refiere el primer párrafo del artículo 225 de la Ley, consistirá en un examen de forma de la solicitud, en donde el Instituto analizará si ésta y la documentación exhibida cumplen con los requisitos legales y reglamentarios.
+El examen a que se refiere el primer párrafo del artículo [225](../../lfppi/markdown/articulo-225.md) de la Ley, consistirá en un examen de forma de la solicitud, en donde el Instituto analizará si ésta y la documentación exhibida cumplen con los requisitos legales y reglamentarios.

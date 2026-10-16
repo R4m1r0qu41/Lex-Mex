@@ -17,4 +17,4 @@ source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 
 # Artículo 99
 
-El otorgamiento de las [Asignaciones](articulo-4.md) a [Entidades](articulo-4.md), así como su terminación estará sujeto a lo establecido en el artículo 27 de la [Ley](articulo-4.md).
+El otorgamiento de las [Asignaciones](articulo-4.md) a [Entidades](articulo-4.md), así como su terminación estará sujeto a lo establecido en el artículo [27](../../lfzee/markdown/articulo-27.md) de la [Ley](articulo-4.md).

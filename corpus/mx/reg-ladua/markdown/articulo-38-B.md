@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 38-B
 
-Se podrán establecer mediante Reglas facilidades en la presentación del trámite relativo a la prórroga de la autorización a que se refiere el artículo 88 bis, cuarto párrafo, de la [Ley](articulo-1.md).
+Se podrán establecer mediante Reglas facilidades en la presentación del trámite relativo a la prórroga de la autorización a que se refiere el artículo [88 bis](../../ladua/markdown/articulo-88-bis.md), cuarto párrafo, de la [Ley](articulo-1.md).
 
 Las facilidades a que se refiere el párrafo anterior serán aplicables únicamente si los interesados cumplen con los siguientes requisitos:
 

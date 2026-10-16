@@ -17,4 +17,4 @@ source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
 
 # Artículo 64
 
-Para los efectos del artículo 58-A, fracción III del [Código](articulo-1.md), se entenderá que se trata de pagos al extranjero, cuando el beneficiario de los mismos sea un residente en el extranjero sin establecimiento permanente en México, o que teniéndolo, el ingreso no sea atribuible a éste.
+Para los efectos del artículo [58-A](../../cff/markdown/articulo-58-A.md), fracción III del [Código](articulo-1.md), se entenderá que se trata de pagos al extranjero, cuando el beneficiario de los mismos sea un residente en el extranjero sin establecimiento permanente en México, o que teniéndolo, el ingreso no sea atribuible a éste.

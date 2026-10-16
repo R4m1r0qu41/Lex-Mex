@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 244
 
-Para efectos del artículo 147, fracción V de la [Ley](articulo-1.md), se entenderá que se cumple con el requisito de que las deducciones estén debidamente registradas en contabilidad inclusive cuando se lleven en cuentas de orden.
+Para efectos del artículo [147](../../lisr/markdown/articulo-147.md), fracción V de la [Ley](articulo-1.md), se entenderá que se cumple con el requisito de que las deducciones estén debidamente registradas en contabilidad inclusive cuando se lleven en cuentas de orden.

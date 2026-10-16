@@ -21,10 +21,10 @@ De ser procedente, el contrato también deberá contener los términos y condici
 
 I. La condición suspensiva a que se refiere el artículo [35](../../lfprh/markdown/articulo-35.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; Fracción reformada DOF 31-10-2014
 
-II. El pago de las prestaciones a que se refiere el artículo 100 de la Ley, en los supuestos que dicho artículo establece;
+II. El pago de las prestaciones a que se refiere el artículo [100](../../lapp/markdown/articulo-100.md) de la Ley, en los supuestos que dicho artículo establece;
 
-III. La posibilidad de la subcontratación de la ejecución de la obra o de la prestación de los servicios, conforme a lo dispuesto en el artículo 101 de la Ley;
+III. La posibilidad de la subcontratación de la ejecución de la obra o de la prestación de los servicios, conforme a lo dispuesto en el artículo [101](../../lapp/markdown/articulo-101.md) de la Ley;
 
-IV. La ejecución y uso, en su caso, de instalaciones para la realización de actividades complementarias, comerciales o de otra naturaleza, previstas en el artículo 109 de la Ley, y
+IV. La ejecución y uso, en su caso, de instalaciones para la realización de actividades complementarias, comerciales o de otra naturaleza, previstas en el artículo [109](../../lapp/markdown/articulo-109.md) de la Ley, y
 
-V. Los requisitos que deberán cumplir los integrantes del comité de expertos, a que se refieren los artículos 134 y siguientes de la Ley.
+V. Los requisitos que deberán cumplir los integrantes del comité de expertos, a que se refieren los artículos [134](../../lapp/markdown/articulo-134.md) y siguientes de la Ley.

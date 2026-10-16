@@ -17,7 +17,7 @@ source_sha256: bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812
 
 # Artículo 54-A
 
-Para efectos del artículo 15, fracción IV, de la [Ley](articulo-1.md), se observará lo siguiente:
+Para efectos del artículo [15](../../ladua/markdown/articulo-15.md), fracción IV, de la [Ley](articulo-1.md), se observará lo siguiente:
 
 I. Tratándose de las Mercancías embargadas por las Autoridades Aduaneras, los costos por los servicios del recinto fiscalizado serán a cargo de sus propietarios o consignatarios, a partir de que surta efectos la resolución de la Autoridad Aduanera que ponga a su disposición las Mercancías.
 

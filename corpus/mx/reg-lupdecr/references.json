@@ -1,6 +1,43 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:10:reference:163-164:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:10",
+    "source_span": "9",
+    "start_char": 163,
+    "end_char": 164,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "target_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:9",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 134,
+        "end_char": 149
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:12:reference:1002-1003:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:12",
+    "source_span": "9",
+    "start_char": 1002,
+    "end_char": 1003,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "target_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:9",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:2:reference:94-95:3:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:2",
     "source_span": "3",
@@ -8,6 +45,51 @@
     "end_char": 95,
     "target_instrument_id": "urn:lex-mx:federal:statute:lupdecr",
     "target_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:5:reference:44-45:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:5",
+    "source_span": "8",
+    "start_char": 44,
+    "end_char": 45,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "target_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:6:reference:212-213:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:6",
+    "source_span": "8",
+    "start_char": 212,
+    "end_char": 213,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "target_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:7:reference:215-216:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:7",
+    "source_span": "8",
+    "start_char": 215,
+    "end_char": 216,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "target_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:8",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -68,6 +150,21 @@
         "end_char": 3053
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:8:reference:31-33:10:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:8",
+    "source_span": "10",
+    "start_char": 31,
+    "end_char": 33,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+    "target_provision_id": "urn:lex-mx:federal:statute:lupdecr:article:10",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

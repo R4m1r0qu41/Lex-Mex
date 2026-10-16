@@ -33,7 +33,7 @@ VI. Elaborar el presupuesto operativo de la Coordinación Ejecutiva Nacional par
 
 VII. Elaborar y proponer para su aprobación a la Junta de Gobierno, los manuales y protocolos de las Medidas. En la elaboración la Coordinación Ejecutiva Nacional deberá utilizar un procedimiento participativo que involucre a Periodistas, Defensores de Derechos Humanos e instancias competentes;
 
-VIII. Celebrar, en términos del artículo 8, fracción VI de la Ley, convenios de cooperación con las entidades federativas para hacer efectivas las medidas previstas en el Mecanismo para garantizar la vida, integridad, libertad y seguridad de las personas defensoras de derechos humanos y periodistas;
+VIII. Celebrar, en términos del artículo [8](../../lppddhp/markdown/articulo-8.md), fracción VI de la Ley, convenios de cooperación con las entidades federativas para hacer efectivas las medidas previstas en el Mecanismo para garantizar la vida, integridad, libertad y seguridad de las personas defensoras de derechos humanos y periodistas;
 
 IX. Celebrar convenios y acuerdos con dependencias, entidades, instituciones públicas o privadas y demás organismos que resulten convenientes para el cumplimiento de los objetivos del Mecanismo;
 

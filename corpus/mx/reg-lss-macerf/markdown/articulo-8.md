@@ -33,6 +33,6 @@ VI. Número de días laborados;
 
 VII. Duración de la jornada: completa o reducida, y
 
-VIII. Tratándose de los patrones a los que se refiere la fracción VI del artículo 15 de la Ley, a los datos anteriores deberán agregarse los que permitan identificar la ubicación de la obra.
+VIII. Tratándose de los patrones a los que se refiere la fracción VI del artículo [15](../../lss/markdown/articulo-15.md) de la Ley, a los datos anteriores deberán agregarse los que permitan identificar la ubicación de la obra.
 
 La constancia a que se refiere este artículo deberá ser entregada a los trabajadores, de acuerdo a los periodos de pago de salario establecidos.
