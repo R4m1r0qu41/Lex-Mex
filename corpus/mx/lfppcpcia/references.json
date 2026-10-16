@@ -1,0 +1,238 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:article:1:reference:334-335:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:1",
+    "source_span": "1",
+    "start_char": 334,
+    "end_char": 335,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:1",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo décimo",
+        "start_char": 349,
+        "end_char": 363
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XXV",
+        "start_char": 379,
+        "end_char": 391
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:article:14:reference:58-75:13:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:14",
+    "source_span": "artículo anterior",
+    "start_char": 58,
+    "end_char": 75,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:13",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:article:26:reference:732-734:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:26",
+    "source_span": "27",
+    "start_char": 732,
+    "end_char": 734,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:27",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:article:3:reference:4372-4373:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "source_span": "2",
+    "start_char": 4372,
+    "end_char": 4373,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:2",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafos segundo, tercero y cuarto",
+        "start_char": 4324,
+        "end_char": 4358
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:article:34:reference:825-826:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:34",
+    "source_span": "1",
+    "start_char": 825,
+    "end_char": 826,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:article:42:reference:347-349:73:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:42",
+    "source_span": "73",
+    "start_char": 347,
+    "end_char": 349,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:73",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XXV",
+        "start_char": 351,
+        "end_char": 363
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:article:68:reference:29-46:67:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:68",
+    "source_span": "artículo anterior",
+    "start_char": 29,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:67",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:article:70:reference:33-50:69:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:70",
+    "source_span": "artículo anterior",
+    "start_char": 33,
+    "end_char": 50,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:69",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:article:70:reference:419-436:69:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:70",
+    "source_span": "artículo anterior",
+    "start_char": 419,
+    "end_char": 436,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:69",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 403,
+        "end_char": 414
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:article:75:reference:76-78:73:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:75",
+    "source_span": "73",
+    "start_char": 76,
+    "end_char": 78,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:73",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II y III",
+        "start_char": 43,
+        "end_char": 62
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:article:75:reference:395-397:74:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:75",
+    "source_span": "74",
+    "start_char": 395,
+    "end_char": 397,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:74",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:article:75:reference:564-566:73:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:75",
+    "source_span": "73",
+    "start_char": 564,
+    "end_char": 566,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:73",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:article:75:reference:569-571:74:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:75",
+    "source_span": "74",
+    "start_char": 569,
+    "end_char": 571,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:74",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:linpi",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Instituto Nacional de los Pueblos Indígenas",
+  "short_name": "LINPI",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2018-12-04",
+  "latest_reform_date": "2023-12-29",
+  "retrieved_at": "2026-10-14T07:38:02.002314Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINPI.pdf",
+  "source_sha256": "f9c395f4ea69c08016d20173667f4c2dd5de0b2898bb119d806e8274dca6dd98",
+  "extracted_text_sha256": "84ec7e033393b12bb852869184e878f9778cf30e6062bcb969b82708755c8af2",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

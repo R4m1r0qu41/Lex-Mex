@@ -1,0 +1,211 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "term": "Asesor Jurídico",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 246,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "term": "Asesoría Jurídica",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "II",
+    "start_char": 246,
+    "end_char": 402,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "term": "Comisiones de víctimas",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "III",
+    "start_char": 402,
+    "end_char": 545,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "term": "Comisión Ejecutiva",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "IV",
+    "start_char": 545,
+    "end_char": 613,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:compensacion",
+    "term": "Compensación",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "V",
+    "start_char": 613,
+    "end_char": 745,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:dano",
+    "term": "Daño",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "VI",
+    "start_char": 745,
+    "end_char": 1437,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:delito",
+    "term": "Delito",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "VII",
+    "start_char": 1437,
+    "end_char": 1533,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:fondo-estatal",
+    "term": "Fondo estatal",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "IX",
+    "start_char": 1584,
+    "end_char": 1730,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:hecho-victimizante",
+    "term": "Hecho victimizante",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "X",
+    "start_char": 1730,
+    "end_char": 2201,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:plan",
+    "term": "Plan",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "XII",
+    "start_char": 2201,
+    "end_char": 2303,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "term": "Programa",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "XIII",
+    "start_char": 2303,
+    "end_char": 2408,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:procedimiento",
+    "term": "Procedimiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "XIV",
+    "start_char": 2408,
+    "end_char": 2546,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "term": "Recursos de Ayuda",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "XV",
+    "start_char": 2546,
+    "end_char": 2878,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "term": "Registro",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "XVI",
+    "start_char": 2878,
+    "end_char": 3049,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "XVII",
+    "start_char": 3049,
+    "end_char": 3156,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "term": "Sistema",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "XVIII",
+    "start_char": 3156,
+    "end_char": 3260,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "term": "Víctima",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "XIX",
+    "start_char": 3260,
+    "end_char": 3489,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:victima-potencial",
+    "term": "Víctima potencial",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "XX",
+    "start_char": 3489,
+    "end_char": 3757,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:term:violacion-de-derechos-humanos",
+    "term": "Violación de derechos humanos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "fraction": "XXI",
+    "start_char": 3757,
+    "end_char": 4371,
+    "basis": "express_definition"
+  }
+]

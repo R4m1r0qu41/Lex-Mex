@@ -1,0 +1,101 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:term:agregados",
+    "term": "Agregados",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lopgr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:2",
+    "fraction": "I",
+    "start_char": 57,
+    "end_char": 160,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lopgr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:2",
+    "fraction": "II",
+    "start_char": 160,
+    "end_char": 238,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "term": "Constitución",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lopgr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:2",
+    "fraction": "III",
+    "start_char": 238,
+    "end_char": 313,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "term": "Delegaciones",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lopgr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:2",
+    "fraction": "IV",
+    "start_char": 313,
+    "end_char": 428,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "term": "Ley Orgánica",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lopgr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:2",
+    "fraction": "V",
+    "start_char": 428,
+    "end_char": 503,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "term": "Policía",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lopgr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:2",
+    "fraction": "VI",
+    "start_char": 503,
+    "end_char": 546,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procuraduria-o-institucion",
+    "term": "Procuraduría o Institución",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lopgr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:2",
+    "fraction": "VII",
+    "start_char": 546,
+    "end_char": 618,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "term": "Procurador",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lopgr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:2",
+    "fraction": "VIII",
+    "start_char": 618,
+    "end_char": 675,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "term": "Servicio de Carrera",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lopgr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:2",
+    "fraction": "IX",
+    "start_char": 675,
+    "end_char": 765,
+    "basis": "express_definition"
+  }
+]

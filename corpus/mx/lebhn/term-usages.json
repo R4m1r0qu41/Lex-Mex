@@ -1,0 +1,407 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:1-bis:term-usage:373-384",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:1-bis",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridades",
+    "start_char": 373,
+    "end_char": 384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:1-bis:term-usage:454-465",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:1-bis",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridades",
+    "start_char": 454,
+    "end_char": 465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:1-bis:term-usage:538-549",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:1-bis",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridades",
+    "start_char": 538,
+    "end_char": 549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:1-bis:term-usage:552-565",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:1-bis",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "span": "Instituciones",
+    "start_char": 552,
+    "end_char": 565
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:6:term-usage:4-15",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridades",
+    "start_char": 4,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:6:term-usage:29-40",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:uso-oficial",
+    "span": "Uso Oficial",
+    "start_char": 29,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:6:term-usage:125-138",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "span": "Instituciones",
+    "start_char": 125,
+    "end_char": 138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:6:term-usage:468-479",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridades",
+    "start_char": 468,
+    "end_char": 479
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:6:term-usage:486-497",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:uso-oficial",
+    "span": "Uso Oficial",
+    "start_char": 486,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:7:term-usage:4-15",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridades",
+    "start_char": 4,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:7:term-usage:272-285",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "span": "Instituciones",
+    "start_char": 272,
+    "end_char": 285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:8:term-usage:92-106",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:abanderamiento",
+    "span": "Abanderamiento",
+    "start_char": 92,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:10:term-usage:237-248",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridades",
+    "start_char": 237,
+    "end_char": 248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:11:term-usage:24-35",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridades",
+    "start_char": 24,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:11:term-usage:232-243",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridades",
+    "start_char": 232,
+    "end_char": 243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:11:term-usage:250-263",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "span": "Instituciones",
+    "start_char": 250,
+    "end_char": 263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:15:term-usage:29-40",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridades",
+    "start_char": 29,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:15:term-usage:154-165",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridades",
+    "start_char": 154,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:15:term-usage:168-181",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "span": "Instituciones",
+    "start_char": 168,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:15:term-usage:337-348",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridades",
+    "start_char": 337,
+    "end_char": 348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:15:term-usage:666-677",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridades",
+    "start_char": 666,
+    "end_char": 677
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:15:term-usage:680-693",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "span": "Instituciones",
+    "start_char": 680,
+    "end_char": 693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:15:term-usage:850-861",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridades",
+    "start_char": 850,
+    "end_char": 861
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:15:term-usage:864-877",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "span": "Instituciones",
+    "start_char": 864,
+    "end_char": 877
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:23-bis:term-usage:103-117",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:23-bis",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:abanderamiento",
+    "span": "Abanderamiento",
+    "start_char": 103,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:25:term-usage:8-22",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:abanderamiento",
+    "span": "Abanderamiento",
+    "start_char": 8,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:25:term-usage:57-89",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridad-encargada-de-abanderar",
+    "span": "Autoridad Encargada de Abanderar",
+    "start_char": 57,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:25:term-usage:154-163",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridad",
+    "start_char": 154,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:25:term-usage:166-177",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "span": "Institución",
+    "start_char": 166,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:25:term-usage:340-349",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridad",
+    "start_char": 340,
+    "end_char": 349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:25:term-usage:352-363",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "span": "Institución",
+    "start_char": 352,
+    "end_char": 363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:25:term-usage:611-620",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridad",
+    "start_char": 611,
+    "end_char": 620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:25:term-usage:623-634",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "span": "Institución",
+    "start_char": 623,
+    "end_char": 634
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:25:term-usage:679-711",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridad-encargada-de-abanderar",
+    "span": "Autoridad Encargada de Abanderar",
+    "start_char": 679,
+    "end_char": 711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:25:term-usage:932-964",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridad-encargada-de-abanderar",
+    "span": "Autoridad Encargada de Abanderar",
+    "start_char": 932,
+    "end_char": 964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:25:term-usage:1018-1027",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridad",
+    "start_char": 1018,
+    "end_char": 1027
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:25:term-usage:1030-1041",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "span": "Institución",
+    "start_char": 1030,
+    "end_char": 1041
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:26:term-usage:19-30",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridades",
+    "start_char": 19,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:26:term-usage:33-46",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "span": "Instituciones",
+    "start_char": 33,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:26:term-usage:85-99",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:abanderamiento",
+    "span": "Abanderamiento",
+    "start_char": 85,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:27:term-usage:27-38",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "span": "Autoridades",
+    "start_char": 27,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:27:term-usage:41-54",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "span": "Instituciones",
+    "start_char": 41,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:32-bis:term-usage:23-36",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:32-bis",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "span": "Instituciones",
+    "start_char": 23,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:56:term-usage:348-361",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "span": "Instituciones",
+    "start_char": 348,
+    "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:article:56:term-usage:765-778",
+    "provision_id": "urn:lex-mx:federal:statute:lebhn:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "span": "Instituciones",
+    "start_char": 765,
+    "end_char": 778
+  }
+]

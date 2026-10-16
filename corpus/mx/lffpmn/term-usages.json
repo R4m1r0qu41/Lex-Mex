@@ -1,0 +1,551 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:1:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:1:term-usage:110-113",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
+    "span": "Ley",
+    "start_char": 110,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:1:term-usage:195-206",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 195,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:1:term-usage:212-237",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:diversificacion-constante",
+    "span": "Diversificación Constante",
+    "start_char": 212,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:1:term-usage:306-309",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
+    "span": "Ley",
+    "start_char": 306,
+    "end_char": 309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:1:term-usage:386-397",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 386,
+    "end_char": 397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:1:term-usage:403-428",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:diversificacion-constante",
+    "span": "Diversificación Constante",
+    "start_char": 403,
+    "end_char": 428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:1:term-usage:803-814",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 803,
+    "end_char": 814
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:1:term-usage:820-845",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:diversificacion-constante",
+    "span": "Diversificación Constante",
+    "start_char": 820,
+    "end_char": 845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:2:term-usage:86-97",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 86,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:2:term-usage:180-191",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 180,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:2:term-usage:356-367",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 356,
+    "end_char": 367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:2:term-usage:936-947",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 936,
+    "end_char": 947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:2:term-usage:1388-1413",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:diversificacion-constante",
+    "span": "Diversificación Constante",
+    "start_char": 1388,
+    "end_char": 1413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:2:term-usage:1597-1600",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
+    "span": "Ley",
+    "start_char": 1597,
+    "end_char": 1600
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:3:term-usage:57-82",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:diversificacion-constante",
+    "span": "Diversificación Constante",
+    "start_char": 57,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:3:term-usage:87-98",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 87,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:3:term-usage:210-213",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
+    "span": "Ley",
+    "start_char": 210,
+    "end_char": 213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:4:term-usage:32-43",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 32,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:4:term-usage:49-74",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:diversificacion-constante",
+    "span": "Diversificación Constante",
+    "start_char": 49,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:4:term-usage:528-539",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 528,
+    "end_char": 539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:4:term-usage:545-570",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:diversificacion-constante",
+    "span": "Diversificación Constante",
+    "start_char": 545,
+    "end_char": 570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:4:term-usage:634-639",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ogm's",
+    "span": "OGM's",
+    "start_char": 634,
+    "end_char": 639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:5:term-usage:3-8",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:conam",
+    "span": "CONAM",
+    "start_char": 3,
+    "end_char": 8
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:5:term-usage:114-125",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 114,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:5:term-usage:131-156",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:diversificacion-constante",
+    "span": "Diversificación Constante",
+    "start_char": 131,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:6:term-usage:3-8",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:conam",
+    "span": "CONAM",
+    "start_char": 3,
+    "end_char": 8
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:6:term-usage:172-177",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:sader",
+    "span": "SADER",
+    "start_char": 172,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:6:term-usage:284-289",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:sader",
+    "span": "SADER",
+    "start_char": 284,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:6:term-usage:333-341",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:semarnat",
+    "span": "SEMARNAT",
+    "start_char": 333,
+    "end_char": 341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:7:term-usage:140-143",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
+    "span": "Ley",
+    "start_char": 140,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:7:term-usage:314-319",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:conam",
+    "span": "CONAM",
+    "start_char": 314,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:7:term-usage:514-517",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
+    "span": "Ley",
+    "start_char": 514,
+    "end_char": 517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:8:term-usage:29-34",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:conam",
+    "span": "CONAM",
+    "start_char": 29,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:9:term-usage:3-8",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:conam",
+    "span": "CONAM",
+    "start_char": 3,
+    "end_char": 8
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:9:term-usage:158-169",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 158,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:9:term-usage:175-200",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:diversificacion-constante",
+    "span": "Diversificación Constante",
+    "start_char": 175,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:9:term-usage:288-299",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 288,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:9:term-usage:326-329",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
+    "span": "Ley",
+    "start_char": 326,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:9:term-usage:351-356",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:sader",
+    "span": "SADER",
+    "start_char": 351,
+    "end_char": 356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:9:term-usage:428-439",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 428,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:9:term-usage:548-559",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 548,
+    "end_char": 559
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:10:term-usage:37-42",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:conam",
+    "span": "CONAM",
+    "start_char": 37,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:11:term-usage:25-45",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:conservacion-in-situ",
+    "span": "Conservación In Situ",
+    "start_char": 25,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:11:term-usage:61-72",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 61,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:11:term-usage:78-103",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:diversificacion-constante",
+    "span": "Diversificación Constante",
+    "start_char": 78,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:12:term-usage:3-8",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:sader",
+    "span": "SADER",
+    "start_char": 3,
+    "end_char": 8
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:12:term-usage:13-21",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:semarnat",
+    "span": "SEMARNAT",
+    "start_char": 13,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:12:term-usage:53-58",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:conam",
+    "span": "CONAM",
+    "start_char": 53,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:12:term-usage:174-179",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:raza",
+    "span": "Razas",
+    "start_char": 174,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:12:term-usage:183-194",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 183,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:12:term-usage:853-864",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "span": "Maíz Nativo",
+    "start_char": 853,
+    "end_char": 864
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:13:term-usage:35-81",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:bancos-comunitarios-de-semillas-de-maiz-nativo",
+    "span": "Bancos Comunitarios de Semillas de Maíz Nativo",
+    "start_char": 35,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:transitory:primero:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:transitory:primero",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:transitory:segundo:term-usage:107-110",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
+    "span": "Ley",
+    "start_char": 107,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:transitory:segundo:term-usage:228-233",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:conam",
+    "span": "CONAM",
+    "start_char": 228,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:transitory:tercero:term-usage:3-8",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:conam",
+    "span": "CONAM",
+    "start_char": 3,
+    "end_char": 8
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:transitory:cuarto:term-usage:3-8",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:sader",
+    "span": "SADER",
+    "start_char": 3,
+    "end_char": 8
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:transitory:cuarto:term-usage:193-196",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
+    "span": "Ley",
+    "start_char": 193,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:transitory:cuarto:term-usage:247-250",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
+    "span": "Ley",
+    "start_char": 247,
+    "end_char": 250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:transitory:quinto:term-usage:249-252",
+    "provision_id": "urn:lex-mx:federal:statute:lffpmn:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
+    "span": "Ley",
+    "start_char": 249,
+    "end_char": 252
+  }
+]

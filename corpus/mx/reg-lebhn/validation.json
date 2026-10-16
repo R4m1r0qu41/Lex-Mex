@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lebhn",
+  "valid": true,
+  "article_count": 43,
+  "transitory_count": 4,
+  "reference_count": 7,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no article-count baseline frozen; parse found 43 articles",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no transitory-count baseline frozen; parse found 4 transitories",
+      "provision_id": null
+    }
+  ]
+}

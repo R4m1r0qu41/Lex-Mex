@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lsprem",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPREM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsprem.htm",
+  "retrieved_at": "2026-10-14T07:46:25.576821Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 646502,
+  "etag": "\"9dd66-644b3791c5a80\"",
+  "last_modified": "Sat, 29 Nov 2025 03:38:02 GMT",
+  "source_sha256": "bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317",
+  "extracted_text_sha256": "2a347edbd66de1e209f7e3943f6aa196ed9a441c2c0ab26d83d6bd593b149984",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

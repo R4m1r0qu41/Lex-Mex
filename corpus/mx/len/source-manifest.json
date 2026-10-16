@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:len",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEN.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/len.htm",
+  "retrieved_at": "2026-10-14T07:25:22.664765Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 332667,
+  "etag": "\"5137b-5f821f8c7b4c0\"",
+  "last_modified": "Thu, 30 Mar 2023 18:07:55 GMT",
+  "source_sha256": "1cbe263920b6492766c004f8a08e5d20b06c1463a730f0c82f6bbd38406ff91a",
+  "extracted_text_sha256": "7610559b5390f730d7a6edc2dd53099f76ad871777aa1cb0974017c282f4ca9e",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

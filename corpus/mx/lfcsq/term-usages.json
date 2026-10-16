@@ -1,0 +1,4016 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:1:term-usage:663-673",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 663,
+    "end_char": 673
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:191-207",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 191,
+    "end_char": 207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:275-284",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:uso-final",
+    "span": "Uso Final",
+    "start_char": 275,
+    "end_char": 284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:325-335",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:transbordo",
+    "span": "Transbordo",
+    "start_char": 325,
+    "end_char": 335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:349-360",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:transmision",
+    "span": "Transmisión",
+    "start_char": 349,
+    "end_char": 360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:417-433",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 417,
+    "end_char": 433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:644-654",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 644,
+    "end_char": 654
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:724-734",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 724,
+    "end_char": 734
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:817-827",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 817,
+    "end_char": 827
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:982-992",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 982,
+    "end_char": 992
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:1544-1551",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:consejo",
+    "span": "Consejo",
+    "start_char": 1544,
+    "end_char": 1551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:2067-2077",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2067,
+    "end_char": 2077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:2350-2364",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:arma-quimica",
+    "span": "Armas Químicas",
+    "start_char": 2350,
+    "end_char": 2364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:2543-2556",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 2543,
+    "end_char": 2556
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:2658-2668",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 2658,
+    "end_char": 2668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:2761-2771",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 2761,
+    "end_char": 2771
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:2987-2997",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 2987,
+    "end_char": 2997
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:3156-3180",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:inspeccion-internacional",
+    "span": "Inspección Internacional",
+    "start_char": 3156,
+    "end_char": 3180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:3273-3277",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:opaq",
+    "span": "OPAQ",
+    "start_char": 3273,
+    "end_char": 3277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:3428-3452",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:inspeccion-internacional",
+    "span": "Inspección Internacional",
+    "start_char": 3428,
+    "end_char": 3452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:3469-3488",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:inspeccion-nacional",
+    "span": "Inspección Nacional",
+    "start_char": 3469,
+    "end_char": 3488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:3558-3568",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3558,
+    "end_char": 3568
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:3720-3730",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3720,
+    "end_char": 3730
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:3821-3854",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-internacional",
+    "span": "Grupo de Inspección Internacional",
+    "start_char": 3821,
+    "end_char": 3854
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:4072-4094",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:poligono-de-inspeccion",
+    "span": "Polígono de Inspección",
+    "start_char": 4072,
+    "end_char": 4094
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:4102-4135",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-internacional",
+    "span": "Grupo de Inspección Internacional",
+    "start_char": 4102,
+    "end_char": 4135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:4178-4188",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 4178,
+    "end_char": 4188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:4277-4299",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:poligono-de-inspeccion",
+    "span": "Polígono de Inspección",
+    "start_char": 4277,
+    "end_char": 4299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:4307-4335",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 4307,
+    "end_char": 4335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:4606-4616",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4606,
+    "end_char": 4616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:4685-4701",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 4685,
+    "end_char": 4701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:4733-4743",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 4733,
+    "end_char": 4743
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:4931-4955",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:inspeccion-internacional",
+    "span": "Inspección Internacional",
+    "start_char": 4931,
+    "end_char": 4955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:4998-5008",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4998,
+    "end_char": 5008
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:5023-5027",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:opaq",
+    "span": "OPAQ",
+    "start_char": 5023,
+    "end_char": 5027
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:5031-5064",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-internacional",
+    "span": "Grupo de Inspección Internacional",
+    "start_char": 5031,
+    "end_char": 5064
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:5092-5116",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:inspeccion-internacional",
+    "span": "Inspección Internacional",
+    "start_char": 5092,
+    "end_char": 5116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:5137-5156",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:inspeccion-nacional",
+    "span": "Inspección Nacional",
+    "start_char": 5137,
+    "end_char": 5156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:5178-5188",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 5178,
+    "end_char": 5188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:5216-5235",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:inspeccion-nacional",
+    "span": "Inspección Nacional",
+    "start_char": 5216,
+    "end_char": 5235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:5326-5350",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:anexo-sobre-verificacion",
+    "span": "Anexo sobre Verificación",
+    "start_char": 5326,
+    "end_char": 5350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:5358-5368",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 5358,
+    "end_char": 5368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:5422-5436",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:arma-quimica",
+    "span": "Armas Químicas",
+    "start_char": 5422,
+    "end_char": 5436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:5505-5529",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:inspeccion-internacional",
+    "span": "Inspección Internacional",
+    "start_char": 5505,
+    "end_char": 5529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:5655-5690",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:mandato-de-inspeccion-internacional",
+    "span": "Mandato de Inspección Internacional",
+    "start_char": 5655,
+    "end_char": 5690
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:5794-5800",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:desvio",
+    "span": "Desvío",
+    "start_char": 5794,
+    "end_char": 5800
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:5824-5838",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:arma-quimica",
+    "span": "Armas Químicas",
+    "start_char": 5824,
+    "end_char": 5838
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:5884-5902",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 5884,
+    "end_char": 5902
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:5919-5925",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:centro",
+    "span": "Centro",
+    "start_char": 5919,
+    "end_char": 5925
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:5988-6006",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 5988,
+    "end_char": 6006
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:6297-6313",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 6297,
+    "end_char": 6313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:6388-6404",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 6388,
+    "end_char": 6404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:6443-6456",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:destino-final",
+    "span": "Destino Final",
+    "start_char": 6443,
+    "end_char": 6456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:6690-6700",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:transbordo",
+    "span": "Transbordo",
+    "start_char": 6690,
+    "end_char": 6700
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:6737-6753",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 6737,
+    "end_char": 6753
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:6952-6968",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 6952,
+    "end_char": 6968
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:7030-7039",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:uso-final",
+    "span": "Uso Final",
+    "start_char": 7030,
+    "end_char": 7039
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:2:term-usage:7070-7086",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 7070,
+    "end_char": 7086
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:92-102",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 92,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:127-137",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 127,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:173-183",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 173,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:216-226",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 216,
+    "end_char": 226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:245-255",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 245,
+    "end_char": 255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:335-345",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 335,
+    "end_char": 345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:395-405",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 395,
+    "end_char": 405
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:429-439",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 429,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:517-527",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 517,
+    "end_char": 527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:619-629",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 619,
+    "end_char": 629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:869-887",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 869,
+    "end_char": 887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:1300-1316",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 1300,
+    "end_char": 1316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:1551-1558",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:consejo",
+    "span": "Consejo",
+    "start_char": 1551,
+    "end_char": 1558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:1847-1857",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1847,
+    "end_char": 1857
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:1916-1934",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 1916,
+    "end_char": 1934
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:2105-2121",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 2105,
+    "end_char": 2121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:2167-2180",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:estados-parte",
+    "span": "Estados Parte",
+    "start_char": 2167,
+    "end_char": 2180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:3:term-usage:2198-2208",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 2198,
+    "end_char": 2208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:4:term-usage:205-215",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 205,
+    "end_char": 215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:49-59",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 49,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:81-89",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 81,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:246-254",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 246,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:380-390",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 380,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:412-422",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 412,
+    "end_char": 422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:607-617",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 607,
+    "end_char": 617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:901-917",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 901,
+    "end_char": 917
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:971-981",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 971,
+    "end_char": 981
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:1216-1226",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1216,
+    "end_char": 1226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:1357-1373",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 1357,
+    "end_char": 1373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:1480-1502",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:poligono-de-inspeccion",
+    "span": "Polígono de Inspección",
+    "start_char": 1480,
+    "end_char": 1502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:1731-1741",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1731,
+    "end_char": 1741
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:1750-1754",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:opaq",
+    "span": "OPAQ",
+    "start_char": 1750,
+    "end_char": 1754
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:1820-1830",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1820,
+    "end_char": 1830
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:1916-1925",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:uso-final",
+    "span": "Uso Final",
+    "start_char": 1916,
+    "end_char": 1925
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:2266-2282",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 2266,
+    "end_char": 2282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:2632-2648",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 2632,
+    "end_char": 2648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:2840-2850",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2840,
+    "end_char": 2850
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:2873-2908",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:instalacion-unica-en-pequena-escala",
+    "span": "Instalación Única en Pequeña Escala",
+    "start_char": 2873,
+    "end_char": 2908
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:3143-3159",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 3143,
+    "end_char": 3159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:3404-3414",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 3404,
+    "end_char": 3414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:3562-3578",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 3562,
+    "end_char": 3578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:5:term-usage:3705-3714",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:uso-final",
+    "span": "Uso Final",
+    "start_char": 3705,
+    "end_char": 3714
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:6:term-usage:128-144",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 128,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:52-68",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 52,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:540-550",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 540,
+    "end_char": 550
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:1112-1125",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:estados-parte",
+    "span": "Estados Parte",
+    "start_char": 1112,
+    "end_char": 1125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:1132-1142",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 1132,
+    "end_char": 1142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:1191-1204",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 1191,
+    "end_char": 1204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:1246-1256",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1246,
+    "end_char": 1256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:1353-1366",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 1353,
+    "end_char": 1366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:1415-1425",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1415,
+    "end_char": 1425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:1438-1453",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 1438,
+    "end_char": 1453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:1929-1942",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 1929,
+    "end_char": 1942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:1992-2027",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:instalacion-unica-en-pequena-escala",
+    "span": "Instalación Única en Pequeña Escala",
+    "start_char": 1992,
+    "end_char": 2027
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:2059-2069",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2059,
+    "end_char": 2069
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:2471-2506",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:instalacion-unica-en-pequena-escala",
+    "span": "Instalación Única en Pequeña Escala",
+    "start_char": 2471,
+    "end_char": 2506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:2780-2790",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2780,
+    "end_char": 2790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:3085-3095",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3085,
+    "end_char": 3095
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:3177-3193",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 3177,
+    "end_char": 3193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:7:term-usage:3488-3498",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3488,
+    "end_char": 3498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:8:term-usage:108-124",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 108,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:8:term-usage:127-143",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:estados-no-parte",
+    "span": "Estados no Parte",
+    "start_char": 127,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:8:term-usage:150-160",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 150,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:8:term-usage:238-254",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 238,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:8:term-usage:257-273",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:estados-no-parte",
+    "span": "Estados no Parte",
+    "start_char": 257,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:8:term-usage:280-290",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 280,
+    "end_char": 290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:8:term-usage:376-392",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 376,
+    "end_char": 392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:8:term-usage:396-412",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:estados-no-parte",
+    "span": "Estados no Parte",
+    "start_char": 396,
+    "end_char": 412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:8:term-usage:419-429",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 419,
+    "end_char": 429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:8:term-usage:525-534",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:uso-final",
+    "span": "Uso Final",
+    "start_char": 525,
+    "end_char": 534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:8:term-usage:619-629",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 619,
+    "end_char": 629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:8:term-usage:730-740",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 730,
+    "end_char": 740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:8:term-usage:818-827",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:uso-final",
+    "span": "Uso Final",
+    "start_char": 818,
+    "end_char": 827
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:8:term-usage:878-891",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:usuario-final",
+    "span": "Usuario Final",
+    "start_char": 878,
+    "end_char": 891
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:8:term-usage:1030-1046",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 1030,
+    "end_char": 1046
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:8:term-usage:1138-1147",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:uso-final",
+    "span": "Uso Final",
+    "start_char": 1138,
+    "end_char": 1147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:210-228",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 210,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:234-244",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 234,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:530-540",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 530,
+    "end_char": 540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:610-626",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 610,
+    "end_char": 626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:893-909",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 893,
+    "end_char": 909
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:1009-1019",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1009,
+    "end_char": 1019
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:1091-1100",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:uso-final",
+    "span": "Uso Final",
+    "start_char": 1091,
+    "end_char": 1100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:1192-1210",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 1192,
+    "end_char": 1210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:1227-1237",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1227,
+    "end_char": 1237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:1281-1291",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1281,
+    "end_char": 1291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:1505-1521",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 1505,
+    "end_char": 1521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:1609-1618",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:uso-final",
+    "span": "Uso Final",
+    "start_char": 1609,
+    "end_char": 1618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:1860-1870",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1860,
+    "end_char": 1870
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:1971-1986",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 1971,
+    "end_char": 1986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:2016-2025",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:uso-final",
+    "span": "Uso Final",
+    "start_char": 2016,
+    "end_char": 2025
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:2280-2298",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 2280,
+    "end_char": 2298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:2304-2314",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2304,
+    "end_char": 2314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:2533-2549",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 2533,
+    "end_char": 2549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:2943-2959",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 2943,
+    "end_char": 2959
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:3161-3168",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:consejo",
+    "span": "Consejo",
+    "start_char": 3161,
+    "end_char": 3168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:3174-3192",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 3174,
+    "end_char": 3192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:3329-3345",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 3329,
+    "end_char": 3345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:3440-3453",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 3440,
+    "end_char": 3453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:9:term-usage:3785-3801",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 3785,
+    "end_char": 3801
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:10:term-usage:50-66",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 50,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:10:term-usage:922-938",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 922,
+    "end_char": 938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:11:term-usage:280-296",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 280,
+    "end_char": 296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:11:term-usage:893-901",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 893,
+    "end_char": 901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:12:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:12:term-usage:46-56",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 46,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:12:term-usage:302-308",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:centro",
+    "span": "Centro",
+    "start_char": 302,
+    "end_char": 308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:12:term-usage:676-694",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 676,
+    "end_char": 694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:12:term-usage:1320-1338",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 1320,
+    "end_char": 1338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:12:term-usage:1716-1726",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1716,
+    "end_char": 1726
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:12:term-usage:1895-1908",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:estados-parte",
+    "span": "Estados Parte",
+    "start_char": 1895,
+    "end_char": 1908
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:12:term-usage:2002-2009",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:consejo",
+    "span": "Consejo",
+    "start_char": 2002,
+    "end_char": 2009
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:12:term-usage:2328-2344",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 2328,
+    "end_char": 2344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:12:term-usage:2746-2762",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 2746,
+    "end_char": 2762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:12:term-usage:2859-2872",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 2859,
+    "end_char": 2872
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:12:term-usage:3283-3299",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 3283,
+    "end_char": 3299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:12:term-usage:3318-3328",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3318,
+    "end_char": 3328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:217-225",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 217,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:274-282",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 274,
+    "end_char": 282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:452-460",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 452,
+    "end_char": 460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:742-750",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 742,
+    "end_char": 750
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:815-830",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 815,
+    "end_char": 830
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:883-891",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 883,
+    "end_char": 891
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:897-907",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 897,
+    "end_char": 907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:1805-1833",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 1805,
+    "end_char": 1833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:1840-1872",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-nacional-de-acompanamiento",
+    "span": "Grupo Nacional de Acompañamiento",
+    "start_char": 1840,
+    "end_char": 1872
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:2504-2522",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 2504,
+    "end_char": 2522
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:2717-2735",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 2717,
+    "end_char": 2735
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:2923-2939",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 2923,
+    "end_char": 2939
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:3044-3062",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 3044,
+    "end_char": 3062
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:3131-3149",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 3131,
+    "end_char": 3149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:3653-3666",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 3653,
+    "end_char": 3666
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:3706-3722",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 3706,
+    "end_char": 3722
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:3851-3861",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 3851,
+    "end_char": 3861
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:13:term-usage:4072-4078",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:centro",
+    "span": "Centro",
+    "start_char": 4072,
+    "end_char": 4078
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:14:term-usage:33-43",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 33,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:14:term-usage:565-581",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 565,
+    "end_char": 581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:15:term-usage:25-43",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 25,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:15:term-usage:49-53",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:opaq",
+    "span": "OPAQ",
+    "start_char": 49,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:15:term-usage:103-121",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 103,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:15:term-usage:198-208",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 198,
+    "end_char": 208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:16:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:16:term-usage:346-364",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 346,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:16:term-usage:385-389",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:opaq",
+    "span": "OPAQ",
+    "start_char": 385,
+    "end_char": 389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:16:term-usage:400-413",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:estados-parte",
+    "span": "Estados Parte",
+    "start_char": 400,
+    "end_char": 413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:16:term-usage:420-430",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 420,
+    "end_char": 430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:16:term-usage:520-530",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 520,
+    "end_char": 530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:17:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:17:term-usage:42-50",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 42,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:17:term-usage:198-206",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 198,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:17:term-usage:271-281",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 271,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:18:term-usage:185-193",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 185,
+    "end_char": 193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:18:term-usage:232-242",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 232,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:18:term-usage:599-607",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 599,
+    "end_char": 607
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:18:term-usage:1023-1039",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 1023,
+    "end_char": 1039
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:18:term-usage:1424-1440",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 1424,
+    "end_char": 1440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:18:term-usage:1545-1555",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 1545,
+    "end_char": 1555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:18:term-usage:1582-1592",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1582,
+    "end_char": 1592
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:18:term-usage:2310-2320",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2310,
+    "end_char": 2320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:19:term-usage:25-35",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 25,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:19:term-usage:802-812",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 802,
+    "end_char": 812
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:20:term-usage:78-93",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 78,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:20:term-usage:232-240",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 232,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:20:term-usage:655-663",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 655,
+    "end_char": 663
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:20:term-usage:824-840",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 824,
+    "end_char": 840
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:20:term-usage:916-932",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 916,
+    "end_char": 932
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:20:term-usage:1028-1036",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 1028,
+    "end_char": 1036
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:20:term-usage:1140-1150",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 1140,
+    "end_char": 1150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:20:term-usage:1198-1208",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1198,
+    "end_char": 1208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:20:term-usage:1227-1242",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 1227,
+    "end_char": 1242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:20:term-usage:1474-1489",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 1474,
+    "end_char": 1489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:20:term-usage:1511-1521",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1511,
+    "end_char": 1521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:20:term-usage:1630-1646",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 1630,
+    "end_char": 1646
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:20:term-usage:1939-1955",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 1939,
+    "end_char": 1955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:21:term-usage:78-93",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 78,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:21:term-usage:839-848",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:uso-final",
+    "span": "Uso Final",
+    "start_char": 839,
+    "end_char": 848
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:21:term-usage:850-863",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:destino-final",
+    "span": "Destino Final",
+    "start_char": 850,
+    "end_char": 863
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:21:term-usage:866-879",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:usuario-final",
+    "span": "Usuario Final",
+    "start_char": 866,
+    "end_char": 879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:21:term-usage:922-938",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 922,
+    "end_char": 938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:21:term-usage:1527-1537",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 1527,
+    "end_char": 1537
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:21:term-usage:2035-2044",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:uso-final",
+    "span": "Uso Final",
+    "start_char": 2035,
+    "end_char": 2044
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:21:term-usage:2046-2059",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:destino-final",
+    "span": "Destino Final",
+    "start_char": 2046,
+    "end_char": 2059
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:21:term-usage:2062-2075",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:usuario-final",
+    "span": "Usuario Final",
+    "start_char": 2062,
+    "end_char": 2075
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:21:term-usage:2122-2138",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 2122,
+    "end_char": 2138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:21:term-usage:2553-2563",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2553,
+    "end_char": 2563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:21:term-usage:2818-2828",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2818,
+    "end_char": 2828
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:21:term-usage:2847-2862",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 2847,
+    "end_char": 2862
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:21:term-usage:3003-3019",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 3003,
+    "end_char": 3019
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:21:term-usage:3110-3125",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 3110,
+    "end_char": 3125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:22:term-usage:184-200",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 184,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:22:term-usage:648-664",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 648,
+    "end_char": 664
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:22:term-usage:750-766",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 750,
+    "end_char": 766
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:22:term-usage:846-862",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 846,
+    "end_char": 862
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:22:term-usage:1022-1038",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 1022,
+    "end_char": 1038
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:22:term-usage:1360-1376",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 1360,
+    "end_char": 1376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:22:term-usage:1589-1599",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 1589,
+    "end_char": 1599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:22:term-usage:1825-1841",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 1825,
+    "end_char": 1841
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:23:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:24:term-usage:100-119",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:inspeccion-nacional",
+    "span": "Inspección Nacional",
+    "start_char": 100,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:24:term-usage:236-246",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 236,
+    "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:24:term-usage:329-344",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 329,
+    "end_char": 344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:24:term-usage:536-546",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 536,
+    "end_char": 546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:24:term-usage:560-588",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 560,
+    "end_char": 588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:24:term-usage:738-768",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:mandato-de-inspeccion-nacional",
+    "span": "Mandato de Inspección Nacional",
+    "start_char": 738,
+    "end_char": 768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:24:term-usage:824-846",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:poligono-de-inspeccion",
+    "span": "Polígono de Inspección",
+    "start_char": 824,
+    "end_char": 846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:25:term-usage:3-31",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 3,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:25:term-usage:94-109",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 94,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:25:term-usage:173-195",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:poligono-de-inspeccion",
+    "span": "Polígono de Inspección",
+    "start_char": 173,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:25:term-usage:266-281",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 266,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:25:term-usage:375-397",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:poligono-de-inspeccion",
+    "span": "Polígono de Inspección",
+    "start_char": 375,
+    "end_char": 397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:25:term-usage:497-519",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:poligono-de-inspeccion",
+    "span": "Polígono de Inspección",
+    "start_char": 497,
+    "end_char": 519
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:25:term-usage:555-570",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 555,
+    "end_char": 570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:25:term-usage:760-782",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:poligono-de-inspeccion",
+    "span": "Polígono de Inspección",
+    "start_char": 760,
+    "end_char": 782
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:25:term-usage:924-946",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:poligono-de-inspeccion",
+    "span": "Polígono de Inspección",
+    "start_char": 924,
+    "end_char": 946
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:25:term-usage:1120-1142",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:poligono-de-inspeccion",
+    "span": "Polígono de Inspección",
+    "start_char": 1120,
+    "end_char": 1142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:26:term-usage:43-71",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 43,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:26:term-usage:113-128",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 113,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:26:term-usage:177-205",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 177,
+    "end_char": 205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:26:term-usage:221-251",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:mandato-de-inspeccion-nacional",
+    "span": "Mandato de Inspección Nacional",
+    "start_char": 221,
+    "end_char": 251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:27:term-usage:91-119",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 91,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:27:term-usage:134-156",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:poligono-de-inspeccion",
+    "span": "Polígono de Inspección",
+    "start_char": 134,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:27:term-usage:189-219",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:mandato-de-inspeccion-nacional",
+    "span": "Mandato de Inspección Nacional",
+    "start_char": 189,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:27:term-usage:319-347",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 319,
+    "end_char": 347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:27:term-usage:501-529",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 501,
+    "end_char": 529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:27:term-usage:798-826",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 798,
+    "end_char": 826
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:28:term-usage:30-58",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 30,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:28:term-usage:170-185",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 170,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:28:term-usage:237-252",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 237,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:28:term-usage:266-294",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 266,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:28:term-usage:1023-1038",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 1023,
+    "end_char": 1038
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:28:term-usage:1142-1170",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 1142,
+    "end_char": 1170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:29:term-usage:47-75",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 47,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:29:term-usage:191-201",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 191,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:29:term-usage:296-306",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 296,
+    "end_char": 306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:29:term-usage:371-389",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 371,
+    "end_char": 389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:29:term-usage:446-461",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 446,
+    "end_char": 461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:30:term-usage:18-46",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 18,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:30:term-usage:91-106",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 91,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:30:term-usage:190-200",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 190,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:30:term-usage:381-396",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 381,
+    "end_char": 396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:30:term-usage:592-607",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 592,
+    "end_char": 607
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:31:term-usage:85-100",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 85,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:31:term-usage:284-294",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 284,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:32:term-usage:93-108",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 93,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:32:term-usage:121-151",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:mandato-de-inspeccion-nacional",
+    "span": "Mandato de Inspección Nacional",
+    "start_char": 121,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:32:term-usage:172-200",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 172,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:32:term-usage:285-295",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 285,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:32:term-usage:372-379",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:consejo",
+    "span": "Consejo",
+    "start_char": 372,
+    "end_char": 379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:33:term-usage:18-46",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 18,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:33:term-usage:213-223",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 213,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:34:term-usage:42-70",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 42,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:34:term-usage:361-379",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 361,
+    "end_char": 379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:34:term-usage:387-397",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 387,
+    "end_char": 397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:34:term-usage:404-432",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-nacional",
+    "span": "Grupo de Inspección Nacional",
+    "start_char": 404,
+    "end_char": 432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:34:term-usage:526-541",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 526,
+    "end_char": 541
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:34:term-usage:583-602",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:inspeccion-nacional",
+    "span": "Inspección Nacional",
+    "start_char": 583,
+    "end_char": 602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:34:term-usage:772-790",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 772,
+    "end_char": 790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:34:term-usage:991-1007",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 991,
+    "end_char": 1007
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:34:term-usage:1216-1232",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 1216,
+    "end_char": 1232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:34:term-usage:1280-1298",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 1280,
+    "end_char": 1298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:34:term-usage:1355-1373",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 1355,
+    "end_char": 1373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:34:term-usage:1497-1513",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 1497,
+    "end_char": 1513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:34:term-usage:1629-1645",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 1629,
+    "end_char": 1645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:35:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:35:term-usage:38-48",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 38,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:35:term-usage:109-113",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:opaq",
+    "span": "OPAQ",
+    "start_char": 109,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:35:term-usage:201-211",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 201,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:36:term-usage:77-87",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 77,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:37:term-usage:79-111",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-nacional-de-acompanamiento",
+    "span": "Grupo Nacional de Acompañamiento",
+    "start_char": 79,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:37:term-usage:130-163",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-internacional",
+    "span": "Grupo de Inspección Internacional",
+    "start_char": 130,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:37:term-usage:186-210",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:anexo-sobre-verificacion",
+    "span": "Anexo sobre Verificación",
+    "start_char": 186,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:37:term-usage:215-230",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 215,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:37:term-usage:381-391",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 381,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:37:term-usage:405-437",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-nacional-de-acompanamiento",
+    "span": "Grupo Nacional de Acompañamiento",
+    "start_char": 405,
+    "end_char": 437
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:37:term-usage:649-671",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:poligono-de-inspeccion",
+    "span": "Polígono de Inspección",
+    "start_char": 649,
+    "end_char": 671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:38:term-usage:3-35",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-nacional-de-acompanamiento",
+    "span": "Grupo Nacional de Acompañamiento",
+    "start_char": 3,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:38:term-usage:49-82",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-internacional",
+    "span": "Grupo de Inspección Internacional",
+    "start_char": 49,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:39:term-usage:43-75",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-nacional-de-acompanamiento",
+    "span": "Grupo Nacional de Acompañamiento",
+    "start_char": 43,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:39:term-usage:129-144",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 129,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:39:term-usage:158-190",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-nacional-de-acompanamiento",
+    "span": "Grupo Nacional de Acompañamiento",
+    "start_char": 158,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:40:term-usage:82-115",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-internacional",
+    "span": "Grupo de Inspección Internacional",
+    "start_char": 82,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:40:term-usage:137-169",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-nacional-de-acompanamiento",
+    "span": "Grupo Nacional de Acompañamiento",
+    "start_char": 137,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:40:term-usage:184-206",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:poligono-de-inspeccion",
+    "span": "Polígono de Inspección",
+    "start_char": 184,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:40:term-usage:414-446",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-nacional-de-acompanamiento",
+    "span": "Grupo Nacional de Acompañamiento",
+    "start_char": 414,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:41:term-usage:59-75",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:normas-generales",
+    "span": "Normas Generales",
+    "start_char": 59,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:41:term-usage:80-112",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-nacional-de-acompanamiento",
+    "span": "Grupo Nacional de Acompañamiento",
+    "start_char": 80,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:41:term-usage:155-179",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:anexo-sobre-verificacion",
+    "span": "Anexo sobre Verificación",
+    "start_char": 155,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:41:term-usage:313-329",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:normas-generales",
+    "span": "Normas Generales",
+    "start_char": 313,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:41:term-usage:335-367",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-nacional-de-acompanamiento",
+    "span": "Grupo Nacional de Acompañamiento",
+    "start_char": 335,
+    "end_char": 367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:41:term-usage:466-482",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:normas-generales",
+    "span": "Normas Generales",
+    "start_char": 466,
+    "end_char": 482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:41:term-usage:513-517",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:opaq",
+    "span": "OPAQ",
+    "start_char": 513,
+    "end_char": 517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:41:term-usage:521-554",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-internacional",
+    "span": "Grupo de Inspección Internacional",
+    "start_char": 521,
+    "end_char": 554
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:42:term-usage:40-72",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-nacional-de-acompanamiento",
+    "span": "Grupo Nacional de Acompañamiento",
+    "start_char": 40,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:42:term-usage:183-198",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 183,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:42:term-usage:277-309",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-nacional-de-acompanamiento",
+    "span": "Grupo Nacional de Acompañamiento",
+    "start_char": 277,
+    "end_char": 309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:42:term-usage:494-509",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 494,
+    "end_char": 509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:42:term-usage:1023-1038",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 1023,
+    "end_char": 1038
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:43:term-usage:47-79",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-nacional-de-acompanamiento",
+    "span": "Grupo Nacional de Acompañamiento",
+    "start_char": 47,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:43:term-usage:198-208",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 198,
+    "end_char": 208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:44:term-usage:29-62",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-de-inspeccion-internacional",
+    "span": "Grupo de Inspección Internacional",
+    "start_char": 29,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:44:term-usage:83-93",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 83,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:44:term-usage:115-130",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 115,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:44:term-usage:212-222",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 212,
+    "end_char": 222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:44:term-usage:295-310",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 295,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:44:term-usage:364-374",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 364,
+    "end_char": 374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:44:term-usage:404-419",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 404,
+    "end_char": 419
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:45:term-usage:80-95",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 80,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:45:term-usage:217-227",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 217,
+    "end_char": 227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:46:term-usage:191-223",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-nacional-de-acompanamiento",
+    "span": "Grupo Nacional de Acompañamiento",
+    "start_char": 191,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:47:term-usage:18-50",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:grupo-nacional-de-acompanamiento",
+    "span": "Grupo Nacional de Acompañamiento",
+    "start_char": 18,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:47:term-usage:217-227",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 217,
+    "end_char": 227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:48:term-usage:412-428",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 412,
+    "end_char": 428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:48:term-usage:464-480",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:estados-no-parte",
+    "span": "Estados no Parte",
+    "start_char": 464,
+    "end_char": 480
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:48:term-usage:487-497",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 487,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:48:term-usage:593-602",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:uso-final",
+    "span": "Uso Final",
+    "start_char": 593,
+    "end_char": 602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:49:term-usage:176-192",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 176,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:49:term-usage:227-243",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:estados-no-parte",
+    "span": "Estados no Parte",
+    "start_char": 227,
+    "end_char": 243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:49:term-usage:250-260",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 250,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:49:term-usage:361-377",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 361,
+    "end_char": 377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:49:term-usage:584-600",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 584,
+    "end_char": 600
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:49:term-usage:742-758",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 742,
+    "end_char": 758
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:49:term-usage:792-827",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:instalacion-unica-en-pequena-escala",
+    "span": "Instalación Única en Pequeña Escala",
+    "start_char": 792,
+    "end_char": 827
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:49:term-usage:878-896",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 878,
+    "end_char": 896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:49:term-usage:955-971",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 955,
+    "end_char": 971
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:49:term-usage:1018-1036",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 1018,
+    "end_char": 1036
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:49:term-usage:1207-1223",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 1207,
+    "end_char": 1223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:49:term-usage:1270-1288",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 1270,
+    "end_char": 1288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:49:term-usage:1588-1594",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:desvio",
+    "span": "Desvío",
+    "start_char": 1588,
+    "end_char": 1594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:50:term-usage:163-179",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 163,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:50:term-usage:215-231",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:estados-no-parte",
+    "span": "Estados no Parte",
+    "start_char": 215,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:50:term-usage:238-248",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:convencion",
+    "span": "Convención",
+    "start_char": 238,
+    "end_char": 248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:51:term-usage:307-325",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 307,
+    "end_char": 325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:52:term-usage:31-41",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 31,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:52:term-usage:360-375",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 360,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:53:term-usage:181-191",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 181,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:54:term-usage:1024-1034",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1024,
+    "end_char": 1034
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:54:term-usage:1308-1318",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1308,
+    "end_char": 1318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:54:term-usage:1401-1418",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujetos Obligados",
+    "start_char": 1401,
+    "end_char": 1418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:56:term-usage:171-186",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 171,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:57:term-usage:59-74",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 59,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:57:term-usage:128-143",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 128,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:57:term-usage:481-496",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 481,
+    "end_char": 496
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:57:term-usage:641-656",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 641,
+    "end_char": 656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:57:term-usage:823-838",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 823,
+    "end_char": 838
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:58:term-usage:491-506",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 491,
+    "end_char": 506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:58:term-usage:574-589",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 574,
+    "end_char": 589
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:58:term-usage:643-658",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 643,
+    "end_char": 658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:58:term-usage:726-741",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 726,
+    "end_char": 741
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:59:term-usage:214-232",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 214,
+    "end_char": 232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:59:term-usage:387-402",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 387,
+    "end_char": 402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:59:term-usage:440-450",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 440,
+    "end_char": 450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:59:term-usage:491-501",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 491,
+    "end_char": 501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:59:term-usage:545-563",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 545,
+    "end_char": 563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:61:term-usage:67-77",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 67,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:61:term-usage:205-215",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 205,
+    "end_char": 215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:64:term-usage:572-582",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 572,
+    "end_char": 582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:64:term-usage:815-825",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 815,
+    "end_char": 825
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:67:term-usage:278-293",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 278,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:69:term-usage:765-775",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 765,
+    "end_char": 775
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:70:term-usage:60-77",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujetos Obligados",
+    "start_char": 60,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:70:term-usage:181-191",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 181,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:71:term-usage:77-94",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujetos Obligados",
+    "start_char": 77,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:72:term-usage:15-25",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 15,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:72:term-usage:158-168",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 158,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:73:term-usage:137-147",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 137,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:74:term-usage:200-215",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujeto Obligado",
+    "start_char": 200,
+    "end_char": 215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:75:term-usage:346-356",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 346,
+    "end_char": 356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:article:75:term-usage:633-650",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:sujeto-obligado",
+    "span": "Sujetos Obligados",
+    "start_char": 633,
+    "end_char": 650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:cuarto:term-usage:121-137",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 121,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:sexto:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:sexto:term-usage:359-377",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 359,
+    "end_char": 377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:sexto:term-usage:398-408",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 398,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:octavo:term-usage:163-171",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 163,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:octavo:term-usage:216-224",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 216,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:octavo:term-usage:321-329",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 321,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:octavo:term-usage:439-447",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:registro",
+    "span": "Registro",
+    "start_char": 439,
+    "end_char": 447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:noveno:term-usage:271-284",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 271,
+    "end_char": 284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:noveno:term-usage:325-341",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 325,
+    "end_char": 341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo:term-usage:43-61",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:autoridad-nacional",
+    "span": "Autoridad Nacional",
+    "start_char": 43,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo:term-usage:103-113",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 103,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero:term-usage:168-174",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:desvio",
+    "span": "Desvío",
+    "start_char": 168,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero:term-usage:198-212",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:arma-quimica",
+    "span": "Armas Químicas",
+    "start_char": 198,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero:term-usage:527-536",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:uso-final",
+    "span": "Uso Final",
+    "start_char": 527,
+    "end_char": 536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero:term-usage:538-551",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:destino-final",
+    "span": "Destino Final",
+    "start_char": 538,
+    "end_char": 551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero:term-usage:554-567",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:usuario-final",
+    "span": "Usuario Final",
+    "start_char": 554,
+    "end_char": 567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero:term-usage:624-640",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 624,
+    "end_char": 640
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero:term-usage:1012-1028",
+    "provision_id": "urn:lex-mx:federal:statute:lfcsq:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lfcsq:term:listado-nacional",
+    "span": "Listado Nacional",
+    "start_char": 1012,
+    "end_char": 1028
+  }
+]

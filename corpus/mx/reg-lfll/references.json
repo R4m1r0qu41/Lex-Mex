@@ -1,0 +1,186 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:16:reference:253-255:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:16",
+    "source_span": "23",
+    "start_char": 253,
+    "end_char": 255,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:23",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:16:reference:370-372:30:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:16",
+    "source_span": "30",
+    "start_char": 370,
+    "end_char": 372,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:30",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:18:reference:484-486:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:18",
+    "source_span": "20",
+    "start_char": 484,
+    "end_char": 486,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:20",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 458,
+        "end_char": 470
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:23:reference:697-699:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:23",
+    "source_span": "20",
+    "start_char": 697,
+    "end_char": 699,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:20",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II y III",
+        "start_char": 701,
+        "end_char": 720
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:23:reference:1268-1269:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:23",
+    "source_span": "I",
+    "start_char": 1268,
+    "end_char": 1269,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:23",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "I",
+        "start_char": 1268,
+        "end_char": 1269
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:24:reference:185-187:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:24",
+    "source_span": "20",
+    "start_char": 185,
+    "end_char": 187,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:20",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II y III",
+        "start_char": 189,
+        "end_char": 208
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:28:reference:377-379:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:28",
+    "source_span": "23",
+    "start_char": 377,
+    "end_char": 379,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:23",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y II",
+        "start_char": 346,
+        "end_char": 363
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:28:reference:767-769:18:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:28",
+    "source_span": "18",
+    "start_char": 767,
+    "end_char": 769,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:18",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafos segundo, tercero y cuarto",
+        "start_char": 719,
+        "end_char": 753
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:article:28:reference:942-944:18:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:28",
+    "source_span": "18",
+    "start_char": 942,
+    "end_char": 944,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:18",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 913,
+        "end_char": 928
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfped",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPED.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfped.htm",
+  "retrieved_at": "2026-10-14T07:28:59.436131Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 688437,
+  "etag": "\"a8135-64500f12f7640\"",
+  "last_modified": "Wed, 03 Dec 2025 00:03:29 GMT",
+  "source_sha256": "f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9",
+  "extracted_text_sha256": "39e7982415380f73f5b8af17d60e612908e006c856e5cca276a8eaf377854dbd",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

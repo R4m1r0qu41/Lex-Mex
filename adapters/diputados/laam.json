@@ -1,0 +1,17 @@
+{
+  "slug": "laam",
+  "instrument_id": "urn:lex-mx:federal:statute:laam",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Ascensos de la Armada de México",
+  "short_name": "LAAM",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/laam.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

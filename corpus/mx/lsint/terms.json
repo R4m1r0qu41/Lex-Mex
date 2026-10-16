@@ -1,0 +1,101 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsint:term:amenazas-a-la-seguridad-interior",
+    "term": "Amenazas a la Seguridad Interior",
+    "instrument_id": "urn:lex-mx:federal:statute:lsint",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
+    "fraction": "II",
+    "start_char": 333,
+    "end_char": 816,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsint:term:riesgo-a-la-seguridad-interior",
+    "term": "Riesgo a la Seguridad Interior",
+    "instrument_id": "urn:lex-mx:federal:statute:lsint",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
+    "fraction": "III",
+    "start_char": 816,
+    "end_char": 941,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsint:term:declaratoria-de-proteccion-a-la-seguridad-interior",
+    "term": "Declaratoria de Protección a la Seguridad Interior",
+    "instrument_id": "urn:lex-mx:federal:statute:lsint",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
+    "fraction": "IV",
+    "start_char": 941,
+    "end_char": 1252,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsint:term:fuerzas-armadas",
+    "term": "Fuerzas Armadas",
+    "instrument_id": "urn:lex-mx:federal:statute:lsint",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
+    "fraction": "V",
+    "start_char": 1252,
+    "end_char": 1308,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsint:term:fuerzas-federales",
+    "term": "Fuerzas Federales",
+    "instrument_id": "urn:lex-mx:federal:statute:lsint",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
+    "fraction": "VI",
+    "start_char": 1308,
+    "end_char": 1372,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsint:term:inteligencia-para-la-seguridad-interior",
+    "term": "Inteligencia para la Seguridad Interior",
+    "instrument_id": "urn:lex-mx:federal:statute:lsint",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
+    "fraction": "VII",
+    "start_char": 1372,
+    "end_char": 1604,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
+    "term": "Seguridad Interior",
+    "instrument_id": "urn:lex-mx:federal:statute:lsint",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
+    "fraction": "VIII",
+    "start_char": 1604,
+    "end_char": 1680,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsint:term:seguridad-nacional",
+    "term": "Seguridad Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lsint",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
+    "fraction": "IX",
+    "start_char": 1680,
+    "end_char": 1752,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsint:term:uso-legitimo-de-la-fuerza",
+    "term": "Uso legítimo de la fuerza",
+    "instrument_id": "urn:lex-mx:federal:statute:lsint",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
+    "fraction": "X",
+    "start_char": 1752,
+    "end_char": 2068,
+    "basis": "express_definition"
+  }
+]

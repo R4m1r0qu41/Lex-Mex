@@ -1,0 +1,134 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:term:presidencia-de-la-republica",
+    "term": "Presidencia de la República",
+    "instrument_id": "urn:lex-mx:federal:statute:larefam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "fraction": "I",
+    "start_char": 78,
+    "end_char": 215,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:larefam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "fraction": "II",
+    "start_char": 215,
+    "end_char": 270,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:term:secretario",
+    "term": "Secretario",
+    "instrument_id": "urn:lex-mx:federal:statute:larefam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "fraction": "III",
+    "start_char": 270,
+    "end_char": 359,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "term": "Ejército",
+    "instrument_id": "urn:lex-mx:federal:statute:larefam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "fraction": "IV",
+    "start_char": 359,
+    "end_char": 511,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:term:ley-organica",
+    "term": "Ley Orgánica",
+    "instrument_id": "urn:lex-mx:federal:statute:larefam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "fraction": "V",
+    "start_char": 511,
+    "end_char": 583,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:larefam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "fraction": "VI",
+    "start_char": 583,
+    "end_char": 610,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:larefam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "fraction": "VII",
+    "start_char": 610,
+    "end_char": 653,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:term:ascenso",
+    "term": "Ascenso",
+    "instrument_id": "urn:lex-mx:federal:statute:larefam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "fraction": "VIII",
+    "start_char": 653,
+    "end_char": 918,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:term:recompensas",
+    "term": "Recompensas",
+    "instrument_id": "urn:lex-mx:federal:statute:larefam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "fraction": "IX",
+    "start_char": 918,
+    "end_char": 1259,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:term:concursante",
+    "term": "Concursante",
+    "instrument_id": "urn:lex-mx:federal:statute:larefam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "fraction": "X",
+    "start_char": 1259,
+    "end_char": 1486,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:term:participante",
+    "term": "Participante",
+    "instrument_id": "urn:lex-mx:federal:statute:larefam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "fraction": "XI",
+    "start_char": 1486,
+    "end_char": 1613,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "term": "Militares",
+    "instrument_id": "urn:lex-mx:federal:statute:larefam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "fraction": "XII",
+    "start_char": 1613,
+    "end_char": 2000,
+    "basis": "express_definition"
+  }
+]

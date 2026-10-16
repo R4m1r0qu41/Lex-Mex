@@ -1,0 +1,389 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:2:term-usage:84-98",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 84,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:3:term-usage:263-275",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Ente Público",
+    "start_char": 263,
+    "end_char": 275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:4:term-usage:1194-1208",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 1194,
+    "end_char": 1208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:4:term-usage:2104-2118",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 2104,
+    "end_char": 2118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:4:term-usage:3893-3905",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Ente Público",
+    "start_char": 3893,
+    "end_char": 3905
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:4:term-usage:4895-4907",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Ente Público",
+    "start_char": 4895,
+    "end_char": 4907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:4:term-usage:5388-5402",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 5388,
+    "end_char": 5402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:4:term-usage:6021-6035",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 6021,
+    "end_char": 6035
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:4:term-usage:6892-6906",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 6892,
+    "end_char": 6906
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:4:term-usage:7503-7520",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-de-estado",
+    "span": "Tiempos de Estado",
+    "start_char": 7503,
+    "end_char": 7520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:5:term-usage:74-88",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 74,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:5:term-usage:2127-2141",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 2127,
+    "end_char": 2141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:10:term-usage:75-89",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 75,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:14:term-usage:1446-1460",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 1446,
+    "end_char": 1460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:14:term-usage:1596-1610",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 1596,
+    "end_char": 1610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:15:term-usage:47-61",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 47,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:17:term-usage:56-73",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-de-estado",
+    "span": "Tiempos de Estado",
+    "start_char": 56,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:17:term-usage:83-99",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-fiscales",
+    "span": "Tiempos Fiscales",
+    "start_char": 83,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:17:term-usage:558-574",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-fiscales",
+    "span": "Tiempos Fiscales",
+    "start_char": 558,
+    "end_char": 574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:18:term-usage:4-18",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 4,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:18:term-usage:76-95",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-comerciales",
+    "span": "Tiempos Comerciales",
+    "start_char": 76,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:18:term-usage:242-256",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 242,
+    "end_char": 256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:18:term-usage:556-570",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 556,
+    "end_char": 570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:19:term-usage:23-42",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-comerciales",
+    "span": "Tiempos Comerciales",
+    "start_char": 23,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:19:term-usage:60-74",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 60,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:22:term-usage:489-503",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 489,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:23:term-usage:5-19",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 5,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:23:term-usage:261-273",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Ente Público",
+    "start_char": 261,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:23:term-usage:610-622",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Ente Público",
+    "start_char": 610,
+    "end_char": 622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:24:term-usage:5-19",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 5,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:26:term-usage:5-19",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 5,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:26:term-usage:265-279",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 265,
+    "end_char": 279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:26:term-usage:780-794",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 780,
+    "end_char": 794
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:33:term-usage:84-99",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:sistema-publico",
+    "span": "Sistema Público",
+    "start_char": 84,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:33:term-usage:913-928",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:sistema-publico",
+    "span": "Sistema Público",
+    "start_char": 913,
+    "end_char": 928
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:33:term-usage:1617-1629",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Ente Público",
+    "start_char": 1617,
+    "end_char": 1629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:34:term-usage:42-57",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:sistema-publico",
+    "span": "Sistema Público",
+    "start_char": 42,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:36:term-usage:142-156",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 142,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:38:term-usage:729-743",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 729,
+    "end_char": 743
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:40:term-usage:5-19",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 5,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:41:term-usage:16-30",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 16,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:article:42:term-usage:1619-1635",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-fiscales",
+    "span": "Tiempos Fiscales",
+    "start_char": 1619,
+    "end_char": 1635
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:transitory:sexto:term-usage:52-66",
+    "provision_id": "urn:lex-mx:federal:statute:lgcs:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "span": "Entes Públicos",
+    "start_char": 52,
+    "end_char": 66
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-len:article:14:term-usage:147-154",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-len:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-len:term:decreto",
+    "span": "Decreto",
+    "start_char": 147,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-len:article:27:term-usage:265-281",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-len:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-len:term:modelo-educativo",
+    "span": "Modelo Educativo",
+    "start_char": 265,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-len:article:28:term-usage:1348-1364",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-len:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-len:term:modelo-educativo",
+    "span": "Modelo Educativo",
+    "start_char": 1348,
+    "end_char": 1364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-len:article:45:term-usage:208-224",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-len:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-len:term:modelo-educativo",
+    "span": "Modelo Educativo",
+    "start_char": 208,
+    "end_char": 224
+  }
+]

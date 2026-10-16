@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lges",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lges.htm",
+  "retrieved_at": "2026-10-14T07:33:06.593748Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 445712,
+  "etag": "\"6cd10-5c06a20635380\"",
+  "last_modified": "Tue, 20 Apr 2021 16:42:06 GMT",
+  "source_sha256": "eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12",
+  "extracted_text_sha256": "1351eebb19e06664ba495f5806b3dc27f568e7705452fe5496362ea227b5f2da",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

@@ -1,0 +1,275 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsrlip:article:1",
+    "instrument_id": "urn:lex-mx:federal:statute:lsrlip",
+    "provision_type": "article",
+    "label": "Artículo 1º",
+    "number": "1º",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La Sociedad de Responsabilidad Limitada de Interés Público sólo se constituirá cuando se trate de actividades de interés público y particular conjuntamente, a juicio de la Secretaría de Economía.\n\nArtículo reformado DOF 09-04-2012",
+    "publication_date": "1934-08-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsrlip:article:2",
+    "instrument_id": "urn:lex-mx:federal:statute:lsrlip",
+    "provision_type": "article",
+    "label": "Artículo 2°",
+    "number": "2°",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La sociedad se constituirá mediante autorización del Ejecutivo Federal.",
+    "publication_date": "1934-08-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsrlip:article:3",
+    "instrument_id": "urn:lex-mx:federal:statute:lsrlip",
+    "provision_type": "article",
+    "label": "Artículo 3º",
+    "number": "3º",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La solicitud se presentará ante la Secretaría de Economía, la que otorgará o negará la autorización dentro del término de treinta días, contados a partir de la fecha en que reciba el ocurso acompañado del proyecto de escritura.\n\nArtículo reformado DOF 09-04-2012",
+    "publication_date": "1934-08-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsrlip:article:4",
+    "instrument_id": "urn:lex-mx:federal:statute:lsrlip",
+    "provision_type": "article",
+    "label": "Artículo 4°",
+    "number": "4°",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Otorgada la autorización a que se refiere el artículo anterior y extendida la escritura correspondiente, sin otro trámite, se inscribirá ésta en el Registro Público de Comercio.",
+    "publication_date": "1934-08-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsrlip:article:5",
+    "instrument_id": "urn:lex-mx:federal:statute:lsrlip",
+    "provision_type": "article",
+    "label": "Artículo 5°",
+    "number": "5°",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Salvo lo previsto por la presente Ley, la sociedad se regirá por las disposiciones generales de la Ley de Sociedades Mercantiles y por las especiales relativas a las sociedades de responsabilidad limitada.",
+    "publication_date": "1934-08-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsrlip:article:6",
+    "instrument_id": "urn:lex-mx:federal:statute:lsrlip",
+    "provision_type": "article",
+    "label": "Artículo 6°",
+    "number": "6°",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La sociedad se constituirá como de capital variable.",
+    "publication_date": "1934-08-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsrlip:article:7",
+    "instrument_id": "urn:lex-mx:federal:statute:lsrlip",
+    "provision_type": "article",
+    "label": "Artículo 7°",
+    "number": "7°",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La sociedad podrá tener más de veinticinco socios.",
+    "publication_date": "1934-08-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsrlip:article:8",
+    "instrument_id": "urn:lex-mx:federal:statute:lsrlip",
+    "provision_type": "article",
+    "label": "Artículo 8°",
+    "number": "8°",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El importe de una parte social no podrá exceder del veinticinco por ciento del capital de la sociedad.",
+    "publication_date": "1934-08-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsrlip:article:9",
+    "instrument_id": "urn:lex-mx:federal:statute:lsrlip",
+    "provision_type": "article",
+    "label": "Artículo 9°",
+    "number": "9°",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El veinte por ciento de las utilidades netas obtenidas anualmente se destinará a la formación del fondo de reserva, hasta que alcance un importe igual al capital de la sociedad.",
+    "publication_date": "1934-08-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsrlip:article:10",
+    "instrument_id": "urn:lex-mx:federal:statute:lsrlip",
+    "provision_type": "article",
+    "label": "Artículo 10",
+    "number": "10",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La sociedad estará administrada por un Consejo de Administración compuesto de tres socios por lo menos; y se constituirá un Consejo de Vigilancia integrado por dos socios como mínimo.",
+    "publication_date": "1934-08-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsrlip:article:11",
+    "instrument_id": "urn:lex-mx:federal:statute:lsrlip",
+    "provision_type": "article",
+    "label": "Artículo 11",
+    "number": "11",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El contrato social determinará los derechos que corresponden a la minoría en la designación de administradores y de miembros del Consejo de Vigilancia; pero en todo caso la minoría que represente un veinticinco por ciento del capital social, nombrará, cuanto menos, un Consejero y un miembro del Consejo de Vigilancia. Sólo podrán revocarse otros nombramientos cuando se revoquen igualmente los nombramientos de todos los demás administradores o miembros del Consejo de Vigilancia.",
+    "publication_date": "1934-08-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsrlip:article:12",
+    "instrument_id": "urn:lex-mx:federal:statute:lsrlip",
+    "provision_type": "article",
+    "label": "Artículo 12",
+    "number": "12",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La Secretaría de Economía intervendrá en el funcionamiento de la sociedad, teniendo las atribuciones siguientes: Párrafo reformado DOF 09-04-2012\n\nI.- Obtener de los administradores o del Consejo de Vigilancia informes sobre la marcha de los negocios sociales.\n\nII.- Convocar para la celebración de asambleas cuando no se hayan reunido en las épocas señaladas en el contrato social, y a falta de estipulación en éste, cuando haya transcurrido más de un año sin que se haya celebrado una de dichas asambleas.\n\nIII.- Promover ante la autoridad judicial la disolución y liquidación de la sociedad, cuando existan motivos legales para ello.\n\nIV.- Denunciar ante el Ministerio Público las irregularidades que tengan carácter delictuoso, cometidas por los administradores de la sociedad.",
+    "publication_date": "1934-08-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsrlip:article:13",
+    "instrument_id": "urn:lex-mx:federal:statute:lsrlip",
+    "provision_type": "article",
+    "label": "Artículo 13",
+    "number": "13",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Los administradores de la sociedad garantizarán su manejo en la forma que prevenga el contrato social.",
+    "publication_date": "1934-08-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  }
+]

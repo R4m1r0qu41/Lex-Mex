@@ -1,0 +1,17 @@
+{
+  "slug": "reg-lfrt-mcpctrt",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfrt-mcpctrt",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley Federal de Radio y Televisión, en Materia de Concesiones, Permisos y Contenido de las Transmisiones de Radio y Televisión",
+  "short_name": "REG-LFRT-MCPCTRT",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFRT_MCPCTRT.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFRT_MCPCTRT.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

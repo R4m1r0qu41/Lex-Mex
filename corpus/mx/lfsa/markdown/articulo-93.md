@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lfsa:article:93
+instrument_id: urn:lex-mx:federal:statute:lfsa
+instrument: LFSA
+name: "Ley Federal de Sanidad Animal"
+provision_type: article
+number: "93"
+aliases: ["LFSA — Artículo 93"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSA.pdf
+source_sha256: 199baa54ad422398c57a8c173ef25c3a75ed0d6532128d244fcd46246e6f4e08
+---
+
+> Título SEXTO · Capítulo I
+
+# Artículo 93
+
+La Secretaría publicará en el Diario Oficial de la Federación el listado de las sustancias o productos cuyo uso o consumo en animales estén prohibidas.

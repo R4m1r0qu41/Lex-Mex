@@ -1,0 +1,24 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loinah:transitory:unico:reference:269-271:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:loinah:transitory:unico",
+    "source_span": "89",
+    "start_char": 269,
+    "end_char": 271,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 245,
+        "end_char": 255
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

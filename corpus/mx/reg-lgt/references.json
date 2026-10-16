@@ -1,0 +1,225 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:49:reference:140-142:48:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:49",
+    "source_span": "48",
+    "start_char": 140,
+    "end_char": 142,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:48",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:50:reference:617-618:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:50",
+    "source_span": "5",
+    "start_char": 617,
+    "end_char": 618,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:5",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:50:reference:621-622:6:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:50",
+    "source_span": "6",
+    "start_char": 621,
+    "end_char": 622,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:6",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:55:reference:614-616:56:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:55",
+    "source_span": "56",
+    "start_char": 614,
+    "end_char": 616,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:56",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:6:reference:79-96:5:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:6",
+    "source_span": "artículo anterior",
+    "start_char": 79,
+    "end_char": 96,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:5",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:79:reference:1378-1379:79:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:79",
+    "source_span": "I",
+    "start_char": 1378,
+    "end_char": 1379,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:79",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "I",
+        "start_char": 1378,
+        "end_char": 1379
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:83:reference:3036-3037:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:83",
+    "source_span": "2",
+    "start_char": 3036,
+    "end_char": 3037,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 3039,
+        "end_char": 3051
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:transitory:decimo:reference:58-60:75:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:transitory:decimo",
+    "source_span": "75",
+    "start_char": 58,
+    "end_char": 60,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:75",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:transitory:decimo-noveno:reference:283-286:105:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:transitory:decimo-noveno",
+    "source_span": "105",
+    "start_char": 283,
+    "end_char": 286,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:105",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:transitory:decimo-octavo:reference:272-274:92:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:transitory:decimo-octavo",
+    "source_span": "92",
+    "start_char": 272,
+    "end_char": 274,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:92",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:transitory:decimo-quinto:reference:378-380:87:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:transitory:decimo-quinto",
+    "source_span": "87",
+    "start_char": 378,
+    "end_char": 380,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:87",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 382,
+        "end_char": 392
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:transitory:decimo-segundo:reference:113-115:79:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:transitory:decimo-segundo",
+    "source_span": "79",
+    "start_char": 113,
+    "end_char": 115,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:79",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:transitory:decimo-septimo:reference:395-396:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:transitory:decimo-septimo",
+    "source_span": "4",
+    "start_char": 395,
+    "end_char": 396,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XII",
+        "start_char": 398,
+        "end_char": 410
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

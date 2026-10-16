@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lrsf",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Reglamentaria del Servicio Ferroviario",
+  "short_name": "LRSF",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1995-05-12",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-10-14T07:44:29.706954Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSF.pdf",
+  "source_sha256": "02fe2afc021cdf42249b2003da14bf738f24157375ffc0b420e1e7d7a5c20fd5",
+  "extracted_text_sha256": "76a665ffd8f767e85f01f34d3bff58dc6765cbcb6214b84e25d7a65f4fb742dd",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

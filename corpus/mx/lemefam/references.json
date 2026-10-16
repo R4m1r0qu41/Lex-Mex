@@ -1,0 +1,32 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:article:49:reference:137-154:48:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lemefam:article:49",
+    "source_span": "Artículo anterior",
+    "start_char": 137,
+    "end_char": 154,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lemefam",
+    "target_provision_id": "urn:lex-mx:federal:statute:lemefam:article:48",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:article:50:reference:51-53:48:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lemefam:article:50",
+    "source_span": "48",
+    "start_char": 51,
+    "end_char": 53,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lemefam",
+    "target_provision_id": "urn:lex-mx:federal:statute:lemefam:article:48",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

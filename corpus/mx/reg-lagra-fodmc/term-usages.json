@@ -1,0 +1,308 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:2:term-usage:163-166",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:ley",
+    "span": "Ley",
+    "start_char": 163,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:3:term-usage:180-188",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 180,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:3:term-usage:309-315",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "span": "Unidad",
+    "start_char": 309,
+    "end_char": 315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:4:term-usage:150-158",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "span": "Unidades",
+    "start_char": 150,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:5:term-usage:174-180",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "span": "Unidad",
+    "start_char": 174,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:6:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:6:term-usage:48-51",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:ley",
+    "span": "Ley",
+    "start_char": 48,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:6:term-usage:202-208",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "span": "Unidad",
+    "start_char": 202,
+    "end_char": 208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:7:term-usage:30-38",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 30,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:7:term-usage:61-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:parcela",
+    "span": "Parcelas",
+    "start_char": 61,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:7:term-usage:75-83",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "span": "Unidades",
+    "start_char": 75,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:8:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "span": "Unidad",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:8:term-usage:152-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:parcela",
+    "span": "Parcela",
+    "start_char": 152,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:9:term-usage:4-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "span": "Unidades",
+    "start_char": 4,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:10:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "span": "Unidad",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:10:term-usage:463-466",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:ley",
+    "span": "Ley",
+    "start_char": 463,
+    "end_char": 466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11:term-usage:31-38",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:parcela",
+    "span": "Parcela",
+    "start_char": 31,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11:term-usage:170-176",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "span": "Unidad",
+    "start_char": 170,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11:term-usage:209-215",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "span": "Unidad",
+    "start_char": 209,
+    "end_char": 215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11:term-usage:286-293",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:parcela",
+    "span": "Parcela",
+    "start_char": 286,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11:term-usage:337-343",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "span": "Unidad",
+    "start_char": 337,
+    "end_char": 343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11:term-usage:404-411",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:parcela",
+    "span": "Parcela",
+    "start_char": 404,
+    "end_char": 411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11:term-usage:430-437",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:parcela",
+    "span": "Parcela",
+    "start_char": 430,
+    "end_char": 437
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11:term-usage:502-508",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "span": "Unidad",
+    "start_char": 502,
+    "end_char": 508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:12:term-usage:69-76",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:parcela",
+    "span": "Parcela",
+    "start_char": 69,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:13:term-usage:64-70",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "span": "Unidad",
+    "start_char": 64,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:13:term-usage:138-141",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:ley",
+    "span": "Ley",
+    "start_char": 138,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:14:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "span": "Unidad",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:14:term-usage:134-141",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:parcela",
+    "span": "Parcela",
+    "start_char": 134,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:15:term-usage:10-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 10,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:15:term-usage:51-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:parcela",
+    "span": "Parcela",
+    "start_char": 51,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:15:term-usage:226-232",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "span": "Unidad",
+    "start_char": 226,
+    "end_char": 232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:transitory:segundo:term-usage:72-80",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "span": "Unidades",
+    "start_char": 72,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:transitory:segundo:term-usage:234-237",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:ley",
+    "span": "Ley",
+    "start_char": 234,
+    "end_char": 237
+  }
+]

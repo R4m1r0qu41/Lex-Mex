@@ -1,0 +1,57 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:term:autoridad-educativa-federal-o-secretaria",
+    "term": "Autoridad educativa federal o Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lge",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lge:article:4",
+    "fraction": "I",
+    "start_char": 328,
+    "end_char": 449,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:term:autoridad-educativa-de-los-estados-y-de-la-ciudad-de-mexico",
+    "term": "Autoridad educativa de los Estados y de la Ciudad de México",
+    "instrument_id": "urn:lex-mx:federal:statute:lge",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lge:article:4",
+    "fraction": "II",
+    "start_char": 449,
+    "end_char": 677,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:term:autoridad-educativa-municipal",
+    "term": "Autoridad educativa municipal",
+    "instrument_id": "urn:lex-mx:federal:statute:lge",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lge:article:4",
+    "fraction": "III",
+    "start_char": 677,
+    "end_char": 749,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:term:autoridades-escolares",
+    "term": "Autoridades escolares",
+    "instrument_id": "urn:lex-mx:federal:statute:lge",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lge:article:4",
+    "fraction": "IV",
+    "start_char": 749,
+    "end_char": 889,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "term": "Estado",
+    "instrument_id": "urn:lex-mx:federal:statute:lge",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lge:article:4",
+    "fraction": "V",
+    "start_char": 889,
+    "end_char": 967,
+    "basis": "express_definition"
+  }
+]

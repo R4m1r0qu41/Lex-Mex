@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfsv",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSV.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv.htm",
+  "retrieved_at": "2026-10-14T07:30:05.173606Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 635629,
+  "etag": "\"9b2ed-5e08e2e9444c0\"",
+  "last_modified": "Fri, 03 Jun 2022 17:09:15 GMT",
+  "source_sha256": "ca472228c60fb0c4f46b3f473ad478b2fbe2909d7b21da7bf9ba483aa2a5edd6",
+  "extracted_text_sha256": "df2ccfefa5322f2a4cbca33b1c93ab0d45324a1f66fbd8fa3c71b684ae09e2fe",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lsh:article:75
+instrument_id: urn:lex-mx:federal:statute:lsh
+instrument: LSH
+name: "Ley del Sector Hidrocarburos"
+provision_type: article
+number: "75"
+aliases: ["LSH — Artículo 75"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSH.pdf
+source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
+---
+
+> Título SEGUNDO · Capítulo VII
+
+# Artículo 75
+
+Las personas Asignatarias y Contratistas están obligados a: I. Contar, en su caso, con la autorización para llevar a cabo la perforación de pozos previo al inicio de los trabajos correspondientes, en los términos de lo dispuesto por el artículo [64](articulo-64.md) de esta Ley y de la regulación que al efecto emita la Secretaría de Energía; II. Dar el aviso a que se refiere el artículo [65](articulo-65.md), párrafo tercero, de esta Ley antes de iniciar los trabajos de Reconocimiento y Exploración Superficial; III. Cumplir los términos y condiciones que se establecen en las Asignaciones, Contratos para la Exploración y Extracción y autorizaciones; IV. Abstenerse de ceder o traspasar, sin la autorización correspondiente, en el caso de Contratos para la Exploración y Extracción, el control corporativo o de las operaciones; V. Contar con la aprobación de la Secretaría de Energía, previo a iniciar la ejecución del plan de Exploración y del plan de desarrollo para la Extracción; VI. Observar las disposiciones legales en materia laboral, fiscal y de transparencia que resulten aplicables; VII. Permitir el acceso a sus instalaciones y equipos, así como facilitar la labor de los inspectores y verificadores de las Secretarías de Energía, de Hacienda y Crédito Público y de Economía o de la Agencia; VIII. Cumplir con la regulación, lineamientos y disposiciones administrativas que emitan las Secretarías de Energía y de Hacienda y Crédito Público y la Agencia en el ámbito de sus respectivas competencias; IX. Las personas Contratistas deben observar los lineamientos que establezcan la Secretaría de Energía y la Secretaría de Hacienda y Crédito Público en relación con los Contratos para la Exploración y Extracción con base en esta Ley y la Ley de Ingresos sobre Hidrocarburos. En materia de seguridad industrial, operativa y protección al medio ambiente, las personas Asignatarias y Contratistas son responsables de los daños y perjuicios ocasionados por fugas y derrames de Hidrocarburos o demás daños que resulten por el desarrollo de sus actividades, en términos de las disposiciones jurídicas aplicables; X. Dar aviso a la Secretaría de Energía, a la Agencia y a las demás autoridades competentes sobre cualquier siniestro, hecho o contingencia que, como resultado de sus operaciones, ponga en peligro la vida, la salud y seguridad públicas, el medio ambiente, la seguridad de las instalaciones o la producción de Hidrocarburos; y aplicar los planes de contingencia, medidas de emergencia y acciones de contención que correspondan de acuerdo con su responsabilidad, en los términos de la regulación correspondiente. Sin perjuicio de lo anterior, deben presentar ante dichas dependencias: a) Un informe de hechos, así como las medidas tomadas para su control, en los casos y términos que establece la regulación correspondiente, y b) Un informe detallado sobre las causas que lo originaron y las medidas tomadas para su control y, en su caso, remediación, en los casos y términos que establece la regulación correspondiente; XI. Proporcionar el auxilio que les sea requerido por las autoridades competentes en caso de emergencia o siniestro, conforme se establece en la Asignación o el Contrato, y XII. Cumplir en tiempo y forma con las solicitudes de información y reportes que requieran las Secretarías de Energía, de Hacienda y Crédito Público y de Economía, el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y la Agencia, en el ámbito de sus respectivas competencias. Las infracciones a este Título y a sus disposiciones reglamentarias deben ser sancionadas conforme a lo previsto en el artículo [120](articulo-120.md) de esta Ley.

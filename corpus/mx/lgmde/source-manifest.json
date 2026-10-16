@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDE_200521.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmde.htm",
+  "retrieved_at": "2026-10-14T07:34:08.852477Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 413922,
+  "etag": "\"650e2-5c4c11533c5c0\"",
+  "last_modified": "Mon, 14 Jun 2021 22:07:27 GMT",
+  "source_sha256": "9e8c5600d8747b4b1db2f9591ba40210d444040cb46fd1ad7732b6bd0e0ad56b",
+  "extracted_text_sha256": "d98ed646da9d270c37c77cfc3425db5ba2c1d82b1be38101ee2da76aa043f975",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

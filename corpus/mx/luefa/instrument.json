@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:luefa",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley que Crea la Universidad del Ejército y Fuerza Aérea",
+  "short_name": "LUEFA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1975-12-29",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:47:12.986162Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/196.pdf",
+  "source_sha256": "1735a62b3987ad5c4c07d876dbab5080edeca171b482098aa17b4c647cb11fdf",
+  "extracted_text_sha256": "8a32e0eb37145114cdc00719b66a69a28339c4f82b837eaf3f90823dbdebe7c9",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

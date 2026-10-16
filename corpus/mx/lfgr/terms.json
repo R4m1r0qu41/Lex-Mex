@@ -1,0 +1,90 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfgr:term:constitucion",
+    "term": "Constitución",
+    "instrument_id": "urn:lex-mx:federal:statute:lfgr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfgr:article:9",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 124,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfgr:term:codigo-nacional",
+    "term": "Código Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lfgr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfgr:article:9",
+    "fraction": "II",
+    "start_char": 124,
+    "end_char": 192,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfgr:term:estatuto-organico",
+    "term": "Estatuto orgánico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfgr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfgr:article:9",
+    "fraction": "III",
+    "start_char": 192,
+    "end_char": 278,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfgr:term:fiscalia-general",
+    "term": "Fiscalía General",
+    "instrument_id": "urn:lex-mx:federal:statute:lfgr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfgr:article:9",
+    "fraction": "IV",
+    "start_char": 278,
+    "end_char": 338,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfgr:term:fiscal-general",
+    "term": "Fiscal General",
+    "instrument_id": "urn:lex-mx:federal:statute:lfgr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfgr:article:9",
+    "fraction": "V",
+    "start_char": 338,
+    "end_char": 416,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfgr:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lfgr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfgr:article:9",
+    "fraction": "VI",
+    "start_char": 416,
+    "end_char": 470,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfgr:term:ministerio-publico",
+    "term": "Ministerio Público",
+    "instrument_id": "urn:lex-mx:federal:statute:lfgr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfgr:article:9",
+    "fraction": "VII",
+    "start_char": 470,
+    "end_char": 538,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfgr:term:policias",
+    "term": "Policías",
+    "instrument_id": "urn:lex-mx:federal:statute:lfgr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfgr:article:9",
+    "fraction": "VIII",
+    "start_char": 538,
+    "end_char": 898,
+    "basis": "express_definition"
+  }
+]

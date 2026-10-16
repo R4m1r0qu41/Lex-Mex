@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lopgjdf",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal",
+  "short_name": "LOPGJDF",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2011-06-20",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:40:33.642390Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf",
+  "source_sha256": "9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58",
+  "extracted_text_sha256": "7d52fdaf87e1574e454ab176469e3ed081741d1b858d5f03496ca901e9a54e53",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lfsa",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Federal de Sanidad Animal",
+  "short_name": "REG-LFSA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2012-05-21",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:54:05.682658Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSA.pdf",
+  "source_sha256": "a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c",
+  "extracted_text_sha256": "f35cca065397d2bfc40568140dfb1939b7baed59597dd26d4000ba962c0e02fc",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

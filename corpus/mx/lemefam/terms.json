@@ -1,0 +1,24 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lemefam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lemefam:article:2",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 167,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lemefam:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lemefam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lemefam:article:2",
+    "fraction": "II",
+    "start_char": 167,
+    "end_char": 401,
+    "basis": "express_definition"
+  }
+]

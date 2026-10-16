@@ -1,0 +1,1523 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:1:term-usage:157-160",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 157,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:2:term-usage:61-71",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 61,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:2:term-usage:92-103",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 92,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3:term-usage:25-35",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 25,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3:term-usage:278-288",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 278,
+    "end_char": 288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3:term-usage:370-380",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 370,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3:term-usage:474-484",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 474,
+    "end_char": 484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3:term-usage:524-533",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:instituto",
+    "span": "Instituto",
+    "start_char": 524,
+    "end_char": 533
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3:term-usage:711-714",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 711,
+    "end_char": 714
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:4:term-usage:119-122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 119,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:4:term-usage:132-142",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 132,
+    "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:4:term-usage:306-316",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 306,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:4:term-usage:325-335",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 325,
+    "end_char": 335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:5:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:5:term-usage:225-235",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 225,
+    "end_char": 235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:5:term-usage:267-277",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 267,
+    "end_char": 277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:5:term-usage:323-326",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 323,
+    "end_char": 326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:5:term-usage:337-347",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 337,
+    "end_char": 347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:5:term-usage:688-698",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 688,
+    "end_char": 698
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:5:term-usage:766-769",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 766,
+    "end_char": 769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:5:term-usage:777-787",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 777,
+    "end_char": 787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:6:term-usage:154-157",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 154,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:6:term-usage:192-195",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 192,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:6:term-usage:244-255",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamentos",
+    "start_char": 244,
+    "end_char": 255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7:term-usage:60-63",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 60,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7:term-usage:71-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 71,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7:term-usage:101-118",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 101,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7:term-usage:450-453",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 450,
+    "end_char": 453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7:term-usage:469-479",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 469,
+    "end_char": 479
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7:term-usage:644-654",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 644,
+    "end_char": 654
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7:term-usage:1045-1048",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 1045,
+    "end_char": 1048
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7:term-usage:1066-1076",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1066,
+    "end_char": 1076
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7:term-usage:1220-1223",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 1220,
+    "end_char": 1223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7:term-usage:1230-1240",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1230,
+    "end_char": 1240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7:term-usage:1529-1537",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:cineteca",
+    "span": "Cineteca",
+    "start_char": 1529,
+    "end_char": 1537
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7:term-usage:1726-1729",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 1726,
+    "end_char": 1729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7:term-usage:1826-1829",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 1826,
+    "end_char": 1829
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7:term-usage:1836-1846",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1836,
+    "end_char": 1846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:8:term-usage:25-35",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 25,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:10:term-usage:118-121",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 118,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:10:term-usage:592-602",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 592,
+    "end_char": 602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:11:term-usage:80-83",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 80,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:12:term-usage:125-128",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 125,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:15:term-usage:161-171",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 161,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:16:term-usage:182-192",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 182,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:16:term-usage:212-229",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 212,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:17:term-usage:202-219",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 202,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:17:term-usage:244-254",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 244,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:18:term-usage:283-300",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 283,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:19:term-usage:269-272",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 269,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:19:term-usage:342-359",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 342,
+    "end_char": 359
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:19:term-usage:465-473",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:cineteca",
+    "span": "Cineteca",
+    "start_char": 465,
+    "end_char": 473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:19:term-usage:584-587",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 584,
+    "end_char": 587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:19:term-usage:1632-1635",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 1632,
+    "end_char": 1635
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:19:term-usage:1852-1855",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 1852,
+    "end_char": 1855
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:19:term-usage:2106-2115",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:instituto",
+    "span": "Instituto",
+    "start_char": 2106,
+    "end_char": 2115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:19:term-usage:2418-2427",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:instituto",
+    "span": "Instituto",
+    "start_char": 2418,
+    "end_char": 2427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:20:term-usage:75-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 75,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:20:term-usage:231-248",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 231,
+    "end_char": 248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:20:term-usage:301-318",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 301,
+    "end_char": 318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:22:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:22:term-usage:704-721",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 704,
+    "end_char": 721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:22:term-usage:883-893",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 883,
+    "end_char": 893
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:22:term-usage:913-930",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 913,
+    "end_char": 930
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:23:term-usage:185-195",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 185,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:25:term-usage:196-213",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 196,
+    "end_char": 213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:26:term-usage:22-25",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 22,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:26:term-usage:33-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 33,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:26:term-usage:128-145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 128,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:26:term-usage:237-247",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 237,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:26:term-usage:499-502",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 499,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:26:term-usage:680-683",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 680,
+    "end_char": 683
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:27:term-usage:1214-1217",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 1214,
+    "end_char": 1217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:27:term-usage:1378-1381",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 1378,
+    "end_char": 1381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:27:term-usage:1559-1576",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 1559,
+    "end_char": 1576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:27:term-usage:1668-1671",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 1668,
+    "end_char": 1671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:28:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:28:term-usage:217-220",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 217,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:29:term-usage:40-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 40,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:29:term-usage:67-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 67,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:30:term-usage:25-35",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 25,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:30:term-usage:280-283",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 280,
+    "end_char": 283
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:31:term-usage:78-95",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 78,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:32:term-usage:157-160",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 157,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:32:term-usage:175-185",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 175,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:32:term-usage:208-225",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 208,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:35:term-usage:85-88",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 85,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:39:term-usage:25-35",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 25,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:41:term-usage:25-35",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 25,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:43:term-usage:46-63",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 46,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:45:term-usage:95-98",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 95,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:46:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:46:term-usage:29-46",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 29,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:46:term-usage:444-461",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 444,
+    "end_char": 461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:47:term-usage:18-35",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 18,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:47:term-usage:141-144",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 141,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:49:term-usage:176-193",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 176,
+    "end_char": 193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:49:term-usage:235-238",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 235,
+    "end_char": 238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:50:term-usage:297-314",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 297,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:50:term-usage:961-964",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 961,
+    "end_char": 964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:53:term-usage:28-36",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:fidecine",
+    "span": "FIDECINE",
+    "start_char": 28,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:53:term-usage:100-103",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 100,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:54:term-usage:31-39",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:fidecine",
+    "span": "FIDECINE",
+    "start_char": 31,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:54:term-usage:119-127",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:fidecine",
+    "span": "FIDECINE",
+    "start_char": 119,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:54:term-usage:227-230",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 227,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:55:term-usage:17-25",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:fidecine",
+    "span": "FIDECINE",
+    "start_char": 17,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:56:term-usage:74-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 74,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:56:term-usage:108-116",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:fidecine",
+    "span": "FIDECINE",
+    "start_char": 108,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:56:term-usage:307-315",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:fidecine",
+    "span": "FIDECINE",
+    "start_char": 307,
+    "end_char": 315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:56:term-usage:444-454",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 444,
+    "end_char": 454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:56:term-usage:494-500",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:imcine",
+    "span": "IMCINE",
+    "start_char": 494,
+    "end_char": 500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:56:term-usage:1452-1461",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:conaculta",
+    "span": "CONACULTA",
+    "start_char": 1452,
+    "end_char": 1461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:56:term-usage:1619-1628",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:conaculta",
+    "span": "CONACULTA",
+    "start_char": 1619,
+    "end_char": 1628
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:57:term-usage:20-26",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:imcine",
+    "span": "IMCINE",
+    "start_char": 20,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:57:term-usage:244-253",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:conaculta",
+    "span": "CONACULTA",
+    "start_char": 244,
+    "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:58:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:cineteca",
+    "span": "Cineteca",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:58:term-usage:167-170",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 167,
+    "end_char": 170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:58:term-usage:205-213",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:cineteca",
+    "span": "Cineteca",
+    "start_char": 205,
+    "end_char": 213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:58:term-usage:548-551",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 548,
+    "end_char": 551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:59:term-usage:71-74",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 71,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:59:term-usage:79-96",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 79,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:59:term-usage:204-212",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:cineteca",
+    "span": "Cineteca",
+    "start_char": 204,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:59:term-usage:284-292",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:cineteca",
+    "span": "Cineteca",
+    "start_char": 284,
+    "end_char": 292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:60:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:cineteca",
+    "span": "Cineteca",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:60:term-usage:25-34",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:conaculta",
+    "span": "CONACULTA",
+    "start_char": 25,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:61:term-usage:113-116",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 113,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:62:term-usage:59-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 59,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:62:term-usage:67-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:cineteca",
+    "span": "Cineteca",
+    "start_char": 67,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:63:term-usage:30-40",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 30,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:63:term-usage:104-112",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:cineteca",
+    "span": "Cineteca",
+    "start_char": 104,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:64:term-usage:10-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:cineteca",
+    "span": "Cineteca",
+    "start_char": 10,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65:term-usage:34-51",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 34,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65:term-usage:117-120",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 117,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65:term-usage:211-228",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 211,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65:term-usage:417-427",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 417,
+    "end_char": 427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65:term-usage:559-569",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 559,
+    "end_char": 569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65:term-usage:669-686",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 669,
+    "end_char": 686
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65:term-usage:783-800",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 783,
+    "end_char": 800
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65:term-usage:980-997",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 980,
+    "end_char": 997
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:66:term-usage:43-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 43,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:67:term-usage:130-133",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 130,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:67:term-usage:244-247",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 244,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:68:term-usage:122-125",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 122,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:68:term-usage:134-137",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 134,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:69:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:69",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:70:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:70:term-usage:144-147",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 144,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:70:term-usage:155-165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 155,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:71:term-usage:44-47",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 44,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:71:term-usage:58-68",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 58,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:71:term-usage:73-90",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 73,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:71:term-usage:207-210",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 207,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:72:term-usage:97-100",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 97,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:72:term-usage:108-118",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 108,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:article:72:term-usage:327-330",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 327,
+    "end_char": 330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:primero:term-usage:12-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:primero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 12,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:segundo:term-usage:14-24",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 14,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:segundo:term-usage:31-34",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "span": "Ley",
+    "start_char": 31,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:segundo:term-usage:195-205",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 195,
+    "end_char": 205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:tercero:term-usage:108-125",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 108,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:tercero:term-usage:283-293",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 283,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:cuarto:term-usage:43-53",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 43,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:quinto:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:quinto:term-usage:34-51",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 34,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:quinto:term-usage:194-204",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 194,
+    "end_char": 204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:sexto:term-usage:0-8",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:fidecine",
+    "span": "FIDECINE",
+    "start_char": 0,
+    "end_char": 8
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:sexto:term-usage:98-108",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 98,
+    "end_char": 108
+  }
+]

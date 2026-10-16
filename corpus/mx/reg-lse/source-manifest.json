@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSE.pdf",
+  "retrieved_at": "2026-10-14T08:05:20.887937Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1374309,
+  "etag": "\"14f865-64ddea5fa80c0\"",
+  "last_modified": "Wed, 25 Mar 2026 19:55:23 GMT",
+  "source_sha256": "4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e",
+  "extracted_text_sha256": "1da9ee322f5c8d2c80de2d0dc101d72167f983c2b9f46ded17b88a1f5b582240",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

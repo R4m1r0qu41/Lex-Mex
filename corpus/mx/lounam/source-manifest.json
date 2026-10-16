@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lounam",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/158.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lounam.htm",
+  "retrieved_at": "2026-10-14T07:41:34.052121Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 284009,
+  "etag": "\"45569-576506dabf340\"",
+  "last_modified": "Thu, 20 Sep 2018 16:58:13 GMT",
+  "source_sha256": "06af411aa75ed36bd698842d9c2d7f04c7a72e5797718d3aabbd0f89a1d25f9b",
+  "extracted_text_sha256": "21f3b9dd4efd22672b678436fd6144f8a4e4a128b517e8b77ed4268eecb80cac",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

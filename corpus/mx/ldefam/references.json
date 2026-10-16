@@ -1,0 +1,39 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldefam:article:33:reference:394-396:25:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:ldefam:article:33",
+    "source_span": "25",
+    "start_char": 394,
+    "end_char": 396,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ldefam",
+    "target_provision_id": "urn:lex-mx:federal:statute:ldefam:article:25",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldefam:article:37:reference:73-75:36:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:ldefam:article:37",
+    "source_span": "36",
+    "start_char": 73,
+    "end_char": 75,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ldefam",
+    "target_provision_id": "urn:lex-mx:federal:statute:ldefam:article:36",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 48,
+        "end_char": 59
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lieg:article:49:reference:177-194:48:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lieg:article:49",
+    "source_span": "artículo anterior",
+    "start_char": 177,
+    "end_char": 194,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lieg",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lieg:article:48",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lieg:article:82:reference:109-110:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lieg:article:82",
+    "source_span": "5",
+    "start_char": 109,
+    "end_char": 110,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:5",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lieg:transitory:tercero:reference:60-62:45:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lieg:transitory:tercero",
+    "source_span": "45",
+    "start_char": 60,
+    "end_char": 62,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lieg",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lieg:article:45",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

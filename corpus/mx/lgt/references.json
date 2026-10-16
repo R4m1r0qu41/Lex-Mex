@@ -1,0 +1,76 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:article:61:reference:827-829:59:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgt:article:61",
+    "source_span": "59",
+    "start_char": 827,
+    "end_char": 829,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgt:article:59",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:article:70:reference:76-78:58:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgt:article:70",
+    "source_span": "58",
+    "start_char": 76,
+    "end_char": 78,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgt:article:58",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I, III y X",
+        "start_char": 41,
+        "end_char": 62
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:article:72:reference:46-48:58:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgt:article:72",
+    "source_span": "58",
+    "start_char": 46,
+    "end_char": 48,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgt:article:58",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 50,
+        "end_char": 61
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:article:72:reference:64-66:60:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgt:article:72",
+    "source_span": "60",
+    "start_char": 64,
+    "end_char": 66,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgt:article:60",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

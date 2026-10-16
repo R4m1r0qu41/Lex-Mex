@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lsniimsp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública",
+  "short_name": "LSNIIMSP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-07-16",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:46:02.604272Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf",
+  "source_sha256": "e23e37074b34f32fbf2e9b34648ecf8303d8a16cfbb80ae4253d26463992c28c",
+  "extracted_text_sha256": "5aa94734cc3ccdb5f73350122cf2a4c24dd323252059d7f5fdd0d694e0aabe36",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lrmineras",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear",
+  "short_name": "REG-LRMINERAS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1952-01-17",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T08:04:35.902314Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRMineras.pdf",
+  "source_sha256": "8ef9a27b82b610cf01c4a1a8ca220bf102f48b6f353fd3857a1e81d2373fc326",
+  "extracted_text_sha256": "83bc8ab891a8fe4c42c35bc14238d2b0c596a6d5a055375fb6da33180f07dc50",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

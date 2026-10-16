@@ -1,0 +1,3476 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:1:term-usage:73-85",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:constitucion",
+    "span": "Constitución",
+    "start_char": 73,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:1:term-usage:102-109",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estados",
+    "start_char": 102,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:1:term-usage:406-412",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 406,
+    "end_char": 412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:1:term-usage:493-505",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:constitucion",
+    "span": "Constitución",
+    "start_char": 493,
+    "end_char": 505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:1:term-usage:859-871",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:constitucion",
+    "span": "Constitución",
+    "start_char": 859,
+    "end_char": 871
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:1:term-usage:888-894",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 888,
+    "end_char": 894
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:1:term-usage:1088-1100",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1088,
+    "end_char": 1100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:3:term-usage:1420-1448",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 1420,
+    "end_char": 1448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:3:term-usage:1495-1523",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 1495,
+    "end_char": 1523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:3:term-usage:1607-1635",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 1607,
+    "end_char": 1635
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:3:term-usage:1687-1715",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 1687,
+    "end_char": 1715
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:3:term-usage:1770-1798",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 1770,
+    "end_char": 1798
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:3:term-usage:1852-1859",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estados",
+    "start_char": 1852,
+    "end_char": 1859
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:3:term-usage:2787-2816",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 2787,
+    "end_char": 2816
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:3:term-usage:2825-2853",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 2825,
+    "end_char": 2853
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:3:term-usage:3189-3195",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 3189,
+    "end_char": 3195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:3:term-usage:4684-4712",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 4684,
+    "end_char": 4712
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:3:term-usage:4741-4762",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programas-sectoriales",
+    "span": "Programas Sectoriales",
+    "start_char": 4741,
+    "end_char": 4762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:3:term-usage:5039-5067",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 5039,
+    "end_char": 5067
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:4:term-usage:47-53",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:4",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 47,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:5:term-usage:27-39",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:constitucion",
+    "span": "Constitución",
+    "start_char": 27,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:5:term-usage:56-63",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estados",
+    "start_char": 56,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:5:term-usage:85-91",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 85,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:5:term-usage:1093-1099",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 1093,
+    "end_char": 1099
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:6:term-usage:49-55",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 49,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:7:term-usage:50-56",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 50,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:7:term-usage:410-416",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 410,
+    "end_char": 416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:8:term-usage:60-66",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:8",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 60,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:8:term-usage:577-583",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:8",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 577,
+    "end_char": 583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:9:term-usage:804-829",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:9",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 804,
+    "end_char": 829
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:9:term-usage:856-872",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:9",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 856,
+    "end_char": 872
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:10:term-usage:43-68",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 43,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:10:term-usage:77-105",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 77,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:12:term-usage:15-21",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:12",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 15,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:12:term-usage:397-409",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:12",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:constitucion",
+    "span": "Constitución",
+    "start_char": 397,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:13:term-usage:278-290",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:13",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:constitucion",
+    "span": "Constitución",
+    "start_char": 278,
+    "end_char": 290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:13:term-usage:307-314",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:13",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estados",
+    "start_char": 307,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:13:term-usage:550-562",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:13",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:constitucion",
+    "span": "Constitución",
+    "start_char": 550,
+    "end_char": 562
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:13:term-usage:579-586",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:13",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estados",
+    "start_char": 579,
+    "end_char": 586
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:13:term-usage:1918-1943",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:13",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 1918,
+    "end_char": 1943
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:13:term-usage:1970-1986",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:13",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 1970,
+    "end_char": 1986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:13:term-usage:2408-2429",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:13",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programas-sectoriales",
+    "span": "Programas Sectoriales",
+    "start_char": 2408,
+    "end_char": 2429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:13:term-usage:3609-3625",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:13",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 3609,
+    "end_char": 3625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:13:term-usage:3634-3662",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:13",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 3634,
+    "end_char": 3662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:14:term-usage:127-152",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 127,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:14:term-usage:161-189",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 161,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:14:term-usage:375-404",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 375,
+    "end_char": 404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:14:term-usage:413-441",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 413,
+    "end_char": 441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:14:term-usage:764-789",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 764,
+    "end_char": 789
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:14:term-usage:943-959",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 943,
+    "end_char": 959
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:14:term-usage:990-1019",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 990,
+    "end_char": 1019
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:14:term-usage:1267-1292",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 1267,
+    "end_char": 1292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:15:term-usage:3-32",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:15",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 3,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:16:term-usage:3-32",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:16",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 3,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:16:term-usage:41-69",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:16",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 41,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:16:term-usage:447-463",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:16",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 447,
+    "end_char": 463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:16:term-usage:570-599",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:16",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 570,
+    "end_char": 599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:16:term-usage:617-642",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:16",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 617,
+    "end_char": 642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:16:term-usage:669-685",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:16",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 669,
+    "end_char": 685
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:16:term-usage:786-807",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:16",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programas-sectoriales",
+    "span": "Programas Sectoriales",
+    "start_char": 786,
+    "end_char": 807
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:16:term-usage:912-941",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:16",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 912,
+    "end_char": 941
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:17:term-usage:11-27",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:17",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 11,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:17:term-usage:36-64",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:17",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 36,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:17:term-usage:271-296",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:17",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 271,
+    "end_char": 296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:17:term-usage:812-822",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:17",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 812,
+    "end_char": 822
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:17:term-usage:908-924",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:17",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 908,
+    "end_char": 924
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:17:term-usage:939-964",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:17",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 939,
+    "end_char": 964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:17:term-usage:1163-1192",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:17",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 1163,
+    "end_char": 1192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:17:term-usage:1210-1218",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:17",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistemas",
+    "start_char": 1210,
+    "end_char": 1218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:18:term-usage:3-19",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 3,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:18:term-usage:573-589",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 573,
+    "end_char": 589
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:19:term-usage:109-115",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:19",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 109,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:19:term-usage:199-224",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:19",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 199,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:19:term-usage:671-677",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:19",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 671,
+    "end_char": 677
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:20:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:20",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:21:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:21",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:21:term-usage:286-304",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:21",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:recursos-naturales",
+    "span": "Recursos Naturales",
+    "start_char": 286,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:21:term-usage:936-961",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:21",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 936,
+    "end_char": 961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:21:term-usage:1212-1237",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:21",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 1212,
+    "end_char": 1237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:21:term-usage:1497-1522",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:21",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 1497,
+    "end_char": 1522
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:22:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:22",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:22:term-usage:417-442",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:22",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 417,
+    "end_char": 442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:22:term-usage:829-857",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:22",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 829,
+    "end_char": 857
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:22:term-usage:1036-1051",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:22",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desertificacion",
+    "span": "Desertificación",
+    "start_char": 1036,
+    "end_char": 1051
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:22:term-usage:1076-1094",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:22",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:recursos-naturales",
+    "span": "Recursos Naturales",
+    "start_char": 1076,
+    "end_char": 1094
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:22:term-usage:1120-1136",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:22",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:bienestar-social",
+    "span": "Bienestar Social",
+    "start_char": 1120,
+    "end_char": 1136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:22:term-usage:1189-1217",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:22",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 1189,
+    "end_char": 1217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:22:term-usage:1991-2020",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:22",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 1991,
+    "end_char": 2020
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:22:term-usage:2522-2547",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:22",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 2522,
+    "end_char": 2547
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:22:term-usage:2573-2589",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:22",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 2573,
+    "end_char": 2589
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:23:term-usage:906-935",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 906,
+    "end_char": 935
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:24:term-usage:77-105",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:24",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 77,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:24:term-usage:122-138",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:24",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 122,
+    "end_char": 138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:24:term-usage:257-267",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:24",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 257,
+    "end_char": 267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:24-bis:term-usage:838-845",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:24-bis",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 838,
+    "end_char": 845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:24-bis:term-usage:1292-1308",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:24-bis",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 1292,
+    "end_char": 1308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:24-bis:term-usage:1317-1345",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:24-bis",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 1317,
+    "end_char": 1345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:25:term-usage:4-22",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-estatal",
+    "span": "Consejos Estatales",
+    "start_char": 4,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:25:term-usage:130-148",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-estatal",
+    "span": "Consejos Estatales",
+    "start_char": 130,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:25:term-usage:331-356",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 331,
+    "end_char": 356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:25:term-usage:603-619",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 603,
+    "end_char": 619
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:25:term-usage:656-676",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-distrital",
+    "span": "Consejos Distritales",
+    "start_char": 656,
+    "end_char": 676
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:25:term-usage:790-815",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 790,
+    "end_char": 815
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:25:term-usage:1126-1142",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 1126,
+    "end_char": 1142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:25:term-usage:1179-1199",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-municipal",
+    "span": "Consejos Municipales",
+    "start_char": 1179,
+    "end_char": 1199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:25:term-usage:1387-1412",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 1387,
+    "end_char": 1412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:25:term-usage:1438-1459",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 1438,
+    "end_char": 1459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:25:term-usage:1686-1702",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 1686,
+    "end_char": 1702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:25:term-usage:1832-1850",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-estatal",
+    "span": "Consejos Estatales",
+    "start_char": 1832,
+    "end_char": 1850
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:26:term-usage:7-25",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:26",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-estatal",
+    "span": "Consejos Estatales",
+    "start_char": 7,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:27:term-usage:885-903",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:27",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programas-sectoriales",
+    "span": "Programa Sectorial",
+    "start_char": 885,
+    "end_char": 903
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:27:term-usage:1178-1188",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:27",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1178,
+    "end_char": 1188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:27:term-usage:1495-1513",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:27",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programas-sectoriales",
+    "span": "Programa Sectorial",
+    "start_char": 1495,
+    "end_char": 1513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:27:term-usage:3278-3285",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:27",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 3278,
+    "end_char": 3285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:27:term-usage:3318-3346",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:27",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 3318,
+    "end_char": 3346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:29:term-usage:278-307",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:29",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 278,
+    "end_char": 307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:29:term-usage:314-335",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:29",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programas-sectoriales",
+    "span": "Programas Sectoriales",
+    "start_char": 314,
+    "end_char": 335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:29:term-usage:677-697",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:29",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-municipal",
+    "span": "Consejos Municipales",
+    "start_char": 677,
+    "end_char": 697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:29:term-usage:823-851",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:29",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 823,
+    "end_char": 851
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:29:term-usage:904-921",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:29",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-distrital",
+    "span": "Consejo Distrital",
+    "start_char": 904,
+    "end_char": 921
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:29:term-usage:956-976",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:29",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-municipal",
+    "span": "Consejos Municipales",
+    "start_char": 956,
+    "end_char": 976
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:29:term-usage:981-991",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:29",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 981,
+    "end_char": 991
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:29:term-usage:1030-1048",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:29",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-estatal",
+    "span": "Consejos Estatales",
+    "start_char": 1030,
+    "end_char": 1048
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:30:term-usage:81-91",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:30",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 81,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:30:term-usage:389-406",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:30",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-municipal",
+    "span": "Consejo Municipal",
+    "start_char": 389,
+    "end_char": 406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:30:term-usage:552-562",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:30",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 552,
+    "end_char": 562
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:30:term-usage:892-910",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:30",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-estatal",
+    "span": "Consejos Estatales",
+    "start_char": 892,
+    "end_char": 910
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:31:term-usage:1196-1214",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:31",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-estatal",
+    "span": "Consejos Estatales",
+    "start_char": 1196,
+    "end_char": 1214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:31:term-usage:1602-1617",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:31",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-estatal",
+    "span": "Consejo Estatal",
+    "start_char": 1602,
+    "end_char": 1617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:33:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:33",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:33:term-usage:55-71",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:33",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 55,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:33:term-usage:129-157",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:33",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 129,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:33:term-usage:752-780",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:33",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 752,
+    "end_char": 780
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:34:term-usage:233-240",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:34",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 233,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:34:term-usage:303-331",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:34",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 303,
+    "end_char": 331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:34:term-usage:354-360",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:34",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 354,
+    "end_char": 360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:34:term-usage:809-816",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:34",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 809,
+    "end_char": 816
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:35:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:35",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:35:term-usage:73-101",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:35",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 73,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:35:term-usage:124-134",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:35",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 124,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:35:term-usage:540-547",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:35",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 540,
+    "end_char": 547
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:35:term-usage:1059-1075",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:35",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 1059,
+    "end_char": 1075
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:35:term-usage:1084-1112",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:35",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 1084,
+    "end_char": 1112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:35:term-usage:1119-1137",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:35",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-estatal",
+    "span": "Consejos Estatales",
+    "start_char": 1119,
+    "end_char": 1137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:35:term-usage:1146-1174",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:35",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 1146,
+    "end_char": 1174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:35:term-usage:1208-1233",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:35",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 1208,
+    "end_char": 1233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:36:term-usage:263-273",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:36",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 263,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:36:term-usage:836-846",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:36",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 836,
+    "end_char": 846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:36:term-usage:1094-1104",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:36",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1094,
+    "end_char": 1104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:37:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:37",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:37:term-usage:73-101",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:37",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 73,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:37:term-usage:935-942",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:37",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 935,
+    "end_char": 942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:38:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:38",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:38:term-usage:73-101",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:38",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 73,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:38:term-usage:307-336",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:38",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 307,
+    "end_char": 336
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:39:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:39",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:41:term-usage:501-508",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:41",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 501,
+    "end_char": 508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:42:term-usage:74-81",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:42",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 74,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:43:term-usage:84-91",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:43",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 84,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:43:term-usage:351-358",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:43",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 351,
+    "end_char": 358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:44:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:44",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:44:term-usage:95-105",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:44",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 95,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:44:term-usage:134-150",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:44",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 134,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:44:term-usage:159-187",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:44",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 159,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:44:term-usage:225-253",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:44",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 225,
+    "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:44:term-usage:934-944",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:44",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 934,
+    "end_char": 944
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:45:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:45",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:45:term-usage:996-1003",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:45",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 996,
+    "end_char": 1003
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:46:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:46",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:47:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:47",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:47:term-usage:88-96",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:47",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicio",
+    "start_char": 88,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:48:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:48",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicio",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:48:term-usage:153-164",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:48",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 153,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:48:term-usage:249-267",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:48",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:recursos-naturales",
+    "span": "Recursos Naturales",
+    "start_char": 249,
+    "end_char": 267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:48:term-usage:570-586",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:48",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 570,
+    "end_char": 586
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:48:term-usage:601-619",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:48",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-estatal",
+    "span": "Consejos Estatales",
+    "start_char": 601,
+    "end_char": 619
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:48:term-usage:1114-1135",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:48",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 1114,
+    "end_char": 1135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:50:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:50",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:50:term-usage:107-115",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:50",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicio",
+    "start_char": 107,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:50:term-usage:476-486",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:50",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 476,
+    "end_char": 486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:50:term-usage:851-859",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:50",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicio",
+    "start_char": 851,
+    "end_char": 859
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:51:term-usage:174-180",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:51",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 174,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:53:term-usage:398-408",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 398,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:54:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:54",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:57:term-usage:395-405",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:57",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 395,
+    "end_char": 405
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:57:term-usage:426-444",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:57",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:recursos-naturales",
+    "span": "Recursos Naturales",
+    "start_char": 426,
+    "end_char": 444
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:60:term-usage:84-93",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:60",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicios",
+    "start_char": 84,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:60:term-usage:144-165",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:60",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programas-sectoriales",
+    "span": "Programas Sectoriales",
+    "start_char": 144,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:60:term-usage:188-217",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:60",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 188,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:64:term-usage:166-187",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:64",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 166,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:66:term-usage:293-318",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:66",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 293,
+    "end_char": 318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:68:term-usage:142-167",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:68",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 142,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:68:term-usage:225-237",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:68",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:constitucion",
+    "span": "Constitución",
+    "start_char": 225,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:71:term-usage:626-651",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:71",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 626,
+    "end_char": 651
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:71:term-usage:678-694",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:71",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 678,
+    "end_char": 694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:76:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:76",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:77:term-usage:274-299",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:77",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 274,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:78:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:78",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:78:term-usage:55-71",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:78",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 55,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:81:term-usage:41-70",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:81",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 41,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:90:term-usage:46-62",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:90",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 46,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:92:term-usage:87-94",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:92",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 87,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:92:term-usage:195-205",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:92",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 195,
+    "end_char": 205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:93:term-usage:43-50",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:93",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 43,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:93:term-usage:123-148",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:93",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 123,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:94:term-usage:12-20",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:94",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicio",
+    "start_char": 12,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:94:term-usage:486-496",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:94",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 486,
+    "end_char": 496
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:94:term-usage:620-645",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:94",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 620,
+    "end_char": 645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:94:term-usage:672-688",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:94",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 672,
+    "end_char": 688
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:95:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:95",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:95:term-usage:55-71",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:95",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 55,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:95:term-usage:89-99",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:95",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 89,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:96:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:96",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:96:term-usage:24-32",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:96",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicio",
+    "start_char": 24,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:96:term-usage:727-752",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:96",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 727,
+    "end_char": 752
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:98:term-usage:35-43",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:98",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicio",
+    "start_char": 35,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:99:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:99",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicio",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:100:term-usage:5-13",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:100",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicio",
+    "start_char": 5,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:101:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:101",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicio",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:101:term-usage:238-248",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:101",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 238,
+    "end_char": 248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:102:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:102",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicio",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:103:term-usage:110-135",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:103",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 110,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:103:term-usage:298-319",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:103",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 298,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:106:term-usage:43-68",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:106",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 43,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:106:term-usage:95-111",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:106",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 95,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:106:term-usage:136-143",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:106",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 136,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:106:term-usage:423-434",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:106",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 423,
+    "end_char": 434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:107:term-usage:83-111",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:107",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:agentes-de-la-sociedad-rural",
+    "span": "Agentes de la Sociedad Rural",
+    "start_char": 83,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:109:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:109",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:109:term-usage:24-31",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:109",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 24,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:109:term-usage:64-92",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:109",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 64,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:110:term-usage:58-74",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:110",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema-producto",
+    "span": "Sistema-Producto",
+    "start_char": 58,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:110:term-usage:116-141",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:110",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 116,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:110:term-usage:647-672",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:110",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 647,
+    "end_char": 672
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:110:term-usage:917-933",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:110",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema-producto",
+    "span": "Sistema-Producto",
+    "start_char": 917,
+    "end_char": 933
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:110:term-usage:956-972",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:110",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 956,
+    "end_char": 972
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:111:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:111",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:111:term-usage:55-71",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:111",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 55,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:111:term-usage:1209-1234",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:111",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 1209,
+    "end_char": 1234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:111:term-usage:1262-1278",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:111",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 1262,
+    "end_char": 1278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:112:term-usage:36-46",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:112",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 36,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:113:term-usage:109-119",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:113",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 109,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:115-bis:term-usage:701-711",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:115-bis",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 701,
+    "end_char": 711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:115-bis:term-usage:748-758",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:115-bis",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 748,
+    "end_char": 758
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:115-bis:term-usage:871-896",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:115-bis",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 871,
+    "end_char": 896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:115-bis:term-usage:1054-1064",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:115-bis",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1054,
+    "end_char": 1064
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:116:term-usage:1117-1142",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:116",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 1117,
+    "end_char": 1142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:116:term-usage:1169-1185",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:116",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 1169,
+    "end_char": 1185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:116:term-usage:1216-1223",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:116",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 1216,
+    "end_char": 1223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:117:term-usage:22-29",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:117",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 22,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:117:term-usage:251-258",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:117",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 251,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:117:term-usage:381-388",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:117",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 381,
+    "end_char": 388
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:117:term-usage:421-449",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:117",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 421,
+    "end_char": 449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:117:term-usage:588-613",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:117",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 588,
+    "end_char": 613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:117:term-usage:636-652",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:117",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 636,
+    "end_char": 652
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:118:term-usage:23-29",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:118",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 23,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:118:term-usage:56-63",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:118",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 56,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:118:term-usage:309-316",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:118",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 309,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:118:term-usage:405-412",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:118",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 405,
+    "end_char": 412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:118:term-usage:445-473",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:118",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 445,
+    "end_char": 473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:118:term-usage:585-610",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:118",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 585,
+    "end_char": 610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:118:term-usage:636-652",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:118",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 636,
+    "end_char": 652
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:118:term-usage:919-944",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:118",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 919,
+    "end_char": 944
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:118:term-usage:970-986",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:118",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 970,
+    "end_char": 986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:118:term-usage:1061-1068",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:118",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 1061,
+    "end_char": 1068
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:119:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:119",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:119:term-usage:55-71",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:119",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 55,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:121:term-usage:35-60",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:121",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 35,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:122:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:122",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:122:term-usage:53-63",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:122",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 53,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:124:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:124",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:127:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:127",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:127:term-usage:370-395",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:127",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 370,
+    "end_char": 395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:128:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:128",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:130:term-usage:141-166",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:130",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 141,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:132:term-usage:119-134",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:132",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-estatal",
+    "span": "Consejo Estatal",
+    "start_char": 119,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:134:term-usage:213-220",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:134",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 213,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:134:term-usage:253-281",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:134",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 253,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:134:term-usage:411-420",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:134",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicios",
+    "start_char": 411,
+    "end_char": 420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:134:term-usage:582-589",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:134",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 582,
+    "end_char": 589
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:134:term-usage:622-650",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:134",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 622,
+    "end_char": 650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:134:term-usage:1113-1120",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:134",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 1113,
+    "end_char": 1120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:135:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:135",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:135:term-usage:43-71",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:135",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 43,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:135:term-usage:467-474",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:135",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 467,
+    "end_char": 474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:135:term-usage:860-876",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:135",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 860,
+    "end_char": 876
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:135:term-usage:911-936",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:135",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 911,
+    "end_char": 936
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:136:term-usage:27-52",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:136",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 27,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:136:term-usage:212-219",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:136",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 212,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:136:term-usage:252-280",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:136",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 252,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:137:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:137",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:137:term-usage:43-71",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:137",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 43,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:137:term-usage:190-197",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:137",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 190,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:137:term-usage:317-324",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:137",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistema",
+    "start_char": 317,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:137:term-usage:357-385",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:137",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 357,
+    "end_char": 385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:137:term-usage:661-671",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:137",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 661,
+    "end_char": 671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:138:term-usage:87-93",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:138",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 87,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:139:term-usage:198-208",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:139",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 198,
+    "end_char": 208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:139:term-usage:739-757",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:139",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:entidades-federativas",
+    "span": "Entidad Federativa",
+    "start_char": 739,
+    "end_char": 757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:142:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:142",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:143:term-usage:1544-1569",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:143",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 1544,
+    "end_char": 1569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:143:term-usage:1595-1611",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:143",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 1595,
+    "end_char": 1611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:146:term-usage:378-388",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:146",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 378,
+    "end_char": 388
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:147:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:147",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:147:term-usage:44-52",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:147",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicio",
+    "start_char": 44,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:148:term-usage:1059-1084",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:148",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 1059,
+    "end_char": 1084
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:148:term-usage:1111-1127",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:148",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 1111,
+    "end_char": 1127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:149:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:149",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:149:term-usage:72-80",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:149",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistemas",
+    "start_char": 72,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:149:term-usage:109-125",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:149",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 109,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:149:term-usage:1129-1135",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:149",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 1129,
+    "end_char": 1135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:149:term-usage:1150-1166",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:149",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema-producto",
+    "span": "Sistema-Producto",
+    "start_char": 1150,
+    "end_char": 1166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:149:term-usage:1323-1348",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:149",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 1323,
+    "end_char": 1348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:149:term-usage:1384-1392",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:149",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistemas",
+    "start_char": 1384,
+    "end_char": 1392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:149:term-usage:1519-1535",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:149",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema-producto",
+    "span": "Sistema-Producto",
+    "start_char": 1519,
+    "end_char": 1535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:150:term-usage:37-53",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:150",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema-producto",
+    "span": "Sistema-Producto",
+    "start_char": 37,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:150:term-usage:113-129",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:150",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 113,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:150:term-usage:174-190",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:150",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema-producto",
+    "span": "Sistema-Producto",
+    "start_char": 174,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:150:term-usage:284-300",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:150",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema-producto",
+    "span": "Sistema-Producto",
+    "start_char": 284,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:150:term-usage:732-748",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:150",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema-producto",
+    "span": "Sistema-Producto",
+    "start_char": 732,
+    "end_char": 748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:150:term-usage:777-793",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:150",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 777,
+    "end_char": 793
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:151:term-usage:54-70",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:151",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema-producto",
+    "span": "Sistema-Producto",
+    "start_char": 54,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:151:term-usage:318-334",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:151",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema-producto",
+    "span": "Sistema-Producto",
+    "start_char": 318,
+    "end_char": 334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:152:term-usage:4-20",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:152",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema-producto",
+    "span": "Sistema-Producto",
+    "start_char": 4,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:153:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:153",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:153:term-usage:55-71",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:153",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 55,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:154:term-usage:691-720",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:154",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 691,
+    "end_char": 720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:154:term-usage:1228-1245",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:154",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-municipal",
+    "span": "Consejo Municipal",
+    "start_char": 1228,
+    "end_char": 1245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:154:term-usage:2329-2349",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:154",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-municipal",
+    "span": "Consejos Municipales",
+    "start_char": 2329,
+    "end_char": 2349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:154:term-usage:2639-2668",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:154",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 2639,
+    "end_char": 2668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:154:term-usage:4033-4061",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:154",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 4033,
+    "end_char": 4061
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:155:term-usage:16-45",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:155",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 16,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:155:term-usage:50-56",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:155",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 50,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:155:term-usage:327-356",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:155",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 327,
+    "end_char": 356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:159:term-usage:320-349",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:159",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 320,
+    "end_char": 349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:160:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:160",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:160:term-usage:123-139",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:160",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 123,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:160:term-usage:394-423",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:160",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 394,
+    "end_char": 423
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:162:term-usage:554-583",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:162",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 554,
+    "end_char": 583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:163:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:163",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:163:term-usage:55-71",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:163",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 55,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:166:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:166",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:166:term-usage:98-114",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:166",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 98,
+    "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:168:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:168",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:168:term-usage:55-71",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:168",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 55,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:170:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:170",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:170:term-usage:55-71",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:170",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 55,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:172:term-usage:392-402",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:172",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 392,
+    "end_char": 402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:172:term-usage:423-441",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:172",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:recursos-naturales",
+    "span": "Recursos Naturales",
+    "start_char": 423,
+    "end_char": 441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:172:term-usage:569-575",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:172",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 569,
+    "end_char": 575
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:173:term-usage:47-53",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:173",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 47,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:176:term-usage:423-448",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:176",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 423,
+    "end_char": 448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:176:term-usage:475-491",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:176",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 475,
+    "end_char": 491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:177:term-usage:226-236",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:177",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 226,
+    "end_char": 236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:177:term-usage:257-275",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:177",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:recursos-naturales",
+    "span": "Recursos Naturales",
+    "start_char": 257,
+    "end_char": 275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:178:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:178",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:179:term-usage:151-176",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:179",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 151,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:179:term-usage:203-219",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:179",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 203,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:179:term-usage:241-249",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:179",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistemas",
+    "start_char": 241,
+    "end_char": 249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:184:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:184",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:184:term-usage:55-71",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:184",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 55,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:184:term-usage:86-94",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:184",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicio",
+    "start_char": 86,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:185:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:185",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicio",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:185:term-usage:1185-1201",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:185",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema-producto",
+    "span": "Sistema-Producto",
+    "start_char": 1185,
+    "end_char": 1201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:186:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:186",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:186:term-usage:40-48",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:186",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:servicio",
+    "span": "Servicio",
+    "start_char": 40,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:186:term-usage:412-420",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:186",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema",
+    "span": "Sistemas",
+    "start_char": 412,
+    "end_char": 420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:186:term-usage:552-577",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:186",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 552,
+    "end_char": 577
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:187:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:187",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:187:term-usage:55-71",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:187",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 55,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:188:term-usage:206-218",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:188",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:constitucion",
+    "span": "Constitución",
+    "start_char": 206,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:188:term-usage:235-242",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:188",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estados",
+    "start_char": 235,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:188:term-usage:448-458",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:188",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 448,
+    "end_char": 458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:188:term-usage:1535-1560",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:188",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 1535,
+    "end_char": 1560
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:188:term-usage:1578-1588",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:188",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1578,
+    "end_char": 1588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:189:term-usage:254-275",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:189",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programas-sectoriales",
+    "span": "Programas Sectoriales",
+    "start_char": 254,
+    "end_char": 275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:189:term-usage:297-326",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:189",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 297,
+    "end_char": 326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:191:term-usage:1172-1201",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:191",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 1172,
+    "end_char": 1201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:article:191:term-usage:1781-1787",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:article:191",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:estado",
+    "span": "Estado",
+    "start_char": 1781,
+    "end_char": 1787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:transitory:septimo:term-usage:20-36",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:consejo-mexicano",
+    "span": "Consejo Mexicano",
+    "start_char": 20,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:transitory:septimo:term-usage:45-73",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 45,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:transitory:septimo:term-usage:97-122",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 97,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:transitory:septimo:term-usage:131-159",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 131,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:transitory:octavo:term-usage:31-47",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:sistema-producto",
+    "span": "Sistema-Producto",
+    "start_char": 31,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:transitory:decimo:term-usage:125-154",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:programa-especial-concurrente",
+    "span": "Programa Especial Concurrente",
+    "start_char": 125,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldrs:transitory:decimo:term-usage:163-191",
+    "provision_id": "urn:lex-mx:federal:statute:ldrs:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:ldrs:term:desarrollo-rural-sustentable",
+    "span": "Desarrollo Rural Sustentable",
+    "start_char": 163,
+    "end_char": 191
+  }
+]

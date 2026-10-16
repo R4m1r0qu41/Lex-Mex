@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lges",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Educación Superior",
+  "short_name": "LGES",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2021-04-20",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:33:06.593748Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf",
+  "source_sha256": "eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12",
+  "extracted_text_sha256": "1351eebb19e06664ba495f5806b3dc27f568e7705452fe5496362ea227b5f2da",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

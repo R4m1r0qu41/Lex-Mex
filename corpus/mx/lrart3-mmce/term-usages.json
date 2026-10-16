@@ -1,0 +1,164 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:1:term-usage:487-496",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:formacion",
+    "span": "Formación",
+    "start_char": 487,
+    "end_char": 496
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:1:term-usage:498-511",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:actualizacion",
+    "span": "Actualización",
+    "start_char": 498,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:1:term-usage:514-526",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:capacitacion",
+    "span": "Capacitación",
+    "start_char": 514,
+    "end_char": 526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:14:term-usage:23-32",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:formacion",
+    "span": "Formación",
+    "start_char": 23,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:14:term-usage:34-46",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:capacitacion",
+    "span": "Capacitación",
+    "start_char": 34,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:14:term-usage:49-62",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:actualizacion",
+    "span": "Actualización",
+    "start_char": 49,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:14:term-usage:1219-1228",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:formacion",
+    "span": "Formación",
+    "start_char": 1219,
+    "end_char": 1228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:14:term-usage:1230-1242",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:capacitacion",
+    "span": "Capacitación",
+    "start_char": 1230,
+    "end_char": 1242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:14:term-usage:1245-1258",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:actualizacion",
+    "span": "Actualización",
+    "start_char": 1245,
+    "end_char": 1258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:15:term-usage:106-115",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:formacion",
+    "span": "Formación",
+    "start_char": 106,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:15:term-usage:117-129",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:capacitacion",
+    "span": "Capacitación",
+    "start_char": 117,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:15:term-usage:132-145",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:actualizacion",
+    "span": "Actualización",
+    "start_char": 132,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:19:term-usage:23-32",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:formacion",
+    "span": "Formación",
+    "start_char": 23,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:19:term-usage:34-46",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:capacitacion",
+    "span": "Capacitación",
+    "start_char": 34,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:19:term-usage:49-62",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:actualizacion",
+    "span": "Actualización",
+    "start_char": 49,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:20:term-usage:335-344",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:formacion",
+    "span": "Formación",
+    "start_char": 335,
+    "end_char": 344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:20:term-usage:346-358",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:capacitacion",
+    "span": "Capacitación",
+    "start_char": 346,
+    "end_char": 358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:article:20:term-usage:361-374",
+    "provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lrart3-mmce:term:actualizacion",
+    "span": "Actualización",
+    "start_char": 361,
+    "end_char": 374
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:term:actualizacion",
+    "term": "Actualización",
+    "instrument_id": "urn:lex-mx:federal:statute:lrart3-mmce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:15",
+    "fraction": "I",
+    "start_char": 166,
+    "end_char": 373,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:term:capacitacion",
+    "term": "Capacitación",
+    "instrument_id": "urn:lex-mx:federal:statute:lrart3-mmce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:15",
+    "fraction": "II",
+    "start_char": 373,
+    "end_char": 631,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart3-mmce:term:formacion",
+    "term": "Formación",
+    "instrument_id": "urn:lex-mx:federal:statute:lrart3-mmce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrart3-mmce:article:15",
+    "fraction": "III",
+    "start_char": 631,
+    "end_char": 910,
+    "basis": "express_definition"
+  }
+]

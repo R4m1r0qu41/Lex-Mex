@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:linpi",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINPI.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linpi.htm",
+  "retrieved_at": "2026-10-14T07:38:02.002314Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 423906,
+  "etag": "\"677e2-60f3f31324bc0\"",
+  "last_modified": "Thu, 18 Jan 2024 21:39:03 GMT",
+  "source_sha256": "f9c395f4ea69c08016d20173667f4c2dd5de0b2898bb119d806e8274dca6dd98",
+  "extracted_text_sha256": "84ec7e033393b12bb852869184e878f9778cf30e6062bcb969b82708755c8af2",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

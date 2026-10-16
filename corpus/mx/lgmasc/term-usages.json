@@ -1,0 +1,2882 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:1:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:1:term-usage:433-436",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 433,
+    "end_char": 436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:2:term-usage:72-75",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 72,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:2:term-usage:320-357",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
+    "span": "Tribunales de Justicia Administrativa",
+    "start_char": 320,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:3:term-usage:76-79",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 76,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:3:term-usage:285-288",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 285,
+    "end_char": 288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:21-24",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 21,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:339-391",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 339,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:629-632",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 629,
+    "end_char": 632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:714-784",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 714,
+    "end_char": 784
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:858-895",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
+    "span": "Tribunales de Justicia Administrativa",
+    "start_char": 858,
+    "end_char": 895
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:1045-1048",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1045,
+    "end_char": 1048
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:1147-1199",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 1147,
+    "end_char": 1199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:1371-1374",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1371,
+    "end_char": 1374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:1802-1839",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
+    "span": "Tribunales de Justicia Administrativa",
+    "start_char": 1802,
+    "end_char": 1839
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:1893-1945",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 1893,
+    "end_char": 1945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:2009-2061",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 2009,
+    "end_char": 2061
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:2161-2164",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 2161,
+    "end_char": 2164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:2626-2678",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 2626,
+    "end_char": 2678
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:3232-3235",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 3232,
+    "end_char": 3235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:3474-3477",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 3474,
+    "end_char": 3477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:3922-3925",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 3922,
+    "end_char": 3925
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:4907-4929",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:persona-facilitadora",
+    "span": "Personas Facilitadoras",
+    "start_char": 4907,
+    "end_char": 4929
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:5256-5278",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:persona-facilitadora",
+    "span": "Personas Facilitadoras",
+    "start_char": 5256,
+    "end_char": 5278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:5314-5321",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 5314,
+    "end_char": 5321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:5901-5910",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenios",
+    "start_char": 5901,
+    "end_char": 5910
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:5977-6047",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 5977,
+    "end_char": 6047
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:6156-6165",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenios",
+    "start_char": 6156,
+    "end_char": 6165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:6223-6243",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
+    "span": "Sistema de Convenios",
+    "start_char": 6223,
+    "end_char": 6243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:6322-6329",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 6322,
+    "end_char": 6329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:5:term-usage:6560-6563",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 6560,
+    "end_char": 6563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:6:term-usage:32-35",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 32,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:6:term-usage:1248-1251",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1248,
+    "end_char": 1251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:6:term-usage:1977-2014",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
+    "span": "Tribunales de Justicia Administrativa",
+    "start_char": 1977,
+    "end_char": 2014
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:6:term-usage:3118-3121",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 3118,
+    "end_char": 3121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:7:term-usage:228-280",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 228,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:8:term-usage:298-301",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 298,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:9:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:10:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:10:term-usage:77-129",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 77,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:11:term-usage:19-26",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 19,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:12:term-usage:26-33",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 26,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:12:term-usage:152-159",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 152,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:12:term-usage:327-334",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 327,
+    "end_char": 334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:13:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:14:term-usage:195-202",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 195,
+    "end_char": 202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:15:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:16:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:16:term-usage:142-194",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 142,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:15-22",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 15,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:253-298",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:plataforma-nacional-de-personas-facilitadoras",
+    "span": "Plataforma Nacional de Personas Facilitadoras",
+    "start_char": 253,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:484-491",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 484,
+    "end_char": 491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:624-645",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
+    "span": "Sistemas de Convenios",
+    "start_char": 624,
+    "end_char": 645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:724-732",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejos",
+    "start_char": 724,
+    "end_char": 732
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:982-985",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 982,
+    "end_char": 985
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:18:term-usage:1406-1409",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1406,
+    "end_char": 1409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:19:term-usage:60-67",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 60,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:19:term-usage:412-464",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 412,
+    "end_char": 464
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:19:term-usage:513-547",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registro de Personas Facilitadoras",
+    "start_char": 513,
+    "end_char": 547
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:19:term-usage:554-574",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
+    "span": "Sistema de Convenios",
+    "start_char": 554,
+    "end_char": 574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:19:term-usage:671-705",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registro de Personas Facilitadoras",
+    "start_char": 671,
+    "end_char": 705
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:19:term-usage:1260-1312",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 1260,
+    "end_char": 1312
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:19:term-usage:1396-1448",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 1396,
+    "end_char": 1448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:19:term-usage:1535-1538",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1535,
+    "end_char": 1538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:19:term-usage:1751-1756",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Leyes",
+    "start_char": 1751,
+    "end_char": 1756
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:21:term-usage:230-237",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 230,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:22:term-usage:15-67",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 15,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:23:term-usage:24-76",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 24,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:23:term-usage:238-241",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 238,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:24:term-usage:29-81",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 29,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:24:term-usage:1201-1235",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registro de Personas Facilitadoras",
+    "start_char": 1201,
+    "end_char": 1235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:24:term-usage:1652-1696",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-nacional-de-informacion-de-convenios",
+    "span": "Sistema Nacional de Información de Convenios",
+    "start_char": 1652,
+    "end_char": 1696
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:24:term-usage:1783-1803",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
+    "span": "Sistema de Convenios",
+    "start_char": 1783,
+    "end_char": 1803
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:25:term-usage:122-125",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 122,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:25:term-usage:140-160",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
+    "span": "Sistema de Convenios",
+    "start_char": 140,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:26:term-usage:24-76",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 24,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:26:term-usage:175-219",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-nacional-de-informacion-de-convenios",
+    "span": "Sistema Nacional de Información de Convenios",
+    "start_char": 175,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:26:term-usage:271-316",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:plataforma-nacional-de-personas-facilitadoras",
+    "span": "Plataforma Nacional de Personas Facilitadoras",
+    "start_char": 271,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:26:term-usage:408-415",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 408,
+    "end_char": 415
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:27:term-usage:23-93",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 23,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:28:term-usage:50-102",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 50,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:37-107",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 37,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:256-259",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 256,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:368-438",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 368,
+    "end_char": 438
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:724-733",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenios",
+    "start_char": 724,
+    "end_char": 733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:1145-1190",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:plataforma-nacional-de-personas-facilitadoras",
+    "span": "Plataforma Nacional de Personas Facilitadoras",
+    "start_char": 1145,
+    "end_char": 1190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:1477-1484",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 1477,
+    "end_char": 1484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:1676-1683",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 1676,
+    "end_char": 1683
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:1917-1962",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:plataforma-nacional-de-personas-facilitadoras",
+    "span": "Plataforma Nacional de Personas Facilitadoras",
+    "start_char": 1917,
+    "end_char": 1962
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:29:term-usage:2149-2152",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 2149,
+    "end_char": 2152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:30:term-usage:278-281",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 278,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:30:term-usage:455-458",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 455,
+    "end_char": 458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:30:term-usage:499-506",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 499,
+    "end_char": 506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:30:term-usage:553-561",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejos",
+    "start_char": 553,
+    "end_char": 561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:30:term-usage:733-736",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 733,
+    "end_char": 736
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:30:term-usage:884-954",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 884,
+    "end_char": 954
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:30:term-usage:1383-1390",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 1383,
+    "end_char": 1390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:30:term-usage:2376-2379",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 2376,
+    "end_char": 2379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:31:term-usage:59-62",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 59,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:32:term-usage:244-247",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 244,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:34:term-usage:147-181",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registro de Personas Facilitadoras",
+    "start_char": 147,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:34:term-usage:256-259",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 256,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:34:term-usage:448-455",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 448,
+    "end_char": 455
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:35:term-usage:259-262",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 259,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:36:term-usage:221-224",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 221,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:37:term-usage:298-301",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 298,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:38:term-usage:287-290",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 287,
+    "end_char": 290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:38:term-usage:370-377",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 370,
+    "end_char": 377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:38:term-usage:427-435",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejos",
+    "start_char": 427,
+    "end_char": 435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:39:term-usage:3-16",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:certificacion",
+    "span": "Certificación",
+    "start_char": 3,
+    "end_char": 16
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:39:term-usage:318-321",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 318,
+    "end_char": 321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:40:term-usage:31-44",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:certificacion",
+    "span": "Certificación",
+    "start_char": 31,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:42:term-usage:24-76",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 24,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:42:term-usage:101-135",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registro de Personas Facilitadoras",
+    "start_char": 101,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:43:term-usage:18-31",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:certificacion",
+    "span": "Certificación",
+    "start_char": 18,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:43:term-usage:230-237",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 230,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:43:term-usage:288-301",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:certificacion",
+    "span": "Certificación",
+    "start_char": 288,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:43:term-usage:460-463",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 460,
+    "end_char": 463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:44:term-usage:164-177",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:certificacion",
+    "span": "Certificación",
+    "start_char": 164,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:44:term-usage:230-243",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:certificacion",
+    "span": "Certificación",
+    "start_char": 230,
+    "end_char": 243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:44:term-usage:286-289",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 286,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:44:term-usage:393-427",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registro de Personas Facilitadoras",
+    "start_char": 393,
+    "end_char": 427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:44:term-usage:493-506",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:certificacion",
+    "span": "Certificación",
+    "start_char": 493,
+    "end_char": 506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:44:term-usage:593-596",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 593,
+    "end_char": 596
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:44:term-usage:696-699",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 696,
+    "end_char": 699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:44:term-usage:898-901",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 898,
+    "end_char": 901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:44:term-usage:961-964",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 961,
+    "end_char": 964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:47:term-usage:463-466",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 463,
+    "end_char": 466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:47:term-usage:549-552",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 549,
+    "end_char": 552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:47:term-usage:772-775",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 772,
+    "end_char": 775
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:47:term-usage:877-884",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 877,
+    "end_char": 884
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:48:term-usage:159-162",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 159,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:48:term-usage:463-466",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 463,
+    "end_char": 466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:48:term-usage:618-621",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 618,
+    "end_char": 621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:49:term-usage:105-139",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registro de Personas Facilitadoras",
+    "start_char": 105,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:49:term-usage:180-185",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Leyes",
+    "start_char": 180,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:50:term-usage:156-159",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 156,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:51:term-usage:38-90",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 38,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:51:term-usage:103-137",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registro de Personas Facilitadoras",
+    "start_char": 103,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:51:term-usage:224-237",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:certificacion",
+    "span": "Certificación",
+    "start_char": 224,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:52:term-usage:44-78",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registro de Personas Facilitadoras",
+    "start_char": 44,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:52:term-usage:181-194",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:certificacion",
+    "span": "Certificación",
+    "start_char": 181,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:52:term-usage:286-299",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:certificacion",
+    "span": "Certificación",
+    "start_char": 286,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:52:term-usage:346-349",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 346,
+    "end_char": 349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:53:term-usage:3-37",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registro de Personas Facilitadoras",
+    "start_char": 3,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:53:term-usage:151-196",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:plataforma-nacional-de-personas-facilitadoras",
+    "span": "Plataforma Nacional de Personas Facilitadoras",
+    "start_char": 151,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:54:term-usage:3-48",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:plataforma-nacional-de-personas-facilitadoras",
+    "span": "Plataforma Nacional de Personas Facilitadoras",
+    "start_char": 3,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:54:term-usage:157-164",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 157,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:54:term-usage:276-310",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registro de Personas Facilitadoras",
+    "start_char": 276,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:54:term-usage:416-423",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 416,
+    "end_char": 423
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:55:term-usage:3-48",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:plataforma-nacional-de-personas-facilitadoras",
+    "span": "Plataforma Nacional de Personas Facilitadoras",
+    "start_char": 3,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:55:term-usage:410-417",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 410,
+    "end_char": 417
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:56:term-usage:101-146",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:plataforma-nacional-de-personas-facilitadoras",
+    "span": "Plataforma Nacional de Personas Facilitadoras",
+    "start_char": 101,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:57:term-usage:354-357",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 354,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:57:term-usage:813-816",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 813,
+    "end_char": 816
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:59:term-usage:717-720",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 717,
+    "end_char": 720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:61:term-usage:615-618",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 615,
+    "end_char": 618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:65:term-usage:545-615",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 545,
+    "end_char": 615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:73:term-usage:145-152",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 145,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:78:term-usage:744-747",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 744,
+    "end_char": 747
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:79:term-usage:275-280",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Leyes",
+    "start_char": 275,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:81:term-usage:273-276",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 273,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:82:term-usage:691-694",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 691,
+    "end_char": 694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:86:term-usage:3-37",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:solucion-de-controversias-en-linea",
+    "span": "Solución de Controversias en Línea",
+    "start_char": 3,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:86:term-usage:141-144",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 141,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:87:term-usage:1079-1082",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1079,
+    "end_char": 1082
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:87:term-usage:1100-1134",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:solucion-de-controversias-en-linea",
+    "span": "Solución de Controversias en Línea",
+    "start_char": 1100,
+    "end_char": 1134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:87:term-usage:1417-1451",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:solucion-de-controversias-en-linea",
+    "span": "Solución de Controversias en Línea",
+    "start_char": 1417,
+    "end_char": 1451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:88:term-usage:25-59",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:solucion-de-controversias-en-linea",
+    "span": "Solución de Controversias en Línea",
+    "start_char": 25,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:88:term-usage:104-107",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 104,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:88:term-usage:613-647",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:solucion-de-controversias-en-linea",
+    "span": "Solución de Controversias en Línea",
+    "start_char": 613,
+    "end_char": 647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:89:term-usage:285-319",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:solucion-de-controversias-en-linea",
+    "span": "Solución de Controversias en Línea",
+    "start_char": 285,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:90:term-usage:16-50",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:solucion-de-controversias-en-linea",
+    "span": "Solución de Controversias en Línea",
+    "start_char": 16,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:90:term-usage:161-164",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 161,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:91:term-usage:41-44",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 41,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:92:term-usage:32-35",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 32,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:94:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:94:term-usage:1317-1320",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1317,
+    "end_char": 1320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:94:term-usage:1677-1680",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1677,
+    "end_char": 1680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:94:term-usage:1737-1740",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1737,
+    "end_char": 1740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:95:term-usage:451-459",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 451,
+    "end_char": 459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:95:term-usage:643-651",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 643,
+    "end_char": 651
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:96:term-usage:139-147",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 139,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:97:term-usage:322-392",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 322,
+    "end_char": 392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:97:term-usage:449-452",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 449,
+    "end_char": 452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:97:term-usage:577-647",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 577,
+    "end_char": 647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:98:term-usage:232-252",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
+    "span": "Sistema de Convenios",
+    "start_char": 232,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:98:term-usage:343-346",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 343,
+    "end_char": 346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:98:term-usage:535-538",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 535,
+    "end_char": 538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:99:term-usage:60-68",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 60,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:99:term-usage:106-109",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 106,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:99:term-usage:419-427",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 419,
+    "end_char": 427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:99:term-usage:580-588",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 580,
+    "end_char": 588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:100:term-usage:106-114",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 106,
+    "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:103:term-usage:67-70",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 67,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:103:term-usage:94-102",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 94,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:103:term-usage:460-468",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 460,
+    "end_char": 468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:104:term-usage:103-123",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
+    "span": "Sistema de Convenios",
+    "start_char": 103,
+    "end_char": 123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:105:term-usage:19-27",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:105",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 19,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:105:term-usage:167-187",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:105",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
+    "span": "Sistema de Convenios",
+    "start_char": 167,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:106:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
+    "span": "Sistema de Convenios",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:106:term-usage:143-151",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 143,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:106:term-usage:192-200",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 192,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:108:term-usage:98-118",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:108",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
+    "span": "Sistema de Convenios",
+    "start_char": 98,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:109:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:109",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
+    "span": "Sistema de Convenios",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:109:term-usage:67-75",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:109",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 67,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:110:term-usage:19-27",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:110",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 19,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:110:term-usage:34-54",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:110",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
+    "span": "Sistema de Convenios",
+    "start_char": 34,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:110:term-usage:205-208",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:110",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 205,
+    "end_char": 208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:111:term-usage:114-134",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
+    "span": "Sistema de Convenios",
+    "start_char": 114,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:111:term-usage:309-312",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 309,
+    "end_char": 312
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:112:term-usage:33-54",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
+    "span": "Sistemas de Convenios",
+    "start_char": 33,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:112:term-usage:62-106",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-nacional-de-informacion-de-convenios",
+    "span": "Sistema Nacional de Información de Convenios",
+    "start_char": 62,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:112:term-usage:115-150",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registros de Personas Facilitadoras",
+    "start_char": 115,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:112:term-usage:167-212",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:plataforma-nacional-de-personas-facilitadoras",
+    "span": "Plataforma Nacional de Personas Facilitadoras",
+    "start_char": 167,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:113:term-usage:3-47",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-nacional-de-informacion-de-convenios",
+    "span": "Sistema Nacional de Información de Convenios",
+    "start_char": 3,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:113:term-usage:125-132",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 125,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:114:term-usage:3-47",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-nacional-de-informacion-de-convenios",
+    "span": "Sistema Nacional de Información de Convenios",
+    "start_char": 3,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:115:term-usage:148-151",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 148,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:115:term-usage:189-259",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 189,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:115:term-usage:583-586",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 583,
+    "end_char": 586
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:115:term-usage:1036-1039",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1036,
+    "end_char": 1039
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:116:term-usage:418-421",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 418,
+    "end_char": 421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:116:term-usage:549-552",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 549,
+    "end_char": 552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:116:term-usage:1701-1704",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1701,
+    "end_char": 1704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:117:term-usage:72-109",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
+    "span": "Tribunales de Justicia Administrativa",
+    "start_char": 72,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:117:term-usage:402-454",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 402,
+    "end_char": 454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:117:term-usage:880-887",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 880,
+    "end_char": 887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:117:term-usage:900-952",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 900,
+    "end_char": 952
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:117:term-usage:1469-1521",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 1469,
+    "end_char": 1521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:117:term-usage:1883-1886",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1883,
+    "end_char": 1886
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:117:term-usage:1927-1961",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registro de Personas Facilitadoras",
+    "start_char": 1927,
+    "end_char": 1961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:118:term-usage:291-294",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 291,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:118:term-usage:1050-1120",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 1050,
+    "end_char": 1120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:119:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:119:term-usage:23-75",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 23,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:119:term-usage:203-273",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 203,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:119:term-usage:379-416",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
+    "span": "Tribunales de Justicia Administrativa",
+    "start_char": 379,
+    "end_char": 416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:119:term-usage:451-458",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 451,
+    "end_char": 458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:120:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:120",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:120:term-usage:23-75",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:120",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 23,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:120:term-usage:343-377",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:120",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo-de-justicia-administrativa",
+    "span": "Consejo de Justicia Administrativa",
+    "start_char": 343,
+    "end_char": 377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:120:term-usage:496-503",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:120",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 496,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:121:term-usage:15-22",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:121",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 15,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:121:term-usage:35-87",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:121",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 35,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:121:term-usage:489-492",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:121",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 489,
+    "end_char": 492
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:121:term-usage:591-625",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:121",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registro de Personas Facilitadoras",
+    "start_char": 591,
+    "end_char": 625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:122:term-usage:220-255",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
+    "span": "Tribunal de Justicia Administrativa",
+    "start_char": 220,
+    "end_char": 255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:122:term-usage:322-357",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
+    "span": "Tribunal de Justicia Administrativa",
+    "start_char": 322,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:122:term-usage:564-601",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
+    "span": "Tribunales de Justicia Administrativa",
+    "start_char": 564,
+    "end_char": 601
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:122:term-usage:1043-1046",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1043,
+    "end_char": 1046
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:123:term-usage:237-240",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:123",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 237,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:123:term-usage:334-339",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:123",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Leyes",
+    "start_char": 334,
+    "end_char": 339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:123:term-usage:437-474",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:123",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
+    "span": "Tribunales de Justicia Administrativa",
+    "start_char": 437,
+    "end_char": 474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:123:term-usage:779-782",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:123",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 779,
+    "end_char": 782
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:124:term-usage:180-183",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:124",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 180,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:124:term-usage:265-300",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:124",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
+    "span": "Tribunal de Justicia Administrativa",
+    "start_char": 265,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:125:term-usage:23-93",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:125",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 23,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:126:term-usage:259-296",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
+    "span": "Tribunales de Justicia Administrativa",
+    "start_char": 259,
+    "end_char": 296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:126:term-usage:357-360",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 357,
+    "end_char": 360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:126:term-usage:701-704",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 701,
+    "end_char": 704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:126:term-usage:986-989",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 986,
+    "end_char": 989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:126:term-usage:1339-1342",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1339,
+    "end_char": 1342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:127:term-usage:354-406",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:127",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 354,
+    "end_char": 406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:127:term-usage:814-884",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:127",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 814,
+    "end_char": 884
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:128:term-usage:732-735",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:128",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 732,
+    "end_char": 735
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:128:term-usage:1394-1397",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:128",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1394,
+    "end_char": 1397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:128:term-usage:1612-1615",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:128",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1612,
+    "end_char": 1615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:129:term-usage:2105-2108",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:129",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 2105,
+    "end_char": 2108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:129:term-usage:2513-2548",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:129",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
+    "span": "Tribunal de Justicia Administrativa",
+    "start_char": 2513,
+    "end_char": 2548
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:129:term-usage:2777-2812",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:129",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
+    "span": "Tribunal de Justicia Administrativa",
+    "start_char": 2777,
+    "end_char": 2812
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:131:term-usage:928-931",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:131",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 928,
+    "end_char": 931
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:133:term-usage:4-41",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
+    "span": "Tribunales de Justicia Administrativa",
+    "start_char": 4,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:133:term-usage:156-190",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registro de Personas Facilitadoras",
+    "start_char": 156,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:133:term-usage:228-280",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 228,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:134:term-usage:4-41",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:134",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:tribunales-de-justicia-administrativa",
+    "span": "Tribunales de Justicia Administrativa",
+    "start_char": 4,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:135:term-usage:217-220",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:135",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 217,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:135:term-usage:492-500",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:135",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 492,
+    "end_char": 500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:136:term-usage:497-505",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 497,
+    "end_char": 505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:136:term-usage:1002-1005",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1002,
+    "end_char": 1005
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:137:term-usage:214-222",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:137",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 214,
+    "end_char": 222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:137:term-usage:303-306",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:137",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 303,
+    "end_char": 306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:139:term-usage:50-102",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:139",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 50,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:139:term-usage:188-191",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:139",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 188,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:139:term-usage:296-299",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:139",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 296,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:139:term-usage:868-875",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:139",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 868,
+    "end_char": 875
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:139:term-usage:1002-1005",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:139",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1002,
+    "end_char": 1005
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:140:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:140",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:141:term-usage:47-50",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:141",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 47,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:142:term-usage:340-343",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:142",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 340,
+    "end_char": 343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:142:term-usage:429-437",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:142",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 429,
+    "end_char": 437
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:142:term-usage:505-513",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:142",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 505,
+    "end_char": 513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:142:term-usage:1075-1109",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:142",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registro de Personas Facilitadoras",
+    "start_char": 1075,
+    "end_char": 1109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:142:term-usage:1347-1350",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:142",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1347,
+    "end_char": 1350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:142:term-usage:1418-1426",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:142",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 1418,
+    "end_char": 1426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:142:term-usage:1487-1490",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:142",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1487,
+    "end_char": 1490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:142:term-usage:1717-1720",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:142",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1717,
+    "end_char": 1720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:142:term-usage:1876-1884",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:142",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:convenio",
+    "span": "Convenio",
+    "start_char": 1876,
+    "end_char": 1884
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:142:term-usage:2093-2096",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:142",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 2093,
+    "end_char": 2096
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:144:term-usage:195-198",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 195,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:article:144:term-usage:1224-1227",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 1224,
+    "end_char": 1227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:cuarto:term-usage:311-314",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 311,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:cuarto:term-usage:326-378",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 326,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:sexto:term-usage:23-30",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 23,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:sexto:term-usage:105-112",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 105,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:septimo:term-usage:33-103",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:centro-publico-de-mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Centro Público de Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 33,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:septimo:term-usage:212-215",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 212,
+    "end_char": 215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:septimo:term-usage:271-305",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo-de-justicia-administrativa",
+    "span": "Consejo de Justicia Administrativa",
+    "start_char": 271,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:octavo:term-usage:88-96",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejos",
+    "start_char": 88,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:octavo:term-usage:223-257",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:registro-de-personas-facilitadoras",
+    "span": "Registro de Personas Facilitadoras",
+    "start_char": 223,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:octavo:term-usage:264-284",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:sistema-de-convenios",
+    "span": "Sistema de Convenios",
+    "start_char": 264,
+    "end_char": 284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-primero:term-usage:48-61",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:certificacion",
+    "span": "Certificación",
+    "start_char": 48,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-primero:term-usage:227-230",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 227,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-primero:term-usage:242-294",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 242,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-segundo:term-usage:41-93",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:mecanismos-alternativos-de-solucion-de-controversias",
+    "span": "Mecanismos Alternativos de Solución de Controversias",
+    "start_char": 41,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-segundo:term-usage:368-371",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 368,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-tercero:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-cuarto:term-usage:3-37",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:consejo-de-justicia-administrativa",
+    "span": "Consejo de Justicia Administrativa",
+    "start_char": 3,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-quinto:term-usage:282-285",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 282,
+    "end_char": 285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-sexto:term-usage:321-324",
+    "provision_id": "urn:lex-mx:federal:statute:lgmasc:transitory:decimo-sexto",
+    "term_id": "urn:lex-mx:federal:statute:lgmasc:term:ley",
+    "span": "Ley",
+    "start_char": 321,
+    "end_char": 324
+  }
+]

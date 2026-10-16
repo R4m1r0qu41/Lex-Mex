@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lrart27-mn",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear",
+  "short_name": "LRART27-MN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1985-02-04",
+  "latest_reform_date": "2012-04-09",
+  "retrieved_at": "2026-10-14T07:43:01.721196Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/207.pdf",
+  "source_sha256": "547158ef75d8c668bfe91b1f6673f265d17dd89d807b9cbba3b37a1313835ce8",
+  "extracted_text_sha256": "08146e5bd8d675bafa827f274591824b730d46d91431af9aaaa414f71fe210d4",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

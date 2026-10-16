@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:larefam",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+  "short_name": "LAREFAM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2003-10-30",
+  "latest_reform_date": "2025-07-16",
+  "retrieved_at": "2026-10-14T07:22:12.103183Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAGN.pdf",
+  "source_sha256": "9361fe806edd4f3ba0cea975e050eddbc77ff769e9bd8aa70876cb58a31e2975",
+  "extracted_text_sha256": "12717174d13cc0174c6fa8ad3b6e8a6d7f9a31f71f4e2a4342d7eae961156a0b",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

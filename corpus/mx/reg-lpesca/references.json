@@ -1,0 +1,618 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:113:reference:49-66:112:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:113",
+    "source_span": "artículo anterior",
+    "start_char": 49,
+    "end_char": 66,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:112",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:113:reference:122-124:49:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:113",
+    "source_span": "49",
+    "start_char": 122,
+    "end_char": 124,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:49",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:117:reference:137-139:72:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:117",
+    "source_span": "72",
+    "start_char": 137,
+    "end_char": 139,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:72",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:119:reference:206-209:111:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:119",
+    "source_span": "111",
+    "start_char": 206,
+    "end_char": 209,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:111",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 265,
+        "end_char": 276
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:121:reference:165-168:117:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:121",
+    "source_span": "117",
+    "start_char": 165,
+    "end_char": 168,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:117",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:124:reference:78-81:111:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:124",
+    "source_span": "111",
+    "start_char": 78,
+    "end_char": 81,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:111",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II y XII",
+        "start_char": 122,
+        "end_char": 141
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:125:reference:770-773:131:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:125",
+    "source_span": "131",
+    "start_char": 770,
+    "end_char": 773,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:131",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:125:reference:1157-1159:125:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:125",
+    "source_span": "II",
+    "start_char": 1157,
+    "end_char": 1159,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:125",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 1157,
+        "end_char": 1159
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:125:reference:1538-1540:125:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:125",
+    "source_span": "II",
+    "start_char": 1538,
+    "end_char": 1540,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:125",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 1538,
+        "end_char": 1540
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:125:reference:1842-1844:125:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:125",
+    "source_span": "II",
+    "start_char": 1842,
+    "end_char": 1844,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:125",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 1842,
+        "end_char": 1844
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:131:reference:73-90:130:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:131",
+    "source_span": "artículo anterior",
+    "start_char": 73,
+    "end_char": 90,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:130",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:131:reference:824-825:131:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:131",
+    "source_span": "I",
+    "start_char": 824,
+    "end_char": 825,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:131",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "I",
+        "start_char": 824,
+        "end_char": 825
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:132:reference:106-123:131:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:132",
+    "source_span": "artículo anterior",
+    "start_char": 106,
+    "end_char": 123,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:131",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:136:reference:87-104:135:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:136",
+    "source_span": "artículo anterior",
+    "start_char": 87,
+    "end_char": 104,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:135",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:14:reference:858-864:14-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:14",
+    "source_span": "14 bis",
+    "start_char": 858,
+    "end_char": 864,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:14-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:14-bis:reference:155-172:14:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:14-bis",
+    "source_span": "artículo anterior",
+    "start_char": 155,
+    "end_char": 172,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:14",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 136,
+        "end_char": 150
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:14-bis-1:reference:45-47:14:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:14-bis-1",
+    "source_span": "14",
+    "start_char": 45,
+    "end_char": 47,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:14",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 49,
+        "end_char": 63
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:14-bis-1:reference:67-73:14-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:14-bis-1",
+    "source_span": "14 bis",
+    "start_char": 67,
+    "end_char": 73,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:14-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:14-bis-3:reference:478-486:14-bis-2:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:14-bis-3",
+    "source_span": "14 bis 2",
+    "start_char": 478,
+    "end_char": 486,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:14-bis-2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:149:reference:30-47:148:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:149",
+    "source_span": "artículo anterior",
+    "start_char": 30,
+    "end_char": 47,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:148",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:46:reference:182-184:42:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:46",
+    "source_span": "42",
+    "start_char": 182,
+    "end_char": 184,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:42",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:47:reference:111-113:45:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:47",
+    "source_span": "45",
+    "start_char": 111,
+    "end_char": 113,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:45",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:49:reference:49-66:48:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:49",
+    "source_span": "artículo anterior",
+    "start_char": 49,
+    "end_char": 66,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:48",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:53:reference:238-240:35:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:53",
+    "source_span": "35",
+    "start_char": 238,
+    "end_char": 240,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:35",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:53:reference:276-278:45:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:53",
+    "source_span": "45",
+    "start_char": 276,
+    "end_char": 278,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:45",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VIII",
+        "start_char": 279,
+        "end_char": 292
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:56:reference:846-847:56:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:56",
+    "source_span": "I",
+    "start_char": 846,
+    "end_char": 847,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:56",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "I",
+        "start_char": 846,
+        "end_char": 847
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:56:reference:850-852:56:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:56",
+    "source_span": "II",
+    "start_char": 850,
+    "end_char": 852,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:56",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 850,
+        "end_char": 852
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:58:reference:49-66:57:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:58",
+    "source_span": "artículo anterior",
+    "start_char": 49,
+    "end_char": 66,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:57",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:58:reference:1586-1588:58:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:58",
+    "source_span": "II",
+    "start_char": 1586,
+    "end_char": 1588,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:58",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 1586,
+        "end_char": 1588
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:58:reference:2007-2009:58:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:58",
+    "source_span": "II",
+    "start_char": 2007,
+    "end_char": 2009,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:58",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 2007,
+        "end_char": 2009
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:65:reference:74-91:64:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:65",
+    "source_span": "artículo anterior",
+    "start_char": 74,
+    "end_char": 91,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:64",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:67:reference:73-90:66:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:67",
+    "source_span": "artículo anterior",
+    "start_char": 73,
+    "end_char": 90,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:66",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:75:reference:213-230:74:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:75",
+    "source_span": "artículo anterior",
+    "start_char": 213,
+    "end_char": 230,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:74",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:81:reference:55-72:80:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:81",
+    "source_span": "artículo anterior",
+    "start_char": 55,
+    "end_char": 72,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:80",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpesca:article:96:reference:66-83:95:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:96",
+    "source_span": "artículo anterior",
+    "start_char": 66,
+    "end_char": 83,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpesca",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpesca:article:95",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]

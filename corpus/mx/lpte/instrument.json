@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lpte",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Planeación y Transición Energética",
+  "short_name": "LPTE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-03-18",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:42:41.365719Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPTE.pdf",
+  "source_sha256": "c24aa3a57883383635d5271683dd76e561f21852328f0e89f6bf1c2a09aa2d41",
+  "extracted_text_sha256": "e08ae06967c27e41a155206aaa53e877cd045a578630ab7371597f3bc09ba03c",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lamn",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmn.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamn.htm",
+  "retrieved_at": "2026-10-14T07:21:47.908291Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 315825,
+  "etag": "\"4d1b1-61ceb2b067640\"",
+  "last_modified": "Wed, 10 Jul 2024 21:17:05 GMT",
+  "source_sha256": "33dc1ac9ff7050121f9d659123179b38894d345fdd7de0844322f1caa329b6fe",
+  "extracted_text_sha256": "58415e7dd7dca394ee26d6d55815dfa8d084934e8d2c74588f8b24e44b6e06ce",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laem:article:15:reference:137-140:123:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:laem:article:15",
+    "source_span": "123",
+    "start_char": 137,
+    "end_char": 140,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:123",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

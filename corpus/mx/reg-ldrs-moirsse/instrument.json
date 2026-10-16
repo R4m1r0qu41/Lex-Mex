@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Desarrollo Rural Sustentable en Materia de Organismos, Instancias de Representación, Sistemas y Servicios Especializados",
+  "short_name": "REG-LDRS-MOIRSSE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2004-10-05",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:50:11.646162Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LDRS_MOIRSSE.pdf",
+  "source_sha256": "4da07bf61648a9d04725e2d49db4d867b7882c9bf2ed5d794bde76b64491cddf",
+  "extracted_text_sha256": "59aa97baf4ea19497d70962cfcd99ee876ad9a152a74f452852beadd84942d66",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

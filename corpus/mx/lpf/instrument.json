@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lpf",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de la Policía Federal",
+  "short_name": "LPF",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2009-06-01",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-10-14T07:42:06.042512Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPF.pdf",
+  "source_sha256": "fecec9ae534befd8467e94bb8eb7e39444938f6ef3346b9cc0e91932f4082885",
+  "extracted_text_sha256": "021c39ecaece2751c1b2e5e7802577c43c499c1454dda0a6117155ba9b9c6ff7",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

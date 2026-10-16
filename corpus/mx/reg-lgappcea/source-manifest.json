@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgappcea",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAPPCEA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAPPCEA.pdf",
+  "retrieved_at": "2026-10-14T07:55:36.902116Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 238163,
+  "etag": "\"3a253-563b487abce40\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:05 GMT",
+  "source_sha256": "066103556290f57dca17504bd178aeb645dff97b3a5e05bf4925e9353204e064",
+  "extracted_text_sha256": "068cd0212c12758c4249a07a066302bb46a83dccd8ec332ed6f515fd7bb39997",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

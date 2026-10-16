@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lftr-mcsre",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFTR_MCSRE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFTR_MCSRE.pdf",
+  "retrieved_at": "2026-10-14T07:54:59.005830Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 233287,
+  "etag": "\"38f47-622846348b240\"",
+  "last_modified": "Fri, 20 Sep 2024 03:10:57 GMT",
+  "source_sha256": "12b5a375ccfb83d3a9e46f19e97429007aea1caf283f9e0f0566f222a7e6f998",
+  "extracted_text_sha256": "b27b96c177d06468ee10543dc9f78022158e62bbdaed17f92931a2e026dde9fd",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

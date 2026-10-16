@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lfa",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Federal de Archivos",
+  "short_name": "REG-LFA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-05-13",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:51:27.877276Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFA.pdf",
+  "source_sha256": "8577b72dfc67461533ecea0bdaef39ebf0b29e6d4f3b6117a4235e98d7309e34",
+  "extracted_text_sha256": "a3d8370f28f1ff3a9338ce99e1ae90a811e4743545fa8c9fa125f51251adb9de",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

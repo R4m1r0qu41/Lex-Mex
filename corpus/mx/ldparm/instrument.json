@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:ldparm",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Disciplina para el Personal de la Armada de México",
+  "short_name": "LDPARM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2002-12-13",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:24:17.091284Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/252.pdf",
+  "source_sha256": "e3cb7668dc68cdc73e7597def326cf185c392a77c7c9674772134831f4659179",
+  "extracted_text_sha256": "839a87c88703768f0ce71aa5ec9fa2fe4afa227e624f0cc1ed2dfedcfa7717da",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

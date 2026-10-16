@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfped",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal para Prevenir y Eliminar la Discriminación",
+  "short_name": "LFPED",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2003-06-11",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-10-14T07:28:59.436131Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPED.pdf",
+  "source_sha256": "f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9",
+  "extracted_text_sha256": "39e7982415380f73f5b8af17d60e612908e006c856e5cca276a8eaf377854dbd",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

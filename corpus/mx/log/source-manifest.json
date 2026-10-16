@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:log",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/57.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/log.htm",
+  "retrieved_at": "2026-10-14T07:39:58.430515Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 360373,
+  "etag": "\"57fb5-576521cac4100\"",
+  "last_modified": "Thu, 20 Sep 2018 18:58:44 GMT",
+  "source_sha256": "35e6323676758412d100ff5b3725985ebb07af19c74e1657f9e15151f3b21d8f",
+  "extracted_text_sha256": "ed15ab016b2688adbc388fd0cdc847c329bae2063d45c38139d4d323fcebe747",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

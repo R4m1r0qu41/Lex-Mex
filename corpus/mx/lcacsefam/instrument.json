@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lcacsefam",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos",
+  "short_name": "LCACSEFAM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-02-09",
+  "latest_reform_date": "2024-05-03",
+  "retrieved_at": "2026-10-14T07:22:44.383648Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSEFAM.pdf",
+  "source_sha256": "93f2f807af3fd78f9e7ffcc4b1b544b2c7eecca463efcd7adaa16a0f8716049f",
+  "extracted_text_sha256": "0c53e203685153d5dc9935b6161a6133faf9f8c7c4630955cdac1b6647a25428",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

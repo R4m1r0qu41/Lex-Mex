@@ -1,0 +1,17 @@
+{
+  "slug": "lgdlpi",
+  "instrument_id": "urn:lex-mx:federal:statute:lgdlpi",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley General de Derechos Lingüísticos de los Pueblos Indígenas",
+  "short_name": "LGDLPI",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdlpi.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

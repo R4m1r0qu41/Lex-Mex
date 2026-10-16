@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:code:cjm",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "code",
+  "official_title": "Código de Justicia Militar",
+  "short_name": "CJM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1933-08-31",
+  "latest_reform_date": "2025-07-16",
+  "retrieved_at": "2026-10-14T07:20:52.523427Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CJM.pdf",
+  "source_sha256": "b9c653ecd9d85d07f156f774129bf3662d1f033dadf5de86437120da00fa9531",
+  "extracted_text_sha256": "0ae73688ae9b8f081521453c976a0fb6eccf28cdb8e553f587a968033cc86269",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

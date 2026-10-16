@@ -1,0 +1,17 @@
+{
+  "slug": "reg-lfpccs",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpccs",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley Federal de Producción, Certificación y Comercio de Semillas",
+  "short_name": "REG-LFPCCS",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPCCS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPCCS.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

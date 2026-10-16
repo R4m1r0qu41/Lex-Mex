@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgpsdms",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
+  "short_name": "LGPSDMS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2010-11-30",
+  "latest_reform_date": "2021-05-20",
+  "retrieved_at": "2026-10-14T07:35:56.743084Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS_200521.pdf",
+  "source_sha256": "7ce179f23e6c8813df32848eda4596fc43da954c1bb4d68e412155eda544343c",
+  "extracted_text_sha256": "064003c61a5a5e68abe8f0cdd5986ab9be55dd71fd8c16b8c8fae5d98cbac2ac",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

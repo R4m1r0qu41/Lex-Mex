@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Población",
+  "short_name": "LGP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1974-01-07",
+  "latest_reform_date": "2025-07-16",
+  "retrieved_at": "2026-10-14T07:34:46.994966Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGP.pdf",
+  "source_sha256": "15e8cb5ca11592f331fca6a94784cce3dd58837397857f2d764476768d0ca780",
+  "extracted_text_sha256": "97fcad632760866cfee27ba1167f2c0e82d08792389d98a514a2486032345792",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

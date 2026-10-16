@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lfsp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Federal de Seguridad Privada",
+  "short_name": "REG-LFSP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2011-10-18",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:54:21.293380Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSP.pdf",
+  "source_sha256": "98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232",
+  "extracted_text_sha256": "1fc7660b057fcbaad10e52a40fe7f784d6be89ebee3668400f9c42ef6785e9c0",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

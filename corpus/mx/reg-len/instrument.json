@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-len",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Educación Naval",
+  "short_name": "REG-LEN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2020-01-27",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:50:52.609926Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEN_270120.pdf",
+  "source_sha256": "01a9b609397e354014b0511a81438ad96ddba6e85157f82ff4d778e5979ca795",
+  "extracted_text_sha256": "0075590cae444570fcadbbbd5a3f60b8cc6d75920009fcf01929c1488037ea58",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lrpv",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/269_200521.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpv.htm",
+  "retrieved_at": "2026-10-14T07:44:20.250458Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 278754,
+  "etag": "\"440e2-5c3d2bbde2680\"",
+  "last_modified": "Thu, 03 Jun 2021 01:45:46 GMT",
+  "source_sha256": "0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba",
+  "extracted_text_sha256": "e210fdb80d01dc269d5514ac13323e2c39fd77589b0fa880d3449d80e10c6234",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

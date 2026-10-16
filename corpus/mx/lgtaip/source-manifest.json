@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgtaip",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgtaip.htm",
+  "retrieved_at": "2026-10-14T07:36:55.855703Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 749599,
+  "etag": "\"b701f-6311aa1d0f280\"",
+  "last_modified": "Mon, 24 Mar 2025 18:18:34 GMT",
+  "source_sha256": "e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b",
+  "extracted_text_sha256": "a46e78718f76786ab580ee5679e8de776eba217f0e3c8341d9005ea3ac6049e6",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

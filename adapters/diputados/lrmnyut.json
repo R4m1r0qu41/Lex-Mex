@@ -1,0 +1,17 @@
+{
+  "slug": "lrmnyut",
+  "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear",
+  "short_name": "LRMNYUT",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/197.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrmnyut.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

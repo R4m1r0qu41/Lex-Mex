@@ -1,0 +1,443 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:1",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 1º",
+    "number": "1º",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo I"
+    },
+    "text": "La presente Ley se expide para fijar las bases de la organización y del funcionamiento de las Cámaras Agrícolas existentes que, en lo sucesivo, y de acuerdo con lo dispuesto por los artículos siguientes, se denominarán Asociaciones Agrícolas.",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:2",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 2º",
+    "number": "2º",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo I"
+    },
+    "text": "Las Asociaciones Agrícolas se constituirán con la unión de los productores agrícolas del país a fin de promover en general al desarrollo de las actividades agrícolas de la Nación, así como a la protección de los intereses económicos de sus agremiados, para ello deberán constituirse con apego al primer párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos y de la Ley de Desarrollo Rural Sustentable, de acuerdo con las finalidades indicadas en el artículo siguiente.\n\nArtículo reformado DOF 30-11-2010",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:3",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 3º",
+    "number": "3º",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo I"
+    },
+    "text": "Las Asociaciones Agrícolas constituidas en los términos de esta Ley tendrán las siguientes finalidades:\n\nI.- Organizar la producción agrícola dentro de normas racionales que propendan a mejorar la calidad de los productos, así como a la mejor distribución de ellos, para lo cual se procurará la implantación de métodos científicos más adecuados de explotación agrícola. II.- Gestionar y promover todas las medidas que tiendan al mejoramiento de las condiciones agrícolas de los productores de la República, tales como fletes de transporte, desarrollo en las comunicaciones, cuotas racionales de energía eléctrica, etc.\n\nIII.- Promover la creación, en cada uno de los lugares donde funcionen asociaciones, de almacenes, molinos, plantas refrigeradoras, de empaque, etc., para industrializar o conservar los productos agrícolas y presentarlos al consumidor en las mejores condiciones.\n\nIV.- Obtener con las mayores facilidades económicas la concesión de crédito para sus agremiados.\n\nV.- Procurar la transformación de las condiciones de vida en el campo haciendo cómodo o higiénico el hogar del campesino y educar a las clases rurales del país en los principios de la técnica moderna de producción.\n\nVI.- Fomentar, cuando las condiciones sociales y económicas de los productores lo permitan, el desarrollo de la organización cooperativa.\n\nVII.- Representar ante las autoridades los intereses comunes de sus asociados y proponer las medidas que estimen más adecuadas para la protección y defensa de dichos intereses.\n\nVIII.- Impulsar la participación de las mujeres en el desarrollo económico, a través de la organización de cadenas productivas y comercializadoras de productos agrícolas, constituidas por mujeres; o en igualdad de trato y oportunidades entre mujeres y hombres. Fracción adicionada DOF 30-11-2010",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:4",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 4º",
+    "number": "4º",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo II"
+    },
+    "text": "Los productores agrícolas de la República podrán reunirse en asociaciones de carácter local, regional y nacional.",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:5",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 5º",
+    "number": "5º",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo II"
+    },
+    "text": "Las Asociaciones Locales se denominarán “Asociaciones Agrícolas Locales”, y estarán integradas por productores especializados. Para los efectos de este artículo, se entiende por productores especializados a las mujeres y hombres cuya actividad predominante se dedique a un cultivo o a una rama especial de la economía rural. Fe de erratas al artículo DOF 01-09-1932. Reformado DOF 30-11-2010",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:6",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 6º",
+    "number": "6º",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo II"
+    },
+    "text": "En cada localidad se crearán las asociaciones que correspondan a los principales cultivos o ramas de la economía rural que en ella se exploten, agrupándose los productores, en cada asociación, según el criterio establecido en el artículo precedente.",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:7",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 7º",
+    "number": "7º",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo II"
+    },
+    "text": "Las Asociaciones Agrícolas Locales que se constituyan con arreglo a está Ley, tendrán la obligación de adherirse a las Uniones Agrícolas Regionales en cuanto éstas se establezcan.",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:8",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 8º",
+    "number": "8º",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo II"
+    },
+    "text": "Las uniones de que habla el artículo anterior, se organizarán cuando en la región se encuentren funcionando tres o más de las Asociaciones Agrícolas Locales.",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:9",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 9º",
+    "number": "9º",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo II"
+    },
+    "text": "Las Uniones Agrícolas Regionales, mediante delegados que designen, constituirán la Confederación Nacional de Productores Agrícolas, la cual podrá constituirse con la reunión de tres o más de dichas uniones.",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:10",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 10",
+    "number": "10",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo III"
+    },
+    "text": "Podrán funcionar Asociaciones Agrícolas Locales en todos aquellos lugares en donde diez o más productores especializados deseen agruparse en los términos de está Ley.",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:11",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 11",
+    "number": "11",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo III"
+    },
+    "text": "Se entiende por región agrícola la que, por la similaridad de actividades rurales y por las vías de comunicación con que cuente, pueda constituir una unidad dentro de la economía nacional. Para regularizar el funcionamiento de las Uniones Agrícolas Regionales, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, por conducto de la Dirección de Agricultura, señalará las regiones económicas en que se considere más adecuado dividir al país. Fe de erratas al artículo DOF 01-09-1932. Reformado DOF 09-04-2012",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:12",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 12",
+    "number": "12",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo III"
+    },
+    "text": "La Confederación Nacional de Productores Agrícolas radicará en la capital de la República y funcionará con dos delegados propietarios y dos suplentes debidamente acreditados ante ella por las Uniones Regionales Agrícolas.\n\nLas Uniones Regionales Agrícolas también podrán acreditar ante esta Confederación la participación de delegadas propietarias y suplentes, para que en ella se encuentren representadas las Asociaciones Agrícolas conformadas por mujeres. Párrafo adicionado DOF 30-11-2010",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:13",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 13",
+    "number": "13",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo III"
+    },
+    "text": "La Confederación será el órgano por medio del cual todas las Asociaciones Agrícolas que directa o indirectamente la forman, podrán promover ante el Estado los proyectos, iniciativas o gestiones que tiendan a cumplir las finalidades que esta Ley determina; pero para las autoridades locales los órganos serán las Asociaciones Agrícolas Locales o las Uniones Locales según el lugar de radicación de las mismas y el de la autoridad ante quien proceda gestionar.",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:14",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 14",
+    "number": "14",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo IV"
+    },
+    "text": "La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, autorizará la constitución, organización y funcionamiento de las Asociaciones Agrícolas creadas de acuerdo con lo dispuesto por la presente Ley; con esa autorización las mismas asociaciones gozarán de la personalidad legal en los términos de las leyes relativas.\n\nArtículo reformado DOF 09-04-2012",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:15",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 15",
+    "number": "15",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo IV"
+    },
+    "text": "La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación abrirá un Registro de las Asociaciones Agrícolas que se constituyan de acuerdo con esta Ley, en el cual se asentarán el acta constitutiva y los estatutos de las mismas, así como sus modificaciones y actas de disolución y liquidación, en su caso.\n\nArtículo reformado DOF 09-04-2012",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:16",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 16",
+    "number": "16",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo IV"
+    },
+    "text": "El Estado considerará las Asociaciones Agrícolas como organismo de cooperación y en consecuencia, éstas estarán obligadas a proporcionar todos los informes que les solicite la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, relativos a los servicios agrícolas.\n\nArtículo reformado DOF 09-04-2012",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:17",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 17",
+    "number": "17",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo IV"
+    },
+    "text": "Atendiendo a que el funcionamiento de las Asociaciones a que se refiere está Ley es de interés público, el Estado dará todo su apoyo a estas mismas asociaciones y a los productores que las integran, para la realización de los fines señalados en el Artículo 3º de está Ley.",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:18",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 18",
+    "number": "18",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo IV"
+    },
+    "text": "El uso ilegal por parte de alguna Asociación del nombre de los organismos establecidos por esta Ley, dará motivo a que la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación imponga una multa de $ 500.00 que se hará efectiva sobre los bienes de la asociación o grupo, si los tuviere, o sobre los de los individuos que aparecieren a su frente. Si se insiste en el uso ilegal de alguna de las denominaciones a que antes se hace referencia, se duplicará la multa, la que, para ese efecto, podrá llegar a ser hasta de tres mil pesos. Fe de erratas al artículo DOF 01-09-1932. Reformado DOF 09-04-2012",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:article:19",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "article",
+    "label": "Artículo 19",
+    "number": "19",
+    "heading_context": {
+      "title": null,
+      "chapter": "Capítulo IV"
+    },
+    "text": "La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación queda autorizada para proporcionar los servicios de su personal técnico para el fomento y desarrollo de las Asociaciones Agrícolas; facultándosele igualmente para que formule el reglamento de la presente Ley y dé a los términos de ésta, interpretación adecuada.\n\nArtículo reformado DOF 09-04-2012",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:transitory:1º",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "transitory",
+    "label": "1º",
+    "number": "1º",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Se deroga la Ley sobre Cámaras Agrícolas Nacionales de 21 de diciembre de 1909 y todas las disposiciones que se opongan a la presente.",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcaaa:transitory:2º",
+    "instrument_id": "urn:lex-mx:federal:statute:lcaaa",
+    "provision_type": "transitory",
+    "label": "2º",
+    "number": "2º",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Se concede un plazo de seis meses a partir de la fecha en que se publique la presente Ley, para que las Cámaras Agrícolas Nacionales que actualmente existen en la República, ajusten su organización y funcionamiento a lo prevenido por la misma Ley.",
+    "publication_date": "1932-08-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-len",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEN_270120.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEN_270120.pdf",
+  "retrieved_at": "2026-10-14T07:50:52.609926Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 228713,
+  "etag": "\"37d69-59dd95b31aec0\"",
+  "last_modified": "Wed, 05 Feb 2020 19:42:27 GMT",
+  "source_sha256": "01a9b609397e354014b0511a81438ad96ddba6e85157f82ff4d778e5979ca795",
+  "extracted_text_sha256": "0075590cae444570fcadbbbd5a3f60b8cc6d75920009fcf01929c1488037ea58",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

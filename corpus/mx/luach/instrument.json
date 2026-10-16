@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:luach",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley que crea la Universidad Autónoma Chapingo",
+  "short_name": "LUACH",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1974-12-30",
+  "latest_reform_date": "1977-12-30",
+  "retrieved_at": "2026-10-14T07:47:03.898050Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/195.pdf",
+  "source_sha256": "eaf46ed3247dddcc29d15d16c73bd64684685dc7540b8318f743ce000f7bbff5",
+  "extracted_text_sha256": "2f408f1dac8437a9c5002b5de2fe603fbea02ab151ef4e203dbdad87c70259a8",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

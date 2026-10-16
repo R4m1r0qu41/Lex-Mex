@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfiv",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Fomento a la Industria Vitivinícola",
+  "short_name": "LFIV",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2018-05-23",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:27:55.359995Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf",
+  "source_sha256": "db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087",
+  "extracted_text_sha256": "7be302aed1713cda19898e3c0fe24c2711c604ffb514f98fd3b24d7dc501d9db",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

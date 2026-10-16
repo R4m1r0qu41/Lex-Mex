@@ -1,0 +1,22 @@
+---
+id: urn:lex-mx:federal:statute:loefam:article:54-quater
+instrument_id: urn:lex-mx:federal:statute:loefam
+instrument: LOEFAM
+name: "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos"
+provision_type: article
+number: "54 QUATER"
+aliases: ["LOEFAM — Artículo 54 QUATER"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOEFAM.pdf
+source_sha256: 6edcf3cbe4e1e01dd12e691d672534d0d2e22028f7bf81c46ecf9e6f4c9148c7
+---
+
+> Título CUARTO · Capítulo II
+
+# Artículo 54 QUATER
+
+El Estado Mayor del Ejército, estará formado por personal de Estado Mayor perteneciente al Ejército, así como de aquel otro personal que le sea necesario.
+
+Artículo adicionado DOF 18-02-2022. Reformado DOF 03-05-2023

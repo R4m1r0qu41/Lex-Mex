@@ -1,0 +1,17 @@
+{
+  "slug": "lrart5-prof",
+  "instrument_id": "urn:lex-mx:federal:statute:lrart5-prof",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México",
+  "short_name": "LRART5-PROF",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/208_190118.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart5_prof.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

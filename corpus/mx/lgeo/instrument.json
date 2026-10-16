@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgeo",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Geotermia",
+  "short_name": "LGEO",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-03-18",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:32:56.980128Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGeo.pdf",
+  "source_sha256": "67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35",
+  "extracted_text_sha256": "9937bb809bc2daa20df9b26511f9405ff831be627b7ced4c2b3897a5f836f1a4",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

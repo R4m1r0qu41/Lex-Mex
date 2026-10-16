@@ -1,0 +1,134 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:beneficio-de-semillas",
+    "term": "Beneficio de semillas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpccs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2",
+    "fraction": "I",
+    "start_char": 185,
+    "end_char": 301,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:calidad-de-la-semilla",
+    "term": "Calidad de la Semilla",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpccs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2",
+    "fraction": "II",
+    "start_char": 301,
+    "end_char": 450,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:carta-de-identidad-varietal",
+    "term": "Carta de Identidad Varietal",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpccs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2",
+    "fraction": "III",
+    "start_char": 450,
+    "end_char": 702,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:conservacion-de-generaciones",
+    "term": "Conservación de generaciones",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpccs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2",
+    "fraction": "IV",
+    "start_char": 702,
+    "end_char": 906,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:descripcion-varietal",
+    "term": "Descripción varietal",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpccs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2",
+    "fraction": "V",
+    "start_char": 906,
+    "end_char": 1107,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:directorio",
+    "term": "Directorio",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpccs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2",
+    "fraction": "VI",
+    "start_char": 1107,
+    "end_char": 1408,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpccs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2",
+    "fraction": "VII",
+    "start_char": 1408,
+    "end_char": 1487,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:organismos-de-certificacion",
+    "term": "Organismos de Certificación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpccs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2",
+    "fraction": "VIII",
+    "start_char": 1487,
+    "end_char": 1896,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:sistema-de-informacion",
+    "term": "Sistema de Información",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpccs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2",
+    "fraction": "IX",
+    "start_char": 1896,
+    "end_char": 2175,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:unidad-de-calificacion",
+    "term": "Unidad de Calificación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpccs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2",
+    "fraction": "X",
+    "start_char": 2175,
+    "end_char": 2294,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:unidad-de-inscripcion",
+    "term": "Unidad de inscripción",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpccs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2",
+    "fraction": "XI",
+    "start_char": 2294,
+    "end_char": 2438,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:variedad-vegetal-candidata",
+    "term": "Variedad vegetal candidata",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpccs",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2",
+    "fraction": "XII",
+    "start_char": 2438,
+    "end_char": 2595,
+    "basis": "express_definition"
+  }
+]

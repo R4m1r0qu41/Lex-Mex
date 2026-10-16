@@ -1,0 +1,1478 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:1:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:1",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:1:term-usage:93-101",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:1",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 93,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:1:term-usage:242-252",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:1",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 242,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:21-24",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 21,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:312-322",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 312,
+    "end_char": 322
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:531-534",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 531,
+    "end_char": 534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:548-556",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 548,
+    "end_char": 556
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:647-650",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 647,
+    "end_char": 650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:799-811",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 799,
+    "end_char": 811
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:816-824",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 816,
+    "end_char": 824
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:855-858",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 855,
+    "end_char": 858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:1084-1092",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 1084,
+    "end_char": 1092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:1319-1327",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 1319,
+    "end_char": 1327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:1691-1699",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 1691,
+    "end_char": 1699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:1873-1876",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 1873,
+    "end_char": 1876
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:2:term-usage:1912-1915",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 1912,
+    "end_char": 1915
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:3:term-usage:51-59",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:3",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 51,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:3:term-usage:144-171",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:3",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:presidencia-de-la-republica",
+    "span": "Presidencia de la República",
+    "start_char": 144,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:3:term-usage:231-234",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:3",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 231,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:3:term-usage:370-380",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:3",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 370,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:3:term-usage:426-453",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:3",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:presidencia-de-la-republica",
+    "span": "Presidencia de la República",
+    "start_char": 426,
+    "end_char": 453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:4:term-usage:16-26",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:4",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretario",
+    "span": "Secretario",
+    "start_char": 16,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:4:term-usage:250-260",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:4",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 250,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:7:term-usage:102-110",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:7",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 102,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:7:term-usage:351-354",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:7",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 351,
+    "end_char": 354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:497-507",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 497,
+    "end_char": 507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:634-641",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militar",
+    "start_char": 634,
+    "end_char": 641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:761-771",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 761,
+    "end_char": 771
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:941-948",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militar",
+    "start_char": 941,
+    "end_char": 948
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:1277-1280",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 1277,
+    "end_char": 1280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:1498-1505",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militar",
+    "start_char": 1498,
+    "end_char": 1505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:1910-1913",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 1910,
+    "end_char": 1913
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:1952-1964",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1952,
+    "end_char": 1964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:1969-1977",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 1969,
+    "end_char": 1977
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:term-usage:2888-2891",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 2888,
+    "end_char": 2891
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:10:term-usage:25-28",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:10",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 25,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:11:term-usage:132-140",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:11",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 132,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:14:term-usage:234-237",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:14",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 234,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:14:term-usage:581-588",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:14",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militar",
+    "start_char": 581,
+    "end_char": 588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:14:term-usage:622-630",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:14",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 622,
+    "end_char": 630
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:15:term-usage:308-311",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:15",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 308,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:15:term-usage:458-461",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:15",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 458,
+    "end_char": 461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:16:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:16",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:17:term-usage:214-217",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:17",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 214,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:18:term-usage:548-551",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:18",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 548,
+    "end_char": 551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:18:term-usage:607-616",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:18",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militares",
+    "start_char": 607,
+    "end_char": 616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:18:term-usage:1084-1092",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:18",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 1084,
+    "end_char": 1092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:18:term-usage:1206-1214",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:18",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 1206,
+    "end_char": 1214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:18:term-usage:1738-1741",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:18",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 1738,
+    "end_char": 1741
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:18:term-usage:2042-2050",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:18",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 2042,
+    "end_char": 2050
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:18:term-usage:2212-2219",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:18",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militar",
+    "start_char": 2212,
+    "end_char": 2219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:18:term-usage:2791-2799",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:18",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 2791,
+    "end_char": 2799
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:18:term-usage:3012-3019",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:18",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militar",
+    "start_char": 3012,
+    "end_char": 3019
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:18:term-usage:4286-4294",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:18",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 4286,
+    "end_char": 4294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:18:term-usage:4456-4463",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:18",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militar",
+    "start_char": 4456,
+    "end_char": 4463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:18:term-usage:5034-5042",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:18",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 5034,
+    "end_char": 5042
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:18:term-usage:5376-5383",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:18",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militar",
+    "start_char": 5376,
+    "end_char": 5383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:18:term-usage:6109-6116",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:18",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militar",
+    "start_char": 6109,
+    "end_char": 6116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:18:term-usage:6753-6756",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:18",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 6753,
+    "end_char": 6756
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:18:term-usage:6925-6928",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:18",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 6925,
+    "end_char": 6928
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:19:term-usage:59-68",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:19",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militares",
+    "start_char": 59,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:19:term-usage:188-191",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:19",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 188,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:19:term-usage:588-596",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:19",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 588,
+    "end_char": 596
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:19:term-usage:798-806",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:19",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 798,
+    "end_char": 806
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:19:term-usage:1206-1209",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:19",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 1206,
+    "end_char": 1209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:19:term-usage:1677-1680",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:19",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 1677,
+    "end_char": 1680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:20:term-usage:486-494",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:20",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 486,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:20:term-usage:659-666",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:20",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militar",
+    "start_char": 659,
+    "end_char": 666
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:20:term-usage:1219-1227",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:20",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 1219,
+    "end_char": 1227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:20:term-usage:1567-1574",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:20",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militar",
+    "start_char": 1567,
+    "end_char": 1574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:20:term-usage:2893-2896",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:20",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 2893,
+    "end_char": 2896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:21:term-usage:299-306",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:21",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militar",
+    "start_char": 299,
+    "end_char": 306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:22:term-usage:117-144",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:22",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:presidencia-de-la-republica",
+    "span": "Presidencia de la República",
+    "start_char": 117,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:22:term-usage:150-160",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:22",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretario",
+    "span": "Secretario",
+    "start_char": 150,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:22:term-usage:188-198",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:22",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 188,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:22:term-usage:350-358",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:22",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 350,
+    "end_char": 358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:22:term-usage:614-617",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:22",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 614,
+    "end_char": 617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:24:term-usage:67-75",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:24",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 67,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:24:term-usage:451-454",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:24",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 451,
+    "end_char": 454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:26:term-usage:119-122",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:26",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 119,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:26:term-usage:277-287",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:26",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretario",
+    "span": "Secretario",
+    "start_char": 277,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:26:term-usage:480-490",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:26",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretario",
+    "span": "Secretario",
+    "start_char": 480,
+    "end_char": 490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:26:term-usage:897-907",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:26",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 897,
+    "end_char": 907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:28:term-usage:74-84",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:28",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 74,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:28:term-usage:677-687",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:28",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 677,
+    "end_char": 687
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:30:term-usage:66-69",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:30",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 66,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:30:term-usage:432-435",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:30",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 432,
+    "end_char": 435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:31:term-usage:76-79",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:31",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 76,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:31:term-usage:460-470",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:31",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 460,
+    "end_char": 470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:31:term-usage:797-824",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:31",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:presidencia-de-la-republica",
+    "span": "Presidencia de la República",
+    "start_char": 797,
+    "end_char": 824
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:31-bis:term-usage:336-339",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:31-bis",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 336,
+    "end_char": 339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:31-bis:term-usage:506-516",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:31-bis",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretario",
+    "span": "Secretario",
+    "start_char": 506,
+    "end_char": 516
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:31-bis:term-usage:581-591",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:31-bis",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretario",
+    "span": "Secretario",
+    "start_char": 581,
+    "end_char": 591
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:31-bis:term-usage:678-688",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:31-bis",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 678,
+    "end_char": 688
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:33:term-usage:43-53",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:33",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 43,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:33:term-usage:236-246",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:33",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 236,
+    "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:33:term-usage:302-329",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:33",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:presidencia-de-la-republica",
+    "span": "Presidencia de la República",
+    "start_char": 302,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:33:term-usage:383-386",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:33",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 383,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:33:term-usage:636-646",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:33",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 636,
+    "end_char": 646
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:33:term-usage:756-764",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:33",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 756,
+    "end_char": 764
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:33:term-usage:918-928",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:33",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 918,
+    "end_char": 928
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:33:term-usage:1045-1053",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:33",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 1045,
+    "end_char": 1053
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:34:term-usage:399-409",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:34",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 399,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:34:term-usage:566-569",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:34",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 566,
+    "end_char": 569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:34:term-usage:1004-1007",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:34",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 1004,
+    "end_char": 1007
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:40:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:40",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretario",
+    "span": "Secretario",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:41:term-usage:133-143",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:41",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretario",
+    "span": "Secretario",
+    "start_char": 133,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:45:term-usage:286-289",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:45",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 286,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:48:term-usage:174-184",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:48",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretario",
+    "span": "Secretario",
+    "start_char": 174,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:49:term-usage:168-175",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:49",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militar",
+    "start_char": 168,
+    "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:50:term-usage:55-63",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:50",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 55,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:52:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:52",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:53:term-usage:40-48",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:53",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 40,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:53:term-usage:170-177",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:53",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militar",
+    "start_char": 170,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:53:term-usage:507-514",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:53",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militar",
+    "start_char": 507,
+    "end_char": 514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:54:term-usage:234-244",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:54",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretario",
+    "span": "Secretario",
+    "start_char": 234,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:55:term-usage:91-118",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:55",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:presidencia-de-la-republica",
+    "span": "Presidencia de la República",
+    "start_char": 91,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:55:term-usage:160-170",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:55",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 160,
+    "end_char": 170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:55:term-usage:587-595",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:55",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 587,
+    "end_char": 595
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:56:term-usage:92-119",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:56",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:presidencia-de-la-republica",
+    "span": "Presidencia de la República",
+    "start_char": 92,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:56:term-usage:161-171",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:56",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 161,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:56:term-usage:420-428",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:56",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 420,
+    "end_char": 428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:56:term-usage:607-615",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:56",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 607,
+    "end_char": 615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:56:term-usage:816-824",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:56",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 816,
+    "end_char": 824
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:58:term-usage:276-286",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:58",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretario",
+    "span": "Secretario",
+    "start_char": 276,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:59:term-usage:128-138",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:59",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretario",
+    "span": "Secretario",
+    "start_char": 128,
+    "end_char": 138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:59:term-usage:303-313",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:59",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 303,
+    "end_char": 313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:59:term-usage:322-325",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:59",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 322,
+    "end_char": 325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:60:term-usage:106-114",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:60",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 106,
+    "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:62:term-usage:46-56",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:62",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 46,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:62:term-usage:73-81",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:62",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 73,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:62:term-usage:373-381",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:62",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 373,
+    "end_char": 381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:63:term-usage:72-82",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:63",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretario",
+    "span": "Secretario",
+    "start_char": 72,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:63:term-usage:525-533",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:63",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 525,
+    "end_char": 533
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:64:term-usage:122-132",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:64",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 122,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:64:term-usage:141-144",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:64",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 141,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:65:term-usage:69-77",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:65",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 69,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:65:term-usage:378-381",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:65",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 378,
+    "end_char": 381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:65-bis:term-usage:33-40",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:65-bis",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
+    "span": "Militar",
+    "start_char": 33,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:65-bis:term-usage:125-135",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:65-bis",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretario",
+    "span": "Secretario",
+    "start_char": 125,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:67:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:67",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:67:term-usage:301-304",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:67",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 301,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:67:term-usage:335-345",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:67",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretario",
+    "span": "Secretario",
+    "start_char": 335,
+    "end_char": 345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:68:term-usage:88-96",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:68",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 88,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:68:term-usage:290-317",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:68",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:presidencia-de-la-republica",
+    "span": "Presidencia de la República",
+    "start_char": 290,
+    "end_char": 317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:68:term-usage:358-368",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:68",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 358,
+    "end_char": 368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:68:term-usage:594-602",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:68",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 594,
+    "end_char": 602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:69:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:69",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:69:term-usage:22-25",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:69",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 22,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:69:term-usage:150-153",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:69",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 150,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:70:term-usage:56-64",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:70",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 56,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:70:term-usage:218-221",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:70",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 218,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:70:term-usage:379-389",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:70",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 379,
+    "end_char": 389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:72:term-usage:47-55",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:72",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 47,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:73:term-usage:47-55",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:73",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 47,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:article:76:term-usage:239-249",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:article:76",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 239,
+    "end_char": 249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:transitory:primero:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:transitory:primero",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:transitory:segundo:term-usage:13-16",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 13,
+    "end_char": 16
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:transitory:segundo:term-usage:20-28",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ascenso",
+    "span": "Ascensos",
+    "start_char": 20,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:transitory:segundo:term-usage:31-42",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:recompensas",
+    "span": "Recompensas",
+    "start_char": 31,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:transitory:segundo:term-usage:47-55",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
+    "span": "Ejército",
+    "start_char": 47,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:transitory:segundo:term-usage:179-182",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 179,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:transitory:tercero:term-usage:33-43",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 33,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:larefam:transitory:tercero:term-usage:59-62",
+    "provision_id": "urn:lex-mx:federal:statute:larefam:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
+    "span": "Ley",
+    "start_char": 59,
+    "end_char": 62
+  }
+]

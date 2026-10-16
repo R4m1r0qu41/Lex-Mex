@@ -1,0 +1,62 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:22:reference:120-137:21:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:22",
+    "source_span": "artículo anterior",
+    "start_char": 120,
+    "end_char": 137,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgpsvd",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:25:reference:49-66:24:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:25",
+    "source_span": "artículo anterior",
+    "start_char": 49,
+    "end_char": 66,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgpsvd",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:24",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:40:reference:17-34:39:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:40",
+    "source_span": "artículo anterior",
+    "start_char": 17,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgpsvd",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:39",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpsvd:transitory:segundo:reference:66-68:40:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:transitory:segundo",
+    "source_span": "40",
+    "start_char": 66,
+    "end_char": 68,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgpsvd",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgpsvd:article:40",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

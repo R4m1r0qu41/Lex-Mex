@@ -1,0 +1,17 @@
+{
+  "slug": "reg-lffarosc",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lffarosc",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+  "short_name": "REG-LFFAROSC",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFFAROSC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFFAROSC.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

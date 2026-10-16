@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpcap.htm",
+  "retrieved_at": "2026-10-14T07:44:08.031218Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 469812,
+  "etag": "\"72b34-5d92d842f4780\"",
+  "last_modified": "Tue, 01 Mar 2022 19:53:18 GMT",
+  "source_sha256": "cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a",
+  "extracted_text_sha256": "42e0447e862fa679eb76d08d1e04dd101a1e3b523e0bb554138cc1ccddfe7ed1",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

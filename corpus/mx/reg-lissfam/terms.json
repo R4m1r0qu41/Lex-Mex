@@ -1,0 +1,178 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:term:afiliacion",
+    "term": "Afiliación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "fraction": "I",
+    "start_char": 123,
+    "end_char": 253,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:term:cedula-de-identificacion",
+    "term": "Cédula de Identificación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "fraction": "II",
+    "start_char": 253,
+    "end_char": 427,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:term:certificado-medico-de-incapacidad",
+    "term": "Certificado médico de incapacidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "fraction": "III",
+    "start_char": 427,
+    "end_char": 743,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:term:dictamen-medico-de-relacion-de-causalidad",
+    "term": "Dictamen médico de relación de causalidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "fraction": "IV",
+    "start_char": 743,
+    "end_char": 1029,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:term:dictamen-pericial-medico-de-imposibilidad-para-trabajar",
+    "term": "Dictamen pericial médico de imposibilidad para trabajar",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "fraction": "V",
+    "start_char": 1029,
+    "end_char": 1362,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:term:direccion",
+    "term": "Dirección",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "fraction": "VI",
+    "start_char": 1362,
+    "end_char": 1473,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:term:hoja-de-filiacion",
+    "term": "Hoja de Filiación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "fraction": "VII",
+    "start_char": 1473,
+    "end_char": 1635,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:term:hoja-de-trabajo",
+    "term": "Hoja de Trabajo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "fraction": "VIII",
+    "start_char": 1635,
+    "end_char": 1872,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:term:incapacidad",
+    "term": "Incapacidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "fraction": "IX",
+    "start_char": 1872,
+    "end_char": 2028,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:term:militar-en-situacion-de-retiro",
+    "term": "Militar en situación de retiro",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "fraction": "X",
+    "start_char": 2028,
+    "end_char": 2296,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:term:pensionista",
+    "term": "Pensionista",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "fraction": "XI",
+    "start_char": 2296,
+    "end_char": 2468,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:term:persona-medica-especialista",
+    "term": "Persona Médica Especialista",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "fraction": "XII",
+    "start_char": 2468,
+    "end_char": 2632,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:term:radicacion-de-pago",
+    "term": "Radicación de pago",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "fraction": "XIII",
+    "start_char": 2632,
+    "end_char": 2766,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "term": "Secretaría de origen",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "fraction": "XIV",
+    "start_char": 2766,
+    "end_char": 2885,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:term:tarjeta-de-filiacion",
+    "term": "Tarjeta de Filiación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "fraction": "XV",
+    "start_char": 2885,
+    "end_char": 3064,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:term:tiempo-de-servicios-efectivos",
+    "term": "Tiempo de servicios efectivos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "fraction": "XVI",
+    "start_char": 3064,
+    "end_char": 3534,
+    "basis": "express_definition"
+  }
+]

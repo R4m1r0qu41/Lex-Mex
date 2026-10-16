@@ -1,0 +1,17 @@
+{
+  "slug": "lcjpjf",
+  "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Carrera Judicial del Poder Judicial de la Federación",
+  "short_name": "LCJPJF",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCJPJF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcjpjf.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

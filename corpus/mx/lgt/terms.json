@@ -1,0 +1,211 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:atlas-turistico-de-mexico",
+    "term": "Atlas Turístico de México",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "II",
+    "start_char": 231,
+    "end_char": 523,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "III",
+    "start_char": 523,
+    "end_char": 573,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "IV",
+    "start_char": 573,
+    "end_char": 621,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:consejo-local",
+    "term": "Consejo Local",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "VI",
+    "start_char": 669,
+    "end_char": 734,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:consejo-municipal",
+    "term": "Consejo Municipal",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "VII",
+    "start_char": 734,
+    "end_char": 796,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:fondo",
+    "term": "Fondo",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "VIII",
+    "start_char": 796,
+    "end_char": 848,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "IX",
+    "start_char": 848,
+    "end_char": 882,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:ordenamiento-turistico-del-territorio",
+    "term": "Ordenamiento Turístico del Territorio",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "X",
+    "start_char": 882,
+    "end_char": 1302,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:prestadores-de-servicios-turisticos",
+    "term": "Prestadores de Servicios Turísticos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "XI",
+    "start_char": 1302,
+    "end_char": 1489,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:programa",
+    "term": "Programa",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "XII",
+    "start_char": 1489,
+    "end_char": 1536,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:recursos-turisticos",
+    "term": "Recursos Turísticos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "XIII",
+    "start_char": 1536,
+    "end_char": 1692,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:region-turistica",
+    "term": "Región Turística",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "XIV",
+    "start_char": 1692,
+    "end_char": 1879,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "XV",
+    "start_char": 1879,
+    "end_char": 1929,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:ruta-turistica",
+    "term": "Ruta Turística",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "XVI",
+    "start_char": 1929,
+    "end_char": 2100,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "XVII",
+    "start_char": 2100,
+    "end_char": 2182,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:servicios-turisticos",
+    "term": "Servicios Turísticos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "XVIII",
+    "start_char": 2182,
+    "end_char": 2358,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:turismo-sustentable",
+    "term": "Turismo Sustentable",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "XIX",
+    "start_char": 2358,
+    "end_char": 3024,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:turistas",
+    "term": "Turistas",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "XX",
+    "start_char": 3024,
+    "end_char": 3285,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgt:term:zonas-de-desarrollo-turistico-sustentable",
+    "term": "Zonas de Desarrollo Turístico Sustentable",
+    "instrument_id": "urn:lex-mx:federal:statute:lgt",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgt:article:3",
+    "fraction": "XXI",
+    "start_char": 3285,
+    "end_char": 3639,
+    "basis": "express_definition"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lffarosc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+  "short_name": "REG-LFFAROSC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2005-06-07",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:52:14.773883Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFFAROSC.pdf",
+  "source_sha256": "50d888e53a7b0990f6d19dbab03d263e01ca7d4a4365a0c2663e03caf9f2715c",
+  "extracted_text_sha256": "b882cfc8f9d72d2433cc7845414fd01b5759cfb7250626e975a1010a7453e9f8",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

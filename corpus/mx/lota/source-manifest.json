@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lota",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/159.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lota.htm",
+  "retrieved_at": "2026-10-14T07:41:11.067089Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 317149,
+  "etag": "\"4d6dd-57652b162eec0\"",
+  "last_modified": "Thu, 20 Sep 2018 19:40:19 GMT",
+  "source_sha256": "dd4e6e24f201a4e6b37919dc0461523bdb4f74e7c4852815f51bfd576c990296",
+  "extracted_text_sha256": "3b6ac2f8c81298cacad9e4b3a9288441ce644371a3e88d6568a22c0b62d58145",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

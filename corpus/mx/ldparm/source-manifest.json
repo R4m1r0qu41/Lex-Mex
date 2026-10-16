@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:ldparm",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/252.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldparm.htm",
+  "retrieved_at": "2026-10-14T07:24:17.091284Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 322332,
+  "etag": "\"4eb1c-57664d94c0b80\"",
+  "last_modified": "Fri, 21 Sep 2018 17:19:58 GMT",
+  "source_sha256": "e3cb7668dc68cdc73e7597def326cf185c392a77c7c9674772134831f4659179",
+  "extracted_text_sha256": "839a87c88703768f0ce71aa5ec9fa2fe4afa227e624f0cc1ed2dfedcfa7717da",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

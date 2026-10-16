@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgimh",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
+  "short_name": "LGIMH",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-08-02",
+  "latest_reform_date": "2026-01-15",
+  "retrieved_at": "2026-10-14T07:33:16.130386Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGISMH.pdf",
+  "source_sha256": "51f28ed8bbe83b9f62cf9a88705a4c40b1b9a18d2036e2381ee97933881f3a44",
+  "extracted_text_sha256": "78677ba14e445059e2d160cad9c9882b9df1f282ecf647ae3a829089e560d10f",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

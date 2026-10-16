@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgvs",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de Vida Silvestre",
+  "short_name": "REG-LGVS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-11-30",
+  "latest_reform_date": "2014-05-09",
+  "retrieved_at": "2026-10-14T07:59:40.292034Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGVS.pdf",
+  "source_sha256": "3a97451a0d3cb27d8eba822bd3e5b72fca6ffa1aef6573310e68047ddc188bad",
+  "extracted_text_sha256": "5f3df5b842eb8ae0b0cdd608e65d20df7ebe8cd92c59d116bd8d35d693198659",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

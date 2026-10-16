@@ -1,0 +1,62 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:11:reference:91-92:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:11",
+    "source_span": "4",
+    "start_char": 91,
+    "end_char": 92,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgcdc",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:4",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:13:reference:803-820:12:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:13",
+    "source_span": "artículo anterior",
+    "start_char": 803,
+    "end_char": 820,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgcdc",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:12",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:17:reference:32-49:16:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:17",
+    "source_span": "artículo anterior",
+    "start_char": 32,
+    "end_char": 49,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgcdc",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:16",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:8:reference:421-422:6:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:8",
+    "source_span": "6",
+    "start_char": 421,
+    "end_char": 422,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgcdc",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgcdc:article:6",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

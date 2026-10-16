@@ -1,0 +1,17 @@
+{
+  "slug": "linbal",
+  "instrument_id": "urn:lex-mx:federal:statute:linbal",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley que crea el Instituto Nacional de Bellas Artes y Literatura",
+  "short_name": "LINBAL",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/193_171215.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/linbal.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

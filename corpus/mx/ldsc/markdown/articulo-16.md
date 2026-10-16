@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:ldsc:article:16
+instrument_id: urn:lex-mx:federal:statute:ldsc
+instrument: LDSC
+name: "Ley de Desarrollo Sustentable de la Cafeticultura"
+provision_type: article
+number: "16"
+aliases: ["LDSC — Artículo 16"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSC.pdf
+source_sha256: 45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80
+---
+
+> Título TERCERO · Capítulo I
+
+# Artículo 16
+
+El Sistema Nacional de Información de la Cafeticultura en México será de orden público y coordinado por la persona titular de la Secretaría.

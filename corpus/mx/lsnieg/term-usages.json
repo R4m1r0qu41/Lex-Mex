@@ -1,0 +1,2234 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:1:term-usage:264-287",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 264,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:1:term-usage:346-369",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 346,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:2:term-usage:265-296",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 265,
+    "end_char": 296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:2:term-usage:564-587",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 564,
+    "end_char": 587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:2:term-usage:1156-1179",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 1156,
+    "end_char": 1179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:2:term-usage:1257-1268",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 1257,
+    "end_char": 1268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:2:term-usage:1965-1976",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 1965,
+    "end_char": 1976
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:2:term-usage:2183-2194",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 2183,
+    "end_char": 2194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:2:term-usage:2242-2265",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 2242,
+    "end_char": 2265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:2:term-usage:2410-2437",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:red-nacional-de-informacion",
+    "span": "Red Nacional de Información",
+    "start_char": 2410,
+    "end_char": 2437
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:2:term-usage:2482-2513",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 2482,
+    "end_char": 2513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:2:term-usage:2547-2558",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 2547,
+    "end_char": 2558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:2:term-usage:2910-2941",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 2910,
+    "end_char": 2941
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:2:term-usage:3417-3428",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 3417,
+    "end_char": 3428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:3:term-usage:23-46",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 23,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:3:term-usage:121-132",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 121,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:4:term-usage:23-46",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 23,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:4:term-usage:96-107",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 96,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:4:term-usage:140-151",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 140,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:4:term-usage:245-256",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 245,
+    "end_char": 256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:4:term-usage:278-289",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 278,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:5:term-usage:23-46",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 23,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:5:term-usage:89-96",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:consejo",
+    "span": "Consejo",
+    "start_char": 89,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:5:term-usage:153-164",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 153,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:6:term-usage:3-34",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 3,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:6:term-usage:364-395",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 364,
+    "end_char": 395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:8:term-usage:71-78",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:consejo",
+    "span": "Consejo",
+    "start_char": 71,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:9:term-usage:119-150",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 119,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:9:term-usage:263-286",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 263,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:9:term-usage:413-430",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 413,
+    "end_char": 430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:9:term-usage:703-726",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 703,
+    "end_char": 726
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:10:term-usage:48-71",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 48,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:10:term-usage:175-192",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 175,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:10:term-usage:391-414",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 391,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:11:term-usage:150-173",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 150,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:11:term-usage:627-650",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 627,
+    "end_char": 650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:11:term-usage:733-744",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 733,
+    "end_char": 744
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:12:term-usage:152-175",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 152,
+    "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:12:term-usage:338-369",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 338,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:13:term-usage:60-91",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 60,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:14:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:14:term-usage:457-464",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:consejo",
+    "span": "Consejo",
+    "start_char": 457,
+    "end_char": 464
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:14:term-usage:1160-1167",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:consejo",
+    "span": "Consejo",
+    "start_char": 1160,
+    "end_char": 1167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:14:term-usage:1610-1617",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:consejo",
+    "span": "Consejo",
+    "start_char": 1610,
+    "end_char": 1617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:14:term-usage:1851-1858",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:consejo",
+    "span": "Consejo",
+    "start_char": 1851,
+    "end_char": 1858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:15:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:15:term-usage:264-281",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 264,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:15:term-usage:525-542",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 525,
+    "end_char": 542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:16:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:16:term-usage:171-178",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:consejo",
+    "span": "Consejo",
+    "start_char": 171,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:16:term-usage:361-368",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:consejo",
+    "span": "Consejo",
+    "start_char": 361,
+    "end_char": 368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:16:term-usage:664-671",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:consejo",
+    "span": "Consejo",
+    "start_char": 664,
+    "end_char": 671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:17:term-usage:64-75",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 64,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:17:term-usage:394-405",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 394,
+    "end_char": 405
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:17:term-usage:717-728",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 717,
+    "end_char": 728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:17:term-usage:734-751",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 734,
+    "end_char": 751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:17:term-usage:782-789",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:consejo",
+    "span": "Consejo",
+    "start_char": 782,
+    "end_char": 789
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:18:term-usage:96-113",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 96,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:19:term-usage:61-72",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 61,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:19:term-usage:98-109",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 98,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:19:term-usage:124-146",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-geografica",
+    "span": "Información Geográfica",
+    "start_char": 124,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:19:term-usage:173-184",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 173,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:20:term-usage:26-37",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 26,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:21:term-usage:26-37",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 26,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:22:term-usage:447-458",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 447,
+    "end_char": 458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:23:term-usage:26-37",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 26,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:23:term-usage:432-463",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 432,
+    "end_char": 463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:24:term-usage:26-37",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 26,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:25:term-usage:445-456",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 445,
+    "end_char": 456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:26:term-usage:26-48",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-geografica",
+    "span": "Información Geográfica",
+    "start_char": 26,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:27:term-usage:26-48",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-geografica",
+    "span": "Información Geográfica",
+    "start_char": 26,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:28:term-usage:201-212",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 201,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:28:term-usage:403-414",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 403,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:29:term-usage:93-110",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 93,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:29:term-usage:281-292",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 281,
+    "end_char": 292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:30:term-usage:81-98",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 81,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:30:term-usage:447-464",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 447,
+    "end_char": 464
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:30:term-usage:596-627",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 596,
+    "end_char": 627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:30:term-usage:787-804",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 787,
+    "end_char": 804
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:30:term-usage:1236-1253",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1236,
+    "end_char": 1253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:31:term-usage:118-135",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 118,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:31:term-usage:519-530",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 519,
+    "end_char": 530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:31:term-usage:551-568",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 551,
+    "end_char": 568
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:32:term-usage:443-460",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 443,
+    "end_char": 460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:33:term-usage:151-182",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 151,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:33:term-usage:374-385",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 374,
+    "end_char": 385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:33:term-usage:1184-1201",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1184,
+    "end_char": 1201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:33:term-usage:1339-1350",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 1339,
+    "end_char": 1350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:33:term-usage:1404-1415",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 1404,
+    "end_char": 1415
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:33:term-usage:1869-1892",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 1869,
+    "end_char": 1892
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:34:term-usage:782-793",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 782,
+    "end_char": 793
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:35:term-usage:521-532",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 521,
+    "end_char": 532
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:36:term-usage:178-189",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 178,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:36:term-usage:490-501",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 490,
+    "end_char": 501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:36:term-usage:684-695",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 684,
+    "end_char": 695
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:36:term-usage:824-835",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 824,
+    "end_char": 835
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:37:term-usage:55-78",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 55,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:38:term-usage:29-52",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 29,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:38:term-usage:553-576",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 553,
+    "end_char": 576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:38:term-usage:748-759",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 748,
+    "end_char": 759
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:39:term-usage:65-88",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 65,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:40:term-usage:4-27",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 4,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:40:term-usage:544-555",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 544,
+    "end_char": 555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:41:term-usage:4-27",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 4,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:41:term-usage:220-242",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informante del Sistema",
+    "start_char": 220,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:42:term-usage:4-27",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 4,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:43:term-usage:104-127",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 104,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:44:term-usage:126-149",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 126,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:45:term-usage:4-27",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 4,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:45:term-usage:651-662",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 651,
+    "end_char": 662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:46:term-usage:130-153",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 130,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:46:term-usage:442-473",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 442,
+    "end_char": 473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:46:term-usage:841-864",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 841,
+    "end_char": 864
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:46:term-usage:1084-1107",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 1084,
+    "end_char": 1107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:47:term-usage:31-54",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 31,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:47:term-usage:171-182",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 171,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:47:term-usage:247-258",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 247,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:47:term-usage:590-601",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 590,
+    "end_char": 601
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:48:term-usage:139-150",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 139,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:49:term-usage:217-239",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informante del Sistema",
+    "start_char": 217,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:49:term-usage:596-618",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informante del Sistema",
+    "start_char": 596,
+    "end_char": 618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:49:term-usage:629-640",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 629,
+    "end_char": 640
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:49:term-usage:698-720",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informante del Sistema",
+    "start_char": 698,
+    "end_char": 720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:50:term-usage:4-27",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 4,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:51:term-usage:19-50",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 19,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:52:term-usage:293-316",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 293,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:53:term-usage:96-127",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 96,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:54:term-usage:158-189",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 158,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:54:term-usage:277-288",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 277,
+    "end_char": 288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:55:term-usage:613-624",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 613,
+    "end_char": 624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:58:term-usage:132-143",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 132,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:58:term-usage:433-444",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 433,
+    "end_char": 444
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:59:term-usage:666-697",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 666,
+    "end_char": 697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:59:term-usage:725-742",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 725,
+    "end_char": 742
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:62:term-usage:361-372",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 361,
+    "end_char": 372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:64:term-usage:109-126",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 109,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:64:term-usage:358-369",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 358,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:64:term-usage:494-505",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 494,
+    "end_char": 505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:65:term-usage:113-130",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 113,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:66:term-usage:108-125",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 108,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:67:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:67:term-usage:288-305",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 288,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:67:term-usage:441-458",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 441,
+    "end_char": 458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:68:term-usage:149-166",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 149,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:68:term-usage:375-392",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 375,
+    "end_char": 392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:68:term-usage:560-577",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 560,
+    "end_char": 577
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:68:term-usage:666-683",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 666,
+    "end_char": 683
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:69:term-usage:37-54",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 37,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:70:term-usage:19-36",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 19,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:71:term-usage:36-53",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 36,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:71:term-usage:260-277",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 260,
+    "end_char": 277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:71:term-usage:334-351",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 334,
+    "end_char": 351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:71:term-usage:505-522",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 505,
+    "end_char": 522
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:71:term-usage:610-627",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 610,
+    "end_char": 627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:71:term-usage:703-720",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 703,
+    "end_char": 720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:71:term-usage:1189-1206",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1189,
+    "end_char": 1206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:71:term-usage:1342-1359",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1342,
+    "end_char": 1359
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:72:term-usage:19-36",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 19,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:73:term-usage:43-60",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 43,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:73:term-usage:410-427",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 410,
+    "end_char": 427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:73:term-usage:752-769",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 752,
+    "end_char": 769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:73:term-usage:1212-1229",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1212,
+    "end_char": 1229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:74:term-usage:13-30",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 13,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:74:term-usage:310-327",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 310,
+    "end_char": 327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:75:term-usage:98-115",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 98,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:75:term-usage:137-154",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 137,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:75:term-usage:493-510",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 493,
+    "end_char": 510
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:75:term-usage:873-890",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 873,
+    "end_char": 890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:75:term-usage:1059-1076",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1059,
+    "end_char": 1076
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:75:term-usage:1120-1137",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1120,
+    "end_char": 1137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:75:term-usage:1304-1321",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1304,
+    "end_char": 1321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:76:term-usage:62-79",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 62,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:76:term-usage:246-263",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 246,
+    "end_char": 263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:76:term-usage:352-369",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 352,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:77:term-usage:19-36",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 19,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:77:term-usage:215-226",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 215,
+    "end_char": 226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:77:term-usage:356-367",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 356,
+    "end_char": 367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:77:term-usage:491-502",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 491,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:77:term-usage:1085-1096",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 1085,
+    "end_char": 1096
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:77:term-usage:1746-1763",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1746,
+    "end_char": 1763
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:77:term-usage:1856-1887",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 1856,
+    "end_char": 1887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:77:term-usage:3243-3260",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3243,
+    "end_char": 3260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:78:term-usage:123-154",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 123,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:78:term-usage:982-989",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:consejo",
+    "span": "Consejo",
+    "start_char": 982,
+    "end_char": 989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:78:term-usage:1496-1527",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 1496,
+    "end_char": 1527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:79:term-usage:19-36",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 19,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:80:term-usage:249-266",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 249,
+    "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:80:term-usage:301-318",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 301,
+    "end_char": 318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:80:term-usage:385-402",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 385,
+    "end_char": 402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:80:term-usage:612-629",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 612,
+    "end_char": 629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:80:term-usage:747-754",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:consejo",
+    "span": "Consejo",
+    "start_char": 747,
+    "end_char": 754
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:80:term-usage:939-970",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 939,
+    "end_char": 970
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:80:term-usage:995-1012",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 995,
+    "end_char": 1012
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:80:term-usage:1425-1442",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1425,
+    "end_char": 1442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:81:term-usage:202-219",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 202,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:81:term-usage:494-511",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 494,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:86:term-usage:156-179",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 156,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:86:term-usage:753-776",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 753,
+    "end_char": 776
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:87:term-usage:135-152",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 135,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:88:term-usage:461-472",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 461,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:88:term-usage:544-561",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 544,
+    "end_char": 561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:89:term-usage:171-182",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 171,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:90:term-usage:192-209",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 192,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:91:term-usage:1361-1378",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1361,
+    "end_char": 1378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:91:term-usage:3598-3615",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3598,
+    "end_char": 3615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:91:term-usage:3790-3807",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3790,
+    "end_char": 3807
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:92:term-usage:72-94",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-geografica",
+    "span": "Información Geográfica",
+    "start_char": 72,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:93:term-usage:128-150",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-geografica",
+    "span": "Información Geográfica",
+    "start_char": 128,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:95:term-usage:400-431",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 400,
+    "end_char": 431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:96:term-usage:33-64",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 33,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:96:term-usage:301-312",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 301,
+    "end_char": 312
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:98:term-usage:23-46",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 23,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:98:term-usage:152-169",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 152,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:98:term-usage:190-221",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 190,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:99:term-usage:23-46",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 23,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:99:term-usage:183-194",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 183,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:99:term-usage:357-380",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 357,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:99:term-usage:441-458",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 441,
+    "end_char": 458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:99:term-usage:484-515",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 484,
+    "end_char": 515
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:100:term-usage:353-370",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 353,
+    "end_char": 370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:101:term-usage:133-164",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:101",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "span": "Información de Interés Nacional",
+    "start_char": 133,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:103:term-usage:72-95",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 72,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:103:term-usage:1027-1038",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 1027,
+    "end_char": 1038
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:104:term-usage:372-395",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 372,
+    "end_char": 395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:104:term-usage:448-459",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 448,
+    "end_char": 459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:104:term-usage:558-575",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 558,
+    "end_char": 575
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:104:term-usage:740-751",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 740,
+    "end_char": 751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:104:term-usage:979-990",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 979,
+    "end_char": 990
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:105:term-usage:448-459",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:105",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 448,
+    "end_char": 459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:105:term-usage:640-651",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:105",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 640,
+    "end_char": 651
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:106:term-usage:307-330",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 307,
+    "end_char": 330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:106:term-usage:589-612",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 589,
+    "end_char": 612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:106:term-usage:902-925",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 902,
+    "end_char": 925
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:106:term-usage:1183-1206",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "span": "Informantes del Sistema",
+    "start_char": 1183,
+    "end_char": 1206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:article:115:term-usage:344-361",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 344,
+    "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:transitory:segundo:term-usage:49-66",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 49,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:transitory:segundo:term-usage:386-403",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 386,
+    "end_char": 403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:transitory:segundo:term-usage:583-600",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 583,
+    "end_char": 600
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:transitory:septimo:term-usage:422-439",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 422,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:transitory:octavo:term-usage:153-170",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 153,
+    "end_char": 170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:transitory:decimo:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:transitory:decimo:term-usage:178-201",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 178,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:transitory:decimo-segundo:term-usage:108-131",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 108,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:transitory:decimo-tercero:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:transitory:decimo-tercero:term-usage:197-220",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 197,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:transitory:decimo-cuarto:term-usage:255-278",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:transitory:decimo-cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 255,
+    "end_char": 278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:transitory:decimo-sexto:term-usage:3-14",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:transitory:decimo-sexto",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "span": "Información",
+    "start_char": 3,
+    "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:transitory:decimo-septimo:term-usage:20-43",
+    "provision_id": "urn:lex-mx:federal:statute:lsnieg:transitory:decimo-septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "span": "Información Estadística",
+    "start_char": 20,
+    "end_char": 43
+  }
+]

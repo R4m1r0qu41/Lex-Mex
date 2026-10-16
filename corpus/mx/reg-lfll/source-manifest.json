@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFLL.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFLL.pdf",
+  "retrieved_at": "2026-10-14T07:52:44.420253Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 287325,
+  "etag": "\"4625d-563b487e8d740\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:09 GMT",
+  "source_sha256": "d295edfeef5d5f77b69a5817a13bc40ee26d72d93f187b00e57e8badb40363fe",
+  "extracted_text_sha256": "e3b4cd3eef20d57e69f6a5a78ab7d8c96794f8e905e817fa3780ff8b9566f2d7",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

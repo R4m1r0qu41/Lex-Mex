@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lrpv",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Registro Público Vehicular",
+  "short_name": "LRPV",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2004-09-01",
+  "latest_reform_date": "2021-05-20",
+  "retrieved_at": "2026-10-14T07:44:20.250458Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/269_200521.pdf",
+  "source_sha256": "0125eed7519ad260330f9a04f78c0e4a1ce93c06e67c98ac3c535416787656ba",
+  "extracted_text_sha256": "e210fdb80d01dc269d5514ac13323e2c39fd77589b0fa880d3449d80e10c6234",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

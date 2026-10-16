@@ -1,0 +1,180 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:article:18:reference:201-218:17:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lbio:article:18",
+    "source_span": "artículo anterior",
+    "start_char": 201,
+    "end_char": 218,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "target_provision_id": "urn:lex-mx:federal:statute:lbio:article:17",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:article:24:reference:25-42:23:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lbio:article:24",
+    "source_span": "artículo anterior",
+    "start_char": 25,
+    "end_char": 42,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "target_provision_id": "urn:lex-mx:federal:statute:lbio:article:23",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:article:26:reference:448-451:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lbio:article:26",
+    "source_span": "III",
+    "start_char": 448,
+    "end_char": 451,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "target_provision_id": "urn:lex-mx:federal:statute:lbio:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "III",
+        "start_char": 448,
+        "end_char": 451
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:article:30:reference:95-97:25:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lbio:article:30",
+    "source_span": "25",
+    "start_char": 95,
+    "end_char": 97,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "target_provision_id": "urn:lex-mx:federal:statute:lbio:article:25",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:reference:358-360:25:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
+    "source_span": "25",
+    "start_char": 358,
+    "end_char": 360,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "target_provision_id": "urn:lex-mx:federal:statute:lbio:article:25",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:transitory:decimo:reference:314-315:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lbio:transitory:decimo",
+    "source_span": "7",
+    "start_char": 314,
+    "end_char": 315,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "target_provision_id": "urn:lex-mx:federal:statute:lbio:article:7",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 289,
+        "end_char": 300
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:transitory:noveno:reference:252-253:6:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lbio:transitory:noveno",
+    "source_span": "6",
+    "start_char": 252,
+    "end_char": 253,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "target_provision_id": "urn:lex-mx:federal:statute:lbio:article:6",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 226,
+        "end_char": 238
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:transitory:octavo:reference:195-196:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lbio:transitory:octavo",
+    "source_span": "5",
+    "start_char": 195,
+    "end_char": 196,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "target_provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 169,
+        "end_char": 181
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:transitory:septimo:reference:76-78:31:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lbio:transitory:septimo",
+    "source_span": "31",
+    "start_char": 76,
+    "end_char": 78,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "target_provision_id": "urn:lex-mx:federal:statute:lbio:article:31",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbio:transitory:sexto:reference:136-138:30:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lbio:transitory:sexto",
+    "source_span": "30",
+    "start_char": 136,
+    "end_char": 138,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lbio",
+    "target_provision_id": "urn:lex-mx:federal:statute:lbio:article:30",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

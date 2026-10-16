@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lpeam",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPEAM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPEAM.pdf",
+  "retrieved_at": "2026-10-14T08:02:50.597104Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 466583,
+  "etag": "\"71e97-64de907645ac0\"",
+  "last_modified": "Thu, 26 Mar 2026 08:18:27 GMT",
+  "source_sha256": "4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98",
+  "extracted_text_sha256": "3eb1fd3bad9242aae06402e9089c91e1937060123a1ff1f0836d5983a95a6aee",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

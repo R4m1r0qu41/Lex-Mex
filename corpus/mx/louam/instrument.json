@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:louam",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Orgánica de la Universidad Autónoma Metropolitana",
+  "short_name": "LOUAM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1973-12-17",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:41:25.026017Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/157.pdf",
+  "source_sha256": "8ed0956913d72410d20164fbb17b641a0b3bde532788035b8f0898d18481ac40",
+  "extracted_text_sha256": "73c41991395b6be97ab192a995afebd2ab56857007dc091045f663013671e96b",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

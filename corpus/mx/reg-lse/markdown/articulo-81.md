@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lse:article:81
+instrument_id: urn:lex-mx:federal:regulation:reg-lse
+instrument: REG-LSE
+name: "Reglamento de la Ley del Sector Eléctrico"
+provision_type: article
+number: "81"
+aliases: ["REG-LSE — Artículo 81"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSE.pdf
+source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
+---
+
+> Título TERCERO · Capítulo IV
+
+# Artículo 81
+
+Los contratos de producción de largo plazo deben contener al menos lo siguiente: I. La capacidad de generación de energía eléctrica que el particular ponga a disposición de la Empresa Pública del Estado a lo largo del plazo que se fije; II. Los términos y condiciones aplicables a la capacidad de generación puesta a disposición de la Empresa Pública del Estado, así como a las entregas de energía eléctrica y Productos Asociados a la misma, en situaciones ordinarias o de emergencia; III. Las fórmulas relevantes que deben ser aplicadas, así como las reglas y definiciones que se utilizan para la determinación de: a) Los pagos de la Empresa Pública del Estado, por la capacidad de generación puesta a su disposición, mismos que deben de ser uniformes y en ningún caso crecientes; b) Los pagos de la Empresa Pública del Estado por la energía eléctrica y Productos Asociados que le sean entregados; c) Los incentivos o ajustes por la disponibilidad de la capacidad que se ponga a disposición de la Empresa Pública del Estado, y d) Los factores de actualización a través del tiempo de los pagos mencionados en los incisos a) y b); IV. Vigencia, misma que no debe exceder la vigencia del permiso otorgado por la CNE; V. Garantías para el cumplimiento de las obligaciones; VI. Las condiciones técnicas que debe satisfacer la energía eléctrica, que deben incluir: a) La definición del punto de interconexión en donde debe ser entregada dicha energía eléctrica a la red; b) Lo relativo a la medición que se debe hacer de la energía eléctrica entregada, en cumplimiento con las disposiciones administrativas de carácter general correspondientes, y c) El nivel de tensión; VII. Las cláusulas de exclusividad del compromiso de capacidad y energía eléctrica, donde se especifique la prohibición expresa de la Central Eléctrica de comercializar cualquier capacidad excedente con terceras personas, y participar en la generación de energía eléctrica con otros permisos u otras modalidades de conformidad con el artículo 39 de la Ley; VIII. Notificación de cambios en la Ley que modifiquen los costos o el alcance del proyecto; IX. Criterios de confiabilidad que incluyan verificaciones y visitas de inspección de carácter técnico, operativo y normativo; X. Realización de auditorías de calidad, ambientales, de seguridad y salud en el trabajo; XI. Notificación de la ocurrencia de eventos de caso fortuito o fuerza mayor y fuerza mayor gubernamental; XII. Notificación y configuración de eventos de incumplimiento de las partes; XIII. Los supuestos de rescisión y terminación anticipada del contrato y causales de incumplimiento de las partes; XIV. Establecer la metodología para determinar el valor de los activos de las instalaciones del proyecto en caso de terminación anticipada del contrato, ya sea por algún evento de incumplimiento de las obligaciones, o bien por caso fortuito o fuerza mayor de alguna de las partes; XV. Las penas convencionales y sanciones aplicables por el incumplimiento a lo previsto en el contrato, que sea imputable tanto a la persona particular como a la Empresa Pública del Estado, la cual debe incluir el pago por la energía de sustitución; XVI. Pago de daños y perjuicios derivados de incumplimientos a las obligaciones contractuales; XVII. Los procedimientos de solución de controversias, incluida la jurisdicción a que deben someterse las partes y, en su caso, las reglas de arbitraje aplicables, y XVIII. Lo demás que las partes acuerden necesario.

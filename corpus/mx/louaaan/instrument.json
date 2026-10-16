@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:louaaan",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Orgánica de la Universidad Autónoma Agraria Antonio Narro",
+  "short_name": "LOUAAAN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-04-26",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:41:19.657132Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOUAAAN.pdf",
+  "source_sha256": "0684841d80e27cadbc489695f617c672fe74cb5510970a0b2d0c762cf648ed27",
+  "extracted_text_sha256": "4aea7202a3785ec11bcef2ba3bdd1d4686c3c43f5c6ab1a524657d4edee6a479",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

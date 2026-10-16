@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lpf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpf.htm",
+  "retrieved_at": "2026-10-14T07:42:06.042512Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 548519,
+  "etag": "\"85ea7-6449e5f244d00\"",
+  "last_modified": "Fri, 28 Nov 2025 02:27:32 GMT",
+  "source_sha256": "fecec9ae534befd8467e94bb8eb7e39444938f6ef3346b9cc0e91932f4082885",
+  "extracted_text_sha256": "021c39ecaece2751c1b2e5e7802577c43c499c1454dda0a6117155ba9b9c6ff7",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

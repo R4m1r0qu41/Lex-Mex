@@ -1,0 +1,46 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:term:fiscalias-o-procuradurias-locales",
+    "term": "Fiscalías o Procuradurías locales",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpisdme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:7",
+    "fraction": "II",
+    "start_char": 113,
+    "end_char": 223,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:term:instituciones-de-seguridad-publica",
+    "term": "Instituciones de Seguridad Pública",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpisdme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:7",
+    "fraction": "III",
+    "start_char": 223,
+    "end_char": 436,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpisdme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:7",
+    "fraction": "IV",
+    "start_char": 436,
+    "end_char": 647,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:term:policia",
+    "term": "Policía",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpisdme",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:7",
+    "fraction": "V",
+    "start_char": 647,
+    "end_char": 861,
+    "basis": "express_definition"
+  }
+]

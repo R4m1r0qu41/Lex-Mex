@@ -1,0 +1,4592 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:1:term-usage:98-107",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 98,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:1:term-usage:228-240",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 228,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:1:term-usage:245-254",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 245,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:2:term-usage:184-188",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 184,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:2:term-usage:245-254",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 245,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:2:term-usage:376-395",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 376,
+    "end_char": 395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:2:term-usage:628-637",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 628,
+    "end_char": 637
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:2:term-usage:692-701",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 692,
+    "end_char": 701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:2:term-usage:782-791",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 782,
+    "end_char": 791
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:2:term-usage:975-984",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 975,
+    "end_char": 984
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:2:term-usage:1172-1181",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1172,
+    "end_char": 1181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:2:term-usage:1251-1260",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1251,
+    "end_char": 1260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:2:term-usage:1324-1336",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1324,
+    "end_char": 1336
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:2:term-usage:1889-1898",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1889,
+    "end_char": 1898
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:3:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:3:term-usage:233-237",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 233,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:3:term-usage:359-371",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 359,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:3:term-usage:376-395",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 376,
+    "end_char": 395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:3:term-usage:941-945",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 941,
+    "end_char": 945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:3:term-usage:1023-1035",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1023,
+    "end_char": 1035
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:4:term-usage:198-202",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 198,
+    "end_char": 202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:5:term-usage:167-179",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 167,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:5:term-usage:184-203",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 184,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:5:term-usage:556-568",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 556,
+    "end_char": 568
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:7:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:7:term-usage:76-80",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 76,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:7:term-usage:282-286",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 282,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:7:term-usage:328-337",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 328,
+    "end_char": 337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:7:term-usage:395-399",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 395,
+    "end_char": 399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:7:term-usage:425-429",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 425,
+    "end_char": 429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:8:term-usage:38-42",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 38,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:8:term-usage:71-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 71,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:57-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 57,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:74-83",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 74,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:298-310",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 298,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:363-382",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 363,
+    "end_char": 382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:479-498",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 479,
+    "end_char": 498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:615-627",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 615,
+    "end_char": 627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:909-918",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 909,
+    "end_char": 918
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:1017-1049",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 1017,
+    "end_char": 1049
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:1162-1174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1162,
+    "end_char": 1174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:1218-1237",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1218,
+    "end_char": 1237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:1456-1468",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1456,
+    "end_char": 1468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:2484-2496",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2484,
+    "end_char": 2496
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:2553-2572",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2553,
+    "end_char": 2572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:2867-2879",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2867,
+    "end_char": 2879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:2994-3011",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:normativa-interna",
+    "span": "Normativa Interna",
+    "start_char": 2994,
+    "end_char": 3011
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:3186-3205",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 3186,
+    "end_char": 3205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:3415-3427",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 3415,
+    "end_char": 3427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:3662-3681",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 3662,
+    "end_char": 3681
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:4198-4207",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 4198,
+    "end_char": 4207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:4264-4268",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 4264,
+    "end_char": 4268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:4305-4309",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 4305,
+    "end_char": 4309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:4444-4463",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 4444,
+    "end_char": 4463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:4711-4723",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 4711,
+    "end_char": 4723
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:4956-4960",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 4956,
+    "end_char": 4960
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:4983-5002",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 4983,
+    "end_char": 5002
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:5206-5218",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 5206,
+    "end_char": 5218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:9:term-usage:5223-5242",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 5223,
+    "end_char": 5242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:72-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 72,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:251-283",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 251,
+    "end_char": 283
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:996-1013",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-de-la-materia",
+    "span": "Ley de la Materia",
+    "start_char": 996,
+    "end_char": 1013
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:1042-1054",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1042,
+    "end_char": 1054
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:1474-1494",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:sitio-arqueologico",
+    "span": "Sitios Arqueológicos",
+    "start_char": 1474,
+    "end_char": 1494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:1646-1666",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:rescate-arqueologico",
+    "span": "Rescate Arqueológico",
+    "start_char": 1646,
+    "end_char": 1666
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:1670-1702",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 1670,
+    "end_char": 1702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:2100-2132",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 2100,
+    "end_char": 2132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:2275-2287",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2275,
+    "end_char": 2287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:2308-2327",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2308,
+    "end_char": 2327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:2394-2413",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2394,
+    "end_char": 2413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:2416-2448",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 2416,
+    "end_char": 2448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:2700-2732",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 2700,
+    "end_char": 2732
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:3191-3203",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 3191,
+    "end_char": 3203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:3308-3340",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 3308,
+    "end_char": 3340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:3411-3423",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 3411,
+    "end_char": 3423
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:3496-3528",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 3496,
+    "end_char": 3528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:3631-3643",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 3631,
+    "end_char": 3643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:10:term-usage:3752-3761",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3752,
+    "end_char": 3761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:14-26",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 14,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:67-76",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 67,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:242-274",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 242,
+    "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:334-346",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 334,
+    "end_char": 346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:399-431",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 399,
+    "end_char": 431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:527-539",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 527,
+    "end_char": 539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:655-667",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 655,
+    "end_char": 667
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:970-982",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 970,
+    "end_char": 982
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:987-1006",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 987,
+    "end_char": 1006
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:1469-1481",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1469,
+    "end_char": 1481
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:1501-1520",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1501,
+    "end_char": 1520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:1606-1618",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1606,
+    "end_char": 1618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:1682-1691",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1682,
+    "end_char": 1691
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:1827-1839",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1827,
+    "end_char": 1839
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:1945-1964",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1945,
+    "end_char": 1964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:1971-2003",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 1971,
+    "end_char": 2003
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:2033-2045",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2033,
+    "end_char": 2045
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:2138-2157",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2138,
+    "end_char": 2157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:2259-2271",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2259,
+    "end_char": 2271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:2456-2468",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2456,
+    "end_char": 2468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:11:term-usage:2484-2503",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2484,
+    "end_char": 2503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:12:term-usage:40-49",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 40,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:12:term-usage:350-369",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 350,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:12:term-usage:375-407",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 375,
+    "end_char": 407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:12:term-usage:1124-1136",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1124,
+    "end_char": 1136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:12:term-usage:1280-1292",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1280,
+    "end_char": 1292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:12:term-usage:2184-2203",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2184,
+    "end_char": 2203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:12:term-usage:3135-3147",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 3135,
+    "end_char": 3147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:12:term-usage:3175-3194",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 3175,
+    "end_char": 3194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:12:term-usage:3201-3233",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 3201,
+    "end_char": 3233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:13:term-usage:59-68",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 59,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:14:term-usage:83-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 83,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:14:term-usage:176-188",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 176,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:15:term-usage:109-118",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 109,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:15:term-usage:223-232",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 223,
+    "end_char": 232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:15:term-usage:330-347",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:normativa-interna",
+    "span": "Normativa Interna",
+    "start_char": 330,
+    "end_char": 347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:15:term-usage:397-406",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 397,
+    "end_char": 406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:15:term-usage:502-511",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 502,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:15:term-usage:574-583",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 574,
+    "end_char": 583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:15:term-usage:846-855",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 846,
+    "end_char": 855
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:15:term-usage:1125-1134",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1125,
+    "end_char": 1134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:15:term-usage:1363-1372",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1363,
+    "end_char": 1372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:15:term-usage:1526-1535",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1526,
+    "end_char": 1535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:502-506",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 502,
+    "end_char": 506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:720-729",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 720,
+    "end_char": 729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:974-983",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 974,
+    "end_char": 983
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:1485-1494",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1485,
+    "end_char": 1494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:1661-1693",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 1661,
+    "end_char": 1693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:1712-1721",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1712,
+    "end_char": 1721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:1751-1763",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1751,
+    "end_char": 1763
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:1779-1798",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1779,
+    "end_char": 1798
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:1849-1871",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:escuelas-del-instituto",
+    "span": "Escuelas del Instituto",
+    "start_char": 1849,
+    "end_char": 1871
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:1976-1998",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:escuelas-del-instituto",
+    "span": "Escuelas del Instituto",
+    "start_char": 1976,
+    "end_char": 1998
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:2113-2122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2113,
+    "end_char": 2122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:2262-2294",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 2262,
+    "end_char": 2294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:2557-2569",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2557,
+    "end_char": 2569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:2612-2631",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2612,
+    "end_char": 2631
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:2689-2721",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 2689,
+    "end_char": 2721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:2833-2842",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2833,
+    "end_char": 2842
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:3039-3048",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3039,
+    "end_char": 3048
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:3423-3435",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 3423,
+    "end_char": 3435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:3491-3510",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 3491,
+    "end_char": 3510
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:3717-3729",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 3717,
+    "end_char": 3729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:3734-3753",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 3734,
+    "end_char": 3753
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:3875-3894",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 3875,
+    "end_char": 3894
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:3948-3980",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 3948,
+    "end_char": 3980
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:16:term-usage:4395-4404",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 4395,
+    "end_char": 4404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:17:term-usage:502-511",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 502,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:17:term-usage:534-543",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 534,
+    "end_char": 543
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:17:term-usage:1289-1298",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1289,
+    "end_char": 1298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:17:term-usage:1627-1636",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1627,
+    "end_char": 1636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:17:term-usage:1932-1941",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1932,
+    "end_char": 1941
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:17:term-usage:2161-2170",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2161,
+    "end_char": 2170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:17:term-usage:2417-2426",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2417,
+    "end_char": 2426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:17:term-usage:2591-2600",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2591,
+    "end_char": 2600
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:17:term-usage:3548-3557",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3548,
+    "end_char": 3557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:17:term-usage:4782-4791",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 4782,
+    "end_char": 4791
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:17:term-usage:5013-5025",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 5013,
+    "end_char": 5025
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:17:term-usage:5088-5097",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 5088,
+    "end_char": 5097
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:17:term-usage:5214-5223",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 5214,
+    "end_char": 5223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:17:term-usage:5399-5408",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 5399,
+    "end_char": 5408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:18:term-usage:51-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 51,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:18:term-usage:1008-1017",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1008,
+    "end_char": 1017
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:18:term-usage:1513-1522",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1513,
+    "end_char": 1522
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:18:term-usage:1555-1559",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 1555,
+    "end_char": 1559
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:18:term-usage:2261-2270",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2261,
+    "end_char": 2270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:18:term-usage:2444-2461",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:normativa-interna",
+    "span": "Normativa Interna",
+    "start_char": 2444,
+    "end_char": 2461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:18:term-usage:2706-2718",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2706,
+    "end_char": 2718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:19:term-usage:436-448",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 436,
+    "end_char": 448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:19:term-usage:685-707",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:escuelas-del-instituto",
+    "span": "Escuelas del Instituto",
+    "start_char": 685,
+    "end_char": 707
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:19:term-usage:1194-1206",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1194,
+    "end_char": 1206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:19:term-usage:1673-1685",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1673,
+    "end_char": 1685
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:19:term-usage:1700-1709",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1700,
+    "end_char": 1709
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:19:term-usage:1746-1755",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1746,
+    "end_char": 1755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:19:term-usage:2236-2245",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2236,
+    "end_char": 2245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:19:term-usage:2463-2495",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 2463,
+    "end_char": 2495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:215-224",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 215,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:538-547",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 538,
+    "end_char": 547
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:607-626",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 607,
+    "end_char": 626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:877-886",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 877,
+    "end_char": 886
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:951-960",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 951,
+    "end_char": 960
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:1197-1206",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1197,
+    "end_char": 1206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:1239-1248",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1239,
+    "end_char": 1248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:1368-1377",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1368,
+    "end_char": 1377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:1703-1735",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 1703,
+    "end_char": 1735
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:1947-1964",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:normativa-interna",
+    "span": "Normativa Interna",
+    "start_char": 1947,
+    "end_char": 1964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:2108-2117",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2108,
+    "end_char": 2117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:2248-2257",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2248,
+    "end_char": 2257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:2423-2442",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2423,
+    "end_char": 2442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:2669-2688",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2669,
+    "end_char": 2688
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:2849-2858",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2849,
+    "end_char": 2858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:3074-3106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 3074,
+    "end_char": 3106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:3186-3195",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3186,
+    "end_char": 3195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:3402-3411",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3402,
+    "end_char": 3411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:3984-3993",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3984,
+    "end_char": 3993
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:4073-4082",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 4073,
+    "end_char": 4082
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:4387-4396",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 4387,
+    "end_char": 4396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:20:term-usage:4638-4647",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 4638,
+    "end_char": 4647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:50-54",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 50,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:144-148",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 144,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:306-310",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 306,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:759-763",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 759,
+    "end_char": 763
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:857-869",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 857,
+    "end_char": 869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:929-948",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 929,
+    "end_char": 948
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:1129-1138",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1129,
+    "end_char": 1138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:1279-1298",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1279,
+    "end_char": 1298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:1534-1553",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1534,
+    "end_char": 1553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:1596-1600",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 1596,
+    "end_char": 1600
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:1868-1887",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1868,
+    "end_char": 1887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:2004-2013",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2004,
+    "end_char": 2013
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:2030-2042",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2030,
+    "end_char": 2042
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:2062-2081",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2062,
+    "end_char": 2081
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:2319-2331",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2319,
+    "end_char": 2331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:2336-2355",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2336,
+    "end_char": 2355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:2489-2493",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 2489,
+    "end_char": 2493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:2639-2648",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2639,
+    "end_char": 2648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:2834-2838",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 2834,
+    "end_char": 2838
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:21:term-usage:3187-3196",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3187,
+    "end_char": 3196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:22:term-usage:278-282",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 278,
+    "end_char": 282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:22:term-usage:557-569",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 557,
+    "end_char": 569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:22:term-usage:600-619",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 600,
+    "end_char": 619
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:22:term-usage:870-879",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 870,
+    "end_char": 879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:22:term-usage:1049-1058",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1049,
+    "end_char": 1058
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:22:term-usage:1150-1169",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1150,
+    "end_char": 1169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:22:term-usage:1389-1398",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1389,
+    "end_char": 1398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:22:term-usage:1533-1545",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1533,
+    "end_char": 1545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:22:term-usage:1550-1569",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1550,
+    "end_char": 1569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:22:term-usage:1857-1869",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1857,
+    "end_char": 1869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:22:term-usage:1948-1957",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1948,
+    "end_char": 1957
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:22:term-usage:2070-2082",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2070,
+    "end_char": 2082
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:22:term-usage:2149-2161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2149,
+    "end_char": 2161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:22:term-usage:2166-2185",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2166,
+    "end_char": 2185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:22:term-usage:2339-2348",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2339,
+    "end_char": 2348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:22:term-usage:2692-2711",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2692,
+    "end_char": 2711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:180-192",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 180,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:241-273",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 241,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:454-458",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 454,
+    "end_char": 458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:555-567",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 555,
+    "end_char": 567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:597-629",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 597,
+    "end_char": 629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:806-818",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 806,
+    "end_char": 818
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:1043-1055",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1043,
+    "end_char": 1055
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:1096-1116",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:rescate-arqueologico",
+    "span": "Rescate Arqueológico",
+    "start_char": 1096,
+    "end_char": 1116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:1122-1154",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 1122,
+    "end_char": 1154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:1306-1318",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1306,
+    "end_char": 1318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:1428-1448",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:sitio-arqueologico",
+    "span": "Sitios Arqueológicos",
+    "start_char": 1428,
+    "end_char": 1448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:1454-1486",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 1454,
+    "end_char": 1486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:1598-1610",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1598,
+    "end_char": 1610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:1865-1874",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1865,
+    "end_char": 1874
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:2059-2076",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-de-la-materia",
+    "span": "Ley de la Materia",
+    "start_char": 2059,
+    "end_char": 2076
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:2297-2306",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2297,
+    "end_char": 2306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:2693-2697",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 2693,
+    "end_char": 2697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:2887-2904",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-de-la-materia",
+    "span": "Ley de la Materia",
+    "start_char": 2887,
+    "end_char": 2904
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:3035-3055",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:sitio-arqueologico",
+    "span": "Sitios Arqueológicos",
+    "start_char": 3035,
+    "end_char": 3055
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:3061-3093",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 3061,
+    "end_char": 3093
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:3203-3215",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 3203,
+    "end_char": 3215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:3458-3490",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 3458,
+    "end_char": 3490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:3650-3662",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 3650,
+    "end_char": 3662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:3844-3856",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 3844,
+    "end_char": 3856
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:3975-4007",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 3975,
+    "end_char": 4007
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:23:term-usage:4262-4282",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:sitio-arqueologico",
+    "span": "Sitios Arqueológicos",
+    "start_char": 4262,
+    "end_char": 4282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:42-54",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 42,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:59-78",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 59,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:287-299",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 287,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:319-338",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 319,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:402-434",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 402,
+    "end_char": 434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:516-528",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 516,
+    "end_char": 528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:563-582",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 563,
+    "end_char": 582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:728-740",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 728,
+    "end_char": 740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:851-870",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 851,
+    "end_char": 870
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:929-938",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 929,
+    "end_char": 938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:1084-1103",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1084,
+    "end_char": 1103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:1171-1183",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1171,
+    "end_char": 1183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:1227-1239",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1227,
+    "end_char": 1239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:1353-1372",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1353,
+    "end_char": 1372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:1664-1676",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1664,
+    "end_char": 1676
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:1697-1716",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1697,
+    "end_char": 1716
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:1791-1823",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 1791,
+    "end_char": 1823
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:1871-1890",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1871,
+    "end_char": 1890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:1962-1971",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1962,
+    "end_char": 1971
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:1991-2008",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-de-la-materia",
+    "span": "Ley de la Materia",
+    "start_char": 1991,
+    "end_char": 2008
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:2241-2250",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2241,
+    "end_char": 2250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:2257-2276",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2257,
+    "end_char": 2276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:2344-2353",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2344,
+    "end_char": 2353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:2465-2477",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2465,
+    "end_char": 2477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:2512-2531",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2512,
+    "end_char": 2531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:2594-2606",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2594,
+    "end_char": 2606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:2755-2767",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2755,
+    "end_char": 2767
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:2872-2891",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2872,
+    "end_char": 2891
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:3088-3100",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 3088,
+    "end_char": 3100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:3105-3124",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 3105,
+    "end_char": 3124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:3401-3420",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 3401,
+    "end_char": 3420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:24:term-usage:3494-3526",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 3494,
+    "end_char": 3526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:25:term-usage:202-211",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 202,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:25:term-usage:275-284",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 275,
+    "end_char": 284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:25:term-usage:404-413",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 404,
+    "end_char": 413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:25:term-usage:721-730",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 721,
+    "end_char": 730
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:25:term-usage:822-831",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 822,
+    "end_char": 831
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:25:term-usage:1150-1159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1150,
+    "end_char": 1159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:25:term-usage:1316-1325",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1316,
+    "end_char": 1325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:25:term-usage:1358-1370",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1358,
+    "end_char": 1370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:25:term-usage:1504-1536",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 1504,
+    "end_char": 1536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:25:term-usage:1713-1722",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1713,
+    "end_char": 1722
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:25:term-usage:2149-2158",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2149,
+    "end_char": 2158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:25:term-usage:2585-2594",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2585,
+    "end_char": 2594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:25:term-usage:2819-2828",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2819,
+    "end_char": 2828
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:25:term-usage:2963-2972",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2963,
+    "end_char": 2972
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:278-290",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 278,
+    "end_char": 290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:457-461",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 457,
+    "end_char": 461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:668-672",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 668,
+    "end_char": 672
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:710-719",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 710,
+    "end_char": 719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:968-972",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 968,
+    "end_char": 972
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:1010-1019",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1010,
+    "end_char": 1019
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:1270-1274",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 1270,
+    "end_char": 1274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:1463-1480",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-de-la-materia",
+    "span": "Ley de la Materia",
+    "start_char": 1463,
+    "end_char": 1480
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:1874-1886",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1874,
+    "end_char": 1886
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:1920-1924",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 1920,
+    "end_char": 1924
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:2032-2041",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2032,
+    "end_char": 2041
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:2511-2528",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-de-la-materia",
+    "span": "Ley de la Materia",
+    "start_char": 2511,
+    "end_char": 2528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:2738-2747",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2738,
+    "end_char": 2747
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:2941-2953",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2941,
+    "end_char": 2953
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:3268-3280",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 3268,
+    "end_char": 3280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:3469-3481",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 3469,
+    "end_char": 3481
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:3784-3796",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 3784,
+    "end_char": 3796
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:26:term-usage:4375-4392",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-de-la-materia",
+    "span": "Ley de la Materia",
+    "start_char": 4375,
+    "end_char": 4392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:27:term-usage:223-232",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 223,
+    "end_char": 232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:27:term-usage:315-327",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 315,
+    "end_char": 327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:27:term-usage:382-391",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 382,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:27:term-usage:485-494",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 485,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:27:term-usage:684-696",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 684,
+    "end_char": 696
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:27:term-usage:755-767",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 755,
+    "end_char": 767
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:27:term-usage:772-791",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 772,
+    "end_char": 791
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:27:term-usage:1057-1066",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1057,
+    "end_char": 1066
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:27:term-usage:1412-1431",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1412,
+    "end_char": 1431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:27:term-usage:1527-1546",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1527,
+    "end_char": 1546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:27:term-usage:1684-1693",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1684,
+    "end_char": 1693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:27:term-usage:2224-2233",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2224,
+    "end_char": 2233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:27:term-usage:2450-2459",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2450,
+    "end_char": 2459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:27:term-usage:2583-2595",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2583,
+    "end_char": 2595
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:28:term-usage:1155-1164",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1155,
+    "end_char": 1164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:28:term-usage:1422-1431",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1422,
+    "end_char": 1431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:28:term-usage:1992-2001",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1992,
+    "end_char": 2001
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:28:term-usage:2206-2215",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2206,
+    "end_char": 2215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:28:term-usage:2361-2370",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2361,
+    "end_char": 2370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:28:term-usage:2597-2606",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2597,
+    "end_char": 2606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:28:term-usage:2707-2716",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2707,
+    "end_char": 2716
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:28:term-usage:2808-2817",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2808,
+    "end_char": 2817
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:210-219",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 210,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:318-327",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 318,
+    "end_char": 327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:519-528",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 519,
+    "end_char": 528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:873-882",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 873,
+    "end_char": 882
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:1045-1054",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1045,
+    "end_char": 1054
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:1344-1353",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1344,
+    "end_char": 1353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:1757-1766",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1757,
+    "end_char": 1766
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:2012-2021",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2012,
+    "end_char": 2021
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:2290-2299",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2290,
+    "end_char": 2299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:2649-2658",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2649,
+    "end_char": 2658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:2751-2760",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2751,
+    "end_char": 2760
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:3207-3216",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3207,
+    "end_char": 3216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:3520-3529",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3520,
+    "end_char": 3529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:3729-3738",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3729,
+    "end_char": 3738
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:4177-4186",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 4177,
+    "end_char": 4186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:4531-4540",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 4531,
+    "end_char": 4540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:4729-4738",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 4729,
+    "end_char": 4738
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:4831-4840",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 4831,
+    "end_char": 4840
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:5370-5379",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 5370,
+    "end_char": 5379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:5600-5609",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 5600,
+    "end_char": 5609
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:6308-6317",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 6308,
+    "end_char": 6317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:6412-6421",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 6412,
+    "end_char": 6421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:6813-6822",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 6813,
+    "end_char": 6822
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:7058-7067",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 7058,
+    "end_char": 7067
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:7288-7297",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 7288,
+    "end_char": 7297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:29:term-usage:7391-7400",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 7391,
+    "end_char": 7400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:30:term-usage:251-260",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 251,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:30:term-usage:397-406",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 397,
+    "end_char": 406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:30:term-usage:695-704",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 695,
+    "end_char": 704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:30:term-usage:918-927",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 918,
+    "end_char": 927
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:30:term-usage:1221-1230",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1221,
+    "end_char": 1230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:30:term-usage:1457-1466",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1457,
+    "end_char": 1466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:30:term-usage:1891-1900",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1891,
+    "end_char": 1900
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:30:term-usage:2591-2600",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2591,
+    "end_char": 2600
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:30:term-usage:2750-2759",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2750,
+    "end_char": 2759
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:30:term-usage:3003-3012",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3003,
+    "end_char": 3012
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:30:term-usage:3097-3106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3097,
+    "end_char": 3106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:30:term-usage:3208-3217",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3208,
+    "end_char": 3217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:30:term-usage:3285-3294",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3285,
+    "end_char": 3294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:30:term-usage:3447-3456",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3447,
+    "end_char": 3456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:30:term-usage:3573-3582",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3573,
+    "end_char": 3582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:31:term-usage:418-427",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 418,
+    "end_char": 427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:31:term-usage:801-810",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 801,
+    "end_char": 810
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:31:term-usage:1094-1103",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1094,
+    "end_char": 1103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:31:term-usage:1261-1270",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1261,
+    "end_char": 1270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:31:term-usage:1460-1469",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1460,
+    "end_char": 1469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:31:term-usage:1604-1613",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1604,
+    "end_char": 1613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:31:term-usage:1828-1837",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1828,
+    "end_char": 1837
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:31:term-usage:2254-2263",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2254,
+    "end_char": 2263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:31:term-usage:2386-2398",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2386,
+    "end_char": 2398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:31:term-usage:2670-2679",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2670,
+    "end_char": 2679
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:31:term-usage:2938-2947",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2938,
+    "end_char": 2947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:31:term-usage:3028-3037",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3028,
+    "end_char": 3037
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:31:term-usage:3321-3330",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3321,
+    "end_char": 3330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:32:term-usage:627-636",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 627,
+    "end_char": 636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:32:term-usage:938-947",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 938,
+    "end_char": 947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:32:term-usage:1076-1085",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1076,
+    "end_char": 1085
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:32:term-usage:1315-1324",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1315,
+    "end_char": 1324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:32:term-usage:1512-1521",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1512,
+    "end_char": 1521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:32:term-usage:1746-1755",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1746,
+    "end_char": 1755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:32:term-usage:2500-2509",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2500,
+    "end_char": 2509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:32:term-usage:3505-3514",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3505,
+    "end_char": 3514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:33:term-usage:42-46",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 42,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:33:term-usage:49-71",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:escuelas-del-instituto",
+    "span": "Escuelas del Instituto",
+    "start_char": 49,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:33:term-usage:1430-1439",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1430,
+    "end_char": 1439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:33:term-usage:1879-1896",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:normativa-interna",
+    "span": "Normativa Interna",
+    "start_char": 1879,
+    "end_char": 1896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:33:term-usage:2141-2153",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2141,
+    "end_char": 2153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:33:term-usage:2692-2701",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2692,
+    "end_char": 2701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:34:term-usage:525-534",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 525,
+    "end_char": 534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:34:term-usage:1024-1033",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1024,
+    "end_char": 1033
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:34:term-usage:1737-1746",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1737,
+    "end_char": 1746
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:35:term-usage:239-248",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 239,
+    "end_char": 248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:35:term-usage:390-402",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 390,
+    "end_char": 402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:35:term-usage:407-426",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 407,
+    "end_char": 426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:35:term-usage:452-464",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 452,
+    "end_char": 464
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:35:term-usage:469-488",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 469,
+    "end_char": 488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:35:term-usage:535-544",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 535,
+    "end_char": 544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:35:term-usage:895-904",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 895,
+    "end_char": 904
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:35:term-usage:1260-1269",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1260,
+    "end_char": 1269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:35:term-usage:1355-1367",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1355,
+    "end_char": 1367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:35:term-usage:1525-1534",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1525,
+    "end_char": 1534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:35:term-usage:1689-1698",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1689,
+    "end_char": 1698
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:36:term-usage:12-16",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 12,
+    "end_char": 16
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:36:term-usage:147-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 147,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:36:term-usage:261-280",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 261,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:36:term-usage:287-319",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 287,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:36:term-usage:386-395",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 386,
+    "end_char": 395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:36:term-usage:455-467",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 455,
+    "end_char": 467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:36:term-usage:512-531",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 512,
+    "end_char": 531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:36:term-usage:604-616",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 604,
+    "end_char": 616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:36:term-usage:644-663",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 644,
+    "end_char": 663
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:36:term-usage:709-721",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 709,
+    "end_char": 721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:36:term-usage:726-745",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 726,
+    "end_char": 745
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:36:term-usage:942-951",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 942,
+    "end_char": 951
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:36:term-usage:1062-1094",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 1062,
+    "end_char": 1094
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:25-29",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 25,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:83-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 83,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:371-383",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 371,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:417-436",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 417,
+    "end_char": 436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:442-474",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 442,
+    "end_char": 474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:797-808",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:centro-inah",
+    "span": "Centro INAH",
+    "start_char": 797,
+    "end_char": 808
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:898-910",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 898,
+    "end_char": 910
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:915-934",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 915,
+    "end_char": 934
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:940-972",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 940,
+    "end_char": 972
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:1247-1259",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 1247,
+    "end_char": 1259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:1316-1335",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1316,
+    "end_char": 1335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:1338-1370",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 1338,
+    "end_char": 1370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:1463-1480",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:normativa-interna",
+    "span": "Normativa Interna",
+    "start_char": 1463,
+    "end_char": 1480
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:1557-1576",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1557,
+    "end_char": 1576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:1743-1762",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 1743,
+    "end_char": 1762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:2268-2288",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:sitio-arqueologico",
+    "span": "Sitios Arqueológicos",
+    "start_char": 2268,
+    "end_char": 2288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:2307-2339",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 2307,
+    "end_char": 2339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:2381-2393",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 2381,
+    "end_char": 2393
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:2398-2417",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 2398,
+    "end_char": 2417
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:2474-2483",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 2474,
+    "end_char": 2483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:2499-2519",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:sitio-arqueologico",
+    "span": "Sitios Arqueológicos",
+    "start_char": 2499,
+    "end_char": 2519
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:37:term-usage:2525-2557",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:bienes-de-interes-paleontologico",
+    "span": "Bienes de Interés Paleontológico",
+    "start_char": 2525,
+    "end_char": 2557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:38:term-usage:21-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:escuelas-del-instituto",
+    "span": "Escuelas del Instituto",
+    "start_char": 21,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:38:term-usage:1177-1186",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1177,
+    "end_char": 1186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:38:term-usage:1799-1808",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 1799,
+    "end_char": 1808
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:39:term-usage:17-26",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 17,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:39:term-usage:204-213",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 204,
+    "end_char": 213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:42:term-usage:533-545",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 533,
+    "end_char": 545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:42:term-usage:637-646",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 637,
+    "end_char": 646
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:43:term-usage:22-34",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 22,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:43:term-usage:238-250",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 238,
+    "end_char": 250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:43:term-usage:255-274",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 255,
+    "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:43:term-usage:631-640",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 631,
+    "end_char": 640
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:43:term-usage:680-692",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 680,
+    "end_char": 692
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:44:term-usage:314-326",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 314,
+    "end_char": 326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:44:term-usage:331-350",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:patrimonio-cultural",
+    "span": "Patrimonio Cultural",
+    "start_char": 331,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:44:term-usage:401-410",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 401,
+    "end_char": 410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:44:term-usage:686-695",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 686,
+    "end_char": 695
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:45:term-usage:279-291",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 279,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:45:term-usage:564-576",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 564,
+    "end_char": 576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:45:term-usage:635-644",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 635,
+    "end_char": 644
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:45:term-usage:733-745",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:conservacion",
+    "span": "Conservación",
+    "start_char": 733,
+    "end_char": 745
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:47:term-usage:168-172",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 168,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:48:term-usage:421-430",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 421,
+    "end_char": 430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:48:term-usage:530-539",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 530,
+    "end_char": 539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:49:term-usage:49-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 49,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:51:term-usage:270-279",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 270,
+    "end_char": 279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:51:term-usage:342-351",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 342,
+    "end_char": 351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:51:term-usage:409-418",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 409,
+    "end_char": 418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:51:term-usage:503-512",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 503,
+    "end_char": 512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:51:term-usage:681-690",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 681,
+    "end_char": 690
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:51:term-usage:743-752",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 743,
+    "end_char": 752
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:51:term-usage:902-911",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 902,
+    "end_char": 911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:51:term-usage:993-1002",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 993,
+    "end_char": 1002
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:51:term-usage:1094-1098",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 1094,
+    "end_char": 1098
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:52:term-usage:35-44",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 35,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:52:term-usage:146-158",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 146,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:53:term-usage:173-185",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 173,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:54:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:55:term-usage:54-63",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 54,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:57:term-usage:100-104",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 100,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:57:term-usage:114-136",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:escuelas-del-instituto",
+    "span": "Escuelas del Instituto",
+    "start_char": 114,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:segundo:term-usage:27-36",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 27,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:segundo:term-usage:239-256",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:normativa-interna",
+    "span": "Normativa Interna",
+    "start_char": 239,
+    "end_char": 256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:segundo:term-usage:411-420",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 411,
+    "end_char": 420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:tercero:term-usage:39-48",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 39,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:tercero:term-usage:548-557",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 548,
+    "end_char": 557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:tercero:term-usage:840-849",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 840,
+    "end_char": 849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:tercero:term-usage:872-876",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:inah",
+    "span": "INAH",
+    "start_char": 872,
+    "end_char": 876
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:cuarto:term-usage:67-76",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:instituto",
+    "span": "Instituto",
+    "start_char": 67,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:cuarto:term-usage:495-507",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-loinah:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 495,
+    "end_char": 507
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgb",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Bibliotecas",
+  "short_name": "LGB",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2021-06-01",
+  "latest_reform_date": "2023-11-29",
+  "retrieved_at": "2026-10-14T07:31:10.565687Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGB.pdf",
+  "source_sha256": "1a7dcb966c812b4d78487fc81a4f873a2d1fd63e0f40a021dc8aa2d56e31dc19",
+  "extracted_text_sha256": "23b1bf0281662d35d9b1f601795d772f3e3f56403a80a8abec94aea3601602b9",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

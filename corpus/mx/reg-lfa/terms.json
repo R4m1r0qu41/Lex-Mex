@@ -1,0 +1,90 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:term:declaratoria-de-prevaloracion",
+    "term": "Declaratoria de Prevaloración",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:2",
+    "fraction": "I",
+    "start_char": 146,
+    "end_char": 409,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:term:estabilizacion",
+    "term": "Estabilización",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:2",
+    "fraction": "II",
+    "start_char": 409,
+    "end_char": 501,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:term:ficha-tecnica-de-prevaloracion",
+    "term": "Ficha Técnica de Prevaloración",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:2",
+    "fraction": "III",
+    "start_char": 501,
+    "end_char": 724,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:term:plan-anual-de-desarrollo-archivistico",
+    "term": "Plan Anual de Desarrollo Archivístico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:2",
+    "fraction": "IV",
+    "start_char": 724,
+    "end_char": 1171,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:term:publicaciones-oficiales",
+    "term": "Publicaciones Oficiales",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:2",
+    "fraction": "V",
+    "start_char": 1171,
+    "end_char": 1334,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:term:sistema-institucional-de-archivos",
+    "term": "Sistema Institucional de Archivos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:2",
+    "fraction": "VI",
+    "start_char": 1334,
+    "end_char": 1556,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:term:unidad-de-enlace",
+    "term": "Unidad de Enlace",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:2",
+    "fraction": "VII",
+    "start_char": 1556,
+    "end_char": 1699,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:term:unidad-administrativa-productora",
+    "term": "Unidad Administrativa Productora",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfa",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:2",
+    "fraction": "VIII",
+    "start_char": 1699,
+    "end_char": 1997,
+    "basis": "express_definition"
+  }
+]

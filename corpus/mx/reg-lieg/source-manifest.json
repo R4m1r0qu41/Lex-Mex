@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lieg",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIEG.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIEG.pdf",
+  "retrieved_at": "2026-10-14T08:00:11.099960Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 201522,
+  "etag": "\"31332-563b4878d49c0\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:03 GMT",
+  "source_sha256": "6bc8cda0b37a72c2315dd3f5c48abd50b4a96c14b0e718a3374f04a4abffcb7d",
+  "extracted_text_sha256": "d286b82f6692ebb79f50074a4025b38e4ab77744f66177932496f00f89c02f98",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

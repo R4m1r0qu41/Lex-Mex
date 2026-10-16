@@ -1,0 +1,18 @@
+---
+id: urn:lex-mx:federal:statute:ldrs:transitory:segundo
+instrument_id: urn:lex-mx:federal:statute:ldrs
+instrument: LDRS
+name: "Ley de Desarrollo Rural Sustentable"
+provision_type: transitory
+number: "SEGUNDO"
+aliases: ["LDRS — SEGUNDO"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf
+source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
+---
+
+# SEGUNDO
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.

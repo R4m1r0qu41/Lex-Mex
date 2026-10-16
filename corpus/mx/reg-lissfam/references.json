@@ -1,0 +1,165 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:26:reference:391-393:13:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:26",
+    "source_span": "13",
+    "start_char": 391,
+    "end_char": 393,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:13",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:26:reference:725-727:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:26",
+    "source_span": "II",
+    "start_char": 725,
+    "end_char": 727,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 725,
+        "end_char": 727
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:26:reference:729-732:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:26",
+    "source_span": "III",
+    "start_char": 729,
+    "end_char": 732,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "III",
+        "start_char": 729,
+        "end_char": 732
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:26:reference:735-737:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:26",
+    "source_span": "IV",
+    "start_char": 735,
+    "end_char": 737,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "IV",
+        "start_char": 735,
+        "end_char": 737
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:28:reference:58-75:27:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:28",
+    "source_span": "artículo anterior",
+    "start_char": 58,
+    "end_char": 75,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:27",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:42:reference:398-415:41:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:42",
+    "source_span": "artículo anterior",
+    "start_char": 398,
+    "end_char": 415,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:41",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:53:reference:352-358:51-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:53",
+    "source_span": "51 Bis",
+    "start_char": 352,
+    "end_char": 358,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:51-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:54:reference:558-564:51-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:54",
+    "source_span": "51 Bis",
+    "start_char": 558,
+    "end_char": 564,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:51-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:56:reference:485-491:51-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:56",
+    "source_span": "51 Bis",
+    "start_char": 485,
+    "end_char": 491,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:51-bis",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 547,
+        "end_char": 561
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

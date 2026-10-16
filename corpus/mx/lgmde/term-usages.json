@@ -1,0 +1,317 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:1:term-usage:5-8",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 5,
+    "end_char": 8
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:1:term-usage:73-85",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:constitucion",
+    "span": "Constitución",
+    "start_char": 73,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:1:term-usage:601-613",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:constitucion",
+    "span": "Constitución",
+    "start_char": 601,
+    "end_char": 613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:2:term-usage:121-124",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 121,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:2:term-usage:269-281",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:codigo-penal",
+    "span": "Código Penal",
+    "start_char": 269,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:3:term-usage:25-28",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 25,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:3:term-usage:378-390",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:constitucion",
+    "span": "Constitución",
+    "start_char": 378,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:3:term-usage:936-948",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:constitucion",
+    "span": "Constitución",
+    "start_char": 936,
+    "end_char": 948
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:3:term-usage:4336-4339",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 4336,
+    "end_char": 4339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:4:term-usage:134-137",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 134,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:5:term-usage:90-93",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 90,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:6:term-usage:192-195",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 192,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:6:term-usage:404-407",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 404,
+    "end_char": 407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:14:term-usage:234-237",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 234,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:21:term-usage:123-126",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 123,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:21:term-usage:262-265",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 262,
+    "end_char": 265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:21:term-usage:650-662",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:codigo-penal",
+    "span": "Código Penal",
+    "start_char": 650,
+    "end_char": 662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:21:term-usage:679-682",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 679,
+    "end_char": 682
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:21:term-usage:1086-1098",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1086,
+    "end_char": 1098
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:22:term-usage:145-148",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 145,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:23:term-usage:150-153",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 150,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:24:term-usage:377-380",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 377,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:24:term-usage:709-712",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 709,
+    "end_char": 712
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:24:term-usage:1126-1129",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 1126,
+    "end_char": 1129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:24:term-usage:1299-1302",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 1299,
+    "end_char": 1302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:24:term-usage:1608-1611",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 1608,
+    "end_char": 1611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:24:term-usage:1815-1818",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 1815,
+    "end_char": 1818
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:24:term-usage:2016-2019",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 2016,
+    "end_char": 2019
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:24:term-usage:2059-2062",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 2059,
+    "end_char": 2062
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:transitory:primero:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:transitory:primero",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:transitory:segundo:term-usage:290-293",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 290,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:transitory:cuarto:term-usage:205-208",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 205,
+    "end_char": 208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:transitory:cuarto:term-usage:284-287",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 284,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:transitory:sexto:term-usage:25-28",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "span": "Ley",
+    "start_char": 25,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:transitory:septimo:term-usage:150-162",
+    "provision_id": "urn:lex-mx:federal:statute:lgmde:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgmde:term:constitucion",
+    "span": "Constitución",
+    "start_char": 150,
+    "end_char": 162
+  }
+]

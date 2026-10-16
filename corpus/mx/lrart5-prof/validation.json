@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lrart5-prof",
+  "valid": true,
+  "article_count": 73,
+  "transitory_count": 22,
+  "reference_count": 19,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no article-count baseline frozen; parse found 73 articles",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no transitory-count baseline frozen; parse found 22 transitories",
+      "provision_id": null
+    }
+  ]
+}

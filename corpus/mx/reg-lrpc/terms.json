@@ -1,0 +1,112 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:term:coordinacion",
+    "term": "Coordinación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lrpc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:2",
+    "fraction": "I",
+    "start_char": 109,
+    "end_char": 195,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:term:cur",
+    "term": "CUR",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lrpc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:2",
+    "fraction": "II",
+    "start_char": 195,
+    "end_char": 328,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:term:dependencias",
+    "term": "Dependencias",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lrpc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:2",
+    "fraction": "III",
+    "start_char": 328,
+    "end_char": 573,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:term:entidades",
+    "term": "Entidades",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lrpc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:2",
+    "fraction": "IV",
+    "start_char": 573,
+    "end_char": 762,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:term:estacion-migratoria",
+    "term": "Estación Migratoria",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lrpc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:2",
+    "fraction": "V",
+    "start_char": 762,
+    "end_char": 1036,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:term:estatuto-derivado",
+    "term": "Estatuto derivado",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lrpc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:2",
+    "fraction": "VI",
+    "start_char": 1036,
+    "end_char": 1250,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:term:integracion",
+    "term": "Integración",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lrpc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:2",
+    "fraction": "VII",
+    "start_char": 1250,
+    "end_char": 1504,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:term:instituto",
+    "term": "Instituto",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lrpc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:2",
+    "fraction": "VIII",
+    "start_char": 1504,
+    "end_char": 1554,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:term:organizaciones-de-la-sociedad-civil",
+    "term": "Organizaciones de la Sociedad Civil",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lrpc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:2",
+    "fraction": "IX",
+    "start_char": 1554,
+    "end_char": 1800,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:term:subsecretaria",
+    "term": "Subsecretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lrpc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:2",
+    "fraction": "X",
+    "start_char": 1800,
+    "end_char": 1935,
+    "basis": "express_definition"
+  }
+]

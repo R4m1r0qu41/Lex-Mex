@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfpsdmh",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPSDMH.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpsdmh.htm",
+  "retrieved_at": "2026-10-14T07:29:24.833957Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 394014,
+  "etag": "\"6031e-5d11ab904aec0\"",
+  "last_modified": "Fri, 19 Nov 2021 02:06:27 GMT",
+  "source_sha256": "ace34ed71b587262c6c3a59657b3706960600744b170a830c4996e419e5abd1a",
+  "extracted_text_sha256": "ff84c916e01015de7578add2d820bb93cf8ec5c8aae4ff1009b310dd6a600d52",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

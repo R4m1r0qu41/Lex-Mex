@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lcne",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcne.htm",
+  "retrieved_at": "2026-10-14T07:23:30.962360Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 508412,
+  "etag": "\"7c1fc-64b94bb119a80\"",
+  "last_modified": "Tue, 24 Feb 2026 16:53:46 GMT",
+  "source_sha256": "7c13fd20564f1e7230268a0943cc226368b24c44886d6738c479f4c42cbe77de",
+  "extracted_text_sha256": "c8d9f0143544f8d4180aa2a3c52f015ee57951099b5d808ca3cfc7f59fdf113e",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

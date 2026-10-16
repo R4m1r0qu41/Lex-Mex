@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lansi",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lansi.htm",
+  "retrieved_at": "2026-10-14T07:21:59.023078Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 463396,
+  "etag": "\"71224-5e07b646cbb80\"",
+  "last_modified": "Thu, 02 Jun 2022 18:44:14 GMT",
+  "source_sha256": "0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44",
+  "extracted_text_sha256": "cc07ea99884e086fbbf2959d413baba91300b20f64c99399e1ef30b8e44d83dc",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

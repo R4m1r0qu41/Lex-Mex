@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:loscm",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSCM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loscm.htm",
+  "retrieved_at": "2026-10-14T07:40:56.827290Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 392101,
+  "etag": "\"5fba5-5e07ad5411f00\"",
+  "last_modified": "Thu, 02 Jun 2022 18:04:12 GMT",
+  "source_sha256": "3a8abeaf33ba188a87c9429e18d0bebad276455c857ab3febea81702d5e3a56c",
+  "extracted_text_sha256": "f2e414ab57363ca05fff577895dd8204cb05fc685d9066dcbfe48b924214dc81",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

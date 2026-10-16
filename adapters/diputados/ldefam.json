@@ -1,0 +1,17 @@
+{
+  "slug": "ldefam",
+  "instrument_id": "urn:lex-mx:federal:statute:ldefam",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional",
+  "short_name": "LDEFAM",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDEFAGN.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldefam.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

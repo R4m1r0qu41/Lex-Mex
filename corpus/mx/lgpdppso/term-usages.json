@@ -1,0 +1,1991 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:2:term-usage:249-259",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 249,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:2:term-usage:266-286",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 266,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:9:term-usage:427-447",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 427,
+    "end_char": 447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:20:term-usage:869-879",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 869,
+    "end_char": 879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:23:term-usage:294-304",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 294,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:23:term-usage:313-333",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 313,
+    "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:34:term-usage:99-109",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 99,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:34:term-usage:118-138",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 118,
+    "end_char": 138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:46:term-usage:1449-1459",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1449,
+    "end_char": 1459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:46:term-usage:1466-1486",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 1466,
+    "end_char": 1486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:46:term-usage:2918-2928",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2918,
+    "end_char": 2928
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:46:term-usage:2935-2955",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 2935,
+    "end_char": 2955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:46:term-usage:3143-3153",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3143,
+    "end_char": 3153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:46:term-usage:3160-3180",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 3160,
+    "end_char": 3180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:47:term-usage:502-525",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:comite-de-transparencia",
+    "span": "Comité de Transparencia",
+    "start_char": 502,
+    "end_char": 525
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:66:term-usage:678-688",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 678,
+    "end_char": 688
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:66:term-usage:695-715",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 695,
+    "end_char": 715
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:67:term-usage:92-102",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 92,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:67:term-usage:109-129",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 109,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:67:term-usage:209-219",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 209,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:67:term-usage:225-242",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 225,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:67:term-usage:320-330",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 320,
+    "end_char": 330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:67:term-usage:337-357",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 337,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:67:term-usage:607-617",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 607,
+    "end_char": 617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:67:term-usage:624-644",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 624,
+    "end_char": 644
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:67:term-usage:828-848",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 828,
+    "end_char": 848
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:67:term-usage:967-977",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 967,
+    "end_char": 977
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:68:term-usage:389-399",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 389,
+    "end_char": 399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:68:term-usage:406-426",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 406,
+    "end_char": 426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:68:term-usage:685-695",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 685,
+    "end_char": 695
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:68:term-usage:701-718",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 701,
+    "end_char": 718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:70:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:70:term-usage:19-36",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 19,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:71:term-usage:127-137",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 127,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:71:term-usage:144-164",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 144,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:72:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:72:term-usage:20-40",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 20,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:77:term-usage:32-55",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:comite-de-transparencia",
+    "span": "Comité de Transparencia",
+    "start_char": 32,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:77:term-usage:231-254",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:comite-de-transparencia",
+    "span": "Comité de Transparencia",
+    "start_char": 231,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:78:term-usage:145-168",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:comite-de-transparencia",
+    "span": "Comité de Transparencia",
+    "start_char": 145,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:78:term-usage:1250-1260",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1250,
+    "end_char": 1260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:78:term-usage:1267-1287",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 1267,
+    "end_char": 1287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:79:term-usage:802-825",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:comite-de-transparencia",
+    "span": "Comité de Transparencia",
+    "start_char": 802,
+    "end_char": 825
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:81:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:81:term-usage:467-487",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 467,
+    "end_char": 487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:81:term-usage:4576-4595",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:plataforma-nacional",
+    "span": "Plataforma Nacional",
+    "start_char": 4576,
+    "end_char": 4595
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:81:term-usage:5029-5049",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 5029,
+    "end_char": 5049
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:82:term-usage:72-92",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 72,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:83:term-usage:4-24",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 4,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:83:term-usage:501-511",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 501,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:83:term-usage:1756-1766",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1756,
+    "end_char": 1766
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:83:term-usage:2516-2526",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2516,
+    "end_char": 2526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:84:term-usage:42-52",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 42,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:84:term-usage:59-79",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 59,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:85:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:85:term-usage:20-40",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 20,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:85:term-usage:650-660",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 650,
+    "end_char": 660
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:85:term-usage:667-687",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 667,
+    "end_char": 687
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:86:term-usage:86-96",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 86,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:86:term-usage:103-123",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 103,
+    "end_char": 123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:86:term-usage:444-454",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 444,
+    "end_char": 454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:86:term-usage:464-484",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 464,
+    "end_char": 484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:86:term-usage:651-661",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 651,
+    "end_char": 661
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:86:term-usage:668-688",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 668,
+    "end_char": 688
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:86:term-usage:826-836",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 826,
+    "end_char": 836
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:86:term-usage:843-863",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 843,
+    "end_char": 863
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:87:term-usage:257-267",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 257,
+    "end_char": 267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:87:term-usage:274-294",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 274,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:88:term-usage:394-404",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 394,
+    "end_char": 404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:88:term-usage:411-431",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 411,
+    "end_char": 431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:90:term-usage:82-92",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 82,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:90:term-usage:99-119",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 99,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:90:term-usage:656-666",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 656,
+    "end_char": 666
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:90:term-usage:673-693",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 673,
+    "end_char": 693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:91:term-usage:339-349",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 339,
+    "end_char": 349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:92:term-usage:138-148",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 138,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:92:term-usage:155-175",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 155,
+    "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:93:term-usage:223-233",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 223,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:93:term-usage:240-260",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 240,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:93:term-usage:494-504",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 494,
+    "end_char": 504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:93:term-usage:511-531",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 511,
+    "end_char": 531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:94:term-usage:426-436",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 426,
+    "end_char": 436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:94:term-usage:443-463",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 443,
+    "end_char": 463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:97:term-usage:1043-1053",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1043,
+    "end_char": 1053
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:97:term-usage:1076-1096",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 1076,
+    "end_char": 1096
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:98:term-usage:44-54",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 44,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:98:term-usage:74-94",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 74,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:98:term-usage:304-314",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 304,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:98:term-usage:334-354",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 334,
+    "end_char": 354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:99:term-usage:106-116",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 106,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:99:term-usage:122-139",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 122,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:99:term-usage:1231-1241",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1231,
+    "end_char": 1241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:99:term-usage:1247-1264",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 1247,
+    "end_char": 1264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:99:term-usage:1580-1590",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1580,
+    "end_char": 1590
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:99:term-usage:1596-1613",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 1596,
+    "end_char": 1613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:99:term-usage:3027-3037",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3027,
+    "end_char": 3037
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:99:term-usage:3057-3077",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 3057,
+    "end_char": 3077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:99:term-usage:3254-3264",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3254,
+    "end_char": 3264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:99:term-usage:3270-3287",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 3270,
+    "end_char": 3287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:100:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:100:term-usage:20-40",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 20,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:101:term-usage:67-77",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:101",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 67,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:101:term-usage:84-104",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:101",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 84,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:102:term-usage:168-178",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:102",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 168,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:102:term-usage:185-205",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:102",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 185,
+    "end_char": 205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:102:term-usage:862-872",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:102",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 862,
+    "end_char": 872
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:102:term-usage:879-899",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:102",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 879,
+    "end_char": 899
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:103:term-usage:23-33",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 23,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:103:term-usage:56-76",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 56,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:103:term-usage:509-519",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 509,
+    "end_char": 519
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:103:term-usage:541-561",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 541,
+    "end_char": 561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:103:term-usage:643-653",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 643,
+    "end_char": 653
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:103:term-usage:676-696",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 676,
+    "end_char": 696
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:103:term-usage:762-772",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 762,
+    "end_char": 772
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:103:term-usage:792-812",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 792,
+    "end_char": 812
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:104:term-usage:289-299",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 289,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:104:term-usage:319-339",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 319,
+    "end_char": 339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:104:term-usage:730-740",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 730,
+    "end_char": 740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:104:term-usage:747-767",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 747,
+    "end_char": 767
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:104:term-usage:1077-1087",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1077,
+    "end_char": 1087
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:104:term-usage:1094-1114",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 1094,
+    "end_char": 1114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:106:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:106:term-usage:20-40",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 20,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:107:term-usage:23-33",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 23,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:107:term-usage:40-60",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 40,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:108:term-usage:252-262",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:108",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 252,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:108:term-usage:389-406",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:108",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 389,
+    "end_char": 406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:112:term-usage:231-241",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 231,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:113:term-usage:126-136",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 126,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:113:term-usage:252-262",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 252,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:113:term-usage:318-338",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 318,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:114:term-usage:152-162",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 152,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:115:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:115:term-usage:20-40",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 20,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:115:term-usage:327-337",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 327,
+    "end_char": 337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:115:term-usage:360-380",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 360,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:116:term-usage:56-66",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 56,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:116:term-usage:73-93",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 73,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:116:term-usage:1092-1102",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1092,
+    "end_char": 1102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:116:term-usage:1109-1129",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 1109,
+    "end_char": 1129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:117:term-usage:773-783",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 773,
+    "end_char": 783
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:117:term-usage:790-810",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 790,
+    "end_char": 810
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:117:term-usage:864-874",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 864,
+    "end_char": 874
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:117:term-usage:881-901",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 881,
+    "end_char": 901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:118:term-usage:118-128",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 118,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:118:term-usage:135-155",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 135,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:118:term-usage:855-865",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 855,
+    "end_char": 865
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:118:term-usage:872-892",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 872,
+    "end_char": 892
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:118:term-usage:1334-1344",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1334,
+    "end_char": 1344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:118:term-usage:1351-1371",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 1351,
+    "end_char": 1371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:119:term-usage:74-84",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 74,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:119:term-usage:91-111",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 91,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:120:term-usage:97-107",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:120",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 97,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:120:term-usage:114-134",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:120",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 114,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:121:term-usage:57-67",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:121",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 57,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:121:term-usage:74-94",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:121",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 74,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:122:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:122:term-usage:20-40",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 20,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:122:term-usage:430-440",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 430,
+    "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:122:term-usage:447-467",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 447,
+    "end_char": 467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:122:term-usage:585-595",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 585,
+    "end_char": 595
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:122:term-usage:602-622",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 602,
+    "end_char": 622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:124:term-usage:90-100",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:124",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 90,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:124:term-usage:107-127",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:124",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 107,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:125:term-usage:24-34",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:125",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 24,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:125:term-usage:41-61",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:125",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 41,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:125:term-usage:132-143",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:125",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 132,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:126:term-usage:79-89",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 79,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:126:term-usage:96-116",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 96,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:126:term-usage:328-338",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 328,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:126:term-usage:345-365",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 345,
+    "end_char": 365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:126:term-usage:497-507",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 497,
+    "end_char": 507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:126:term-usage:514-534",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 514,
+    "end_char": 534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:127:term-usage:28-38",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:127",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 28,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:127:term-usage:45-65",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:127",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 45,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:129:term-usage:45-55",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:129",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 45,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:129:term-usage:62-82",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:129",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 62,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:130:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:130:term-usage:20-40",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 20,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:130:term-usage:501-511",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 501,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:130:term-usage:518-538",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 518,
+    "end_char": 538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:132:term-usage:2085-2095",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:132",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2085,
+    "end_char": 2095
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:132:term-usage:2102-2122",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:132",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 2102,
+    "end_char": 2122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:134:term-usage:543-553",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:134",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 543,
+    "end_char": 553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:134:term-usage:560-580",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:134",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 560,
+    "end_char": 580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:135:term-usage:61-71",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:135",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 61,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:135:term-usage:77-94",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:135",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 77,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:135:term-usage:478-488",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:135",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 478,
+    "end_char": 488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:135:term-usage:494-511",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:135",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 494,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:136:term-usage:106-116",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 106,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:136:term-usage:122-139",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 122,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:136:term-usage:463-473",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 463,
+    "end_char": 473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:136:term-usage:481-498",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 481,
+    "end_char": 498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:136:term-usage:587-597",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 587,
+    "end_char": 597
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:136:term-usage:603-620",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 603,
+    "end_char": 620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:136:term-usage:1346-1356",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1346,
+    "end_char": 1356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:136:term-usage:1362-1379",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 1362,
+    "end_char": 1379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:article:137:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:article:137",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:segundo:term-usage:657-674",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:sujetos-obligados",
+    "span": "Sujetos Obligados",
+    "start_char": 657,
+    "end_char": 674
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:quinto:term-usage:304-314",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 304,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:quinto:term-usage:568-578",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 568,
+    "end_char": 578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:quinto:term-usage:1199-1209",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1199,
+    "end_char": 1209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:quinto:term-usage:2042-2052",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2042,
+    "end_char": 2052
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:sexto:term-usage:160-170",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 160,
+    "end_char": 170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:septimo:term-usage:139-149",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 139,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:octavo:term-usage:73-92",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:plataforma-nacional",
+    "span": "Plataforma Nacional",
+    "start_char": 73,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:octavo:term-usage:430-440",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 430,
+    "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:noveno:term-usage:738-755",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 738,
+    "end_char": 755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo:term-usage:374-384",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 374,
+    "end_char": 384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo:term-usage:915-925",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 915,
+    "end_char": 925
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo:term-usage:961-971",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 961,
+    "end_char": 971
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo:term-usage:1022-1039",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridad garante",
+    "start_char": 1022,
+    "end_char": 1039
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-tercero:term-usage:375-385",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 375,
+    "end_char": 385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-tercero:term-usage:509-519",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 509,
+    "end_char": 519
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-cuarto:term-usage:328-338",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 328,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-quinto:term-usage:303-316",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 303,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-quinto:term-usage:604-617",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 604,
+    "end_char": 617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-sexto:term-usage:222-232",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-sexto",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 222,
+    "end_char": 232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-septimo:term-usage:25-35",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 25,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-octavo:term-usage:956-975",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:plataforma-nacional",
+    "span": "Plataforma Nacional",
+    "start_char": 956,
+    "end_char": 975
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-noveno:term-usage:261-281",
+    "provision_id": "urn:lex-mx:federal:statute:lgpdppso:transitory:decimo-noveno",
+    "term_id": "urn:lex-mx:federal:statute:lgpdppso:term:autoridades-garantes",
+    "span": "Autoridades garantes",
+    "start_char": 261,
+    "end_char": 281
+  }
+]

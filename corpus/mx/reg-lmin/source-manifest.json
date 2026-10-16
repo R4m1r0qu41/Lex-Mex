@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMin.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMin.pdf",
+  "retrieved_at": "2026-10-14T08:01:15.419156Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 995232,
+  "etag": "\"f2fa0-64e0c365e7cc0\"",
+  "last_modified": "Sat, 28 Mar 2026 02:16:59 GMT",
+  "source_sha256": "4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d",
+  "extracted_text_sha256": "8be36a14ea5e7f3cfb19f0f521471dad17d8defa20ae124ed20f53462204dd1f",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

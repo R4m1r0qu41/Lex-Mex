@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcfd",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCFD.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCFD.pdf",
+  "retrieved_at": "2026-10-14T07:56:02.544746Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 655547,
+  "etag": "\"a00bb-619b38413e280\"",
+  "last_modified": "Thu, 30 May 2024 22:37:46 GMT",
+  "source_sha256": "86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c",
+  "extracted_text_sha256": "3e5f5a60f2f59be18312e31a36a4ea3f3fe5363a6f5e804d299382de336c85cd",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

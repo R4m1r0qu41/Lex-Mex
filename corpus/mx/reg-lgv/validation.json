@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgv",
+  "valid": true,
+  "article_count": 93,
+  "transitory_count": 11,
+  "reference_count": 26,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no article-count baseline frozen; parse found 93 articles",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no transitory-count baseline frozen; parse found 11 transitories",
+      "provision_id": null
+    }
+  ]
+}

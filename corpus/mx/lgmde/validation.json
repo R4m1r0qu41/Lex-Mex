@@ -1,0 +1,40 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+  "valid": true,
+  "article_count": 29,
+  "transitory_count": 7,
+  "reference_count": 9,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no article-count baseline frozen; parse found 29 articles",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no transitory-count baseline frozen; parse found 7 transitories",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:statute:lgmde:article:7-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:statute:lgmde:article:11-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:statute:lgmde:article:20-bis"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:amendment:2011-01-27:transitory:primero",
+    "label": "Transitorio Primero — Decreto DOF 2011-01-27",
+    "text": "El presente Decreto entrará en vigor a partir de los 30 días siguientes al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:amendment:2011-01-27:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto DOF 2011-01-27",
+    "text": "Las personas físicas o morales dispondrán de un término de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto, para regularizar su situación conforme a las reformas contenidas en éste."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:amendment:2011-01-27:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto DOF 2011-01-27",
+    "text": "El Reglamento de la presente Ley deberá adecuarse conforme a las reformas contenidas en el presente Decreto, dentro de un plazo no mayor de noventa días hábiles siguientes a la fecha de su entrada en vigor."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:amendment:2011-08-05:transitory:unico",
+    "label": "Transitorio ÚNICO — Decreto DOF 2011-08-05",
+    "text": "El presente decreto entrará en vigor a los quince días de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:amendment:2011-10-17:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2011-10-17",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  }
+]

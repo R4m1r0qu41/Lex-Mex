@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:code:cmpp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "code",
+  "official_title": "Código Militar de Procedimientos Penales",
+  "short_name": "CMPP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2016-05-16",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-10-14T07:21:05.939944Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP.pdf",
+  "source_sha256": "351c69a7bc3f61976933d76e45cf185a721a331a145778dd3f315df5216a5e32",
+  "extracted_text_sha256": "2043cb328bf7cec8db41978736c16fac396d46bb36df11beb1838ac9353e9556",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

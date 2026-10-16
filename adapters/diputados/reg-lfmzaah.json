@@ -1,0 +1,17 @@
+{
+  "slug": "reg-lfmzaah",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfmzaah",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley Federal Sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos",
+  "short_name": "REG-LFMZAAH",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFMZAAH_031220.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFMZAAH_031220.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

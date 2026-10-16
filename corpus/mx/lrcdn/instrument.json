@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lrcdn",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Responsabilidad Civil por Daños Nucleares",
+  "short_name": "LRCDN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1974-12-31",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-10-14T07:43:35.773967Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRCDN.pdf",
+  "source_sha256": "d505184709bf8fd04c4d24b188d1fa19f86acac51b462c6c4fb63482588ec40e",
+  "extracted_text_sha256": "77291fe9de8783894b69d8fe886176f997c1b0564f4179a89e44403e9b712592",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

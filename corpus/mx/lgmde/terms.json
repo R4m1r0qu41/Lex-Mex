@@ -1,0 +1,167 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:term:constitucion",
+    "term": "Constitución",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 121,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "fraction": "II",
+    "start_char": 121,
+    "end_char": 178,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:term:codigo-penal",
+    "term": "Código Penal",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "fraction": "III",
+    "start_char": 178,
+    "end_char": 219,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:term:consulta-popular",
+    "term": "Consulta Popular",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "fraction": "IV",
+    "start_char": 219,
+    "end_char": 393,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:term:servidor-publico",
+    "term": "Servidor Público",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "fraction": "V",
+    "start_char": 393,
+    "end_char": 1186,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:term:funcionarios-electorales",
+    "term": "Funcionarios electorales",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "fraction": "VI",
+    "start_char": 1186,
+    "end_char": 1325,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:term:funcionarios-partidistas",
+    "term": "Funcionarios partidistas",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "fraction": "VII",
+    "start_char": 1325,
+    "end_char": 1641,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:term:candidatos",
+    "term": "Candidatos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "fraction": "VIII",
+    "start_char": 1641,
+    "end_char": 1739,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:term:documentos-publicos-electorales",
+    "term": "Documentos públicos electorales",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "fraction": "IX",
+    "start_char": 1739,
+    "end_char": 2661,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:term:materiales-electorales",
+    "term": "Materiales electorales",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "fraction": "X",
+    "start_char": 2661,
+    "end_char": 2963,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:term:multa",
+    "term": "Multa",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "fraction": "XI",
+    "start_char": 2963,
+    "end_char": 3112,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:term:paquete-electoral",
+    "term": "Paquete electoral",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "fraction": "XII",
+    "start_char": 3112,
+    "end_char": 3719,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:term:precandidato",
+    "term": "Precandidato",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "fraction": "XIII",
+    "start_char": 3719,
+    "end_char": 3906,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:term:organizadores-de-actos-de-campana",
+    "term": "Organizadores de actos de campaña",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "fraction": "XIV",
+    "start_char": 3906,
+    "end_char": 4256,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:term:violencia-politica-contra-las-mujeres-en-razon-de-genero",
+    "term": "Violencia política contra las mujeres en razón de género",
+    "instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgmde:article:3",
+    "fraction": "XV",
+    "start_char": 4256,
+    "end_char": 5239,
+    "basis": "express_definition"
+  }
+]

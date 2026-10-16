@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lcacsam",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México",
+  "short_name": "LCACSAM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2004-06-14",
+  "latest_reform_date": "2009-06-12",
+  "retrieved_at": "2026-10-14T07:22:38.426395Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/268.pdf",
+  "source_sha256": "e56b3fe80514e68891aee1c7ad316374b7b6d21ab2b8ce55c53b3ae83a535248",
+  "extracted_text_sha256": "f016211f56ed07ed32f2c02da0dd8a299658af300612e87d69ed47e81c67cea2",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

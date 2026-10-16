@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:ldsca",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSCA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca.htm",
+  "retrieved_at": "2026-10-14T07:24:41.233856Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 822999,
+  "etag": "\"c8ed7-644736fce9000\"",
+  "last_modified": "Tue, 25 Nov 2025 23:14:08 GMT",
+  "source_sha256": "3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d",
+  "extracted_text_sha256": "96d10075784cf0576c081ec17e8e56dd45cc95a1a03410e4476ec0ea326e904e",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

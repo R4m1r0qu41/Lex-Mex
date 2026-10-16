@@ -1,0 +1,112 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:term:bancos-comunitarios-de-semillas-de-maiz-nativo",
+    "term": "Bancos Comunitarios de Semillas de Maíz Nativo",
+    "instrument_id": "urn:lex-mx:federal:statute:lffpmn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 321,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:term:conam",
+    "term": "CONAM",
+    "instrument_id": "urn:lex-mx:federal:statute:lffpmn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
+    "fraction": "II",
+    "start_char": 321,
+    "end_char": 369,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:term:diversificacion-constante",
+    "term": "Diversificación Constante",
+    "instrument_id": "urn:lex-mx:federal:statute:lffpmn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
+    "fraction": "III",
+    "start_char": 369,
+    "end_char": 691,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:term:conservacion-in-situ",
+    "term": "Conservación In Situ",
+    "instrument_id": "urn:lex-mx:federal:statute:lffpmn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
+    "fraction": "IV",
+    "start_char": 691,
+    "end_char": 884,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lffpmn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
+    "fraction": "V",
+    "start_char": 884,
+    "end_char": 950,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:term:raza",
+    "term": "Raza",
+    "instrument_id": "urn:lex-mx:federal:statute:lffpmn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
+    "fraction": "VI",
+    "start_char": 950,
+    "end_char": 1132,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
+    "term": "Maíz Nativo",
+    "instrument_id": "urn:lex-mx:federal:statute:lffpmn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
+    "fraction": "VII",
+    "start_char": 1132,
+    "end_char": 1512,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:term:ogm's",
+    "term": "OGM's",
+    "instrument_id": "urn:lex-mx:federal:statute:lffpmn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
+    "fraction": "VIII",
+    "start_char": 1512,
+    "end_char": 1659,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:term:sader",
+    "term": "SADER",
+    "instrument_id": "urn:lex-mx:federal:statute:lffpmn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
+    "fraction": "IX",
+    "start_char": 1659,
+    "end_char": 1719,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lffpmn:term:semarnat",
+    "term": "SEMARNAT",
+    "instrument_id": "urn:lex-mx:federal:statute:lffpmn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
+    "fraction": "X",
+    "start_char": 1719,
+    "end_char": 1782,
+    "basis": "express_definition"
+  }
+]

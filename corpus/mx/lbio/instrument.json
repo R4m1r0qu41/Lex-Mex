@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lbio",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Biocombustibles",
+  "short_name": "LBIO",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-03-18",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:22:26.366716Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBio.pdf",
+  "source_sha256": "c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4",
+  "extracted_text_sha256": "a26653bd9c71a408e661fc458fcbabf7fdadbd0f15e6b192012af8ab19b1b356",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

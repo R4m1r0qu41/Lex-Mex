@@ -1,0 +1,47 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse:article:13:reference:159-160:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse:article:13",
+    "source_span": "8",
+    "start_char": 159,
+    "end_char": 160,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse:article:14:reference:89-91:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse:article:14",
+    "source_span": "11",
+    "start_char": 89,
+    "end_char": 91,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse:article:11",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse:article:15:reference:51-52:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse:article:15",
+    "source_span": "8",
+    "start_char": 51,
+    "end_char": 52,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

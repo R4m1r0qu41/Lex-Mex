@@ -1,0 +1,17 @@
+{
+  "slug": "reg-lgpsvd",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpsvd",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley General para la Prevención Social de la Violencia y la Delincuencia",
+  "short_name": "REG-LGPSVD",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSVD_190914.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSVD_190914.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

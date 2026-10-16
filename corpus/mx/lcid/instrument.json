@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lcid",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Cooperación Internacional para el Desarrollo",
+  "short_name": "LCID",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2011-04-06",
+  "latest_reform_date": "2020-11-06",
+  "retrieved_at": "2026-10-14T07:23:00.565509Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCID_061120.pdf",
+  "source_sha256": "1a64991c466c40c7ed0f3d7bffa1b5d5b87dc9df8aa59a97b525a99f98b381a6",
+  "extracted_text_sha256": "0110f182c33a8a2777470ca167fb6fecad8b57722b4069a35cef03d23601700e",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

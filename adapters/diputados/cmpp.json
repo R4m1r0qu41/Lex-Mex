@@ -1,0 +1,17 @@
+{
+  "slug": "cmpp",
+  "instrument_id": "urn:lex-mx:federal:code:cmpp",
+  "instrument_type": "code",
+  "parser": "diputados",
+  "official_title": "Código Militar de Procedimientos Penales",
+  "short_name": "CMPP",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

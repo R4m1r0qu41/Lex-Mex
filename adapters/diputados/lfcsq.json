@@ -1,0 +1,17 @@
+{
+  "slug": "lfcsq",
+  "instrument_id": "urn:lex-mx:federal:statute:lfcsq",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas",
+  "short_name": "LFCSQ",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCSQ.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcsq.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

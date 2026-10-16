@@ -1,0 +1,134 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldpam:term:personas-adultas-mayores",
+    "term": "Personas adultas mayores",
+    "instrument_id": "urn:lex-mx:federal:statute:ldpam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldpam:article:3",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 205,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldpam:term:asistencia-social",
+    "term": "Asistencia social",
+    "instrument_id": "urn:lex-mx:federal:statute:ldpam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldpam:article:3",
+    "fraction": "II",
+    "start_char": 205,
+    "end_char": 558,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldpam:term:entidades-federativas",
+    "term": "Entidades federativas",
+    "instrument_id": "urn:lex-mx:federal:statute:ldpam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldpam:article:3",
+    "fraction": "III",
+    "start_char": 558,
+    "end_char": 664,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldpam:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:ldpam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldpam:article:3",
+    "fraction": "IV",
+    "start_char": 664,
+    "end_char": 739,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldpam:term:genero",
+    "term": "Género",
+    "instrument_id": "urn:lex-mx:federal:statute:ldpam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldpam:article:3",
+    "fraction": "V",
+    "start_char": 739,
+    "end_char": 886,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldpam:term:geriatria",
+    "term": "Geriatría",
+    "instrument_id": "urn:lex-mx:federal:statute:ldpam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldpam:article:3",
+    "fraction": "VI",
+    "start_char": 886,
+    "end_char": 1009,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldpam:term:gerontologia",
+    "term": "Gerontología",
+    "instrument_id": "urn:lex-mx:federal:statute:ldpam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldpam:article:3",
+    "fraction": "VII",
+    "start_char": 1009,
+    "end_char": 1116,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldpam:term:integracion-social",
+    "term": "Integración social",
+    "instrument_id": "urn:lex-mx:federal:statute:ldpam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldpam:article:3",
+    "fraction": "VIII",
+    "start_char": 1116,
+    "end_char": 1431,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldpam:term:atencion-integral",
+    "term": "Atención integral",
+    "instrument_id": "urn:lex-mx:federal:statute:ldpam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldpam:article:3",
+    "fraction": "IX",
+    "start_char": 1431,
+    "end_char": 1768,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldpam:term:calidad-del-servicio",
+    "term": "Calidad del servicio",
+    "instrument_id": "urn:lex-mx:federal:statute:ldpam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldpam:article:3",
+    "fraction": "X",
+    "start_char": 1768,
+    "end_char": 1973,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldpam:term:instituto",
+    "term": "Instituto",
+    "instrument_id": "urn:lex-mx:federal:statute:ldpam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldpam:article:3",
+    "fraction": "XI",
+    "start_char": 1973,
+    "end_char": 2077,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldpam:term:violencia-contra-las-personas-adultas-mayores",
+    "term": "Violencia Contra las Personas Adultas Mayores",
+    "instrument_id": "urn:lex-mx:federal:statute:ldpam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ldpam:article:3",
+    "fraction": "XII",
+    "start_char": 2077,
+    "end_char": 2334,
+    "basis": "express_definition"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lopgr",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGR.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGR.pdf",
+  "retrieved_at": "2026-10-14T08:02:29.318235Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 861753,
+  "etag": "\"d2639-563b487d99500\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:08 GMT",
+  "source_sha256": "05173ee7243159eadc0ab705431d038e1381731df1799208978dfdc945663afc",
+  "extracted_text_sha256": "30365579d987726e0042adba6c2d0d2f046097b708e3c50613b0cd29d67d98da",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

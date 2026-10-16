@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lram",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Recompensas de la Armada de México",
+  "short_name": "LRAM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1985-01-14",
+  "latest_reform_date": "2021-11-22",
+  "retrieved_at": "2026-10-14T07:42:52.501832Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAM.pdf",
+  "source_sha256": "d0b2beb3d2e66847880d4c4270b4af4df1db63b22d6e5ac93883eca832652d6c",
+  "extracted_text_sha256": "d20f6b3d321ac8e29df9f1a396ce2574a7227adc9fef5275bb60407ca0134c19",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

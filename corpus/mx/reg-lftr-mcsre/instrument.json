@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lftr-mcsre",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Federal de Telecomunicaciones y Radiodifusión en Materia de Capacidad Satelital como Reserva del Estado",
+  "short_name": "REG-LFTR-MCSRE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2024-04-25",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:54:59.005830Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFTR_MCSRE.pdf",
+  "source_sha256": "12b5a375ccfb83d3a9e46f19e97429007aea1caf283f9e0f0566f222a7e6f998",
+  "extracted_text_sha256": "b27b96c177d06468ee10543dc9f78022158e62bbdaed17f92931a2e026dde9fd",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

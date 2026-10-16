@@ -1,0 +1,1343 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:1:term-usage:78-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 78,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:1:term-usage:107-118",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
+    "span": "Actividades",
+    "start_char": 107,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:106-109",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 106,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:135-146",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
+    "span": "Actividades",
+    "start_char": 135,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:318-321",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 318,
+    "end_char": 321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:371-379",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 371,
+    "end_char": 379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:467-474",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 467,
+    "end_char": 474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:563-571",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 563,
+    "end_char": 571
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:703-706",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 703,
+    "end_char": 706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:732-743",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
+    "span": "Actividades",
+    "start_char": 732,
+    "end_char": 743
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:865-876",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
+    "span": "Actividades",
+    "start_char": 865,
+    "end_char": 876
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:1146-1156",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1146,
+    "end_char": 1156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:1301-1311",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1301,
+    "end_char": 1311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:1425-1433",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 1425,
+    "end_char": 1433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2:term-usage:1492-1503",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
+    "span": "Actividades",
+    "start_char": 1492,
+    "end_char": 1503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:3:term-usage:38-41",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 38,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:4:term-usage:109-117",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 109,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:4:term-usage:206-209",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 206,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:5:term-usage:133-143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 133,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:6:term-usage:26-34",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 26,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:6:term-usage:126-129",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 126,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:8:term-usage:461-472",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
+    "span": "Actividades",
+    "start_char": 461,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:8:term-usage:506-509",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 506,
+    "end_char": 509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:8:term-usage:555-565",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 555,
+    "end_char": 565
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:9:term-usage:187-190",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 187,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:10:term-usage:354-357",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 354,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:11:term-usage:97-100",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 97,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:14:term-usage:109-127",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria-tecnica",
+    "span": "Secretaría Técnica",
+    "start_char": 109,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:14:term-usage:139-150",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
+    "span": "Actividades",
+    "start_char": 139,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:14:term-usage:291-294",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 291,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:14:term-usage:447-465",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria-tecnica",
+    "span": "Secretaría Técnica",
+    "start_char": 447,
+    "end_char": 465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:14:term-usage:760-778",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria-tecnica",
+    "span": "Secretaría Técnica",
+    "start_char": 760,
+    "end_char": 778
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:14:term-usage:971-974",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 971,
+    "end_char": 974
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:15:term-usage:39-47",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 39,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:15:term-usage:85-103",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria-tecnica",
+    "span": "Secretaría Técnica",
+    "start_char": 85,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:17:term-usage:154-165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
+    "span": "Actividades",
+    "start_char": 154,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:17:term-usage:429-432",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 429,
+    "end_char": 432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:18:term-usage:66-76",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 66,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:18:term-usage:117-120",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 117,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:19:term-usage:90-93",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 90,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:19:term-usage:381-399",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria-tecnica",
+    "span": "Secretaría Técnica",
+    "start_char": 381,
+    "end_char": 399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:21:term-usage:50-53",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 50,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:21:term-usage:58-68",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 58,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:21:term-usage:231-242",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
+    "span": "Actividades",
+    "start_char": 231,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:22:term-usage:390-401",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
+    "span": "Actividades",
+    "start_char": 390,
+    "end_char": 401
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:22:term-usage:451-473",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 451,
+    "end_char": 473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:22:term-usage:478-486",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 478,
+    "end_char": 486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:23:term-usage:69-72",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 69,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:23:term-usage:167-177",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 167,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:23:term-usage:183-210",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:responsable-de-coordinacion",
+    "span": "Responsable de Coordinación",
+    "start_char": 183,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:24:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:24:term-usage:131-134",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 131,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:24:term-usage:190-212",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 190,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:24:term-usage:233-244",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
+    "span": "Actividades",
+    "start_char": 233,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:25:term-usage:39-47",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 39,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:25:term-usage:69-87",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria-tecnica",
+    "span": "Secretaría Técnica",
+    "start_char": 69,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:25:term-usage:136-143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 136,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:26:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:26:term-usage:108-118",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 108,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:26:term-usage:249-259",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 249,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:27:term-usage:75-85",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 75,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:27:term-usage:199-209",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 199,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:27:term-usage:347-350",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 347,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:27:term-usage:627-638",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:lnscripcion",
+    "span": "lnscripción",
+    "start_char": 627,
+    "end_char": 638
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:27:term-usage:642-650",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 642,
+    "end_char": 650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:29:term-usage:102-110",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 102,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:30:term-usage:510-513",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 510,
+    "end_char": 513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:30:term-usage:745-767",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 745,
+    "end_char": 767
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:30:term-usage:797-819",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 797,
+    "end_char": 819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:30:term-usage:1152-1170",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria-tecnica",
+    "span": "Secretaría Técnica",
+    "start_char": 1152,
+    "end_char": 1170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:31:term-usage:56-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 56,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:31:term-usage:76-84",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 76,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:31:term-usage:329-351",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 329,
+    "end_char": 351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:31:term-usage:504-512",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 504,
+    "end_char": 512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:32:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria-tecnica",
+    "span": "Secretaría Técnica",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:33:term-usage:569-577",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 569,
+    "end_char": 577
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:34:term-usage:61-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 61,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:34:term-usage:184-187",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 184,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:35:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:35:term-usage:171-174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 171,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:35:term-usage:592-603",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
+    "span": "Actividades",
+    "start_char": 592,
+    "end_char": 603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:36:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:36:term-usage:192-200",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 192,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:36:term-usage:318-325",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 318,
+    "end_char": 325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:36:term-usage:382-385",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 382,
+    "end_char": 385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:37:term-usage:17-24",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 17,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:38:term-usage:30-37",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 30,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:39:term-usage:46-53",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 46,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:39:term-usage:771-778",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 771,
+    "end_char": 778
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:40:term-usage:194-197",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 194,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:40:term-usage:301-311",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 301,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:40:term-usage:509-520",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
+    "span": "Actividades",
+    "start_char": 509,
+    "end_char": 520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:40:term-usage:909-920",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
+    "span": "Actividades",
+    "start_char": 909,
+    "end_char": 920
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:41:term-usage:49-57",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "span": "Registro",
+    "start_char": 49,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:41:term-usage:143-150",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 143,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:42:term-usage:76-86",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejeros",
+    "span": "Consejeros",
+    "start_char": 76,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:42:term-usage:229-239",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 229,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:43:term-usage:22-32",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejeros",
+    "span": "Consejeros",
+    "start_char": 22,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:43:term-usage:91-98",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 91,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:43:term-usage:221-224",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 221,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:45:term-usage:4-14",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejeros",
+    "span": "Consejeros",
+    "start_char": 4,
+    "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:46:term-usage:83-86",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 83,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:46:term-usage:231-238",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 231,
+    "end_char": 238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:46:term-usage:311-314",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 311,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:46:term-usage:481-488",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 481,
+    "end_char": 488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47:term-usage:30-37",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 30,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47:term-usage:99-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 99,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47:term-usage:141-148",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 141,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47:term-usage:184-187",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 184,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47:term-usage:221-228",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 221,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47:term-usage:323-330",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 323,
+    "end_char": 330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47:term-usage:351-361",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejeros",
+    "span": "Consejeros",
+    "start_char": 351,
+    "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47:term-usage:748-755",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 748,
+    "end_char": 755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47:term-usage:818-825",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 818,
+    "end_char": 825
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:48:term-usage:28-35",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 28,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:48:term-usage:110-117",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 110,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:48:term-usage:263-270",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 263,
+    "end_char": 270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:48:term-usage:380-387",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 380,
+    "end_char": 387
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:49:term-usage:204-211",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 204,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:50:term-usage:58-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 58,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:50:term-usage:522-529",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 522,
+    "end_char": 529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51:term-usage:40-47",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 40,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51:term-usage:113-120",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 113,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51:term-usage:193-203",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejeros",
+    "span": "Consejeros",
+    "start_char": 193,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51:term-usage:407-414",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 407,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51:term-usage:514-521",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 514,
+    "end_char": 521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51:term-usage:636-643",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 636,
+    "end_char": 643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51:term-usage:712-722",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejeros",
+    "span": "Consejeros",
+    "start_char": 712,
+    "end_char": 722
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51:term-usage:809-816",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 809,
+    "end_char": 816
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51:term-usage:894-901",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 894,
+    "end_char": 901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51:term-usage:962-969",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 962,
+    "end_char": 969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:52:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:53:term-usage:44-51",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 44,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:54:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:55:term-usage:22-29",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 22,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:55:term-usage:91-102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 91,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:56:term-usage:56-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 56,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:56:term-usage:221-239",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria-tecnica",
+    "span": "Secretaría Técnica",
+    "start_char": 221,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:57:term-usage:74-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 74,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:57:term-usage:128-131",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 128,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:58:term-usage:269-272",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 269,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:transitory:segundo:term-usage:52-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 52,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:transitory:segundo:term-usage:335-338",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 335,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:transitory:tercero:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria-tecnica",
+    "span": "Secretaría Técnica",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:transitory:cuarto:term-usage:43-53",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejeros",
+    "span": "Consejeros",
+    "start_char": 43,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:transitory:quinto:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:transitory:septimo:term-usage:15-25",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejeros",
+    "span": "Consejeros",
+    "start_char": 15,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:transitory:septimo:term-usage:141-144",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "span": "Ley",
+    "start_char": 141,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:transitory:septimo:term-usage:207-217",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejeros",
+    "span": "Consejeros",
+    "start_char": 207,
+    "end_char": 217
+  }
+]

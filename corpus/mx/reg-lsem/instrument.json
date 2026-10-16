@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lsem",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley del Servicio Exterior Mexicano",
+  "short_name": "REG-LSEM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2017-04-28",
+  "latest_reform_date": "2025-05-27",
+  "retrieved_at": "2026-10-14T08:05:56.687797Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSEM.pdf",
+  "source_sha256": "b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844",
+  "extracted_text_sha256": "9debe99955737930766c8bbbdeafc3e811f083fec41b66fe0c4e72a5ab9a3d69",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de Población",
+  "short_name": "REG-LGP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2000-04-14",
+  "latest_reform_date": "2012-09-28",
+  "retrieved_at": "2026-10-14T07:57:53.573764Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGP.pdf",
+  "source_sha256": "d1b105c503cd9d4e593d9e349b440a77cffc4bf1f3507fe1d1659ab97c8befd8",
+  "extracted_text_sha256": "e7bfb665650d407596ca341bf58e679a18fcae65b90803aec3a0c91aa2a6f3ab",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

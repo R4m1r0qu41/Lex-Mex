@@ -1,0 +1,32 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loipn:article:14:reference:2428-2430:13:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:loipn:article:14",
+    "source_span": "13",
+    "start_char": 2428,
+    "end_char": 2430,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loipn",
+    "target_provision_id": "urn:lex-mx:federal:statute:loipn:article:13",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loipn:article:15:reference:200-202:13:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:loipn:article:15",
+    "source_span": "13",
+    "start_char": 200,
+    "end_char": 202,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loipn",
+    "target_provision_id": "urn:lex-mx:federal:statute:loipn:article:13",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

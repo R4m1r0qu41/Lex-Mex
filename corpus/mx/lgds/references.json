@@ -1,0 +1,54 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgds:article:4:reference:572-574:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgds:article:4",
+    "source_span": "26",
+    "start_char": 572,
+    "end_char": 574,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:26",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgds:article:65:reference:17-34:64:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgds:article:65",
+    "source_span": "artículo anterior",
+    "start_char": 17,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgds",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgds:article:64",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgds:article:83:reference:256-258:84:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgds:article:83",
+    "source_span": "84",
+    "start_char": 256,
+    "end_char": 258,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgds",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgds:article:84",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 230,
+        "end_char": 242
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

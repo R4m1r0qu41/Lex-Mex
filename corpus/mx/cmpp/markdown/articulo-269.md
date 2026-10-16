@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:code:cmpp:article:269
+instrument_id: urn:lex-mx:federal:code:cmpp
+instrument: CMPP
+name: "Código Militar de Procedimientos Penales"
+provision_type: article
+number: "269"
+aliases: ["CMPP — Artículo 269"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP.pdf
+source_sha256: 351c69a7bc3f61976933d76e45cf185a721a331a145778dd3f315df5216a5e32
+---
+
+> Título V · Capítulo II
+
+# Artículo 269
+
+Acceso a los indicios Los peritos que elaboren los dictámenes tendrán en todo momento acceso a los indicios sobre los que versarán los mismos, o a los que se hará referencia en el interrogatorio.

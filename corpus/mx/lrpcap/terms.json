@@ -1,0 +1,123 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:term:asilo-politico",
+    "term": "Asilo Político",
+    "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 452,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:term:asilado",
+    "term": "Asilado",
+    "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "fraction": "II",
+    "start_char": 452,
+    "end_char": 595,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:term:fundados-temores",
+    "term": "Fundados Temores",
+    "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "fraction": "III",
+    "start_char": 595,
+    "end_char": 953,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "fraction": "V",
+    "start_char": 953,
+    "end_char": 1052,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:term:pais-de-origen",
+    "term": "País de Origen",
+    "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "fraction": "VI",
+    "start_char": 1052,
+    "end_char": 1285,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:term:proteccion-complementaria",
+    "term": "Protección Complementaria",
+    "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "fraction": "VII",
+    "start_char": 1285,
+    "end_char": 1664,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:term:condicion-de-refugiado",
+    "term": "Condición de Refugiado",
+    "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "fraction": "VIII",
+    "start_char": 1664,
+    "end_char": 1897,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:term:representacion",
+    "term": "Representación",
+    "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "fraction": "IX",
+    "start_char": 1897,
+    "end_char": 2010,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "fraction": "X",
+    "start_char": 2010,
+    "end_char": 2053,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:term:solicitante-de-asilo-politico",
+    "term": "Solicitante de Asilo Político",
+    "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "fraction": "XI",
+    "start_char": 2053,
+    "end_char": 2293,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrpcap:term:solicitante-de-la-condicion-de-refugiado",
+    "term": "Solicitante de la Condición de Refugiado",
+    "instrument_id": "urn:lex-mx:federal:statute:lrpcap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
+    "fraction": "XII",
+    "start_char": 2293,
+    "end_char": 2479,
+    "basis": "express_definition"
+  }
+]

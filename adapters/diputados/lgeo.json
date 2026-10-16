@@ -1,0 +1,17 @@
+{
+  "slug": "lgeo",
+  "instrument_id": "urn:lex-mx:federal:statute:lgeo",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Geotermia",
+  "short_name": "LGEO",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGeo.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgeo.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "lgappcea",
+  "instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista",
+  "short_name": "LGAPPCEA",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAPPCEA_270516.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgappcea.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

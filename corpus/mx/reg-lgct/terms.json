@@ -1,0 +1,189 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:aditivos",
+    "term": "ADITIVOS",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "I",
+    "start_char": 124,
+    "end_char": 474,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:area-fisica-con-acceso-al-publico",
+    "term": "ÁREA FÍSICA CON ACCESO AL PÚBLICO",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "II",
+    "start_char": 474,
+    "end_char": 741,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:cofepris",
+    "term": "COFEPRIS",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "III",
+    "start_char": 741,
+    "end_char": 825,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:espacio-al-aire-libre",
+    "term": "ESPACIO AL AIRE LIBRE",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "IV",
+    "start_char": 825,
+    "end_char": 1418,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:establecimiento",
+    "term": "ESTABLECIMIENTO",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "VI",
+    "start_char": 1465,
+    "end_char": 2752,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:fumar",
+    "term": "FUMAR",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "VII",
+    "start_char": 2752,
+    "end_char": 3019,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:ingredientes",
+    "term": "INGREDIENTES",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "VIII",
+    "start_char": 3019,
+    "end_char": 3148,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:ley",
+    "term": "LEY",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "IX",
+    "start_char": 3148,
+    "end_char": 3201,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:licencia-sanitaria",
+    "term": "LICENCIA SANITARIA",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "X",
+    "start_char": 3201,
+    "end_char": 3617,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:lote",
+    "term": "LOTE",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "XI",
+    "start_char": 3617,
+    "end_char": 3774,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:mensajes-sanitarios",
+    "term": "MENSAJES SANITARIOS",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "XIII",
+    "start_char": 3823,
+    "end_char": 4385,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:mensajes-subliminales",
+    "term": "MENSAJES SUBLIMINALES",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "XIV",
+    "start_char": 4385,
+    "end_char": 4593,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:personal-laboralmente-expuesto",
+    "term": "PERSONAL LABORALMENTE EXPUESTO",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "XV",
+    "start_char": 4593,
+    "end_char": 4791,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:proceso",
+    "term": "PROCESO",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "XVI",
+    "start_char": 4791,
+    "end_char": 4993,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:publicidad",
+    "term": "PUBLICIDAD",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "XVII",
+    "start_char": 4993,
+    "end_char": 5309,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:punto-de-venta",
+    "term": "PUNTO DE VENTA",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "XVIII",
+    "start_char": 5309,
+    "end_char": 5492,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:term:responsabilidad-social-empresarial",
+    "term": "RESPONSABILIDAD SOCIAL EMPRESARIAL",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "fraction": "XIX",
+    "start_char": 5492,
+    "end_char": 6268,
+    "basis": "express_definition"
+  }
+]

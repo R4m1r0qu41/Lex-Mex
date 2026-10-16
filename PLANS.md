@@ -66,6 +66,14 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Completed
 
+- [`docs/plans/federal-bulk-structural-admission.md`](docs/plans/federal-bulk-structural-admission.md)
+  — Admitted/exported 225 candidates; 457 instruments locally, 14 holds
+  reported separately; GPT-6.1-Sol independent review accepted.
+
+- [`docs/plans/federal-source-inspection-batch-01.md`](docs/plans/federal-source-inspection-batch-01.md)
+  — LAEM and LAMNI inspected and admitted locally with frozen counts; 232
+  instruments locally, temporal review and broader reverse linking deferred.
+
 - [`docs/plans/federal-ingestion-failure-repair.md`](docs/plans/federal-ingestion-failure-repair.md)
   — Parser and follow-up source-ownership/publication repairs verified on all
   227 frozen cases; 14 holds preserved, no canonical admission.

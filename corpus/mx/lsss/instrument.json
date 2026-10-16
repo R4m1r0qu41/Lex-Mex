@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lsss",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Sociedades de Solidaridad Social",
+  "short_name": "LSSS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1976-05-27",
+  "latest_reform_date": "2018-04-24",
+  "retrieved_at": "2026-10-14T07:46:44.765163Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/71_240418.pdf",
+  "source_sha256": "4618876b444def89a7cb2464b71019e0119288ebe6695d90b6a82ae8289b937e",
+  "extracted_text_sha256": "7c5c65362f9c0800a250b8e550bdc02c2fa0fd2034bc55b7f0742d4c5a252066",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

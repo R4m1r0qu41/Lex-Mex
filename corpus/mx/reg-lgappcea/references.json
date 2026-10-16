@@ -1,0 +1,32 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:34:reference:36-53:33:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:34",
+    "source_span": "artículo anterior",
+    "start_char": 36,
+    "end_char": 53,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgappcea",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:33",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgappcea:transitory:tercero:reference:118-120:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:transitory:tercero",
+    "source_span": "11",
+    "start_char": 118,
+    "end_char": 120,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgappcea",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgappcea:article:11",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

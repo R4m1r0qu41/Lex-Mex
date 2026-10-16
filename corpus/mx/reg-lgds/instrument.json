@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgds",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de Desarrollo Social",
+  "short_name": "REG-LGDS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-01-18",
+  "latest_reform_date": "2008-08-28",
+  "retrieved_at": "2026-10-14T07:56:45.174610Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDS.pdf",
+  "source_sha256": "aca2d65d2eef1b7c26ab431772ce7364305d103f5e4bacc87da02064df005ae3",
+  "extracted_text_sha256": "95d7fcd108e3b376c091b5a6edb263dec5254e4e92412dd5cbda87ed9525b90d",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

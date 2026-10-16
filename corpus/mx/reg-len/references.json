@@ -1,0 +1,32 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-len:article:24:reference:177-178:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-len:article:24",
+    "source_span": "8",
+    "start_char": 177,
+    "end_char": 178,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-len",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-len:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-len:article:30:reference:124-141:29:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-len:article:30",
+    "source_span": "artículo anterior",
+    "start_char": 124,
+    "end_char": 141,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-len",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-len:article:29",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]

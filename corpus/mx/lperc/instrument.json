@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lperc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Premios, Estímulos y Recompensas Civiles",
+  "short_name": "LPERC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1975-12-31",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-10-14T07:41:55.690336Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPERC.pdf",
+  "source_sha256": "6916ade44cdc7b0820565cdc6225c6514b4b1131b1d08c70cf2abb190998f192",
+  "extracted_text_sha256": "6e0e70a5e3ec8d477ca49bc0b2ba46dc79cab9ef36c8167d5aaf65848e3b9033",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

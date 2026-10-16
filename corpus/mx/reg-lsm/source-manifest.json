@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lsm",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSM_060647.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSM_060647.pdf",
+  "retrieved_at": "2026-10-14T08:06:52.746186Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 500917,
+  "etag": "\"7a4b5-59363a2dd22c0\"",
+  "last_modified": "Wed, 25 Sep 2019 17:03:47 GMT",
+  "source_sha256": "e05548ce5210162f6613eab2a8d8e53b7eed65ffe4a909d4665277fe1726e369",
+  "extracted_text_sha256": "e4d96a29dba08db423e86efeffc146cb9c6c04bd30c660c89c0189be276f24bb",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

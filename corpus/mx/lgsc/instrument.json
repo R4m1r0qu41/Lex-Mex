@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgsc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Sociedades Cooperativas",
+  "short_name": "LGSC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1994-08-03",
+  "latest_reform_date": "2025-04-16",
+  "retrieved_at": "2026-10-14T07:36:13.526697Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf",
+  "source_sha256": "7bed7f706ac5003e5089abf84b9134fa97495a1d6c9570c0841e418d48d7565f",
+  "extracted_text_sha256": "b6513856a8dda054ee3c00b2aa61cf6fb5a0b88ef070eb170aa4c7ea36d00a17",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

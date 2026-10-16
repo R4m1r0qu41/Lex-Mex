@@ -1,0 +1,17 @@
+{
+  "slug": "lgipe",
+  "instrument_id": "urn:lex-mx:federal:statute:lgipe",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley General de Instituciones y Procedimientos Electorales",
+  "short_name": "LGIPE",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgipe.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

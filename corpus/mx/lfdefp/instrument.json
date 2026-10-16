@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfdefp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Defensoría Pública",
+  "short_name": "LFDEFP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1998-05-28",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-10-14T07:27:06.948540Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDefP.pdf",
+  "source_sha256": "603475aa11e46fa2fcf3b7e1c1ec111d4202070c309d1b355b834f011c226262",
+  "extracted_text_sha256": "f66b104783667dd42058dc5f3d30e691bc72ee22493ff1ea2710dfdc639138bc",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

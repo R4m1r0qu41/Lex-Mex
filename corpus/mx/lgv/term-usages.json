@@ -1,0 +1,4088 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:6:term-usage:107-115",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 107,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:6:term-usage:131-149",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 131,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:6:term-usage:309-317",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 309,
+    "end_char": 317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:6:term-usage:475-483",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 475,
+    "end_char": 483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:6:term-usage:602-610",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 602,
+    "end_char": 610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:6:term-usage:2144-2152",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 2144,
+    "end_char": 2152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:6:term-usage:2246-2254",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 2246,
+    "end_char": 2254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:6:term-usage:2351-2359",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 2351,
+    "end_char": 2359
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:6:term-usage:2914-2922",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 2914,
+    "end_char": 2922
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:6:term-usage:3099-3107",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 3099,
+    "end_char": 3107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:6:term-usage:3203-3211",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 3203,
+    "end_char": 3211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:7:term-usage:3566-3574",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 3566,
+    "end_char": 3574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:7:term-usage:6090-6107",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 6090,
+    "end_char": 6107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:7:term-usage:6114-6132",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 6114,
+    "end_char": 6132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:7:term-usage:6142-6164",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 6142,
+    "end_char": 6164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:7:term-usage:6935-6942",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctima",
+    "start_char": 6935,
+    "end_char": 6942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:7:term-usage:8929-8946",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 8929,
+    "end_char": 8946
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:8:term-usage:67-84",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 67,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:8:term-usage:91-109",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 91,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:8:term-usage:119-141",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 119,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:8:term-usage:2385-2403",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 2385,
+    "end_char": 2403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:8:term-usage:2418-2440",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 2418,
+    "end_char": 2440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:8:term-usage:2503-2520",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 2503,
+    "end_char": 2520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:8:term-usage:2947-2965",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 2947,
+    "end_char": 2965
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:8:term-usage:2968-2990",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 2968,
+    "end_char": 2990
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:8:term-usage:3083-3100",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 3083,
+    "end_char": 3100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:8:term-usage:3204-3222",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3204,
+    "end_char": 3222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:8:term-usage:3237-3259",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 3237,
+    "end_char": 3259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:8:term-usage:3354-3372",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3354,
+    "end_char": 3372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:8:term-usage:3414-3431",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 3414,
+    "end_char": 3431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:8:term-usage:3562-3580",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3562,
+    "end_char": 3580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:8:term-usage:3587-3609",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 3587,
+    "end_char": 3609
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:8:term-usage:3945-3963",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3945,
+    "end_char": 3963
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:9:term-usage:1546-1564",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1546,
+    "end_char": 1564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:9:term-usage:1571-1593",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 1571,
+    "end_char": 1593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:9:term-usage:1622-1639",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 1622,
+    "end_char": 1639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:12:term-usage:905-920",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesor Jurídico",
+    "start_char": 905,
+    "end_char": 920
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:12:term-usage:1587-1602",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesor Jurídico",
+    "start_char": 1587,
+    "end_char": 1602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:12:term-usage:1788-1798",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1788,
+    "end_char": 1798
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:12:term-usage:3841-3859",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3841,
+    "end_char": 3859
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:12:term-usage:3924-3946",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 3924,
+    "end_char": 3946
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:14:term-usage:280-295",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesor Jurídico",
+    "start_char": 280,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:15:term-usage:247-262",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesor Jurídico",
+    "start_char": 247,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:15:term-usage:296-314",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 296,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:15:term-usage:379-401",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 379,
+    "end_char": 401
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:21:term-usage:1560-1578",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1560,
+    "end_char": 1578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:21:term-usage:1643-1665",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 1643,
+    "end_char": 1665
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:21:term-usage:2219-2233",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:procedimiento",
+    "span": "Procedimientos",
+    "start_char": 2219,
+    "end_char": 2233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:21:term-usage:2630-2640",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 2630,
+    "end_char": 2640
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:28:term-usage:944-961",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 944,
+    "end_char": 961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:31:term-usage:930-947",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 930,
+    "end_char": 947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:31:term-usage:954-972",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 954,
+    "end_char": 972
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:31:term-usage:982-1004",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 982,
+    "end_char": 1004
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:32:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:32:term-usage:328-338",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 328,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:38:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:39-bis:term-usage:1120-1142",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:39-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 1120,
+    "end_char": 1142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:39-bis:term-usage:1176-1194",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:39-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1176,
+    "end_char": 1194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:39-bis:term-usage:1400-1422",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:39-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 1400,
+    "end_char": 1422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:42:term-usage:437-455",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 437,
+    "end_char": 455
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:42:term-usage:520-537",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 520,
+    "end_char": 537
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:44:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:44:term-usage:68-76",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 68,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:44:term-usage:89-97",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 89,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:44:term-usage:195-203",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 195,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:45:term-usage:49-67",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 49,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:60:term-usage:584-599",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesor Jurídico",
+    "start_char": 584,
+    "end_char": 599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:64:term-usage:332-342",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 332,
+    "end_char": 342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:64:term-usage:1482-1497",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesor Jurídico",
+    "start_char": 1482,
+    "end_char": 1497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:64:term-usage:2508-2525",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 2508,
+    "end_char": 2525
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:64:term-usage:2638-2656",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 2638,
+    "end_char": 2656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:64:term-usage:2663-2685",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 2663,
+    "end_char": 2685
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:67:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:67:term-usage:86-108",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 86,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:67:term-usage:699-717",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 699,
+    "end_char": 717
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:68:term-usage:551-569",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 551,
+    "end_char": 569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:69:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:70:term-usage:81-99",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 81,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:70:term-usage:234-244",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 234,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:71:term-usage:29-47",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 29,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:71:term-usage:162-180",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 162,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:79:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:79:term-usage:34-42",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 34,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:79:term-usage:501-508",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 501,
+    "end_char": 508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:79:term-usage:532-540",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 532,
+    "end_char": 540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:79:term-usage:1005-1012",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 1005,
+    "end_char": 1012
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:79:term-usage:1248-1255",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 1248,
+    "end_char": 1255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:79:term-usage:1298-1305",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 1298,
+    "end_char": 1305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:79:term-usage:1322-1340",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1322,
+    "end_char": 1340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:79:term-usage:1343-1365",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 1343,
+    "end_char": 1365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:79:term-usage:1516-1538",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 1516,
+    "end_char": 1538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:79:term-usage:1825-1843",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1825,
+    "end_char": 1843
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:79:term-usage:2037-2055",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 2037,
+    "end_char": 2055
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:79:term-usage:2139-2149",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 2139,
+    "end_char": 2149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:79:term-usage:2315-2333",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 2315,
+    "end_char": 2333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:79:term-usage:2340-2361",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisiones Ejecutivas",
+    "start_char": 2340,
+    "end_char": 2361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:81:term-usage:38-45",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 38,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:81:term-usage:516-524",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "span": "Programa",
+    "start_char": 516,
+    "end_char": 524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:81:term-usage:548-556",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 548,
+    "end_char": 556
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:81:term-usage:854-872",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 854,
+    "end_char": 872
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:81:term-usage:887-895",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 887,
+    "end_char": 895
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:81:term-usage:2813-2831",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 2813,
+    "end_char": 2831
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:81:term-usage:2838-2860",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 2838,
+    "end_char": 2860
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:81:term-usage:2937-2955",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 2937,
+    "end_char": 2955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:81:term-usage:2981-2998",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 2981,
+    "end_char": 2998
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:81:term-usage:3229-3251",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 3229,
+    "end_char": 3251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:81:term-usage:3281-3299",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3281,
+    "end_char": 3299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:81:term-usage:3398-3420",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 3398,
+    "end_char": 3420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:81:term-usage:3677-3695",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3677,
+    "end_char": 3695
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:81:term-usage:3997-4015",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3997,
+    "end_char": 4015
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:82:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:82:term-usage:34-42",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 34,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:82:term-usage:1467-1485",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1467,
+    "end_char": 1485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:82:term-usage:1500-1508",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 1500,
+    "end_char": 1508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:83:term-usage:20-27",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 20,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:83:term-usage:133-143",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 133,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:83:term-usage:479-486",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 479,
+    "end_char": 486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:83:term-usage:672-679",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 672,
+    "end_char": 679
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:83:term-usage:765-772",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 765,
+    "end_char": 772
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:83:term-usage:889-896",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 889,
+    "end_char": 896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:83:term-usage:925-932",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 925,
+    "end_char": 932
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:83:term-usage:1039-1046",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 1039,
+    "end_char": 1046
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:83:term-usage:1140-1147",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 1140,
+    "end_char": 1147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:83:term-usage:1379-1397",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1379,
+    "end_char": 1397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:83:term-usage:1449-1459",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1449,
+    "end_char": 1459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84:term-usage:279-297",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 279,
+    "end_char": 297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84:term-usage:450-468",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 450,
+    "end_char": 468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84:term-usage:838-845",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 838,
+    "end_char": 845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84:term-usage:933-951",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 933,
+    "end_char": 951
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84:term-usage:1270-1288",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1270,
+    "end_char": 1288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84:term-usage:1578-1585",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 1578,
+    "end_char": 1585
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84:term-usage:1670-1688",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1670,
+    "end_char": 1688
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84:term-usage:1700-1717",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 1700,
+    "end_char": 1717
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84:term-usage:1730-1738",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 1730,
+    "end_char": 1738
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84:term-usage:1751-1759",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 1751,
+    "end_char": 1759
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84:term-usage:1873-1890",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 1873,
+    "end_char": 1890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84:term-usage:1968-1978",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1968,
+    "end_char": 1978
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84:term-usage:2335-2352",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 2335,
+    "end_char": 2352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84:term-usage:2696-2709",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:fondo-estatal",
+    "span": "Fondo estatal",
+    "start_char": 2696,
+    "end_char": 2709
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84-bis:term-usage:20-38",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 20,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84-ter:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84-ter",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84-quater:term-usage:532-550",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84-quater",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 532,
+    "end_char": 550
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84-septies:term-usage:373-383",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84-septies",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 373,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84-septies:term-usage:474-492",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84-septies",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 474,
+    "end_char": 492
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84-septies:term-usage:681-699",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84-septies",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 681,
+    "end_char": 699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84-septies:term-usage:914-932",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84-septies",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 914,
+    "end_char": 932
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84-octies:term-usage:135-153",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84-octies",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 135,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84-octies:term-usage:424-442",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84-octies",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 424,
+    "end_char": 442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:84-octies:term-usage:1572-1582",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:84-octies",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1572,
+    "end_char": 1582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:85:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:86:term-usage:873-891",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 873,
+    "end_char": 891
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:86:term-usage:1104-1122",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1104,
+    "end_char": 1122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:87:term-usage:69-87",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 69,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:87:term-usage:132-149",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 132,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:87:term-usage:154-162",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 154,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:87:term-usage:175-183",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 175,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:87:term-usage:297-314",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 297,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:146-153",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 146,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:418-426",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "span": "Programa",
+    "start_char": 418,
+    "end_char": 426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:450-458",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 450,
+    "end_char": 458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:639-646",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 639,
+    "end_char": 646
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:665-672",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 665,
+    "end_char": 672
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:1064-1071",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 1064,
+    "end_char": 1071
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:1090-1097",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 1090,
+    "end_char": 1097
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:1200-1207",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 1200,
+    "end_char": 1207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:2220-2228",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 2220,
+    "end_char": 2228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:2241-2249",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 2241,
+    "end_char": 2249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:2292-2309",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 2292,
+    "end_char": 2309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:2332-2340",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 2332,
+    "end_char": 2340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:2407-2415",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 2407,
+    "end_char": 2415
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:2428-2436",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 2428,
+    "end_char": 2436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:2441-2459",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 2441,
+    "end_char": 2459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:2562-2569",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 2562,
+    "end_char": 2569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:2793-2800",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 2793,
+    "end_char": 2800
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:2824-2832",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "span": "Programa",
+    "start_char": 2824,
+    "end_char": 2832
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:3318-3328",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 3318,
+    "end_char": 3328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:3362-3369",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 3362,
+    "end_char": 3369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:3461-3478",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 3461,
+    "end_char": 3478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:3492-3500",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 3492,
+    "end_char": 3500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:3615-3632",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 3615,
+    "end_char": 3632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:3758-3768",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 3758,
+    "end_char": 3768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:4520-4527",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 4520,
+    "end_char": 4527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:5210-5217",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 5210,
+    "end_char": 5217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:6262-6280",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 6262,
+    "end_char": 6280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:6383-6390",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 6383,
+    "end_char": 6390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:6624-6632",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 6624,
+    "end_char": 6632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:7263-7270",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 7263,
+    "end_char": 7270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:8269-8276",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 8269,
+    "end_char": 8276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:8300-8308",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 8300,
+    "end_char": 8308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:9136-9153",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 9136,
+    "end_char": 9153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:9276-9293",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 9276,
+    "end_char": 9293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88:term-usage:9361-9369",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "span": "Programa",
+    "start_char": 9361,
+    "end_char": 9369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88-bis:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88-bis:term-usage:1257-1275",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1257,
+    "end_char": 1275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88-bis:term-usage:1835-1853",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1835,
+    "end_char": 1853
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88-bis:term-usage:2011-2033",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 2011,
+    "end_char": 2033
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88-bis:term-usage:2191-2209",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 2191,
+    "end_char": 2209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:88-bis:term-usage:2403-2421",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:88-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 2403,
+    "end_char": 2421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:89:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:89:term-usage:350-357",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 350,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:90:term-usage:597-615",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 597,
+    "end_char": 615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:91:term-usage:43-61",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 43,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:91:term-usage:880-887",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 880,
+    "end_char": 887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:91:term-usage:955-973",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 955,
+    "end_char": 973
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:93:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:93:term-usage:195-212",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 195,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:93:term-usage:368-378",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 368,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:93:term-usage:780-790",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 780,
+    "end_char": 790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:95:term-usage:185-203",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 185,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:95:term-usage:445-463",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 445,
+    "end_char": 463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:95:term-usage:502-509",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 502,
+    "end_char": 509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:95:term-usage:630-638",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 630,
+    "end_char": 638
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:95:term-usage:651-659",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 651,
+    "end_char": 659
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:95:term-usage:944-962",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 944,
+    "end_char": 962
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:95:term-usage:1101-1119",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1101,
+    "end_char": 1119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:95:term-usage:1199-1217",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1199,
+    "end_char": 1217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:95:term-usage:1251-1259",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 1251,
+    "end_char": 1259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:95:term-usage:1272-1280",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 1272,
+    "end_char": 1280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:95:term-usage:1876-1894",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1876,
+    "end_char": 1894
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:95:term-usage:1981-1999",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1981,
+    "end_char": 1999
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:95:term-usage:2149-2167",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 2149,
+    "end_char": 2167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:95:term-usage:2278-2295",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 2278,
+    "end_char": 2295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:95:term-usage:2328-2346",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 2328,
+    "end_char": 2346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:95:term-usage:2587-2605",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 2587,
+    "end_char": 2605
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:96:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:96:term-usage:24-32",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 24,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:96:term-usage:192-199",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 192,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:96:term-usage:225-233",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 225,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:96:term-usage:246-254",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 246,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:96:term-usage:475-483",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 475,
+    "end_char": 483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:96:term-usage:496-504",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 496,
+    "end_char": 504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:96:term-usage:540-558",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 540,
+    "end_char": 558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:96:term-usage:597-605",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 597,
+    "end_char": 605
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:96:term-usage:1266-1274",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 1266,
+    "end_char": 1274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:96:term-usage:1333-1351",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1333,
+    "end_char": 1351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:96:term-usage:1531-1539",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 1531,
+    "end_char": 1539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:96:term-usage:1552-1560",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 1552,
+    "end_char": 1560
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:96:term-usage:1667-1674",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 1667,
+    "end_char": 1674
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:96:term-usage:1782-1790",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 1782,
+    "end_char": 1790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:96:term-usage:1803-1811",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 1803,
+    "end_char": 1811
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:97:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:97:term-usage:24-32",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 24,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:97:term-usage:279-297",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 279,
+    "end_char": 297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:97:term-usage:608-615",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 608,
+    "end_char": 615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:97:term-usage:1219-1227",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 1219,
+    "end_char": 1227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:97:term-usage:1240-1248",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 1240,
+    "end_char": 1248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:97:term-usage:1624-1632",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 1624,
+    "end_char": 1632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:97:term-usage:1645-1653",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 1645,
+    "end_char": 1653
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:97:term-usage:1863-1871",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 1863,
+    "end_char": 1871
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:97:term-usage:1884-1892",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 1884,
+    "end_char": 1892
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:98:term-usage:79-97",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 79,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:98:term-usage:321-339",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 321,
+    "end_char": 339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:98:term-usage:498-506",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 498,
+    "end_char": 506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:98:term-usage:519-527",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 519,
+    "end_char": 527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:98:term-usage:853-871",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 853,
+    "end_char": 871
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:98:term-usage:1372-1380",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 1372,
+    "end_char": 1380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:98:term-usage:1653-1661",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 1653,
+    "end_char": 1661
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:98:term-usage:1908-1926",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1908,
+    "end_char": 1926
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:99:term-usage:181-189",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 181,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:99:term-usage:747-755",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 747,
+    "end_char": 755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:99:term-usage:1613-1631",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1613,
+    "end_char": 1631
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:99:term-usage:1899-1907",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 1899,
+    "end_char": 1907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:100:term-usage:92-100",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 92,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:100:term-usage:113-121",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 113,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:100:term-usage:186-194",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 186,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:100:term-usage:207-215",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 207,
+    "end_char": 215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:100:term-usage:339-347",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 339,
+    "end_char": 347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:100:term-usage:486-504",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 486,
+    "end_char": 504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:100:term-usage:646-664",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 646,
+    "end_char": 664
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:100:term-usage:815-833",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 815,
+    "end_char": 833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:100:term-usage:2170-2188",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 2170,
+    "end_char": 2188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:101:term-usage:55-63",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:101",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 55,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:101:term-usage:231-249",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:101",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 231,
+    "end_char": 249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:103:term-usage:39-47",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 39,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:103:term-usage:60-68",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 60,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:103:term-usage:227-245",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 227,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:103:term-usage:611-619",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 611,
+    "end_char": 619
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:103:term-usage:952-970",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 952,
+    "end_char": 970
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:103:term-usage:1079-1089",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1079,
+    "end_char": 1089
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:104:term-usage:35-43",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 35,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:104:term-usage:56-64",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 56,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:104:term-usage:1107-1115",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 1107,
+    "end_char": 1115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:104:term-usage:1128-1136",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 1128,
+    "end_char": 1136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:105:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:105",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:105:term-usage:199-207",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:105",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 199,
+    "end_char": 207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:105:term-usage:220-228",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:105",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 220,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:105:term-usage:307-315",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:105",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 307,
+    "end_char": 315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:106:term-usage:28-36",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 28,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:109:term-usage:176-184",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:109",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 176,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:110:term-usage:788-806",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:110",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 788,
+    "end_char": 806
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:110:term-usage:1008-1025",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:110",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 1008,
+    "end_char": 1025
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:110:term-usage:1131-1141",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:110",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1131,
+    "end_char": 1141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:111:term-usage:1025-1042",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 1025,
+    "end_char": 1042
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:111:term-usage:1129-1139",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1129,
+    "end_char": 1139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:111:term-usage:1209-1219",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1209,
+    "end_char": 1219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:112:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:112:term-usage:34-42",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 34,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:114:term-usage:391-399",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "span": "Programa",
+    "start_char": 391,
+    "end_char": 399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:114:term-usage:1375-1393",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1375,
+    "end_char": 1393
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:114:term-usage:1818-1826",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "span": "Programa",
+    "start_char": 1818,
+    "end_char": 1826
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:115:term-usage:343-351",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "span": "Programa",
+    "start_char": 343,
+    "end_char": 351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:115:term-usage:375-382",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 375,
+    "end_char": 382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:115:term-usage:866-873",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 866,
+    "end_char": 873
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:115:term-usage:880-888",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "span": "Programa",
+    "start_char": 880,
+    "end_char": 888
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:115:term-usage:942-950",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "span": "Programa",
+    "start_char": 942,
+    "end_char": 950
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:115:term-usage:1651-1658",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 1651,
+    "end_char": 1658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:115:term-usage:1665-1673",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "span": "Programa",
+    "start_char": 1665,
+    "end_char": 1673
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:116:term-usage:1505-1513",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "span": "Programa",
+    "start_char": 1505,
+    "end_char": 1513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:116:term-usage:2688-2706",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 2688,
+    "end_char": 2706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:116:term-usage:2713-2735",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 2713,
+    "end_char": 2735
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:116:term-usage:2909-2917",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "span": "Programa",
+    "start_char": 2909,
+    "end_char": 2917
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:117:term-usage:701-708",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctima",
+    "start_char": 701,
+    "end_char": 708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:118:term-usage:431-438",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 431,
+    "end_char": 438
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:118:term-usage:478-486",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "span": "Programa",
+    "start_char": 478,
+    "end_char": 486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:118:term-usage:802-810",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "span": "Programa",
+    "start_char": 802,
+    "end_char": 810
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:118:term-usage:1025-1032",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 1025,
+    "end_char": 1032
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:118:term-usage:1266-1273",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 1266,
+    "end_char": 1273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:119:term-usage:385-392",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 385,
+    "end_char": 392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:119:term-usage:583-591",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "span": "Programa",
+    "start_char": 583,
+    "end_char": 591
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:120:term-usage:2110-2118",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:120",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 2110,
+    "end_char": 2118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:120:term-usage:2131-2139",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:120",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 2131,
+    "end_char": 2139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:125:term-usage:15-30",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:125",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesor Jurídico",
+    "start_char": 15,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:125:term-usage:38-46",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:125",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 38,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:125-bis:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:125-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:125-bis:term-usage:190-207",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:125-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 190,
+    "end_char": 207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:125-bis:term-usage:456-466",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:125-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 456,
+    "end_char": 466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:130:term-usage:26-43",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 26,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:130:term-usage:358-376",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 358,
+    "end_char": 376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:130:term-usage:474-484",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 474,
+    "end_char": 484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:131:term-usage:146-156",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:131",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 146,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:131:term-usage:201-209",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:131",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 201,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:131:term-usage:229-247",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:131",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 229,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:132:term-usage:47-65",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:132",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 47,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:132:term-usage:310-324",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:132",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:procedimiento",
+    "span": "Procedimientos",
+    "start_char": 310,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:132:term-usage:691-701",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:132",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 691,
+    "end_char": 701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:132:term-usage:1113-1131",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:132",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1113,
+    "end_char": 1131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:132:term-usage:1223-1236",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:132",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:fondo-estatal",
+    "span": "Fondo estatal",
+    "start_char": 1223,
+    "end_char": 1236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:132:term-usage:1257-1275",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:132",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 1257,
+    "end_char": 1275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:136:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:136:term-usage:151-161",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 151,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:136:term-usage:274-292",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 274,
+    "end_char": 292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:136:term-usage:565-575",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 565,
+    "end_char": 575
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:139:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:139",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:139:term-usage:242-252",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:139",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 242,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:140:term-usage:4-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:140",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 4,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:140:term-usage:100-110",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:140",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 100,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:141:term-usage:171-189",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:141",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 171,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:141:term-usage:250-260",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:141",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 250,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:141:term-usage:317-335",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:141",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 317,
+    "end_char": 335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:143:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:143",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:143:term-usage:96-113",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:143",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 96,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:144:term-usage:19-36",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 19,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:144:term-usage:121-139",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 121,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:144:term-usage:189-199",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 189,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:144:term-usage:278-296",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 278,
+    "end_char": 296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:145:term-usage:35-53",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:145",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 35,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:145:term-usage:223-240",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:145",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:recursos-de-ayuda",
+    "span": "Recursos de Ayuda",
+    "start_char": 223,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:147:term-usage:755-773",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:147",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 755,
+    "end_char": 773
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:148:term-usage:244-254",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:148",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 244,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:148:term-usage:350-368",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:148",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 350,
+    "end_char": 368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:149:term-usage:664-682",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:149",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 664,
+    "end_char": 682
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:151:term-usage:139-157",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:151",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 139,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:152:term-usage:214-232",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:152",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 214,
+    "end_char": 232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:154:term-usage:319-337",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:154",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 319,
+    "end_char": 337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:155:term-usage:118-128",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:155",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 118,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:155:term-usage:287-305",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:155",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 287,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:156:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:156",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:157-bis:term-usage:3-16",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:157-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:fondo-estatal",
+    "span": "Fondo estatal",
+    "start_char": 3,
+    "end_char": 16
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:157-ter:term-usage:87-100",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:157-ter",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:fondo-estatal",
+    "span": "Fondo estatal",
+    "start_char": 87,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:157-ter:term-usage:158-176",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:157-ter",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 158,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:157-ter:term-usage:347-357",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:157-ter",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 347,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:157-ter:term-usage:460-473",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:157-ter",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:fondo-estatal",
+    "span": "Fondo estatal",
+    "start_char": 460,
+    "end_char": 473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:157-ter:term-usage:994-1007",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:157-ter",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:fondo-estatal",
+    "span": "Fondo estatal",
+    "start_char": 994,
+    "end_char": 1007
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:157-quater:term-usage:65-81",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:157-quater",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:fondo-estatal",
+    "span": "Fondos estatales",
+    "start_char": 65,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:157-quater:term-usage:204-222",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:157-quater",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 204,
+    "end_char": 222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:157-quinquies:term-usage:24-37",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:157-quinquies",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:fondo-estatal",
+    "span": "Fondo estatal",
+    "start_char": 24,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:158:term-usage:20-27",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:158",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 20,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:160:term-usage:181-188",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:160",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 181,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:162:term-usage:284-293",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:162",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:programa",
+    "span": "Programas",
+    "start_char": 284,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:162:term-usage:357-364",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:162",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 357,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:165:term-usage:14-32",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:165",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 14,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:165:term-usage:37-54",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:165",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 37,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:165:term-usage:77-85",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:165",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 77,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:165:term-usage:238-255",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:165",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 238,
+    "end_char": 255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:165:term-usage:270-278",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:165",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 270,
+    "end_char": 278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:165:term-usage:375-394",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:165",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesorías Jurídicas",
+    "start_char": 375,
+    "end_char": 394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:165:term-usage:409-417",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:165",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 409,
+    "end_char": 417
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:165:term-usage:517-535",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:165",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 517,
+    "end_char": 535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:166:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:166",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:166:term-usage:379-396",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:166",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 379,
+    "end_char": 396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:167:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:167",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:167:term-usage:101-118",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:167",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 101,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:167:term-usage:124-132",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:167",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 124,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:167:term-usage:633-650",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:167",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 633,
+    "end_char": 650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:167:term-usage:902-917",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:167",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesor Jurídico",
+    "start_char": 902,
+    "end_char": 917
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:167:term-usage:925-933",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:167",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 925,
+    "end_char": 933
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:167:term-usage:1182-1199",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:167",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 1182,
+    "end_char": 1199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:168:term-usage:43-61",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:168",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 43,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:168:term-usage:70-92",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:168",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comisiones-de-victimas",
+    "span": "Comisiones de víctimas",
+    "start_char": 70,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:168:term-usage:135-150",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:168",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesor Jurídico",
+    "start_char": 135,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:168:term-usage:281-289",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:168",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:registro",
+    "span": "Registro",
+    "start_char": 281,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:168:term-usage:308-326",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:168",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 308,
+    "end_char": 326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:168:term-usage:331-338",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:168",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 331,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:168:term-usage:351-359",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:168",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 351,
+    "end_char": 359
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:168:term-usage:396-413",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:168",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 396,
+    "end_char": 413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:168:term-usage:852-869",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:168",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 852,
+    "end_char": 869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:169:term-usage:22-37",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:169",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesor Jurídico",
+    "start_char": 22,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:169:term-usage:60-68",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:169",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 60,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:169:term-usage:1925-1940",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:169",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesor Jurídico",
+    "start_char": 1925,
+    "end_char": 1940
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:169:term-usage:1956-1964",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:169",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 1956,
+    "end_char": 1964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:170:term-usage:39-57",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:170",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesores Jurídicos",
+    "start_char": 39,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:170:term-usage:72-80",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:170",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 72,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:170:term-usage:117-134",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:170",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 117,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:170:term-usage:149-157",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:170",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 149,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:171:term-usage:32-47",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:171",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesor Jurídico",
+    "start_char": 32,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:172:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:172",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesor Jurídico",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:172:term-usage:55-73",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:172",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 55,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:173:term-usage:38-56",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:173",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesores Jurídicos",
+    "start_char": 38,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:174:term-usage:25-43",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:174",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesores Jurídicos",
+    "start_char": 25,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:174:term-usage:72-89",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:174",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 72,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:179:term-usage:26-43",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:179",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 26,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:179:term-usage:975-993",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:179",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 975,
+    "end_char": 993
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:179:term-usage:1082-1097",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:179",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesor Jurídico",
+    "start_char": 1082,
+    "end_char": 1097
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:180:term-usage:26-43",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 26,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:180:term-usage:148-165",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 148,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:180:term-usage:173-181",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 173,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:180:term-usage:292-310",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesores Jurídicos",
+    "start_char": 292,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:180:term-usage:411-428",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 411,
+    "end_char": 428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:180:term-usage:520-538",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesores Jurídicos",
+    "start_char": 520,
+    "end_char": 538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:180:term-usage:651-668",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 651,
+    "end_char": 668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:180:term-usage:851-869",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 851,
+    "end_char": 869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:180:term-usage:942-960",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesores Jurídicos",
+    "start_char": 942,
+    "end_char": 960
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:180:term-usage:1010-1027",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 1010,
+    "end_char": 1027
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:180:term-usage:1215-1234",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesorías Jurídicas",
+    "start_char": 1215,
+    "end_char": 1234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:180:term-usage:1249-1257",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 1249,
+    "end_char": 1257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:180:term-usage:1339-1343",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:plan",
+    "span": "Plan",
+    "start_char": 1339,
+    "end_char": 1343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:180:term-usage:1384-1401",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 1384,
+    "end_char": 1401
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:180:term-usage:1581-1599",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesor-juridico",
+    "span": "Asesores Jurídicos",
+    "start_char": 1581,
+    "end_char": 1599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:article:180:term-usage:1621-1638",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 1621,
+    "end_char": 1638
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:transitory:tercero:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:transitory:cuarto:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:transitory:cuarto:term-usage:64-72",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 64,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:transitory:quinto:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:transitory:quinto:term-usage:36-44",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 36,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:transitory:sexto:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:comision-ejecutiva",
+    "span": "Comisión Ejecutiva",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:transitory:octavo:term-usage:69-80",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamentos",
+    "start_char": 69,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:transitory:noveno:term-usage:65-72",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:sistema",
+    "span": "Sistema",
+    "start_char": 65,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:transitory:noveno:term-usage:85-93",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:victima",
+    "span": "Víctimas",
+    "start_char": 85,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:transitory:noveno:term-usage:151-162",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:reglamento",
+    "span": "Reglamentos",
+    "start_char": 151,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:transitory:decimo-tercero:term-usage:165-172",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:delito",
+    "span": "Delitos",
+    "start_char": 165,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:transitory:decimo-tercero:term-usage:330-347",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 330,
+    "end_char": 347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgv:transitory:decimo-cuarto:term-usage:152-169",
+    "provision_id": "urn:lex-mx:federal:statute:lgv:transitory:decimo-cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgv:term:asesoria-juridica",
+    "span": "Asesoría Jurídica",
+    "start_char": 152,
+    "end_char": 169
+  }
+]

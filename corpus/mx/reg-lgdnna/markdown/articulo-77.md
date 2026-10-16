@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lgdnna:article:77
+instrument_id: urn:lex-mx:federal:regulation:reg-lgdnna
+instrument: REG-LGDNNA
+name: "Reglamento de la Ley General de los Derechos de Niñas, Niños y Adolescentes"
+provision_type: article
+number: "77"
+aliases: ["REG-LGDNNA — Artículo 77"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDNNA.pdf
+source_sha256: 210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71
+---
+
+> Título SÉPTIMO · Capítulo II
+
+# Artículo 77
+
+El acogimiento pre-adoptivo por una familia inicia con el periodo de convivencias entre la niña, niño o adolescente candidato a ser adoptado y la familia solicitante de adopción a efecto de confirmar la compatibilidad entre ambos.

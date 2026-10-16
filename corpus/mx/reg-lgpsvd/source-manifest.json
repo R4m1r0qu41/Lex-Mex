@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpsvd",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSVD_190914.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSVD_190914.pdf",
+  "retrieved_at": "2026-10-14T07:58:21.879507Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 237879,
+  "etag": "\"3a137-563b487e8d740\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:09 GMT",
+  "source_sha256": "a1cc8f6043c35579235fd61d2e34977e1735af4ea6919d053f89462b97742335",
+  "extracted_text_sha256": "1af9237ba26f33accb4b2070eb7b09e4c60f1cb6d370d277e0964d3c76f81d32",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

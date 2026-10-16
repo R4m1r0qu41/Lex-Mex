@@ -1,0 +1,1631 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:1:term-usage:338-341",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:ley",
+    "span": "Ley",
+    "start_char": 338,
+    "end_char": 341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:1:term-usage:540-543",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:ley",
+    "span": "Ley",
+    "start_char": 540,
+    "end_char": 543
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:3:term-usage:207-215",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 207,
+    "end_char": 215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:3:term-usage:275-278",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:ley",
+    "span": "Ley",
+    "start_char": 275,
+    "end_char": 278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:3:term-usage:495-503",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 495,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:4:term-usage:366-369",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:ley",
+    "span": "Ley",
+    "start_char": 366,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:4:term-usage:395-405",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 395,
+    "end_char": 405
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:4:term-usage:410-422",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 410,
+    "end_char": 422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:4:term-usage:428-436",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 428,
+    "end_char": 436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:5:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:5:term-usage:19-31",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 19,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:6:term-usage:57-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:ley",
+    "span": "Ley",
+    "start_char": 57,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:6:term-usage:214-226",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 214,
+    "end_char": 226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:6:term-usage:413-421",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 413,
+    "end_char": 421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:6:term-usage:443-446",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:ley",
+    "span": "Ley",
+    "start_char": 443,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:7:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:7:term-usage:18-30",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 18,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:7:term-usage:36-44",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 36,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:7-16",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asambleas",
+    "start_char": 7,
+    "end_char": 16
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:55-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:ley",
+    "span": "Ley",
+    "start_char": 55,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:63-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 63,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:237-245",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 237,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:401-409",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 401,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:464-472",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 464,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:658-666",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 658,
+    "end_char": 666
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:675-683",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 675,
+    "end_char": 683
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:918-926",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 918,
+    "end_char": 926
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:1169-1177",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 1169,
+    "end_char": 1177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:1633-1641",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 1633,
+    "end_char": 1641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:2474-2485",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:comisariado",
+    "span": "Comisariado",
+    "start_char": 2474,
+    "end_char": 2485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:2656-2664",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 2656,
+    "end_char": 2664
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:2788-2800",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 2788,
+    "end_char": 2800
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:2924-2932",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 2924,
+    "end_char": 2932
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:3120-3128",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 3120,
+    "end_char": 3128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:3180-3192",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 3180,
+    "end_char": 3192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:3266-3277",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:comisariado",
+    "span": "Comisariado",
+    "start_char": 3266,
+    "end_char": 3277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:3356-3364",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 3356,
+    "end_char": 3364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:3772-3780",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 3772,
+    "end_char": 3780
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:3854-3862",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 3854,
+    "end_char": 3862
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:3958-3966",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 3958,
+    "end_char": 3966
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:4275-4283",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 4275,
+    "end_char": 4283
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8:term-usage:4410-4422",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 4410,
+    "end_char": 4422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:9:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:9:term-usage:39-50",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:comisariado",
+    "span": "Comisariado",
+    "start_char": 39,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:9:term-usage:258-269",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:comisariado",
+    "span": "Comisariado",
+    "start_char": 258,
+    "end_char": 269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:9:term-usage:381-393",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 381,
+    "end_char": 393
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:9:term-usage:699-710",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:comisariado",
+    "span": "Comisariado",
+    "start_char": 699,
+    "end_char": 710
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:9:term-usage:735-738",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:ley",
+    "span": "Ley",
+    "start_char": 735,
+    "end_char": 738
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:10:term-usage:153-161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 153,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:11:term-usage:10-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 10,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:11:term-usage:112-120",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 112,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:11:term-usage:243-251",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 243,
+    "end_char": 251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:12:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:12:term-usage:185-196",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:comisariado",
+    "span": "Comisariado",
+    "start_char": 185,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:13:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:13:term-usage:141-149",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 141,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:14:term-usage:55-63",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 55,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:14:term-usage:146-154",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 146,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:15:term-usage:10-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 10,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:15:term-usage:80-88",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 80,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:15:term-usage:147-150",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:ley",
+    "span": "Ley",
+    "start_char": 147,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:15:term-usage:275-283",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 275,
+    "end_char": 283
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:16:term-usage:36-44",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 36,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:16:term-usage:104-116",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 104,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:17:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:17:term-usage:141-152",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:comisariado",
+    "span": "Comisariado",
+    "start_char": 141,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:17:term-usage:898-906",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 898,
+    "end_char": 906
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:18:term-usage:140-152",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 140,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:18:term-usage:168-176",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 168,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:19:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:19:term-usage:66-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:ley",
+    "span": "Ley",
+    "start_char": 66,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:19:term-usage:511-519",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 511,
+    "end_char": 519
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:20:term-usage:132-140",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 132,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:21:term-usage:10-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 10,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:22:term-usage:514-522",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 514,
+    "end_char": 522
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:22:term-usage:564-567",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:ley",
+    "span": "Ley",
+    "start_char": 564,
+    "end_char": 567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:23:term-usage:168-179",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:comisariado",
+    "span": "Comisariado",
+    "start_char": 168,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:23:term-usage:214-222",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 214,
+    "end_char": 222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:23:term-usage:358-366",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 358,
+    "end_char": 366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:23:term-usage:383-394",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:comisariado",
+    "span": "Comisariado",
+    "start_char": 383,
+    "end_char": 394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:23:term-usage:689-697",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 689,
+    "end_char": 697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:23:term-usage:718-728",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 718,
+    "end_char": 728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:24:term-usage:42-50",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 42,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:25:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:25:term-usage:31-39",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 31,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:26:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:26:term-usage:21-29",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 21,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:26:term-usage:148-156",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 148,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:26:term-usage:569-577",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 569,
+    "end_char": 577
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:26:term-usage:798-806",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 798,
+    "end_char": 806
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:26:term-usage:997-1005",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 997,
+    "end_char": 1005
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:26:term-usage:1109-1120",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:comisariado",
+    "span": "Comisariado",
+    "start_char": 1109,
+    "end_char": 1120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:26:term-usage:1162-1165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:ley",
+    "span": "Ley",
+    "start_char": 1162,
+    "end_char": 1165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:27:term-usage:63-71",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 63,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:27:term-usage:76-88",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 76,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:27:term-usage:257-268",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:comisariado",
+    "span": "Comisariado",
+    "start_char": 257,
+    "end_char": 268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:27:term-usage:492-500",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 492,
+    "end_char": 500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:27:term-usage:820-831",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:comisariado",
+    "span": "Comisariado",
+    "start_char": 820,
+    "end_char": 831
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:29:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:30:term-usage:10-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 10,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:31:term-usage:71-79",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 71,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:31:term-usage:473-481",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 473,
+    "end_char": 481
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:32:term-usage:10-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 10,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:32:term-usage:136-148",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 136,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:32:term-usage:299-307",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 299,
+    "end_char": 307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:32:term-usage:475-483",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 475,
+    "end_char": 483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:33:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:33:term-usage:91-99",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 91,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:33:term-usage:450-462",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 450,
+    "end_char": 462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:33:term-usage:494-504",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 494,
+    "end_char": 504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:33:term-usage:573-576",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:ley",
+    "span": "Ley",
+    "start_char": 573,
+    "end_char": 576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:34:term-usage:186-194",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 186,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:34:term-usage:454-462",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 454,
+    "end_char": 462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:35:term-usage:306-314",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 306,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:36:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:36:term-usage:127-135",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 127,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:37:term-usage:37-45",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 37,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:37:term-usage:136-144",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 136,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:38:term-usage:50-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 50,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:38:term-usage:209-218",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asambleas",
+    "start_char": 209,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:39:term-usage:74-82",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 74,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:40:term-usage:6-14",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 6,
+    "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:41:term-usage:133-141",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 133,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:42:term-usage:134-142",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 134,
+    "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:43:term-usage:10-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 10,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:44:term-usage:81-89",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 81,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:45:term-usage:14-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 14,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:47:term-usage:10-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 10,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:47:term-usage:485-493",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 485,
+    "end_char": 493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:48:term-usage:63-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 63,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:48:term-usage:92-100",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 92,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:48:term-usage:312-322",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 312,
+    "end_char": 322
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:48:term-usage:566-574",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 566,
+    "end_char": 574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:48:term-usage:596-604",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 596,
+    "end_char": 604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:49:term-usage:103-111",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 103,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:49:term-usage:160-172",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 160,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:49:term-usage:324-332",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 324,
+    "end_char": 332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:49:term-usage:567-575",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 567,
+    "end_char": 575
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:49:term-usage:622-630",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 622,
+    "end_char": 630
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:49:term-usage:725-733",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 725,
+    "end_char": 733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:50:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:52:term-usage:84-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 84,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:52:term-usage:210-222",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 210,
+    "end_char": 222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:52:term-usage:244-252",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 244,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:53:term-usage:121-129",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 121,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:53:term-usage:1084-1092",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 1084,
+    "end_char": 1092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:54:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:54:term-usage:21-29",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 21,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:55:term-usage:599-607",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 599,
+    "end_char": 607
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:57:term-usage:10-18",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 10,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:57:term-usage:294-302",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 294,
+    "end_char": 302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:58:term-usage:89-97",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 89,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:58:term-usage:264-276",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 264,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:58:term-usage:282-290",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 282,
+    "end_char": 290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:58:term-usage:342-353",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:comisariado",
+    "span": "Comisariado",
+    "start_char": 342,
+    "end_char": 353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:58:term-usage:536-547",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:comisariado",
+    "span": "Comisariado",
+    "start_char": 536,
+    "end_char": 547
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:58:term-usage:562-570",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 562,
+    "end_char": 570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:59:term-usage:27-37",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 27,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:59:term-usage:91-99",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 91,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:60:term-usage:33-42",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asambleas",
+    "start_char": 33,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:60:term-usage:131-139",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 131,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:61:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:61:term-usage:142-150",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 142,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:61:term-usage:178-186",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 178,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:61:term-usage:387-395",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 387,
+    "end_char": 395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:61:term-usage:637-648",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:comisariado",
+    "span": "Comisariado",
+    "start_char": 637,
+    "end_char": 648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:61:term-usage:711-719",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 711,
+    "end_char": 719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:61:term-usage:745-757",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 745,
+    "end_char": 757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:61:term-usage:841-849",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 841,
+    "end_char": 849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:62:term-usage:12-20",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 12,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:62:term-usage:74-82",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 74,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:62:term-usage:224-232",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 224,
+    "end_char": 232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:63:term-usage:34-42",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 34,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:63:term-usage:194-202",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 194,
+    "end_char": 202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:63:term-usage:234-242",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 234,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:64:term-usage:20-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 20,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:64:term-usage:155-163",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 155,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:65:term-usage:148-156",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 148,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:66:term-usage:86-97",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:comisariado",
+    "span": "Comisariado",
+    "start_char": 86,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:66:term-usage:209-217",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:registro",
+    "span": "Registro",
+    "start_char": 209,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:68:term-usage:319-327",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:term:asamblea",
+    "span": "Asamblea",
+    "start_char": 319,
+    "end_char": 327
+  }
+]

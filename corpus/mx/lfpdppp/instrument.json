@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfpdppp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Protección de Datos Personales en Posesión de los Particulares",
+  "short_name": "LFPDPPP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-03-20",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-10-14T07:28:50.861659Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf",
+  "source_sha256": "04d67464e1efc0472040e2ff8012ced52c73ff4fc3573c8e2d3477fd976359c6",
+  "extracted_text_sha256": "3f1307727f04658ec4812cd5d9cbf24b4c94cc2e809777a0b742ab303001109d",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

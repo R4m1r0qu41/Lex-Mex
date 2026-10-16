@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lsniimsp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsniimsp.htm",
+  "retrieved_at": "2026-10-14T07:46:02.604272Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 385697,
+  "etag": "\"5e2a1-6419d05308240\"",
+  "last_modified": "Mon, 20 Oct 2025 20:35:13 GMT",
+  "source_sha256": "e23e37074b34f32fbf2e9b34648ecf8303d8a16cfbb80ae4253d26463992c28c",
+  "extracted_text_sha256": "5aa94734cc3ccdb5f73350122cf2a4c24dd323252059d7f5fdd0d694e0aabe36",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

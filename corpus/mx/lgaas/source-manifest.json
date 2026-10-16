@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgaas",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgaas.htm",
+  "retrieved_at": "2026-10-14T07:30:29.812200Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 602986,
+  "etag": "\"9336a-6185d9b8d0740\"",
+  "last_modified": "Mon, 13 May 2024 22:43:01 GMT",
+  "source_sha256": "56a1bbbaa8d0296def17f9cef3f8e81fa3ff09f2f02fecfd91eb01a847841410",
+  "extracted_text_sha256": "5beae453e73ece56b4b627e0b612dbc1c4ba48ec0f5cddd22e301036783f31cb",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

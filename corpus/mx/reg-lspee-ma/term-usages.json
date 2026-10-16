@@ -1,0 +1,110 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:1:term-usage:96-99",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:term:ley",
+    "span": "Ley",
+    "start_char": 96,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3:term-usage:2245-2253",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:term:servicio",
+    "span": "Servicio",
+    "start_char": 2245,
+    "end_char": 2253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:43:term-usage:140-143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:term:ley",
+    "span": "Ley",
+    "start_char": 140,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:46:term-usage:209-212",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:term:ley",
+    "span": "Ley",
+    "start_char": 209,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:46:term-usage:483-486",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:term:ley",
+    "span": "Ley",
+    "start_char": 483,
+    "end_char": 486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:47:term-usage:74-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:term:ley",
+    "span": "Ley",
+    "start_char": 74,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:48:term-usage:745-748",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:term:ley",
+    "span": "Ley",
+    "start_char": 745,
+    "end_char": 748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:49:term-usage:618-621",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:term:ley",
+    "span": "Ley",
+    "start_char": 618,
+    "end_char": 621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:51:term-usage:260-263",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:term:ley",
+    "span": "Ley",
+    "start_char": 260,
+    "end_char": 263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:51:term-usage:986-989",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:term:ley",
+    "span": "Ley",
+    "start_char": 986,
+    "end_char": 989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:51:term-usage:1078-1081",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:term:ley",
+    "span": "Ley",
+    "start_char": 1078,
+    "end_char": 1081
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:52:term-usage:202-205",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:term:ley",
+    "span": "Ley",
+    "start_char": 202,
+    "end_char": 205
+  }
+]

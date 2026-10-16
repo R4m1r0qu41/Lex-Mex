@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lgpisdme:article:18
+instrument_id: urn:lex-mx:federal:statute:lgpisdme
+instrument: LGPISDME
+name: "Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos"
+provision_type: article
+number: "18"
+aliases: ["LGPISDME — Artículo 18"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPISDME.pdf
+source_sha256: 5d22df1b22454fe1fe5354c0d9d4cec71d1d7ded3549072c340c36cb3ea3a624
+---
+
+> Título TERCERO · Capítulo I
+
+# Artículo 18
+
+Además de las penas señaladas en el artículo [15](articulo-15.md) de la presente [Ley](articulo-7.md), se aumentará la pena de siete a diecisiete años de prisión, cuando en la comisión del delito de extorsión se presente alguna de las circunstancias siguientes: I. Se emplee violencia física; II. Se emplee violencia física o moral para exigir el cobro de un daño, derivado de un hecho de tránsito provocado de manera intencional, independientemente de que se haya o no obtenido el lucro o beneficio derivado de esta acción; III. El sujeto activo utilice violencia física, moral o psicológica para exigir el cobro de un daño ocurrido en algún objeto de su propiedad, derivado de un supuesto accidente cualquiera que este sea, pero provocado de manera intencional, independientemente de que se haya o no obtenido el lucro o beneficio derivado de esta acción; IV. Se realice mediante el uso de una o más armas o instrumentos peligrosos u otro objeto de apariencia, forma o configuración de armas de fuego; V. El agente se ostente por cualquier medio como miembro de algún grupo vinculado a la delincuencia o delincuencia organizada, asociación delictuosa o pandilla, con independencia de que esto sea real o simulado; VI. Se empleé cualquier medio para tratar de impedir que la víctima denuncie la conducta extorsiva; VII. Cuando tenga por objeto o resultado obstaculizar, restringir, impedir, anular o menoscabar el ejercicio del derecho a la libertad de expresión o la defensa de los derechos humanos; VIII. El sujeto activo sea o simule ser empleado de una institución o entidad financiera, de gobierno, o de alguna empresa estatal o privada, con el ánimo de utilizar u obtener los datos personales o financieros de la víctima; IX. Se cometa por persona servidora o exservidora pública de cualquier nivel de gobierno o un elemento que sea miembro o ex miembro de una empresa de seguridad privada; X. El sujeto activo se encuentre privado de su libertad en un centro penitenciario a disposición de cualquier autoridad, independientemente de su situación procesal; XI. Se afecte de manera directa la economía de alguna comunidad; XII. Cuando el beneficio obtenido o que se pretenda obtener del delito de extorsión, provenga del erario; XIII. Cuando se utilicen o empleen personas menores de edad; XIV. Se cometa en contra de cualquier persona servidora pública en razón de su empleo, cargo o comisión público; XV. Cuando intervengan dos o más personas; XVI. El sujeto activo porte vestimentas o instrumentos de identificación, de los utilizados por integrantes de [Instituciones de Seguridad Pública](articulo-7.md), o XVII. Se realice ocasionando daños en las instalaciones de comercios, negocios o bienes en propiedad o posesión de la víctima. A la persona servidora pública que participe en la comisión del delito previsto en el presente Capítulo, además de las penas a que refiere la presente Ley, se le impondrá la destitución del empleo, cargo o comisión públicos, e inhabilitación para desempeñar algún empleo, cargo o comisión públicos hasta por un plazo igual al de la pena de prisión impuesta, la cual comenzará a computarse a partir de que se haya cumplido la pena privativa de libertad. Las penas previstas en el presente Capítulo se impondrán, independientemente de las que correspondan por la comisión de otros delitos.

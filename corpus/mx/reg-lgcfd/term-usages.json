@@ -1,0 +1,821 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:2:term-usage:553-564",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 553,
+    "end_char": 564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:11:term-usage:253-261",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:programa",
+    "span": "Programa",
+    "start_char": 253,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:12:term-usage:338-346",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:programa",
+    "span": "Programa",
+    "start_char": 338,
+    "end_char": 346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:17:term-usage:439-447",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:programa",
+    "span": "Programa",
+    "start_char": 439,
+    "end_char": 447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:17:term-usage:970-978",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:programa",
+    "span": "Programa",
+    "start_char": 970,
+    "end_char": 978
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:18:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:programa",
+    "span": "Programa",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:19:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:programa",
+    "span": "Programa",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:19:term-usage:364-372",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:programa",
+    "span": "Programa",
+    "start_char": 364,
+    "end_char": 372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:19:term-usage:633-644",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 633,
+    "end_char": 644
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:20:term-usage:597-605",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:programa",
+    "span": "Programa",
+    "start_char": 597,
+    "end_char": 605
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:20:term-usage:658-666",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:programa",
+    "span": "Programa",
+    "start_char": 658,
+    "end_char": 666
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:21:term-usage:638-646",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:programa",
+    "span": "Programa",
+    "start_char": 638,
+    "end_char": 646
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:21:term-usage:724-732",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:programa",
+    "span": "Programa",
+    "start_char": 724,
+    "end_char": 732
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:22:term-usage:361-372",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 361,
+    "end_char": 372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:25:term-usage:948-956",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:programa",
+    "span": "Programa",
+    "start_char": 948,
+    "end_char": 956
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:25:term-usage:1855-1863",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:programa",
+    "span": "Programa",
+    "start_char": 1855,
+    "end_char": 1863
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:27:term-usage:267-278",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 267,
+    "end_char": 278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:27:term-usage:354-366",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 354,
+    "end_char": 366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:27:term-usage:456-467",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 456,
+    "end_char": 467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:33:term-usage:379-389",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportista",
+    "start_char": 379,
+    "end_char": 389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:33:term-usage:735-745",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportista",
+    "start_char": 735,
+    "end_char": 745
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:45:term-usage:87-98",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 87,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:45:term-usage:151-162",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 151,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:45:term-usage:517-527",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportista",
+    "start_char": 517,
+    "end_char": 527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:45:term-usage:815-826",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 815,
+    "end_char": 826
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:46:term-usage:306-317",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 306,
+    "end_char": 317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:47:term-usage:206-218",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 206,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:48:term-usage:145-157",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 145,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:49:term-usage:16-27",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 16,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:50:term-usage:195-206",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 195,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:51:term-usage:4-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 4,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:51:term-usage:228-239",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 228,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:53:term-usage:885-895",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportista",
+    "start_char": 885,
+    "end_char": 895
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:53:term-usage:1099-1110",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 1099,
+    "end_char": 1110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:53:term-usage:1696-1707",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 1696,
+    "end_char": 1707
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:54:term-usage:38-49",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 38,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:56:term-usage:589-600",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 589,
+    "end_char": 600
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:57:term-usage:829-840",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 829,
+    "end_char": 840
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78:term-usage:588-599",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 588,
+    "end_char": 599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78:term-usage:602-614",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 602,
+    "end_char": 614
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78:term-usage:1168-1179",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 1168,
+    "end_char": 1179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78:term-usage:1182-1194",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 1182,
+    "end_char": 1194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78:term-usage:1263-1274",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 1263,
+    "end_char": 1274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78:term-usage:1277-1289",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 1277,
+    "end_char": 1289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78:term-usage:1659-1670",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 1659,
+    "end_char": 1670
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78:term-usage:1991-2002",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 1991,
+    "end_char": 2002
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78:term-usage:2005-2017",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 2005,
+    "end_char": 2017
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78:term-usage:2514-2525",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 2514,
+    "end_char": 2525
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78:term-usage:2694-2706",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 2694,
+    "end_char": 2706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78:term-usage:2755-2766",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 2755,
+    "end_char": 2766
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78:term-usage:3220-3231",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 3220,
+    "end_char": 3231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78:term-usage:3234-3246",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 3234,
+    "end_char": 3246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78:term-usage:3743-3753",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportista",
+    "start_char": 3743,
+    "end_char": 3753
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:86:term-usage:829-839",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportista",
+    "start_char": 829,
+    "end_char": 839
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:86:term-usage:841-853",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 841,
+    "end_char": 853
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:86:term-usage:1298-1308",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportista",
+    "start_char": 1298,
+    "end_char": 1308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:86:term-usage:1896-1907",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 1896,
+    "end_char": 1907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:86:term-usage:2908-2918",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportista",
+    "start_char": 2908,
+    "end_char": 2918
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:86:term-usage:2942-2952",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportista",
+    "start_char": 2942,
+    "end_char": 2952
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:88:term-usage:356-367",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:88",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 356,
+    "end_char": 367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:92:term-usage:197-208",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 197,
+    "end_char": 208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:92:term-usage:608-619",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 608,
+    "end_char": 619
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:92:term-usage:876-887",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 876,
+    "end_char": 887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:94:term-usage:823-834",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 823,
+    "end_char": 834
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:94:term-usage:969-979",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportista",
+    "start_char": 969,
+    "end_char": 979
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:94:term-usage:1132-1142",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportista",
+    "start_char": 1132,
+    "end_char": 1142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:96:term-usage:603-614",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:96",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 603,
+    "end_char": 614
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:96:term-usage:616-628",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:96",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 616,
+    "end_char": 628
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:96:term-usage:1090-1101",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:96",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 1090,
+    "end_char": 1101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:96:term-usage:1147-1159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:96",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 1147,
+    "end_char": 1159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:98:term-usage:183-194",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:98",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 183,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:98:term-usage:451-462",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:98",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 451,
+    "end_char": 462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:104:term-usage:182-193",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 182,
+    "end_char": 193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:104:term-usage:675-685",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportista",
+    "start_char": 675,
+    "end_char": 685
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:104:term-usage:787-797",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportista",
+    "start_char": 787,
+    "end_char": 797
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:104:term-usage:823-833",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportista",
+    "start_char": 823,
+    "end_char": 833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:104:term-usage:908-919",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 908,
+    "end_char": 919
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:112:term-usage:169-180",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 169,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:112:term-usage:183-195",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 183,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:112:term-usage:1057-1065",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:programa",
+    "span": "Programa",
+    "start_char": 1057,
+    "end_char": 1065
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:112:term-usage:1349-1357",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:programa",
+    "span": "Programa",
+    "start_char": 1349,
+    "end_char": 1357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:112:term-usage:2540-2551",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 2540,
+    "end_char": 2551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:112:term-usage:3312-3323",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 3312,
+    "end_char": 3323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:112:term-usage:3326-3338",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 3326,
+    "end_char": 3338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:113:term-usage:741-752",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:113",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 741,
+    "end_char": 752
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:121:term-usage:70-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 70,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:121:term-usage:83-95",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 83,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:124:term-usage:97-108",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:124",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 97,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:124:term-usage:110-122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:124",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 110,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:127:term-usage:70-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "span": "Deportistas",
+    "start_char": 70,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:127:term-usage:83-95",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "span": "Entrenadores",
+    "start_char": 83,
+    "end_char": 95
+  }
+]

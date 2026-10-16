@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lsm",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm.htm",
+  "retrieved_at": "2026-10-14T07:45:41.167288Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 480896,
+  "etag": "\"75680-5e094263f0840\"",
+  "last_modified": "Sat, 04 Jun 2022 00:16:25 GMT",
+  "source_sha256": "09cfa3f2c0feead6685bda1dd439f07db0a0d105acc1ef0e6669cf0df82ce3f0",
+  "extracted_text_sha256": "72b953e129e39e49d544cf82b5c7e2481e755ddcb5ab01a655283a76d86d9d00",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

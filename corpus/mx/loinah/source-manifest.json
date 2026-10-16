@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:loinah",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/170_171215.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loinah.htm",
+  "retrieved_at": "2026-10-14T07:40:07.215522Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 313475,
+  "etag": "\"4c883-576a2a97eeb00\"",
+  "last_modified": "Mon, 24 Sep 2018 19:04:44 GMT",
+  "source_sha256": "8704630cb4ee190962763b15185f7f277a2dadb5441080601fe7b685b7f7ae54",
+  "extracted_text_sha256": "d2ec5ab37951acdc8ce52a80b799b4a39dfc243a6dc66be913f031a70d6b1591",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

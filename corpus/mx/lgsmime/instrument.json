@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgsmime",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General del Sistema de Medios de Impugnación en Materia Electoral",
+  "short_name": "LGSMIME",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1996-11-22",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-10-14T07:36:32.401111Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSMIME.pdf",
+  "source_sha256": "fd6621adcf78becb507ef18cdf04d7ea043bf4e55a4f2c31833389c797898fc9",
+  "extracted_text_sha256": "d39b90567e0eb5f55e4baad94e8b50c18c67df5e60350fd25ec45bc25c08b61a",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

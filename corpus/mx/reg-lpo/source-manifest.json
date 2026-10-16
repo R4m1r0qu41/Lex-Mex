@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lpo",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPO.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPO.pdf",
+  "retrieved_at": "2026-10-14T08:03:37.813035Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 374839,
+  "etag": "\"5b837-563b487e8d740\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:09 GMT",
+  "source_sha256": "931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557",
+  "extracted_text_sha256": "7a3d8ab54032c9a8f642f3a68dc8cca7ef29201e4969b41d834afbf1410ea663",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

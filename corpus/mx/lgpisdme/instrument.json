@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgpisdme",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
+  "short_name": "LGPISDME",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-11-28",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:35:21.604391Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPISDME.pdf",
+  "source_sha256": "5d22df1b22454fe1fe5354c0d9d4cec71d1d7ded3549072c340c36cb3ea3a624",
+  "extracted_text_sha256": "93f63f9e533841bbfdcb31912c02351aed5badaf6c51da07e978257d73a5de89",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

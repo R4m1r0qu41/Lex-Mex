@@ -1,0 +1,569 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:3:term-usage:831-845",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:discriminacion",
+    "span": "Discriminación",
+    "start_char": 831,
+    "end_char": 845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:4:term-usage:147-161",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:discriminacion",
+    "span": "Discriminación",
+    "start_char": 147,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:5:term-usage:4377-4396",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-sustantiva",
+    "span": "Igualdad Sustantiva",
+    "start_char": 4377,
+    "end_char": 4396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:5:term-usage:4550-4569",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-sustantiva",
+    "span": "Igualdad Sustantiva",
+    "start_char": 4550,
+    "end_char": 4569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:5:term-usage:4742-4761",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-sustantiva",
+    "span": "Igualdad Sustantiva",
+    "start_char": 4742,
+    "end_char": 4761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:8:term-usage:195-211",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 195,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:9:term-usage:658-674",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 658,
+    "end_char": 674
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:12:term-usage:49-66",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 49,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:12:term-usage:119-136",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 119,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:12:term-usage:275-292",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 275,
+    "end_char": 292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:12:term-usage:461-478",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 461,
+    "end_char": 478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:12:term-usage:958-975",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 958,
+    "end_char": 975
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:17:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:17:term-usage:294-311",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 294,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:18:term-usage:23-40",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 23,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:18:term-usage:55-74",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-sustantiva",
+    "span": "Igualdad Sustantiva",
+    "start_char": 55,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:18:term-usage:123-139",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 123,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:18:term-usage:148-167",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-sustantiva",
+    "span": "Igualdad Sustantiva",
+    "start_char": 148,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:18:term-usage:198-215",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 198,
+    "end_char": 215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:18:term-usage:250-269",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-sustantiva",
+    "span": "Igualdad Sustantiva",
+    "start_char": 250,
+    "end_char": 269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:18:term-usage:332-351",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-sustantiva",
+    "span": "Igualdad Sustantiva",
+    "start_char": 332,
+    "end_char": 351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:21:term-usage:225-241",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 225,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:22:term-usage:212-229",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 212,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:23:term-usage:3-19",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 3,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24:term-usage:113-129",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 113,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-bis:term-usage:3-19",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 3,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-bis:term-usage:214-230",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 214,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-bis:term-usage:693-709",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 693,
+    "end_char": 709
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-bis:term-usage:919-933",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:discriminacion",
+    "span": "Discriminación",
+    "start_char": 919,
+    "end_char": 933
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-bis:term-usage:1230-1249",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-sustantiva",
+    "span": "Igualdad Sustantiva",
+    "start_char": 1230,
+    "end_char": 1249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-bis:term-usage:1433-1449",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1433,
+    "end_char": 1449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-bis:term-usage:1759-1775",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1759,
+    "end_char": 1775
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-ter:term-usage:95-112",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-ter",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 95,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-ter:term-usage:159-175",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-ter",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 159,
+    "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-ter:term-usage:524-542",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-ter",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-de-genero",
+    "span": "Igualdad de Género",
+    "start_char": 524,
+    "end_char": 542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-ter:term-usage:625-643",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-ter",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-de-genero",
+    "span": "Igualdad de Género",
+    "start_char": 625,
+    "end_char": 643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-ter:term-usage:935-951",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-ter",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 935,
+    "end_char": 951
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-ter:term-usage:1378-1394",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-ter",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1378,
+    "end_char": 1394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-ter:term-usage:1516-1532",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-ter",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1516,
+    "end_char": 1532
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-quater:term-usage:79-95",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-quater",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 79,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:24-quater:term-usage:233-250",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:24-quater",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 233,
+    "end_char": 250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:25:term-usage:155-172",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 155,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:25:term-usage:1465-1481",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1465,
+    "end_char": 1481
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:26:term-usage:3-19",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 3,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:27:term-usage:323-339",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 323,
+    "end_char": 339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:27:term-usage:558-574",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 558,
+    "end_char": 574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:29:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:29:term-usage:55-74",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-sustantiva",
+    "span": "Igualdad Sustantiva",
+    "start_char": 55,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:29:term-usage:554-571",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 554,
+    "end_char": 571
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:29:term-usage:966-983",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 966,
+    "end_char": 983
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:30:term-usage:71-88",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 71,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:32:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:32:term-usage:87-104",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 87,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:32:term-usage:130-146",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 130,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:33:term-usage:20-37",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 20,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:34:term-usage:3443-3457",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:discriminacion",
+    "span": "Discriminación",
+    "start_char": 3443,
+    "end_char": 3457
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:35:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:37:term-usage:124-141",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 124,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:39:term-usage:105-122",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 105,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:41:term-usage:20-37",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 20,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:44:term-usage:39-55",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 39,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:44:term-usage:218-235",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 218,
+    "end_char": 235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:article:46:term-usage:188-205",
+    "provision_id": "urn:lex-mx:federal:statute:lgimh:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 188,
+    "end_char": 205
+  }
+]

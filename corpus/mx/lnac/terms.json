@@ -1,0 +1,46 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnac:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lnac",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnac:article:2",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 102,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnac:term:certificado-de-nacionalidad-mexicana",
+    "term": "Certificado de nacionalidad mexicana",
+    "instrument_id": "urn:lex-mx:federal:statute:lnac",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnac:article:2",
+    "fraction": "II",
+    "start_char": 102,
+    "end_char": 274,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnac:term:carta-de-naturalizacion",
+    "term": "Carta de naturalización",
+    "instrument_id": "urn:lex-mx:federal:statute:lnac",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnac:article:2",
+    "fraction": "III",
+    "start_char": 274,
+    "end_char": 415,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnac:term:extranjero",
+    "term": "Extranjero",
+    "instrument_id": "urn:lex-mx:federal:statute:lnac",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnac:article:2",
+    "fraction": "IV",
+    "start_char": 415,
+    "end_char": 475,
+    "basis": "express_definition"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgappcea",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista",
+  "short_name": "REG-LGAPPCEA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2016-07-21",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:55:36.902116Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAPPCEA.pdf",
+  "source_sha256": "066103556290f57dca17504bd178aeb645dff97b3a5e05bf4925e9353204e064",
+  "extracted_text_sha256": "068cd0212c12758c4249a07a066302bb46a83dccd8ec332ed6f515fd7bb39997",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

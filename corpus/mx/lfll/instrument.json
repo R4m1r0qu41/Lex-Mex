@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfll",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Fomento para la Lectura y el Libro",
+  "short_name": "LFLL",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2008-07-24",
+  "latest_reform_date": "2023-11-29",
+  "retrieved_at": "2026-10-14T07:28:07.679210Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFLL.pdf",
+  "source_sha256": "1e1d42f23bc87d8b6c3d094e5b49b4a1cf14cb984956590f7d0b708485fef3fd",
+  "extracted_text_sha256": "2a8296a557d0ccaaa09e0383a57b448a0454cbfa2e72a37a036858210ee7f8eb",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

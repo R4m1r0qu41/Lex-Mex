@@ -1,0 +1,167 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lges:term:ajustes-razonables",
+    "term": "Ajustes razonables",
+    "instrument_id": "urn:lex-mx:federal:statute:lges",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lges:article:6",
+    "fraction": "I",
+    "start_char": 52,
+    "end_char": 402,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lges:term:autoridad-educativa-federal-o-secretaria",
+    "term": "Autoridad educativa federal o Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lges",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lges:article:6",
+    "fraction": "II",
+    "start_char": 402,
+    "end_char": 524,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lges:term:autoridad-educativa-de-las-entidades-federativas",
+    "term": "Autoridad educativa de las entidades federativas",
+    "instrument_id": "urn:lex-mx:federal:statute:lges",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lges:article:6",
+    "fraction": "III",
+    "start_char": 524,
+    "end_char": 740,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lges:term:autoridad-educativa-municipal",
+    "term": "Autoridad educativa municipal",
+    "instrument_id": "urn:lex-mx:federal:statute:lges",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lges:article:6",
+    "fraction": "IV",
+    "start_char": 740,
+    "end_char": 811,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lges:term:autorizacion",
+    "term": "Autorización",
+    "instrument_id": "urn:lex-mx:federal:statute:lges",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lges:article:6",
+    "fraction": "V",
+    "start_char": 811,
+    "end_char": 1050,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lges:term:estado",
+    "term": "Estado",
+    "instrument_id": "urn:lex-mx:federal:statute:lges",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lges:article:6",
+    "fraction": "VI",
+    "start_char": 1050,
+    "end_char": 1124,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lges:term:fondo",
+    "term": "Fondo",
+    "instrument_id": "urn:lex-mx:federal:statute:lges",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lges:article:6",
+    "fraction": "VII",
+    "start_char": 1124,
+    "end_char": 1223,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lges:term:gratuidad",
+    "term": "Gratuidad",
+    "instrument_id": "urn:lex-mx:federal:statute:lges",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lges:article:6",
+    "fraction": "VIII",
+    "start_char": 1223,
+    "end_char": 1707,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lges:term:instituciones-publicas-de-educacion-superior-con-autonomia-constitucional-y-legal",
+    "term": "Instituciones públicas de educación superior con autonomía constitucional y legal",
+    "instrument_id": "urn:lex-mx:federal:statute:lges",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lges:article:6",
+    "fraction": "IX",
+    "start_char": 1707,
+    "end_char": 2098,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lges:term:instituciones-publicas-de-educacion-superior",
+    "term": "Instituciones públicas de educación superior",
+    "instrument_id": "urn:lex-mx:federal:statute:lges",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lges:article:6",
+    "fraction": "X",
+    "start_char": 2098,
+    "end_char": 2461,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lges:term:instituciones-particulares-de-educacion-superior",
+    "term": "Instituciones particulares de educación superior",
+    "instrument_id": "urn:lex-mx:federal:statute:lges",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lges:article:6",
+    "fraction": "XI",
+    "start_char": 2461,
+    "end_char": 2691,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lges:term:obligatoriedad",
+    "term": "Obligatoriedad",
+    "instrument_id": "urn:lex-mx:federal:statute:lges",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lges:article:6",
+    "fraction": "XII",
+    "start_char": 2691,
+    "end_char": 2892,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lges:term:reconocimiento-de-validez-oficial-de-estudios",
+    "term": "Reconocimiento de validez oficial de estudios",
+    "instrument_id": "urn:lex-mx:federal:statute:lges",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lges:article:6",
+    "fraction": "XIII",
+    "start_char": 2892,
+    "end_char": 3275,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lges:term:servicio-social",
+    "term": "Servicio social",
+    "instrument_id": "urn:lex-mx:federal:statute:lges",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lges:article:6",
+    "fraction": "XIV",
+    "start_char": 3275,
+    "end_char": 3533,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lges:term:sistema-de-evaluacion-y-acreditacion-de-la-educacion-superior",
+    "term": "Sistema de evaluación y acreditación de la educación superior",
+    "instrument_id": "urn:lex-mx:federal:statute:lges",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lges:article:6",
+    "fraction": "XV",
+    "start_char": 3533,
+    "end_char": 3829,
+    "basis": "express_definition"
+  }
+]

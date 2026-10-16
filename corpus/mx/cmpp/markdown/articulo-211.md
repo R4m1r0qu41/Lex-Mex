@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:code:cmpp:article:211
+instrument_id: urn:lex-mx:federal:code:cmpp
+instrument: CMPP
+name: "Código Militar de Procedimientos Penales"
+provision_type: article
+number: "211"
+aliases: ["CMPP — Artículo 211"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP.pdf
+source_sha256: 351c69a7bc3f61976933d76e45cf185a721a331a145778dd3f315df5216a5e32
+---
+
+> Título III · Capítulo I
+
+# Artículo 211
+
+Principios que rigen a las autoridades de la investigación Las autoridades encargadas de desarrollar la investigación de los delitos se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, lealtad y respeto a los derechos humanos reconocidos en la [Constitución](articulo-3.md) y en los [Tratados](articulo-3.md).

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfm",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal del Mar",
+  "short_name": "LFM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1986-01-08",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:28:14.944123Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/124.pdf",
+  "source_sha256": "8d9eac4d6509cf79f1755895a3e93d6268d423ab101ab08c6fd734f55a5a7818",
+  "extracted_text_sha256": "1cd9d174e7d83e3214fc9a4620ee0c4ebd41556dd494f38c25a97528397cd81a",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

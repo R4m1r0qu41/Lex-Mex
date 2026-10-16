@@ -1,0 +1,17 @@
+{
+  "slug": "lgb",
+  "instrument_id": "urn:lex-mx:federal:statute:lgb",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley General de Bibliotecas",
+  "short_name": "LGB",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGB.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgb.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

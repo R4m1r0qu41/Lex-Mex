@@ -1,0 +1,17 @@
+{
+  "slug": "reg-lgdnna",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgdnna",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley General de los Derechos de Niñas, Niños y Adolescentes",
+  "short_name": "REG-LGDNNA",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDNNA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDNNA.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

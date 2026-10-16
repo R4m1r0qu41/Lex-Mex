@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lemefam",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional",
+  "short_name": "LEMEFAM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2005-12-23",
+  "latest_reform_date": "2025-07-16",
+  "retrieved_at": "2026-10-14T07:25:15.302268Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEMEFAGN.pdf",
+  "source_sha256": "ad4c6635514637c1f3a27c11314083f86c965f3a68273e862c8dfe306c80483a",
+  "extracted_text_sha256": "216879d7e0c93060a2e3dfba1c33c1d30fea34c0fd566b9c67807696610ec91e",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

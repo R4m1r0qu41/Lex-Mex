@@ -1,0 +1,68 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-len:term:adiestramiento",
+    "term": "Adiestramiento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-len",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-len:article:4",
+    "fraction": "I",
+    "start_char": 139,
+    "end_char": 452,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-len:term:capacitacion",
+    "term": "Capacitación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-len",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-len:article:4",
+    "fraction": "II",
+    "start_char": 452,
+    "end_char": 770,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-len:term:decreto",
+    "term": "Decreto",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-len",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-len:article:4",
+    "fraction": "III",
+    "start_char": 770,
+    "end_char": 962,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-len:term:educacion-media-superior",
+    "term": "Educación Media Superior",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-len",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-len:article:4",
+    "fraction": "IV",
+    "start_char": 962,
+    "end_char": 1069,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-len:term:educacion-superior",
+    "term": "Educación Superior",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-len",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-len:article:4",
+    "fraction": "V",
+    "start_char": 1069,
+    "end_char": 1257,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-len:term:modelo-educativo",
+    "term": "Modelo Educativo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-len",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-len:article:4",
+    "fraction": "VI",
+    "start_char": 1257,
+    "end_char": 1612,
+    "basis": "express_definition"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley del Servicio Público de Energía Eléctrica, en Materia de Aportaciones",
+  "short_name": "REG-LSPEE-MA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1998-11-10",
+  "latest_reform_date": "2011-12-16",
+  "retrieved_at": "2026-10-14T08:07:02.590042Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPEE_MA.pdf",
+  "source_sha256": "21f5fb89e9734e1e27efae30d14611253f29dda506024e431a063b8ec93741b2",
+  "extracted_text_sha256": "ff17fcf9ba8bc22a00662b52f656bbbb29499036a58ae472d25b6347c92885a1",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,303 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:1:reference:221-222:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:1",
+    "source_span": "1",
+    "start_char": 221,
+    "end_char": 222,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:1:reference:3392-3393:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:1",
+    "source_span": "1",
+    "start_char": 3392,
+    "end_char": 3393,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfped",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfped:article:1",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 3366,
+        "end_char": 3378
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:15-quintus:reference:296-298:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:15-quintus",
+    "source_span": "15",
+    "start_char": 296,
+    "end_char": 298,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfped",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfped:article:15",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:15-quintus:reference:1030-1032:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:15-quintus",
+    "source_span": "15",
+    "start_char": 1030,
+    "end_char": 1032,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfped",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfped:article:15",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:15-quintus:reference:1568-1569:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:15-quintus",
+    "source_span": "5",
+    "start_char": 1568,
+    "end_char": 1569,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfped",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfped:article:5",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:15-quintus:reference:1636-1638:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:15-quintus",
+    "source_span": "15",
+    "start_char": 1636,
+    "end_char": 1638,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfped",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfped:article:15",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:15-quintus:reference:2335-2337:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:15-quintus",
+    "source_span": "15",
+    "start_char": 2335,
+    "end_char": 2337,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfped",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfped:article:15",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:4:reference:233-234:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:4",
+    "source_span": "1",
+    "start_char": 233,
+    "end_char": 234,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfped",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfped:article:1",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 236,
+        "end_char": 251
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 253,
+        "end_char": 265
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:42:reference:141-144:123:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:42",
+    "source_span": "123",
+    "start_char": 141,
+    "end_char": 144,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:123",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:63-quintus:reference:458-460:63:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:63-quintus",
+    "source_span": "63",
+    "start_char": 458,
+    "end_char": 460,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfped",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfped:article:63",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:63-quintus:reference:885-887:63:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:63-quintus",
+    "source_span": "63",
+    "start_char": 885,
+    "end_char": 887,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfped",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfped:article:63",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:63-quintus:reference:1474-1476:63:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:63-quintus",
+    "source_span": "63",
+    "start_char": 1474,
+    "end_char": 1476,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfped",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfped:article:63",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:7:reference:21-38:6:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:7",
+    "source_span": "artículo anterior",
+    "start_char": 21,
+    "end_char": 38,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfped",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfped:article:6",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:87:reference:117-119:83:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:87",
+    "source_span": "83",
+    "start_char": 117,
+    "end_char": 119,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfped",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfped:article:83",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:87:reference:122-128:83-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:87",
+    "source_span": "83 Bis",
+    "start_char": 122,
+    "end_char": 128,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfped",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfped:article:83-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:9:reference:79-80:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:9",
+    "source_span": "1",
+    "start_char": 79,
+    "end_char": 80,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfped",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfped:article:1",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 82,
+        "end_char": 97
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 99,
+        "end_char": 111
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfped:article:9:reference:7297-7298:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfped:article:9",
+    "source_span": "1",
+    "start_char": 7297,
+    "end_char": 7298,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfped",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfped:article:1",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 7300,
+        "end_char": 7315
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 7317,
+        "end_char": 7329
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

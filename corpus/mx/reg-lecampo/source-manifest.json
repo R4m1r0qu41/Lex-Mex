@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lecampo",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LECampo.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LECampo.pdf",
+  "retrieved_at": "2026-10-14T07:50:31.308394Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 157957,
+  "etag": "\"26905-563b487ca52c0\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:07 GMT",
+  "source_sha256": "8804184956ffcb703bb0a96aa95542e971c0b1e257c9c689db82f566d4bded4c",
+  "extracted_text_sha256": "86ccf3cc3cb651295d794eabfbe8e424aafef28880c4e9240ce35e0a1b5bce60",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

@@ -1,0 +1,233 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "I",
+    "start_char": 55,
+    "end_char": 170,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:programa",
+    "term": "Programa",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "II",
+    "start_char": 170,
+    "end_char": 321,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:sistema-nacional",
+    "term": "Sistema Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "III",
+    "start_char": 321,
+    "end_char": 485,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:violencia-y/o-violencias-contra-las-mujeres",
+    "term": "Violencia y/o violencias contra las Mujeres",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "IV",
+    "start_char": 485,
+    "end_char": 807,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:modalidades-de-las-violencias",
+    "term": "Modalidades de las violencias",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "V",
+    "start_char": 807,
+    "end_char": 987,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:victima",
+    "term": "Víctima",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "VI",
+    "start_char": 987,
+    "end_char": 1079,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:agresor",
+    "term": "Agresor",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "VII",
+    "start_char": 1079,
+    "end_char": 1165,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:derechos-humanos-de-las-mujeres",
+    "term": "Derechos Humanos de las Mujeres",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "VIII",
+    "start_char": 1165,
+    "end_char": 1738,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:perspectiva-de-genero",
+    "term": "Perspectiva de Género",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "IX",
+    "start_char": 1738,
+    "end_char": 2398,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:empoderamiento-de-las-mujeres",
+    "term": "Empoderamiento de las Mujeres",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "X",
+    "start_char": 2398,
+    "end_char": 2796,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:misoginia",
+    "term": "Misoginia",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "XI",
+    "start_char": 2796,
+    "end_char": 2998,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:muertes-evitables",
+    "term": "Muertes evitables",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "XII",
+    "start_char": 2998,
+    "end_char": 3231,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:interseccionalidad",
+    "term": "Interseccionalidad",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "XIII",
+    "start_char": 3231,
+    "end_char": 3664,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:interculturalidad",
+    "term": "Interculturalidad",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "XIV",
+    "start_char": 3664,
+    "end_char": 4194,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:enfoque-diferencial",
+    "term": "Enfoque diferencial",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "XV",
+    "start_char": 4194,
+    "end_char": 4724,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:debida-diligencia",
+    "term": "Debida diligencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "XVI",
+    "start_char": 4724,
+    "end_char": 5187,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:centros-de-justicia-para-las-mujeres",
+    "term": "Centros de Justicia para las Mujeres",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "XVII",
+    "start_char": 5187,
+    "end_char": 5746,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:espacio-publico",
+    "term": "Espacio Público",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "XVIII",
+    "start_char": 5746,
+    "end_char": 5968,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:registro-nacional",
+    "term": "Registro Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "XIX",
+    "start_char": 5968,
+    "end_char": 6129,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:medidas-u-ordenes-de-proteccion",
+    "term": "Medidas u Órdenes de Protección",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "XX",
+    "start_char": 6129,
+    "end_char": 6347,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:term:deberes-reforzados-de-proteccion-del-estado-hacia-mujeres,-adolescentes,-ninas-y-ninos",
+    "term": "Deberes reforzados de protección del Estado hacia mujeres, adolescentes, niñas y niños",
+    "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:5",
+    "fraction": "XXI",
+    "start_char": 6347,
+    "end_char": 7007,
+    "basis": "express_definition"
+  }
+]

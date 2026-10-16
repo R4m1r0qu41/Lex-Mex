@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgt",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Turismo",
+  "short_name": "LGT",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2009-06-17",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-10-14T07:36:44.341984Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGT.pdf",
+  "source_sha256": "266023204bad762583d7837b0359d869c41704fcaff52b9da6bb67071cee0ef3",
+  "extracted_text_sha256": "aba74953613cda577462064885144f74a1b82d2e5d66ba43091d4531fbd31557",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

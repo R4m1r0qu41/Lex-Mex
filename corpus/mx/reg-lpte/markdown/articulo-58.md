@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lpte:article:58
+instrument_id: urn:lex-mx:federal:regulation:reg-lpte
+instrument: REG-LPTE
+name: "Reglamento de la Ley de Planeación y Transición Energética"
+provision_type: article
+number: "58"
+aliases: ["REG-LPTE — Artículo 58"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPTE.pdf
+source_sha256: 716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed
+---
+
+> Título CUARTO · Capítulo Único
+
+# Artículo 58
+
+La planeación vinculante del Sector Hidrocarburos se debe desarrollar de conformidad con lo establecido en la Ley, la LSH y el procedimiento siguiente: I. La Secretaría debe iniciar y coordinar el ciclo anual de la planeación a través de las sesiones del Consejo y el establecimiento o ratificación de sus Comités, para ello, debe considerar como el inicio de dicho ciclo el mes de junio del año inmediato anterior; II. Los gestores independientes de sistemas integrados, el CENAGAS y PEMEX, en el ámbito de sus competencias, deben presentar a la Secretaría lo siguiente: a) En su caso, los gestores independientes de sistemas integrados deben presentar la propuesta del Plan Quinquenal de Expansión y Optimización de la Infraestructura que corresponda; b) El CENAGAS, la propuesta del Plan Quinquenal de Expansión del SISTRANGAS; c) PEMEX, la propuesta del PROPEMEX o de sus respectivas actualizaciones, y d) En su caso, PEMEX, la propuesta del PSPEMEX; III. En términos de lo previsto en el artículo 168 del reglamento de la LSH, la Secretaría puede solicitar la opinión técnica de la CNE respecto del Plan Quinquenal de Expansión del SISTRANGAS o del Plan Quinquenal de Expansión y Optimización de Infraestructura; IV. La Secretaría debe remitir al Consejo los proyectos de planes y el programa a que se refiere la fracción II del presente artículo, a efecto de que este, con base en las opiniones especializadas que, en su caso emitan los Comités, formule su opinión respecto de los referidos planes y el programa; V. El Consejo, con base en los insumos proporcionados por los Comités, debe emitir su opinión y recomendaciones a la Secretaría; VI. Con base en las opiniones técnicas de la CNE y del Consejo, la Secretaría puede solicitar a los gestores independientes de sistemas integrados, al CENAGAS y a PEMEX los ajustes a las propuestas de los planes y el programa al que se refiere la fracción II del presente artículo; VII. La Secretaría aprobará el Plan Quinquenal de Expansión del SISTRANGAS y en su caso, emitirá el Plan Quinquenal de Expansión y Optimización de la Infraestructura; VIII. La Secretaría, previa opinión del Consejo, debe publicar el PLADESHi; IX. La Secretaría, a través del Consejo, debe dar seguimiento a la ejecución de los proyectos para el desarrollo y modernización del sector hidrocarburos; X. La Secretaría y la CNE en el ejercicio de sus atribuciones para otorgar Asignaciones, Contratos, permisos y Autorizaciones deben considerar los proyectos a desarrollar por PEMEX, el CENAGAS o cualquier otra entidad pública incluidos en el PLADESHi, así como los requerimientos de capacidad o infraestructura que deba desarrollarse a través de la inversión privada a que se refiere el artículo [50](articulo-50.md) de este Reglamento, y XI. La Secretaría, a través del Consejo, debe dar seguimiento al desarrollo de los proyectos contenidos en el PLADESHi hasta su entrada en operación. Las propuestas referidas en la fracción II de este artículo deben presentarse de acuerdo con el plan anual de trabajo del Consejo, y en los plazos y términos previstos en la LSH, la Ley de la Empresa Pública del Estado, Petróleos Mexicanos, y demás normatividad aplicable. La Secretaría, previa opinión del Consejo, puede incluir, retirar o reincorporar proyectos en el Plan Quinquenal de Expansión y Optimización de la Infraestructura, Plan Quinquenal de Expansión del SISTRANGAS, PROPEMEX y PSPEMEX. Dichos ajustes deben incluirse como parte de las actualizaciones del PLADESHi.

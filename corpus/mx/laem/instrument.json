@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:laem",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley que crea la Agencia Espacial Mexicana",
+  "short_name": "LAEM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2010-07-30",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:21:34.631342Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf",
+  "source_sha256": "b007340fd742c125439e4f037c7aae09f2fe9e55f88a9f194079e0daebfc1dca",
+  "extracted_text_sha256": "a9fa0be93e6380f3c6cca70acf30cc7b6d106e9a84581054f5d671180f1886d0",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

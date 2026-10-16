@@ -1,0 +1,68 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:term:agente-tecnico",
+    "term": "Agente Técnico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lecampo",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:2",
+    "fraction": "I",
+    "start_char": 173,
+    "end_char": 323,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:term:padron",
+    "term": "Padrón",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lecampo",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:2",
+    "fraction": "II",
+    "start_char": 323,
+    "end_char": 390,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lecampo",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:2",
+    "fraction": "III",
+    "start_char": 390,
+    "end_char": 458,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lecampo",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:2",
+    "fraction": "IV",
+    "start_char": 458,
+    "end_char": 553,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:term:sujetos-productivos",
+    "term": "Sujetos Productivos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lecampo",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:2",
+    "fraction": "V",
+    "start_char": 553,
+    "end_char": 793,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:term:unidad-de-produccion",
+    "term": "Unidad de producción",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lecampo",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:2",
+    "fraction": "VI",
+    "start_char": 793,
+    "end_char": 955,
+    "basis": "express_definition"
+  }
+]

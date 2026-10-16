@@ -1,0 +1,188 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpo:article:10:reference:247-248:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:10",
+    "source_span": "7",
+    "start_char": 247,
+    "end_char": 248,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpo",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:7",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y III",
+        "start_char": 250,
+        "end_char": 268
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpo:article:43:reference:508-510:18:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:43",
+    "source_span": "18",
+    "start_char": 508,
+    "end_char": 510,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpo",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:18",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 512,
+        "end_char": 523
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b",
+        "start_char": 525,
+        "end_char": 533
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpo:article:45:reference:758-760:18:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:45",
+    "source_span": "18",
+    "start_char": 758,
+    "end_char": 760,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpo",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:18",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 762,
+        "end_char": 773
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b",
+        "start_char": 775,
+        "end_char": 783
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpo:article:47:reference:300-302:18:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:47",
+    "source_span": "18",
+    "start_char": 300,
+    "end_char": 302,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpo",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:18",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 304,
+        "end_char": 315
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b",
+        "start_char": 317,
+        "end_char": 325
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpo:article:70:reference:656-658:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:70",
+    "source_span": "16",
+    "start_char": 656,
+    "end_char": 658,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpo",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:16",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpo:article:9:reference:91-92:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:9",
+    "source_span": "7",
+    "start_char": 91,
+    "end_char": 92,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpo",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:7",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y III",
+        "start_char": 59,
+        "end_char": 77
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpo:transitory:quinto:reference:185-187:18:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:transitory:quinto",
+    "source_span": "18",
+    "start_char": 185,
+    "end_char": 187,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpo",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:18",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 189,
+        "end_char": 200
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b",
+        "start_char": 202,
+        "end_char": 210
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpo:transitory:sexto:reference:174-176:42:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:transitory:sexto",
+    "source_span": "42",
+    "start_char": 174,
+    "end_char": 176,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lpo",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lpo:article:42",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

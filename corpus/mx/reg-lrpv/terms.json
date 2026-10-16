@@ -1,0 +1,46 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lrpv",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:2",
+    "fraction": "I",
+    "start_char": 152,
+    "end_char": 200,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:term:numero-de-identificacion-vehicular",
+    "term": "Número de Identificación Vehicular",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lrpv",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:2",
+    "fraction": "II",
+    "start_char": 200,
+    "end_char": 405,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:term:numero-de-serie",
+    "term": "Número de Serie",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lrpv",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:2",
+    "fraction": "III",
+    "start_char": 405,
+    "end_char": 594,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lrpv",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:2",
+    "fraction": "IV",
+    "start_char": 594,
+    "end_char": 665,
+    "basis": "express_definition"
+  }
+]

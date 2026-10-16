@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgv",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Víctimas",
+  "short_name": "LGV",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2013-01-09",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-10-14T07:37:08.337104Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf",
+  "source_sha256": "a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8",
+  "extracted_text_sha256": "80ff468525e1f9072a2a08a65f0299f3d5ef317aaa37ac0973091bf6c7383888",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfppipp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal",
+  "short_name": "LFPPIPP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2012-06-08",
+  "latest_reform_date": "2021-05-20",
+  "retrieved_at": "2026-10-14T07:29:15.724271Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPIPP_200521.pdf",
+  "source_sha256": "2a105e5201b86ff5517ca1ef8d971224ea8c717f195fdd5fa28b916c7e622e56",
+  "extracted_text_sha256": "3c8efdf5d2db6c2c48268451a70793a2dc2f18d0eb82013ff12ade0947a427fd",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

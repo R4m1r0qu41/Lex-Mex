@@ -1,0 +1,79 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:3",
+    "fraction": "II",
+    "start_char": 98,
+    "end_char": 161,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:3",
+    "fraction": "III",
+    "start_char": 161,
+    "end_char": 209,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:3",
+    "fraction": "IV",
+    "start_char": 209,
+    "end_char": 257,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:term:instituto",
+    "term": "Instituto",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:3",
+    "fraction": "V",
+    "start_char": 257,
+    "end_char": 308,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:term:secretario",
+    "term": "Secretario",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:3",
+    "fraction": "VI",
+    "start_char": 308,
+    "end_char": 355,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:term:subsecretario",
+    "term": "Subsecretario",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:3",
+    "fraction": "VII",
+    "start_char": 355,
+    "end_char": 436,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:term:comisionado",
+    "term": "Comisionado",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:3",
+    "fraction": "VIII",
+    "start_char": 436,
+    "end_char": 631,
+    "basis": "express_definition"
+  }
+]

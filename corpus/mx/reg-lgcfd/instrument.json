@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgcfd",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de Cultura Física y Deporte",
+  "short_name": "REG-LGCFD",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-05-23",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-10-14T07:56:02.544746Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCFD.pdf",
+  "source_sha256": "86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c",
+  "extracted_text_sha256": "3e5f5a60f2f59be18312e31a36a4ea3f3fe5363a6f5e804d299382de336c85cd",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

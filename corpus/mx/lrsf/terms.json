@@ -1,0 +1,134 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "term": "Agencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 1629,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:derecho-de-arrastre",
+    "term": "Derecho de arrastre",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "II",
+    "start_char": 1629,
+    "end_char": 2008,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:derecho-de-paso",
+    "term": "Derecho de paso",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "III",
+    "start_char": 2008,
+    "end_char": 2336,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:derecho-de-via",
+    "term": "Derecho de vía",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "IV",
+    "start_char": 2336,
+    "end_char": 2657,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:equipo-ferroviario",
+    "term": "Equipo ferroviario",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "V",
+    "start_char": 2657,
+    "end_char": 2799,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:interconexion",
+    "term": "Interconexión",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "VII",
+    "start_char": 2875,
+    "end_char": 3474,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "VIII",
+    "start_char": 3474,
+    "end_char": 3958,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:sistema-ferroviario",
+    "term": "Sistema ferroviario",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "IX",
+    "start_char": 3958,
+    "end_char": 4140,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:servicio-publico-de-transporte-ferroviario-de-carga",
+    "term": "Servicio público de transporte ferroviario de carga",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "X",
+    "start_char": 4140,
+    "end_char": 4355,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:servicio-publico-de-transporte-ferroviario-de-pasajeros",
+    "term": "Servicio público de transporte ferroviario de pasajeros",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "XI",
+    "start_char": 4355,
+    "end_char": 5139,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:terminal",
+    "term": "Terminal",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "XII",
+    "start_char": 5139,
+    "end_char": 5545,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:term:vias-ferreas",
+    "term": "Vías férreas",
+    "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "fraction": "XIII",
+    "start_char": 5545,
+    "end_char": 5755,
+    "basis": "express_definition"
+  }
+]

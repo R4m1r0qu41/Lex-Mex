@@ -1,0 +1,222 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:aviso-de-privacidad",
+    "term": "Aviso de Privacidad",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 417,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:bases-de-datos",
+    "term": "Bases de datos",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "II",
+    "start_char": 417,
+    "end_char": 691,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:bloqueo",
+    "term": "Bloqueo",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "III",
+    "start_char": 691,
+    "end_char": 1143,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:consentimiento",
+    "term": "Consentimiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "IV",
+    "start_char": 1143,
+    "end_char": 1316,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:datos-personales",
+    "term": "Datos personales",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "V",
+    "start_char": 1316,
+    "end_char": 1562,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:datos-personales-sensibles",
+    "term": "Datos personales sensibles",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "VI",
+    "start_char": 1562,
+    "end_char": 2065,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:derechos-arco",
+    "term": "Derechos ARCO",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "VII",
+    "start_char": 2065,
+    "end_char": 2181,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:dias",
+    "term": "Días",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "VIII",
+    "start_char": 2181,
+    "end_char": 2208,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:disociacion",
+    "term": "Disociación",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "IX",
+    "start_char": 2208,
+    "end_char": 2418,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:fuente-de-acceso-publico",
+    "term": "Fuente de acceso público",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "X",
+    "start_char": 2418,
+    "end_char": 2943,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "XI",
+    "start_char": 2943,
+    "end_char": 3031,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:persona-encargada",
+    "term": "Persona encargada",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "XII",
+    "start_char": 3031,
+    "end_char": 3168,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "XIII",
+    "start_char": 3168,
+    "end_char": 3283,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:responsable",
+    "term": "Responsable",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "XIV",
+    "start_char": 3283,
+    "end_char": 3371,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "XV",
+    "start_char": 3371,
+    "end_char": 3431,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:sujetos-regulados",
+    "term": "Sujetos regulados",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "XVI",
+    "start_char": 3431,
+    "end_char": 3557,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:tercero",
+    "term": "Tercero",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "XVII",
+    "start_char": 3557,
+    "end_char": 3683,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:titular",
+    "term": "Titular",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "XVIII",
+    "start_char": 3683,
+    "end_char": 3751,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:tratamiento",
+    "term": "Tratamiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "XIX",
+    "start_char": 3751,
+    "end_char": 4157,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:term:transferencia",
+    "term": "Transferencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "fraction": "XX",
+    "start_char": 4157,
+    "end_char": 4356,
+    "basis": "express_definition"
+  }
+]

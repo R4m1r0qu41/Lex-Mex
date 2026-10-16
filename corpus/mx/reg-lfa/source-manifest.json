@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfa",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFA.pdf",
+  "retrieved_at": "2026-10-14T07:51:27.877276Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 309626,
+  "etag": "\"4b97a-563b4879c8c00\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:04 GMT",
+  "source_sha256": "8577b72dfc67461533ecea0bdaef39ebf0b29e6d4f3b6117a4235e98d7309e34",
+  "extracted_text_sha256": "a3d8370f28f1ff3a9338ce99e1ae90a811e4743545fa8c9fa125f51251adb9de",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

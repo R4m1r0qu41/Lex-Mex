@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lrpv",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRPV.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRPV.pdf",
+  "retrieved_at": "2026-10-14T08:05:00.860624Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 196166,
+  "etag": "\"2fe46-563b4877e0780\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:02 GMT",
+  "source_sha256": "3ff22c0d4dda5724ded6314ddc83e072cab81433b14dd9c6056e67eb5f4f8dd1",
+  "extracted_text_sha256": "d9d767571c7e960a0322805e19e0b26d604f5666d97ce0e6c22edcbeab4a1df6",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

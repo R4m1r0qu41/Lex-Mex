@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lepepm:article:28
+instrument_id: urn:lex-mx:federal:statute:lepepm
+instrument: LEPEPM
+name: "Ley de la Empresa Pública del Estado, Petróleos Mexicanos"
+provision_type: article
+number: "28"
+aliases: ["LEPEPM — Artículo 28"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPEPM.pdf
+source_sha256: e090d2278f98a33ce43b69070c3bbbec5e3b7177f0ffdbee8d4c9bf29c36c317
+---
+
+> Título SEGUNDO · Capítulo II
+
+# Artículo 28
+
+El Consejo de Administración, con el voto favorable de seis de sus personas integrantes, debe emitir y actualizar las reglas para su operación y funcionamiento, que deben prever, al menos: I. Periodicidad de las sesiones ordinarias. Las sesiones ordinarias deben ser al menos una vez al trimestre, conforme al calendario que se acuerde, previa convocatoria que formule la persona secretaria, a indicación de quien preside el Consejo de Administración. Sin perjuicio del calendario acordado para las sesiones ordinarias, la persona que preside el Consejo de Administración o al menos dos personas consejeras, pueden instruir a la persona titular de la Secretaría del Consejo para que se convoque a sesión extraordinaria. La persona que preside el Consejo de Administración debe resolver sobre las solicitudes que la persona titular de la Dirección General de Petróleos Mexicanos le presente para la celebración de una sesión extraordinaria; II. Lugar de la celebración de las sesiones. Las cuales se deben celebrar en el domicilio legal de Petróleos Mexicanos, sin perjuicio de que, a juicio de quien preside el Consejo, se celebre en otro domicilio; III. Requisitos para la validez de las sesiones; IV. Quórum de asistencia para las sesiones del Consejo de Administración. El cual es con al menos cinco personas consejeras, siempre que asista al menos una persona consejera independiente y se mantenga para el desarrollo de la sesión; V. Acuerdos y deliberaciones. Los cuales son de forma colegiada y sus decisiones se deben adoptar por mayoría de votos de las personas presentes que integran el Consejo de Administración. En caso de que la mayoría de los votos no se alcance con el voto favorable de al menos una persona consejera independiente, en un plazo no mayor a veinte días hábiles, las personas consejeras que se opongan pueden emitir su voto razonado. El asunto debe ser decidido por mayoría simple de votos de las personas consejeras presentes en la siguiente sesión que se celebre al término del plazo señalado; VI. Votación en las sesiones. Todas las personas integrantes del Consejo de Administración deben votar en sentido positivo o negativo, sin que haya posibilidad de abstenerse de votar. En caso de que el voto sea en sentido negativo, la persona consejera debe expresar las razones de su emisión en la misma sesión, que deben ser asentadas en el acta respectiva. En caso de que alguna persona consejera se encuentre en una situación que genere conflicto de interés, tiene la obligación de comunicarlo a quien preside el Consejo y a las demás personas consejeras asistentes a la sesión y debe abandonar temporalmente la sesión correspondiente para abstenerse de conocer del asunto de que se trate y de participar en la deliberación y resolución de este; VII. Plazos y términos para las convocatorias a sesión ordinaria y extraordinaria; VIII. La regulación sobre la participación de las personas invitadas en las sesiones, quienes tienen voz, pero no voto. La persona titular de la Dirección General de Petróleos Mexicanos y la persona designada como Comisaria a que se refiere esta Ley, deben asistir como invitadas permanentes; IX. El uso de tecnologías de la información para la convocatoria a sesiones y de medios remotos de comunicación audiovisual para su celebración en caso necesario, y X. Las funciones de la Presidencia y la Secretaría del Consejo de Administración.

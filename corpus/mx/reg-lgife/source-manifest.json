@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGIFE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGIFE.pdf",
+  "retrieved_at": "2026-10-14T07:57:26.060542Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 260712,
+  "etag": "\"3fa68-563b4878d49c0\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:03 GMT",
+  "source_sha256": "05cf69d4709df7bb3340fe016a25a1ca29e6c82555d12f5a22b91c723f85b9d8",
+  "extracted_text_sha256": "e26a136d26c2a90b9bf8dd623594bf9be161cb18b265681de167014dd2d50d47",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

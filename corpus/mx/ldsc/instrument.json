@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:ldsc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Desarrollo Sustentable de la Cafeticultura",
+  "short_name": "LDSC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-12-19",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:24:32.919859Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSC.pdf",
+  "source_sha256": "45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80",
+  "extracted_text_sha256": "4d20b556c6d2fe2e7ff6e1ffe5dd46b1deda769832ef2cf3af381b808b73d407",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

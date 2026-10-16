@@ -1,0 +1,134 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:term:biblioteca-de-aula",
+    "term": "Biblioteca de aula",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
+    "fraction": "I",
+    "start_char": 152,
+    "end_char": 465,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:term:biblioteca-escolar",
+    "term": "Biblioteca escolar",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
+    "fraction": "II",
+    "start_char": 465,
+    "end_char": 754,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:term:biblioteca-publica",
+    "term": "Biblioteca pública",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
+    "fraction": "III",
+    "start_char": 754,
+    "end_char": 1167,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
+    "fraction": "IV",
+    "start_char": 1167,
+    "end_char": 1241,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:term:conaculta",
+    "term": "CONACULTA",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
+    "fraction": "V",
+    "start_char": 1241,
+    "end_char": 1306,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:term:importador",
+    "term": "Importador",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
+    "fraction": "VI",
+    "start_char": 1306,
+    "end_char": 1489,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:term:isbn",
+    "term": "ISBN",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
+    "fraction": "VII",
+    "start_char": 1489,
+    "end_char": 1546,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
+    "fraction": "VIII",
+    "start_char": 1546,
+    "end_char": 1601,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:term:lineamientos",
+    "term": "Lineamientos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
+    "fraction": "IX",
+    "start_char": 1601,
+    "end_char": 1733,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:term:programa",
+    "term": "Programa",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
+    "fraction": "X",
+    "start_char": 1733,
+    "end_char": 1855,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:term:registro",
+    "term": "Registro",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
+    "fraction": "XI",
+    "start_char": 1855,
+    "end_char": 1923,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfll:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfll",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfll:article:2",
+    "fraction": "XII",
+    "start_char": 1923,
+    "end_char": 1976,
+    "basis": "express_definition"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lse",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Sector Eléctrico",
+  "short_name": "LSE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-03-18",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:44:54.528274Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSE.pdf",
+  "source_sha256": "aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a",
+  "extracted_text_sha256": "83fe97bfaf93bbfe5f4d17c6c1583872b758bf21634c58bd70133b6ba37b8667",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

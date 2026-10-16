@@ -1,0 +1,23 @@
+---
+id: urn:lex-mx:federal:statute:oga:article:108
+instrument_id: urn:lex-mx:federal:statute:oga
+instrument: OGA
+name: "Ordenanza General de la Armada"
+provision_type: article
+number: "108"
+aliases: ["OGA — Artículo 108"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+publication_period: {"end":"1912-01-08","kind":"serialized_range","metadata_version":"1.0.0","source_note":"Nueva Ordenanza publicada en el Diario Oficial de la Federación en forma seriada los días 1º al 8 de enero de 1912","source_sha256":"25c0da0a39813a4ad1a8189c67a693c131b9df2fc05689881251f15d42b9fdb3","start":"1912-01-01"}
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/218.pdf
+source_sha256: 25c0da0a39813a4ad1a8189c67a693c131b9df2fc05689881251f15d42b9fdb3
+---
+
+> Título OCTAVO
+
+# Artículo 108
+
+Cuando un individuo ingrese en la Armada con el empleo de Primer Contramaestre, al cumplir en dicho empleo cinco años de servicios activos sin interrupción, tendrá derecho a que se le abone una gratificación de $200.00 anuales. Transcurridos cinco años en el goce de este beneficio, se le aumentará a $300.00 la gratificación anual, siendo ésta la mayor a que podrá aspirar, cualquiera que fuere posteriormente su antigüedad en el empleo de Primer Contramaestre.
+
+Publicación seriada, sin día exacto: 1912-01-01 a 1912-01-08 (inclusive).

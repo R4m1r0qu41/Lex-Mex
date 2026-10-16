@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lsnieg",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Sistema Nacional de Información Estadística y Geográfica",
+  "short_name": "LSNIEG",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2008-04-16",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-10-14T07:45:50.184599Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIEG.pdf",
+  "source_sha256": "bf18e4d51b4f44e741ab550e298f712a350ab08eec94061489aba7745c1aaeab",
+  "extracted_text_sha256": "3267018e7785651c9ac3acdd50e86d792d955a554d12c00c9e1abd2c5b290f67",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:loam",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Orgánica de la Armada de México",
+  "short_name": "LOAM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-11-07",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:39:18.928471Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAM.pdf",
+  "source_sha256": "476c757523ccdbe6825029df4b37990c8def13ecf98e1bb66e4ace738d33946a",
+  "extracted_text_sha256": "47e06f5c4ec0ada842e9658913d74ee1a818b1e8d9c20d70293fabe47864d23b",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

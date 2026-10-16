@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfsv",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Sanidad Vegetal",
+  "short_name": "LFSV",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1994-01-05",
+  "latest_reform_date": "2022-05-11",
+  "retrieved_at": "2026-10-14T07:30:05.173606Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSV.pdf",
+  "source_sha256": "ca472228c60fb0c4f46b3f473ad478b2fbe2909d7b21da7bf9ba483aa2a5edd6",
+  "extracted_text_sha256": "df2ccfefa5322f2a4cbca33b1c93ab0d45324a1f66fbd8fa3c71b684ae09e2fe",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

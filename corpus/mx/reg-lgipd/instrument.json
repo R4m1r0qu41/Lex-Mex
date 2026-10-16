@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgipd",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General para la Inclusión de las Personas con Discapacidad",
+  "short_name": "REG-LGIPD",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2012-11-30",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:57:39.652575Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGIPD.pdf",
+  "source_sha256": "7e1c33029ca423d65491911d15e2f1b436ed269540148af1e4787570441ac0b6",
+  "extracted_text_sha256": "9a4a3188137f76e7f16662ee03d69a4d30160d9d5b1d17676c547951f6c2d6dc",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_MCDETS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_MCDETS.pdf",
+  "retrieved_at": "2026-10-14T07:48:56.177645Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 174802,
+  "etag": "\"2aad2-563b487abce40\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:05 GMT",
+  "source_sha256": "70dc1863cee2a88911e43cefb51d1c2007e550a2a46f9e11d5569c1525667cfd",
+  "extracted_text_sha256": "b24ba925d3f0a789861709b4b46f39a9edf70313944c68a139ea345f2bcc0137",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

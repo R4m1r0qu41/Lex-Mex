@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lic-calidad",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LICal.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regla.htm",
+  "retrieved_at": "2026-10-14T07:59:55.267845Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 838115,
+  "etag": "\"cc9e3-65ca9277d1080\"",
+  "last_modified": "Wed, 30 Sep 2026 01:24:02 GMT",
+  "source_sha256": "d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861",
+  "extracted_text_sha256": "20837c2bd82424be7236d26e8004f6b2b946df0e5f45ddc21f5e242936fd5a94",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

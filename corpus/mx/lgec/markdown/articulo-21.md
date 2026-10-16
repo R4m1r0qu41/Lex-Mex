@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lgec:article:21
+instrument_id: urn:lex-mx:federal:statute:lgec
+instrument: LGEC
+name: "Ley General de Economía Circular"
+provision_type: article
+number: "21"
+aliases: ["LGEC — Artículo 21"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEC.pdf
+source_sha256: 89220c0c86445a873067e0095b4591c11847dfd11595ca3e11bbfcf09cef6754
+---
+
+> Título Tercero · Capítulo Segundo
+
+# Artículo 21
+
+En los ejes de actuación del Programa Nacional, referidos en el [artículo anterior](articulo-20.md), se deben prever, conforme a la normativa aplicable, las siguientes acciones: I. Impulsar la Producción responsable y eficiente mediante modelos de desarrollo económico sostenible que promuevan la protección ambiental, a través de acciones que faciliten esquemas de Encadenamiento Sustentable que maximicen el uso y Aprovechamiento Circular del Producto, de materiales y recursos dentro de la Cadena de Valor, que contribuyan a reducir la extracción de materiales vírgenes y uso de sustancias tóxicas; II. Fomentar el Diseño Circular desde la Producción, con criterios que optimicen el uso de Material Virgen, la incorporación de materias primas secundarias y materiales reciclados en la Producción, así como la minimización del uso de sustancias tóxicas o contaminantes, a fin de obtener productos de fácil Aprovechamiento Circular o, en su caso, de su disposición final; III. Fomentar modelos de servicio de uso compartido que permitan satisfacer necesidades sin que sea indispensable la adquisición o posesión de los productos; IV. Diseñar y establecer programas de cultura de Consumo Responsable, mediante campañas informativas a la ciudadanía sobre las implicaciones ambientales en cada etapa del Ciclo de Vida de los productos, y las alternativas para el aprovechamiento de los materiales al final de su vida útil, así como la separación en fuente de los residuos sólidos urbanos y de manejo especial, su adecuada separación y aprovechamiento; V. Impulsar mercados circulares de materias primas secundarias y de residuos que faciliten su incorporación en la Cadena de Valor y que, en consecuencia, reduzcan la extracción de Material Virgen; VI. Prevenir y minimizar la generación de residuos, con el establecimiento de acciones preventivas y mecanismos directos e indirectos de circularidad para la prevención de la generación y minimización de residuos, con base en el principio de jerarquización establecido en esta Ley; VII. Establecer como criterio el rediseño o modificación intencional de productos que no fueron consumidos, conforme a la presente Ley, con la finalidad de reducir el impacto ambiental; VIII. Fomentar la cultura de la reutilización de productos y materiales, para incrementar la vida útil de estos, y mantenerlos dentro de la economía el mayor tiempo posible; IX. Impulsar la Gestión Circular, incluido el Diseño Circular, y establecer esquemas que contemplen la reparabilidad del Producto, así como facilitar la accesibilidad de las personas consumidoras a esta acción, para fomentar la reparación de productos, antes que el desecho y reemplazo del Producto; X. Impulsar la implementación de modelos de gestión con perspectiva de Reciclaje Inclusivo; XI. Fomentar la reutilización, reparación o reacondicionamiento de productos que pueden volver a servir para lo que fueron creados; XII. Establecer la gradualidad y definir metas para: a) El uso sostenible de los recursos naturales y el aprovechamiento sostenible del agua; b) La clasificación adecuada de los residuos, que incluya lineamientos armonizados para todas las entidades federativas; c) La reducción del desperdicio de alimentos; d) El reciclaje de materiales y residuos de interés nacional, así como aquellos comprometidos en convenios internacionales; e) La incorporación de materiales reciclados en productos y la sustitución en estos de sustancias tóxicas por otras que no lo sean, y f) La reducción de la disposición final en rellenos sanitarios; XIII. Las demás actividades y acciones que permitan incentivar la transición a la Economía Circular.

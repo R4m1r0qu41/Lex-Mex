@@ -1,0 +1,202 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:1:reference:50-52:25:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgeo:article:1",
+    "source_span": "25",
+    "start_char": 50,
+    "end_char": 52,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:25",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo quinto",
+        "start_char": 54,
+        "end_char": 68
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:1:reference:70-72:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgeo:article:1",
+    "source_span": "27",
+    "start_char": 70,
+    "end_char": 72,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:27",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafos cuarto y sexto",
+        "start_char": 74,
+        "end_char": 97
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:1:reference:100-102:28:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgeo:article:1",
+    "source_span": "28",
+    "start_char": 100,
+    "end_char": 102,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:28",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo cuarto",
+        "start_char": 104,
+        "end_char": 118
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:13:reference:894-911:12:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgeo:article:13",
+    "source_span": "artículo anterior",
+    "start_char": 894,
+    "end_char": 911,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeo:article:12",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:14:reference:116-133:13:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgeo:article:14",
+    "source_span": "artículo anterior",
+    "start_char": 116,
+    "end_char": 133,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeo:article:13",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:19:reference:249-251:13:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgeo:article:19",
+    "source_span": "13",
+    "start_char": 249,
+    "end_char": 251,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeo:article:13",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:23:reference:1739-1740:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgeo:article:23",
+    "source_span": "X",
+    "start_char": 1739,
+    "end_char": 1740,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeo:article:23",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "X",
+        "start_char": 1739,
+        "end_char": 1740
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:32:reference:133-150:31:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgeo:article:32",
+    "source_span": "artículo anterior",
+    "start_char": 133,
+    "end_char": 150,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeo:article:31",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:36:reference:127-129:34:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgeo:article:36",
+    "source_span": "34",
+    "start_char": 127,
+    "end_char": 129,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeo:article:34",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:51:reference:31-48:50:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgeo:article:51",
+    "source_span": "artículo anterior",
+    "start_char": 31,
+    "end_char": 48,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeo:article:50",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:56:reference:84-101:55:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgeo:article:56",
+    "source_span": "artículo anterior",
+    "start_char": 84,
+    "end_char": 101,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgeo",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgeo:article:55",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 64,
+        "end_char": 79
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]

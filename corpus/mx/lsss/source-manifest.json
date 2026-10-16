@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lsss",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/71_240418.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsss.htm",
+  "retrieved_at": "2026-10-14T07:46:44.765163Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 386318,
+  "etag": "\"5e50e-576523872d980\"",
+  "last_modified": "Thu, 20 Sep 2018 19:06:30 GMT",
+  "source_sha256": "4618876b444def89a7cb2464b71019e0119288ebe6695d90b6a82ae8289b937e",
+  "extracted_text_sha256": "7c5c65362f9c0800a250b8e550bdc02c2fa0fd2034bc55b7f0742d4c5a252066",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

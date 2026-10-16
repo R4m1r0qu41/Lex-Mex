@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lecampo",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Energía para el Campo",
+  "short_name": "REG-LECAMPO",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2003-12-04",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:50:31.308394Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LECampo.pdf",
+  "source_sha256": "8804184956ffcb703bb0a96aa95542e971c0b1e257c9c689db82f566d4bded4c",
+  "extracted_text_sha256": "86ccf3cc3cb651295d794eabfbe8e424aafef28880c4e9240ce35e0a1b5bce60",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

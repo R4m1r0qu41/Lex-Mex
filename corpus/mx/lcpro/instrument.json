@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lcpro",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Capitalización del Procampo",
+  "short_name": "LCPRO",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2001-12-31",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:23:44.487270Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/238.pdf",
+  "source_sha256": "632a042503f2cbca50f9247a0ba9d5df58135381d91bbe8784ff4f5dbda017ea",
+  "extracted_text_sha256": "049b129ddef772fe37db6e2d795eda97a941017d19ee81eecb1d0bd14c94aa2b",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

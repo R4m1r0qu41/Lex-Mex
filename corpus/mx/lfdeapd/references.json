@@ -1,0 +1,128 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:10:reference:1223-1225:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "source_span": "21",
+    "start_char": 1223,
+    "end_char": 1225,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:14:reference:254-256:10:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:14",
+    "source_span": "10",
+    "start_char": 254,
+    "end_char": 256,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:10",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:22:reference:123-124:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:22",
+    "source_span": "1",
+    "start_char": 123,
+    "end_char": 124,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:25:reference:283-285:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:25",
+    "source_span": "23",
+    "start_char": 283,
+    "end_char": 285,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:23",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:26:reference:793-794:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:26",
+    "source_span": "I",
+    "start_char": 793,
+    "end_char": 794,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "I",
+        "start_char": 793,
+        "end_char": 794
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:26:reference:1106-1109:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:26",
+    "source_span": "III",
+    "start_char": 1106,
+    "end_char": 1109,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "III",
+        "start_char": 1106,
+        "end_char": 1109
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdeapd:article:26:reference:1112-1114:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:26",
+    "source_span": "IV",
+    "start_char": 1112,
+    "end_char": 1114,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "IV",
+        "start_char": 1112,
+        "end_char": 1114
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

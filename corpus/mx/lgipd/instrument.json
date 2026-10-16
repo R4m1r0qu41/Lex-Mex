@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgipd",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General para la Inclusión de las Personas con Discapacidad",
+  "short_name": "LGIPD",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2011-05-30",
+  "latest_reform_date": "2024-06-14",
+  "retrieved_at": "2026-10-14T07:33:25.410719Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf",
+  "source_sha256": "952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f",
+  "extracted_text_sha256": "9c355eb3fba48ce339d0024c21bdb64618a805d96e2d0ad0695a29ffb0efd42c",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

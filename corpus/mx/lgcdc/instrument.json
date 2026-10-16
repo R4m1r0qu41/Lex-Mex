@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgcdc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Cultura y Derechos Culturales",
+  "short_name": "LGCDC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2017-06-19",
+  "latest_reform_date": "2026-01-15",
+  "retrieved_at": "2026-10-14T07:31:22.550983Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCDC.pdf",
+  "source_sha256": "3ed6ba180b725dbd80971ee60ac0e365a9df437b1ae45639ad0f040653497d1d",
+  "extracted_text_sha256": "f2a01c205fec6cd9b637d47e5f94bf1f1f267f1889be75b209f6cc508a99f7b7",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

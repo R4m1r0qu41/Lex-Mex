@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:loipn",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Orgánica del Instituto Politécnico Nacional",
+  "short_name": "LOIPN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1981-12-29",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:40:17.093006Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/171.pdf",
+  "source_sha256": "c40f1697221f7ce6b0a9c9da729c2e95db5e1a9404151456b69fdc1be7f5c6ee",
+  "extracted_text_sha256": "dfbb2562b2a3f0e4acc82b826c30a240f89f0da1f3d3f824670522ad73fb5c0a",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

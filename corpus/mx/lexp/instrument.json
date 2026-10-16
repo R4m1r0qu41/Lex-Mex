@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lexp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Expropiación",
+  "short_name": "LEXP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1936-11-25",
+  "latest_reform_date": "2012-01-27",
+  "retrieved_at": "2026-10-14T07:25:56.418644Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/35.pdf",
+  "source_sha256": "40f5c7459f53df7a14ee5aaf70cbb819f8808b14691a63dfd773e36a9f5dd1cb",
+  "extracted_text_sha256": "a6db1a994331b616004218962d63a7ac23909536ae17ab4647ee5d2b069de3fd",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

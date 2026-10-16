@@ -1,0 +1,4907 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:1:term-usage:169-181",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 169,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:1:term-usage:227-239",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 227,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:1:term-usage:295-305",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 295,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:2:term-usage:223-235",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 223,
+    "end_char": 235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:2:term-usage:413-425",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 413,
+    "end_char": 425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:3:term-usage:5244-5263",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 5244,
+    "end_char": 5263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:3:term-usage:5858-5868",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 5858,
+    "end_char": 5868
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:3:term-usage:6085-6095",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 6085,
+    "end_char": 6095
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:3:term-usage:6219-6229",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 6219,
+    "end_char": 6229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:3:term-usage:6405-6415",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 6405,
+    "end_char": 6415
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:3:term-usage:7067-7079",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 7067,
+    "end_char": 7079
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:3:term-usage:7137-7149",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 7137,
+    "end_char": 7149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4:term-usage:60-70",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 60,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4:term-usage:420-430",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 420,
+    "end_char": 430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4:term-usage:504-516",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 504,
+    "end_char": 516
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4:term-usage:1430-1442",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1430,
+    "end_char": 1442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4:term-usage:1604-1616",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1604,
+    "end_char": 1616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4:term-usage:1892-1902",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1892,
+    "end_char": 1902
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4:term-usage:2112-2131",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 2112,
+    "end_char": 2131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4:term-usage:2494-2506",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 2494,
+    "end_char": 2506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4:term-usage:2716-2728",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 2716,
+    "end_char": 2728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4:term-usage:2993-3005",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 2993,
+    "end_char": 3005
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:5:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:5:term-usage:255-267",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 255,
+    "end_char": 267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:5:term-usage:373-383",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 373,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:5:term-usage:670-680",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 670,
+    "end_char": 680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:6:term-usage:264-274",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 264,
+    "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:6:term-usage:574-584",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 574,
+    "end_char": 584
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:7:term-usage:149-161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 149,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:7:term-usage:322-332",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 322,
+    "end_char": 332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:8:term-usage:1033-1045",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1033,
+    "end_char": 1045
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:9:term-usage:175-187",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 175,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:9:term-usage:543-553",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 543,
+    "end_char": 553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:10:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:10:term-usage:133-145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 133,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:10:term-usage:155-167",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 155,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11:term-usage:116-128",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 116,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11:term-usage:611-623",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 611,
+    "end_char": 623
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11:term-usage:760-767",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 760,
+    "end_char": 767
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11:term-usage:822-834",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 822,
+    "end_char": 834
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11:term-usage:950-969",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 950,
+    "end_char": 969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11:term-usage:1497-1504",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1497,
+    "end_char": 1504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11:term-usage:1863-1875",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1863,
+    "end_char": 1875
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11:term-usage:2075-2087",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 2075,
+    "end_char": 2087
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:936-955",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 936,
+    "end_char": 955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:1045-1064",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 1045,
+    "end_char": 1064
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:3236-3248",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 3236,
+    "end_char": 3248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:3383-3395",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 3383,
+    "end_char": 3395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:3815-3825",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 3815,
+    "end_char": 3825
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:3878-3897",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 3878,
+    "end_char": 3897
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:4492-4504",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 4492,
+    "end_char": 4504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:4856-4868",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 4856,
+    "end_char": 4868
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:5837-5849",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 5837,
+    "end_char": 5849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:6672-6691",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 6672,
+    "end_char": 6691
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:6823-6830",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 6823,
+    "end_char": 6830
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:6982-6989",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 6982,
+    "end_char": 6989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:7124-7131",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 7124,
+    "end_char": 7131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:9091-9103",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 9091,
+    "end_char": 9103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:9348-9360",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 9348,
+    "end_char": 9360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:9666-9676",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 9666,
+    "end_char": 9676
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12:term-usage:9894-9904",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 9894,
+    "end_char": 9904
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13:term-usage:176-186",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 176,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13:term-usage:260-272",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 260,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13:term-usage:821-833",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 821,
+    "end_char": 833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13:term-usage:902-914",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 902,
+    "end_char": 914
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13:term-usage:1262-1272",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1262,
+    "end_char": 1272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13:term-usage:1340-1352",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1340,
+    "end_char": 1352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13:term-usage:1618-1630",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1618,
+    "end_char": 1630
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13:term-usage:1787-1797",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1787,
+    "end_char": 1797
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13:term-usage:2490-2502",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 2490,
+    "end_char": 2502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13:term-usage:2746-2756",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 2746,
+    "end_char": 2756
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13:term-usage:3161-3171",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 3161,
+    "end_char": 3171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:14:term-usage:112-124",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 112,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:14:term-usage:429-439",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 429,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:14:term-usage:539-551",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 539,
+    "end_char": 551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:14:term-usage:685-695",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 685,
+    "end_char": 695
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:14:term-usage:1372-1384",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1372,
+    "end_char": 1384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:14:term-usage:1979-1989",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1979,
+    "end_char": 1989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:14:term-usage:2233-2245",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 2233,
+    "end_char": 2245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:14:term-usage:2479-2489",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 2479,
+    "end_char": 2489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:15:term-usage:205-217",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 205,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:15:term-usage:254-273",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 254,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:15:term-usage:376-386",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 376,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:15:term-usage:635-645",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 635,
+    "end_char": 645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:17:term-usage:247-259",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 247,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18:term-usage:140-150",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 140,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18:term-usage:366-376",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 366,
+    "end_char": 376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18:term-usage:887-897",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 887,
+    "end_char": 897
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18:term-usage:2067-2077",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 2067,
+    "end_char": 2077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18:term-usage:2396-2415",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 2396,
+    "end_char": 2415
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18:term-usage:2592-2611",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 2592,
+    "end_char": 2611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18:term-usage:2682-2694",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 2682,
+    "end_char": 2694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18:term-usage:3735-3745",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 3735,
+    "end_char": 3745
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18:term-usage:5087-5097",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 5087,
+    "end_char": 5097
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19:term-usage:1049-1056",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1049,
+    "end_char": 1056
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19:term-usage:1548-1558",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1548,
+    "end_char": 1558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19:term-usage:2345-2357",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 2345,
+    "end_char": 2357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19:term-usage:2536-2548",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 2536,
+    "end_char": 2548
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19:term-usage:3149-3161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 3149,
+    "end_char": 3161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19:term-usage:5198-5210",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 5198,
+    "end_char": 5210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19:term-usage:5634-5641",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 5634,
+    "end_char": 5641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19:term-usage:5982-5994",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 5982,
+    "end_char": 5994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19:term-usage:6204-6216",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 6204,
+    "end_char": 6216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19:term-usage:6722-6734",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 6722,
+    "end_char": 6734
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:20:term-usage:160-170",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 160,
+    "end_char": 170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:20:term-usage:664-671",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 664,
+    "end_char": 671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:21:term-usage:186-198",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 186,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:21:term-usage:326-338",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 326,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:21:term-usage:380-392",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 380,
+    "end_char": 392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:23:term-usage:213-225",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 213,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:23:term-usage:247-259",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 247,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:23:term-usage:842-854",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 842,
+    "end_char": 854
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:23:term-usage:1791-1798",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 1791,
+    "end_char": 1798
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:23:term-usage:2331-2341",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 2331,
+    "end_char": 2341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:24:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:24:term-usage:82-89",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 82,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:24:term-usage:129-136",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 129,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:24:term-usage:157-169",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 157,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:24:term-usage:226-233",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 226,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:24:term-usage:300-307",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 300,
+    "end_char": 307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:16-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 16,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:98-108",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 98,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:152-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 152,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:305-317",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 305,
+    "end_char": 317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:466-473",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 466,
+    "end_char": 473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:1661-1671",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1661,
+    "end_char": 1671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:1712-1719",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1712,
+    "end_char": 1719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:2195-2202",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 2195,
+    "end_char": 2202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:2484-2491",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 2484,
+    "end_char": 2491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:3202-3209",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 3202,
+    "end_char": 3209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:3508-3515",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 3508,
+    "end_char": 3515
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:3728-3735",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 3728,
+    "end_char": 3735
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:3809-3819",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 3809,
+    "end_char": 3819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:3888-3895",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 3888,
+    "end_char": 3895
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:4504-4514",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 4504,
+    "end_char": 4514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:5076-5083",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 5076,
+    "end_char": 5083
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:5413-5420",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 5413,
+    "end_char": 5420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:5942-5949",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 5942,
+    "end_char": 5949
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:6083-6090",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 6083,
+    "end_char": 6090
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:6292-6299",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 6292,
+    "end_char": 6299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:6322-6329",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 6322,
+    "end_char": 6329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:6435-6454",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 6435,
+    "end_char": 6454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:6476-6483",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 6476,
+    "end_char": 6483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:6529-6536",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 6529,
+    "end_char": 6536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:6641-6648",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 6641,
+    "end_char": 6648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:6794-6801",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 6794,
+    "end_char": 6801
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:7036-7043",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 7036,
+    "end_char": 7043
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:7126-7133",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 7126,
+    "end_char": 7133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:7306-7313",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 7306,
+    "end_char": 7313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:7437-7444",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 7437,
+    "end_char": 7444
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:7532-7539",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 7532,
+    "end_char": 7539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:7643-7650",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 7643,
+    "end_char": 7650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25:term-usage:8082-8089",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 8082,
+    "end_char": 8089
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:26:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:26:term-usage:151-161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 151,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:26:term-usage:212-219",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 212,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:27:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:27:term-usage:250-257",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 250,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:27:term-usage:291-303",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 291,
+    "end_char": 303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:27:term-usage:335-347",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 335,
+    "end_char": 347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:28:term-usage:74-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 74,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:28:term-usage:135-142",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 135,
+    "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:28:term-usage:222-229",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 222,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:28:term-usage:363-375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 363,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:29:term-usage:174-186",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 174,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:29:term-usage:208-220",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 208,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:29:term-usage:661-673",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 661,
+    "end_char": 673
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:29:term-usage:771-781",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 771,
+    "end_char": 781
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:29:term-usage:1054-1066",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1054,
+    "end_char": 1066
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:29:term-usage:1247-1257",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1247,
+    "end_char": 1257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:29:term-usage:1756-1766",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1756,
+    "end_char": 1766
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:30:term-usage:188-200",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 188,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:30:term-usage:222-234",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 222,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:30:term-usage:855-867",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 855,
+    "end_char": 867
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:30:term-usage:965-975",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 965,
+    "end_char": 975
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:30:term-usage:998-1010",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 998,
+    "end_char": 1010
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:30:term-usage:1191-1201",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1191,
+    "end_char": 1201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:31:term-usage:240-252",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 240,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:31:term-usage:274-286",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 274,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:31:term-usage:847-859",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 847,
+    "end_char": 859
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:31:term-usage:957-967",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 957,
+    "end_char": 967
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:31:term-usage:990-1002",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 990,
+    "end_char": 1002
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:31:term-usage:1183-1193",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1183,
+    "end_char": 1193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:32:term-usage:182-194",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 182,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:32:term-usage:216-228",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 216,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:32:term-usage:586-598",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 586,
+    "end_char": 598
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:32:term-usage:779-791",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 779,
+    "end_char": 791
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:32:term-usage:890-900",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 890,
+    "end_char": 900
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:32:term-usage:923-935",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 923,
+    "end_char": 935
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:32:term-usage:1116-1126",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1116,
+    "end_char": 1126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:33:term-usage:189-201",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 189,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:33:term-usage:223-235",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 223,
+    "end_char": 235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:33:term-usage:1181-1193",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1181,
+    "end_char": 1193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:33:term-usage:1291-1301",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1291,
+    "end_char": 1301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:33:term-usage:1367-1379",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1367,
+    "end_char": 1379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:33:term-usage:1560-1570",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1560,
+    "end_char": 1570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:34:term-usage:177-189",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 177,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:34:term-usage:211-223",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 211,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:34:term-usage:958-970",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 958,
+    "end_char": 970
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:34:term-usage:1068-1078",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1068,
+    "end_char": 1078
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:34:term-usage:1100-1112",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1100,
+    "end_char": 1112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:34:term-usage:1293-1303",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1293,
+    "end_char": 1303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:35:term-usage:214-226",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 214,
+    "end_char": 226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:35:term-usage:248-260",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 248,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:35:term-usage:551-561",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 551,
+    "end_char": 561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:35:term-usage:696-708",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 696,
+    "end_char": 708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:35:term-usage:806-816",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 806,
+    "end_char": 816
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:35:term-usage:839-851",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 839,
+    "end_char": 851
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:35:term-usage:1031-1041",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1031,
+    "end_char": 1041
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:36:term-usage:182-194",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 182,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:36:term-usage:216-228",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 216,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:36:term-usage:614-624",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 614,
+    "end_char": 624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:36:term-usage:759-771",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 759,
+    "end_char": 771
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:36:term-usage:869-879",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 869,
+    "end_char": 879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:36:term-usage:902-914",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 902,
+    "end_char": 914
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:36:term-usage:1095-1105",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1095,
+    "end_char": 1105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:37:term-usage:232-244",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 232,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:37:term-usage:266-278",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 266,
+    "end_char": 278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:37:term-usage:580-590",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 580,
+    "end_char": 590
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:37:term-usage:725-737",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 725,
+    "end_char": 737
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:37:term-usage:835-845",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 835,
+    "end_char": 845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:37:term-usage:868-880",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 868,
+    "end_char": 880
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:37:term-usage:1061-1071",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1061,
+    "end_char": 1071
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:38:term-usage:213-225",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 213,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:38:term-usage:247-259",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 247,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:38:term-usage:845-857",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 845,
+    "end_char": 857
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:38:term-usage:1220-1230",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1220,
+    "end_char": 1230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:38:term-usage:1652-1662",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1652,
+    "end_char": 1662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:39:term-usage:210-222",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 210,
+    "end_char": 222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:39:term-usage:244-256",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 244,
+    "end_char": 256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:39:term-usage:557-567",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 557,
+    "end_char": 567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:39:term-usage:702-714",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 702,
+    "end_char": 714
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:39:term-usage:812-822",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 812,
+    "end_char": 822
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:39:term-usage:845-857",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 845,
+    "end_char": 857
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:39:term-usage:1038-1048",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1038,
+    "end_char": 1048
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:40:term-usage:233-243",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 233,
+    "end_char": 243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:40:term-usage:3785-3804",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 3785,
+    "end_char": 3804
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:40:term-usage:3950-3969",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 3950,
+    "end_char": 3969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:41:term-usage:263-273",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 263,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:42:term-usage:283-295",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 283,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:42:term-usage:398-410",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 398,
+    "end_char": 410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:45:term-usage:2107-2114",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 2107,
+    "end_char": 2114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:45:term-usage:2267-2286",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 2267,
+    "end_char": 2286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:46:term-usage:684-696",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 684,
+    "end_char": 696
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:46:term-usage:1116-1128",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1116,
+    "end_char": 1128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:46:term-usage:2461-2471",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 2461,
+    "end_char": 2471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:275-287",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 275,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:461-473",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 461,
+    "end_char": 473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:604-616",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 604,
+    "end_char": 616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:970-982",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 970,
+    "end_char": 982
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:1120-1132",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1120,
+    "end_char": 1132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:1275-1287",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1275,
+    "end_char": 1287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:1337-1349",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1337,
+    "end_char": 1349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:1700-1712",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1700,
+    "end_char": 1712
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:1841-1853",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1841,
+    "end_char": 1853
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:2739-2746",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 2739,
+    "end_char": 2746
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:2891-2903",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 2891,
+    "end_char": 2903
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:3120-3132",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 3120,
+    "end_char": 3132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:3361-3373",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 3361,
+    "end_char": 3373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:3437-3444",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 3437,
+    "end_char": 3444
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:3857-3869",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 3857,
+    "end_char": 3869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47:term-usage:4043-4055",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 4043,
+    "end_char": 4055
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:48:term-usage:765-775",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 765,
+    "end_char": 775
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:245-257",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 245,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:284-294",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 284,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:534-544",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 534,
+    "end_char": 544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:562-572",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 562,
+    "end_char": 572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:831-843",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 831,
+    "end_char": 843
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:939-949",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 939,
+    "end_char": 949
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:1282-1294",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1282,
+    "end_char": 1294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:1478-1488",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1478,
+    "end_char": 1488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:1784-1796",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1784,
+    "end_char": 1796
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:1842-1854",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1842,
+    "end_char": 1854
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:2612-2622",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 2612,
+    "end_char": 2622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:2949-2961",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 2949,
+    "end_char": 2961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:3344-3363",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 3344,
+    "end_char": 3363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:3434-3446",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 3434,
+    "end_char": 3446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:3744-3754",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 3744,
+    "end_char": 3754
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:5122-5141",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 5122,
+    "end_char": 5141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:5339-5351",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 5339,
+    "end_char": 5351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:6486-6498",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 6486,
+    "end_char": 6498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49:term-usage:6750-6762",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 6750,
+    "end_char": 6762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50:term-usage:155-165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 155,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50:term-usage:338-350",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 338,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50:term-usage:450-460",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 450,
+    "end_char": 460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50:term-usage:826-836",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 826,
+    "end_char": 836
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50:term-usage:1092-1102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1092,
+    "end_char": 1102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50:term-usage:1217-1229",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1217,
+    "end_char": 1229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50:term-usage:1245-1255",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1245,
+    "end_char": 1255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50:term-usage:1345-1357",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1345,
+    "end_char": 1357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50:term-usage:1433-1445",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1433,
+    "end_char": 1445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50:term-usage:1623-1633",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1623,
+    "end_char": 1633
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50:term-usage:1921-1931",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1921,
+    "end_char": 1931
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50:term-usage:2420-2432",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 2420,
+    "end_char": 2432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50:term-usage:2587-2599",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 2587,
+    "end_char": 2599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:51:term-usage:1424-1434",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1424,
+    "end_char": 1434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:51:term-usage:1644-1651",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1644,
+    "end_char": 1651
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:51:term-usage:1991-2001",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1991,
+    "end_char": 2001
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:51:term-usage:2162-2181",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 2162,
+    "end_char": 2181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:51:term-usage:2680-2692",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 2680,
+    "end_char": 2692
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:52:term-usage:245-257",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 245,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:52:term-usage:371-383",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 371,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:52:term-usage:613-625",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 613,
+    "end_char": 625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:52:term-usage:706-718",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 706,
+    "end_char": 718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:53:term-usage:1082-1092",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1082,
+    "end_char": 1092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54:term-usage:200-212",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 200,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54:term-usage:603-615",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 603,
+    "end_char": 615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54:term-usage:710-722",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 710,
+    "end_char": 722
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54:term-usage:847-859",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 847,
+    "end_char": 859
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54:term-usage:982-994",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 982,
+    "end_char": 994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54:term-usage:1198-1210",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1198,
+    "end_char": 1210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54:term-usage:1552-1564",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1552,
+    "end_char": 1564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54:term-usage:1773-1785",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1773,
+    "end_char": 1785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54:term-usage:1973-1985",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1973,
+    "end_char": 1985
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54:term-usage:2210-2222",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 2210,
+    "end_char": 2222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:55:term-usage:196-208",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 196,
+    "end_char": 208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:55:term-usage:498-510",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 498,
+    "end_char": 510
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:55:term-usage:596-608",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 596,
+    "end_char": 608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:55:term-usage:1302-1314",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1302,
+    "end_char": 1314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:55:term-usage:1721-1733",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1721,
+    "end_char": 1733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:55:term-usage:1796-1803",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 1796,
+    "end_char": 1803
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56:term-usage:236-248",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 236,
+    "end_char": 248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56:term-usage:630-642",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 630,
+    "end_char": 642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56:term-usage:1336-1346",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1336,
+    "end_char": 1346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56:term-usage:1488-1500",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1488,
+    "end_char": 1500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56:term-usage:1558-1568",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1558,
+    "end_char": 1568
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56:term-usage:1755-1767",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1755,
+    "end_char": 1767
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56:term-usage:1950-1962",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1950,
+    "end_char": 1962
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56:term-usage:2025-2032",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 2025,
+    "end_char": 2032
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57:term-usage:704-716",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 704,
+    "end_char": 716
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57:term-usage:1028-1040",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1028,
+    "end_char": 1040
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57:term-usage:1126-1138",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1126,
+    "end_char": 1138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57:term-usage:1644-1656",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1644,
+    "end_char": 1656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57:term-usage:1781-1793",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1781,
+    "end_char": 1793
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57:term-usage:2234-2246",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 2234,
+    "end_char": 2246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57:term-usage:2961-2973",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 2961,
+    "end_char": 2973
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57:term-usage:3492-3504",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 3492,
+    "end_char": 3504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57:term-usage:3567-3574",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 3567,
+    "end_char": 3574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:58:term-usage:1830-1842",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1830,
+    "end_char": 1842
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:60:term-usage:2106-2118",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 2106,
+    "end_char": 2118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:60:term-usage:2169-2181",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 2169,
+    "end_char": 2181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61:term-usage:683-695",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 683,
+    "end_char": 695
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61:term-usage:1105-1117",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1105,
+    "end_char": 1117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61:term-usage:1203-1215",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1203,
+    "end_char": 1215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61:term-usage:1876-1888",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1876,
+    "end_char": 1888
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61:term-usage:2449-2461",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 2449,
+    "end_char": 2461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61:term-usage:2844-2856",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 2844,
+    "end_char": 2856
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61:term-usage:3507-3519",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 3507,
+    "end_char": 3519
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61:term-usage:3582-3589",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 3582,
+    "end_char": 3589
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:62:term-usage:478-490",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 478,
+    "end_char": 490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:62:term-usage:585-597",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 585,
+    "end_char": 597
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:67:term-usage:1131-1138",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1131,
+    "end_char": 1138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:68:term-usage:1163-1170",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1163,
+    "end_char": 1170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:68:term-usage:1897-1907",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1897,
+    "end_char": 1907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:70:term-usage:766-776",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 766,
+    "end_char": 776
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:70:term-usage:2233-2243",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 2233,
+    "end_char": 2243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:71:term-usage:598-617",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 598,
+    "end_char": 617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:71:term-usage:1648-1667",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 1648,
+    "end_char": 1667
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:71:term-usage:4544-4563",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 4544,
+    "end_char": 4563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:72:term-usage:385-397",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 385,
+    "end_char": 397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:72:term-usage:1036-1043",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1036,
+    "end_char": 1043
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:72:term-usage:2264-2276",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 2264,
+    "end_char": 2276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:72:term-usage:2651-2663",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 2651,
+    "end_char": 2663
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:73:term-usage:430-437",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 430,
+    "end_char": 437
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:73:term-usage:616-628",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 616,
+    "end_char": 628
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:73:term-usage:1224-1231",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1224,
+    "end_char": 1231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:73:term-usage:1382-1394",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1382,
+    "end_char": 1394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:73:term-usage:2643-2655",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 2643,
+    "end_char": 2655
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:73:term-usage:3445-3457",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 3445,
+    "end_char": 3457
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:73:term-usage:3591-3598",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 3591,
+    "end_char": 3598
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:74:term-usage:200-212",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 200,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:74:term-usage:270-282",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 270,
+    "end_char": 282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:74:term-usage:696-708",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 696,
+    "end_char": 708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:74:term-usage:866-878",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 866,
+    "end_char": 878
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:74:term-usage:1891-1903",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1891,
+    "end_char": 1903
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:74:term-usage:2628-2640",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 2628,
+    "end_char": 2640
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:74:term-usage:2819-2829",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 2819,
+    "end_char": 2829
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:75:term-usage:237-249",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 237,
+    "end_char": 249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:75:term-usage:691-703",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 691,
+    "end_char": 703
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:75:term-usage:1407-1419",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1407,
+    "end_char": 1419
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:75:term-usage:1560-1572",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1560,
+    "end_char": 1572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:76:term-usage:1846-1858",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1846,
+    "end_char": 1858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:77:term-usage:263-275",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 263,
+    "end_char": 275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:77:term-usage:572-584",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 572,
+    "end_char": 584
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:77:term-usage:944-956",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 944,
+    "end_char": 956
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:77:term-usage:1059-1066",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 1059,
+    "end_char": 1066
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:77:term-usage:1158-1170",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1158,
+    "end_char": 1170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:78:term-usage:1940-1947",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 1940,
+    "end_char": 1947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:79:term-usage:360-372",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 360,
+    "end_char": 372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:79:term-usage:423-435",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 423,
+    "end_char": 435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:79:term-usage:468-475",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 468,
+    "end_char": 475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:79:term-usage:696-703",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 696,
+    "end_char": 703
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:79:term-usage:1780-1787",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1780,
+    "end_char": 1787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:79:term-usage:2063-2070",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 2063,
+    "end_char": 2070
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:80:term-usage:298-308",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 298,
+    "end_char": 308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:80:term-usage:360-367",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 360,
+    "end_char": 367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:80:term-usage:1033-1040",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1033,
+    "end_char": 1040
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:80:term-usage:1073-1080",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1073,
+    "end_char": 1080
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:80:term-usage:2653-2660",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 2653,
+    "end_char": 2660
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:81:term-usage:1394-1401",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1394,
+    "end_char": 1401
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:81:term-usage:1651-1658",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1651,
+    "end_char": 1658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82:term-usage:364-371",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 364,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82:term-usage:462-469",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 462,
+    "end_char": 469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82:term-usage:855-862",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 855,
+    "end_char": 862
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82:term-usage:946-953",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 946,
+    "end_char": 953
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82:term-usage:3030-3037",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 3030,
+    "end_char": 3037
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82:term-usage:3216-3223",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 3216,
+    "end_char": 3223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82:term-usage:3392-3399",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 3392,
+    "end_char": 3399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82:term-usage:3519-3526",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 3519,
+    "end_char": 3526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82:term-usage:3604-3611",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 3604,
+    "end_char": 3611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82:term-usage:4039-4046",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 4039,
+    "end_char": 4046
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82:term-usage:4250-4257",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 4250,
+    "end_char": 4257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82:term-usage:4649-4656",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 4649,
+    "end_char": 4656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:83:term-usage:765-772",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 765,
+    "end_char": 772
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:83:term-usage:1408-1415",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1408,
+    "end_char": 1415
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:83:term-usage:1487-1494",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1487,
+    "end_char": 1494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:83:term-usage:1726-1733",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1726,
+    "end_char": 1733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:83:term-usage:2243-2250",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 2243,
+    "end_char": 2250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:214-221",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 214,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:376-383",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 376,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:560-567",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 560,
+    "end_char": 567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:923-930",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 923,
+    "end_char": 930
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:1083-1090",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1083,
+    "end_char": 1090
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:1160-1167",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1160,
+    "end_char": 1167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:1416-1423",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1416,
+    "end_char": 1423
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:1767-1774",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1767,
+    "end_char": 1774
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:1900-1907",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1900,
+    "end_char": 1907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:1939-1946",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1939,
+    "end_char": 1946
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:1977-1984",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 1977,
+    "end_char": 1984
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:2064-2071",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 2064,
+    "end_char": 2071
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:2115-2122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 2115,
+    "end_char": 2122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:2398-2405",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 2398,
+    "end_char": 2405
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:2581-2588",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 2581,
+    "end_char": 2588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:2628-2635",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 2628,
+    "end_char": 2635
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:2965-2972",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 2965,
+    "end_char": 2972
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84:term-usage:3333-3340",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 3333,
+    "end_char": 3340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:89:term-usage:579-586",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:89",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 579,
+    "end_char": 586
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:90:term-usage:563-573",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 563,
+    "end_char": 573
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:90:term-usage:3184-3194",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 3184,
+    "end_char": 3194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:90:term-usage:3283-3293",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 3283,
+    "end_char": 3293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:90:term-usage:3475-3485",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 3475,
+    "end_char": 3485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:91:term-usage:3155-3174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:91",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 3155,
+    "end_char": 3174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:91:term-usage:4777-4796",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:91",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 4777,
+    "end_char": 4796
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:38-57",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 38,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:151-158",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 151,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:270-289",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 270,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:653-672",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 653,
+    "end_char": 672
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:1258-1277",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 1258,
+    "end_char": 1277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:1473-1492",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 1473,
+    "end_char": 1492
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:1785-1804",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 1785,
+    "end_char": 1804
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:2004-2011",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 2004,
+    "end_char": 2011
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:2047-2054",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 2047,
+    "end_char": 2054
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:2183-2190",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 2183,
+    "end_char": 2190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:2430-2449",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 2430,
+    "end_char": 2449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:3244-3263",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 3244,
+    "end_char": 3263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:3506-3513",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 3506,
+    "end_char": 3513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:3682-3689",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 3682,
+    "end_char": 3689
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:4007-4014",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 4007,
+    "end_char": 4014
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:4170-4189",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 4170,
+    "end_char": 4189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:4387-4406",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 4387,
+    "end_char": 4406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:4675-4687",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 4675,
+    "end_char": 4687
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:4713-4732",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 4713,
+    "end_char": 4732
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92:term-usage:4762-4769",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 4762,
+    "end_char": 4769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:93:term-usage:880-890",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 880,
+    "end_char": 890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:94:term-usage:262-272",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 262,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:95:term-usage:333-343",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 333,
+    "end_char": 343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:95:term-usage:1004-1014",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1004,
+    "end_char": 1014
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:95:term-usage:1424-1434",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1424,
+    "end_char": 1434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:95:term-usage:1608-1618",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1608,
+    "end_char": 1618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:96:term-usage:214-226",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:96",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 214,
+    "end_char": 226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:96:term-usage:455-467",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:96",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 455,
+    "end_char": 467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:97:term-usage:1574-1584",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:97",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1574,
+    "end_char": 1584
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:98:term-usage:62-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:98",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 62,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:99:term-usage:200-210",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 200,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:100:term-usage:218-237",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 218,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:100:term-usage:493-500",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 493,
+    "end_char": 500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:100:term-usage:603-610",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 603,
+    "end_char": 610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:100:term-usage:814-833",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 814,
+    "end_char": 833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:100:term-usage:979-989",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 979,
+    "end_char": 989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:100:term-usage:1611-1630",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 1611,
+    "end_char": 1630
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:100:term-usage:1735-1747",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 1735,
+    "end_char": 1747
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:101:term-usage:230-240",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:101",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 230,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:102:term-usage:28-40",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 28,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:102:term-usage:162-172",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 162,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:102:term-usage:297-309",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 297,
+    "end_char": 309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:102:term-usage:396-406",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegación",
+    "start_char": 396,
+    "end_char": 406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:102:term-usage:560-572",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 560,
+    "end_char": 572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:102:term-usage:907-917",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 907,
+    "end_char": 917
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:102:term-usage:1006-1018",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegaciones",
+    "start_char": 1006,
+    "end_char": 1018
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:103:term-usage:65-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 65,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:103:term-usage:138-150",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 138,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:103:term-usage:423-433",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 423,
+    "end_char": 433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:103:term-usage:690-702",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 690,
+    "end_char": 702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:103:term-usage:1622-1632",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1622,
+    "end_char": 1632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:103:term-usage:2265-2277",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 2265,
+    "end_char": 2277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:103:term-usage:2344-2354",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 2344,
+    "end_char": 2354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:103:term-usage:3186-3196",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:delegaciones",
+    "span": "Delegación",
+    "start_char": 3186,
+    "end_char": 3196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:104:term-usage:251-260",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:agregados",
+    "span": "Agregados",
+    "start_char": 251,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:104:term-usage:262-271",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:agregados",
+    "span": "Agregados",
+    "start_char": 262,
+    "end_char": 271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:104:term-usage:727-739",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 727,
+    "end_char": 739
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:104:term-usage:935-945",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 935,
+    "end_char": 945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:105:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:105",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:106:term-usage:45-53",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:106",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:agregados",
+    "span": "Agregado",
+    "start_char": 45,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:107:term-usage:48-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:107",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:agregados",
+    "span": "Agregado",
+    "start_char": 48,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:108:term-usage:537-545",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:agregados",
+    "span": "Agregado",
+    "start_char": 537,
+    "end_char": 545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:108:term-usage:1026-1034",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:agregados",
+    "span": "Agregado",
+    "start_char": 1026,
+    "end_char": 1034
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:108:term-usage:1045-1053",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:agregados",
+    "span": "Agregado",
+    "start_char": 1045,
+    "end_char": 1053
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:108:term-usage:1174-1182",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:agregados",
+    "span": "Agregado",
+    "start_char": 1174,
+    "end_char": 1182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:109:term-usage:192-204",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 192,
+    "end_char": 204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:111:term-usage:109-121",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:111",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 109,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:111:term-usage:520-527",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:111",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 520,
+    "end_char": 527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:111:term-usage:706-713",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:111",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 706,
+    "end_char": 713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:111:term-usage:928-947",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:111",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 928,
+    "end_char": 947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:112:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:112:term-usage:489-496",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:policia",
+    "span": "Policía",
+    "start_char": 489,
+    "end_char": 496
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:112:term-usage:621-633",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 621,
+    "end_char": 633
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:115:term-usage:530-542",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:115",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 530,
+    "end_char": 542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:119:term-usage:376-388",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:119",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 376,
+    "end_char": 388
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:121:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:127:term-usage:90-102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 90,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:128:term-usage:368-380",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 368,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:129:term-usage:29-48",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 29,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:130:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:130",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:132:term-usage:95-107",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:132",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 95,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:133:term-usage:147-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:133",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 147,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:133:term-usage:229-239",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:133",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 229,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:136:term-usage:58-70",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 58,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:136:term-usage:338-357",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:servicio-de-carrera",
+    "span": "Servicio de Carrera",
+    "start_char": 338,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:137:term-usage:26-36",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 26,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:137:term-usage:472-482",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 472,
+    "end_char": 482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:137:term-usage:539-551",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:constitucion",
+    "span": "Constitución",
+    "start_char": 539,
+    "end_char": 551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:137:term-usage:1198-1208",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1198,
+    "end_char": 1208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:article:137:term-usage:1529-1539",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1529,
+    "end_char": 1539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:segundo:term-usage:85-97",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 85,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:segundo:term-usage:325-335",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 325,
+    "end_char": 335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:tercero:term-usage:204-214",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 204,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:tercero:term-usage:481-491",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 481,
+    "end_char": 491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:tercero:term-usage:946-956",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 946,
+    "end_char": 956
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:cuarto:term-usage:1205-1215",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 1205,
+    "end_char": 1215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:quinto:term-usage:132-142",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 132,
+    "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:quinto:term-usage:465-475",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 465,
+    "end_char": 475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:sexto:term-usage:123-133",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 123,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:sexto:term-usage:214-226",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:ley-organica",
+    "span": "Ley Orgánica",
+    "start_char": 214,
+    "end_char": 226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:septimo:term-usage:508-518",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lopgr:term:procurador",
+    "span": "Procurador",
+    "start_char": 508,
+    "end_char": 518
+  }
+]

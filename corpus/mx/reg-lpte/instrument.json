@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lpte",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Planeación y Transición Energética",
+  "short_name": "REG-LPTE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-10-03",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T08:04:07.409466Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPTE.pdf",
+  "source_sha256": "716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed",
+  "extracted_text_sha256": "a3e066dd60fbbf470e2be8640d4571a0048f478ca5b94f0760a53595a4b9e538",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

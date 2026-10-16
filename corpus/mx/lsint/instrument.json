@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lsint",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Seguridad Interior",
+  "short_name": "LSINT",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2017-12-21",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:45:32.732279Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSInt_300519.pdf",
+  "source_sha256": "d8a1702852a76f1b20742643526f32f3363e02d75f74aaa1633a608566b9dc89",
+  "extracted_text_sha256": "0a7743bb9dd1ec7f56f2b337d7a3157dbca245e3ef16214c9b1467f614825c03",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

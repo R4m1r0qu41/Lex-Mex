@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfdeapd",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas",
+  "short_name": "LFDEAPD",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2018-06-22",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-10-14T07:26:59.626545Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDEAPD.pdf",
+  "source_sha256": "4fadf9a6f2d22a9e48d8e29ed302456751da66eb723e0df1dc6ac45a5e4640b0",
+  "extracted_text_sha256": "8599f3d5cfbe187e1549094004634cc93332ea88fdcd0dfb9c0891713b898451",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

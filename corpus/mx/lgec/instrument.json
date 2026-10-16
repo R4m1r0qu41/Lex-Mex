@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgec",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Economía Circular",
+  "short_name": "LGEC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2026-01-19",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:32:47.013255Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEC.pdf",
+  "source_sha256": "89220c0c86445a873067e0095b4591c11847dfd11595ca3e11bbfcf09cef6754",
+  "extracted_text_sha256": "09a639a680802465ff0fc9bdf861dbb9500de73b80e5335f7e9b5d239ac9355d",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

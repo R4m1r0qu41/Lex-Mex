@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgmime",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMIME.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmime.htm",
+  "retrieved_at": "2026-10-14T07:34:36.523452Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 650032,
+  "etag": "\"9eb30-610449ea99b80\"",
+  "last_modified": "Wed, 31 Jan 2024 21:32:46 GMT",
+  "source_sha256": "94e9c11b4c7f2b192eb33fb17818bea89d6d0bc5a85c85f6b08754fd6b2f6143",
+  "extracted_text_sha256": "a8ffd55443f150970765e6866cde4c7720e3cd91b64db0622782518ff52d2b6a",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

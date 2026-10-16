@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Agraria para Fomentar la Organización y Desarrollo de la Mujer Campesina",
+  "short_name": "REG-LAGRA-FODMC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1998-05-08",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:48:44.098025Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_FODMC.pdf",
+  "source_sha256": "8f260ce1817a60db6bf98c15f8ddf05b57321d6b78c67eaf1e0b987f8bcc70b1",
+  "extracted_text_sha256": "03300bf97c988a61d6c991ae012ab294d0db265cb079f3f7b04d9fa25ffaae63",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

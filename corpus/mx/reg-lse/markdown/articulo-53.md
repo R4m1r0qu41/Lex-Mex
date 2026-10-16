@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lse:article:53
+instrument_id: urn:lex-mx:federal:regulation:reg-lse
+instrument: REG-LSE
+name: "Reglamento de la Ley del Sector Eléctrico"
+provision_type: article
+number: "53"
+aliases: ["REG-LSE — Artículo 53"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSE.pdf
+source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
+---
+
+> Título TERCERO · Capítulo II
+
+# Artículo 53
+
+El autoconsumo aislado está sujeto a permiso de generación en los términos del presente reglamento, así como al cumplimiento de lo previsto en el artículo 31 de la Ley y las disposiciones administrativas de carácter general en materia de autoconsumo.

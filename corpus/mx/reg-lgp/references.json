@@ -1,0 +1,91 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:13:reference:89-90:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:13",
+    "source_span": "4",
+    "start_char": 89,
+    "end_char": 90,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:4",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:21:reference:347-348:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:21",
+    "source_span": "4",
+    "start_char": 347,
+    "end_char": 348,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 319,
+        "end_char": 333
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:60:reference:1104-1105:60:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:60",
+    "source_span": "I",
+    "start_char": 1104,
+    "end_char": 1105,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:60",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "I",
+        "start_char": 1104,
+        "end_char": 1105
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:64:reference:54-71:63:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:64",
+    "source_span": "artículo anterior",
+    "start_char": 54,
+    "end_char": 71,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:63",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgp:article:70:reference:205-222:69:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:70",
+    "source_span": "artículo anterior",
+    "start_char": 205,
+    "end_char": 222,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgp:article:69",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]

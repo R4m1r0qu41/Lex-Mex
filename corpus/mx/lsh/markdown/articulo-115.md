@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lsh:article:115
+instrument_id: urn:lex-mx:federal:statute:lsh
+instrument: LSH
+name: "Ley del Sector Hidrocarburos"
+provision_type: article
+number: "115"
+aliases: ["LSH — Artículo 115"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSH.pdf
+source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
+---
+
+> Título TERCERO · Capítulo V
+
+# Artículo 115
+
+Corresponde a la Secretaría de Energía: I. Con base en los criterios vinculantes de planeación incorporados en la política pública, regular y supervisar, sin perjuicio de las atribuciones que correspondan a la Agencia, así como otorgar, modificar, actualizar, suspender y revocar los permisos para las siguientes actividades: a) Tratamiento, refinación, importación, exportación, Comercialización, Transporte y Almacenamiento de Petróleo; b) Importación y exportación de Gas Natural; c) Importación y exportación de Petrolíferos, y d) Importación y exportación de Petroquímicos. II. Determinar la política pública en materia energética aplicable a los niveles de Almacenamiento y a la garantía de suministro de Hidrocarburos y Petrolíferos, a fin de salvaguardar los intereses y la seguridad nacionales. Con base en lo anterior, la Secretaría de Energía debe establecer las medidas que deben cumplir las personas Permisionarias respecto de dicha política pública. La gestión de los niveles mínimos de almacenamiento puede ser llevada a cabo por la Secretaría de Energía o por la instancia que ésta designe; III. Instruir, por sí misma o a propuesta de la Comisión Nacional de Energía, en el ámbito de sus respectivas competencias, a las Empresas Públicas del Estado, y sus empresas filiales que realicen las acciones necesarias para que sus actividades y operaciones sean garantes de la seguridad y la autosuficiencia energética de la Nación y que no obstaculicen el desarrollo eficiente de los mercados, así como la política pública en materia energética; IV. Emitir el plan quinquenal de expansión y optimización de la infraestructura de Transporte por ducto y Almacenamiento a nivel nacional, pudiendo considerar las propuestas que al efecto emitan, en su caso, los gestores de los Sistemas Integrados y las personas Usuarias de dichos sistemas; V. Aprobar la creación de Sistemas Integrados, las condiciones de prestación del servicio en los mismos y expedir las metodologías tarifarias respectivas, así como expedir las reglas de operación de los gestores independientes de dichos Sistemas; VI. Aprobar las bases de las licitaciones que realice el Centro Nacional de Control del Gas Natural, así como los Mecanismos de Asignación de Capacidad que realicen las personas Permisionarias para asignar la capacidad en los sistemas de Transporte y Almacenamiento de Gas Natural; VII. Dictar los planes de emergencia para la continuidad de las actividades en los Sistemas Integrados de Transporte por ducto y Almacenamiento, para lo cual debe considerar las opiniones que emitan la Comisión Nacional de Energía y los gestores de dichos sistemas, y VIII. Emitir los lineamientos de política pública en materia de Hidrocarburos, Petrolíferos y Petroquímicos e incorporarlos en la regulación que puede emitir para cada una de las actividades objeto de esta Ley. Como parte de la regulación y las disposiciones de política que emita, la Secretaría de Energía puede instruir la adopción y observancia de estándares técnicos internacionales. Las actividades de la Secretaría de Energía se deben orientar con base en los objetivos de la política pública en materia energética, incluyendo los de seguridad energética del país, la sustentabilidad, continuidad del suministro de combustibles y la diversificación de mercados.

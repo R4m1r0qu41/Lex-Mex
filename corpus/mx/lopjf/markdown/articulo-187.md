@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lopjf:article:187
+instrument_id: urn:lex-mx:federal:statute:lopjf
+instrument: LOPJF
+name: "Ley Orgánica del Poder Judicial de la Federación"
+provision_type: article
+number: "187"
+aliases: ["LOPJF — Artículo 187"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf
+source_sha256: 6569965cdfc64e4c223fc12d5a8ac885b7fad6cb432a0370d70f4dd7b8343fd1
+---
+
+> Título OCTAVO · Capítulo II
+
+# Artículo 187
+
+Serán causas de responsabilidad para las y los servidores públicos del Poder Judicial de la Federación, incluyendo a las personas juzgadoras: I. Realizar conductas que atenten contra la independencia de la función judicial, tales como aceptar o ejercer consignas, presiones, encargos o comisiones, incurrir en corrupción, o cualquier acción que genere o implique subordinación indebida respecto de alguna persona del mismo u otro poder, o de particulares; II. Inmiscuirse indebidamente en cuestiones del orden jurisdiccional que competan a otros órganos del Poder Judicial de la Federación; III. Tener una notoria ineptitud técnica o jurídica, o descuido en el desempeño de las funciones o labores que deban realizar; IV. Alterar o manipular la información en constancias de autos para afectar la resolución de los asuntos de su competencia; V. Impedir en los procedimientos judiciales que las partes ejerzan los derechos que legalmente les correspondan en los procedimientos; VI. Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos; VII. Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones generales correspondientes; VIII. No poner en conocimiento del Tribunal de Disciplina Judicial o del Órgano de Administración Judicial, según corresponda, cualquier acto tendiente a vulnerar la independencia de la función judicial; IX. Ejercer sus atribuciones de manera claramente arbitraria en detrimento de la función judicial; X. No preservar la dignidad, imparcialidad y profesionalismo propios de la función judicial en el desempeño de sus labores; XI. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento; XII. Abandonar la residencia del Tribunal de Circuito o Juzgado de Distrito al que esté adscrito o adscrita, o dejar de desempeñar las funciones o las labores que tenga a su cargo; XIII. Incumplir las disposiciones constitucionales y legales en materia de propaganda y de informes de labores y de gestión; XIV. La omisión a que se refiere el artículo [135](../../cnpp/markdown/articulo-135.md) del Código Nacional de Procedimientos Penales; XV. Acosar u hostigar sexualmente, o bien, llevar a cabo una o más conductas de naturaleza sexual, valiéndose de su posición jerárquica o aunque no exista dicha posición, sobre otra persona de su entorno laboral, sin el consentimiento de ésta; XVI. Valiéndose de las atribuciones o facultades de su empleo, cargo o comisión, directa o indirectamente designar, nombrar o intervenir para que se contrate en cualquier órgano jurisdiccional o área administrativa del Poder Judicial de la Federación en que ejerza funciones, a personas con las que tenga lazos de parentesco por consanguinidad o afinidad hasta el cuarto grado o vínculo de matrimonio, concubinato o afectivo; XVII. Que las personas que hubieran recibido un nombramiento de base, interino o de confianza directa o indirectamente designen, nombren o intervengan para que se contrate a los cónyuges, concubinas, convivientes o parejas en relaciones análogas, o a parientes consanguíneos o por afinidad hasta el cuarto grado de la persona que los nombró, y XVIII. Las previstas en la Ley General de Responsabilidades Administrativas, siempre que no fueren contrarias a la naturaleza de la función jurisdiccional. Además de la imposición de la responsabilidad administrativa que corresponda, los nombramientos dados en contravención a las fracciones XVI y XVII de este artículo quedarán sin efectos.

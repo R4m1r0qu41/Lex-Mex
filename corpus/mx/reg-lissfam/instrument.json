@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lissfam",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
+  "short_name": "REG-LISSFAM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2013-05-10",
+  "latest_reform_date": "2026-03-20",
+  "retrieved_at": "2026-10-14T08:00:42.964174Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISSFAM.pdf",
+  "source_sha256": "c1ae52e27755facefca5527b9bc13e1248528cc9d2a88c666b58756f31f7c52a",
+  "extracted_text_sha256": "f14ce8ba24e5316ce3e7aeb5fb0600a4ac0ac04abd39ae443780ef190efe04d3",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

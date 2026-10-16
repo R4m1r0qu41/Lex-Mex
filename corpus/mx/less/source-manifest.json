@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:less",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LESS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/less.htm",
+  "retrieved_at": "2026-10-14T07:25:49.272596Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 502806,
+  "etag": "\"7ac16-634b8d1dfdd00\"",
+  "last_modified": "Fri, 09 May 2025 19:17:40 GMT",
+  "source_sha256": "74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb",
+  "extracted_text_sha256": "a47d966c72df54dc7975ee65e11ed8f6d5bf0cd763f0b8b562f43ef1acd76a72",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

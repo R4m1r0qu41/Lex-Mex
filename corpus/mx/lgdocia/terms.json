@@ -1,0 +1,68 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdocia:term:uma",
+    "term": "UMA",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdocia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdocia:article:4",
+    "fraction": "I",
+    "start_char": 44,
+    "end_char": 193,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdocia:term:red-de-apoyo-contra-el-cancer-en-la-infancia-y-adolescencia",
+    "term": "Red de Apoyo Contra el Cáncer en la Infancia y Adolescencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdocia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdocia:article:4",
+    "fraction": "II",
+    "start_char": 193,
+    "end_char": 420,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdocia:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdocia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdocia:article:4",
+    "fraction": "III",
+    "start_char": 420,
+    "end_char": 536,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdocia:term:centro",
+    "term": "Centro",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdocia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdocia:article:4",
+    "fraction": "IV",
+    "start_char": 536,
+    "end_char": 613,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdocia:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdocia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdocia:article:4",
+    "fraction": "V",
+    "start_char": 613,
+    "end_char": 650,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdocia:term:atencion-oportuna",
+    "term": "Atención Oportuna",
+    "instrument_id": "urn:lex-mx:federal:statute:lgdocia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgdocia:article:4",
+    "fraction": "VI",
+    "start_char": 650,
+    "end_char": 958,
+    "basis": "express_definition"
+  }
+]

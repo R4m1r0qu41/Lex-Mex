@@ -1,0 +1,39 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:12:reference:47-64:11:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:12",
+    "source_span": "artículo anterior",
+    "start_char": 47,
+    "end_char": 64,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:11",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I, II y III",
+        "start_char": 20,
+        "end_char": 42
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:2:reference:31-48:1:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:2",
+    "source_span": "artículo anterior",
+    "start_char": 31,
+    "end_char": 48,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]

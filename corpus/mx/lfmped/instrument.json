@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfmped",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
+  "short_name": "LFMPED",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-08-11",
+  "latest_reform_date": "2025-03-18",
+  "retrieved_at": "2026-10-14T07:28:22.087119Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMPED.pdf",
+  "source_sha256": "1f33240cef59d86e064987331b3448af4f030f168813be571117bd3e09f20291",
+  "extracted_text_sha256": "479cf52dec2638063bba5674c6f483f2686152ab82c7e8994a137e0160703a76",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

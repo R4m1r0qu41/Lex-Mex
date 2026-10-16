@@ -1,0 +1,167 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:term:actividades-estadisticas-y-geograficas-o-actividades",
+    "term": "Actividades Estadísticas y Geográficas o Actividades",
+    "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "fraction": "I",
+    "start_char": 44,
+    "end_char": 299,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "fraction": "II",
+    "start_char": 299,
+    "end_char": 345,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-estadistica",
+    "term": "Información Estadística",
+    "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "fraction": "III",
+    "start_char": 345,
+    "end_char": 857,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-geografica",
+    "term": "Información Geográfica",
+    "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "fraction": "IV",
+    "start_char": 857,
+    "end_char": 1140,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:term:informacion",
+    "term": "Información",
+    "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "fraction": "V",
+    "start_char": 1140,
+    "end_char": 1215,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:term:informacion-de-interes-nacional",
+    "term": "Información de Interés Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "fraction": "VI",
+    "start_char": 1215,
+    "end_char": 1375,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:term:informantes-del-sistema",
+    "term": "Informantes del Sistema",
+    "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "fraction": "VII",
+    "start_char": 1375,
+    "end_char": 1529,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:term:instituto-o-inegi",
+    "term": "Instituto o INEGI",
+    "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "fraction": "VIII",
+    "start_char": 1529,
+    "end_char": 1605,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:term:junta-de-gobierno",
+    "term": "Junta de Gobierno",
+    "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "fraction": "IX",
+    "start_char": 1605,
+    "end_char": 1667,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:term:presidente-del-instituto-o-presidente",
+    "term": "Presidente del Instituto o Presidente",
+    "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "fraction": "X",
+    "start_char": 1667,
+    "end_char": 1775,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:term:red-geodesica-nacional",
+    "term": "Red Geodésica Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "fraction": "XI",
+    "start_char": 1775,
+    "end_char": 1944,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:term:red-nacional-de-informacion",
+    "term": "Red Nacional de Información",
+    "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "fraction": "XII",
+    "start_char": 1944,
+    "end_char": 2216,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:term:sistema-nacional-de-informacion-estadistica-y-geografica-o-sistema",
+    "term": "Sistema Nacional de Información Estadística y Geográfica o Sistema",
+    "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "fraction": "XIII",
+    "start_char": 2216,
+    "end_char": 2516,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:term:subsistemas-nacionales-de-informacion-o-subsistemas",
+    "term": "Subsistemas Nacionales de Información o Subsistemas",
+    "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "fraction": "XIV",
+    "start_char": 2516,
+    "end_char": 2696,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsnieg:term:unidades-del-estado-o-unidades",
+    "term": "Unidades del Estado o Unidades",
+    "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsnieg:article:2",
+    "fraction": "XV",
+    "start_char": 2696,
+    "end_char": 3481,
+    "basis": "express_definition"
+  }
+]

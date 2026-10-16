@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:ldrs",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldrs.htm",
+  "retrieved_at": "2026-10-14T07:24:23.551018Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 762934,
+  "etag": "\"ba436-61cc53be0fec0\"",
+  "last_modified": "Tue, 09 Jul 2024 00:01:39 GMT",
+  "source_sha256": "30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21",
+  "extracted_text_sha256": "5f3fedb6194440db7a19f7b7d1dc15b0be62dbc85870f607f949efee206174c8",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

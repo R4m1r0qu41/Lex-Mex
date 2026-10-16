@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:ldefam",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional",
+  "short_name": "LDEFAM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1926-03-15",
+  "latest_reform_date": "2025-07-16",
+  "retrieved_at": "2026-10-14T07:23:57.507684Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDEFAGN.pdf",
+  "source_sha256": "3fe9742a4b38b3270a7f873cd839755785ee83b7ee2217d00af68bd9d76c0e38",
+  "extracted_text_sha256": "813492c86694e9a414f25a35d7d3b2cbae470723889a7d0cec698fa2469478ce",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

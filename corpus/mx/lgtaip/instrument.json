@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgtaip",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Transparencia y Acceso a la Información Pública",
+  "short_name": "LGTAIP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-03-20",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:36:55.855703Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf",
+  "source_sha256": "e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b",
+  "extracted_text_sha256": "a46e78718f76786ab580ee5679e8de776eba217f0e3c8341d9005ea3ac6049e6",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

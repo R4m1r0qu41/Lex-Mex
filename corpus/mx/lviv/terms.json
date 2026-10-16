@@ -1,0 +1,167 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:term:autoproduccion-de-vivienda",
+    "term": "Autoproducción de vivienda",
+    "instrument_id": "urn:lex-mx:federal:statute:lviv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lviv:article:4",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 336,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:term:autoconstruccion-de-vivienda",
+    "term": "Autoconstrucción de vivienda",
+    "instrument_id": "urn:lex-mx:federal:statute:lviv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lviv:article:4",
+    "fraction": "II",
+    "start_char": 336,
+    "end_char": 519,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:term:estimulos",
+    "term": "Estímulos",
+    "instrument_id": "urn:lex-mx:federal:statute:lviv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lviv:article:4",
+    "fraction": "III",
+    "start_char": 519,
+    "end_char": 800,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:term:espacios-habitables",
+    "term": "Espacios Habitables",
+    "instrument_id": "urn:lex-mx:federal:statute:lviv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lviv:article:4",
+    "fraction": "IV",
+    "start_char": 800,
+    "end_char": 1255,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:term:espacios-auxiliares",
+    "term": "Espacios Auxiliares",
+    "instrument_id": "urn:lex-mx:federal:statute:lviv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lviv:article:4",
+    "fraction": "V",
+    "start_char": 1255,
+    "end_char": 1407,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lviv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lviv:article:4",
+    "fraction": "VI",
+    "start_char": 1407,
+    "end_char": 1490,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:term:comision-intersecretarial",
+    "term": "Comisión Intersecretarial",
+    "instrument_id": "urn:lex-mx:federal:statute:lviv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lviv:article:4",
+    "fraction": "VII",
+    "start_char": 1490,
+    "end_char": 1599,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:statute:lviv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lviv:article:4",
+    "fraction": "VIII",
+    "start_char": 1599,
+    "end_char": 1682,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:term:mejoramiento-de-vivienda",
+    "term": "Mejoramiento de vivienda",
+    "instrument_id": "urn:lex-mx:federal:statute:lviv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lviv:article:4",
+    "fraction": "IX",
+    "start_char": 1682,
+    "end_char": 1996,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:term:produccion-social-de-vivienda",
+    "term": "Producción social de vivienda",
+    "instrument_id": "urn:lex-mx:federal:statute:lviv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lviv:article:4",
+    "fraction": "X",
+    "start_char": 1996,
+    "end_char": 2590,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:term:productor-social-de-vivienda",
+    "term": "Productor social de vivienda",
+    "instrument_id": "urn:lex-mx:federal:statute:lviv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lviv:article:4",
+    "fraction": "XI",
+    "start_char": 2590,
+    "end_char": 2758,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:term:politica-nacional-de-vivienda",
+    "term": "Política Nacional de Vivienda",
+    "instrument_id": "urn:lex-mx:federal:statute:lviv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lviv:article:4",
+    "fraction": "XII",
+    "start_char": 2758,
+    "end_char": 3235,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:term:sistema-de-informacion",
+    "term": "Sistema de Información",
+    "instrument_id": "urn:lex-mx:federal:statute:lviv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lviv:article:4",
+    "fraction": "XIII",
+    "start_char": 3235,
+    "end_char": 3665,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:term:suelo",
+    "term": "Suelo",
+    "instrument_id": "urn:lex-mx:federal:statute:lviv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lviv:article:4",
+    "fraction": "XIV",
+    "start_char": 3665,
+    "end_char": 3883,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lviv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lviv:article:4",
+    "fraction": "XV",
+    "start_char": 3883,
+    "end_char": 3992,
+    "basis": "express_definition"
+  }
+]

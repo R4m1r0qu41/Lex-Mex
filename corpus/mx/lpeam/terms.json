@@ -1,0 +1,189 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:aeronave-interceptora",
+    "term": "Aeronave interceptora",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "II",
+    "start_char": 235,
+    "end_char": 335,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:alertamiento-aereo",
+    "term": "Alertamiento aéreo",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "III",
+    "start_char": 335,
+    "end_char": 501,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:aseguramiento",
+    "term": "Aseguramiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "IV",
+    "start_char": 501,
+    "end_char": 845,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:autoridad-de-control-de-interceptacion",
+    "term": "Autoridad de control de interceptación",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "V",
+    "start_char": 845,
+    "end_char": 951,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:centro",
+    "term": "Centro",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "VI",
+    "start_char": 951,
+    "end_char": 1026,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "VII",
+    "start_char": 1026,
+    "end_char": 1104,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:deteccion",
+    "term": "Detección",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "VIII",
+    "start_char": 1104,
+    "end_char": 1279,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:espacio-aereo-mexicano",
+    "term": "Espacio Aéreo Mexicano",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "IX",
+    "start_char": 1279,
+    "end_char": 1417,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:identificacion",
+    "term": "Identificación",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "X",
+    "start_char": 1417,
+    "end_char": 1763,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:interceptacion-aerea",
+    "term": "Interceptación aérea",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "XI",
+    "start_char": 1763,
+    "end_char": 2149,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:proteccion-del-espacio-aereo-mexicano",
+    "term": "Protección del Espacio Aéreo Mexicano",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "XII",
+    "start_char": 2149,
+    "end_char": 2325,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "XIII",
+    "start_char": 2325,
+    "end_char": 2379,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:seguimiento",
+    "term": "Seguimiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "XIV",
+    "start_char": 2379,
+    "end_char": 2616,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:seguridad-del-espacio-aereo",
+    "term": "Seguridad del Espacio Aéreo",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "XV",
+    "start_char": 2616,
+    "end_char": 2957,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:sistema",
+    "term": "Sistema",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "XVI",
+    "start_char": 2957,
+    "end_char": 3035,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:zona-de-identificacion-de-defensa-aerea",
+    "term": "Zona de Identificación de Defensa Aérea",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "XVII",
+    "start_char": 3035,
+    "end_char": 3329,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpeam:term:zona-de-vigilancia-y-proteccion-del-espacio-aereo",
+    "term": "Zona de Vigilancia y Protección del Espacio Aéreo",
+    "instrument_id": "urn:lex-mx:federal:statute:lpeam",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
+    "fraction": "XVIII",
+    "start_char": 3329,
+    "end_char": 3774,
+    "basis": "express_definition"
+  }
+]

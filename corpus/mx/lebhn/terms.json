@@ -1,0 +1,57 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:term:autoridades",
+    "term": "Autoridades",
+    "instrument_id": "urn:lex-mx:federal:statute:lebhn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lebhn:article:1-bis",
+    "fraction": "I",
+    "start_char": 52,
+    "end_char": 319,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:term:instituciones",
+    "term": "Instituciones",
+    "instrument_id": "urn:lex-mx:federal:statute:lebhn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lebhn:article:1-bis",
+    "fraction": "II",
+    "start_char": 319,
+    "end_char": 387,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:term:uso-oficial",
+    "term": "Uso Oficial",
+    "instrument_id": "urn:lex-mx:federal:statute:lebhn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lebhn:article:1-bis",
+    "fraction": "III",
+    "start_char": 387,
+    "end_char": 468,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:term:abanderamiento",
+    "term": "Abanderamiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lebhn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lebhn:article:1-bis",
+    "fraction": "IV",
+    "start_char": 468,
+    "end_char": 568,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lebhn:term:autoridad-encargada-de-abanderar",
+    "term": "Autoridad Encargada de Abanderar",
+    "instrument_id": "urn:lex-mx:federal:statute:lebhn",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lebhn:article:1-bis",
+    "fraction": "V",
+    "start_char": 568,
+    "end_char": 790,
+    "basis": "express_definition"
+  }
+]

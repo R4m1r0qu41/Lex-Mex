@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lpo",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Productos Orgánicos",
+  "short_name": "LPO",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-02-07",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:42:21.934922Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPO.pdf",
+  "source_sha256": "2c0605e891e16c74283ed14d0adf749dba4cab1ad67909a2a5934f8e38b641a6",
+  "extracted_text_sha256": "4e011957acb523b3df61d7656fe7d2178e10eec32c1745c56df402aa02007706",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

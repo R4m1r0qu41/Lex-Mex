@@ -1,0 +1,90 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lec:term:actividades-agropecuarias",
+    "term": "ACTIVIDADES AGROPECUARIAS",
+    "instrument_id": "urn:lex-mx:federal:statute:lec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lec:article:3",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 226,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lec:term:constitucion",
+    "term": "CONSTITUCIÓN",
+    "instrument_id": "urn:lex-mx:federal:statute:lec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lec:article:3",
+    "fraction": "II",
+    "start_char": 226,
+    "end_char": 304,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lec:term:cuota-energetica",
+    "term": "CUOTA ENERGÉTICA",
+    "instrument_id": "urn:lex-mx:federal:statute:lec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lec:article:3",
+    "fraction": "III",
+    "start_char": 304,
+    "end_char": 420,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lec:term:desarrollo-rural-sustentable",
+    "term": "DESARROLLO RURAL SUSTENTABLE",
+    "instrument_id": "urn:lex-mx:federal:statute:lec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lec:article:3",
+    "fraction": "IV",
+    "start_char": 420,
+    "end_char": 797,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lec:term:energeticos-agropecuarios",
+    "term": "ENERGÉTICOS AGROPECUARIOS",
+    "instrument_id": "urn:lex-mx:federal:statute:lec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lec:article:3",
+    "fraction": "V",
+    "start_char": 797,
+    "end_char": 952,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lec:term:ley",
+    "term": "LEY",
+    "instrument_id": "urn:lex-mx:federal:statute:lec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lec:article:3",
+    "fraction": "VI",
+    "start_char": 952,
+    "end_char": 996,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lec:term:precios-y-tarifas-de-estimulo",
+    "term": "PRECIOS Y TARIFAS DE ESTÍMULO",
+    "instrument_id": "urn:lex-mx:federal:statute:lec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lec:article:3",
+    "fraction": "VII",
+    "start_char": 996,
+    "end_char": 1166,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lec:term:programa",
+    "term": "PROGRAMA",
+    "instrument_id": "urn:lex-mx:federal:statute:lec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lec:article:3",
+    "fraction": "VIII",
+    "start_char": 1166,
+    "end_char": 1217,
+    "basis": "express_definition"
+  }
+]

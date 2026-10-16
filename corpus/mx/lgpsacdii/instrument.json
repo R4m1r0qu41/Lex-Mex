@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgpsacdii",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil",
+  "short_name": "LGPSACDII",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2011-10-24",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-10-14T07:35:47.205736Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf",
+  "source_sha256": "14211e8d7abeed99e98e02fc5caad48904c1cce2a5b90fae2e4add5c65c58854",
+  "extracted_text_sha256": "90987060604bf4a3c04612ca926ad3c61ceba9b071462bf3f05089d74f96e5d5",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

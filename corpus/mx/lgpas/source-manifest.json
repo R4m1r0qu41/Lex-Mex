@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgpas",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpas.htm",
+  "retrieved_at": "2026-10-14T07:34:56.021683Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 862543,
+  "etag": "\"d294f-618216ca4f000\"",
+  "last_modified": "Fri, 10 May 2024 22:54:56 GMT",
+  "source_sha256": "160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf",
+  "extracted_text_sha256": "b603cd33519e2c079b027683e9a264f65076dc326b28d10f6107f9e8c18cf2fa",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

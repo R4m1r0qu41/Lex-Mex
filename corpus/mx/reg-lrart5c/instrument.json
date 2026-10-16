@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lrart5c",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Reglamentaria del Artículo 5o. Constitucional, Relativo al Ejercicio de las Profesiones en el Distrito Federal",
+  "short_name": "REG-LRART5C",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1945-10-01",
+  "latest_reform_date": "2018-04-05",
+  "retrieved_at": "2026-10-14T08:04:26.882508Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRArt5C_050418.pdf",
+  "source_sha256": "33182523ff33375935d5dd77136f3cb664a9cfb298c4c56df6082cac06a7a451",
+  "extracted_text_sha256": "078624da5b8bcbe13436b91b3873939ee4f0c8b829a5b530326dbf0af309ce8d",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

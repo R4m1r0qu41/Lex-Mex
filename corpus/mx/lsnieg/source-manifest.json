@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lsnieg",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIEG.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsnieg.htm",
+  "retrieved_at": "2026-10-14T07:45:50.184599Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 826923,
+  "etag": "\"c9e2b-644b346079240\"",
+  "last_modified": "Sat, 29 Nov 2025 03:23:45 GMT",
+  "source_sha256": "bf18e4d51b4f44e741ab550e298f712a350ab08eec94061489aba7745c1aaeab",
+  "extracted_text_sha256": "3267018e7785651c9ac3acdd50e86d792d955a554d12c00c9e1abd2c5b290f67",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

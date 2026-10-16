@@ -1,0 +1,101 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpsdmh:term:areas-de-exclusion",
+    "term": "Áreas de exclusión",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpsdmh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpsdmh:article:3",
+    "fraction": "II",
+    "start_char": 424,
+    "end_char": 734,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpsdmh:term:derivacion-clandestina",
+    "term": "Derivación clandestina",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpsdmh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpsdmh:article:3",
+    "fraction": "III",
+    "start_char": 734,
+    "end_char": 906,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpsdmh:term:distribuidor",
+    "term": "Distribuidor",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpsdmh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpsdmh:article:3",
+    "fraction": "IV",
+    "start_char": 906,
+    "end_char": 1160,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpsdmh:term:ductos",
+    "term": "Ductos",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpsdmh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpsdmh:article:3",
+    "fraction": "V",
+    "start_char": 1160,
+    "end_char": 1376,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpsdmh:term:embarcacion",
+    "term": "Embarcación",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpsdmh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpsdmh:article:3",
+    "fraction": "VI",
+    "start_char": 1376,
+    "end_char": 1464,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpsdmh:term:franquicia",
+    "term": "Franquicia",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpsdmh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpsdmh:article:3",
+    "fraction": "VII",
+    "start_char": 1464,
+    "end_char": 1608,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpsdmh:term:industria-petrolera",
+    "term": "Industria Petrolera",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpsdmh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpsdmh:article:3",
+    "fraction": "VIII",
+    "start_char": 1608,
+    "end_char": 2222,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpsdmh:term:marcador",
+    "term": "Marcador",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpsdmh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpsdmh:article:3",
+    "fraction": "IX",
+    "start_char": 2222,
+    "end_char": 2475,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpsdmh:term:toma-clandestina",
+    "term": "Toma clandestina",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpsdmh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpsdmh:article:3",
+    "fraction": "X",
+    "start_char": 2475,
+    "end_char": 2615,
+    "basis": "express_definition"
+  }
+]

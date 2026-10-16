@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lge",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lge.htm",
+  "retrieved_at": "2026-10-14T07:32:35.918207Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1059443,
+  "etag": "\"102a73-6495137496740\"",
+  "last_modified": "Mon, 26 Jan 2026 21:30:29 GMT",
+  "source_sha256": "75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9",
+  "extracted_text_sha256": "3d9b9e65d6f61e98a5734e7331688a4f9fdc1a4637fffd30afc59d75ddc6f45e",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

@@ -1,0 +1,189 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:carrera-judicial",
+    "term": "Carrera Judicial",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "I",
+    "start_char": 57,
+    "end_char": 133,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:conflicto-de-interes",
+    "term": "Conflicto de interés",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "II",
+    "start_char": 133,
+    "end_char": 329,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:constitucion",
+    "term": "Constitución",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "III",
+    "start_char": 329,
+    "end_char": 404,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:defensoria-publica",
+    "term": "Defensoría Pública",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "IV",
+    "start_char": 404,
+    "end_char": 470,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:directora-o-director-general",
+    "term": "Directora o Director General",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "V",
+    "start_char": 470,
+    "end_char": 579,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:escuela-judicial",
+    "term": "Escuela Judicial",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "VI",
+    "start_char": 579,
+    "end_char": 641,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:integrantes-del-organo-de-administracion-judicial",
+    "term": "Integrantes del Órgano de Administración Judicial",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "VII",
+    "start_char": 641,
+    "end_char": 772,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "VIII",
+    "start_char": 772,
+    "end_char": 845,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:organo",
+    "term": "Órgano",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "IX",
+    "start_char": 845,
+    "end_char": 896,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:organo-jurisdiccional",
+    "term": "Órgano Jurisdiccional",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "X",
+    "start_char": 896,
+    "end_char": 1231,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:pleno",
+    "term": "Pleno",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "XI",
+    "start_char": 1231,
+    "end_char": 1288,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:presidenta/presidente",
+    "term": "Presidenta/Presidente",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "XII",
+    "start_char": 1288,
+    "end_char": 1380,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:registro-unico",
+    "term": "Registro Único",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "XIII",
+    "start_char": 1380,
+    "end_char": 1474,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:suprema-corte",
+    "term": "Suprema Corte",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "XIV",
+    "start_char": 1474,
+    "end_char": 1535,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:titulares",
+    "term": "Titulares",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "XV",
+    "start_char": 1535,
+    "end_char": 1747,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:tribunal-electoral",
+    "term": "Tribunal Electoral",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "XVI",
+    "start_char": 1747,
+    "end_char": 1831,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:term:vinculo-o-relacion-familiar",
+    "term": "Vínculo o relación familiar",
+    "instrument_id": "urn:lex-mx:federal:statute:lcjpjf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
+    "fraction": "XVII",
+    "start_char": 1831,
+    "end_char": 2251,
+    "basis": "express_definition"
+  }
+]

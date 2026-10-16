@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lemefam",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEMEFAGN.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lemefam.htm",
+  "retrieved_at": "2026-10-14T07:25:15.302268Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 390164,
+  "etag": "\"5f414-63cace158d240\"",
+  "last_modified": "Tue, 19 Aug 2025 00:24:33 GMT",
+  "source_sha256": "ad4c6635514637c1f3a27c11314083f86c965f3a68273e862c8dfe306c80483a",
+  "extracted_text_sha256": "216879d7e0c93060a2e3dfba1c33c1d30fea34c0fd566b9c67807696610ec91e",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

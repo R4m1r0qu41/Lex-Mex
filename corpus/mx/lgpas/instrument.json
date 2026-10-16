@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgpas",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Pesca y Acuacultura Sustentables",
+  "short_name": "LGPAS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2007-07-24",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-10-14T07:34:56.021683Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf",
+  "source_sha256": "160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf",
+  "extracted_text_sha256": "b603cd33519e2c079b027683e9a264f65076dc326b28d10f6107f9e8c18cf2fa",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

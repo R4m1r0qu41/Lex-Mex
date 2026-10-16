@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lagra",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Agraria",
+  "short_name": "LAGRA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1992-02-26",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-10-14T07:21:40.606301Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf",
+  "source_sha256": "7fa6151d65442b7beeb14e032ba54cbcaf4a8140606f152acb988bc554978550",
+  "extracted_text_sha256": "454bd57afaecc06c538af13083b91a36f0e740aecca62336360d57fcea08e4ca",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

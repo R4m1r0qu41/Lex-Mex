@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-loinah",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOINAH_240521.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOINAH_240521.pdf",
+  "retrieved_at": "2026-10-14T08:01:57.697324Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 558823,
+  "etag": "\"886e7-5c669b92aaa00\"",
+  "last_modified": "Tue, 06 Jul 2021 00:44:24 GMT",
+  "source_sha256": "36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db",
+  "extracted_text_sha256": "e6decf51bb203e4ff15b864a8ae251ba7e218d0f9c9ea799568110b7110b7e12",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

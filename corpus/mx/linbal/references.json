@@ -1,0 +1,47 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linbal:article:3:reference:135-152:2:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:linbal:article:3",
+    "source_span": "artículo anterior",
+    "start_char": 135,
+    "end_char": 152,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linbal",
+    "target_provision_id": "urn:lex-mx:federal:statute:linbal:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linbal:article:4:reference:684-685:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:linbal:article:4",
+    "source_span": "2",
+    "start_char": 684,
+    "end_char": 685,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linbal",
+    "target_provision_id": "urn:lex-mx:federal:statute:linbal:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linbal:article:8:reference:42-59:7:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:linbal:article:8",
+    "source_span": "artículo anterior",
+    "start_char": 42,
+    "end_char": 59,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linbal",
+    "target_provision_id": "urn:lex-mx:federal:statute:linbal:article:7",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]

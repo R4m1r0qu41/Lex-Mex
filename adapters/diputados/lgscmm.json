@@ -1,0 +1,17 @@
+{
+  "slug": "lgscmm",
+  "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley General del Sistema para la Carrera de las Maestras y los Maestros",
+  "short_name": "LGSCMM",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM_300919.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgscmm.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

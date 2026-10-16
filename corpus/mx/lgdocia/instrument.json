@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgdocia",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia",
+  "short_name": "LGDOCIA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2021-01-07",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:32:13.579794Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA_070121.pdf",
+  "source_sha256": "8403427f940274c9affce29b07d7522d3eb88e794dfdc0f703326b4907a14480",
+  "extracted_text_sha256": "2ddc7cd9e41cf452bfc8fde45da77f8d8cbd33e3c66257b19cc780507cba7732",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

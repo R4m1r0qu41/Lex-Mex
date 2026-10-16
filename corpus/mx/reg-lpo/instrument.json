@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lpo",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Productos Orgánicos",
+  "short_name": "REG-LPO",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2010-04-01",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T08:03:37.813035Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPO.pdf",
+  "source_sha256": "931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557",
+  "extracted_text_sha256": "7a3d8ab54032c9a8f642f3a68dc8cca7ef29201e4969b41d834afbf1410ea663",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

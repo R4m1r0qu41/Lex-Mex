@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-logan:article:114
+instrument_id: urn:lex-mx:federal:regulation:reg-logan
+instrument: REG-LOGAN
+name: "Reglamento de la Ley de Organizaciones Ganaderas"
+provision_type: article
+number: "114"
+aliases: ["REG-LOGAN — Artículo 114"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOGan.pdf
+source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
+---
+
+> Título QUINTO · Capítulo II
+
+# Artículo 114
+
+El plazo para interponer el recurso de revisión será de quince días contados a partir del día siguiente a aquel en que hubiere surtido efectos la notificación de la resolución que se recurra.

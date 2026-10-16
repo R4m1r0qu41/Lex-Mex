@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgpsvd",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General para la Prevención Social de la Violencia y la Delincuencia",
+  "short_name": "LGPSVD",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2012-01-24",
+  "latest_reform_date": "2021-05-04",
+  "retrieved_at": "2026-10-14T07:36:04.536269Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD_040521.pdf",
+  "source_sha256": "2d9d70a5bf906056c4a570d1ec3edf669b1ca2aa9b5a6b335b42b895447740ab",
+  "extracted_text_sha256": "cdfd0a172f9b18eda01d830dfa1485713b44fa5bf853174c984933b7516b1ccd",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

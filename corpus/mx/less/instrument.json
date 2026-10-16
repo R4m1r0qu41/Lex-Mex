@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:less",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de la Economía Social y Solidaria",
+  "short_name": "LESS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2012-05-23",
+  "latest_reform_date": "2025-04-16",
+  "retrieved_at": "2026-10-14T07:25:49.272596Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LESS.pdf",
+  "source_sha256": "74f2c47c7a9282194b2972ec1366352d94f03042c6d0c7f10efde018cb9e3bfb",
+  "extracted_text_sha256": "a47d966c72df54dc7975ee65e11ed8f6d5bf0cd763f0b8b562f43ef1acd76a72",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

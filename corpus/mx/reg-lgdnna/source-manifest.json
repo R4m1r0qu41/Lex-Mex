@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgdnna",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDNNA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDNNA.pdf",
+  "retrieved_at": "2026-10-14T07:56:31.496660Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 364687,
+  "etag": "\"5908f-563b487ca52c0\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:07 GMT",
+  "source_sha256": "210ea0277e17a912d821642fc2db095f75f5cb2421e3dce4d0373239c9c1cc71",
+  "extracted_text_sha256": "1b2d44065ed527bf2839c79db584d883ea32918af06425ba2e8a7be72e557ba2",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

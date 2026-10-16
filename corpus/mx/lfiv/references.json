@@ -1,0 +1,17 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:9:reference:806-808:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
+    "source_span": "19",
+    "start_char": 806,
+    "end_char": 808,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfiv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfiv:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

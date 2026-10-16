@@ -1,0 +1,1694 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:2:term-usage:93-96",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 93,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:2:term-usage:613-616",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 613,
+    "end_char": 616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:2:term-usage:836-839",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 836,
+    "end_char": 839
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:2:term-usage:925-945",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 925,
+    "end_char": 945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:3:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:3:term-usage:137-140",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 137,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:5:term-usage:38-41",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 38,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:5:term-usage:46-66",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 46,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:6:term-usage:59-79",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 59,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:6:term-usage:412-432",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 412,
+    "end_char": 432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:6:term-usage:757-777",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 757,
+    "end_char": 777
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:6:term-usage:858-861",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 858,
+    "end_char": 861
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:6:term-usage:998-1001",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 998,
+    "end_char": 1001
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:7:term-usage:75-78",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 75,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:7:term-usage:260-263",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 260,
+    "end_char": 263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:7:term-usage:326-329",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 326,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:9:term-usage:119-122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 119,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:10:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:10:term-usage:736-739",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 736,
+    "end_char": 739
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:11:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:11:term-usage:65-68",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 65,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:12:term-usage:154-174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 154,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:12:term-usage:281-301",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 281,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:13:term-usage:487-507",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 487,
+    "end_char": 507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:14:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:14:term-usage:116-119",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 116,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:14:term-usage:239-259",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 239,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:14:term-usage:288-308",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 288,
+    "end_char": 308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:15:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:15:term-usage:348-368",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 348,
+    "end_char": 368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:15:term-usage:737-757",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 737,
+    "end_char": 757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:15:term-usage:1379-1399",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 1379,
+    "end_char": 1399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:15:term-usage:1622-1642",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 1622,
+    "end_char": 1642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:16:term-usage:182-185",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 182,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:17:term-usage:210-230",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 210,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:17:term-usage:717-737",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 717,
+    "end_char": 737
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:17:term-usage:1147-1167",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 1147,
+    "end_char": 1167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:18:term-usage:75-78",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 75,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:18:term-usage:631-651",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 631,
+    "end_char": 651
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:19:term-usage:140-160",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 140,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:19:term-usage:431-451",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 431,
+    "end_char": 451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:19:term-usage:681-701",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 681,
+    "end_char": 701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:19:term-usage:933-953",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 933,
+    "end_char": 953
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:19:term-usage:1227-1247",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 1227,
+    "end_char": 1247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:19:term-usage:1742-1762",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 1742,
+    "end_char": 1762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:20:term-usage:147-167",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 147,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:21:term-usage:229-249",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 229,
+    "end_char": 249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:21:term-usage:412-432",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 412,
+    "end_char": 432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:22:term-usage:338-358",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 338,
+    "end_char": 358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:24:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:24:term-usage:215-218",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 215,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:25:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:26:term-usage:36-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 36,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:26:term-usage:117-120",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 117,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:27:term-usage:1309-1312",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 1309,
+    "end_char": 1312
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:28:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:28:term-usage:244-264",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 244,
+    "end_char": 264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:29:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:29:term-usage:387-390",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 387,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:30:term-usage:445-448",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 445,
+    "end_char": 448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:31:term-usage:496-499",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 496,
+    "end_char": 499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:31:term-usage:668-671",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 668,
+    "end_char": 671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:31:term-usage:791-794",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 791,
+    "end_char": 794
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:32:term-usage:233-236",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 233,
+    "end_char": 236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:33:term-usage:125-145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 125,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:33:term-usage:223-243",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 223,
+    "end_char": 243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:34:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:34:term-usage:603-623",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 603,
+    "end_char": 623
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:34:term-usage:700-735",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuradurias-de-proteccion-locales",
+    "span": "Procuradurías de Protección Locales",
+    "start_char": 700,
+    "end_char": 735
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:34:term-usage:823-843",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 823,
+    "end_char": 843
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:35:term-usage:500-503",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 500,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:35:term-usage:596-599",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 596,
+    "end_char": 599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:35:term-usage:722-725",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 722,
+    "end_char": 725
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:35:term-usage:932-935",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 932,
+    "end_char": 935
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:35:term-usage:1223-1226",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 1223,
+    "end_char": 1226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:36:term-usage:276-279",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 276,
+    "end_char": 279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:36:term-usage:433-436",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 433,
+    "end_char": 436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:36:term-usage:536-539",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 536,
+    "end_char": 539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:36:term-usage:653-656",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 653,
+    "end_char": 656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:36:term-usage:866-869",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 866,
+    "end_char": 869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:37:term-usage:174-194",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 174,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:38:term-usage:294-297",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 294,
+    "end_char": 297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:38:term-usage:2471-2474",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 2471,
+    "end_char": 2474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:40:term-usage:394-397",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 394,
+    "end_char": 397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:41:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:41:term-usage:96-131",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuradurias-de-proteccion-locales",
+    "span": "Procuradurías de Protección Locales",
+    "start_char": 96,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:41:term-usage:362-365",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 362,
+    "end_char": 365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:41:term-usage:523-545",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:visitas-de-supervision",
+    "span": "Visitas de Supervisión",
+    "start_char": 523,
+    "end_char": 545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:43:term-usage:110-113",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 110,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:43:term-usage:429-432",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 429,
+    "end_char": 432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:46:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:46:term-usage:308-311",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 308,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47:term-usage:337-340",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 337,
+    "end_char": 340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47:term-usage:345-365",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 345,
+    "end_char": 365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47:term-usage:655-658",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 655,
+    "end_char": 658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47:term-usage:950-970",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 950,
+    "end_char": 970
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47:term-usage:1315-1335",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 1315,
+    "end_char": 1335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47:term-usage:1419-1422",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 1419,
+    "end_char": 1422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47:term-usage:1729-1732",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 1729,
+    "end_char": 1732
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47:term-usage:1943-1946",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 1943,
+    "end_char": 1946
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47:term-usage:2315-2335",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 2315,
+    "end_char": 2335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:48:term-usage:98-118",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 98,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:48:term-usage:152-187",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuradurias-de-proteccion-locales",
+    "span": "Procuradurías de Protección Locales",
+    "start_char": 152,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:49:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:49:term-usage:97-132",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuradurias-de-proteccion-locales",
+    "span": "Procuradurías de Protección Locales",
+    "start_char": 97,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:49:term-usage:380-383",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 380,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:49:term-usage:952-955",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 952,
+    "end_char": 955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:52:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:52:term-usage:193-196",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 193,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:52:term-usage:288-308",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 288,
+    "end_char": 308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:53:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:53:term-usage:145-148",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 145,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:53:term-usage:363-383",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 363,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:54:term-usage:117-137",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 117,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:55:term-usage:148-151",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 148,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:56:term-usage:233-236",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 233,
+    "end_char": 236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:56:term-usage:346-366",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 346,
+    "end_char": 366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:56:term-usage:392-427",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuradurias-de-proteccion-locales",
+    "span": "Procuradurías de Protección Locales",
+    "start_char": 392,
+    "end_char": 427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:56:term-usage:749-769",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 749,
+    "end_char": 769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:57:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:57:term-usage:90-125",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuradurias-de-proteccion-locales",
+    "span": "Procuradurías de Protección Locales",
+    "start_char": 90,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:57:term-usage:194-197",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 194,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:58:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:58:term-usage:106-128",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:visitas-de-supervision",
+    "span": "Visitas de Supervisión",
+    "start_char": 106,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:58:term-usage:169-172",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 169,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:59:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:59:term-usage:84-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:visitas-de-supervision",
+    "span": "Visitas de Supervisión",
+    "start_char": 84,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:59:term-usage:213-245",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuradurias-de-proteccion-locales",
+    "span": "Procuraduría de Protección Local",
+    "start_char": 213,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:60:term-usage:18-38",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 18,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:60:term-usage:53-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:visitas-de-supervision",
+    "span": "Visitas de Supervisión",
+    "start_char": 53,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:60:term-usage:141-144",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 141,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:60:term-usage:287-309",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:visitas-de-supervision",
+    "span": "Visitas de Supervisión",
+    "start_char": 287,
+    "end_char": 309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:62:term-usage:44-64",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 44,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:62:term-usage:1123-1143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 1123,
+    "end_char": 1143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:62:term-usage:1269-1272",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 1269,
+    "end_char": 1272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:62:term-usage:1355-1375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 1355,
+    "end_char": 1375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:63:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:64:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:65:term-usage:59-79",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 59,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:65:term-usage:301-321",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 301,
+    "end_char": 321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:66:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:67:term-usage:672-692",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 672,
+    "end_char": 692
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:68:term-usage:279-299",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 279,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:69:term-usage:73-93",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:69",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 73,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:70:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:70:term-usage:315-335",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 315,
+    "end_char": 335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:70:term-usage:383-403",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 383,
+    "end_char": 403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:70:term-usage:464-467",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 464,
+    "end_char": 467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:70:term-usage:653-673",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 653,
+    "end_char": 673
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:70:term-usage:913-916",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 913,
+    "end_char": 916
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:71:term-usage:49-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 49,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:71:term-usage:396-416",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 396,
+    "end_char": 416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:71:term-usage:851-871",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 851,
+    "end_char": 871
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:71:term-usage:978-998",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 978,
+    "end_char": 998
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:72:term-usage:1160-1180",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 1160,
+    "end_char": 1180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:72:term-usage:1321-1324",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 1321,
+    "end_char": 1324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:73:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:75:term-usage:72-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 72,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:76:term-usage:104-124",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 104,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:78:term-usage:341-361",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 341,
+    "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:78:term-usage:494-514",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 494,
+    "end_char": 514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:79:term-usage:187-190",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 187,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:79:term-usage:670-690",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 670,
+    "end_char": 690
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:80:term-usage:111-131",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 111,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:81:term-usage:482-485",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 482,
+    "end_char": 485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:81:term-usage:784-787",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 784,
+    "end_char": 787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:81:term-usage:881-884",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 881,
+    "end_char": 884
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:82:term-usage:494-497",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 494,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:89:term-usage:258-261",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:89",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 258,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:105:term-usage:59-79",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:105",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 59,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:105:term-usage:264-267",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:105",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 264,
+    "end_char": 267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:106:term-usage:65-85",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:106",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 65,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:106:term-usage:309-312",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:106",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 309,
+    "end_char": 312
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:106:term-usage:356-376",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:106",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 356,
+    "end_char": 376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:106:term-usage:558-561",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:106",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 558,
+    "end_char": 561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:106:term-usage:567-587",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:106",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 567,
+    "end_char": 587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:107:term-usage:370-373",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:107",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 370,
+    "end_char": 373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:108:term-usage:108-128",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 108,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:108:term-usage:585-588",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 585,
+    "end_char": 588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:109:term-usage:509-512",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 509,
+    "end_char": 512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:110:term-usage:229-232",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 229,
+    "end_char": 232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:112:term-usage:44-64",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 44,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:112:term-usage:141-144",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 141,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:112:term-usage:201-204",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 201,
+    "end_char": 204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:113:term-usage:271-274",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:113",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 271,
+    "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:114:term-usage:355-375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:article:114",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:procuraduria-federal",
+    "span": "Procuraduría Federal",
+    "start_char": 355,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:transitory:quinto:term-usage:145-148",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:ley",
+    "span": "Ley",
+    "start_char": 145,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgdnna:transitory:octavo:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgdnna:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgdnna:term:secretaria-ejecutiva",
+    "span": "Secretaría Ejecutiva",
+    "start_char": 3,
+    "end_char": 23
+  }
+]

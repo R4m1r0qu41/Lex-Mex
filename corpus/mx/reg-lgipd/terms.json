@@ -1,0 +1,68 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgipd:term:deficiencia-o-limitacion-en-las-personas",
+    "term": "Deficiencia o limitación en las personas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgipd",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgipd:article:2",
+    "fraction": "I",
+    "start_char": 161,
+    "end_char": 361,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgipd:term:discapacidad",
+    "term": "Discapacidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgipd",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgipd:article:2",
+    "fraction": "II",
+    "start_char": 361,
+    "end_char": 634,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgipd:term:discapacidad-fisica",
+    "term": "Discapacidad Física",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgipd",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgipd:article:2",
+    "fraction": "III",
+    "start_char": 634,
+    "end_char": 1024,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgipd:term:discapacidad-mental",
+    "term": "Discapacidad Mental",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgipd",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgipd:article:2",
+    "fraction": "IV",
+    "start_char": 1024,
+    "end_char": 1444,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgipd:term:discapacidad-intelectual",
+    "term": "Discapacidad Intelectual",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgipd",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgipd:article:2",
+    "fraction": "V",
+    "start_char": 1444,
+    "end_char": 1791,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgipd:term:discapacidad-sensorial",
+    "term": "Discapacidad Sensorial",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgipd",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgipd:article:2",
+    "fraction": "VI",
+    "start_char": 1791,
+    "end_char": 2166,
+    "basis": "express_definition"
+  }
+]

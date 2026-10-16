@@ -1,0 +1,110 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:article:2:term-usage:214-246",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfa:term:unidad-administrativa-productora",
+    "span": "Unidad Administrativa Productora",
+    "start_char": 214,
+    "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:article:2:term-usage:669-701",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfa:term:unidad-administrativa-productora",
+    "span": "Unidad Administrativa Productora",
+    "start_char": 669,
+    "end_char": 701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:article:7:term-usage:228-260",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfa:term:unidad-administrativa-productora",
+    "span": "Unidad Administrativa Productora",
+    "start_char": 228,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:article:10:term-usage:1214-1230",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfa:term:unidad-de-enlace",
+    "span": "Unidad de Enlace",
+    "start_char": 1214,
+    "end_char": 1230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:article:11:term-usage:292-324",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfa:term:unidad-administrativa-productora",
+    "span": "Unidad Administrativa Productora",
+    "start_char": 292,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:article:15:term-usage:146-178",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfa:term:unidad-administrativa-productora",
+    "span": "Unidad Administrativa Productora",
+    "start_char": 146,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:article:15:term-usage:295-325",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfa:term:ficha-tecnica-de-prevaloracion",
+    "span": "Ficha Técnica de Prevaloración",
+    "start_char": 295,
+    "end_char": 325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:article:15:term-usage:331-360",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfa:term:declaratoria-de-prevaloracion",
+    "span": "Declaratoria de Prevaloración",
+    "start_char": 331,
+    "end_char": 360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:article:22:term-usage:69-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfa:term:publicaciones-oficiales",
+    "span": "Publicaciones Oficiales",
+    "start_char": 69,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:article:23:term-usage:252-266",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfa:term:estabilizacion",
+    "span": "Estabilización",
+    "start_char": 252,
+    "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:article:66:term-usage:218-232",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfa:term:estabilizacion",
+    "span": "Estabilización",
+    "start_char": 218,
+    "end_char": 232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:article:67:term-usage:15-29",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfa:term:estabilizacion",
+    "span": "Estabilización",
+    "start_char": 15,
+    "end_char": 29
+  }
+]

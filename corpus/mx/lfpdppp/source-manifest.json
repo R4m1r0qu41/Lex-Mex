@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfpdppp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpdppp.htm",
+  "retrieved_at": "2026-10-14T07:28:50.861659Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 457399,
+  "etag": "\"6fab7-644fc96388dc0\"",
+  "last_modified": "Tue, 02 Dec 2025 18:51:43 GMT",
+  "source_sha256": "04d67464e1efc0472040e2ff8012ced52c73ff4fc3573c8e2d3477fd976359c6",
+  "extracted_text_sha256": "3f1307727f04658ec4812cd5d9cbf24b4c94cc2e809777a0b742ab303001109d",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

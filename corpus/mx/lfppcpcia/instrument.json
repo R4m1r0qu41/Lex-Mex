@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfppcpcia",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+  "short_name": "LFPPCPCIA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2022-01-17",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-10-14T07:29:08.873556Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPCPCIA.pdf",
+  "source_sha256": "7263691565a635e37b58c99dbea5ad01b4e911550d48954dd5553b76d1664abe",
+  "extracted_text_sha256": "059e95ad6aab083d51b9d6fe2b92986f5192a8b4ba80be9225ccf7e980cfe238",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

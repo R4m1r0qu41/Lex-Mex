@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:ldefam",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDEFAGN.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldefam.htm",
+  "retrieved_at": "2026-10-14T07:23:57.507684Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 480849,
+  "etag": "\"75651-63d63a0accdc0\"",
+  "last_modified": "Thu, 28 Aug 2025 02:26:07 GMT",
+  "source_sha256": "3fe9742a4b38b3270a7f873cd839755785ee83b7ee2217d00af68bd9d76c0e38",
+  "extracted_text_sha256": "813492c86694e9a414f25a35d7d3b2cbae470723889a7d0cec698fa2469478ce",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

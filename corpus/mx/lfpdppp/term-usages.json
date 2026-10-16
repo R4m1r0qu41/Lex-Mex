@@ -1,0 +1,1199 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:1:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:1:term-usage:413-416",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 413,
+    "end_char": 416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:1:term-usage:486-489",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 486,
+    "end_char": 489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:2:term-usage:25-28",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 25,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:2:term-usage:411-414",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 411,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:2:term-usage:2894-2897",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 2894,
+    "end_char": 2897
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:2:term-usage:3203-3206",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 3203,
+    "end_char": 3206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:3:term-usage:44-47",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 44,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:4:term-usage:39-42",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 39,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:4:term-usage:163-166",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 163,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:4:term-usage:405-408",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 405,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:6:term-usage:99-102",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 99,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:6:term-usage:569-572",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 569,
+    "end_char": 572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:7:term-usage:140-143",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 140,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:7:term-usage:952-955",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 952,
+    "end_char": 955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:9:term-usage:922-925",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 922,
+    "end_char": 925
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:13:term-usage:116-119",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 116,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:15:term-usage:605-608",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 605,
+    "end_char": 608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:15:term-usage:779-782",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 779,
+    "end_char": 782
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:17:term-usage:506-516",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 506,
+    "end_char": 516
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:17:term-usage:525-528",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 525,
+    "end_char": 528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:21:term-usage:122-125",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 122,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:24:term-usage:633-636",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 633,
+    "end_char": 636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:29:term-usage:282-285",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 282,
+    "end_char": 285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:30:term-usage:177-180",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 177,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:36:term-usage:223-226",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 223,
+    "end_char": 226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:37:term-usage:233-236",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 233,
+    "end_char": 236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:37:term-usage:844-854",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 844,
+    "end_char": 854
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:38:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:38:term-usage:36-39",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 36,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:38:term-usage:261-264",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 261,
+    "end_char": 264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:39:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:39:term-usage:129-132",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 129,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:39:term-usage:273-276",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 273,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:39:term-usage:417-420",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 417,
+    "end_char": 420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:39:term-usage:523-526",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 523,
+    "end_char": 526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:39:term-usage:915-918",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 915,
+    "end_char": 918
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:39:term-usage:1180-1183",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 1180,
+    "end_char": 1183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:39:term-usage:1591-1594",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 1591,
+    "end_char": 1594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:40:term-usage:187-190",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 187,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:40:term-usage:284-294",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 284,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:40:term-usage:1357-1367",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1357,
+    "end_char": 1367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:40:term-usage:1571-1581",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1571,
+    "end_char": 1581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:40:term-usage:1777-1787",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1777,
+    "end_char": 1787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:40:term-usage:2000-2010",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2000,
+    "end_char": 2010
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:40:term-usage:2259-2269",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 2259,
+    "end_char": 2269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:40:term-usage:2276-2279",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 2276,
+    "end_char": 2279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:41:term-usage:154-164",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 154,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:41:term-usage:690-693",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 690,
+    "end_char": 693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:41:term-usage:842-852",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 842,
+    "end_char": 852
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:41:term-usage:989-999",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 989,
+    "end_char": 999
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:42:term-usage:232-242",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 232,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:43:term-usage:390-400",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 390,
+    "end_char": 400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:44:term-usage:129-132",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 129,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:44:term-usage:139-149",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 139,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:44:term-usage:603-613",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 603,
+    "end_char": 613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:45:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:46:term-usage:23-33",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 23,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:47:term-usage:83-93",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 83,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:47:term-usage:234-244",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 234,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:47:term-usage:592-602",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 592,
+    "end_char": 602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:47:term-usage:781-784",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 781,
+    "end_char": 784
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:49:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:49:term-usage:318-328",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 318,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:49:term-usage:508-518",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 508,
+    "end_char": 518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:49:term-usage:527-530",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 527,
+    "end_char": 530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:50:term-usage:155-165",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 155,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:50:term-usage:455-465",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 455,
+    "end_char": 465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:50:term-usage:510-520",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 510,
+    "end_char": 520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:50:term-usage:679-689",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 679,
+    "end_char": 689
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:51:term-usage:30-40",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 30,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:52:term-usage:29-39",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 29,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:53:term-usage:163-166",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 163,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:54:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:54:term-usage:56-59",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 56,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:54:term-usage:431-434",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 431,
+    "end_char": 434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:55:term-usage:39-49",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 39,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:55:term-usage:327-337",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 327,
+    "end_char": 337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:56:term-usage:122-132",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 122,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:56:term-usage:242-245",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 242,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:57:term-usage:93-103",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 93,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:57:term-usage:343-353",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 343,
+    "end_char": 353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:57:term-usage:424-434",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 424,
+    "end_char": 434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:57:term-usage:648-658",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 648,
+    "end_char": 658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:57:term-usage:846-856",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 846,
+    "end_char": 856
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:57:term-usage:1152-1162",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1152,
+    "end_char": 1162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:57:term-usage:1234-1244",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1234,
+    "end_char": 1244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:58:term-usage:32-35",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 32,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:58:term-usage:234-237",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 234,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:58:term-usage:601-604",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 601,
+    "end_char": 604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:58:term-usage:713-716",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 713,
+    "end_char": 716
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:58:term-usage:1055-1058",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 1055,
+    "end_char": 1058
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:58:term-usage:1144-1147",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 1144,
+    "end_char": 1147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:58:term-usage:1285-1288",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 1285,
+    "end_char": 1288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:58:term-usage:1695-1698",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 1695,
+    "end_char": 1698
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:58:term-usage:2057-2067",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2057,
+    "end_char": 2067
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:58:term-usage:2392-2395",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 2392,
+    "end_char": 2395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:58:term-usage:2531-2534",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 2531,
+    "end_char": 2534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:59:term-usage:31-34",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 31,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:59:term-usage:60-70",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 60,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:59:term-usage:215-218",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 215,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:60:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:article:60:term-usage:235-238",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 235,
+    "end_char": 238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:primero:term-usage:158-165",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:primero",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:tercero",
+    "span": "Tercero",
+    "start_char": 158,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:segundo:term-usage:91-94",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 91,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:segundo:term-usage:249-252",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 249,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:segundo:term-usage:425-428",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 425,
+    "end_char": 428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:segundo:term-usage:600-603",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 600,
+    "end_char": 603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:tercero:term-usage:28-31",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 28,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:tercero:term-usage:811-814",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 811,
+    "end_char": 814
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:quinto:term-usage:304-314",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 304,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:quinto:term-usage:569-579",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 569,
+    "end_char": 579
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:quinto:term-usage:1201-1211",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1201,
+    "end_char": 1211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:quinto:term-usage:2045-2055",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2045,
+    "end_char": 2055
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:sexto:term-usage:160-170",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 160,
+    "end_char": 170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:septimo:term-usage:139-149",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 139,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:octavo:term-usage:430-440",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 430,
+    "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo:term-usage:374-384",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 374,
+    "end_char": 384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo:term-usage:916-926",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 916,
+    "end_char": 926
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo:term-usage:963-973",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 963,
+    "end_char": 973
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-primero:term-usage:175-178",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 175,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-segundo:term-usage:166-176",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 166,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-tercero:term-usage:283-286",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 283,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-tercero:term-usage:375-385",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 375,
+    "end_char": 385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-tercero:term-usage:510-520",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 510,
+    "end_char": 520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-cuarto:term-usage:328-338",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 328,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-quinto:term-usage:89-96",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-quinto",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:tercero",
+    "span": "Tercero",
+    "start_char": 89,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-quinto:term-usage:303-316",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-quinto",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 303,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-quinto:term-usage:605-618",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-quinto",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:transferencia",
+    "span": "Transferencia",
+    "start_char": 605,
+    "end_char": 618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-sexto:term-usage:222-232",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-sexto",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 222,
+    "end_char": 232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-septimo:term-usage:25-35",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-septimo",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 25,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-septimo:term-usage:218-221",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-septimo",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 218,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-noveno:term-usage:502-505",
+    "provision_id": "urn:lex-mx:federal:statute:lfpdppp:transitory:decimo-noveno",
+    "term_id": "urn:lex-mx:federal:statute:lfpdppp:term:ley",
+    "span": "Ley",
+    "start_char": 502,
+    "end_char": 505
+  }
+]

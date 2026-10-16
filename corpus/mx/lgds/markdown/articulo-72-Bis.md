@@ -1,0 +1,22 @@
+---
+id: urn:lex-mx:federal:statute:lgds:article:72-bis
+instrument_id: urn:lex-mx:federal:statute:lgds
+instrument: LGDS
+name: "Ley General de Desarrollo Social"
+provision_type: article
+number: "72 Bis"
+aliases: ["LGDS — Artículo 72 Bis"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf
+source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
+---
+
+> Título QUINTO · Capítulo I
+
+# Artículo 72 Bis
+
+El Instituto deberá establecer los lineamientos y criterios técnicos para las metodologías de evaluación integral de la Política de Desarrollo Social.
+
+Artículo adicionado DOF 16-07-2025

@@ -1,0 +1,101 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpf:term:carrera-policial",
+    "term": "Carrera Policial",
+    "instrument_id": "urn:lex-mx:federal:statute:lpf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpf:article:4",
+    "fraction": "I",
+    "start_char": 51,
+    "end_char": 140,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpf:term:centro-de-control-de-confianza",
+    "term": "Centro de Control de Confianza",
+    "instrument_id": "urn:lex-mx:federal:statute:lpf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpf:article:4",
+    "fraction": "II",
+    "start_char": 140,
+    "end_char": 242,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpf:term:consejo-federal",
+    "term": "Consejo Federal",
+    "instrument_id": "urn:lex-mx:federal:statute:lpf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpf:article:4",
+    "fraction": "III",
+    "start_char": 242,
+    "end_char": 308,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpf:term:integrantes",
+    "term": "Integrantes",
+    "instrument_id": "urn:lex-mx:federal:statute:lpf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpf:article:4",
+    "fraction": "IV",
+    "start_char": 308,
+    "end_char": 364,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpf:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lpf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpf:article:4",
+    "fraction": "V",
+    "start_char": 364,
+    "end_char": 414,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpf:term:ministerio-publico",
+    "term": "Ministerio Público",
+    "instrument_id": "urn:lex-mx:federal:statute:lpf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpf:article:4",
+    "fraction": "VI",
+    "start_char": 414,
+    "end_char": 479,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpf:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lpf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpf:article:4",
+    "fraction": "VII",
+    "start_char": 479,
+    "end_char": 524,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpf:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lpf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpf:article:4",
+    "fraction": "VIII",
+    "start_char": 524,
+    "end_char": 604,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpf:term:secretario",
+    "term": "Secretario",
+    "instrument_id": "urn:lex-mx:federal:statute:lpf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpf:article:4",
+    "fraction": "IX",
+    "start_char": 604,
+    "end_char": 677,
+    "basis": "express_definition"
+  }
+]

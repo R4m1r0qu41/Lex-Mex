@@ -1,0 +1,76 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:1:reference:191-192:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgipd:article:1",
+    "source_span": "1",
+    "start_char": 191,
+    "end_char": 192,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:59:reference:137-140:123:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgipd:article:59",
+    "source_span": "123",
+    "start_char": 137,
+    "end_char": 140,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:123",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:transitory:sexto:reference:159-161:53:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgipd:transitory:sexto",
+    "source_span": "53",
+    "start_char": 159,
+    "end_char": 161,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgipd",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgipd:article:53",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 135,
+        "end_char": 145
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:transitory:sexto:reference:377-379:53:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgipd:transitory:sexto",
+    "source_span": "53",
+    "start_char": 377,
+    "end_char": 379,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgipd",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgipd:article:53",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II y III",
+        "start_char": 344,
+        "end_char": 363
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

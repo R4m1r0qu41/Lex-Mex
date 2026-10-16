@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lsh",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSH.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsh.htm",
+  "retrieved_at": "2026-10-14T07:45:19.027987Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 732413,
+  "etag": "\"b2cfd-630e3d7e3bd80\"",
+  "last_modified": "Sat, 22 Mar 2025 00:56:38 GMT",
+  "source_sha256": "1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23",
+  "extracted_text_sha256": "1f419fdf75a6026930939f095d3bb8c61a54d138138137a5237469050a6ba893",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

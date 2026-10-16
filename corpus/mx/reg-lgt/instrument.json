@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgt",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de Turismo",
+  "short_name": "REG-LGT",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2015-07-06",
+  "latest_reform_date": "2025-11-25",
+  "retrieved_at": "2026-10-14T07:59:12.461595Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGT.pdf",
+  "source_sha256": "6680a58c98673518aee46582b3137d28987c275785d1f0c97295f0d89c4b692b",
+  "extracted_text_sha256": "d5efa9808e65e049702d745391cc3749e642b46af7374724e6c579ddf99812f8",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

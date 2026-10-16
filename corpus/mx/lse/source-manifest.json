@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lse",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lse.htm",
+  "retrieved_at": "2026-10-14T07:44:54.528274Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 698275,
+  "etag": "\"aa7a3-630e341fbe2c0\"",
+  "last_modified": "Sat, 22 Mar 2025 00:14:43 GMT",
+  "source_sha256": "aa96853f010885bdf85160e944e5c0ef5c3c8e95422dfede280d228cf064310a",
+  "extracted_text_sha256": "83fe97bfaf93bbfe5f4d17c6c1583872b758bf21634c58bd70133b6ba37b8667",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

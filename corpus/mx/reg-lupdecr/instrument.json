@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lupdecr",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley para el Uso y Protección de la Denominación y del Emblema de la Cruz Roja",
+  "short_name": "REG-LUPDECR",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-03-25",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T08:07:18.159108Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LUPDECR.pdf",
+  "source_sha256": "9900df5fd57ee1fb485d421861b2fd4d8bff61f389275c834b954320c08c46ae",
+  "extracted_text_sha256": "460d8877aa81c78737c10635ccf0a67acf6091eea4655608114edbf1682aac1e",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

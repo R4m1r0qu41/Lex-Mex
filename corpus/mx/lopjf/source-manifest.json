@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lopjf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopjf.htm",
+  "retrieved_at": "2026-10-14T07:40:43.118689Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 885319,
+  "etag": "\"d8247-644ef820c9880\"",
+  "last_modified": "Tue, 02 Dec 2025 03:15:30 GMT",
+  "source_sha256": "6569965cdfc64e4c223fc12d5a8ac885b7fad6cb432a0370d70f4dd7b8343fd1",
+  "extracted_text_sha256": "0d575a67cd3e7bf03eaa1fc3679cc783731ed3a8d7c4b97c1b1c9ee494fd1559",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

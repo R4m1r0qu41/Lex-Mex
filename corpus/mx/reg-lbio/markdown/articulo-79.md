@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lbio:article:79
+instrument_id: urn:lex-mx:federal:regulation:reg-lbio
+instrument: REG-LBIO
+name: "Reglamento de la Ley de Biocombustibles"
+provision_type: article
+number: "79"
+aliases: ["REG-LBIO — Artículo 79"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LBio.pdf
+source_sha256: 7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff
+---
+
+> Título SEGUNDO · Capítulo V
+
+# Artículo 79
+
+Las personas titulares de permisos y Autorizaciones pueden solicitar a la SENER la modificación, actualización o suspensión de estos, así como de sus términos y condiciones, únicamente por el aumento o la disminución de la capacidad en las instalaciones, equipos y procesos previstos en el permiso o Autorización correspondiente. La modificación, actualización y suspensión de los permisos o Autorizaciones que emite la SENER, debe atender el siguiente procedimiento: I. Para estar en posibilidad de determinar la admisión de la solicitud, si su contenido se refiere al aumento o la disminución de la capacidad en las instalaciones, equipos y procesos previstos en el permiso o autorización correspondiente y si cumple con los requisitos previstos en la Ley, el Reglamento y demás disposiciones aplicables, la SENER dentro del plazo de diez días hábiles a partir de recibida la solicitud debe integrar el expediente correspondiente y analizar su contenido, incluidos sus anexos; II. Cuando la solicitud presente insuficiencias o no cumpla con los requisitos y formalidades exigidos en la Ley, el Reglamento y demás disposiciones aplicables, la SENER dentro del plazo de quince días hábiles a partir de la recepción de la solicitud, debe prevenir a la persona solicitante por escrito y, por una sola vez, para que, dentro del término de veinte días hábiles, contados a partir de la notificación de la prevención, subsane la omisión o aclare y rectifique su solicitud; III. Notificada la prevención, la persona solicitante cuenta con el término señalado en la fracción II del presente artículo para desahogar la prevención, durante este periodo el término para que la SENER resuelva se suspende y se reanuda a partir del día hábil inmediato siguiente a aquél en que la persona solicitante desahogue la prevención. En el supuesto de que la persona solicitante omita desahogar la prevención en el término señalado o, una vez desahogado no subsane la omisión correspondiente, la SENER debe desechar el trámite en términos de lo establecido en la Ley Federal de Procedimiento Administrativo; IV. Cuando de la evaluación de la solicitud correspondiente se desprenda que esta cumple con los requisitos de la Ley, el Reglamento, las Normas Oficiales Mexicanas, los lineamientos y demás disposiciones aplicables, la SENER debe tenerla por admitida y emitir el acuerdo correspondiente, y V. Una vez evaluada y admitida la solicitud de modificación, actualización y suspensión del permiso o Autorización, la SENER debe emitir, dentro de los veinte días hábiles siguientes a que la solicitud haya sido admitida o que haya sido desahogada la prevención, la resolución correspondiente, debidamente fundada y motivada, y en la que puede: a) Conceder la modificación, actualización y suspensión del permiso o Autorización de que se trate, en los términos solicitados; b) Conceder la modificación, actualización y suspensión del permiso o Autorización de que se trate de manera condicionada a los términos y condiciones a los que deba someterse la actividad en atención al aumento o la disminución de la capacidad en las instalaciones, equipos y procesos, y c) Negar la solicitud de modificación, actualización y suspensión del permiso o Autorización, cuando: 1. Se contravenga o no se cumpla con lo establecido en la Ley, el Reglamento, lineamientos y demás disposiciones aplicables, y 2. Exista falsedad en la información proporcionada por las personas interesadas, respecto de la actividad de que se trate.

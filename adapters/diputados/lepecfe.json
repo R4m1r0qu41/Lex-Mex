@@ -1,0 +1,17 @@
+{
+  "slug": "lepecfe",
+  "instrument_id": "urn:lex-mx:federal:statute:lepecfe",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad",
+  "short_name": "LEPECFE",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPECFE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lepecfe.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica",
+  "short_name": "REG-LGS-MPSAM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1986-05-14",
+  "latest_reform_date": "2018-07-17",
+  "retrieved_at": "2026-10-14T07:58:57.136667Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MPSAM_170718.pdf",
+  "source_sha256": "d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7",
+  "extracted_text_sha256": "bbe758791b70be3869820d12586fc61a756da53802e5be70e2d8544d6449c987",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

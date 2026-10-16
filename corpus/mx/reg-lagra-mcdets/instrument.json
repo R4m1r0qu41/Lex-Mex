@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Agraria en Materia de Certificación de Derechos Ejidales y Titulación de Solares",
+  "short_name": "REG-LAGRA-MCDETS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1993-01-06",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:48:56.177645Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_MCDETS.pdf",
+  "source_sha256": "70dc1863cee2a88911e43cefb51d1c2007e550a2a46f9e11d5569c1525667cfd",
+  "extracted_text_sha256": "b24ba925d3f0a789861709b4b46f39a9edf70313944c68a139ea345f2bcc0137",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

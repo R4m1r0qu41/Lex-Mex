@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lcaaa",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas",
+  "short_name": "LCAAA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1932-08-27",
+  "latest_reform_date": "2012-04-09",
+  "retrieved_at": "2026-10-14T07:22:34.563782Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf",
+  "source_sha256": "e893cded29ecee9a0b5ad3c4c07a33b6be520db6a73f89e837a32235b6167c84",
+  "extracted_text_sha256": "c4eaaad448d6c186482e432808296ec68fe4cf1adb75cc7a063e55ed00b6e174",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lgpisdme:article:25
+instrument_id: urn:lex-mx:federal:statute:lgpisdme
+instrument: LGPISDME
+name: "Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos"
+provision_type: article
+number: "25"
+aliases: ["LGPISDME — Artículo 25"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPISDME.pdf
+source_sha256: 5d22df1b22454fe1fe5354c0d9d4cec71d1d7ded3549072c340c36cb3ea3a624
+---
+
+> Título CUARTO · Capítulo I
+
+# Artículo 25
+
+Una vez que se tenga conocimiento de la probable comisión del delito de extorsión, la [Policía](articulo-7.md) actuará bajo el mando y conducción del Ministerio Público, conforme a lo dispuesto en el Código Nacional, deberán llevar a cabo las siguientes acciones: I. Iniciar de manera inmediata la investigación por los delitos previstos en esta [Ley](articulo-7.md), de conformidad con las disposiciones legales aplicables; II. Solicitar el auxilio y colaboración de los cuerpos periciales de las instituciones competentes para: a) Realizar el perfilamiento criminal de los posibles intervinientes en el delito; b) Practicar a las víctimas los estudios de psicología o psiquiatría que se consideren necesarios para elaborar los dictámenes en la materia, y c) Elaborar los demás estudios periciales que se consideren necesarios, relacionados con el hecho que se investiga, los probables intervinientes y la reparación integral del daño; III. Para corroborar información, consultar antecedentes, así como otras acciones para ampliar y fortalecer la investigación del delito de extorsión, en cualquier etapa, las autoridades encargadas de la investigación podrán consultar la información contenida en los mecanismos previstos en las leyes en materia de investigación e inteligencia; IV. Practicar los actos de investigación que ameriten previo control judicial, tales como: a) Intervención de comunicaciones privadas y correspondencia; b) Órdenes de cateo; c) Tomas de muestras de voz, fluido corporal, vello o cabello, extracciones de sangre u otros análogos, cuando la persona requerida se niegue a proporcionar la misma, excepto la víctima u ofendido; d) Reconocimiento o examen físico de una persona cuando aquella se niegue a ser examinada, y e) La revisión de información bancaria de las personas de que se trate, en los términos previstos por la legislación aplicable, salvo aportación voluntaria de las personas de que se trate; V. En el caso de que, para la comisión del delito de extorsión, se hayan empleado líneas de telefonía celular, cuentas de mensajería instantánea, perfiles de redes sociales o videojuegos, correos electrónicos, plataformas de servicios digitales o tarjetas de débito, crédito o análogas, la Policía bajo conducción y mando del Ministerio Público, procurará descartar que estos hayan sido empleados sin el conocimiento o voluntad de su titular. Para tal efecto, solicitará los estudios periciales y realizará actos de investigación conducentes; VI. Cuando así proceda, solicitar la localización geográfica en tiempo real y entrega de datos conservados en los términos previstos en el artículo 303 del Código Nacional; VII. Solicitar a los concesionarios de telecomunicaciones, a través de la autoridad competente, el bloqueo inmediato de líneas de comunicación móvil reportadas como robadas o extraviadas por las personas usuarias, conforme al registro del propio concesionario, por cualquier medio, así como la suspensión inmediata del servicio de telefonía en los términos de la solicitud correspondiente; VIII. Notificar, en caso de que la víctima o la persona ofendida sea extranjera, a la autoridad competente del Estado del que sea nacional y coadyuvar para garantizar el derecho a la asistencia consular, y IX. Las demás que resulten necesarias y que deriven de la investigación, previstas en las disposiciones aplicables.

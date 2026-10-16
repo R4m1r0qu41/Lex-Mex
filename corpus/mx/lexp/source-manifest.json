@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lexp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/35.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp.htm",
+  "retrieved_at": "2026-10-14T07:25:56.418644Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 291346,
+  "etag": "\"47212-576a87a7aba40\"",
+  "last_modified": "Tue, 25 Sep 2018 02:01:05 GMT",
+  "source_sha256": "40f5c7459f53df7a14ee5aaf70cbb819f8808b14691a63dfd773e36a9f5dd1cb",
+  "extracted_text_sha256": "a6db1a994331b616004218962d63a7ac23909536ae17ab4647ee5d2b069de3fd",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

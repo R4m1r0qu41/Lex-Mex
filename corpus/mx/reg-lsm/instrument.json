@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lsm",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley del Servicio Militar",
+  "short_name": "REG-LSM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1942-11-10",
+  "latest_reform_date": "1947-06-06",
+  "retrieved_at": "2026-10-14T08:06:52.746186Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSM_060647.pdf",
+  "source_sha256": "e05548ce5210162f6613eab2a8d8e53b7eed65ffe4a909d4665277fe1726e369",
+  "extracted_text_sha256": "e4d96a29dba08db423e86efeffc146cb9c6c04bd30c660c89c0189be276f24bb",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

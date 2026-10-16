@@ -1,0 +1,848 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:2:term-usage:732-746",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:persona-fisica",
+    "span": "Persona física",
+    "start_char": 732,
+    "end_char": 746
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:2:term-usage:1328-1345",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:seguridad-privada",
+    "span": "Seguridad Privada",
+    "start_char": 1328,
+    "end_char": 1345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:2:term-usage:1365-1375",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1365,
+    "end_char": 1375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:2:term-usage:1465-1475",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1465,
+    "end_char": 1475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:2:term-usage:1521-1538",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 1521,
+    "end_char": 1538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:2:term-usage:1591-1608",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:seguridad-privada",
+    "span": "Seguridad Privada",
+    "start_char": 1591,
+    "end_char": 1608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:2:term-usage:2123-2140",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:seguridad-privada",
+    "span": "Seguridad Privada",
+    "start_char": 2123,
+    "end_char": 2140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:3:term-usage:142-152",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 142,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:3:term-usage:534-544",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 534,
+    "end_char": 544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:3:term-usage:883-900",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 883,
+    "end_char": 900
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:5:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:5:term-usage:29-46",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 29,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:5:term-usage:347-357",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 347,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:5:term-usage:460-477",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:seguridad-privada",
+    "span": "Seguridad Privada",
+    "start_char": 460,
+    "end_char": 477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:5:term-usage:569-579",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 569,
+    "end_char": 579
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:5:term-usage:1014-1024",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1014,
+    "end_char": 1024
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:5:term-usage:1841-1851",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1841,
+    "end_char": 1851
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:5:term-usage:2504-2514",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 2504,
+    "end_char": 2514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:6:term-usage:34-51",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 34,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:6:term-usage:299-309",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 299,
+    "end_char": 309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:6:term-usage:361-371",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 361,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:7:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:7:term-usage:462-486",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:prestador-de-servicios",
+    "span": "Prestadores de Servicios",
+    "start_char": 462,
+    "end_char": 486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:7:term-usage:490-507",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:seguridad-privada",
+    "span": "Seguridad Privada",
+    "start_char": 490,
+    "end_char": 507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:8:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:8:term-usage:30-47",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 30,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:9:term-usage:44-54",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 44,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:10:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:10:term-usage:108-125",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:seguridad-privada",
+    "span": "Seguridad Privada",
+    "start_char": 108,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:12:term-usage:294-311",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 294,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:12:term-usage:1943-1953",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1943,
+    "end_char": 1953
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:15:term-usage:21-31",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 21,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:15:term-usage:52-69",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 52,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:15:term-usage:98-115",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:seguridad-privada",
+    "span": "Seguridad Privada",
+    "start_char": 98,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:16:term-usage:118-135",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 118,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:16:term-usage:328-345",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 328,
+    "end_char": 345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:16:term-usage:740-757",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 740,
+    "end_char": 757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:18:term-usage:143-160",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 143,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:20:term-usage:103-120",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 103,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:21:term-usage:302-319",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 302,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:24:term-usage:42-52",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 42,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:24:term-usage:206-216",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 206,
+    "end_char": 216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:25:term-usage:174-191",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 174,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:25:term-usage:1181-1191",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1181,
+    "end_char": 1191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:25:term-usage:1714-1724",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1714,
+    "end_char": 1724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:25:term-usage:1995-2005",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1995,
+    "end_char": 2005
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:25:term-usage:2415-2425",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2415,
+    "end_char": 2425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:25:term-usage:3775-3792",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 3775,
+    "end_char": 3792
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:25:term-usage:6280-6290",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 6280,
+    "end_char": 6290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:26:term-usage:470-487",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 470,
+    "end_char": 487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:26:term-usage:1100-1117",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 1100,
+    "end_char": 1117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:26:term-usage:1170-1187",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:seguridad-privada",
+    "span": "Seguridad Privada",
+    "start_char": 1170,
+    "end_char": 1187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:29:term-usage:163-173",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 163,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:29:term-usage:318-335",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 318,
+    "end_char": 335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:29:term-usage:340-350",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 340,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:30:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:31:term-usage:51-61",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 51,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:31:term-usage:254-264",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 254,
+    "end_char": 264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:32:term-usage:601-618",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 601,
+    "end_char": 618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:32:term-usage:3213-3223",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 3213,
+    "end_char": 3223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:32:term-usage:3823-3833",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 3823,
+    "end_char": 3833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:32:term-usage:4006-4023",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 4006,
+    "end_char": 4023
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:32:term-usage:4818-4835",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 4818,
+    "end_char": 4835
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:32:term-usage:4917-4934",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 4917,
+    "end_char": 4934
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:32:term-usage:5269-5286",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 5269,
+    "end_char": 5286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:32:term-usage:5437-5454",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 5437,
+    "end_char": 5454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:32:term-usage:6618-6635",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 6618,
+    "end_char": 6635
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:32:term-usage:7609-7626",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 7609,
+    "end_char": 7626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:32:term-usage:7725-7742",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:seguridad-privada",
+    "span": "Seguridad Privada",
+    "start_char": 7725,
+    "end_char": 7742
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:36:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:39:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:39:term-usage:82-92",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 82,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:39:term-usage:484-494",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 484,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:39:term-usage:783-793",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 783,
+    "end_char": 793
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:39:term-usage:814-831",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 814,
+    "end_char": 831
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:40:term-usage:23-33",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 23,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:42:term-usage:135-145",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 135,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:42:term-usage:290-300",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 290,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:42:term-usage:2098-2108",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2098,
+    "end_char": 2108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:42:term-usage:2341-2351",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2341,
+    "end_char": 2351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:42:term-usage:3799-3809",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3799,
+    "end_char": 3809
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:43:term-usage:69-79",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 69,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:44:term-usage:49-59",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 49,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:46:term-usage:32-49",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 32,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:48:term-usage:84-101",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 84,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:50:term-usage:102-119",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 102,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:transitory:segundo:term-usage:204-221",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:seguridad-privada",
+    "span": "Seguridad Privada",
+    "start_char": 204,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:transitory:quinto:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:transitory:septimo:term-usage:170-180",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 170,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:transitory:octavo:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:transitory:octavo:term-usage:68-85",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 68,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:transitory:octavo:term-usage:138-155",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:seguridad-privada",
+    "span": "Seguridad Privada",
+    "start_char": 138,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:transitory:octavo:term-usage:167-184",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "span": "Dirección General",
+    "start_char": 167,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:transitory:octavo:term-usage:188-205",
+    "provision_id": "urn:lex-mx:federal:statute:lfsp:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lfsp:term:seguridad-privada",
+    "span": "Seguridad Privada",
+    "start_char": 188,
+    "end_char": 205
+  }
+]

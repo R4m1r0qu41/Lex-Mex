@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgipe",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Instituciones y Procedimientos Electorales",
+  "short_name": "LGIPE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-05-23",
+  "latest_reform_date": "2026-06-02",
+  "retrieved_at": "2026-10-14T07:33:35.910214Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf",
+  "source_sha256": "8d6253c7ac28c654543484bac172ca12bbda8db41564b07f27ca5bbea0b4cf80",
+  "extracted_text_sha256": "abbfbedfb32c94ad024344203384d2571d8a07a96d58a1a9361161c7f316b079",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

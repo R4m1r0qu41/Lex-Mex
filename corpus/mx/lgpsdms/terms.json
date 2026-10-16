@@ -1,0 +1,101 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsdms:term:consejo-nacional",
+    "term": "Consejo Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsdms",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsdms:article:4",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 109,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsdms:term:instituciones-de-seguridad-publica",
+    "term": "Instituciones de Seguridad Pública",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsdms",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsdms:article:4",
+    "fraction": "II",
+    "start_char": 109,
+    "end_char": 323,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsdms:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsdms",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsdms:article:4",
+    "fraction": "III",
+    "start_char": 323,
+    "end_char": 520,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsdms:term:secretario-ejecutivo",
+    "term": "Secretario Ejecutivo",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsdms",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsdms:article:4",
+    "fraction": "IV",
+    "start_char": 520,
+    "end_char": 628,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsdms:term:sistema",
+    "term": "Sistema",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsdms",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsdms:article:4",
+    "fraction": "V",
+    "start_char": 628,
+    "end_char": 680,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsdms:term:fondo",
+    "term": "Fondo",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsdms",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsdms:article:4",
+    "fraction": "VI",
+    "start_char": 680,
+    "end_char": 738,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsdms:term:programa-nacional",
+    "term": "Programa Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsdms",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsdms:article:4",
+    "fraction": "VII",
+    "start_char": 738,
+    "end_char": 848,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsdms:term:victima-u-ofendido",
+    "term": "Víctima u ofendido",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsdms",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsdms:article:4",
+    "fraction": "VIII",
+    "start_char": 848,
+    "end_char": 1013,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsdms:term:codigo-nacional",
+    "term": "Código Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsdms",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsdms:article:4",
+    "fraction": "X",
+    "start_char": 1062,
+    "end_char": 1159,
+    "basis": "express_definition"
+  }
+]

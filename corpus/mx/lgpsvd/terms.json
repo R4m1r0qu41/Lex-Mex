@@ -1,0 +1,123 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:term:centro-nacional",
+    "term": "Centro Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsvd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
+    "fraction": "I",
+    "start_char": 44,
+    "end_char": 228,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsvd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
+    "fraction": "II",
+    "start_char": 228,
+    "end_char": 360,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:term:consejo-nacional",
+    "term": "Consejo Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsvd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
+    "fraction": "III",
+    "start_char": 360,
+    "end_char": 426,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsvd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
+    "fraction": "IV",
+    "start_char": 426,
+    "end_char": 512,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:term:participacion-ciudadana-y-comunitaria",
+    "term": "Participación ciudadana y comunitaria",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsvd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
+    "fraction": "V",
+    "start_char": 512,
+    "end_char": 694,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:term:programa-nacional",
+    "term": "Programa Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsvd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
+    "fraction": "VI",
+    "start_char": 694,
+    "end_char": 800,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:term:programa-anual",
+    "term": "Programa anual",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsvd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
+    "fraction": "VII",
+    "start_char": 800,
+    "end_char": 872,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsvd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
+    "fraction": "VIII",
+    "start_char": 872,
+    "end_char": 983,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:term:secretariado-ejecutivo",
+    "term": "Secretariado Ejecutivo",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsvd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
+    "fraction": "IX",
+    "start_char": 983,
+    "end_char": 1081,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:term:secretario-ejecutivo",
+    "term": "Secretario Ejecutivo",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsvd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
+    "fraction": "X",
+    "start_char": 1081,
+    "end_char": 1148,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:term:violencia",
+    "term": "Violencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsvd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
+    "fraction": "XI",
+    "start_char": 1148,
+    "end_char": 1593,
+    "basis": "express_definition"
+  }
+]

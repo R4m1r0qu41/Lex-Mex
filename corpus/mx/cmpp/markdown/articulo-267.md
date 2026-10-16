@@ -1,0 +1,36 @@
+---
+id: urn:lex-mx:federal:code:cmpp:article:267
+instrument_id: urn:lex-mx:federal:code:cmpp
+instrument: CMPP
+name: "Código Militar de Procedimientos Penales"
+provision_type: article
+number: "267"
+aliases: ["CMPP — Artículo 267"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP.pdf
+source_sha256: 351c69a7bc3f61976933d76e45cf185a721a331a145778dd3f315df5216a5e32
+---
+
+> Título V · Capítulo II
+
+# Artículo 267
+
+Levantamiento e identificación de cadáveres En los casos en que se presuma muerte por causas no naturales, además de otras diligencias que sean procedentes, se practicará:
+
+I. La inspección del cadáver, la ubicación del mismo y el lugar de los hechos.
+
+II. El levantamiento del cadáver.
+
+III. El traslado del cadáver.
+
+IV. La descripción y peritajes correspondientes.
+
+V. La exhumación en los términos previstos en este [Código](articulo-3.md) y demás disposiciones aplicables.
+
+Cuando de la investigación no resulten datos relacionados con la existencia de algún delito, previa solicitud de los parientes, el [Ministerio Público](articulo-3.md) podrá autorizar la dispensa de la necropsia.
+
+Si el cadáver hubiere sido inhumado, se procederá a exhumarlo en los términos previstos en este Código y demás disposiciones aplicables. En todo caso, practicada la inspección o la necropsia correspondiente, se procederá a la sepultura inmediata, pero no podrá incinerarse el cadáver.
+
+Cuando se desconozca la identidad del cadáver, se efectuarán los peritajes idóneos para proceder a su identificación. Una vez identificado, se entregará a los parientes o a quienes invoquen título o motivo suficiente, previa autorización del Ministerio Público, tan pronto la necropsia se hubiere practicado o, en su caso, dispensado.

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lebhn",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley sobre el Escudo, la Bandera y el Himno Nacionales",
+  "short_name": "REG-LEBHN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-09-09",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:50:19.440651Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEBHN.pdf",
+  "source_sha256": "3a86c9bc8afe7162bbcc0c31a28250ca91cfbf2cb6a08deddae0653977ae3d3f",
+  "extracted_text_sha256": "1455fe54adb00eca2a85460ce418c2dc5ca94df9f222cd6d99c7b4842cc8af6e",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

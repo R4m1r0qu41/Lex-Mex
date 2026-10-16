@@ -1,0 +1,17 @@
+{
+  "slug": "lgimh",
+  "instrument_id": "urn:lex-mx:federal:statute:lgimh",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
+  "short_name": "LGIMH",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGISMH.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgimh.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

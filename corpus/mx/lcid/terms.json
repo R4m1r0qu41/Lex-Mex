@@ -1,0 +1,156 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcid:term:amexcid",
+    "term": "AMEXCID",
+    "instrument_id": "urn:lex-mx:federal:statute:lcid",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 130,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcid:term:cooperacion-horizontal",
+    "term": "Cooperación Horizontal",
+    "instrument_id": "urn:lex-mx:federal:statute:lcid",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+    "fraction": "II",
+    "start_char": 130,
+    "end_char": 322,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcid:term:cooperacion-internacional",
+    "term": "Cooperación Internacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lcid",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+    "fraction": "III",
+    "start_char": 322,
+    "end_char": 482,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcid:term:cooperacion-triangular",
+    "term": "Cooperación Triangular",
+    "instrument_id": "urn:lex-mx:federal:statute:lcid",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+    "fraction": "IV",
+    "start_char": 482,
+    "end_char": 729,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcid:term:cooperacion-vertical",
+    "term": "Cooperación Vertical",
+    "instrument_id": "urn:lex-mx:federal:statute:lcid",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+    "fraction": "V",
+    "start_char": 729,
+    "end_char": 854,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcid:term:cooperante",
+    "term": "Cooperante",
+    "instrument_id": "urn:lex-mx:federal:statute:lcid",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+    "fraction": "VI",
+    "start_char": 854,
+    "end_char": 1073,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcid:term:consejo-consultivo",
+    "term": "Consejo Consultivo",
+    "instrument_id": "urn:lex-mx:federal:statute:lcid",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+    "fraction": "VII",
+    "start_char": 1073,
+    "end_char": 1136,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcid:term:consejos-tecnicos",
+    "term": "Consejos Técnicos",
+    "instrument_id": "urn:lex-mx:federal:statute:lcid",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+    "fraction": "VIII",
+    "start_char": 1136,
+    "end_char": 1307,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcid:term:demanda-de-cooperacion",
+    "term": "Demanda de Cooperación",
+    "instrument_id": "urn:lex-mx:federal:statute:lcid",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+    "fraction": "IX",
+    "start_char": 1307,
+    "end_char": 1510,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcid:term:director-ejecutivo",
+    "term": "Director Ejecutivo",
+    "instrument_id": "urn:lex-mx:federal:statute:lcid",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+    "fraction": "X",
+    "start_char": 1510,
+    "end_char": 1786,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcid:term:programa",
+    "term": "Programa",
+    "instrument_id": "urn:lex-mx:federal:statute:lcid",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+    "fraction": "XII",
+    "start_char": 1786,
+    "end_char": 1860,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcid:term:registro-nacional",
+    "term": "Registro Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lcid",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+    "fraction": "XIII",
+    "start_char": 1860,
+    "end_char": 1990,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lcid",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+    "fraction": "XIV",
+    "start_char": 1990,
+    "end_char": 2048,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcid:term:tratados-internacionales",
+    "term": "Tratados Internacionales",
+    "instrument_id": "urn:lex-mx:federal:statute:lcid",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
+    "fraction": "XV",
+    "start_char": 2048,
+    "end_char": 2217,
+    "basis": "express_definition"
+  }
+]

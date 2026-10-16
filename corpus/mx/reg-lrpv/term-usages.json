@@ -1,0 +1,515 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:1:term-usage:12-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 12,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:1:term-usage:125-128",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 125,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:2:term-usage:25-35",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 25,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:2:term-usage:97-100",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 97,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:2:term-usage:630-633",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 630,
+    "end_char": 633
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:4:term-usage:246-249",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 246,
+    "end_char": 249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:4:term-usage:265-275",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 265,
+    "end_char": 275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:5:term-usage:705-708",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 705,
+    "end_char": 708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:6:term-usage:177-180",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 177,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:6:term-usage:195-205",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 195,
+    "end_char": 205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:7:term-usage:472-506",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:numero-de-identificacion-vehicular",
+    "span": "Número de Identificación Vehicular",
+    "start_char": 472,
+    "end_char": 506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:8:term-usage:325-328",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 325,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:9:term-usage:116-119",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 116,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:10:term-usage:81-84",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 81,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:10:term-usage:171-181",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 171,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:10:term-usage:259-262",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 259,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:10:term-usage:277-287",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 277,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:11:term-usage:395-398",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 395,
+    "end_char": 398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:11:term-usage:585-595",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 585,
+    "end_char": 595
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:13:term-usage:405-415",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 405,
+    "end_char": 415
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:14:term-usage:176-186",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 176,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:15:term-usage:469-503",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:numero-de-identificacion-vehicular",
+    "span": "Número de Identificación Vehicular",
+    "start_char": 469,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:16:term-usage:790-793",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 790,
+    "end_char": 793
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:16:term-usage:1525-1528",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 1525,
+    "end_char": 1528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:17:term-usage:136-146",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 136,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:17:term-usage:301-311",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 301,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:19:term-usage:288-298",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 288,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:19:term-usage:559-562",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 559,
+    "end_char": 562
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:20:term-usage:112-115",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 112,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:20:term-usage:343-346",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 343,
+    "end_char": 346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:20:term-usage:361-371",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 361,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:22:term-usage:29-32",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 29,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:22:term-usage:40-50",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 40,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:23:term-usage:600-603",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 600,
+    "end_char": 603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:33:term-usage:700-710",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 700,
+    "end_char": 710
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:34:term-usage:508-511",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 508,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:36:term-usage:536-539",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 536,
+    "end_char": 539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:37:term-usage:412-422",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 412,
+    "end_char": 422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:38:term-usage:177-180",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 177,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:39:term-usage:99-133",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:numero-de-identificacion-vehicular",
+    "span": "Número de Identificación Vehicular",
+    "start_char": 99,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:42:term-usage:110-113",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 110,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:42:term-usage:175-178",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 175,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:42:term-usage:225-235",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 225,
+    "end_char": 235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:42:term-usage:240-250",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 240,
+    "end_char": 250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:article:44:term-usage:114-117",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 114,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:primero:term-usage:12-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:primero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 12,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:tercero:term-usage:13-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 13,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:tercero:term-usage:30-33",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 30,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:cuarto:term-usage:62-72",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 62,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:cuarto:term-usage:179-189",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 179,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:cuarto:term-usage:303-306",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 303,
+    "end_char": 306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:cuarto:term-usage:435-469",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:numero-de-identificacion-vehicular",
+    "span": "Número de Identificación Vehicular",
+    "start_char": 435,
+    "end_char": 469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:quinto:term-usage:360-370",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 360,
+    "end_char": 370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:sexto:term-usage:96-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 96,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:sexto:term-usage:277-287",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 277,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:septimo:term-usage:58-68",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 58,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:septimo:term-usage:393-396",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lrpv:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lrpv:term:ley",
+    "span": "Ley",
+    "start_char": 393,
+    "end_char": 396
+  }
+]

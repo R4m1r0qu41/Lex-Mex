@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgmasc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Mecanismos Alternativos de Solución de Controversias",
+  "short_name": "LGMASC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2024-01-26",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:33:57.256080Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf",
+  "source_sha256": "d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a",
+  "extracted_text_sha256": "374fdc269bfa3b19a12a77c214af5c4668f9dfbc9ae6a60d7a653e6be0000c61",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

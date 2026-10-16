@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfcsq",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCSQ.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcsq.htm",
+  "retrieved_at": "2026-10-14T07:26:44.955978Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 773039,
+  "etag": "\"bcbaf-64500b6981280\"",
+  "last_modified": "Tue, 02 Dec 2025 23:47:06 GMT",
+  "source_sha256": "414c7e193ba776fc660f862c8bf2e8c0d91d35f6566979542132fcac0c82d923",
+  "extracted_text_sha256": "cccae8d1a0b783208ad24e353246d02901045d23f99a26d23a1621972d7b6a39",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lmin",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Minera",
+  "short_name": "REG-LMIN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2012-10-12",
+  "latest_reform_date": "2014-10-31",
+  "retrieved_at": "2026-10-14T08:01:15.419156Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMin.pdf",
+  "source_sha256": "4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d",
+  "extracted_text_sha256": "8be36a14ea5e7f3cfb19f0f521471dad17d8defa20ae124ed20f53462204dd1f",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

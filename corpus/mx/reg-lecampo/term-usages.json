@@ -1,0 +1,326 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:1:term-usage:12-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 12,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:1:term-usage:253-263",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 253,
+    "end_char": 263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:2:term-usage:52-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 52,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:2:term-usage:738-748",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 738,
+    "end_char": 748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:3:term-usage:33-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 33,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:3:term-usage:461-471",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 461,
+    "end_char": 471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:3:term-usage:670-680",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 670,
+    "end_char": 680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:5:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:7:term-usage:366-376",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 366,
+    "end_char": 376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:8:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:8:term-usage:140-146",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:padron",
+    "span": "Padrón",
+    "start_char": 140,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:8:term-usage:298-304",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:padron",
+    "span": "Padrón",
+    "start_char": 298,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:8:term-usage:813-819",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:padron",
+    "span": "Padrón",
+    "start_char": 813,
+    "end_char": 819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:8:term-usage:855-865",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 855,
+    "end_char": 865
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:9:term-usage:64-74",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 64,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:9:term-usage:90-96",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:padron",
+    "span": "Padrón",
+    "start_char": 90,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:10:term-usage:21-27",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:padron",
+    "span": "Padrón",
+    "start_char": 21,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:10:term-usage:402-421",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:sujetos-productivos",
+    "span": "Sujetos Productivos",
+    "start_char": 402,
+    "end_char": 421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:12:term-usage:40-50",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 40,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:12:term-usage:425-436",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 425,
+    "end_char": 436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:13:term-usage:231-242",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 231,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:13:term-usage:533-552",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:sujetos-productivos",
+    "span": "Sujetos Productivos",
+    "start_char": 533,
+    "end_char": 552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:14:term-usage:52-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 52,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:15:term-usage:66-76",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 66,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:16:term-usage:53-63",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 53,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:16:term-usage:285-295",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 285,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:16:term-usage:978-988",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 978,
+    "end_char": 988
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:16:term-usage:1082-1092",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1082,
+    "end_char": 1092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:17:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:17:term-usage:341-351",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 341,
+    "end_char": 351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:18:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:20:term-usage:78-88",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 78,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:21:term-usage:95-105",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 95,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:21:term-usage:134-144",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 134,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:transitory:primero:term-usage:12-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:transitory:primero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 12,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:transitory:segundo:term-usage:155-165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lecampo:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 155,
+    "end_char": 165
+  }
+]

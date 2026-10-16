@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgife",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de la Infraestructura Física Educativa",
+  "short_name": "REG-LGIFE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2013-07-05",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:57:26.060542Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGIFE.pdf",
+  "source_sha256": "05cf69d4709df7bb3340fe016a25a1ca29e6c82555d12f5a22b91c723f85b9d8",
+  "extracted_text_sha256": "e26a136d26c2a90b9bf8dd623594bf9be161cb18b265681de167014dd2d50d47",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

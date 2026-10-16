@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-len:article:1
+instrument_id: urn:lex-mx:federal:regulation:reg-len
+instrument: REG-LEN
+name: "Reglamento de la Ley de Educación Naval"
+provision_type: article
+number: "1"
+aliases: ["REG-LEN — Artículo 1"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEN_270120.pdf
+source_sha256: 01a9b609397e354014b0511a81438ad96ddba6e85157f82ff4d778e5979ca795
+---
+
+> Capítulo I
+
+# Artículo 1
+
+Las disposiciones del presente ordenamiento tienen por objeto regular los procesos de selección, admisión, altas, bajas y reingreso al Sistema Educativo Naval en términos de la Ley de Educación Naval, así como la acreditación, certificación y revalidación de estudios que señalan las leyes para el Sistema Educativo Nacional.

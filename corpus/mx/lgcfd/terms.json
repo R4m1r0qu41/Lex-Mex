@@ -1,0 +1,134 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcfd:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:4",
+    "fraction": "I",
+    "start_char": 52,
+    "end_char": 105,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcfd:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:4",
+    "fraction": "II",
+    "start_char": 105,
+    "end_char": 183,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcfd:term:conade",
+    "term": "CONADE",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:4",
+    "fraction": "III",
+    "start_char": 183,
+    "end_char": 247,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcfd:term:com",
+    "term": "COM",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:4",
+    "fraction": "IV",
+    "start_char": 247,
+    "end_char": 304,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcfd:term:copame",
+    "term": "COPAME",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:4",
+    "fraction": "V",
+    "start_char": 304,
+    "end_char": 366,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcfd:term:caad",
+    "term": "CAAD",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:4",
+    "fraction": "VI",
+    "start_char": 366,
+    "end_char": 427,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcfd:term:conde",
+    "term": "CONDE",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:4",
+    "fraction": "VII",
+    "start_char": 427,
+    "end_char": 489,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcfd:term:sinade",
+    "term": "SINADE",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:4",
+    "fraction": "VIII",
+    "start_char": 489,
+    "end_char": 553,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcfd:term:renade",
+    "term": "RENADE",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:4",
+    "fraction": "IX",
+    "start_char": 553,
+    "end_char": 615,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcfd:term:sep",
+    "term": "SEP",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:4",
+    "fraction": "X",
+    "start_char": 615,
+    "end_char": 660,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcfd:term:comision-especial",
+    "term": "Comisión Especial",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:4",
+    "fraction": "XI",
+    "start_char": 660,
+    "end_char": 742,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcfd:term:coved",
+    "term": "COVED",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:4",
+    "fraction": "XII",
+    "start_char": 742,
+    "end_char": 796,
+    "basis": "express_definition"
+  }
+]

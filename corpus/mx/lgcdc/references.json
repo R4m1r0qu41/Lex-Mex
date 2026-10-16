@@ -1,0 +1,54 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcdc:article:1:reference:103-104:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgcdc:article:1",
+    "source_span": "4",
+    "start_char": 103,
+    "end_char": 104,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XXIX",
+        "start_char": 113,
+        "end_char": 126
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcdc:article:13:reference:29-46:12:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgcdc:article:13",
+    "source_span": "artículo anterior",
+    "start_char": 29,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcdc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcdc:article:12",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcdc:article:18:reference:47-64:17:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgcdc:article:18",
+    "source_span": "artículo anterior",
+    "start_char": 47,
+    "end_char": 64,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcdc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcdc:article:17",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]

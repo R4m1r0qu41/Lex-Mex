@@ -1,0 +1,260 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:20:reference:81-98:19:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfsp:article:20",
+    "source_span": "artículo anterior",
+    "start_char": 81,
+    "end_char": 98,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfsp:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:25:reference:5516-5518:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfsp:article:25",
+    "source_span": "15",
+    "start_char": 5516,
+    "end_char": 5518,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfsp:article:15",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 5490,
+        "end_char": 5502
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:25:reference:5843-5845:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfsp:article:25",
+    "source_span": "15",
+    "start_char": 5843,
+    "end_char": 5845,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfsp:article:15",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:28:reference:535-537:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfsp:article:28",
+    "source_span": "27",
+    "start_char": 535,
+    "end_char": 537,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfsp:article:27",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 510,
+        "end_char": 521
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:32:reference:6312-6314:33:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "source_span": "33",
+    "start_char": 6312,
+    "end_char": 6314,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfsp:article:33",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:32:reference:6449-6451:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "source_span": "15",
+    "start_char": 6449,
+    "end_char": 6451,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfsp:article:15",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 6423,
+        "end_char": 6435
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:32:reference:7073-7075:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "source_span": "15",
+    "start_char": 7073,
+    "end_char": 7075,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfsp:article:15",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 7048,
+        "end_char": 7059
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:32:reference:7301-7303:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "source_span": "15",
+    "start_char": 7301,
+    "end_char": 7303,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfsp:article:15",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 7276,
+        "end_char": 7287
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:42:reference:863-865:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfsp:article:42",
+    "source_span": "32",
+    "start_char": 863,
+    "end_char": 865,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones III, V, VI, VII, IX, XIII, XIV, XVI, XVIII, XIX, XXIII, XXIV, XXV, XXVII, XXVIII, XXX, XXXI y XXXII",
+        "start_char": 739,
+        "end_char": 849
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:42:reference:1116-1118:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfsp:article:42",
+    "source_span": "32",
+    "start_char": 1116,
+    "end_char": 1118,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XXIII",
+        "start_char": 1088,
+        "end_char": 1102
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:42:reference:2524-2526:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfsp:article:42",
+    "source_span": "26",
+    "start_char": 2524,
+    "end_char": 2526,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfsp:article:26",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:42:reference:2816-2818:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfsp:article:42",
+    "source_span": "32",
+    "start_char": 2816,
+    "end_char": 2818,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfsp:article:32",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones IV, VIII, X, XI, XXII, XXIX",
+        "start_char": 2764,
+        "end_char": 2802
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:article:42:reference:4720-4722:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfsp:article:42",
+    "source_span": "26",
+    "start_char": 4720,
+    "end_char": 4722,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfsp:article:26",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 4694,
+        "end_char": 4706
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

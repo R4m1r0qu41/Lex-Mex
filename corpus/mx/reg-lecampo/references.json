@@ -1,0 +1,45 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:article:8:reference:744-761:7:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:8",
+    "source_span": "artículo anterior",
+    "start_char": 744,
+    "end_char": 761,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lecampo",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:7",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lecampo:transitory:segundo:reference:113-114:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:transitory:segundo",
+    "source_span": "7",
+    "start_char": 113,
+    "end_char": 114,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lecampo",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lecampo:article:7",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 118,
+        "end_char": 129
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a",
+        "start_char": 131,
+        "end_char": 139
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

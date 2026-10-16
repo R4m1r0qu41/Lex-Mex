@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-logan",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Organizaciones Ganaderas",
+  "short_name": "REG-LOGAN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1999-12-24",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T08:01:43.875759Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOGan.pdf",
+  "source_sha256": "0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded",
+  "extracted_text_sha256": "7b936a04ce69c0eac39b3ad700625c0a043afcc86f041ded0ed4de5bc174bb1a",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

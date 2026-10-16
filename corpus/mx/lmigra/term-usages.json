@@ -1,0 +1,4160 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:1:term-usage:26-29",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 26,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:2:term-usage:204-216",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 204,
+    "end_char": 216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:2:term-usage:354-357",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 354,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:2:term-usage:376-386",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 376,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:2:term-usage:3004-3016",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 3004,
+    "end_char": 3016
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:2:term-usage:4932-4944",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 4932,
+    "end_char": 4944
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:2:term-usage:4991-4994",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 4991,
+    "end_char": 4994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:2:term-usage:5187-5199",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 5187,
+    "end_char": 5199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:28-31",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 28,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:280-290",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 280,
+    "end_char": 290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:462-465",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 462,
+    "end_char": 465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:472-482",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:refugiado",
+    "span": "Refugiados",
+    "start_char": 472,
+    "end_char": 482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:1128-1137",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1128,
+    "end_char": 1137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:2186-2195",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 2186,
+    "end_char": 2195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:2496-2505",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 2496,
+    "end_char": 2505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:2984-2994",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2984,
+    "end_char": 2994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:5149-5152",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 5149,
+    "end_char": 5152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:5189-5199",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 5189,
+    "end_char": 5199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:5395-5407",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 5395,
+    "end_char": 5407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:5598-5610",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 5598,
+    "end_char": 5610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:6005-6014",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 6005,
+    "end_char": 6014
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:6518-6528",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 6518,
+    "end_char": 6528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:7183-7186",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 7183,
+    "end_char": 7186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:7280-7289",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 7280,
+    "end_char": 7289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:8013-8022",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 8013,
+    "end_char": 8022
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:8626-8635",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 8626,
+    "end_char": 8635
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:3:term-usage:9257-9266",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 9257,
+    "end_char": 9266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:4:term-usage:22-25",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 22,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:4:term-usage:43-53",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 43,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:5:term-usage:804-807",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 804,
+    "end_char": 807
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:6:term-usage:117-129",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 117,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:6:term-usage:485-488",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 485,
+    "end_char": 488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:6:term-usage:549-559",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 549,
+    "end_char": 559
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:7:term-usage:140-152",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 140,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:7:term-usage:244-247",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 244,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:7:term-usage:613-616",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 613,
+    "end_char": 616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:11:term-usage:311-323",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 311,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:11:term-usage:482-494",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 482,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:11:term-usage:529-532",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 529,
+    "end_char": 532
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:11:term-usage:719-745",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 719,
+    "end_char": 745
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:12:term-usage:163-175",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 163,
+    "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:13:term-usage:607-617",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 607,
+    "end_char": 617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:16:term-usage:555-558",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 555,
+    "end_char": 558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:16:term-usage:729-741",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 729,
+    "end_char": 741
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:16:term-usage:758-761",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 758,
+    "end_char": 761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:16:term-usage:766-776",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 766,
+    "end_char": 776
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:211-221",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 211,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:894-897",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 894,
+    "end_char": 897
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:927-937",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 927,
+    "end_char": 937
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:992-1002",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 992,
+    "end_char": 1002
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:1124-1134",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1124,
+    "end_char": 1134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:1406-1416",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1406,
+    "end_char": 1416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:1498-1501",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1498,
+    "end_char": 1501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:1507-1517",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1507,
+    "end_char": 1517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:1546-1556",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1546,
+    "end_char": 1556
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:1808-1811",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1808,
+    "end_char": 1811
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:1817-1827",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1817,
+    "end_char": 1827
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:1905-1908",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1905,
+    "end_char": 1908
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:1945-1948",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1945,
+    "end_char": 1948
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:1976-1979",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1976,
+    "end_char": 1979
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:18:term-usage:1984-1994",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1984,
+    "end_char": 1994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:19:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:19:term-usage:62-72",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 62,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:19:term-usage:316-326",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 316,
+    "end_char": 326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:20:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:20:term-usage:279-282",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 279,
+    "end_char": 282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:20:term-usage:527-530",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 527,
+    "end_char": 530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:20:term-usage:539-549",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 539,
+    "end_char": 549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:20:term-usage:697-723",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 697,
+    "end_char": 723
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:20:term-usage:827-830",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 827,
+    "end_char": 830
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:20:term-usage:836-846",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 836,
+    "end_char": 846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:20:term-usage:1089-1092",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1089,
+    "end_char": 1092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:20:term-usage:1954-1980",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 1954,
+    "end_char": 1980
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:20:term-usage:2322-2325",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 2322,
+    "end_char": 2325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:20:term-usage:2330-2340",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 2330,
+    "end_char": 2340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:21:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:21:term-usage:166-169",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 166,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:21:term-usage:174-184",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 174,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:21:term-usage:251-261",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 251,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:21:term-usage:404-414",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 404,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:21:term-usage:539-542",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 539,
+    "end_char": 542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:21:term-usage:623-626",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 623,
+    "end_char": 626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:21:term-usage:631-641",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 631,
+    "end_char": 641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:22:term-usage:44-53",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 44,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:22:term-usage:217-229",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 217,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:22:term-usage:247-250",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 247,
+    "end_char": 250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:23:term-usage:34-37",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 34,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:23:term-usage:117-126",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 117,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:23:term-usage:426-436",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 426,
+    "end_char": 436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:23:term-usage:558-567",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 558,
+    "end_char": 567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:23:term-usage:584-604",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:centro-de-evaluacion",
+    "span": "Centro de Evaluación",
+    "start_char": 584,
+    "end_char": 604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:23:term-usage:690-693",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 690,
+    "end_char": 693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:23:term-usage:792-812",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:centro-de-evaluacion",
+    "span": "Centro de Evaluación",
+    "start_char": 792,
+    "end_char": 812
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:24:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:centro-de-evaluacion",
+    "span": "Centro de Evaluación",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:24:term-usage:128-137",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 128,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:24:term-usage:543-552",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 543,
+    "end_char": 552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:24:term-usage:645-654",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 645,
+    "end_char": 654
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:24:term-usage:1336-1339",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1336,
+    "end_char": 1339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:24:term-usage:1344-1354",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1344,
+    "end_char": 1354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:25:term-usage:28-37",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 28,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:25:term-usage:257-299",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:servicio-profesional-de-carrera-migratoria",
+    "span": "Servicio Profesional de Carrera Migratoria",
+    "start_char": 257,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:25:term-usage:386-389",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 386,
+    "end_char": 389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:25:term-usage:618-627",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 618,
+    "end_char": 627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:25:term-usage:691-733",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:servicio-profesional-de-carrera-migratoria",
+    "span": "Servicio Profesional de Carrera Migratoria",
+    "start_char": 691,
+    "end_char": 733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:25:term-usage:760-770",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 760,
+    "end_char": 770
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:25:term-usage:779-782",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 779,
+    "end_char": 782
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:26:term-usage:17-27",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 17,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:26:term-usage:497-500",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 497,
+    "end_char": 500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:26:term-usage:505-515",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 505,
+    "end_char": 515
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:27:term-usage:17-27",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 17,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:27:term-usage:958-961",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 958,
+    "end_char": 961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:27:term-usage:966-976",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 966,
+    "end_char": 976
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:28:term-usage:380-383",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 380,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:28:term-usage:1160-1163",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1160,
+    "end_char": 1163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:28:term-usage:1198-1201",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1198,
+    "end_char": 1201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:28:term-usage:1206-1216",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1206,
+    "end_char": 1216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:29:term-usage:677-680",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 677,
+    "end_char": 680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:29:term-usage:1260-1269",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1260,
+    "end_char": 1269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:29:term-usage:2008-2011",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 2008,
+    "end_char": 2011
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:29:term-usage:2016-2026",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 2016,
+    "end_char": 2026
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:29:term-usage:2031-2034",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 2031,
+    "end_char": 2034
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:29:term-usage:2095-2105",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 2095,
+    "end_char": 2105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:30:term-usage:17-27",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 17,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:30:term-usage:149-158",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 149,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:30:term-usage:1132-1135",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1132,
+    "end_char": 1135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:30:term-usage:1140-1150",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1140,
+    "end_char": 1150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:31:term-usage:28-38",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 28,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:31:term-usage:163-174",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 163,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:32:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:33:term-usage:186-195",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 186,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:33:term-usage:394-403",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 394,
+    "end_char": 403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:33:term-usage:515-525",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 515,
+    "end_char": 525
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:35:term-usage:116-119",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 116,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:35:term-usage:124-134",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 124,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:35:term-usage:227-236",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 227,
+    "end_char": 236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:35:term-usage:465-468",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 465,
+    "end_char": 468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:36:term-usage:201-204",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 201,
+    "end_char": 204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:36:term-usage:209-219",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 209,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:36:term-usage:1050-1059",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1050,
+    "end_char": 1059
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:36:term-usage:1173-1182",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1173,
+    "end_char": 1182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:36:term-usage:2105-2114",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 2105,
+    "end_char": 2114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:36:term-usage:2305-2314",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 2305,
+    "end_char": 2314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:36:term-usage:2449-2458",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 2449,
+    "end_char": 2458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:37:term-usage:108-117",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 108,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:37:term-usage:365-368",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 365,
+    "end_char": 368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:37:term-usage:1195-1205",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1195,
+    "end_char": 1205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:38:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:39:term-usage:24-27",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 24,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:39:term-usage:33-43",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 33,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:39:term-usage:191-201",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 191,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:39:term-usage:280-283",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 280,
+    "end_char": 283
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:39:term-usage:320-330",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 320,
+    "end_char": 330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:40:term-usage:2464-2467",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 2464,
+    "end_char": 2467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:40:term-usage:2770-2780",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 2770,
+    "end_char": 2780
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:40:term-usage:2838-2848",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2838,
+    "end_char": 2848
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:40:term-usage:2854-2864",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2854,
+    "end_char": 2864
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:41:term-usage:339-348",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 339,
+    "end_char": 348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:41:term-usage:385-394",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 385,
+    "end_char": 394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:41:term-usage:552-561",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 552,
+    "end_char": 561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:41:term-usage:680-683",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 680,
+    "end_char": 683
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:41:term-usage:688-698",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 688,
+    "end_char": 698
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:41:term-usage:747-756",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 747,
+    "end_char": 756
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:42:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:42:term-usage:298-301",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 298,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:43:term-usage:497-500",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 497,
+    "end_char": 500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:43:term-usage:505-515",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 505,
+    "end_char": 515
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:43:term-usage:1256-1259",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1256,
+    "end_char": 1259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:43:term-usage:1264-1274",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1264,
+    "end_char": 1274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:43:term-usage:1426-1435",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1426,
+    "end_char": 1435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:46:term-usage:182-191",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 182,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:46:term-usage:305-315",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 305,
+    "end_char": 315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:46:term-usage:485-494",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 485,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:47:term-usage:269-278",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 269,
+    "end_char": 278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:47:term-usage:511-514",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 511,
+    "end_char": 514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:48:term-usage:1348-1357",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1348,
+    "end_char": 1357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:48:term-usage:1486-1489",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1486,
+    "end_char": 1489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:48:term-usage:1530-1539",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1530,
+    "end_char": 1539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:48:term-usage:1652-1662",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1652,
+    "end_char": 1662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:50:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:50:term-usage:196-206",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 196,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:51:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:52:term-usage:208-211",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 208,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:52:term-usage:216-226",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 216,
+    "end_char": 226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:52:term-usage:1583-1593",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1583,
+    "end_char": 1593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:52:term-usage:2050-2060",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2050,
+    "end_char": 2060
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:52:term-usage:2585-2588",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 2585,
+    "end_char": 2588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:52:term-usage:3515-3518",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 3515,
+    "end_char": 3518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:52:term-usage:3794-3820",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 3794,
+    "end_char": 3820
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:52:term-usage:3901-3904",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 3901,
+    "end_char": 3904
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:52:term-usage:4347-4356",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 4347,
+    "end_char": 4356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:52:term-usage:4444-4470",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 4444,
+    "end_char": 4470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:52:term-usage:4931-4934",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 4931,
+    "end_char": 4934
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:52:term-usage:4948-4958",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4948,
+    "end_char": 4958
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:52:term-usage:8729-8738",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 8729,
+    "end_char": 8738
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:54:term-usage:322-325",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 322,
+    "end_char": 325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:54:term-usage:330-340",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 330,
+    "end_char": 340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:54:term-usage:486-489",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 486,
+    "end_char": 489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:54:term-usage:735-744",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 735,
+    "end_char": 744
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:54:term-usage:841-844",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 841,
+    "end_char": 844
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:56:term-usage:875-887",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 875,
+    "end_char": 887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:57:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:57:term-usage:584-587",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 584,
+    "end_char": 587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:57:term-usage:593-603",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 593,
+    "end_char": 603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:57:term-usage:908-911",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 908,
+    "end_char": 911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:58:term-usage:193-196",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 193,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:58:term-usage:202-212",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 202,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:59:term-usage:292-301",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 292,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:59:term-usage:903-913",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 903,
+    "end_char": 913
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:59:term-usage:1067-1077",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1067,
+    "end_char": 1077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:60:term-usage:141-150",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 141,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:60:term-usage:361-373",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 361,
+    "end_char": 373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:62:term-usage:108-117",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 108,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:62:term-usage:227-237",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 227,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:63:term-usage:248-257",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 248,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:64:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:64:term-usage:288-297",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 288,
+    "end_char": 297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:64:term-usage:484-487",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 484,
+    "end_char": 487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:65:term-usage:345-357",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 345,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:65:term-usage:362-365",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 362,
+    "end_char": 365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:66:term-usage:111-123",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 111,
+    "end_char": 123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:66:term-usage:237-240",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 237,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:68:term-usage:96-105",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 96,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:68:term-usage:137-140",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 137,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:68:term-usage:540-549",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 540,
+    "end_char": 549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:68:term-usage:692-695",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 692,
+    "end_char": 695
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:69:term-usage:947-950",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 947,
+    "end_char": 950
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:69:term-usage:1038-1041",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1038,
+    "end_char": 1041
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:70:term-usage:151-160",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 151,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:70:term-usage:1004-1013",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1004,
+    "end_char": 1013
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:71:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:71:term-usage:322-332",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 322,
+    "end_char": 332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:71:term-usage:791-794",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 791,
+    "end_char": 794
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:71:term-usage:799-802",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 799,
+    "end_char": 802
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:72:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:73:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:73:term-usage:517-527",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 517,
+    "end_char": 527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:73:term-usage:1161-1164",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1161,
+    "end_char": 1164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:73:term-usage:1224-1234",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1224,
+    "end_char": 1234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:74:term-usage:12-38",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 12,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:74:term-usage:114-123",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 114,
+    "end_char": 123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:74:term-usage:297-300",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 297,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:74:term-usage:356-359",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 356,
+    "end_char": 359
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:74:term-usage:971-997",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 971,
+    "end_char": 997
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:75:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:75:term-usage:550-553",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 550,
+    "end_char": 553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:76:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:77:term-usage:108-118",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 108,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:77:term-usage:191-201",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 191,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:77:term-usage:232-235",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 232,
+    "end_char": 235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:78:term-usage:312-315",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 312,
+    "end_char": 315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:79:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:79:term-usage:148-151",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 148,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:79:term-usage:269-278",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 269,
+    "end_char": 278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:79:term-usage:439-465",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 439,
+    "end_char": 465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:80:term-usage:77-86",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 77,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:81:term-usage:280-289",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 280,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:81:term-usage:295-304",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 295,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:81:term-usage:510-520",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 510,
+    "end_char": 520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:82:term-usage:16-25",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 16,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:83:term-usage:86-95",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 86,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:84:term-usage:154-163",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 154,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:86:term-usage:52-61",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 52,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:86:term-usage:142-145",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 142,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:86:term-usage:284-287",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 284,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:86:term-usage:375-384",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 375,
+    "end_char": 384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:86:term-usage:654-657",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 654,
+    "end_char": 657
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:86:term-usage:662-672",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 662,
+    "end_char": 672
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:87:term-usage:207-210",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 207,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:88:term-usage:21-30",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 21,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:90:term-usage:157-166",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 157,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:91:term-usage:92-95",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 92,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:91:term-usage:101-111",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 101,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:92:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:92:term-usage:170-173",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 170,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:92:term-usage:179-189",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 179,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:92:term-usage:218-227",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 218,
+    "end_char": 227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:92:term-usage:536-539",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 536,
+    "end_char": 539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:92:term-usage:544-554",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 544,
+    "end_char": 554
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:92:term-usage:846-855",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 846,
+    "end_char": 855
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:93:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:94:term-usage:47-56",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 47,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:94:term-usage:153-156",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 153,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:94:term-usage:162-172",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 162,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:95:term-usage:200-209",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 200,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:95:term-usage:674-700",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 674,
+    "end_char": 700
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:95:term-usage:928-937",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 928,
+    "end_char": 937
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:95:term-usage:1008-1034",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 1008,
+    "end_char": 1034
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:95:term-usage:1320-1346",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 1320,
+    "end_char": 1346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:95:term-usage:1736-1745",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1736,
+    "end_char": 1745
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:95:term-usage:1882-1908",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 1882,
+    "end_char": 1908
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:95:term-usage:1948-1951",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1948,
+    "end_char": 1951
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:96:term-usage:35-44",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 35,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:97:term-usage:88-97",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 88,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:97:term-usage:358-367",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 358,
+    "end_char": 367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:98:term-usage:209-212",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 209,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:98:term-usage:353-379",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 353,
+    "end_char": 379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:98:term-usage:607-616",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 607,
+    "end_char": 616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:98:term-usage:687-713",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 687,
+    "end_char": 713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:98:term-usage:972-998",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 972,
+    "end_char": 998
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:98:term-usage:1351-1360",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1351,
+    "end_char": 1360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:98:term-usage:1497-1523",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 1497,
+    "end_char": 1523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:98:term-usage:1563-1566",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1563,
+    "end_char": 1566
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:99:term-usage:255-264",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 255,
+    "end_char": 264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:99:term-usage:472-481",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 472,
+    "end_char": 481
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:100:term-usage:50-59",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 50,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:100:term-usage:207-210",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 207,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:101:term-usage:201-211",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:101",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 201,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:103:term-usage:52-61",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 52,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:103:term-usage:477-486",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 477,
+    "end_char": 486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:104:term-usage:249-258",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 249,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:105:term-usage:83-92",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:105",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 83,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:105:term-usage:182-185",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:105",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 182,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:106:term-usage:38-47",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 38,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:107:term-usage:259-268",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 259,
+    "end_char": 268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:107:term-usage:1633-1643",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1633,
+    "end_char": 1643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:107:term-usage:1649-1658",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1649,
+    "end_char": 1658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:108:term-usage:232-242",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:108",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 232,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:109:term-usage:742-751",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:109",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 742,
+    "end_char": 751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:109:term-usage:2333-2352",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:109",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:estacion-migratoria",
+    "span": "Estación Migratoria",
+    "start_char": 2333,
+    "end_char": 2352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:109:term-usage:2369-2391",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:109",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:estacion-migratoria",
+    "span": "Estaciones Migratorias",
+    "start_char": 2369,
+    "end_char": 2391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:109:term-usage:2659-2669",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:109",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2659,
+    "end_char": 2669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:111:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:111:term-usage:1502-1511",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1502,
+    "end_char": 1511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:111:term-usage:1722-1731",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1722,
+    "end_char": 1731
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:68-77",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 68,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:165-191",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 165,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:428-437",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 428,
+    "end_char": 437
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:631-657",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 631,
+    "end_char": 657
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:718-721",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 718,
+    "end_char": 721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:802-811",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 802,
+    "end_char": 811
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:960-963",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 960,
+    "end_char": 963
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:969-979",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 969,
+    "end_char": 979
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:985-994",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 985,
+    "end_char": 994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:1096-1122",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 1096,
+    "end_char": 1122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:1338-1347",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1338,
+    "end_char": 1347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:1431-1457",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 1431,
+    "end_char": 1457
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:1503-1512",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1503,
+    "end_char": 1512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:1696-1722",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 1696,
+    "end_char": 1722
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:1791-1817",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 1791,
+    "end_char": 1817
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:1879-1888",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1879,
+    "end_char": 1888
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:1982-1985",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1982,
+    "end_char": 1985
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:2112-2138",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 2112,
+    "end_char": 2138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:2217-2226",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 2217,
+    "end_char": 2226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:3791-3817",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 3791,
+    "end_char": 3817
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:4083-4092",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 4083,
+    "end_char": 4092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:4392-4418",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 4392,
+    "end_char": 4418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:4423-4432",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 4423,
+    "end_char": 4432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:4484-4494",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:refugiado",
+    "span": "Refugiados",
+    "start_char": 4484,
+    "end_char": 4494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:4705-4731",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 4705,
+    "end_char": 4731
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:4802-4811",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 4802,
+    "end_char": 4811
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:5271-5274",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 5271,
+    "end_char": 5274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:112:term-usage:5335-5345",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 5335,
+    "end_char": 5345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:113:term-usage:342-351",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 342,
+    "end_char": 351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:113:term-usage:840-849",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 840,
+    "end_char": 849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:113:term-usage:894-897",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 894,
+    "end_char": 897
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:113:term-usage:902-911",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 902,
+    "end_char": 911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:113:term-usage:1026-1035",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1026,
+    "end_char": 1035
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:113:term-usage:1134-1144",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1134,
+    "end_char": 1144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:114:term-usage:205-217",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 205,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:115:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:115:term-usage:189-192",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 189,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:115:term-usage:198-208",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 198,
+    "end_char": 208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:116:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:116:term-usage:38-48",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 38,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:117:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:118:term-usage:280-289",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 280,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:118:term-usage:539-542",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 539,
+    "end_char": 542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:119:term-usage:1374-1383",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1374,
+    "end_char": 1383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:119:term-usage:1685-1694",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 1685,
+    "end_char": 1694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:121:term-usage:221-224",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:121",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 221,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:122:term-usage:835-844",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 835,
+    "end_char": 844
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:123:term-usage:17-26",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:123",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 17,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:126:term-usage:100-103",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 100,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:126:term-usage:108-118",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 108,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:127:term-usage:326-329",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:127",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 326,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:128:term-usage:231-234",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:128",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 231,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:128:term-usage:239-249",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:128",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 239,
+    "end_char": 249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:130:term-usage:160-163",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 160,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:131:term-usage:245-254",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:131",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 245,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:133:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:133:term-usage:255-258",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 255,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:133:term-usage:263-273",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 263,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:133:term-usage:436-439",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 436,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:133:term-usage:985-994",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 985,
+    "end_char": 994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:134:term-usage:132-135",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:134",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 132,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:134:term-usage:584-587",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:134",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 584,
+    "end_char": 587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:134:term-usage:592-602",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:134",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 592,
+    "end_char": 602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:135:term-usage:140-149",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:135",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 140,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:135:term-usage:711-714",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:135",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 711,
+    "end_char": 714
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:135:term-usage:745-748",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:135",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 745,
+    "end_char": 748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:135:term-usage:754-764",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:135",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 754,
+    "end_char": 764
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:136:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:136:term-usage:277-280",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 277,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:136:term-usage:443-446",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 443,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:136:term-usage:452-462",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 452,
+    "end_char": 462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:136:term-usage:547-556",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 547,
+    "end_char": 556
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:136:term-usage:727-736",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 727,
+    "end_char": 736
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:137:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:137",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:137:term-usage:179-188",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:137",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 179,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:137:term-usage:476-485",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:137",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 476,
+    "end_char": 485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:137:term-usage:582-585",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:137",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 582,
+    "end_char": 585
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:138:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:138",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:138:term-usage:58-61",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:138",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 58,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:138:term-usage:632-641",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:138",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 632,
+    "end_char": 641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:139:term-usage:85-88",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:139",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 85,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:139:term-usage:107-116",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:139",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 107,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:140:term-usage:28-37",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:140",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 28,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:140:term-usage:393-396",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:140",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 393,
+    "end_char": 396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:140:term-usage:402-412",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:140",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 402,
+    "end_char": 412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:140:term-usage:747-750",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:140",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 747,
+    "end_char": 750
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:140:term-usage:756-766",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:140",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 756,
+    "end_char": 766
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:140:term-usage:1160-1163",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:140",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 1160,
+    "end_char": 1163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:141:term-usage:44-53",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:141",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 44,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:141:term-usage:93-96",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:141",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 93,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:142:term-usage:121-130",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:142",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 121,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:143:term-usage:153-156",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:143",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 153,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:143:term-usage:397-407",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:143",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 397,
+    "end_char": 407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:143:term-usage:431-434",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:143",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 431,
+    "end_char": 434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:143:term-usage:480-489",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:143",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 480,
+    "end_char": 489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:143:term-usage:709-712",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:143",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 709,
+    "end_char": 712
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:144:term-usage:300-321",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:acuerdo-de-readmision",
+    "span": "Acuerdo de readmisión",
+    "start_char": 300,
+    "end_char": 321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:144:term-usage:416-425",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 416,
+    "end_char": 425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:144:term-usage:652-661",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 652,
+    "end_char": 661
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:144:term-usage:844-853",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 844,
+    "end_char": 853
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:144:term-usage:881-890",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 881,
+    "end_char": 890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:144:term-usage:1016-1026",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1016,
+    "end_char": 1026
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:144:term-usage:1103-1113",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1103,
+    "end_char": 1113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:145:term-usage:153-156",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:145",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 153,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:145:term-usage:375-378",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:145",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 375,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:146:term-usage:136-139",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:146",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 136,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:148:term-usage:176-179",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:148",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 176,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:148:term-usage:549-552",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:148",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 549,
+    "end_char": 552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:149:term-usage:105-114",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:149",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 105,
+    "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:149:term-usage:394-397",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:149",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 394,
+    "end_char": 397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:150:term-usage:255-258",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:150",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 255,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:151:term-usage:218-227",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:151",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 218,
+    "end_char": 227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:155:term-usage:290-299",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:155",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 290,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:157:term-usage:269-272",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:157",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 269,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:158:term-usage:176-185",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:158",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 176,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:161:term-usage:124-127",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:161",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 124,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:162:term-usage:39-42",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:162",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 39,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:article:162:term-usage:164-173",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:article:162",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:instituto",
+    "span": "Instituto",
+    "start_char": 164,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:primero:term-usage:3-6",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:primero",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 3,
+    "end_char": 6
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:segundo:term-usage:295-298",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 295,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:segundo:term-usage:365-375",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 365,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:segundo:term-usage:388-391",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 388,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:tercero:term-usage:98-101",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 98,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:tercero:term-usage:142-152",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 142,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:tercero:term-usage:159-162",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 159,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:tercero:term-usage:237-247",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 237,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:tercero:term-usage:254-257",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 254,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:cuarto:term-usage:130-133",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 130,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:quinto:term-usage:208-211",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 208,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:sexto:term-usage:36-39",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 36,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:septimo:term-usage:33-36",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 33,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:septimo:term-usage:370-382",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 370,
+    "end_char": 382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:octavo:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:octavo:term-usage:135-138",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 135,
+    "end_char": 138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:noveno:term-usage:118-121",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 118,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:decimo:term-usage:72-75",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 72,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:decimo:term-usage:138-141",
+    "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lmigra:term:ley",
+    "span": "Ley",
+    "start_char": 138,
+    "end_char": 141
+  }
+]

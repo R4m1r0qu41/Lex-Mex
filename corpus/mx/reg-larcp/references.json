@@ -1,0 +1,291 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:11:reference:1355-1356:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:11",
+    "source_span": "9",
+    "start_char": 1355,
+    "end_char": 1356,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-larcp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:9",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo tercero",
+        "start_char": 1326,
+        "end_char": 1341
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:12:reference:241-258:11:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:12",
+    "source_span": "artículo anterior",
+    "start_char": 241,
+    "end_char": 258,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-larcp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:11",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:13:reference:535-537:18:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:13",
+    "source_span": "18",
+    "start_char": 535,
+    "end_char": 537,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-larcp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:18",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:13:reference:836-853:12:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:13",
+    "source_span": "artículo anterior",
+    "start_char": 836,
+    "end_char": 853,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-larcp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:12",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:15:reference:921-922:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:15",
+    "source_span": "8",
+    "start_char": 921,
+    "end_char": 922,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-larcp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:8",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 895,
+        "end_char": 907
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:17:reference:906-908:13:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:17",
+    "source_span": "13",
+    "start_char": 906,
+    "end_char": 908,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-larcp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:13",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 881,
+        "end_char": 892
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:24:reference:1075-1076:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:24",
+    "source_span": "8",
+    "start_char": 1075,
+    "end_char": 1076,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-larcp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:8",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 1049,
+        "end_char": 1061
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:31:reference:37-54:30:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:31",
+    "source_span": "artículo anterior",
+    "start_char": 37,
+    "end_char": 54,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-larcp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:30",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:36:reference:333-334:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:36",
+    "source_span": "5",
+    "start_char": 333,
+    "end_char": 334,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-larcp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:5",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:45:reference:247-249:43:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:45",
+    "source_span": "43",
+    "start_char": 247,
+    "end_char": 249,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-larcp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:43",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:5:reference:65-66:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:5",
+    "source_span": "3",
+    "start_char": 65,
+    "end_char": 66,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-larcp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:3",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo segundo",
+        "start_char": 36,
+        "end_char": 51
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:7:reference:919-937:8:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:7",
+    "source_span": "artículo siguiente",
+    "start_char": 919,
+    "end_char": 937,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-larcp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:8",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 904,
+        "end_char": 914
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:8:reference:896-898:14:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:8",
+    "source_span": "14",
+    "start_char": 896,
+    "end_char": 898,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-larcp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:14",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:8:reference:1261-1263:26:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:8",
+    "source_span": "26",
+    "start_char": 1261,
+    "end_char": 1263,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-larcp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:26",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:8:reference:2816-2818:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:8",
+    "source_span": "27",
+    "start_char": 2816,
+    "end_char": 2818,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:27",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 2792,
+        "end_char": 2802
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-larcp:article:9:reference:128-145:8:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:9",
+    "source_span": "artículo anterior",
+    "start_char": 128,
+    "end_char": 145,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-larcp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-larcp:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]

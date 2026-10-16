@@ -1,0 +1,112 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:term:acciones-afirmativas",
+    "term": "Acciones Afirmativas",
+    "instrument_id": "urn:lex-mx:federal:statute:lgimh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 495,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:term:discriminacion",
+    "term": "Discriminación",
+    "instrument_id": "urn:lex-mx:federal:statute:lgimh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
+    "fraction": "II",
+    "start_char": 495,
+    "end_char": 2049,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:term:discriminacion-contra-la-mujer",
+    "term": "Discriminación contra la Mujer",
+    "instrument_id": "urn:lex-mx:federal:statute:lgimh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
+    "fraction": "III",
+    "start_char": 2049,
+    "end_char": 2523,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-de-genero",
+    "term": "Igualdad de Género",
+    "instrument_id": "urn:lex-mx:federal:statute:lgimh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
+    "fraction": "IV",
+    "start_char": 2523,
+    "end_char": 3211,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:term:igualdad-sustantiva",
+    "term": "Igualdad Sustantiva",
+    "instrument_id": "urn:lex-mx:federal:statute:lgimh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
+    "fraction": "V",
+    "start_char": 3211,
+    "end_char": 3412,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:term:perspectiva-de-genero",
+    "term": "Perspectiva de Género",
+    "instrument_id": "urn:lex-mx:federal:statute:lgimh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
+    "fraction": "VI",
+    "start_char": 3412,
+    "end_char": 3915,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:term:transversalidad",
+    "term": "Transversalidad",
+    "instrument_id": "urn:lex-mx:federal:statute:lgimh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
+    "fraction": "VII",
+    "start_char": 3915,
+    "end_char": 4328,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:term:sistema-nacional",
+    "term": "Sistema Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgimh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
+    "fraction": "VIII",
+    "start_char": 4328,
+    "end_char": 4495,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:term:politica-nacional",
+    "term": "Política Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgimh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
+    "fraction": "IX",
+    "start_char": 4495,
+    "end_char": 4668,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgimh:term:programa-nacional",
+    "term": "Programa Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgimh",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgimh:article:5",
+    "fraction": "X",
+    "start_char": 4668,
+    "end_char": 4821,
+    "basis": "express_definition"
+  }
+]

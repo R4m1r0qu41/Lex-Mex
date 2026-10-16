@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lmin",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Minería",
+  "short_name": "LMIN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1992-06-26",
+  "latest_reform_date": "2023-05-08",
+  "retrieved_at": "2026-10-14T07:38:38.426477Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMin.pdf",
+  "source_sha256": "22262b49007ce5a26efe0c942142721b710b0de7675459bf05bf8e99b60b7746",
+  "extracted_text_sha256": "62d0f136dcd961c96accb3f26c0c5d73b895d3ac7d399ccef560e1f4df62c7f4",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

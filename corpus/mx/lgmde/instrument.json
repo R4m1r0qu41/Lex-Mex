@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgmde",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General en Materia de Delitos Electorales",
+  "short_name": "LGMDE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-05-23",
+  "latest_reform_date": "2021-05-20",
+  "retrieved_at": "2026-10-14T07:34:08.852477Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDE_200521.pdf",
+  "source_sha256": "9e8c5600d8747b4b1db2f9591ba40210d444040cb46fd1ad7732b6bd0e0ad56b",
+  "extracted_text_sha256": "d98ed646da9d270c37c77cfc3425db5ba2c1d82b1be38101ee2da76aa043f975",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

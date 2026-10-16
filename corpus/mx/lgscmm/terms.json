@@ -1,0 +1,222 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:autoridades-de-educacion-media-superior",
+    "term": "Autoridades de educación media superior",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "I",
+    "start_char": 52,
+    "end_char": 344,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:autoridad-educativa-de-las-entidades-federativas",
+    "term": "Autoridad educativa de las entidades federativas",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "II",
+    "start_char": 344,
+    "end_char": 569,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "III",
+    "start_char": 569,
+    "end_char": 649,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:criterios-e-indicadores",
+    "term": "Criterios e indicadores",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "IV",
+    "start_char": 649,
+    "end_char": 1137,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:escuela",
+    "term": "Escuela",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "V",
+    "start_char": 1137,
+    "end_char": 1476,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:estructura-ocupacional-educativa",
+    "term": "Estructura ocupacional educativa",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "VI",
+    "start_char": 1476,
+    "end_char": 1916,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:incentivos",
+    "term": "Incentivos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "VII",
+    "start_char": 1916,
+    "end_char": 2131,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "VIII",
+    "start_char": 2131,
+    "end_char": 2169,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:organismo-descentralizado",
+    "term": "Organismo descentralizado",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "IX",
+    "start_char": 2169,
+    "end_char": 2328,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:perfil-profesional",
+    "term": "Perfil profesional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "X",
+    "start_char": 2328,
+    "end_char": 2508,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:personal-con-funciones-de-direccion",
+    "term": "Personal con funciones de dirección",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "XI",
+    "start_char": 2508,
+    "end_char": 3177,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:personal-con-funciones-de-supervision",
+    "term": "Personal con funciones de supervisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "XII",
+    "start_char": 3177,
+    "end_char": 4017,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:personal-docente",
+    "term": "Personal docente",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "XIII",
+    "start_char": 4017,
+    "end_char": 4464,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:personal-con-funciones-de-asesoria-tecnica-pedagogica",
+    "term": "Personal con funciones de asesoría técnica pedagógica",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "XIV",
+    "start_char": 4464,
+    "end_char": 4765,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:personal-tecnico-docente",
+    "term": "Personal técnico docente",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "XV",
+    "start_char": 4765,
+    "end_char": 5137,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:procesos-de-seleccion",
+    "term": "Procesos de selección",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "XVI",
+    "start_char": 5137,
+    "end_char": 5739,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "XVII",
+    "start_char": 5739,
+    "end_char": 5833,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:sistema",
+    "term": "Sistema",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "XVIII",
+    "start_char": 5833,
+    "end_char": 5909,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:tutor",
+    "term": "Tutor",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "XIX",
+    "start_char": 5909,
+    "end_char": 6243,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgscmm:term:tutoria",
+    "term": "Tutoría",
+    "instrument_id": "urn:lex-mx:federal:statute:lgscmm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
+    "fraction": "XX",
+    "start_char": 6243,
+    "end_char": 6539,
+    "basis": "express_definition"
+  }
+]

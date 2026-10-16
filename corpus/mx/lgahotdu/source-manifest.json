@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgahotdu",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgahotdu.htm",
+  "retrieved_at": "2026-10-14T07:30:41.867351Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 653615,
+  "etag": "\"9f92f-6175b7e3306c0\"",
+  "last_modified": "Wed, 01 May 2024 02:46:27 GMT",
+  "source_sha256": "dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5",
+  "extracted_text_sha256": "2ed89b5f421b4609a864753b89f857830c7c9dae5e9f3cde0313eccf73528064",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

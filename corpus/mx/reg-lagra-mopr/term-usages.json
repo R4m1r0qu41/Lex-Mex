@@ -1,0 +1,749 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:3:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:3:term-usage:35-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 35,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:3:term-usage:494-502",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 494,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:4:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:4:term-usage:35-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 35,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:5:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:7:term-usage:275-286",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:el-registro",
+    "span": "El Registro",
+    "start_char": 275,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:10:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:11:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:el-registro",
+    "span": "El Registro",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:11:term-usage:668-679",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:el-registro",
+    "span": "El Registro",
+    "start_char": 668,
+    "end_char": 679
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:12:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:el-registro",
+    "span": "El Registro",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:13:term-usage:0-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-procuraduria",
+    "span": "La Procuraduría",
+    "start_char": 0,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:28:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:30:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:36:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:38:term-usage:373-386",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 373,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:40:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:44:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:48:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:52:term-usage:0-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-procuraduria",
+    "span": "La Procuraduría",
+    "start_char": 0,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:65:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:67:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:70:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:71:term-usage:462-470",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 462,
+    "end_char": 470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:73:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:76:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:79:term-usage:94-102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 94,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:79:term-usage:381-389",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 381,
+    "end_char": 389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:80:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:81:term-usage:44-52",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 44,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:82:term-usage:259-267",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 259,
+    "end_char": 267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:83:term-usage:410-422",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:el-instituto",
+    "span": "El Instituto",
+    "start_char": 410,
+    "end_char": 422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:84:term-usage:77-85",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 77,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:84:term-usage:153-161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 153,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:86:term-usage:177-185",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 177,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:87:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:88:term-usage:42-50",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:88",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 42,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:89:term-usage:69-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:89",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 69,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:90:term-usage:223-231",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 223,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:91:term-usage:338-346",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:91",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 338,
+    "end_char": 346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:92:term-usage:63-71",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 63,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:93:term-usage:50-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 50,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:94:term-usage:157-165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 157,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:95:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:95:term-usage:805-813",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:fifonafe",
+    "span": "FIFONAFE",
+    "start_char": 805,
+    "end_char": 813
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:99:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:100:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:101:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:101",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:102:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:103:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:104:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:107:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:107",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:112:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:112:term-usage:134-147",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 134,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:112:term-usage:1391-1404",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 1391,
+    "end_char": 1404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:118:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:118",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:122:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:123:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:131:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:131:term-usage:59-67",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:colonias",
+    "span": "Colonias",
+    "start_char": 59,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:131:term-usage:329-337",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:colonias",
+    "span": "Colonias",
+    "start_char": 329,
+    "end_char": 337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:136:term-usage:52-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:colonias",
+    "span": "Colonias",
+    "start_char": 52,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:136:term-usage:434-442",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:colonias",
+    "span": "Colonias",
+    "start_char": 434,
+    "end_char": 442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:136:term-usage:824-831",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:colonias",
+    "span": "Colonia",
+    "start_char": 824,
+    "end_char": 831
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:136:term-usage:958-965",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:colonias",
+    "span": "Colonia",
+    "start_char": 958,
+    "end_char": 965
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:138:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:138:term-usage:270-277",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:colonias",
+    "span": "Colonia",
+    "start_char": 270,
+    "end_char": 277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:139:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:139",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:139:term-usage:48-55",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:139",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:colonias",
+    "span": "Colonia",
+    "start_char": 48,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:142:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:142",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:145:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:145",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:145:term-usage:86-93",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:145",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:colonias",
+    "span": "Colonia",
+    "start_char": 86,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:148:term-usage:0-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-procuraduria",
+    "span": "La Procuraduría",
+    "start_char": 0,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:151:term-usage:40-48",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:151",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:colonias",
+    "span": "Colonias",
+    "start_char": 40,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:151:term-usage:188-195",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:151",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:colonias",
+    "span": "Colonia",
+    "start_char": 188,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:152:term-usage:66-73",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:152",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:colonias",
+    "span": "Colonia",
+    "start_char": 66,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:152:term-usage:212-219",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:152",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:colonias",
+    "span": "Colonia",
+    "start_char": 212,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:153:term-usage:28-35",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:colonias",
+    "span": "Colonia",
+    "start_char": 28,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:154:term-usage:0-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:154",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-procuraduria",
+    "span": "La Procuraduría",
+    "start_char": 0,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:157:term-usage:321-329",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:157",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:colonias",
+    "span": "Colonias",
+    "start_char": 321,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:158:term-usage:150-163",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:158",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 150,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:transitory:cuarto:term-usage:411-424",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 411,
+    "end_char": 424
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:transitory:quinto:term-usage:148-156",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:term:colonias",
+    "span": "Colonias",
+    "start_char": 148,
+    "end_char": 156
+  }
+]

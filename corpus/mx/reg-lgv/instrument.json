@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgv",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de Víctimas",
+  "short_name": "REG-LGV",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-11-28",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:59:26.825380Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGV.pdf",
+  "source_sha256": "51d855a586ad7017a8d8f5c36819a2bd0d3d488f3f4b23594a729418a8b776b4",
+  "extracted_text_sha256": "6c289e73cdd3e07e7183ece9b180513bf2aa9660ddca928aba8d7c41de9870bc",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

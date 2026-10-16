@@ -1,0 +1,1244 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:4:term-usage:1525-1533",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 1525,
+    "end_char": 1533
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:6:term-usage:3-32",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:politica-nacional-de-vivienda",
+    "span": "Política Nacional de Vivienda",
+    "start_char": 3,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:6:term-usage:3149-3156",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:consejo",
+    "span": "Consejo",
+    "start_char": 3149,
+    "end_char": 3156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:6:term-usage:3452-3459",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:consejo",
+    "span": "Consejo",
+    "start_char": 3452,
+    "end_char": 3459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:7:term-usage:340-348",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 340,
+    "end_char": 348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:8:term-usage:1817-1846",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:politica-nacional-de-vivienda",
+    "span": "Política Nacional de Vivienda",
+    "start_char": 1817,
+    "end_char": 1846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:8:term-usage:3486-3494",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 3486,
+    "end_char": 3494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:9:term-usage:55-65",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 55,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:10:term-usage:332-340",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 332,
+    "end_char": 340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:10:term-usage:385-395",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 385,
+    "end_char": 395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:12:term-usage:766-774",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 766,
+    "end_char": 774
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:12:term-usage:1325-1333",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 1325,
+    "end_char": 1333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:12:term-usage:1340-1365",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 1340,
+    "end_char": 1365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:12:term-usage:1370-1377",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:consejo",
+    "span": "Consejo",
+    "start_char": 1370,
+    "end_char": 1377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:12:term-usage:1441-1448",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:consejo",
+    "span": "Consejo",
+    "start_char": 1441,
+    "end_char": 1448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:14:term-usage:61-68",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:consejo",
+    "span": "Consejo",
+    "start_char": 61,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:14:term-usage:78-103",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 78,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:14:term-usage:114-124",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 114,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:14:term-usage:168-176",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 168,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:15:term-usage:277-287",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 277,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:15:term-usage:292-300",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 292,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:16:term-usage:52-62",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 52,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:16:term-usage:139-168",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:politica-nacional-de-vivienda",
+    "span": "Política Nacional de Vivienda",
+    "start_char": 139,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:16:term-usage:3577-3599",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 3577,
+    "end_char": 3599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:16:term-usage:3834-3856",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 3834,
+    "end_char": 3856
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:17:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:18:term-usage:11-19",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 11,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:18:term-usage:279-287",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 279,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:19:term-usage:17-25",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 17,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:20:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:20:term-usage:404-412",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 404,
+    "end_char": 412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:21:term-usage:55-63",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 55,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:22:term-usage:27-35",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 27,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:22:term-usage:661-669",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 661,
+    "end_char": 669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:23:term-usage:174-182",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 174,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:23:term-usage:223-231",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 223,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:23:term-usage:278-286",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 278,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:23:term-usage:477-485",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 477,
+    "end_char": 485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:23:term-usage:639-647",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 639,
+    "end_char": 647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:23:term-usage:859-867",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 859,
+    "end_char": 867
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:23:term-usage:1404-1412",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 1404,
+    "end_char": 1412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:23:term-usage:1536-1546",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1536,
+    "end_char": 1546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:23:term-usage:2067-2075",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 2067,
+    "end_char": 2075
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:23:term-usage:2312-2320",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 2312,
+    "end_char": 2320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:23:term-usage:2481-2489",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 2481,
+    "end_char": 2489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:23:term-usage:3015-3023",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 3015,
+    "end_char": 3023
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:24:term-usage:145-153",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 145,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:25:term-usage:26-34",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 26,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:25:term-usage:529-537",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 529,
+    "end_char": 537
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:25:term-usage:814-822",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 814,
+    "end_char": 822
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:25:term-usage:956-964",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 956,
+    "end_char": 964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:25:term-usage:1128-1136",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 1128,
+    "end_char": 1136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:25:term-usage:1299-1307",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 1299,
+    "end_char": 1307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:25:term-usage:1378-1386",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 1378,
+    "end_char": 1386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:26:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:26:term-usage:139-149",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 139,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:26:term-usage:335-345",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 335,
+    "end_char": 345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:27:term-usage:148-156",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 148,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:28:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:28:term-usage:194-223",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:politica-nacional-de-vivienda",
+    "span": "Política Nacional de Vivienda",
+    "start_char": 194,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:29:term-usage:38-45",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:consejo",
+    "span": "Consejo",
+    "start_char": 38,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:30:term-usage:61-68",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:consejo",
+    "span": "Consejo",
+    "start_char": 61,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:30:term-usage:227-234",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:consejo",
+    "span": "Consejo",
+    "start_char": 227,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:30:term-usage:355-362",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:consejo",
+    "span": "Consejo",
+    "start_char": 355,
+    "end_char": 362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:30:term-usage:461-471",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 461,
+    "end_char": 471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:30:term-usage:570-578",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 570,
+    "end_char": 578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:30:term-usage:1555-1562",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:consejo",
+    "span": "Consejo",
+    "start_char": 1555,
+    "end_char": 1562
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:31:term-usage:23-30",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:consejo",
+    "span": "Consejo",
+    "start_char": 23,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:32:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:32:term-usage:264-293",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:politica-nacional-de-vivienda",
+    "span": "Política Nacional de Vivienda",
+    "start_char": 264,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:33:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:33:term-usage:109-119",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 109,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:33:term-usage:736-761",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 736,
+    "end_char": 761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:33:term-usage:928-953",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 928,
+    "end_char": 953
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:33:term-usage:1047-1072",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 1047,
+    "end_char": 1072
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:33:term-usage:1265-1290",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 1265,
+    "end_char": 1290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:33:term-usage:1354-1362",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 1354,
+    "end_char": 1362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:34:term-usage:31-56",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 31,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:34:term-usage:321-350",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:politica-nacional-de-vivienda",
+    "span": "Política Nacional de Vivienda",
+    "start_char": 321,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:34:term-usage:1330-1337",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:consejo",
+    "span": "Consejo",
+    "start_char": 1330,
+    "end_char": 1337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:35:term-usage:19-44",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 19,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:36:term-usage:19-44",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 19,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:36:term-usage:70-95",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 70,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:36:term-usage:263-270",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:consejo",
+    "span": "Consejo",
+    "start_char": 263,
+    "end_char": 270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:37:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:37:term-usage:160-185",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision-intersecretarial",
+    "span": "Comisión Intersecretarial",
+    "start_char": 160,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:38:term-usage:77-87",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 77,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:42:term-usage:1175-1197",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 1175,
+    "end_char": 1197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:43:term-usage:11-33",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 11,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:43:term-usage:182-211",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:politica-nacional-de-vivienda",
+    "span": "Política Nacional de Vivienda",
+    "start_char": 182,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:43:term-usage:298-308",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 298,
+    "end_char": 308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:43:term-usage:337-359",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 337,
+    "end_char": 359
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:43:term-usage:899-909",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 899,
+    "end_char": 909
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:44:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:45:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:45:term-usage:38-46",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 38,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:46:term-usage:305-313",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 305,
+    "end_char": 313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:47:term-usage:380-390",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 380,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:55:term-usage:390-400",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 390,
+    "end_char": 400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:55:term-usage:425-435",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 425,
+    "end_char": 435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:57:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:58:term-usage:380-390",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 380,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:61:term-usage:276-286",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 276,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:64:term-usage:134-144",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 134,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:64:term-usage:169-179",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 169,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:66:term-usage:40-50",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 40,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:67:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:69:term-usage:529-534",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:suelo",
+    "span": "Suelo",
+    "start_char": 529,
+    "end_char": 534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:71:term-usage:81-91",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 81,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:72:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:72:term-usage:676-686",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 676,
+    "end_char": 686
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:73:term-usage:401-411",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 401,
+    "end_char": 411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:73:term-usage:441-449",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 441,
+    "end_char": 449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:75:term-usage:256-266",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 256,
+    "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:75:term-usage:272-280",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 272,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:75:term-usage:519-529",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 519,
+    "end_char": 529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:76:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:76:term-usage:19-27",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 19,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:77:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:77:term-usage:19-27",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 19,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:79:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:79:term-usage:57-67",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 57,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:80:term-usage:160-170",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 160,
+    "end_char": 170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:82:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:83:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:83:term-usage:19-27",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 19,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:86:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:88:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:89:term-usage:65-73",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 65,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:92:term-usage:606-614",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 606,
+    "end_char": 614
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:92:term-usage:909-931",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 909,
+    "end_char": 931
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:article:95:term-usage:37-47",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 37,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:transitory:tercero:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:transitory:tercero:term-usage:252-260",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 252,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:transitory:tercero:term-usage:324-334",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 324,
+    "end_char": 334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:transitory:cuarto:term-usage:64-72",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 64,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:transitory:quinto:term-usage:56-64",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 56,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lviv:transitory:quinto:term-usage:104-112",
+    "provision_id": "urn:lex-mx:federal:statute:lviv:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lviv:term:comision",
+    "span": "Comisión",
+    "start_char": 104,
+    "end_char": 112
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lppddhp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
+  "short_name": "LPPDDHP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2012-06-25",
+  "latest_reform_date": "2022-04-28",
+  "retrieved_at": "2026-10-14T07:42:31.627335Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPPDDHP.pdf",
+  "source_sha256": "060468c7fa389756fc5706ce2d475a105bb9bb0149fc6a9079a018bc3b4f6e21",
+  "extracted_text_sha256": "23b2dcbabd62156e1b3b4fa0b873b022bfed207b4ec6d54c1069ff12175c5221",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lsprem",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Sistema Público de Radiodifusión del Estado Mexicano",
+  "short_name": "LSPREM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-07-14",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-10-14T07:46:25.576821Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPREM.pdf",
+  "source_sha256": "bcc21844355854fe331c842c21436d721d6c2856b5c5986715fe39f4a845b317",
+  "extracted_text_sha256": "2a347edbd66de1e209f7e3943f6aa196ed9a441c2c0ab26d83d6bd593b149984",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

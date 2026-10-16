@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lsem",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSEM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSEM.pdf",
+  "retrieved_at": "2026-10-14T08:05:56.687797Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 768610,
+  "etag": "\"bba62-64ddc19c8d540\"",
+  "last_modified": "Wed, 25 Mar 2026 16:53:01 GMT",
+  "source_sha256": "b84edee33c407f4e0eed9472aa424b40b1f83c4a22978e3b1519ca58c3bbb844",
+  "extracted_text_sha256": "9debe99955737930766c8bbbdeafc3e811f083fec41b66fe0c4e72a5ab9a3d69",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

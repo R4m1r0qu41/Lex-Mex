@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfmzaah",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMZAAH.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfmzaah.htm",
+  "retrieved_at": "2026-10-14T07:28:30.279519Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 461457,
+  "etag": "\"70a91-6450172a58d40\"",
+  "last_modified": "Wed, 03 Dec 2025 00:39:41 GMT",
+  "source_sha256": "bce07ae6b706e935ded9023e4d11d8797aa725ecbe4d1a0ef219ca1a8080b4cb",
+  "extracted_text_sha256": "2f7522027b0409fed51646164645f50318ddceb10ce6e736840bc5aaa8d6ca9b",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

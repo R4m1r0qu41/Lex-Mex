@@ -1,0 +1,17 @@
+{
+  "slug": "lfsp",
+  "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Federal de Seguridad Privada",
+  "short_name": "LFSP",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsp.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

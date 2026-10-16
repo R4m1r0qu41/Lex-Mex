@@ -1,0 +1,178 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:term:seguridad-privada",
+    "term": "Seguridad Privada",
+    "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 702,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:term:prestador-de-servicios",
+    "term": "Prestador de Servicios",
+    "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "fraction": "III",
+    "start_char": 702,
+    "end_char": 799,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:term:persona-fisica",
+    "term": "Persona física",
+    "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "fraction": "IV",
+    "start_char": 799,
+    "end_char": 1013,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:term:personal-operativo",
+    "term": "Personal Operativo",
+    "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "fraction": "V",
+    "start_char": 1013,
+    "end_char": 1168,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "fraction": "VI",
+    "start_char": 1168,
+    "end_char": 1230,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:term:direccion-general",
+    "term": "Dirección General",
+    "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "fraction": "VII",
+    "start_char": 1230,
+    "end_char": 1407,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:term:autorizacion",
+    "term": "Autorización",
+    "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "fraction": "VIII",
+    "start_char": 1407,
+    "end_char": 1723,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:term:revalidacion",
+    "term": "Revalidación",
+    "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "fraction": "IX",
+    "start_char": 1723,
+    "end_char": 1820,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:term:modificacion",
+    "term": "Modificación",
+    "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "fraction": "X",
+    "start_char": 1820,
+    "end_char": 1979,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:term:prestatario",
+    "term": "Prestatario",
+    "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "fraction": "XI",
+    "start_char": 1979,
+    "end_char": 2071,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "fraction": "XII",
+    "start_char": 2071,
+    "end_char": 2177,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:term:entidades-federativas",
+    "term": "Entidades Federativas",
+    "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "fraction": "XIII",
+    "start_char": 2177,
+    "end_char": 2243,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:term:sistemas-de-alarmas",
+    "term": "Sistemas de alarmas",
+    "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "fraction": "XIV",
+    "start_char": 2243,
+    "end_char": 2597,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:term:monitoreo-electronico",
+    "term": "Monitoreo electrónico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "fraction": "XV",
+    "start_char": 2597,
+    "end_char": 2886,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:term:central-de-monitoreo",
+    "term": "Central de monitoreo",
+    "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "fraction": "XVI",
+    "start_char": 2886,
+    "end_char": 3144,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfsp:term:sistema-de-redundancia",
+    "term": "Sistema de redundancia",
+    "instrument_id": "urn:lex-mx:federal:statute:lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfsp:article:2",
+    "fraction": "XVII",
+    "start_char": 3144,
+    "end_char": 3453,
+    "basis": "express_definition"
+  }
+]

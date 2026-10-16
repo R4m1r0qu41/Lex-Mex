@@ -1,0 +1,178 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:apropiacion-indebida",
+    "term": "Apropiación indebida",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "I",
+    "start_char": 52,
+    "end_char": 627,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:autorizado",
+    "term": "Autorizado",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "II",
+    "start_char": 627,
+    "end_char": 861,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:autorizante",
+    "term": "Autorizante",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "III",
+    "start_char": 861,
+    "end_char": 1136,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:consentimiento",
+    "term": "Consentimiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "IV",
+    "start_char": 1136,
+    "end_char": 1462,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:contrato-de-autorizacion",
+    "term": "Contrato de autorización",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "V",
+    "start_char": 1462,
+    "end_char": 1991,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:derecho-de-propiedad-colectiva",
+    "term": "Derecho de propiedad colectiva",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "VII",
+    "start_char": 1991,
+    "end_char": 2285,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:distribucion-justa-y-equitativa-de-beneficios",
+    "term": "Distribución justa y equitativa de beneficios",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "VIII",
+    "start_char": 2285,
+    "end_char": 2773,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:indautor",
+    "term": "INDAUTOR",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "IX",
+    "start_char": 2773,
+    "end_char": 2829,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:instituto",
+    "term": "Instituto",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "X",
+    "start_char": 2829,
+    "end_char": 2889,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "XI",
+    "start_char": 2889,
+    "end_char": 3005,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:patrimonio-cultural",
+    "term": "Patrimonio cultural",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "XII",
+    "start_char": 3005,
+    "end_char": 3490,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:proteccion-o-salvaguardia",
+    "term": "Protección o salvaguardia",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "XIII",
+    "start_char": 3490,
+    "end_char": 3901,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:pueblos-y-comunidades-afromexicanas",
+    "term": "Pueblos y comunidades afromexicanas",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "XIV",
+    "start_char": 3901,
+    "end_char": 4244,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:pueblos-y-comunidades-indigenas",
+    "term": "Pueblos y comunidades indígenas",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "XV",
+    "start_char": 4244,
+    "end_char": 4438,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:registro",
+    "term": "Registro",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "XVI",
+    "start_char": 4438,
+    "end_char": 4552,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:term:sistema-nacional-de-proteccion",
+    "term": "Sistema Nacional de Protección",
+    "instrument_id": "urn:lex-mx:federal:statute:lfppcpcia",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
+    "fraction": "XVII",
+    "start_char": 4552,
+    "end_char": 5025,
+    "basis": "express_definition"
+  }
+]

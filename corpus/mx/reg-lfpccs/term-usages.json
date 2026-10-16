@@ -1,0 +1,749 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:1:term-usage:78-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 78,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2:term-usage:102-105",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 102,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2:term-usage:444-447",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 444,
+    "end_char": 447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2:term-usage:1632-1635",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 1632,
+    "end_char": 1635
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2:term-usage:1890-1893",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 1890,
+    "end_char": 1893
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:4:term-usage:46-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:directorio",
+    "span": "Directorio",
+    "start_char": 46,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:5:term-usage:18-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:directorio",
+    "span": "Directorio",
+    "start_char": 18,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:6:term-usage:20-30",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:directorio",
+    "span": "Directorio",
+    "start_char": 20,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:7:term-usage:293-296",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 293,
+    "end_char": 296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:8:term-usage:95-105",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:directorio",
+    "span": "Directorio",
+    "start_char": 95,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:9:term-usage:18-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:directorio",
+    "span": "Directorio",
+    "start_char": 18,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:10:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:directorio",
+    "span": "Directorio",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:11:term-usage:18-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:directorio",
+    "span": "Directorio",
+    "start_char": 18,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:12:term-usage:21-31",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:directorio",
+    "span": "Directorio",
+    "start_char": 21,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:13:term-usage:22-32",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:directorio",
+    "span": "Directorio",
+    "start_char": 22,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:14:term-usage:91-94",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 91,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:17:term-usage:130-133",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 130,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:18:term-usage:52-55",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 52,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:18:term-usage:1293-1296",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 1293,
+    "end_char": 1296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:18:term-usage:1574-1577",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 1574,
+    "end_char": 1577
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:24:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:25:term-usage:17-39",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 17,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:25:term-usage:222-244",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 222,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:25:term-usage:340-343",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 340,
+    "end_char": 343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:26:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:26:term-usage:934-961",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:organismos-de-certificacion",
+    "span": "Organismos de Certificación",
+    "start_char": 934,
+    "end_char": 961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:27:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:32:term-usage:586-589",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 586,
+    "end_char": 589
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:33:term-usage:161-164",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 161,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:34:term-usage:273-276",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 273,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:36:term-usage:404-407",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 404,
+    "end_char": 407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:39:term-usage:81-84",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 81,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:39:term-usage:374-377",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 374,
+    "end_char": 377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:47:term-usage:161-164",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 161,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:48:term-usage:118-121",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 118,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:49:term-usage:241-244",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 241,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:53:term-usage:110-113",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 110,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:55:term-usage:168-171",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 168,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:58:term-usage:103-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 103,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:59:term-usage:258-261",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 258,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:59:term-usage:534-537",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 534,
+    "end_char": 537
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:60:term-usage:317-327",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:directorio",
+    "span": "Directorio",
+    "start_char": 317,
+    "end_char": 327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:61:term-usage:159-186",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:carta-de-identidad-varietal",
+    "span": "Carta de Identidad Varietal",
+    "start_char": 159,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:61:term-usage:483-510",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:carta-de-identidad-varietal",
+    "span": "Carta de Identidad Varietal",
+    "start_char": 483,
+    "end_char": 510
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:61:term-usage:677-680",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 677,
+    "end_char": 680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:62:term-usage:490-493",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 490,
+    "end_char": 493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:63:term-usage:544-547",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 544,
+    "end_char": 547
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:64:term-usage:371-374",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 371,
+    "end_char": 374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:65:term-usage:349-352",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 349,
+    "end_char": 352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:66:term-usage:449-452",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 449,
+    "end_char": 452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:67:term-usage:320-323",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 320,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:69:term-usage:173-176",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:69",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 173,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:72:term-usage:389-392",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 389,
+    "end_char": 392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:74:term-usage:450-453",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 450,
+    "end_char": 453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:78:term-usage:531-534",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 531,
+    "end_char": 534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:79:term-usage:485-488",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 485,
+    "end_char": 488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:82:term-usage:64-67",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 64,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:84:term-usage:198-201",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 198,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:84:term-usage:379-382",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 379,
+    "end_char": 382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:84:term-usage:1239-1242",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 1239,
+    "end_char": 1242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:86:term-usage:194-197",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 194,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:87:term-usage:113-116",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 113,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:87:term-usage:216-219",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 216,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:88:term-usage:228-231",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:88",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 228,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:104:term-usage:104-107",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 104,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:104:term-usage:1245-1267",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 1245,
+    "end_char": 1267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:105:term-usage:110-113",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:105",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 110,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:105:term-usage:322-325",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:105",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 322,
+    "end_char": 325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:105:term-usage:418-421",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:105",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 418,
+    "end_char": 421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:107:term-usage:163-166",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:107",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 163,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:109:term-usage:164-167",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 164,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:113:term-usage:141-144",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:113",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 141,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:113:term-usage:206-209",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:113",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 206,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:114:term-usage:118-121",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:114",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 118,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:116:term-usage:204-207",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:116",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 204,
+    "end_char": 207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:116:term-usage:342-345",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:116",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 342,
+    "end_char": 345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:116:term-usage:554-557",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:116",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 554,
+    "end_char": 557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:116:term-usage:626-629",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:116",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 626,
+    "end_char": 629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:118:term-usage:444-447",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:118",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 444,
+    "end_char": 447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:120:term-usage:156-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 156,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:120:term-usage:339-342",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 339,
+    "end_char": 342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:121:term-usage:212-215",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 212,
+    "end_char": 215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:transitory:segundo:term-usage:30-33",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
+    "span": "Ley",
+    "start_char": 30,
+    "end_char": 33
+  }
+]

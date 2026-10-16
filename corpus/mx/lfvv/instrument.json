@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfvv",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Variedades Vegetales",
+  "short_name": "LFVV",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1996-10-25",
+  "latest_reform_date": "2022-05-11",
+  "retrieved_at": "2026-10-14T07:30:15.969345Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFVV.pdf",
+  "source_sha256": "9ed842aa48bd26aee06dc45bbdbd65efcb32343c78040a5a5d091275bec38343",
+  "extracted_text_sha256": "1ee883b24034a6a766f0f5d32fc5ace1ab2bba1f8d45299bf3ade2768cc37d3a",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

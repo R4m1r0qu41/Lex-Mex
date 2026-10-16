@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfgr",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de la Fiscalía General de la República",
+  "short_name": "LFGR",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2021-05-20",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-10-14T07:27:39.639129Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGR.pdf",
+  "source_sha256": "cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1",
+  "extracted_text_sha256": "a8fca7cf2d04f2ac0104a32624e8f0ef758a20dfba3a0c67c5df01b7ba6617af",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

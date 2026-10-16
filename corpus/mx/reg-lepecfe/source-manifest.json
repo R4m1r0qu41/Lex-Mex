@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lepecfe",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEPECFE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEPECFE.pdf",
+  "retrieved_at": "2026-10-14T07:51:05.955610Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 475973,
+  "etag": "\"74345-64e0cc3187d00\"",
+  "last_modified": "Sat, 28 Mar 2026 02:56:20 GMT",
+  "source_sha256": "9478163ef6ab468edc2be8def3bf84efedd03da5b6c166fba0430bfcb6d8467c",
+  "extracted_text_sha256": "c484371f2969a8f734e08b924b88c720c4ae672d6c669917ba9d50e4788042e2",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

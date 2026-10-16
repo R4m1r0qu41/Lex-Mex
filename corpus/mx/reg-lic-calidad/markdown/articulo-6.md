@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lic-calidad:article:6
+instrument_id: urn:lex-mx:federal:regulation:reg-lic-calidad
+instrument: REG-LIC-CALIDAD
+name: "Reglamento de la Ley de Infraestructura de la Calidad"
+provision_type: article
+number: "6"
+aliases: ["REG-LIC-CALIDAD — Artículo 6"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LICal.pdf
+source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
+---
+
+> Título primero · Capítulo I
+
+# Artículo 6
+
+Las Autoridades Normalizadoras, para el ejercicio de las atribuciones previstas en la Ley, tienen la potestad de: I. Iniciar, de oficio o por denuncia, los procedimientos de Verificación y Vigilancia, en los términos previstos en el Capítulo Único del Título Segundo del Libro Cuarto de este Reglamento. La potestad de las Autoridades Normalizadoras para el inicio de los procedimientos de Verificación y Vigilancia, es independiente a la demostración del cumplimiento con las Normas Oficiales Mexicanas, Estándares y demás disposiciones jurídicas aplicables; II. Promover la creación de infraestructura física o digital, de conformidad con la disponibilidad presupuestaria, para el adecuado desarrollo de las actividades de Evaluación de la Conformidad; III. Emitir acuerdos, lineamientos, procedimientos y criterios de interpretación sobre la implementación de Normas Oficiales Mexicanas y Estándares en el ámbito de su competencia, así como difundirlos en la PLATIICA; IV. Emitir los Criterios Generales en Materia de Certificación de la Evaluación de la Conformidad, en el ámbito de su competencia, y difundirlos en la PLATIICA; V. Difundir en la PLATIICA los Acuerdos, los Acuerdos de Equivalencia, Acuerdos y Arreglos de Reconocimiento Mutuo y Memorandos de Entendimiento, en el ámbito de su competencia; VI. Proponer a la Comisión la elaboración de criterios, lineamientos o procedimientos para su funcionamiento y del Sistema Nacional de Infraestructura de la Calidad; VII. Convocar a eventos o reuniones con los sectores público, social o privado, así como con las personas integrantes del Sistema Nacional de Infraestructura de la Calidad, relacionados con las actividades en materia de Infraestructura de la Calidad, y difundir a través de la PLATIICA; VIII. Proponer a las autoridades educativas a cargo del Sistema Educativo Nacional, programas de estudio y temas o contenidos vinculados con la Infraestructura de la Calidad, en los términos que señalen las disposiciones jurídicas aplicables y conforme a las características propias de los tipos y niveles educativos; IX. Suscribir instrumentos de colaboración y coordinación con autoridades federales, estatales y municipales, en temas relativos al Sistema Nacional de Infraestructura de la Calidad; X. Emitir opinión a la Secretaría sobre las solicitudes de autorización de Sujetos Facultados para Estandarizar o respecto del registro de Organismos Nacionales de Estandarización; XI. Otorgar la acreditación a las instancias públicas e Instituciones de Investigación y de Enseñanza, que tengan interés en evaluar la conformidad con las Normas Oficiales Mexicanas, Estándares, Normas Internacionales, Normas Extranjeras u otras disposiciones jurídicas aplicables, previa opinión favorable de la Secretaría, siempre y cuando la autoridad normalizadora cuente con la suficiente infraestructura material y de recursos humanos; XII. Implementar acciones orientadas a promover la inclusión de personas con discapacidad y grupos vulnerables, así como la igualdad sustantiva en las actividades de normalización, estandarización, evaluación de la conformidad, acreditación y metrología relacionadas con el Sistema Nacional de la Infraestructura de la Calidad, en coordinación con las autoridades competentes en la materia; XIII. Implementar acciones de mejora continua de los alcances de las Normas Oficiales Mexicanas y Estándares de su competencia y XIV. Elaborar y aplicar criterios normativos y técnicos para interpretar los alcances de las Normas Oficiales Mexicanas, exclusivamente en el ámbito de su competencia.

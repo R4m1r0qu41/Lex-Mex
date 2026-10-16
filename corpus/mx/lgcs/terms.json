@@ -1,0 +1,167 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:term:[campanas-de-comunicacion-social",
+    "term": "[Campañas de Comunicación Social",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "fraction": "I",
+    "start_char": 424,
+    "end_char": 1007,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:term:[coemision-de-campana",
+    "term": "[Coemisión de Campaña",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "fraction": "II",
+    "start_char": 1007,
+    "end_char": 1643,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:term:entes-publicos",
+    "term": "Entes Públicos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "fraction": "III",
+    "start_char": 1643,
+    "end_char": 1928,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:term:[estrategia-anual-de-comunicacion-social",
+    "term": "[Estrategia anual de Comunicación Social",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "fraction": "IV",
+    "start_char": 1928,
+    "end_char": 2498,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:term:informe-anual-de-labores-o-de-gestion",
+    "term": "Informe anual de labores o de gestión",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "fraction": "V",
+    "start_char": 2498,
+    "end_char": 2626,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:term:[medios-de-comunicacion",
+    "term": "[Medios de Comunicación",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "fraction": "VI",
+    "start_char": 2626,
+    "end_char": 3243,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:term:[padron",
+    "term": "[Padrón",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "fraction": "VII",
+    "start_char": 3243,
+    "end_char": 3681,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:term:[programa-anual-de-comunicacion-social",
+    "term": "[Programa Anual de Comunicación Social",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "fraction": "VIII",
+    "start_char": 3681,
+    "end_char": 4789,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:term:recursos-presupuestarios",
+    "term": "Recursos presupuestarios",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "fraction": "IX",
+    "start_char": 4789,
+    "end_char": 5019,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:term:[secretaria-administradora",
+    "term": "[Secretaría Administradora",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "fraction": "X",
+    "start_char": 5019,
+    "end_char": 5782,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:term:sistema-publico",
+    "term": "Sistema Público",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "fraction": "XI",
+    "start_char": 5782,
+    "end_char": 6182,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:term:[sistema-de-informacion-de-normatividad-de-comunicacion",
+    "term": "[Sistema de Información de Normatividad de Comunicación",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "fraction": "XII",
+    "start_char": 6182,
+    "end_char": 6808,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-comerciales",
+    "term": "Tiempos Comerciales",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "fraction": "XIII",
+    "start_char": 6808,
+    "end_char": 7009,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-de-estado",
+    "term": "Tiempos de Estado",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "fraction": "XIV",
+    "start_char": 7009,
+    "end_char": 7164,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcs:term:tiempos-fiscales",
+    "term": "Tiempos Fiscales",
+    "instrument_id": "urn:lex-mx:federal:statute:lgcs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgcs:article:4",
+    "fraction": "XV",
+    "start_char": 7164,
+    "end_char": 7569,
+    "basis": "express_definition"
+  }
+]

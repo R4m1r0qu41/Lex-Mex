@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lissfam.htm",
+  "retrieved_at": "2026-10-14T07:38:13.664982Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1040647,
+  "etag": "\"fe107-64b80be8be440\"",
+  "last_modified": "Mon, 23 Feb 2026 17:03:05 GMT",
+  "source_sha256": "35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc",
+  "extracted_text_sha256": "7c6a789e4edd813e6371b03be51c0c74249b069dedc35063bf413272d6cbf763",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:actividades",
+    "term": "Actividades",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lffarosc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "fraction": "I",
+    "start_char": 218,
+    "end_char": 324,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lffarosc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "fraction": "II",
+    "start_char": 324,
+    "end_char": 433,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:consejeros",
+    "term": "Consejeros",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lffarosc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "fraction": "III",
+    "start_char": 433,
+    "end_char": 477,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:lnscripcion",
+    "term": "lnscripción",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lffarosc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "fraction": "IV",
+    "start_char": 477,
+    "end_char": 825,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lffarosc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "fraction": "V",
+    "start_char": 825,
+    "end_char": 930,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:registro",
+    "term": "Registro",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lffarosc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "fraction": "VI",
+    "start_char": 930,
+    "end_char": 1009,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:responsable-de-coordinacion",
+    "term": "Responsable de Coordinación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lffarosc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "fraction": "VII",
+    "start_char": 1009,
+    "end_char": 1219,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lffarosc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "fraction": "VIII",
+    "start_char": 1219,
+    "end_char": 1274,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:secretaria-tecnica",
+    "term": "Secretaría Técnica",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lffarosc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "fraction": "IX",
+    "start_char": 1274,
+    "end_char": 1339,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lffarosc:term:sistema-de-informacion",
+    "term": "Sistema de Información",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lffarosc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
+    "fraction": "X",
+    "start_char": 1339,
+    "end_char": 1536,
+    "basis": "express_definition"
+  }
+]

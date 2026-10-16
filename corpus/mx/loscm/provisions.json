@@ -1,0 +1,380 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:article:1",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "article",
+    "label": "Artículo 1o",
+    "number": "1o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Con el nombre de Seminario de Cultura Mexicana se crea una institución al servicio de la cultura del país, dotada de personalidad jurídica, en la que se hallarán representadas las diversas ramas y tendencias de las ciencias, las letras y las artes.",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:article:2",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "article",
+    "label": "Artículo 2o",
+    "number": "2o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Las finalidades del Seminario son:\n\nI.- Estimular en México la producción científica, filosófica y artística;\n\nII.- Difundir la cultura en todas sus manifestaciones nacionales y universales;\n\nIII.- Mantener activo intercambio cultural con los Estados y Territorios de la República, y con instituciones e individuos del extranjero interesados en la cultura mexicana;\n\nIV.- Organizar trabajos de investigación y de análisis en forma de seminario, ya sea con la colaboración unánime de sus miembros o por núcleos afines de los mismos;\n\nV.- Servir de órgano de consulta a la Secretaría de Educación Pública;\n\nVI.- Colaborar con la Secretaría de Educación Pública, con otras dependencias oficiales, con instituciones descentralizadas y privadas, en actividades culturales.",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:article:3",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "article",
+    "label": "Artículo 3o",
+    "number": "3o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El Seminario de Cultura Mexicana estará conformado por veinticinco personas integrantes titulares, cuyo conjunto formará el Consejo, autoridad suprema de la institución. Su integración se realizará conforme al principio de paridad de género.\n\nArtículo reformado DOF 11-05-2022",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:article:4",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "article",
+    "label": "Artículo 4o",
+    "number": "4o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El puesto de miembro titular del Seminario será otorgado a mexicanos por nacimiento que se hayan distinguido en labores de creación e investigación científicas o artísticas y que hayan demostrado capacidad y empeño en trabajos de difusión cultural.",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:article:5",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "article",
+    "label": "Artículo 5o",
+    "number": "5o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Las vacantes de miembros titulares serán cubiertas por elección que reúna como mínimo el sufragio de las dos terceras partes de los miembros titulares en ejercicio.",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:article:6",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "article",
+    "label": "Artículo 6o",
+    "number": "6o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El carácter de miembro titular del Seminario es vitalicio y sólo podrá perderse:\n\nI.- Por renuncia del cargo;\n\nII.- Por imposibilidad permanente que no provenga de enfermedad o por incumplimiento absoluto de las obligaciones aceptadas con el nombramiento y en el lapso de un año.",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:article:7",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "article",
+    "label": "Artículo 7o",
+    "number": "7o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "En los casos de la fracción II del artículo anterior, debe mediar la decisión del Consejo del Seminario por el voto de las dos terceras partes de sus miembros titulares en ejercicio.",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:article:8",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "article",
+    "label": "Artículo 8o",
+    "number": "8o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El Consejo del Seminario tendrá su sede en la capital de la República.",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:article:9",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "article",
+    "label": "Artículo 9o",
+    "number": "9o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Es facultad del Seminario nombrar miembros honorarios y correspondientes que dentro y fuera del país colaboren a la difusión de la cultura mexicana y a la realización de los programas de la institución.",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:article:10",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "article",
+    "label": "Artículo 10",
+    "number": "10",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "En el mes de enero de cada año, el Consejo del Seminario aprobará un programa mínimo de actividades anuales que comprenda misiones foráneas, conferencias, cursos breves, conciertos, exposiciones, publicaciones e investigaciones, señalándose la cooperación que corresponda a cada miembro titular.",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:article:11",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "article",
+    "label": "Artículo 11",
+    "number": "11",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El Gobierno Federal concederá al Seminario de Cultura Mexicana, por conducto de la Secretaría de Educación Pública, un subsidio anual cuya cuantía en ningún caso será inferior al que disfruta actualmente. Por el mismo conducto y a su cargo, le proporcionará local, mobiliario y empleados administrativos.",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:article:12",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "article",
+    "label": "Artículo 12",
+    "number": "12",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El Seminario de Cultura Mexicana gozará de franquicia postal y telegráfica, así como del descuento que a las dependencias federales corresponde en las vías generales de comunicación.",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:article:13",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "article",
+    "label": "Artículo 13",
+    "number": "13",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Los bienes, aportaciones y liberalidades que el Seminario adquiera o perciba de instituciones y personas particulares estarán exentos de toda clase de contribuciones, impuestos o derechos.",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:article:14",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "article",
+    "label": "Artículo 14",
+    "number": "14",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Los miembros titulares del Seminario percibirán una dieta mensual de igual importe para cada uno de ellos, cuya cuantía en ningún caso podrá reducirse.",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:article:15",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "article",
+    "label": "Artículo 15",
+    "number": "15",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Los actos culturales que el Seminario realice serán de acceso libre y en ningún caso se permitirá que las autoridades o instituciones que los patrocinen pretendan cobrar a quienes asistan a ellos.",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:article:16",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "article",
+    "label": "Artículo 16",
+    "number": "16",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Es facultad del Consejo del Seminario darse su Reglamento Interior, en el que se fijarán las formas de realizar sus fines, las obligaciones de sus miembros, los términos de licencias y demás aspectos de organización interna.",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:transitory:primero",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "transitory",
+    "label": "PRIMERO",
+    "number": "PRIMERO",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Esta Ley entrará en vigor el día siguiente de su publicación en el \"Diario Oficial\".",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:loscm:transitory:segundo",
+    "instrument_id": "urn:lex-mx:federal:statute:loscm",
+    "provision_type": "transitory",
+    "label": "SEGUNDO",
+    "number": "SEGUNDO",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La Secretaría de Educación Pública tendrá por designados, con plena sujeción a esta Ley, a los miembros del Seminario de Cultura Mexicana que actualmente lo integran.",
+    "publication_date": "1949-12-31",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  }
+]

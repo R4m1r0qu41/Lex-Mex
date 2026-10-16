@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lih",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIH.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIH.pdf",
+  "retrieved_at": "2026-10-14T08:00:28.872425Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 382016,
+  "etag": "\"5d440-64e0b07c19d80\"",
+  "last_modified": "Sat, 28 Mar 2026 00:52:22 GMT",
+  "source_sha256": "c9996a72239837b24f45f4a49c4f117b1fe2b3b9faf2c3eb0e5ce00d8a991d53",
+  "extracted_text_sha256": "7415d52f0620b69fc1ca107c7b1a498fb4b32edc39c7a0f6daf3ba5caee0ed9e",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

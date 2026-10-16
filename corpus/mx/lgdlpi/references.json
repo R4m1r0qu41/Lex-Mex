@@ -1,0 +1,54 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdlpi:article:10:reference:805-806:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgdlpi:article:10",
+    "source_span": "5",
+    "start_char": 805,
+    "end_char": 806,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgdlpi",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgdlpi:article:5",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdlpi:article:22:reference:168-169:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgdlpi:article:22",
+    "source_span": "2",
+    "start_char": 168,
+    "end_char": 169,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdlpi:transitory:septimo:reference:44-46:13:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgdlpi:transitory:septimo",
+    "source_span": "13",
+    "start_char": 44,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgdlpi",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgdlpi:article:13",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 19,
+        "end_char": 30
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

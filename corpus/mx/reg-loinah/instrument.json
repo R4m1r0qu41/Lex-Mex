@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-loinah",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Orgánica del Instituto Nacional de Antropología e Historia",
+  "short_name": "REG-LOINAH",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2021-05-24",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T08:01:57.697324Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOINAH_240521.pdf",
+  "source_sha256": "36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db",
+  "extracted_text_sha256": "e6decf51bb203e4ff15b864a8ae251ba7e218d0f9c9ea799568110b7110b7e12",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

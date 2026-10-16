@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:ldsc",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsc.htm",
+  "retrieved_at": "2026-10-14T07:24:32.919859Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 325184,
+  "etag": "\"4f640-64692b5d3f380\"",
+  "last_modified": "Mon, 22 Dec 2025 23:23:10 GMT",
+  "source_sha256": "45deb87bfd634dfbd1cb7d9fd67a476ad954187908eb0cb06256c90ccc0feb80",
+  "extracted_text_sha256": "4d20b556c6d2fe2e7ff6e1ffe5dd46b1deda769832ef2cf3af381b808b73d407",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

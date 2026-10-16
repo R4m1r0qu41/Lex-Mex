@@ -1,0 +1,47 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:11:reference:80-97:10:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:11",
+    "source_span": "artículo anterior",
+    "start_char": 80,
+    "end_char": 97,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:10",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:11:reference:303-320:10:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:11",
+    "source_span": "artículo anterior",
+    "start_char": 303,
+    "end_char": 320,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgappcea",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:10",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgappcea:article:6:reference:1969-1970:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgappcea:article:6",
+    "source_span": "1",
+    "start_char": 1969,
+    "end_char": 1970,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

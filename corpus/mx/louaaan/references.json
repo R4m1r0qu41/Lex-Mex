@@ -1,0 +1,120 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louaaan:article:1:reference:220-221:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louaaan:article:1",
+    "source_span": "3",
+    "start_char": 220,
+    "end_char": 221,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:3",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "Fracción VII",
+        "start_char": 194,
+        "end_char": 206
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louaaan:article:13:reference:146-148:12:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louaaan:article:13",
+    "source_span": "12",
+    "start_char": 146,
+    "end_char": 148,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louaaan",
+    "target_provision_id": "urn:lex-mx:federal:statute:louaaan:article:12",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louaaan:article:13:reference:338-340:12:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louaaan:article:13",
+    "source_span": "12",
+    "start_char": 338,
+    "end_char": 340,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louaaan",
+    "target_provision_id": "urn:lex-mx:federal:statute:louaaan:article:12",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louaaan:article:15:reference:215-216:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louaaan:article:15",
+    "source_span": "8",
+    "start_char": 215,
+    "end_char": 216,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louaaan",
+    "target_provision_id": "urn:lex-mx:federal:statute:louaaan:article:8",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II y IV",
+        "start_char": 183,
+        "end_char": 201
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louaaan:article:26:reference:91-92:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louaaan:article:26",
+    "source_span": "8",
+    "start_char": 91,
+    "end_char": 92,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louaaan",
+    "target_provision_id": "urn:lex-mx:federal:statute:louaaan:article:8",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 94,
+        "end_char": 104
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louaaan:article:5:reference:375-392:4:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:louaaan:article:5",
+    "source_span": "artículo anterior",
+    "start_char": 375,
+    "end_char": 392,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louaaan",
+    "target_provision_id": "urn:lex-mx:federal:statute:louaaan:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 360,
+        "end_char": 370
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]

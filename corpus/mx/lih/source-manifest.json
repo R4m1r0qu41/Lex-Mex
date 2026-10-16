@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lih",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lih.htm",
+  "retrieved_at": "2026-10-14T07:37:32.578651Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 614236,
+  "etag": "\"95f5c-64862a22b3740\"",
+  "last_modified": "Thu, 15 Jan 2026 00:52:05 GMT",
+  "source_sha256": "8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6",
+  "extracted_text_sha256": "7ca9dadc877086ab1f8b479ac85964b61ddb5b618f5ea21d1d6bcb2000be9afe",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

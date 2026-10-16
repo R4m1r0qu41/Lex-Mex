@@ -1,0 +1,222 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:acreditacion",
+    "term": "Acreditación",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 241,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:actividades-agropecuarias",
+    "term": "Actividades Agropecuarias",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "II",
+    "start_char": 241,
+    "end_char": 430,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:aprobacion",
+    "term": "Aprobación",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "III",
+    "start_char": 430,
+    "end_char": 605,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:certificacion-organica",
+    "term": "Certificación orgánica",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "IV",
+    "start_char": 605,
+    "end_char": 880,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:certificado-organico",
+    "term": "Certificado orgánico",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "V",
+    "start_char": 880,
+    "end_char": 1077,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "VI",
+    "start_char": 1077,
+    "end_char": 1132,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:evaluacion-de-la-conformidad",
+    "term": "Evaluación de la conformidad",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "VII",
+    "start_char": 1132,
+    "end_char": 1483,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:disposiciones-aplicables",
+    "term": "Disposiciones aplicables",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "VIII",
+    "start_char": 1483,
+    "end_char": 1744,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:manejo",
+    "term": "Manejo",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "IX",
+    "start_char": 1744,
+    "end_char": 1984,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:metodos-excluidos",
+    "term": "Métodos excluidos",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "X",
+    "start_char": 1984,
+    "end_char": 2870,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:operador-organico",
+    "term": "Operador orgánico",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "XI",
+    "start_char": 2870,
+    "end_char": 2955,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:organico",
+    "term": "Orgánico",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "XII",
+    "start_char": 2955,
+    "end_char": 3376,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:organismos-de-certificacion-organica",
+    "term": "Organismos de certificación orgánica",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "XIII",
+    "start_char": 3376,
+    "end_char": 3520,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:periodo-de-conversion",
+    "term": "Periodo de conversión",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "XIV",
+    "start_char": 3520,
+    "end_char": 3708,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:plan-organico",
+    "term": "Plan orgánico",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "XV",
+    "start_char": 3708,
+    "end_char": 3977,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:procesamiento",
+    "term": "Procesamiento",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "XVI",
+    "start_char": 3977,
+    "end_char": 4392,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:produccion-organica",
+    "term": "Producción Orgánica",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "XVII",
+    "start_char": 4392,
+    "end_char": 4669,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:registro",
+    "term": "Registro",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "XVIII",
+    "start_char": 4669,
+    "end_char": 4945,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "XIX",
+    "start_char": 4945,
+    "end_char": 5043,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpo:term:sistema-de-control",
+    "term": "Sistema de control",
+    "instrument_id": "urn:lex-mx:federal:statute:lpo",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpo:article:3",
+    "fraction": "XX",
+    "start_char": 5043,
+    "end_char": 5242,
+    "basis": "express_definition"
+  }
+]

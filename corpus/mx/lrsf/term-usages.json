@@ -1,0 +1,965 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:2:term-usage:234-244",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 234,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:2:term-usage:348-358",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 348,
+    "end_char": 358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:2:term-usage:1292-1302",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1292,
+    "end_char": 1302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:2:term-usage:2578-2588",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2578,
+    "end_char": 2588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6:term-usage:17-27",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 17,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6:term-usage:338-345",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 338,
+    "end_char": 345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6:term-usage:558-565",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 558,
+    "end_char": 565
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6-bis:term-usage:17-24",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 17,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6-bis:term-usage:611-621",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 611,
+    "end_char": 621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6-bis:term-usage:1076-1086",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1076,
+    "end_char": 1086
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6-bis:term-usage:2617-2627",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2617,
+    "end_char": 2627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6-bis:term-usage:2897-2907",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2897,
+    "end_char": 2907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6-bis:term-usage:3925-3935",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3925,
+    "end_char": 3935
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6-bis:term-usage:5232-5242",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 5232,
+    "end_char": 5242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6-bis:term-usage:6394-6404",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 6394,
+    "end_char": 6404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6-bis:term-usage:7111-7118",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 7111,
+    "end_char": 7118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:6-bis:term-usage:9223-9230",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 9223,
+    "end_char": 9230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:7:term-usage:419-429",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 419,
+    "end_char": 429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:7:term-usage:435-442",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 435,
+    "end_char": 442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:8:term-usage:126-138",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:vias-ferreas",
+    "span": "Vías férreas",
+    "start_char": 126,
+    "end_char": 138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:8-bis:term-usage:120-130",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:8-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 120,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:8-bis:term-usage:155-165",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:8-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 155,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:8-bis:term-usage:796-806",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:8-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 796,
+    "end_char": 806
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:8-bis:term-usage:827-837",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:8-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 827,
+    "end_char": 837
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:8-bis:term-usage:1252-1262",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:8-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1252,
+    "end_char": 1262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:8-bis:term-usage:1955-1965",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:8-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1955,
+    "end_char": 1965
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:8-bis:term-usage:1988-1998",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:8-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1988,
+    "end_char": 1998
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:9:term-usage:121-131",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 121,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:9:term-usage:381-391",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 381,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:9:term-usage:910-920",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 910,
+    "end_char": 920
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:9:term-usage:2947-2957",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2947,
+    "end_char": 2957
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:9:term-usage:3301-3311",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3301,
+    "end_char": 3311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:9:term-usage:3780-3790",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3780,
+    "end_char": 3790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:10:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:11:term-usage:431-441",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 431,
+    "end_char": 441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:13:term-usage:272-282",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 272,
+    "end_char": 282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:14:term-usage:387-397",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 387,
+    "end_char": 397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:14:term-usage:403-410",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 403,
+    "end_char": 410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:15:term-usage:1524-1531",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 1524,
+    "end_char": 1531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:17:term-usage:598-608",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 598,
+    "end_char": 608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:18:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:18:term-usage:45-52",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 45,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:18:term-usage:435-445",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 435,
+    "end_char": 445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:18:term-usage:451-458",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 451,
+    "end_char": 458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:1890-1897",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 1890,
+    "end_char": 1897
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:2762-2769",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 2762,
+    "end_char": 2769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:2774-2784",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2774,
+    "end_char": 2784
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:2950-2957",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 2950,
+    "end_char": 2957
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:3122-3132",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3122,
+    "end_char": 3132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:3155-3162",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 3155,
+    "end_char": 3162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:3213-3220",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 3213,
+    "end_char": 3220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:21:term-usage:3476-3483",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 3476,
+    "end_char": 3483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:23:term-usage:74-84",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 74,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:24:term-usage:181-188",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 181,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:24:term-usage:591-598",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 591,
+    "end_char": 598
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:24:term-usage:950-960",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 950,
+    "end_char": 960
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:24:term-usage:1005-1012",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 1005,
+    "end_char": 1012
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:25:term-usage:94-104",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 94,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:25:term-usage:123-130",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 123,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:27:term-usage:762-769",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 762,
+    "end_char": 769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:27:term-usage:1327-1334",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 1327,
+    "end_char": 1334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:27:term-usage:1492-1499",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 1492,
+    "end_char": 1499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:29:term-usage:140-147",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 140,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:30:term-usage:255-265",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 255,
+    "end_char": 265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:30:term-usage:291-298",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 291,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:31:term-usage:407-414",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 407,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:32:term-usage:274-281",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 274,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:33:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:34:term-usage:31-38",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 31,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:34:term-usage:706-713",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 706,
+    "end_char": 713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:35:term-usage:492-499",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 492,
+    "end_char": 499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:35:term-usage:1008-1015",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 1008,
+    "end_char": 1015
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:35:term-usage:1171-1178",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 1171,
+    "end_char": 1178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:36:term-usage:269-276",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 269,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:36:term-usage:1040-1050",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1040,
+    "end_char": 1050
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:36-bis:term-usage:146-153",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:36-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 146,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:36-bis:term-usage:437-444",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:36-bis",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 437,
+    "end_char": 444
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:40:term-usage:129-136",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 129,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:41:term-usage:341-348",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 341,
+    "end_char": 348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:41:term-usage:406-416",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 406,
+    "end_char": 416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:42:term-usage:220-230",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 220,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:43:term-usage:330-340",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 330,
+    "end_char": 340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:44:term-usage:56-63",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 56,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:46:term-usage:334-341",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 334,
+    "end_char": 341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:46:term-usage:824-831",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 824,
+    "end_char": 831
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:46:term-usage:1029-1036",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 1029,
+    "end_char": 1036
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:46:term-usage:1119-1126",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 1119,
+    "end_char": 1126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:46:term-usage:1337-1344",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 1337,
+    "end_char": 1344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:46:term-usage:1466-1473",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 1466,
+    "end_char": 1473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:46:term-usage:1556-1563",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 1556,
+    "end_char": 1563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:47:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:47:term-usage:320-327",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 320,
+    "end_char": 327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:53:term-usage:165-172",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 165,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:57:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:57:term-usage:274-281",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 274,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:57:term-usage:547-554",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 547,
+    "end_char": 554
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:57:term-usage:722-729",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 722,
+    "end_char": 729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:58:term-usage:159-166",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 159,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:58:term-usage:244-251",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 244,
+    "end_char": 251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:59:term-usage:77-84",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 77,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:59:term-usage:825-832",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 825,
+    "end_char": 832
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:59:term-usage:3182-3189",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 3182,
+    "end_char": 3189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:59:term-usage:4129-4136",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:agencia",
+    "span": "Agencia",
+    "start_char": 4129,
+    "end_char": 4136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:60:term-usage:412-422",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 412,
+    "end_char": 422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:article:60:term-usage:705-715",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 705,
+    "end_char": 715
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:transitory:segundo:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrsf:transitory:cuarto:term-usage:183-193",
+    "provision_id": "urn:lex-mx:federal:statute:lrsf:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lrsf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 183,
+    "end_char": 193
+  }
+]

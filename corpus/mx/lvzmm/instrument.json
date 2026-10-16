@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lvzmm",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Vertimientos en las Zonas Marinas Mexicanas",
+  "short_name": "LVZMM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-01-17",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-10-14T07:47:42.989609Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVZMM.pdf",
+  "source_sha256": "d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70",
+  "extracted_text_sha256": "4e04881ca17d61269a33c55691aa0694588ae2f1fdd19be635ec7cda864edd65",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

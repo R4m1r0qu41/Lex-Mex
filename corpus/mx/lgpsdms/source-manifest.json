@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgpsdms",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSDMS_200521.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpsdms.htm",
+  "retrieved_at": "2026-10-14T07:35:56.743084Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 420514,
+  "etag": "\"66aa2-5c3a96781c340\"",
+  "last_modified": "Tue, 01 Jun 2021 00:27:17 GMT",
+  "source_sha256": "7ce179f23e6c8813df32848eda4596fc43da954c1bb4d68e412155eda544343c",
+  "extracted_text_sha256": "064003c61a5a5e68abe8f0cdd5986ab9be55dd71fd8c16b8c8fae5d98cbac2ac",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

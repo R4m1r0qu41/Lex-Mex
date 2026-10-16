@@ -1,0 +1,134 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpdppp:term:dependencias",
+    "term": "Dependencias",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpdppp:article:2",
+    "fraction": "I",
+    "start_char": 202,
+    "end_char": 309,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpdppp:term:derechos-arco",
+    "term": "Derechos ARCO",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpdppp:article:2",
+    "fraction": "II",
+    "start_char": 309,
+    "end_char": 397,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpdppp:term:entorno-digital",
+    "term": "Entorno digital",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpdppp:article:2",
+    "fraction": "III",
+    "start_char": 397,
+    "end_char": 660,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpdppp:term:listado-de-exclusion",
+    "term": "Listado de exclusión",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpdppp:article:2",
+    "fraction": "IV",
+    "start_char": 660,
+    "end_char": 815,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpdppp:term:medidas-de-seguridad-administrativas",
+    "term": "Medidas de seguridad administrativas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpdppp:article:2",
+    "fraction": "V",
+    "start_char": 815,
+    "end_char": 1162,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpdppp:term:medidas-de-seguridad-fisicas",
+    "term": "Medidas de seguridad físicas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpdppp:article:2",
+    "fraction": "VI",
+    "start_char": 1162,
+    "end_char": 1753,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpdppp:term:medidas-de-seguridad-tecnicas",
+    "term": "Medidas de seguridad técnicas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpdppp:article:2",
+    "fraction": "VII",
+    "start_char": 1753,
+    "end_char": 2441,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpdppp:term:persona-fisica-identificable",
+    "term": "Persona física identificable",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpdppp:article:2",
+    "fraction": "VIII",
+    "start_char": 2441,
+    "end_char": 2729,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpdppp:term:remision",
+    "term": "Remisión",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpdppp:article:2",
+    "fraction": "IX",
+    "start_char": 2729,
+    "end_char": 2857,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpdppp:term:soporte-electronico",
+    "term": "Soporte electrónico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpdppp:article:2",
+    "fraction": "X",
+    "start_char": 2857,
+    "end_char": 3105,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpdppp:term:soporte-fisico",
+    "term": "Soporte físico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpdppp:article:2",
+    "fraction": "XI",
+    "start_char": 3105,
+    "end_char": 3308,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpdppp:term:supresion",
+    "term": "Supresión",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpdppp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfpdppp:article:2",
+    "fraction": "XII",
+    "start_char": 3308,
+    "end_char": 3550,
+    "basis": "express_definition"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfsp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Seguridad Privada",
+  "short_name": "LFSP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-07-06",
+  "latest_reform_date": "2011-10-17",
+  "retrieved_at": "2026-10-14T07:29:56.736564Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSP.pdf",
+  "source_sha256": "08a1e07c7b82309ac734f7905b7457f059141336731e7b9047042f5bd84aac69",
+  "extracted_text_sha256": "e3e376e284964aa147aa733c0a05e3fd7370b8a5a9753416bedf3e811302328a",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

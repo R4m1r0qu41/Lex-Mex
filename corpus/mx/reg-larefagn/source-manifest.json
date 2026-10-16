@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-larefagn",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAREFAGN.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAREFAGN.pdf",
+  "retrieved_at": "2026-10-14T07:49:32.254605Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 976117,
+  "etag": "\"ee4f5-65373a3efa540\"",
+  "last_modified": "Thu, 04 Jun 2026 20:46:37 GMT",
+  "source_sha256": "01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a",
+  "extracted_text_sha256": "71930f8cb78e1905b297f4ef3914b0efa2e2fb58f808af1855a5075391109e9b",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

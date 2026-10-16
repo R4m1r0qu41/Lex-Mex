@@ -1,0 +1,17 @@
+{
+  "slug": "lfpsdmh",
+  "instrument_id": "urn:lex-mx:federal:statute:lfpsdmh",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos",
+  "short_name": "LFPSDMH",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPSDMH.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpsdmh.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

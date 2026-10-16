@@ -1,0 +1,17 @@
+{
+  "slug": "lgdocia",
+  "instrument_id": "urn:lex-mx:federal:statute:lgdocia",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia",
+  "short_name": "LGDOCIA",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA_070121.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdocia.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

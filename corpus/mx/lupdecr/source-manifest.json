@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lupdecr",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUPDECR.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lupdecr.htm",
+  "retrieved_at": "2026-10-14T07:47:22.056899Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 173628,
+  "etag": "\"2a63c-57650f301dc80\"",
+  "last_modified": "Thu, 20 Sep 2018 17:35:30 GMT",
+  "source_sha256": "add375b17749965073df032027c6cafb7883ab25bfae2f13e34ba41b1ff24e88",
+  "extracted_text_sha256": "82ba18d7405a112e51d32ccc310655524d9da46a189db41996047d2f576e107d",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

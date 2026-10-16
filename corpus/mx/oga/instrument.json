@@ -1,0 +1,27 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:oga",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ordenanza General de la Armada",
+  "short_name": "OGA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": null,
+  "publication_period": {
+    "metadata_version": "1.0.0",
+    "kind": "serialized_range",
+    "start": "1912-01-01",
+    "end": "1912-01-08",
+    "source_note": "Nueva Ordenanza publicada en el Diario Oficial de la Federación en forma seriada los días 1º al 8 de enero de 1912",
+    "source_sha256": "25c0da0a39813a4ad1a8189c67a693c131b9df2fc05689881251f15d42b9fdb3"
+  },
+  "latest_reform_date": "2000-10-19",
+  "retrieved_at": "2026-10-14T07:47:53.461957Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/218.pdf",
+  "source_sha256": "25c0da0a39813a4ad1a8189c67a693c131b9df2fc05689881251f15d42b9fdb3",
+  "extracted_text_sha256": "4ebc7cb0480778d8d63d6efabe71248917c0b3bb16c19df88d8168a8966866ba",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

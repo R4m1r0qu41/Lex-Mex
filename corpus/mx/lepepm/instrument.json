@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lepepm",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de la Empresa Pública del Estado, Petróleos Mexicanos",
+  "short_name": "LEPEPM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-03-18",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:25:39.600562Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPEPM.pdf",
+  "source_sha256": "e090d2278f98a33ce43b69070c3bbbec5e3b7177f0ffdbee8d4c9bf29c36c317",
+  "extracted_text_sha256": "24a29811cba9c7b8d4dab85e079d4e61f8ac247e91fa191d4acdb32634169700",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lrart5-prof",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/208_190118.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart5_prof.htm",
+  "retrieved_at": "2026-10-14T07:43:20.495338Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 395007,
+  "etag": "\"606ff-5766b5c2414c0\"",
+  "last_modified": "Sat, 22 Sep 2018 01:06:03 GMT",
+  "source_sha256": "db0e747c99548991239635e331e95369b627315c81889db03aa2e96f6d3debe6",
+  "extracted_text_sha256": "6311ba8466f6b888c0bafe776e925f9f6566acdbb73ff4ceaaaf07af7d9f1494",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

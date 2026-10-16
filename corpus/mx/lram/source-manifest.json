@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lram",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lram.htm",
+  "retrieved_at": "2026-10-14T07:42:52.501832Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 481327,
+  "etag": "\"7582f-5d177f38d7240\"",
+  "last_modified": "Tue, 23 Nov 2021 17:20:01 GMT",
+  "source_sha256": "d0b2beb3d2e66847880d4c4270b4af4df1db63b22d6e5ac93883eca832652d6c",
+  "extracted_text_sha256": "d20f6b3d321ac8e29df9f1a396ce2574a7227adc9fef5275bb60407ca0134c19",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

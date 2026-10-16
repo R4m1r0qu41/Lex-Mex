@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lepepm:article:107
+instrument_id: urn:lex-mx:federal:statute:lepepm
+instrument: LEPEPM
+name: "Ley de la Empresa Pública del Estado, Petróleos Mexicanos"
+provision_type: article
+number: "107"
+aliases: ["LEPEPM — Artículo 107"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPEPM.pdf
+source_sha256: e090d2278f98a33ce43b69070c3bbbec5e3b7177f0ffdbee8d4c9bf29c36c317
+---
+
+> Título CUARTO · Capítulo VII
+
+# Artículo 107
+
+En el manejo de sus obligaciones constitutivas de deuda pública, Petróleos Mexicanos se debe sujetar a lo siguiente: I. Enviar anualmente, previa aprobación de su Consejo de Administración, su propuesta global de financiamiento a la Secretaría de Hacienda y Crédito Público a efecto de que se incorpore en un apartado específico de la iniciativa de Ley de Ingresos de la Federación que el Ejecutivo Federal somete al Congreso de la Unión, conforme al artículo 10 de la Ley Federal de Deuda Pública; II. Petróleos Mexicanos puede realizar, sin requerir autorización de la Secretaría de Hacienda y Crédito Público, negociaciones oficiales, gestiones informales o exploratorias sobre la posibilidad de acudir al mercado interno y externo de dinero y capitales y contratar los financiamientos internos y externos que requiere; III. Petróleos Mexicanos es responsable de que: a) Las obligaciones que contrate no excedan su capacidad de pago; b) Los recursos que obtenga sean destinados correctamente conforme a las disposiciones jurídicas aplicables; c) Se hagan los pagos oportunamente, y d) Se supervise el desarrollo de su programa financiero particular. IV. Las obligaciones constitutivas de deuda pública por ningún motivo y en ningún caso deben otorgar o conceder a sus personas tenedoras, derechos sobre la propiedad, control o patrimonio de Petróleos Mexicanos o bien sobre el dominio de los hidrocarburos en el subsuelo; V. Las obligaciones constitutivas de deuda pública de Petróleos Mexicanos no constituyen obligaciones garantizadas por el Estado Mexicano; VI. Petróleos Mexicanos debe coordinase con la Secretaría de Hacienda y Crédito Público en sus operaciones de financiamiento, conforme a lo siguiente: a) Una vez aprobados los montos a que se refiere la fracción I anterior, la Secretaría de Hacienda y Crédito Público y Petróleos Mexicanos deben acordar la calendarización de las operaciones de financiamiento de ésta, cuidando que no se incremente el costo de financiamiento del resto del sector público, o se reduzcan las fuentes de financiamiento de este, y b) Para realizar operaciones de financiamiento adicionales o que modifiquen las acordadas conforme al inciso anterior, Petróleos Mexicanos debe dar aviso a la Secretaría de Hacienda y Crédito Público, con al menos quince días hábiles de anticipación, respecto de cada operación que pretende realizar la propia empresa. La Secretaría de Hacienda y Crédito Público puede ordenar que se posponga la operación de que se trata, cuando se verifica cualquiera de los supuestos señalados en el inciso a) anterior, hasta en tanto queden superadas todas las condiciones que motivan la decisión de postergar. En caso de que la Secretaría de Hacienda y Crédito Público no manifieste su decisión dentro de los diez días hábiles contados a partir del aviso a que se refiere el primer párrafo de este inciso, se entiende que la operación respectiva se puede llevar a cabo; VII. Petróleos Mexicanos debe proporcionar a la Secretaría de Hacienda y Crédito Público, toda aquella información que le sea requerida por dicha Secretaría, en la materia a que hace referencia el presente Capítulo y la Ley Federal de Deuda Pública, y VIII. Para efectos de la fracción anterior, y con excepción de lo que al efecto establece el artículo [102](articulo-102.md), fracción VI, de esta Ley, Petróleos Mexicanos debe presentar los informes en materia de deuda pública en los formatos y términos que la Secretaría de Hacienda y Crédito Público establezca, exclusivamente para efectos de la presentación homogénea de dicha información.

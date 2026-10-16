@@ -1,0 +1,632 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:1:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:2:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:3:term-usage:160-163",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 160,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:3:term-usage:1576-1579",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 1576,
+    "end_char": 1579
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:3:term-usage:2734-2737",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 2734,
+    "end_char": 2737
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:4:term-usage:38-41",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 38,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:4:term-usage:155-158",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 155,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:4:term-usage:196-199",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 196,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:4:term-usage:246-249",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 246,
+    "end_char": 249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:4:term-usage:282-285",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 282,
+    "end_char": 285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:4:term-usage:341-344",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 341,
+    "end_char": 344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:5:term-usage:93-96",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 93,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:6:term-usage:66-69",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 66,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:7:term-usage:25-28",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 25,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:8:term-usage:161-164",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 161,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:8:term-usage:712-715",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 712,
+    "end_char": 715
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:8:term-usage:1028-1031",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 1028,
+    "end_char": 1031
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:10:term-usage:59-93",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:instituciones-de-seguridad-publica",
+    "span": "Instituciones de Seguridad Pública",
+    "start_char": 59,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:10:term-usage:462-465",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 462,
+    "end_char": 465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:10:term-usage:583-590",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:policia",
+    "span": "Policía",
+    "start_char": 583,
+    "end_char": 590
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:10:term-usage:878-881",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 878,
+    "end_char": 881
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:11:term-usage:50-83",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:fiscalias-o-procuradurias-locales",
+    "span": "Fiscalías o Procuradurías locales",
+    "start_char": 50,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:11:term-usage:128-131",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 128,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:11:term-usage:436-439",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 436,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:11:term-usage:887-890",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 887,
+    "end_char": 890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:11:term-usage:926-929",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 926,
+    "end_char": 929
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:11:term-usage:1356-1359",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 1356,
+    "end_char": 1359
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:11:term-usage:1477-1510",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:fiscalias-o-procuradurias-locales",
+    "span": "Fiscalías o Procuradurías locales",
+    "start_char": 1477,
+    "end_char": 1510
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:11:term-usage:1590-1593",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 1590,
+    "end_char": 1593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:12:term-usage:4-38",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:instituciones-de-seguridad-publica",
+    "span": "Instituciones de Seguridad Pública",
+    "start_char": 4,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:12:term-usage:413-416",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 413,
+    "end_char": 416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:12:term-usage:738-741",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 738,
+    "end_char": 741
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:12:term-usage:749-752",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 749,
+    "end_char": 752
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:12:term-usage:1442-1445",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 1442,
+    "end_char": 1445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:12:term-usage:1546-1549",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 1546,
+    "end_char": 1549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:13:term-usage:57-60",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 57,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:13:term-usage:104-137",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:fiscalias-o-procuradurias-locales",
+    "span": "Fiscalías o Procuradurías locales",
+    "start_char": 104,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:14:term-usage:78-81",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 78,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:17:term-usage:63-66",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 63,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:18:term-usage:63-66",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 63,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:18:term-usage:2528-2562",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:instituciones-de-seguridad-publica",
+    "span": "Instituciones de Seguridad Pública",
+    "start_char": 2528,
+    "end_char": 2562
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:18:term-usage:2844-2847",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 2844,
+    "end_char": 2847
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:19:term-usage:114-117",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 114,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:20:term-usage:365-368",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 365,
+    "end_char": 368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:20:term-usage:485-488",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 485,
+    "end_char": 488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:21:term-usage:467-474",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:policia",
+    "span": "Policía",
+    "start_char": 467,
+    "end_char": 474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:21:term-usage:535-538",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 535,
+    "end_char": 538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:22:term-usage:123-126",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 123,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:24:term-usage:62-65",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 62,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:25:term-usage:86-93",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:policia",
+    "span": "Policía",
+    "start_char": 86,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:25:term-usage:329-332",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 329,
+    "end_char": 332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:25:term-usage:2191-2198",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:policia",
+    "span": "Policía",
+    "start_char": 2191,
+    "end_char": 2198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:26:term-usage:301-304",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 301,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:27:term-usage:207-210",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 207,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:30:term-usage:39-42",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 39,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:32:term-usage:92-95",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 92,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:35:term-usage:284-287",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 284,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:36:term-usage:421-424",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 421,
+    "end_char": 424
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:39:term-usage:250-253",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 250,
+    "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:39:term-usage:578-612",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:instituciones-de-seguridad-publica",
+    "span": "Instituciones de Seguridad Pública",
+    "start_char": 578,
+    "end_char": 612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:39:term-usage:933-936",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 933,
+    "end_char": 936
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:41:term-usage:1255-1289",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:instituciones-de-seguridad-publica",
+    "span": "Instituciones de Seguridad Pública",
+    "start_char": 1255,
+    "end_char": 1289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:42:term-usage:655-689",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:instituciones-de-seguridad-publica",
+    "span": "Instituciones de Seguridad Pública",
+    "start_char": 655,
+    "end_char": 689
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:42:term-usage:736-769",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:fiscalias-o-procuradurias-locales",
+    "span": "Fiscalías o Procuradurías locales",
+    "start_char": 736,
+    "end_char": 769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:transitory:segundo:term-usage:218-221",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 218,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:transitory:septimo:term-usage:329-332",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 329,
+    "end_char": 332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:transitory:octavo:term-usage:69-72",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 69,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:transitory:decimo:term-usage:119-122",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 119,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:transitory:decimo:term-usage:359-392",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:fiscalias-o-procuradurias-locales",
+    "span": "Fiscalías o Procuradurías locales",
+    "start_char": 359,
+    "end_char": 392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:transitory:decimo:term-usage:506-509",
+    "provision_id": "urn:lex-mx:federal:statute:lgpisdme:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
+    "span": "Ley",
+    "start_char": 506,
+    "end_char": 509
+  }
+]

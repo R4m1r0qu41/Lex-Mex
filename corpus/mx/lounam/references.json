@@ -1,0 +1,180 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lounam:article:10:reference:278-279:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lounam:article:10",
+    "source_span": "5",
+    "start_char": 278,
+    "end_char": 279,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lounam",
+    "target_provision_id": "urn:lex-mx:federal:statute:lounam:article:5",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y II",
+        "start_char": 247,
+        "end_char": 264
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lounam:article:3:reference:244-246:12:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lounam:article:3",
+    "source_span": "12",
+    "start_char": 244,
+    "end_char": 246,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lounam",
+    "target_provision_id": "urn:lex-mx:federal:statute:lounam:article:12",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lounam:article:4:reference:191-192:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lounam:article:4",
+    "source_span": "2",
+    "start_char": 191,
+    "end_char": 192,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lounam",
+    "target_provision_id": "urn:lex-mx:federal:statute:lounam:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lounam:article:6:reference:427-429:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lounam:article:6",
+    "source_span": "11",
+    "start_char": 427,
+    "end_char": 429,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lounam",
+    "target_provision_id": "urn:lex-mx:federal:statute:lounam:article:11",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lounam:article:6:reference:618-619:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lounam:article:6",
+    "source_span": "9",
+    "start_char": 618,
+    "end_char": 619,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lounam",
+    "target_provision_id": "urn:lex-mx:federal:statute:lounam:article:9",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lounam:article:9:reference:246-247:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lounam:article:9",
+    "source_span": "5",
+    "start_char": 246,
+    "end_char": 247,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lounam",
+    "target_provision_id": "urn:lex-mx:federal:statute:lounam:article:5",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lounam:article:9:reference:724-725:6:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lounam:article:9",
+    "source_span": "6",
+    "start_char": 724,
+    "end_char": 725,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lounam",
+    "target_provision_id": "urn:lex-mx:federal:statute:lounam:article:6",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 699,
+        "end_char": 710
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lounam:transitory:5°:reference:48-50:14:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lounam:transitory:5°",
+    "source_span": "14",
+    "start_char": 48,
+    "end_char": 50,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lounam",
+    "target_provision_id": "urn:lex-mx:federal:statute:lounam:article:14",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lounam:transitory:6°:reference:82-84:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lounam:transitory:6°",
+    "source_span": "15",
+    "start_char": 82,
+    "end_char": 84,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lounam",
+    "target_provision_id": "urn:lex-mx:federal:statute:lounam:article:15",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 58,
+        "end_char": 68
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lounam:transitory:7°:reference:79-81:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lounam:transitory:7°",
+    "source_span": "15",
+    "start_char": 79,
+    "end_char": 81,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lounam",
+    "target_provision_id": "urn:lex-mx:federal:statute:lounam:article:15",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 55,
+        "end_char": 65
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lviv",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LViv.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lviv.htm",
+  "retrieved_at": "2026-10-14T07:47:31.404883Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 553533,
+  "etag": "\"8723d-65156fca56900\"",
+  "last_modified": "Fri, 08 May 2026 23:45:08 GMT",
+  "source_sha256": "f6af373e0f5b95596b4e54f4ccd2e0270fcc85bd4f05fb43da775de2f53c9ff7",
+  "extracted_text_sha256": "bde9e2f8ed8950f3b2ba3ede248ec11e1d425479fd25edb4cc0d7b241769bfa1",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

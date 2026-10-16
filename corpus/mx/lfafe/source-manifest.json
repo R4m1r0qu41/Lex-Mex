@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfafe",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAFE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfafe.htm",
+  "retrieved_at": "2026-10-14T07:26:11.067308Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 639239,
+  "etag": "\"9c107-6387368ce29c0\"",
+  "last_modified": "Thu, 26 Jun 2025 06:09:51 GMT",
+  "source_sha256": "96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884",
+  "extracted_text_sha256": "14f91108497ba43f87c6fd9a92edd57ae9e0275deba4c92b2761924b5b475840",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

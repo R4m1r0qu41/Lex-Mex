@@ -1,0 +1,57 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:deportistas",
+    "term": "Deportistas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:2",
+    "fraction": "I",
+    "start_char": 130,
+    "end_char": 230,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:entrenadores",
+    "term": "Entrenadores",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:2",
+    "fraction": "II",
+    "start_char": 230,
+    "end_char": 649,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:programa",
+    "term": "Programa",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:2",
+    "fraction": "IV",
+    "start_char": 698,
+    "end_char": 794,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:reconocimiento-economico-vitalicio",
+    "term": "Reconocimiento económico vitalicio",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:2",
+    "fraction": "V",
+    "start_char": 794,
+    "end_char": 1219,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgcfd:term:reglas-de-operacion",
+    "term": "Reglas de operación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcfd",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcfd:article:2",
+    "fraction": "VI",
+    "start_char": 1219,
+    "end_char": 1414,
+    "basis": "express_definition"
+  }
+]

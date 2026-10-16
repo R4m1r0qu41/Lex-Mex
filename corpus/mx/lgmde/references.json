@@ -1,0 +1,184 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:1:reference:39-41:73:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgmde:article:1",
+    "source_span": "73",
+    "start_char": 39,
+    "end_char": 41,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:73",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XXI",
+        "start_char": 43,
+        "end_char": 55
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a",
+        "start_char": 57,
+        "end_char": 65
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:14:reference:223-225:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgmde:article:14",
+    "source_span": "11",
+    "start_char": 223,
+    "end_char": 225,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgmde:article:11",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 197,
+        "end_char": 209
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:21:reference:621-622:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgmde:article:21",
+    "source_span": "2",
+    "start_char": 621,
+    "end_char": 622,
+    "target_instrument_id": "urn:lex-mx:federal:code:cpf",
+    "target_provision_id": "urn:lex-mx:federal:code:cpf:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:22:reference:218-235:21:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgmde:article:22",
+    "source_span": "artículo anterior",
+    "start_char": 218,
+    "end_char": 235,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgmde:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:6:reference:312-313:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgmde:article:6",
+    "source_span": "7",
+    "start_char": 312,
+    "end_char": 313,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgmde:article:7",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 315,
+        "end_char": 327
+      },
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo tercero",
+        "start_char": 329,
+        "end_char": 344
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:6:reference:346-351:7-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgmde:article:6",
+    "source_span": "7 Bis",
+    "start_char": 346,
+    "end_char": 351,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgmde:article:7-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:6:reference:353-355:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgmde:article:6",
+    "source_span": "11",
+    "start_char": 353,
+    "end_char": 355,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgmde:article:11",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 357,
+        "end_char": 368
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:6:reference:370-376:11-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgmde:article:6",
+    "source_span": "11 Bis",
+    "start_char": 370,
+    "end_char": 376,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgmde:article:11-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgmde:article:6:reference:379-381:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgmde:article:6",
+    "source_span": "20",
+    "start_char": 379,
+    "end_char": 381,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgmde",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgmde:article:20",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 383,
+        "end_char": 394
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

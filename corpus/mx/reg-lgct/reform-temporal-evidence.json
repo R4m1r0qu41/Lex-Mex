@@ -1,0 +1,32 @@
+[
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgct:amendment:2012-10-09:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2012-10-09",
+    "text": "El presente Decreto entrará en vigor a los treinta días hábiles posteriores a la fecha de su publicación en el Diario Oficial de la Federación, salvo la adición del segundo párrafo a la fracción I del artículo 170 del Reglamento de Insumos para la Salud, la cual entrará en vigor al día siguiente de la publicación de este Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgct:amendment:2012-10-09:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2012-10-09",
+    "text": "Las disposiciones del presente Decreto no le serán aplicables a los trámites que hayan sido presentados con anterioridad a la entrada en vigor del mismo."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgct:amendment:2022-12-16:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2022-12-16",
+    "text": "El presente Decreto entrará en vigor a los 30 días naturales siguientes a su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgct:amendment:2022-12-16:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2022-12-16",
+    "text": "Se derogan todas las disposiciones administrativas que se opongan al presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgct:amendment:2022-12-16:transitory:tercero",
+    "label": "Transitorio TERCERO — Decreto DOF 2022-12-16",
+    "text": "Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que refiere este Reglamento, iniciados con anterioridad a la entrada en vigor al presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgct:amendment:2022-12-16:transitory:cuarto",
+    "label": "Transitorio CUARTO — Decreto DOF 2022-12-16",
+    "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado por la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente, por lo que no se autorizarán recursos adicionales para tal efecto."
+  }
+]

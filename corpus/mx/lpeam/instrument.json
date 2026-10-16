@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lpeam",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Protección del Espacio Aéreo Mexicano",
+  "short_name": "LPEAM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2023-03-01",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:41:45.868777Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPEAM.pdf",
+  "source_sha256": "91c9521ab87e22ff0a199a3a017e0d22449cdf59dfc788f6e550a1833717f2df",
+  "extracted_text_sha256": "4c67b955d4b361d526e05ec1908646cff0dd673417e6a89251413100a442c176",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

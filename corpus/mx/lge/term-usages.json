@@ -1,0 +1,875 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:1:term-usage:117-124",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 117,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:1:term-usage:190-196",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 190,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:1:term-usage:447-453",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 447,
+    "end_char": 453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:1:term-usage:467-474",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 467,
+    "end_char": 474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:1:term-usage:704-710",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 704,
+    "end_char": 710
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:1:term-usage:764-770",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 764,
+    "end_char": 770
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:2:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:3:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:4:term-usage:126-133",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 126,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:4:term-usage:480-487",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 480,
+    "end_char": 487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:5:term-usage:841-847",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 841,
+    "end_char": 847
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:6:term-usage:534-540",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 534,
+    "end_char": 540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:6:term-usage:693-699",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 693,
+    "end_char": 699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:6:term-usage:898-905",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 898,
+    "end_char": 905
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:6:term-usage:927-933",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 927,
+    "end_char": 933
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:7:term-usage:15-21",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 15,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:7:term-usage:345-352",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 345,
+    "end_char": 352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:7:term-usage:1613-1619",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 1613,
+    "end_char": 1619
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:7:term-usage:2055-2061",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 2055,
+    "end_char": 2061
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:7:term-usage:2214-2220",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 2214,
+    "end_char": 2220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:7:term-usage:3171-3178",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 3171,
+    "end_char": 3178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:8:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:11:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:12:term-usage:984-990",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 984,
+    "end_char": 990
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:14:term-usage:656-662",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 656,
+    "end_char": 662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:14:term-usage:1322-1329",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 1322,
+    "end_char": 1329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:15:term-usage:28-34",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 28,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:16:term-usage:28-34",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 28,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:22:term-usage:1266-1272",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 1266,
+    "end_char": 1272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:23:term-usage:447-454",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 447,
+    "end_char": 454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:30:term-usage:84-90",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 84,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:31:term-usage:153-159",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 153,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:32:term-usage:88-94",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 88,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:34:term-usage:526-532",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 526,
+    "end_char": 532
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:34:term-usage:643-650",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 643,
+    "end_char": 650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:38:term-usage:25-31",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 25,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:43:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:47:term-usage:218-225",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 218,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:48:term-usage:58-64",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 58,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:49:term-usage:218-225",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 218,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:52:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:54:term-usage:235-241",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 235,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:56:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:56:term-usage:639-645",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 639,
+    "end_char": 645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:57:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:57-bis:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:57-bis",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:58:term-usage:440-447",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 440,
+    "end_char": 447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:58:term-usage:918-924",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 918,
+    "end_char": 924
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:59:term-usage:31-37",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 31,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:60:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:62:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:63:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:69:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:69:term-usage:566-572",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 566,
+    "end_char": 572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:71:term-usage:983-989",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 983,
+    "end_char": 989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:72:term-usage:1231-1238",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 1231,
+    "end_char": 1238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:72:term-usage:1304-1310",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 1304,
+    "end_char": 1310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:76:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:80:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:82:term-usage:129-136",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 129,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:83:term-usage:2071-2078",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 2071,
+    "end_char": 2078
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:84:term-usage:28-34",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 28,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:90:term-usage:1347-1353",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 1347,
+    "end_char": 1353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:91:term-usage:166-173",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 166,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:92:term-usage:344-351",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 344,
+    "end_char": 351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:92:term-usage:1017-1024",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 1017,
+    "end_char": 1024
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:93:term-usage:62-68",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 62,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:95:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:98:term-usage:165-171",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 165,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:99:term-usage:67-73",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 67,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:100:term-usage:230-237",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 230,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:100:term-usage:655-662",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 655,
+    "end_char": 662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:100:term-usage:2055-2062",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 2055,
+    "end_char": 2062
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:103:term-usage:2252-2259",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 2252,
+    "end_char": 2259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:111:term-usage:309-316",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 309,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:113:term-usage:516-523",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 516,
+    "end_char": 523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:113:term-usage:5322-5329",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 5322,
+    "end_char": 5329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:114:term-usage:69-76",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 69,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:114:term-usage:2343-2350",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 2343,
+    "end_char": 2350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:115:term-usage:149-156",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 149,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:115:term-usage:4640-4647",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 4640,
+    "end_char": 4647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:115:term-usage:4714-4720",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 4714,
+    "end_char": 4720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:115:term-usage:7170-7177",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 7170,
+    "end_char": 7177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:116:term-usage:121-128",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 121,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:117:term-usage:147-154",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 147,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:118:term-usage:209-216",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 209,
+    "end_char": 216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:119:term-usage:295-301",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 295,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:122:term-usage:75-81",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 75,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:123:term-usage:43-50",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:123",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 43,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:146:term-usage:219-225",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:146",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 219,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:146:term-usage:309-316",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:146",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 309,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:146:term-usage:614-620",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:146",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 614,
+    "end_char": 620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:article:149:term-usage:201-208",
+    "provision_id": "urn:lex-mx:federal:statute:lge:article:149",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 201,
+    "end_char": 208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:transitory:sexto:term-usage:113-120",
+    "provision_id": "urn:lex-mx:federal:statute:lge:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 113,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:transitory:decimo-primero:term-usage:409-416",
+    "provision_id": "urn:lex-mx:federal:statute:lge:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 409,
+    "end_char": 416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:transitory:decimo-segundo:term-usage:574-581",
+    "provision_id": "urn:lex-mx:federal:statute:lge:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estados",
+    "start_char": 574,
+    "end_char": 581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lge:transitory:decimo-segundo:term-usage:766-772",
+    "provision_id": "urn:lex-mx:federal:statute:lge:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lge:term:estado",
+    "span": "Estado",
+    "start_char": 766,
+    "end_char": 772
+  }
+]

@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lagra:article:69
+instrument_id: urn:lex-mx:federal:statute:lagra
+instrument: LAGRA
+name: "Ley Agraria"
+provision_type: article
+number: "69"
+aliases: ["LAGRA — Artículo 69"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf
+source_sha256: 7fa6151d65442b7beeb14e032ba54cbcaf4a8140606f152acb988bc554978550
+---
+
+> Título TERCERO · Capítulo II
+
+# Artículo 69
+
+La propiedad de los solares se acreditará con el documento señalado en el [artículo anterior](articulo-68.md) y los actos jurídicos subsecuentes serán regulados por el derecho común. Para estos efectos los títulos se inscribirán en el Registro Público de la Propiedad de la entidad correspondiente.

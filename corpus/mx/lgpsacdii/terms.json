@@ -1,0 +1,156 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "term": "Centros de Atención",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsacdii",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 347,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:desarrollo-integral-infantil",
+    "term": "Desarrollo Integral Infantil",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsacdii",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "fraction": "II",
+    "start_char": 347,
+    "end_char": 500,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsacdii",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "fraction": "III",
+    "start_char": 500,
+    "end_char": 608,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:medidas-precautorias",
+    "term": "Medidas Precautorias",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsacdii",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "fraction": "IV",
+    "start_char": 608,
+    "end_char": 893,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:modalidades",
+    "term": "Modalidades",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsacdii",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "fraction": "V",
+    "start_char": 893,
+    "end_char": 954,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:politica-nacional",
+    "term": "Política Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsacdii",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "fraction": "VI",
+    "start_char": 954,
+    "end_char": 1067,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:prestadores-de-servicios-para-la-atencion,-cuidado-y-desarrollo-integral-infantil",
+    "term": "Prestadores de servicios para la atención, cuidado y desarrollo Integral infantil",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsacdii",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "fraction": "VII",
+    "start_char": 1067,
+    "end_char": 1366,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:programa-interno-de-proteccion-civil",
+    "term": "Programa Interno de Protección Civil",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsacdii",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "fraction": "IX",
+    "start_char": 1692,
+    "end_char": 2078,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:registros-estatales",
+    "term": "Registros Estatales",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsacdii",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "fraction": "X",
+    "start_char": 2078,
+    "end_char": 2242,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:registro-nacional",
+    "term": "Registro Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsacdii",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "fraction": "XI",
+    "start_char": 2242,
+    "end_char": 2371,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsacdii",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "fraction": "XII",
+    "start_char": 2371,
+    "end_char": 2503,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsacdii",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "fraction": "XIII",
+    "start_char": 2503,
+    "end_char": 2543,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:servicios-para-atencion,-cuidado-y-desarrollo-integral-infantil",
+    "term": "Servicios para atención, cuidado y desarrollo integral infantil",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsacdii",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "fraction": "XIV",
+    "start_char": 2543,
+    "end_char": 2752,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:statute:lgpsacdii",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "fraction": "XV",
+    "start_char": 2752,
+    "end_char": 2866,
+    "basis": "express_definition"
+  }
+]

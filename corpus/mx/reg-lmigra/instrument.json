@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lmigra",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Migración",
+  "short_name": "REG-LMIGRA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2012-09-28",
+  "latest_reform_date": "2014-05-23",
+  "retrieved_at": "2026-10-14T08:00:58.023113Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMigra.pdf",
+  "source_sha256": "2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c",
+  "extracted_text_sha256": "b0e3857e2ad0f2e764613a1a41ef14d7e2642f039ed9fd9a201f439356c03563",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

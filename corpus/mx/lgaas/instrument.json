@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgaas",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de la Alimentación Adecuada y Sostenible",
+  "short_name": "LGAAS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2024-04-17",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:30:29.812200Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf",
+  "source_sha256": "56a1bbbaa8d0296def17f9cef3f8e81fa3ff09f2f02fecfd91eb01a847841410",
+  "extracted_text_sha256": "5beae453e73ece56b4b627e0b612dbc1c4ba48ec0f5cddd22e301036783f31cb",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

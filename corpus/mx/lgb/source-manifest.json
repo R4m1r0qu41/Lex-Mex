@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgb",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGB.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgb.htm",
+  "retrieved_at": "2026-10-14T07:31:10.565687Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 280045,
+  "etag": "\"445ed-60c5422fc2500\"",
+  "last_modified": "Tue, 12 Dec 2023 18:22:44 GMT",
+  "source_sha256": "1a7dcb966c812b4d78487fc81a4f873a2d1fd63e0f40a021dc8aa2d56e31dc19",
+  "extracted_text_sha256": "23b1bf0281662d35d9b1f601795d772f3e3f56403a80a8abec94aea3601602b9",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lepepm:article:59
+instrument_id: urn:lex-mx:federal:regulation:reg-lepepm
+instrument: REG-LEPEPM
+name: "Reglamento de la Ley de la Empresa Pública del Estado, Petróleos Mexicanos"
+provision_type: article
+number: "59"
+aliases: ["REG-LEPEPM — Artículo 59"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEPEPM.pdf
+source_sha256: 9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244
+---
+
+> Título CUARTO · Capítulo Tercero
+
+# Artículo 59
+
+En lo no previsto en el presente capítulo, resultan aplicables de manera supletoria, la Ley Federal de Procedimiento Administrativo y el Código Federal de Procedimientos Civiles o aquellos que los sustituyan, en este orden.

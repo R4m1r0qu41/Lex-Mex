@@ -1,0 +1,17 @@
+{
+  "slug": "loefam",
+  "instrument_id": "urn:lex-mx:federal:statute:loefam",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
+  "short_name": "LOEFAM",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOEFAM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loefam.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

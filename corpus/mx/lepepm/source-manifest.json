@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lepepm",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPEPM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lepepm.htm",
+  "retrieved_at": "2026-10-14T07:25:39.600562Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 598559,
+  "etag": "\"9221f-630e2cceb9fc0\"",
+  "last_modified": "Fri, 21 Mar 2025 23:41:59 GMT",
+  "source_sha256": "e090d2278f98a33ce43b69070c3bbbec5e3b7177f0ffdbee8d4c9bf29c36c317",
+  "extracted_text_sha256": "24a29811cba9c7b8d4dab85e079d4e61f8ac247e91fa191d4acdb32634169700",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

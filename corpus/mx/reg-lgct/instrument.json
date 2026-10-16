@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgct",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General para el Control del Tabaco",
+  "short_name": "REG-LGCT",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2009-05-31",
+  "latest_reform_date": "2022-12-16",
+  "retrieved_at": "2026-10-14T07:56:17.535861Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCT.pdf",
+  "source_sha256": "4afbc3d9466d845cfcfb8c2a64a1b7b5cf4efcbc31fe8b58afba418bb9600c52",
+  "extracted_text_sha256": "8bc5d2bc4a75127d83a3c8f85517618e6e8ff4e6714545adf7160e6b3e0828f4",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

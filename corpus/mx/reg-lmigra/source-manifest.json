@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMigra.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMigra.pdf",
+  "retrieved_at": "2026-10-14T08:00:58.023113Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 839504,
+  "etag": "\"ccf50-563b487d99500\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:08 GMT",
+  "source_sha256": "2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c",
+  "extracted_text_sha256": "b0e3857e2ad0f2e764613a1a41ef14d7e2642f039ed9fd9a201f439356c03563",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

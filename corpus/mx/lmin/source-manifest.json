@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lmin",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMin.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin.htm",
+  "retrieved_at": "2026-10-14T07:38:38.426477Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 647752,
+  "etag": "\"9e248-5fed588d98840\"",
+  "last_modified": "Sat, 24 Jun 2023 00:52:41 GMT",
+  "source_sha256": "22262b49007ce5a26efe0c942142721b710b0de7675459bf05bf8e99b60b7746",
+  "extracted_text_sha256": "62d0f136dcd961c96accb3f26c0c5d73b895d3ac7d399ccef560e1f4df62c7f4",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

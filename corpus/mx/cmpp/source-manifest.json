@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:code:cmpp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp.htm",
+  "retrieved_at": "2026-10-14T07:21:05.939944Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1583823,
+  "etag": "\"182acf-64470197e56c0\"",
+  "last_modified": "Tue, 25 Nov 2025 19:15:15 GMT",
+  "source_sha256": "351c69a7bc3f61976933d76e45cf185a721a331a145778dd3f315df5216a5e32",
+  "extracted_text_sha256": "2043cb328bf7cec8db41978736c16fac396d46bb36df11beb1838ac9353e9556",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

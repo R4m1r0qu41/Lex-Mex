@@ -1,0 +1,17 @@
+{
+  "slug": "cjm",
+  "instrument_id": "urn:lex-mx:federal:code:cjm",
+  "instrument_type": "code",
+  "parser": "diputados",
+  "official_title": "Código de Justicia Militar",
+  "short_name": "CJM",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CJM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cjm.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

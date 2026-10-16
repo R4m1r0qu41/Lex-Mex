@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lsh:article:48
+instrument_id: urn:lex-mx:federal:regulation:reg-lsh
+instrument: REG-LSH
+name: "Reglamento de la Ley del Sector Hidrocarburos"
+provision_type: article
+number: "48"
+aliases: ["REG-LSH — Artículo 48"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSH.pdf
+source_sha256: 24e8c1fd0924330ba7aabd735b5958271cf8d5cc21373c63bbbdc8efa8ce13d3
+---
+
+> Título SEGUNDO · Capítulo V
+
+# Artículo 48
+
+Para cumplir con lo dispuesto en el [artículo anterior](articulo-47.md), se debe observar el siguiente procedimiento: I. La Secretaría debe enviar a la Secretaría de Hacienda y Crédito Público la propuesta de Modelo de Contratación que corresponda al Área Contractual y la información soporte que se determine en los convenios de coordinación que para tal efecto suscriban dichas dependencias; II. La Secretaría de Hacienda y Crédito Público debe emitir su opinión sobre la propuesta de Modelo de Contratación, en un plazo de cinco días hábiles contados a partir de la fecha de recepción de la propuesta e información a que se refiere la fracción anterior; III. Determinado el Modelo de Contratación, la Secretaría cuenta con un plazo de veinte días hábiles para determinar los Términos y Condiciones Técnicos y solicitar a la Secretaría de Hacienda y Crédito Público que establezca las condiciones económicas relativas a los términos fiscales conforme a la Ley de Ingresos sobre Hidrocarburos y su reglamento; IV. La Secretaría de Economía, a solicitud de la Secretaría, debe emitir su opinión sobre el porcentaje mínimo de contenido nacional establecido en cada Contrato para la Exploración y Extracción, en un plazo de diez días hábiles, contados a partir del día siguiente en que surta efectos la notificación de solicitud de opinión por parte de la Secretaría. Del porcentaje mínimo de contenido nacional establecido en los Contratos para la Exploración y Extracción, se debe destinar a los componentes de capacitación, transferencia de tecnología e infraestructura un porcentaje específico, de acuerdo con el periodo en el que se encuentre, conforme a lo siguiente: a) Si se encuentra en los periodos de Exploración, evaluación o transición, al menos, debe destinarse el uno por ciento del porcentaje del contenido nacional, o b) Si se encuentra en el periodo de Extracción debe destinarse, al menos, el tres por ciento del porcentaje del contenido nacional. La Secretaría y la Secretaría de Economía deben establecer los mecanismos para el cumplimiento de los conceptos previstos en esta fracción; V. Recibidas las condiciones económicas relativas a los términos fiscales de los Contratos para la Exploración y Extracción, así como aquellas que deben observarse en el proceso de licitación que establezca la Secretaría de Hacienda y Crédito Público conforme a la Ley de Ingresos sobre Hidrocarburos y su reglamento, la Secretaría en un plazo de veinte días hábiles, debe elaborar los Lineamientos Técnicos que se deben observar en el proceso de licitación, y VI. La Secretaría debe solicitar a la autoridad competente en materia de competencia económica la opinión a la que se refiere el artículo 51, fracción III de la Ley. Para efectos de esta opinión, la Secretaría, con base en la información remitida por la Secretaría de Hacienda y Crédito Público debe proporcionar a la autoridad competente en materia de competencia económica los elementos que justifiquen que los criterios de precalificación y el mecanismo de adjudicación propuestos se apegan a las mejores prácticas de la industria, así como a los principios generales en materia de libre concurrencia y competencia económica. La autoridad competente en materia de competencia económica, en el ámbito de las atribuciones que le confiere la Ley, puede en cualquier momento y sin perjuicio del plazo establecido en el artículo 51, fracción III de la Ley, requerir cualquier información adicional que estime pertinente en términos de la Ley Federal de Competencia Económica.

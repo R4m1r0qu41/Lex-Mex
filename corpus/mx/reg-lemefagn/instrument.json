@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lemefagn",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional (Antes",
+  "short_name": "REG-LEMEFAGN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-08-14",
+  "latest_reform_date": "2026-03-20",
+  "retrieved_at": "2026-10-14T07:50:43.555045Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEMEFAGN.pdf",
+  "source_sha256": "703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5",
+  "extracted_text_sha256": "67027f39b824dc4562be2a49b97080cde42d1cfd687a646f4147e3351ce08aa1",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

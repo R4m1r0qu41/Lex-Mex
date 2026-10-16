@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgs-mcsotcsh",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de Salud en Materia de Control Sanitario de la Disposición de Órganos, Tejidos y Cadáveres de Seres Humanos",
+  "short_name": "REG-LGS-MCSOTCSH",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1985-02-20",
+  "latest_reform_date": "2014-03-26",
+  "retrieved_at": "2026-10-14T07:58:38.134518Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSOTCSH.pdf",
+  "source_sha256": "e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec",
+  "extracted_text_sha256": "fff98d9d052aef611b6155bec575c3033091a15281b2517f68845658697a6879",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

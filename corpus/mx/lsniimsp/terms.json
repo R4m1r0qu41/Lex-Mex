@@ -1,0 +1,123 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "term": "CNI",
+    "instrument_id": "urn:lex-mx:federal:statute:lsniimsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "fraction": "I",
+    "start_char": 58,
+    "end_char": 129,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "term": "Consejo Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lsniimsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "fraction": "II",
+    "start_char": 129,
+    "end_char": 210,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:term:enlace",
+    "term": "Enlace",
+    "instrument_id": "urn:lex-mx:federal:statute:lsniimsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "fraction": "III",
+    "start_char": 210,
+    "end_char": 380,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:term:inteligencia-en-seguridad-publica",
+    "term": "Inteligencia en seguridad pública",
+    "instrument_id": "urn:lex-mx:federal:statute:lsniimsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "fraction": "IV",
+    "start_char": 380,
+    "end_char": 1178,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:term:interconexion",
+    "term": "Interconexión",
+    "instrument_id": "urn:lex-mx:federal:statute:lsniimsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "fraction": "V",
+    "start_char": 1178,
+    "end_char": 1493,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lsniimsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "fraction": "VI",
+    "start_char": 1493,
+    "end_char": 1596,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "term": "Plataforma",
+    "instrument_id": "urn:lex-mx:federal:statute:lsniimsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "fraction": "VII",
+    "start_char": 1596,
+    "end_char": 1653,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:term:productos-de-inteligencia",
+    "term": "Productos de inteligencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lsniimsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "fraction": "VIII",
+    "start_char": 1653,
+    "end_char": 1993,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lsniimsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "fraction": "IX",
+    "start_char": 1993,
+    "end_char": 2061,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "term": "Sistema Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lsniimsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "fraction": "X",
+    "start_char": 2061,
+    "end_char": 2170,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:term:subsecretaria",
+    "term": "Subsecretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lsniimsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "fraction": "XI",
+    "start_char": 2170,
+    "end_char": 2300,
+    "basis": "express_definition"
+  }
+]

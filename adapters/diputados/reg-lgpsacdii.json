@@ -1,0 +1,17 @@
+{
+  "slug": "reg-lgpsacdii",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpsacdii",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil",
+  "short_name": "REG-LGPSACDII",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSACDII_100516.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSACDII_100516.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

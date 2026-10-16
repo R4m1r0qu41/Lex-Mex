@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lfafe",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Federal de Armas de Fuego y Explosivos",
+  "short_name": "REG-LFAFE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1972-05-06",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:51:44.970579Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFAFE.pdf",
+  "source_sha256": "9fedca5f25e5e912e6a91ad595c8782841e8227ffe9538bfb55c8d0bd4d7d183",
+  "extracted_text_sha256": "ab0a38cb91c88192e3b4dab4e468cb669d3569c29bbcb439127a0c4fc31de5e4",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

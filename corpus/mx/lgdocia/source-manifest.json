@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgdocia",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA_070121.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdocia.htm",
+  "retrieved_at": "2026-10-14T07:32:13.579794Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 326597,
+  "etag": "\"4fbc5-5b85a6f929c80\"",
+  "last_modified": "Fri, 08 Jan 2021 02:37:22 GMT",
+  "source_sha256": "8403427f940274c9affce29b07d7522d3eb88e794dfdc0f703326b4907a14480",
+  "extracted_text_sha256": "2ddc7cd9e41cf452bfc8fde45da77f8d8cbd33e3c66257b19cc780507cba7732",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

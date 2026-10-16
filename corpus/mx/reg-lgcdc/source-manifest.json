@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcdc",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCDC_291118.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCDC_291118.pdf",
+  "retrieved_at": "2026-10-14T07:55:49.339056Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 368259,
+  "etag": "\"59e83-57cc53d83c280\"",
+  "last_modified": "Tue, 11 Dec 2018 20:51:06 GMT",
+  "source_sha256": "2e108436f6d845ebce30713fd69eacf1a741bfcea24f4b64837c2e9366e87b4d",
+  "extracted_text_sha256": "a09a30015c2890bd44488b4d2486706c7cc752734ffd7bad6feec5dd105cb617",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

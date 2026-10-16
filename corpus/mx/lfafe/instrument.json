@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfafe",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Armas de Fuego y Explosivos",
+  "short_name": "LFAFE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1972-01-11",
+  "latest_reform_date": "2025-05-29",
+  "retrieved_at": "2026-10-14T07:26:11.067308Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAFE.pdf",
+  "source_sha256": "96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884",
+  "extracted_text_sha256": "14f91108497ba43f87c6fd9a92edd57ae9e0275deba4c92b2761924b5b475840",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

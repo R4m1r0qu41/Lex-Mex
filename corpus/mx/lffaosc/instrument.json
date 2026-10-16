@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lffaosc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+  "short_name": "LFFAOSC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2004-02-09",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-10-14T07:27:17.875716Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFAOSC.pdf",
+  "source_sha256": "aee10d32a2a05da5520a51f1e5635befbec52622e71d4f4e7f618f953bb98d09",
+  "extracted_text_sha256": "37823fcfc390dbcc01305d74304f2209fe543c8847aec85f6cf8c766a335fb73",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

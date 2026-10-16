@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lrsf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrsf.htm",
+  "retrieved_at": "2026-10-14T07:44:29.706954Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 573997,
+  "etag": "\"8c22d-6451ec43e0c00\"",
+  "last_modified": "Thu, 04 Dec 2025 11:38:24 GMT",
+  "source_sha256": "02fe2afc021cdf42249b2003da14bf738f24157375ffc0b420e1e7d7a5c20fd5",
+  "extracted_text_sha256": "76a665ffd8f767e85f01f34d3bff58dc6765cbcb6214b84e25d7a65f4fb742dd",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

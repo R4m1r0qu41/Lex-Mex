@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgmdfp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmdfp.htm",
+  "retrieved_at": "2026-10-14T07:34:18.185117Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 891501,
+  "etag": "\"d9a6d-63d72cfe94000\"",
+  "last_modified": "Thu, 28 Aug 2025 20:33:04 GMT",
+  "source_sha256": "ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03",
+  "extracted_text_sha256": "dcdd9d909e7c3f359cedc51f204e7fc12dbf413ddcfdddd60190fdd646afcf05",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGP.pdf",
+  "retrieved_at": "2026-10-14T07:57:53.573764Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 398344,
+  "etag": "\"61408-563b487ca52c0\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:07 GMT",
+  "source_sha256": "d1b105c503cd9d4e593d9e349b440a77cffc4bf1f3507fe1d1659ab97c8befd8",
+  "extracted_text_sha256": "e7bfb665650d407596ca341bf58e679a18fcae65b90803aec3a0c91aa2a6f3ab",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

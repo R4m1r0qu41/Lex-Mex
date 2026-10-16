@@ -1,0 +1,121 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:article:33:reference:574-575:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:33",
+    "source_span": "2",
+    "start_char": 574,
+    "end_char": 575,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones VI",
+        "start_char": 577,
+        "end_char": 590
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:article:33:reference:742-748:50-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:33",
+    "source_span": "50 Bis",
+    "start_char": 742,
+    "end_char": 748,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:50-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:article:40:reference:2558-2559:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:40",
+    "source_span": "2",
+    "start_char": 2558,
+    "end_char": 2559,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:article:40:reference:3226-3227:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:40",
+    "source_span": "2",
+    "start_char": 3226,
+    "end_char": 3227,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:article:50-bis:reference:227-228:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:50-bis",
+    "source_span": "2",
+    "start_char": 227,
+    "end_char": 228,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:2",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones VI",
+        "start_char": 230,
+        "end_char": 243
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:article:65:reference:421-423:60:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:65",
+    "source_span": "60",
+    "start_char": 421,
+    "end_char": 423,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:60",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgct:article:79:reference:45-62:78:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:79",
+    "source_span": "artículo anterior",
+    "start_char": 45,
+    "end_char": 62,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgct",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgct:article:78",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]

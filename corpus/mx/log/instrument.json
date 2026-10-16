@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:log",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Organizaciones Ganaderas",
+  "short_name": "LOG",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1999-01-06",
+  "latest_reform_date": "2012-04-09",
+  "retrieved_at": "2026-10-14T07:39:58.430515Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/57.pdf",
+  "source_sha256": "35e6323676758412d100ff5b3725985ebb07af19c74e1657f9e15151f3b21d8f",
+  "extracted_text_sha256": "ed15ab016b2688adbc388fd0cdc847c329bae2063d45c38139d4d323fcebe747",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

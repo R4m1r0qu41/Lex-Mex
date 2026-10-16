@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lpesca",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Pesca",
+  "short_name": "REG-LPESCA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1999-09-29",
+  "latest_reform_date": "2004-01-28",
+  "retrieved_at": "2026-10-14T08:03:04.705261Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPesca.pdf",
+  "source_sha256": "e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59",
+  "extracted_text_sha256": "68d29e79286eeeb0e4b7988c5f7ac93ef05d7986cc0b205d9e663b8d14159bb7",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

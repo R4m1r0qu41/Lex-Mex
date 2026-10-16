@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lic-calidad",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Infraestructura de la Calidad",
+  "short_name": "REG-LIC-CALIDAD",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2026-09-04",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:59:55.267845Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LICal.pdf",
+  "source_sha256": "d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861",
+  "extracted_text_sha256": "20837c2bd82424be7236d26e8004f6b2b946df0e5f45ddc21f5e242936fd5a94",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

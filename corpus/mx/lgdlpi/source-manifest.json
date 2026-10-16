@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgdlpi",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdlpi.htm",
+  "retrieved_at": "2026-10-14T07:32:00.473771Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 499518,
+  "etag": "\"79f3e-6081aaecb60c0\"",
+  "last_modified": "Fri, 20 Oct 2023 00:09:15 GMT",
+  "source_sha256": "c089e774b400c1922811859a6b867c7593120cbe61b4ba4f745321cf26e8b41d",
+  "extracted_text_sha256": "ff23aa8143b082deaff0e0e1a89af7a8e63e9c4e3bb64a5afca2d724d7fbaee6",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

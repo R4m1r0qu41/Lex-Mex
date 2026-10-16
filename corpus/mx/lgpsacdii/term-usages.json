@@ -1,0 +1,1757 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:1:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:2:term-usage:22-25",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 22,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:3:term-usage:285-288",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 285,
+    "end_char": 288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:3:term-usage:633-636",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 633,
+    "end_char": 636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:4:term-usage:335-338",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 335,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:5:term-usage:4-23",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 4,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:5:term-usage:100-103",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 100,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:6:term-usage:39-42",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 39,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:6:term-usage:83-93",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 83,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:6:term-usage:100-110",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 100,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:6:term-usage:138-148",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 138,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:6:term-usage:171-181",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 171,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:7:term-usage:108-119",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:modalidades",
+    "span": "Modalidades",
+    "start_char": 108,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:7:term-usage:174-177",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 174,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:8:term-usage:25-28",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 25,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:8:term-usage:577-605",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:desarrollo-integral-infantil",
+    "span": "Desarrollo Integral Infantil",
+    "start_char": 577,
+    "end_char": 605
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:8:term-usage:816-819",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 816,
+    "end_char": 819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:8:term-usage:948-951",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 948,
+    "end_char": 951
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:8:term-usage:1036-1064",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:desarrollo-integral-infantil",
+    "span": "Desarrollo Integral Infantil",
+    "start_char": 1036,
+    "end_char": 1064
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:8:term-usage:1314-1333",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 1314,
+    "end_char": 1333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:8:term-usage:1554-1557",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 1554,
+    "end_char": 1557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:8:term-usage:2128-2147",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 2128,
+    "end_char": 2147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:8:term-usage:2289-2308",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 2289,
+    "end_char": 2308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:8:term-usage:2405-2408",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 2405,
+    "end_char": 2408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:8:term-usage:2472-2500",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:desarrollo-integral-infantil",
+    "span": "Desarrollo Integral Infantil",
+    "start_char": 2472,
+    "end_char": 2500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:8:term-usage:2654-2673",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 2654,
+    "end_char": 2673
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:8:term-usage:2837-2865",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:desarrollo-integral-infantil",
+    "span": "Desarrollo Integral Infantil",
+    "start_char": 2837,
+    "end_char": 2865
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:12:term-usage:80-83",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 80,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:12:term-usage:92-111",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 92,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:12:term-usage:365-383",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centro de Atención",
+    "start_char": 365,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:16:term-usage:128-131",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 128,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:16:term-usage:137-147",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 137,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:16:term-usage:334-353",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 334,
+    "end_char": 353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:16:term-usage:506-509",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 506,
+    "end_char": 509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:17:term-usage:88-95",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 88,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:17:term-usage:156-159",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 156,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:18:term-usage:137-140",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 137,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:18:term-usage:174-181",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 174,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:19:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:19:term-usage:610-613",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 610,
+    "end_char": 613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:19:term-usage:1286-1293",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 1286,
+    "end_char": 1293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:19:term-usage:1606-1625",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 1606,
+    "end_char": 1625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:20:term-usage:157-160",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 157,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:21:term-usage:122-150",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:desarrollo-integral-infantil",
+    "span": "Desarrollo Integral Infantil",
+    "start_char": 122,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:21:term-usage:260-288",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:desarrollo-integral-infantil",
+    "span": "Desarrollo Integral Infantil",
+    "start_char": 260,
+    "end_char": 288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:21:term-usage:349-352",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 349,
+    "end_char": 352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:21:term-usage:379-386",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 379,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:21:term-usage:406-413",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 406,
+    "end_char": 413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:21:term-usage:504-521",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:registro-nacional",
+    "span": "Registro Nacional",
+    "start_char": 504,
+    "end_char": 521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:21:term-usage:851-879",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:desarrollo-integral-infantil",
+    "span": "Desarrollo Integral Infantil",
+    "start_char": 851,
+    "end_char": 879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:21:term-usage:1309-1312",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 1309,
+    "end_char": 1312
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:21:term-usage:1467-1470",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 1467,
+    "end_char": 1470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:21:term-usage:1703-1706",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 1703,
+    "end_char": 1706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:22:term-usage:135-138",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 135,
+    "end_char": 138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:22:term-usage:658-661",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 658,
+    "end_char": 661
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:22:term-usage:678-685",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 678,
+    "end_char": 685
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:22:term-usage:854-882",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:desarrollo-integral-infantil",
+    "span": "Desarrollo Integral Infantil",
+    "start_char": 854,
+    "end_char": 882
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:22:term-usage:1044-1051",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 1044,
+    "end_char": 1051
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:22:term-usage:1834-1837",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 1834,
+    "end_char": 1837
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:22:term-usage:2077-2080",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 2077,
+    "end_char": 2080
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:22:term-usage:2228-2231",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 2228,
+    "end_char": 2231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:22:term-usage:2435-2446",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:modalidades",
+    "span": "Modalidades",
+    "start_char": 2435,
+    "end_char": 2446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:22:term-usage:2538-2557",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 2538,
+    "end_char": 2557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:22:term-usage:2683-2686",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 2683,
+    "end_char": 2686
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:22:term-usage:2846-2849",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 2846,
+    "end_char": 2849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:23:term-usage:179-182",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 179,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:23:term-usage:702-705",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 702,
+    "end_char": 705
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:23:term-usage:722-729",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 722,
+    "end_char": 729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:23:term-usage:1608-1611",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 1608,
+    "end_char": 1611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:23:term-usage:1852-1855",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 1852,
+    "end_char": 1855
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:23:term-usage:1973-1976",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 1973,
+    "end_char": 1976
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:23:term-usage:2233-2252",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 2233,
+    "end_char": 2252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:23:term-usage:2509-2512",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 2509,
+    "end_char": 2512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:23:term-usage:2686-2697",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:modalidades",
+    "span": "Modalidades",
+    "start_char": 2686,
+    "end_char": 2697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:23:term-usage:2866-2869",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 2866,
+    "end_char": 2869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:24:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:25:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:25:term-usage:180-190",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 180,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:25:term-usage:201-211",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 201,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:25:term-usage:236-246",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 236,
+    "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:25:term-usage:276-286",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 276,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:25:term-usage:317-327",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 317,
+    "end_char": 327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:25:term-usage:882-889",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 882,
+    "end_char": 889
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:25:term-usage:1032-1039",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 1032,
+    "end_char": 1039
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:26:term-usage:75-82",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 75,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:27:term-usage:41-48",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 41,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:29:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:29:term-usage:27-37",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 27,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:30:term-usage:34-41",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 34,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:30:term-usage:85-88",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 85,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:31:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:31:term-usage:847-854",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 847,
+    "end_char": 854
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:31:term-usage:955-974",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 955,
+    "end_char": 974
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:31:term-usage:1032-1039",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 1032,
+    "end_char": 1039
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:31:term-usage:1178-1197",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 1178,
+    "end_char": 1197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:31:term-usage:1544-1547",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 1544,
+    "end_char": 1547
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:32:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:32:term-usage:237-244",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 237,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:33:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:33:term-usage:94-101",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 94,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:33:term-usage:265-272",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 265,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:33:term-usage:489-496",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 489,
+    "end_char": 496
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:34:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:registro-nacional",
+    "span": "Registro Nacional",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:34:term-usage:66-76",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 66,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:34:term-usage:175-182",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 175,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:34:term-usage:222-241",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 222,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:34:term-usage:491-502",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:modalidades",
+    "span": "Modalidades",
+    "start_char": 491,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:34:term-usage:687-690",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 687,
+    "end_char": 690
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:34:term-usage:730-749",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 730,
+    "end_char": 749
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:35:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:registro-nacional",
+    "span": "Registro Nacional",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:36:term-usage:248-251",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 248,
+    "end_char": 251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:37:term-usage:268-286",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centro de Atención",
+    "start_char": 268,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:38:term-usage:46-63",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:registro-nacional",
+    "span": "Registro Nacional",
+    "start_char": 46,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:38:term-usage:242-260",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centro de Atención",
+    "start_char": 242,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:39:term-usage:4-23",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 4,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:40:term-usage:38-57",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 38,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:40:term-usage:1431-1441",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1431,
+    "end_char": 1441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:40:term-usage:1450-1453",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 1450,
+    "end_char": 1453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:41:term-usage:4-23",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 4,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:41:term-usage:46-82",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:programa-interno-de-proteccion-civil",
+    "span": "Programa Interno de Protección Civil",
+    "start_char": 46,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:41:term-usage:471-482",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 471,
+    "end_char": 482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:42:term-usage:4-23",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 4,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:42:term-usage:549-568",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 549,
+    "end_char": 568
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:43:term-usage:30-49",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 30,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:43:term-usage:168-178",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 168,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:49:term-usage:553-563",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 553,
+    "end_char": 563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:49:term-usage:676-694",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centro de Atención",
+    "start_char": 676,
+    "end_char": 694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:49:term-usage:1835-1853",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centro de Atención",
+    "start_char": 1835,
+    "end_char": 1853
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:49:term-usage:2704-2714",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 2704,
+    "end_char": 2714
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:49:term-usage:2721-2724",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 2721,
+    "end_char": 2724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:49:term-usage:2797-2800",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 2797,
+    "end_char": 2800
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:49-bis:term-usage:4-23",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:49-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 4,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:50:term-usage:184-194",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 184,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:50:term-usage:243-262",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 243,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:50:term-usage:328-331",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 328,
+    "end_char": 331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:50:term-usage:804-823",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 804,
+    "end_char": 823
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:50:term-usage:1070-1073",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 1070,
+    "end_char": 1073
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:50:term-usage:1211-1221",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1211,
+    "end_char": 1221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:50:term-usage:1550-1569",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 1550,
+    "end_char": 1569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:50:term-usage:1761-1797",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:programa-interno-de-proteccion-civil",
+    "span": "Programa Interno de Protección Civil",
+    "start_char": 1761,
+    "end_char": 1797
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:50:term-usage:1847-1850",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 1847,
+    "end_char": 1850
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:50:term-usage:2521-2530",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:modalidades",
+    "span": "Modalidad",
+    "start_char": 2521,
+    "end_char": 2530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:50:term-usage:2572-2582",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 2572,
+    "end_char": 2582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:50:term-usage:2591-2594",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 2591,
+    "end_char": 2594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:50:term-usage:2673-2676",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 2673,
+    "end_char": 2676
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:51:term-usage:198-216",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centro de Atención",
+    "start_char": 198,
+    "end_char": 216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:52:term-usage:86-89",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 86,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:52:term-usage:220-223",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 220,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:52:term-usage:408-411",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 408,
+    "end_char": 411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:52:term-usage:476-494",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centro de Atención",
+    "start_char": 476,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:54:term-usage:30-49",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 30,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:56:term-usage:142-151",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:modalidades",
+    "span": "Modalidad",
+    "start_char": 142,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:56:term-usage:281-300",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 281,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:57:term-usage:30-49",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 30,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:58:term-usage:184-203",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 184,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:59:term-usage:238-241",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 238,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:60:term-usage:218-221",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 218,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:61:term-usage:188-198",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 188,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:61:term-usage:292-311",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 292,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:61:term-usage:334-337",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 334,
+    "end_char": 337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:62:term-usage:152-155",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 152,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:63:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:63:term-usage:897-900",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 897,
+    "end_char": 900
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:64:term-usage:274-293",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 274,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:65:term-usage:20-37",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:politica-nacional",
+    "span": "Política Nacional",
+    "start_char": 20,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:65:term-usage:79-107",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:desarrollo-integral-infantil",
+    "span": "Desarrollo Integral Infantil",
+    "start_char": 79,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:65:term-usage:127-134",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 127,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:66:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:67:term-usage:86-105",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 86,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:67:term-usage:639-657",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centro de Atención",
+    "start_char": 639,
+    "end_char": 657
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:69:term-usage:177-180",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 177,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:69:term-usage:242-245",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 242,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:70:term-usage:746-765",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 746,
+    "end_char": 765
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:71:term-usage:498-516",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centro de Atención",
+    "start_char": 498,
+    "end_char": 516
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:71:term-usage:1079-1097",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centro de Atención",
+    "start_char": 1079,
+    "end_char": 1097
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:72:term-usage:405-408",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 405,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:72:term-usage:483-501",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centro de Atención",
+    "start_char": 483,
+    "end_char": 501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:73:term-usage:40-43",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 40,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:73:term-usage:217-220",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 217,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:74:term-usage:55-58",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 55,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:75:term-usage:73-92",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 73,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:article:75:term-usage:104-132",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:desarrollo-integral-infantil",
+    "span": "Desarrollo Integral Infantil",
+    "start_char": 104,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:primero:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:primero",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:segundo:term-usage:41-44",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 41,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:tercero:term-usage:207-214",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 207,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:tercero:term-usage:241-244",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 241,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:tercero:term-usage:377-380",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 377,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:cuarto:term-usage:159-162",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 159,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:cuarto:term-usage:266-285",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 266,
+    "end_char": 285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:cuarto:term-usage:352-355",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 352,
+    "end_char": 355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:quinto:term-usage:158-161",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 158,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:sexto:term-usage:281-300",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 281,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:septimo:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:septimo:term-usage:34-37",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:ley",
+    "span": "Ley",
+    "start_char": 34,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:septimo:term-usage:152-171",
+    "provision_id": "urn:lex-mx:federal:statute:lgpsacdii:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgpsacdii:term:centros-de-atencion",
+    "span": "Centros de Atención",
+    "start_char": 152,
+    "end_char": 171
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lviv",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Vivienda",
+  "short_name": "LVIV",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-06-27",
+  "latest_reform_date": "2026-04-29",
+  "retrieved_at": "2026-10-14T07:47:31.404883Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LViv.pdf",
+  "source_sha256": "f6af373e0f5b95596b4e54f4ccd2e0270fcc85bd4f05fb43da775de2f53c9ff7",
+  "extracted_text_sha256": "bde9e2f8ed8950f3b2ba3ede248ec11e1d425479fd25edb4cc0d7b241769bfa1",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

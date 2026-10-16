@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Agraria en Materia de Ordenamiento de la Propiedad Rural",
+  "short_name": "REG-LAGRA-MOPR",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2012-11-28",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:49:06.336686Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_MOPR.pdf",
+  "source_sha256": "dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162",
+  "extracted_text_sha256": "55386cab2d060ba1ad0a6f92f1826ee1489a82d3d3159dcc0b2db161cb6a43a6",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

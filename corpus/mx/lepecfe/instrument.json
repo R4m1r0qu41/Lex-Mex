@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lepecfe",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad",
+  "short_name": "LEPECFE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-03-18",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:25:29.976373Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPECFE.pdf",
+  "source_sha256": "6e45ab84a076cbd9cfd5fbd8abbe5f2d88fbd767229f21f5e7327aaf692b22a5",
+  "extracted_text_sha256": "ec4c780cbf94d5e0f045e7beecbe8daecb2844c69d2b1938531c44854a36f3de",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

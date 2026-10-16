@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfca",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Cine y el Audiovisual",
+  "short_name": "LFCA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2026-05-22",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:26:22.554951Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCA.pdf",
+  "source_sha256": "29f509ea5cd695b026dca622c5cee399dc723086316b2038d061d59a4e438de2",
+  "extracted_text_sha256": "d1cb6183673cd4c043391b0fd3f19b24ed7652578d8c32a88ac8a6bf1f437bbc",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,219 @@
+{
+  "baseline_commit": "12e0cc75253076d5ccb783fd1432dcdb48695bfb",
+  "scope": "frozen source structural inspection; no legal status determination or admission",
+  "cases": [
+    {
+      "slug": "laem",
+      "replay_root": ".work/federal-followup-all-v1/shard-3/laem",
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf",
+      "source_sha256": "b007340fd742c125439e4f037c7aae09f2fe9e55f88a9f194079e0daebfc1dca",
+      "extracted_text_sha256": "a9fa0be93e6380f3c6cca70acf30cc7b6d106e9a84581054f5d671180f1886d0",
+      "article_count": 17,
+      "transitory_count": 5,
+      "all_provision_bodies_match_whitespace_normalized_source": true,
+      "reference_spans_and_local_targets_valid": true,
+      "exported_provision_ids_present": true,
+      "validation_warning_codes": [
+        "counts_not_frozen"
+      ],
+      "artifacts": {
+        "corpus/mx/laem/instrument.json": "488975b4b97c4279d207fcbadbb1aebb83bedccb6d58b6de5a9fd7d0bb130c32",
+        "corpus/mx/laem/provisions.json": "c5c323f278b263975d39e2cc839a068520559b3f23531b963bde7a30b26619cd",
+        "corpus/mx/laem/source-manifest.json": "d819c4bec56234e6355fe06ac5270363586a2e1b8571898860d3546b02c2a62f",
+        "corpus/mx/laem/validation.json": "d1984fd0425a403ed11905caea811265914b4ebc3eba4a48e63a36e04f21f84a",
+        "candidate-diff.json": "500b99239409cbc0cab5355a07d6620629995e94268b69eb65f6af17d1b0589a"
+      }
+    },
+    {
+      "slug": "lamni",
+      "replay_root": ".work/federal-followup-all-v1/shard-6/lamni",
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/19.pdf",
+      "source_sha256": "0aeca4ad89610cce814bff87e60d5cc1552f1cab232b798cf3b4da00d243d195",
+      "extracted_text_sha256": "105e20e3f8afc01ed4ccd529b18976f062b8a352985f04ee2ad553f65c9ddfe9",
+      "article_count": 4,
+      "transitory_count": 2,
+      "all_provision_bodies_match_whitespace_normalized_source": true,
+      "reference_spans_and_local_targets_valid": true,
+      "exported_provision_ids_present": true,
+      "validation_warning_codes": [
+        "counts_not_frozen"
+      ],
+      "artifacts": {
+        "corpus/mx/lamni/instrument.json": "2e3382e99ec109b72494b58403a50979ecf746013a72fc26e6cd7bcb4c42782a",
+        "corpus/mx/lamni/provisions.json": "79f973a73684f07c3f3387dcc8314d430c0c80173667b35bdc2aec77acb29be4",
+        "corpus/mx/lamni/source-manifest.json": "ddc3d5716c0f7795f7484fcfa57c704d23687a6ed557e4df847700e5d1306104",
+        "corpus/mx/lamni/validation.json": "4948ad67df46ebe15ddf65db656799f86f81b7f261984c008143ef71ffd929e7",
+        "candidate-diff.json": "113589025c57f09002845025930ff793c1a09c39a4c464892d22e37d3f9ca87b"
+      }
+    }
+  ],
+  "admission": {
+    "date": "2026-10-15",
+    "authorization": "Operator: admit; LAEM law ownership confirmed by JRH",
+    "stages": [
+      {
+        "slug": "laem",
+        "stage": "extract",
+        "exit_code": 0,
+        "stdout": "extracted 27051 UTF-8 bytes; sha256 a9fa0be93e6380f3c6cca70acf30cc7b6d106e9a84581054f5d671180f1886d0\n",
+        "stderr": ""
+      },
+      {
+        "slug": "laem",
+        "stage": "parse",
+        "exit_code": 0,
+        "stdout": "furniture audit: 0 potential finding(s), 0 blocking; report /Users/jr/Dev/lex-mex/.work/laem/furniture-audit.json\nparsed 22 canonical provisions\nextracted 1 canonical references\nextracted 0 defined terms with 0 usages\nisolated 0 reform transitories for temporal analysis\n",
+        "stderr": ""
+      },
+      {
+        "slug": "laem",
+        "stage": "link",
+        "exit_code": 0,
+        "stdout": "extracted 1 canonical references\nextracted 0 defined terms with 0 usages\n",
+        "stderr": ""
+      },
+      {
+        "slug": "laem",
+        "stage": "validate",
+        "exit_code": 0,
+        "stdout": "validation: valid; 17 articles, 5 transitories, 1 references, 0 issues\n",
+        "stderr": ""
+      },
+      {
+        "slug": "laem",
+        "stage": "export",
+        "exit_code": 0,
+        "stdout": "exported Markdown\n",
+        "stderr": ""
+      },
+      {
+        "slug": "lamni",
+        "stage": "extract",
+        "exit_code": 0,
+        "stdout": "extracted 4426 UTF-8 bytes; sha256 105e20e3f8afc01ed4ccd529b18976f062b8a352985f04ee2ad553f65c9ddfe9\n",
+        "stderr": ""
+      },
+      {
+        "slug": "lamni",
+        "stage": "parse",
+        "exit_code": 0,
+        "stdout": "furniture audit: 0 potential finding(s), 0 blocking; report /Users/jr/Dev/lex-mex/.work/lamni/furniture-audit.json\nparsed 6 canonical provisions\nextracted 1 canonical references\nextracted 0 defined terms with 0 usages\nisolated 0 reform transitories for temporal analysis\n",
+        "stderr": ""
+      },
+      {
+        "slug": "lamni",
+        "stage": "link",
+        "exit_code": 0,
+        "stdout": "extracted 1 canonical references\nextracted 0 defined terms with 0 usages\n",
+        "stderr": ""
+      },
+      {
+        "slug": "lamni",
+        "stage": "validate",
+        "exit_code": 0,
+        "stdout": "validation: valid; 4 articles, 2 transitories, 1 references, 0 issues\n",
+        "stderr": ""
+      },
+      {
+        "slug": "lamni",
+        "stage": "export",
+        "exit_code": 0,
+        "stdout": "exported Markdown\n",
+        "stderr": ""
+      }
+    ],
+    "cases": [
+      {
+        "slug": "laem",
+        "validation": {
+          "schema_version": "0.1.0",
+          "instrument_id": "urn:lex-mx:federal:statute:laem",
+          "valid": true,
+          "article_count": 17,
+          "transitory_count": 5,
+          "reference_count": 1,
+          "issues": []
+        },
+        "frozen_instrument_provisions_manifest_reform_evidence_unchanged": true,
+        "review_queue_exists": false,
+        "files_sha256": {
+          "corpus/mx/laem/instrument.json": "488975b4b97c4279d207fcbadbb1aebb83bedccb6d58b6de5a9fd7d0bb130c32",
+          "corpus/mx/laem/markdown/README.md": "d0e52410c7e0a0cf11b5d1eadc828ec7a47f5483818c94ae60a9a9e3127b9741",
+          "corpus/mx/laem/markdown/articulo-1.md": "70ad0cb747688231d19d38cca3eda6a975ba270a2670ecad7c2a267fec2d8f6b",
+          "corpus/mx/laem/markdown/articulo-10.md": "e28de1c1cc569f7523bbd5b30e38f41d0a5a7e68401023f7f27968eed67ac982",
+          "corpus/mx/laem/markdown/articulo-11.md": "236fa95eecc3741fa76a037930d162b534ce6215804dec72edc4e71fcd61587f",
+          "corpus/mx/laem/markdown/articulo-12.md": "72c23cf9de6ce57d3a98765acc8796951da448e7ed64d99cb35bfd436e00fa59",
+          "corpus/mx/laem/markdown/articulo-13.md": "cf14f96dc7c5eea56cdfa1240b9513bb8a8bd6ef0f5f821712fda9aecc63bdd9",
+          "corpus/mx/laem/markdown/articulo-14.md": "0bcee0789b7ddd09e13e2bcefd55370d87d472961647ef1bb198da3c14ab0f40",
+          "corpus/mx/laem/markdown/articulo-15.md": "78cdd8f8a6d304381280205e2d4fa939a9caac2fe3db0a8f58921f6bbe45106c",
+          "corpus/mx/laem/markdown/articulo-16.md": "01772ecce61df24dc6bee5eee005f0b06ea917862060d9bab778e8258a8fdfd1",
+          "corpus/mx/laem/markdown/articulo-17.md": "5d0972274c956f2a5bbcbc98ca5d6afe6f6509ff9d382b9d3b6dce758567f4db",
+          "corpus/mx/laem/markdown/articulo-2.md": "81b9a0863955c84b8d69b4fe86d1d52154e9c812930e52101196183568a3a285",
+          "corpus/mx/laem/markdown/articulo-3.md": "1be38112d12284d4f3767788b5ba69567f0c04cab7945779fdb65a652959acc6",
+          "corpus/mx/laem/markdown/articulo-4.md": "8e9321741b198ea7311c04816d651b03e5bc937981cca577e362bfdd375a7541",
+          "corpus/mx/laem/markdown/articulo-5.md": "4ba8208cb52d0a3550611cd24cf9c355455869e06dc4ed4b1b0e6f21fe6011d6",
+          "corpus/mx/laem/markdown/articulo-6.md": "ef54f33a51efa5155174ec45d1613793a9cfc61923383f827770ffaf2a3cdc14",
+          "corpus/mx/laem/markdown/articulo-7.md": "b22c4918f950b4b34f04d976b5998cd7cf83eb445f719a0855f4c18d4953aca2",
+          "corpus/mx/laem/markdown/articulo-8.md": "d25ff156450d4f96c84943d0e8d467f91962a43e11cc2ddd66a5554ab625d70a",
+          "corpus/mx/laem/markdown/articulo-9.md": "f0f54f28ce33ace8cc8388b0d9e31f12a0d10355b7df9697b9780476bf5e68a5",
+          "corpus/mx/laem/markdown/transitorio-cuarto.md": "ee7e142e3cbef8a9f49ea8d151af851d9a1869b98dbd3353472671f374b68c62",
+          "corpus/mx/laem/markdown/transitorio-primero.md": "f7925f7f07439d0cc854fe4622d85ab45ee85f3ea4faa1c1ef2a945afc53dede",
+          "corpus/mx/laem/markdown/transitorio-quinto.md": "e6f5e7362358f1aa6933253c8a2421cbe6339cae158f999ae9cfb26583c7e90d",
+          "corpus/mx/laem/markdown/transitorio-segundo.md": "f05e45dfbce2d4994224af9da87bf8360db34f62be68824cb284a43f95638eba",
+          "corpus/mx/laem/markdown/transitorio-tercero.md": "eda9f148beba52e80f59b1aa0a48b3c3c2ccd4bacedef55c0823eba355e14dfb",
+          "corpus/mx/laem/provisions.json": "c5c323f278b263975d39e2cc839a068520559b3f23531b963bde7a30b26619cd",
+          "corpus/mx/laem/references.json": "80418e01db099530542de8cefd950db992b87b906e7ed4f77834121e8698659f",
+          "corpus/mx/laem/reform-temporal-evidence.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+          "corpus/mx/laem/source-manifest.json": "d819c4bec56234e6355fe06ac5270363586a2e1b8571898860d3546b02c2a62f",
+          "corpus/mx/laem/term-usages.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+          "corpus/mx/laem/terms.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+          "corpus/mx/laem/validation.json": "2780941bfd0789432a3cc95618ae04644679efb9a992105d4566680ef34167dc"
+        }
+      },
+      {
+        "slug": "lamni",
+        "validation": {
+          "schema_version": "0.1.0",
+          "instrument_id": "urn:lex-mx:federal:statute:lamni",
+          "valid": true,
+          "article_count": 4,
+          "transitory_count": 2,
+          "reference_count": 1,
+          "issues": []
+        },
+        "frozen_instrument_provisions_manifest_reform_evidence_unchanged": true,
+        "review_queue_exists": false,
+        "files_sha256": {
+          "corpus/mx/lamni/instrument.json": "2e3382e99ec109b72494b58403a50979ecf746013a72fc26e6cd7bcb4c42782a",
+          "corpus/mx/lamni/markdown/README.md": "d43d5206caa82ba19ec99e5758e23ac50c92ab7c2c244b0b59f0817f5bb8ae54",
+          "corpus/mx/lamni/markdown/articulo-1o.md": "b5924f668965c94204f2d5b4bcc33cc3462fb57caf4feced40399dba90614370",
+          "corpus/mx/lamni/markdown/articulo-2o.md": "6d2de9c9f4fa0d83ce7a3cfaab9ea0f7cc261f343b1ba7d550a34e5dfd4ec3d8",
+          "corpus/mx/lamni/markdown/articulo-3o.md": "66c8957abdb809e0560fb28ffa5451acb6e15ffb99bc29ff92e3b29e5f987ab2",
+          "corpus/mx/lamni/markdown/articulo-4o.md": "6a4470eaaa8f16dea43b28c3db129ca5a17b74f29fe827e3a36f4c782499d82f",
+          "corpus/mx/lamni/markdown/transitorio-primero.md": "fac3aa8cab3de0c57906692368c3f5bc21c8d9b794f84711ba733c62f935f681",
+          "corpus/mx/lamni/markdown/transitorio-segundo.md": "094b9dc86f017a98f22a66306ce358c1e3a9da29ed1a772366a26eb2e12e2e56",
+          "corpus/mx/lamni/provisions.json": "79f973a73684f07c3f3387dcc8314d430c0c80173667b35bdc2aec77acb29be4",
+          "corpus/mx/lamni/references.json": "23c9249f32068834f8bba08e3edf434097e43063f319aeb64ee78a06d8d6eefa",
+          "corpus/mx/lamni/reform-temporal-evidence.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+          "corpus/mx/lamni/source-manifest.json": "ddc3d5716c0f7795f7484fcfa57c704d23687a6ed557e4df847700e5d1306104",
+          "corpus/mx/lamni/term-usages.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+          "corpus/mx/lamni/terms.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+          "corpus/mx/lamni/validation.json": "39bbebfc10faefabb2d53e85883e0e5aab8bb4ffdb5ce6a67c57a248c0c21048"
+        }
+      }
+    ],
+    "working_tree_instrument_count": 232,
+    "committed_baseline_instrument_count": 230,
+    "temporal_model_run": false,
+    "reverse_relink_existing_instruments": false,
+    "commit_or_push_performed": false,
+    "native_gate": {
+      "fmt": "passed",
+      "clippy_all_targets_deny_warnings": "passed",
+      "workspace_tests_passed": 250,
+      "workspace_tests_failed": 0,
+      "validate_lritf": "passed; 145/11/126; zero issues",
+      "validate_ifpe_dcg_2021": "passed; 59/4/113; zero issues"
+    }
+  }
+}

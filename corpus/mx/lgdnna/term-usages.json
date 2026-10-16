@@ -1,0 +1,1739 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:1:term-usage:832-871",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 832,
+    "end_char": 871
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:4:term-usage:1375-1395",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 1375,
+    "end_char": 1395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:4:term-usage:1402-1427",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 1402,
+    "end_char": 1427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:4:term-usage:4566-4586",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 4566,
+    "end_char": 4586
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:4:term-usage:4593-4618",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 4593,
+    "end_char": 4618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:4:term-usage:7018-7045",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 7018,
+    "end_char": 7045
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:4:term-usage:7578-7605",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 7578,
+    "end_char": 7605
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:4:term-usage:8257-8274",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-municipales",
+    "span": "Sistema Municipal",
+    "start_char": 8257,
+    "end_char": 8274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:4:term-usage:8616-8635",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:proteccion-integral",
+    "span": "Protección Integral",
+    "start_char": 8616,
+    "end_char": 8635
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:4:term-usage:8660-8679",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:proteccion-integral",
+    "span": "Protección Integral",
+    "start_char": 8660,
+    "end_char": 8679
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:19:term-usage:1208-1235",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 1208,
+    "end_char": 1235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:24:term-usage:681-701",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 681,
+    "end_char": 701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:24:term-usage:708-733",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 708,
+    "end_char": 733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:26:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:26:term-usage:30-55",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 30,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:26:term-usage:81-108",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 81,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:26:term-usage:413-433",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 413,
+    "end_char": 433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:26:term-usage:440-465",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 440,
+    "end_char": 465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:26:term-usage:1665-1685",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 1665,
+    "end_char": 1685
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:26:term-usage:1700-1725",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 1700,
+    "end_char": 1725
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:26:term-usage:1728-1748",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-municipales",
+    "span": "Sistemas Municipales",
+    "start_char": 1728,
+    "end_char": 1748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:26:term-usage:2321-2348",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 2321,
+    "end_char": 2348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:26:term-usage:3251-3271",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 3251,
+    "end_char": 3271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:26:term-usage:3277-3302",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 3277,
+    "end_char": 3302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:26:term-usage:3309-3336",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 3309,
+    "end_char": 3336
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:26:term-usage:3971-3991",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 3971,
+    "end_char": 3991
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:26:term-usage:3998-4023",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 3998,
+    "end_char": 4023
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:26:term-usage:4049-4076",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 4049,
+    "end_char": 4076
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:27:term-usage:104-131",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 104,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:27:term-usage:208-235",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 208,
+    "end_char": 235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:27:term-usage:514-540",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 514,
+    "end_char": 540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:28:term-usage:4-31",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 4,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:28:term-usage:389-416",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 389,
+    "end_char": 416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:29:term-usage:15-35",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 15,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:29:term-usage:52-77",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 52,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:29:term-usage:84-104",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-municipales",
+    "span": "Sistemas Municipales",
+    "start_char": 84,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:29:term-usage:130-157",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 130,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:29:term-usage:1085-1111",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 1085,
+    "end_char": 1111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis:term-usage:172-199",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 172,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis:term-usage:209-229",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 209,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis:term-usage:241-266",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 241,
+    "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-1:term-usage:192-218",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 192,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-1:term-usage:538-564",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 538,
+    "end_char": 564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-1:term-usage:932-959",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:centro-de-asistencia-social",
+    "span": "Centro de Asistencia Social",
+    "start_char": 932,
+    "end_char": 959
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-1:term-usage:982-1002",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 982,
+    "end_char": 1002
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-1:term-usage:1008-1033",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 1008,
+    "end_char": 1033
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-1:term-usage:1040-1067",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 1040,
+    "end_char": 1067
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-1:term-usage:2279-2305",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 2279,
+    "end_char": 2305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-2:term-usage:689-715",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-2",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 689,
+    "end_char": 715
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-2:term-usage:2759-2785",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-2",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 2759,
+    "end_char": 2785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-2:term-usage:3188-3214",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-2",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 3188,
+    "end_char": 3214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-3:term-usage:278-298",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-3",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 278,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-3:term-usage:307-332",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-3",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 307,
+    "end_char": 332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-3:term-usage:342-369",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-3",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 342,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-3:term-usage:482-502",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-3",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 482,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-3:term-usage:508-533",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-3",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 508,
+    "end_char": 533
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-3:term-usage:544-570",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-3",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 544,
+    "end_char": 570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-4:term-usage:38-65",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-4",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 38,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-4:term-usage:70-90",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-4",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 70,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-4:term-usage:99-124",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-4",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 99,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-9:term-usage:121-147",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-9",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 121,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-9:term-usage:505-531",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-9",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 505,
+    "end_char": 531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-10:term-usage:4-31",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-10",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 4,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-11:term-usage:32-52",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-11",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 32,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-12:term-usage:183-209",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-12",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 183,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-15:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-15",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-15:term-usage:29-55",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:30-bis-15",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 29,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:31:term-usage:1275-1295",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 1275,
+    "end_char": 1295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:31:term-usage:1305-1330",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 1305,
+    "end_char": 1330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:31:term-usage:2030-2050",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 2030,
+    "end_char": 2050
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:32:term-usage:825-845",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 825,
+    "end_char": 845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:32:term-usage:853-878",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 853,
+    "end_char": 878
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:32:term-usage:1248-1268",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 1248,
+    "end_char": 1268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:32:term-usage:1275-1300",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 1275,
+    "end_char": 1300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:33:term-usage:197-217",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 197,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:33:term-usage:224-249",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 224,
+    "end_char": 249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:33:term-usage:451-471",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 451,
+    "end_char": 471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:33:term-usage:478-503",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 478,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:33:term-usage:975-995",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 975,
+    "end_char": 995
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:33:term-usage:1002-1027",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 1002,
+    "end_char": 1027
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:39:term-usage:626-649",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:discriminacion-multiple",
+    "span": "Discriminación Múltiple",
+    "start_char": 626,
+    "end_char": 649
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:49:term-usage:481-520",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 481,
+    "end_char": 520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:57:term-usage:6469-6495",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 6469,
+    "end_char": 6495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:58:term-usage:1668-1692",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 1668,
+    "end_char": 1692
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:65:term-usage:458-497",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 458,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:70:term-usage:4-31",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 4,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:70:term-usage:297-324",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 297,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:80:term-usage:668-694",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 668,
+    "end_char": 694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:80:term-usage:1109-1136",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 1109,
+    "end_char": 1136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:80:term-usage:1321-1347",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 1321,
+    "end_char": 1347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:85:term-usage:232-258",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 232,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:85:term-usage:448-474",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 448,
+    "end_char": 474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:87:term-usage:205-231",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 205,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:89:term-usage:668-688",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 668,
+    "end_char": 688
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:98:term-usage:426-446",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 426,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:99:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:99:term-usage:666-691",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 666,
+    "end_char": 691
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:99:term-usage:704-724",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 704,
+    "end_char": 724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:99:term-usage:1032-1052",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 1032,
+    "end_char": 1052
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:100:term-usage:59-79",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 59,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:106:term-usage:288-314",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 288,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:106:term-usage:548-574",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 548,
+    "end_char": 574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:106:term-usage:1008-1034",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 1008,
+    "end_char": 1034
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:106:term-usage:1303-1329",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 1303,
+    "end_char": 1329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:111:term-usage:278-298",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 278,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:111:term-usage:513-539",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 513,
+    "end_char": 539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:111:term-usage:627-653",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 627,
+    "end_char": 653
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:111:term-usage:1004-1024",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 1004,
+    "end_char": 1024
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:111:term-usage:1161-1188",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 1161,
+    "end_char": 1188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:112:term-usage:4-31",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 4,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:112:term-usage:84-110",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 84,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:112:term-usage:945-972",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 945,
+    "end_char": 972
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:112:term-usage:1305-1325",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 1305,
+    "end_char": 1325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:113:term-usage:120-147",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 120,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:113:term-usage:374-401",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 374,
+    "end_char": 401
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:113:term-usage:456-482",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 456,
+    "end_char": 482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:117:term-usage:254-271",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 254,
+    "end_char": 271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:117:term-usage:415-454",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 415,
+    "end_char": 454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:117:term-usage:461-478",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 461,
+    "end_char": 478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:117:term-usage:1060-1099",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 1060,
+    "end_char": 1099
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:118:term-usage:182-199",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 182,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:118:term-usage:349-366",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 349,
+    "end_char": 366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:118:term-usage:1005-1044",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:118",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 1005,
+    "end_char": 1044
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:119:term-usage:187-201",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-local",
+    "span": "Programa Local",
+    "start_char": 187,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:119:term-usage:2091-2111",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 2091,
+    "end_char": 2111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:119:term-usage:2118-2143",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:119",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 2118,
+    "end_char": 2143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:120:term-usage:128-148",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:120",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 128,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:120:term-usage:918-943",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:120",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 918,
+    "end_char": 943
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:120:term-usage:950-970",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:120",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-municipales",
+    "span": "Sistemas Municipales",
+    "start_char": 950,
+    "end_char": 970
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:121:term-usage:134-154",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:121",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 134,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:121:term-usage:172-198",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:121",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 172,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:121:term-usage:245-272",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:121",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 245,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:121:term-usage:439-466",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:121",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 439,
+    "end_char": 466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:121:term-usage:813-840",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:121",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 813,
+    "end_char": 840
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:122:term-usage:4-31",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 4,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:122:term-usage:4303-4323",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 4303,
+    "end_char": 4323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:122:term-usage:4330-4355",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:122",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 4330,
+    "end_char": 4355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:123:term-usage:104-131",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:123",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 104,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:124:term-usage:872-892",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:124",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 872,
+    "end_char": 892
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:124:term-usage:1089-1116",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:124",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 1089,
+    "end_char": 1116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:125:term-usage:97-136",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:125",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 97,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:125:term-usage:305-344",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:125",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 305,
+    "end_char": 344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:125:term-usage:1553-1570",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:125",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 1553,
+    "end_char": 1570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:125:term-usage:1645-1662",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:125",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 1645,
+    "end_char": 1662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:126:term-usage:213-252",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 213,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:127:term-usage:3-42",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:127",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 3,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:127:term-usage:904-924",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:127",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 904,
+    "end_char": 924
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:127:term-usage:2087-2126",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:127",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 2087,
+    "end_char": 2126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:127:term-usage:2872-2911",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:127",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 2872,
+    "end_char": 2911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:127:term-usage:3537-3576",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:127",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 3537,
+    "end_char": 3576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:128:term-usage:3-42",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:128",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 3,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:129:term-usage:48-87",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:129",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 48,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:130:term-usage:30-69",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 30,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:130:term-usage:448-465",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 448,
+    "end_char": 465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:130:term-usage:593-610",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 593,
+    "end_char": 610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:130:term-usage:691-730",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 691,
+    "end_char": 730
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:130:term-usage:776-815",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 776,
+    "end_char": 815
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:130:term-usage:940-979",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 940,
+    "end_char": 979
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:130:term-usage:2144-2183",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 2144,
+    "end_char": 2183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:130:term-usage:2274-2281",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:coneval",
+    "span": "CONEVAL",
+    "start_char": 2274,
+    "end_char": 2281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:130:term-usage:2605-2630",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-de-las-entidades",
+    "span": "Sistemas de las Entidades",
+    "start_char": 2605,
+    "end_char": 2630
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:130:term-usage:2832-2871",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 2832,
+    "end_char": 2871
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:132:term-usage:17-24",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:132",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:coneval",
+    "span": "CONEVAL",
+    "start_char": 17,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:132:term-usage:259-276",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:132",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 259,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:133:term-usage:85-102",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:133",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 85,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:134:term-usage:54-61",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:134",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:coneval",
+    "span": "CONEVAL",
+    "start_char": 54,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:134:term-usage:146-185",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:134",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 146,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:135-bis:term-usage:592-612",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:135-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 592,
+    "end_char": 612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:135-bis:term-usage:911-938",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:135-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuradurías de Protección",
+    "start_char": 911,
+    "end_char": 938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:136:term-usage:52-79",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-local-de-proteccion",
+    "span": "Sistema Local de Protección",
+    "start_char": 52,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:136:term-usage:495-534",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 495,
+    "end_char": 534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:136:term-usage:685-724",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:136",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 685,
+    "end_char": 724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:137:term-usage:1501-1518",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:137",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 1501,
+    "end_char": 1518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:137:term-usage:1547-1561",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:137",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-local",
+    "span": "Programa Local",
+    "start_char": 1547,
+    "end_char": 1561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:137:term-usage:1745-1759",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:137",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-local",
+    "span": "Programa Local",
+    "start_char": 1745,
+    "end_char": 1759
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:137:term-usage:1813-1827",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:137",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-local",
+    "span": "Programa Local",
+    "start_char": 1813,
+    "end_char": 1827
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:137:term-usage:3432-3459",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:137",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-local-de-proteccion",
+    "span": "Sistema Local de Protección",
+    "start_char": 3432,
+    "end_char": 3459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:138:term-usage:4-24",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:138",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-municipales",
+    "span": "Sistemas Municipales",
+    "start_char": 4,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:138:term-usage:238-258",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:138",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistemas-municipales",
+    "span": "Sistemas Municipales",
+    "start_char": 238,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:139:term-usage:960-986",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:139",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:procuradurias-de-proteccion",
+    "span": "Procuraduría de Protección",
+    "start_char": 960,
+    "end_char": 986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:141:term-usage:189-228",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:141",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 189,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:141:term-usage:317-334",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:141",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 317,
+    "end_char": 334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:142:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:142",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:143:term-usage:161-178",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:143",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 161,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:144:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:144",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:148:term-usage:3124-3144",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:148",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 3124,
+    "end_char": 3144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:151:term-usage:910-930",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:article:151",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 910,
+    "end_char": 930
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:transitory:sexto:term-usage:213-233",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-dif",
+    "span": "Sistema Nacional DIF",
+    "start_char": 213,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:transitory:septimo:term-usage:3-42",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 3,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:transitory:septimo:term-usage:203-242",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 203,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:transitory:septimo:term-usage:509-548",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 509,
+    "end_char": 548
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:transitory:septimo:term-usage:828-867",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:sistema-nacional-de-proteccion-integral",
+    "span": "Sistema Nacional de Protección Integral",
+    "start_char": 828,
+    "end_char": 867
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:transitory:septimo:term-usage:926-943",
+    "provision_id": "urn:lex-mx:federal:statute:lgdnna:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgdnna:term:programa-nacional",
+    "span": "Programa Nacional",
+    "start_char": 926,
+    "end_char": 943
+  }
+]

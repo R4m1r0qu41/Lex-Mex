@@ -1,0 +1,17 @@
+{
+  "slug": "lfdeapd",
+  "instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas",
+  "short_name": "LFDEAPD",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDEAPD.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdeapd.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lupdecr:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lupdecr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:2",
+    "fraction": "I",
+    "start_char": 200,
+    "end_char": 288,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lupdecr:term:senales-distintivas",
+    "term": "Señales Distintivas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lupdecr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:2",
+    "fraction": "II",
+    "start_char": 288,
+    "end_char": 828,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lupdecr:term:uso-indebido",
+    "term": "Uso Indebido",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lupdecr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:2",
+    "fraction": "III",
+    "start_char": 828,
+    "end_char": 1077,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lupdecr:term:tareas-sanitarias",
+    "term": "Tareas Sanitarias",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lupdecr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lupdecr:article:2",
+    "fraction": "IV",
+    "start_char": 1077,
+    "end_char": 1303,
+    "basis": "express_definition"
+  }
+]

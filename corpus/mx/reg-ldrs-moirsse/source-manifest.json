@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LDRS_MOIRSSE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LDRS_MOIRSSE.pdf",
+  "retrieved_at": "2026-10-14T07:50:11.646162Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 241310,
+  "etag": "\"3ae9e-563b487d99500\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:08 GMT",
+  "source_sha256": "4da07bf61648a9d04725e2d49db4d867b7882c9bf2ed5d794bde76b64491cddf",
+  "extracted_text_sha256": "59aa97baf4ea19497d70962cfcd99ee876ad9a152a74f452852beadd84942d66",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

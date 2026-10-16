@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgimh",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGISMH.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgimh.htm",
+  "retrieved_at": "2026-10-14T07:33:16.130386Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 614121,
+  "etag": "\"95ee9-64917c95302c0\"",
+  "last_modified": "Sat, 24 Jan 2026 00:59:31 GMT",
+  "source_sha256": "51f28ed8bbe83b9f62cf9a88705a4c40b1b9a18d2036e2381ee97933881f3a44",
+  "extracted_text_sha256": "78677ba14e445059e2d160cad9c9882b9df1f282ecf647ae3a829089e560d10f",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

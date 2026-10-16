@@ -1,0 +1,46 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:asamblea",
+    "term": "Asamblea",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:3",
+    "fraction": "I",
+    "start_char": 56,
+    "end_char": 117,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:3",
+    "fraction": "II",
+    "start_char": 117,
+    "end_char": 145,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:parcela",
+    "term": "Parcela",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:3",
+    "fraction": "III",
+    "start_char": 145,
+    "end_char": 320,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:term:unidad",
+    "term": "Unidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-fodmc:article:3",
+    "fraction": "IV",
+    "start_char": 320,
+    "end_char": 375,
+    "basis": "express_definition"
+  }
+]

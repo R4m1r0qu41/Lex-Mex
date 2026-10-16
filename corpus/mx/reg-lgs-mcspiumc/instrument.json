@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de Salud en Materia de Control Sanitario para la Producción, Investigación y Uso Medicinal de la Cannabis y sus Derivados Farmacológicos",
+  "short_name": "REG-LGS-MCSPIUMC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2021-01-12",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:58:47.175088Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSPIUMC_120121.pdf",
+  "source_sha256": "2cc4bd6de7ab80102fae680a7017a0876b062f7999f7e33916b853cc8296cb19",
+  "extracted_text_sha256": "ad341d2c1f40de76d176d48c3504248b15a76b4d6c5f7c8904ef913f369dce2f",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

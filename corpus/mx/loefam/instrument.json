@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:loefam",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
+  "short_name": "LOEFAM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1986-12-26",
+  "latest_reform_date": "2025-07-16",
+  "retrieved_at": "2026-10-14T07:39:52.668727Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOEFAM.pdf",
+  "source_sha256": "6edcf3cbe4e1e01dd12e691d672534d0d2e22028f7bf81c46ecf9e6f4c9148c7",
+  "extracted_text_sha256": "435eac1e2fce6ad29847bc9957201cacfa54ba1ef3e335160ed2d2f774a16ea4",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

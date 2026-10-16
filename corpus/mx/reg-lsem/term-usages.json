@@ -1,0 +1,1145 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:3:term-usage:3-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 3,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:4:term-usage:472-491",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 472,
+    "end_char": 491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:4:term-usage:1409-1426",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-temporal",
+    "span": "Personal Temporal",
+    "start_char": 1409,
+    "end_char": 1426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:4:term-usage:1649-1668",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 1649,
+    "end_char": 1668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:4:term-usage:2296-2307",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 2296,
+    "end_char": 2307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:4:term-usage:2816-2833",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-temporal",
+    "span": "Personal Temporal",
+    "start_char": 2816,
+    "end_char": 2833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:4:term-usage:3276-3308",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 3276,
+    "end_char": 3308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:4:term-usage:3610-3621",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 3610,
+    "end_char": 3621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:4:term-usage:3909-3926",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-temporal",
+    "span": "Personal Temporal",
+    "start_char": 3909,
+    "end_char": 3926
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:4:term-usage:4047-4058",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 4047,
+    "end_char": 4058
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:4:term-usage:4103-4120",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-temporal",
+    "span": "Personal Temporal",
+    "start_char": 4103,
+    "end_char": 4120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:5:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-asimilado",
+    "span": "Personal Asimilado",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:5:term-usage:235-253",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-asimilado",
+    "span": "Personal Asimilado",
+    "start_char": 235,
+    "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:7:term-usage:166-184",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-asimilado",
+    "span": "Personal Asimilado",
+    "start_char": 166,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:8:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-asimilado",
+    "span": "Personal Asimilado",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:8:term-usage:99-118",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 99,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:8:term-usage:149-181",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 149,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:8:term-usage:593-611",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-asimilado",
+    "span": "Personal Asimilado",
+    "start_char": 593,
+    "end_char": 611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:9:term-usage:93-110",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-temporal",
+    "span": "Personal Temporal",
+    "start_char": 93,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:10:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-temporal",
+    "span": "Personal Temporal",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:17:term-usage:73-84",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 73,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:21:term-usage:598-609",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 598,
+    "end_char": 609
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:23:term-usage:4-41",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefes o Titulares de Representaciones",
+    "start_char": 4,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:23:term-usage:240-277",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefes o Titulares de Representaciones",
+    "start_char": 240,
+    "end_char": 277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:24:term-usage:3-35",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 3,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:24:term-usage:730-762",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 730,
+    "end_char": 762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:24:term-usage:873-905",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 873,
+    "end_char": 905
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:27:term-usage:354-386",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 354,
+    "end_char": 386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:28:term-usage:246-278",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 246,
+    "end_char": 278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:30:term-usage:29-61",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 29,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:30:term-usage:187-219",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 187,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:30:term-usage:284-295",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 284,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:32:term-usage:32-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefes o Titulares de Representaciones",
+    "start_char": 32,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:32:term-usage:352-371",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 352,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:32:term-usage:463-482",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 463,
+    "end_char": 482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:33:term-usage:521-540",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 521,
+    "end_char": 540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:33-bis:term-usage:246-278",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:33-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 246,
+    "end_char": 278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:40:term-usage:882-901",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 882,
+    "end_char": 901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:40:term-usage:1977-1988",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 1977,
+    "end_char": 1988
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:42:term-usage:512-523",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 512,
+    "end_char": 523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:42:term-usage:550-563",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripciones",
+    "start_char": 550,
+    "end_char": 563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:42:term-usage:948-959",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 948,
+    "end_char": 959
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:42:term-usage:2703-2720",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-temporal",
+    "span": "Personal Temporal",
+    "start_char": 2703,
+    "end_char": 2720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:44:term-usage:17-36",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 17,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:48:term-usage:270-281",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 270,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:51:term-usage:17-36",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 17,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:56:term-usage:3-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 3,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:59:term-usage:167-186",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 167,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:61:term-usage:273-284",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 273,
+    "end_char": 284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:61:term-usage:1205-1216",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 1205,
+    "end_char": 1216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:61:term-usage:1380-1391",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 1380,
+    "end_char": 1391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:63:term-usage:145-177",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 145,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:63:term-usage:790-822",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 790,
+    "end_char": 822
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:63:term-usage:1107-1139",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 1107,
+    "end_char": 1139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:63:term-usage:1356-1374",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-asimilado",
+    "span": "Personal Asimilado",
+    "start_char": 1356,
+    "end_char": 1374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:69:term-usage:93-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:69",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripciones",
+    "start_char": 93,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:69:term-usage:256-267",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:69",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 256,
+    "end_char": 267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:70:term-usage:4-41",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefes o Titulares de Representaciones",
+    "start_char": 4,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:72:term-usage:3-35",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 3,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:79:term-usage:247-258",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 247,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:92:term-usage:543-580",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefes o Titulares de Representaciones",
+    "start_char": 543,
+    "end_char": 580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:93:term-usage:92-111",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 92,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:93:term-usage:128-165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefes o Titulares de Representaciones",
+    "start_char": 128,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:94:term-usage:111-122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 111,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:94:term-usage:156-175",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 156,
+    "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:94:term-usage:395-414",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 395,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:94:term-usage:891-904",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripciones",
+    "start_char": 891,
+    "end_char": 904
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:94:term-usage:1064-1083",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 1064,
+    "end_char": 1083
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:94:term-usage:1122-1133",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 1122,
+    "end_char": 1133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:94:term-usage:1170-1202",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 1170,
+    "end_char": 1202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:94:term-usage:2295-2308",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripciones",
+    "start_char": 2295,
+    "end_char": 2308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:94:term-usage:2607-2626",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 2607,
+    "end_char": 2626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:94:term-usage:2633-2670",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefes o Titulares de Representaciones",
+    "start_char": 2633,
+    "end_char": 2670
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:94:term-usage:2966-2985",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 2966,
+    "end_char": 2985
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:94:term-usage:3074-3085",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 3074,
+    "end_char": 3085
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:95:term-usage:260-297",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefes o Titulares de Representaciones",
+    "start_char": 260,
+    "end_char": 297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:96:term-usage:756-767",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:96",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 756,
+    "end_char": 767
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:96:term-usage:814-851",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:96",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefes o Titulares de Representaciones",
+    "start_char": 814,
+    "end_char": 851
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:96:term-usage:1247-1258",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:96",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 1247,
+    "end_char": 1258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:97:term-usage:301-333",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:97",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 301,
+    "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:99:term-usage:3-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 3,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:99:term-usage:30-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripciones",
+    "start_char": 30,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:99:term-usage:232-243",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 232,
+    "end_char": 243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:99:term-usage:334-345",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 334,
+    "end_char": 345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:99:term-usage:555-566",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 555,
+    "end_char": 566
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:99:term-usage:640-653",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripciones",
+    "start_char": 640,
+    "end_char": 653
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:99:term-usage:716-729",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripciones",
+    "start_char": 716,
+    "end_char": 729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:99:term-usage:880-891",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 880,
+    "end_char": 891
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:99:term-usage:1148-1185",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefes o Titulares de Representaciones",
+    "start_char": 1148,
+    "end_char": 1185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:100:term-usage:273-284",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 273,
+    "end_char": 284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:100:term-usage:545-582",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefes o Titulares de Representaciones",
+    "start_char": 545,
+    "end_char": 582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:100:term-usage:1071-1084",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripciones",
+    "start_char": 1071,
+    "end_char": 1084
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:100:term-usage:1344-1357",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripciones",
+    "start_char": 1344,
+    "end_char": 1357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:101:term-usage:184-197",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:101",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripciones",
+    "start_char": 184,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:101:term-usage:613-645",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:101",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 613,
+    "end_char": 645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:101:term-usage:755-787",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:101",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 755,
+    "end_char": 787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:101:term-usage:1174-1187",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:101",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripciones",
+    "start_char": 1174,
+    "end_char": 1187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:108:term-usage:78-110",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 78,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:109:term-usage:142-153",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 142,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:109:term-usage:1123-1134",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 1123,
+    "end_char": 1134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:109:term-usage:1219-1238",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 1219,
+    "end_char": 1238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:109:term-usage:1245-1262",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-temporal",
+    "span": "Personal Temporal",
+    "start_char": 1245,
+    "end_char": 1262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:110:term-usage:192-203",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 192,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:110:term-usage:358-369",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 358,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:111:term-usage:4-41",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:111",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefes o Titulares de Representaciones",
+    "start_char": 4,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:111:term-usage:330-367",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:111",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefes o Titulares de Representaciones",
+    "start_char": 330,
+    "end_char": 367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:112:term-usage:4-41",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefes o Titulares de Representaciones",
+    "start_char": 4,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:117:term-usage:427-446",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 427,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:117:term-usage:533-544",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 533,
+    "end_char": 544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:117:term-usage:813-824",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 813,
+    "end_char": 824
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:117:term-usage:861-872",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 861,
+    "end_char": 872
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:120:term-usage:305-316",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 305,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:120:term-usage:956-967",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 956,
+    "end_char": 967
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:122:term-usage:1101-1112",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 1101,
+    "end_char": 1112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:123:term-usage:510-521",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 510,
+    "end_char": 521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:123:term-usage:605-616",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 605,
+    "end_char": 616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:123:term-usage:973-984",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 973,
+    "end_char": 984
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:123:term-usage:1394-1405",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 1394,
+    "end_char": 1405
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:128:term-usage:3-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 3,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:128:term-usage:374-393",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-de-carrera",
+    "span": "Personal de Carrera",
+    "start_char": 374,
+    "end_char": 393
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:131:term-usage:519-551",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:jefe-o-titular-de-representacion",
+    "span": "Jefe o Titular de Representación",
+    "start_char": 519,
+    "end_char": 551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:137:term-usage:1190-1201",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 1190,
+    "end_char": 1201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:139:term-usage:318-329",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:139",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 318,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:142:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:142",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:personal-temporal",
+    "span": "Personal Temporal",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:149:term-usage:3090-3101",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:149",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 3090,
+    "end_char": 3101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:157:term-usage:574-585",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:157",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 574,
+    "end_char": 585
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsem:transitory:cuarto:term-usage:22-33",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsem:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsem:term:adscripcion",
+    "span": "Adscripción",
+    "start_char": 22,
+    "end_char": 33
+  }
+]

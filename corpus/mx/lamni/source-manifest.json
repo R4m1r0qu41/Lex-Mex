@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lamni",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/19.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamni.htm",
+  "retrieved_at": "2026-10-14T07:21:53.584789Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 190594,
+  "etag": "\"2e882-5763cf5697dc0\"",
+  "last_modified": "Wed, 19 Sep 2018 17:44:31 GMT",
+  "source_sha256": "0aeca4ad89610cce814bff87e60d5cc1552f1cab232b798cf3b4da00d243d195",
+  "extracted_text_sha256": "105e20e3f8afc01ed4ccd529b18976f062b8a352985f04ee2ad553f65c9ddfe9",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

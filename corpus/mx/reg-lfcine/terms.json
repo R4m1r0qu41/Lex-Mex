@@ -1,0 +1,101 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcine",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+    "fraction": "I",
+    "start_char": 55,
+    "end_char": 98,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcine",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+    "fraction": "II",
+    "start_char": 98,
+    "end_char": 141,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcine",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+    "fraction": "III",
+    "start_char": 141,
+    "end_char": 189,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:term:direccion-general",
+    "term": "Dirección General",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcine",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+    "fraction": "IV",
+    "start_char": 189,
+    "end_char": 306,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:term:instituto",
+    "term": "Instituto",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcine",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+    "fraction": "V",
+    "start_char": 306,
+    "end_char": 404,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:term:conaculta",
+    "term": "CONACULTA",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcine",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+    "fraction": "VI",
+    "start_char": 404,
+    "end_char": 508,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:term:imcine",
+    "term": "IMCINE",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcine",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+    "fraction": "VII",
+    "start_char": 508,
+    "end_char": 563,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:term:cineteca",
+    "term": "Cineteca",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcine",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+    "fraction": "VIII",
+    "start_char": 563,
+    "end_char": 602,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcine:term:fidecine",
+    "term": "FIDECINE",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcine",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfcine:article:3",
+    "fraction": "IX",
+    "start_char": 602,
+    "end_char": 715,
+    "basis": "express_definition"
+  }
+]

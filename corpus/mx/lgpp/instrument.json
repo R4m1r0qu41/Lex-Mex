@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgpp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Partidos Políticos",
+  "short_name": "LGPP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-05-23",
+  "latest_reform_date": "2023-03-02",
+  "retrieved_at": "2026-10-14T07:35:36.242546Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPP.pdf",
+  "source_sha256": "9163f0826f44c965b6d478e69c2bf0deb8795108104c3d7dddf6d11e511199b3",
+  "extracted_text_sha256": "ec9a1f5566523ac520b8c4f82c87a80b9f2f9eba6a3fb75d77acab95a88641aa",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

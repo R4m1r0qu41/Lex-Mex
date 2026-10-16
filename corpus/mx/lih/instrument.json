@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lih",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Ingresos sobre Hidrocarburos",
+  "short_name": "LIH",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-08-11",
+  "latest_reform_date": "2025-03-18",
+  "retrieved_at": "2026-10-14T07:37:32.578651Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf",
+  "source_sha256": "8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6",
+  "extracted_text_sha256": "7ca9dadc877086ab1f8b479ac85964b61ddb5b618f5ea21d1d6bcb2000be9afe",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

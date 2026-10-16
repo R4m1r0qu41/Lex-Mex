@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lfrt-mcpctrt:article:39
+instrument_id: urn:lex-mx:federal:regulation:reg-lfrt-mcpctrt
+instrument: REG-LFRT-MCPCTRT
+name: "Reglamento de la Ley Federal de Radio y Televisión, en Materia de Concesiones, Permisos y Contenido de las Transmisiones de Radio y Televisión"
+provision_type: article
+number: "39"
+aliases: ["REG-LFRT-MCPCTRT — Artículo 39"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFRT_MCPCTRT.pdf
+source_sha256: 73855d6591afa63747195c80772404550f8fd6d9a1d9fa82ef7a14ec9583fe6e
+---
+
+> Título SEXTO
+
+# Artículo 39
+
+La propaganda comercial que se transmita por estaciones de radio o televisión, deberá mantener un prudente equilibrio entre el tiempo destinado al anuncio comercial y el conjunto de la programación.

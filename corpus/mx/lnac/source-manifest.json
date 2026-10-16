@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lnac",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/53.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnac.htm",
+  "retrieved_at": "2026-10-14T07:39:04.442755Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 434236,
+  "etag": "\"6a03c-5766acb103040\"",
+  "last_modified": "Sat, 22 Sep 2018 00:25:29 GMT",
+  "source_sha256": "0d1600be2162e00dfec7505d7ce4c23ec2e29f43e298bc94e7301146eead38f7",
+  "extracted_text_sha256": "a6b7dedf48385c864e4189473c22de1366c8834a09c027f1ebdcfb3d1ff23247",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

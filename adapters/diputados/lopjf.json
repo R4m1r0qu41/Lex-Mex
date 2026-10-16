@@ -1,0 +1,17 @@
+{
+  "slug": "lopjf",
+  "instrument_id": "urn:lex-mx:federal:statute:lopjf",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Orgánica del Poder Judicial de la Federación",
+  "short_name": "LOPJF",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopjf.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

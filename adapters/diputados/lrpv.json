@@ -1,0 +1,17 @@
+{
+  "slug": "lrpv",
+  "instrument_id": "urn:lex-mx:federal:statute:lrpv",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley del Registro Público Vehicular",
+  "short_name": "LRPV",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/269_200521.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpv.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

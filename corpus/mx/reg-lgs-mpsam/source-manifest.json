@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MPSAM_170718.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MPSAM_170718.pdf",
+  "retrieved_at": "2026-10-14T07:58:57.136667Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 582671,
+  "etag": "\"8e40f-5714bb6eca040\"",
+  "last_modified": "Wed, 18 Jul 2018 20:14:49 GMT",
+  "source_sha256": "d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7",
+  "extracted_text_sha256": "bbe758791b70be3869820d12586fc61a756da53802e5be70e2d8544d6449c987",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

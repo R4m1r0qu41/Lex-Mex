@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgmhcti",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMHCTI.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmhcti.htm",
+  "retrieved_at": "2026-10-14T07:34:27.114919Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 660681,
+  "etag": "\"a14c9-6004d096ec4c0\"",
+  "last_modified": "Wed, 12 Jul 2023 16:52:11 GMT",
+  "source_sha256": "5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847",
+  "extracted_text_sha256": "3393b0de9b380cecb59b62c161d9660cd1eb476d59637f72766c2ddea2ac4b99",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

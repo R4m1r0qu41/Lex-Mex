@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lcnp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley para Conservar la Neutralidad del País",
+  "short_name": "LCNP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1939-11-10",
+  "latest_reform_date": "2018-06-21",
+  "retrieved_at": "2026-10-14T07:23:38.639163Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf",
+  "source_sha256": "b1de107a982a73c02c12c952586d16063c9fc51c8e1e29594924f24d0107395a",
+  "extracted_text_sha256": "a13332f0a4185494c22eaeed3b96ee21492fecc02265e9f02f5739afcc6d2260",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lamni:article:1",
+    "instrument_id": "urn:lex-mx:federal:statute:lamni",
+    "provision_type": "article",
+    "label": "Artículo 1o",
+    "number": "1o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Se decreta amnistía en favor de todas las personas en contra de quienes se haya ejercitado o pudiere ejercitarse acción penal ante los tribunales del orden federal, por los delitos cometidos con motivo de los hechos de violencia, o que tengan relación con ellos, suscitados en varios municipios del Estado de Chiapas el día primero de enero de mil novecientos noventa y cuatro al día veinte del mismo mes y año, a las quince horas.\n\nEl Ejecutivo Federal integrará una Comisión que coordinará los actos de aplicación de la presente Ley.",
+    "publication_date": "1994-01-22",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lamni:article:2",
+    "instrument_id": "urn:lex-mx:federal:statute:lamni",
+    "provision_type": "article",
+    "label": "Artículo 2o",
+    "number": "2o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Los individuos que se encuentren actualmente sustraídos a la acción de la justicia, dentro o fuera del país, por los delitos a que se refiere el artículo 1o., podrán beneficiarse de la amnistía, condicionada a la entrega de rehenes y de todo tipo de armas, explosivos, instrumentos u otros objetos empleados en la realización de los mismos, en los términos que fije la Comisión.",
+    "publication_date": "1994-01-22",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lamni:article:3",
+    "instrument_id": "urn:lex-mx:federal:statute:lamni",
+    "provision_type": "article",
+    "label": "Artículo 3o",
+    "number": "3o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La amnistía extingue las acciones penales y las sanciones impuestas respecto de los delitos que comprende, dejando subsistente la responsabilidad civil y a salvo los derechos de quienes puedan exigirla.\n\nEn el caso de que se hubiere interpuesto demanda de amparo por las personas a quienes beneficia esta Ley, la autoridad que conozca del respectivo juicio dictará auto de sobreseimiento.\n\nLos efectos a que se refiere este artículo se producirán a partir de que la Comisión declare la cesación definitiva de los actos de hostilidad.",
+    "publication_date": "1994-01-22",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lamni:article:4",
+    "instrument_id": "urn:lex-mx:federal:statute:lamni",
+    "provision_type": "article",
+    "label": "Artículo 4o",
+    "number": "4o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Las personas a quienes aproveche esta Ley, no podrán en lo futuro ser interrogadas, investigadas, citadas a comparecer, detenidas, aprehendidas, procesadas o molestadas de manera alguna por los hechos que comprende esta amnistía.",
+    "publication_date": "1994-01-22",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lamni:transitory:primero",
+    "instrument_id": "urn:lex-mx:federal:statute:lamni",
+    "provision_type": "transitory",
+    "label": "PRIMERO",
+    "number": "PRIMERO",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Esta Ley entrará en vigor el día de su publicación en el Diario Oficial de la Federación.",
+    "publication_date": "1994-01-22",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lamni:transitory:segundo",
+    "instrument_id": "urn:lex-mx:federal:statute:lamni",
+    "provision_type": "transitory",
+    "label": "SEGUNDO",
+    "number": "SEGUNDO",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Esta Ley deberá ser fijada en bandos en las diversas poblaciones que se encuentran en la zona de conflicto tanto en idioma español, como en las lenguas que se hablen en dicho territorio.",
+    "publication_date": "1994-01-22",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  }
+]

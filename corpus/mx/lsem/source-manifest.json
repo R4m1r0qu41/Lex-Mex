@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lsem",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/96_190418.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem.htm",
+  "retrieved_at": "2026-10-14T07:45:07.863194Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 637876,
+  "etag": "\"9bbb4-57964619e2d40\"",
+  "last_modified": "Mon, 29 Oct 2018 21:02:05 GMT",
+  "source_sha256": "012a7b3a18d987229f48c98a36b9b9cf91f5227b5e888ff09f535fd609e31c21",
+  "extracted_text_sha256": "37104b5abb519419da692624f78b4698796a28af3dfbd9468f26d17b9ffd570d",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

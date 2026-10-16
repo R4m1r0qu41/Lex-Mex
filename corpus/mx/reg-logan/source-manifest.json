@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-logan",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOGan.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOGan.pdf",
+  "retrieved_at": "2026-10-14T08:01:43.875759Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 359083,
+  "etag": "\"57aab-563b4879c8c00\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:04 GMT",
+  "source_sha256": "0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded",
+  "extracted_text_sha256": "7b936a04ce69c0eac39b3ad700625c0a043afcc86f041ded0ed4de5bc174bb1a",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

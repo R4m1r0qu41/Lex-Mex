@@ -1,0 +1,17 @@
+{
+  "slug": "lram",
+  "instrument_id": "urn:lex-mx:federal:statute:lram",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Recompensas de la Armada de México",
+  "short_name": "LRAM",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lram.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

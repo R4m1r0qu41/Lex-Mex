@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgamvlv.htm",
+  "retrieved_at": "2026-10-14T07:30:52.109358Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 903623,
+  "etag": "\"dc9c7-6491a2d678400\"",
+  "last_modified": "Sat, 24 Jan 2026 03:50:40 GMT",
+  "source_sha256": "9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535",
+  "extracted_text_sha256": "2a52abac7a4474a9e2eca9654aa74736cab5dbe0af85affc24a9d6a5279b9b8d",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

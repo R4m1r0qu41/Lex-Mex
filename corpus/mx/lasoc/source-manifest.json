@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lasoc",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LASoc.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lasoc.htm",
+  "retrieved_at": "2026-10-14T07:22:16.123086Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 429571,
+  "etag": "\"68e03-617e6efe5ddc0\"",
+  "last_modified": "Wed, 08 May 2024 01:08:15 GMT",
+  "source_sha256": "d8e73214cb24d2de425b58971ee1f4ff50a7ae1b7eeeff05c929649818601228",
+  "extracted_text_sha256": "6bb2f16609cc4352ed7b55c15b675afebc6f5d31e1d693d9c0fa08a60327bd59",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

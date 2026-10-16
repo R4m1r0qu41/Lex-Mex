@@ -1,0 +1,944 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:103:reference:1443-1460:102:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:103",
+    "source_span": "artículo anterior",
+    "start_char": 1443,
+    "end_char": 1460,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:102",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y II",
+        "start_char": 1421,
+        "end_char": 1438
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:105:reference:353-356:115:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:105",
+    "source_span": "115",
+    "start_char": 353,
+    "end_char": 356,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:115",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:107:reference:3207-3210:111:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:107",
+    "source_span": "111",
+    "start_char": 3207,
+    "end_char": 3210,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:111",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:114:reference:272-275:111:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:114",
+    "source_span": "111",
+    "start_char": 272,
+    "end_char": 275,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:111",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:12-h:reference:53-57:12-b:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:12-h",
+    "source_span": "12-B",
+    "start_char": 53,
+    "end_char": 57,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:12-b",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:12-i:reference:1092-1109:12-h:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:12-i",
+    "source_span": "artículo anterior",
+    "start_char": 1092,
+    "end_char": 1109,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:12-h",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:123:reference:200-217:122:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:123",
+    "source_span": "artículo anterior",
+    "start_char": 200,
+    "end_char": 217,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:122",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:133:reference:1314-1317:154:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:133",
+    "source_span": "154",
+    "start_char": 1314,
+    "end_char": 1317,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:154",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:135:reference:894-911:134:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:135",
+    "source_span": "artículo anterior",
+    "start_char": 894,
+    "end_char": 911,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:134",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:135:reference:1571-1574:155:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:135",
+    "source_span": "155",
+    "start_char": 1571,
+    "end_char": 1574,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:155",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:138:reference:3185-3188:111:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:138",
+    "source_span": "111",
+    "start_char": 3185,
+    "end_char": 3188,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:111",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:138:reference:3266-3268:138:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:138",
+    "source_span": "II",
+    "start_char": 3266,
+    "end_char": 3268,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:138",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 3266,
+        "end_char": 3268
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:138:reference:3276-3278:138:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:138",
+    "source_span": "IV",
+    "start_char": 3276,
+    "end_char": 3278,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:138",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "IV",
+        "start_char": 3276,
+        "end_char": 3278
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:141:reference:578-580:30:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:141",
+    "source_span": "30",
+    "start_char": 578,
+    "end_char": 580,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:30",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:144:reference:443-446:111:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:144",
+    "source_span": "111",
+    "start_char": 443,
+    "end_char": 446,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:111",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:145:reference:118-135:144:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:145",
+    "source_span": "artículo anterior",
+    "start_char": 118,
+    "end_char": 135,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:144",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones V o VI",
+        "start_char": 96,
+        "end_char": 113
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:169:reference:25-26:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:169",
+    "source_span": "4",
+    "start_char": 25,
+    "end_char": 26,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:4",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:17:reference:852-854:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:17",
+    "source_span": "15",
+    "start_char": 852,
+    "end_char": 854,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:15",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:176:reference:2170-2173:174:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:176",
+    "source_span": "174",
+    "start_char": 2170,
+    "end_char": 2173,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:174",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 2142,
+        "end_char": 2156
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:179:reference:790-793:142:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:179",
+    "source_span": "142",
+    "start_char": 790,
+    "end_char": 793,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:142",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:181:reference:635-638:178:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:181",
+    "source_span": "178",
+    "start_char": 635,
+    "end_char": 638,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:178",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:182:reference:52-55:178:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:182",
+    "source_span": "178",
+    "start_char": 52,
+    "end_char": 55,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:178",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:183:reference:416-434:184:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:183",
+    "source_span": "artículo siguiente",
+    "start_char": 416,
+    "end_char": 434,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:184",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:183:reference:1253-1256:193:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:183",
+    "source_span": "193",
+    "start_char": 1253,
+    "end_char": 1256,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:193",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:192:reference:28-45:191:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:192",
+    "source_span": "artículo anterior",
+    "start_char": 28,
+    "end_char": 45,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:191",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:212:reference:227-228:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:212",
+    "source_span": "5",
+    "start_char": 227,
+    "end_char": 228,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:5",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:215:reference:29-46:214:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:215",
+    "source_span": "artículo anterior",
+    "start_char": 29,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:214",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:218:reference:85-88:215:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:218",
+    "source_span": "215",
+    "start_char": 85,
+    "end_char": 88,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:215",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224:reference:755-756:224:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224",
+    "source_span": "I",
+    "start_char": 755,
+    "end_char": 756,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "I",
+        "start_char": 755,
+        "end_char": 756
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224:reference:758-760:224:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224",
+    "source_span": "II",
+    "start_char": 758,
+    "end_char": 760,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 758,
+        "end_char": 760
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224:reference:762-765:224:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224",
+    "source_span": "III",
+    "start_char": 762,
+    "end_char": 765,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "III",
+        "start_char": 762,
+        "end_char": 765
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224:reference:767-769:224:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224",
+    "source_span": "IV",
+    "start_char": 767,
+    "end_char": 769,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "IV",
+        "start_char": 767,
+        "end_char": 769
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224:reference:771-772:224:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224",
+    "source_span": "V",
+    "start_char": 771,
+    "end_char": 772,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "V",
+        "start_char": 771,
+        "end_char": 772
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224:reference:774-776:224:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224",
+    "source_span": "VI",
+    "start_char": 774,
+    "end_char": 776,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "VI",
+        "start_char": 774,
+        "end_char": 776
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224:reference:778-781:224:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224",
+    "source_span": "VII",
+    "start_char": 778,
+    "end_char": 781,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "VII",
+        "start_char": 778,
+        "end_char": 781
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224:reference:784-788:224:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224",
+    "source_span": "VIII",
+    "start_char": 784,
+    "end_char": 788,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:224",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "VIII",
+        "start_char": 784,
+        "end_char": 788
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:243:reference:967-970:244:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:243",
+    "source_span": "244",
+    "start_char": 967,
+    "end_char": 970,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:244",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 942,
+        "end_char": 953
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:247:reference:181-183:42:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:247",
+    "source_span": "42",
+    "start_char": 181,
+    "end_char": 183,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:42",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 185,
+        "end_char": 195
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:28:reference:247-264:27:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:28",
+    "source_span": "artículo anterior",
+    "start_char": 247,
+    "end_char": 264,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:27",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:42:reference:1047-1048:42:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:42",
+    "source_span": "V",
+    "start_char": 1047,
+    "end_char": 1048,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:42",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "V",
+        "start_char": 1047,
+        "end_char": 1048
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:44:reference:171-188:43:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:44",
+    "source_span": "artículo anterior",
+    "start_char": 171,
+    "end_char": 188,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:43",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:47:reference:194-196:42:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:47",
+    "source_span": "42",
+    "start_char": 194,
+    "end_char": 196,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:42",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:53:reference:560-562:42:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:53",
+    "source_span": "42",
+    "start_char": 560,
+    "end_char": 562,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:42",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 564,
+        "end_char": 574
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:62:reference:218-220:63:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:62",
+    "source_span": "63",
+    "start_char": 218,
+    "end_char": 220,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:63",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:62:reference:769-771:63:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:62",
+    "source_span": "63",
+    "start_char": 769,
+    "end_char": 771,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:63",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 745,
+        "end_char": 755
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:62:reference:1057-1059:63:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:62",
+    "source_span": "63",
+    "start_char": 1057,
+    "end_char": 1059,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:63",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II, III y IV",
+        "start_char": 1020,
+        "end_char": 1043
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:63:reference:1157-1159:62:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:63",
+    "source_span": "62",
+    "start_char": 1157,
+    "end_char": 1159,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:62",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:64:reference:214-216:62:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:64",
+    "source_span": "62",
+    "start_char": 214,
+    "end_char": 216,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:62",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 188,
+        "end_char": 200
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:65:reference:150-152:37:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:65",
+    "source_span": "37",
+    "start_char": 150,
+    "end_char": 152,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:37",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y II",
+        "start_char": 119,
+        "end_char": 136
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:65:reference:218-220:43:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:65",
+    "source_span": "43",
+    "start_char": 218,
+    "end_char": 220,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:43",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:66:reference:477-479:54:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:66",
+    "source_span": "54",
+    "start_char": 477,
+    "end_char": 479,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:54",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:7:reference:49-66:6:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:7",
+    "source_span": "artículo anterior",
+    "start_char": 49,
+    "end_char": 66,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:6",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lmigra:article:8:reference:62-79:7:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:8",
+    "source_span": "artículo anterior",
+    "start_char": 62,
+    "end_char": 79,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmigra",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmigra:article:7",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]

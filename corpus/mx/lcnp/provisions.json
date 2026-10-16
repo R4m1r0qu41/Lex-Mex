@@ -1,0 +1,86 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcnp:article:1",
+    "instrument_id": "urn:lex-mx:federal:statute:lcnp",
+    "provision_type": "article",
+    "label": "Artículo 1o",
+    "number": "1o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "No serán admitidos ni podrán permanecer en puertos, fondeaderos o aguas territoriales mexicanos, los submarinos de potencias beligerantes equipados para usos de guerra.",
+    "publication_date": "1939-11-10",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcnp:article:2",
+    "instrument_id": "urn:lex-mx:federal:statute:lcnp",
+    "provision_type": "article",
+    "label": "Artículo 2o",
+    "number": "2o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Se deroga.\n\nArtículo derogado DOF 21-06-2018",
+    "publication_date": "1939-11-10",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "repealed",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcnp:article:3",
+    "instrument_id": "urn:lex-mx:federal:statute:lcnp",
+    "provision_type": "article",
+    "label": "Artículo 3o",
+    "number": "3o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "No será admitido sobre territorio mexicano, ni podrá permanecer en el mismo o sobre las aguas territoriales, ningún aeroplano o nave aérea militares de país beligerante.",
+    "publication_date": "1939-11-10",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcnp:article:4",
+    "instrument_id": "urn:lex-mx:federal:statute:lcnp",
+    "provision_type": "article",
+    "label": "Artículo 4o",
+    "number": "4o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "No se permitirá que los aeroplanos que se encuentren a bordo de los barcos beligerantes, se separen de los mismos mientras dichos barcos permanezcan en puertos, fondeaderos o aguas territoriales mexicanos.",
+    "publication_date": "1939-11-10",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  }
+]

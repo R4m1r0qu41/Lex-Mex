@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lepepm",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de la Empresa Pública del Estado, Petróleos Mexicanos",
+  "short_name": "REG-LEPEPM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-12-03",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:51:15.663955Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEPEPM.pdf",
+  "source_sha256": "9080231242a59cbd78d30fb747864bc45cd63d3c4978f37086b01e45343f4244",
+  "extracted_text_sha256": "99fa1dc53435ddbe6404d93036b6f237f45b901c88c1b19cf4c4f59d8c14895e",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

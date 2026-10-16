@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgec",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgec.htm",
+  "retrieved_at": "2026-10-14T07:32:47.013255Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 421913,
+  "etag": "\"67019-648eb5dc57500\"",
+  "last_modified": "Wed, 21 Jan 2026 19:59:48 GMT",
+  "source_sha256": "89220c0c86445a873067e0095b4591c11847dfd11595ca3e11bbfcf09cef6754",
+  "extracted_text_sha256": "09a639a680802465ff0fc9bdf861dbb9500de73b80e5335f7e9b5d239ac9355d",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

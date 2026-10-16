@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lvzmm",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVZMM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lvzmm.htm",
+  "retrieved_at": "2026-10-14T07:47:42.989609Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 458674,
+  "etag": "\"6ffb2-644b2e14c37c0\"",
+  "last_modified": "Sat, 29 Nov 2025 02:55:35 GMT",
+  "source_sha256": "d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70",
+  "extracted_text_sha256": "4e04881ca17d61269a33c55691aa0694588ae2f1fdd19be635ec7cda864edd65",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:laem",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/laem.htm",
+  "retrieved_at": "2026-10-14T07:21:34.631342Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 241824,
+  "etag": "\"3b0a0-57653fec15700\"",
+  "last_modified": "Thu, 20 Sep 2018 21:13:32 GMT",
+  "source_sha256": "b007340fd742c125439e4f037c7aae09f2fe9e55f88a9f194079e0daebfc1dca",
+  "extracted_text_sha256": "a9fa0be93e6380f3c6cca70acf30cc7b6d106e9a84581054f5d671180f1886d0",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

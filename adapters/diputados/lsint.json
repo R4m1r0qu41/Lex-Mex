@@ -1,0 +1,17 @@
+{
+  "slug": "lsint",
+  "instrument_id": "urn:lex-mx:federal:statute:lsint",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Seguridad Interior",
+  "short_name": "LSINT",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSInt_300519.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsint.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

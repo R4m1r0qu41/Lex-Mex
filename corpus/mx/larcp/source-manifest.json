@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:larcp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LARCP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/larcp.htm",
+  "retrieved_at": "2026-10-14T07:22:04.592970Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 414373,
+  "etag": "\"652a5-64472fe4291c0\"",
+  "last_modified": "Tue, 25 Nov 2025 22:42:23 GMT",
+  "source_sha256": "1f54ff4c063ca2552ee40ff0a9b1ce38b91c4074939c2c97ffda484da8d62290",
+  "extracted_text_sha256": "3805b60a99eb40e8013c44a26e11efe0cf12f6a04dda8841f851a478ad332ebf",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

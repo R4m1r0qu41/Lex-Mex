@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lpf",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de la Policía Federal",
+  "short_name": "REG-LPF",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2010-05-17",
+  "latest_reform_date": "2014-08-22",
+  "retrieved_at": "2026-10-14T08:03:19.618407Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf",
+  "source_sha256": "e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01",
+  "extracted_text_sha256": "e028066a486bf6d038221eea5f04e2c3d34e7377a69335947f9ac99d8ce0a8a4",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

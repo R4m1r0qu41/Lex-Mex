@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-laam",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAAM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAAM.pdf",
+  "retrieved_at": "2026-10-14T07:48:23.773271Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 455063,
+  "etag": "\"6f197-652ff9408b280\"",
+  "last_modified": "Sat, 30 May 2026 02:18:34 GMT",
+  "source_sha256": "8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca",
+  "extracted_text_sha256": "b2e23ea0838bbbaaba2339a6283812bf1f6a38809cd0178f664f546ba382856a",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

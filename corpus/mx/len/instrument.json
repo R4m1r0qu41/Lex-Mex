@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:len",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Educación Naval",
+  "short_name": "LEN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2019-03-12",
+  "latest_reform_date": "2023-03-24",
+  "retrieved_at": "2026-10-14T07:25:22.664765Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEN.pdf",
+  "source_sha256": "1cbe263920b6492766c004f8a08e5d20b06c1463a730f0c82f6bbd38406ff91a",
+  "extracted_text_sha256": "7610559b5390f730d7a6edc2dd53099f76ad871777aa1cb0974017c282f4ca9e",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

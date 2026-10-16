@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgdlpi",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Derechos Lingüísticos de los Pueblos Indígenas",
+  "short_name": "LGDLPI",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2003-03-13",
+  "latest_reform_date": "2023-10-18",
+  "retrieved_at": "2026-10-14T07:32:00.473771Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf",
+  "source_sha256": "c089e774b400c1922811859a6b867c7593120cbe61b4ba4f745321cf26e8b41d",
+  "extracted_text_sha256": "ff23aa8143b082deaff0e0e1a89af7a8e63e9c4e3bb64a5afca2d724d7fbaee6",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsrlip:article:4:reference:45-62:3:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lsrlip:article:4",
+    "source_span": "artículo anterior",
+    "start_char": 45,
+    "end_char": 62,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lsrlip",
+    "target_provision_id": "urn:lex-mx:federal:statute:lsrlip:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]

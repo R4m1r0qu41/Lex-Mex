@@ -1,0 +1,578 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:1182-1202",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 1182,
+    "end_char": 1202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:1450-1470",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 1450,
+    "end_char": 1470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:1622-1632",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:afiliacion",
+    "span": "Afiliación",
+    "start_char": 1622,
+    "end_char": 1632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:1681-1701",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 1681,
+    "end_char": 1701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:1843-1853",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:afiliacion",
+    "span": "Afiliación",
+    "start_char": 1843,
+    "end_char": 1853
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2:term-usage:2273-2293",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 2273,
+    "end_char": 2293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:3:term-usage:62-72",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:afiliacion",
+    "span": "Afiliación",
+    "start_char": 62,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:3:term-usage:92-112",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 92,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:3:term-usage:153-168",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:hoja-de-trabajo",
+    "span": "Hoja de Trabajo",
+    "start_char": 153,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:4:term-usage:184-204",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 184,
+    "end_char": 204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:4:term-usage:260-280",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:tarjeta-de-filiacion",
+    "span": "Tarjeta de Filiación",
+    "start_char": 260,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:5:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:afiliacion",
+    "span": "Afiliación",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:5:term-usage:187-207",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 187,
+    "end_char": 207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:5:term-usage:323-347",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:cedula-de-identificacion",
+    "span": "Cédula de Identificación",
+    "start_char": 323,
+    "end_char": 347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:5:term-usage:410-434",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:cedula-de-identificacion",
+    "span": "Cédula de Identificación",
+    "start_char": 410,
+    "end_char": 434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:6:term-usage:249-269",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:tarjeta-de-filiacion",
+    "span": "Tarjeta de Filiación",
+    "start_char": 249,
+    "end_char": 269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:6:term-usage:479-499",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:tarjeta-de-filiacion",
+    "span": "Tarjeta de Filiación",
+    "start_char": 479,
+    "end_char": 499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:7:term-usage:75-99",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:cedula-de-identificacion",
+    "span": "Cédula de Identificación",
+    "start_char": 75,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:7:term-usage:102-122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:tarjeta-de-filiacion",
+    "span": "Tarjeta de Filiación",
+    "start_char": 102,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:7:term-usage:158-178",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 158,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:9:term-usage:446-466",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 446,
+    "end_char": 466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:15:term-usage:132-141",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:direccion",
+    "span": "Dirección",
+    "start_char": 132,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:15:term-usage:244-253",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:direccion",
+    "span": "Dirección",
+    "start_char": 244,
+    "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:15:term-usage:368-377",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:direccion",
+    "span": "Dirección",
+    "start_char": 368,
+    "end_char": 377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:15:term-usage:445-454",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:direccion",
+    "span": "Dirección",
+    "start_char": 445,
+    "end_char": 454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:15:term-usage:570-579",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:direccion",
+    "span": "Dirección",
+    "start_char": 570,
+    "end_char": 579
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:17:term-usage:420-440",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 420,
+    "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:18:term-usage:32-52",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 32,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:18:term-usage:69-78",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:direccion",
+    "span": "Dirección",
+    "start_char": 69,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:20:term-usage:81-101",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:tarjeta-de-filiacion",
+    "span": "Tarjeta de Filiación",
+    "start_char": 81,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:24:term-usage:477-494",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:hoja-de-filiacion",
+    "span": "Hoja de Filiación",
+    "start_char": 477,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:24:term-usage:497-517",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:tarjeta-de-filiacion",
+    "span": "Tarjeta de Filiación",
+    "start_char": 497,
+    "end_char": 517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:24:term-usage:2086-2103",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:hoja-de-filiacion",
+    "span": "Hoja de Filiación",
+    "start_char": 2086,
+    "end_char": 2103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:24:term-usage:2106-2126",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:tarjeta-de-filiacion",
+    "span": "Tarjeta de Filiación",
+    "start_char": 2106,
+    "end_char": 2126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:34:term-usage:161-181",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 161,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:36:term-usage:377-397",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 377,
+    "end_char": 397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:37:term-usage:240-260",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 240,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:41:term-usage:640-660",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 640,
+    "end_char": 660
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:42:term-usage:161-181",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 161,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:45:term-usage:709-729",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 709,
+    "end_char": 729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:51:term-usage:452-472",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 452,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:63:term-usage:318-338",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 318,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:63:term-usage:641-652",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:direccion",
+    "span": "Direcciones",
+    "start_char": 641,
+    "end_char": 652
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:64:term-usage:386-410",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:cedula-de-identificacion",
+    "span": "Cédula de Identificación",
+    "start_char": 386,
+    "end_char": 410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:64:term-usage:548-568",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:tarjeta-de-filiacion",
+    "span": "Tarjeta de Filiación",
+    "start_char": 548,
+    "end_char": 568
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:67:term-usage:377-397",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 377,
+    "end_char": 397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:75:term-usage:328-348",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 328,
+    "end_char": 348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:79:term-usage:28-52",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:cedula-de-identificacion",
+    "span": "Cédula de Identificación",
+    "start_char": 28,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:79:term-usage:55-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:tarjeta-de-filiacion",
+    "span": "Tarjeta de Filiación",
+    "start_char": 55,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:79:term-usage:238-262",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:cedula-de-identificacion",
+    "span": "Cédula de Identificación",
+    "start_char": 238,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:79:term-usage:322-331",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:direccion",
+    "span": "Dirección",
+    "start_char": 322,
+    "end_char": 331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:79:term-usage:358-378",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 358,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:79:term-usage:440-460",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:tarjeta-de-filiacion",
+    "span": "Tarjeta de Filiación",
+    "start_char": 440,
+    "end_char": 460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:81:term-usage:144-164",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 144,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:82:term-usage:169-189",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 169,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:83:term-usage:121-141",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 121,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:84:term-usage:33-53",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 33,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:85:term-usage:91-100",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:direccion",
+    "span": "Dirección",
+    "start_char": 91,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:86:term-usage:242-262",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 242,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:86:term-usage:400-420",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 400,
+    "end_char": 420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:87:term-usage:43-52",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:direccion",
+    "span": "Dirección",
+    "start_char": 43,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:88:term-usage:71-80",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:88",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:direccion",
+    "span": "Dirección",
+    "start_char": 71,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:93:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:secretaria-de-origen",
+    "span": "Secretaría de origen",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lissfam:article:93:term-usage:524-533",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lissfam:term:direccion",
+    "span": "Dirección",
+    "start_char": 524,
+    "end_char": 533
+  }
+]

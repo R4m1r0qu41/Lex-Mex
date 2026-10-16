@@ -1,0 +1,17 @@
+{
+  "slug": "lissfam",
+  "instrument_id": "urn:lex-mx:federal:statute:lissfam",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
+  "short_name": "LISSFAM",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lissfam.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

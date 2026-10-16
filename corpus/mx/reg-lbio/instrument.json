@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lbio",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Biocombustibles",
+  "short_name": "REG-LBIO",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-10-03",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:49:42.086195Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LBio.pdf",
+  "source_sha256": "7df3d678efda2306b68d3c0f5ca0e3e92b9066d5f773128f4ae19cb26bf44fff",
+  "extracted_text_sha256": "fb039947ed20643e7483b36506168a0430bd4cbeba1313b74a10578c8c9b02d2",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

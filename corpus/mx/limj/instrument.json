@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:limj",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Instituto Mexicano de la Juventud",
+  "short_name": "LIMJ",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1999-01-06",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-10-14T07:37:45.804078Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIMJ.pdf",
+  "source_sha256": "326dc072878ee5db7b8e588c3abf36a993d286beadaf90c19c6bf88732d95db5",
+  "extracted_text_sha256": "5cf3fdfe576d1d3014b1fdd64b3e594e9e8049035ceea46d3a6b644033f0fc3e",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

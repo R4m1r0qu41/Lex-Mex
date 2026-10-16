@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lbio",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBio.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lbio.htm",
+  "retrieved_at": "2026-10-14T07:22:26.366716Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 441184,
+  "etag": "\"6bb60-6419aec91a180\"",
+  "last_modified": "Mon, 20 Oct 2025 18:05:10 GMT",
+  "source_sha256": "c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4",
+  "extracted_text_sha256": "a26653bd9c71a408e661fc458fcbabf7fdadbd0f15e6b192012af8ab19b1b356",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

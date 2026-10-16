@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-larcp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Asociaciones Religiosas y Culto Público",
+  "short_name": "REG-LARCP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2003-11-06",
+  "latest_reform_date": "2012-09-28",
+  "retrieved_at": "2026-10-14T07:49:19.535177Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LARCP.pdf",
+  "source_sha256": "298ec78a8d6666f73ce8ccdd8a31ae0a06c18174139eacc0fe80d3a00d3f4b89",
+  "extracted_text_sha256": "e120ef2d3614e45be01d9133bbad6c49de89aa089e5c1da1beb006b4589069f6",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

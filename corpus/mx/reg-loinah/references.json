@@ -1,0 +1,32 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:article:53:reference:44-61:52:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:53",
+    "source_span": "artículo anterior",
+    "start_char": 44,
+    "end_char": 61,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-loinah",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:52",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:cuarto:reference:183-185:54:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-loinah:transitory:cuarto",
+    "source_span": "54",
+    "start_char": 183,
+    "end_char": 185,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-loinah",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-loinah:article:54",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

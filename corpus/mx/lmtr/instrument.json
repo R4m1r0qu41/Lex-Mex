@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lmtr",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley en Materia de Telecomunicaciones y Radiodifusión",
+  "short_name": "LMTR",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-07-16",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:38:48.700810Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMTR.pdf",
+  "source_sha256": "fc8b5680b4a1402fe4c59be919f85ace11eb8114a27f8179757dbc3bc428cdd1",
+  "extracted_text_sha256": "56e0f5c61a808d14dfd720b12e22af90846c95cc335d554102d77f177d8577c5",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

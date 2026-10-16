@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lrart3-mmce",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación",
+  "short_name": "LRART3-MMCE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2019-09-30",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T07:43:12.374498Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt3_MMCE_300919.pdf",
+  "source_sha256": "6cfd550f22edb3253ebf98d885329be5402890d902d17afaa7860d94d76fe014",
+  "extracted_text_sha256": "647f4fa8e44647632319cdd563e79fb68428e4cf595689da57ac165924e5b368",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

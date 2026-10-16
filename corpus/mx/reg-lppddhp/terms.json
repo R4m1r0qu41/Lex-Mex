@@ -1,0 +1,35 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lppddhp:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lppddhp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:3",
+    "fraction": "I",
+    "start_char": 157,
+    "end_char": 247,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lppddhp:term:beneficiario",
+    "term": "Beneficiario",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lppddhp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:3",
+    "fraction": "II",
+    "start_char": 247,
+    "end_char": 467,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lppddhp:term:sistemas-de-alerta-temprana",
+    "term": "Sistemas de alerta temprana",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lppddhp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:3",
+    "fraction": "III",
+    "start_char": 467,
+    "end_char": 1121,
+    "basis": "express_definition"
+  }
+]

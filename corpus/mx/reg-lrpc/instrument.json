@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lrpc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley sobre Refugiados y Protección Complementaria",
+  "short_name": "REG-LRPC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2012-02-21",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-10-14T08:04:46.257744Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRPC.pdf",
+  "source_sha256": "2cc9cde30f6f8852a47752353db06a6b1d946b94d0e5c0e49633cb8f54776320",
+  "extracted_text_sha256": "7c37d8104def9783159fc58136c6ab489b1a9cd7ddf4c698508c67a8a40f34c7",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

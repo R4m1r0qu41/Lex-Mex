@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfvv",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFVV.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFVV.pdf",
+  "retrieved_at": "2026-10-14T07:55:07.138071Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 287210,
+  "etag": "\"461ea-563b4878d49c0\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:03 GMT",
+  "source_sha256": "23dcee090bbe0c4fb06c75d084cb65ce0b2e8f72a8d082e7059504412bde1614",
+  "extracted_text_sha256": "e285f66116cfd48f4cfdefdeef40b6d2c4f0fcede5e83442be446f2814244e65",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

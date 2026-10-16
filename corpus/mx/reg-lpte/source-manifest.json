@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lpte",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPTE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPTE.pdf",
+  "retrieved_at": "2026-10-14T08:04:07.409466Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 571050,
+  "etag": "\"8b6aa-64ddfc5922900\"",
+  "last_modified": "Wed, 25 Mar 2026 21:15:48 GMT",
+  "source_sha256": "716e427a30e9982ccaa0576288aad2ad5305c624b236a0f342b6a87d60b7a9ed",
+  "extracted_text_sha256": "a3e066dd60fbbf470e2be8640d4571a0048f478ca5b94f0760a53595a4b9e538",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

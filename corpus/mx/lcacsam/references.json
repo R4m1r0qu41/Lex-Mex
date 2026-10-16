@@ -1,0 +1,32 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcacsam:article:8:reference:123-125:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lcacsam:article:8",
+    "source_span": "21",
+    "start_char": 123,
+    "end_char": 125,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lcacsam",
+    "target_provision_id": "urn:lex-mx:federal:statute:lcacsam:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcacsam:article:8:reference:128-130:22:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lcacsam:article:8",
+    "source_span": "22",
+    "start_char": 128,
+    "end_char": 130,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lcacsam",
+    "target_provision_id": "urn:lex-mx:federal:statute:lcacsam:article:22",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

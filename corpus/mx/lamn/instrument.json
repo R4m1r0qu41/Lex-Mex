@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lamn",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Amnistía",
+  "short_name": "LAMN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2020-04-22",
+  "latest_reform_date": "2024-06-14",
+  "retrieved_at": "2026-10-14T07:21:47.908291Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmn.pdf",
+  "source_sha256": "33dc1ac9ff7050121f9d659123179b38894d345fdd7de0844322f1caa329b6fe",
+  "extracted_text_sha256": "58415e7dd7dca394ee26d6d55815dfa8d084934e8d2c74588f8b24e44b6e06ce",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

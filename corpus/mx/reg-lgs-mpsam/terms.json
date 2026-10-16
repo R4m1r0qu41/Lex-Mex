@@ -1,0 +1,68 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:term:atencion-de-la-urgencia-obstetrica",
+    "term": "Atención de la Urgencia Obstétrica",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:115-bis-1",
+    "fraction": "I",
+    "start_char": 112,
+    "end_char": 443,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:term:contrarreferencia",
+    "term": "Contrarreferencia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:115-bis-1",
+    "fraction": "II",
+    "start_char": 443,
+    "end_char": 927,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:term:referencia",
+    "term": "Referencia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:115-bis-1",
+    "fraction": "III",
+    "start_char": 927,
+    "end_char": 1412,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:term:unidades-hospitalarias",
+    "term": "Unidades Hospitalarias",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:115-bis-1",
+    "fraction": "IV",
+    "start_char": 1412,
+    "end_char": 1632,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:term:unidad-medica-receptora",
+    "term": "Unidad Médica Receptora",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:115-bis-1",
+    "fraction": "V",
+    "start_char": 1632,
+    "end_char": 1802,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:term:urgencia-obstetrica",
+    "term": "Urgencia Obstétrica",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mpsam:article:115-bis-1",
+    "fraction": "VI",
+    "start_char": 1802,
+    "end_char": 2109,
+    "basis": "express_definition"
+  }
+]

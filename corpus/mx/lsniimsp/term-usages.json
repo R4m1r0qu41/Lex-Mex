@@ -1,0 +1,3575 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:1:term-usage:19-22",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 19,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:1:term-usage:335-351",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 335,
+    "end_char": 351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:1:term-usage:765-768",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 765,
+    "end_char": 768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:1:term-usage:1098-1114",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1098,
+    "end_char": 1114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:1:term-usage:1650-1653",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1650,
+    "end_char": 1653
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:1:term-usage:1717-1720",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1717,
+    "end_char": 1720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:1:term-usage:1865-1868",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1865,
+    "end_char": 1868
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:2:term-usage:34-37",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 34,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:2:term-usage:116-126",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 116,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:2:term-usage:337-347",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 337,
+    "end_char": 347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:2:term-usage:1165-1168",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1165,
+    "end_char": 1168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:2:term-usage:1400-1410",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 1400,
+    "end_char": 1410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:2:term-usage:1513-1529",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1513,
+    "end_char": 1529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:2:term-usage:1954-1957",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1954,
+    "end_char": 1957
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:2:term-usage:2253-2263",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2253,
+    "end_char": 2263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:3:term-usage:782-785",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 782,
+    "end_char": 785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:3:term-usage:1515-1531",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 1515,
+    "end_char": 1531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:4:term-usage:28-44",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 28,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:4:term-usage:219-222",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 219,
+    "end_char": 222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:4:term-usage:241-257",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 241,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:4:term-usage:279-289",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 279,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:4:term-usage:411-427",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 411,
+    "end_char": 427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:5:term-usage:13-29",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 13,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:5:term-usage:468-471",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 468,
+    "end_char": 471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:5:term-usage:1112-1115",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1112,
+    "end_char": 1115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:5:term-usage:1158-1174",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 1158,
+    "end_char": 1174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:5:term-usage:1241-1244",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 1241,
+    "end_char": 1244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:5:term-usage:1360-1363",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 1360,
+    "end_char": 1363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:5:term-usage:1661-1664",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1661,
+    "end_char": 1664
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:5:term-usage:1682-1685",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1682,
+    "end_char": 1685
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:5:term-usage:1749-1752",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1749,
+    "end_char": 1752
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:5:term-usage:1833-1836",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1833,
+    "end_char": 1836
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:6:term-usage:16-32",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 16,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:6:term-usage:86-102",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 86,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:6:term-usage:166-176",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 166,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:6:term-usage:206-209",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 206,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:7:term-usage:24-40",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 24,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:7:term-usage:271-287",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 271,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:7:term-usage:396-399",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 396,
+    "end_char": 399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:7:term-usage:440-456",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 440,
+    "end_char": 456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:7:term-usage:607-610",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 607,
+    "end_char": 610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:7:term-usage:669-679",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 669,
+    "end_char": 679
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:7:term-usage:847-863",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 847,
+    "end_char": 863
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:7:term-usage:961-964",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 961,
+    "end_char": 964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:7:term-usage:1028-1031",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1028,
+    "end_char": 1031
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:7:term-usage:1112-1115",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1112,
+    "end_char": 1115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:7:term-usage:1334-1350",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1334,
+    "end_char": 1350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:7:term-usage:1398-1414",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 1398,
+    "end_char": 1414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:7:term-usage:1505-1508",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1505,
+    "end_char": 1508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:7:term-usage:1578-1594",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 1578,
+    "end_char": 1594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:7:term-usage:1600-1610",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1600,
+    "end_char": 1610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:8:term-usage:15-31",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 15,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:8:term-usage:140-150",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 140,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:8:term-usage:176-186",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 176,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:8:term-usage:312-322",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 312,
+    "end_char": 322
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:8:term-usage:354-364",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 354,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:8:term-usage:411-421",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 411,
+    "end_char": 421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:8:term-usage:463-473",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 463,
+    "end_char": 473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:8:term-usage:514-524",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 514,
+    "end_char": 524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:8:term-usage:692-708",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 692,
+    "end_char": 708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:8:term-usage:743-746",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 743,
+    "end_char": 746
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:8:term-usage:778-794",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 778,
+    "end_char": 794
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:9:term-usage:81-84",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 81,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:9:term-usage:89-105",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 89,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:9:term-usage:830-846",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 830,
+    "end_char": 846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:9:term-usage:1490-1493",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 1490,
+    "end_char": 1493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:9:term-usage:1795-1805",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1795,
+    "end_char": 1805
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:9:term-usage:2045-2061",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 2045,
+    "end_char": 2061
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:9:term-usage:2785-2788",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 2785,
+    "end_char": 2788
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:9:term-usage:2977-2980",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 2977,
+    "end_char": 2980
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:9:term-usage:3081-3084",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 3081,
+    "end_char": 3084
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:9:term-usage:3179-3182",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 3179,
+    "end_char": 3182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:9:term-usage:3253-3256",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 3253,
+    "end_char": 3256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:9:term-usage:3276-3292",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 3276,
+    "end_char": 3292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:10:term-usage:18-34",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 18,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:10:term-usage:567-583",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 567,
+    "end_char": 583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:10:term-usage:736-739",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 736,
+    "end_char": 739
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:10:term-usage:820-823",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 820,
+    "end_char": 823
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:10:term-usage:973-989",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 973,
+    "end_char": 989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:10:term-usage:1295-1305",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1295,
+    "end_char": 1305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:10:term-usage:1440-1456",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 1440,
+    "end_char": 1456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:10:term-usage:1693-1709",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 1693,
+    "end_char": 1709
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:11:term-usage:52-68",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 52,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:11:term-usage:474-490",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 474,
+    "end_char": 490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:41-51",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 41,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:166-176",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 166,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:212-228",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 212,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:728-731",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 728,
+    "end_char": 731
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:739-742",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 739,
+    "end_char": 742
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:935-945",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 935,
+    "end_char": 945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:1014-1017",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1014,
+    "end_char": 1017
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:1057-1060",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1057,
+    "end_char": 1060
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:1124-1127",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1124,
+    "end_char": 1127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:1208-1211",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1208,
+    "end_char": 1211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:1343-1353",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1343,
+    "end_char": 1353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:1470-1486",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 1470,
+    "end_char": 1486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:1520-1536",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1520,
+    "end_char": 1536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:1545-1555",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 1545,
+    "end_char": 1555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:1850-1853",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1850,
+    "end_char": 1853
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:2120-2130",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 2120,
+    "end_char": 2130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:3002-3005",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 3002,
+    "end_char": 3005
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:4203-4219",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 4203,
+    "end_char": 4219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:4940-4956",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 4940,
+    "end_char": 4956
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:4975-4978",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 4975,
+    "end_char": 4978
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:5141-5157",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 5141,
+    "end_char": 5157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:5595-5611",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 5595,
+    "end_char": 5611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:5783-5786",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 5783,
+    "end_char": 5786
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:12:term-usage:5973-5976",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 5973,
+    "end_char": 5976
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:13:term-usage:65-75",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 65,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:13:term-usage:150-166",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 150,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:13:term-usage:350-353",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 350,
+    "end_char": 353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:13:term-usage:475-491",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 475,
+    "end_char": 491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:13:term-usage:496-506",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 496,
+    "end_char": 506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:13:term-usage:547-563",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 547,
+    "end_char": 563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:13:term-usage:589-592",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 589,
+    "end_char": 592
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:14:term-usage:58-68",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 58,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:14:term-usage:347-350",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 347,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:14:term-usage:437-447",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 437,
+    "end_char": 447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:14:term-usage:466-482",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 466,
+    "end_char": 482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:14:term-usage:488-504",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 488,
+    "end_char": 504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:14:term-usage:876-892",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 876,
+    "end_char": 892
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:15:term-usage:35-45",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 35,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:15:term-usage:71-81",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 71,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:15:term-usage:105-118",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:subsecretaria",
+    "span": "Subsecretaría",
+    "start_char": 105,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:15:term-usage:173-176",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 173,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:15:term-usage:216-219",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 216,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:15:term-usage:258-271",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:subsecretaria",
+    "span": "Subsecretaría",
+    "start_char": 258,
+    "end_char": 271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:15:term-usage:285-295",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 285,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:15:term-usage:736-739",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 736,
+    "end_char": 739
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:16:term-usage:104-114",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 104,
+    "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:16:term-usage:119-132",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:subsecretaria",
+    "span": "Subsecretaría",
+    "start_char": 119,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:16:term-usage:1018-1031",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:subsecretaria",
+    "span": "Subsecretaría",
+    "start_char": 1018,
+    "end_char": 1031
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:16:term-usage:1708-1721",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:subsecretaria",
+    "span": "Subsecretaría",
+    "start_char": 1708,
+    "end_char": 1721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:17:term-usage:145-158",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:subsecretaria",
+    "span": "Subsecretaría",
+    "start_char": 145,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:17:term-usage:354-357",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 354,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:17:term-usage:366-369",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 366,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:17:term-usage:382-398",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 382,
+    "end_char": 398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:17:term-usage:491-494",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 491,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:17:term-usage:691-707",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 691,
+    "end_char": 707
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:18:term-usage:17-20",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 17,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:18:term-usage:27-43",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 27,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:18:term-usage:154-170",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 154,
+    "end_char": 170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:18:term-usage:175-178",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 175,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:18:term-usage:280-290",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 280,
+    "end_char": 290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:71-74",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 71,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:79-82",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 79,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:208-224",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 208,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:519-535",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 519,
+    "end_char": 535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:1299-1309",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 1299,
+    "end_char": 1309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:1380-1383",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1380,
+    "end_char": 1383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:1422-1432",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1422,
+    "end_char": 1432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:1438-1454",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 1438,
+    "end_char": 1454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:1483-1499",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 1483,
+    "end_char": 1499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:1541-1551",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1541,
+    "end_char": 1551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:2158-2168",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2158,
+    "end_char": 2168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:2382-2385",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 2382,
+    "end_char": 2385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:2406-2422",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 2406,
+    "end_char": 2422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:2834-2837",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 2834,
+    "end_char": 2837
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:2866-2876",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2866,
+    "end_char": 2876
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:3142-3158",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 3142,
+    "end_char": 3158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:3165-3175",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3165,
+    "end_char": 3175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:3182-3195",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:subsecretaria",
+    "span": "Subsecretaría",
+    "start_char": 3182,
+    "end_char": 3195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:3543-3559",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 3543,
+    "end_char": 3559
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:3669-3685",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 3669,
+    "end_char": 3685
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:3718-3721",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 3718,
+    "end_char": 3721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:4291-4301",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 4291,
+    "end_char": 4301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:4361-4377",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 4361,
+    "end_char": 4377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:4457-4460",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 4457,
+    "end_char": 4460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:4527-4530",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 4527,
+    "end_char": 4530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:4614-4617",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 4614,
+    "end_char": 4617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:4892-4902",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 4892,
+    "end_char": 4902
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:19:term-usage:5103-5106",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 5103,
+    "end_char": 5106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:20:term-usage:39-42",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 39,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:20:term-usage:154-157",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 154,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:20:term-usage:171-174",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 171,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:20:term-usage:547-563",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 547,
+    "end_char": 563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:20:term-usage:571-581",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 571,
+    "end_char": 581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:20:term-usage:650-660",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 650,
+    "end_char": 660
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:20:term-usage:1007-1017",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1007,
+    "end_char": 1017
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:20:term-usage:1075-1078",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1075,
+    "end_char": 1078
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:20:term-usage:1203-1219",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 1203,
+    "end_char": 1219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:21:term-usage:70-73",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 70,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:21:term-usage:119-135",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 119,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:22:term-usage:52-55",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 52,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:22:term-usage:498-508",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 498,
+    "end_char": 508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:22:term-usage:520-530",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 520,
+    "end_char": 530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:22:term-usage:815-825",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 815,
+    "end_char": 825
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:22:term-usage:1226-1236",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1226,
+    "end_char": 1236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:22:term-usage:1263-1273",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1263,
+    "end_char": 1273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:22:term-usage:1287-1297",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1287,
+    "end_char": 1297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:22:term-usage:1703-1719",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1703,
+    "end_char": 1719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:22:term-usage:1891-1894",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 1891,
+    "end_char": 1894
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:22:term-usage:2026-2036",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2026,
+    "end_char": 2036
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:22:term-usage:2050-2053",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 2050,
+    "end_char": 2053
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:319-329",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 319,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:406-409",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 406,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:810-820",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 810,
+    "end_char": 820
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:1025-1041",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1025,
+    "end_char": 1041
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:1687-1690",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 1687,
+    "end_char": 1690
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:1706-1716",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 1706,
+    "end_char": 1716
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:1896-1899",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1896,
+    "end_char": 1899
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:2496-2499",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 2496,
+    "end_char": 2499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:2529-2545",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 2529,
+    "end_char": 2545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:2967-2970",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 2967,
+    "end_char": 2970
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:3124-3134",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 3124,
+    "end_char": 3134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:3537-3547",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3537,
+    "end_char": 3547
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:3741-3744",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 3741,
+    "end_char": 3744
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:4055-4058",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 4055,
+    "end_char": 4058
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:4075-4078",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 4075,
+    "end_char": 4078
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:4315-4325",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 4315,
+    "end_char": 4325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:4381-4397",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 4381,
+    "end_char": 4397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:4404-4407",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 4404,
+    "end_char": 4407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:23:term-usage:4455-4471",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 4455,
+    "end_char": 4471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:24:term-usage:1037-1053",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1037,
+    "end_char": 1053
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:24:term-usage:1129-1132",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1129,
+    "end_char": 1132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:24:term-usage:1251-1254",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 1251,
+    "end_char": 1254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:24:term-usage:1365-1368",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1365,
+    "end_char": 1368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:24:term-usage:1435-1438",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1435,
+    "end_char": 1438
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:24:term-usage:1522-1525",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1522,
+    "end_char": 1525
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:25:term-usage:127-143",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 127,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:25:term-usage:558-561",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 558,
+    "end_char": 561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:25:term-usage:1640-1643",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1640,
+    "end_char": 1643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:25:term-usage:1786-1789",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1786,
+    "end_char": 1789
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:26:term-usage:422-438",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 422,
+    "end_char": 438
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:26:term-usage:822-825",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 822,
+    "end_char": 825
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:27:term-usage:3-19",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 3,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:27:term-usage:38-41",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 38,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:27:term-usage:88-98",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 88,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:27:term-usage:162-178",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 162,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:27:term-usage:233-249",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 233,
+    "end_char": 249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:27:term-usage:545-548",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 545,
+    "end_char": 548
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:27:term-usage:585-588",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 585,
+    "end_char": 588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:28:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:28:term-usage:36-39",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 36,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:28:term-usage:98-108",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 98,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:28:term-usage:198-208",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 198,
+    "end_char": 208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:28:term-usage:236-246",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 236,
+    "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:28:term-usage:452-455",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 452,
+    "end_char": 455
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:29:term-usage:40-56",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 40,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:29:term-usage:466-469",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 466,
+    "end_char": 469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:30:term-usage:63-73",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 63,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:30:term-usage:246-249",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 246,
+    "end_char": 249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:30:term-usage:294-310",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 294,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:30:term-usage:346-362",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 346,
+    "end_char": 362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:30:term-usage:441-444",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 441,
+    "end_char": 444
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:30:term-usage:487-497",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 487,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:30:term-usage:749-752",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 749,
+    "end_char": 752
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:31:term-usage:57-67",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 57,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:31:term-usage:138-148",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 138,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:31:term-usage:295-298",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 295,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:31:term-usage:654-664",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 654,
+    "end_char": 664
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:31:term-usage:694-710",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 694,
+    "end_char": 710
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:32:term-usage:196-212",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 196,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:32:term-usage:221-231",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 221,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:32:term-usage:834-837",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 834,
+    "end_char": 837
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:32:term-usage:904-907",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 904,
+    "end_char": 907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:32:term-usage:991-994",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 991,
+    "end_char": 994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:32:term-usage:1577-1593",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1577,
+    "end_char": 1593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:32:term-usage:3191-3194",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 3191,
+    "end_char": 3194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:32:term-usage:3556-3566",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3556,
+    "end_char": 3566
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:33:term-usage:29-45",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 29,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:33:term-usage:132-142",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 132,
+    "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:33:term-usage:388-404",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 388,
+    "end_char": 404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:33:term-usage:433-443",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 433,
+    "end_char": 443
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:33:term-usage:472-475",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 472,
+    "end_char": 475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:33:term-usage:687-703",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 687,
+    "end_char": 703
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:33:term-usage:708-718",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 708,
+    "end_char": 718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:33:term-usage:724-727",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 724,
+    "end_char": 727
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:33:term-usage:870-880",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 870,
+    "end_char": 880
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:34:term-usage:123-139",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 123,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:34:term-usage:154-157",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 154,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:34:term-usage:271-287",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 271,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:34:term-usage:1942-1945",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 1942,
+    "end_char": 1945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:34:term-usage:2075-2091",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 2075,
+    "end_char": 2091
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:34:term-usage:2260-2276",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 2260,
+    "end_char": 2276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:34:term-usage:2640-2643",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 2640,
+    "end_char": 2643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:34:term-usage:4825-4828",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 4825,
+    "end_char": 4828
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:34:term-usage:4895-4898",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 4895,
+    "end_char": 4898
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:34:term-usage:4982-4985",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 4982,
+    "end_char": 4985
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:34:term-usage:5355-5358",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 5355,
+    "end_char": 5358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:35:term-usage:379-382",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 379,
+    "end_char": 382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:35:term-usage:1136-1139",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1136,
+    "end_char": 1139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:35:term-usage:1324-1340",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1324,
+    "end_char": 1340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:35:term-usage:1628-1631",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 1628,
+    "end_char": 1631
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:36:term-usage:23-33",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 23,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:36:term-usage:85-101",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 85,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:36:term-usage:118-121",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 118,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:36:term-usage:307-310",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 307,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:37:term-usage:68-78",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 68,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:37:term-usage:83-86",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 83,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:37:term-usage:424-427",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 424,
+    "end_char": 427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:37:term-usage:536-546",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 536,
+    "end_char": 546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:37:term-usage:766-769",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 766,
+    "end_char": 769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:38:term-usage:133-143",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 133,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:38:term-usage:156-159",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 156,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:38:term-usage:457-460",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 457,
+    "end_char": 460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:38:term-usage:522-532",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 522,
+    "end_char": 532
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:38:term-usage:650-653",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 650,
+    "end_char": 653
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:38:term-usage:775-778",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 775,
+    "end_char": 778
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:38:term-usage:981-984",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 981,
+    "end_char": 984
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:40-50",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 40,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:54-64",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 54,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:416-426",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 416,
+    "end_char": 426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:436-446",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 436,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:513-523",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 513,
+    "end_char": 523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:611-627",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 611,
+    "end_char": 627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:1215-1218",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 1215,
+    "end_char": 1218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:1247-1257",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1247,
+    "end_char": 1257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:1266-1276",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1266,
+    "end_char": 1276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:1301-1311",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1301,
+    "end_char": 1311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:1440-1450",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1440,
+    "end_char": 1450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:1485-1495",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1485,
+    "end_char": 1495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:1670-1680",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1670,
+    "end_char": 1680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:1845-1861",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 1845,
+    "end_char": 1861
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:2111-2121",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2111,
+    "end_char": 2121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:2127-2130",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 2127,
+    "end_char": 2130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:2762-2765",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 2762,
+    "end_char": 2765
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:2794-2804",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 2794,
+    "end_char": 2804
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:2822-2838",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 2822,
+    "end_char": 2838
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:39:term-usage:3160-3163",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 3160,
+    "end_char": 3163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:40:term-usage:137-140",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 137,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:40:term-usage:487-497",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 487,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:40:term-usage:893-896",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 893,
+    "end_char": 896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:40:term-usage:1106-1109",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 1106,
+    "end_char": 1109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:40:term-usage:1194-1204",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 1194,
+    "end_char": 1204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:40:term-usage:1368-1371",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 1368,
+    "end_char": 1371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:41:term-usage:216-219",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 216,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:41:term-usage:418-421",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 418,
+    "end_char": 421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:42:term-usage:248-251",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 248,
+    "end_char": 251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:42:term-usage:569-572",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 569,
+    "end_char": 572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:43:term-usage:111-121",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 111,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:43:term-usage:342-345",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 342,
+    "end_char": 345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:43:term-usage:430-433",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 430,
+    "end_char": 433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:44:term-usage:395-411",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 395,
+    "end_char": 411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:44:term-usage:453-456",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 453,
+    "end_char": 456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:44:term-usage:499-509",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 499,
+    "end_char": 509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:44:term-usage:708-718",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 708,
+    "end_char": 718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:44:term-usage:941-951",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 941,
+    "end_char": 951
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:44:term-usage:957-960",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 957,
+    "end_char": 960
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:44:term-usage:1129-1145",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1129,
+    "end_char": 1145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:44:term-usage:1154-1164",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 1154,
+    "end_char": 1164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:44:term-usage:1270-1286",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 1270,
+    "end_char": 1286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:45:term-usage:214-230",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 214,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:45:term-usage:349-352",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 349,
+    "end_char": 352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:45:term-usage:358-361",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 358,
+    "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:45:term-usage:737-747",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 737,
+    "end_char": 747
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:45:term-usage:1097-1100",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 1097,
+    "end_char": 1100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:45:term-usage:1953-1969",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1953,
+    "end_char": 1969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:45:term-usage:1975-1985",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1975,
+    "end_char": 1985
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:45:term-usage:2017-2033",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 2017,
+    "end_char": 2033
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:45:term-usage:2060-2063",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 2060,
+    "end_char": 2063
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:45:term-usage:2229-2232",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 2229,
+    "end_char": 2232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:45:term-usage:2357-2373",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 2357,
+    "end_char": 2373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:46:term-usage:111-127",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 111,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:46:term-usage:596-599",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 596,
+    "end_char": 599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:47:term-usage:33-36",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 33,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:47:term-usage:137-147",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 137,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:47:term-usage:553-556",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 553,
+    "end_char": 556
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:47:term-usage:569-585",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 569,
+    "end_char": 585
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:47:term-usage:655-658",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 655,
+    "end_char": 658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:48:term-usage:261-264",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 261,
+    "end_char": 264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:48:term-usage:580-583",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 580,
+    "end_char": 583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:48:term-usage:795-808",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:subsecretaria",
+    "span": "Subsecretaría",
+    "start_char": 795,
+    "end_char": 808
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:48:term-usage:924-934",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 924,
+    "end_char": 934
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:48:term-usage:1127-1143",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1127,
+    "end_char": 1143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:49:term-usage:80-83",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 80,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:49:term-usage:135-151",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 135,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:49:term-usage:259-262",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 259,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:49:term-usage:305-308",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 305,
+    "end_char": 308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:49:term-usage:610-626",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 610,
+    "end_char": 626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:49:term-usage:1156-1166",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 1156,
+    "end_char": 1166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:49:term-usage:1681-1697",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 1681,
+    "end_char": 1697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:49:term-usage:1724-1740",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:consejo-nacional",
+    "span": "Consejo Nacional",
+    "start_char": 1724,
+    "end_char": 1740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:49:term-usage:2066-2076",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 2066,
+    "end_char": 2076
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:50:term-usage:145-155",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 145,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:50:term-usage:233-236",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 233,
+    "end_char": 236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:50:term-usage:297-300",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 297,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:50:term-usage:377-380",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 377,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:50:term-usage:547-550",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 547,
+    "end_char": 550
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:50:term-usage:610-613",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 610,
+    "end_char": 613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:50:term-usage:626-642",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 626,
+    "end_char": 642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:50:term-usage:669-672",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 669,
+    "end_char": 672
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:51:term-usage:107-123",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:sistema-nacional",
+    "span": "Sistema Nacional",
+    "start_char": 107,
+    "end_char": 123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:51:term-usage:132-135",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 132,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:article:51:term-usage:667-670",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 667,
+    "end_char": 670
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:transitory:segundo:term-usage:36-46",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 36,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:transitory:segundo:term-usage:237-240",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 237,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:transitory:segundo:term-usage:257-267",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 257,
+    "end_char": 267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:transitory:segundo:term-usage:361-371",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 361,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:transitory:tercero:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:transitory:tercero:term-usage:210-213",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 210,
+    "end_char": 213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:transitory:tercero:term-usage:294-304",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:plataforma",
+    "span": "Plataforma",
+    "start_char": 294,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:transitory:cuarto:term-usage:75-78",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:cni",
+    "span": "CNI",
+    "start_char": 75,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:transitory:quinto:term-usage:165-168",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 165,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:transitory:sexto:term-usage:113-116",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 113,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:transitory:sexto:term-usage:162-165",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 162,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsniimsp:transitory:sexto:term-usage:236-239",
+    "provision_id": "urn:lex-mx:federal:statute:lsniimsp:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lsniimsp:term:ley",
+    "span": "Ley",
+    "start_char": 236,
+    "end_char": 239
+  }
+]

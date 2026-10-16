@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lrart3-mmce",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt3_MMCE_300919.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart3_mmce.htm",
+  "retrieved_at": "2026-10-14T07:43:12.374498Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 324440,
+  "etag": "\"4f358-593ce9e7b9ac0\"",
+  "last_modified": "Tue, 01 Oct 2019 00:41:55 GMT",
+  "source_sha256": "6cfd550f22edb3253ebf98d885329be5402890d902d17afaa7860d94d76fe014",
+  "extracted_text_sha256": "647f4fa8e44647632319cdd563e79fb68428e4cf595689da57ac165924e5b368",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

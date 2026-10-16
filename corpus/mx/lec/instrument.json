@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lec",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Energía para el Campo",
+  "short_name": "LEC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2002-12-30",
+  "latest_reform_date": "2012-12-28",
+  "retrieved_at": "2026-10-14T07:25:01.856926Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/246.pdf",
+  "source_sha256": "71dca147c2bed643f28921065bc240abcd15879a1504a55a9c153d6b202bbc5f",
+  "extracted_text_sha256": "d71ecabf8eab3bb9a4e56d563a0b98bbdd5f370ab2f569c0b06d35142868f5e8",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

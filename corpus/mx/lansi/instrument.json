@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lansi",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
+  "short_name": "LANSI",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-08-11",
+  "latest_reform_date": "2022-05-11",
+  "retrieved_at": "2026-10-14T07:21:59.023078Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf",
+  "source_sha256": "0e34f329befed4474eb7bc1bc195ba13bbe188edfbbabc914a44723e62eb9e44",
+  "extracted_text_sha256": "cc07ea99884e086fbbf2959d413baba91300b20f64c99399e1ef30b8e44d83dc",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

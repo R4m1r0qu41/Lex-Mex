@@ -1,0 +1,212 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luefa:article:1",
+    "instrument_id": "urn:lex-mx:federal:statute:luefa",
+    "provision_type": "article",
+    "label": "Artículo 1o",
+    "number": "1o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Se crea la Universidad del Ejército y Fuerza Aérea, con los establecimientos de Educación Militar, de nivel medio superior y de tipo superior existentes, y los que se instituyan en el futuro.",
+    "publication_date": "1975-12-29",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luefa:article:2",
+    "instrument_id": "urn:lex-mx:federal:statute:luefa",
+    "provision_type": "article",
+    "label": "Artículo 2o",
+    "number": "2o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La Universidad del Ejército y Fuerza Aérea depende del Secretario de la Defensa Nacional a través de la Dirección General de Educación Militar, la que asumirá funciones de rectoría. Para este efecto, se reestructurará para continuar desempeñando sus actuales funciones conforme a lo dispuesto por la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y las que se deriven de la conducción y control de la Universidad.",
+    "publication_date": "1975-12-29",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luefa:article:3",
+    "instrument_id": "urn:lex-mx:federal:statute:luefa",
+    "provision_type": "article",
+    "label": "Artículo 3o",
+    "number": "3o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La Universidad del Ejército y Fuerza Aérea tendrá las siguientes finalidades:\n\nI.- Impartir a los militares conocimientos científicos, técnicos y humanísticos a nivel de educación media superior y educación superior, para el mejor cumplimiento de las misiones de las Armas, Ramas y Servicios de dichas instituciones.\n\nII.- Formar profesores para las diversas asignaturas que se impartan en los Establecimientos de Educación Militar.\n\nIII.- Realizar investigación científica en general y la relacionada con el avance de la ciencia y arte militares.\n\nIV.- Hacer llegar los beneficios de la cultura a los componentes del Ejército y Fuerza Aérea, a efecto de ampliar su formación así como sus conocimientos militares, para lograr más eficiencia en el cumplimiento de sus misiones.\n\nV.- Desarrollar en los educandos una formación espiritual acorde con los altos intereses de la Patria.",
+    "publication_date": "1975-12-29",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luefa:article:4",
+    "instrument_id": "urn:lex-mx:federal:statute:luefa",
+    "provision_type": "article",
+    "label": "Artículo 4o",
+    "number": "4o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "En el Reglamento interior de la Universidad del Ejército y Fuerza Aérea, se determinará la organización de la Universidad del Ejército y Fuerza Aérea, su dependencia administrativa, sus atribuciones, la denominación de sus diversos órganos y la de sus funcionarios.",
+    "publication_date": "1975-12-29",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luefa:article:5",
+    "instrument_id": "urn:lex-mx:federal:statute:luefa",
+    "provision_type": "article",
+    "label": "Artículo 5o",
+    "number": "5o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La Universidad contará con un Consejo Académico, que asesorará pedagógicamente al Director General de Educación Militar.",
+    "publication_date": "1975-12-29",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luefa:article:6",
+    "instrument_id": "urn:lex-mx:federal:statute:luefa",
+    "provision_type": "article",
+    "label": "Artículo 6o",
+    "number": "6o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La Secretaría de la Defensa Nacional expedirá los certificados de estudios, diplomas, títulos profesionales y grados académicos de las carreras y cursos que imparta la Universidad del Ejército y Fuerza Aérea.",
+    "publication_date": "1975-12-29",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luefa:article:7",
+    "instrument_id": "urn:lex-mx:federal:statute:luefa",
+    "provision_type": "article",
+    "label": "Artículo 7o",
+    "number": "7o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Para su funcionamiento, la Universidad dispondrá de los recursos que le sean asignados en el Presupuesto de Egresos de la Federación por conducto de la Secretaría de la Defensa Nacional.",
+    "publication_date": "1975-12-29",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luefa:transitory:primero",
+    "instrument_id": "urn:lex-mx:federal:statute:luefa",
+    "provision_type": "transitory",
+    "label": "PRIMERO",
+    "number": "PRIMERO",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La presente Ley entrará en vigor el día siguiente al de su publicación en el \"Diario Oficial\" de la Federación.",
+    "publication_date": "1975-12-29",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luefa:transitory:segundo",
+    "instrument_id": "urn:lex-mx:federal:statute:luefa",
+    "provision_type": "transitory",
+    "label": "SEGUNDO",
+    "number": "SEGUNDO",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Se derogan todas las disposiciones que se opongan a la presente Ley.",
+    "publication_date": "1975-12-29",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luefa:transitory:tercero",
+    "instrument_id": "urn:lex-mx:federal:statute:luefa",
+    "provision_type": "transitory",
+    "label": "TERCERO",
+    "number": "TERCERO",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "En tanto se expide el reglamento interior de la Universidad del Ejército y Fuerza Aérea, el funcionamiento de la misma se sujetará a las disposiciones que dicte el Secretario de la Defensa Nacional. Los establecimientos de educación militar de nivel medio superior y de tipo superior existentes se regularán por las disposiciones que actualmente las rigen en todo aquello que no se opongan a la presente Ley.",
+    "publication_date": "1975-12-29",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  }
+]

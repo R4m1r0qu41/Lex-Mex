@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lcacsefam",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSEFAM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcacsefam.htm",
+  "retrieved_at": "2026-10-14T07:22:44.383648Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 381140,
+  "etag": "\"5d0d4-6185a48d05500\"",
+  "last_modified": "Mon, 13 May 2024 18:45:08 GMT",
+  "source_sha256": "93f2f807af3fd78f9e7ffcc4b1b544b2c7eecca463efcd7adaa16a0f8716049f",
+  "extracted_text_sha256": "0c53e203685153d5dc9935b6161a6133faf9f8c7c4630955cdac1b6647a25428",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

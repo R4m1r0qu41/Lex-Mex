@@ -1,0 +1,17 @@
+{
+  "slug": "lgpist",
+  "instrument_id": "urn:lex-mx:federal:statute:lgpist",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes",
+  "short_name": "LGPIST",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPIST.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpist.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

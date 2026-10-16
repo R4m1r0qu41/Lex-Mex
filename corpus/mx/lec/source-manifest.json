@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lec",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/246.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lec.htm",
+  "retrieved_at": "2026-10-14T07:25:01.856926Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 348166,
+  "etag": "\"55006-576a2b3826500\"",
+  "last_modified": "Mon, 24 Sep 2018 19:07:32 GMT",
+  "source_sha256": "71dca147c2bed643f28921065bc240abcd15879a1504a55a9c153d6b202bbc5f",
+  "extracted_text_sha256": "d71ecabf8eab3bb9a4e56d563a0b98bbdd5f370ab2f569c0b06d35142868f5e8",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

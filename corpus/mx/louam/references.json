@@ -1,0 +1,232 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louam:article:13:reference:480-482:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louam:article:13",
+    "source_span": "20",
+    "start_char": 480,
+    "end_char": 482,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louam",
+    "target_provision_id": "urn:lex-mx:federal:statute:louam:article:20",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 455,
+        "end_char": 466
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louam:article:14:reference:94-95:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louam:article:14",
+    "source_span": "8",
+    "start_char": 94,
+    "end_char": 95,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louam",
+    "target_provision_id": "urn:lex-mx:federal:statute:louam:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louam:article:16:reference:619-620:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louam:article:16",
+    "source_span": "8",
+    "start_char": 619,
+    "end_char": 620,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louam",
+    "target_provision_id": "urn:lex-mx:federal:statute:louam:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louam:article:24:reference:72-73:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louam:article:24",
+    "source_span": "8",
+    "start_char": 72,
+    "end_char": 73,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louam",
+    "target_provision_id": "urn:lex-mx:federal:statute:louam:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louam:article:25:reference:187-189:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louam:article:25",
+    "source_span": "15",
+    "start_char": 187,
+    "end_char": 189,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louam",
+    "target_provision_id": "urn:lex-mx:federal:statute:louam:article:15",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louam:article:26:reference:192-193:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louam:article:26",
+    "source_span": "8",
+    "start_char": 192,
+    "end_char": 193,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louam",
+    "target_provision_id": "urn:lex-mx:federal:statute:louam:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louam:article:29:reference:151-153:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louam:article:29",
+    "source_span": "23",
+    "start_char": 151,
+    "end_char": 153,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louam",
+    "target_provision_id": "urn:lex-mx:federal:statute:louam:article:23",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 127,
+        "end_char": 137
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louam:article:30:reference:114-115:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louam:article:30",
+    "source_span": "8",
+    "start_char": 114,
+    "end_char": 115,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louam",
+    "target_provision_id": "urn:lex-mx:federal:statute:louam:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louam:transitory:cuarto:reference:159-161:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louam:transitory:cuarto",
+    "source_span": "11",
+    "start_char": 159,
+    "end_char": 161,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louam",
+    "target_provision_id": "urn:lex-mx:federal:statute:louam:article:11",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 134,
+        "end_char": 145
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louam:transitory:segundo:reference:108-109:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louam:transitory:segundo",
+    "source_span": "7",
+    "start_char": 108,
+    "end_char": 109,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louam",
+    "target_provision_id": "urn:lex-mx:federal:statute:louam:article:7",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louam:transitory:segundo:reference:675-676:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louam:transitory:segundo",
+    "source_span": "7",
+    "start_char": 675,
+    "end_char": 676,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louam",
+    "target_provision_id": "urn:lex-mx:federal:statute:louam:article:7",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louam:transitory:tercero:reference:170-172:13:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louam:transitory:tercero",
+    "source_span": "13",
+    "start_char": 170,
+    "end_char": 172,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louam",
+    "target_provision_id": "urn:lex-mx:federal:statute:louam:article:13",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 146,
+        "end_char": 156
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:louam:transitory:tercero:reference:565-567:13:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:louam:transitory:tercero",
+    "source_span": "13",
+    "start_char": 565,
+    "end_char": 567,
+    "target_instrument_id": "urn:lex-mx:federal:statute:louam",
+    "target_provision_id": "urn:lex-mx:federal:statute:louam:article:13",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 541,
+        "end_char": 551
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

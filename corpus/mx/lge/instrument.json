@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lge",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Educación",
+  "short_name": "LGE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2019-09-30",
+  "latest_reform_date": "2026-01-15",
+  "retrieved_at": "2026-10-14T07:32:35.918207Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf",
+  "source_sha256": "75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9",
+  "extracted_text_sha256": "3d9b9e65d6f61e98a5734e7331688a4f9fdc1a4637fffd30afc59d75ddc6f45e",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lopjf",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Orgánica del Poder Judicial de la Federación",
+  "short_name": "LOPJF",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2024-12-20",
+  "latest_reform_date": "2025-11-28",
+  "retrieved_at": "2026-10-14T07:40:43.118689Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf",
+  "source_sha256": "6569965cdfc64e4c223fc12d5a8ac885b7fad6cb432a0370d70f4dd7b8343fd1",
+  "extracted_text_sha256": "0d575a67cd3e7bf03eaa1fc3679cc783731ed3a8d7c4b97c1b1c9ee494fd1559",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

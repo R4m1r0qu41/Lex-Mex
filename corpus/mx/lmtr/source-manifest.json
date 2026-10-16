@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lmtr",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMTR.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmtr.htm",
+  "retrieved_at": "2026-10-14T07:38:48.700810Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 904920,
+  "etag": "\"dced8-63a3df7f97200\"",
+  "last_modified": "Sat, 19 Jul 2025 01:14:48 GMT",
+  "source_sha256": "fc8b5680b4a1402fe4c59be919f85ace11eb8114a27f8179757dbc3bc428cdd1",
+  "extracted_text_sha256": "56e0f5c61a808d14dfd720b12e22af90846c95cc335d554102d77f177d8577c5",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

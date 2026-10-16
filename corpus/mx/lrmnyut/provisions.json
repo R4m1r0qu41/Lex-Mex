@@ -1,0 +1,359 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:article:1",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "article",
+    "label": "Artículo 1°",
+    "number": "1°",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La presente Ley rige respecto del uranio, el torio y las demás substancias de las cuales puedan obtenerse isótopos hendibles o materias radioactivas que puedan producir energía nuclear.",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:article:2",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "article",
+    "label": "Artículo 2°",
+    "number": "2°",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Son reservas mineras nacionales los yacimientos de las substancias mencionadas en el artículo anterior, que se encuentren en terreno libre.\n\nEl Reglamento de esta Ley determinará los porcentajes que deben contener los minerales con substancias radioactivas a que se refiere el párrafo anterior, para quedar comprendidos en las disposiciones del mismo.",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:article:3",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "article",
+    "label": "Artículo 3°",
+    "number": "3°",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La explotación de los yacimientos a que se contrae el artículo anterior sólo será realizada por el Estado, a través del Ejecutivo Federal o de la institución oficial que éste determine.",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:article:4",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "article",
+    "label": "Artículo 4°",
+    "number": "4°",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Los titulares de concesiones mineras, cuando en ejercicio de sus derechos descubrieren la existencia de las substancias a que el artículo 1° de esta Ley se refiere y que reúnan las características que indique el Reglamento mencionado en el párrafo segundo del artículo 2°, las pondrán a la disposición del Ejecutivo Federal o de la institución oficial designada al efecto, dando el aviso correspondiente, dentro de los treinta días siguientes al descubrimiento.",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:article:5",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "article",
+    "label": "Artículo 5°",
+    "number": "5°",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "(Se deroga).\n\nArtículo derogado DOF 12-01-1972",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "repealed",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:article:6",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "article",
+    "label": "Artículo 6°",
+    "number": "6°",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Sólo el Ejecutivo Federal, o la institución oficial, designada por éste, podrán poseer, transferir por cualquier título, exportar e importar las substancias que se especifican en el artículo 1° de esta Ley, así como el plutonio Pu-239.",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:article:7",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "article",
+    "label": "Artículo 7°",
+    "number": "7°",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "(Se deroga).\n\nArtículo derogado DOF 12-01-1972",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "repealed",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:article:8",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "article",
+    "label": "Artículo 8°",
+    "number": "8°",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El transporte de las substancias radioactivas a que se contrae el artículo 1° de esta Ley y del plutonio Pu-239, únicamente podrá efectuarse mediante permiso expedido según las disposiciones del Reglamento de esta Ley.",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:article:9",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "article",
+    "label": "Artículo 9°",
+    "number": "9°",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "En caso de infracción a lo dispuesto en el artículo 4°, independientemente de las sanciones penales establecidas en esta Ley, el Ejecutivo Federal podrá proceder al rescate de la respectiva concesión, conforme a lo dispuesto en el artículo 14 de la Ley General de Bienes Nacionales.",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:article:10",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "article",
+    "label": "Artículo 10",
+    "number": "10",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Se impondrá prisión de uno a diez años y multa de cien a diez mil pesos:\n\nI.- Al que explote, en reservas mineras nacionales, yacimientos de uranio, torio y otras substancias de las cuales puedan separarse, producirse u obtenerse isótopos hendibles o substancias radioactivas que puedan producir energía nuclear, y\n\nII.- Al que comercie, posea, extraiga, refine, compre, enajene, ministre gratuitamente, transporte, y, en general, efectúe cualquier acto de adquisición, extracción, refinamiento, suministro o tráfico de uranio, torio, plutonio Pu-239 y demás substancias de las cuales puedan separarse, producirse u obtenerse isótopos hendibles o substancias radioactivas que puedan producir energía nuclear, sin sujetarse a las disposiciones de esta Ley. Aclaración a la fracción DOF 03-02-1950",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:article:11",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "article",
+    "label": "Artículo 11",
+    "number": "11",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Si alguno de los actos enumerados en el artículo anterior fueren ejecutados por comerciantes, laboratoristas, químicos o físicos directamente o valiéndose de otras personas, en los establecimientos en que se almacenen o empleen dichas substancias, serán clausurados éstos por un término no menor de uno ni mayor de tres años, sin perjuicio de la aplicación de las sanciones correspondientes.",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:article:12",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "article",
+    "label": "Artículo 12",
+    "number": "12",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El que efectúe alguno de los actos señalados en los dos artículos inmediatamente anteriores y ejerza, además, la medicina, la ingeniería, la química o la física en cualquiera de sus ramas, sufrirá, aparte de las penas correspondientes, la inhabilitación para el ejercicio de su profesión por un término no menor de dos ni mayor de seis años.",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:article:13",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "article",
+    "label": "Artículo 13",
+    "number": "13",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Al que importe o exporte uranio, torio, plutonio Pu-239 y demás substancias de las cuales puedan separarse, producirse u obtenerse isótopos hendibles o materias radioactivas que produzcan energía nuclear se le impondrá una pena de seis a doce años de prisión y multa de quinientos a veinte mil pesos, sin perjuicio de aplicarle, en su caso, la inhabilitación a que se refiere el artículo anterior.",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:article:14",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "article",
+    "label": "Artículo 14",
+    "number": "14",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Al que dejare de dar el aviso que ordena el artículo 4° de esta Ley, dentro del plazo que éste señala, se le impondrá prisión de tres días a un año y multa de cien a mil pesos.",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:article:15",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "article",
+    "label": "Artículo 15",
+    "number": "15",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El Uranio, el Torio, el plutonio Pu-239 y demás substancias de las cuales puedan separarse, producirse y obtenerse isótopos hendibles o materias radioactivas que puedan producir energía nuclear, y los demás objetos que se emplearen en la comisión de los delitos de que trata esta Ley, serán, en todo caso, decomisados, y puestos inmediatamente a disposición del Ejecutivo Federal o de la institución oficial designada por éste.",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:article:16",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "article",
+    "label": "Artículo 16",
+    "number": "16",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Son competentes los tribunales de la Federación para conocer de los delitos previstos en esta Ley.",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrmnyut:transitory:unico",
+    "instrument_id": "urn:lex-mx:federal:statute:lrmnyut",
+    "provision_type": "transitory",
+    "label": "UNICO",
+    "number": "UNICO",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La presente Ley entrará en vigor tres días después al de su publicación en el \"Diario Oficial\" de la Federación.\n\nFrancisco Hernández y Hernández, D.P.- Gustavo A. Uruchurtu, S.P.- Rafael Suárez Ocaña, D. S.- Alfonso Corona del Rosal, S.S.- Rúbricas\".",
+    "publication_date": "1950-01-26",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  }
+]

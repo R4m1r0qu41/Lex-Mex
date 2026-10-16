@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lrpcap",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley sobre Refugiados, Protección Complementaria y Asilo Político",
+  "short_name": "LRPCAP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2011-01-27",
+  "latest_reform_date": "2022-02-18",
+  "retrieved_at": "2026-10-14T07:44:08.031218Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf",
+  "source_sha256": "cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a",
+  "extracted_text_sha256": "42e0447e862fa679eb76d08d1e04dd101a1e3b523e0bb554138cc1ccddfe7ed1",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

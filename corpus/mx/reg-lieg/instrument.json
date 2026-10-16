@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lieg",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Información Estadística y Geográfica",
+  "short_name": "REG-LIEG",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1982-11-03",
+  "latest_reform_date": "2004-03-24",
+  "retrieved_at": "2026-10-14T08:00:11.099960Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIEG.pdf",
+  "source_sha256": "6bc8cda0b37a72c2315dd3f5c48abd50b4a96c14b0e718a3374f04a4abffcb7d",
+  "extracted_text_sha256": "d286b82f6692ebb79f50074a4025b38e4ab77744f66177932496f00f89c02f98",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

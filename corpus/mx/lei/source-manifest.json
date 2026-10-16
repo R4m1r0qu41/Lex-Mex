@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lei",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/36_200521.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lei.htm",
+  "retrieved_at": "2026-10-14T07:25:08.898526Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 355899,
+  "etag": "\"56e3b-5c3f6cca09380\"",
+  "last_modified": "Fri, 04 Jun 2021 20:47:26 GMT",
+  "source_sha256": "8fa795db61b78c3f09ea810793c1b7bc569c8d7fe48cf6a9fabc0fe414457ae5",
+  "extracted_text_sha256": "9f490bd990bfbf612d3a452593c6fc8483dbadc21a02d1a14e5fef43fa341836",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lsh:article:74
+instrument_id: urn:lex-mx:federal:statute:lsh
+instrument: LSH
+name: "Ley del Sector Hidrocarburos"
+provision_type: article
+number: "74"
+aliases: ["LSH — Artículo 74"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSH.pdf
+source_sha256: 1405f36fd836ff74d059ebe7e50ae439cbb9e5e291a317514667f34a26f72a23
+---
+
+> Título SEGUNDO · Capítulo VII
+
+# Artículo 74
+
+El conjunto de actividades de Exploración y Extracción de Hidrocarburos que se realicen en territorio nacional a través de Asignaciones y Contratos de Exploración y Extracción debe alcanzar, en promedio, al menos treinta y cinco por ciento de contenido nacional. Dicha meta excluye la Exploración y Extracción de Hidrocarburos en aguas profundas y ultra profundas. La Secretaría de Economía, con la opinión de la Secretaría de Energía, debe establecer una meta de contenido nacional acorde con las características de dichas actividades. Las personas Asignatarias y Contratistas deben cumplir individualmente y de forma progresiva con un porcentaje mínimo de contenido nacional que la Secretaría de Energía, con la opinión de la Secretaría de Economía, establezca en las Asignaciones y Contratos para la Exploración y Extracción. Las Asignaciones y Contratos de Exploración y Extracción deben incluir un programa de cumplimiento del porcentaje de contenido nacional a que se refiere el párrafo anterior, incluyendo los plazos y etapas aplicables. Para el caso de los Contratos para la Exploración y Extracción, la meta de contenido nacional debe estar incluida en las bases del procedimiento de licitación y adjudicación de estos. La Secretaría de Economía debe establecer la metodología para medir el contenido nacional en Asignaciones y Contratos para la Exploración y Extracción y verificar el cumplimiento del porcentaje de contenido nacional de las Asignaciones y Contratos para la Exploración y Extracción, conforme al programa que se establezca, para lo cual puede contar con el apoyo de una persona tercera independiente. Para el establecimiento de la metodología a la que se hace referencia en el párrafo anterior, la Secretaría de Economía debe utilizar, entre otros, los siguientes conceptos: I. Bienes y servicios contratados, considerando su origen; II. La mano de obra nacional y de trabajo calificada; III. La capacitación de la mano de obra nacional; IV. La inversión en infraestructura física local y regional, y V. La transferencia de la tecnología. Por lo que hace a la metodología, en el caso de las fracciones III, IV y V anteriores se requiere la opinión favorable de la Secretaría de Energía. Para la verificación del cumplimiento del programa de contenido nacional referido en este artículo, la Secretaría de Economía debe solicitar a la Secretaría de Energía su opinión de cumplimiento respecto a las fracciones III, IV y V anteriores, a efecto de considerarla en la resolución respectiva. Para la verificación del cumplimiento del programa de contenido nacional referido en el párrafo anterior, la Secretaría de Economía cuenta con un plazo máximo de noventa días naturales, contado a partir del término de cada uno de los periodos comprendidos en los planes o programas de Exploración y de desarrollo para la Extracción; en caso de que no se resuelva en dicho plazo, se entiende confirmada en sentido positivo. En caso de que la Secretaría de Economía determine que una persona Asignataria o Contratista ha incumplido con el porcentaje de contenido nacional que le corresponda, debe informar a la Secretaría de Energía, quien debe imponer las penalizaciones que correspondan conforme a lo dispuesto en la Asignación o Contrato para la Exploración y Extracción. La aplicación de este artículo es sin perjuicio de lo dispuesto en los tratados internacionales y acuerdos comerciales suscritos por México.

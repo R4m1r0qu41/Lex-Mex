@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSP.pdf",
+  "retrieved_at": "2026-10-14T07:54:21.293380Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 432984,
+  "etag": "\"69b58-563b4877e0780\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:02 GMT",
+  "source_sha256": "98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232",
+  "extracted_text_sha256": "1fc7660b057fcbaad10e52a40fe7f784d6be89ebee3668400f9c42ef6785e9c0",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

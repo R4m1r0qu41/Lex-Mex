@@ -1,0 +1,57 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:term:cedula-de-identificacion-personal",
+    "term": "Cédula de identificación personal",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:2",
+    "fraction": "I",
+    "start_char": 149,
+    "end_char": 394,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:term:cedula-unica-de-identificacion-personal",
+    "term": "Cédula única de identificación personal",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:2",
+    "fraction": "II",
+    "start_char": 394,
+    "end_char": 556,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:term:direccion-general",
+    "term": "Dirección General",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:2",
+    "fraction": "III",
+    "start_char": 556,
+    "end_char": 662,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:2",
+    "fraction": "IV",
+    "start_char": 662,
+    "end_char": 711,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:term:registro-nacional",
+    "term": "Registro Nacional",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfsp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:2",
+    "fraction": "V",
+    "start_char": 711,
+    "end_char": 806,
+    "basis": "express_definition"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:article:17:reference:28-45:16:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lansi:article:17",
+    "source_span": "artículo anterior",
+    "start_char": 28,
+    "end_char": 45,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "target_provision_id": "urn:lex-mx:federal:statute:lansi:article:16",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:article:17:reference:875-892:16:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lansi:article:17",
+    "source_span": "artículo anterior",
+    "start_char": 875,
+    "end_char": 892,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "target_provision_id": "urn:lex-mx:federal:statute:lansi:article:16",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:article:31:reference:1518-1520:31:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lansi:article:31",
+    "source_span": "IV",
+    "start_char": 1518,
+    "end_char": 1520,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "target_provision_id": "urn:lex-mx:federal:statute:lansi:article:31",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "IV",
+        "start_char": 1518,
+        "end_char": 1520
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:article:37:reference:660-663:134:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lansi:article:37",
+    "source_span": "134",
+    "start_char": 660,
+    "end_char": 663,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:134",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:article:5:reference:5250-5251:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lansi:article:5",
+    "source_span": "7",
+    "start_char": 5250,
+    "end_char": 5251,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "target_provision_id": "urn:lex-mx:federal:statute:lansi:article:7",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:article:7:reference:74-75:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lansi:article:7",
+    "source_span": "5",
+    "start_char": 74,
+    "end_char": 75,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "target_provision_id": "urn:lex-mx:federal:statute:lansi:article:5",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XVIII",
+        "start_char": 46,
+        "end_char": 60
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lansi:transitory:segundo:reference:339-341:30:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lansi:transitory:segundo",
+    "source_span": "30",
+    "start_char": 339,
+    "end_char": 341,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lansi",
+    "target_provision_id": "urn:lex-mx:federal:statute:lansi:article:30",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 315,
+        "end_char": 325
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

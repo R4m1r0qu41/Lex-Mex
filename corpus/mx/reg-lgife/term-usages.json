@@ -1,0 +1,1658 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:1:term-usage:257-260",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 257,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:term-usage:97-100",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 97,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:term-usage:240-243",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 240,
+    "end_char": 243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:term-usage:343-363",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Planteles Educativos",
+    "start_char": 343,
+    "end_char": 363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:term-usage:382-404",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:lineamientos-generales",
+    "span": "Lineamientos Generales",
+    "start_char": 382,
+    "end_char": 404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:term-usage:421-455",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:normas-y-especificaciones-tecnicas",
+    "span": "Normas y Especificaciones Técnicas",
+    "start_char": 421,
+    "end_char": 455
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:term-usage:590-624",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 590,
+    "end_char": 624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:term-usage:775-786",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:diagnostico",
+    "span": "Diagnóstico",
+    "start_char": 775,
+    "end_char": 786
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:term-usage:806-826",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Planteles Educativos",
+    "start_char": 806,
+    "end_char": 826
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:term-usage:1059-1088",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:cedula-de-informacion-tecnica",
+    "span": "Cédula de Información Técnica",
+    "start_char": 1059,
+    "end_char": 1088
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:term-usage:1233-1267",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 1233,
+    "end_char": 1267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:term-usage:1396-1430",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:normas-y-especificaciones-tecnicas",
+    "span": "Normas y Especificaciones Técnicas",
+    "start_char": 1396,
+    "end_char": 1430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:term-usage:1555-1589",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 1555,
+    "end_char": 1589
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:term-usage:1679-1697",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:calidad-de-la-infe",
+    "span": "Calidad de la INFE",
+    "start_char": 1679,
+    "end_char": 1697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:term-usage:2305-2308",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 2305,
+    "end_char": 2308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:term-usage:2598-2632",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 2598,
+    "end_char": 2632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:4:term-usage:104-107",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 104,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:4:term-usage:560-594",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:normas-y-especificaciones-tecnicas",
+    "span": "Normas y Especificaciones Técnicas",
+    "start_char": 560,
+    "end_char": 594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:4:term-usage:601-631",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:autoridades-en-materia-de-infe",
+    "span": "Autoridades en materia de INFE",
+    "start_char": 601,
+    "end_char": 631
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:5:term-usage:4-38",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:normas-y-especificaciones-tecnicas",
+    "span": "Normas y Especificaciones Técnicas",
+    "start_char": 4,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:6:term-usage:4-34",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:autoridades-en-materia-de-infe",
+    "span": "Autoridades en materia de INFE",
+    "start_char": 4,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:6:term-usage:113-116",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 113,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:6:term-usage:146-168",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:lineamientos-generales",
+    "span": "Lineamientos Generales",
+    "start_char": 146,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:6:term-usage:436-470",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:normas-y-especificaciones-tecnicas",
+    "span": "Normas y Especificaciones Técnicas",
+    "start_char": 436,
+    "end_char": 470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:7:term-usage:162-165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 162,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:8:term-usage:58-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:normas-y-especificaciones-tecnicas",
+    "span": "Normas y Especificaciones Técnicas",
+    "start_char": 58,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:8:term-usage:383-405",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:lineamientos-generales",
+    "span": "Lineamientos Generales",
+    "start_char": 383,
+    "end_char": 405
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:8:term-usage:519-553",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:normas-y-especificaciones-tecnicas",
+    "span": "Normas y Especificaciones Técnicas",
+    "start_char": 519,
+    "end_char": 553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:9:term-usage:64-67",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 64,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:9:term-usage:253-265",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-estatal",
+    "span": "INFE Estatal",
+    "start_char": 253,
+    "end_char": 265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:9:term-usage:327-361",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 327,
+    "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:10:term-usage:23-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Planteles Educativos",
+    "start_char": 23,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:10:term-usage:360-377",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Plantel Educativo",
+    "start_char": 360,
+    "end_char": 377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:10:term-usage:614-617",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 614,
+    "end_char": 617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:10:term-usage:674-686",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-federal",
+    "span": "INFE Federal",
+    "start_char": 674,
+    "end_char": 686
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:10:term-usage:707-719",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-estatal",
+    "span": "INFE Estatal",
+    "start_char": 707,
+    "end_char": 719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:10:term-usage:801-835",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 801,
+    "end_char": 835
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:11:term-usage:176-188",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-federal",
+    "span": "INFE Federal",
+    "start_char": 176,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:11:term-usage:286-298",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-estatal",
+    "span": "INFE Estatal",
+    "start_char": 286,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:11:term-usage:328-362",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 328,
+    "end_char": 362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:11:term-usage:656-668",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-federal",
+    "span": "INFE Federal",
+    "start_char": 656,
+    "end_char": 668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:11:term-usage:744-756",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-estatal",
+    "span": "INFE Estatal",
+    "start_char": 744,
+    "end_char": 756
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:11:term-usage:919-939",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Planteles Educativos",
+    "start_char": 919,
+    "end_char": 939
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:12:term-usage:91-103",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-federal",
+    "span": "INFE Federal",
+    "start_char": 91,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:12:term-usage:207-224",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Plantel Educativo",
+    "start_char": 207,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:12:term-usage:347-369",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 347,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:12:term-usage:388-400",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-estatal",
+    "span": "INFE Estatal",
+    "start_char": 388,
+    "end_char": 400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:12:term-usage:494-516",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 494,
+    "end_char": 516
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:12:term-usage:615-649",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 615,
+    "end_char": 649
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:13:term-usage:34-64",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:autoridades-en-materia-de-infe",
+    "span": "Autoridades en materia de INFE",
+    "start_char": 34,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:15:term-usage:3-32",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:cedula-de-informacion-tecnica",
+    "span": "Cédula de Información Técnica",
+    "start_char": 3,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:16:term-usage:47-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:diagnostico",
+    "span": "Diagnósticos",
+    "start_char": 47,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:16:term-usage:327-330",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 327,
+    "end_char": 330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:17:term-usage:88-100",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:diagnostico",
+    "span": "Diagnósticos",
+    "start_char": 88,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:17:term-usage:161-183",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 161,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:18:term-usage:46-80",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 46,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:18:term-usage:117-129",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:diagnostico",
+    "span": "Diagnósticos",
+    "start_char": 117,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:18:term-usage:133-153",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Planteles Educativos",
+    "start_char": 133,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:19:term-usage:187-209",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 187,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:19:term-usage:313-335",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 313,
+    "end_char": 335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:20:term-usage:67-101",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 67,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:20:term-usage:127-156",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:cedula-de-informacion-tecnica",
+    "span": "Cédula de Información Técnica",
+    "start_char": 127,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:20:term-usage:285-297",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:diagnostico",
+    "span": "Diagnósticos",
+    "start_char": 285,
+    "end_char": 297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:20:term-usage:305-325",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Planteles Educativos",
+    "start_char": 305,
+    "end_char": 325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:20:term-usage:341-375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 341,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:21:term-usage:75-109",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 75,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:21:term-usage:116-138",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 116,
+    "end_char": 138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:21:term-usage:268-271",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 268,
+    "end_char": 271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:22:term-usage:96-108",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:diagnostico",
+    "span": "Diagnósticos",
+    "start_char": 96,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:22:term-usage:127-149",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 127,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:23:term-usage:430-442",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:diagnostico",
+    "span": "Diagnósticos",
+    "start_char": 430,
+    "end_char": 442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:23:term-usage:722-734",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:diagnostico",
+    "span": "Diagnósticos",
+    "start_char": 722,
+    "end_char": 734
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:23:term-usage:1456-1474",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:calidad-de-la-infe",
+    "span": "Calidad de la INFE",
+    "start_char": 1456,
+    "end_char": 1474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:23:term-usage:1509-1512",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 1509,
+    "end_char": 1512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:23:term-usage:1697-1731",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:normas-y-especificaciones-tecnicas",
+    "span": "Normas y Especificaciones Técnicas",
+    "start_char": 1697,
+    "end_char": 1731
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:23:term-usage:1751-1763",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-federal",
+    "span": "INFE Federal",
+    "start_char": 1751,
+    "end_char": 1763
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:23:term-usage:1780-1792",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-estatal",
+    "span": "INFE Estatal",
+    "start_char": 1780,
+    "end_char": 1792
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:23:term-usage:1837-1871",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 1837,
+    "end_char": 1871
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:23:term-usage:2186-2220",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 2186,
+    "end_char": 2220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:24:term-usage:150-153",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 150,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:25:term-usage:46-76",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:autoridades-en-materia-de-infe",
+    "span": "Autoridades en materia de INFE",
+    "start_char": 46,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:25:term-usage:163-185",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 163,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:26:term-usage:510-520",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 510,
+    "end_char": 520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:29:term-usage:37-63",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organo-tecnico-de-consulta",
+    "span": "Órgano Técnico de Consulta",
+    "start_char": 37,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:29:term-usage:156-190",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 156,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:30:term-usage:152-155",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 152,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:30:term-usage:201-219",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:calidad-de-la-infe",
+    "span": "Calidad de la INFE",
+    "start_char": 201,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:31:term-usage:688-710",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 688,
+    "end_char": 710
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:32:term-usage:154-165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:evaluador",
+    "span": "Evaluadores",
+    "start_char": 154,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:33:term-usage:48-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-federal",
+    "span": "INFE Federal",
+    "start_char": 48,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:33:term-usage:352-364",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-federal",
+    "span": "INFE Federal",
+    "start_char": 352,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:34:term-usage:23-41",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:calidad-de-la-infe",
+    "span": "Calidad de la INFE",
+    "start_char": 23,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:34:term-usage:83-117",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 83,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:34:term-usage:182-185",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 182,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:34:term-usage:215-237",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:lineamientos-generales",
+    "span": "Lineamientos Generales",
+    "start_char": 215,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:34:term-usage:452-455",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 452,
+    "end_char": 455
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:34:term-usage:512-530",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:calidad-de-la-infe",
+    "span": "Calidad de la INFE",
+    "start_char": 512,
+    "end_char": 530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:34:term-usage:587-599",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-privada",
+    "span": "INFE Privada",
+    "start_char": 587,
+    "end_char": 599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:34:term-usage:717-729",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-estatal",
+    "span": "INFE Estatal",
+    "start_char": 717,
+    "end_char": 729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:34:term-usage:762-796",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 762,
+    "end_char": 796
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:34:term-usage:871-889",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:calidad-de-la-infe",
+    "span": "Calidad de la INFE",
+    "start_char": 871,
+    "end_char": 889
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:34:term-usage:966-975",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:evaluador",
+    "span": "Evaluador",
+    "start_char": 966,
+    "end_char": 975
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:34:term-usage:1233-1242",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:evaluador",
+    "span": "Evaluador",
+    "start_char": 1233,
+    "end_char": 1242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:34:term-usage:2036-2045",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:evaluador",
+    "span": "Evaluador",
+    "start_char": 2036,
+    "end_char": 2045
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:35:term-usage:36-54",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:calidad-de-la-infe",
+    "span": "Calidad de la INFE",
+    "start_char": 36,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:35:term-usage:288-307",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:comunidad-educativa",
+    "span": "Comunidad Educativa",
+    "start_char": 288,
+    "end_char": 307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:term-usage:75-86",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:evaluador",
+    "span": "Evaluadores",
+    "start_char": 75,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:term-usage:139-157",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:calidad-de-la-infe",
+    "span": "Calidad de la INFE",
+    "start_char": 139,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:term-usage:354-371",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Plantel Educativo",
+    "start_char": 354,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:term-usage:679-696",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Plantel Educativo",
+    "start_char": 679,
+    "end_char": 696
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:term-usage:983-1000",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Plantel Educativo",
+    "start_char": 983,
+    "end_char": 1000
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:term-usage:1180-1201",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:evaluacion-de-la-infe",
+    "span": "Evaluación de la INFE",
+    "start_char": 1180,
+    "end_char": 1201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:term-usage:1262-1279",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Plantel Educativo",
+    "start_char": 1262,
+    "end_char": 1279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:term-usage:1352-1370",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:calidad-de-la-infe",
+    "span": "Calidad de la INFE",
+    "start_char": 1352,
+    "end_char": 1370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:term-usage:1391-1425",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:normas-y-especificaciones-tecnicas",
+    "span": "Normas y Especificaciones Técnicas",
+    "start_char": 1391,
+    "end_char": 1425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:term-usage:1431-1453",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:lineamientos-generales",
+    "span": "Lineamientos Generales",
+    "start_char": 1431,
+    "end_char": 1453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:term-usage:1632-1641",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:evaluador",
+    "span": "Evaluador",
+    "start_char": 1632,
+    "end_char": 1641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:term-usage:1986-1995",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:evaluador",
+    "span": "Evaluador",
+    "start_char": 1986,
+    "end_char": 1995
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:term-usage:2054-2071",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Plantel Educativo",
+    "start_char": 2054,
+    "end_char": 2071
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:term-usage:2319-2337",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:calidad-de-la-infe",
+    "span": "Calidad de la INFE",
+    "start_char": 2319,
+    "end_char": 2337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:term-usage:2428-2445",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Plantel Educativo",
+    "start_char": 2428,
+    "end_char": 2445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:term-usage:2792-2809",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Plantel Educativo",
+    "start_char": 2792,
+    "end_char": 2809
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:37:term-usage:32-50",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:calidad-de-la-infe",
+    "span": "Calidad de la INFE",
+    "start_char": 32,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:37:term-usage:89-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 89,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:38:term-usage:204-226",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 204,
+    "end_char": 226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:39:term-usage:309-326",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Plantel Educativo",
+    "start_char": 309,
+    "end_char": 326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:39:term-usage:487-490",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 487,
+    "end_char": 490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:39:term-usage:832-850",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:calidad-de-la-infe",
+    "span": "Calidad de la INFE",
+    "start_char": 832,
+    "end_char": 850
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:40:term-usage:215-234",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:comunidad-educativa",
+    "span": "Comunidad Educativa",
+    "start_char": 215,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:40:term-usage:521-538",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Plantel Educativo",
+    "start_char": 521,
+    "end_char": 538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:41:term-usage:87-90",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 87,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:41:term-usage:222-242",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Planteles Educativos",
+    "start_char": 222,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:41:term-usage:293-304",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:evaluador",
+    "span": "Evaluadores",
+    "start_char": 293,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:42:term-usage:35-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 35,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:43:term-usage:85-119",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 85,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:43:term-usage:142-164",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 142,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:44:term-usage:45-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:evaluador",
+    "span": "Evaluadores",
+    "start_char": 45,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:44:term-usage:78-100",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 78,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:46:term-usage:3-29",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organo-tecnico-de-consulta",
+    "span": "Órgano Técnico de Consulta",
+    "start_char": 3,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:46:term-usage:271-305",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 271,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:46:term-usage:482-508",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organo-tecnico-de-consulta",
+    "span": "Órgano Técnico de Consulta",
+    "start_char": 482,
+    "end_char": 508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:46:term-usage:701-727",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organo-tecnico-de-consulta",
+    "span": "Órgano Técnico de Consulta",
+    "start_char": 701,
+    "end_char": 727
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:47:term-usage:55-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organo-tecnico-de-consulta",
+    "span": "Órgano Técnico de Consulta",
+    "start_char": 55,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:48:term-usage:3-29",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organo-tecnico-de-consulta",
+    "span": "Órgano Técnico de Consulta",
+    "start_char": 3,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:48:term-usage:180-206",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organo-tecnico-de-consulta",
+    "span": "Órgano Técnico de Consulta",
+    "start_char": 180,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:49:term-usage:17-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organo-tecnico-de-consulta",
+    "span": "Órgano Técnico de Consulta",
+    "start_char": 17,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:50:term-usage:3-29",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organo-tecnico-de-consulta",
+    "span": "Órgano Técnico de Consulta",
+    "start_char": 3,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:50:term-usage:880-892",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:diagnostico",
+    "span": "Diagnósticos",
+    "start_char": 880,
+    "end_char": 892
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:50:term-usage:943-965",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 943,
+    "end_char": 965
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:50:term-usage:1029-1063",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 1029,
+    "end_char": 1063
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:51:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:51:term-usage:371-374",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 371,
+    "end_char": 374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:51:term-usage:415-449",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 415,
+    "end_char": 449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:51:term-usage:667-687",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Planteles Educativos",
+    "start_char": 667,
+    "end_char": 687
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:52:term-usage:174-191",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Plantel Educativo",
+    "start_char": 174,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:52:term-usage:417-451",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:normas-y-especificaciones-tecnicas",
+    "span": "Normas y Especificaciones Técnicas",
+    "start_char": 417,
+    "end_char": 451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:52:term-usage:479-490",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:evaluador",
+    "span": "Evaluadores",
+    "start_char": 479,
+    "end_char": 490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:53:term-usage:71-93",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 71,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:55:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:56:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:56:term-usage:180-202",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 180,
+    "end_char": 202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:57:term-usage:45-67",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 45,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:57:term-usage:117-151",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 117,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:58:term-usage:40-74",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 40,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:61:term-usage:362-396",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:normas-y-especificaciones-tecnicas",
+    "span": "Normas y Especificaciones Técnicas",
+    "start_char": 362,
+    "end_char": 396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:64:term-usage:86-98",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-estatal",
+    "span": "INFE Estatal",
+    "start_char": 86,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:64:term-usage:104-138",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 104,
+    "end_char": 138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:64:term-usage:467-501",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:normas-y-especificaciones-tecnicas",
+    "span": "Normas y Especificaciones Técnicas",
+    "start_char": 467,
+    "end_char": 501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:65:term-usage:70-82",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:infe-privada",
+    "span": "INFE Privada",
+    "start_char": 70,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:65:term-usage:149-169",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Planteles Educativos",
+    "start_char": 149,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:65:term-usage:195-229",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:normas-y-especificaciones-tecnicas",
+    "span": "Normas y Especificaciones Técnicas",
+    "start_char": 195,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:66:term-usage:281-315",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:normas-y-especificaciones-tecnicas",
+    "span": "Normas y Especificaciones Técnicas",
+    "start_char": 281,
+    "end_char": 315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:71:term-usage:222-225",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 222,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:73:term-usage:119-139",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Planteles Educativos",
+    "start_char": 119,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:73:term-usage:166-184",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:calidad-de-la-infe",
+    "span": "Calidad de la INFE",
+    "start_char": 166,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:73:term-usage:234-237",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 234,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:73:term-usage:266-269",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:ley",
+    "span": "Ley",
+    "start_char": 266,
+    "end_char": 269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:75:term-usage:302-322",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:plantel-educativo",
+    "span": "Planteles Educativos",
+    "start_char": 302,
+    "end_char": 322
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:76:term-usage:61-95",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organismos-responsables-de-la-infe",
+    "span": "Organismos Responsables de la INFE",
+    "start_char": 61,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:76:term-usage:104-134",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:autoridades-en-materia-de-infe",
+    "span": "Autoridades en materia de INFE",
+    "start_char": 104,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:76:term-usage:311-329",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:calidad-de-la-infe",
+    "span": "Calidad de la INFE",
+    "start_char": 311,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:transitory:segundo:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:sistema-de-informacion",
+    "span": "Sistema de Información",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:transitory:tercero:term-usage:32-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:organo-tecnico-de-consulta",
+    "span": "Órgano Técnico de Consulta",
+    "start_char": 32,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:transitory:cuarto:term-usage:36-47",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgife:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgife:term:evaluador",
+    "span": "Evaluadores",
+    "start_char": 36,
+    "end_char": 47
+  }
+]

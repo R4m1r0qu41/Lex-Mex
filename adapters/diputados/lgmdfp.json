@@ -1,0 +1,17 @@
+{
+  "slug": "lgmdfp",
+  "instrument_id": "urn:lex-mx:federal:statute:lgmdfp",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas",
+  "short_name": "LGMDFP",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDFP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmdfp.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": null,
+  "expected_articles": null,
+  "expected_transitories": null,
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

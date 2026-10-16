@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeo",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGeo.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGeo.pdf",
+  "retrieved_at": "2026-10-14T07:57:07.026370Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 716572,
+  "etag": "\"aef1c-64dddfd4c2140\"",
+  "last_modified": "Wed, 25 Mar 2026 19:08:13 GMT",
+  "source_sha256": "b19bcf104673af06117a6d4f3c947591f7a65999f19bad3dcfe2599a29bb3ab0",
+  "extracted_text_sha256": "868bcb6fce3ece653cb47c736b44033c659f49ed3c5b929c9a7992b5ea11843a",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

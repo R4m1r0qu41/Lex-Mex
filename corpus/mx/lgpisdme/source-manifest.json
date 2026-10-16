@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgpisdme",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPISDME.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpisdme.htm",
+  "retrieved_at": "2026-10-14T07:35:21.604391Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 401446,
+  "etag": "\"62026-644e78e4fea00\"",
+  "last_modified": "Mon, 01 Dec 2025 17:46:16 GMT",
+  "source_sha256": "5d22df1b22454fe1fe5354c0d9d4cec71d1d7ded3549072c340c36cb3ea3a624",
+  "extracted_text_sha256": "93f63f9e533841bbfdcb31912c02351aed5badaf6c51da07e978257d73a5de89",
+  "extraction_tool": "pdftotext version 26.09.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1a37ccde2e113e550d08a82bbead5620c9b6d868"
+}

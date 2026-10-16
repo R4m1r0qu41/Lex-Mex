@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lse:article:219
+instrument_id: urn:lex-mx:federal:regulation:reg-lse
+instrument: REG-LSE
+name: "Reglamento de la Ley del Sector Eléctrico"
+provision_type: article
+number: "219"
+aliases: ["REG-LSE — Artículo 219"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSE.pdf
+source_sha256: 4bcc982b308b0813469b30db61b53d5a2c41e5a7240b3b1cac2f1aeeb2c00a2e
+---
+
+> Título SEXTO · Capítulo II
+
+# Artículo 219
+
+La Secretaría es la responsable de los procedimientos de Consulta Previa a que se refiere el artículo 135 de la Ley. Lo anterior, sin perjuicio de que esta determine que puedan participar otras dependencias o entidades federales, así como cualquier otra instancia de los tres órdenes de gobierno en el ámbito de sus respectivas competencias, previa consideración de la naturaleza del proyecto a consultar.
