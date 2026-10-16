@@ -13,5 +13,67 @@
   "expected_articles": null,
   "expected_transitories": null,
   "allow_article_gaps": false,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "outdated_reference_approvals": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lgmime:transitory:trigesimo",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
+      "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:11-bis",
+      "source_span": "11 Bis",
+      "start_char": 58,
+      "end_char": 64,
+      "source_text_sha256": "c32c4b8a21cfb3ce3b44de2073b0d7aaf768725561b931e9adb2624985217b85",
+      "source_sha256": "94e9c11b4c7f2b192eb33fb17818bea89d6d0bc5a85c85f6b08754fd6b2f6143",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "rationale": "The cited LGIPE article 11 Bis is suppressed in the current LGIPE text."
+    },
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lgmime:transitory:vigesimo-octavo",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
+      "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:11-bis",
+      "source_span": "11 bis",
+      "start_char": 41,
+      "end_char": 47,
+      "source_text_sha256": "91e2df5a2ebe8deda220a85201b0ae9a15792f9b3641786690a6905c4e6e85fd",
+      "source_sha256": "94e9c11b4c7f2b192eb33fb17818bea89d6d0bc5a85c85f6b08754fd6b2f6143",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "rationale": "The cited LGIPE article 11 Bis is suppressed in the current LGIPE text."
+    }
+  ],
+  "legal_operator_reviews": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lgmime:transitory:trigesimo",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
+      "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:11-bis",
+      "source_span": "11 Bis",
+      "start_char": 58,
+      "end_char": 64,
+      "source_text_sha256": "c32c4b8a21cfb3ce3b44de2073b0d7aaf768725561b931e9adb2624985217b85",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "note": "Operator: confirmed stale. LGIPE article 11 Bis reads [Artículo 11 Bis. Suprimido]."
+    },
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lgmime:transitory:vigesimo-octavo",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
+      "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:11-bis",
+      "source_span": "11 bis",
+      "start_char": 41,
+      "end_char": 47,
+      "source_text_sha256": "91e2df5a2ebe8deda220a85201b0ae9a15792f9b3641786690a6905c4e6e85fd",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "note": "Operator: confirmed stale. LGIPE article 11 Bis reads [Artículo 11 Bis. Suprimido]."
+    }
+  ]
 }

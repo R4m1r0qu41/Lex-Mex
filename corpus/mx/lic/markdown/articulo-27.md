@@ -33,6 +33,6 @@ IV. La autorización que otorgue la Comisión Nacional Bancaria y de Valores par
 
 V. Durante los noventa días siguientes a partir de la fecha de la publicación a que se refiere la fracción IV de este artículo, los acreedores de cualquiera de las sociedades, incluso de las demás entidades financieras del o de los grupos financieros a los que pertenezcan las sociedades objeto de la fusión, podrán oponerse judicialmente a la misma, con el único objeto de obtener el pago de sus créditos, sin que esta oposición suspenda la fusión.
 
-La fusión de una institución de banca múltiple que pertenezca a un grupo financiero, sea como fusionante o fusionada, se sujetará a lo dispuesto por este artículo y no le será aplicable lo previsto en el artículo 10 de la Ley para Regular las Agrupaciones Financieras.
+La fusión de una institución de banca múltiple que pertenezca a un grupo financiero, sea como fusionante o fusionada, se sujetará a lo dispuesto por este artículo y no le será aplicable lo previsto en el artículo [10](../../lraf/markdown/articulo-10.md) de la Ley para Regular las Agrupaciones Financieras.
 
 Artículo reformado DOF 30-04-1996, 04-06-2001, 01-02-2008

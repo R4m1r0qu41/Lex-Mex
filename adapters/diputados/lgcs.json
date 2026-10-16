@@ -13,5 +13,38 @@
   "expected_articles": null,
   "expected_transitories": null,
   "allow_article_gaps": false,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "outdated_reference_approvals": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lgcs:article:26",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lgcs",
+      "target_provision_id": "urn:lex-mx:federal:statute:lgcs:article:5-bis",
+      "source_span": "5 Bis",
+      "start_char": 2746,
+      "end_char": 2751,
+      "source_text_sha256": "56bdf240171d7253092e3611ec93b1b8edda2eff4cbb8eb804334f2e7fe71258",
+      "source_sha256": "f0bce536c7b11ef67cbc2aea3216310a0293fd3971fdf98913368151b6a1ac62",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "rationale": "Article 5 Bis of this Ley is suppressed ([Artículo 5 Bis.- Suprimido])."
+    }
+  ],
+  "legal_operator_reviews": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lgcs:article:26",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lgcs",
+      "target_provision_id": "urn:lex-mx:federal:statute:lgcs:article:5-bis",
+      "source_span": "5 Bis",
+      "start_char": 2746,
+      "end_char": 2751,
+      "source_text_sha256": "56bdf240171d7253092e3611ec93b1b8edda2eff4cbb8eb804334f2e7fe71258",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "note": "Operator: article 5 Bis was suppressed; the reference was made inconstitutional and is stale."
+    }
+  ]
 }

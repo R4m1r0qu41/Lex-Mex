@@ -35,7 +35,7 @@ VII. La prohibición a los deudores de la institución de pagarle o entregarle b
 
 VIII. La orden de suspender todo mandamiento de embargo o ejecución contra los bienes y derechos de la institución de banca múltiple. No procederá la suspensión tratándose de:
 
-a) Los mandamientos de embargo o ejecución de carácter laboral, tratándose de lo dispuesto en la fracción XXIII del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y
+a) Los mandamientos de embargo o ejecución de carácter laboral, tratándose de lo dispuesto en la fracción XXIII del apartado A del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos, y
 
 b) Los créditos con garantía real, debiendo observarse al efecto lo dispuesto por los artículos [259](articulo-259.md) y [260](articulo-260.md) de la presente Ley.
 

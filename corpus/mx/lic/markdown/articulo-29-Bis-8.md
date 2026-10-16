@@ -25,7 +25,7 @@ II. El Banco de México, representado por el Gobernador y un Subgobernador que e
 
 III. La Comisión Nacional Bancaria y de Valores, representada por su Presidente y el Vicepresidente de dicha Comisión competente para la supervisión de la institución de que se trate, y
 
-IV. El Instituto para la Protección al Ahorro Bancario, representado por su Secretario Ejecutivo y un vocal de la Junta de Gobierno del referido Instituto, que dicho órgano colegiado determine de entre aquellos a que se refiere el artículo 76 de la Ley de Protección al Ahorro Bancario.
+IV. El Instituto para la Protección al Ahorro Bancario, representado por su Secretario Ejecutivo y un vocal de la Junta de Gobierno del referido Instituto, que dicho órgano colegiado determine de entre aquellos a que se refiere el artículo [76](../../lpab/markdown/articulo-76.md) de la Ley de Protección al Ahorro Bancario.
 
 Los integrantes del Comité de Estabilidad Bancaria no tendrán suplentes.
 

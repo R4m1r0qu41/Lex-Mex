@@ -4,6 +4,19 @@
   "valid": true,
   "article_count": 489,
   "transitory_count": 19,
-  "reference_count": 1049,
-  "issues": []
+  "reference_count": 1136,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "historical_superseded_reference_outdated",
+      "message": "reviewed stale citation retained without a live link: urn:lex-mx:federal:statute:lraf:article:28-bis",
+      "provision_id": "urn:lex-mx:federal:statute:lic:article:187"
+    },
+    {
+      "severity": "warning",
+      "code": "historical_superseded_reference_outdated",
+      "message": "reviewed stale citation retained without a live link: urn:lex-mx:federal:statute:lfce:article:31-bis",
+      "provision_id": "urn:lex-mx:federal:statute:lic:article:194"
+    }
+  ]
 }

@@ -17,4 +17,4 @@ source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
 
 # Artículo 118
 
-Las relaciones entre las administradoras y empresas operadoras, con sus empleados, se regirán por lo dispuesto en el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal del Trabajo.
+Las relaciones entre las administradoras y empresas operadoras, con sus empleados, se regirán por lo dispuesto en el apartado A del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal del Trabajo.

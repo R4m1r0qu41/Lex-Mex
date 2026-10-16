@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 44
 
-Los concesionarios o asignatarios podrán solicitar a "La Comisión", la expedición de los certificados a que se refieren los artículos 224 fracción V, 281-A y 282 fracción IV, de la Ley Federal de Derechos.
+Los concesionarios o asignatarios podrán solicitar a "La Comisión", la expedición de los certificados a que se refieren los artículos [224](../../lfd/markdown/articulo-224.md) fracción V, [281-A](../../lfd/markdown/articulo-281-A.md) y [282](../../lfd/markdown/articulo-282.md) fracción IV, de la Ley Federal de Derechos.
 
 La solicitud deberá contener:
 

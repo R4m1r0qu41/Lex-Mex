@@ -4,7 +4,7 @@
   "valid": true,
   "article_count": 70,
   "transitory_count": 30,
-  "reference_count": 35,
+  "reference_count": 39,
   "issues": [
     {
       "severity": "warning",
@@ -17,6 +17,18 @@
       "code": "counts_not_frozen",
       "message": "no transitory-count baseline frozen; parse found 30 transitories",
       "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "historical_superseded_reference_outdated",
+      "message": "reviewed stale citation retained without a live link: urn:lex-mx:federal:statute:lgipe:article:11-bis",
+      "provision_id": "urn:lex-mx:federal:statute:lgmime:transitory:trigesimo"
+    },
+    {
+      "severity": "warning",
+      "code": "historical_superseded_reference_outdated",
+      "message": "reviewed stale citation retained without a live link: urn:lex-mx:federal:statute:lgipe:article:11-bis",
+      "provision_id": "urn:lex-mx:federal:statute:lgmime:transitory:vigesimo-octavo"
     }
   ]
 }

@@ -17,6 +17,6 @@ source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 
 # Artículo 85 Bis 1
 
-La Comisión Nacional Bancaria y de Valores y la Comisión Nacional de Seguros y Fianzas, según corresponda, podrán suspender, por un período no menor a ciento ochenta días, la contratación de nuevas operaciones de fideicomisos de garantía, a las entidades que sean condenadas a pagar en más de una ocasión las indemnizaciones a que se refiere el artículo 393 de la Ley General de Títulos y Operaciones de Crédito.
+La Comisión Nacional Bancaria y de Valores y la Comisión Nacional de Seguros y Fianzas, según corresponda, podrán suspender, por un período no menor a ciento ochenta días, la contratación de nuevas operaciones de fideicomisos de garantía, a las entidades que sean condenadas a pagar en más de una ocasión las indemnizaciones a que se refiere el artículo [393](../../lgtoc/markdown/articulo-393.md) de la Ley General de Títulos y Operaciones de Crédito.
 
 Artículo adicionado DOF 23-05-2000. Reformado DOF 01-02-2008

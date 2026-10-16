@@ -17,7 +17,7 @@ source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 
 # Artículo 44 Bis 1
 
-La Secretaría de la Función Pública y los órganos internos de control de las instituciones de banca de desarrollo y de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, como excepción a lo dispuesto en el artículo 37 de la Ley Orgánica de la Administración Pública Federal y en la Ley Federal de las Entidades Paraestatales, sólo tendrán competencia para realizar el control, evaluación y vigilancia de las disposiciones administrativas que les sean aplicables a las instituciones de banca de desarrollo sobre:
+La Secretaría de la Función Pública y los órganos internos de control de las instituciones de banca de desarrollo y de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, como excepción a lo dispuesto en el artículo [37](../../loapf/markdown/articulo-37.md) de la Ley Orgánica de la Administración Pública Federal y en la Ley Federal de las Entidades Paraestatales, sólo tendrán competencia para realizar el control, evaluación y vigilancia de las disposiciones administrativas que les sean aplicables a las instituciones de banca de desarrollo sobre:
 
 I. Presupuesto y responsabilidad hacendaria;
 
@@ -29,7 +29,7 @@ IV. Responsabilidades administrativas de servidores públicos, y
 
 V. Transparencia y acceso a la información pública, conforme a la ley de la materia.
 
-La Secretaría de la Función Pública y los órganos internos de control, como excepción a lo previsto en el artículo 37 de la Ley Orgánica de la Administración Pública Federal, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
+La Secretaría de la Función Pública y los órganos internos de control, como excepción a lo previsto en el artículo [37](../../loapf/markdown/articulo-37.md) de la Ley Orgánica de la Administración Pública Federal, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
 
 Asimismo, la Secretaría de la Función Pública y los órganos internos de control no podrán ejercer, en ningún caso, las facultades en materia de control, revisión, verificación, comprobación, evaluación y vigilancia que las disposiciones jurídicas aplicables conceden a la Comisión Nacional Bancaria y de Valores, al Banco de México y a los órganos que deban establecerse en cumplimiento de la normatividad emitida por dichas instituciones, ni de las disposiciones jurídicas emitidas por las mismas, por el Consejo Directivo o los órganos señalados.
 

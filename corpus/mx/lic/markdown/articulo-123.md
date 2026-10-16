@@ -23,7 +23,7 @@ La Comisión Nacional Bancaria y de Valores proporcionará al Instituto para la 
 
 Para efectos de lo previsto en el párrafo anterior, la Comisión Nacional Bancaria y de Valores podrá celebrar acuerdos de intercambio de información en términos de ley.
 
-El Instituto para la Protección al Ahorro Bancario podrá solicitar a las instituciones de banca múltiple información relevante sobre las obligaciones garantizadas a que se refiere el artículo 6 de la Ley de Protección al Ahorro Bancario, aquella relativa al cálculo de las cuotas que tales instituciones deben pagarle según dicho ordenamiento legal, así como la demás información que requiera para el debido cumplimiento de sus funciones, cuando lo considere necesario.
+El Instituto para la Protección al Ahorro Bancario podrá solicitar a las instituciones de banca múltiple información relevante sobre las obligaciones garantizadas a que se refiere el artículo [6](../../lpab/markdown/articulo-6o.md) de la Ley de Protección al Ahorro Bancario, aquella relativa al cálculo de las cuotas que tales instituciones deben pagarle según dicho ordenamiento legal, así como la demás información que requiera para el debido cumplimiento de sus funciones, cuando lo considere necesario.
 
 Lo dispuesto en este artículo se aplicará sin perjuicio de las facultades conferidas al Instituto para la Protección al Ahorro Bancario en la Ley de Protección al Ahorro Bancario.
 

@@ -23,7 +23,7 @@ I. Se condicione el acceso a la proveeduría de bienes o servicios de uno u otro
 
 II. Se establezca en exclusiva o se imponga la apertura de cuentas o el uso de medios de pago de la institución de banca múltiple vinculada a la persona moral de que se trate.
 
-Las instituciones adicionalmente deberán observar lo previsto en el artículo 17 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
+Las instituciones adicionalmente deberán observar lo previsto en el artículo [17](../../ltosf/markdown/articulo-17.md) de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
 Las Comisiones Nacionales Bancaria y de Valores y para la Protección y Defensa de los Usuarios de Servicios Financieros darán vista a la Comisión Federal de Competencia Económica, cuando en el ejercicio de sus facultades detecten la existencia de alguna de las prácticas mencionadas en este artículo, a efecto de que esta última en el ámbito de su competencia, resuelva lo que conforme a derecho corresponda.
 

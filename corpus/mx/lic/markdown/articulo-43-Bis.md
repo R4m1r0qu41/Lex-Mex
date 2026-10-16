@@ -21,7 +21,7 @@ Las remuneraciones, incluyendo sueldos y prestaciones de los trabajadores de las
 
 Las remuneraciones, jubilaciones, pensiones, derechos, obligaciones y cualquier prestación de los servidores públicos de confianza deberán aprobarse en los términos de la fracción XVIII del artículo [42](articulo-42.md) de esta Ley y fijarse en el respectivo manual de remuneraciones, jubilaciones, derechos y obligaciones.
 
-El manual de percepciones a que se refiere el artículo 66 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria no será aplicable a los trabajadores de las instituciones de banca de desarrollo.
+El manual de percepciones a que se refiere el artículo [66](../../lfprh/markdown/articulo-66.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria no será aplicable a los trabajadores de las instituciones de banca de desarrollo.
 
 Las instituciones de banca de desarrollo incluirán sus tabuladores aprobados en sus respectivos proyectos de presupuesto e informarán sobre los montos destinados al pago de remuneraciones, jubilaciones, pensiones y demás prestaciones al rendir la Cuenta Pública.
 

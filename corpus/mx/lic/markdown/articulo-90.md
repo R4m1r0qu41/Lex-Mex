@@ -21,7 +21,7 @@ Para acreditar la personalidad y facultades de los funcionarios de las instituci
 
 Los poderes que otorguen las instituciones de crédito no requerirán otras inserciones que las relativas al acuerdo del consejo de administración o del consejo directivo, según corresponda, que haya autorizado su otorgamiento, a las facultades que en los estatutos sociales o en sus respectivas leyes orgánicas y reglamentos orgánicos se concedan al mismo consejo y a la comprobación del nombramiento de los consejeros.
 
-Se entenderá que los poderes conferidos de acuerdo con lo dispuesto en los párrafos primero y segundo del artículo 2554 del Código Civil Federal o de sus correlativos en los estados de la República y el Distrito Federal comprenden la facultad de otorgar, suscribir, avalar y endosar títulos de crédito, aun cuando no se mencione expresamente dicha facultad. Párrafo reformado DOF 01-02-2008
+Se entenderá que los poderes conferidos de acuerdo con lo dispuesto en los párrafos primero y segundo del artículo [2554](../../ccf/markdown/articulo-2554.md) del Código Civil Federal o de sus correlativos en los estados de la República y el Distrito Federal comprenden la facultad de otorgar, suscribir, avalar y endosar títulos de crédito, aun cuando no se mencione expresamente dicha facultad. Párrafo reformado DOF 01-02-2008
 
 Los nombramientos de los funcionarios bancarios deberán inscribirse en el Registro Público de Comercio, previa ratificación de firmas, ante fedatario público, del documento auténtico en que conste el nombramiento respectivo.
 

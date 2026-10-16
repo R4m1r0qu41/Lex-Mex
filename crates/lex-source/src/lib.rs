@@ -152,6 +152,8 @@ pub struct SourceConfig {
     pub source_repeal_notice: Option<lex_core::SourceRepealNotice>,
     #[serde(default)]
     pub outdated_reference_approvals: Vec<lex_core::OutdatedReferenceApproval>,
+    #[serde(default)]
+    pub legal_operator_reviews: Vec<lex_core::LegalOperatorReview>,
     /// Latest consolidated reform date when the official operational source
     /// index supplies it but the downloaded document does not print it.
     /// This is an adapter fact, never inferred from retrieval time.
@@ -296,6 +298,25 @@ pub fn load_config(path: &Path) -> Result<SourceConfig> {
                 approval.target_provision_id.clone()
             )),
             "duplicate outdated-reference approval"
+        );
+    }
+    let mut reviews = std::collections::HashSet::new();
+    for review in &config.legal_operator_reviews {
+        review.validate().map_err(anyhow::Error::msg)?;
+        anyhow::ensure!(
+            review
+                .source_provision_id
+                .starts_with(&format!("{}:", config.instrument_id)),
+            "legal operator review source belongs to another instrument"
+        );
+        anyhow::ensure!(
+            reviews.insert((
+                review.source_provision_id.clone(),
+                review.start_char,
+                review.end_char,
+                review.target_provision_id.clone()
+            )),
+            "duplicate legal operator review"
         );
     }
     Ok(config)

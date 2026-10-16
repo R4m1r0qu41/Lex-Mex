@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCS.pdf
 source_sha256: f0bce536c7b11ef67cbc2aea3216310a0293fd3971fdf98913368151b6a1ac62
 ---
 
+> Referencia histórica desactualizada: «5 Bis» → `urn:lex-mx:federal:statute:lgcs:article:5-bis`. Se conserva la cita sin enlace vigente. Article 5 Bis of this Ley is suppressed ([Artículo 5 Bis.- Suprimido]).
+
 > Título II · Capítulo V
 
 # Artículo 26

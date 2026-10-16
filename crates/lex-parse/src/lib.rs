@@ -1015,6 +1015,7 @@ fn reference_edge(
         resolution_status,
         reference_form,
         outdated_reference_approval: None,
+        legal_operator_review: None,
     }
 }
 
@@ -2236,6 +2237,40 @@ pub fn apply_outdated_reference_approvals<S: std::hash::BuildHasher>(
         );
         edge.resolution_status = ReferenceResolutionStatus::HistoricalSupersededReferenceOutdated;
         edge.outdated_reference_approval = Some(approval.clone());
+    }
+    Ok(())
+}
+
+/// Attach exact-span legal operator notes. A note never changes an edge's target
+/// or status; every supplied note must match exactly one extracted edge, so a
+/// note whose citation, span or provision text has changed fails closed.
+pub fn apply_legal_operator_reviews(
+    references: &mut [ReferenceEdge],
+    provisions: &[Provision],
+    reviews: &[lex_core::LegalOperatorReview],
+) -> Result<()> {
+    for review in reviews {
+        review.validate().map_err(anyhow::Error::msg)?;
+        let source = provisions
+            .iter()
+            .find(|p| p.id == review.source_provision_id)
+            .ok_or_else(|| anyhow::anyhow!("legal operator review source missing"))?;
+        let matches: Vec<_> = references
+            .iter()
+            .enumerate()
+            .filter(|(_, edge)| review.matches(edge, &source.text))
+            .map(|(i, _)| i)
+            .collect();
+        anyhow::ensure!(
+            matches.len() == 1,
+            "legal operator review must match exactly one extracted edge"
+        );
+        let edge = &mut references[matches[0]];
+        anyhow::ensure!(
+            edge.legal_operator_review.is_none(),
+            "legal operator review cannot overwrite a previous review"
+        );
+        edge.legal_operator_review = Some(review.clone());
     }
     Ok(())
 }
@@ -4248,6 +4283,121 @@ Ciudad de México, a 1 de octubre de 2025.
             )
             .is_err()
         );
+    }
+
+    #[test]
+    #[allow(clippy::too_many_lines)]
+    fn legal_operator_review_annotates_one_exact_edge_without_changing_it() {
+        let instrument_id = "urn:lex-mx:federal:statute:lcnbv";
+        let options = DiputadosOptions {
+            instrument_id: instrument_id.to_owned(),
+            header_lines: vec!["LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES".to_owned()],
+            stop_markers: vec![],
+            annex_markers: vec![],
+            separate_enactment: false,
+            nested_instrument: None,
+        };
+        let doc = parse_diputados(
+            include_str!("../../../fixtures/diputados/held-lcnbv-article15.txt"),
+            &options,
+            NaiveDate::from_ymd_opt(1995, 4, 28).unwrap(),
+        )
+        .unwrap();
+        let target = "urn:lex-mx:federal:statute:lmv";
+        let opts = ReferenceOptions {
+            policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                internal_markers: vec!["de esta ley".to_owned()],
+                external_instruments: vec![(
+                    "ley del mercado de valores".to_owned(),
+                    target.to_owned(),
+                )],
+            },
+            transitory_citations: true,
+            same_article_fractions: true,
+            relative_references: true,
+            historical_targets: vec![],
+        };
+        let mut edges = extract_references(&doc.provisions, None, &opts, &HashSet::new()).unwrap();
+        let edge = edges
+            .iter()
+            .find(|e| e.target_provision_id == format!("{target}:article:16-bis-7"))
+            .unwrap()
+            .clone();
+        let source = doc
+            .provisions
+            .iter()
+            .find(|p| p.id == edge.source_provision_id)
+            .unwrap();
+        let review = lex_core::LegalOperatorReview {
+            source_provision_id: edge.source_provision_id.clone(),
+            target_instrument_id: target.to_owned(),
+            target_provision_id: edge.target_provision_id.clone(),
+            source_span: edge.source_span.clone(),
+            start_char: edge.start_char,
+            end_char: edge.end_char,
+            source_text_sha256: lex_core::evidence_sha256(&source.text),
+            reviewer: "Fixture reviewer".to_owned(),
+            captured_at: "2026-10-16T00:00:00Z".to_owned(),
+            note: "Fixture note: the reviewer names a different current article.".to_owned(),
+            decision_source: "fixture decision".to_owned(),
+            decision_source_sha256: "c".repeat(64),
+        };
+        super::apply_legal_operator_reviews(
+            &mut edges,
+            &doc.provisions,
+            std::slice::from_ref(&review),
+        )
+        .unwrap();
+        let reviewed = edges.iter().find(|e| e.id == edge.id).unwrap();
+        assert_eq!(reviewed.legal_operator_review.as_ref(), Some(&review));
+        // The note changes neither the cited target nor the resolution status.
+        assert_eq!(reviewed.target_provision_id, edge.target_provision_id);
+        assert_eq!(reviewed.resolution_status, edge.resolution_status);
+        assert_eq!(
+            edges
+                .iter()
+                .filter(|e| e.legal_operator_review.is_some())
+                .count(),
+            1
+        );
+        // Changed provision text, an unmatched citation, a duplicate and a
+        // second review of the same edge all fail closed.
+        let mut raw = vec![edge.clone()];
+        let mut changed = doc.provisions.clone();
+        for provision in &mut changed {
+            provision.text.push(' ');
+        }
+        assert!(
+            super::apply_legal_operator_reviews(&mut raw, &changed, std::slice::from_ref(&review))
+                .is_err()
+        );
+        let mut elsewhere = review.clone();
+        elsewhere.start_char += 1;
+        elsewhere.end_char += 1;
+        assert!(
+            super::apply_legal_operator_reviews(&mut raw, &doc.provisions, &[elsewhere]).is_err()
+        );
+        let mut duplicate = vec![edge.clone(), edge];
+        assert!(
+            super::apply_legal_operator_reviews(
+                &mut duplicate,
+                &doc.provisions,
+                std::slice::from_ref(&review)
+            )
+            .is_err()
+        );
+        let mut twice = raw.clone();
+        assert!(
+            super::apply_legal_operator_reviews(
+                &mut twice,
+                &doc.provisions,
+                &[review.clone(), review.clone()]
+            )
+            .is_err()
+        );
+        let mut blank = review;
+        blank.note = "  ".to_owned();
+        assert!(blank.validate().is_err());
     }
 
     #[test]

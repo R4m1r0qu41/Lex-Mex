@@ -13,5 +13,38 @@
   "expected_articles": null,
   "expected_transitories": null,
   "allow_article_gaps": false,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "outdated_reference_approvals": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:135-ter",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lgdnna",
+      "target_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:157",
+      "source_span": "157",
+      "start_char": 319,
+      "end_char": 322,
+      "source_text_sha256": "9a165b237bc57a258fa35f9cabf0f22a5ffcc570171bc3788687639446e2f103",
+      "source_sha256": "475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "rationale": "Article 135 Ter cites article 157 of this Ley, which the retained text does not contain; the citation is stale."
+    }
+  ],
+  "legal_operator_reviews": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:135-ter",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lgdnna",
+      "target_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:157",
+      "source_span": "157",
+      "start_char": 319,
+      "end_char": 322,
+      "source_text_sha256": "9a165b237bc57a258fa35f9cabf0f22a5ffcc570171bc3788687639446e2f103",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "note": "Operator: do not link. The reference is stale; an article cited by another instrument is sometimes later derogated or eliminated and the citation is never updated."
+    }
+  ]
 }

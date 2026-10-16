@@ -13,5 +13,96 @@
   "expected_articles": null,
   "expected_transitories": null,
   "allow_article_gaps": false,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "outdated_reference_approvals": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:15",
+      "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets",
+      "target_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:80",
+      "source_span": "80",
+      "start_char": 362,
+      "end_char": 364,
+      "source_text_sha256": "60a3d91a8d8914a2b3a5be24628e567894263f237937edaadc0f8f91f94ce431",
+      "source_sha256": "70dc1863cee2a88911e43cefb51d1c2007e550a2a46f9e11d5569c1525667cfd",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "rationale": "This Reglamento has no article 80."
+    },
+    {
+      "source_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:47",
+      "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets",
+      "target_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:80",
+      "source_span": "80",
+      "start_char": 146,
+      "end_char": 148,
+      "source_text_sha256": "4a35830a4acd829a87e45195169e4394a06e3e0db538f5617fef9a73f166c821",
+      "source_sha256": "70dc1863cee2a88911e43cefb51d1c2007e550a2a46f9e11d5569c1525667cfd",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "rationale": "This Reglamento has no article 80."
+    },
+    {
+      "source_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:60",
+      "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets",
+      "target_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:80",
+      "source_span": "80",
+      "start_char": 72,
+      "end_char": 74,
+      "source_text_sha256": "0c99f8143714851e730a77c52bf72f5efbd9aeb75f0035fc22f0d0a95e9ba355",
+      "source_sha256": "70dc1863cee2a88911e43cefb51d1c2007e550a2a46f9e11d5569c1525667cfd",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "rationale": "This Reglamento has no article 80."
+    }
+  ],
+  "legal_operator_reviews": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:15",
+      "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets",
+      "target_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:80",
+      "source_span": "80",
+      "start_char": 362,
+      "end_char": 364,
+      "source_text_sha256": "60a3d91a8d8914a2b3a5be24628e567894263f237937edaadc0f8f91f94ce431",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "note": "Operator: typo in the reference; it is meant to cite article 8o (ordinal 8), not 80."
+    },
+    {
+      "source_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:47",
+      "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets",
+      "target_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:80",
+      "source_span": "80",
+      "start_char": 146,
+      "end_char": 148,
+      "source_text_sha256": "4a35830a4acd829a87e45195169e4394a06e3e0db538f5617fef9a73f166c821",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "note": "Operator: typo in the reference; it is meant to cite article 8o (ordinal 8), not 80."
+    },
+    {
+      "source_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:60",
+      "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets",
+      "target_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:80",
+      "source_span": "80",
+      "start_char": 72,
+      "end_char": 74,
+      "source_text_sha256": "0c99f8143714851e730a77c52bf72f5efbd9aeb75f0035fc22f0d0a95e9ba355",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "note": "Operator: typo in the reference; it is meant to cite article 8o (ordinal 8), not 80."
+    }
+  ]
 }

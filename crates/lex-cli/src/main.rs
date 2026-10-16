@@ -2351,6 +2351,12 @@ fn preserve_intake_decisions(context: &InstrumentContext) -> Result<()> {
                     "refusing to replace or clear persisted stale-reference decision"
                 );
             }
+            if let Some(review) = edge.legal_operator_review {
+                anyhow::ensure!(
+                    context.config.legal_operator_reviews.contains(&review),
+                    "refusing to replace or clear persisted legal operator review"
+                );
+            }
         }
     }
     Ok(())
@@ -2366,8 +2372,9 @@ fn extract_instrument_references(
     preserve_intake_decisions(context)?;
     anyhow::ensure!(
         context.config.reference_policy.as_deref() != Some("internal")
-            || context.config.outdated_reference_approvals.is_empty(),
-        "exact external reference approvals require cross-instrument extraction"
+            || (context.config.outdated_reference_approvals.is_empty()
+                && context.config.legal_operator_reviews.is_empty()),
+        "exact external reference approvals and reviews require cross-instrument extraction"
     );
     if context.config.reference_policy.as_deref() == Some("internal") {
         return extract_internal_references(provisions);
@@ -2429,6 +2436,11 @@ fn extract_instrument_references(
         &context.config.outdated_reference_approvals,
         &instrument.source_sha256,
         &known_targets,
+    )?;
+    lex_parse::apply_legal_operator_reviews(
+        &mut references,
+        provisions,
+        &context.config.legal_operator_reviews,
     )?;
     Ok(references)
 }
@@ -4853,6 +4865,7 @@ mod tests {
             resolution_status: ReferenceResolutionStatus::HistoricalSupersededReferenceOutdated,
             reference_form: lex_core::ReferenceForm::Direct,
             outdated_reference_approval: Some(approval.clone()),
+            legal_operator_review: None,
         });
         write_canonical(&corpus, &context.paths.corpus).unwrap();
         assert!(preserve_intake_decisions(&context).is_err());
@@ -4947,6 +4960,7 @@ mod tests {
             resolution_status: status,
             reference_form: lex_core::ReferenceForm::Direct,
             outdated_reference_approval: None,
+            legal_operator_review: None,
         };
         let corpus_with = |references: Vec<lex_core::ReferenceEdge>| Corpus {
             instrument: sample_closure_instrument(),

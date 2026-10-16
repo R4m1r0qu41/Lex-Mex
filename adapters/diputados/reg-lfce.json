@@ -18,5 +18,38 @@
     "proposed_at": "2026-08-24T20:12:18Z"
   },
   "allow_article_gaps": false,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "outdated_reference_approvals": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfce:article:66",
+      "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfce",
+      "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfce:article:73",
+      "source_span": "73",
+      "start_char": 560,
+      "end_char": 562,
+      "source_text_sha256": "02ae67f01bd34a397bb1f3db6fd36b474a8be415fcbcd9f24cee794696579d8e",
+      "source_sha256": "d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "rationale": "This Reglamento has no article 73 in the retained text."
+    }
+  ],
+  "legal_operator_reviews": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfce:article:66",
+      "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfce",
+      "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfce:article:73",
+      "source_span": "73",
+      "start_char": 560,
+      "end_char": 562,
+      "source_text_sha256": "02ae67f01bd34a397bb1f3db6fd36b474a8be415fcbcd9f24cee794696579d8e",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "note": "Operator: checked the earlier, abrogated regulation; article 73 there concerns personal notifications. No other applicable article was found, so the reference is a dead end and stale."
+    }
+  ]
 }

@@ -21,13 +21,13 @@ El liquidador, para realizar el pago de los créditos a cargo de la institución
 
 I. Créditos con garantía o gravamen real
 
-II. Créditos laborales diferentes a los referidos en la fracción XXIII del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y créditos fiscales;
+II. Créditos laborales diferentes a los referidos en la fracción XXIII del apartado A del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos y créditos fiscales;
 
 III. Créditos que según las leyes que los rijan tengan un privilegio especial;
 
-IV. Créditos derivados del pago de obligaciones garantizadas conforme al artículo 6 de la Ley de Protección al Ahorro Bancario, hasta por el límite a que se refiere el artículo 11 de dicha Ley, así como cualquier otro pasivo a favor del propio Instituto;
+IV. Créditos derivados del pago de obligaciones garantizadas conforme al artículo [6](../../lpab/markdown/articulo-6o.md) de la Ley de Protección al Ahorro Bancario, hasta por el límite a que se refiere el artículo 11 de dicha Ley, así como cualquier otro pasivo a favor del propio Instituto;
 
-V. Créditos derivados de obligaciones garantizadas conforme al artículo 6 de la Ley de Protección al Ahorro Bancario, por el saldo que exceda el límite a que se refiere el artículo 11 de dicha Ley;
+V. Créditos derivados de obligaciones garantizadas conforme al artículo [6](../../lpab/markdown/articulo-6o.md) de la Ley de Protección al Ahorro Bancario, por el saldo que exceda el límite a que se refiere el artículo 11 de dicha Ley;
 
 VI. Créditos derivados de otras obligaciones distintas a las señaladas en las fracciones anteriores;
 
@@ -35,7 +35,7 @@ VII. Créditos derivados de obligaciones subordinadas preferentes, conforme a lo
 
 VIII. Créditos derivados de obligaciones subordinadas no preferentes, conforme a lo dispuesto por el artículo [64](articulo-64.md) de esta Ley.
 
-Los créditos referidos en la fracción XXIII del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos tendrán preferencia sobre las obligaciones mencionadas en las fracciones anteriores.
+Los créditos referidos en la fracción XXIII del apartado A del artículo [123](../../cpeum/markdown/articulo-123.md) de la Constitución Política de los Estados Unidos Mexicanos tendrán preferencia sobre las obligaciones mencionadas en las fracciones anteriores.
 
 Bajo ninguna circunstancia deberá interrumpirse el pago de los gastos de operación ordinaria considerados con tal carácter en términos de esta Ley.
 

@@ -59,7 +59,7 @@ Para efectos de lo previsto en el apartado D, el reglamento deberá prever los t
 
 Serán invitadas permanentes a las sesiones del Sistema Nacional de Protección Integral, las Presidencias de las Mesas Directivas de las Cámaras de Diputados y Senadores del Congreso de la Unión, una persona representante del Poder Judicial de la Federación, así como representantes de la Comisión Nacional de Tribunales Superiores de Justicia de los Estados Unidos Mexicanos, las asociaciones de municipios, legalmente constituidas, quienes intervendrán con voz, pero sin voto. Párrafo reformado DOF 28-04-2022
 
-La persona titular del Ejecutivo Federal, en casos excepcionales, podrá ser suplida por la persona titular de la Secretaría de Gobernación, en los términos previstos por la fracción I del artículo 27 de la Ley Orgánica de la Administración Pública Federal. Párrafo reformado DOF 28-04-2022
+La persona titular del Ejecutivo Federal, en casos excepcionales, podrá ser suplida por la persona titular de la Secretaría de Gobernación, en los términos previstos por la fracción I del artículo [27](../../loapf/markdown/articulo-27.md) de la Ley Orgánica de la Administración Pública Federal. Párrafo reformado DOF 28-04-2022
 
 Las personas integrantes del Sistema Nacional de Protección Integral nombrarán una persona suplente, que deberá tener el nivel de titular de subsecretaría o equivalente. Párrafo reformado DOF 28-04-2022
 

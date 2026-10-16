@@ -25,7 +25,7 @@ III. El uso racional y eficiente del agua, así como el respeto a las reservas y
 
 IV. El cumplimiento de las normas y condiciones de calidad en el suministro de agua y en la descarga de agua residual a cuerpos receptores;
 
-V. La obligación de pagar oportunamente las contribuciones y aprovechamientos federales a su cargo, con motivo de la explotación, uso o aprovechamiento de aguas nacionales, y, en su caso, para la inscripción del pago respectivo en el Registro de Obligaciones y Empréstitos de Entidades y Municipios a favor de la Federación, en los términos establecidos en el artículo [9](articulo-9o.md)o., de la Ley de Coordinación Fiscal, y
+V. La obligación de pagar oportunamente las contribuciones y aprovechamientos federales a su cargo, con motivo de la explotación, uso o aprovechamiento de aguas nacionales, y, en su caso, para la inscripción del pago respectivo en el Registro de Obligaciones y Empréstitos de Entidades y Municipios a favor de la Federación, en los términos establecidos en el artículo [9](../../lcf/markdown/articulo-9o.md)o., de la Ley de Coordinación Fiscal, y
 
 VI. Las causas de caducidad de los derechos que ampara el título correspondiente.
 

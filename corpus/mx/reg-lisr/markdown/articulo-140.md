@@ -23,4 +23,4 @@ La documentación relativa al cumplimiento de las obligaciones fiscales se integ
 
 La documentación relativa a la autorización deberá estar disponible durante el periodo por el que se cuente con ella.
 
-La documentación relativa al uso y destino que se haya dado a los donativos recibidos deberá estar disponible durante el plazo establecido en el artículo 30 del Código Fiscal de la Federación.
+La documentación relativa al uso y destino que se haya dado a los donativos recibidos deberá estar disponible durante el plazo establecido en el artículo [30](../../cff/markdown/articulo-30.md) del Código Fiscal de la Federación.

@@ -960,6 +960,67 @@ impl OutdatedReferenceApproval {
     }
 }
 
+/// A human legal note on one exact source citation. It never changes the edge's
+/// target or resolution status; it records what the reviewer found, for example
+/// the article a stale citation should now point to. `captured_at` records
+/// software capture, not the reviewer's decision time.
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(deny_unknown_fields)]
+pub struct LegalOperatorReview {
+    pub source_provision_id: String,
+    pub target_instrument_id: String,
+    pub target_provision_id: String,
+    pub source_span: String,
+    pub start_char: usize,
+    pub end_char: usize,
+    pub source_text_sha256: String,
+    pub reviewer: String,
+    pub captured_at: String,
+    pub note: String,
+    pub decision_source: String,
+    pub decision_source_sha256: String,
+}
+
+impl LegalOperatorReview {
+    pub fn validate(&self) -> Result<(), String> {
+        let hash = |s: &str| {
+            s.len() == 64
+                && s.bytes()
+                    .all(|c| c.is_ascii_digit() || (b'a'..=b'f').contains(&c))
+        };
+        if self.source_provision_id.trim().is_empty()
+            || self.target_instrument_id.trim().is_empty()
+            || !self
+                .target_provision_id
+                .starts_with(&format!("{}:", self.target_instrument_id))
+            || self.source_span.is_empty()
+            || self.start_char >= self.end_char
+            || self.source_span.chars().count() != self.end_char - self.start_char
+            || !hash(&self.source_text_sha256)
+            || self.reviewer.trim().is_empty()
+            || self.note.trim().is_empty()
+            || self.decision_source.trim().is_empty()
+            || !hash(&self.decision_source_sha256)
+            || chrono::DateTime::parse_from_rfc3339(&self.captured_at).is_err()
+        {
+            return Err("invalid exact legal operator review".to_owned());
+        }
+        Ok(())
+    }
+
+    #[must_use]
+    pub fn matches(&self, edge: &ReferenceEdge, source_text: &str) -> bool {
+        self.validate().is_ok()
+            && self.source_provision_id == edge.source_provision_id
+            && self.target_instrument_id == edge.target_instrument_id
+            && self.target_provision_id == edge.target_provision_id
+            && self.source_span == edge.source_span
+            && self.start_char == edge.start_char
+            && self.end_char == edge.end_char
+            && self.source_text_sha256 == evidence_sha256(source_text)
+    }
+}
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct ReferenceEdge {
     pub schema_version: String,
@@ -977,6 +1038,8 @@ pub struct ReferenceEdge {
     pub reference_form: ReferenceForm,
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub outdated_reference_approval: Option<OutdatedReferenceApproval>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub legal_operator_review: Option<LegalOperatorReview>,
 }
 
 /// A term expressly defined by a glossary provision, anchored to the exact

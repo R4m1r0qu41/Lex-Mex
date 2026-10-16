@@ -36,8 +36,8 @@ Local `main` at `25732f3ef` (`chore: remove misplaced nota-viabilidad comites ba
 | Relinked and validated | 304 |
 | Unchanged | 150 |
 | Held at previous graph | 21 (see below) |
-| References | 27,429 → 30,407 |
-| Resolved cross-instrument edges | 4,155 |
+| References | 27,429 → 30,575 |
+| Resolved cross-instrument edges | 4,313 |
 | Retargeted edges (all reviewed) | 44 |
 | Removed internal edges (all reviewed) | 54 (13 re-spanned to the full suffix, 41 false links to another named law) |
 | Removed cross-instrument edges | 0 |
@@ -101,3 +101,7 @@ Operator review of the held instruments found three citation-parser defects, fix
 - **`decies` family headings:** running-text headings such as `Artículo 78 Terdecies.` linked to `78 Ter` or the parent article (`lac`, `lgamvlv`, `lgmdfp`, `reg-lsem`); those false edges are removed.
 
 Every added, removed and retargeted edge in the 8 relinked graphs was read against its provision text. Still held and awaiting decisions or other fixes: see `docs/held-instruments-review-2026-10-16.md`.
+
+## Follow-up 2026-10-16: operator decisions on the held list
+
+Ten held instruments were admitted with exact stale-citation approvals plus a `legal_operator_review` note each (see the 2026-10-16 decision entry): `lgdnna`, `lgmime`, `lsar`, `lgcs`, `reg-lfce`, `lic`, `reg-lan`, `reg-lisr`, `reg-lagra-mcdets`, `lpdusf` (18 citations). `link --all` relinked these 10 (30,407 → 30,575 references; every added, removed and retargeted edge read; the removals are false links such as headings and mis-spanned `74` for `74 quinquies`) and rejects 9: `cpf`, `lgs`, `lmv` (target-side suffix parser gaps), `lftr` (embedded invalidated articles and a misattributed governing law), `lrsic` (operator decided fraction V resolves to the current LRAF; migration pending), and `cub-dcg-2005`, `cucb-dcg-2004`, `oaac-dcg-2009`, `socap-sofipo-dcg-2006` (for a DCG pass).

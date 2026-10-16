@@ -27,7 +27,7 @@ II. El capital mínimo exigido de la sociedad estará íntegramente suscrito y p
 
 Dicho capital estará representado por acciones de capital fijo que sólo podrán transmitirse previa autorización de la Comisión, la cual no será necesaria en el caso de que se transmitan a la administradora que las opere. Párrafo reformado DOF 10-12-2002
 
-Las sociedades de inversión no estarán obligadas a constituir el fondo de reserva a que se refiere el artículo 20 de la Ley General de Sociedades Mercantiles; Párrafo adicionado DOF 10-12-2002
+Las sociedades de inversión no estarán obligadas a constituir el fondo de reserva a que se refiere el artículo [20](../../lgsm/markdown/articulo-20.md) de la Ley General de Sociedades Mercantiles; Párrafo adicionado DOF 10-12-2002
 
 III. Su administración estará a cargo de los mismos integrantes del Consejo de Administración de la administradora que las opere en los términos que establece esta ley; Fracción reformada DOF 10-12-2002
 
@@ -39,4 +39,4 @@ V. Unicamente podrán participar en su capital social variable los trabajadores 
 
 VI. Podrán mantener acciones en tesorería, que serán puestas en circulación en la forma y términos que señale el consejo de administración;
 
-VII. En caso de aumento de capital, las acciones se pondrán en circulación sin que rija el derecho de preferencia establecido por el artículo 132 de la Ley General de Sociedades Mercantiles; y VIII. Podrán adquirir las acciones que emitan, procediendo a la disminución de su capital variable de inmediato.
+VII. En caso de aumento de capital, las acciones se pondrán en circulación sin que rija el derecho de preferencia establecido por el artículo [132](../../lgsm/markdown/articulo-132.md) de la Ley General de Sociedades Mercantiles; y VIII. Podrán adquirir las acciones que emitan, procediendo a la disminución de su capital variable de inmediato.

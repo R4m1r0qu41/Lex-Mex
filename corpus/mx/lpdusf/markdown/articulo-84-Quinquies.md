@@ -25,6 +25,6 @@ En aquellos casos en que un asunto represente, en cualquier forma, un conflicto 
 
 Los árbitros que conforme al párrafo anterior deban excusarse y no lo hagan, podrán ser recusados por la parte afectada, sin perjuicio de la responsabilidad en que incurran por los daños causados.
 
-Las causas de excusa y recusación a que se refiere este artículo se determinarán conforme a lo dispuesto en el artículo 104 del Código Nacional de Procedimientos Civiles y Familiares. Párrafo reformado DOF 14-11-2025
+Las causas de excusa y recusación a que se refiere este artículo se determinarán conforme a lo dispuesto en el artículo [104](../../cnpcf/markdown/articulo-104.md) del Código Nacional de Procedimientos Civiles y Familiares. Párrafo reformado DOF 14-11-2025
 
 Artículo adicionado DOF 10-01-2014

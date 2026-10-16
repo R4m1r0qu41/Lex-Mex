@@ -17,7 +17,7 @@ source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399
 
 # Artículo 94
 
-Para efectos del artículo [56](articulo-56.md) de la "Ley", cuando los ejidatarios y comuneros conforme a la Ley Agraria y previo acuerdo de la asamblea general, asuman el dominio individual pleno sobre sus parcelas, se tendrán por transmitidos los derechos de las aguas que venían aprovechando de la dotación ejidal, aplicándose lo dispuesto en el tercer párrafo, del artículo [53](articulo-53.md) de la "Ley".
+Para efectos del artículo [56](../../lagra/markdown/articulo-56.md) de la "Ley", cuando los ejidatarios y comuneros conforme a la Ley Agraria y previo acuerdo de la asamblea general, asuman el dominio individual pleno sobre sus parcelas, se tendrán por transmitidos los derechos de las aguas que venían aprovechando de la dotación ejidal, aplicándose lo dispuesto en el tercer párrafo, del artículo [53](articulo-53.md) de la "Ley".
 
 Al presentar a "La Comisión" la solicitud de concesión respectiva, los ejidatarios y comuneros adjuntarán la constancia oficial de cancelación de la inscripción de las parcelas. Al otorgar la concesión, "La Comisión" disminuirá del volumen de la dotación, restitución o accesión ejidales o de la concesión original, el volumen concesionado y se inscribirá en el "Registro".
 

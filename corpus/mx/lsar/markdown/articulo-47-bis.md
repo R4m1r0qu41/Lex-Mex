@@ -43,7 +43,7 @@ d) Cuando soliciten el traspaso de su cuenta individual, en los plazos que la Co
 
 e) Cuando la administradora que opere a la sociedad de inversión de que se trate se fusione, si la administradora es la sociedad fusionada;
 
-VII. Los supuestos en los que los recursos a que se refieren los artículos [74 bis](articulo-74-bis.md), [74 ter](articulo-74-ter.md) y [74](articulo-74.md) quinquies podrán retirarse o traspasarse, así como los derechos y obligaciones de los titulares de los mismos, y
+VII. Los supuestos en los que los recursos a que se refieren los artículos [74 bis](articulo-74-bis.md), [74 ter](articulo-74-ter.md) y [74 quinquies](articulo-74-quinquies.md) podrán retirarse o traspasarse, así como los derechos y obligaciones de los titulares de los mismos, y
 
 VIII. Señalar en forma detallada el concepto e importe de las comisiones que se cobrarán y explicar la forma de cálculo.
 

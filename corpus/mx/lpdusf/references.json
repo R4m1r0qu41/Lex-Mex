@@ -559,6 +559,50 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:75:reference:3013-3017:1235:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:75",
+    "source_span": "1235",
+    "start_char": 3013,
+    "end_char": 3017,
+    "target_instrument_id": "urn:lex-mx:federal:code:cnpcf",
+    "target_provision_id": "urn:lex-mx:federal:code:cnpcf:article:1235",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "historical_superseded_reference_outdated",
+    "reference_form": "direct",
+    "outdated_reference_approval": {
+      "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:75",
+      "target_instrument_id": "urn:lex-mx:federal:code:cnpcf",
+      "target_provision_id": "urn:lex-mx:federal:code:cnpcf:article:1235",
+      "source_span": "1235",
+      "start_char": 3013,
+      "end_char": 3017,
+      "source_text_sha256": "23e46aa719240eea885ccf2fb20372b7c14e9b1771663d22589510b892435534",
+      "source_sha256": "cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "rationale": "The linker attributed article 1235 to CNPCF; CNPCF article 1235 is not what the text cites.",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f"
+    },
+    "legal_operator_review": {
+      "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:75",
+      "target_instrument_id": "urn:lex-mx:federal:code:cnpcf",
+      "target_provision_id": "urn:lex-mx:federal:code:cnpcf:article:1235",
+      "source_span": "1235",
+      "start_char": 3013,
+      "end_char": 3017,
+      "source_text_sha256": "23e46aa719240eea885ccf2fb20372b7c14e9b1771663d22589510b892435534",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "note": "Operator: the text applies the Código de Comercio supplementarily except article 1235, and failing that the CNPCF. It is not a reference to CNPCF article 1235; the correct reference is Código de Comercio article 1235.",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f"
+    }
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpdusf:article:84:reference:305-307:81:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:84",
     "source_span": "81",
@@ -626,6 +670,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:84-quinquies:reference:1992-1995:104:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:84-quinquies",
+    "source_span": "104",
+    "start_char": 1992,
+    "end_char": 1995,
+    "target_instrument_id": "urn:lex-mx:federal:code:cnpcf",
+    "target_provision_id": "urn:lex-mx:federal:code:cnpcf:article:104",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpdusf:article:86:reference:21-38:85:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:86",
     "source_span": "artículo anterior",
@@ -638,6 +697,21 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:92:reference:193-196:862:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:92",
+    "source_span": "862",
+    "start_char": 193,
+    "end_char": 196,
+    "target_instrument_id": "urn:lex-mx:federal:code:cnpcf",
+    "target_provision_id": "urn:lex-mx:federal:code:cnpcf:article:862",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -1058,6 +1132,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:transitory:decimo:reference:353-355:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:transitory:decimo",
+    "source_span": "89",
+    "start_char": 353,
+    "end_char": 355,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 329,
+        "end_char": 339
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpdusf:transitory:noveno:reference:79-81:16:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:transitory:noveno",
     "source_span": "16",
@@ -1117,19 +1213,62 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:transitory:segundo:reference:25-28:119:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:transitory:segundo",
+    "source_span": "119",
+    "start_char": 25,
+    "end_char": 28,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic:article:119",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:transitory:segundo:reference:31-34:120:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:transitory:segundo",
+    "source_span": "120",
+    "start_char": 31,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic:article:120",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XI",
+        "start_char": 244,
+        "end_char": 255
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpdusf:transitory:segundo:reference:374-375:5:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:transitory:segundo",
     "source_span": "5",
     "start_char": 374,
     "end_char": 375,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lpdusf",
-    "target_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:5",
+    "target_instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "target_provision_id": "urn:lex-mx:federal:statute:lsar:article:5",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XII",
         "start_char": 348,
         "end_char": 360
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción X",
+        "start_char": 446,
+        "end_char": 456
       }
     ],
     "basis": "express_cross_reference",
@@ -1144,8 +1283,8 @@
     "source_span": "4",
     "start_char": 470,
     "end_char": 471,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lpdusf",
-    "target_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:4",
+    "target_instrument_id": "urn:lex-mx:federal:statute:lcnbv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:4",
     "qualifiers": [
       {
         "qualifier_type": "fraction",

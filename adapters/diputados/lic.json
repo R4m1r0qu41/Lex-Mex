@@ -19,5 +19,67 @@
     "proposed_at": "2026-07-12T08:06:06Z"
   },
   "allow_article_gaps": true,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "outdated_reference_approvals": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lic:article:187",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lraf",
+      "target_provision_id": "urn:lex-mx:federal:statute:lraf:article:28-bis",
+      "source_span": "28 Bis",
+      "start_char": 3351,
+      "end_char": 3357,
+      "source_text_sha256": "b2395112033fbceeed7ccfa9205a561e30a48ab85dfe6abc16b4834f09616d91",
+      "source_sha256": "98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "rationale": "LRAF has no article 28 Bis in the current text."
+    },
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lic:article:194",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lfce",
+      "target_provision_id": "urn:lex-mx:federal:statute:lfce:article:31-bis",
+      "source_span": "31 bis",
+      "start_char": 4292,
+      "end_char": 4298,
+      "source_text_sha256": "f3d5231cb5f2f3e2ff7b2419a6691130310a6628fe623ef324587d776125a592",
+      "source_sha256": "98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "rationale": "LFCE has no article 31 Bis in the current text."
+    }
+  ],
+  "legal_operator_reviews": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lic:article:187",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lraf",
+      "target_provision_id": "urn:lex-mx:federal:statute:lraf:article:28-bis",
+      "source_span": "28 Bis",
+      "start_char": 3351,
+      "end_char": 3357,
+      "source_text_sha256": "b2395112033fbceeed7ccfa9205a561e30a48ab85dfe6abc16b4834f09616d91",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "note": "Operator: 28 Bis does not appear; it may be a mistake or a fuller reform that eliminated the Bis article. It should target LRAF article 120."
+    },
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lic:article:194",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lfce",
+      "target_provision_id": "urn:lex-mx:federal:statute:lfce:article:31-bis",
+      "source_span": "31 bis",
+      "start_char": 4292,
+      "end_char": 4298,
+      "source_text_sha256": "f3d5231cb5f2f3e2ff7b2419a6691130310a6628fe623ef324587d776125a592",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "note": "Operator: should target LFCE article 1, fracción IX (confidential information). Verification added by Claude: LFCE article 1 has no fracción IX; fracción IX of article 3 is \"Información Confidencial\". Operator to confirm the intended article."
+    }
+  ]
 }

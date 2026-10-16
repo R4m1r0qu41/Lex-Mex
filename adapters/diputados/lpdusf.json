@@ -19,5 +19,38 @@
     "proposed_at": "2026-07-12T08:06:19Z"
   },
   "allow_article_gaps": true,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "outdated_reference_approvals": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:75",
+      "target_instrument_id": "urn:lex-mx:federal:code:cnpcf",
+      "target_provision_id": "urn:lex-mx:federal:code:cnpcf:article:1235",
+      "source_span": "1235",
+      "start_char": 3013,
+      "end_char": 3017,
+      "source_text_sha256": "23e46aa719240eea885ccf2fb20372b7c14e9b1771663d22589510b892435534",
+      "source_sha256": "cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "rationale": "The linker attributed article 1235 to CNPCF; CNPCF article 1235 is not what the text cites."
+    }
+  ],
+  "legal_operator_reviews": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:75",
+      "target_instrument_id": "urn:lex-mx:federal:code:cnpcf",
+      "target_provision_id": "urn:lex-mx:federal:code:cnpcf:article:1235",
+      "source_span": "1235",
+      "start_char": 3013,
+      "end_char": 3017,
+      "source_text_sha256": "23e46aa719240eea885ccf2fb20372b7c14e9b1771663d22589510b892435534",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "note": "Operator: the text applies the Código de Comercio supplementarily except article 1235, and failing that the CNPCF. It is not a reference to CNPCF article 1235; the correct reference is Código de Comercio article 1235."
+    }
+  ]
 }

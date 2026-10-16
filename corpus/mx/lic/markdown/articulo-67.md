@@ -23,4 +23,4 @@ Las instituciones de crédito acreedoras de las hipotecas a que se refiere este 
 
 Las hipotecas a que se refiere este artículo deberán ser inscritas en el Registro Público de la Propiedad del lugar o lugares en que estén ubicados los bienes. Una vez pagado el crédito la institución, en el término de tres días, deberá girar carta de liberación de hipoteca al Registro Público de la Propiedad correspondiente. Párrafo reformado DOF 10-01-2014
 
-Será aplicable en lo pertiente a las hipotecas a que se refiere este artículo, lo dispuesto en el artículo 214 de la Ley General de Títulos y Operaciones de Crédito.
+Será aplicable en lo pertiente a las hipotecas a que se refiere este artículo, lo dispuesto en el artículo [214](../../lgtoc/markdown/articulo-214.md) de la Ley General de Títulos y Operaciones de Crédito.

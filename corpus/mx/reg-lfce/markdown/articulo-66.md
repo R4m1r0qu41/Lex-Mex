@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCE.pdf
 source_sha256: d6b172cfc46486623701d247e0b88b773e4962ecf0332a31117b93d9e4a6c3af
 ---
 
+> Referencia histórica desactualizada: «73» → `urn:lex-mx:federal:regulation:reg-lfce:article:73`. Se conserva la cita sin enlace vigente. This Reglamento has no article 73 in the retained text.
+
 > Capítulo V · Sección Quinta
 
 # Artículo 66

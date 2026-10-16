@@ -1,5 +1,11 @@
 # Architecture decisions
 
+## 2026-10-16 — Legal operator review: a note on one exact citation
+
+The stale-citation approval (`outdated_reference_approvals`) is unchanged: it records that one exact citation is outdated and lets the edge keep its cited target with status `historical_superseded_reference_outdated`. Operator review of the held instruments also named, for some citations, the article the reference should now point to. Rather than add a retargeting mechanism (new resolution status, new target semantics, wider validation), the repo adds a separate optional record, `legal_operator_review` (adapter field `legal_operator_reviews`, edge field `legal_operator_review`), that carries the reviewer's note on one exact citation: provision id, span, offsets, provision text hash, cited target, reviewer, capture time, note, decision source and its hash. It never changes the edge's target or status, must match exactly one extracted edge (changed text, moved span or a missing citation fails the run closed), cannot overwrite a previous review, and a persisted review cannot be cleared by a reparse. The reviewer is recorded as `Operator`; JRH approval is not inferred. Legal effect is not decided: a note records what the reviewer found, and no graph edge is retargeted by it.
+
+Applied 2026-10-16 to `lgdnna`, `lgmime`, `lsar`, `lgcs`, `reg-lfce`, `lic`, `reg-lan`, `reg-lisr`, `reg-lagra-mcdets` and `lpdusf` (18 citations, each with a stale-citation approval and a note citing `docs/held-instruments-review-2026-10-16.md`). Two notes carry a flagged verification: `lic` (LFCE article 1 fracción IX does not exist; fracción IX of article 3 is "Información Confidencial") and `reg-lan` (the cited "Ley" looks like the regulation's parent law, not LFPA).
+
 ## 2026-10-16 — Official titles participate in corpus-wide closure
 
 The curated alias table remains the only source of accent-stripped and colloquial citation names. Each committed instrument's exact official title is also a cross-instrument marker when the title contains a space and no other committed instrument uses it. `Ley de Amnistía` is shared by `lamn` and `lamni`, so that title stays unlinked. A curated alias and an official title that assign one marker to different instruments is an error. Adapter-scoped historical markers still override the global marker.

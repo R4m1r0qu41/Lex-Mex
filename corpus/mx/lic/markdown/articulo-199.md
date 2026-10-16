@@ -17,6 +17,6 @@ source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 
 # Artículo 199
 
-La enajenación de los bienes de las instituciones de banca múltiple en liquidación, así como de los Bienes a que se refiere el artículo 5, fracción VI de la Ley de Protección al Ahorro Bancario, deberá efectuarse conforme a lo previsto en los artículos [200](articulo-200.md) a [215](articulo-215.md) de esta Ley.
+La enajenación de los bienes de las instituciones de banca múltiple en liquidación, así como de los Bienes a que se refiere el artículo [5](../../lpab/markdown/articulo-5o.md), fracción VI de la Ley de Protección al Ahorro Bancario, deberá efectuarse conforme a lo previsto en los artículos [200](articulo-200.md) a [215](articulo-215.md) de esta Ley.
 
 Artículo adicionado DOF 10-01-2014

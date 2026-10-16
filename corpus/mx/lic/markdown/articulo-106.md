@@ -67,7 +67,7 @@ XVIII. Celebrar operaciones u ofertas por cuenta propia o de terceros, a sus dep
 
 XIX. En la realización de las operaciones a que se refiere la fracción XV del artículo [46](articulo-46.md) de esta Ley: a) Se deroga. Inciso derogado DOF 01-02-2008
 
-b) Responder a los fideicomitentes, mandantes o comitentes, del incumplimiento de los deudores, por los créditos que se otorguen, o de los emisores, por los valores que se adquieran, salvo que sea por su culpa, según lo dispuesto en la parte final del artículo 391 de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los fondos cuya inversión se les encomiende.
+b) Responder a los fideicomitentes, mandantes o comitentes, del incumplimiento de los deudores, por los créditos que se otorguen, o de los emisores, por los valores que se adquieran, salvo que sea por su culpa, según lo dispuesto en la parte final del artículo [391](../../lgtoc/markdown/articulo-391.md) de la Ley General de Títulos y Operaciones de Crédito, o garantizar la percepción de rendimientos por los fondos cuya inversión se les encomiende.
 
 Si al término del fideicomiso, mandato o comisión constituidos para el otorgamiento de créditos, éstos no hubieren sido liquidados por los deudores, la institución deberá transferirlos al fideicomitente o fideicomisario, según sea el caso, o al mandante o comitente, absteniéndose de cubrir su importe.
 

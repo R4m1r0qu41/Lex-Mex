@@ -19,5 +19,125 @@
     "proposed_at": "2026-07-12T08:06:48Z"
   },
   "allow_article_gaps": true,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "outdated_reference_approvals": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lsar:article:68",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+      "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:16-bis-2",
+      "source_span": "16 bis 2",
+      "start_char": 384,
+      "end_char": 392,
+      "source_text_sha256": "04ed1a4ca737772bfb3b05b66a6cb97dba8da874849457f03974be6425fa4b6d",
+      "source_sha256": "02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "rationale": "The cited LMV article 16 Bis N family is absent from the current LMV text."
+    },
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lsar:article:68",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+      "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:16-bis-3",
+      "source_span": "16 bis 3",
+      "start_char": 394,
+      "end_char": 402,
+      "source_text_sha256": "04ed1a4ca737772bfb3b05b66a6cb97dba8da874849457f03974be6425fa4b6d",
+      "source_sha256": "02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "rationale": "The cited LMV article 16 Bis N family is absent from the current LMV text."
+    },
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lsar:article:68",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+      "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:16-bis-7",
+      "source_span": "16 bis 7",
+      "start_char": 404,
+      "end_char": 412,
+      "source_text_sha256": "04ed1a4ca737772bfb3b05b66a6cb97dba8da874849457f03974be6425fa4b6d",
+      "source_sha256": "02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "rationale": "The cited LMV article 16 Bis N family is absent from the current LMV text."
+    },
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lsar:article:68",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+      "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:16-bis-8",
+      "source_span": "16 bis 8",
+      "start_char": 415,
+      "end_char": 423,
+      "source_text_sha256": "04ed1a4ca737772bfb3b05b66a6cb97dba8da874849457f03974be6425fa4b6d",
+      "source_sha256": "02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "rationale": "The cited LMV article 16 Bis N family is absent from the current LMV text."
+    }
+  ],
+  "legal_operator_reviews": [
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lsar:article:68",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+      "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:16-bis-2",
+      "source_span": "16 bis 2",
+      "start_char": 384,
+      "end_char": 392,
+      "source_text_sha256": "04ed1a4ca737772bfb3b05b66a6cb97dba8da874849457f03974be6425fa4b6d",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "note": "Operator: dead-end reference; the applicable limitations could not be found in this pass. Mark like LCNBV."
+    },
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lsar:article:68",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+      "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:16-bis-3",
+      "source_span": "16 bis 3",
+      "start_char": 394,
+      "end_char": 402,
+      "source_text_sha256": "04ed1a4ca737772bfb3b05b66a6cb97dba8da874849457f03974be6425fa4b6d",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "note": "Operator: dead-end reference; the applicable limitations could not be found in this pass. Mark like LCNBV."
+    },
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lsar:article:68",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+      "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:16-bis-7",
+      "source_span": "16 bis 7",
+      "start_char": 404,
+      "end_char": 412,
+      "source_text_sha256": "04ed1a4ca737772bfb3b05b66a6cb97dba8da874849457f03974be6425fa4b6d",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "note": "Operator: dead-end reference; the applicable limitations could not be found in this pass. Mark like LCNBV."
+    },
+    {
+      "source_provision_id": "urn:lex-mx:federal:statute:lsar:article:68",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+      "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:16-bis-8",
+      "source_span": "16 bis 8",
+      "start_char": 415,
+      "end_char": 423,
+      "source_text_sha256": "04ed1a4ca737772bfb3b05b66a6cb97dba8da874849457f03974be6425fa4b6d",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f",
+      "note": "Operator: dead-end reference; the applicable limitations could not be found in this pass. Mark like LCNBV."
+    }
+  ]
 }

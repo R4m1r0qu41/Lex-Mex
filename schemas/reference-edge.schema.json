@@ -196,6 +196,75 @@
           "pattern": "^[a-f0-9]{64}$"
         }
       }
+    },
+    "legal_operator_review": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Human legal note on one exact citation; never changes the edge's target or resolution status.",
+      "required": [
+        "source_provision_id",
+        "target_instrument_id",
+        "target_provision_id",
+        "source_span",
+        "start_char",
+        "end_char",
+        "source_text_sha256",
+        "reviewer",
+        "captured_at",
+        "note",
+        "decision_source",
+        "decision_source_sha256"
+      ],
+      "properties": {
+        "source_provision_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "target_instrument_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "target_provision_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source_span": {
+          "type": "string",
+          "minLength": 1
+        },
+        "start_char": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "end_char": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "source_text_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "reviewer": {
+          "type": "string",
+          "minLength": 1
+        },
+        "captured_at": {
+          "type": "string",
+          "minLength": 1
+        },
+        "note": {
+          "type": "string",
+          "minLength": 1
+        },
+        "decision_source": {
+          "type": "string",
+          "minLength": 1
+        },
+        "decision_source_sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      }
     }
   },
   "allOf": [

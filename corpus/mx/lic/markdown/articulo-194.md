@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf
 source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 ---
 
+> Referencia histórica desactualizada: «31 bis» → `urn:lex-mx:federal:statute:lfce:article:31-bis`. Se conserva la cita sin enlace vigente. LFCE has no article 31 Bis in the current text.
+
 > Título SÉPTIMO · Capítulo II
 
 # Artículo 194

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_MCDETS.pdf
 source_sha256: 70dc1863cee2a88911e43cefb51d1c2007e550a2a46f9e11d5569c1525667cfd
 ---
 
+> Referencia histórica desactualizada: «80» → `urn:lex-mx:federal:regulation:reg-lagra-mcdets:article:80`. Se conserva la cita sin enlace vigente. This Reglamento has no article 80.
+
 > Título SEGUNDO · Capítulo Unico
 
 # Artículo 15

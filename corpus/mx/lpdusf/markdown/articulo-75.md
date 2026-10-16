@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LPDUSF.pdf
 source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 ---
 
+> Referencia histórica desactualizada: «1235» → `urn:lex-mx:federal:code:cnpcf:article:1235`. Se conserva la cita sin enlace vigente. The linker attributed article 1235 to CNPCF; CNPCF article 1235 is not what the text cites.
+
 > Título QUINTO · Capítulo II
 
 # Artículo 75

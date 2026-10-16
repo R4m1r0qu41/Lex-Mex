@@ -23,7 +23,7 @@ I. Presentar el aviso para dictaminar la enajenación, suscrito por el contribuy
 
 II. Presentar el dictamen a través de los medios señalados en las reglas de carácter general que al efecto emita el [SAT](articulo-1.md), dentro de los treinta días siguientes a aquél en que se presentó o debió presentarse la declaración del [Impuesto](articulo-1.md) e incluir como mínimo los informes siguientes:
 
-a) Dictamen del contador público, el cual deberá estar inscrito en el SAT en términos del artículo 52, fracción I del Código Fiscal de la Federación;
+a) Dictamen del contador público, el cual deberá estar inscrito en el SAT en términos del artículo [52](../../cff/markdown/articulo-52.md), fracción I del Código Fiscal de la Federación;
 
 b) Determinación del resultado obtenido en la enajenación, señalando por cada sociedad emisora el precio de las acciones, su costo promedio por acción y el resultado parcial obtenido en la operación;
 
@@ -47,7 +47,7 @@ d) Monto original ajustado determinado; número total de acciones que tenga el e
 
 e) Cálculo del Impuesto a cargo del contribuyente, que se determinará aplicando a la cantidad que resulte de dividir el total de la ganancia entre el número de años transcurridos entre la fecha de adquisición y la de enajenación, sin exceder de 20 años, la tarifa calculada en términos del artículo 126, párrafo segundo de la Ley, y multiplicando el resultado obtenido por el número de años antes citado;
 
-III. El texto del dictamen relativo a la enajenación de acciones elaborado por contador público inscrito en el SAT en términos del artículo 52, fracción I del Código Fiscal de la Federación, deberá contener:
+III. El texto del dictamen relativo a la enajenación de acciones elaborado por contador público inscrito en el SAT en términos del artículo [52](../../cff/markdown/articulo-52.md), fracción I del Código Fiscal de la Federación, deberá contener:
 
 a) La afirmación de que examinó la determinación del costo promedio por acción de las acciones enajenadas y la declaración del Impuesto correspondiente y de si ambos procedimientos se llevaron a cabo en términos de la Ley y de este Reglamento.
 

@@ -17,7 +17,7 @@ source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 
 # Artículo 186
 
-En la liquidación de una institución de banca múltiple, la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario, podrá determinar que se lleve a cabo cualquiera de las operaciones siguientes: I. Transferir a otra institución de banca múltiple activos y pasivos de la institución en liquidación, incluso las obligaciones garantizadas a que se refiere el artículo 6 de la Ley de Protección al Ahorro Bancario, conforme a lo previsto en el artículo [194](articulo-194.md) de la presente Ley, en los términos del acuerdo que éstas celebren. En estos casos, la transferencia de activos podrá hacerse directamente o a través de un fideicomiso;
+En la liquidación de una institución de banca múltiple, la Junta de Gobierno del Instituto para la Protección al Ahorro Bancario, podrá determinar que se lleve a cabo cualquiera de las operaciones siguientes: I. Transferir a otra institución de banca múltiple activos y pasivos de la institución en liquidación, incluso las obligaciones garantizadas a que se refiere el artículo [6](../../lpab/markdown/articulo-6o.md) de la Ley de Protección al Ahorro Bancario, conforme a lo previsto en el artículo [194](articulo-194.md) de la presente Ley, en los términos del acuerdo que éstas celebren. En estos casos, la transferencia de activos podrá hacerse directamente o a través de un fideicomiso;
 
 II. La constitución, organización y operación de una institución de banca múltiple por parte del propio Instituto, conforme a lo dispuesto en la presente Ley y en las disposiciones que de ésta deriven, con el objeto de transferirle activos y pasivos de la institución de banca múltiple en liquidación, o
 

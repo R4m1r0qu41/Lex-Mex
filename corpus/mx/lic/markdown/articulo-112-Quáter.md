@@ -25,7 +25,7 @@ II. Altere o modifique el mecanismo de funcionamiento de los equipos o medios el
 
 Artículo adicionado DOF 26-06-2008
 
-Artículo [112](articulo-112.md) Quintus.- La pena que corresponda podrá aumentarse hasta en una mitad más, si quien realice cualquiera de las conductas señaladas en los artículos [112 Bis](articulo-112-Bis.md), [112 Ter](articulo-112-Ter.md) y 112 Quáter tiene el carácter de consejero, funcionario, empleado o prestador de servicios de cualquier institución de crédito, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos, o sea propietario o empleado de cualquier entidad mercantil que a cambio de bienes o servicios reciba como contraprestación el pago a través de cualquiera de los instrumentos mencionados en el artículo [112 Bis](articulo-112-Bis.md).
+Artículo 112 Quintus.- La pena que corresponda podrá aumentarse hasta en una mitad más, si quien realice cualquiera de las conductas señaladas en los artículos [112 Bis](articulo-112-Bis.md), [112 Ter](articulo-112-Ter.md) y 112 Quáter tiene el carácter de consejero, funcionario, empleado o prestador de servicios de cualquier institución de crédito, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos, o sea propietario o empleado de cualquier entidad mercantil que a cambio de bienes o servicios reciba como contraprestación el pago a través de cualquiera de los instrumentos mencionados en el artículo [112 Bis](articulo-112-Bis.md).
 
 Artículo adicionado DOF 26-06-2008
 

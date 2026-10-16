@@ -13,6 +13,14 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf
 source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
 ---
 
+> Referencia histórica desactualizada: «16 bis 2» → `urn:lex-mx:federal:statute:lmv:article:16-bis-2`. Se conserva la cita sin enlace vigente. The cited LMV article 16 Bis N family is absent from the current LMV text.
+
+> Referencia histórica desactualizada: «16 bis 3» → `urn:lex-mx:federal:statute:lmv:article:16-bis-3`. Se conserva la cita sin enlace vigente. The cited LMV article 16 Bis N family is absent from the current LMV text.
+
+> Referencia histórica desactualizada: «16 bis 7» → `urn:lex-mx:federal:statute:lmv:article:16-bis-7`. Se conserva la cita sin enlace vigente. The cited LMV article 16 Bis N family is absent from the current LMV text.
+
+> Referencia histórica desactualizada: «16 bis 8» → `urn:lex-mx:federal:statute:lmv:article:16-bis-8`. Se conserva la cita sin enlace vigente. The cited LMV article 16 Bis N family is absent from the current LMV text.
+
 > Capítulo III
 
 # Artículo 68

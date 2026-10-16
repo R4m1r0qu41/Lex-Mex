@@ -23,9 +23,9 @@ I. El monto a ser cubierto de acuerdo con lo establecido en la Ley de Protecció
 
 II. El pago de las obligaciones garantizadas se realizará en moneda nacional, por lo que la conversión del monto denominado en unidades de inversión se efectuará utilizando el valor vigente de la citada unidad en la fecha en que el Instituto para la Protección al Ahorro Bancario emita la resolución de pago correspondiente;
 
-III. En caso de que una persona tenga más de una cuenta en una misma institución y la suma de los saldos excediera el límite señalado en el artículo 11 de la Ley de Protección al Ahorro Bancario, el Instituto para la Protección al Ahorro Bancario únicamente pagará hasta dicho límite, prorrateándolo entre las cuentas en función de su saldo, y
+III. En caso de que una persona tenga más de una cuenta en una misma institución y la suma de los saldos excediera el límite señalado en el artículo [11](../../lpab/markdown/articulo-11.md) de la Ley de Protección al Ahorro Bancario, el Instituto para la Protección al Ahorro Bancario únicamente pagará hasta dicho límite, prorrateándolo entre las cuentas en función de su saldo, y
 
-IV. Sin perjuicio de lo establecido en la fracción anterior, tratándose de cuentas colectivas con más de un titular o cotitulares, el Instituto para la Protección al Ahorro Bancario cubrirá el saldo de la obligación garantizada que derive de la cuenta respectiva, hasta por el límite señalado en el artículo 11 de la Ley de Protección al Ahorro Bancario cualquiera que sea el número de titulares o cotitulares.
+IV. Sin perjuicio de lo establecido en la fracción anterior, tratándose de cuentas colectivas con más de un titular o cotitulares, el Instituto para la Protección al Ahorro Bancario cubrirá el saldo de la obligación garantizada que derive de la cuenta respectiva, hasta por el límite señalado en el artículo [11](../../lpab/markdown/articulo-11.md) de la Ley de Protección al Ahorro Bancario cualquiera que sea el número de titulares o cotitulares.
 
 El Instituto para la Protección al Ahorro Bancario establecerá mediante disposiciones de carácter general, previa aprobación de su Junta de Gobierno, el tratamiento que se dará a las cuentas colectivas.
 

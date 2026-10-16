@@ -19,7 +19,7 @@ source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
 
 La recepción, depósito y retiros de los recursos de las cuentas individuales de los sistemas de ahorro para el retiro, así como los traspasos y flujos de información se realizarán en los términos y conforme a los procedimientos que se establezcan en disposiciones de carácter general.
 
-Asimismo, tratándose de los recursos a que se refieren los artículos [74 bis](articulo-74-bis.md) a [74](articulo-74.md) quinquies, los procesos a que se refiere el párrafo anterior se deberán sujetar a las reglas que determine la Comisión y a lo que se pacte en los contratos de administración de fondos para el retiro.
+Asimismo, tratándose de los recursos a que se refieren los artículos [74 bis](articulo-74-bis.md) a [74 quinquies](articulo-74-quinquies.md), los procesos a que se refiere el párrafo anterior se deberán sujetar a las reglas que determine la Comisión y a lo que se pacte en los contratos de administración de fondos para el retiro.
 
 En el contrato de administración de fondos para el retiro que celebren las administradoras con los trabajadores, se deberá pactar el uso de equipos y sistemas automatizados o de telecomunicación, siempre que se establezca lo siguiente: Párrafo reformado DOF 11-01-2005
 

@@ -25,7 +25,7 @@ Al surtir efectos las notificaciones el día hábil bancario siguiente al día e
 
 En su caso, los recursos o bienes que reciba la institución participante de que se trate, como contraprestación por el cumplimiento de la operación respectiva, formarán parte de su patrimonio a fin de que sean utilizados por el liquidador o liquidador judicial, según corresponda, para pagar los pasivos de la institución en el orden de pago o prelación establecidos en esta Ley. Párrafo reformado DOF 10-01-2014
 
-Las cuentas que los administradores de los sistemas de pagos del exterior referidos en el primer párrafo del presente artículo mantengan en el Banco de México serán inembargables en los mismos términos de lo señalado en el segundo párrafo del artículo 15 de la Ley de Sistemas de Pagos.
+Las cuentas que los administradores de los sistemas de pagos del exterior referidos en el primer párrafo del presente artículo mantengan en el Banco de México serán inembargables en los mismos términos de lo señalado en el segundo párrafo del artículo [15](../../lsp/markdown/articulo-15.md) de la Ley de Sistemas de Pagos.
 
 No obstante lo dispuesto en los párrafos anteriores, los acreedores, los órganos concursales o cualquier tercero con interés jurídico podrán exigir de los participantes en los sistemas de pago, a través del ejercicio de las acciones legales conducentes, las prestaciones, indemnizaciones y responsabilidades que procedan conforme a derecho.
 

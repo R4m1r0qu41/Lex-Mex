@@ -33,4 +33,4 @@ c) El tipo de población o regiones hacia las cuales están enfocados sus produc
 
 II. Los bienes a que se refiere este artículo deberán mantenerse en las mismas condiciones en las que se tuvieron para su comercialización, hasta que se realice su entrega.
 
-En el caso de bienes perecederos que sean destruidos o decomisados por las autoridades sanitarias, se deberá conservar durante el plazo previsto en el artículo 30 del Código Fiscal de la Federación, la copia del acta que al efecto se levante, misma que compruebe el registro contable respectivo.
+En el caso de bienes perecederos que sean destruidos o decomisados por las autoridades sanitarias, se deberá conservar durante el plazo previsto en el artículo [30](../../cff/markdown/articulo-30.md) del Código Fiscal de la Federación, la copia del acta que al efecto se levante, misma que compruebe el registro contable respectivo.

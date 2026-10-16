@@ -21,6 +21,6 @@ La institución organizada conforme a la presente Sección podrá contratar, sie
 
 Se tendrán por no puestas las cláusulas que impliquen la terminación anticipada de los contratos que tengan por objeto la prestación de los bienes y servicios a que se refiere el párrafo anterior que la institución en estado de disolución y liquidación hubiere celebrado con las empresas que pertenezcan al mismo grupo empresarial del cual forme parte ésta, por el hecho de iniciar un procedimiento de resolución.
 
-Para estos efectos, la referida institución en liquidación quedará exceptuada de lo dispuesto por el artículo 233 de la Ley General de Sociedades Mercantiles.
+Para estos efectos, la referida institución en liquidación quedará exceptuada de lo dispuesto por el artículo [233](../../lgsm/markdown/articulo-233.md) de la Ley General de Sociedades Mercantiles.
 
 Artículo adicionado DOF 06-07-2006. Reformado DOF 10-01-2014

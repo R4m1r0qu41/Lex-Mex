@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf
 source_sha256: 475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822
 ---
 
+> Referencia histórica desactualizada: «157» → `urn:lex-mx:federal:statute:lgdnna:article:157`. Se conserva la cita sin enlace vigente. Article 135 Ter cites article 157 of this Ley, which the retained text does not contain; the citation is stale.
+
 > Título QUINTO · Capítulo Tercero
 
 # Artículo 135 Ter

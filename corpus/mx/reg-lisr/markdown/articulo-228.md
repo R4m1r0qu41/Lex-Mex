@@ -45,4 +45,4 @@ Las instituciones de crédito y las casas de bolsa que celebren operaciones de r
 
 En los casos en donde la enajenación de los títulos a que se refiere el párrafo primero de este artículo se realice en un plazo distinto al anual, la retención se podrá calcular aplicando al precio de adquisición del título de que se trate, el factor que resulte de multiplicar el número de días transcurridos entre la fecha de adquisición y la de su enajenación o redención, por el cociente que resulte de dividir la tasa impositiva aplicable entre 365. Este cociente se calculará hasta el millonésimo.
 
-Lo dispuesto en este artículo, se aplica de conformidad con lo señalado en el artículo 26 del Código Fiscal de la Federación.
+Lo dispuesto en este artículo, se aplica de conformidad con lo señalado en el artículo [26](../../cff/markdown/articulo-26.md) del Código Fiscal de la Federación.

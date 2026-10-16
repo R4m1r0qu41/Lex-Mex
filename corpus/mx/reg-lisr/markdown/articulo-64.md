@@ -17,4 +17,4 @@ source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
 
 # Artículo 64
 
-Para efectos del artículo 28, fracción XXVII, párrafo sexto de la [Ley](articulo-1.md), se consideran áreas estratégicas, aquéllas a que se refiere el artículo 5 de la Ley de Inversión Extranjera.
+Para efectos del artículo 28, fracción XXVII, párrafo sexto de la [Ley](articulo-1.md), se consideran áreas estratégicas, aquéllas a que se refiere el artículo [5](../../lie/markdown/articulo-5o.md) de la Ley de Inversión Extranjera.

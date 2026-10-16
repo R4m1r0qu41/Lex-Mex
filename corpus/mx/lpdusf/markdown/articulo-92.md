@@ -17,6 +17,6 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 92
 
-Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad de Usuarios, la Comisión Nacional, así como cualquier legitimado a que se refiere el artículo 862 del Código Nacional de Procedimientos Civiles y Familiares, podrán ejercitar la acción colectiva a que se refiere dicho ordenamiento.
+Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad de Usuarios, la Comisión Nacional, así como cualquier legitimado a que se refiere el artículo [862](../../cnpcf/markdown/articulo-862.md) del Código Nacional de Procedimientos Civiles y Familiares, podrán ejercitar la acción colectiva a que se refiere dicho ordenamiento.
 
 Artículo reformado DOF 30-08-2011, 14-11-2025

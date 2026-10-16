@@ -31,6 +31,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:127:reference:2749-2751:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:127",
+    "source_span": "27",
+    "start_char": 2749,
+    "end_char": 2751,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:27",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 2725,
+        "end_char": 2735
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgdnna:article:130:reference:1294-1297:125:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:130",
     "source_span": "125",
@@ -87,6 +109,50 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgdnna:article:135-ter:reference:319-322:157:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:135-ter",
+    "source_span": "157",
+    "start_char": 319,
+    "end_char": 322,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgdnna",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:157",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "historical_superseded_reference_outdated",
+    "reference_form": "direct",
+    "outdated_reference_approval": {
+      "source_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:135-ter",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lgdnna",
+      "target_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:157",
+      "source_span": "157",
+      "start_char": 319,
+      "end_char": 322,
+      "source_text_sha256": "9a165b237bc57a258fa35f9cabf0f22a5ffcc570171bc3788687639446e2f103",
+      "source_sha256": "475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "rationale": "Article 135 Ter cites article 157 of this Ley, which the retained text does not contain; the citation is stale.",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f"
+    },
+    "legal_operator_review": {
+      "source_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:135-ter",
+      "target_instrument_id": "urn:lex-mx:federal:statute:lgdnna",
+      "target_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:157",
+      "source_span": "157",
+      "start_char": 319,
+      "end_char": 322,
+      "source_text_sha256": "9a165b237bc57a258fa35f9cabf0f22a5ffcc570171bc3788687639446e2f103",
+      "reviewer": "Operator",
+      "captured_at": "2026-10-16T19:42:41Z",
+      "note": "Operator: do not link. The reference is stale; an article cited by another instrument is sometimes later derogated or eliminated and the citation is never updated.",
+      "decision_source": "docs/held-instruments-review-2026-10-16.md",
+      "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f"
+    }
   },
   {
     "schema_version": "0.1.0",
