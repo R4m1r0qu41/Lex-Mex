@@ -8,6 +8,12 @@ The curated alias table remains the only source of accent-stripped and colloquia
 
 Seven in-corpus DCG alias keys were renamed onto the committed `short_name` so their already-curated colloquial names resolve. Deferred DCG keys with no committed instrument were not changed.
 
+## 2026-10-16 — Federal laws and regulations enter maintenance mode; SQLite + `rusqlite` serving base
+
+The operator selected **SQLite + `rusqlite`** on 2026-10-14 as the initial derived corpus database base, recorded here because the campaign branch that first held this record was never landed. Canonical JSON, Rust validation, source provenance and audited legal decisions remain authoritative. The database is a rebuildable, release-pinned projection, not a replacement for the corpus and not a place to infer legal approval. Its primary use is model retrieval and evidence-backed use of the corpus, alongside human reading, so stable canonical IDs, typed references, source spans, coverage and review qualifications must survive the projection. An async Rust service, hosted database, semantic retrieval and model-assisted reasoning are later capabilities. No database dependency, hosting, inference pipeline or deployment is introduced by this entry.
+
+On 2026-10-16 the operator confirmed that, with the federal laws and regulations ingested (452 of 453 current Cámara rows plus the held-source admissions), that scope moves to **maintenance mode**: source-currency checks, reform tracking and repair, not repeat bulk ingestion. DCG ingestion remains pending. The 2026-10-14 text-first `campaign` command (1,890 lines) is not landed; it is preserved as a patch in git-ignored `archive/` and its reports as historical records under `docs/history/federal-text-first-campaign-2026-10-14/`. It can be revived if a later bulk ingestion needs staged, resumable campaigns.
+
 ## 2026-10-13 — LFJS admitted; EC4 admitted with `lfiiedb` held
 
 The LFJS hold of 2026-10-09 is resolved. The parser now reads bare numeric
