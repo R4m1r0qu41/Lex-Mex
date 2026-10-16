@@ -809,7 +809,11 @@ fn bare_parent_marker(lower: &str, parent_id: &str) -> Option<usize> {
 }
 
 /// A bare `Ley` is followed by punctuation, the end of the text, or a plain
-/// connective, never by the words of a title (`de la Ley de Pesca`).
+/// connective, never by the words of a title (`de la Ley de Pesca`), a title
+/// opening with a relative clause (`de la Ley que Regula el Uso de la
+/// Fuerza…`), an anaphoric `en cita`, or a dated reading of the law
+/// (`de la Ley vigente hasta el 31 de diciembre de 2001`), which names another
+/// law than the regulation's current parent.
 fn bare_word_follows(rest: &str) -> bool {
     let Some(first) = rest.chars().next() else {
         return true;
@@ -824,24 +828,46 @@ fn bare_word_follows(rest: &str) -> bool {
     if !next.is_alphabetic() {
         return true;
     }
-    let word: String = rest.chars().take_while(|c| c.is_alphabetic()).collect();
-    [
-        "y",
-        "o",
-        "e",
-        "en",
-        "conforme",
-        "vigente",
-        "aplicable",
-        "cuando",
-        "se",
-        "que",
-        "así",
-        "como",
-        "sus",
-        "su",
-    ]
-    .contains(&word.as_str())
+    let mut words = rest
+        .split(|c: char| !c.is_alphabetic())
+        .filter(|word| !word.is_empty());
+    let word = words.next().unwrap_or_default();
+    let following = words.next().unwrap_or_default();
+    match word {
+        "que" => ![
+            "regula",
+            "establece",
+            "crea",
+            "declara",
+            "expide",
+            "instituye",
+            "adiciona",
+            "deroga",
+            "aprueba",
+            "otorga",
+            "fija",
+            "norma",
+            "modifica",
+            "reforma",
+        ]
+        .contains(&following),
+        "en" => following != "cita",
+        "vigente" => !["hasta", "desde", "a", "en", "durante", "al"].contains(&following),
+        _ => [
+            "y",
+            "o",
+            "e",
+            "conforme",
+            "aplicable",
+            "cuando",
+            "se",
+            "así",
+            "como",
+            "sus",
+            "su",
+        ]
+        .contains(&word),
+    }
 }
 
 fn sentence_target<'a>(
@@ -4130,6 +4156,34 @@ mod tests {
         );
         assert_eq!(edges.len(), 1);
         assert_eq!(edges[0].target_provision_id, known[1]);
+    }
+
+    #[test]
+    fn a_bare_ley_never_takes_a_dated_titled_or_cited_law() {
+        let known = ["urn:lex-mx:federal:statute:lan:article:10"];
+        for text in [
+            // REG-LISR article 10: the law in force until 2001 is not the parent.
+            "Se aplicará el artículo 10 de la Ley vigente hasta el 31 de diciembre de 2001, podrán actualizar.",
+            "Se aplicará el artículo 10 de la Ley vigente a partir de 2014 y de otras.",
+            // REG-LOPGJDF article 7: a different law whose title starts "que".
+            "Se aplicará el artículo 10 de la Ley que Regula el Uso de la Fuerza de los Cuerpos.",
+            // REG-LFPPI article 12: "la Ley en cita" refers to an earlier-cited law.
+            "Se aplicará el artículo 10 de la Ley en cita, o de su equivalente.",
+        ] {
+            let edges: Vec<_> = parent_edges(text, &known)
+                .into_iter()
+                .filter(|e| e.target_instrument_id == LAN)
+                .collect();
+            assert!(edges.is_empty(), "{text}: {edges:?}");
+        }
+        // Relative clauses about the parent and plain "vigente" still link.
+        for text in [
+            "Se aplicará el artículo 10 de la Ley que será presentada al Mando.",
+            "Se aplicará el artículo 10 de la Ley vigente, conforme a lo anterior.",
+            "Se aplicará el artículo 10 de la Ley en lo que refiere a los planteles.",
+        ] {
+            assert_eq!(parent_edges(text, &known).len(), 1, "{text}");
+        }
     }
 
     #[test]

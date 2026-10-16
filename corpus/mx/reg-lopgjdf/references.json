@@ -283,21 +283,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopgjdf:article:29:reference:5139-5140:7:direct",
-    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lopgjdf:article:29",
-    "source_span": "7",
-    "start_char": 5139,
-    "end_char": 5140,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lopgjdf",
-    "target_provision_id": "urn:lex-mx:federal:statute:lopgjdf:article:7",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lopgjdf:article:49:reference:2710-2712:16:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lopgjdf:article:49",
     "source_span": "16",
