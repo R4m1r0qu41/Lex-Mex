@@ -61,8 +61,8 @@ historical effect date is inferred from source acquisition or instrument title.
 
 ## Current checkpoint — 2026-10-15
 
-Ten cleared instruments admitted locally: working corpus 467; committed baseline
-457 at the unchanged HEAD above. All 71,343 baseline corpus files remain byte
+Ten cleared instruments committed locally in `3db2d7edc455aba07bf3dbbac2b6210e92f1e365`: working corpus 467; initial committed baseline
+457 at `0b944572a25db5fbb499f752bb06a3fec8cc9e93`. All 71,343 baseline corpus files remain byte
 identical. EGDF excluded by explicit operator answer; three DCGs deferred.
 Implementation and all ten affected pipelines pass. Independent GPT-6.1-Sol
 accepted corrected actual outputs after the exact LISIPL header regression fix.
@@ -70,14 +70,15 @@ Final native gate passes: fmt, clippy, 265 tests, LRITF and IFPE validators.
 Water manifest renamed to `batches/env_water_e3.json`, matching schema and ID;
 its inventory assertion now includes the newly unblocked LGAG (227 slugs).
 
-Exactly one next action: review and authorize a commit of the accepted changes.
-No commit or push is authorized by this reprocessing task.
+Commit `3db2d7edc455aba07bf3dbbac2b6210e92f1e365` records the accepted changes.
+No push occurred.
 
 ## Outcome
 
 Admission results and limitations are recorded in
 `docs/federal-held-source-reprocessing-report-2026-10-15.md` and its evidence JSON.
-No temporal model run, existing-corpus reverse relinking, commit or push. PEF's
+No temporal model run or existing-corpus reverse relinking. PEF's
 38 printed annex sections remain one canonical container; its ambiguous flattened
 table citation is retained unlinked. Count baselines remain unfrozen. Dedicated
 DCG parsing, reverse linking and temporal review remain separate follow-up work.
+The two unrelated note deletions remain unstaged in the worktree.

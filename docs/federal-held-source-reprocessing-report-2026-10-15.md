@@ -12,7 +12,8 @@ reference.
 The 14 dispositions are: 10 locally admitted, three DCGs deferred for their
 dedicated parsing and official-source work, and EGDF excluded by the operator. No temporal
 model ran, no reverse relinking of existing corpus material was performed, and
-no commit or push occurred.
+Commit `3db2d7edc455aba07bf3dbbac2b6210e92f1e365` records the accepted set;
+no push occurred.
 
 GPT-6.1-Sol independently accepted the corrected actual outputs. Its review
 caught LISIPL running-title contamination in Article 2 and containing-act
@@ -111,7 +112,8 @@ count before completion; the manifest inventory now has 227 distinct slugs.
 ## Handoff
 
 Unrelated note deletions and operator annotations remain untouched. Changes are
-unstaged; HEAD remains the baseline commit, with no new commit or push.
-Next action: review and authorize a commit of this accepted repair/admission set.
-After integration, separately scope reverse linking across the 467 instruments;
-the three deferred DCGs still require dedicated source/parser work.
+Committed locally as `3db2d7edc455aba07bf3dbbac2b6210e92f1e365`
+(`feat: admit ten federal held instruments`); not pushed. The two unrelated note
+deletions remain unstaged.
+Next work can separately scope reverse linking across the 467 instruments; the
+three deferred DCGs still require dedicated source/parser work.
