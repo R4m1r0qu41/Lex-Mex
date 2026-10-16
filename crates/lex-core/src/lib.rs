@@ -663,6 +663,7 @@ impl SourceRepealNotice {
             && self.successor_instrument_id.as_deref() == Some(&successor.instrument.id)
             && successor.provisions.iter().any(|p| {
                 p.id == clause.provision_id
+                    && p.instrument_id == successor.instrument.id
                     && evidence_sha256(&p.text) == clause.provision_text_sha256
                     && normalized_whitespace(&p.text)
                         .contains(&normalized_whitespace(&self.source_note))

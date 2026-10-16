@@ -252,6 +252,7 @@ fn collect_instrument(
         amendment_references: Vec::new(),
     };
     lex_core::validate_publication_metadata(&checked).map_err(anyhow::Error::msg)?;
+    super::validate_persisted_repeal_evidence(root, &checked)?;
 
     let validation_path = source_dir.join("validation.json");
     let validation: serde_json::Value = read_json(&validation_path)?;
@@ -638,6 +639,63 @@ mod tests {
             )
             .is_err()
         );
+    }
+
+    #[test]
+    fn stale_successor_notice_prevents_bundle_output() {
+        let temp = tempfile::tempdir().unwrap();
+        let root = temp.path();
+        write_fixture(root, "former");
+        write_fixture(root, "successor");
+        let successor_path = root.join("corpus/mx/successor/provisions.json");
+        let mut provisions: Vec<lex_core::Provision> = super::read_json(&successor_path).unwrap();
+        provisions[0].text = "Se abroga la Ley anterior.".to_owned();
+        fs::write(&successor_path, serde_json::to_vec(&provisions).unwrap()).unwrap();
+        let instrument_path = root.join("corpus/mx/former/instrument.json");
+        let mut instrument: Instrument = super::read_json(&instrument_path).unwrap();
+        instrument.status = InstrumentStatus::Repealed;
+        instrument.source_repeal_notice = Some(
+            serde_json::from_value(serde_json::json!({
+                "source_note": provisions[0].text,
+                "source_sha256": instrument.source_sha256,
+                "formal_publication_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=fixture",
+                "formal_source_sha256": "b".repeat(64),
+                "successor_instrument_id": provisions[0].instrument_id,
+                "successor_clause": {
+                    "provision_id": provisions[0].id,
+                    "provision_text_sha256": lex_core::evidence_sha256(&provisions[0].text)
+                },
+                "reviewer": "Fixture reviewer", "captured_at": "2026-10-16T00:00:00Z",
+                "rationale": "Fixture only", "decision_source": "fixture",
+                "decision_source_sha256": "c".repeat(64)
+            }))
+            .unwrap(),
+        );
+        fs::write(&instrument_path, serde_json::to_vec(&instrument).unwrap()).unwrap();
+        create_bundle(
+            root,
+            &["former".to_owned()],
+            BundleProfile::Canonical,
+            &root.join("good"),
+            "fixture",
+            "2026-10-16T00:00:00Z",
+        )
+        .unwrap();
+        provisions[0].text = "Texto sin abrogación.".to_owned();
+        fs::write(&successor_path, serde_json::to_vec(&provisions).unwrap()).unwrap();
+        let output = root.join("bad");
+        assert!(
+            create_bundle(
+                root,
+                &["former".to_owned()],
+                BundleProfile::Canonical,
+                &output,
+                "fixture",
+                "2026-10-16T00:00:00Z"
+            )
+            .is_err()
+        );
+        assert!(!output.exists());
     }
 
     fn write_fixture(root: &Path, slug: &str) {

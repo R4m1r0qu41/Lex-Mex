@@ -28,14 +28,14 @@ Local `main` at `25732f3ef` (`chore: remove misplaced nota-viabilidad comites ba
 
 ## Current checkpoint
 
-2026-10-16, branch `feat/corpus-reverse-linking`, rebased onto `7326c41aa`, not on `main`. After the tightening pass below, `target/release/lex-mex link --all` exits non-zero by design because instruments are held at their previous graphs. At this commit the code-held set is 12 and `lgdnna` is held by hand (its previous graph restored at the operator's request, because Article 135 Ter cites an Article 157 the retained text lacks and JRH will review); the Codex parser/linker repair that follows rejects `lgdnna` by rule. A second run relinks 0 and produces no diff beyond `lgdnna`.
+2026-10-16, branch `feat/corpus-reverse-linking`, rebased onto `7326c41aa`, not on `main`. After the tightening pass below, `target/release/lex-mex link --all` exits non-zero by design because instruments are held at their previous graphs. After the Codex repair commit that follows, `lgdnna` is rejected by rule as well as by hand (its previous graph was restored at the operator's request). A second run relinks 0 and produces no diff beyond `lgdnna`.
 
 | Result | Count |
 |---|---:|
 | Instruments | 467 |
 | Relinked and validated | 304 |
 | Unchanged | 150 |
-| Held at previous graph | 13 |
+| Held at previous graph | 21 (see below) |
 | References | 27,429 → 30,413 |
 | Resolved cross-instrument edges | 4,137 |
 | Retargeted edges (all reviewed) | 44 |
@@ -44,7 +44,7 @@ Local `main` at `25732f3ef` (`chore: remove misplaced nota-viabilidad comites ba
 
 No `provisions.json`, `instrument.json`, `terms.json`, `term-usages.json` or source manifest changed, and every `validation.json` is valid. Persisted historical and approved edges are byte-identical.
 
-Held instruments: 11 cite an article absent from the target corpus (`cpf`, `lbm`, `lftr`, `lgmime`, `lgs`, `lic`, `lmv`, `lpdusf`, `lsar`, `reg-lan`, `reg-lisr`) `lrsic` is held by the historical-edge guard, and `lgdnna` is held by operator request pending JRH review. Per-target evidence and classification (target parser defects vs stale citations) is in the `corpus-wide-reverse-linking` entry of `docs/ingestion-difficulty-log.md`.
+Held instruments: 11 cite an article absent from the target corpus (`cpf`, `lbm`, `lftr`, `lgmime`, `lgs`, `lic`, `lmv`, `lpdusf`, `lsar`, `reg-lan`, `reg-lisr`) `lrsic` is held by the historical-edge guard, and `lgdnna` is held by operator request pending JRH review. After the parser/linker repair, eight more are held because an explicit citation to a missing own-article is now retained as unresolved: `cub-dcg-2005`, `cucb-dcg-2004`, `lgcs`, `lgoaac`, `oaac-dcg-2009`, `reg-lagra-mcdets`, `reg-lfce`, `socap-sofipo-dcg-2006` (unverified; several look like `Bis`-suffix parser gaps). `link --all` on the landed tree: relinked 0, unchanged 446, rejected 21. Per-target evidence and classification (target parser defects vs stale citations) is in the `corpus-wide-reverse-linking` entry of `docs/ingestion-difficulty-log.md`.
 
 ## Tightening pass (2026-10-16, before landing)
 

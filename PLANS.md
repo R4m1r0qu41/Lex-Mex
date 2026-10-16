@@ -53,7 +53,7 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 - [`docs/plans/corpus-wide-reverse-linking.md`](docs/plans/corpus-wide-reverse-linking.md)
   — Relink the committed federal corpus, then validate and republish Markdown.
-  Complete on a branch (304 graphs rewritten, 13 held); awaiting approval to
+  Complete on a branch (304 graphs rewritten, 21 held); awaiting approval to
   land. The reader database waits until this graph is accepted.
 - [`docs/plans/nested-public-reader.md`](docs/plans/nested-public-reader.md)
   — Publish discoverable text and a source-backed nested reader with shared MCP access.
@@ -69,6 +69,10 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
   gate, close reverse links, and validate publication output.
 
 ### Completed
+
+- [`docs/plans/parser-linker-audit-2026-10-16.md`](docs/plans/parser-linker-audit-2026-10-16.md)
+  — Six defects repaired; 278 tests and 44 replay stages pass. LGDNNA source
+  citation remains a separate JRH review before corpus-wide relinking.
 
 - [`docs/plans/federal-held-source-reprocessing.md`](docs/plans/federal-held-source-reprocessing.md)
   — Ten cleared holds admitted locally (467 instruments); Sol review and native

@@ -1,0 +1,712 @@
+{
+  "reviewed_commit": "7326c41aa71740ad53652803c529025c029d84dd",
+  "scope": "Current parser/linker trust boundaries; ordinary instrument graph; eleven affected source replays. NOMs excluded. No main code or corpus edits.",
+  "native_gate": {
+    "date": "2026-10-16",
+    "commands": [
+      {
+        "command": "cargo fmt --check",
+        "exit_code": 0
+      },
+      {
+        "command": "cargo clippy --workspace --all-targets -- -D warnings",
+        "exit_code": 0
+      },
+      {
+        "command": "cargo test --workspace",
+        "exit_code": 0
+      },
+      {
+        "command": "cargo run --locked -p lex-cli -- validate lritf",
+        "exit_code": 0
+      },
+      {
+        "command": "cargo run --locked -p lex-cli -- validate ifpe-dcg-2021",
+        "exit_code": 0
+      }
+    ],
+    "workspace_tests": {
+      "passed": 266,
+      "failed": 0,
+      "ignored": 0,
+      "doc_tests": 0,
+      "breakdown": [
+        29,
+        3,
+        27,
+        8,
+        195,
+        4
+      ]
+    },
+    "validators": {
+      "lritf": "valid; 145 articles, 11 transitories, 126 references, 0 issues",
+      "ifpe-dcg-2021": "valid; 59 articles, 4 transitories, 113 references, 0 issues"
+    },
+    "raw_logs": "not retained by the execution harness; values transcribed from actual tool outputs",
+    "edits_staging_commit": false
+  },
+  "graph_integrity": {
+    "instruments": 467,
+    "provisions": 68086,
+    "references": {
+      "resolved": 27423,
+      "historical_superseded_reference_outdated": 1,
+      "historical_target_unavailable": 5
+    },
+    "errors": []
+  },
+  "replays": [
+    {
+      "slug": "lga",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "provisions_sha256": "dac825d052f3581a541daf106490eca04ba65158a415898898daac881ab6e76a",
+      "replay_provisions_sha256": "dac825d052f3581a541daf106490eca04ba65158a415898898daac881ab6e76a",
+      "provision_metadata_identical": true,
+      "markdown_differences": []
+    },
+    {
+      "slug": "lgag",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "provisions_sha256": "24a7e3668fc858d6c06e246696b0b0a6d5191f3e2dfd2be66113309d46b01761",
+      "replay_provisions_sha256": "24a7e3668fc858d6c06e246696b0b0a6d5191f3e2dfd2be66113309d46b01761",
+      "provision_metadata_identical": true,
+      "markdown_differences": []
+    },
+    {
+      "slug": "lif-2026",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "provisions_sha256": "0fe6ed0ba3c8219bf070dfcba6f798bec537e646642ee95ddecb513e294a944a",
+      "replay_provisions_sha256": "0fe6ed0ba3c8219bf070dfcba6f798bec537e646642ee95ddecb513e294a944a",
+      "provision_metadata_identical": true,
+      "markdown_differences": []
+    },
+    {
+      "slug": "pef-2026",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "provisions_sha256": "61282c67c0cfc335625332ab50b68377bbe19df9e01fb262272812ef69e3d1cc",
+      "replay_provisions_sha256": "61282c67c0cfc335625332ab50b68377bbe19df9e01fb262272812ef69e3d1cc",
+      "provision_metadata_identical": true,
+      "markdown_differences": []
+    },
+    {
+      "slug": "lftr",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "provisions_sha256": "043de7981df582853327df1bd5374a53e932f2a742a1644e8800170b43842083",
+      "replay_provisions_sha256": "043de7981df582853327df1bd5374a53e932f2a742a1644e8800170b43842083",
+      "provision_metadata_identical": true,
+      "markdown_differences": []
+    },
+    {
+      "slug": "reg-lgs-insumos",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "provisions_sha256": "df24e17eb3415f10fdd2b7036fef929ca9da0cb2634bf065890e0239d58cd656",
+      "replay_provisions_sha256": "df24e17eb3415f10fdd2b7036fef929ca9da0cb2634bf065890e0239d58cd656",
+      "provision_metadata_identical": true,
+      "markdown_differences": []
+    },
+    {
+      "slug": "lcnbv",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "provisions_sha256": "14d1f52dde83096557f643559e7ebc990e570874c789cf00d9d7d268dd1c6327",
+      "replay_provisions_sha256": "14d1f52dde83096557f643559e7ebc990e570874c789cf00d9d7d268dd1c6327",
+      "provision_metadata_identical": true,
+      "markdown_differences": []
+    },
+    {
+      "slug": "lcmopfih",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "provisions_sha256": "1cb018b390a6e59d4847650c69da138705eacf94ed0ca1204d3d1769957eccf5",
+      "replay_provisions_sha256": "1cb018b390a6e59d4847650c69da138705eacf94ed0ca1204d3d1769957eccf5",
+      "provision_metadata_identical": true,
+      "markdown_differences": []
+    },
+    {
+      "slug": "lisipl",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "provisions_sha256": "afaa82fd31a86c8c43a61b5b44f6061a11cd0bc853ade0a6bf048b212c3fa4b6",
+      "replay_provisions_sha256": "afaa82fd31a86c8c43a61b5b44f6061a11cd0bc853ade0a6bf048b212c3fa4b6",
+      "provision_metadata_identical": true,
+      "markdown_differences": []
+    },
+    {
+      "slug": "lfiiedb",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "provisions_sha256": "7453f8e6075c6c81a56f2ba454f0d1e9bbf73a4fa396266bdecda7198688b494",
+      "replay_provisions_sha256": "7453f8e6075c6c81a56f2ba454f0d1e9bbf73a4fa396266bdecda7198688b494",
+      "provision_metadata_identical": true,
+      "markdown_differences": []
+    },
+    {
+      "slug": "reg-lfmn",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "provisions_sha256": "37df271d9f6b5b55f893cf0b029453efb8e3c3edbbe17a245c98c56d6fbfe5aa",
+      "replay_provisions_sha256": "37df271d9f6b5b55f893cf0b029453efb8e3c3edbbe17a245c98c56d6fbfe5aa",
+      "provision_metadata_identical": true,
+      "markdown_differences": []
+    }
+  ],
+  "corpus_citation_probe": {
+    "relative_count": 2580,
+    "external_qualified_relative_candidates": [
+      {
+        "source": "urn:lex-mx:federal:regulation:reg-lgn:article:216",
+        "target": "urn:lex-mx:federal:regulation:reg-lgn:article:215",
+        "context": "ido formalmente el recurso de inconformidad y la documentación mencionada en el artículo anterior del Reglamento, el Consejo de Disciplina u Órgano Revisor deberá:\n\nI. Sesionar en Pleno en un plazo no mayor a quince días hábiles, a fin de acordar lo relativo a su admisión, def"
+      }
+    ],
+    "explicit_missing_candidates": [
+      {
+        "source": "urn:lex-mx:federal:statute:lgdnna:article:135-ter",
+        "number": "157",
+        "context": "fuero local; de no hacerlo, será sancionada en los términos establecidos por el artículo 157 de esta Ley y responderá solidariamente para el pago de daños y perjuicios que cause al acreedor alimentario po"
+      }
+    ]
+  },
+  "independent_reviews": {
+    "linker": {
+      "reviewer": "independent GPT-6.1-Sol",
+      "head": "7326c41aa71740ad53652803c529025c029d84dd",
+      "scope": "Read-only linker extraction/validation, CLI guards, core reference types, exporter; no bulk corpus graph scan",
+      "reproduction_command": "cargo run --offline --manifest-path /private/tmp/lex-linker-independent-audit/Cargo.toml --quiet",
+      "reproduction_source": "use std::{collections::HashSet,fs};\nuse lex_core::Provision;\nfn main(){\n let all:Vec<Provision>=serde_json::from_str(&fs::read_to_string(\"/Users/jr/Dev/lex-mex/corpus/mx/lritf/provisions.json\").unwrap()).unwrap();\n for text in [\"Se aplicará el artículo 999 de esta Ley.\",\"Se aplicará el artículo anterior de la Constitución Política de los Estados Unidos Mexicanos.\",\"Se aplicarán los artículos 1 a 3 de esta Ley.\"] {\n  let mut ps=all[..3].to_vec();ps[1].text=text.into();\n  let edges=lex_parse::extract_internal_references(&ps).unwrap();\n  println!(\"INPUT: {text}\");for e in edges.iter().filter(|e|e.source_provision_id==ps[1].id){println!(\"{} -> {} {:?}\",e.source_span,e.target_provision_id,e.resolution_status);}\n  if text.contains(\"999\") {let report=lex_parse::validate_lritf(&ps,&edges,3,0);println!(\"VALID={} issues={:?}\",report.valid,report.issues);}\n }\n let mut ps=all[..3].to_vec();ps[1].text=\"Se aplicará el artículo anterior de la Constitución Política de los Estados Unidos Mexicanos.\".into();\n let opts=lex_parse::ReferenceOptions{policy:lex_parse::InstrumentContextPolicy::SentenceEarliestMarker{internal_markers:vec![\"de esta ley\".into()],external_instruments:vec![(\"constitución política de los estados unidos mexicanos\".into(),\"urn:lex-mx:federal:constitution:cpeum\".into())]},transitory_citations:true,same_article_fractions:true,relative_references:true,historical_targets:vec![]};\n let refs=lex_parse::extract_references(&ps,None,&opts,&ps.iter().map(|p|p.id.clone()).collect()).unwrap();println!(\"CROSS-INSTRUMENT POLICY relative: {:?}\",refs.iter().filter(|e|e.source_provision_id==ps[1].id).map(|e|(&e.source_span,&e.target_provision_id)).collect::<Vec<_>>());\n let mut ps=all[..3].to_vec();ps[1].text=\"Se aplicará el artículo 1 de esta Ley.\".into();\n let mut edges=lex_parse::extract_internal_references(&ps).unwrap();edges.retain(|e|e.source_provision_id==ps[1].id);\n let e=&mut edges[0];e.target_instrument_id=\"urn:lex-mx:federal:constitution:cpeum\".into();e.target_provision_id=\"urn:lex-mx:federal:statute:lga:article:1\".into();\n let external=HashSet::from([e.target_provision_id.clone()]);\n let report=lex_parse::validate_corpus(&lex_parse::CorpusView{instrument_id:&ps[0].instrument_id,official_title:None,provisions:&ps,references:&edges,terms:&[],term_usages:&[],amendment_references:&[]}, &lex_parse::CorpusExpectations{articles:Some(3),transitories:Some(0),..Default::default()},&external,&HashSet::new());\n println!(\"MISOWNED_TARGET {} claims {}: VALID={} issues={:?}\",edges[0].target_provision_id,edges[0].target_instrument_id,report.valid,report.issues);\n}\n",
+      "findings": [
+        {
+          "id": "explicit_missing_internal_dropped",
+          "severity": "P2",
+          "path": "crates/lex-parse/src/lib.rs",
+          "lines": [
+            443,
+            445
+          ],
+          "origin_commit": "0cda449fbd",
+          "origin_date": "2026-07-11",
+          "input": "LRITF first three committed provisions; replace article2 text with: Se aplicará el artículo 999 de esta Ley.",
+          "expected": "Retain explicitly self-scoped missing target as unresolved and fail validation; ambiguous unqualified-citation suppression can remain distinct.",
+          "actual": "No extracted reference for this source; validate_lritf(3 articles,0 transitories) returns valid=true,issues=[].",
+          "actual_corpus_example": {
+            "instrument": "lgdnna",
+            "source_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:135-ter",
+            "source_excerpt": " la autoridad responsable del fuero local; de no hacerlo, será sancionada en los términos establecidos por el artículo 157 de esta Ley y responderá solidariamente para el pago de daños y perjuicios que cause al acreedor alimentario por las omis",
+            "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf",
+            "citation": "artículo 157 de esta Ley",
+            "target_provision_exists": false,
+            "target_edge_exists": false,
+            "max_numeric_article": 154,
+            "disposition": "Preserve legal pointer; flag JRH review of source-stale citation; do not guess a replacement."
+          }
+        },
+        {
+          "id": "external_relative_resolves_internal",
+          "severity": "P2",
+          "path": "crates/lex-parse/src/lib.rs",
+          "lines": [
+            515,
+            541
+          ],
+          "origin_commit": "988f98c884",
+          "origin_date": "2026-07-05",
+          "input": "LRITF article2: Se aplicará el artículo anterior de la Constitución Política de los Estados Unidos Mexicanos. CLI-style SentenceEarliestMarker policy with explicit CPEUM alias configured.",
+          "expected": "Do not emit resolved local-neighbor link when relative phrase expressly names an external governing instrument. Preserve unresolved ambiguity or skip safely.",
+          "actual": "artículo anterior -> urn:lex-mx:federal:statute:lritf:article:1, resolution_status=resolved",
+          "observed_committed_instance": false,
+          "corpus_probe_note": "Parent inspected2580 relative edges; external-like reg-lgn216 ->215 del Reglamento is correctly same-instrument; no actual external-relative false edge demonstrated."
+        },
+        {
+          "id": "target_instrument_owner_unchecked",
+          "severity": "P2",
+          "path": "crates/lex-parse/src/lib.rs",
+          "lines": [
+            2121,
+            2125
+          ],
+          "origin_commit": "b1aefe6d05",
+          "origin_date": "2026-07-03",
+          "input": "Resolved reference target_provision_id=urn:lex-mx:federal:statute:lga:article:1; target_instrument_id=urn:lex-mx:federal:constitution:cpeum; external_targets contains the LGA provision ID.",
+          "expected": "Validation rejects target-instrument ownership mismatch.",
+          "actual": "validate_corpus returns valid=true,issues=[]",
+          "observed_committed_instance": false,
+          "corpus_probe_note": "Parent full graph invariants found no committed ownership mismatch."
+        }
+      ],
+      "other_results": {
+        "simple_numeric_range": "1 a 3 extracts endpoints1,3 and range expansion2 as expected",
+        "stale_approval_and_export_guards": "No additional concrete defect found",
+        "new_held_source_regression_demonstrated": false
+      },
+      "writes": "Only private audit harness and this private report; no main code/corpus/staging/commit changes"
+    },
+    "parser": {
+      "reviewed_commit": "7326c41aa71740ad53652803c529025c029d84dd",
+      "captured_at": "2026-10-16T13:40:52.860648Z",
+      "mode": "read_only_main; private temp repro mutations only",
+      "binary_sha256": "d6cf8cf15298137d3d47a67e25f2c9b45fffd8aa050e802bf661cb7f47b328fb",
+      "scope": "Parser boundaries, ownership, source fidelity, source-backed notices and reparse preservation. Linker extraction excluded.",
+      "findings": [
+        {
+          "id": "PARSER-01",
+          "severity": "P1",
+          "title": "Current successor-clause evidence is not rechecked by validate/export",
+          "locations": [
+            {
+              "path": "crates/lex-cli/src/main.rs",
+              "line": 3098
+            },
+            {
+              "path": "crates/lex-core/src/lib.rs",
+              "line": 1076
+            },
+            {
+              "path": "crates/lex-cli/src/main.rs",
+              "line": 1979
+            }
+          ],
+          "repro_root": "/private/tmp/lex-parser-audit-vyf7fysv",
+          "commands": [
+            [
+              "/Users/jr/Dev/lex-mex/target/debug/lex-mex",
+              "--root",
+              "/private/tmp/lex-parser-audit-vyf7fysv",
+              "validate",
+              "reg-lfmn"
+            ],
+            [
+              "/Users/jr/Dev/lex-mex/target/debug/lex-mex",
+              "--root",
+              "/private/tmp/lex-parser-audit-vyf7fysv",
+              "validate",
+              "reg-lfmn"
+            ],
+            [
+              "/Users/jr/Dev/lex-mex/target/debug/lex-mex",
+              "--root",
+              "/private/tmp/lex-parser-audit-vyf7fysv",
+              "export",
+              "reg-lfmn",
+              "--format",
+              "markdown"
+            ]
+          ],
+          "setup": "Copied reg-lfmn and successor reg-lic-calidad canonical JSON into private root; other corpus directories are read-only symlinks. Replaced only the private successor Segundo text after validating the unmodified baseline.",
+          "expected": "Validation must reject a persisted repeal notice whose exact source-bound successor clause hash and quoted abrogation note no longer match the current successor corpus.",
+          "actual": {
+            "before_exit_code": 0,
+            "after_exit_code": 0,
+            "before_output": "validation: valid; 118 articles, 4 transitories, 16 references, 2 issues\n",
+            "after_output": "validation: valid; 118 articles, 4 transitories, 16 references, 2 issues\n",
+            "notice_expected_clause_sha256": "22fdaccffa218443b44b70a3728007dfba60074c714672dd9bda233b8ab8dc1d",
+            "actual_private_clause_sha256": "28d49494693ed8df5be748915957baffd00eee585d8bb079f89e46c94ae173ec",
+            "private_replacement_text": "Cláusula de prueba sin abrogación del reglamento anterior.",
+            "after_drift_export_exit_code": 0,
+            "after_drift_export_output": "exported Markdown\n",
+            "after_drift_export_receipt": "parser-evidence/notice/export-receipt.json"
+          },
+          "cause": "The live clause/header guard validate_repeal_config runs during parse only. read_corpus/core validation checks notice shape, predecessor hash and status but never checks the current successor corpus. run_validate and run_export bypass the evidence-basis guard.",
+          "fix_suggestion": "Create a shared canonical-notice evidence check invoked by validation and publication as well as parse. For successor-basis notices, resolve exact current successor ID/provision/hash/quote; fail before publication or mutation on drift/missing target. Keep parse-only acquisition/header checks distinct when retained raw bytes are unavailable.",
+          "evidence_directory": "parser-evidence/notice",
+          "scope_limit": "No mismatch found in the actual committed reg-lfmn successor clause; this is a confirmed drift-detection defect using a private mutation."
+        },
+        {
+          "id": "PARSER-02",
+          "severity": "P2",
+          "title": "Substantive annex tail is silently truncated by a quoted reform-banner phrase",
+          "locations": [
+            {
+              "path": "crates/lex-parse/src/diputados.rs",
+              "line": 1309
+            },
+            {
+              "path": "crates/lex-parse/src/diputados.rs",
+              "line": 1320
+            }
+          ],
+          "repro_root": "/private/tmp/lex-annex-audit-faik79zv",
+          "commands": [
+            [
+              "/private/tmp/lex-annex-audit-faik79zv/annex"
+            ]
+          ],
+          "repro_source": "parser-evidence/annex/annex.rs",
+          "setup": "Synthetic opted-in annex contains an ordinary content paragraph mentioning ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA, followed by final annex text.",
+          "expected": "All content after the configured substantive-annex heading remains in the annex container, including the quoted phrase and final paragraph.",
+          "actual": {
+            "exit_code": 0,
+            "annex_text": "Contenido inicial conservado.",
+            "missing_text": [
+              "La nota cita ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA como contenido del cuadro.",
+              "CONTENIDO FINAL QUE DEBE CONSERVARSE."
+            ]
+          },
+          "cause": "Main-document stop checks execute before the in_substantive_annex opaque-tail branch; is_stop_marker matches the banner anywhere inside the paragraph.",
+          "fix_suggestion": "Once substantive-annex mode is entered, preserve its content before applying main-document appendix stops. Make reform-evidence extraction respect the same ownership boundary, or define an explicit separately reviewed annex-end boundary. Add a regression fixture retaining the phrase and tail.",
+          "evidence_directory": "parser-evidence/annex",
+          "scope_limit": "Synthetic reproducible case. No occurrence of the trigger phrase found in the retained PEF2026 source, so no current PEF truncation claimed."
+        },
+        {
+          "id": "PARSER-03",
+          "severity": "P1",
+          "title": "Reparse warns about stale lawyer-verified evidence then overwrites its canonical applied state",
+          "locations": [
+            {
+              "path": "crates/lex-cli/src/main.rs",
+              "line": 2152
+            },
+            {
+              "path": "crates/lex-cli/src/main.rs",
+              "line": 2092
+            },
+            {
+              "path": "crates/lex-core/src/temporal.rs",
+              "line": 664
+            }
+          ],
+          "repro_root": "/private/tmp/lex-human-state-audit-k6ri7m63",
+          "commands": [
+            [
+              "/Users/jr/Dev/lex-mex/target/debug/lex-mex",
+              "--root",
+              "/private/tmp/lex-human-state-audit-k6ri7m63",
+              "parse",
+              "lritf"
+            ]
+          ],
+          "setup": "Canonical LRITF provisions serialized back into parseable source; only reviewed Séptima text adds a synthetic suffix. Private source_format=html bypasses unavailablePDF furniture audit. No officialsource or maincorpus changed.",
+          "expected": "Ordinary reparse must stop before canonical writes when it would clear or replace a lawyer-verified decision due to changed/missing evidence, pending an explicit reviewed migration. Never reapply the old decision onto changed text.",
+          "actual": {
+            "exit_code": 0,
+            "prior": {
+              "review_status": "lawyer_verified",
+              "temporal_status": "effective",
+              "effective_from": "2018-03-10",
+              "effect_count": 2
+            },
+            "after": {
+              "review_status": "not_analyzed",
+              "temporal_status": "unknown",
+              "effective_from": null,
+              "effect_count": 0
+            },
+            "persisted_temporal_result_bytes_unchanged": true,
+            "warning_emitted": true
+          },
+          "cause": "reapply_temporal_determinations correctly identifies nonmatching evidence as stale, but the CLI only warns and returns Ok, allowing run_parse to write freshly parsed unanalyzed states over the existing applied human decision.",
+          "fix_suggestion": "Before any canonical write, fail closed if a stale/missing determination has LawyerVerified basis or would remove an existing audited state. Preserve old records/canonical state for review; any stale-state migration must be explicit and audited.",
+          "evidence_directory": "parser-evidence/temporal",
+          "scope_limit": "The prior temporal-result/review sidecars remain intact; the demonstrated loss is the applied canonical review status, dates and effects. Synthetic reconstruction omits reform appendix, causing eight additional machine determinations to be stale; the single altered human-reviewed Séptima independently demonstrates the defect."
+        }
+      ],
+      "main_changes_by_reviewer": [],
+      "note": "Parent concurrently created docs/plans/parser-linker-audit-2026-10-16.md; preserved. No staging, commit, source fetch, or main corpus mutation."
+    }
+  },
+  "implementation_sha256": {
+    "crates/lex-cli/src/main.rs": "447abe3236dd97f8f2573988f5d5b4b89037c14b9298fe4902f6ab94d7fdc6b4",
+    "crates/lex-parse/src/lib.rs": "3328d67e9d7f0434ef3e5c5f73e463e5e2f42527d0e423e6ad645bd3508ff9d4",
+    "crates/lex-parse/src/diputados.rs": "150ab5c984bfbd8e5abea3d17e017950bb04e1caa0f630c17726a869b42f9a96",
+    "crates/lex-core/src/lib.rs": "788e36b870f9eb732ba63e8f4ad50a313a94a350780f1ddd58d85bbda6e8dcad",
+    "crates/lex-core/src/temporal.rs": "fb92c23659855b1778378128c636deb97dd9a33990c2e31a09a4deb3b921f41b",
+    "crates/lex-export/src/lib.rs": "f8361e1138f356fbf7a4e56eb6245695116983c1b616fe3fc1dd6a874979b667"
+  },
+  "annex_reproduction_source": "use chrono::NaiveDate;\nuse lex_parse::{DiputadosOptions,parse_diputados};\nfn main(){\n let raw=\"Artículo 1. Texto propio.\\n\\nTRANSITORIOS\\n\\nPRIMERO. Cierre propio.\\n\\nANEXO 1. Cuadro legal\\n\\nContenido inicial conservado.\\n\\nLa nota cita ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA como contenido del cuadro.\\n\\nCONTENIDO FINAL QUE DEBE CONSERVARSE.\\n\";\n let options=DiputadosOptions{instrument_id:\"urn:lex-mx:federal:statute:audit\".to_owned(),header_lines:vec![],stop_markers:vec![],annex_markers:vec![\"ANEXO 1.\".to_owned()],separate_enactment:false,nested_instrument:None};\n let doc=parse_diputados(raw,&options,NaiveDate::from_ymd_opt(2026,1,1).unwrap()).unwrap();\n for p in doc.provisions {println!(\"{:?}: {} => {}\",p.provision_type,p.label,p.text);}\n}",
+  "annex_reproduction_output": "Article: Artículo 1 => Texto propio.\nTransitory: PRIMERO => Cierre propio.\nAnnex: ANEXO 1. Cuadro legal => Contenido inicial conservado.\n",
+  "human_state_reproduction": {
+    "root": "/private/tmp/lex-human-state-audit-k6ri7m63",
+    "synthetic_input": "Canonical LRITF provisions serialized back into parseable source; only reviewed Séptima text adds a synthetic suffix. Private source_format=html bypasses unavailablePDF furniture audit. No officialsource or maincorpus changed.",
+    "command": [
+      "/Users/jr/Dev/lex-mex/target/debug/lex-mex",
+      "--root",
+      "/private/tmp/lex-human-state-audit-k6ri7m63",
+      "parse",
+      "lritf"
+    ],
+    "exit_code": 0,
+    "before": {
+      "id": "urn:lex-mx:federal:statute:lritf:transitory:septima",
+      "review_status": "lawyer_verified",
+      "temporal_status": "effective",
+      "effective_from": "2018-03-10",
+      "transitory_effects": [
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Emisión conjunta de las disposiciones de los artículos 48, 54 y 56, segundo párrafo",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley, al día siguiente de su publicación"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Doce meses contados desde la entrada en vigor de la Ley"
+          },
+          "responsible_authorities": [
+            "Comisión Nacional Bancaria y de Valores",
+            "Banco de México"
+          ],
+          "verification_status": "externally_verified",
+          "verification_source_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+          "verified_event_date": "2021-01-28",
+          "verification_note": "Las disposiciones fueron publicadas después del plazo de doce meses contado desde el 10 de marzo de 2018."
+        },
+        {
+          "effect_type": "coordination_mandate",
+          "affected_scope": "Celebración del convenio previsto en el artículo 71",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley, al día siguiente de su publicación"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Doce meses contados desde la entrada en vigor de la Ley"
+          },
+          "responsible_authorities": [
+            "Comisión Nacional Bancaria y de Valores",
+            "Banco de México"
+          ],
+          "verification_status": "external_verification_required",
+          "verification_note": "La fuente aportada verifica la publicación de las disposiciones, no la celebración del convenio del artículo 71."
+        }
+      ]
+    },
+    "after": {
+      "id": "urn:lex-mx:federal:statute:lritf:transitory:septima",
+      "review_status": "not_analyzed",
+      "temporal_status": "unknown",
+      "effective_from": null,
+      "transitory_effects": []
+    },
+    "persisted_temporal_result_bytes_unchanged": true,
+    "output": "re-applied 10 persisted temporal determinations\nparsed 156 canonical provisions\nextracted 126 canonical references\nextracted 23 defined terms with 1091 usages\nisolated 0 reform transitories for temporal analysis\nwarning: 9 determination(s) no longer ground in the reparsed text (or lack recorded evidence provenance) and were not re-applied; rerun temporal analysis and review: urn:lex-mx:federal:statute:lritf:transitory:septima, urn:lex-mx:federal:statute:lritf:amendment:2021-05-20:transitory:primero, urn:lex-mx:federal:statute:lritf:amendment:2024-01-24:transitory:primero, urn:lex-mx:federal:statute:lritf:amendment:2024-01-24:transitory:segundo, urn:lex-mx:federal:statute:lritf:amendment:2024-01-24:transitory:tercero, urn:lex-mx:federal:statute:lritf:amendment:2024-01-24:transitory:cuarto, urn:lex-mx:federal:statute:lritf:amendment:2025-11-14:transitory:primero, urn:lex-mx:federal:statute:lritf:amendment:2025-11-14:transitory:segundo, urn:lex-mx:federal:statute:lritf:amendment:2025-11-14:transitory:tercero\n"
+  },
+  "successor_clause_export_reproduction": {
+    "command": [
+      "/Users/jr/Dev/lex-mex/target/debug/lex-mex",
+      "--root",
+      "/private/tmp/lex-parser-audit-vyf7fysv",
+      "export",
+      "reg-lfmn",
+      "--format",
+      "markdown"
+    ],
+    "exit_code": 0,
+    "output": "exported Markdown\n"
+  },
+  "limitations": [
+    "Passing graph integrity checks validate stored edges, not citation completeness or legal correctness.",
+    "Synthetic adversarial cases establish behavior; no current annex loss or external-relative mislink established.",
+    "No code fixes applied and no new commit or push."
+  ]
+}

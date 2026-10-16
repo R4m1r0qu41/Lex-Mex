@@ -1,0 +1,610 @@
+{
+  "baseline_commit": "7326c41aa71740ad53652803c529025c029d84dd",
+  "fixed_findings": 6,
+  "schema_or_canonical_migration": false,
+  "native_gate": {
+    "fmt": {
+      "exit_code": 0,
+      "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "clippy": {
+      "exit_code": 0,
+      "log_sha256": "2f36063c904aa3f1ec7dcc78093be73c87f8dba50053768e5e7e1c00ba3b28b0"
+    },
+    "test": {
+      "exit_code": 0,
+      "log_sha256": "8bbfe8b4db68d03de072d2ee9e86183904fed6940251abf61664bb7552360b16"
+    },
+    "lritf": {
+      "exit_code": 0,
+      "log_sha256": "c9d938c1b5b7d1d505f59eb1512781e8a22d83b02fdd34cc2dbffe382e98ef93"
+    },
+    "ifpe": {
+      "exit_code": 0,
+      "log_sha256": "18c716c3c16261798e1b3ab75c844591b2c1da4bcc7b9fe434ee2fccf7e68576"
+    }
+  },
+  "tests_passed": 278,
+  "test_breakdown": [
+    32,
+    3,
+    27,
+    10,
+    202,
+    4,
+    0,
+    0,
+    0,
+    0
+  ],
+  "replays": [
+    {
+      "slug": "lga",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "markdown_differences": [],
+      "source_manifest_sha256": "b0b5cb4d626896f7fb89344f682b3b0cf1290d380f8d7cf038d772b275666841",
+      "replay_source_manifest_sha256": "b0b5cb4d626896f7fb89344f682b3b0cf1290d380f8d7cf038d772b275666841",
+      "provisions_sha256": "dac825d052f3581a541daf106490eca04ba65158a415898898daac881ab6e76a",
+      "replay_provisions_sha256": "dac825d052f3581a541daf106490eca04ba65158a415898898daac881ab6e76a"
+    },
+    {
+      "slug": "lgag",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "markdown_differences": [],
+      "source_manifest_sha256": "7d32de3c5eb5308d675c9d5119009bd61f20e91ca821e54e16a25b20eab12d75",
+      "replay_source_manifest_sha256": "7d32de3c5eb5308d675c9d5119009bd61f20e91ca821e54e16a25b20eab12d75",
+      "provisions_sha256": "24a7e3668fc858d6c06e246696b0b0a6d5191f3e2dfd2be66113309d46b01761",
+      "replay_provisions_sha256": "24a7e3668fc858d6c06e246696b0b0a6d5191f3e2dfd2be66113309d46b01761"
+    },
+    {
+      "slug": "lif-2026",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "markdown_differences": [],
+      "source_manifest_sha256": "2d2dabf0a8a202e8a8f1314c5b8be3296c899cb29512f7373749dc215c07eee2",
+      "replay_source_manifest_sha256": "2d2dabf0a8a202e8a8f1314c5b8be3296c899cb29512f7373749dc215c07eee2",
+      "provisions_sha256": "0fe6ed0ba3c8219bf070dfcba6f798bec537e646642ee95ddecb513e294a944a",
+      "replay_provisions_sha256": "0fe6ed0ba3c8219bf070dfcba6f798bec537e646642ee95ddecb513e294a944a"
+    },
+    {
+      "slug": "pef-2026",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "markdown_differences": [],
+      "source_manifest_sha256": "3ebff7a35fd295fb2b3f1cde73d6a92fbf5d1514ae56ac6583e81fe2216a8de7",
+      "replay_source_manifest_sha256": "3ebff7a35fd295fb2b3f1cde73d6a92fbf5d1514ae56ac6583e81fe2216a8de7",
+      "provisions_sha256": "61282c67c0cfc335625332ab50b68377bbe19df9e01fb262272812ef69e3d1cc",
+      "replay_provisions_sha256": "61282c67c0cfc335625332ab50b68377bbe19df9e01fb262272812ef69e3d1cc"
+    },
+    {
+      "slug": "lftr",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "markdown_differences": [],
+      "source_manifest_sha256": "9b1f5b8dffa3a35eb49767fe5ac645957129839d6e12715eb8453d35db0965a1",
+      "replay_source_manifest_sha256": "9b1f5b8dffa3a35eb49767fe5ac645957129839d6e12715eb8453d35db0965a1",
+      "provisions_sha256": "043de7981df582853327df1bd5374a53e932f2a742a1644e8800170b43842083",
+      "replay_provisions_sha256": "043de7981df582853327df1bd5374a53e932f2a742a1644e8800170b43842083"
+    },
+    {
+      "slug": "reg-lgs-insumos",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "markdown_differences": [],
+      "source_manifest_sha256": "4d866f4bcffefb2ec85247a11711ba8bcaea0d4be4bb65f59f76856538eb0197",
+      "replay_source_manifest_sha256": "4d866f4bcffefb2ec85247a11711ba8bcaea0d4be4bb65f59f76856538eb0197",
+      "provisions_sha256": "df24e17eb3415f10fdd2b7036fef929ca9da0cb2634bf065890e0239d58cd656",
+      "replay_provisions_sha256": "df24e17eb3415f10fdd2b7036fef929ca9da0cb2634bf065890e0239d58cd656"
+    },
+    {
+      "slug": "lcnbv",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "markdown_differences": [],
+      "source_manifest_sha256": "8c018d651a1a218cbd2bb4ecbf1f33e68c7d7adc266fe55f494d7aa6763bdc1b",
+      "replay_source_manifest_sha256": "8c018d651a1a218cbd2bb4ecbf1f33e68c7d7adc266fe55f494d7aa6763bdc1b",
+      "provisions_sha256": "14d1f52dde83096557f643559e7ebc990e570874c789cf00d9d7d268dd1c6327",
+      "replay_provisions_sha256": "14d1f52dde83096557f643559e7ebc990e570874c789cf00d9d7d268dd1c6327"
+    },
+    {
+      "slug": "lcmopfih",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "markdown_differences": [],
+      "source_manifest_sha256": "0697e8b144d72dcf802651629965a75e4e82b3392a697825d1f8974e6492ffd3",
+      "replay_source_manifest_sha256": "0697e8b144d72dcf802651629965a75e4e82b3392a697825d1f8974e6492ffd3",
+      "provisions_sha256": "1cb018b390a6e59d4847650c69da138705eacf94ed0ca1204d3d1769957eccf5",
+      "replay_provisions_sha256": "1cb018b390a6e59d4847650c69da138705eacf94ed0ca1204d3d1769957eccf5"
+    },
+    {
+      "slug": "lisipl",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "markdown_differences": [],
+      "source_manifest_sha256": "d9ad1cfcee23eafe83823cfab5b349f946f3fbe421a67ca0f4ab72f04fbb8119",
+      "replay_source_manifest_sha256": "d9ad1cfcee23eafe83823cfab5b349f946f3fbe421a67ca0f4ab72f04fbb8119",
+      "provisions_sha256": "afaa82fd31a86c8c43a61b5b44f6061a11cd0bc853ade0a6bf048b212c3fa4b6",
+      "replay_provisions_sha256": "afaa82fd31a86c8c43a61b5b44f6061a11cd0bc853ade0a6bf048b212c3fa4b6"
+    },
+    {
+      "slug": "lfiiedb",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "markdown_differences": [],
+      "source_manifest_sha256": "12bcc1fa3d0a7e3907f2a6dd0883b53e98baaf787a5148951a02fda878b12219",
+      "replay_source_manifest_sha256": "12bcc1fa3d0a7e3907f2a6dd0883b53e98baaf787a5148951a02fda878b12219",
+      "provisions_sha256": "7453f8e6075c6c81a56f2ba454f0d1e9bbf73a4fa396266bdecda7198688b494",
+      "replay_provisions_sha256": "7453f8e6075c6c81a56f2ba454f0d1e9bbf73a4fa396266bdecda7198688b494"
+    },
+    {
+      "slug": "reg-lfmn",
+      "stages": [
+        {
+          "stage": "parse",
+          "exit_code": 0
+        },
+        {
+          "stage": "link",
+          "exit_code": 0
+        },
+        {
+          "stage": "validate",
+          "exit_code": 0
+        },
+        {
+          "stage": "export",
+          "exit_code": 0
+        }
+      ],
+      "status": "passed",
+      "canonical_differences": [],
+      "markdown_differences": [],
+      "source_manifest_sha256": "75332f57728d4d77703106287920a6320194e7003a9a3992ca922756257bf8e3",
+      "replay_source_manifest_sha256": "75332f57728d4d77703106287920a6320194e7003a9a3992ca922756257bf8e3",
+      "provisions_sha256": "37df271d9f6b5b55f893cf0b029453efb8e3c3edbbe17a245c98c56d6fbfe5aa",
+      "replay_provisions_sha256": "37df271d9f6b5b55f893cf0b029453efb8e3c3edbbe17a245c98c56d6fbfe5aa"
+    }
+  ],
+  "adversarial_cli": [
+    {
+      "case": "changed_human_evidence",
+      "exit_code": 1,
+      "output": "Error: refusing to clear a lawyer-verified decision with stale or missing evidence; audited migration required\n",
+      "canonical_tree_unchanged": true
+    },
+    {
+      "case": "changed_successor_clause",
+      "command": [
+        "validate",
+        "reg-lfmn"
+      ],
+      "exit_code": 1,
+      "output": "Error: persisted repeal notice successor evidence is missing or stale; audited review required\n",
+      "canonical_tree_unchanged": true
+    },
+    {
+      "case": "changed_successor_clause",
+      "command": [
+        "link",
+        "reg-lfmn"
+      ],
+      "exit_code": 1,
+      "output": "Error: persisted repeal notice successor evidence is missing or stale; audited review required\n",
+      "canonical_tree_unchanged": true
+    },
+    {
+      "case": "changed_successor_clause",
+      "command": [
+        "export",
+        "reg-lfmn",
+        "--format",
+        "json"
+      ],
+      "exit_code": 1,
+      "output": "Error: persisted repeal notice successor evidence is missing or stale; audited review required\n",
+      "canonical_tree_unchanged": true
+    },
+    {
+      "case": "changed_successor_clause",
+      "command": [
+        "export",
+        "reg-lfmn",
+        "--format",
+        "markdown"
+      ],
+      "exit_code": 1,
+      "output": "Error: persisted repeal notice successor evidence is missing or stale; audited review required\n",
+      "canonical_tree_unchanged": true
+    },
+    {
+      "case": "changed_successor_clause",
+      "command": [
+        "export",
+        "reg-lfmn",
+        "--format",
+        "obsidian",
+        "--obsidian-vault",
+        "/Users/jr/Dev/lex-mex/.work/parser-linker-fix-20261016/forbidden-vault"
+      ],
+      "exit_code": 1,
+      "output": "Error: persisted repeal notice successor evidence is missing or stale; audited review required\n",
+      "canonical_tree_unchanged": true
+    }
+  ],
+  "linker_annex_adversarial_output": "INPUT: Se aplicará el artículo 999 de esta Ley.\n999 -> urn:lex-mx:federal:statute:lritf:article:999 Unresolved\nVALID=false issues=[ValidationIssue { severity: Error, code: \"unresolved_internal_reference\", message: \"internal reference target does not exist: urn:lex-mx:federal:statute:lritf:article:999\", provision_id: Some(\"urn:lex-mx:federal:statute:lritf:article:2\") }]\nINPUT: Se aplicará el artículo anterior de la Constitución Política de los Estados Unidos Mexicanos.\nINPUT: Se aplicarán los artículos 1 a 3 de esta Ley.\n1 -> urn:lex-mx:federal:statute:lritf:article:1 Resolved\n1 a 3 -> urn:lex-mx:federal:statute:lritf:article:2 Resolved\n3 -> urn:lex-mx:federal:statute:lritf:article:3 Resolved\nCROSS-INSTRUMENT POLICY relative: []\nMISOWNED_TARGET urn:lex-mx:federal:statute:lga:article:1 claims urn:lex-mx:federal:constitution:cpeum: VALID=false issues=[ValidationIssue { severity: Error, code: \"reference_target_owner_mismatch\", message: \"reference target identifier does not belong to its declared instrument\", provision_id: Some(\"urn:lex-mx:federal:statute:lritf:article:2\") }]\nArticle: Artículo 1 => Texto propio.\nTransitory: PRIMERO => Cierre propio.\nAnnex: ANEXO 1. Cuadro legal => Contenido inicial conservado.\n\nLa nota cita ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA como contenido del cuadro.\n\nCONTENIDO FINAL QUE DEBE CONSERVARSE.\n",
+  "linker_annex_reproduction_source": "use std::{collections::HashSet,fs};\nuse lex_core::Provision;\nfn linker_probe(){\n let all:Vec<Provision>=serde_json::from_str(&fs::read_to_string(\"/Users/jr/Dev/lex-mex/corpus/mx/lritf/provisions.json\").unwrap()).unwrap();\n for text in [\"Se aplicará el artículo 999 de esta Ley.\",\"Se aplicará el artículo anterior de la Constitución Política de los Estados Unidos Mexicanos.\",\"Se aplicarán los artículos 1 a 3 de esta Ley.\"] {\n  let mut ps=all[..3].to_vec();ps[1].text=text.into();\n  let edges=lex_parse::extract_internal_references(&ps).unwrap();\n  println!(\"INPUT: {text}\");for e in edges.iter().filter(|e|e.source_provision_id==ps[1].id){println!(\"{} -> {} {:?}\",e.source_span,e.target_provision_id,e.resolution_status);}\n  if text.contains(\"999\") {let report=lex_parse::validate_lritf(&ps,&edges,3,0);println!(\"VALID={} issues={:?}\",report.valid,report.issues);}\n }\n let mut ps=all[..3].to_vec();ps[1].text=\"Se aplicará el artículo anterior de la Constitución Política de los Estados Unidos Mexicanos.\".into();\n let opts=lex_parse::ReferenceOptions{policy:lex_parse::InstrumentContextPolicy::SentenceEarliestMarker{internal_markers:vec![\"de esta ley\".into()],external_instruments:vec![(\"constitución política de los estados unidos mexicanos\".into(),\"urn:lex-mx:federal:constitution:cpeum\".into())]},transitory_citations:true,same_article_fractions:true,relative_references:true,historical_targets:vec![]};\n let refs=lex_parse::extract_references(&ps,None,&opts,&ps.iter().map(|p|p.id.clone()).collect()).unwrap();println!(\"CROSS-INSTRUMENT POLICY relative: {:?}\",refs.iter().filter(|e|e.source_provision_id==ps[1].id).map(|e|(&e.source_span,&e.target_provision_id)).collect::<Vec<_>>());\n let mut ps=all[..3].to_vec();ps[1].text=\"Se aplicará el artículo 1 de esta Ley.\".into();\n let mut edges=lex_parse::extract_internal_references(&ps).unwrap();edges.retain(|e|e.source_provision_id==ps[1].id);\n let e=&mut edges[0];e.target_instrument_id=\"urn:lex-mx:federal:constitution:cpeum\".into();e.target_provision_id=\"urn:lex-mx:federal:statute:lga:article:1\".into();\n let external=HashSet::from([e.target_provision_id.clone()]);\n let report=lex_parse::validate_corpus(&lex_parse::CorpusView{instrument_id:&ps[0].instrument_id,official_title:None,provisions:&ps,references:&edges,terms:&[],term_usages:&[],amendment_references:&[]}, &lex_parse::CorpusExpectations{articles:Some(3),transitories:Some(0),..Default::default()},&external,&HashSet::new());\n println!(\"MISOWNED_TARGET {} claims {}: VALID={} issues={:?}\",edges[0].target_provision_id,edges[0].target_instrument_id,report.valid,report.issues);\n}\n\n\n\nfn annex_probe(){\n let raw=\"Artículo 1. Texto propio.\\n\\nTRANSITORIOS\\n\\nPRIMERO. Cierre propio.\\n\\nANEXO 1. Cuadro legal\\n\\nContenido inicial conservado.\\n\\nLa nota cita ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA como contenido del cuadro.\\n\\nCONTENIDO FINAL QUE DEBE CONSERVARSE.\\n\";\n let options=lex_parse::DiputadosOptions{instrument_id:\"urn:lex-mx:federal:statute:audit\".to_owned(),header_lines:vec![],stop_markers:vec![],annex_markers:vec![\"ANEXO 1.\".to_owned()],separate_enactment:false,nested_instrument:None};\n let doc=lex_parse::parse_diputados(raw,&options,\"2026-01-01\".parse().unwrap()).unwrap();\n for p in doc.provisions {println!(\"{:?}: {} => {}\",p.provision_type,p.label,p.text);}\n}\nfn main(){linker_probe();annex_probe();}\n",
+  "lgdnna_pending_legal_exception": {
+    "stages": [
+      {
+        "stage": "link",
+        "exit_code": 0,
+        "output": "extracted 37 canonical references\nextracted 31 defined terms with 193 usages\n"
+      },
+      {
+        "stage": "validate",
+        "exit_code": 1,
+        "output": "validation: invalid; 181 articles, 13 transitories, 37 references, 30 issues\nError: corpus validation failed; inspect /Users/jr/Dev/lex-mex/.work/parser-linker-fix-20261016/lgdnna-probe/corpus/mx/lgdnna/validation.json\n"
+      }
+    ],
+    "pending_edges": [
+      {
+        "schema_version": "0.1.0",
+        "id": "urn:lex-mx:federal:statute:lgdnna:article:135-ter:reference:319-322:157:direct",
+        "source_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:135-ter",
+        "source_span": "157",
+        "start_char": 319,
+        "end_char": 322,
+        "target_instrument_id": "urn:lex-mx:federal:statute:lgdnna",
+        "target_provision_id": "urn:lex-mx:federal:statute:lgdnna:article:157",
+        "qualifiers": [],
+        "basis": "express_cross_reference",
+        "confidence": 1.0,
+        "resolution_status": "unresolved",
+        "reference_form": "direct"
+      }
+    ],
+    "main_corpus_changed": false,
+    "legal_target_guessed": false
+  },
+  "stored_graph": {
+    "instruments": 467,
+    "provisions": 68086,
+    "references": {
+      "resolved": 27423,
+      "historical_superseded_reference_outdated": 1,
+      "historical_target_unavailable": 5
+    },
+    "errors": []
+  },
+  "integration_reviews": {
+    "cli_core_bundle": "Accepted by independent GPT-6.1-Sol reviewers; stale human and successor guards stop before writes.",
+    "annex": "Independent GPT-6.1-Sol accepted opaque ownership and configured boundary behavior.",
+    "linker": "Parent reviewed isolated Sol implementation; targeted/full tests and private adversarial harness pass."
+  },
+  "isolated_implementation_receipts": {
+    "linker": {
+      "status": "ready_for_parent_review",
+      "scope": "isolated lib.rs only; no schemas/API/data/canonical edits",
+      "validation": [
+        {
+          "command": "cargo test --offline --manifest-path /private/tmp/lex-linker-fix-20261016/Cargo.toml -p lex-parse --lib",
+          "exit_code": 0,
+          "passed": 199,
+          "failed": 0
+        },
+        {
+          "command": "cargo clippy --offline --manifest-path /private/tmp/lex-linker-fix-20261016/Cargo.toml -p lex-parse --all-targets -- -D warnings",
+          "exit_code": 0
+        },
+        {
+          "command": "rustfmt --check --edition 2024 --config skip_children=true /private/tmp/lex-linker-fix-20261016/crates/lex-parse/src/lib.rs",
+          "exit_code": 0
+        }
+      ],
+      "source_behavior_changes": [
+        "Explicit governing self markers retain missing direct/range/transitory internal candidates as unresolved; ambiguous implicit missing internal candidates remain suppressed. LGDNNA135Ter->157 becomes visible on relink and requires JRH decision, without guessed target.",
+        "Relative references use governing context, bounded before next article header and sentence; unsupported external-relative references remain unlinked. Exact own-ID configured aliases remain internal.",
+        "Narrow own-regulation exception preserves REG-LGN216->215 for bare del Reglamento followed by end/clause punctuation; statute or unknown source kinds and named continuations do not receive exception.",
+        "Validation rejects canonical target owner/prefix mismatch before target existence check. Correct owner and existing stale-approval behavior pass."
+      ],
+      "regression_tests": [
+        "explicit_missing_self_targets_remain_unresolved_but_implicit_candidates_are_suppressed",
+        "relative_references_respect_external_governing_context",
+        "bare_reglamento_relative_is_self_only_in_a_regulation",
+        "existing_external_target_must_belong_to_declared_instrument"
+      ],
+      "existing_tests": "Entire lex-parse library suite includes exact reviewed stale-reference and range/source-span regressions",
+      "initial_failures_corrected": [
+        "Test helper closure borrow lifetime; moved to nested function.",
+        "Bare Reglamento punctuation classified internal under legacy WholeGroup whitespace heuristic; relative-only classification now uses punctuation-aware sentence target.",
+        "Clippy nested helper placement and explicit enum variant match fixed."
+      ],
+      "limitations": [
+        "No full-corpus re-extraction or native workspace gate performed in snapshot; parent owns integration and source-behavior review.",
+        "No new diagnostic artifact for unsupported external-relative citations; existing extractor API remains Vec<ReferenceEdge> and safely leaves these unlinked."
+      ],
+      "mechanical_delegation": "Parent delegated this bounded implementation and package checks to this agent; no additional subagent spawned.",
+      "main_edits": "Only these private .work deliverables; no tracked main source/corpus/staging/commit edits"
+    },
+    "annex": {
+      "status": "ready_for_parent_integration",
+      "captured_at": "2026-10-16T14:50:41.785586Z",
+      "scope": "Only owned Diputados parser source and one new synthetic regression fixture; no main source/corpus edits or commits.",
+      "behavior": [
+        "Inside an established substantive annex, built-in reform-banner substring, errata and judicial heuristics cannot end the opaque container.",
+        "Explicit configured block-prefix document stops still close the annex and delimit a genuine reform appendix. A paragraph merely containing that configured phrase does not.",
+        "Reform evidence follows the same annex region/explicit boundary so quoted decrees, dates and transitory clauses do not become fake reform evidence.",
+        "Ordinary non-annex configured appendix ownership remains unchanged."
+      ],
+      "checks": [
+        {
+          "command": "cargo test -p lex-parse annex",
+          "exit_code": 0,
+          "passed": 12
+        },
+        {
+          "command": "cargo test -p lex-parse",
+          "exit_code": 0,
+          "passed": 198,
+          "failed": 0,
+          "ignored": 0
+        },
+        {
+          "command": "cargo clippy -p lex-parse --all-targets -- -D warnings",
+          "exit_code": 0
+        },
+        {
+          "command": "cargo fmt --package lex-parse -- --check",
+          "exit_code": 0
+        },
+        {
+          "command": "git apply --check .work/parser-linker-fix-20261016/annex/annex.patch",
+          "exit_code": 0,
+          "repository": "main; read only"
+        }
+      ],
+      "limitations": [
+        "Synthetic fixture targets the reproduced scope bug; parent should replay actual PEF annex and existing other instrument stages after integration.",
+        "No new config schema or inferred source boundary was introduced.",
+        "Native workspace gate remains parent-owned after combining all fixes."
+      ],
+      "mechanical_delegation": "Focused implementation/regression checks run in isolated snapshot; parent owns the delegated integration gate."
+    }
+  },
+  "implementation_sha256": {
+    "crates/lex-cli/src/main.rs": "30b971af10fa47431a0cee8520b17992d9af5dd479490d4422363af7e669ebbb",
+    "crates/lex-cli/src/bundle.rs": "93a8c0a5dbaed10ea90cd1bd8e92ceb3d77bddfa89d5c4e4fa62f74139ae9614",
+    "crates/lex-core/src/lib.rs": "7d017c4115e5ea58a8dab0136fa8c6d5b2fa2bb7dd651f727947c1114b4f9016",
+    "crates/lex-parse/src/lib.rs": "81333623faaefbf7cff7d28bfa83d961f588a92bd1367749986238f348cfdcbe",
+    "crates/lex-parse/src/diputados.rs": "4542e7bc8e5ef22ddead44f569e96b926cab7ab87e6023debd277367bcc57c6a",
+    "fixtures/diputados/annex-quoted-reform-banner.txt": "ca6dd7b15ff6a616119a0844e09a86b26dd96de47a7b685fdf992c193d451686"
+  },
+  "tracked_corpus_diff_empty": true,
+  "untracked_corpus_empty": true,
+  "commit_or_push": false,
+  "remaining_limitations": [
+    "Unsupported external relative positions are omitted rather than inferred; no new diagnostic schema was introduced.",
+    "LGDNNA source citation needs JRH resolution before whole-corpus relink can pass.",
+    "Ordinary reruns that would alter human-reviewed records now require an explicit audited migration."
+  ],
+  "final_mechanical_consistency": {
+    "head": "7326c41aa71740ad53652803c529025c029d84dd",
+    "evidence": "docs/parser-linker-repair-2026-10-16-evidence.json",
+    "checks": {
+      "fixed_findings": 6,
+      "native_tests_passed": 278,
+      "replay_count": 11,
+      "replay_stages": 44,
+      "replay_stage_failures": 0,
+      "canonical_differences": 0,
+      "markdown_differences": 0,
+      "adversarial_cli_cases": 6,
+      "adversarial_cli_failures_expected": 6,
+      "adversarial_trees_unchanged": true,
+      "lgdnna_pending_unresolved_target": "157",
+      "tracked_corpus_diff_empty": true,
+      "untracked_corpus_empty": true,
+      "implementation_hashes_match": true,
+      "git_diff_check": "passed",
+      "untracked_whitespace_check": "passed"
+    },
+    "dirty_scope": [
+      "PLANS.md",
+      "crates/lex-cli/src/bundle.rs",
+      "crates/lex-cli/src/main.rs",
+      "crates/lex-core/src/lib.rs",
+      "crates/lex-parse/src/diputados.rs",
+      "crates/lex-parse/src/lib.rs",
+      "docs/held-source-parser-contracts.md",
+      "docs/parser-linker-audit-2026-10-16-evidence.json",
+      "docs/parser-linker-audit-2026-10-16.md",
+      "docs/parser-linker-repair-2026-10-16-evidence.json",
+      "docs/parser-linker-repair-2026-10-16.md",
+      "docs/plans/parser-linker-audit-2026-10-16.md",
+      "fixtures/diputados/annex-quoted-reform-banner.txt"
+    ],
+    "edits_staging_commit": false
+  }
+}

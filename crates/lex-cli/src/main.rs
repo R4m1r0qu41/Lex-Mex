@@ -2036,6 +2036,31 @@ fn validate_repeal_config(
     Ok(())
 }
 
+/// Recheck persisted cross-corpus evidence before validation or publication.
+/// Source-header verification still belongs to parsing the retained acquisition;
+/// successor clauses can be checked against canonical data without source caches.
+fn validate_persisted_repeal_evidence(root: &Path, corpus: &Corpus) -> Result<()> {
+    let Some(notice) = &corpus.instrument.source_repeal_notice else {
+        return Ok(());
+    };
+    let siblings = read_sibling_corpora(root, &corpus.instrument.id)?;
+    if notice.successor_clause.is_some() {
+        anyhow::ensure!(
+            siblings.iter().any(|(_, successor)| {
+                notice.matches_successor(&corpus.instrument.source_sha256, successor)
+            }),
+            "persisted repeal notice successor evidence is missing or stale; audited review required"
+        );
+    }
+    if let Some(successor) = &notice.successor_instrument_id {
+        anyhow::ensure!(
+            siblings.iter().any(|(_, c)| &c.instrument.id == successor),
+            "persisted repeal notice successor is missing; audited review required"
+        );
+    }
+    Ok(())
+}
+
 fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
     let paths = &context.paths;
     let config = &context.config;
@@ -2166,7 +2191,7 @@ fn reapply_persisted_temporal_state(
     reform_evidence: &[TemporalEvidence],
 ) -> Result<()> {
     if !paths.temporal_result.exists() {
-        return Ok(());
+        return preserve_verified_provisions(paths, corpus);
     }
     let result: TemporalAnalysisResult = read_json(&paths.temporal_result)?;
     let current_evidence: HashMap<String, String> =
@@ -2179,6 +2204,14 @@ fn reapply_persisted_temporal_state(
         &result.determinations,
         &current_evidence,
     );
+    anyhow::ensure!(
+        !result.determinations.iter().any(|determination| {
+            determination.basis == lex_core::Basis::LawyerVerified
+                && outcome.stale.contains(&determination.provision_id)
+        }),
+        "refusing to clear a lawyer-verified decision with stale or missing evidence; audited migration required"
+    );
+    preserve_verified_provisions(paths, corpus)?;
     println!(
         "re-applied {} persisted temporal determinations",
         outcome.current.len()
@@ -2211,6 +2244,38 @@ fn links_for_parsed_instrument(
         extract_instrument_references(root, context, instrument, provisions, &siblings)?;
     let (terms, usages) = extract_instrument_terms(context, provisions, &siblings)?;
     Ok((references, terms, usages))
+}
+
+/// A sidecar can be missing or incomplete. The existing applied human decision
+/// is also authoritative and must not be silently removed by an ordinary parse.
+fn preserve_verified_provisions(paths: &Paths, corpus: &Corpus) -> Result<()> {
+    if !paths.provisions.is_file() {
+        return Ok(());
+    }
+    let prior: Vec<lex_core::Provision> = read_json(&paths.provisions)?;
+    for previous in prior.iter().filter(|p| {
+        p.review_status == lex_core::ReviewStatus::LawyerVerified
+            || p.temporal_basis == Some(lex_core::Basis::LawyerVerified)
+    }) {
+        let current = corpus
+            .provisions
+            .iter()
+            .find(|p| p.id == previous.id)
+            .with_context(|| {
+                format!(
+                    "refusing to remove lawyer-verified provision {}; audited migration required",
+                    previous.id
+                )
+            })?;
+        // Compare the full reviewed provision, including its exact source text,
+        // dates and effects. Harmless-looking source changes still need review.
+        anyhow::ensure!(
+            serde_json::to_value(previous)? == serde_json::to_value(current)?,
+            "refusing to replace lawyer-verified provision {}; audited migration required",
+            previous.id
+        );
+    }
+    Ok(())
 }
 
 /// Extract the instrument's glossary terms and every exact term usage.
@@ -2575,6 +2640,7 @@ fn sibling_views<'a>(
 }
 
 fn run_link(root: &Path, context: &InstrumentContext) -> Result<()> {
+    validate_persisted_repeal_evidence(root, &read_corpus(&context.paths)?)?;
     let corpora = read_committed_corpora(root)?;
     let mut corpus = read_corpus(&context.paths)?;
     let graph = relink_instrument(root, context, &corpus, &corpora)?;
@@ -2648,6 +2714,10 @@ enum ClosureDecision {
 /// An instrument whose new graph does not validate is left on disk as it was.
 fn run_corpus_closure(root: &Path) -> Result<CorpusClosureReport> {
     let mut corpora = read_committed_corpora(root)?;
+    // Same persisted-evidence gate as `link`, before any graph is proposed.
+    for (_, corpus) in &corpora {
+        validate_persisted_repeal_evidence(root, corpus)?;
+    }
     let contexts = load_instrument_contexts(root, &corpora)?;
     let references_before = corpora
         .iter()
@@ -3701,6 +3771,7 @@ fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::Va
     let paths = &context.paths;
     let config = &context.config;
     let corpus = read_corpus(paths)?;
+    validate_persisted_repeal_evidence(root, &corpus)?;
     let mut external_targets = HashSet::new();
     let mut external_terms = HashSet::new();
     for (_, sibling) in read_sibling_corpora(root, &corpus.instrument.id)? {
@@ -3748,6 +3819,7 @@ fn run_export(
 ) -> Result<()> {
     let paths = &context.paths;
     let corpus = read_corpus(paths)?;
+    validate_persisted_repeal_evidence(root, &corpus)?;
     let siblings = read_sibling_corpora(root, &corpus.instrument.id)?;
     let (targets, terms) = build_link_targets(&corpus, &context.config.slug, &siblings);
     match format {
@@ -4911,5 +4983,202 @@ mod tests {
             "urn:lex-mx:federal:statute:lraf",
         )]);
         assert!(protected_edge_drift(&ordinary, &graph(vec![])).is_empty());
+    }
+
+    #[test]
+    fn stale_or_missing_human_review_evidence_stops_before_canonical_writes() {
+        let temp = tempfile::tempdir().unwrap();
+        let root = temp.path();
+        write_fixture_adapter(
+            root,
+            "reviewed",
+            "urn:test:reviewed",
+            "Fixture",
+            "FIXTURE",
+            &serde_json::json!([]),
+        );
+        let context = instrument_context(root, "reviewed").unwrap();
+        let mut original = fixture_corpus(
+            "urn:test:reviewed",
+            "Fixture",
+            "FIXTURE",
+            "Esta Ley entrará en vigor al día siguiente de su publicación.",
+        );
+        let p = &mut original.provisions[0];
+        p.id = "urn:test:reviewed:transitory:primero".to_owned();
+        p.provision_type = ProvisionType::Transitory;
+        p.label = "PRIMERO".to_owned();
+        p.number = "PRIMERO".to_owned();
+        p.review_status = ReviewStatus::LawyerVerified;
+        p.temporal_basis = Some(lex_core::Basis::LawyerVerified);
+        p.temporal_status = TemporalStatus::Effective;
+        p.effective_from = Some(NaiveDate::from_ymd_opt(2024, 1, 2).unwrap());
+        p.temporal_confidence = Some(1.0);
+        let determination = lex_core::TemporalDetermination {
+            provision_id: p.id.clone(),
+            temporal_status: p.temporal_status.clone(),
+            publication_date: p.publication_date.unwrap(),
+            effective_from: p.effective_from,
+            effective_to: None,
+            confidence: 1.0,
+            basis: lex_core::Basis::LawyerVerified,
+            supporting_text: vec![p.text.clone()],
+            review_required: false,
+            review_reason: None,
+            model: "fixture".to_owned(),
+            prompt_version: "fixture".to_owned(),
+            effects: vec![],
+            evidence_sha256: lex_core::evidence_sha256(&p.text),
+        };
+        let result = lex_core::TemporalAnalysisResult {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            instrument_id: original.instrument.id.clone(),
+            request_sha256: "a".repeat(64),
+            response_sha256: "b".repeat(64),
+            response_id: None,
+            model: "fixture".to_owned(),
+            prompt_version: "fixture".to_owned(),
+            analyzed_at: Utc::now(),
+            determinations: vec![determination],
+        };
+        write_canonical(&original, &context.paths.corpus).unwrap();
+        super::write_pretty_json(&result, &context.paths.temporal_result).unwrap();
+        let canonical_before = fs::read(&context.paths.provisions).unwrap();
+        let sidecar_before = fs::read(&context.paths.temporal_result).unwrap();
+        let reapply = |parsed: &mut Corpus| {
+            super::reapply_persisted_temporal_state(&context.paths, &context.config, parsed, &[])
+        };
+        let mut parsed = original.clone();
+        parsed.provisions[0].review_status = ReviewStatus::NotAnalyzed;
+        parsed.provisions[0].temporal_basis = None;
+        parsed.provisions[0].temporal_status = TemporalStatus::Unknown;
+        parsed.provisions[0].effective_from = None;
+        parsed.provisions[0].temporal_confidence = None;
+        assert!(reapply(&mut parsed).is_ok());
+        assert_eq!(
+            serde_json::to_value(&parsed.provisions).unwrap(),
+            serde_json::to_value(&original.provisions).unwrap()
+        );
+
+        parsed.provisions[0].text.push_str(" Cambio de evidencia.");
+        assert!(reapply(&mut parsed).is_err());
+        parsed.provisions.clear();
+        assert!(reapply(&mut parsed).is_err());
+        assert_eq!(
+            fs::read(&context.paths.temporal_result).unwrap(),
+            sidecar_before
+        );
+        assert_eq!(
+            fs::read(&context.paths.provisions).unwrap(),
+            canonical_before
+        );
+
+        let mut parsed = original.clone();
+        parsed.provisions[0].review_status = ReviewStatus::NotAnalyzed;
+        let mut incomplete = result;
+        incomplete.determinations.clear();
+        super::write_pretty_json(&incomplete, &context.paths.temporal_result).unwrap();
+        assert!(reapply(&mut parsed).is_err());
+        fs::remove_file(&context.paths.temporal_result).unwrap();
+        assert!(reapply(&mut parsed).is_err());
+        assert_eq!(
+            fs::read(&context.paths.provisions).unwrap(),
+            canonical_before
+        );
+    }
+
+    #[test]
+    fn successor_evidence_drift_blocks_validate_link_and_all_exports() {
+        let temp = tempfile::tempdir().unwrap();
+        let root = temp.path();
+        let own_id = "urn:lex-mx:federal:statute:former";
+        let successor_id = "urn:lex-mx:federal:statute:successor";
+        write_fixture_adapter(
+            root,
+            "former",
+            own_id,
+            "Former",
+            "FORMER",
+            &serde_json::json!([]),
+        );
+        let mut context = instrument_context(root, "former").unwrap();
+        let mut former = fixture_corpus(own_id, "Former", "FORMER", "Texto anterior.");
+        let successor = fixture_corpus(
+            successor_id,
+            "Successor",
+            "SUCCESSOR",
+            "Se abroga la Ley anterior.",
+        );
+        let notice = lex_core::SourceRepealNotice {
+            source_note: successor.provisions[0].text.clone(),
+            source_sha256: former.instrument.source_sha256.clone(),
+            formal_publication_url: "https://www.dof.gob.mx/nota_detalle.php?codigo=fixture"
+                .parse()
+                .unwrap(),
+            formal_source_sha256: "b".repeat(64),
+            successor_instrument_id: Some(successor_id.to_owned()),
+            successor_clause: Some(lex_core::SuccessorAbrogationClause {
+                provision_id: successor.provisions[0].id.clone(),
+                provision_text_sha256: lex_core::evidence_sha256(&successor.provisions[0].text),
+            }),
+            reviewer: "Fixture reviewer".to_owned(),
+            captured_at: "2026-10-16T00:00:00Z".to_owned(),
+            reviewer_supplied_at: None,
+            rationale: "Fixture only".to_owned(),
+            decision_source: "fixture".to_owned(),
+            decision_source_sha256: "c".repeat(64),
+        };
+        former.instrument.status = InstrumentStatus::Repealed;
+        former.instrument.source_repeal_notice = Some(notice.clone());
+        context.config.source_repeal_notice = Some(notice);
+        write_canonical(&former, &context.paths.corpus).unwrap();
+        write_fixture_adapter(
+            root,
+            "successor",
+            successor_id,
+            "Successor",
+            "SUCCESSOR",
+            &serde_json::json!([]),
+        );
+        let successor_dir = root.join("corpus/mx/successor");
+        write_canonical(&successor, &successor_dir).unwrap();
+        assert!(super::run_validate(root, &context).unwrap().valid);
+        super::run_link(root, &context).unwrap();
+        super::run_export(root, &context, super::ExportFormat::Markdown, None).unwrap();
+        let tracked = [
+            &context.paths.instrument,
+            &context.paths.provisions,
+            &context.paths.references,
+            &context.paths.corpus.join("validation.json"),
+            &context.paths.markdown.join("README.md"),
+        ];
+        let before: Vec<_> = tracked.iter().map(|p| fs::read(p).unwrap()).collect();
+        for variant in 0..3 {
+            let mut changed = successor.clone();
+            match variant {
+                0 => changed.provisions[0].text = "Texto sin abrogación.".to_owned(),
+                1 => changed.provisions.clear(),
+                _ => changed.provisions[0].instrument_id = own_id.to_owned(),
+            }
+            write_canonical(&changed, &successor_dir).unwrap();
+            assert!(super::run_validate(root, &context).is_err());
+            assert!(super::run_link(root, &context).is_err());
+            assert!(super::run_corpus_closure(root).is_err());
+            for format in [
+                super::ExportFormat::Json,
+                super::ExportFormat::Markdown,
+                super::ExportFormat::Obsidian,
+            ] {
+                let vault = root.join("vault");
+                assert!(super::run_export(root, &context, format, Some(&vault)).is_err());
+                assert!(!vault.exists());
+            }
+            for (p, bytes) in tracked.iter().zip(&before) {
+                assert_eq!(&fs::read(p).unwrap(), bytes);
+            }
+        }
+        fs::remove_dir_all(&successor_dir).unwrap();
+        assert!(super::run_validate(root, &context).is_err());
+        assert!(super::run_export(root, &context, super::ExportFormat::Markdown, None).is_err());
     }
 }

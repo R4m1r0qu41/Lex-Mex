@@ -477,13 +477,24 @@ fn is_judicial_appendix(block: &str) -> bool {
         || block.starts_with("VERSIÓN pública de la Sentencia")
 }
 
+fn is_configured_document_stop(block: &str, options: &DiputadosOptions) -> bool {
+    options
+        .stop_markers
+        .iter()
+        .any(|marker| block.starts_with(marker))
+}
+
+fn is_substantive_annex_start(block: &str, options: &DiputadosOptions) -> bool {
+    options
+        .annex_markers
+        .iter()
+        .any(|marker| block.starts_with(marker))
+}
+
 fn is_stop_marker(block: &str, options: &DiputadosOptions) -> bool {
     block.contains("ARTÍCULOS TRANSITORIOS DE")
         || block.contains("ARTICULOS TRANSITORIOS DE")
-        || options
-            .stop_markers
-            .iter()
-            .any(|marker| block.starts_with(marker.as_str()))
+        || is_configured_document_stop(block, options)
 }
 
 fn is_transitory_section_header(block: &str) -> bool {
@@ -586,10 +597,7 @@ fn is_immediate_structural(
     is_stop_marker(line, options)
         || is_judicial_appendix(line)
         || line == "FE DE ERRATAS"
-        || options
-            .annex_markers
-            .iter()
-            .any(|marker| line.starts_with(marker))
+        || is_substantive_annex_start(line, options)
         || is_decree_heading(line)
         || is_reform_regulation_heading(line)
         || headings.matches(line)
@@ -1306,6 +1314,18 @@ pub fn parse_diputados_publication(
 
     let mut singleton_closed = false;
     for block in blocks {
+        if in_substantive_annex {
+            // Annex contents may quote appendix headings, errata or judgments.
+            // Only an explicitly configured block-prefix boundary ends this
+            // opaque source region; generic heading heuristics do not.
+            if is_configured_document_stop(&block, options) {
+                break;
+            }
+            if let Some(builder) = &mut current {
+                builder.push_block(&block);
+            }
+            continue;
+        }
         if is_stop_marker(&block, options)
             || block == "FE DE ERRATAS"
             || is_judicial_appendix(&block)
@@ -1317,17 +1337,7 @@ pub fn parse_diputados_publication(
                 && (is_enactment_signature(&block) || is_stop_marker(&block, options));
             break;
         }
-        if in_substantive_annex {
-            if let Some(builder) = &mut current {
-                builder.push_block(&block);
-            }
-            continue;
-        }
-        if options
-            .annex_markers
-            .iter()
-            .any(|marker| block.starts_with(marker))
-        {
+        if is_substantive_annex_start(&block, options) {
             if let Some(builder) = current.take() {
                 provisions.push(builder.finish(
                     &options.instrument_id,
@@ -1750,6 +1760,7 @@ pub fn extract_reform_evidence(
         r"(?i)publicad[oa] en (?:el|la) (?:Diario Oficial de la Federación|DOF) (?:el )?(\d{1,2})[oº]? de ([a-zá-úñ]+) (?:de )?(\d{4})",
     )?;
     let mut in_reform_appendix = false;
+    let mut in_substantive_annex = false;
     let mut in_judicial_appendix = false;
     let mut in_transitories = false;
     let mut publication_date: Option<NaiveDate> = None;
@@ -1763,6 +1774,24 @@ pub fn extract_reform_evidence(
     let mut evidence = Vec::new();
 
     for block in normalized_blocks(raw, options, &ordinals, &headings) {
+        if in_substantive_annex {
+            if !is_configured_document_stop(&block, options) {
+                continue;
+            }
+            in_substantive_annex = false;
+        }
+        if is_substantive_annex_start(&block, options) {
+            flush_reform(&options.instrument_id, &mut current, &mut evidence);
+            in_substantive_annex = true;
+            in_reform_appendix = false;
+            in_transitories = false;
+            publication_date = None;
+            decree_heading = None;
+            act_kind = None;
+            decree_occurrence = None;
+            transitory_section_occurrence = 0;
+            continue;
+        }
         // Judicial dispositions quote prior decrees; they are retained in the
         // source manifest, not relabeled as new legislative transitories.
         if is_judicial_appendix(&block) {
@@ -3587,5 +3616,77 @@ mod tests {
             ])
         );
         assert_eq!(evidence.len(), 29);
+    }
+    #[test]
+    fn opaque_annex_keeps_quoted_reform_errata_and_judicial_text_without_fake_evidence() {
+        let raw = include_str!("../../../fixtures/diputados/annex-quoted-reform-banner.txt");
+        let mut opts = options("urn:lex-mx:federal:statute:sample", "LEY DE PRUEBA");
+        opts.annex_markers = vec!["ANEXO 1.".to_owned()];
+        opts.stop_markers = vec!["DECRETO por el que se reforma la ley al margen".to_owned()];
+        let doc =
+            parse_diputados(raw, &opts, NaiveDate::from_ymd_opt(2026, 1, 1).unwrap()).unwrap();
+        assert_eq!(doc.provisions.len(), 3);
+        let annex = &doc.provisions[2];
+        assert_eq!(annex.provision_type, lex_core::ProvisionType::Annex);
+        for text in [
+            "Contenido inicial conservado.",
+            "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA",
+            "Esta cláusula es una cita del cuadro",
+            "La tabla cita DECRETO por el que se reforma la ley al margen",
+            "FE DE ERRATAS",
+            "PUNTOS RESOLUTIVOS de la sentencia",
+            "CONTENIDO FINAL QUE DEBE CONSERVARSE.",
+        ] {
+            assert!(annex.text.contains(text), "lost annex text: {text}");
+        }
+        assert!(doc.reform_evidence.is_empty());
+        assert!(
+            super::extract_reform_evidence(raw, &opts)
+                .unwrap()
+                .is_empty()
+        );
+    }
+
+    #[test]
+    fn configured_reform_boundary_after_annex_ends_container_and_isolates_real_evidence() {
+        let raw = include_str!("../../../fixtures/diputados/annex-quoted-reform-banner.txt");
+        let raw = format!(
+            "{raw}\nDECRETO por el que se reforma la ley al margen.\n\nPublicado en el DOF el 6 de junio de 2025\n\nTRANSITORIOS\n\nPRIMERO. Cláusula de la reforma real fuera del anexo.\n"
+        );
+        let mut opts = options("urn:lex-mx:federal:statute:sample", "LEY DE PRUEBA");
+        opts.annex_markers = vec!["ANEXO 1.".to_owned()];
+        opts.stop_markers = vec!["DECRETO por el que se reforma la ley al margen".to_owned()];
+        let doc =
+            parse_diputados(&raw, &opts, NaiveDate::from_ymd_opt(2026, 1, 1).unwrap()).unwrap();
+        let annex = doc.provisions.last().unwrap();
+        assert!(
+            annex
+                .text
+                .ends_with("CONTENIDO FINAL QUE DEBE CONSERVARSE.")
+        );
+        assert!(!annex.text.contains("Cláusula de la reforma real"));
+        assert_eq!(doc.reform_evidence.len(), 1);
+        assert!(
+            doc.reform_evidence[0]
+                .provision_id
+                .contains(":amendment:2025-06-06:")
+        );
+        assert_eq!(
+            doc.reform_evidence[0].text,
+            "Cláusula de la reforma real fuera del anexo."
+        );
+    }
+
+    #[test]
+    fn configured_main_appendix_without_annex_keeps_ordinary_ownership() {
+        let raw = "Artículo 1. Texto propio.\n\nTRANSITORIOS\n\nPRIMERO. Cierre propio.\n\nDECRETO por el que se reforma la ley al margen.\n\nPublicado en el DOF el 6 de junio de 2025\n\nTRANSITORIOS\n\nPRIMERO. Cláusula de la reforma real.\n";
+        let mut opts = options("urn:lex-mx:federal:statute:sample", "LEY DE PRUEBA");
+        opts.stop_markers = vec!["DECRETO por el que se reforma la ley al margen".to_owned()];
+        let doc =
+            parse_diputados(raw, &opts, NaiveDate::from_ymd_opt(2026, 1, 1).unwrap()).unwrap();
+        assert_eq!(doc.provisions.len(), 2);
+        assert_eq!(doc.provisions[1].text, "Cierre propio.");
+        assert_eq!(doc.reform_evidence.len(), 1);
+        assert_eq!(doc.reform_evidence[0].text, "Cláusula de la reforma real.");
     }
 }

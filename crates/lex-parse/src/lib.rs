@@ -424,27 +424,6 @@ pub fn extract_references(
             known_targets,
         ));
     }
-    // A citation classified as internal that resolves to no existing
-    // provision is a broken link, not canonical data: almost always a
-    // still-external citation whose governing instrument this pass could
-    // not name (for example CNPP article 167's offense catalog, whose
-    // "Código Penal Federal" context is declared once at the top and
-    // resolves only through the named-offense authority table). Dropping
-    // it keeps the graph free of dangling internal edges; a genuinely
-    // missing article surfaces instead through the frozen count baseline.
-    // Cross-instrument edges (target is another instrument) are kept even
-    // when unresolved, so a configured external target that does not exist
-    // still fails validation.
-    let own_instrument_id = provisions
-        .first()
-        .map(|provision| provision.instrument_id.as_str())
-        .or(title_source.map(|(instrument_id, _)| instrument_id));
-    if let Some(own_instrument_id) = own_instrument_id {
-        references.retain(|edge| {
-            edge.resolution_status != ReferenceResolutionStatus::Unresolved
-                || edge.target_instrument_id != own_instrument_id
-        });
-    }
     references.sort_by(|left, right| {
         left.source_provision_id
             .cmp(&right.source_provision_id)
@@ -499,6 +478,7 @@ fn extract_source_references(
             source,
             neighbors,
             patterns,
+            options,
             known_targets,
         ));
     }
@@ -516,12 +496,59 @@ fn extract_relative_references(
     source: ReferenceSource<'_>,
     neighbors: RelativeNeighbors<'_>,
     patterns: &ReferencePatterns,
+    options: &ReferenceOptions,
     known_targets: &HashSet<String>,
 ) -> Vec<ReferenceEdge> {
     let mut references = Vec::new();
     for captures in patterns.relative_article.captures_iter(source.text) {
         let phrase = captures.get(0).expect("relative match");
         let direction = captures.get(1).expect("direction capture");
+        let context = &source.text[phrase.end()..];
+        let boundary = instrument_context_boundary(context).min(
+            patterns
+                .article
+                .find(context)
+                .map_or(context.len(), |header| header.start()),
+        );
+        let context = &context[..boundary];
+        // A comma, semicolon or colon closes the phrase naming the cited
+        // article: "el artículo anterior, se estará a lo dispuesto en la Ley
+        // Federal de Procedimiento..." names another law for a different
+        // clause and does not govern the citation.
+        let context = &context[..context.find([',', ';', ':']).unwrap_or(context.len())];
+        // Only a genitive attached to the citation ("del artículo anterior de la
+        // Ley X") names its governing instrument. A law mentioned later in the
+        // sentence ("...artículo anterior serán sancionadas con arreglo
+        // supletorio en la Ley X") belongs to another clause.
+        let lead = context.trim_start().to_lowercase();
+        let attached = lead.starts_with("de ") || lead.starts_with("del ");
+        let target_context = match &options.policy {
+            InstrumentContextPolicy::WholeGroupPresence => sentence_target(
+                &context.to_lowercase(),
+                MARKER_LOOKAHEAD_CHARS,
+                &[
+                    "de esta ley".to_owned(),
+                    "de la presente ley".to_owned(),
+                    "de este ordenamiento".to_owned(),
+                    "del presente ordenamiento".to_owned(),
+                ],
+                &[],
+            ),
+            InstrumentContextPolicy::SentenceEarliestMarker { .. } => {
+                group_target(context, MARKER_LOOKAHEAD_CHARS, &options.policy)
+            }
+        };
+        let own_context = !attached
+            || match target_context {
+                GroupTarget::Internal => true,
+                GroupTarget::External(id) => id == source.instrument_id,
+                GroupTarget::Skip => bare_own_regulation_context(source.instrument_id, context),
+            };
+        if !own_context {
+            // Relative positions in another instrument cannot be inferred from
+            // this source provision's local neighbors.
+            continue;
+        }
         let target = if direction.as_str().eq_ignore_ascii_case("siguiente") {
             neighbors.next
         } else {
@@ -542,6 +569,20 @@ fn extract_relative_references(
         ));
     }
     references
+}
+
+/// A regulation can refer to its own unnamed Reglamento. Do not generalize
+/// this to statutes or named external regulations; a title continuation after
+/// the noun is not the bare self-reference printed in REG-LGN article216.
+fn bare_own_regulation_context(instrument_id: &str, context: &str) -> bool {
+    if instrument_id.split(':').nth(3) != Some("regulation") {
+        return false;
+    }
+    let lower = context.trim_start().to_lowercase();
+    lower.strip_prefix("del reglamento").is_some_and(|tail| {
+        let tail = tail.trim_start();
+        tail.is_empty() || tail.starts_with([',', ';', ':', ')'])
+    })
 }
 
 fn extract_reference_group(
@@ -593,7 +634,66 @@ fn extract_reference_group(
         known_targets,
         historical,
     ));
+    let explicit_end = last_end.map_or(group.len(), |end| {
+        end + instrument_context_boundary(&group[end..])
+    });
+    retain_internal_candidates(
+        &mut references,
+        source.instrument_id,
+        explicit_internal_context(
+            &group[..explicit_end],
+            max_marker_start,
+            &options.policy,
+            source.instrument_id,
+        ),
+    );
     references
+}
+
+/// Unclassified missing internal candidates are often unresolved external
+/// citations. An explicit governing self marker instead records a broken
+/// source pointer and must remain visible to validation.
+fn retain_internal_candidates(references: &mut Vec<ReferenceEdge>, own_id: &str, explicit: bool) {
+    references.retain(|edge| {
+        explicit
+            || edge.resolution_status != ReferenceResolutionStatus::Unresolved
+            || edge.target_instrument_id != own_id
+    });
+}
+
+fn explicit_internal_context(
+    context: &str,
+    max_marker_start: usize,
+    policy: &InstrumentContextPolicy,
+    own_id: &str,
+) -> bool {
+    match group_target(context, max_marker_start, policy) {
+        GroupTarget::External(id) => return id == own_id,
+        GroupTarget::Skip => return false,
+        GroupTarget::Internal => {}
+    }
+    let lower = context.to_lowercase();
+    match policy {
+        InstrumentContextPolicy::WholeGroupPresence => [
+            "de esta ley",
+            "de la presente ley",
+            "de este ordenamiento",
+            "del presente ordenamiento",
+        ]
+        .iter()
+        .any(|marker| {
+            lower
+                .find(marker)
+                .is_some_and(|position| position <= max_marker_start)
+        }),
+        InstrumentContextPolicy::SentenceEarliestMarker {
+            internal_markers, ..
+        } => internal_markers.iter().any(|marker| {
+            lower
+                .find(marker)
+                .is_some_and(|position| position <= max_marker_start)
+        }),
+    }
 }
 
 fn group_target<'a>(
@@ -708,6 +808,17 @@ fn extract_transitory_citations(
             known_targets,
             historical_target_unavailable,
         );
+        if resolution_status == ReferenceResolutionStatus::Unresolved
+            && target_instrument_id == source.instrument_id
+            && !explicit_internal_context(
+                context,
+                MARKER_LOOKAHEAD_CHARS,
+                &options.policy,
+                source.instrument_id,
+            )
+        {
+            continue;
+        }
         references.push(reference_edge(
             source,
             &source.text[ordinal.start()..citation_end],
@@ -2134,6 +2245,20 @@ fn validate_reference_target(
     external_targets: &HashSet<String>,
     issues: &mut Vec<ValidationIssue>,
 ) {
+    let canonical_owner = reference
+        .target_provision_id
+        .rsplit_once(":article:")
+        .or_else(|| reference.target_provision_id.rsplit_once(":transitory:"))
+        .or_else(|| reference.target_provision_id.rsplit_once(":annex:"))
+        .map(|(owner, _)| owner);
+    if canonical_owner != Some(reference.target_instrument_id.as_str()) {
+        issues.push(error(
+            "reference_target_owner_mismatch",
+            "reference target identifier does not belong to its declared instrument".to_owned(),
+            Some(reference.source_provision_id.clone()),
+        ));
+        return;
+    }
     let cross_instrument = reference.target_instrument_id != instrument_id;
     let target_exists = if cross_instrument {
         external_targets.contains(reference.target_provision_id.as_str())
@@ -3507,6 +3632,232 @@ mod tests {
         let report = validate_lritf(&provisions, &references, 8, 1);
         assert!(report.valid, "{:?}", report.issues);
         assert_eq!(report.reference_count, references.len());
+    }
+
+    #[test]
+    fn explicit_missing_self_targets_remain_unresolved_but_implicit_candidates_are_suppressed() {
+        let date = NaiveDate::from_ymd_opt(2018, 3, 9).unwrap();
+        let mut provisions = parse_lritf(RELATIVE_FIXTURE, date).unwrap();
+        provisions[1].text = "Se aplicarán los artículos 998 y 999 de esta Ley.".to_owned();
+        let references = extract_internal_references(&provisions).unwrap();
+        let edges: Vec<_> = references
+            .iter()
+            .filter(|edge| edge.source_provision_id == provisions[1].id)
+            .collect();
+        assert_eq!(edges.len(), 2);
+        assert!(
+            edges
+                .iter()
+                .all(|edge| edge.resolution_status == ReferenceResolutionStatus::Unresolved)
+        );
+        let report = validate_lritf(&provisions, &references, 4, 2);
+        assert!(
+            report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "unresolved_internal_reference")
+        );
+        provisions[1].text =
+            "Se aplicará el artículo 999. Las obligaciones de esta Ley subsisten.".to_owned();
+        let references = extract_internal_references(&provisions).unwrap();
+        assert!(
+            !references
+                .iter()
+                .any(|edge| edge.source_provision_id == provisions[1].id)
+        );
+        provisions[1].text = "Se aplicará el artículo 999 del Código ajeno.".to_owned();
+        assert!(
+            !extract_internal_references(&provisions)
+                .unwrap()
+                .iter()
+                .any(|edge| edge.source_provision_id == provisions[1].id)
+        );
+    }
+
+    #[test]
+    fn relative_references_respect_external_governing_context() {
+        let date = NaiveDate::from_ymd_opt(2018, 3, 9).unwrap();
+        let mut provisions = parse_lritf(RELATIVE_FIXTURE, date).unwrap();
+        provisions[1].text = "Se aplicará el artículo anterior de la Constitución Política de los Estados Unidos Mexicanos.".to_owned();
+        let options = ReferenceOptions {
+            policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                internal_markers: vec!["de esta ley".to_owned()],
+                external_instruments: vec![(
+                    "constitución política de los estados unidos mexicanos".to_owned(),
+                    CPEUM_ID.to_owned(),
+                )],
+            },
+            transitory_citations: true,
+            same_article_fractions: true,
+            relative_references: true,
+            historical_targets: vec![],
+        };
+        let targets = provisions.iter().map(|p| p.id.clone()).collect();
+        let references = extract_references(&provisions, None, &options, &targets).unwrap();
+        assert!(
+            !references
+                .iter()
+                .any(|edge| edge.source_provision_id == provisions[1].id)
+        );
+        provisions[1].text = "Se aplicará el artículo anterior de esta Ley y el artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.".to_owned();
+        let references = extract_references(&provisions, None, &options, &targets).unwrap();
+        assert!(
+            references
+                .iter()
+                .any(|edge| edge.source_provision_id == provisions[1].id
+                    && edge.reference_form == ReferenceForm::Relative
+                    && edge.target_provision_id == provisions[0].id)
+        );
+    }
+
+    #[test]
+    fn relative_reference_is_not_retargeted_by_a_law_named_in_a_later_clause() {
+        let date = NaiveDate::from_ymd_opt(2018, 3, 9).unwrap();
+        let mut provisions = parse_lritf(RELATIVE_FIXTURE, date).unwrap();
+        // Shape printed in committed LBOGM, LGPAS, LFCC and 23 more instruments.
+        provisions[1].text = "Para la revisión a que se refiere el artículo anterior, se estará a lo dispuesto en el Título Sexto de la Ley Federal de Procedimiento Administrativo.".to_owned();
+        let references = extract_internal_references(&provisions).unwrap();
+        assert!(
+            references
+                .iter()
+                .any(|edge| edge.source_provision_id == provisions[1].id
+                    && edge.reference_form == ReferenceForm::Relative
+                    && edge.target_provision_id == provisions[0].id)
+        );
+        let options = ReferenceOptions {
+            policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                internal_markers: vec!["de esta ley".to_owned()],
+                external_instruments: vec![(
+                    "ley federal de procedimiento administrativo".to_owned(),
+                    "urn:lex-mx:federal:statute:lfpa".to_owned(),
+                )],
+            },
+            transitory_citations: true,
+            same_article_fractions: true,
+            relative_references: true,
+            historical_targets: vec![],
+        };
+        let targets = provisions.iter().map(|p| p.id.clone()).collect();
+        let references = extract_references(&provisions, None, &options, &targets).unwrap();
+        assert!(
+            references
+                .iter()
+                .any(|edge| edge.source_provision_id == provisions[1].id
+                    && edge.reference_form == ReferenceForm::Relative
+                    && edge.target_provision_id == provisions[0].id)
+        );
+        for text in [
+            "Las infracciones señaladas en el artículo anterior serán sustanciadas con arreglo supletorio en la Ley Federal de Procedimiento Administrativo.",
+            "Los anteproyectos a que se refiere el artículo anterior y que estén sujetos a la Ley Federal de Procedimiento Administrativo, podrán hacerse públicos.",
+        ] {
+            provisions[1].text = text.to_owned();
+            assert!(
+                extract_references(&provisions, None, &options, &targets)
+                    .unwrap()
+                    .iter()
+                    .any(|edge| edge.source_provision_id == provisions[1].id
+                        && edge.target_provision_id == provisions[0].id),
+                "{text}"
+            );
+        }
+        // Without the comma the law directly governs the citation: no internal link.
+        provisions[1].text =
+            "Se aplicará el artículo anterior de la Ley Federal de Procedimiento Administrativo."
+                .to_owned();
+        assert!(
+            !extract_references(&provisions, None, &options, &targets)
+                .unwrap()
+                .iter()
+                .any(|edge| edge.source_provision_id == provisions[1].id)
+        );
+    }
+
+    #[test]
+    fn bare_reglamento_relative_is_self_only_in_a_regulation() {
+        let date = NaiveDate::from_ymd_opt(2018, 3, 9).unwrap();
+        let mut provisions = parse_lritf(RELATIVE_FIXTURE, date).unwrap();
+        // Exact opening sentence of committed REG-LGN article216; its local
+        // predecessor is article215, not an external regulation's article.
+        let text = "Después de recibido formalmente el recurso de inconformidad y la documentación mencionada en el artículo anterior del Reglamento, el Consejo de Disciplina u Órgano Revisor deberá:";
+        provisions[1].text = text.to_owned();
+        assert!(
+            !extract_internal_references(&provisions)
+                .unwrap()
+                .iter()
+                .any(|edge| edge.source_provision_id == provisions[1].id)
+        );
+        let id = "urn:lex-mx:federal:regulation:reg-lgn";
+        for (index, provision) in provisions.iter_mut().take(3).enumerate() {
+            provision.instrument_id = id.to_owned();
+            provision.number = (215 + index).to_string();
+            provision.id = format!("{id}:article:{}", provision.number);
+        }
+        let references = extract_internal_references(&provisions).unwrap();
+        assert!(
+            references
+                .iter()
+                .any(|edge| edge.source_provision_id == provisions[1].id
+                    && edge.target_provision_id == provisions[0].id)
+        );
+        provisions[1].text =
+            "Se aplicará el artículo anterior del Reglamento de otra Ley.".to_owned();
+        assert!(
+            !extract_internal_references(&provisions)
+                .unwrap()
+                .iter()
+                .any(|edge| edge.source_provision_id == provisions[1].id)
+        );
+    }
+
+    #[test]
+    fn existing_external_target_must_belong_to_declared_instrument() {
+        fn view<'a>(
+            provisions: &'a [Provision],
+            references: &'a [lex_core::ReferenceEdge],
+        ) -> CorpusView<'a> {
+            CorpusView {
+                instrument_id: LRITF_ID,
+                official_title: None,
+                provisions,
+                references,
+                terms: &[],
+                term_usages: &[],
+                amendment_references: &[],
+            }
+        }
+        let date = NaiveDate::from_ymd_opt(2018, 3, 9).unwrap();
+        let mut provisions = parse_lritf(RELATIVE_FIXTURE, date).unwrap();
+        provisions[1].text = "Se aplicará el artículo 1 de esta Ley.".to_owned();
+        let mut references = extract_internal_references(&provisions).unwrap();
+        references.retain(|edge| edge.source_provision_id == provisions[1].id);
+        references[0].target_provision_id = format!("{CPEUM_ID}:article:1");
+        references[0].target_instrument_id = LOCG_ID.to_owned();
+        let external_targets = HashSet::from([references[0].target_provision_id.clone()]);
+        let expectations = CorpusExpectations {
+            articles: Some(4),
+            transitories: Some(2),
+            ..Default::default()
+        };
+        let report = validate_corpus(
+            &view(&provisions, &references),
+            &expectations,
+            &external_targets,
+            &HashSet::new(),
+        );
+        assert!(
+            report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "reference_target_owner_mismatch")
+        );
+        references[0].target_instrument_id = CPEUM_ID.to_owned();
+        let report = validate_corpus(
+            &view(&provisions, &references),
+            &expectations,
+            &external_targets,
+            &HashSet::new(),
+        );
+        assert!(report.valid, "{:?}", report.issues);
     }
 
     #[test]
