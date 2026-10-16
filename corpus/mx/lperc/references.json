@@ -1529,7 +1529,14 @@
     "end_char": 454,
     "target_instrument_id": "urn:lex-mx:federal:statute:lperc",
     "target_provision_id": "urn:lex-mx:federal:statute:lperc:article:93",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a)",
+        "start_char": 429,
+        "end_char": 438
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1559,7 +1566,14 @@
     "end_char": 291,
     "target_instrument_id": "urn:lex-mx:federal:statute:lperc",
     "target_provision_id": "urn:lex-mx:federal:statute:lperc:article:93",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b)",
+        "start_char": 266,
+        "end_char": 275
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

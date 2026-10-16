@@ -1283,7 +1283,20 @@
     "end_char": 190,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:18-j",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 150,
+        "end_char": 161
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a)",
+        "start_char": 163,
+        "end_char": 172
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

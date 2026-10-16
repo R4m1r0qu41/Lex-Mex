@@ -539,6 +539,12 @@
     "target_provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
     "qualifiers": [
       {
+        "qualifier_type": "subsection",
+        "text": "incisos a), b) y c)",
+        "start_char": 1083,
+        "end_char": 1102
+      },
+      {
         "qualifier_type": "fraction",
         "text": "fracción IV",
         "start_char": 1118,
@@ -560,6 +566,12 @@
     "target_instrument_id": "urn:lex-mx:federal:statute:lfcsq",
     "target_provision_id": "urn:lex-mx:federal:statute:lfcsq:article:7",
     "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos a), b) y c)",
+        "start_char": 1339,
+        "end_char": 1358
+      },
       {
         "qualifier_type": "fraction",
         "text": "fracción IV",

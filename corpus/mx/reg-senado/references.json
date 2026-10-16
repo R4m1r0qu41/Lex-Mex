@@ -60,22 +60,14 @@
     "end_char": 768,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-senado",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-senado:article:86",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-senado:article:104:reference:778-779:3:direct",
-    "source_provision_id": "urn:lex-mx:federal:regulation:reg-senado:article:104",
-    "source_span": "3",
-    "start_char": 778,
-    "end_char": 779,
-    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-senado",
-    "target_provision_id": "urn:lex-mx:federal:regulation:reg-senado:article:3",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 3",
+        "start_char": 770,
+        "end_char": 779
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -741,22 +733,14 @@
     "end_char": 321,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-senado",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-senado:article:164",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-senado:article:71:reference:331-332:3:direct",
-    "source_provision_id": "urn:lex-mx:federal:regulation:reg-senado:article:71",
-    "source_span": "3",
-    "start_char": 331,
-    "end_char": 332,
-    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-senado",
-    "target_provision_id": "urn:lex-mx:federal:regulation:reg-senado:article:3",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 3",
+        "start_char": 323,
+        "end_char": 332
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

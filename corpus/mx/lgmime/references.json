@@ -180,22 +180,13 @@
     "end_char": 3732,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgmime",
     "target_provision_id": "urn:lex-mx:federal:statute:lgmime:article:3",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmime:article:19:reference:3742-3743:2:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgmime:article:19",
-    "source_span": "2",
-    "start_char": 3742,
-    "end_char": 3743,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgmime",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgmime:article:2",
     "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 2",
+        "start_char": 3734,
+        "end_char": 3743
+      },
       {
         "qualifier_type": "subsection",
         "text": "inciso a",
@@ -217,22 +208,14 @@
     "end_char": 211,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgmime",
     "target_provision_id": "urn:lex-mx:federal:statute:lgmime:article:2",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmime:article:22:reference:221-222:7:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgmime:article:22",
-    "source_span": "7",
-    "start_char": 221,
-    "end_char": 222,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgmime",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgmime:article:7",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 7",
+        "start_char": 213,
+        "end_char": 222
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -561,37 +544,14 @@
     "end_char": 164,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
     "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:99",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmime:transitory:vigesimo:reference:175-176:3:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgmime:transitory:vigesimo",
-    "source_span": "3",
-    "start_char": 175,
-    "end_char": 176,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:3",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmime:transitory:vigesimo:reference:179-180:4:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgmime:transitory:vigesimo",
-    "source_span": "4",
-    "start_char": 179,
-    "end_char": 180,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:4",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafos 3 y 4",
+        "start_char": 166,
+        "end_char": 180
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -606,7 +566,20 @@
     "end_char": 47,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
     "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:11-bis",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 1",
+        "start_char": 49,
+        "end_char": 58
+      },
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 2",
+        "start_char": 130,
+        "end_char": 139
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "historical_superseded_reference_outdated",
@@ -640,20 +613,5 @@
       "decision_source": "docs/held-instruments-review-2026-10-16.md",
       "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f"
     }
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmime:transitory:vigesimo-octavo:reference:57-58:1:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgmime:transitory:vigesimo-octavo",
-    "source_span": "1",
-    "start_char": 57,
-    "end_char": 58,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:1",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
   }
 ]

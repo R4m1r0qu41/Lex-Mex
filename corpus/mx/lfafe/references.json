@@ -546,7 +546,14 @@
     "end_char": 331,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos a) y b)",
+        "start_char": 300,
+        "end_char": 315
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -613,7 +620,14 @@
     "end_char": 348,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos i) y m)",
+        "start_char": 317,
+        "end_char": 332
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -628,7 +642,14 @@
     "end_char": 591,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos a) y b)",
+        "start_char": 560,
+        "end_char": 575
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -643,7 +664,14 @@
     "end_char": 828,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos c), d) y e)",
+        "start_char": 793,
+        "end_char": 812
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -658,7 +686,14 @@
     "end_char": 1058,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos g), h), j), k) y l)",
+        "start_char": 1015,
+        "end_char": 1042
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -673,7 +708,14 @@
     "end_char": 1067,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11-bis",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos g), h), j), k) y l)",
+        "start_char": 1015,
+        "end_char": 1042
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -688,7 +730,14 @@
     "end_char": 379,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos a) o b)",
+        "start_char": 348,
+        "end_char": 363
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -852,7 +901,14 @@
     "end_char": 399,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos i) y m)",
+        "start_char": 368,
+        "end_char": 383
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -867,7 +923,14 @@
     "end_char": 649,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos a) y b)",
+        "start_char": 618,
+        "end_char": 633
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -882,7 +945,14 @@
     "end_char": 927,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos c), d), e) y f)",
+        "start_char": 888,
+        "end_char": 911
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -897,7 +967,14 @@
     "end_char": 1182,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos g), h), j), k) y l)",
+        "start_char": 1139,
+        "end_char": 1166
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1032,7 +1109,14 @@
     "end_char": 575,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos a) o b)",
+        "start_char": 544,
+        "end_char": 559
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1099,7 +1183,14 @@
     "end_char": 442,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos a) o b)",
+        "start_char": 411,
+        "end_char": 426
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1144,7 +1235,14 @@
     "end_char": 324,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos a) o b)",
+        "start_char": 293,
+        "end_char": 308
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

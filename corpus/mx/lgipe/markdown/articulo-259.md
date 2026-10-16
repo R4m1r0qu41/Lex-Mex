@@ -27,6 +27,6 @@ b) En elección local cada partido político, coalición, o Candidato Independie
 
 3. Los representantes de los partidos políticos y de Candidatos Independientes ante las mesas directivas de casilla y generales, podrán firmar sus nombramientos hasta antes de acreditarse en la casilla; así mismo, deberán portar en lugar visible durante todo el día de la jornada electoral, un distintivo de hasta 2.5 por 2.5 centímetros, con el emblema del partido político al que pertenezcan o al que representen y con la leyenda visible de "representante".
 
-4. Los representantes de los partidos políticos y de Candidatos Independientes recibirán una copia legible de las actas a que se refiere el artículo [261](articulo-261.md), párrafo [1](articulo-1.md), inciso b), de esta Ley. En caso de no haber representante en las mesas directivas de casilla, las copias serán entregadas al representante general que así lo solicite.
+4. Los representantes de los partidos políticos y de Candidatos Independientes recibirán una copia legible de las actas a que se refiere el artículo [261](articulo-261.md), párrafo 1, inciso b), de esta Ley. En caso de no haber representante en las mesas directivas de casilla, las copias serán entregadas al representante general que así lo solicite.
 
 5. La entrega de las copias legibles a que se refiere el párrafo anterior se hará en el orden de antigüedad del registro por partido político.

@@ -2453,7 +2453,20 @@
     "end_char": 2801,
     "target_instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "target_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:86",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones V y VI",
+        "start_char": 2757,
+        "end_char": 2774
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso c)",
+        "start_char": 2776,
+        "end_char": 2785
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

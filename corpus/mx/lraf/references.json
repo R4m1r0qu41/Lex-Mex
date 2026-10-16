@@ -1076,7 +1076,14 @@
     "end_char": 2566,
     "target_instrument_id": "urn:lex-mx:federal:statute:lraf",
     "target_provision_id": "urn:lex-mx:federal:statute:lraf:article:57",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a)",
+        "start_char": 2541,
+        "end_char": 2550
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1271,7 +1278,20 @@
     "end_char": 5313,
     "target_instrument_id": "urn:lex-mx:federal:statute:lraf",
     "target_provision_id": "urn:lex-mx:federal:statute:lraf:article:39",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 5264,
+        "end_char": 5276
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos a), c) y d)",
+        "start_char": 5278,
+        "end_char": 5297
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

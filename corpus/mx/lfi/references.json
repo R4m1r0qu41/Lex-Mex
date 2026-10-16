@@ -5491,7 +5491,14 @@
     "end_char": 201,
     "target_instrument_id": "urn:lex-mx:federal:statute:lie",
     "target_provision_id": "urn:lex-mx:federal:statute:lie:article:7",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos m) y n)",
+        "start_char": 171,
+        "end_char": 186
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

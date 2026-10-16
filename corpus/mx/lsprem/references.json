@@ -461,7 +461,14 @@
     "end_char": 7645,
     "target_instrument_id": "urn:lex-mx:federal:statute:lftr",
     "target_provision_id": "urn:lex-mx:federal:statute:lftr:article:131",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos a) y b)",
+        "start_char": 7613,
+        "end_char": 7628
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -670,6 +677,12 @@
     "target_instrument_id": "urn:lex-mx:federal:statute:lftr",
     "target_provision_id": "urn:lex-mx:federal:statute:lftr:article:131",
     "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b)",
+        "start_char": 952,
+        "end_char": 961
+      },
       {
         "qualifier_type": "paragraph",
         "text": "párrafo segundo",

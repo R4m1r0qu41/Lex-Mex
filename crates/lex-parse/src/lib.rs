@@ -148,6 +148,8 @@ struct ReferencePatterns {
     /// Qualifier phrase written before the article number, ending right at
     /// the `artículo(s)` header: `la fracción XI del artículo 36`.
     pre_qualifier: Regex,
+    /// Fraction phrase directly before a comma and the `inciso` it scopes.
+    pre_fraction: Regex,
     /// Fraction citation of the containing article itself:
     /// `fracciones I, II, III y IV del presente artículo`.
     same_article_fraction: Regex,
@@ -174,8 +176,11 @@ impl ReferencePatterns {
                         \s+párrafos? |
                     párrafos?\s+(?:primero|segundo|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|penúltimo|último)
                         (?:\s*(?:,|y|o)\s*(?:primero|segundo|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|penúltimo|último))* |
-                    incisos?\s+[a-z](?:\s*(?:,|y|o)\s*[a-z])*
+                    incisos?\s+[a-z]\)?(?:\s*(?:,|y|o)\s*[a-z]\)?)*
                 )\s+de(?:l|\s+los)\s*$",
+            )?,
+            pre_fraction: Regex::new(
+                r"(?i)\b(fracci(?:ón|ones)\s+[IVXLCDM]+(?:\s*(?:,|y|o)\s*[IVXLCDM]+)*)\s*,\s*$",
             )?,
             same_article_fraction: Regex::new(
                 r"(?i)\bfracci(?:ón|ones)\s+([IVXLCDM]+(?:\s*(?:,|y|o)\s*[IVXLCDM]+)*)\s+de(?:l\s+presente|\s+este)\s+artículo",
@@ -205,7 +210,7 @@ impl ReferencePatterns {
         )*$",
             )?,
             paragraph: Regex::new(
-                r"(?i)\b(?:(?:(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último)(?:\s+(?:,|y|o)\s+(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último))*|\d{1,2}[oaºª]\.?)\s+párrafos?|párrafos?\s+(?:primero|segundo|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último)(?:\s*(?:,|y|o)\s*(?:primero|segundo|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último))*)\b",
+                r"(?i)\b(?:(?:(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último)(?:\s+(?:,|y|o)\s+(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último))*|\d{1,2}[oaºª]\.?)\s+párrafos?|párrafos?\s+(?:primero|segundo|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último)(?:\s*(?:,|y|o)\s*(?:primero|segundo|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último))*|párrafos?\s+\d{1,2}(?:\s*(?:,|y|o)\s*\d{1,2})*)\b",
             )?,
             fraction: Regex::new(
                 r"(?i)\bfracci(?:ón|ones)\s+[IVXLCDM]+(?:\s*(?:,|y|o)\s*[IVXLCDM]+)*\b",
@@ -691,9 +696,7 @@ fn explicit_internal_context(
         InstrumentContextPolicy::SentenceEarliestMarker {
             internal_markers, ..
         } => internal_markers.iter().any(|marker| {
-            lower
-                .find(marker)
-                .is_some_and(|position| position <= max_marker_start)
+            find_marker(&lower, marker).is_some_and(|position| position <= max_marker_start)
         }),
     }
 }
@@ -724,6 +727,31 @@ fn group_target<'a>(
     }
 }
 
+/// First occurrence of a configured marker on lexical boundaries, so a longer
+/// word or title (`Ley del Seguro Socialista`) never matches a shorter alias
+/// (`ley del seguro social`).
+fn find_marker(lower: &str, marker: &str) -> Option<usize> {
+    lower
+        .match_indices(marker)
+        .find(|(position, _)| {
+            let before = lower[..*position].chars().next_back();
+            let after = &lower[position + marker.len()..];
+            // A marker that carries its own boundary space needs no check on
+            // that side; a plural (`constitucional` / `constitucionales`) is
+            // still the same word.
+            let before_ok = marker.starts_with(' ') || before.is_none_or(|c| !c.is_alphanumeric());
+            let after_ok = marker.ends_with(' ')
+                || after.chars().next().is_none_or(|c| !c.is_alphanumeric())
+                || ["s", "es"].iter().any(|plural| {
+                    after.strip_prefix(plural).is_some_and(|rest| {
+                        rest.chars().next().is_none_or(|c| !c.is_alphanumeric())
+                    })
+                });
+            before_ok && after_ok
+        })
+        .map(|(position, _)| position)
+}
+
 fn sentence_target<'a>(
     lower: &str,
     max_marker_start: usize,
@@ -732,15 +760,13 @@ fn sentence_target<'a>(
 ) -> GroupTarget<'a> {
     let internal = internal_markers
         .iter()
-        .filter_map(|marker| lower.find(marker.as_str()))
+        .filter_map(|marker| find_marker(lower, marker.as_str()))
         .filter(|position| *position <= max_marker_start)
         .min();
     let configured = external_instruments
         .iter()
         .filter_map(|(marker, instrument_id)| {
-            lower
-                .find(marker.as_str())
-                .map(|position| (position, instrument_id.as_str()))
+            find_marker(lower, marker.as_str()).map(|position| (position, instrument_id.as_str()))
         })
         .filter(|(position, _)| *position <= max_marker_start)
         .min_by_key(|(position, _)| *position);
@@ -834,6 +860,22 @@ fn extract_transitory_citations(
     references
 }
 
+/// A number written directly after `párrafo`/`numeral` is that qualifier's
+/// number (`artículo 10, párrafo 2, inciso c)`), never another article.
+fn names_qualifier_number(between: &str) -> bool {
+    let lower = between.trim_end().to_lowercase();
+    ["párrafo", "párrafos", "numeral", "numerales"]
+        .iter()
+        .any(|word| {
+            lower.strip_suffix(word).is_some_and(|before| {
+                before
+                    .chars()
+                    .next_back()
+                    .is_none_or(|character| !character.is_alphabetic())
+            })
+        })
+}
+
 fn accepted_numbers<'a>(group: &'a str, patterns: &ReferencePatterns) -> Vec<regex::Match<'a>> {
     let candidates: Vec<_> = patterns.number.find_iter(group).collect();
     let Some(first) = candidates.first() else {
@@ -864,10 +906,8 @@ fn accepted_numbers<'a>(group: &'a str, patterns: &ReferencePatterns) -> Vec<reg
         let Some(previous) = accepted.last() else {
             break;
         };
-        if !patterns
-            .separator
-            .is_match(&group[previous.end()..candidate.start()])
-        {
+        let between = &group[previous.end()..candidate.start()];
+        if !patterns.separator.is_match(between) || names_qualifier_number(between) {
             break;
         }
         accepted.push(*candidate);
@@ -1432,12 +1472,28 @@ fn pre_number_qualifiers(
     } else {
         ReferenceQualifierType::Paragraph
     };
-    vec![anchored_qualifier(
+    let mut qualifiers = Vec::new();
+    // `la fracción II, inciso a) del artículo 1`: an inciso written after a
+    // fraction keeps the fraction scope as a second qualifier.
+    if qualifier_type == ReferenceQualifierType::Subsection {
+        let leading = &window[..phrase.start()];
+        if let Some(fraction) = patterns.pre_fraction.captures(leading) {
+            let fraction = fraction.get(1).expect("fraction capture");
+            qualifiers.push(anchored_qualifier(
+                source_text,
+                window_start + fraction.start(),
+                fraction.as_str(),
+                ReferenceQualifierType::Fraction,
+            ));
+        }
+    }
+    qualifiers.push(anchored_qualifier(
         source_text,
         window_start + phrase.start(),
         phrase.as_str(),
         qualifier_type,
-    )]
+    ));
+    qualifiers
 }
 
 /// Extract `fracción N del presente artículo` citations as edges targeting
@@ -1526,7 +1582,36 @@ fn qualifier_boundary(value: &str) -> usize {
 /// that dot belongs to the numeral and must not hide a following instrument
 /// name such as `de la Constitución Política...`.
 fn instrument_context_boundary(value: &str) -> usize {
-    qualifier_boundary(value)
+    let end = qualifier_boundary(value);
+    let head = &value[..end];
+    // An independent semicolon clause ("…artículo 1; la Constitución reconoce
+    // derechos") does not govern the citation. A semicolon that continues the
+    // citation list (`1; 2 y 3`, `fracciones I; II`) does not close it.
+    for (index, character) in head.char_indices() {
+        if character == ';' && !continues_citation_list(head[index + 1..].trim_start()) {
+            return index;
+        }
+    }
+    end
+}
+
+fn continues_citation_list(rest: &str) -> bool {
+    let lower = rest.to_lowercase();
+    rest.chars().next().is_some_and(|c| c.is_ascii_digit())
+        || ["fracci", "inciso", "párrafo", "y ", "o ", "artículo"]
+            .iter()
+            .any(|word| lower.starts_with(word))
+        || {
+            let roman = rest
+                .chars()
+                .take_while(|c| matches!(c, 'I' | 'V' | 'X' | 'L' | 'C' | 'D' | 'M'))
+                .count();
+            roman > 0
+                && rest[roman..]
+                    .chars()
+                    .next()
+                    .is_none_or(|c| !c.is_alphabetic())
+        }
 }
 
 /// Maximum distance after the final citation number at which an instrument
@@ -4582,6 +4667,140 @@ Ciudad de México, a 1 de octubre de 2025.
         );
         assert_eq!(adjectival.len(), 1);
         assert_eq!(adjectival[0].target_instrument_id, CPEUM);
+    }
+
+    const LSS: &str = "urn:lex-mx:federal:statute:lss";
+
+    #[test]
+    fn paragraph_numbers_are_qualifiers_not_article_links() {
+        // L1, LGPP article 95: "artículo 10, párrafo 2, inciso c)".
+        let known = [
+            "urn:lex-mx:federal:statute:fix:article:10",
+            "urn:lex-mx:federal:statute:fix:article:2",
+        ];
+        let edges = closure_references(
+            "Artículo 95.- Lo previsto en el artículo 10, párrafo 2, inciso c), de esta Ley.",
+            "urn:lex-mx:federal:statute:fix",
+            &["de esta ley"],
+            &[],
+            &known,
+        );
+        let direct: Vec<_> = edges
+            .iter()
+            .filter(|e| e.reference_form == ReferenceForm::Direct)
+            .collect();
+        assert_eq!(direct.len(), 1, "{direct:?}");
+        assert_eq!(direct[0].target_provision_id, known[0]);
+        let texts: Vec<_> = direct[0]
+            .qualifiers
+            .iter()
+            .map(|q| q.text.as_str())
+            .collect();
+        assert_eq!(texts, ["párrafo 2", "inciso c"]);
+        // A genuine article list and word ordinals still link every article.
+        let edges = closure_references(
+            "Artículo 95.- Lo previsto en los artículos 10, párrafo segundo, y 2 de esta Ley.",
+            "urn:lex-mx:federal:statute:fix",
+            &["de esta ley"],
+            &[],
+            &known,
+        );
+        assert_eq!(
+            edges
+                .iter()
+                .filter(|e| e.reference_form == ReferenceForm::Direct)
+                .count(),
+            2
+        );
+    }
+
+    #[test]
+    fn a_later_semicolon_clause_does_not_govern_a_direct_citation() {
+        // L4: the Constitution named in a new clause must not take article 1.
+        let known = [
+            "urn:lex-mx:federal:statute:fix:article:1",
+            "urn:lex-mx:federal:constitution:cpeum:article:1",
+        ];
+        let external = [(
+            "constitución política de los estados unidos mexicanos",
+            CPEUM,
+        )];
+        let edges = closure_references(
+            "Artículo 5.- Se aplicará el artículo 1; la Constitución Política de los Estados Unidos Mexicanos reconoce derechos.",
+            "urn:lex-mx:federal:statute:fix",
+            &["de esta ley"],
+            &external,
+            &known,
+        );
+        assert!(
+            edges.iter().all(|e| e.target_instrument_id != CPEUM),
+            "{edges:?}"
+        );
+        // A semicolon inside the citation list does not close it.
+        let edges = closure_references(
+            "Artículo 5.- Se aplicará lo previsto en los artículos 1; 2 y 3 de la Constitución Política de los Estados Unidos Mexicanos.",
+            "urn:lex-mx:federal:statute:fix",
+            &["de esta ley"],
+            &external,
+            &[
+                "urn:lex-mx:federal:constitution:cpeum:article:1",
+                "urn:lex-mx:federal:constitution:cpeum:article:2",
+                "urn:lex-mx:federal:constitution:cpeum:article:3",
+            ],
+        );
+        assert_eq!(
+            edges
+                .iter()
+                .filter(|e| e.target_instrument_id == CPEUM)
+                .count(),
+            3,
+            "{edges:?}"
+        );
+    }
+
+    #[test]
+    fn a_longer_title_does_not_match_a_shorter_configured_alias() {
+        // L5: "Ley del Seguro Socialista" contains "ley del seguro social".
+        let known = ["urn:lex-mx:federal:statute:lss:article:3"];
+        let external = [("ley del seguro social", LSS)];
+        let edges = closure_references(
+            "Artículo 5.- Conforme al artículo 3 de la Ley del Seguro Socialista.",
+            "urn:lex-mx:federal:statute:fix",
+            &["de esta ley"],
+            &external,
+            &known,
+        );
+        assert!(
+            edges.iter().all(|e| e.target_instrument_id != LSS),
+            "{edges:?}"
+        );
+        let edges = closure_references(
+            "Artículo 5.- Conforme al artículo 3 de la Ley del Seguro Social.",
+            "urn:lex-mx:federal:statute:fix",
+            &["de esta ley"],
+            &external,
+            &known,
+        );
+        assert!(edges.iter().any(|e| e.target_instrument_id == LSS));
+    }
+
+    #[test]
+    fn parenthesized_inciso_after_a_fraction_keeps_both_scopes() {
+        // L7: "la fracción II, inciso a) del artículo 1 de esta Ley".
+        let known = ["urn:lex-mx:federal:statute:fix:article:1"];
+        let edges = closure_references(
+            "Artículo 5.- Conforme a la fracción II, inciso a) del artículo 1 de esta Ley.",
+            "urn:lex-mx:federal:statute:fix",
+            &["de esta ley"],
+            &[],
+            &known,
+        );
+        let edge = edges
+            .iter()
+            .find(|e| e.target_provision_id == known[0])
+            .unwrap();
+        let texts: Vec<_> = edge.qualifiers.iter().map(|q| q.text.as_str()).collect();
+        assert_eq!(texts, ["fracción II", "inciso a)"], "{edge:?}");
     }
 
     #[test]

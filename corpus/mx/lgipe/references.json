@@ -128,7 +128,14 @@
     "end_char": 1514,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
     "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:138",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 6",
+        "start_char": 1595,
+        "end_char": 1604
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -525,22 +532,13 @@
     "end_char": 141,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
     "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:191",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipe:article:197:reference:150-151:1:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgipe:article:197",
-    "source_span": "1",
-    "start_char": 150,
-    "end_char": 151,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:1",
     "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 1",
+        "start_char": 142,
+        "end_char": 151
+      },
       {
         "qualifier_type": "subsection",
         "text": "inciso e",
@@ -652,37 +650,14 @@
     "end_char": 748,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
     "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:11",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipe:article:239:reference:759-760:2:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgipe:article:239",
-    "source_span": "2",
-    "start_char": 759,
-    "end_char": 760,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:2",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipe:article:239:reference:763-764:3:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgipe:article:239",
-    "source_span": "3",
-    "start_char": 763,
-    "end_char": 764,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:3",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafos 2 y 3",
+        "start_char": 750,
+        "end_char": 764
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -832,22 +807,13 @@
     "end_char": 1737,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
     "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:261",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipe:article:259:reference:1747-1748:1:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgipe:article:259",
-    "source_span": "1",
-    "start_char": 1747,
-    "end_char": 1748,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:1",
     "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 1",
+        "start_char": 1739,
+        "end_char": 1748
+      },
       {
         "qualifier_type": "subsection",
         "text": "inciso b",
@@ -869,7 +835,14 @@
     "end_char": 66,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
     "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:262",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b)",
+        "start_char": 35,
+        "end_char": 44
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1625,22 +1598,14 @@
     "end_char": 48,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
     "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:368",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipe:article:373:reference:58-59:5:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgipe:article:373",
-    "source_span": "5",
-    "start_char": 58,
-    "end_char": 59,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:5",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 5",
+        "start_char": 50,
+        "end_char": 59
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1970,22 +1935,13 @@
     "end_char": 11665,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
     "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:452",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipe:article:456:reference:11675-11676:1:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgipe:article:456",
-    "source_span": "1",
-    "start_char": 11675,
-    "end_char": 11676,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:1",
     "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 1",
+        "start_char": 11667,
+        "end_char": 11676
+      },
       {
         "qualifier_type": "subsection",
         "text": "incisos a",
@@ -2366,22 +2322,13 @@
     "end_char": 182,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
     "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:44",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipe:article:65:reference:192-193:1:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgipe:article:65",
-    "source_span": "1",
-    "start_char": 192,
-    "end_char": 193,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:1",
     "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 1",
+        "start_char": 184,
+        "end_char": 193
+      },
       {
         "qualifier_type": "subsection",
         "text": "inciso f",
@@ -2523,22 +2470,13 @@
     "end_char": 186,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
     "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:44",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipe:article:76:reference:196-197:1:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgipe:article:76",
-    "source_span": "1",
-    "start_char": 196,
-    "end_char": 197,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:1",
     "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 1",
+        "start_char": 188,
+        "end_char": 197
+      },
       {
         "qualifier_type": "subsection",
         "text": "inciso f",

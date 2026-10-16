@@ -210,7 +210,14 @@
     "end_char": 722,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsmime",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsmime:article:9",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 1",
+        "start_char": 805,
+        "end_char": 814
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -285,7 +292,14 @@
     "end_char": 132,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsmime",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsmime:article:17",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 1",
+        "start_char": 198,
+        "end_char": 207
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -375,7 +389,14 @@
     "end_char": 555,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsmime",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsmime:article:9",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 1",
+        "start_char": 634,
+        "end_char": 643
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1154,7 +1175,14 @@
     "end_char": 373,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsmime",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsmime:article:18",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 1",
+        "start_char": 490,
+        "end_char": 499
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1251,22 +1279,13 @@
     "end_char": 1001,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsmime",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsmime:article:56",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsmime:transitory:segundo:reference:1011-1012:1:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgsmime:transitory:segundo",
-    "source_span": "1",
-    "start_char": 1011,
-    "end_char": 1012,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgsmime",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgsmime:article:1",
     "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 1",
+        "start_char": 1003,
+        "end_char": 1012
+      },
       {
         "qualifier_type": "subsection",
         "text": "incisos a",

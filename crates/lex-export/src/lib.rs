@@ -9,6 +9,9 @@ use lex_core::{
 /// Presentation location of a link target, possibly in another instrument.
 #[derive(Debug, Clone)]
 pub struct LinkTarget {
+    /// Canonical instrument identity: decides local versus cross-instrument
+    /// Markdown paths. The display short name never does.
+    pub instrument_id: String,
     pub instrument_short_name: String,
     /// Corpus directory slug used for standard-Markdown relative paths.
     pub instrument_slug: String,
@@ -17,6 +20,10 @@ pub struct LinkTarget {
     /// provision has, each carrying a `^f-<numeral>` block anchor in its
     /// generated note.
     pub fractions: std::collections::HashSet<String>,
+    /// Every block anchor actually emitted in the target's generated note
+    /// (`f-ii`, `t-cuenta`), without the `^`. A repeated fraction numeral
+    /// emits no anchor, so a link can never name an ambiguous or absent one.
+    pub anchors: std::collections::HashSet<String>,
 }
 
 /// Canonical provision ID to presentation location, across every loaded
@@ -29,8 +36,9 @@ pub type LinkTargets = HashMap<String, LinkTarget>;
 pub struct TermTarget {
     pub note: LinkTarget,
     /// Block anchor without the `#^` prefix: `f-ii` for a fraction-style
-    /// definition, `t-<slug>` for a colon-style one.
-    pub anchor: String,
+    /// definition, `t-<slug>` for a colon-style one. `None` when the note
+    /// emits no such unique anchor, so the link targets the whole note.
+    pub anchor: Option<String>,
 }
 
 /// Defined-term ID to definition location, across every loaded instrument.
@@ -45,26 +53,26 @@ pub type TermTargets = HashMap<String, TermTarget>;
 /// regular expression.
 #[must_use]
 pub fn link_targets(corpora: &[(&Corpus, &str)]) -> LinkTargets {
-    let fraction_re = regex::Regex::new(r"^([IVXLCDM]+)\.\s").expect("static regex");
     let mut targets = LinkTargets::new();
     for (corpus, slug) in corpora {
         for provision in &corpus.provisions {
-            let fractions = provision
-                .text
-                .split("\n\n")
-                .filter_map(|paragraph| {
-                    fraction_re
-                        .captures(paragraph)
-                        .map(|captures| captures[1].to_lowercase())
-                })
+            let anchors: std::collections::HashSet<String> = paragraph_anchors(corpus, provision)
+                .into_iter()
+                .flatten()
+                .collect();
+            let fractions = anchors
+                .iter()
+                .filter_map(|anchor| anchor.strip_prefix("f-").map(str::to_owned))
                 .collect();
             targets.insert(
                 provision.id.clone(),
                 LinkTarget {
+                    instrument_id: corpus.instrument.id.clone(),
                     instrument_short_name: corpus.instrument.short_name.clone(),
                     instrument_slug: (*slug).to_owned(),
                     filename: markdown_filename(provision),
                     fractions,
+                    anchors,
                 },
             );
         }
@@ -85,7 +93,7 @@ pub fn term_targets(corpora: &[(&Corpus, &str)], targets: &LinkTargets) -> TermT
                 term.id.clone(),
                 TermTarget {
                     note: note.clone(),
-                    anchor: term_anchor(term),
+                    anchor: Some(term_anchor(term)).filter(|anchor| note.anchors.contains(anchor)),
                 },
             );
         }
@@ -516,6 +524,29 @@ fn obsidian_markdown(
 /// body has identical paragraph structure because link injection never
 /// crosses paragraph boundaries.
 fn with_block_anchors(corpus: &Corpus, provision: &Provision, body: &str) -> String {
+    let anchors = paragraph_anchors(corpus, provision);
+    let rendered: Vec<&str> = body.split("\n\n").collect();
+    if rendered.len() != anchors.len() {
+        return body.to_owned();
+    }
+    rendered
+        .iter()
+        .zip(anchors)
+        .map(|(paragraph, anchor)| match anchor {
+            Some(anchor) => format!("{paragraph} ^{anchor}"),
+            None => (*paragraph).to_owned(),
+        })
+        .collect::<Vec<_>>()
+        .join("\n\n")
+}
+
+/// The one registry of block anchors a provision's note actually emits, per
+/// canonical paragraph: `f-<roman>` on fraction paragraphs and `t-<slug>` on
+/// definition entries that start a paragraph. An anchor that more than one
+/// paragraph would carry (a fraction numeral repeated under different
+/// apartados) is not emitted at all, because a link to it could not identify
+/// one target. Links consult this registry and fall back to the whole note.
+fn paragraph_anchors(corpus: &Corpus, provision: &Provision) -> Vec<Option<String>> {
     let fraction_re = regex::Regex::new(r"^([IVXLCDM]+)\.\s").expect("static regex");
     let mut anchors_by_offset: HashMap<usize, String> = HashMap::new();
     for term in &corpus.terms {
@@ -535,20 +566,14 @@ fn with_block_anchors(corpus: &Corpus, provision: &Provision, body: &str) -> Str
         anchors.push(anchor);
         offset += paragraph.chars().count() + 2;
     }
-
-    let rendered: Vec<&str> = body.split("\n\n").collect();
-    if rendered.len() != anchors.len() {
-        return body.to_owned();
+    let mut counts: HashMap<String, usize> = HashMap::new();
+    for anchor in anchors.iter().flatten() {
+        *counts.entry(anchor.clone()).or_default() += 1;
     }
-    rendered
-        .iter()
-        .zip(anchors)
-        .map(|(paragraph, anchor)| match anchor {
-            Some(anchor) => format!("{paragraph} ^{anchor}"),
-            None => (*paragraph).to_owned(),
-        })
-        .collect::<Vec<_>>()
-        .join("\n\n")
+    anchors
+        .into_iter()
+        .map(|anchor| anchor.filter(|anchor| counts.get(anchor) == Some(&1)))
+        .collect()
 }
 
 /// Build the reference-edge injections for one provision (or the
@@ -685,7 +710,7 @@ fn linked_string(
             end_char: usage.end_char,
             expected_span: &usage.span,
             target: &term_target.note,
-            anchor: Some(term_target.anchor.clone()),
+            anchor: term_target.anchor.clone(),
         });
     }
     injections.sort_by_key(|injection| (injection.start_char, injection.end_char));
@@ -719,7 +744,7 @@ fn linked_string(
                 "[[Corpus/{}/{stem}{anchor}|{displayed}]]",
                 target.instrument_short_name
             );
-        } else if target.instrument_short_name == corpus.instrument.short_name {
+        } else if target.instrument_id == corpus.instrument.id {
             let _ = write!(output, "[{displayed}]({stem}.md)");
         } else {
             let _ = write!(
@@ -1386,6 +1411,145 @@ mod tests {
             formal_extracted_text_sha256: None,
         }
     }
+    fn corpus_of(
+        instrument: Instrument,
+        provisions: Vec<Provision>,
+        references: Vec<ReferenceEdge>,
+    ) -> Corpus {
+        Corpus {
+            enactment_evidence: Vec::new(),
+            instrument,
+            provisions,
+            references,
+            terms: Vec::new(),
+            term_usages: Vec::new(),
+            amendment_references: Vec::new(),
+        }
+    }
+
+    #[test]
+    fn repeated_fraction_numerals_emit_no_anchor_and_links_fall_back_to_the_article() {
+        // L2: CPEUM article 20 repeats fraction I under several apartados.
+        let mut target = sample_article("20");
+        target.text = "Apartado A\n\nI. Primero.\n\nII. Segundo.\n\nApartado B\n\nI. Otro primero."
+            .to_owned();
+        let mut source = sample_article("5");
+        source.text = "Conforme a la fracción I del artículo 20, Apartado B.".to_owned();
+        let mut reference = sample_reference(
+            "20",
+            38,
+            vec![ReferenceQualifier {
+                qualifier_type: lex_core::ReferenceQualifierType::Fraction,
+                text: "fracción I".to_owned(),
+                start_char: Some(14),
+                end_char: Some(24),
+            }],
+        );
+        reference.source_provision_id = source.id.clone();
+        reference.source_span = "20".to_owned();
+        reference.start_char = 38;
+        reference.end_char = 40;
+        let corpus = corpus_of(
+            sample_instrument(),
+            vec![target.clone(), source.clone()],
+            vec![reference],
+        );
+        let targets = link_targets(&[(&corpus, "lritf")]);
+        let anchors = &targets[&target.id].anchors;
+        assert!(anchors.contains("f-ii"));
+        assert!(!anchors.contains("f-i"), "{anchors:?}");
+        let temp = tempdir().unwrap();
+        write_obsidian(
+            &corpus,
+            &targets,
+            &term_targets(&[(&corpus, "lritf")], &targets),
+            &[],
+            temp.path(),
+        )
+        .unwrap();
+        let note = fs::read_to_string(temp.path().join("Corpus/LRITF/articulo-20.md")).unwrap();
+        assert!(
+            note.contains("^f-ii") && !note.contains("^f-i\n") && !note.contains("^f-i "),
+            "{note}"
+        );
+        let from = fs::read_to_string(temp.path().join("Corpus/LRITF/articulo-5.md")).unwrap();
+        assert!(from.contains("[[Corpus/LRITF/articulo-20|20]]"), "{from}");
+        assert!(!from.contains("#^f-i|"), "{from}");
+    }
+
+    #[test]
+    fn a_definition_link_names_only_an_anchor_the_note_emits() {
+        // L3: LFCSQ article 2 defines terms inline, with no paragraph anchor.
+        let mut glossary = sample_article("2");
+        glossary.text = "Para efectos de esta Ley:\n\nXII. Desvío: el mal uso.\n\nXXVI. Polígono: el área, inline Z. XXVII. Otra: cosa.".to_owned();
+        let term = |fraction: &str, name: &str, start: usize, end: usize| lex_core::DefinedTerm {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: format!("{LRITF_INSTRUMENT_ID}:term:{name}"),
+            term: name.to_owned(),
+            instrument_id: LRITF_INSTRUMENT_ID.to_owned(),
+            defining_provision_id: glossary.id.clone(),
+            fraction: Some(fraction.to_owned()),
+            start_char: start,
+            end_char: end,
+            basis: Basis::ExpressCrossReference,
+        };
+        let mut corpus = corpus_of(sample_instrument(), vec![glossary.clone()], Vec::new());
+        corpus.terms = vec![
+            term("XII", "desvio", 27, 52),
+            term("XXVII", "otra", 90, 110),
+        ];
+        let targets = link_targets(&[(&corpus, "lritf")]);
+        let terms = term_targets(&[(&corpus, "lritf")], &targets);
+        assert_eq!(
+            terms[&corpus.terms[0].id].anchor.as_deref(),
+            Some("f-xii"),
+            "a paragraph-leading fraction keeps its anchor"
+        );
+        assert_eq!(
+            terms[&corpus.terms[1].id].anchor, None,
+            "an inline fraction has no emitted anchor, so the link targets the note"
+        );
+    }
+
+    #[test]
+    fn local_versus_cross_instrument_paths_follow_instrument_identity_not_short_name() {
+        // L6: two different instruments sharing a display acronym.
+        let mut other = sample_instrument();
+        other.id = "urn:lex-mx:federal:statute:other".to_owned();
+        let mut other_article = sample_article("20");
+        other_article.id = format!("{}:article:20", other.id);
+        other_article.instrument_id = other.id.clone();
+        let mut source = sample_article("5");
+        source.text = "Conforme al artículo 20.".to_owned();
+        let mut reference = sample_reference("20", 20, Vec::new());
+        reference.source_provision_id = source.id.clone();
+        reference.target_instrument_id = other.id.clone();
+        reference.target_provision_id = other_article.id.clone();
+        reference.source_span = "20".to_owned();
+        reference.start_char = 21;
+        reference.end_char = 23;
+        let local = corpus_of(
+            sample_instrument(),
+            vec![source.clone(), sample_article("20")],
+            vec![reference],
+        );
+        let remote = corpus_of(other, vec![other_article], Vec::new());
+        let targets = link_targets(&[(&local, "lritf"), (&remote, "other")]);
+        let temp = tempdir().unwrap();
+        write_markdown(
+            &local,
+            &targets,
+            &term_targets(&[(&local, "lritf")], &targets),
+            temp.path(),
+        )
+        .unwrap();
+        let note = fs::read_to_string(temp.path().join("articulo-5.md")).unwrap();
+        assert!(
+            note.contains("[20](../../other/markdown/articulo-20.md)"),
+            "{note}"
+        );
+    }
+
     #[test]
     fn military_slash_heading_exports_as_one_file_and_keeps_display_label() {
         let temp = tempdir().unwrap();

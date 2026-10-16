@@ -44,6 +44,12 @@
     "target_provision_id": "urn:lex-mx:federal:statute:lgvs:article:73",
     "qualifiers": [
       {
+        "qualifier_type": "fraction",
+        "text": "fracción XXIX",
+        "start_char": 115,
+        "end_char": 128
+      },
+      {
         "qualifier_type": "subsection",
         "text": "inciso G",
         "start_char": 130,

@@ -1014,7 +1014,14 @@
     "end_char": 17098,
     "target_instrument_id": "urn:lex-mx:federal:statute:lieps",
     "target_provision_id": "urn:lex-mx:federal:statute:lieps:article:20-a",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a)",
+        "start_char": 17071,
+        "end_char": 17080
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

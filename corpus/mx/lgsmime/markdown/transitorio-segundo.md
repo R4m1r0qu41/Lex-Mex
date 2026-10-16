@@ -25,7 +25,7 @@ a) Las impugnaciones de la elección del Jefe de Gobierno del Distrito Federal, 
 
 2. Los juicios de inconformidad serán resueltos en forma definitiva e inatacable, en única instancia, por la Sala Superior del Tribunal Electoral; y
 
-3. Las resoluciones que dicte la Sala Superior podrán tener los efectos señalados en el artículo [56](articulo-56.md), párrafo [1](articulo-1.md), incisos a), c), d), e) y g), de esta ley, ajustándose en lo conducente a la elección de Jefe de Gobierno del Distrito Federal.
+3. Las resoluciones que dicte la Sala Superior podrán tener los efectos señalados en el artículo [56](articulo-56.md), párrafo 1, incisos a), c), d), e) y g), de esta ley, ajustándose en lo conducente a la elección de Jefe de Gobierno del Distrito Federal.
 
 b) Las impugnaciones de las elecciones de diputados a la Asamblea Legislativa del Distrito Federal, se sujetarán a las mismas reglas y procedimientos establecidos en esta ley para impugnar la elección de diputados federales; y
 

@@ -17,7 +17,7 @@ source_sha256: 8d6253c7ac28c654543484bac172ca12bbda8db41564b07f27ca5bbea0b4cf80
 
 # Artículo 65
 
-[1. Los consejos locales funcionarán durante el proceso electoral federal y se integrarán con un consejero presidente designado por el Consejo General en los términos del artículo [44](articulo-44.md), párrafo [1](articulo-1.md), inciso f) de esta Ley, quien, en todo tiempo, fungirá a la vez como Vocal Ejecutivo; seis Consejeros Electorales, y representantes de los partidos políticos nacionales. Los vocales de Organización Electoral, del Registro Federal de Electores y de Capacitación Electoral y Educación Cívica de la Junta Local concurrirán a sus sesiones con voz pero sin voto.
+[1. Los consejos locales funcionarán durante el proceso electoral federal y se integrarán con un consejero presidente designado por el Consejo General en los términos del artículo [44](articulo-44.md), párrafo 1, inciso f) de esta Ley, quien, en todo tiempo, fungirá a la vez como Vocal Ejecutivo; seis Consejeros Electorales, y representantes de los partidos políticos nacionales. Los vocales de Organización Electoral, del Registro Federal de Electores y de Capacitación Electoral y Educación Cívica de la Junta Local concurrirán a sus sesiones con voz pero sin voto.
 
 2. El vocal secretario de la Junta, será secretario del consejo local y tendrá voz pero no voto.
 

@@ -3719,7 +3719,20 @@
     "end_char": 552,
     "target_instrument_id": "urn:lex-mx:federal:code:cff",
     "target_provision_id": "urn:lex-mx:federal:code:cff:article:117",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 513,
+        "end_char": 524
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b)",
+        "start_char": 526,
+        "end_char": 535
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -6051,7 +6064,20 @@
     "end_char": 668,
     "target_instrument_id": "urn:lex-mx:federal:code:cff",
     "target_provision_id": "urn:lex-mx:federal:code:cff:article:29",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 624,
+        "end_char": 635
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos b) y c)",
+        "start_char": 637,
+        "end_char": 652
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

@@ -32,3 +32,7 @@ No source/corpus/held-review changes, staging, commit, push or Claude invocation
 
 Exactly one next action: Claude independently reproduce the three actual cases
 and prepare bounded corrective patches using the handoff's acceptance checks.
+
+## Resolution (Claude, 2026-10-16)
+
+L1–L7 were reproduced and fixed with regression tests in `lex-parse` and `lex-export`; see the 2026-10-16 decision entry "Linker and exporter audit fixes (L1–L7); accepted gaps". Gate: fmt, clippy, workspace tests (lex-parse 214, lex-export 13) green; `link --all` relinked 26 graphs (17 false edges removed, 71 qualifier additions, 0 edges added) and rejects the 8 accepted-gap/DCG instruments.

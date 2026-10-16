@@ -3180,7 +3180,20 @@
     "end_char": 1836,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgoaac",
     "target_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:87-d",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 1797,
+        "end_char": 1807
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso s)",
+        "start_char": 1809,
+        "end_char": 1818
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3537,6 +3550,12 @@
     "target_instrument_id": "urn:lex-mx:federal:statute:lgoaac",
     "target_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:87-d",
     "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos l) y n)",
+        "start_char": 1549,
+        "end_char": 1564
+      },
       {
         "qualifier_type": "fraction",
         "text": "fracciones I",

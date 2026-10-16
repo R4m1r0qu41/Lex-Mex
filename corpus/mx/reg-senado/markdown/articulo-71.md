@@ -17,7 +17,7 @@ source_sha256: 97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2
 
 # Artículo 71
 
-1. En la formulación del Orden del Día tienen prioridad los asuntos que debe conocer, discutir o votar el Pleno conforme a plazos previstos en disposiciones constitucionales, legales o reglamentarias; aquellos que representen un mayor interés público; y las iniciativas con aval de grupo, a que se refiere el artículo [164](articulo-164.md), párrafo [3](articulo-3.md), de este Reglamento.
+1. En la formulación del Orden del Día tienen prioridad los asuntos que debe conocer, discutir o votar el Pleno conforme a plazos previstos en disposiciones constitucionales, legales o reglamentarias; aquellos que representen un mayor interés público; y las iniciativas con aval de grupo, a que se refiere el artículo [164](articulo-164.md), párrafo 3, de este Reglamento.
 
 2. Cuando la Mesa recibe un asunto que debe ser incorporado en el Orden del Día, programa su inclusión en un plazo no mayor a diez días naturales.
 

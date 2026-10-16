@@ -979,7 +979,14 @@
     "end_char": 526,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmtr",
     "target_provision_id": "urn:lex-mx:federal:statute:lmtr:article:282",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso D)",
+        "start_char": 500,
+        "end_char": 509
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1060,7 +1067,14 @@
     "end_char": 4786,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmtr",
     "target_provision_id": "urn:lex-mx:federal:statute:lmtr:article:282",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso F)",
+        "start_char": 4760,
+        "end_char": 4769
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

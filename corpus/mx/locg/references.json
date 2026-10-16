@@ -501,7 +501,14 @@
     "end_char": 1118,
     "target_instrument_id": "urn:lex-mx:federal:statute:locg",
     "target_provision_id": "urn:lex-mx:federal:statute:locg:article:40",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafo 2",
+        "start_char": 1160,
+        "end_char": 1169
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

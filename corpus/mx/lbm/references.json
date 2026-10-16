@@ -809,7 +809,14 @@
     "end_char": 744,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmeum",
     "target_provision_id": "urn:lex-mx:federal:statute:lmeum:article:2",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso c)",
+        "start_char": 720,
+        "end_char": 729
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

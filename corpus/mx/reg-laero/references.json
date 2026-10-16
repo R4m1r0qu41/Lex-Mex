@@ -756,7 +756,14 @@
     "end_char": 353,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:9",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso c)",
+        "start_char": 329,
+        "end_char": 338
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

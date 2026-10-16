@@ -1736,7 +1736,20 @@
     "end_char": 231,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
     "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:98",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 192,
+        "end_char": 204
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b)",
+        "start_char": 206,
+        "end_char": 215
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4409,7 +4422,20 @@
     "end_char": 6618,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cue-dcg-2003",
     "target_provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:37",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 6580,
+        "end_char": 6591
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a)",
+        "start_char": 6593,
+        "end_char": 6602
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

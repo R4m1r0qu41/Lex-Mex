@@ -1283,7 +1283,14 @@
     "end_char": 261,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcf",
     "target_provision_id": "urn:lex-mx:federal:statute:lcf:article:36",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso a)",
+        "start_char": 236,
+        "end_char": 245
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1298,7 +1305,14 @@
     "end_char": 636,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcf",
     "target_provision_id": "urn:lex-mx:federal:statute:lcf:article:36",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b)",
+        "start_char": 611,
+        "end_char": 620
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

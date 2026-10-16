@@ -1739,7 +1739,20 @@
     "end_char": 1413,
     "target_instrument_id": "urn:lex-mx:federal:statute:lic",
     "target_provision_id": "urn:lex-mx:federal:statute:lic:article:106",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones III, IV, X, XVI, XVII y XIX",
+        "start_char": 1325,
+        "end_char": 1363
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos b), c), d), e), f) y h)",
+        "start_char": 1365,
+        "end_char": 1396
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4360,7 +4373,20 @@
     "end_char": 2420,
     "target_instrument_id": "urn:lex-mx:federal:statute:lic",
     "target_provision_id": "urn:lex-mx:federal:statute:lic:article:122",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 2380,
+        "end_char": 2392
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso e)",
+        "start_char": 2394,
+        "end_char": 2403
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

@@ -401,7 +401,20 @@
     "end_char": 320,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:96",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 282,
+        "end_char": 293
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b)",
+        "start_char": 295,
+        "end_char": 304
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

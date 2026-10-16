@@ -17,7 +17,7 @@ source_sha256: 8d6253c7ac28c654543484bac172ca12bbda8db41564b07f27ca5bbea0b4cf80
 
 # Artículo 197
 
-[1. El titular de la Unidad Técnica de Fiscalización será designado por el Consejo General, de conformidad con lo previsto en el artículo [191](articulo-191.md) párrafo [1](articulo-1.md) inciso e), deberá reunir los mismos requisitos que la Ley General establezca para los directores ejecutivos del Instituto. Asimismo, deberá comprobar una experiencia mínima de nivel directivo de cinco años en materia de fiscalización.]
+[1. El titular de la Unidad Técnica de Fiscalización será designado por el Consejo General, de conformidad con lo previsto en el artículo [191](articulo-191.md) párrafo 1 inciso e), deberá reunir los mismos requisitos que la Ley General establezca para los directores ejecutivos del Instituto. Asimismo, deberá comprobar una experiencia mínima de nivel directivo de cinco años en materia de fiscalización.]
 
 Artículo reformado DOF 02-03-2023
 
