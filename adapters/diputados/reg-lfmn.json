@@ -18,5 +18,21 @@
     "provenance": "audited",
     "parser_version": "0.1.0",
     "proposed_at": "2026-10-09T04:22:58.736910+00:00"
+  },
+  "source_repeal_notice": {
+    "source_note": "se abroga al Reglamento de la Ley Federal sobre Metrología y Normalización, publicado en el Diario Oficial de la Federación el 14 de enero de 1999, y sus reformas",
+    "source_sha256": "3acf06eaf8b838cdfa68553efe0f007fcc3e9eee10b0ed42d693c99b0ae59bf3",
+    "formal_publication_url": "https://dof.gob.mx/nota_detalle.php?codigo=5797937&fecha=04/09/2026",
+    "formal_source_sha256": "ac60a35707dfc34fd71d48ba5807748afb4885958e4eaffcae21da0f8f9995d4",
+    "successor_instrument_id": "urn:lex-mx:federal:regulation:reg-lic-calidad",
+    "successor_clause": {
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:transitory:segundo",
+      "provision_text_sha256": "22fdaccffa218443b44b70a3728007dfba60074c714672dd9bda233b8ab8dc1d"
+    },
+    "reviewer": "Operator",
+    "captured_at": "2026-10-16T05:47:28.767766Z",
+    "rationale": "Operator instruction 2026-10-16: abrogate reg-lfmn. Abrogated by Transitory Segundo of the Reglamento de la Ley de Infraestructura de la Calidad (DOF 04/09/2026). Retained text kept as historical; no effect date or provision-level state inferred.",
+    "decision_source": "docs/federal-reg-lfmn-abrogation-decision-2026-10-16.md",
+    "decision_source_sha256": "debbca4cb918dbfbc8e87d2390615e8c6fb921bcaa1626ddc46f21bca77e47fa"
   }
 }
