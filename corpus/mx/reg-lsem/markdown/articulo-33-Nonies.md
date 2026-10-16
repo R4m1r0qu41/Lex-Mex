@@ -25,6 +25,6 @@ Asimismo, el Miembro del Servicio Exterior deberá reanudar labores, para lo cua
 
 Artículo adicionado DOF 02-11-2018
 
-ARTÍCULO [33](articulo-33.md) Decies.- El personal comisionado, de acuerdo con el artículo 18 de la Ley, podrá presentarse a los concursos de ascenso, siempre y cuando cumpla con los requisitos que para tal efecto señalan la Ley y el Reglamento.
+ARTÍCULO 33 Decies.- El personal comisionado, de acuerdo con el artículo 18 de la Ley, podrá presentarse a los concursos de ascenso, siempre y cuando cumpla con los requisitos que para tal efecto señalan la Ley y el Reglamento.
 
 Artículo adicionado DOF 02-11-2018

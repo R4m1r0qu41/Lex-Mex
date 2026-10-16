@@ -21,4 +21,4 @@ El ejercicio de las funciones y la administración del Banco de México estarán
 
 La Junta de Gobierno estará integrada por cinco miembros, designados conforme a lo previsto en el párrafo séptimo del artículo 28 constitucional. De entre éstos, el Ejecutivo Federal nombrará al Gobernador del Banco, quien presidirá a la Junta de Gobierno; los demás miembros se denominarán Subgobernadores.
 
-Podrán ser sujetos de juicio político conforme a lo establecido en los artículos 108 y 110 de la Constitución Política de los Estados Unidos Mexicanos, los servidores públicos que incumplan con las disposiciones contenidas en esta Ley. Párrafo adicionado DOF 25-05-2010
+Podrán ser sujetos de juicio político conforme a lo establecido en los artículos [108](../../cpeum/markdown/articulo-108.md) y [110](../../cpeum/markdown/articulo-110.md) de la Constitución Política de los Estados Unidos Mexicanos, los servidores públicos que incumplan con las disposiciones contenidas en esta Ley. Párrafo adicionado DOF 25-05-2010

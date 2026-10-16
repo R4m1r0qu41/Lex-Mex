@@ -21,6 +21,6 @@ Para el funcionamiento de los [Centros de Justicia para las Mujeres](articulo-5.
 
 Artículo adicionado DOF 08-05-2023
 
-ARTÍCULO [59](articulo-59.md) Decies.- Para la creación de los Centros de Justicia para las Mujeres, se deberán priorizar los municipios con mayor índice de violencia contra las mujeres.
+ARTÍCULO 59 Decies.- Para la creación de los Centros de Justicia para las Mujeres, se deberán priorizar los municipios con mayor índice de violencia contra las mujeres.
 
 Artículo adicionado DOF 08-05-2023

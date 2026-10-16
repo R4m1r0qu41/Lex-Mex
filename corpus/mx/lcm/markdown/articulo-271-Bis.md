@@ -21,6 +21,6 @@ Cuando el [Comerciante](articulo-4o.md) haya sido declarado, por sentencia firme
 
 La pena a que se refiere este artículo será de uno a tres años de prisión cuando se acredite haber reparado el daño y resarcido el perjuicio ocasionado al Comerciante.
 
-No se procederá penalmente por el delito previsto en este artículo, cuando las personas actúen en términos de lo establecido por el artículo [270 Bis](articulo-270-Bis.md)-[2](articulo-2o.md) de esta Ley, así como en cumplimiento de las leyes que regulen los actos o conductas a que se refiere el primer párrafo de este artículo.
+No se procederá penalmente por el delito previsto en este artículo, cuando las personas actúen en términos de lo establecido por el artículo [270 Bis-2](articulo-270-Bis-2.md) de esta Ley, así como en cumplimiento de las leyes que regulen los actos o conductas a que se refiere el primer párrafo de este artículo.
 
 Artículo adicionado DOF 10-01-2014

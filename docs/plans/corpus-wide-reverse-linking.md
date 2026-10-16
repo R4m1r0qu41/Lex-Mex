@@ -36,8 +36,8 @@ Local `main` at `25732f3ef` (`chore: remove misplaced nota-viabilidad comites ba
 | Relinked and validated | 304 |
 | Unchanged | 150 |
 | Held at previous graph | 21 (see below) |
-| References | 27,429 → 30,413 |
-| Resolved cross-instrument edges | 4,137 |
+| References | 27,429 → 30,407 |
+| Resolved cross-instrument edges | 4,155 |
 | Retargeted edges (all reviewed) | 44 |
 | Removed internal edges (all reviewed) | 54 (13 re-spanned to the full suffix, 41 false links to another named law) |
 | Removed cross-instrument edges | 0 |
@@ -91,3 +91,13 @@ The worktree corpus now has 2,996 additional reference edges and 4,147 resolved 
 ## Recovery
 
 The closure computes every new graph before writing. A failure while extracting links leaves the corpus unchanged. A failure while writing leaves the instruments printed as `relinked` updated and the rest unchanged; rerun `link --all` after fixing the reported error. Do not delete corpus directories to retry.
+
+## Follow-up 2026-10-16: suffix-citation fixes (operator review of held list)
+
+Operator review of the held instruments found three citation-parser defects, fixed in `lex-parse` with one regression test each and relinked (8 instruments, 19 remain held; `link --all` now rejects 19):
+
+- **Suffix word boundary:** `136 tercer párrafo` was read as `136 Ter` (`lbm`, released from hold).
+- **Hyphenated suffix numbers:** `5 Bis-1` lost its number (`lgoaac`, released; false edges removed in `ccom` and `lcm`).
+- **`decies` family headings:** running-text headings such as `Artículo 78 Terdecies.` linked to `78 Ter` or the parent article (`lac`, `lgamvlv`, `lgmdfp`, `reg-lsem`); those false edges are removed.
+
+Every added, removed and retargeted edge in the 8 relinked graphs was read against its provision text. Still held and awaiting decisions or other fixes: see `docs/held-instruments-review-2026-10-16.md`.

@@ -15,4 +15,4 @@ source_sha256: 14b84c537ed334d20f50824a46a9ce7fbbe826058b139daf112ab4087f566f71
 
 # DECIMO SEXTO
 
-Los depósitos a que se refiere el artículo 132 de la Ley General de Títulos y Operaciones de Crédito deberán constituirse en Nacional Financiera, S.N.C. Aquéllos recibidos por el Banco de México con anterioridad al inicio de vigencia de esta Ley serán conservados y entregados por éste de conformidad con las disposiciones aplicables.
+Los depósitos a que se refiere el artículo [132](../../lgtoc/markdown/articulo-132.md) de la Ley General de Títulos y Operaciones de Crédito deberán constituirse en Nacional Financiera, S.N.C. Aquéllos recibidos por el Banco de México con anterioridad al inicio de vigencia de esta Ley serán conservados y entregados por éste de conformidad con las disposiciones aplicables.

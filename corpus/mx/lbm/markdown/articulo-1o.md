@@ -17,4 +17,4 @@ source_sha256: 14b84c537ed334d20f50824a46a9ce7fbbe826058b139daf112ab4087f566f71
 
 # Artículo 1o
 
-El banco central será persona de derecho público con carácter autónomo y se denominará Banco de México. En el ejercicio de sus funciones y en su administración se regirá por las disposiciones de esta Ley, reglamentaria de los párrafos sexto y séptimo del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos.
+El banco central será persona de derecho público con carácter autónomo y se denominará Banco de México. En el ejercicio de sus funciones y en su administración se regirá por las disposiciones de esta Ley, reglamentaria de los párrafos sexto y séptimo del artículo [28](../../cpeum/markdown/articulo-28.md) de la Constitución Política de los Estados Unidos Mexicanos.

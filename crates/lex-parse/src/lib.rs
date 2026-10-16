@@ -188,8 +188,10 @@ impl ReferencePatterns {
                 // not swallow the `B` of `-Bis`; a letter may still carry
                 // a following space-separated qualifier (`15-B Bis`); and a
                 // qualifier may carry a compound trailing number
-                // (`95 Bis 3`, `168 Bis 10`).
-                r"(?i)(?:\d{1,3}(?:,\d{3})+|\d{1,4})(?:-(?:Bis|Ter|Qu(?:[áa]ter|inquies|intus)|Sexies|Septies|Octies|Nonies)(?:\s+\d{1,3})?|(?:-[A-Z])?(?:\s+(?:Bis|Ter|Qu(?:[áa]ter|inquies|intus)|Sexies|Septies|Octies|Nonies)(?:\s+\d{1,3})?)?)",
+                // (`95 Bis 3`, `168 Bis 10`, hyphenated `5 Bis-1`). The
+                // qualifier must end at a word boundary so `136 tercer
+                // párrafo` is not read as `136 Ter`.
+                r"(?i)(?:\d{1,3}(?:,\d{3})+|\d{1,4})(?:-(?:Bis|Ter|Qu(?:[áa]ter|inquies|intus)|Sexies|Septies|Octies|Nonies|Decies|Undecies|Duodecies|Terdecies|Quaterdecies|Quinquiesdecies|Sexiesdecies|Septiesdecies|Octiesdecies|Noviesdecies|Vicies)\b(?:[\s-]\d{1,3})?|(?:-[A-Z])?(?:\s+(?:Bis|Ter|Qu(?:[áa]ter|inquies|intus)|Sexies|Septies|Octies|Nonies|Decies|Undecies|Duodecies|Terdecies|Quaterdecies|Quinquiesdecies|Sexiesdecies|Septiesdecies|Octiesdecies|Noviesdecies|Vicies)\b(?:[\s-]\d{1,3})?)?)",
             )?,
             separator: Regex::new(
                 r"(?ix)^(?:
@@ -3707,6 +3709,60 @@ mod tests {
                 .any(|edge| edge.source_provision_id == provisions[1].id
                     && edge.reference_form == ReferenceForm::Relative
                     && edge.target_provision_id == provisions[0].id)
+        );
+    }
+
+    #[test]
+    fn suffix_qualifier_ends_at_a_word_boundary_and_accepts_hyphenated_numbers() {
+        let date = NaiveDate::from_ymd_opt(2018, 3, 9).unwrap();
+        let mut provisions = parse_lritf(RELATIVE_FIXTURE, date).unwrap();
+        // LBM article 64: "...136 tercer párrafo, 137..." is article 136, not 136 Ter.
+        provisions[1].text =
+            "Se aplicarán los artículos 1, 3 tercer párrafo y 4 de esta Ley.".to_owned();
+        let article_three = provisions[2].id.clone();
+        let edges = extract_internal_references(&provisions).unwrap();
+        assert!(
+            edges
+                .iter()
+                .any(|e| e.source_provision_id == provisions[1].id
+                    && e.target_provision_id == article_three
+                    && e.source_span == "3"),
+            "{edges:?}"
+        );
+        // LGOAAC article 5 Bis-2: "artículo 5 Bis-1 de esta Ley" names article 5 Bis 1.
+        let bis = format!("{LRITF_ID}:article:3-bis-1");
+        provisions[2].id = bis.clone();
+        provisions[2].number = "3 Bis 1".to_owned();
+        for text in [
+            "Aplica el artículo 3 Bis-1 de esta Ley.",
+            "Aplica el artículo 3 Bis 1 de esta Ley.",
+        ] {
+            provisions[1].text = text.to_owned();
+            let edges = extract_internal_references(&provisions).unwrap();
+            assert!(
+                edges
+                    .iter()
+                    .any(|e| e.source_provision_id == provisions[1].id
+                        && e.target_provision_id == bis),
+                "{text}: {edges:?}"
+            );
+        }
+    }
+
+    #[test]
+    fn decies_family_suffix_headings_are_not_read_as_a_shorter_suffix() {
+        let date = NaiveDate::from_ymd_opt(2018, 3, 9).unwrap();
+        let mut provisions = parse_lritf(RELATIVE_FIXTURE, date).unwrap();
+        // LAC and LGAMVLV print "Artículo 78 Terdecies." inside a parent article.
+        provisions[1].text =
+            "Artículo adicionado DOF 03-05-2023 Artículo 3 Terdecies. La Agencia dispondrá."
+                .to_owned();
+        let edges = extract_internal_references(&provisions).unwrap();
+        assert!(
+            !edges
+                .iter()
+                .any(|e| e.source_provision_id == provisions[1].id),
+            "{edges:?}"
         );
     }
 

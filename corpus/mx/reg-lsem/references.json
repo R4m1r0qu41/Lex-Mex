@@ -106,21 +106,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsem:article:33-nonies:reference:826-828:33:direct",
-    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:33-nonies",
-    "source_span": "33",
-    "start_char": 826,
-    "end_char": 828,
-    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lsem",
-    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:33",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lsem:article:48:reference:1127-1128:48:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:48",
     "source_span": "X",
