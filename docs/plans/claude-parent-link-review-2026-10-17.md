@@ -31,3 +31,19 @@ report/evidence. Main code, corpus, legal decisions and HEAD are unchanged.
 Exactly one next action: Claude applies bounded repairs R1–R6 and returns the
 regressions, private replay evidence and native gate for independent review.
 No commit or push performed by this review.
+
+## Fix verification complete — 2026-10-17
+
+Baseline: clean `bcaaf24e8`, containing repair `feeabc23e` and committed original
+review. All original R1–R6 reproductions pass; one closely related P2 remains:
+comma/parenthesis before historical wording bypasses parent-law exclusions.
+No stored occurrence claimed. Follow-up report and evidence are
+`docs/claude-fix-verification-2026-10-17.md` and companion JSON.
+
+Native fmt/clippy/304tests/LRITF/IFPE pass. Private REG-LAN
+link/validate/Markdown replay passes with every canonical/Markdown byte unchanged.
+Private R5 rejection preserves all files; explicit override and R6 hash rejection
+behave correctly. No main code, corpus, operator decision, commit or push changed.
+
+Exactly one next action: close the punctuation boundary with narrow regressions
+and return the affected cases/native checks before broader relinking.

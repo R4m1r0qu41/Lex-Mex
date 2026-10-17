@@ -819,15 +819,56 @@ fn bare_word_follows(rest: &str, quoted: bool) -> bool {
         return true;
     };
     if !first.is_whitespace() {
-        return !first.is_alphanumeric();
+        // An attached comma or parenthesis may open a dated or anaphoric
+        // modifier (`Ley, vigente hasta…`); other punctuation ends the phrase.
+        return match rest.strip_prefix([',', '(']) {
+            Some(inner) => !excluded_reading(inner.trim_start()),
+            None => !first.is_alphanumeric(),
+        };
     }
     let rest = rest.trim_start();
     let Some(next) = rest.chars().next() else {
         return true;
     };
+    if next == '(' {
+        return !excluded_reading(rest[1..].trim_start());
+    }
     if !next.is_alphabetic() {
         return true;
     }
+    if excluded_reading(rest) {
+        return false;
+    }
+    let word = rest
+        .split(|c: char| !c.is_alphabetic())
+        .find(|word| !word.is_empty())
+        .unwrap_or_default();
+    // A quoted `“Ley”` is already an explicit shorthand; an unquoted one must
+    // be followed by a plain connective or a recognised bare continuation.
+    quoted
+        || match word {
+            "que" | "en" | "vigente" => true,
+            _ => [
+                "y",
+                "o",
+                "e",
+                "conforme",
+                "aplicable",
+                "cuando",
+                "se",
+                "así",
+                "como",
+                "sus",
+                "su",
+            ]
+            .contains(&word),
+        }
+}
+
+/// Readings that name another law than the current parent: a dated reading,
+/// an anaphor to an earlier-cited law, or a title opening with a relative
+/// clause.
+fn excluded_reading(rest: &str) -> bool {
     let mut words = rest
         .split(|c: char| !c.is_alphabetic())
         .filter(|word| !word.is_empty());
@@ -835,9 +876,7 @@ fn bare_word_follows(rest: &str, quoted: bool) -> bool {
     let second = words.next().unwrap_or_default();
     let third = words.next().unwrap_or_default();
     let dated = |w: &str| ["a", "al", "desde", "hasta", "durante", "en"].contains(&w);
-    // Readings that name another law than the current parent: a dated
-    // reading, an anaphor to an earlier-cited law, or a titled law.
-    let excluded = match word {
+    match word {
         "que" => {
             [
                 "regula",
@@ -872,30 +911,7 @@ fn bare_word_follows(rest: &str, quoted: bool) -> bool {
         }
         "vigente" => ["hasta", "desde", "a", "en", "durante", "al"].contains(&second),
         _ => false,
-    };
-    if excluded {
-        return false;
     }
-    // A quoted `“Ley”` is already an explicit shorthand; an unquoted one must
-    // be followed by a plain connective or a recognised bare continuation.
-    quoted
-        || match word {
-            "que" | "en" | "vigente" => true,
-            _ => [
-                "y",
-                "o",
-                "e",
-                "conforme",
-                "aplicable",
-                "cuando",
-                "se",
-                "así",
-                "como",
-                "sus",
-                "su",
-            ]
-            .contains(&word),
-        }
 }
 
 fn sentence_target<'a>(
@@ -4277,6 +4293,29 @@ mod tests {
         for text in [
             "Se aplicará el artículo 10 de la “Ley”, conforme a lo anterior.",
             "Se aplicará el artículo 10 de la \"Ley\" y de otras.",
+        ] {
+            assert_eq!(parent_edges(text, &known).len(), 1, "{text}");
+        }
+    }
+
+    #[test]
+    fn punctuation_does_not_hide_a_dated_modifier() {
+        let known = ["urn:lex-mx:federal:statute:lan:article:1"];
+        for text in [
+            "Se aplicará el artículo 1 de la “Ley”, vigente hasta el 31 de diciembre de 1990.",
+            "Se aplicará el artículo 1 de la “Ley” (vigente hasta el 31 de diciembre de 1990).",
+            "Se aplicará el artículo 1 de la \"Ley\", vigente hasta el 31 de diciembre de 1990.",
+            "Se aplicará el artículo 1 de la Ley, vigente hasta el 31 de diciembre de 1990.",
+            "Se aplicará el artículo 1 de la Ley (vigente hasta el 31 de diciembre de 1990).",
+            "Se aplicará el artículo 1 de la Ley, en cita.",
+        ] {
+            assert!(parent_edges(text, &known).is_empty(), "{text}");
+        }
+        for text in [
+            "Se aplicará el artículo 1 de la “Ley”, y de otras.",
+            "Se aplicará el artículo 1 de la Ley. Vigente hasta mañana.",
+            "Se aplicará el artículo 1 de la Ley, vigente conforme a lo anterior.",
+            "Se aplicará el artículo 1 de la Ley (aplicable).",
         ] {
             assert_eq!(parent_edges(text, &known).len(), 1, "{text}");
         }
