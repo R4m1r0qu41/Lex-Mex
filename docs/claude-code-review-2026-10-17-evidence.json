@@ -1,0 +1,1157 @@
+{
+  "baseline_head": "69af0e75ec545af24cf103347860c7d20b2936ea",
+  "verdict": "changes_requested",
+  "finding_count": 6,
+  "severity": "P2",
+  "scope": "Read-only code review; all deliberate mutations in private copies, no main code/corpus edits. Synthetic parent cases do not establish stored corruption.",
+  "parent_review": {
+    "reviewer": "independent GPT-6.1-Sol",
+    "status": "new_reproduced_parent_law_findings",
+    "baseline_head": "69af0e75ec545af24cf103347860c7d20b2936ea",
+    "baseline_source_sha256": {
+      "crates/lex-parse/src/lib.rs": "d80f06556bd3a290f6d6c1b6af39c6feb5ac1d1ad1c5b384e70070f564e1377d",
+      "crates/lex-cli/src/main.rs": "a897318a74cacc3c0fc51f0311724e4c4bc3edb61f8bb2324b4ef379487f8607",
+      "crates/lex-source/src/lib.rs": "480a55e77ec7de56b4e24aa439bfbf02bf10f27cc18d8b3033a9fa175b151db4"
+    },
+    "adapter_mapping_baseline": {
+      "mapped_regulations": 123,
+      "code_parent_adapters": [
+        "adapters/diputados/reg-ccomer-mpsc.json",
+        "adapters/diputados/reg-cff.json"
+      ],
+      "files": {
+        "adapters/diputados/reg-ccomer-mpsc.json": {
+          "sha256": "9c0d38037e5deb278cf703f66fbc9988768f22a06456a2edf3b4428a6f1f2b04",
+          "parent_instrument_id": "urn:lex-mx:federal:code:ccom"
+        },
+        "adapters/diputados/reg-cff.json": {
+          "sha256": "3110f3fc01aace5543dafbcddaa4cbd045c065c0e67437650d0bd44faa57b0c2",
+          "parent_instrument_id": "urn:lex-mx:federal:code:cff"
+        },
+        "adapters/diputados/reg-laam.json": {
+          "sha256": "7287d8d131df4dfadde558d62a9b8ea9c1d769a7ef3e1b4d8e44271cc2add8e7",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:laam"
+        },
+        "adapters/diputados/reg-laassp.json": {
+          "sha256": "053bd3454ecd983402b600bee72c22a301ae524183f901ef00e1d0997151a275",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:laassp"
+        },
+        "adapters/diputados/reg-laat.json": {
+          "sha256": "04c83ee55483518abd2664c35bf20819da63e0afc0b0c483a321919adfb05929",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:laat"
+        },
+        "adapters/diputados/reg-lac.json": {
+          "sha256": "f12986a1700913b0af7db9e3a12cfd66184ee0b3d109e83bf24fc75ad4f2dfad",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lac"
+        },
+        "adapters/diputados/reg-ladua.json": {
+          "sha256": "4a811060248f85c4a71e6fc64eff8e8e6c6155c481b5cb75d56058636a661110",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:ladua"
+        },
+        "adapters/diputados/reg-laero.json": {
+          "sha256": "f25a945f030f9d3c188d070b56937d6c13fb00911c8e72321afd92ac6d84ec1d",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:laero"
+        },
+        "adapters/diputados/reg-lagra-fodmc.json": {
+          "sha256": "fe0a2000d0cf4da45d21f54904729e8f64bee45af9b9749a754c61ce44a7186a",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lagra"
+        },
+        "adapters/diputados/reg-lagra-mcdets.json": {
+          "sha256": "f95322860f855660fd701fd9066f335b65ab7036149640c48beb9432a8ecadfa",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lagra"
+        },
+        "adapters/diputados/reg-lagra-mopr.json": {
+          "sha256": "73ecf130a5eb102f39edf90929a6a37b81d1f234cc0315dc6e5f3ace6f9fe342",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lagra"
+        },
+        "adapters/diputados/reg-lan.json": {
+          "sha256": "d6534d5e93ad06175c720032b0cd7208811f5d2c43ffe0f50b3aeaea5f740222",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lan"
+        },
+        "adapters/diputados/reg-lapp.json": {
+          "sha256": "3740ed4aaa3e3ccca180499534e833e313a5b8205f03e0edd3400883ad5feacd",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lapp"
+        },
+        "adapters/diputados/reg-larcp.json": {
+          "sha256": "68a7542b201174fcde6e02820a3c9e2d6dddcf39b2063c4c68d5eca69af35c8d",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:larcp"
+        },
+        "adapters/diputados/reg-larefagn.json": {
+          "sha256": "000bffb273ff276d311fe70e75afaeb9b743990f113125d83f47a6c42347be8f",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:larefam"
+        },
+        "adapters/diputados/reg-lbio.json": {
+          "sha256": "ea644279b0bc7e665eb9529c838c9090ffa1fe3ef41cde59d791f34bf74ce2ef",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lbio"
+        },
+        "adapters/diputados/reg-lbogm.json": {
+          "sha256": "a0f8827e8ae72045a7ca1a147cd6763273a69b0d9c504252628e25a0c6c4612d",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lbogm"
+        },
+        "adapters/diputados/reg-lce.json": {
+          "sha256": "37cc3e5cbcff31dc63428ed6a46a6257172f85bfe4cb8e57bf2654d3a250d12a",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lce"
+        },
+        "adapters/diputados/reg-lcec.json": {
+          "sha256": "fbd8617d51544bff0db5dd7e638eb9e4e6eeaa1072dc2ab743e2660ea161dbb3",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lcec"
+        },
+        "adapters/diputados/reg-ldcmpme.json": {
+          "sha256": "02fd7b03f15316653429e08b6b2455e7969b866a8e0d74b205c2c6e8804d6da5",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:ldcmpme"
+        },
+        "adapters/diputados/reg-ldrs-moirsse.json": {
+          "sha256": "4e960907d448f739365403c3c792c67798a68f5656597b763a3d378bd75d6c87",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:ldrs"
+        },
+        "adapters/diputados/reg-lebhn.json": {
+          "sha256": "75eac2e4b7b398f7e42ac148f422dde31352f90d6a4ee91052218cb634b94848",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lebhn"
+        },
+        "adapters/diputados/reg-lecampo.json": {
+          "sha256": "95b17cd02be5ce7de321cf5a4cd0247cf0be14d73adfc989fd1f8910a435fcb0",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lec"
+        },
+        "adapters/diputados/reg-lemefagn.json": {
+          "sha256": "19c48fa117c55286fb076314e6705449aafdc116b3362a1bbccabf2e9004f1d8",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lemefam"
+        },
+        "adapters/diputados/reg-len.json": {
+          "sha256": "7d7c4865d3bab17c0fc9dc136e406b7cd19c176d4b85d2cde323942b941383be",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:len"
+        },
+        "adapters/diputados/reg-lepecfe.json": {
+          "sha256": "68322595a1ba5d56db9e135729e3a795905a0b1537d51bacfd60c84f414e38bb",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lepecfe"
+        },
+        "adapters/diputados/reg-lepepm.json": {
+          "sha256": "377d9ec4584d91d519fccae7a506e469c8f7ead5bde11802d955e0dafc155466",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lepepm"
+        },
+        "adapters/diputados/reg-lfaebsp.json": {
+          "sha256": "2111f789ce0cdfd8ab7575415b2ae7bc02ec59362af1372b7fc51019b152ec43",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfaebsp"
+        },
+        "adapters/diputados/reg-lfafe.json": {
+          "sha256": "bb49fac32290a008f821eb5dea1701b1b16a8fd77e33ec6d7bbcabe40670e8d4",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfafe"
+        },
+        "adapters/diputados/reg-lfce.json": {
+          "sha256": "38765668e588cee816bbcc57218015fdb114b40ea927d489618c427431e2b429",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfce"
+        },
+        "adapters/diputados/reg-lfcp.json": {
+          "sha256": "54a032c57fce8f600501235d47ab484dccfe636aab36d6a2be9f0d30bbdb409f",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfcp"
+        },
+        "adapters/diputados/reg-lfcpq.json": {
+          "sha256": "38a58a575054ddfe0e8594fd0bb9d5c25df8b23f73240841709b609a09942269",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfcpq"
+        },
+        "adapters/diputados/reg-lfda.json": {
+          "sha256": "a9779a5b9466828acafb3321e4a5e6d3ac48877d81f3a73f23f4b8f819d5ddd7",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfda"
+        },
+        "adapters/diputados/reg-lfea.json": {
+          "sha256": "f0baffc6bb2b9519e65373bd934eb30325e20afc0899576b37a269cf69923453",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfea"
+        },
+        "adapters/diputados/reg-lfep.json": {
+          "sha256": "efbba182f98899697dd26cd1999bf489057c67f98efc30aa76e1115498eaba43",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfep"
+        },
+        "adapters/diputados/reg-lffarosc.json": {
+          "sha256": "edbd1a9308983e455b7851b742d8e58a2e0546bc360dfdc6999d62bb792f8168",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lffaosc"
+        },
+        "adapters/diputados/reg-lfgfaga.json": {
+          "sha256": "012100cfdfb794b88bc933b3506bf0198c53a86a31fd1f87972e47efd9702559",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfgfaga"
+        },
+        "adapters/diputados/reg-lfiiedb.json": {
+          "sha256": "59b4fa97d2bdacd2fa5a5054f70c97126c906228206f9ac425ccf0d42b5ee16b",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfiiedb"
+        },
+        "adapters/diputados/reg-lfjs.json": {
+          "sha256": "360712601af7363df37dd8b8458dc4658b450df91db6d3e0fed494f458f88d0a",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfjs"
+        },
+        "adapters/diputados/reg-lfll.json": {
+          "sha256": "a63596389959ed518277f40c6820b1a10153546213d22a421fab7142e71c44cf",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfll"
+        },
+        "adapters/diputados/reg-lfmzaah.json": {
+          "sha256": "304e12209c764ccf355f6bbbae866f779859318a458fc1fead5481b1391023aa",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfmzaah"
+        },
+        "adapters/diputados/reg-lfpc.json": {
+          "sha256": "1b2c378e6bbe7116567b19a4dbad59ffea6bd9bf5d45379b0775cc457500137a",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfpc"
+        },
+        "adapters/diputados/reg-lfpccs.json": {
+          "sha256": "0262282a2fb85f38de1c7721f1db1b8dccb024fe6d3dbf253e1848ceed832c5b",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfpccs"
+        },
+        "adapters/diputados/reg-lfpdppp.json": {
+          "sha256": "00527658ded592b40cb0ed45a66134d72ad490246882cf39920f5fd5865956ba",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfpdppp"
+        },
+        "adapters/diputados/reg-lfpiorpi.json": {
+          "sha256": "fac857231d427f7ad2721edf8ed3e94db9d6c18d4596c90e54a0e9ecbea17fc2",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfpiorpi"
+        },
+        "adapters/diputados/reg-lfppi.json": {
+          "sha256": "9fc4ab8f72a23c167f533cc2bc677480305c9d385ca26d2ff76b837d8c076f82",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfppi"
+        },
+        "adapters/diputados/reg-lfprh.json": {
+          "sha256": "c770d0eea8eb298be5cb7599a17f79e54c59a849be7654b6b1fcf86c5ed299f9",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfprh"
+        },
+        "adapters/diputados/reg-lfsa.json": {
+          "sha256": "0f438d79dfa09e5ba4b7c5c79023235776ddbe5ca5303bce7daa0895419dd1fa",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfsa"
+        },
+        "adapters/diputados/reg-lfsp.json": {
+          "sha256": "98062fed938b4e1bbe63802e9b599d1404809f142e0383d0da546eeadbe63614",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfsp"
+        },
+        "adapters/diputados/reg-lfsv.json": {
+          "sha256": "f8ee876dc00fe7eac40f4968b2f832c57fd3f8c8741398e3036296f814da2453",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfsv"
+        },
+        "adapters/diputados/reg-lfvv.json": {
+          "sha256": "f55fa95aa1eee4ef14f3f865a9ffda2a6cb6ba8404943858cb69fc4efc03a542",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfvv"
+        },
+        "adapters/diputados/reg-lfzee.json": {
+          "sha256": "1ff27e6deb1ed239ae9d26310e1b06c41127983b429ba5ce6edc4e57afddcdb2",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lfzee"
+        },
+        "adapters/diputados/reg-lgamvlv.json": {
+          "sha256": "23a6ddd080179d5a90f1fadae1a912f6e0597c1ac6ce11e946edff89e06e277c",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgamvlv"
+        },
+        "adapters/diputados/reg-lgappcea.json": {
+          "sha256": "8d724e50cee336e47f3b1c5c42a1791e604d62c9a05ac9b6f30d816a22ef7e7e",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgappcea"
+        },
+        "adapters/diputados/reg-lgcc-rne.json": {
+          "sha256": "17e61e98919908ca86bea87544526225e1d248a570e1698ade5f95cc5ad50e96",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgcc"
+        },
+        "adapters/diputados/reg-lgcdc.json": {
+          "sha256": "d290fa9f4bfaa7a16e8f18f7df515b8317d5b76dee57c324c54b26782dd358ee",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgcdc"
+        },
+        "adapters/diputados/reg-lgcfd.json": {
+          "sha256": "1d05171f68361eb06f80dd91455dfc2f5e8a877b70f9562363a699b389567ab2",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgcfd"
+        },
+        "adapters/diputados/reg-lgct.json": {
+          "sha256": "08a04f9fee40b5356a56f35e1fd03c6475775b4595c0e01b74c485c552b40e5c",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgct"
+        },
+        "adapters/diputados/reg-lgdfs.json": {
+          "sha256": "dc6266b9c7ab567b2b4930a1e9a989c700cec2ef2fe6331a24e89b413f84e073",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgdfs"
+        },
+        "adapters/diputados/reg-lgdnna.json": {
+          "sha256": "70783473ab285db59b0320287c5624200bcc78ffdb30f4b9d800d33594be6a1b",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgdnna"
+        },
+        "adapters/diputados/reg-lgds.json": {
+          "sha256": "738bb341a06d94274781eda843ffc17a13c3012dfd4739f9122a985b62265936",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgds"
+        },
+        "adapters/diputados/reg-lgeepa-anp.json": {
+          "sha256": "8de9cbf6ff068d4083e6aa1ccfec3b41169dbcea51451eb47483e21f4411b06e",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgeepa"
+        },
+        "adapters/diputados/reg-lgeepa-maaa.json": {
+          "sha256": "a8dd42fb495c254eeda2e96c6544e02160acb3357c70cf10782d2999cb7d7751",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgeepa"
+        },
+        "adapters/diputados/reg-lgeepa-meia.json": {
+          "sha256": "3d4538353c996e33f1bb1d4614c90de680413f4fc89342b73b2302cb46c456ae",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgeepa"
+        },
+        "adapters/diputados/reg-lgeepa-moe.json": {
+          "sha256": "b2507a255382bc706cb1694b4117413996aa119ca89ed2c321510d9dac37823c",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgeepa"
+        },
+        "adapters/diputados/reg-lgeepa-mpcca.json": {
+          "sha256": "e2f390c6965cc9f2c193ce0b426b0a9f0a88339fdae838fd39abb5b5f6e689ea",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgeepa"
+        },
+        "adapters/diputados/reg-lgeepa-mretc.json": {
+          "sha256": "d7b38a9bdd4b54ab60ef827623f79c72f50a88cac3e184f6a4757b7c9c920751",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgeepa"
+        },
+        "adapters/diputados/reg-lgeo.json": {
+          "sha256": "d067f54b6cc1b54ed7098242da77e088161753458264fc16924639dedf1f756a",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgeo"
+        },
+        "adapters/diputados/reg-lgipd.json": {
+          "sha256": "7240c334c809ac9b21d8c05a4e6ccf592a64e8fa9096aa38af83ee8c5fc6dcda",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgipd"
+        },
+        "adapters/diputados/reg-lgn.json": {
+          "sha256": "3e1087717bed5c72eb500f0e62c2c765187cfcb7a89ddfc3b4a2a29fe10b79d7",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgn"
+        },
+        "adapters/diputados/reg-lgp.json": {
+          "sha256": "a06294d6e19b16901fd1a3330758e6ba4b635576fd94fa6f6e1d000317d7a228",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgp"
+        },
+        "adapters/diputados/reg-lgpc.json": {
+          "sha256": "fdc3bc7422e72ace1f46c02db0c711386f2a0fe70d3c0dd9d9bad5c247f48a52",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgpc"
+        },
+        "adapters/diputados/reg-lgpgir.json": {
+          "sha256": "76e028f127f48a58a2416ef5ed5ce477b4c66e144f3f0898243ff94c4ed97eec",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgpgir"
+        },
+        "adapters/diputados/reg-lgpsacdii.json": {
+          "sha256": "3706fd9594cc2f2ec09d2ed7bca6881160741d87422e8eb58d00a0f84e71cfe5",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgpsacdii"
+        },
+        "adapters/diputados/reg-lgpsvd.json": {
+          "sha256": "6ab29a48627cd422c52b03d0a860c1fede056f914bef50f894f9f52ab73299e5",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgpsvd"
+        },
+        "adapters/diputados/reg-lgs-investigacion.json": {
+          "sha256": "03cb394a23a52216362e0b2431e1b2903c692525ceded1040853a688ac0c2ef9",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgs"
+        },
+        "adapters/diputados/reg-lgs-mcsaeps.json": {
+          "sha256": "589bc42cc666f176d9223ec1651fb2a2455e696bf994acfc46cdf23942b848e4",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgs"
+        },
+        "adapters/diputados/reg-lgs-mcsotcsh.json": {
+          "sha256": "e2537b8327fd42a5ca8203ca04a31e0cd0ae1b9c25328f6d103dc7e255c54e5d",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgs"
+        },
+        "adapters/diputados/reg-lgs-mcspiumc.json": {
+          "sha256": "9e7a798bf902251f85f9a3e2b4bb3b33a49727e7753ef98abdeedb222de13928",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgs"
+        },
+        "adapters/diputados/reg-lgs-mp.json": {
+          "sha256": "39c5e6ab2779bc4d02ea4d621b9da062c17f55158b18d760cfb6ac97c5743f41",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgs"
+        },
+        "adapters/diputados/reg-lgs-mpsam.json": {
+          "sha256": "ddd14f656c6623c48d4a830d4611e46d56437ca3b56aeb06c7284e7588f93d1e",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgs"
+        },
+        "adapters/diputados/reg-lgs-msi.json": {
+          "sha256": "8fd91d512d01864d57789fb90875dcb9914bd7c538aa1fab24ecd87a3f04ecc2",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgs"
+        },
+        "adapters/diputados/reg-lgs-mt.json": {
+          "sha256": "c37a99c275ba4443048fffd39a7c4d69cbfebe247c5934ca04b133181d6bc13e",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgs"
+        },
+        "adapters/diputados/reg-lgt.json": {
+          "sha256": "0a6c506bacebe3f4609eb7a383eeb59a90bbc9d1971dee583d29524fd112735b",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgt"
+        },
+        "adapters/diputados/reg-lgtrata.json": {
+          "sha256": "cbf152eb078da866ce2d2d2e283c5dbbcfeac3913afc0131bb7817cb355d9e8b",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgtrata"
+        },
+        "adapters/diputados/reg-lgv.json": {
+          "sha256": "ea72564d8b9a66d9328fb1bb047188c943aff903e37fb2fd3388995a27230600",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgv"
+        },
+        "adapters/diputados/reg-lgvs.json": {
+          "sha256": "0be6c90dd6fda24dd3474fd52f40119cae9937017a238e67f0f8159ee1ed36e6",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lgvs"
+        },
+        "adapters/diputados/reg-lic-calidad.json": {
+          "sha256": "3c10bcc26e178dcc76e7f4f2510c96583b6834ef33ebd360b228c23aed5f9fda",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lic-calidad"
+        },
+        "adapters/diputados/reg-lieps.json": {
+          "sha256": "cd6afaf8a0c5bd6d70dcc0bf97a20107b01e3bb63270a445b8a2f8f3607291a7",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lieps"
+        },
+        "adapters/diputados/reg-liernie.json": {
+          "sha256": "3d7926534aa3dced54f5f624e0f6d9014b82383af20decd3538abbd22e124738",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lie"
+        },
+        "adapters/diputados/reg-lih.json": {
+          "sha256": "d18cc34e0c00a694ff28f771c298ed5c6c641dbb6666fe39d2653389f41045ee",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lih"
+        },
+        "adapters/diputados/reg-linfonacot.json": {
+          "sha256": "09405426278329e9903341ecd2d3d461e6b3a5972a6965dcd6c8a1fb9f37e155",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:linfonacot"
+        },
+        "adapters/diputados/reg-linfonavit-mtai.json": {
+          "sha256": "5ef966374e234937bc13ec171d7ef1387e706d9cbc86339072ae9981c9581e6b",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:linfonavit"
+        },
+        "adapters/diputados/reg-lisr.json": {
+          "sha256": "3d734c54b6e4536217216921292ddd009307f92b167c8cb44cc19a3cff2f4f9f",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lisr"
+        },
+        "adapters/diputados/reg-lissfam.json": {
+          "sha256": "278afd7f0a5c9b000251494b0b7d1c7921957e196c053a3f88cf9b0b8c3de45c",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lissfam"
+        },
+        "adapters/diputados/reg-liva.json": {
+          "sha256": "afdb83cde209ba02a420334267209763536ac3ffa1123470a59b60a0c2c08a72",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:liva"
+        },
+        "adapters/diputados/reg-lmigra.json": {
+          "sha256": "0760b2c26dfc506133e0753808027b8a160d2745ab14612fa863b092ddbc16a2",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lmigra"
+        },
+        "adapters/diputados/reg-lmin.json": {
+          "sha256": "a1469ad7fb1c9bf38d4300397cbb4b3a2c7091b83eac6515f7cf74be933fd9ac",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lmin"
+        },
+        "adapters/diputados/reg-lnac.json": {
+          "sha256": "2d9598c0162c92be9bfdd6bdfa154e04093e0d924b929ab7e64ab60c8ecc83ef",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lnac"
+        },
+        "adapters/diputados/reg-lncm.json": {
+          "sha256": "8206b804497c302724760dd91340ebefdd69658fd8e5060e86ceacb117640980",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lncm"
+        },
+        "adapters/diputados/reg-logan.json": {
+          "sha256": "6a9fe7872eda83efb1336f6465c19dd048736067c5f87378bf3dd1d9f5278a3f",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:log"
+        },
+        "adapters/diputados/reg-loinah.json": {
+          "sha256": "4130d3e5be22d04dfb30818259f24fdf19c41e9874707250ccd5fd9763d184c0",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:loinah"
+        },
+        "adapters/diputados/reg-lopgjdf.json": {
+          "sha256": "705dae22d06152069fd5fb006f5331e2f3d7e8cf1b909577efc538ed5c24e568",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lopgjdf"
+        },
+        "adapters/diputados/reg-lopsrm.json": {
+          "sha256": "0b268e04f6db5bcd22e6893f0814646100c182004972dcc5831be53c486291c8",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lopsrm"
+        },
+        "adapters/diputados/reg-lpeam.json": {
+          "sha256": "d89ac4d66903185becc65dade0e7f608c0a86691773e60059d1080a83140f3c6",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lpeam"
+        },
+        "adapters/diputados/reg-lpf.json": {
+          "sha256": "062c9c1e5909556ff12c4268c36eef271c2565631ee89de2bab9a9fa5934a8c6",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lpf"
+        },
+        "adapters/diputados/reg-lpo.json": {
+          "sha256": "45ca8f0ab2c87fbb66d23205e95b505879d713ac172e0a87e96e62ebdf8b2677",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lpo"
+        },
+        "adapters/diputados/reg-lppddhp.json": {
+          "sha256": "4c2e363cdd09a5498a8bb82ec40f3cf9924b83c5a5f4332b01fc4859c067264d",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lppddhp"
+        },
+        "adapters/diputados/reg-lpte.json": {
+          "sha256": "dbb7349bdabe188e1cdf4b3eeadc7f64ece29e24b483268d5556162c0908c343",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lpte"
+        },
+        "adapters/diputados/reg-lpue.json": {
+          "sha256": "e6ba62748212670ff7c348c17fe27c3af1dc5e292970ca9ae4d44937e02a59fd",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lpue"
+        },
+        "adapters/diputados/reg-lrmineras.json": {
+          "sha256": "7e792669c70d76eb64b480f2c0b0ace77eeaebf5c289a7a78ba1448acc77982d",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lrmnyut"
+        },
+        "adapters/diputados/reg-lrpv.json": {
+          "sha256": "85c18faf9d2f719d814decf367bf7ce5fbe3db47056c8d9988d9814fb2faeb9f",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lrpv"
+        },
+        "adapters/diputados/reg-lsar.json": {
+          "sha256": "9e8a4f059b91a1294a19fbe36ae5e0b7a171d8e570950db6a2afe8794cdb0b05",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lsar"
+        },
+        "adapters/diputados/reg-lse.json": {
+          "sha256": "450652d017eb550a40aed377b71f5d01d0cb1972060420f3a78fb32735dc30b0",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lse"
+        },
+        "adapters/diputados/reg-lsem.json": {
+          "sha256": "f72266ce0e54e48db410c110ee1541188745516be3f645366fbfcac5c628be6b",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lsem"
+        },
+        "adapters/diputados/reg-lsh.json": {
+          "sha256": "c144888e9e09ca6529457e4440fc053a6c3088cfce5c3145432a93af151ad8c7",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lsh"
+        },
+        "adapters/diputados/reg-lsm.json": {
+          "sha256": "6ad5f03028dd75edb8e80ffbb9ee68864a439b53249836b33d81dc39b1bba567",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lsm"
+        },
+        "adapters/diputados/reg-lspcapf.json": {
+          "sha256": "c2b0f23e96124618d18c573da0cb4620567fb7709a7bf5c7a9baa82097fde549",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lspcapf"
+        },
+        "adapters/diputados/reg-lss-macerf.json": {
+          "sha256": "f4393d440bc99bbc25e8f6f3642164b7fcfb7d41dc18505ca5a3f84090fa0180",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lss"
+        },
+        "adapters/diputados/reg-lss-maeba.json": {
+          "sha256": "a5019992697fd719d7790cdcc7ee0253005dc21e910ad47451e0b71abb16f53d",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lss"
+        },
+        "adapters/diputados/reg-lss-rfar.json": {
+          "sha256": "3b7b7e59dd4437e1fd5e503e959384d26e73af1936b3c82e08fd6049c5f70cba",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lss"
+        },
+        "adapters/diputados/reg-ltf.json": {
+          "sha256": "6fd87bbb3d415401ae454e6dc1f147621bff986a196efa2f0424abf09cf3d378",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:ltf"
+        },
+        "adapters/diputados/reg-lupdecr.json": {
+          "sha256": "02edad5d3cab8c501eec9b863d45edd8e37f0e76cac6d344e54aed66430189cf",
+          "parent_instrument_id": "urn:lex-mx:federal:statute:lupdecr"
+        }
+      },
+      "review_limit": "Count/kind/config baseline verified. No concrete mapping identity defect established; no claim of independent legal approval of all123 mappings."
+    },
+    "scope": "Parent-law recognition/context/123adapter mapping navigation only. Prior seven fixes and held legal decisions not audited. Parent separately owns quoted-guard bypass review.",
+    "findings": [
+      {
+        "id": "named_title_loses_to_parent",
+        "severity": "P2",
+        "title": "Explicit LMTR title resolves to the mapped parent instead of LMTR",
+        "path": "crates/lex-parse/src/lib.rs",
+        "lines": [
+          854,
+          892,
+          923,
+          946
+        ],
+        "evidence_kind": "minimal_current_source_reproduction",
+        "observed_committed_bad_edge": false,
+        "input": "Se aplicará el artículo 1 de la Ley en Materia de Telecomunicaciones y Radiodifusión.",
+        "expected": "Resolve urn:lex-mx:federal:statute:lmtr:article:1 from exact configured full title; do not emit LAN1.",
+        "actual": [
+          "1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved"
+        ],
+        "mechanism": "bare_word_follows accepts en + materia, so bare_parent_marker labels the title as shorthand. Parent candidate begins at de la Ley, earlier than configured full title beginning at Ley, and earliest-position selection chooses LAN. CLI automatically supplies unique full official titles, including exact committed LMTR title.",
+        "related_variants": [],
+        "suggested_regression": "An exact named title beginning with an allowed connective must win over a bare-parent candidate from the same phrase; preserve legitimate bare Ley followed by later independent law citation."
+      },
+      {
+        "id": "anaphoric_reading_becomes_parent",
+        "severity": "P2",
+        "title": "Unquoted anaphoric Ley/Código is treated as parent shorthand",
+        "path": "crates/lex-parse/src/lib.rs",
+        "lines": [
+          837,
+          854
+        ],
+        "evidence_kind": "minimal_current_source_reproduction",
+        "observed_committed_bad_edge": false,
+        "input": "La Ley Federal del Trabajo es el ordenamiento en comento. Se aplicará el artículo 1 de la Ley en comento.",
+        "expected": "Either resolve stated LFT antecedent or safely leave unsupported anaphora unlinked; never infer LAN1.",
+        "actual": [
+          "1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved"
+        ],
+        "mechanism": "en is accepted unless followed by cita; que is accepted unless followed by one finite title-verb list. Other explicit anaphoric forms pass the bare shorthand guard.",
+        "related_variants": [
+          {
+            "input": "La Ley Federal del Trabajo es el ordenamiento al que se hace referencia. Se aplicará el artículo 1 de la Ley que se cita.",
+            "actual": [
+              "1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved"
+            ]
+          },
+          {
+            "input": "El Código Civil Federal es el ordenamiento en comento. Se aplicará el artículo 1 del Código en comento.",
+            "actual": [
+              "1 -> urn:lex-mx:federal:code:cff:article:1 Resolved"
+            ]
+          }
+        ],
+        "suggested_regression": "Refuse unquoted anaphoric en comento/que se cita (and equivalent code form) without retargeting to parent; retain bare Ley/Código controls."
+      },
+      {
+        "id": "dated_reading_becomes_parent",
+        "severity": "P2",
+        "title": "Equivalent dated reading bypasses vigente-until narrowing",
+        "path": "crates/lex-parse/src/lib.rs",
+        "lines": [
+          837,
+          855
+        ],
+        "evidence_kind": "minimal_current_source_reproduction",
+        "observed_committed_bad_edge": false,
+        "input": "Se aplicará el artículo 1 de la Ley en vigor al 31 de diciembre de 1990.",
+        "expected": "Leave dated historical reading unlinked for review; never silently resolve to current LAN, whose recorded publication is1992-12-01.",
+        "actual": [
+          "1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved"
+        ],
+        "mechanism": "Guard recognizes dated forms only under vigente. en + vigor and que + estaba are accepted as connective phrases, allowing explicitly dated reading to resolve to current parent.",
+        "related_variants": [
+          {
+            "input": "Se aplicará el artículo 1 de la Ley que estaba vigente al 31 de diciembre de 1990.",
+            "actual": [
+              "1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved"
+            ]
+          }
+        ],
+        "suggested_regression": "Equivalent dated wording en vigor al and que estaba vigente must be no more permissive than accepted vigente hasta control; do not invent a historical target."
+      }
+    ],
+    "controls": [
+      {
+        "input": "Se aplicará el artículo 1 de la Ley.",
+        "actual": [
+          "1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved"
+        ]
+      },
+      {
+        "input": "Se aplicará el artículo 1 de la Ley Federal del Trabajo.",
+        "actual": [
+          "1 -> urn:lex-mx:federal:statute:lft:article:1 Resolved"
+        ]
+      },
+      {
+        "input": "Se aplicará el artículo 1 de la Ley vigente hasta el 31 de diciembre de 1990.",
+        "actual": []
+      },
+      {
+        "input": "Se aplicará el artículo 1 de dicha Ley.",
+        "actual": []
+      },
+      {
+        "input": "Se aplicará el artículo 1 de la Ley y de este Reglamento.",
+        "actual": []
+      },
+      {
+        "input": "Se aplicará el artículo 1 del Código.",
+        "actual": [
+          "1 -> urn:lex-mx:federal:code:cff:article:1 Resolved"
+        ]
+      },
+      {
+        "input": "Se aplicará el artículo 1 del Código Civil Federal.",
+        "actual": [
+          "1 -> urn:lex-mx:federal:code:ccf:article:1 Resolved"
+        ]
+      }
+    ],
+    "reproduction": {
+      "command": "CARGO_TARGET_DIR=/private/tmp/lex-linker-independent-audit/target cargo run --offline --manifest-path /private/tmp/lex-parent-review-20261017/Cargo.toml --quiet",
+      "exit_code": 0,
+      "source": "use std::{collections::HashSet,fs};\nuse lex_core::Provision;\nfn main(){\n let all:Vec<Provision>=serde_json::from_str(&fs::read_to_string(\"/Users/jr/Dev/lex-mex/corpus/mx/reg-lan/provisions.json\").unwrap()).unwrap();\n let parent=\"urn:lex-mx:federal:statute:lan\";\n let named=\"urn:lex-mx:federal:statute:lmtr\";\n let other=\"urn:lex-mx:federal:statute:lft\";\n let opts=lex_parse::ReferenceOptions{policy:lex_parse::InstrumentContextPolicy::SentenceEarliestMarker{internal_markers:vec![\"de este reglamento\".into(),\"del presente reglamento\".into()],external_instruments:vec![(\"ley en materia de telecomunicaciones y radiodifusión\".into(),named.into()),(\"ley federal del trabajo\".into(),other.into())]},transitory_citations:true,same_article_fractions:true,relative_references:true,historical_targets:vec![],parent_instrument:Some(parent.into())};\n for text in [\n \"Se aplicará el artículo 1 de la Ley.\",\n \"Se aplicará el artículo 1 de la Ley Federal del Trabajo.\",\n \"Se aplicará el artículo 1 de la Ley en Materia de Telecomunicaciones y Radiodifusión.\",\n \"La Ley Federal del Trabajo es el ordenamiento en comento. Se aplicará el artículo 1 de la Ley en comento.\",\n \"La Ley Federal del Trabajo es el ordenamiento al que se hace referencia. Se aplicará el artículo 1 de la Ley que se cita.\",\n \"Se aplicará el artículo 1 de la Ley vigente hasta el 31 de diciembre de 1990.\",\n \"Se aplicará el artículo 1 de la Ley en vigor al 31 de diciembre de 1990.\",\n \"Se aplicará el artículo 1 de la Ley que estaba vigente al 31 de diciembre de 1990.\",\n \"Se aplicará el artículo 1 de dicha Ley.\",\n \"Se aplicará el artículo 1 de la Ley y de este Reglamento.\",\n ] {\n let mut ps=all[..3].to_vec();ps[1].text=text.into();let mut targets:HashSet<_>=ps.iter().map(|p|p.id.clone()).collect();\n for target in [parent,named,other]{targets.insert(format!(\"{target}:article:1\"));}\n let refs=lex_parse::extract_references(&ps,None,&opts,&targets).unwrap();println!(\"INPUT: {text}\");for e in refs.iter().filter(|e|e.source_provision_id==ps[1].id){println!(\"{} -> {} {:?}\",e.source_span,e.target_provision_id,e.resolution_status);}\n }\n\n let all:Vec<Provision>=serde_json::from_str(&fs::read_to_string(\"/Users/jr/Dev/lex-mex/corpus/mx/reg-cff/provisions.json\").unwrap()).unwrap();\n let parent=\"urn:lex-mx:federal:code:cff\";let other=\"urn:lex-mx:federal:code:ccf\";\n let opts=lex_parse::ReferenceOptions{policy:lex_parse::InstrumentContextPolicy::SentenceEarliestMarker{internal_markers:vec![\"de este reglamento\".into()],external_instruments:vec![(\"código civil federal\".into(),other.into())]},transitory_citations:true,same_article_fractions:true,relative_references:true,historical_targets:vec![],parent_instrument:Some(parent.into())};\n for text in [\"Se aplicará el artículo 1 del Código.\",\"Se aplicará el artículo 1 del Código Civil Federal.\",\"El Código Civil Federal es el ordenamiento en comento. Se aplicará el artículo 1 del Código en comento.\"] {\n let mut ps=all[..3].to_vec();ps[1].text=text.into();let mut targets:HashSet<_>=ps.iter().map(|p|p.id.clone()).collect();for target in [parent,other]{targets.insert(format!(\"{target}:article:1\"));}\n let refs=lex_parse::extract_references(&ps,None,&opts,&targets).unwrap();println!(\"INPUT: {text}\");for e in refs.iter().filter(|e|e.source_provision_id==ps[1].id){println!(\"{} -> {} {:?}\",e.source_span,e.target_provision_id,e.resolution_status);}\n }\n}\n",
+      "cargo_toml": "[package]\nname = \"lex-linker-independent-audit\"\nversion = \"0.1.0\"\nedition = \"2024\"\n[dependencies]\nlex-core = { path = \"/Users/jr/Dev/lex-mex/crates/lex-core\" }\nlex-parse = { path = \"/Users/jr/Dev/lex-mex/crates/lex-parse\" }\nserde_json = \"1\"\n",
+      "lock_sha256": "631c270b357f2b867918af4e2fbcc68b3da2fcece173864bf39cea8565ff93f0",
+      "fixture_scope": "First3 typed provision templates from named REG-LAN and REG-CFF; replace second provision text with each case. Add real parent/other article1 IDs to known-target set. Every named article1 target was independently checked to exist. No corpus mutation.",
+      "stdout": "INPUT: Se aplicará el artículo 1 de la Ley.\n1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved\nINPUT: Se aplicará el artículo 1 de la Ley Federal del Trabajo.\n1 -> urn:lex-mx:federal:statute:lft:article:1 Resolved\nINPUT: Se aplicará el artículo 1 de la Ley en Materia de Telecomunicaciones y Radiodifusión.\n1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved\nINPUT: La Ley Federal del Trabajo es el ordenamiento en comento. Se aplicará el artículo 1 de la Ley en comento.\n1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved\nINPUT: La Ley Federal del Trabajo es el ordenamiento al que se hace referencia. Se aplicará el artículo 1 de la Ley que se cita.\n1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved\nINPUT: Se aplicará el artículo 1 de la Ley vigente hasta el 31 de diciembre de 1990.\nINPUT: Se aplicará el artículo 1 de la Ley en vigor al 31 de diciembre de 1990.\n1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved\nINPUT: Se aplicará el artículo 1 de la Ley que estaba vigente al 31 de diciembre de 1990.\n1 -> urn:lex-mx:federal:statute:lan:article:1 Resolved\nINPUT: Se aplicará el artículo 1 de dicha Ley.\nINPUT: Se aplicará el artículo 1 de la Ley y de este Reglamento.\nINPUT: Se aplicará el artículo 1 del Código.\n1 -> urn:lex-mx:federal:code:cff:article:1 Resolved\nINPUT: Se aplicará el artículo 1 del Código Civil Federal.\n1 -> urn:lex-mx:federal:code:ccf:article:1 Resolved\nINPUT: El Código Civil Federal es el ordenamiento en comento. Se aplicará el artículo 1 del Código en comento.\n1 -> urn:lex-mx:federal:code:cff:article:1 Resolved\n"
+    },
+    "target_metadata": {
+      "lan": {
+        "id": "urn:lex-mx:federal:statute:lan",
+        "official_title": "Ley de Aguas Nacionales",
+        "publication_date": "1992-12-01"
+      },
+      "lmtr": {
+        "id": "urn:lex-mx:federal:statute:lmtr",
+        "official_title": "Ley en Materia de Telecomunicaciones y Radiodifusión",
+        "publication_date": "2025-07-16"
+      },
+      "cff": {
+        "id": "urn:lex-mx:federal:code:cff",
+        "official_title": "Código Fiscal de la Federación",
+        "publication_date": "1981-12-31"
+      },
+      "ccf": {
+        "id": "urn:lex-mx:federal:code:ccf",
+        "official_title": "Código Civil Federal",
+        "publication_date": "1928-06-13"
+      }
+    },
+    "bounded_source_probes": [
+      "Exact Ley en Materia de Telecomunicaciones y Radiodifusión search in reg-*/provisions.json found no occurrence.",
+      "Targeted anaphoric/date forms checked returned no matching regulation provision; this is not an exhaustive correctness assertion."
+    ],
+    "accepted_policy": "Missing parent article suppression is accepted policy and is not a finding. All failing cases above have existing wrong-parent article1 targets.",
+    "limits": [
+      "All three findings are minimal current-source reproductions, not demonstrated stored-edge corruption.",
+      "No quoted-parent bypass duplication; no code changes proposed/applied.",
+      "No Claude invocation, main code/corpus edits, staging or commit. Parent continuity plan remains unrelated work."
+    ]
+  },
+  "quoted_parent_review": {
+    "id": "R2",
+    "source": "crates/lex-parse/src/lib.rs",
+    "mechanism": "quoted || bare_word_follows bypasses continuation exclusions",
+    "command": "CARGO_TARGET_DIR=/private/tmp/lex-linker-independent-audit/target cargo run --locked --offline --manifest-path .work/claude-review-20261017/parent-probe/Cargo.toml --quiet",
+    "exit_code": 0,
+    "results": [
+      {
+        "actual_edges": [
+          {
+            "basis": "express_cross_reference",
+            "confidence": 1.0,
+            "end_char": 26,
+            "id": "urn:lex-mx:federal:regulation:reg-lan:article:1:reference:24-26:10:direct",
+            "qualifiers": [],
+            "reference_form": "direct",
+            "resolution_status": "resolved",
+            "schema_version": "0.1.0",
+            "source_provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:1",
+            "source_span": "10",
+            "start_char": 24,
+            "target_instrument_id": "urn:lex-mx:federal:statute:lan",
+            "target_provision_id": "urn:lex-mx:federal:statute:lan:article:10"
+          }
+        ],
+        "case": "bare_current_control",
+        "count_matches": true,
+        "expected_edges": 1,
+        "text": "Se aplicará el artículo 10 de la Ley."
+      },
+      {
+        "actual_edges": [],
+        "case": "bare_dated_control",
+        "count_matches": true,
+        "expected_edges": 0,
+        "text": "Se aplicará el artículo 10 de la Ley vigente hasta el 31 de diciembre de 2001."
+      },
+      {
+        "actual_edges": [
+          {
+            "basis": "express_cross_reference",
+            "confidence": 1.0,
+            "end_char": 26,
+            "id": "urn:lex-mx:federal:regulation:reg-lan:article:1:reference:24-26:10:direct",
+            "qualifiers": [],
+            "reference_form": "direct",
+            "resolution_status": "resolved",
+            "schema_version": "0.1.0",
+            "source_provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:1",
+            "source_span": "10",
+            "start_char": 24,
+            "target_instrument_id": "urn:lex-mx:federal:statute:lan",
+            "target_provision_id": "urn:lex-mx:federal:statute:lan:article:10"
+          }
+        ],
+        "case": "curly_quoted_dated",
+        "count_matches": false,
+        "expected_edges": 0,
+        "text": "Se aplicará el artículo 10 de la “Ley” vigente hasta el 31 de diciembre de 2001."
+      },
+      {
+        "actual_edges": [
+          {
+            "basis": "express_cross_reference",
+            "confidence": 1.0,
+            "end_char": 26,
+            "id": "urn:lex-mx:federal:regulation:reg-lan:article:1:reference:24-26:10:direct",
+            "qualifiers": [],
+            "reference_form": "direct",
+            "resolution_status": "resolved",
+            "schema_version": "0.1.0",
+            "source_provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:1",
+            "source_span": "10",
+            "start_char": 24,
+            "target_instrument_id": "urn:lex-mx:federal:statute:lan",
+            "target_provision_id": "urn:lex-mx:federal:statute:lan:article:10"
+          }
+        ],
+        "case": "straight_quoted_dated",
+        "count_matches": false,
+        "expected_edges": 0,
+        "text": "Se aplicará el artículo 10 de la \"Ley\" vigente hasta el 31 de diciembre de 2001."
+      },
+      {
+        "actual_edges": [],
+        "case": "bare_anaphoric_control",
+        "count_matches": true,
+        "expected_edges": 0,
+        "text": "Se aplicará el artículo 10 de la Ley en cita."
+      },
+      {
+        "actual_edges": [
+          {
+            "basis": "express_cross_reference",
+            "confidence": 1.0,
+            "end_char": 26,
+            "id": "urn:lex-mx:federal:regulation:reg-lan:article:1:reference:24-26:10:direct",
+            "qualifiers": [],
+            "reference_form": "direct",
+            "resolution_status": "resolved",
+            "schema_version": "0.1.0",
+            "source_provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:1",
+            "source_span": "10",
+            "start_char": 24,
+            "target_instrument_id": "urn:lex-mx:federal:statute:lan",
+            "target_provision_id": "urn:lex-mx:federal:statute:lan:article:10"
+          }
+        ],
+        "case": "quoted_anaphoric",
+        "count_matches": false,
+        "expected_edges": 0,
+        "text": "Se aplicará el artículo 10 de la “Ley” en cita."
+      }
+    ],
+    "reproduction_source": "use std::collections::HashSet;\nuse lex_parse::{DiputadosOptions, ReferenceOptions, InstrumentContextPolicy};\nfn main() {\n let reg=\"urn:lex-mx:federal:regulation:reg-lan\";\n let parent=\"urn:lex-mx:federal:statute:lan\";\n let options=ReferenceOptions {policy:InstrumentContextPolicy::SentenceEarliestMarker{internal_markers:vec![\"de este reglamento\".into()],external_instruments:vec![]}, transitory_citations:true,same_article_fractions:true,relative_references:true,historical_targets:vec![],parent_instrument:Some(parent.into())};\n let known=HashSet::from([format!(\"{parent}:article:10\")]);\n let mut rows=Vec::new();\n for (label,text,expected) in [\n  (\"bare_current_control\",\"Se aplicará el artículo 10 de la Ley.\",1),\n  (\"bare_dated_control\",\"Se aplicará el artículo 10 de la Ley vigente hasta el 31 de diciembre de 2001.\",0),\n  (\"curly_quoted_dated\",\"Se aplicará el artículo 10 de la “Ley” vigente hasta el 31 de diciembre de 2001.\",0),\n  (\"straight_quoted_dated\",\"Se aplicará el artículo 10 de la \\\"Ley\\\" vigente hasta el 31 de diciembre de 2001.\",0),\n  (\"bare_anaphoric_control\",\"Se aplicará el artículo 10 de la Ley en cita.\",0),\n  (\"quoted_anaphoric\",\"Se aplicará el artículo 10 de la “Ley” en cita.\",0),\n ] {\n  let source=format!(\"Artículo 1.- {text}\");\n  let doc=lex_parse::parse_diputados(&source,&DiputadosOptions{instrument_id:reg.into(),header_lines:vec![],stop_markers:vec![],annex_markers:vec![],separate_enactment:false,nested_instrument:None},\"2026-01-01\".parse().unwrap()).unwrap();\n  let edges=lex_parse::extract_references(&doc.provisions,None,&options,&known).unwrap();\n  rows.push(serde_json::json!({\"case\":label,\"text\":text,\"expected_edges\":expected,\"actual_edges\":edges,\"count_matches\":edges.len()==expected}));\n }\n println!(\"{}\",serde_json::to_string_pretty(&rows).unwrap());\n}\n",
+    "cargo_toml": "[package]\nname=\"lex-linker-independent-audit\"\nversion=\"0.1.0\"\nedition=\"2024\"\n[dependencies]\nlex-core={path=\"/Users/jr/Dev/lex-mex/crates/lex-core\"}\nlex-parse={path=\"/Users/jr/Dev/lex-mex/crates/lex-parse\"}\nserde_json=\"1\"\n[workspace]\n",
+    "lock_sha256": "631c270b357f2b867918af4e2fbcc68b3da2fcece173864bf39cea8565ff93f0"
+  },
+  "guard_export_review": {
+    "head": "69af0e75ec545af24cf103347860c7d20b2936ea",
+    "scope": "Read-only CLI guards, exact legal_operator_review binding and bounded exporter acceptance; no code/corpus/stage/commit writes.",
+    "findings": [
+      {
+        "id": "review-binding-validation",
+        "severity": "P2",
+        "new": true,
+        "path": "crates/lex-parse/src/lib.rs",
+        "lines": "2313-2375 (validate_reference); core validate_review_metadata also omits legal_operator_review",
+        "expected": "Validation rejects an attached operator review whose source hash does not match its edge/source.",
+        "actual": "Unchanged LG M IM E edge/source validates both before and after replacing only review.source_text_sha256 by 64 zeros; both exit 0, valid, 4 issues.",
+        "repro": "/private/tmp/lex-legal-review-audit-j1poh0eo/report.json",
+        "receipt": "legal-review-validation-repro.json",
+        "fix": "Validate each attached legal_operator_review metadata and exact matches(edge, source_text) in shared validation. Preserve and reject invalid payload; never silently remove it.",
+        "distinction": "Relinking does enforce adapter review persistence and exact reapplication at main.rs2354-2362/2449 and parse lib2476-2504. This finding concerns already persisted annotations accepted by validate, not approval being cleared by relink.",
+        "severity_rationale": "Requires corrupted/stale persisted annotation; validation incorrectly accepts it, while relink still rejects mismatched approved review."
+      },
+      {
+        "id": "single-link-historical-drift",
+        "severity": "P2",
+        "new": false,
+        "classification": "Previously raised handoff gap, now privately reproduced",
+        "path": "crates/lex-cli/src/main.rs",
+        "lines": "2663-2671 run_link; 2952 closure drift check; 3004 protected_edge_drift",
+        "input": "Private lrsic adapter remaps old LRAF alias from historical lraf-1990 to current lraf without a migration receipt. Minimal private corpus contains lrsic and lraf.",
+        "expected": "Single-instrument link enforces same protected historical-edge drift policy as closure proposal.",
+        "actual": "link lrsic exits0 and changes same edge ID from lraf-1990/article33 historical_target_unavailable to lraf/article33 resolved.",
+        "repro": "/var/folders/rk/wvmmfkbn39s2wd0c52f8y15h0000gn/T/lex-guard-small-xn4ynx61/report.json",
+        "receipt": "single-link-guard-repro.json",
+        "fix": "Apply protected_edge_drift before single-link writes, with explicit authorized migration path if required.",
+        "limitation": "No human review payload on this edge; does not prove clearing audited approval. Existing authorized lrsic/lgmime migration is not reported as defective."
+      }
+    ],
+    "exporter_acceptance": {
+      "status": "Probe completed naturally during shutdown; retained raw receipt only, not accepted as export remeasurement.",
+      "private_root": "/private/tmp/lex-export-acceptance-x10ljzgb",
+      "previous_fixes": "L1-L7 registry code inspected; identity uses instrument ID, qualifiers require unique rendered anchor, missing/duplicate definition anchors use whole-note fallback. Parent native gate 301 passed, separately reported by parent."
+    },
+    "private_evidence_digests": {
+      "lgmime_before_from_main_json_tree": "31459a2e4e6cd723543be2e7dcd02aecaf586baaefb98c7e8ec8182b22e658eb",
+      "lgmime_after_private_json_tree": "c8c8fa9382c076fa21648bc7a8071cdc1a5fe120b791b076937b0adeb6a1e793",
+      "lrsic_before_from_main_json_tree": "7ecdb7551cb042e0975c61a7486094ca222db32843d0124f46b23b498c623da1",
+      "lrsic_after_private_json_tree": "96543abf6fb69501e7b97b24a432087a9620dd2e6a1315c5680eff9bf13b1069",
+      "digest_definition": "SHA256 sorted top-level JSON filename + NUL + bytes + NUL"
+    },
+    "main_canonical_integrity": {
+      "head_corpus_tree_before": "af37cf76e8cecaa415431417faf9b24d848512ac",
+      "head_corpus_tree_after": "af37cf76e8cecaa415431417faf9b24d848512ac",
+      "git_diff_HEAD_corpus_exit": 0,
+      "meaning": "Tracked main canonical corpus unchanged; all mutations confined to private repro roots.",
+      "git_diff_HEAD_corpus_exit_after_shutdown": 0
+    },
+    "unfinished_private_probe": {
+      "root": "/private/tmp/lex-guard-review-u0mu2jmg",
+      "status": "Completed naturally; closure rejected lrsic without mutation. See full-private-closure-repro.json."
+    },
+    "probe_shutdown": {
+      "status": "Both tool sessions completed naturally before effective termination; no probes remain running in these sessions.",
+      "closure_session": {
+        "id": 72196,
+        "exit_code": 0,
+        "child_link_all_exit": 1,
+        "result": "lrsic unchanged under closure rejection; subsequent private single-link exited0 and retargeted historical edge.",
+        "receipt": "full-private-closure-repro.json"
+      },
+      "export_session": {
+        "id": 55434,
+        "exit_code": 0,
+        "termination_attempt": "SIGTERM PID11794 initially sandbox-denied; authorized escalated attempt found no such process because it had completed.",
+        "receipt": "export-probe-unaccepted.json",
+        "acceptance": "Not accepted as an export remeasurement; no additional tests run after shutdown instruction."
+      }
+    }
+  },
+  "persisted_legal_review_reproduction": {
+    "root": "/private/tmp/lex-legal-review-audit-j1poh0eo",
+    "setup": "Private lgmime canonicalJSON copy and adapter; other corpora read-only symlinks. Only persisted legal_operator_review.source_text_sha256 changed to64zeros, preserving source text, spans, graph target, adapter review and all other metadata.",
+    "source_text_actual_sha256": "c32c4b8a21cfb3ce3b44de2073b0d7aaf768725561b931e9adb2624985217b85",
+    "before_edge": {
+      "schema_version": "0.1.0",
+      "id": "urn:lex-mx:federal:statute:lgmime:transitory:trigesimo:reference:58-64:11-bis:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lgmime:transitory:trigesimo",
+      "source_span": "11 Bis",
+      "start_char": 58,
+      "end_char": 64,
+      "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
+      "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:11-bis",
+      "qualifiers": [],
+      "basis": "express_cross_reference",
+      "confidence": 1.0,
+      "resolution_status": "historical_superseded_reference_outdated",
+      "reference_form": "direct",
+      "outdated_reference_approval": {
+        "source_provision_id": "urn:lex-mx:federal:statute:lgmime:transitory:trigesimo",
+        "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
+        "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:11-bis",
+        "source_span": "11 Bis",
+        "start_char": 58,
+        "end_char": 64,
+        "source_text_sha256": "c32c4b8a21cfb3ce3b44de2073b0d7aaf768725561b931e9adb2624985217b85",
+        "source_sha256": "94e9c11b4c7f2b192eb33fb17818bea89d6d0bc5a85c85f6b08754fd6b2f6143",
+        "reviewer": "Operator",
+        "captured_at": "2026-10-16T19:42:41Z",
+        "rationale": "The cited LGIPE article 11 Bis is suppressed in the current LGIPE text.",
+        "decision_source": "docs/held-instruments-review-2026-10-16.md",
+        "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f"
+      },
+      "legal_operator_review": {
+        "source_provision_id": "urn:lex-mx:federal:statute:lgmime:transitory:trigesimo",
+        "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
+        "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:11-bis",
+        "source_span": "11 Bis",
+        "start_char": 58,
+        "end_char": 64,
+        "source_text_sha256": "c32c4b8a21cfb3ce3b44de2073b0d7aaf768725561b931e9adb2624985217b85",
+        "reviewer": "Operator",
+        "captured_at": "2026-10-16T19:42:41Z",
+        "note": "Operator: confirmed stale. LGIPE article 11 Bis reads [Artículo 11 Bis. Suprimido].",
+        "decision_source": "docs/held-instruments-review-2026-10-16.md",
+        "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f"
+      }
+    },
+    "after_edge": {
+      "schema_version": "0.1.0",
+      "id": "urn:lex-mx:federal:statute:lgmime:transitory:trigesimo:reference:58-64:11-bis:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lgmime:transitory:trigesimo",
+      "source_span": "11 Bis",
+      "start_char": 58,
+      "end_char": 64,
+      "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
+      "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:11-bis",
+      "qualifiers": [],
+      "basis": "express_cross_reference",
+      "confidence": 1.0,
+      "resolution_status": "historical_superseded_reference_outdated",
+      "reference_form": "direct",
+      "outdated_reference_approval": {
+        "source_provision_id": "urn:lex-mx:federal:statute:lgmime:transitory:trigesimo",
+        "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
+        "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:11-bis",
+        "source_span": "11 Bis",
+        "start_char": 58,
+        "end_char": 64,
+        "source_text_sha256": "c32c4b8a21cfb3ce3b44de2073b0d7aaf768725561b931e9adb2624985217b85",
+        "source_sha256": "94e9c11b4c7f2b192eb33fb17818bea89d6d0bc5a85c85f6b08754fd6b2f6143",
+        "reviewer": "Operator",
+        "captured_at": "2026-10-16T19:42:41Z",
+        "rationale": "The cited LGIPE article 11 Bis is suppressed in the current LGIPE text.",
+        "decision_source": "docs/held-instruments-review-2026-10-16.md",
+        "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f"
+      },
+      "legal_operator_review": {
+        "source_provision_id": "urn:lex-mx:federal:statute:lgmime:transitory:trigesimo",
+        "target_instrument_id": "urn:lex-mx:federal:statute:lgipe",
+        "target_provision_id": "urn:lex-mx:federal:statute:lgipe:article:11-bis",
+        "source_span": "11 Bis",
+        "start_char": 58,
+        "end_char": 64,
+        "source_text_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+        "reviewer": "Operator",
+        "captured_at": "2026-10-16T19:42:41Z",
+        "note": "Operator: confirmed stale. LGIPE article 11 Bis reads [Artículo 11 Bis. Suprimido].",
+        "decision_source": "docs/held-instruments-review-2026-10-16.md",
+        "decision_source_sha256": "99f8379e8bf1ee148347ef54d3a9de0a5a0c88eaae0417990bfbca5b5102a61f"
+      }
+    },
+    "results": [
+      {
+        "command": [
+          "/Users/jr/Dev/lex-mex/target/debug/lex-mex",
+          "--root",
+          "/private/tmp/lex-legal-review-audit-j1poh0eo",
+          "validate",
+          "lgmime"
+        ],
+        "exit_code": 0,
+        "output": "validation: valid; 70 articles, 30 transitories, 34 references, 4 issues\n"
+      },
+      {
+        "command": [
+          "/Users/jr/Dev/lex-mex/target/debug/lex-mex",
+          "--root",
+          "/private/tmp/lex-legal-review-audit-j1poh0eo",
+          "validate",
+          "lgmime"
+        ],
+        "exit_code": 0,
+        "output": "validation: valid; 70 articles, 30 transitories, 34 references, 4 issues\n"
+      }
+    ]
+  },
+  "single_link_guard_reproduction": {
+    "root": "/var/folders/rk/wvmmfkbn39s2wd0c52f8y15h0000gn/T/lex-guard-small-xn4ynx61",
+    "command": [
+      "/Users/jr/Dev/lex-mex/target/debug/lex-mex",
+      "--root",
+      "/var/folders/rk/wvmmfkbn39s2wd0c52f8y15h0000gn/T/lex-guard-small-xn4ynx61",
+      "link",
+      "lrsic"
+    ],
+    "exit_code": 0,
+    "output": "extracted 175 canonical references\nextracted 0 defined terms with 0 usages\n",
+    "before_edge": {
+      "schema_version": "0.1.0",
+      "id": "urn:lex-mx:federal:statute:lrsic:transitory:quinto:reference:25-27:33:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lrsic:transitory:quinto",
+      "source_span": "33",
+      "start_char": 25,
+      "end_char": 27,
+      "target_instrument_id": "urn:lex-mx:federal:statute:lraf-1990",
+      "target_provision_id": "urn:lex-mx:federal:statute:lraf-1990:article:33",
+      "qualifiers": [],
+      "basis": "express_cross_reference",
+      "confidence": 1.0,
+      "resolution_status": "historical_target_unavailable",
+      "reference_form": "direct"
+    },
+    "after_same_id": {
+      "schema_version": "0.1.0",
+      "id": "urn:lex-mx:federal:statute:lrsic:transitory:quinto:reference:25-27:33:direct",
+      "source_provision_id": "urn:lex-mx:federal:statute:lrsic:transitory:quinto",
+      "source_span": "33",
+      "start_char": 25,
+      "end_char": 27,
+      "target_instrument_id": "urn:lex-mx:federal:statute:lraf",
+      "target_provision_id": "urn:lex-mx:federal:statute:lraf:article:33",
+      "qualifiers": [],
+      "basis": "express_cross_reference",
+      "confidence": 1.0,
+      "resolution_status": "resolved",
+      "reference_form": "direct"
+    },
+    "references_before_sha256": "8db7ca02547db03ad212441957047916cb2fd7979fde458f52bb6429005108c1",
+    "references_after_sha256": "485f62d8cbf6721276b30fded082651f74578601b869628cc8e3dc82b70b3576"
+  },
+  "native_gate": [
+    {
+      "command": "cargo fmt --check",
+      "exit_code": 0,
+      "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "results": []
+    },
+    {
+      "command": "cargo clippy --workspace --all-targets -- -D warnings",
+      "exit_code": 0,
+      "log_sha256": "b3b76d0ec9374f9ca69679cb99e46855709f21e3dbcccca40739abe629e2a904",
+      "results": []
+    },
+    {
+      "command": "cargo test --workspace",
+      "exit_code": 0,
+      "log_sha256": "fe6c7fd2360255c2aea7c2bffa006ead69ee0bfb18601edf422f7b544a3aa77c",
+      "results": [
+        "test result: ok. 37 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.78s",
+        "test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 1.30s",
+        "test result: ok. 27 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.17s",
+        "test result: ok. 13 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.02s",
+        "test result: ok. 217 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.71s",
+        "test result: ok. 4 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s",
+        "test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s",
+        "test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s",
+        "test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s",
+        "test result: ok. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s"
+      ]
+    },
+    {
+      "command": "cargo run --locked -p lex-cli -- validate lritf",
+      "exit_code": 0,
+      "log_sha256": "afc7a3515aaffe884125ecbcb893748f1b0810780f1851441bb1d667220d3405",
+      "results": [
+        "validation: valid; 145 articles, 11 transitories, 126 references, 0 issues"
+      ]
+    },
+    {
+      "command": "cargo run --locked -p lex-cli -- validate ifpe-dcg-2021",
+      "exit_code": 0,
+      "log_sha256": "f3740e8e572ca85c40e26714f543094b80d3e711832496209d176e69691da244",
+      "results": [
+        "validation: valid; 59 articles, 4 transitories, 115 references, 0 issues"
+      ]
+    }
+  ],
+  "native_test_count": 301,
+  "source_sha256": {
+    "crates/lex-parse/src/lib.rs": "d80f06556bd3a290f6d6c1b6af39c6feb5ac1d1ad1c5b384e70070f564e1377d",
+    "crates/lex-cli/src/main.rs": "a897318a74cacc3c0fc51f0311724e4c4bc3edb61f8bb2324b4ef379487f8607",
+    "crates/lex-core/src/lib.rs": "234aa3941349c81fd61aae8d2ac10a131150e72371313bc3ca197a891323d146",
+    "crates/lex-export/src/lib.rs": "7006111a89f478cb0fea796feb3cb35c02bd7680891db944900a9160c9709498",
+    "crates/lex-source/src/lib.rs": "480a55e77ec7de56b4e24aa439bfbf02bf10f27cc18d8b3033a9fa175b151db4"
+  },
+  "limitations": [
+    "Eight accepted closure gaps and absent parent article suppression excluded from findings.",
+    "Prior L1-L7 inspected, no fresh end-to-end export acceptance claimed.",
+    "Private closure completed naturally and rejected LRSIC without mutation; subsequent private single-link retargeted it. No main closure or bulk reparse.",
+    "No code or corpus changes, staging, commit or push."
+  ],
+  "private_closure_contrast": {
+    "root": "/private/tmp/lex-guard-review-u0mu2jmg",
+    "setup": "Private copies of all canonicalJSON and adapters. Only lrsic external-instrument alias changed from historical lraf-1990 to live lraf, without a recorded migration override.",
+    "results": [
+      {
+        "command": [
+          "/Users/jr/Dev/lex-mex/target/debug/lex-mex",
+          "--root",
+          "/private/tmp/lex-guard-review-u0mu2jmg",
+          "link",
+          "--all"
+        ],
+        "exit_code": 1,
+        "output": "refreshing terms 0/467\nrefreshing terms 50/467\nrefreshing terms 100/467\nrefreshing terms 150/467\nrefreshing terms 200/467\nrefreshing terms 250/467\nrefreshing terms 300/467\nrefreshing terms 350/467\nrefreshing terms 400/467\nrefreshing terms 450/467\nrefreshing terms 0/467\nrefreshing terms 50/467\nrefreshing terms 100/467\nrefreshing terms 150/467\nrefreshing terms 200/467\nrefreshing terms 250/467\nrefreshing terms 300/467\nrefreshing terms 350/467\nrefreshing terms 400/467\nrefreshing terms 450/467\nlinking ccf (1/467)\nlinking ccom (2/467)\nlinking cff (3/467)\nlinking cfpc (4/467)\nlinking cjm (5/467)\nlinking cmpp (6/467)\nlinking cnpcf (7/467)\nlinking cnpp (8/467)\nlinking cpeum (9/467)\nlinking cpf (10/467)\nlinking cub-dcg-2005 (11/467)\nlinking cucb-dcg-2004 (12/467)\nlinking cue-dcg-2003 (13/467)\nlinking fi-dcg-2014 (14/467)\nlinking ifpe-dcg-2021 (15/467)\nlinking itf-dcg-2018 (16/467)\nlinking laam (17/467)\nlinking laassp (18/467)\nlinking laat (19/467)\nlinking lac (20/467)\nlinking lacp (21/467)\nlinking ladua (22/467)\nlinking laem (23/467)\nlinking laero (24/467)\nlinking lagra (25/467)\nlinking lamn (26/467)\nlinking lamni (27/467)\nlinking lamp (28/467)\nlinking lan (29/467)\nlinking lansi (30/467)\nlinking lapp (31/467)\nlinking larcp (32/467)\nlinking larefam (33/467)\nlinking lasoc (34/467)\nlinking latime (35/467)\nlinking lbio (36/467)\nlinking lbm (37/467)\nlinking lbogm (38/467)\nlinking lcaaa (39/467)\nlinking lcacsam (40/467)\nlinking lcacsefam (41/467)\nlinking lccaif (42/467)\nlinking lccbid (43/467)\nlinking lce (44/467)\nlinking lcec (45/467)\nlinking lcf (46/467)\nlinking lcid (47/467)\nlinking lcjpjf (48/467)\nlinking lcm (49/467)\nlinking lcmm (50/467)\nlinking lcmopfih (51/467)\nlinking lcnbv (52/467)\nlinking lcndh (53/467)\nlinking lcne (54/467)\nlinking lcnp (55/467)\nlinking lcpaf (56/467)\nlinking lcpro (57/467)\nlinking ldcmpme (58/467)\nlinking ldcpdch (59/467)\nlinking ldefam (60/467)\nlinking ldfefm (61/467)\nlinking ldofgg (62/467)\nlinking ldpam (63/467)\nlinking ldparm (64/467)\nlinking ldrs (65/467)\nlinking ldsc (66/467)\nlinking ldsca (67/467)\nlinking ldvuma (68/467)\nlinking lebhn (69/467)\nlinking lec (70/467)\nlinking lei (71/467)\nlinking lemefam (72/467)\nlinking len (73/467)\nlinking lepecfe (74/467)\nlinking lepepm (75/467)\nlinking less (76/467)\nlinking lexp (77/467)\nlinking lfaar (78/467)\nlinking lfaebsp (79/467)\nlinking lfafe (80/467)\nlinking lfar (81/467)\nlinking lfca (82/467)\nlinking lfcc (83/467)\nlinking lfce (84/467)\nlinking lfcp (85/467)\nlinking lfcpo (86/467)\nlinking lfcpq (87/467)\nlinking lfcsq (88/467)\nlinking lfd (89/467)\nlinking lfda (90/467)\nlinking lfdc (91/467)\nlinking lfdeapd (92/467)\nlinking lfdefp (93/467)\nlinking lfdo (94/467)\nlinking lfea (95/467)\nlinking lfed (96/467)\nlinking lfep (97/467)\nlinking lffaosc (98/467)\nlinking lffmaa (99/467)\nlinking lffpmn (100/467)\nlinking lfgfaga (101/467)\nlinking lfgr (102/467)\nlinking lfi (103/467)\nlinking lfiiedb (104/467)\nlinking lfisan (105/467)\nlinking lfiv (106/467)\nlinking lfjs (107/467)\nlinking lfll (108/467)\nlinking lfm (109/467)\nlinking lfmped (110/467)\nlinking lfmzaah (111/467)\nlinking lfpa (112/467)\nlinking lfpc (113/467)\nlinking lfpca (114/467)\nlinking lfpccs (115/467)\nlinking lfpdppp (116/467)\nlinking lfped (117/467)\nlinking lfpiorpi (118/467)\nlinking lfppcpcia (119/467)\nlinking lfppi (120/467)\nlinking lfppipp (121/467)\nlinking lfprh (122/467)\nlinking lfpsdmh (123/467)\nlinking lfra (124/467)\nlinking lfrcf (125/467)\nlinking lfremsp (126/467)\nlinking lfrm (127/467)\nlinking lfrpe (128/467)\nlinking lfrsp (129/467)\nlinking lfsa (130/467)\nlinking lfsp (131/467)\nlinking lfsv (132/467)\nlinking lft (133/467)\nlinking lftr (134/467)\nlinking lftse (135/467)\nlinking lfvv (136/467)\nlinking lfzee (137/467)\nlinking lga (138/467)\nlinking lgaas (139/467)\nlinking lgag (140/467)\nlinking lgahotdu (141/467)\nlinking lgamvlv (142/467)\nlinking lgappcea (143/467)\nlinking lgb (144/467)\nlinking lgbn (145/467)\nlinking lgcc (146/467)\nlinking lgcdc (147/467)\nlinking lgcfd (148/467)\nlinking lgcg (149/467)\nlinking lgcs (150/467)\nlinking lgct (151/467)\nlinking lgdfs (152/467)\nlinking lgdlpi (153/467)\nlinking lgdnna (154/467)\nlinking lgdocia (155/467)\nlinking lgdp (156/467)\nlinking lgds (157/467)\nlinking lge (158/467)\nlinking lgec (159/467)\nlinking lgeepa (160/467)\nlinking lgeo (161/467)\nlinking lges (162/467)\nlinking lgimh (163/467)\nlinking lgipd (164/467)\nlinking lgipe (165/467)\nlinking lgmasc (166/467)\nlinking lgmde (167/467)\nlinking lgmdfp (168/467)\nlinking lgmhcti (169/467)\nlinking lgmime (170/467)\nlinking lgmsv (171/467)\nlinking lgn (172/467)\nlinking lgoaac (173/467)\nlinking lgp (174/467)\nlinking lgpas (175/467)\nlinking lgpc (176/467)\nlinking lgpdppso (177/467)\nlinking lgpgir (178/467)\nlinking lgpisdme (179/467)\nlinking lgpist (180/467)\nlinking lgpp (181/467)\nlinking lgpsacdii (182/467)\nlinking lgpsdms (183/467)\nlinking lgpsvd (184/467)\nlinking lgra (185/467)\nlinking lgs (186/467)\nlinking lgsc (187/467)\nlinking lgscmm (188/467)\nlinking lgsm (189/467)\nlinking lgsmime (190/467)\nlinking lgsna (191/467)\nlinking lgsnsp (192/467)\nlinking lgt (193/467)\nlinking lgtaip (194/467)\nlinking lgtoc (195/467)\nlinking lgtrata (196/467)\nlinking lgv (197/467)\nlinking lgvs (198/467)\nlinking lhheum (199/467)\nlinking lic (200/467)\nlinking lic-calidad (201/467)\nlinking lie (202/467)\nlinking lieps (203/467)\nlinking lif-2026 (204/467)\nlinking ligie (205/467)\nlinking lih (206/467)\nlinking liispcen (207/467)\nlinking limj (208/467)\nlinking linbal (209/467)\nlinking linfonacot (210/467)\nlinking linfonavit (211/467)\nlinking linpi (212/467)\nlinking lins (213/467)\nlinking lisf (214/467)\nlinking lisipl (215/467)\nlinking lisr (216/467)\nlinking lissfam (217/467)\nlinking lissste (218/467)\nlinking liva (219/467)\nlinking lmccbdc (220/467)\nlinking lmeum (221/467)\nlinking lmigra (222/467)\nlinking lmin (223/467)\nlinking lmtr (224/467)\nlinking lmv (225/467)\nlinking lnac (226/467)\nlinking lncm (227/467)\nlinking lnep (228/467)\nlinking lnetb (229/467)\nlinking lnmasc-penal (230/467)\nlinking lnrd (231/467)\nlinking lnsijpa (232/467)\nlinking lnuf (233/467)\nlinking loam (234/467)\nlinking loapf (235/467)\nlinking lobb (236/467)\nlinking lobnce (237/467)\nlinking lobnefaa (238/467)\nlinking lobnosp (239/467)\nlinking locfcrl (240/467)\nlinking locg (241/467)\nlinking loefam (242/467)\nlinking log (243/467)\nlinking loinah (244/467)\nlinking loipn (245/467)\nlinking lonf (246/467)\nlinking lopdc (247/467)\nlinking lopgjdf (248/467)\nlinking lopjf (249/467)\nlinking lopsrm (250/467)\nlinking loscm (251/467)\nlinking loshf (252/467)\nlinking lota (253/467)\nlinking lotfja (254/467)\nlinking louaaan (255/467)\nlinking louam (256/467)\nlinking lounam (257/467)\nlinking lpab (258/467)\nlinking lpcinecdi (259/467)\nlinking lpdusf (260/467)\nlinking lpeam (261/467)\nlinking lperc (262/467)\nlinking lpf (263/467)\nlinking lplan (264/467)\nlinking lpo (265/467)\nlinking lppddhp (266/467)\nlinking lpte (267/467)\nlinking lpue (268/467)\nlinking lraf (269/467)\nlinking lram (270/467)\nlinking lrart27-mn (271/467)\nlinking lrart3-mmce (272/467)\nlinking lrart5-prof (273/467)\nlinking lrart6-mdr (274/467)\nlinking lrart76-fracvi (275/467)\nlinking lrascap (276/467)\nlinking lrcdn (277/467)\nlinking lrfiyii-art105 (278/467)\nlinking lrfv-art76 (279/467)\nlinking lrfxiiib-art123 (280/467)\nlinking lrfxviii-art73 (281/467)\nlinking lritf (282/467)\nlinking lrmnyut (283/467)\nlinking lrpcap (284/467)\nlinking lrpv (285/467)\nlinking lrsf (286/467)\nlinking lrsic (287/467)\nlinking lsar (288/467)\nlinking lsat (289/467)\nlinking lscs (290/467)\nlinking lsct (291/467)\nlinking lse (292/467)\nlinking lsem (293/467)\nlinking lsh (294/467)\nlinking lsint (295/467)\nlinking lsm (296/467)\nlinking lsn (297/467)\nlinking lsnieg (298/467)\nlinking lsniimsp (299/467)\nlinking lsp (300/467)\nlinking lspcapf (301/467)\nlinking lspm (302/467)\nlinking lsprem (303/467)\nlinking lsrlip (304/467)\nlinking lss (305/467)\nlinking lsss (306/467)\nlinking ltf (307/467)\nlinking ltfccg (308/467)\nlinking ltosf (309/467)\nlinking ltpcpimcp (310/467)\nlinking luach (311/467)\nlinking luc (312/467)\nlinking luefa (313/467)\nlinking lupdecr (314/467)\nlinking lvgc (315/467)\nlinking lviv (316/467)\nlinking lvzmm (317/467)\nlinking oaac-dcg-2009 (318/467)\nlinking oga (319/467)\nlinking pef-2026 (320/467)\nlinking reg-art121-122-lft (321/467)\nlinking reg-ccomer-mpsc (322/467)\nlinking reg-cff (323/467)\nlinking reg-csps (324/467)\nlinking reg-diputados (325/467)\nlinking reg-laam (326/467)\nlinking reg-laassp (327/467)\nlinking reg-laat (328/467)\nlinking reg-lac (329/467)\nlinking reg-ladua (330/467)\nlinking reg-laero (331/467)\nlinking reg-lagra-fodmc (332/467)\nlinking reg-lagra-mcdets (333/467)\nlinking reg-lagra-mopr (334/467)\nlinking reg-lan (335/467)\nlinking reg-lapp (336/467)\nlinking reg-larcp (337/467)\nlinking reg-larefagn (338/467)\nlinking reg-lbio (339/467)\nlinking reg-lbogm (340/467)\nlinking reg-lce (341/467)\nlinking reg-lcec (342/467)\nlinking reg-ldcmpme (343/467)\nlinking reg-ldrs-moirsse (344/467)\nlinking reg-lebhn (345/467)\nlinking reg-lecampo (346/467)\nlinking reg-lemefagn (347/467)\nlinking reg-len (348/467)\nlinking reg-lepecfe (349/467)\nlinking reg-lepepm (350/467)\nlinking reg-lfa (351/467)\nlinking reg-lfaebsp (352/467)\nlinking reg-lfafe (353/467)\nlinking reg-lfce (354/467)\nlinking reg-lfcine (355/467)\nlinking reg-lfcp (356/467)\nlinking reg-lfcpq (357/467)\nlinking reg-lfda (358/467)\nlinking reg-lfea (359/467)\nlinking reg-lfep (360/467)\nlinking reg-lffarosc (361/467)\nlinking reg-lfgfaga (362/467)\nlinking reg-lfif-art95 (363/467)\nlinking reg-lfiiedb (364/467)\nlinking reg-lfjs (365/467)\nlinking reg-lfll (366/467)\nlinking reg-lfmn (367/467)\nlinking reg-lfmzaah (368/467)\nlinking reg-lfpc (369/467)\nlinking reg-lfpc-art122 (370/467)\nlinking reg-lfpccs (371/467)\nlinking reg-lfpdppp (372/467)\nlinking reg-lfpiorpi (373/467)\nlinking reg-lfppi (374/467)\nlinking reg-lfprh (375/467)\nlinking reg-lfrt-mcpctrt (376/467)\nlinking reg-lfsa (377/467)\nlinking reg-lfsp (378/467)\nlinking reg-lfsv (379/467)\nlinking reg-lftaipg (380/467)\nlinking reg-lftr-mcsre (381/467)\nlinking reg-lfvv (382/467)\nlinking reg-lfzee (383/467)\nlinking reg-lgamvlv (384/467)\nlinking reg-lgappcea (385/467)\nlinking reg-lgcc-rne (386/467)\nlinking reg-lgcdc (387/467)\nlinking reg-lgcfd (388/467)\nlinking reg-lgct (389/467)\nlinking reg-lgdfs (390/467)\nlinking reg-lgdnna (391/467)\nlinking reg-lgds (392/467)\nlinking reg-lgeepa-anp (393/467)\nlinking reg-lgeepa-maaa (394/467)\nlinking reg-lgeepa-meia (395/467)\nlinking reg-lgeepa-moe (396/467)\nlinking reg-lgeepa-mpcca (397/467)\nlinking reg-lgeepa-mretc (398/467)\nlinking reg-lgeo (399/467)\nlinking reg-lgife (400/467)\nlinking reg-lgipd (401/467)\nlinking reg-lgn (402/467)\nlinking reg-lgp (403/467)\nlinking reg-lgpc (404/467)\nlinking reg-lgpgir (405/467)\nlinking reg-lgpsacdii (406/467)\nlinking reg-lgpsvd (407/467)\nlinking reg-lgs-insumos (408/467)\nlinking reg-lgs-investigacion (409/467)\nlinking reg-lgs-mcsaeps (410/467)\nlinking reg-lgs-mcsotcsh (411/467)\nlinking reg-lgs-mcspiumc (412/467)\nlinking reg-lgs-mp (413/467)\nlinking reg-lgs-mpsam (414/467)\nlinking reg-lgs-msi (415/467)\nlinking reg-lgs-mt (416/467)\nlinking reg-lgt (417/467)\nlinking reg-lgtrata (418/467)\nlinking reg-lgv (419/467)\nlinking reg-lgvs (420/467)\nlinking reg-lic-calidad (421/467)\nlinking reg-lieg (422/467)\nlinking reg-lieps (423/467)\nlinking reg-liernie (424/467)\nlinking reg-lih (425/467)\nlinking reg-linfonacot (426/467)\nlinking reg-linfonavit-mtai (427/467)\nlinking reg-lisr (428/467)\nlinking reg-lissfam (429/467)\nlinking reg-liva (430/467)\nlinking reg-lmigra (431/467)\nlinking reg-lmin (432/467)\nlinking reg-lnac (433/467)\nlinking reg-lncm (434/467)\nlinking reg-logan (435/467)\nlinking reg-loinah (436/467)\nlinking reg-lopgjdf (437/467)\nlinking reg-lopgr (438/467)\nlinking reg-lopsrm (439/467)\nlinking reg-lpeam (440/467)\nlinking reg-lpesca (441/467)\nlinking reg-lpf (442/467)\nlinking reg-lpo (443/467)\nlinking reg-lppddhp (444/467)\nlinking reg-lpte (445/467)\nlinking reg-lpue (446/467)\nlinking reg-lrart5c (447/467)\nlinking reg-lrmineras (448/467)\nlinking reg-lrpc (449/467)\nlinking reg-lrpv (450/467)\nlinking reg-lsar (451/467)\nlinking reg-lse (452/467)\nlinking reg-lsem (453/467)\nlinking reg-lsh (454/467)\nlinking reg-lsm (455/467)\nlinking reg-lspcapf (456/467)\nlinking reg-lspee-ma (457/467)\nlinking reg-lss-macerf (458/467)\nlinking reg-lss-maeba (459/467)\nlinking reg-lss-rfar (460/467)\nlinking reg-ltf (461/467)\nlinking reg-lupdecr (462/467)\nlinking reg-senado (463/467)\nlinking rgic (464/467)\nlinking scap-dcg-2012 (465/467)\nlinking servinv-dcg-2013 (466/467)\nlinking socap-sofipo-dcg-2006 (467/467)\ncpf: rejected, left unchanged\ncub-dcg-2005: rejected, left unchanged\ncucb-dcg-2004: rejected, left unchanged\nlftr: rejected, left unchanged\nlgs: rejected, left unchanged\nlmv: rejected, left unchanged\nlrsic: rejected, left unchanged\noaac-dcg-2009: rejected, left unchanged\nsocap-sofipo-dcg-2006: rejected, left unchanged\ncorpus closure: relinked 0, unchanged 458, rejected 9, references 35887 -> 35887, resolved cross-instrument 9763\nError: corpus closure left 9 instrument(s) unchanged because relink validation failed; see .work/corpus-closure.json\n",
+        "lrsic_references_unchanged": true
+      },
+      {
+        "command": [
+          "/Users/jr/Dev/lex-mex/target/debug/lex-mex",
+          "--root",
+          "/private/tmp/lex-guard-review-u0mu2jmg",
+          "link",
+          "lrsic"
+        ],
+        "exit_code": 0,
+        "output": "extracted 182 canonical references\nextracted 0 defined terms with 0 usages\n",
+        "before_edge": {
+          "schema_version": "0.1.0",
+          "id": "urn:lex-mx:federal:statute:lrsic:transitory:quinto:reference:25-27:33:direct",
+          "source_provision_id": "urn:lex-mx:federal:statute:lrsic:transitory:quinto",
+          "source_span": "33",
+          "start_char": 25,
+          "end_char": 27,
+          "target_instrument_id": "urn:lex-mx:federal:statute:lraf-1990",
+          "target_provision_id": "urn:lex-mx:federal:statute:lraf-1990:article:33",
+          "qualifiers": [],
+          "basis": "express_cross_reference",
+          "confidence": 1.0,
+          "resolution_status": "historical_target_unavailable",
+          "reference_form": "direct"
+        },
+        "after_edge": {
+          "schema_version": "0.1.0",
+          "id": "urn:lex-mx:federal:statute:lrsic:transitory:quinto:reference:25-27:33:direct",
+          "source_provision_id": "urn:lex-mx:federal:statute:lrsic:transitory:quinto",
+          "source_span": "33",
+          "start_char": 25,
+          "end_char": 27,
+          "target_instrument_id": "urn:lex-mx:federal:statute:lraf",
+          "target_provision_id": "urn:lex-mx:federal:statute:lraf:article:33",
+          "qualifiers": [],
+          "basis": "express_cross_reference",
+          "confidence": 1.0,
+          "resolution_status": "resolved",
+          "reference_form": "direct"
+        }
+      }
+    ]
+  }
+}

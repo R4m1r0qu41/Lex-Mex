@@ -70,6 +70,10 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Completed
 
+- [`docs/plans/claude-parent-link-review-2026-10-17.md`](docs/plans/claude-parent-link-review-2026-10-17.md)
+  — Claude parent-law review completed with six P2 repair requests; 301 tests
+  pass, code/corpus unchanged, written response queued.
+
 - [`docs/plans/linker-claude-audit-2026-10-16.md`](docs/plans/linker-claude-audit-2026-10-16.md)
   — Seven additional extraction/export findings reproduced and handed to Claude;
   three actual corpus/export cases, four synthetic cases.
