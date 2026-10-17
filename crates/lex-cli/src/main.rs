@@ -127,6 +127,11 @@ enum Command {
         /// Validation failures are left unchanged and reported.
         #[arg(long)]
         all: bool,
+        /// Audited override for one instrument: allow this relink to change
+        /// or drop persisted historical or approved edges. Every affected
+        /// edge id is printed; use only for a recorded operator migration.
+        #[arg(long, conflicts_with = "all")]
+        migrate_protected: bool,
     },
     AnalyzeTemporal {
         instrument: String,
@@ -359,7 +364,12 @@ fn main() -> Result<()> {
 /// Split from `main` so the per-subcommand match arms -- one per CLI
 /// surface, growing whenever a subcommand is added -- don't make `main`
 /// itself trip a function-length lint on an unrelated addition.
-fn dispatch_link(root: &Path, instrument: Option<String>, all: bool) -> Result<()> {
+fn dispatch_link(
+    root: &Path,
+    instrument: Option<String>,
+    all: bool,
+    migrate_protected: bool,
+) -> Result<()> {
     if all {
         let report = run_corpus_closure(root)?;
         if report.status != "ok" {
@@ -372,7 +382,7 @@ fn dispatch_link(root: &Path, instrument: Option<String>, all: bool) -> Result<(
     }
     let instrument = instrument.context("missing instrument slug")?;
     let context = instrument_context(root, &instrument)?;
-    run_link(root, &context)
+    run_link_with(root, &context, migrate_protected)
 }
 
 fn dispatch(root: &Path, obsidian_vault: Option<&Path>, command: Command) -> Result<()> {
@@ -396,7 +406,11 @@ fn dispatch(root: &Path, obsidian_vault: Option<&Path>, command: Command) -> Res
             let context = instrument_context(root, &instrument)?;
             run_parse(root, &context)?;
         }
-        Command::Link { instrument, all } => dispatch_link(root, instrument, all)?,
+        Command::Link {
+            instrument,
+            all,
+            migrate_protected,
+        } => dispatch_link(root, instrument, all, migrate_protected)?,
         Command::AnalyzeTemporal {
             instrument,
             provider,
@@ -2661,10 +2675,30 @@ fn sibling_views<'a>(
 }
 
 fn run_link(root: &Path, context: &InstrumentContext) -> Result<()> {
+    run_link_with(root, context, false)
+}
+
+/// Single-instrument relink with the same protected-edge guard as the corpus
+/// closure. A refusal happens before any canonical file is written; an
+/// operator migration passes `migrate_protected` and every changed edge id is
+/// printed.
+fn run_link_with(root: &Path, context: &InstrumentContext, migrate_protected: bool) -> Result<()> {
     validate_persisted_repeal_evidence(root, &read_corpus(&context.paths)?)?;
     let corpora = read_committed_corpora(root)?;
     let mut corpus = read_corpus(&context.paths)?;
     let graph = relink_instrument(root, context, &corpus, &corpora)?;
+    let drift = protected_edge_drift(&corpus, &graph);
+    if !drift.is_empty() {
+        if !migrate_protected {
+            bail!(
+                "relink refused; it would change protected edges (rerun with --migrate-protected only for a recorded operator migration):\n{}",
+                drift.join("\n")
+            );
+        }
+        for entry in &drift {
+            println!("migrating protected edge: {entry}");
+        }
+    }
     corpus.references = graph.references;
     corpus.terms = graph.terms;
     corpus.term_usages = graph.usages;
@@ -4430,9 +4464,11 @@ mod tests {
             cli.command,
             Command::Link {
                 all: true,
-                instrument: None
+                instrument: None,
+                migrate_protected: false
             }
         ));
+        assert!(Cli::try_parse_from(["lex-mex", "link", "--all", "--migrate-protected"]).is_err());
         assert!(Cli::try_parse_from(["lex-mex", "link"]).is_err());
         assert!(Cli::try_parse_from(["lex-mex", "link", "lritf", "--all"]).is_err());
     }
@@ -5111,6 +5147,7 @@ mod tests {
     }
 
     #[test]
+    #[allow(clippy::too_many_lines)]
     fn successor_evidence_drift_blocks_validate_link_and_all_exports() {
         let temp = tempfile::tempdir().unwrap();
         let root = temp.path();
@@ -5167,6 +5204,36 @@ mod tests {
         write_canonical(&successor, &successor_dir).unwrap();
         assert!(super::run_validate(root, &context).unwrap().valid);
         super::run_link(root, &context).unwrap();
+        // A single-instrument relink refuses to change a persisted protected
+        // edge before writing anything; the audited override allows it.
+        let mut protected = read_corpus(&context.paths).unwrap();
+        let original_references = fs::read(&context.paths.references).unwrap();
+        protected.references.push(lex_core::ReferenceEdge {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: "fixture-protected-edge".to_owned(),
+            source_provision_id: protected.provisions[0].id.clone(),
+            source_span: "Texto".to_owned(),
+            start_char: 0,
+            end_char: 5,
+            target_instrument_id: successor_id.to_owned(),
+            target_provision_id: format!("{successor_id}:article:1"),
+            qualifiers: vec![],
+            basis: lex_core::Basis::ExpressCrossReference,
+            confidence: 1.0,
+            resolution_status: ReferenceResolutionStatus::HistoricalTargetUnavailable,
+            reference_form: lex_core::ReferenceForm::Direct,
+            outdated_reference_approval: None,
+            legal_operator_review: None,
+        });
+        write_canonical(&protected, &context.paths.corpus).unwrap();
+        let persisted = fs::read(&context.paths.references).unwrap();
+        assert!(super::run_link(root, &context).is_err());
+        assert_eq!(fs::read(&context.paths.references).unwrap(), persisted);
+        super::run_link_with(root, &context, true).unwrap();
+        assert_eq!(
+            fs::read(&context.paths.references).unwrap(),
+            original_references
+        );
         super::run_export(root, &context, super::ExportFormat::Markdown, None).unwrap();
         let tracked = [
             &context.paths.instrument,

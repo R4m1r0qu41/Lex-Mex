@@ -802,7 +802,7 @@ fn bare_parent_marker(lower: &str, parent_id: &str) -> Option<usize> {
                 return false;
             }
             let quoted = marker.ends_with(['”', '"']);
-            quoted || bare_word_follows(&lower[position + marker.len()..])
+            bare_word_follows(&lower[position + marker.len()..], quoted)
         })
         .map(|(position, _)| position)
         .min()
@@ -814,7 +814,7 @@ fn bare_parent_marker(lower: &str, parent_id: &str) -> Option<usize> {
 /// Fuerza…`), an anaphoric `en cita`, or a dated reading of the law
 /// (`de la Ley vigente hasta el 31 de diciembre de 2001`), which names another
 /// law than the regulation's current parent.
-fn bare_word_follows(rest: &str) -> bool {
+fn bare_word_follows(rest: &str, quoted: bool) -> bool {
     let Some(first) = rest.chars().next() else {
         return true;
     };
@@ -832,42 +832,70 @@ fn bare_word_follows(rest: &str) -> bool {
         .split(|c: char| !c.is_alphabetic())
         .filter(|word| !word.is_empty());
     let word = words.next().unwrap_or_default();
-    let following = words.next().unwrap_or_default();
-    match word {
-        "que" => ![
-            "regula",
-            "establece",
-            "crea",
-            "declara",
-            "expide",
-            "instituye",
-            "adiciona",
-            "deroga",
-            "aprueba",
-            "otorga",
-            "fija",
-            "norma",
-            "modifica",
-            "reforma",
-        ]
-        .contains(&following),
-        "en" => following != "cita",
-        "vigente" => !["hasta", "desde", "a", "en", "durante", "al"].contains(&following),
-        _ => [
-            "y",
-            "o",
-            "e",
-            "conforme",
-            "aplicable",
-            "cuando",
-            "se",
-            "así",
-            "como",
-            "sus",
-            "su",
-        ]
-        .contains(&word),
+    let second = words.next().unwrap_or_default();
+    let third = words.next().unwrap_or_default();
+    let dated = |w: &str| ["a", "al", "desde", "hasta", "durante", "en"].contains(&w);
+    // Readings that name another law than the current parent: a dated
+    // reading, an anaphor to an earlier-cited law, or a titled law.
+    let excluded = match word {
+        "que" => {
+            [
+                "regula",
+                "establece",
+                "crea",
+                "declara",
+                "expide",
+                "instituye",
+                "adiciona",
+                "deroga",
+                "aprueba",
+                "otorga",
+                "fija",
+                "norma",
+                "modifica",
+                "reforma",
+                "estaba",
+                "estuvo",
+                "estuviera",
+                "entonces",
+            ]
+            .contains(&second)
+                || (second == "se"
+                    && [
+                        "cita", "menciona", "comenta", "invoca", "refiere", "señala", "alude",
+                    ]
+                    .contains(&third))
+        }
+        "en" => {
+            ["cita", "comento", "cuestión", "referencia"].contains(&second)
+                || (second == "vigor" && dated(third))
+        }
+        "vigente" => ["hasta", "desde", "a", "en", "durante", "al"].contains(&second),
+        _ => false,
+    };
+    if excluded {
+        return false;
     }
+    // A quoted `“Ley”` is already an explicit shorthand; an unquoted one must
+    // be followed by a plain connective or a recognised bare continuation.
+    quoted
+        || match word {
+            "que" | "en" | "vigente" => true,
+            _ => [
+                "y",
+                "o",
+                "e",
+                "conforme",
+                "aplicable",
+                "cuando",
+                "se",
+                "así",
+                "como",
+                "sus",
+                "su",
+            ]
+            .contains(&word),
+        }
 }
 
 fn sentence_target<'a>(
@@ -920,9 +948,17 @@ fn sentence_target<'a>(
     // The parent law governs a bare `Ley` (never one followed by a title)
     // only when the citation window has no internal marker (`de este
     // Reglamento`); a mixed citation is skipped, never guessed.
+    // A configured title that opens inside the same governing phrase
+    // (`de la Ley en Materia de …`) outranks its bare-parent prefix; a later,
+    // separate law citation does not.
     let parent_candidate = parent
         .zip(parent_position)
-        .filter(|(_, position)| *position <= max_marker_start);
+        .filter(|(_, position)| *position <= max_marker_start)
+        .filter(|(_, position)| {
+            configured.is_none_or(|(configured_position, _)| {
+                configured_position < *position || configured_position > position + 10
+            })
+        });
     let candidates = [
         internal.map(|position| (position, GroupTarget::Internal)),
         configured.map(|(position, id)| (position, GroupTarget::External(id))),
@@ -2348,6 +2384,17 @@ fn validate_reference(
         issues.push(error(
             "outdated_reference_approval_invalid",
             "outdated reference requires an exact valid source-bound approval".to_owned(),
+            Some(reference.source_provision_id.clone()),
+        ));
+    }
+    if reference
+        .legal_operator_review
+        .as_ref()
+        .is_some_and(|review| !review.matches(reference, source_text))
+    {
+        issues.push(error(
+            "legal_operator_review_invalid",
+            "legal operator review is not bound to this exact edge and source text".to_owned(),
             Some(reference.source_provision_id.clone()),
         ));
     }
@@ -4111,10 +4158,16 @@ mod tests {
                         .iter()
                         .map(|m| (*m).to_owned())
                         .collect(),
-                    external_instruments: vec![(
-                        "ley federal de procedimiento administrativo".to_owned(),
-                        "urn:lex-mx:federal:statute:lfpa".to_owned(),
-                    )],
+                    external_instruments: vec![
+                        (
+                            "ley federal de procedimiento administrativo".to_owned(),
+                            "urn:lex-mx:federal:statute:lfpa".to_owned(),
+                        ),
+                        (
+                            "ley en materia de telecomunicaciones y radiodifusión".to_owned(),
+                            "urn:lex-mx:federal:statute:lmtr".to_owned(),
+                        ),
+                    ],
                 },
                 transitory_citations: true,
                 same_article_fractions: true,
@@ -4184,6 +4237,70 @@ mod tests {
         ] {
             assert_eq!(parent_edges(text, &known).len(), 1, "{text}");
         }
+    }
+
+    #[test]
+    fn a_configured_full_title_outranks_its_bare_parent_prefix() {
+        let known = [
+            "urn:lex-mx:federal:statute:lan:article:1",
+            "urn:lex-mx:federal:statute:lmtr:article:1",
+        ];
+        let edges = parent_edges(
+            "Se aplicará el artículo 1 de la Ley en Materia de Telecomunicaciones y Radiodifusión.",
+            &known,
+        );
+        assert_eq!(edges.len(), 1);
+        assert_eq!(edges[0].target_provision_id, known[1]);
+        // A genuine parent reference before a separate later citation stays.
+        let edges = parent_edges(
+            "Se aplicará el artículo 1 de la Ley, y el artículo 1 de la Ley en Materia de Telecomunicaciones y Radiodifusión.",
+            &known,
+        );
+        let targets: Vec<_> = edges
+            .iter()
+            .map(|e| e.target_provision_id.as_str())
+            .collect();
+        assert_eq!(targets, [known[0], known[1]]);
+    }
+
+    #[test]
+    fn quoting_ley_does_not_bypass_dated_or_anaphoric_exclusions() {
+        let known = ["urn:lex-mx:federal:statute:lan:article:10"];
+        for text in [
+            "Se aplicará el artículo 10 de la “Ley” vigente hasta el 31 de diciembre de 2001, y otros.",
+            "Se aplicará el artículo 10 de la \"Ley\" vigente hasta el 31 de diciembre de 2001, y otros.",
+            "Se aplicará el artículo 10 de la “Ley” en cita, o de su equivalente.",
+            "Se aplicará el artículo 10 de la \"Ley\" en cita, o de su equivalente.",
+        ] {
+            assert!(parent_edges(text, &known).is_empty(), "{text}");
+        }
+        for text in [
+            "Se aplicará el artículo 10 de la “Ley”, conforme a lo anterior.",
+            "Se aplicará el artículo 10 de la \"Ley\" y de otras.",
+        ] {
+            assert_eq!(parent_edges(text, &known).len(), 1, "{text}");
+        }
+    }
+
+    #[test]
+    fn unsupported_anaphora_and_historical_wording_stay_unlinked() {
+        let known = ["urn:lex-mx:federal:statute:lan:article:1"];
+        for text in [
+            "Conforme a la Ley Federal del Trabajo, aplica el artículo 1 de la Ley en comento.",
+            "Conforme a la Ley Federal del Trabajo, aplica el artículo 1 de la Ley que se cita.",
+            "Se aplicará el artículo 1 de la Ley en vigor al 31 de diciembre de 1990.",
+            "Se aplicará el artículo 1 de la Ley que estaba vigente al 31 de diciembre de 1990.",
+        ] {
+            assert!(parent_edges(text, &known).is_empty(), "{text}");
+        }
+        assert_eq!(
+            parent_edges(
+                "Se aplicará el artículo 1 de la Ley en vigor, y otras.",
+                &known
+            )
+            .len(),
+            1
+        );
     }
 
     #[test]
@@ -4767,6 +4884,39 @@ Ciudad de México, a 1 de octubre de 2025.
                 .count(),
             1
         );
+        // Validation rechecks the persisted binding: a valid control passes;
+        // a tampered hash, span, target or metadata is an error.
+        let issues_for = |candidate: &lex_core::ReferenceEdge| {
+            let mut issues = Vec::new();
+            super::validate_references(
+                instrument_id,
+                None,
+                &doc.provisions,
+                std::slice::from_ref(candidate),
+                &HashSet::new(),
+                &mut issues,
+            );
+            issues
+                .iter()
+                .filter(|i| i.code == "legal_operator_review_invalid")
+                .count()
+        };
+        let reviewed_edge = reviewed.clone();
+        assert_eq!(issues_for(&reviewed_edge), 0);
+        let tamper: [fn(&mut lex_core::LegalOperatorReview); 4] = [
+            |r| r.source_text_sha256 = "0".repeat(64),
+            |r| {
+                r.start_char += 1;
+                r.end_char += 1;
+            },
+            |r| r.target_provision_id = format!("{}:article:999", r.target_instrument_id),
+            |r| r.note = " ".to_owned(),
+        ];
+        for mutate in tamper {
+            let mut bad = reviewed_edge.clone();
+            mutate(bad.legal_operator_review.as_mut().unwrap());
+            assert_eq!(issues_for(&bad), 1);
+        }
         // Changed provision text, an unmatched citation, a duplicate and a
         // second review of the same edge all fail closed.
         let mut raw = vec![edge.clone()];
