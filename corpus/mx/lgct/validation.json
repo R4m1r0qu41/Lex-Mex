@@ -5,18 +5,5 @@
   "article_count": 57,
   "transitory_count": 4,
   "reference_count": 24,
-  "issues": [
-    {
-      "severity": "warning",
-      "code": "counts_not_frozen",
-      "message": "no article-count baseline frozen; parse found 57 articles",
-      "provision_id": null
-    },
-    {
-      "severity": "warning",
-      "code": "counts_not_frozen",
-      "message": "no transitory-count baseline frozen; parse found 4 transitories",
-      "provision_id": null
-    }
-  ]
+  "issues": []
 }

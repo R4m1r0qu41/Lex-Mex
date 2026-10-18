@@ -2,9 +2,10 @@
 
 - **Status date:** 2026-10-16
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed and pushed instruments:** 467 (`corpus/mx/*/instrument.json`); local `main` is 5 commits ahead of `origin/main` (`7326c41aa`), unpushed. The 32 further `corpus/mx` directories are NOM standards, a separate boundary
+- **Committed and pushed instruments:** 467 (`corpus/mx/*/instrument.json`); local `main` is ahead of `origin/main` (`83e03a4e5`), unpushed. The 32 further `corpus/mx` directories are NOM standards, a separate boundary
 - **Federal structural first pass:** structurally complete. 452 of 453 current Cámara laws and regulations are in the corpus; the one gap is `egdf`, excluded by operator decision ([coverage audit](federal-coverage-audit-2026-10-16.md))
 - **Deferred:** three DCGs (`consar-cuf-dcg-2018`, `cusf-dcg-2014`, `pld-lic115-dcg-2009`), outside the Cámara universe
+- **Closure gate:** `lex-mex link --all` exits 0 only when its rejections equal the recorded accepted gaps (`adapters/diputados/_closure-accepted-gaps.json`: `cpf`, `lgs`, `lmv`, `lftr` and four held DCGs); anything new, changed or resolved exits 1. `link <slug>` refuses to change protected historical or approved edges unless `--migrate-protected` is passed for a recorded operator migration.
 - **Next checkpoint:** corpus-wide relink and the parser/linker repair are landed locally (unpushed). Federal laws and regulations are in maintenance mode. Open: Codex technical review; JRH on `lgdnna` Article 157 and `lrsic`; EGDF recording (operator reviewing); 8 held instruments (`cpf`, `lgs`, `lmv` target-side suffix parser gaps; `lftr` embedded invalidated articles; four DCGs for a DCG pass); DCGs. The derived SQLite database is decided ([decisions](decisions.md)) but not built: no dependency, code or database file exists. `lfiiedb` modeling remains open
 - **Legal and temporal review:** none run on the 2026-10-15 admissions; provisions are `not_analyzed`
 
@@ -114,8 +115,15 @@ articles promoted `repealed` provenance; 15,974 promoted
 in `docs/ingestion-difficulty-log.md`'s `temporal-derive` entry — the
 intended queue for addressing one outlier category at a time.
 
-All 242 `validation.json` reports are valid. They contain 390 non-blocking
-warnings: 291 non-numeric/suffixed-article notices, 36 unfrozen count
+Update 2026-10-17: after the warning decisions (see [decisions](decisions.md)),
+all 467 instrument `validation.json` reports are valid and carry 95 non-blocking
+warnings in total with the 32 NOM standard reports: 8 article gaps, 5
+suffix-order notices, 21 expected approved or historical references, 8
+unfrozen count baselines (the four held DCGs), and the standard-boundary
+notices. The older breakdown below is superseded for the 242-report subset.
+
+All 242 `validation.json` reports are valid. They contained 390 non-blocking
+warnings then: 291 non-numeric/suffixed-article notices, 36 unfrozen count
 baselines, 35 represented supplements whose source states no explicit legal
 character, 8 article-gap notices, 3 warnings for official standard
 modifications not incorporated in the retained source text, 3 decree targets

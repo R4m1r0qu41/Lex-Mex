@@ -230,7 +230,8 @@ cargo run --locked -p lex-cli -- fetch lritf
 cargo run --locked -p lex-cli -- extract lritf
 cargo run --locked -p lex-cli -- parse lritf
 cargo run --locked -p lex-cli -- link lritf
-cargo run --locked -p lex-cli -- link --all
+cargo run --locked -p lex-cli -- link --all   # exits 0 only if rejections equal the recorded accepted gaps
+cargo run --locked -p lex-cli -- link lrsic --migrate-protected   # audited override, operator migrations only
 cargo run --locked -p lex-cli -- validate lritf
 cargo run --locked -p lex-cli -- export lritf --format json
 cargo run --locked -p lex-cli -- export lritf --format markdown

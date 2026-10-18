@@ -10,8 +10,13 @@
   "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgamvlv.htm",
   "publisher": "Cámara de Diputados del H. Congreso de la Unión",
   "publication_date": null,
-  "expected_articles": null,
-  "expected_transitories": null,
+  "expected_articles": 101,
+  "expected_transitories": 8,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-10-17T23:33:54Z"
+  },
   "allow_article_gaps": false,
   "formal_publication_urls": {}
 }

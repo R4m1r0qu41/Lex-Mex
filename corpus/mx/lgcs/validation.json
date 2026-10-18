@@ -8,18 +8,6 @@
   "issues": [
     {
       "severity": "warning",
-      "code": "counts_not_frozen",
-      "message": "no article-count baseline frozen; parse found 45 articles",
-      "provision_id": null
-    },
-    {
-      "severity": "warning",
-      "code": "counts_not_frozen",
-      "message": "no transitory-count baseline frozen; parse found 8 transitories",
-      "provision_id": null
-    },
-    {
-      "severity": "warning",
       "code": "historical_superseded_reference_outdated",
       "message": "reviewed stale citation retained without a live link: urn:lex-mx:federal:statute:lgcs:article:5-bis",
       "provision_id": "urn:lex-mx:federal:statute:lgcs:article:26"

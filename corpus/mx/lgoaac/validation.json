@@ -8,18 +8,6 @@
   "issues": [
     {
       "severity": "warning",
-      "code": "counts_not_frozen",
-      "message": "no article-count baseline frozen; parse found 265 articles",
-      "provision_id": null
-    },
-    {
-      "severity": "warning",
-      "code": "counts_not_frozen",
-      "message": "no transitory-count baseline frozen; parse found 7 transitories",
-      "provision_id": null
-    },
-    {
-      "severity": "warning",
       "code": "suffix_order",
       "message": "article 45 Bis-1 does not sort after 45-T within the same base",
       "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1"

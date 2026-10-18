@@ -372,6 +372,21 @@ fn dispatch_link(
 ) -> Result<()> {
     if all {
         let report = run_corpus_closure(root)?;
+        let matches_accepted = closure_matches_accepted_gaps(root, &report)?;
+        if matches_accepted {
+            if !report.rejected.is_empty() {
+                println!(
+                    "corpus closure: the {} rejected instruments are exactly the recorded accepted gaps",
+                    report.rejected.len()
+                );
+            }
+            return Ok(());
+        }
+        if report.status == "ok" {
+            bail!(
+                "corpus closure is clean but the accepted-gap list is stale; remove the resolved entries from {CLOSURE_ACCEPTED_GAPS}"
+            );
+        }
         if report.status != "ok" {
             bail!(
                 "corpus closure left {} instrument(s) unchanged because relink validation failed; see .work/corpus-closure.json",
@@ -2765,6 +2780,69 @@ enum ClosureDecision {
     Rejected(Vec<String>),
 }
 
+const CLOSURE_ACCEPTED_GAPS: &str = "adapters/diputados/_closure-accepted-gaps.json";
+
+#[derive(serde::Deserialize)]
+struct AcceptedClosureGaps {
+    accepted: Vec<AcceptedClosureGap>,
+}
+
+#[derive(serde::Deserialize)]
+struct AcceptedClosureGap {
+    slug: String,
+    errors: Vec<String>,
+}
+
+/// True only when the closure's rejections equal the recorded accepted-gap
+/// list exactly (same instruments, same errors). Anything new, changed or
+/// resolved is reported and the closure keeps failing, so a clean exit means
+/// "nothing beyond the accepted gaps". No list on disk means no gap is accepted,
+/// and a clean closure with a non-empty list is also a mismatch (stale entries).
+fn closure_matches_accepted_gaps(root: &Path, report: &CorpusClosureReport) -> Result<bool> {
+    let path = root.join(CLOSURE_ACCEPTED_GAPS);
+    let accepted: AcceptedClosureGaps = if path.exists() {
+        serde_json::from_str(&fs::read_to_string(&path)?)
+            .with_context(|| format!("invalid {}", path.display()))?
+    } else {
+        AcceptedClosureGaps { accepted: vec![] }
+    };
+    // Errors are compared as recorded, with multiplicity: a new citation to
+    // an already-accepted missing target must not pass.
+    let normalize = |errors: &[String]| {
+        let mut errors = errors.to_vec();
+        errors.sort();
+        errors
+    };
+    let mut recorded: Vec<(&str, Vec<String>)> = accepted
+        .accepted
+        .iter()
+        .map(|gap| (gap.slug.as_str(), normalize(&gap.errors)))
+        .collect();
+    let mut actual: Vec<(&str, Vec<String>)> = report
+        .rejected
+        .iter()
+        .map(|rejection| (rejection.slug.as_str(), normalize(&rejection.errors)))
+        .collect();
+    recorded.sort();
+    actual.sort();
+    let mut matches = true;
+    for (slug, errors) in &actual {
+        if !recorded.contains(&(*slug, errors.clone())) {
+            println!("closure: new or changed rejection, not an accepted gap: {slug}");
+            matches = false;
+        }
+    }
+    for (slug, errors) in &recorded {
+        if !actual.contains(&(*slug, errors.clone())) {
+            println!(
+                "closure: accepted gap no longer rejected as recorded (resolved or changed): {slug}"
+            );
+            matches = false;
+        }
+    }
+    Ok(matches)
+}
+
 /// Relink every committed instrument once, against one in-memory corpus.
 /// An instrument whose new graph does not validate is left on disk as it was.
 fn run_corpus_closure(root: &Path) -> Result<CorpusClosureReport> {
@@ -4986,6 +5064,53 @@ mod tests {
             "status": "in_force"
         }))
         .unwrap()
+    }
+
+    #[test]
+    fn closure_exits_clean_only_when_rejections_equal_the_accepted_gaps() {
+        let temporary = tempfile::tempdir().unwrap();
+        let root = temporary.path();
+        let report = |rejected: Vec<(&str, &str)>| super::CorpusClosureReport {
+            status: "failed".to_owned(),
+            instruments: 2,
+            relinked: 0,
+            unchanged: 0,
+            references_before: 0,
+            references_after: 0,
+            resolved_cross_instrument: 0,
+            ambiguous_titles: vec![],
+            rejected: rejected
+                .into_iter()
+                .map(|(slug, error)| super::CorpusClosureRejection {
+                    slug: slug.to_owned(),
+                    errors: vec![error.to_owned()],
+                })
+                .collect(),
+        };
+        let current = report(vec![("one", "missing a"), ("two", "missing b")]);
+        // No recorded list accepts nothing.
+        assert!(!super::closure_matches_accepted_gaps(root, &current).unwrap());
+        assert!(super::closure_matches_accepted_gaps(root, &report(vec![])).unwrap());
+        fs::create_dir_all(root.join("adapters/diputados")).unwrap();
+        fs::write(
+            root.join(super::CLOSURE_ACCEPTED_GAPS),
+            r#"{"accepted":[{"slug":"one","errors":["missing a"]},{"slug":"two","errors":["missing b"]}]}"#,
+        )
+        .unwrap();
+        assert!(super::closure_matches_accepted_gaps(root, &current).unwrap());
+        // A new rejection, a changed error and a resolved gap each fail.
+        for changed in [
+            report(vec![
+                ("one", "missing a"),
+                ("two", "missing b"),
+                ("three", "x"),
+            ]),
+            report(vec![("one", "missing a"), ("two", "missing other")]),
+            report(vec![("one", "missing a")]),
+            report(vec![]),
+        ] {
+            assert!(!super::closure_matches_accepted_gaps(root, &changed).unwrap());
+        }
     }
 
     #[test]

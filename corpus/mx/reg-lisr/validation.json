@@ -8,18 +8,6 @@
   "issues": [
     {
       "severity": "warning",
-      "code": "counts_not_frozen",
-      "message": "no article-count baseline frozen; parse found 313 articles",
-      "provision_id": null
-    },
-    {
-      "severity": "warning",
-      "code": "counts_not_frozen",
-      "message": "no transitory-count baseline frozen; parse found 9 transitories",
-      "provision_id": null
-    },
-    {
-      "severity": "warning",
       "code": "historical_superseded_reference_outdated",
       "message": "reviewed stale citation retained without a live link: urn:lex-mx:federal:statute:lisr:article:216-bis",
       "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:transitory:sexto"

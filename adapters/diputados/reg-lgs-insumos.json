@@ -10,8 +10,13 @@
   "reference_url": "http://www.oag.salud.gob.mx/descargas/LV/56-31052021.pdf",
   "publisher": "Secretaría de Salud, Oficina del Abogado General",
   "publication_date": "1998-02-04",
-  "expected_articles": null,
-  "expected_transitories": null,
+  "expected_articles": 255,
+  "expected_transitories": 6,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-10-17T23:33:54Z"
+  },
   "allow_article_gaps": false,
   "formal_publication_urls": {
     "1998-02-04": "https://dof.gob.mx/abrirPDF.php?archivo=04021998-MAT.pdf&anio=1998&repo=repositorio/",

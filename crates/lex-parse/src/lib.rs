@@ -2085,21 +2085,31 @@ fn validate_provisions(
         match provision.provision_type {
             ProvisionType::Article => {
                 if expectations.allow_article_gaps {
-                    validate_article_order_by_label(provision, &mut previous_article, issues);
+                    validate_article_order_by_label(provision, &mut previous_article, true, issues);
                 } else {
                     match plain_article_number(&provision.number) {
-                        Some(number) if number == expected_number => expected_number += 1,
+                        Some(number) if number == expected_number => {
+                            expected_number += 1;
+                            // Track the plain article so a following suffixed
+                            // article is ordered against it.
+                            previous_article = labels::match_label_at(&provision.number)
+                                .filter(|label| label.raw() == provision.number)
+                                .map(|label| (label.sort_key(), provision.number.clone()));
+                        }
                         Some(number) => issues.push(error(
                             "article_order",
                             format!("expected article {expected_number}, found {number}"),
                             Some(provision.id.clone()),
                         )),
-                        None => issues.push(ValidationIssue {
-                            severity: Severity::Warning,
-                            code: "non_numeric_article".to_owned(),
-                            message: "article suffix requires ordering review".to_owned(),
-                            provision_id: Some(provision.id.clone()),
-                        }),
+                        // A suffixed article is ordered by its sort key whether
+                        // or not gaps are allowed; its base may repeat the
+                        // previous plain article, never run backwards.
+                        None => validate_article_order_by_label(
+                            provision,
+                            &mut previous_article,
+                            false,
+                            issues,
+                        ),
                     }
                 }
                 if expectations.require_chapter_context
@@ -2175,6 +2185,7 @@ fn contains_page_header_contamination(text: &str) -> bool {
 fn validate_article_order_by_label(
     provision: &Provision,
     previous: &mut Option<(labels::ArticleSortKey, String)>,
+    report_gaps: bool,
     issues: &mut Vec<ValidationIssue>,
 ) {
     let parsed =
@@ -2205,6 +2216,8 @@ fn validate_article_order_by_label(
                 ),
                 Some(provision.id.clone()),
             )),
+            // Strict ordering already errors on a missing plain number.
+            (Some(base), Some(previous_base)) if !report_gaps && base > previous_base + 1 => {}
             (Some(base), Some(previous_base)) if base > previous_base + 1 => {
                 issues.push(ValidationIssue {
                     severity: Severity::Warning,
@@ -3786,6 +3799,21 @@ mod tests {
     const GAPPED_CODIGO: &str = "Artículo 1o.- Uno.\n\nArtículo 2o.- Dos.\n\nArtículo 15.- Quince.\n\nArtículo 15-A.- Quince A.\n\nArtículo 17.- Diecisiete.\n\nTRANSITORIOS\n\nPRIMERO.- Entrará en vigor.\n";
 
     fn validate_gapped(expectations: &crate::CorpusExpectations) -> lex_core::ValidationReport {
+        validate_sample(GAPPED_CODIGO, expectations)
+    }
+
+    fn validate_sample(
+        text: &str,
+        expectations: &crate::CorpusExpectations,
+    ) -> lex_core::ValidationReport {
+        validate_sample_with(text, expectations, |_| {})
+    }
+
+    fn validate_sample_with(
+        text: &str,
+        expectations: &crate::CorpusExpectations,
+        reorder: impl FnOnce(&mut Vec<lex_core::Provision>),
+    ) -> lex_core::ValidationReport {
         let date = NaiveDate::from_ymd_opt(1981, 12, 31).unwrap();
         let options = DiputadosOptions {
             instrument_id: "urn:lex-mx:federal:code:sample".to_owned(),
@@ -3795,7 +3823,8 @@ mod tests {
             separate_enactment: false,
             nested_instrument: None,
         };
-        let document = parse_diputados(GAPPED_CODIGO, &options, date).unwrap();
+        let mut document = parse_diputados(text, &options, date).unwrap();
+        reorder(&mut document.provisions);
         crate::validate_corpus(
             &crate::CorpusView {
                 instrument_id: "urn:lex-mx:federal:code:sample",
@@ -3843,6 +3872,56 @@ mod tests {
                 .iter()
                 .any(|issue| issue.code == "non_numeric_article"),
             "suffixed articles are first-class under the label grammar"
+        );
+    }
+
+    #[test]
+    fn strict_ordering_checks_suffixes_by_sort_key() {
+        let strict = |articles| crate::CorpusExpectations {
+            min_articles: None,
+            articles: Some(articles),
+            transitories: Some(1),
+            annexes: 0,
+            require_chapter_context: false,
+            allow_article_gaps: false,
+        };
+        let text = |body: &str| {
+            format!("CÓDIGO DE MUESTRA\n\n{body}\n\nTRANSITORIOS\n\nPRIMERO.- Entrará en vigor.\n")
+        };
+        let ordered = validate_sample(
+            &text("Artículo 1.- Uno.\n\nArtículo 1-A.- Uno A.\n\nArtículo 2.- Dos."),
+            &strict(3),
+        );
+        assert!(ordered.valid, "{:?}", ordered.issues);
+        assert!(
+            ordered
+                .issues
+                .iter()
+                .all(|i| i.code != "non_numeric_article" && i.code != "suffix_order")
+        );
+        // Same-base suffixes out of order warn; they do not fail the report.
+        let swapped = validate_sample(
+            &text(
+                "Artículo 1.- Uno.\n\nArtículo 1-B.- Uno B.\n\nArtículo 1-A.- Uno A.\n\nArtículo 2.- Dos.",
+            ),
+            &strict(4),
+        );
+        assert!(
+            swapped.issues.iter().any(|i| i.code == "suffix_order"),
+            "{:?}",
+            swapped.issues
+        );
+        // A suffixed article whose base runs backwards is an error. The
+        // parser never emits this order, so reorder the parsed provisions.
+        let backwards = validate_sample_with(
+            &text("Artículo 1.- Uno.\n\nArtículo 1-A.- Uno A.\n\nArtículo 2.- Dos."),
+            &strict(3),
+            |provisions| provisions.swap(1, 2),
+        );
+        assert!(
+            backwards.issues.iter().any(|i| i.code == "article_order"),
+            "{:?}",
+            backwards.issues
         );
     }
 
