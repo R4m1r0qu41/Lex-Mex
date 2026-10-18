@@ -881,6 +881,27 @@ pub enum ReferenceForm {
     Relative,
 }
 
+/// How the linker chose a reference edge's target instrument and provision.
+/// Recorded so a consumer can weigh an inferred target (a bare `la Ley`
+/// resolved to a regulation's parent, a position-relative citation) against
+/// one the text names. Absent on edges written before the field existed.
+#[derive(Debug, Clone, Copy, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum ResolutionRule {
+    /// No instrument named; the citing instrument is assumed.
+    OwnInstrumentDefault,
+    /// An explicit self marker (`de esta Ley`, `del presente Reglamento`).
+    OwnInstrumentMarker,
+    /// A configured instrument name, alias or official title in the text.
+    NamedInstrument,
+    /// A bare `la Ley` / `el Código` resolved to the adapter's parent law.
+    ParentShorthand,
+    /// A fraction cited without an article number, inside its own article.
+    SameArticle,
+    /// `artículo anterior` / `artículo siguiente`, resolved by document order.
+    RelativePosition,
+}
+
 /// Opt-in source-backed boundaries after deterministic block normalization.
 /// Markers match block prefixes exactly and must occur once in the source.
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -1040,6 +1061,8 @@ pub struct ReferenceEdge {
     pub outdated_reference_approval: Option<OutdatedReferenceApproval>,
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub legal_operator_review: Option<LegalOperatorReview>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub resolution_rule: Option<ResolutionRule>,
 }
 
 /// A term expressly defined by a glossary provision, anchored to the exact

@@ -17,7 +17,7 @@ source_sha256: 94e9c11b4c7f2b192eb33fb17818bea89d6d0bc5a85c85f6b08754fd6b2f6143
 
 # Artículo 22
 
-1. Las resoluciones o sentencias que pronuncien, respectivamente, el Instituto Nacional Electoral o el Tribunal Electoral del Poder Judicial de la Federación, además de cumplir con lo dispuesto por el artículo [2](articulo-2.md), párrafo [7](articulo-7.md), de esta Ley, deben hacerlas constar por escrito, las cuales deben contener:
+1. Las resoluciones o sentencias que pronuncien, respectivamente, el Instituto Nacional Electoral o el Tribunal Electoral del Poder Judicial de la Federación, además de cumplir con lo dispuesto por el artículo [2](articulo-2.md), párrafo 7, de esta Ley, deben hacerlas constar por escrito, las cuales deben contener:
 
 a) La fecha, el lugar y el órgano o Sala que la dicta;
 

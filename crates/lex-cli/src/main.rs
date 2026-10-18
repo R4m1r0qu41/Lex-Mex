@@ -3130,9 +3130,15 @@ fn protected_edge_drift(corpus: &Corpus, proposal: &LinkedGraph) -> Vec<String> 
             ) || edge.outdated_reference_approval.is_some()
         })
         .filter(|edge| {
-            proposed
-                .get(edge.id.as_str())
-                .is_none_or(|new| serde_json::to_value(new).ok() != serde_json::to_value(edge).ok())
+            proposed.get(edge.id.as_str()).is_none_or(|new| {
+                // Recording the resolution rule on an edge written before the
+                // field existed is provenance, not a change to the decision.
+                let mut new = (*new).clone();
+                if edge.resolution_rule.is_none() {
+                    new.resolution_rule = None;
+                }
+                serde_json::to_value(&new).ok() != serde_json::to_value(edge).ok()
+            })
         })
         .map(|edge| {
             format!(
@@ -3164,7 +3170,7 @@ fn validate_loaded(
     term_ids: &HashSet<String>,
 ) -> lex_core::ValidationReport {
     let config = &context.config;
-    validate_corpus(
+    let mut report = validate_corpus(
         &CorpusView {
             instrument_id: &corpus.instrument.id,
             official_title: Some(corpus.instrument.official_title.as_str()),
@@ -3184,7 +3190,34 @@ fn validate_loaded(
         },
         provision_ids,
         term_ids,
-    )
+    );
+    append_parent_rule_issues(&mut report, config, &proposal.references);
+    report
+}
+
+/// A `parent_shorthand` edge must target the adapter's recorded parent law;
+/// the linker never infers a parent, so any other target is a defect.
+fn append_parent_rule_issues(
+    report: &mut lex_core::ValidationReport,
+    config: &SourceConfig,
+    references: &[lex_core::ReferenceEdge],
+) {
+    for edge in references {
+        if edge.resolution_rule == Some(lex_core::ResolutionRule::ParentShorthand)
+            && config.parent_instrument_id.as_deref() != Some(edge.target_instrument_id.as_str())
+        {
+            report.issues.push(lex_core::ValidationIssue {
+                severity: lex_core::Severity::Error,
+                code: "resolution_rule_inconsistent".to_owned(),
+                message: format!(
+                    "parent-shorthand edge does not target the adapter parent: {}",
+                    edge.id
+                ),
+                provision_id: Some(edge.source_provision_id.clone()),
+            });
+            report.valid = false;
+        }
+    }
 }
 
 fn validation_errors(report: &lex_core::ValidationReport) -> Vec<String> {
@@ -3911,7 +3944,7 @@ fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::Va
         external_targets.extend(sibling.provisions.iter().map(|item| item.id.clone()));
         external_terms.extend(sibling.terms.iter().map(|term| term.id.clone()));
     }
-    let report = validate_corpus(
+    let mut report = validate_corpus(
         &CorpusView {
             instrument_id: &corpus.instrument.id,
             official_title: Some(corpus.instrument.official_title.as_str()),
@@ -3932,6 +3965,7 @@ fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::Va
         &external_targets,
         &external_terms,
     );
+    append_parent_rule_issues(&mut report, config, &corpus.references);
     write_validation(&report, &paths.corpus)?;
     println!(
         "validation: {}; {} articles, {} transitories, {} references, {} issues",
@@ -4989,6 +5023,7 @@ mod tests {
             reference_form: lex_core::ReferenceForm::Direct,
             outdated_reference_approval: Some(approval.clone()),
             legal_operator_review: None,
+            resolution_rule: None,
         });
         write_canonical(&corpus, &context.paths.corpus).unwrap();
         assert!(preserve_intake_decisions(&context).is_err());
@@ -5131,6 +5166,7 @@ mod tests {
             reference_form: lex_core::ReferenceForm::Direct,
             outdated_reference_approval: None,
             legal_operator_review: None,
+            resolution_rule: None,
         };
         let corpus_with = |references: Vec<lex_core::ReferenceEdge>| Corpus {
             instrument: sample_closure_instrument(),
@@ -5152,6 +5188,17 @@ mod tests {
         };
         let corpus = corpus_with(vec![historical.clone()]);
         assert!(protected_edge_drift(&corpus, &graph(vec![historical.clone()])).is_empty());
+        // Recording a resolution rule on a protected edge that predates the
+        // field is allowed; changing an already recorded rule is not.
+        let mut with_rule = historical.clone();
+        with_rule.resolution_rule = Some(lex_core::ResolutionRule::NamedInstrument);
+        assert!(protected_edge_drift(&corpus, &graph(vec![with_rule.clone()])).is_empty());
+        let mut other_rule = with_rule.clone();
+        other_rule.resolution_rule = Some(lex_core::ResolutionRule::ParentShorthand);
+        assert_eq!(
+            protected_edge_drift(&corpus_with(vec![with_rule]), &graph(vec![other_rule])).len(),
+            1
+        );
         let retargeted = edge(
             ReferenceResolutionStatus::Resolved,
             "urn:lex-mx:federal:statute:lraf",
@@ -5349,6 +5396,7 @@ mod tests {
             reference_form: lex_core::ReferenceForm::Direct,
             outdated_reference_approval: None,
             legal_operator_review: None,
+            resolution_rule: None,
         });
         write_canonical(&protected, &context.paths.corpus).unwrap();
         let persisted = fs::read(&context.paths.references).unwrap();

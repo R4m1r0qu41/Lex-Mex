@@ -35,4 +35,4 @@ f) Cerrada la instrucción, la persona titular de la magistratura electoral debe
 
 2. La no aportación de las pruebas ofrecidas, en ningún supuesto será motivo para desechar el medio de impugnación o para tener por no presentado el escrito del tercero interesado. En todo caso, la Sala resolverá con los elementos que obren en autos.
 
-3. Las reglas anteriores no aplican al recurso de revisión administrativa previsto en el artículo [3](articulo-3.md), párrafo [2](articulo-2.md), inciso a, de esta Ley, el cual se regirá en los términos señalados en el Libro Segundo, Título Primero del Recurso de Revisión Administrativa de este ordenamiento.
+3. Las reglas anteriores no aplican al recurso de revisión administrativa previsto en el artículo [3](articulo-3.md), párrafo 2, inciso a, de esta Ley, el cual se regirá en los términos señalados en el Libro Segundo, Título Primero del Recurso de Revisión Administrativa de este ordenamiento.

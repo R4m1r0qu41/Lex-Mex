@@ -11,7 +11,8 @@ use chrono::NaiveDate;
 use lex_core::{
     Basis, DefinedTerm, LRITF_INSTRUMENT_ID, Provision, ProvisionType, ReferenceEdge,
     ReferenceForm, ReferenceQualifier, ReferenceQualifierType, ReferenceResolutionStatus,
-    SCHEMA_VERSION, Severity, TemporalEvidence, TermUsage, ValidationIssue, ValidationReport,
+    ResolutionRule, SCHEMA_VERSION, Severity, TemporalEvidence, TermUsage, ValidationIssue,
+    ValidationReport,
 };
 use regex::Regex;
 
@@ -576,14 +577,17 @@ fn extract_relative_references(
             continue;
         };
         let qualifiers = pre_number_qualifiers(source.text, phrase.start(), patterns);
-        references.push(reference_edge(
-            source,
-            phrase.as_str(),
-            phrase.start()..phrase.end(),
-            target.to_owned(),
-            qualifiers,
-            ReferenceForm::Relative,
-            reference_resolution_status(target, known_targets, false),
+        references.push(with_rule(
+            reference_edge(
+                source,
+                phrase.as_str(),
+                phrase.start()..phrase.end(),
+                target.to_owned(),
+                qualifiers,
+                ReferenceForm::Relative,
+                reference_resolution_status(target, known_targets, false),
+            ),
+            ResolutionRule::RelativePosition,
         ));
     }
     references
@@ -625,7 +629,7 @@ fn extract_reference_group(
         }
     });
     let max_marker_start = last_end.map_or(usize::MAX, |end| end + MARKER_LOOKAHEAD_CHARS);
-    let mut via_parent_shorthand = false;
+    let mut rule = ResolutionRule::OwnInstrumentDefault;
     let target_instrument_id = match group_target(
         &group[..context_end],
         max_marker_start,
@@ -633,9 +637,12 @@ fn extract_reference_group(
         options.parent_instrument.as_deref(),
     ) {
         GroupTarget::Internal => source.instrument_id,
-        GroupTarget::External(instrument_id) => instrument_id,
+        GroupTarget::External(instrument_id) => {
+            rule = ResolutionRule::NamedInstrument;
+            instrument_id
+        }
         GroupTarget::Parent(instrument_id) => {
-            via_parent_shorthand = true;
+            rule = ResolutionRule::ParentShorthand;
             instrument_id
         }
         GroupTarget::Skip => return Vec::new(),
@@ -661,7 +668,7 @@ fn extract_reference_group(
         known_targets,
         historical,
     ));
-    if via_parent_shorthand {
+    if rule == ResolutionRule::ParentShorthand {
         // A parent-shorthand citation is emitted only when its target
         // exists; a miss (renumbered or repealed parent article) is not an
         // edge and not a rejection.
@@ -670,17 +677,25 @@ fn extract_reference_group(
     let explicit_end = last_end.map_or(group.len(), |end| {
         end + instrument_context_boundary(&group[end..])
     });
-    retain_internal_candidates(
-        &mut references,
+    let explicit = explicit_internal_context(
+        &group[..explicit_end],
+        max_marker_start,
+        &options.policy,
         source.instrument_id,
-        explicit_internal_context(
-            &group[..explicit_end],
-            max_marker_start,
-            &options.policy,
-            source.instrument_id,
-        ),
     );
+    if rule == ResolutionRule::OwnInstrumentDefault && explicit {
+        rule = ResolutionRule::OwnInstrumentMarker;
+    }
+    retain_internal_candidates(&mut references, source.instrument_id, explicit);
+    for edge in &mut references {
+        edge.resolution_rule = Some(rule);
+    }
     references
+}
+
+fn with_rule(mut edge: ReferenceEdge, rule: ResolutionRule) -> ReferenceEdge {
+    edge.resolution_rule = Some(rule);
+    edge
 }
 
 /// Unclassified missing internal candidates are often unresolved external
@@ -1009,10 +1024,24 @@ fn extract_transitory_citations(
         let citation_end = captures.get(0).expect("citation match").end();
         let context = &source.text[citation_end..];
         let context = &context[..qualifier_boundary(context)];
-        let target_instrument_id =
+        let (target_instrument_id, rule) =
             match group_target(context, MARKER_LOOKAHEAD_CHARS, &options.policy, None) {
-                GroupTarget::Internal => source.instrument_id,
-                GroupTarget::External(instrument_id) => instrument_id,
+                GroupTarget::Internal => (
+                    source.instrument_id,
+                    if explicit_internal_context(
+                        context,
+                        MARKER_LOOKAHEAD_CHARS,
+                        &options.policy,
+                        source.instrument_id,
+                    ) {
+                        ResolutionRule::OwnInstrumentMarker
+                    } else {
+                        ResolutionRule::OwnInstrumentDefault
+                    },
+                ),
+                GroupTarget::External(instrument_id) => {
+                    (instrument_id, ResolutionRule::NamedInstrument)
+                }
                 GroupTarget::Parent(_) | GroupTarget::Skip => continue,
             };
         let (target_instrument_id, historical_target_unavailable) =
@@ -1037,14 +1066,17 @@ fn extract_transitory_citations(
         {
             continue;
         }
-        references.push(reference_edge(
-            source,
-            &source.text[ordinal.start()..citation_end],
-            ordinal.start()..citation_end,
-            target_provision_id,
-            Vec::new(),
-            ReferenceForm::Direct,
-            resolution_status,
+        references.push(with_rule(
+            reference_edge(
+                source,
+                &source.text[ordinal.start()..citation_end],
+                ordinal.start()..citation_end,
+                target_provision_id,
+                Vec::new(),
+                ReferenceForm::Direct,
+                resolution_status,
+            ),
+            rule,
         ));
     }
     references
@@ -1246,6 +1278,7 @@ fn reference_edge(
         reference_form,
         outdated_reference_approval: None,
         legal_operator_review: None,
+        resolution_rule: None,
     }
 }
 
@@ -1710,19 +1743,22 @@ fn extract_same_article_fractions(
             }
             let byte_start = numerals.start() + numeral.start();
             let byte_end = numerals.start() + numeral.end();
-            references.push(reference_edge(
-                source,
-                numeral.as_str(),
-                byte_start..byte_end,
-                source.source_id.to_owned(),
-                vec![anchored_qualifier(
-                    source.text,
-                    byte_start,
+            references.push(with_rule(
+                reference_edge(
+                    source,
                     numeral.as_str(),
-                    ReferenceQualifierType::Fraction,
-                )],
-                ReferenceForm::Direct,
-                reference_resolution_status(source.source_id, known_targets, false),
+                    byte_start..byte_end,
+                    source.source_id.to_owned(),
+                    vec![anchored_qualifier(
+                        source.text,
+                        byte_start,
+                        numeral.as_str(),
+                        ReferenceQualifierType::Fraction,
+                    )],
+                    ReferenceForm::Direct,
+                    reference_resolution_status(source.source_id, known_targets, false),
+                ),
+                ResolutionRule::SameArticle,
             ));
         }
     }
@@ -2437,6 +2473,15 @@ fn validate_reference(
             Some(reference.source_provision_id.clone()),
         ));
     }
+    if let Some(rule) = reference.resolution_rule
+        && !resolution_rule_consistent(instrument_id, reference, rule)
+    {
+        issues.push(error(
+            "resolution_rule_inconsistent",
+            format!("resolution rule {rule:?} does not fit this edge"),
+            Some(reference.source_provision_id.clone()),
+        ));
+    }
     validate_reference_target(
         instrument_id,
         reference,
@@ -2458,6 +2503,28 @@ fn validate_reference(
             Some(reference.source_provision_id.clone()),
         ));
     }
+}
+
+/// The rule must fit the edge: own-instrument, same-article and relative
+/// rules stay inside the citing instrument; only a relative rule carries the
+/// relative form; a same-article fraction targets its own provision.
+fn resolution_rule_consistent(
+    instrument_id: &str,
+    reference: &ReferenceEdge,
+    rule: ResolutionRule,
+) -> bool {
+    let own_target = reference.target_instrument_id == instrument_id;
+    let relative_form = reference.reference_form == ReferenceForm::Relative;
+    (rule == ResolutionRule::RelativePosition) == relative_form
+        && match rule {
+            ResolutionRule::OwnInstrumentDefault
+            | ResolutionRule::OwnInstrumentMarker
+            | ResolutionRule::RelativePosition => own_target,
+            ResolutionRule::SameArticle => {
+                own_target && reference.target_provision_id == reference.source_provision_id
+            }
+            ResolutionRule::NamedInstrument | ResolutionRule::ParentShorthand => true,
+        }
 }
 
 fn validate_reference_span(
@@ -4371,6 +4438,91 @@ mod tests {
     }
 
     #[test]
+    fn each_edge_records_how_its_target_was_chosen() {
+        let known = [
+            "urn:lex-mx:federal:statute:lan:article:10",
+            "urn:lex-mx:federal:statute:lfpa:article:66",
+            "urn:lex-mx:federal:regulation:reg-lan:article:1",
+            "urn:lex-mx:federal:regulation:reg-lan:article:5",
+        ];
+        let rule_for = |text: &str, target: &str| {
+            parent_edges(text, &known)
+                .into_iter()
+                .find(|edge| edge.target_provision_id == target)
+                .and_then(|edge| edge.resolution_rule)
+        };
+        assert_eq!(
+            rule_for("Se aplicará el artículo 10 de la Ley.", known[0]),
+            Some(lex_core::ResolutionRule::ParentShorthand)
+        );
+        assert_eq!(
+            rule_for(
+                "Se aplicará el artículo 66 de la Ley Federal de Procedimiento Administrativo.",
+                known[1]
+            ),
+            Some(lex_core::ResolutionRule::NamedInstrument)
+        );
+        assert_eq!(
+            rule_for("Se aplicará el artículo 5 de este Reglamento.", known[3]),
+            Some(lex_core::ResolutionRule::OwnInstrumentMarker)
+        );
+        assert_eq!(
+            rule_for("Se aplicará el artículo 5.", known[3]),
+            Some(lex_core::ResolutionRule::OwnInstrumentDefault)
+        );
+    }
+
+    #[test]
+    fn validation_rejects_a_resolution_rule_that_does_not_fit_the_edge() {
+        let known = ["urn:lex-mx:federal:statute:lan:article:10"];
+        let edge = parent_edges("Se aplicará el artículo 10 de la Ley.", &known)
+            .into_iter()
+            .next()
+            .unwrap();
+        let document = parse_diputados(
+            "Artículo 1.- Se aplicará el artículo 10 de la Ley.",
+            &DiputadosOptions {
+                instrument_id: REG_LAN.to_owned(),
+                header_lines: Vec::new(),
+                stop_markers: Vec::new(),
+                annex_markers: Vec::new(),
+                separate_enactment: false,
+                nested_instrument: None,
+            },
+            NaiveDate::from_ymd_opt(2002, 1, 15).unwrap(),
+        )
+        .unwrap();
+        let issues_for = |candidate: &lex_core::ReferenceEdge| {
+            let mut issues = Vec::new();
+            super::validate_references(
+                REG_LAN,
+                None,
+                &document.provisions,
+                std::slice::from_ref(candidate),
+                &known.iter().map(|id| (*id).to_owned()).collect(),
+                &mut issues,
+            );
+            issues
+                .iter()
+                .filter(|i| i.code == "resolution_rule_inconsistent")
+                .count()
+        };
+        // An own-instrument or relative rule on a cross-instrument edge fails;
+        // the edge's own rule and a missing (legacy) rule pass this check.
+        for (rule, expected) in [
+            (Some(lex_core::ResolutionRule::ParentShorthand), 0),
+            (None, 0),
+            (Some(lex_core::ResolutionRule::OwnInstrumentDefault), 1),
+            (Some(lex_core::ResolutionRule::RelativePosition), 1),
+            (Some(lex_core::ResolutionRule::SameArticle), 1),
+        ] {
+            let mut candidate = edge.clone();
+            candidate.resolution_rule = rule;
+            assert_eq!(issues_for(&candidate), expected, "{rule:?}");
+        }
+    }
+
+    #[test]
     fn a_configured_full_title_outranks_its_bare_parent_prefix() {
         let known = [
             "urn:lex-mx:federal:statute:lan:article:1",
@@ -4604,6 +4756,9 @@ mod tests {
         references.retain(|edge| edge.source_provision_id == provisions[1].id);
         references[0].target_provision_id = format!("{CPEUM_ID}:article:1");
         references[0].target_instrument_id = LOCG_ID.to_owned();
+        // A hand-retargeted edge no longer fits its own-instrument rule; this
+        // test concerns target ownership, so treat it as a legacy edge.
+        references[0].resolution_rule = None;
         let external_targets = HashSet::from([references[0].target_provision_id.clone()]);
         let expectations = CorpusExpectations {
             articles: Some(4),

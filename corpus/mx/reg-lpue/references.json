@@ -12,7 +12,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -34,7 +35,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -56,7 +58,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -71,7 +74,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -86,7 +90,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -108,7 +113,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -123,7 +129,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "named_instrument"
   },
   {
     "schema_version": "0.1.0",
@@ -138,7 +145,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "relative"
+    "reference_form": "relative",
+    "resolution_rule": "relative_position"
   },
   {
     "schema_version": "0.1.0",
@@ -153,7 +161,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "named_instrument"
   },
   {
     "schema_version": "0.1.0",
@@ -168,7 +177,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -183,7 +193,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -198,7 +209,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "own_instrument_marker"
   },
   {
     "schema_version": "0.1.0",
@@ -213,7 +225,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "own_instrument_marker"
   },
   {
     "schema_version": "0.1.0",
@@ -228,7 +241,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "own_instrument_marker"
   },
   {
     "schema_version": "0.1.0",
@@ -243,7 +257,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "relative"
+    "reference_form": "relative",
+    "resolution_rule": "relative_position"
   },
   {
     "schema_version": "0.1.0",
@@ -258,7 +273,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "named_instrument"
   },
   {
     "schema_version": "0.1.0",
@@ -273,7 +289,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -288,7 +305,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -310,7 +328,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -325,7 +344,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -340,7 +360,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -355,7 +376,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -370,7 +392,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -385,7 +408,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "own_instrument_marker"
   },
   {
     "schema_version": "0.1.0",
@@ -400,7 +424,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -415,7 +440,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -430,7 +456,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -445,7 +472,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "own_instrument_marker"
   },
   {
     "schema_version": "0.1.0",
@@ -467,7 +495,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -482,7 +511,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -504,7 +534,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "named_instrument"
   },
   {
     "schema_version": "0.1.0",
@@ -519,7 +550,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -534,7 +566,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "own_instrument_marker"
   },
   {
     "schema_version": "0.1.0",
@@ -549,7 +582,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "own_instrument_marker"
   },
   {
     "schema_version": "0.1.0",
@@ -564,7 +598,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -579,7 +614,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "relative"
+    "reference_form": "relative",
+    "resolution_rule": "relative_position"
   },
   {
     "schema_version": "0.1.0",
@@ -594,7 +630,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -609,7 +646,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "relative"
+    "reference_form": "relative",
+    "resolution_rule": "relative_position"
   },
   {
     "schema_version": "0.1.0",
@@ -624,7 +662,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "own_instrument_marker"
   },
   {
     "schema_version": "0.1.0",
@@ -639,7 +678,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -654,7 +694,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "named_instrument"
   },
   {
     "schema_version": "0.1.0",
@@ -676,7 +717,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "same_article"
   },
   {
     "schema_version": "0.1.0",
@@ -691,7 +733,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   },
   {
     "schema_version": "0.1.0",
@@ -713,7 +756,8 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "same_article"
   },
   {
     "schema_version": "0.1.0",
@@ -728,6 +772,7 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "direct"
+    "reference_form": "direct",
+    "resolution_rule": "parent_shorthand"
   }
 ]

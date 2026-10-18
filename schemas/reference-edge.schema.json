@@ -120,6 +120,18 @@
         "relative"
       ]
     },
+    "resolution_rule": {
+      "description": "How the linker chose the target. Absent on edges written before the field existed.",
+      "type": "string",
+      "enum": [
+        "own_instrument_default",
+        "own_instrument_marker",
+        "named_instrument",
+        "parent_shorthand",
+        "same_article",
+        "relative_position"
+      ]
+    },
     "outdated_reference_approval": {
       "type": "object",
       "additionalProperties": false,

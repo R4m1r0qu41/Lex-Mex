@@ -473,5 +473,7 @@ Rust/schema contracts, the cleared pre-database review and primary SQLite docs.
 Census independently checked. No Rust, dependency, canonical-data or database
 file changed. The operator's two suggestion files remain untouched/untracked.
 
-Exactly one next action: land the `resolution_rule` linker change on `main`;
-then, on the operator's go, create the database worktree and start M1.
+`resolution_rule` landed (see `docs/decisions.md`).
+
+Exactly one next action: on the operator's go, create the database worktree
+and start M1.

@@ -19,6 +19,7 @@
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
-    "reference_form": "relative"
+    "reference_form": "relative",
+    "resolution_rule": "relative_position"
   }
 ]

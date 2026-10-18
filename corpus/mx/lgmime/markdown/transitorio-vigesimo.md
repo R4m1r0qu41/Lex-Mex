@@ -15,4 +15,4 @@ source_sha256: 94e9c11b4c7f2b192eb33fb17818bea89d6d0bc5a85c85f6b08754fd6b2f6143
 
 # Vigésimo
 
-Los Organismos Públicos Locales realizarán las adecuaciones de sus estructuras orgánicas para establecer la estructura ocupacional mínima señalada en el artículo [99](../../lgipe/markdown/articulo-99.md), párrafos [3](../../lgipe/markdown/articulo-3.md) y [4](../../lgipe/markdown/articulo-4.md) de la reforma a la Ley General de Instituciones y Procedimientos Electorales contenida en el presente Decreto, antes de noventa días del inicio del proceso electoral local de 2023-2024.
+Los Organismos Públicos Locales realizarán las adecuaciones de sus estructuras orgánicas para establecer la estructura ocupacional mínima señalada en el artículo [99](../../lgipe/markdown/articulo-99.md), párrafos 3 y 4 de la reforma a la Ley General de Instituciones y Procedimientos Electorales contenida en el presente Decreto, antes de noventa días del inicio del proceso electoral local de 2023-2024.

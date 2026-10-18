@@ -1373,6 +1373,7 @@ mod tests {
             reference_form: ReferenceForm::Direct,
             outdated_reference_approval: None,
             legal_operator_review: None,
+            resolution_rule: None,
         }
     }
 
