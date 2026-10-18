@@ -25,17 +25,17 @@ import re
 import subprocess
 import sys
 
-DETECTOR_VERSION = 'embedded-article-headings-v1'
+DETECTOR_VERSION = 'embedded-article-headings-v2'
 # Latin qualifiers seen in federal headings. `GRAMMAR_QUALIFIERS` mirrors
 # `QUALIFIERS` in crates/lex-parse/src/labels.rs; any other qualifier is
 # outside the current label grammar.
-GRAMMAR_QUALIFIERS = {'bis', 'ter', 'quáter', 'quater', 'quinquies', 'quintus', 'sexies', 'septies', 'octies', 'nonies'}
-OTHER_QUALIFIERS = [
-    'quintes', 'sextus', 'sexties', 'sexíes', 'septimus', 'séptimus', 'octavus', 'novenus',
-    'decies', 'undecies', 'duodecies', 'terdecies', 'quaterdecies', 'quinquiesdecies',
-    'sexiesdecies', 'septdecies', 'septiesdecies', 'octodecies', 'octiesdecies', 'novodecies',
-    'noniesdecies', 'vicies',
-]
+GRAMMAR_QUALIFIERS = {
+    'bis', 'ter', 'quáter', 'quater', 'quinquies', 'quintus', 'quintes', 'sexies', 'sextus',
+    'sexties', 'sexíes', 'septies', 'septimus', 'séptimus', 'octies', 'octavus', 'nonies',
+    'novenus', 'decies', 'undecies', 'duodecies', 'terdecies', 'quaterdecies',
+    'quinquiesdecies', 'sexiesdecies', 'septdecies', 'octodecies', 'novodecies',
+}
+OTHER_QUALIFIERS = ['septiesdecies', 'octiesdecies', 'noniesdecies', 'vicies']
 QUALIFIER = '|'.join(sorted(GRAMMAR_QUALIFIERS | set(OTHER_QUALIFIERS), key=len, reverse=True))
 LETTER = r'(?:CH|LL|RR|[A-ZÑÁÉÍÓÚ])(?![A-Za-zÁÉÍÓÚáéíóúÑñ])'
 HEADING = re.compile(

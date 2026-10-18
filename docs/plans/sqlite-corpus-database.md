@@ -318,9 +318,10 @@ Qualifications combine (LIC 112 Quintus has both a debt candidate and the
 **Golden queries** (expected answers taken from cases the operator has
 reviewed; each is an M3 acceptance fixture):
 
-1. `reg-lan` articles 153 and 188 cite LAN article 122, rule
-   `parent_shorthand` (pinned edge IDs in the M1 decisions; no stored edge
-   comes from `reg-lan` article 122 — operator to confirm the reviewed case).
+1. Every `reg-lan` `parent_shorthand` edge (126 at this baseline) targets LAN:
+   the definition in `reg-lan` article 1 makes every bare `la Ley` the Ley de
+   Aguas Nacionales (operator, 2026-10-17); examples are articles 153 and 188
+   citing LAN article 122.
 2. `lic`'s citation of LFCE article 31 bis is approved-outdated (rule
    `named_instrument`) and carries the legal operator note naming the current
    article 3 fracción IX; the database never retargets it.
@@ -411,8 +412,9 @@ M1 also measures the storage layout (item 4 above) and records the projected
 size, and fixes the `known_structural_debt` and reproducibility seed sources.
 Settled 2026-10-17 in the
 [M1 contract decisions](../sqlite-m1-contract-decisions-2026-10-17.md):
-extras-only layout, seed contract with 117 unreviewed candidates awaiting
-operator class review, three-outcome lookup and view-supplied `not_assessed`.
+extras-only layout, seed contract and reviewed seed (77 accepted, 27 rejected
+as legally removed placeholders, 10 deferred to the DCG pass, 3 unreviewed),
+three-outcome lookup and view-supplied `not_assessed`.
 
 Acceptance: every present canonical field/file has a preservation mapping;
 title anchors, missing historical targets, absent metadata, annex provisions,
@@ -481,6 +483,15 @@ Acceptance and stop condition:
 
 ## Current checkpoint and next action
 
+2026-10-17 (operator rulings): Latin ordinals beyond `Nonies` are the same
+numbering series; the label grammar now ranks them (`fe4a53f1e` on `main`,
+full native gate passed, this branch rebased). The candidate classes are
+reviewed: 77 accepted, 27 rejected (legally removed placeholders), 10 deferred
+to the DCG pass, and 3 LFTR bracketed-body rows still unreviewed. G1 now rests
+on the `reg-lan` article 1 definition of "Ley". Open, not blocking: 23 stored
+false self-link edges from embedded headings, the `cpf`/`lmv` stale-reference
+contradiction, and the missing `reg-lan` definition term.
+
 2026-10-17 (M1 contract, `db/sqlite-projection`): the three review details
 are settled in the
 [M1 contract decisions](../sqlite-m1-contract-decisions-2026-10-17.md).
@@ -513,7 +524,6 @@ file changed. The operator's two suggestion files remain untouched/untracked.
 
 `resolution_rule` landed (see `docs/decisions.md`).
 
-Exactly one next action: operator reviews the four structural-debt candidate
-classes (and confirms G1); M1 implementation then continues with manifest and
-seed types/schemas, DDL under the settled contract, an adversarial fixture and
-feature probes.
+Exactly one next action: continue M1 implementation — manifest and seed
+types/schemas (promoting the accepted review rows), DDL under the settled
+contract, an adversarial fixture and feature probes.
